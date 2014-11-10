@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="zh_TW">
+<TS version="2.0">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>素材</translation>
     </message>
     <message>
         <source>shape</source>
-        <translation type="unfinished"></translation>
+        <translation>形狀</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditGallery</name>
     <message>
         <source>Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>標題:</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>目錄:</translation>
     </message>
     <message>
         <source>EditGallery</source>
@@ -29,31 +29,31 @@
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>來源:</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>標籤:</translation>
     </message>
     <message>
         <source>Less:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>More:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>附註:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>確定</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
@@ -61,22 +61,22 @@
     </message>
     <message>
         <source>Edit Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯素材屬性</translation>
     </message>
     <message>
         <source>The most number of caption is 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>最多可輸入 5 個標籤，使用分號 (;) 分隔。</translation>
     </message>
 </context>
 <context>
     <name>KxEditGalleryDlg</name>
     <message>
         <source>Less</source>
-        <translation type="unfinished"></translation>
+        <translation>摺疊</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>展開</translation>
     </message>
 </context>
 <context>
@@ -95,22 +95,22 @@
     </message>
     <message>
         <source>\WPS Office\AppData\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>資料檔案</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>我的素材</translation>
     </message>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
     </message>
 </context>
 <context>
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 </TS>

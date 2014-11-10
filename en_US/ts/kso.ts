@@ -1879,11 +1879,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flowchart: Seqential Access Storage</source>
-        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Flowchart: Sort</source>
         <comment>DRAWINGSTR_FLOWCHARTSORT</comment>
         <translation type="unfinished"></translation>
@@ -2946,6 +2941,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Black Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4032,7 +4032,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
-You can add the customized paper %dmm×%dmm in printer properties and print it again.
+You can add the customized paper %dmm x %dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
         <translation type="unfinished"></translation>

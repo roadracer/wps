@@ -39,10 +39,6 @@
         <translation type="obsolete">&amp;Mehr Farbe</translation>
     </message>
     <message>
-        <source>&amp;More Colors...</source>
-        <translation>&amp;Mehr Farbe</translation>
-    </message>
-    <message>
         <source>&amp;Patterned Lines...</source>
         <translation>Gemusterte Linien...</translation>
     </message>
@@ -218,6 +214,10 @@
         <source>Yellow</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;More Colors...</source>
+        <translation>&amp;Mehr Farbe</translation>
+    </message>
 </context>
 <context>
     <name>KCommand</name>
@@ -240,10 +240,6 @@
 <context>
     <name>KDocTabbarEx</name>
     <message>
-        <source>&amp;Hide Quick Access Toolbar</source>
-        <translation>Sc&amp;hnellzugriff verstecken</translation>
-    </message>
-    <message>
         <source>&amp;Hide quick access</source>
         <translation type="obsolete">Sc&amp;hnellzugriff verstecken</translation>
     </message>
@@ -255,12 +251,68 @@
         <source>Customize Quick Access</source>
         <translation>Schnellzugriff anpassen</translation>
     </message>
+    <message>
+        <source>&amp;Hide Quick Access Toolbar</source>
+        <translation>Sc&amp;hnellzugriff verstecken</translation>
+    </message>
+</context>
+<context>
+    <name>KDocTabbarStickerCommand</name>
+    <message>
+        <source>Lock tabbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UnLock tabbar</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KDragMenuBar</name>
     <message>
         <source>Menu Bar</source>
         <translation type="obsolete">Menüleiste</translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageCloseButton</name>
+    <message>
+        <source>Clear Record from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageFixedButton</name>
+    <message>
+        <source>unfixed from list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>fixed to list</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageChooseDialog</name>
+    <message>
+        <source>&amp;Choose your language</source>
+        <translation type="obsolete">Wählen Sie Ihre Spra&amp;che</translation>
+    </message>
+    <message>
+        <source>&amp;Reset personal template</source>
+        <translation type="obsolete">Pe&amp;rsöhnliche-Vorlagen zurücksetzen</translation>
+    </message>
+    <message>
+        <source>Choose Language</source>
+        <translation type="obsolete">Sprache wählen</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation type="obsolete">Informationen</translation>
+    </message>
+    <message>
+        <source>Settings will be effected after application restarted.</source>
+        <translation type="obsolete">Einstellungen werden nach Neustart der Applikation wirksam.</translation>
     </message>
 </context>
 <context>
@@ -305,10 +357,6 @@
         <translation>&amp;Exit</translation>
     </message>
     <message>
-        <source>&amp;Restore</source>
-        <translation>Rückma&amp;ximieren</translation>
-    </message>
-    <message>
         <source>Ma&amp;ximize</source>
         <translation>Ma&amp;ximieren</translation>
     </message>
@@ -323,6 +371,38 @@
     <message>
         <source>Use System &amp;Title Bar</source>
         <translation>Benutze System &amp;Titelbar</translation>
+    </message>
+    <message>
+        <source>&amp;Restore</source>
+        <translation>Rückma&amp;ximieren</translation>
+    </message>
+</context>
+<context>
+    <name>KMemberUser</name>
+    <message>
+        <source>Bronze</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plate with silver</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Silver</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Platina</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -350,14 +430,6 @@
         <translation type="obsolete">Feststelltaste an.</translation>
     </message>
     <message>
-        <source>Caps Lock on.</source>
-        <translation>Feststelltaste an.</translation>
-    </message>
-    <message>
-        <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
-        <translation type="unfinished">Durch aktivierte Feststelltaste könnten Sie ein falsches Passwort eingeben.</translation>
-    </message>
-    <message>
         <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
         <translation type="obsolete">Durch aktivierte Feststelltaste könnten Sie ein falsches Passwort eingeben.</translation>
     </message>
@@ -370,12 +442,20 @@
         <translation type="obsolete">Sie können nicht aus dem Passwortfeld zu kopieren</translation>
     </message>
     <message>
-        <source>You cannot copy text from a password field.</source>
-        <translation>Sie können nicht aus dem Passwortfeld zu kopieren</translation>
+        <source>Caps Lock on.</source>
+        <translation>Feststelltaste an.</translation>
+    </message>
+    <message>
+        <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
+        <translation type="unfinished">Durch aktivierte Feststelltaste könnten Sie ein falsches Passwort eingeben.</translation>
     </message>
     <message>
         <source>You should press Caps Lock to turn it off before entering your password.</source>
         <translation>Bevor Sie Ihr Passwort eingeben, sollten Sie die &quot;Feststelltaste&quot; deaktivieren.</translation>
+    </message>
+    <message>
+        <source>You cannot copy text from a password field.</source>
+        <translation>Sie können nicht aus dem Passwortfeld zu kopieren</translation>
     </message>
 </context>
 <context>
@@ -392,10 +472,6 @@
         <translation>Von Schnellzug&amp;riff-Toolbar entfernen</translation>
     </message>
     <message>
-        <source>&amp;Show Quick Access Toolbar</source>
-        <translation>Zeige &amp;Schnellzugriff</translation>
-    </message>
-    <message>
         <source>&amp;Show quick access</source>
         <translation type="obsolete">Zeige &amp;Schnellzugriff</translation>
     </message>
@@ -403,15 +479,44 @@
         <source>More commands</source>
         <translation>Mehr Befehle</translation>
     </message>
+    <message>
+        <source>&amp;Show Quick Access Toolbar</source>
+        <translation>Zeige &amp;Schnellzugriff</translation>
+    </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
-        <source>Clear Pinned Files</source>
+        <source>Recent Documents: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear Unpinned Files</source>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can not find the file &quot;%1&quot;.
+the file may be renamed,deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpinned from List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Pinned Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -419,7 +524,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unpinned from List</source>
+        <source>Clear Unpinned Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -433,11 +550,11 @@
 <context>
     <name>KToolTipWidget</name>
     <message>
-        <source>Infotip</source>
+        <source>KToolTipWidget</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>KToolTipWidget</source>
+        <source>Infotip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -479,6 +596,18 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWPSCloudSetup</name>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly,
+please reinstall WPS Office!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -568,18 +697,6 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Record from List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete from List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>NumLock</source>
         <translation type="unfinished"></translation>
     </message>
@@ -592,19 +709,11 @@ multiple=multiple
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Overtype</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recent Documents: </source>
+        <source>Delete from List</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

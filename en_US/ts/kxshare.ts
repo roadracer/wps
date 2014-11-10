@@ -225,19 +225,15 @@
         <source>&amp;Colors:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Downloading the online font &quot;%1&quot;  failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Downloading the online font &quot;%1&quot;  succeeded.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -270,6 +266,14 @@
     </message>
     <message>
         <source>Click here to change your interface style.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DownLoad Online Fonts &quot;%1&quot; Successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -420,10 +424,6 @@
         <translation type="obsolete">The layout will take effect after restarting</translation>
     </message>
     <message>
-        <source>Restart Office to apply the layout.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch Interface</source>
         <translation type="obsolete">Switch UI</translation>
     </message>
@@ -448,7 +448,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The layout will take effect after restarting WPS Office.</source>
+        <source>about:blank</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>applying...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Layout will be changed at next start time</source>
+        <translation type="obsolete">Layout changes will take effect after restart.</translation>
+    </message>
+    <message>
+        <source>Restart WPS Office for layout setting to take effect</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -534,15 +546,7 @@
 <context>
     <name>KLanguageChooseDialog</name>
     <message>
-        <source>&amp;Install new language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Choose Language</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Language Installation Package</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -550,27 +554,54 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Install Language Package</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ZIP File (*.zip)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get &amp;More...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Follow system locale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Installation fails, make sure to install the complete package.</source>
+        <source>Settings will take effect after the application restarts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Settings will take effect after the application restarts.</source>
+        <source>Downloading %1...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing %1...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to open the credits page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local Language Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Language Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A network error occurred.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download language packs failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageDownloadDialog</name>
+    <message>
+        <source>Are you sure to cancel the download?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1560,6 +1591,13 @@
     </message>
 </context>
 <context>
+    <name>KxCustomRibbonEx_Menu</name>
+    <message>
+        <source>Customize menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxCustomRibbonEx_Tab</name>
     <message>
         <source>Custom Tab</source>
@@ -1775,14 +1813,6 @@
     <message>
         <source>Toolbar has been renamed.</source>
         <translation>Toolbar has been renamed.</translation>
-    </message>
-</context>
-<context>
-    <name>KxDevelopToolsTriggerCommand</name>
-    <message>
-        <source>To work with Developer tab (including Macros, Control
-Toolbox), please purchase WPS Office Professional.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2509,6 +2539,65 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgMailFeedBack</name>
+    <message>
+        <source>Phone*:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E-Mail*:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Problem types:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot find functions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not know how to use the function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compatible problems with other software</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office operating process not smoothly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Problems of secondly development</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other problems</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suggestions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Files to reproduce the problem (Files will be properly kept.) </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Attachment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgNewTemplate</name>
     <message>
         <source>Set as &amp;Default Template</source>
@@ -2620,10 +2709,6 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Recent File Management</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select &amp;All</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2797,6 +2882,21 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <source>&amp;Encryption...</source>
         <comment>Encrypt button tab in filedialog</comment>
         <translation>Encryption...</translation>
+    </message>
+</context>
+<context>
+    <name>KxFileItemWidget</name>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3305,10 +3405,106 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
 </context>
 <context>
-    <name>KxMacroListCommand</name>
+    <name>KxMailFeedBackDlg</name>
     <message>
-        <source>To work with macros, please purchase WPS Office Professional.
-</source>
+        <source>----please choose the type of your problem-----</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Details of problems)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Steps to reproduce the problem)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(A detailed description)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If options folow are empty, the email will only send the auto-generated error log report.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Abnormal exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Files or pictures to help describing problems</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We are looking forward to receiving your email. Please describe encountered problems or share your suggestions of WPS Office in the below table. We will reply you as soon as possible.
+If the problem is urgent, call the customer hotline : 400-667-5005.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We are sorry that WPS Office encountered an error and closed automatically. An error log report has been generated. We suggest you email this report to us and provide other information about this error. We will handle it quickly. Thank you for your feedback.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone number can only contain numbers, +, -</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please choose the problem type!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File does not exist! Please check the file path.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter the contact phone and E-mail address!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter a contact phone!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter an e-mail address!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E-mail addresses are not compliant!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[User feedback] Version:%1--%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dear users,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following content has been automatically filled in the absence of complement, can be sent directly to this email, Thank you for your feedback.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details of problems:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Steps to reproduce the problem:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A detailed description:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E-mail:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3490,34 +3686,48 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
 </context>
 <context>
+    <name>KxOnlineFontTipDlg</name>
+    <message>
+        <source>Renew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You still not a senior member?upgrade to enjoy more cloud fonts now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxOnlineFonts</name>
-    <message>
-        <source>Click to use</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Login</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Online Fonts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Online Fonts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click to download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For more details</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>VIP soon to be expired.
-Click to recharge for more discounts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3529,21 +3739,69 @@ Click to recharge for more discounts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Using online fonts needs to sign in.
-Click the icon to sign in.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pay font, which is free for VIP.
-Click the icon for more details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>It&apos;s downloading, please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pause. Click to continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.
+Click here to sign in now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in to use cloud fonts.
+Click the icon to sign in now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP cloud fonts installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud fonts installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to install free cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All cloud fonts installed.  Please looking forward to more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to keep cloud fonts on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to shuffle cloud fonts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3629,6 +3887,48 @@ Click the icon for more details.</source>
     </message>
     <message>
         <source>Printing %1 page of %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintRestrictDlg</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print Pre&amp;view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintWatermarkDlg</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3951,6 +4251,51 @@ Click the icon for more details.</source>
         <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>A key to clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear this recor&amp;d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear &amp;all selected record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear &amp;all invalid record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the file in &amp;folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A total of %1 records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cannot open the file &quot;%1&quot;. 
+the file may be renamed,deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>open file folder</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxRecentFilePageCommand</name>
@@ -4014,6 +4359,13 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Installation fails, make sure to install the complete package.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSkinSwitchHtmlBridge</name>
+    <message>
+        <source>upload</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4429,7 +4781,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Customize animation:</source>
-        <translation>Customize animation:</translation>
+        <translation type="obsolete">Customize animation:</translation>
     </message>
     <message>
         <source>Object Select</source>
@@ -4438,6 +4790,10 @@ but the included system package is reserved.</source>
     <message>
         <source>Selection Pane</source>
         <translation>Selection Pane</translation>
+    </message>
+    <message>
+        <source>Custom animation:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4490,6 +4846,27 @@ but the included system package is reserved.</source>
         <source>New from Online Templates</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file location</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpRNNewDoc</name>
@@ -4539,6 +4916,15 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>New from Online Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file location</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4604,34 +4990,10 @@ of services and features.</translation>
 <context>
     <name>KxUpdateOnlineCommandBase</name>
     <message>
-        <source>Click to try it now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Purchase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Purchase now to get full version of WPS Office Professional.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Try the Professional version now to enjoy a greater number
 of services and features.</source>
-        <translation>Try WPS Office Professional now to enjoy a greater number
+        <translation type="obsolete">Try WPS Office Professional now to enjoy a greater number
 of services and features.</translation>
-    </message>
-    <message>
-        <source>Continue Trial</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5123,10 +5485,6 @@ of services and features.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Blue Grey</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Blue Violet</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5424,6 +5782,10 @@ Always take this action.</translation>
     </message>
     <message>
         <source>Plum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blue Gray</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

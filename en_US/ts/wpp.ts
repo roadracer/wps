@@ -776,6 +776,14 @@
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>bgMagic tooltip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxBrowseSlidesDlg</name>
@@ -987,6 +995,18 @@
     <message>
         <source>I&amp;gnore the background of master slide</source>
         <translation>I&amp;gnore the background of master slide</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magic Backgroud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template Background</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1931,6 +1951,22 @@ The Advanced button allows you to choose from different encryption types.</trans
         <source>Spell Check</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Preserve &amp;fidelity when sharing this document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed fon&amp;ts in the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -2070,10 +2106,6 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="obsolete">Notes, handouts and outline</translation>
     </message>
     <message>
-        <source>On-screen show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Orientation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2090,10 +2122,6 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Projector</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Slides</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2103,6 +2131,26 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(4:3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overhead</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:9)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:10)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Widescreen</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2794,10 +2842,6 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation>Please input the password of permission settings!</translation>
     </message>
     <message>
-        <source>Save Adobe PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The directory you specified does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2840,6 +2884,10 @@ The Advanced button allows you to choose from different encryption types.</trans
     <message>
         <source>You have no permission to write files into this directory.</source>
         <translation type="obsolete">You do not have permission to write files into this directory.</translation>
+    </message>
+    <message>
+        <source>Save PDF File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4870,10 +4918,6 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Adobe PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export Options</source>
         <translation type="obsolete">Export options</translation>
     </message>
@@ -5057,6 +5101,10 @@ The Advanced button allows you to choose from different encryption types.</trans
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Export PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -5069,11 +5117,11 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export to Adobe PDF File</source>
+        <source>Preparing for exporting PDF file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preparing for exporting PDF file...</source>
+        <source>Export to PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

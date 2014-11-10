@@ -2220,7 +2220,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>(beta) Single Web Page File</source>
-        <translation type="obsolete">(бета-тест) файл всей Веб-страницы</translation>
+        <translation type="obsolete">Файл всей веб-страницы (бета) </translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 File</source>
@@ -2240,7 +2240,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Single Web Page Files</source>
-        <translation type="obsolete">файлы всей Веб-страницы</translation>
+        <translation type="obsolete">Файл всей веб-страницы</translation>
     </message>
     <message>
         <source>Kingsoft Office encountered an error when saving the file, please try again or contact customer service.</source>
@@ -4214,7 +4214,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation>Блок-схема: память с последовательным доступом</translation>
+        <translation type="obsolete">Блок-схема: память с последовательным доступом</translation>
     </message>
     <message>
         <source>Flowchart: Magnetic Disk</source>
@@ -5231,6 +5231,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>DRAWINGSTR_FREEFORM</comment>
         <translation>Полилиния</translation>
     </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
+        <translation>Блок-схема: память с последовательным доступом</translation>
+    </message>
 </context>
 <context>
     <name>kso_filter</name>
@@ -5322,7 +5327,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Web Page Files</source>
         <comment>_KsoFileFormatDesc_HTML_Files</comment>
-        <translation>Файлы веб-страниц</translation>
+        <translation>Файл веб-страницы</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
@@ -5337,7 +5342,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>(beta) Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
-        <translation>Файл всей Веб-страницы (бета)</translation>
+        <translation>Файл всей веб-страницы (бета)</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
@@ -5362,7 +5367,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Single Web Page Files</source>
         <comment>_KsoFileFormatDesc_MHT_Files</comment>
-        <translation>файлы всей Веб-страницы</translation>
+        <translation>Файл всей веб-страницы</translation>
     </message>
     <message>
         <source>WPS Office encountered an error when saving the file. Please try again or contact customer service.</source>
@@ -5700,7 +5705,7 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source> Personal</source>
         <comment>_kso_versionType_PER</comment>
-        <translation></translation>
+        <translation> Личная</translation>
     </message>
     <message>
         <source> Development</source>
@@ -5730,12 +5735,12 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
         <comment>_kso_ksoThanksTo_for_linux_version</comment>
-        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations, и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1; право на бесплатное использование шрифтов Founder в соответствии со статьями прав на использование от Founder.</translation>
+        <translation>Это программное обеспечение включает в себя: FreeType Project, и имеет право на бесплатное использование в соответствии со статьями прав на использование лицензии FreeType; Chinese Word Segment, Chinese Phonetic Annotations и технология преобразования между упрощенным и традиционным китайским от информационно-поискового центра Харбинского технологического института; Hunspell Spell Checker, исходный код на Hunspell применим для исходного кода согласно лицензионному соглашению для открытого кода по MPL 1.1/GPL 2.0/LGPL 2.1; право на бесплатное использование шрифтов Founder в соответствии со статьями прав на использование от Founder.</translation>
     </message>
     <message>
         <source>WPS Office (Beta)</source>
@@ -5760,12 +5765,12 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_CHN</comment>
-        <translation></translation>
+        <translation>WPS Office Личная</translation>
     </message>
     <message>
         <source>WPS Office Education</source>
         <comment>_kso_ksoProductName_EDU_CHN</comment>
-        <translation></translation>
+        <translation>WPS Office Для обучения</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -6297,7 +6302,7 @@ You can click the button to recover files you work on.</source>
 You can add the customized paper %dmm�%dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation>Принтер не поддерживает текущий размер бумаги. В случае продолжения, возможно неудовлетворительное качество печати.
+        <translation type="obsolete">Принтер не поддерживает текущий размер бумаги. В случае продолжения, возможно неудовлетворительное качество печати.
 Вы можете добавить в свойствах принтера другой размер бумаги %d мм × %d мм, и повторить печать.
 Продолжить?</translation>
     </message>
@@ -6337,6 +6342,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <source>All Files(*.*)|*.*|Printer Files(*.prn)|*.prn</source>
         <comment>_kso_Print_OutputFileDialog_Filter</comment>
         <translation>Все файлы(*.*)|*.*|Файлы для печати(*.prn)|*.prn</translation>
+    </message>
+    <message>
+        <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
+You can add the customized paper %dmm x %dmm in printer properties and print it again.
+Do you want to continue?</source>
+        <comment>_ksoErr_Print_PaperNoSupport</comment>
+        <translation>Принтер не поддерживает текущий размер бумаги. В случае продолжения, возможно неудовлетворительное качество печати.
+Вы можете добавить в свойствах принтера другой размер бумаги %d mm ×%d mm, и повторить печать.
+Продолжить?</translation>
     </message>
 </context>
 <context>
@@ -7308,7 +7322,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Ocean Blue</source>
         <comment>kso_sKclOceanBlue</comment>
-        <translation></translation>
+        <translation>Васильковый</translation>
     </message>
     <message>
         <source>Olive Green</source>
@@ -8528,7 +8542,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Do you want to save the modifications to &quot;%s&quot;?</source>
         <comment>kso_SaveChangeMsg</comment>
-        <translation>Хотите сохранить изменения в &quot;%s&quot;?</translation>
+        <translation>Сохранить изменения в &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>Unknown object</source>
@@ -10648,7 +10662,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Do you want to save the modifications to &quot;%s&quot;?</source>
-        <translation type="obsolete">Хотите сохранить изменения в &quot;%s&quot;?</translation>
+        <translation type="obsolete">Сохранить изменения в &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>Unknown object</source>

@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
-        <translation>De nombreuses personnes utilisent ce formidable outil. Voulez-vous l&apos;essayer ?</translation>
+        <translation>De nombreuses personnes utilisent cet outil formidable. Voulez-vous l&apos;essayer ?</translation>
     </message>
     <message>
         <source>All right</source>

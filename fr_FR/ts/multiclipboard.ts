@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>Click to enlarge preview item.</source>
-        <translation>Cliquez pour agrandir l&apos;élément.</translation>
+        <translation>Cliquez pour agrandir l&apos;aperçu.</translation>
     </message>
     <message>
         <source>Click to show additional options.</source>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Press Ctrl+C Twice to Show Clipboard</source>
-        <translation>Utiliser deux fois la combinaison de touches Ctrl+C pour afficher le presse-papiers</translation>
+        <translation>Cliquez deux fois la combinaison de touches Ctrl+C pour afficher le presse-papiers</translation>
     </message>
     <message>
         <source>&amp;Collect Data Without Showing Clipboard</source>

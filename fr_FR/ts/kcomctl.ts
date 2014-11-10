@@ -76,7 +76,7 @@
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation>Gris bleu</translation>
+        <translation>Bleu Gris</translation>
     </message>
     <message>
         <source>Gray-50%</source>
@@ -188,15 +188,15 @@
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
-        <translation>&amp;Motifs et textures...</translation>
+        <translation type="unfinished">&amp;Motifs et textures...</translation>
     </message>
     <message>
         <source>&amp;Background</source>
-        <translation>Arrière-&amp;plan</translation>
+        <translation type="unfinished">Arrière-&amp;plan</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
-        <translation>&amp;Lignes avec motif...</translation>
+        <translation type="unfinished">&amp;Lignes avec motif...</translation>
     </message>
     <message>
         <source>&amp;More Colors...</source>
@@ -226,7 +226,36 @@
     </message>
     <message>
         <source>&amp;Hide Quick Access Toolbar</source>
-        <translation>&amp;Masquer la barre d&apos;outils Accès rapide</translation>
+        <translation type="unfinished">&amp;Masquer la barre d&apos;outils Accès rapide</translation>
+    </message>
+</context>
+<context>
+    <name>KDocTabbarStickerCommand</name>
+    <message>
+        <source>Lock tabbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UnLock tabbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageCloseButton</name>
+    <message>
+        <source>Clear Record from List</source>
+        <translation type="unfinished">Effacer l&apos;enregistrement de la liste</translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageFixedButton</name>
+    <message>
+        <source>unfixed from list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>fixed to list</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -268,7 +297,7 @@
     <name>KMainWindow</name>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation>Ag&amp;randir</translation>
+        <translation type="unfinished">Ag&amp;randir</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
@@ -276,15 +305,43 @@
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation>Ré&amp;duire</translation>
+        <translation type="unfinished">Ré&amp;duire</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation>&amp;Quitter</translation>
+        <translation type="unfinished">&amp;Quitter</translation>
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
         <translation>Utiliser la barre de &amp;titre du système</translation>
+    </message>
+</context>
+<context>
+    <name>KMemberUser</name>
+    <message>
+        <source>Bronze</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plate with silver</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Silver</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished">Or</translation>
+    </message>
+    <message>
+        <source>Platina</source>
+        <comment>Member user type</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -328,7 +385,7 @@
     <name>KRbQuickToolbar</name>
     <message>
         <source>&amp;Remove from Quick Access Toolbar</source>
-        <translation>&amp;Supprimer de la barre d&apos;outils Accès rapide</translation>
+        <translation type="unfinished">&amp;Supprimer de la barre d&apos;outils Accès rapide</translation>
     </message>
     <message>
         <source>More commands</source>
@@ -336,7 +393,7 @@
     </message>
     <message>
         <source>&amp;Show Quick Access Toolbar</source>
-        <translation>&amp;Afficher la barre d&apos;outils Accès rapide</translation>
+        <translation type="unfinished">&amp;Afficher la barre d&apos;outils Accès rapide</translation>
     </message>
 </context>
 <context>
@@ -356,6 +413,43 @@
     <message>
         <source>Clear Unpinned Files</source>
         <translation>Effacer les fichiers désépinglés</translation>
+    </message>
+    <message>
+        <source>Recent Documents: </source>
+        <translation type="unfinished">Documents récents : </translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Ouvert</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished">Effacer tout</translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished">Ouvrir le dossier</translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can not find the file &quot;%1&quot;.
+the file may be renamed,deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -441,6 +535,18 @@ multiple=multiple
     </message>
 </context>
 <context>
+    <name>KWPSCloudSetup</name>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly,
+please reinstall WPS Office!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -466,7 +572,7 @@ multiple=multiple
     <name>QLineEdit</name>
     <message>
         <source>&amp;Paste</source>
-        <translation>&amp;Coller</translation>
+        <translation type="unfinished">&amp;Coller</translation>
     </message>
 </context>
 <context>
@@ -539,19 +645,19 @@ multiple=multiple
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation>Documents récents : </translation>
+        <translation type="obsolete">Documents récents : </translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Ouvert</translation>
+        <translation type="obsolete">Ouvrir</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Effacer tout</translation>
+        <translation type="obsolete">Effacer tout</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Ouvrir le dossier</translation>
+        <translation type="obsolete">Ouvrir le dossier</translation>
     </message>
     <message>
         <source>Overtype</source>
@@ -559,7 +665,7 @@ multiple=multiple
     </message>
     <message>
         <source>Clear Record from List</source>
-        <translation>Effacer l&apos;enregistrement de la liste</translation>
+        <translation type="obsolete">Effacer l&apos;enregistrement de la liste</translation>
     </message>
     <message>
         <source>Delete from List</source>

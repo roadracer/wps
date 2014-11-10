@@ -2,6 +2,24 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="de">
 <context>
+    <name>CloseButton</name>
+    <message>
+        <source>Close Tab</source>
+        <translation>Tab schließen</translation>
+    </message>
+</context>
+<context>
+    <name>FakeReply</name>
+    <message>
+        <source>Fake error !</source>
+        <translation>Künstlicher Fehler!</translation>
+    </message>
+    <message>
+        <source>Invalid URL</source>
+        <translation>Ungültige URL</translation>
+    </message>
+</context>
+<context>
     <name>MAC_APPLICATION_MENU</name>
     <message>
         <source>About %1</source>
@@ -30,24 +48,6 @@
     <message>
         <source>Show All</source>
         <translation>Alle anzeigen</translation>
-    </message>
-</context>
-<context>
-    <name>CloseButton</name>
-    <message>
-        <source>Close Tab</source>
-        <translation>Tab schließen</translation>
-    </message>
-</context>
-<context>
-    <name>FakeReply</name>
-    <message>
-        <source>Fake error !</source>
-        <translation>Künstlicher Fehler!</translation>
-    </message>
-    <message>
-        <source>Invalid URL</source>
-        <translation>Ungültige URL</translation>
     </message>
 </context>
 <context>
@@ -166,12 +166,12 @@ Bitte überprüfen Sie Ihre GStreamer-Installation und stellen Sie sicher, dass 
         <translation>Existiert bereits</translation>
     </message>
     <message>
-        <source>Audio Output</source>
-        <translation>Audio-Ausgabe</translation>
-    </message>
-    <message>
         <source>Audio or video components could not be played</source>
         <translation>Audio- oder Videokomponenten konnten nicht abgespielt werden</translation>
+    </message>
+    <message>
+        <source>Audio Output</source>
+        <translation>Audio-Ausgabe</translation>
     </message>
     <message>
         <source>Audio output error</source>
@@ -182,16 +182,16 @@ Bitte überprüfen Sie Ihre GStreamer-Installation und stellen Sie sicher, dass 
         <translation>Keine Verbindung möglich</translation>
     </message>
     <message>
-        <source>DRM error</source>
-        <translation>DRM-Fehler</translation>
-    </message>
-    <message>
         <source>Decoder error</source>
         <translation>Fehler im Decoder</translation>
     </message>
     <message>
         <source>Disconnected</source>
         <translation>Getrennt</translation>
+    </message>
+    <message>
+        <source>DRM error</source>
+        <translation>DRM-Fehler</translation>
     </message>
     <message>
         <source>In use</source>
@@ -202,12 +202,12 @@ Bitte überprüfen Sie Ihre GStreamer-Installation und stellen Sie sicher, dass 
         <translation>Unzureichende Bandbreite</translation>
     </message>
     <message>
-        <source>Invalid URL</source>
-        <translation>Ungültige URL</translation>
-    </message>
-    <message>
         <source>Invalid protocol</source>
         <translation>Ungültiges Protokoll</translation>
+    </message>
+    <message>
+        <source>Invalid URL</source>
+        <translation>Ungültige URL</translation>
     </message>
     <message>
         <source>Multicast error</source>
@@ -289,10 +289,6 @@ Bitte überprüfen Sie Ihre GStreamer-Installation und stellen Sie sicher, dass 
 <context>
     <name>Phonon::MMF::AbstractMediaPlayer</name>
     <message>
-        <source>Error opening URL</source>
-        <translation>Fehler beim Öffnen der URL</translation>
-    </message>
-    <message>
         <source>Error opening file</source>
         <translation>Fehler beim Öffnen der Datei</translation>
     </message>
@@ -303,6 +299,10 @@ Bitte überprüfen Sie Ihre GStreamer-Installation und stellen Sie sicher, dass 
     <message>
         <source>Error opening source: resource not opened</source>
         <translation>Fehler beim Öffnen der Quelle: Ressource nicht geöffnet</translation>
+    </message>
+    <message>
+        <source>Error opening URL</source>
+        <translation>Fehler beim Öffnen der URL</translation>
     </message>
     <message>
         <source>Loading clip failed</source>
@@ -496,14 +496,6 @@ Bitte überprüfen Sie Ihre GStreamer-Installation und stellen Sie sicher, dass 
 <context>
     <name>Q3FileDialog</name>
     <message>
-        <source>%1
-File not found.
-Check path and filename.</source>
-        <translation>%1
-Datei nicht gefunden.
-Überprüfen Sie Pfad und Dateiname.</translation>
-    </message>
-    <message>
         <source>&amp;Delete</source>
         <translation>&amp;Löschen</translation>
     </message>
@@ -536,16 +528,24 @@ Datei nicht gefunden.
         <translation>&amp;Ja</translation>
     </message>
     <message>
+        <source>%1
+File not found.
+Check path and filename.</source>
+        <translation>%1
+Datei nicht gefunden.
+Überprüfen Sie Pfad und Dateiname.</translation>
+    </message>
+    <message>
         <source>&lt;qt&gt;Are you sure you wish to delete %1 &quot;%2&quot;?&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;Sind Sie sicher, dass Sie %1 &quot;%2&quot; löschen möchten?&lt;/qt&gt;</translation>
     </message>
     <message>
-        <source>All Files (*)</source>
-        <translation>Alle Dateien (*)</translation>
-    </message>
-    <message>
         <source>All Files (*.*)</source>
         <translation>Alle Dateien (*.*)</translation>
+    </message>
+    <message>
+        <source>All Files (*)</source>
+        <translation>Alle Dateien (*)</translation>
     </message>
     <message>
         <source>Attributes</source>
@@ -586,10 +586,6 @@ Datei nicht gefunden.
     <message>
         <source>Directories</source>
         <translation>Verzeichnisse</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>das Verzeichnis</translation>
     </message>
     <message>
         <source>Directory:</source>
@@ -728,20 +724,16 @@ Datei nicht gefunden.
         <translation>Verknüpfung mit Spezialdatei</translation>
     </message>
     <message>
-        <source>System link</source>
+        <source>the directory</source>
+        <translation>das Verzeichnis</translation>
+    </message>
+    <message>
+        <source>the file</source>
+        <translation>die Datei</translation>
+    </message>
+    <message>
+        <source>the symlink</source>
         <translation>die Verknüpfung</translation>
-    </message>
-    <message>
-        <source>System link to directory</source>
-        <translation>Verknüpfung mit Verzeichnis</translation>
-    </message>
-    <message>
-        <source>System link to file</source>
-        <translation>Verknüpfung mit Datei</translation>
-    </message>
-    <message>
-        <source>System link to special</source>
-        <translation>Verknüpfung mit Spezialdatei</translation>
     </message>
     <message>
         <source>Type</source>
@@ -756,16 +748,24 @@ Datei nicht gefunden.
         <translation>%1 schreiben</translation>
     </message>
     <message>
-        <source>the directory</source>
+        <source>Directory</source>
         <translation>das Verzeichnis</translation>
     </message>
     <message>
-        <source>the file</source>
-        <translation>die Datei</translation>
+        <source>System link</source>
+        <translation>die Verknüpfung</translation>
     </message>
     <message>
-        <source>the symlink</source>
-        <translation>die Verknüpfung</translation>
+        <source>System link to directory</source>
+        <translation>Verknüpfung mit Verzeichnis</translation>
+    </message>
+    <message>
+        <source>System link to file</source>
+        <translation>Verknüpfung mit Datei</translation>
+    </message>
+    <message>
+        <source>System link to special</source>
+        <translation>Verknüpfung mit Spezialdatei</translation>
     </message>
 </context>
 <context>
@@ -814,10 +814,6 @@ in
 <context>
     <name>Q3MainWindow</name>
     <message>
-        <source>Custom...</source>
-        <translation>Anpassen ...</translation>
-    </message>
-    <message>
         <source>Customize...</source>
         <translation>Anpassen ...</translation>
     </message>
@@ -825,15 +821,19 @@ in
         <source>Line up</source>
         <translation>Ausrichten</translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation>Anpassen ...</translation>
+    </message>
 </context>
 <context>
     <name>Q3NetworkProtocol</name>
     <message>
-        <source>Operation is stopped by user</source>
+        <source>Operation stopped by the user</source>
         <translation>Operation von Nutzer angehalten</translation>
     </message>
     <message>
-        <source>Operation stopped by the user</source>
+        <source>Operation is stopped by user</source>
         <translation>Operation von Nutzer angehalten</translation>
     </message>
 </context>
@@ -963,10 +963,6 @@ in
 <context>
     <name>Q3UrlOperator</name>
     <message>
-        <source>(Unknown)</source>
-        <translation>(unbekannt)</translation>
-    </message>
-    <message>
         <source>(unknown)</source>
         <translation>(unbekannt)</translation>
     </message>
@@ -1001,6 +997,10 @@ in
     <message>
         <source>The protocol `%1&apos; is not supported</source>
         <translation>Protokoll `%1&apos; wird nicht unterstützt</translation>
+    </message>
+    <message>
+        <source>(Unknown)</source>
+        <translation>(unbekannt)</translation>
     </message>
 </context>
 <context>
@@ -1290,20 +1290,20 @@ in
 <context>
     <name>QDateTimeEdit</name>
     <message>
-        <source>AM</source>
-        <translation>AM</translation>
-    </message>
-    <message>
-        <source>PM</source>
-        <translation>PM</translation>
-    </message>
-    <message>
         <source>am</source>
         <translation>am</translation>
     </message>
     <message>
+        <source>AM</source>
+        <translation>AM</translation>
+    </message>
+    <message>
         <source>pm</source>
         <translation>pm</translation>
+    </message>
+    <message>
+        <source>PM</source>
+        <translation>PM</translation>
     </message>
 </context>
 <context>
@@ -1510,6 +1510,10 @@ in
         <translation>Der Id-Wert überdeckt eine globale Eigenschaft aus JavaScript</translation>
     </message>
     <message>
+        <source>id is not unique</source>
+        <translation>ID-Wert nicht eindeutig</translation>
+    </message>
+    <message>
         <source>IDs cannot start with an uppercase letter</source>
         <translation>Id-Werte dürfen nicht mit einem Großbuchstaben beginnen</translation>
     </message>
@@ -1713,10 +1717,6 @@ in
         <source>Unexpected object assignment</source>
         <translation>Zuweisung des Objekts nicht zulässig</translation>
     </message>
-    <message>
-        <source>id is not unique</source>
-        <translation>ID-Wert nicht eindeutig</translation>
-    </message>
 </context>
 <context>
     <name>QDeclarativeComponent</name>
@@ -1766,6 +1766,10 @@ in
 <context>
     <name>QDeclarativeEngine</name>
     <message>
+        <source>executeSql called outside transaction()</source>
+        <translation>&apos;executeSql&apos; wurde außerhalb von &apos;transaction()&apos; aufgerufen</translation>
+    </message>
+    <message>
         <source>Read-only Transaction</source>
         <translation>Schreibgeschützte Transaktion</translation>
     </message>
@@ -1778,16 +1782,12 @@ in
         <translation>SQL: Die Version der Datenbank entspricht nicht der erwarteten Version</translation>
     </message>
     <message>
-        <source>Version mismatch: expected %1, found %2</source>
-        <translation>Die Version %2 kann nicht verwendet werden; es wird %1 benötigt</translation>
-    </message>
-    <message>
-        <source>executeSql called outside transaction()</source>
-        <translation>&apos;executeSql&apos; wurde außerhalb von &apos;transaction()&apos; aufgerufen</translation>
-    </message>
-    <message>
         <source>transaction: missing callback</source>
         <translation>callback fehlt bei Transaktion</translation>
+    </message>
+    <message>
+        <source>Version mismatch: expected %1, found %2</source>
+        <translation>Die Version %2 kann nicht verwendet werden; es wird %1 benötigt</translation>
     </message>
 </context>
 <context>
@@ -1804,16 +1804,16 @@ in
 <context>
     <name>QDeclarativeImportDatabase</name>
     <message>
-        <source>&quot;%1&quot;: no such directory</source>
-        <translation>Das Verzeichnis &quot;%1&quot; existiert nicht</translation>
-    </message>
-    <message>
         <source>- %1 is not a namespace</source>
         <translation>- %1 ist kein gültiger Namensraum</translation>
     </message>
     <message>
         <source>- nested namespaces not allowed</source>
         <translation>- geschachtelte Namensräume sind nicht zulässig</translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot;: no such directory</source>
+        <translation>Das Verzeichnis &quot;%1&quot; existiert nicht</translation>
     </message>
     <message>
         <source>import &quot;%1&quot; has no qmldir and no namespace</source>
@@ -1877,6 +1877,18 @@ in
 <context>
     <name>QDeclarativeListModel</name>
     <message>
+        <source>append: value is not an object</source>
+        <translation>append: Der Wert ist kein Objekt</translation>
+    </message>
+    <message>
+        <source>insert: index %1 out of range</source>
+        <translation>insert: Der Index %1 ist außerhalb des gültigen Bereichs</translation>
+    </message>
+    <message>
+        <source>insert: value is not an object</source>
+        <translation>insert: Der Wert ist kein Objekt</translation>
+    </message>
+    <message>
         <source>ListElement: cannot contain nested elements</source>
         <translation>ListElement kann keine geschachtelten Elemente enthalten</translation>
     </message>
@@ -1891,18 +1903,6 @@ in
     <message>
         <source>ListModel: undefined property &apos;%1&apos;</source>
         <translation>ListModel: Die Eigenschaft &apos;%1&apos; ist nicht definiert</translation>
-    </message>
-    <message>
-        <source>append: value is not an object</source>
-        <translation>append: Der Wert ist kein Objekt</translation>
-    </message>
-    <message>
-        <source>insert: index %1 out of range</source>
-        <translation>insert: Der Index %1 ist außerhalb des gültigen Bereichs</translation>
-    </message>
-    <message>
-        <source>insert: value is not an object</source>
-        <translation>insert: Der Wert ist kein Objekt</translation>
     </message>
     <message>
         <source>move: out of range</source>
@@ -2376,10 +2376,6 @@ in
         <translation>Änderungsdatum</translation>
     </message>
     <message>
-        <source>Date is modified</source>
-        <translation>Änderungsdatum</translation>
-    </message>
-    <message>
         <source>Kind</source>
         <comment>Match OS X Finder</comment>
         <translation>Art</translation>
@@ -2396,6 +2392,10 @@ in
         <source>Type</source>
         <comment>All other platforms</comment>
         <translation>Typ</translation>
+    </message>
+    <message>
+        <source>Date is modified</source>
+        <translation>Änderungsdatum</translation>
     </message>
 </context>
 <context>
@@ -2481,26 +2481,10 @@ in
 <context>
     <name>QFileDialog</name>
     <message>
-        <source>%1
-Directory not found.
-Please verify the correct directory name was given.</source>
-        <translation>%1
-Das Verzeichnis konnte nicht gefunden werden.
-Stellen Sie sicher, dass der Verzeichnisname richtig ist.</translation>
-    </message>
-    <message>
-        <source>%1
-File not found.
-Please verify the correct file name was given.</source>
-        <translation>%1
-Die Datei konnte nicht gefunden werden.
-Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
-    </message>
-    <message>
-        <source>%1 already exists.
-Do you want to replace it?</source>
-        <translation>Die Datei %1 existiert bereits.
-Soll sie überschrieben werden?</translation>
+        <source>&apos;%1&apos; is write protected.
+Do you want to delete it anyway?</source>
+        <translation>&apos;%1&apos; ist schreibgeschützt.
+Möchten Sie die Datei trotzdem löschen?</translation>
     </message>
     <message>
         <source>&amp;Choose</source>
@@ -2527,10 +2511,26 @@ Soll sie überschrieben werden?</translation>
         <translation>S&amp;peichern</translation>
     </message>
     <message>
-        <source>&apos;%1&apos; is write protected.
-Do you want to delete it anyway?</source>
-        <translation>&apos;%1&apos; ist schreibgeschützt.
-Möchten Sie die Datei trotzdem löschen?</translation>
+        <source>%1
+Directory not found.
+Please verify the correct directory name was given.</source>
+        <translation>%1
+Das Verzeichnis konnte nicht gefunden werden.
+Stellen Sie sicher, dass der Verzeichnisname richtig ist.</translation>
+    </message>
+    <message>
+        <source>%1
+File not found.
+Please verify the correct file name was given.</source>
+        <translation>%1
+Die Datei konnte nicht gefunden werden.
+Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
+    </message>
+    <message>
+        <source>%1 already exists.
+Do you want to replace it?</source>
+        <translation>Die Datei %1 existiert bereits.
+Soll sie überschrieben werden?</translation>
     </message>
     <message>
         <source>Alias</source>
@@ -2538,12 +2538,12 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>Alias</translation>
     </message>
     <message>
-        <source>All Files (*)</source>
-        <translation>Alle Dateien (*)</translation>
-    </message>
-    <message>
         <source>All Files (*.*)</source>
         <translation>Alle Dateien (*.*)</translation>
+    </message>
+    <message>
+        <source>All Files (*)</source>
+        <translation>Alle Dateien (*)</translation>
     </message>
     <message>
         <source>Are sure you want to delete &apos;%1&apos;?</source>
@@ -2566,11 +2566,11 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>Konnte Verzeichnis nicht löschen.</translation>
     </message>
     <message>
-        <source>Create New Folder</source>
+        <source>Create a New Folder</source>
         <translation>Neuen Ordner erstellen</translation>
     </message>
     <message>
-        <source>Create a New Folder</source>
+        <source>Create New Folder</source>
         <translation>Neuen Ordner erstellen</translation>
     </message>
     <message>
@@ -2688,6 +2688,14 @@ Möchten Sie die Datei trotzdem löschen?</translation>
 <context>
     <name>QFileSystemModel</name>
     <message>
+        <source>%1 byte(s)</source>
+        <translation>%1 byte</translation>
+    </message>
+    <message>
+        <source>%1 bytes</source>
+        <translation>%1 Byte</translation>
+    </message>
+    <message>
         <source>%1 GB</source>
         <translation>%1 GB</translation>
     </message>
@@ -2704,14 +2712,6 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>%1 TB</translation>
     </message>
     <message>
-        <source>%1 byte(s)</source>
-        <translation>%1 byte</translation>
-    </message>
-    <message>
-        <source>%1 bytes</source>
-        <translation>%1 Byte</translation>
-    </message>
-    <message>
         <source>&lt;b&gt;The name &quot;%1&quot; can not be used.&lt;/b&gt;&lt;p&gt;Try using another name, with fewer characters or no punctuations marks.</source>
         <translation>&lt;b&gt;Der Name &quot;%1&quot; kann nicht verwendet werden.&lt;/b&gt;&lt;p&gt;Versuchen Sie, die Sonderzeichen zu entfernen oder einen kürzeren Namen zu verwenden.</translation>
     </message>
@@ -2721,10 +2721,6 @@ Möchten Sie die Datei trotzdem löschen?</translation>
     </message>
     <message>
         <source>Date Modified</source>
-        <translation>Änderungsdatum</translation>
-    </message>
-    <message>
-        <source>Date is modified</source>
         <translation>Änderungsdatum</translation>
     </message>
     <message>
@@ -2752,6 +2748,10 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <source>Type</source>
         <comment>All other platforms</comment>
         <translation>Typ</translation>
+    </message>
+    <message>
+        <source>Date is modified</source>
+        <translation>Änderungsdatum</translation>
     </message>
 </context>
 <context>
@@ -3142,14 +3142,6 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>Beim Schreiben der Antwort auf das Ausgabegerät ist ein Fehler aufgetreten</translation>
     </message>
     <message>
-        <source>HTTP request failed</source>
-        <translation>HTTP-Anfrage fehlgeschlagen</translation>
-    </message>
-    <message>
-        <source>HTTPS connection requested but SSL support not compiled in</source>
-        <translation>Die angeforderte HTTPS-Verbindung kann nicht aufgebaut werden, da keine SSL-Unterstützung vorhanden ist</translation>
-    </message>
-    <message>
         <source>Host %1 found</source>
         <translation>Rechner %1 gefunden</translation>
     </message>
@@ -3164,6 +3156,14 @@ Möchten Sie die Datei trotzdem löschen?</translation>
     <message>
         <source>Host requires authentication</source>
         <translation>Der Hostrechner verlangt eine Authentifizierung</translation>
+    </message>
+    <message>
+        <source>HTTP request failed</source>
+        <translation>HTTP-Anfrage fehlgeschlagen</translation>
+    </message>
+    <message>
+        <source>HTTPS connection requested but SSL support not compiled in</source>
+        <translation>Die angeforderte HTTPS-Verbindung kann nicht aufgebaut werden, da keine SSL-Unterstützung vorhanden ist</translation>
     </message>
     <message>
         <source>Invalid HTTP chunked body</source>
@@ -3190,12 +3190,12 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>Anfrage wurde abgebrochen</translation>
     </message>
     <message>
-        <source>SSL handshake failed</source>
-        <translation>Im Ablauf des SSL-Protokolls ist ein Fehler aufgetreten.</translation>
-    </message>
-    <message>
         <source>Server closed connection unexpectedly</source>
         <translation>Der Server hat die Verbindung unerwartet geschlossen</translation>
+    </message>
+    <message>
+        <source>SSL handshake failed</source>
+        <translation>Im Ablauf des SSL-Protokolls ist ein Fehler aufgetreten.</translation>
     </message>
     <message>
         <source>Unknown authentication method</source>
@@ -3415,10 +3415,6 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>Die Bibliothek %1 kann nicht entladen werden: %2</translation>
     </message>
     <message>
-        <source>Could not map &apos;%1&apos;: %2</source>
-        <translation type="obsolete">Operation mmap fehlgeschlagen für &apos;%1&apos;: %2</translation>
-    </message>
-    <message>
         <source>Could not mmap &apos;%1&apos;: %2</source>
         <translation type="obsolete">Operation mmap fehlgeschlagen für &apos;%1&apos;: %2</translation>
     </message>
@@ -3453,6 +3449,10 @@ Möchten Sie die Datei trotzdem löschen?</translation>
     <message>
         <source>Unknown error</source>
         <translation>Unbekannter Fehler</translation>
+    </message>
+    <message>
+        <source>Could not map &apos;%1&apos;: %2</source>
+        <translation type="obsolete">Operation mmap fehlgeschlagen für &apos;%1&apos;: %2</translation>
     </message>
 </context>
 <context>
@@ -3567,16 +3567,16 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>Es kann keine Verbindung aufgebaut werden</translation>
     </message>
     <message>
-        <source>Unable to open database</source>
-        <translation>Die Datenbankverbindung kann nicht geöffnet werden &apos;</translation>
-    </message>
-    <message>
         <source>Unable to open database &apos;</source>
         <translation>Die Datenbankverbindung kann nicht geöffnet werden &apos;</translation>
     </message>
     <message>
         <source>Unable to rollback transaction</source>
         <translation>Die Transaktion kann nicht rückgängig gemacht werden (Operation &apos;rollback&apos; fehlgeschlagen)</translation>
+    </message>
+    <message>
+        <source>Unable to open database</source>
+        <translation>Die Datenbankverbindung kann nicht geöffnet werden &apos;</translation>
     </message>
 </context>
 <context>
@@ -3636,8 +3636,8 @@ Möchten Sie die Datei trotzdem löschen?</translation>
 <context>
     <name>QMdiSubWindow</name>
     <message>
-        <source>%1 - [%2]</source>
-        <translation>%1 - [%2]</translation>
+        <source>- [%1]</source>
+        <translation>- [%1]</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -3656,8 +3656,8 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>Größe ä&amp;ndern</translation>
     </message>
     <message>
-        <source>- [%1]</source>
-        <translation>- [%1]</translation>
+        <source>%1 - [%2]</source>
+        <translation>%1 - [%2]</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4179,12 +4179,12 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>&quot;%1&quot; ist bereits als Name einer Rolle vergeben und wird daher deaktiviert.</translation>
     </message>
     <message>
-        <source>PulseAudio Sound Server</source>
-        <translation>PulseAudio Sound Server</translation>
-    </message>
-    <message>
         <source>invalid query: &quot;%1&quot;</source>
         <translation>Ungültige Abfrage: &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>PulseAudio Sound Server</source>
+        <translation>PulseAudio Sound Server</translation>
     </message>
 </context>
 <context>
@@ -4239,7 +4239,7 @@ Möchten Sie die Datei trotzdem löschen?</translation>
 <context>
     <name>QPageSetupWidget</name>
     <message>
-        <source>Bottom margin</source>
+        <source>bottom margin</source>
         <translation>Unterer Rand</translation>
     </message>
     <message>
@@ -4263,7 +4263,7 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>Querformat</translation>
     </message>
     <message>
-        <source>Left margin</source>
+        <source>left margin</source>
         <translation>Linker Rand</translation>
     </message>
     <message>
@@ -4307,11 +4307,11 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>Umgekehrtes Hochformat</translation>
     </message>
     <message>
-        <source>Right margin</source>
+        <source>right margin</source>
         <translation>Rechter Rand</translation>
     </message>
     <message>
-        <source>Top margin</source>
+        <source>top margin</source>
         <translation>Oberer Rand</translation>
     </message>
     <message>
@@ -4319,19 +4319,19 @@ Möchten Sie die Datei trotzdem löschen?</translation>
         <translation>Breite:</translation>
     </message>
     <message>
-        <source>bottom margin</source>
+        <source>Bottom margin</source>
         <translation>Unterer Rand</translation>
     </message>
     <message>
-        <source>left margin</source>
+        <source>Left margin</source>
         <translation>Linker Rand</translation>
     </message>
     <message>
-        <source>right margin</source>
+        <source>Right margin</source>
         <translation>Rechter Rand</translation>
     </message>
     <message>
-        <source>top margin</source>
+        <source>Top margin</source>
         <translation>Oberer Rand</translation>
     </message>
 </context>
@@ -4349,18 +4349,6 @@ Möchten Sie die Datei trotzdem löschen?</translation>
 <context>
     <name>QPrintDialog</name>
     <message>
-        <source>%1 already exists.
-Do you want to overwrite it?</source>
-        <translation>Die Datei %1 existiert bereits.
-Soll sie überschrieben werden?</translation>
-    </message>
-    <message>
-        <source>%1 is a directory.
-Please choose a different file name.</source>
-        <translation>%1 ist ein Verzeichnis.
-Bitte wählen Sie einen anderen Dateinamen.</translation>
-    </message>
-    <message>
         <source>&amp;Options &lt;&lt;</source>
         <translation>&amp;Optionen &lt;&lt; </translation>
     </message>
@@ -4371,6 +4359,18 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>&amp;Print</source>
         <translation>&amp;Drucken</translation>
+    </message>
+    <message>
+        <source>%1 already exists.
+Do you want to overwrite it?</source>
+        <translation>Die Datei %1 existiert bereits.
+Soll sie überschrieben werden?</translation>
+    </message>
+    <message>
+        <source>%1 is a directory.
+Please choose a different file name.</source>
+        <translation>%1 ist ein Verzeichnis.
+Bitte wählen Sie einen anderen Dateinamen.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Do you want to overwrite it?&lt;/qt&gt;</source>
@@ -4623,16 +4623,16 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Lokale Datei</translation>
     </message>
     <message>
+        <source>locally connected</source>
+        <translation>direkt verbunden</translation>
+    </message>
+    <message>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
         <source>Print</source>
         <translation>Drucken</translation>
-    </message>
-    <message>
-        <source>Print To File ...</source>
-        <translation>In Datei drucken ...</translation>
     </message>
     <message>
         <source>Print all</source>
@@ -4649,6 +4649,10 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>Print selection</source>
         <translation>Auswahl drucken</translation>
+    </message>
+    <message>
+        <source>Print To File ...</source>
+        <translation>In Datei drucken ...</translation>
     </message>
     <message>
         <source>Print to File (PDF)</source>
@@ -4671,6 +4675,10 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Die Angabe für die erste Seite darf nicht größer sein als die für die letzte Seite.</translation>
     </message>
     <message>
+        <source>unknown</source>
+        <translation>unbekannt</translation>
+    </message>
+    <message>
         <source>US Common #10 Envelope</source>
         <translation>US Common #10 Envelope</translation>
     </message>
@@ -4679,19 +4687,11 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>US Common #10 Envelope (105 x 241 mm)</translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation>unbekannt</translation>
-    </message>
-    <message>
         <source>Write %1 file</source>
         <translation>Schreiben der Datei %1</translation>
     </message>
     <message>
-        <source>locally connected</source>
-        <translation>direkt verbunden</translation>
-    </message>
-    <message>
-        <source>unknown</source>
+        <source>Unknown</source>
         <translation>unbekannt</translation>
     </message>
 </context>
@@ -4738,11 +4738,11 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Nächste Seite</translation>
     </message>
     <message>
-        <source>Page Setup</source>
+        <source>Page setup</source>
         <translation>Seite einrichten</translation>
     </message>
     <message>
-        <source>Page setup</source>
+        <source>Page Setup</source>
         <translation>Seite einrichten</translation>
     </message>
     <message>
@@ -4760,10 +4760,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>Print Preview</source>
         <translation>Druckvorschau</translation>
-    </message>
-    <message>
-        <source>Print Setup</source>
-        <translation>Seite einrichten</translation>
     </message>
     <message>
         <source>Show facing pages</source>
@@ -4784,6 +4780,10 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>Zoom out</source>
         <translation>Verkleinern</translation>
+    </message>
+    <message>
+        <source>Print Setup</source>
+        <translation>Seite einrichten</translation>
     </message>
 </context>
 <context>
@@ -4813,10 +4813,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     </message>
     <message>
         <source>Color Mode</source>
-        <translation>Farbmodus</translation>
-    </message>
-    <message>
-        <source>Color mode</source>
         <translation>Farbmodus</translation>
     </message>
     <message>
@@ -4887,16 +4883,20 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <source>to</source>
         <translation>bis</translation>
     </message>
+    <message>
+        <source>Color mode</source>
+        <translation>Farbmodus</translation>
+    </message>
 </context>
 <context>
     <name>QPrintWidget</name>
     <message>
-        <source>&amp;Name:</source>
-        <translation>&amp;Name:</translation>
-    </message>
-    <message>
         <source>...</source>
         <translation>...</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>&amp;Name:</translation>
     </message>
     <message>
         <source>Form</source>
@@ -4990,42 +4990,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
 <context>
     <name>QRegExp</name>
     <message>
-        <source>Bad character class syntax</source>
-        <translation>falsche Syntax für Zeichenklasse</translation>
-    </message>
-    <message>
-        <source>Bad lookahead syntax</source>
-        <translation>falsche Syntax für Lookahead</translation>
-    </message>
-    <message>
-        <source>Bad repetition syntax</source>
-        <translation>falsche Syntax für Wiederholungen</translation>
-    </message>
-    <message>
-        <source>Disabled feature used</source>
-        <translation>deaktivierte Eigenschaft wurde benutzt</translation>
-    </message>
-    <message>
-        <source>Invalid octal value</source>
-        <translation>ungültiger Oktal-Wert</translation>
-    </message>
-    <message>
-        <source>Met internal limit</source>
-        <translation>internes Limit erreicht</translation>
-    </message>
-    <message>
-        <source>Missing left delim</source>
-        <translation>fehlende linke Begrenzung</translation>
-    </message>
-    <message>
-        <source>No error occurred</source>
-        <translation>kein Fehler</translation>
-    </message>
-    <message>
-        <source>Unexpected end</source>
-        <translation>unerwartetes Ende</translation>
-    </message>
-    <message>
         <source>bad char class syntax</source>
         <translation>falsche Syntax für Zeichenklasse</translation>
     </message>
@@ -5067,6 +5031,42 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     </message>
     <message>
         <source>unexpected end</source>
+        <translation>unerwartetes Ende</translation>
+    </message>
+    <message>
+        <source>Bad character class syntax</source>
+        <translation>falsche Syntax für Zeichenklasse</translation>
+    </message>
+    <message>
+        <source>Bad lookahead syntax</source>
+        <translation>falsche Syntax für Lookahead</translation>
+    </message>
+    <message>
+        <source>Bad repetition syntax</source>
+        <translation>falsche Syntax für Wiederholungen</translation>
+    </message>
+    <message>
+        <source>Disabled feature used</source>
+        <translation>deaktivierte Eigenschaft wurde benutzt</translation>
+    </message>
+    <message>
+        <source>Invalid octal value</source>
+        <translation>ungültiger Oktal-Wert</translation>
+    </message>
+    <message>
+        <source>Met internal limit</source>
+        <translation>internes Limit erreicht</translation>
+    </message>
+    <message>
+        <source>Missing left delim</source>
+        <translation>fehlende linke Begrenzung</translation>
+    </message>
+    <message>
+        <source>No error occurred</source>
+        <translation>kein Fehler</translation>
+    </message>
+    <message>
+        <source>Unexpected end</source>
         <translation>unerwartetes Ende</translation>
     </message>
 </context>
@@ -5495,16 +5495,8 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
 <context>
     <name>QSharedMemory</name>
     <message>
-        <source>%1: UNIX key file doesn&apos;t exist</source>
-        <translation>%1: Die Unix-Schlüsseldatei existiert nicht</translation>
-    </message>
-    <message>
         <source>%1: already exists</source>
         <translation>%1: existiert bereits</translation>
-    </message>
-    <message>
-        <source>%1: create size is less than 0</source>
-        <translation>%1: Die Größenangabe für die Erzeugung ist kleiner als Null</translation>
     </message>
     <message>
         <source>%1: create size is less then 0</source>
@@ -5571,8 +5563,16 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>%1: Die Sperrung konnte nicht aufgehoben werden</translation>
     </message>
     <message>
+        <source>%1: UNIX key file doesn&apos;t exist</source>
+        <translation>%1: Die Unix-Schlüsseldatei existiert nicht</translation>
+    </message>
+    <message>
         <source>%1: unknown error %2</source>
         <translation>%1: Unbekannter Fehler %2</translation>
+    </message>
+    <message>
+        <source>%1: create size is less than 0</source>
+        <translation>%1: Die Größenangabe für die Erzeugung ist kleiner als Null</translation>
     </message>
 </context>
 <context>
@@ -5670,10 +5670,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Browser</translation>
     </message>
     <message>
-        <source>CD</source>
-        <translation>CD</translation>
-    </message>
-    <message>
         <source>Calculator</source>
         <translation>Rechner</translation>
     </message>
@@ -5696,6 +5692,10 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>CapsLock</source>
         <translation>Feststelltaste</translation>
+    </message>
+    <message>
+        <source>CD</source>
+        <translation>CD</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -5746,10 +5746,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Ausschneiden</translation>
     </message>
     <message>
-        <source>DOS</source>
-        <translation>DOS</translation>
-    </message>
-    <message>
         <source>Del</source>
         <translation>Entf</translation>
     </message>
@@ -5764,6 +5760,10 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>Documents</source>
         <translation>Dokumente</translation>
+    </message>
+    <message>
+        <source>DOS</source>
+        <translation>DOS</translation>
     </message>
     <message>
         <source>Down</source>
@@ -5924,6 +5924,10 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>Insert</source>
         <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>iTouch</source>
+        <translation>iTouch</translation>
     </message>
     <message>
         <source>Kana Lock</source>
@@ -6138,11 +6142,11 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Zahlen-Feststelltaste</translation>
     </message>
     <message>
-        <source>NumLock</source>
+        <source>Number Lock</source>
         <translation>Zahlen-Feststelltaste</translation>
     </message>
     <message>
-        <source>Number Lock</source>
+        <source>NumLock</source>
         <translation>Zahlen-Feststelltaste</translation>
     </message>
     <message>
@@ -6402,10 +6406,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Lautstärke +</translation>
     </message>
     <message>
-        <source>WWW</source>
-        <translation>Internet</translation>
-    </message>
-    <message>
         <source>Wake Up</source>
         <translation>Aufwecken</translation>
     </message>
@@ -6420,6 +6420,10 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>Word Processor</source>
         <translation>Textverarbeitung</translation>
+    </message>
+    <message>
+        <source>WWW</source>
+        <translation>Internet</translation>
     </message>
     <message>
         <source>XFer</source>
@@ -6444,10 +6448,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>Zoom Out</source>
         <translation>Verkleinern</translation>
-    </message>
-    <message>
-        <source>iTouch</source>
-        <translation>iTouch</translation>
     </message>
 </context>
 <context>
@@ -6959,12 +6959,12 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
 <context>
     <name>QWebFrame</name>
     <message>
-        <source>Cannot show URL</source>
-        <translation>URL kann nicht angezeigt werden</translation>
-    </message>
-    <message>
         <source>Cannot show mimetype</source>
         <translation>Mime-Typ kann nicht angezeigt werden</translation>
+    </message>
+    <message>
+        <source>Cannot show URL</source>
+        <translation>URL kann nicht angezeigt werden</translation>
     </message>
     <message>
         <source>File does not exist</source>
@@ -6985,15 +6985,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
 </context>
 <context>
     <name>QWebPage</name>
-    <message numerus="yes">
-        <source>
-            </source>
-        <comment>number of chosen file</comment>
-        <translation>
-            <numerusform>%n Datei(en)</numerusform>
-            <numerusform>%n Dateien</numerusform>
-        </translation>
-    </message>
     <message>
         <source>%1 (%2x%3 pixels)</source>
         <comment>Title string for images</comment>
@@ -7195,20 +7186,20 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Einzug</translation>
     </message>
     <message>
-        <source>Insert Bulleted List</source>
-        <translation>Liste mit Aufzählungszeichen einfügen</translation>
-    </message>
-    <message>
-        <source>Insert Numbered List</source>
-        <translation>Nummerierte Liste einfügen</translation>
-    </message>
-    <message>
         <source>Insert a new line</source>
         <translation>Neue Zeile einfügen</translation>
     </message>
     <message>
         <source>Insert a new paragraph</source>
         <translation>Neuen Absatz einfügen</translation>
+    </message>
+    <message>
+        <source>Insert Bulleted List</source>
+        <translation>Liste mit Aufzählungszeichen einfügen</translation>
+    </message>
+    <message>
+        <source>Insert Numbered List</source>
+        <translation>Nummerierte Liste einfügen</translation>
     </message>
     <message>
         <source>Inspect</source>
@@ -7328,24 +7319,24 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Griff zur Einstellung der Abspielzeit</translation>
     </message>
     <message>
-        <source>Mute Button</source>
-        <comment>Media controller element</comment>
-        <translation>Stummschalttaste</translation>
-    </message>
-    <message>
         <source>Mute audio tracks</source>
         <comment>Media controller element</comment>
         <translation>Schalte Tonspuren stumm</translation>
     </message>
     <message>
-        <source>No Guesses Found</source>
-        <comment>No Guesses Found context menu item</comment>
-        <translation>Keine Vorschläge gefunden</translation>
+        <source>Mute Button</source>
+        <comment>Media controller element</comment>
+        <translation>Stummschalttaste</translation>
     </message>
     <message>
         <source>No file selected</source>
         <comment>text to display in file button used in HTML forms when no file is selected</comment>
         <translation>Keine Datei ausgewählt</translation>
+    </message>
+    <message>
+        <source>No Guesses Found</source>
+        <comment>No Guesses Found context menu item</comment>
+        <translation>Keine Vorschläge gefunden</translation>
     </message>
     <message>
         <source>No recent searches</source>
@@ -7363,14 +7354,14 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Grafik in neuem Fenster öffnen</translation>
     </message>
     <message>
-        <source>Open Link</source>
-        <comment>Open Link context menu item</comment>
-        <translation>Link öffnen</translation>
-    </message>
-    <message>
         <source>Open in New Window</source>
         <comment>Open in New Window context menu item</comment>
         <translation>In neuem Fenster öffnen</translation>
+    </message>
+    <message>
+        <source>Open Link</source>
+        <comment>Open Link context menu item</comment>
+        <translation>Link öffnen</translation>
     </message>
     <message>
         <source>Outdent</source>
@@ -7441,14 +7432,14 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Neu laden</translation>
     </message>
     <message>
-        <source>Remaining Time</source>
-        <comment>Media controller element</comment>
-        <translation>Verbleibende Zeit</translation>
-    </message>
-    <message>
         <source>Remaining movie time</source>
         <comment>Media controller element</comment>
         <translation>Verbleibende Zeit des Films</translation>
+    </message>
+    <message>
+        <source>Remaining Time</source>
+        <comment>Media controller element</comment>
+        <translation>Verbleibende Zeit</translation>
     </message>
     <message>
         <source>Remove formatting</source>
@@ -7631,12 +7622,12 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     </message>
     <message>
         <source>Submit</source>
-        <comment>Submit (input element) alt text for &lt;input&gt; elements with no alt, title, or value</comment>
+        <comment>default label for Submit buttons in forms on web pages</comment>
         <translation>Senden</translation>
     </message>
     <message>
         <source>Submit</source>
-        <comment>default label for Submit buttons in forms on web pages</comment>
+        <comment>Submit (input element) alt text for &lt;input&gt; elements with no alt, title, or value</comment>
         <translation>Senden</translation>
     </message>
     <message>
@@ -7676,14 +7667,14 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Unbekannt</translation>
     </message>
     <message>
-        <source>Unmute Button</source>
-        <comment>Media controller element</comment>
-        <translation>Abstelltaste für Stummschaltung</translation>
-    </message>
-    <message>
         <source>Unmute audio tracks</source>
         <comment>Media controller element</comment>
         <translation>Stummschaltung der Tonspuren aufheben</translation>
+    </message>
+    <message>
+        <source>Unmute Button</source>
+        <comment>Media controller element</comment>
+        <translation>Abstelltaste für Stummschaltung</translation>
     </message>
     <message>
         <source>Video Element</source>
@@ -7698,6 +7689,15 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>Web Inspector - %2</source>
         <translation>Web Inspector - %2</translation>
+    </message>
+    <message numerus="yes">
+        <source>
+            </source>
+        <comment>number of chosen file</comment>
+        <translation>
+            <numerusform>%n Datei(en)</numerusform>
+            <numerusform>%n Dateien</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -7764,10 +7764,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
 <context>
     <name>QWorkspace</name>
     <message>
-        <source>%1 - [%2]</source>
-        <translation>%1 - [%2]</translation>
-    </message>
-    <message>
         <source>&amp;Close</source>
         <translation>Schl&amp;ießen</translation>
     </message>
@@ -7786,6 +7782,10 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>&amp;Unshade</source>
         <translation>Keine S&amp;chattierung</translation>
+    </message>
+    <message>
+        <source>%1 - [%2]</source>
+        <translation>%1 - [%2]</translation>
     </message>
     <message>
         <source>Close</source>
@@ -7818,6 +7818,98 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
 </context>
 <context>
     <name>QXml</name>
+    <message>
+        <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
+        <translation>fehlende Encoding-Deklaration oder Standalone-Deklaration beim Parsen der XML-Deklaration</translation>
+    </message>
+    <message>
+        <source>error in the text declaration of an external entity</source>
+        <translation>Fehler in der Text-Deklaration einer externen Entity</translation>
+    </message>
+    <message>
+        <source>error occurred while parsing comment</source>
+        <translation>Fehler beim Parsen eines Kommentars</translation>
+    </message>
+    <message>
+        <source>error occurred while parsing content</source>
+        <translation>Fehler beim Parsen des Inhalts eines Elements</translation>
+    </message>
+    <message>
+        <source>error occurred while parsing document type definition</source>
+        <translation>Fehler beim Parsen der Dokumenttypdefinition</translation>
+    </message>
+    <message>
+        <source>error occurred while parsing element</source>
+        <translation>Fehler beim Parsen eines Elements</translation>
+    </message>
+    <message>
+        <source>error occurred while parsing reference</source>
+        <translation>Fehler beim Parsen einer Referenz</translation>
+    </message>
+    <message>
+        <source>error triggered by consumer</source>
+        <translation>Konsument löste Fehler aus</translation>
+    </message>
+    <message>
+        <source>external parsed general entity reference not allowed in attribute value</source>
+        <translation>in einem Attribut-Wert sind keine externen Entity-Referenzen erlaubt</translation>
+    </message>
+    <message>
+        <source>external parsed general entity reference not allowed in DTD</source>
+        <translation>in der DTD sind keine externen Entity-Referenzen erlaubt </translation>
+    </message>
+    <message>
+        <source>internal general entity reference not allowed in DTD</source>
+        <translation>in einer DTD ist keine interne allgemeine Entity-Referenz erlaubt</translation>
+    </message>
+    <message>
+        <source>invalid name for processing instruction</source>
+        <translation>kein gültiger Name für eine Processing-Instruktion</translation>
+    </message>
+    <message>
+        <source>letter is expected</source>
+        <translation>ein Buchstabe ist an dieser Stelle erforderlich</translation>
+    </message>
+    <message>
+        <source>more than one document type definition</source>
+        <translation>mehrere Dokumenttypdefinitionen</translation>
+    </message>
+    <message>
+        <source>no error occurred</source>
+        <translation>kein Fehler</translation>
+    </message>
+    <message>
+        <source>recursive entities</source>
+        <translation>rekursive Entity</translation>
+    </message>
+    <message>
+        <source>standalone declaration expected while reading the XML declaration</source>
+        <translation>fehlende Standalone-Deklaration beim Parsen der XML Deklaration</translation>
+    </message>
+    <message>
+        <source>tag mismatch</source>
+        <translation>Element-Tags sind nicht richtig geschachtelt</translation>
+    </message>
+    <message>
+        <source>unexpected character</source>
+        <translation>unerwartetes Zeichen</translation>
+    </message>
+    <message>
+        <source>unexpected end of file</source>
+        <translation>unerwartetes Ende der Datei</translation>
+    </message>
+    <message>
+        <source>unparsed entity reference in wrong context</source>
+        <translation>nicht-analysierte Entity-Referenz im falschen Kontext verwendet</translation>
+    </message>
+    <message>
+        <source>version expected while reading the XML declaration</source>
+        <translation>fehlende Version beim Parsen der XML-Deklaration</translation>
+    </message>
+    <message>
+        <source>wrong value for standalone declaration</source>
+        <translation>falscher Wert für die Standalone-Deklaration</translation>
+    </message>
     <message>
         <source>Encoding declaration or standalone declaration expected while reading the XML declaration</source>
         <translation>fehlende Encoding-Deklaration oder Standalone-Deklaration beim Parsen der XML-Deklaration</translation>
@@ -7910,98 +8002,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <source>Wrong value for standalone declaration</source>
         <translation>falscher Wert für die Standalone-Deklaration</translation>
     </message>
-    <message>
-        <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation>fehlende Encoding-Deklaration oder Standalone-Deklaration beim Parsen der XML-Deklaration</translation>
-    </message>
-    <message>
-        <source>error in the text declaration of an external entity</source>
-        <translation>Fehler in der Text-Deklaration einer externen Entity</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing comment</source>
-        <translation>Fehler beim Parsen eines Kommentars</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing content</source>
-        <translation>Fehler beim Parsen des Inhalts eines Elements</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing document type definition</source>
-        <translation>Fehler beim Parsen der Dokumenttypdefinition</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing element</source>
-        <translation>Fehler beim Parsen eines Elements</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing reference</source>
-        <translation>Fehler beim Parsen einer Referenz</translation>
-    </message>
-    <message>
-        <source>error triggered by consumer</source>
-        <translation>Konsument löste Fehler aus</translation>
-    </message>
-    <message>
-        <source>external parsed general entity reference not allowed in DTD</source>
-        <translation>in der DTD sind keine externen Entity-Referenzen erlaubt </translation>
-    </message>
-    <message>
-        <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation>in einem Attribut-Wert sind keine externen Entity-Referenzen erlaubt</translation>
-    </message>
-    <message>
-        <source>internal general entity reference not allowed in DTD</source>
-        <translation>in einer DTD ist keine interne allgemeine Entity-Referenz erlaubt</translation>
-    </message>
-    <message>
-        <source>invalid name for processing instruction</source>
-        <translation>kein gültiger Name für eine Processing-Instruktion</translation>
-    </message>
-    <message>
-        <source>letter is expected</source>
-        <translation>ein Buchstabe ist an dieser Stelle erforderlich</translation>
-    </message>
-    <message>
-        <source>more than one document type definition</source>
-        <translation>mehrere Dokumenttypdefinitionen</translation>
-    </message>
-    <message>
-        <source>no error occurred</source>
-        <translation>kein Fehler</translation>
-    </message>
-    <message>
-        <source>recursive entities</source>
-        <translation>rekursive Entity</translation>
-    </message>
-    <message>
-        <source>standalone declaration expected while reading the XML declaration</source>
-        <translation>fehlende Standalone-Deklaration beim Parsen der XML Deklaration</translation>
-    </message>
-    <message>
-        <source>tag mismatch</source>
-        <translation>Element-Tags sind nicht richtig geschachtelt</translation>
-    </message>
-    <message>
-        <source>unexpected character</source>
-        <translation>unerwartetes Zeichen</translation>
-    </message>
-    <message>
-        <source>unexpected end of file</source>
-        <translation>unerwartetes Ende der Datei</translation>
-    </message>
-    <message>
-        <source>unparsed entity reference in wrong context</source>
-        <translation>nicht-analysierte Entity-Referenz im falschen Kontext verwendet</translation>
-    </message>
-    <message>
-        <source>version expected while reading the XML declaration</source>
-        <translation>fehlende Version beim Parsen der XML-Deklaration</translation>
-    </message>
-    <message>
-        <source>wrong value for standalone declaration</source>
-        <translation>falscher Wert für die Standalone-Deklaration</translation>
-    </message>
 </context>
 <context>
     <name>QXmlPatternistCLI</name>
@@ -8029,8 +8029,8 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
 <context>
     <name>QXmlStream</name>
     <message>
-        <source>%1 is an invalid PUBLIC identifier.</source>
-        <translation>%1 ist keine gültige Angabe für eine PUBLIC-Id.</translation>
+        <source>, but got &apos;</source>
+        <translation>erwartet, stattdessen erhalten &apos;</translation>
     </message>
     <message>
         <source>%1 is an invalid encoding name.</source>
@@ -8041,8 +8041,8 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>%1 ist kein gültiger Name für eine Prozessing-Instruktion.</translation>
     </message>
     <message>
-        <source>, but got &apos;</source>
-        <translation>erwartet, stattdessen erhalten &apos;</translation>
+        <source>%1 is an invalid PUBLIC identifier.</source>
+        <translation>%1 ist keine gültige Angabe für eine PUBLIC-Id.</translation>
     </message>
     <message>
         <source>Attribute redefined.</source>
@@ -8055,10 +8055,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>Encountered incorrectly encoded content.</source>
         <translation>Es wurde Inhalt mit einer ungültigen Kodierung gefunden.</translation>
-    </message>
-    <message>
-        <source>Entity &apos;%1&apos; is not declared.</source>
-        <translation>Die Entity &apos;%1&apos; ist nicht deklariert.</translation>
     </message>
     <message>
         <source>Entity &apos;%1&apos; not declared.</source>
@@ -8081,18 +8077,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Ungültige Namensraum-Deklaration.</translation>
     </message>
     <message>
-        <source>Invalid XML character.</source>
-        <translation>Ungültiges XML-Zeichen.</translation>
-    </message>
-    <message>
-        <source>Invalid XML name.</source>
-        <translation>Ungültiger XML-Name.</translation>
-    </message>
-    <message>
-        <source>Invalid XML version string.</source>
-        <translation>Ungültige XML-Versionsangabe.</translation>
-    </message>
-    <message>
         <source>Invalid attribute in XML declaration.</source>
         <translation>Die XML-Deklaration enthält ein ungültiges Attribut.</translation>
     </message>
@@ -8113,12 +8097,24 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Der Name der Prozessing-Instruktion ist ungültig.</translation>
     </message>
     <message>
-        <source>NDATA in parameter entity declaration.</source>
-        <translation>Eine Parameter-Entity-Deklaration darf kein NDATA enthalten.</translation>
+        <source>Invalid XML character.</source>
+        <translation>Ungültiges XML-Zeichen.</translation>
+    </message>
+    <message>
+        <source>Invalid XML name.</source>
+        <translation>Ungültiger XML-Name.</translation>
+    </message>
+    <message>
+        <source>Invalid XML version string.</source>
+        <translation>Ungültige XML-Versionsangabe.</translation>
     </message>
     <message>
         <source>Namespace prefix &apos;%1&apos; not declared</source>
         <translation>Der Namensraum-Präfix &apos;%1&apos; wurde nicht deklariert</translation>
+    </message>
+    <message>
+        <source>NDATA in parameter entity declaration.</source>
+        <translation>Eine Parameter-Entity-Deklaration darf kein NDATA enthalten.</translation>
     </message>
     <message>
         <source>Opening and ending tag mismatch.</source>
@@ -8169,23 +8165,23 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Diese XML-Version wird nicht unterstützt.</translation>
     </message>
     <message>
-        <source>XML declaration is not at start of document.</source>
+        <source>XML declaration not at start of document.</source>
         <translation>Die XML-Deklaration befindet sich nicht am Anfang des Dokuments.</translation>
     </message>
     <message>
-        <source>XML declaration not at start of document.</source>
+        <source>Entity &apos;%1&apos; is not declared.</source>
+        <translation>Die Entity &apos;%1&apos; ist nicht deklariert.</translation>
+    </message>
+    <message>
+        <source>XML declaration is not at start of document.</source>
         <translation>Die XML-Deklaration befindet sich nicht am Anfang des Dokuments.</translation>
     </message>
 </context>
 <context>
     <name>QtXmlPatterns</name>
-    <message numerus="yes">
-        <source>
-            </source>
-        <translation>
-            <numerusform>%1 erfordert mindestensein Argument; die Angabe %2 ist daher ungültig.</numerusform>
-            <numerusform>%1 erfordert mindestens %n Argumente; die Angabe %2 ist daher ungültig.</numerusform>
-        </translation>
+    <message>
+        <source>&apos;%1&apos; attribute contains invalid QName content: %2.</source>
+        <translation>Attribut &apos;%1&apos; enthält einen ungültigen qualifizierten Namen: %2.</translation>
     </message>
     <message>
         <source>%1 and %2 match the start and end of a line.</source>
@@ -8416,10 +8412,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Das Encoding %1 wird nicht unterstützt.</translation>
     </message>
     <message>
-        <source>%1 is not a valid XML 1.0 character.</source>
-        <translation>%1 ist kein gültiges XML 1.0 Zeichen.</translation>
-    </message>
-    <message>
         <source>%1 is not a valid name for a processing-instruction.</source>
         <translation>%1 ist kein gültiger Name für eine Processing-Instruktion.</translation>
     </message>
@@ -8434,6 +8426,10 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>%1 is not a valid value of type %2.</source>
         <translation>%1 ist kein gültiger Wert des Typs %2.</translation>
+    </message>
+    <message>
+        <source>%1 is not a valid XML 1.0 character.</source>
+        <translation>%1 ist kein gültiges XML 1.0 Zeichen.</translation>
     </message>
     <message>
         <source>%1 is not a whole number of minutes.</source>
@@ -8524,10 +8520,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>%1, %2, %3, %4, %5 and %6 facets are not allowed when derived by list.</source>
         <translation>Die Facetten %1, %2, %3, %4, %5 und %6 sind bei Vererbung durch Listen nicht zulässig.</translation>
-    </message>
-    <message>
-        <source>&apos;%1&apos; attribute contains invalid QName content: %2.</source>
-        <translation>Attribut &apos;%1&apos; enthält einen ungültigen qualifizierten Namen: %2.</translation>
     </message>
     <message>
         <source>A comment cannot contain %1</source>
@@ -9174,12 +9166,20 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Die Elementgruppe %1 ist bereits definiert.</translation>
     </message>
     <message>
+        <source>empty</source>
+        <translation>leer</translation>
+    </message>
+    <message>
         <source>Empty particle cannot be derived from non-empty particle.</source>
         <translation>Es kann kein leerer Partikel von einem Partikel abgeleitet werden, der nicht leer ist.</translation>
     </message>
     <message>
         <source>Enumeration facet contains invalid content: {%1} is not a value of type %2.</source>
         <translation>Ungültiger Inhalt einer Aufzählungsfacette: {%1} ist kein Wert des Typs %2.</translation>
+    </message>
+    <message>
+        <source>exactly one</source>
+        <translation>genau ein</translation>
     </message>
     <message>
         <source>Field %1 has no simple type.</source>
@@ -9430,6 +9430,10 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Der Inhalt der Notation ist nicht in der Aufzählungsfacette enthalten.</translation>
     </message>
     <message>
+        <source>one or more</source>
+        <translation>ein oder mehrere</translation>
+    </message>
+    <message>
         <source>Only %1 and %2 facets are allowed when derived by union.</source>
         <translation>Bei Vererbung durch Vereinigung sind nur die Facetten %1 und %2 zulässig.</translation>
     </message>
@@ -9442,12 +9446,12 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Es darf nur ein einziges %1-Element stehen.</translation>
     </message>
     <message>
-        <source>Only the Unicode Codepoint Collation is supported(%1). %2 is unsupported.</source>
-        <translation>Es wird nur Unicode Codepoint Collation unterstützt (%1). %2 wird nicht unterstützt.</translation>
-    </message>
-    <message>
         <source>Only the prefix %1 can be bound to %2 and vice versa.</source>
         <translation>An %2 kann nur das Präfix %1 gebunden werden (und umgekehrt).</translation>
+    </message>
+    <message>
+        <source>Only the Unicode Codepoint Collation is supported(%1). %2 is unsupported.</source>
+        <translation>Es wird nur Unicode Codepoint Collation unterstützt (%1). %2 wird nicht unterstützt.</translation>
     </message>
     <message>
         <source>Operator %1 cannot be used on atomic values of type %2 and %3.</source>
@@ -9484,6 +9488,14 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>Prefix of qualified name %1 is not defined.</source>
         <translation>Der Präfix des qualifizierten Namens %1 ist nicht definiert.</translation>
+    </message>
+    <message>
+        <source>processContent of base wildcard must be weaker than derived wildcard.</source>
+        <translation>Das &apos;processContent&apos;-Attribut des Basissuchmusters muss schwächer sein als das des abgeleiteten Suchmusters.</translation>
+    </message>
+    <message>
+        <source>processContent of wildcard in derived particle is weaker than wildcard in base particle.</source>
+        <translation>Das processContent-Attribut des Suchmusters des abgeleiteten Partikels ist schwächer als das Suchmuster des Basispartikels.</translation>
     </message>
     <message>
         <source>Promoting %1 to %2 may cause loss of precision.</source>
@@ -9634,18 +9646,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Die %1-Achse wird in XQuery nicht unterstützt</translation>
     </message>
     <message>
-        <source>The Schema Import feature is not supported, and therefore %1 declarations cannot occur.</source>
-        <translation>Die Deklaration %1 ist unzulässig, da Schema-Import nicht unterstützt wird.</translation>
-    </message>
-    <message>
-        <source>The Schema Validation Feature is not supported. Hence, %1-expressions may not be used.</source>
-        <translation>%1-Ausdrücke können nicht verwendet werden, da Schemavalidierung nicht unterstützt wird. </translation>
-    </message>
-    <message>
-        <source>The URI cannot have a fragment</source>
-        <translation>Der URI darf kein Fragment enthalten.</translation>
-    </message>
-    <message>
         <source>The attribute %1 can only appear on the first %2 element.</source>
         <translation>Nur das erste %2-Element darf das Attribut %1 haben.</translation>
     </message>
@@ -9726,6 +9726,14 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Der Namensraum %1 ist reserviert und kann daher von nutzerdefinierten Funktionen nicht verwendet werden (für diesen Zweck gibt es das vordefinierte Präfix %2).</translation>
     </message>
     <message>
+        <source>The namespace for a user defined function cannot be empty (try the predefined prefix %1 which exists for cases like this)</source>
+        <translation>Der Namensraum einer benutzerdefinierten Funktion darf nicht leer sein (für diesen Zweck gibt es den vordefinierten Präfix %1)</translation>
+    </message>
+    <message>
+        <source>The namespace of a user defined function in a library module must be equivalent to the module namespace. In other words, it should be %1 instead of %2</source>
+        <translation>Der Namensraum einer nutzerdefinierten Funktion aus einem Bibliotheksmodul muss dem Namensraum des Moduls entsprechen (%1 anstatt %2) </translation>
+    </message>
+    <message>
         <source>The namespace URI cannot be the empty string when binding to a prefix, %1.</source>
         <translation>Der Namensraum-URI darf nicht leer sein, wenn er an den Präfix %1 gebunden ist.</translation>
     </message>
@@ -9736,14 +9744,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>The namespace URI must be a constant and cannot use enclosed expressions.</source>
         <translation>Ein Namensraum-URI muss eine Konstante sein und darf keine eingebetteten Ausdrücke verwenden.</translation>
-    </message>
-    <message>
-        <source>The namespace for a user defined function cannot be empty (try the predefined prefix %1 which exists for cases like this)</source>
-        <translation>Der Namensraum einer benutzerdefinierten Funktion darf nicht leer sein (für diesen Zweck gibt es den vordefinierten Präfix %1)</translation>
-    </message>
-    <message>
-        <source>The namespace of a user defined function in a library module must be equivalent to the module namespace. In other words, it should be %1 instead of %2</source>
-        <translation>Der Namensraum einer nutzerdefinierten Funktion aus einem Bibliotheksmodul muss dem Namensraum des Moduls entsprechen (%1 anstatt %2) </translation>
     </message>
     <message>
         <source>The normalization form %1 is unsupported. The supported forms are %2, %3, %4, and %5, and none, i.e. the empty string (no normalization).</source>
@@ -9774,6 +9774,14 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Der übergeordnete Knoten des zweiten Arguments der Funktion %1 muss ein Dokumentknoten sein, was bei %2 nicht der Fall ist.</translation>
     </message>
     <message>
+        <source>The Schema Import feature is not supported, and therefore %1 declarations cannot occur.</source>
+        <translation>Die Deklaration %1 ist unzulässig, da Schema-Import nicht unterstützt wird.</translation>
+    </message>
+    <message>
+        <source>The Schema Validation Feature is not supported. Hence, %1-expressions may not be used.</source>
+        <translation>%1-Ausdrücke können nicht verwendet werden, da Schemavalidierung nicht unterstützt wird. </translation>
+    </message>
+    <message>
         <source>The second argument to %1 cannot be of type %2. It must be of type %3, %4, or %5.</source>
         <translation>Das zweite Argument von %1 kann nicht vom Typ %2 sein, es muss einer der Typen %3, %4 oder %5 sein.</translation>
     </message>
@@ -9784,6 +9792,10 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>The target namespace of a %1 cannot be empty.</source>
         <translation>Der Ziel-Namensraum von %1 darf nicht leer sein.</translation>
+    </message>
+    <message>
+        <source>The URI cannot have a fragment</source>
+        <translation>Der URI darf kein Fragment enthalten.</translation>
     </message>
     <message>
         <source>The value for attribute %1 on element %2 must either be %3 or %4, not %5.</source>
@@ -9866,12 +9878,12 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Die Vereinigung der Attributssuchmuster des Typs %1 und seines Basistyps %2 ergibt keinen gültigen Ausdruck.</translation>
     </message>
     <message>
-        <source>Unknown XSL-T attribute %1.</source>
-        <translation>Unbekanntes XSL-T-Attribut: %1.</translation>
-    </message>
-    <message>
         <source>Unknown notation %1 used in %2 facet.</source>
         <translation>Die Facette %2 enthält eine ungültige Notation %1.</translation>
+    </message>
+    <message>
+        <source>Unknown XSL-T attribute %1.</source>
+        <translation>Unbekanntes XSL-T-Attribut: %1.</translation>
     </message>
     <message>
         <source>Unsigned integer content does not match in the totalDigits facet.</source>
@@ -9970,30 +9982,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>Das Suchmuster im abgeleiteten Partikel ist keine gültige Untermenge des Suchmusters des Basispartikels.</translation>
     </message>
     <message>
-        <source>Year %1 is invalid because it begins with %2.</source>
-        <translation>%1 ist keine gültige Jahresangabe, da es mit %2 beginnt.</translation>
-    </message>
-    <message>
-        <source>empty</source>
-        <translation>leer</translation>
-    </message>
-    <message>
-        <source>exactly one</source>
-        <translation>genau ein</translation>
-    </message>
-    <message>
-        <source>one or more</source>
-        <translation>ein oder mehrere</translation>
-    </message>
-    <message>
-        <source>processContent of base wildcard must be weaker than derived wildcard.</source>
-        <translation>Das &apos;processContent&apos;-Attribut des Basissuchmusters muss schwächer sein als das des abgeleiteten Suchmusters.</translation>
-    </message>
-    <message>
-        <source>processContent of wildcard in derived particle is weaker than wildcard in base particle.</source>
-        <translation>Das processContent-Attribut des Suchmusters des abgeleiteten Partikels ist schwächer als das Suchmuster des Basispartikels.</translation>
-    </message>
-    <message>
         <source>xsi:noNamespaceSchemaLocation cannot appear after the first no-namespace element or attribute.</source>
         <translation>xsi:noNamespaceSchemaLocation kann nicht nach dem ersten Element oder Attribut ohne Namensraum erscheinen.</translation>
     </message>
@@ -10002,12 +9990,24 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <translation>xsi:schemaLocation namespace %1 wurde im Instanzdokument bereits spezifiziert.</translation>
     </message>
     <message>
+        <source>Year %1 is invalid because it begins with %2.</source>
+        <translation>%1 ist keine gültige Jahresangabe, da es mit %2 beginnt.</translation>
+    </message>
+    <message>
         <source>zero or more</source>
         <translation>kein oder mehrere</translation>
     </message>
     <message>
         <source>zero or one</source>
         <translation>kein oder ein</translation>
+    </message>
+    <message numerus="yes">
+        <source>
+            </source>
+        <translation>
+            <numerusform>%1 erfordert mindestensein Argument; die Angabe %2 ist daher ungültig.</numerusform>
+            <numerusform>%1 erfordert mindestens %n Argumente; die Angabe %2 ist daher ungültig.</numerusform>
+        </translation>
     </message>
 </context>
 </TS>

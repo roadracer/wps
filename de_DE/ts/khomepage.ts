@@ -67,9 +67,5 @@
         <source>Version is too old.</source>
         <translation>Version ist zu alt.</translation>
     </message>
-    <message>
-        <source>docerhomepage</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 </TS>

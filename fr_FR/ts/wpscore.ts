@@ -3,6 +3,85 @@
 <TS version="2.0" language="fr_FR">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
+    <name>field_parser_index</name>
+    <message>
+        <source>Error!Can not find xe.</source>
+        <translation type="obsolete">Erreur ! Impossible de trouver xe.</translation>
+    </message>
+    <message>
+        <source>Error!Switch parameter is not specified.</source>
+        <translation type="obsolete">Erreur ! Le paramètre de commutateur n&apos;est pas spécifié.</translation>
+    </message>
+    <message>
+        <source>Error!Bookmark the page of an invalid.</source>
+        <translation type="obsolete">Erreur ! </translation>
+    </message>
+    <message>
+        <source>Alphabet</source>
+        <translation type="obsolete">Alphabet</translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation>Caractères spéciaux</translation>
+    </message>
+    <message>
+        <source>Error!Switch parameter unrecognizable.</source>
+        <translation type="obsolete">Erreur ! Le paramètre de commutateur méconnaissable.</translation>
+    </message>
+    <message>
+        <source>Stroke</source>
+        <translation>Trait</translation>
+    </message>
+    <message>
+        <source>Chinese</source>
+        <translation>Le chinois</translation>
+    </message>
+    <message>
+        <source>Error!Is not a valid character range.</source>
+        <translation type="obsolete">Erreur ! Ce n&apos;est pas une plage de caractère valide.</translation>
+    </message>
+    <message>
+        <source>Error! Index not allowed in footnote, endnote, header, footer, comment, or text box.</source>
+        <translation type="obsolete">Erreur ! L&apos;index n&apos;est pas autorisé dans les notes de fin ou de bas de page, les en-têtes et les pieds de page, les commentaires, ou les zones de texte.</translation>
+    </message>
+    <message>
+        <source>wps can not update index!</source>
+        <translation type="obsolete">WPS ne peut pas mettre à jour de l&apos;index !</translation>
+    </message>
+    <message>
+        <source>Error. No index entries found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Switch argument not specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Not a valid bookmark in entry on page .</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alphanumeric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Unknown switch argument.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Not a valid range of characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot update Index.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>wps_comment</name>
     <message>
         <source>Comment</source>
@@ -38,21 +117,25 @@
     <message>
         <source>Error! Too many picture switches defined.</source>
         <comment>TX_FIELD_ERR_TOO_MANY_PICTURE</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:Time-&gt;Field codes:TIME \@dd\@dd</translatorcomment>
         <translation>Erreur ! Trop de commutateurs d&apos;image définis.</translation>
     </message>
     <message>
         <source>Error! Picture switch must be the first formatting switch.</source>
         <comment>TX_FIELD_ERR_PICTURE_FORMAT_NOT_FIRST</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:DocProperty-&gt;Document property:Author-&gt;Field codes:DOCPROPERTY Author\*caps\@</translatorcomment>
         <translation>Erreur ! Le commutateur de l&apos;image doit d&apos;abord être un commutateur de mise en forme.</translation>
     </message>
     <message>
         <source>Error! The style name is not specified.</source>
         <comment>TX_FIELD_ERR_STYLEREF_NO_STYLENAME_GIVEN</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:StyleRef,Style name:Normal-&gt;Field codes:delete &quot;Normal&quot;-&gt;click OK</translatorcomment>
         <translation>Erreur ! Nom de style non spécifié.</translation>
     </message>
     <message>
         <source>Error! The style is not specified.</source>
         <comment>TX_FIELD_ERR_STYLE_NOT_DEFINED</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:StyleRef,Style name:Heading 1-&gt;click OK</translatorcomment>
         <translation>Erreur ! Style non spécifié.</translation>
     </message>
     <message>
@@ -76,16 +159,19 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>Error! Unknown switch argument.</source>
         <comment>TX_FIELD_ERR_UNKNOWN_SWITCH_ARGUMENT</comment>
+        <translatorcomment>deserted</translatorcomment>
         <translation>Erreur ! Argument de commutateur inconnu.</translation>
     </message>
     <message>
         <source>Error! Switch argument not specified.</source>
         <comment>TX_FIELD_ERR_SWITCH_ARGUMENT_NOT_SPECIFIED</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:Time-&gt;Field codes:TIME\@</translatorcomment>
         <translation>Erreur ! Les arguments du commutateur ne sont pas spécifiés.</translation>
     </message>
     <message>
         <source>Error! Picture string contains unmatched quotes.</source>
         <comment>TX_FIELD_ERR_PICTURE_STRING_CONTAINS_UNMATCHED_QUOTES</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:Time-&gt;Field codes:TIME\@&apos;</translatorcomment>
         <translation>Erreur ! La chaîne de l&apos;image contient des guillemets qui ne correspondent pas.</translation>
     </message>
 </context>
@@ -104,6 +190,7 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>Error! Bookmark not defined.</source>
         <comment>TX_FIELD_ERR_BOOKMARK_NOT_DEFINED</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:PageRef-&gt;Field codes:type &quot;a&quot; after&quot;PAGEREF&quot;-&gt;click OK</translatorcomment>
         <translation>Erreur ! Signet non défini.</translation>
     </message>
     <message>
@@ -136,17 +223,59 @@ Essayez une ou plusieurs des opérations suivantes :
         <comment>TX_FILED_LINK_DOCUMENTTOP</comment>
         <translation>_Haut</translation>
     </message>
+    <message>
+        <source>Only main text.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation type="obsolete">Uniquement pour le texte principal.</translation>
+    </message>
+    <message>
+        <source>Error! lack of test conditions.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation type="obsolete">Erreur ! Conditions du test manque.</translation>
+    </message>
+    <message>
+        <source>Error! cannot recognize the condition operation code.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation type="obsolete">Erreur ! Impossible de reconnaître le code de condition opération.</translation>
+    </message>
+    <message>
+        <source>Error! lack of the second part test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
+        <translation type="obsolete">Erreur ! La deuxième partie des conditions du test manque.</translation>
+    </message>
+    <message>
+        <source>Main Document Only.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Missing test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Unknown op code for conditional.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Missing second part of test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_field_parser_document_information</name>
     <message>
         <source>Error! Unknown document property name</source>
         <comment>TX_FIELD_ERR_DOCPROPERTY_UNKNOWN_PROPERTY</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:DocProperty-&gt;Field codes:type &quot;aaa&quot; after &quot;DOCPROPERTY&quot;-&gt;click OK</translatorcomment>
         <translation>Erreur ! Nom de propriété de document inconnu</translation>
     </message>
     <message>
         <source>Error! No property name supplied</source>
         <comment>TX_FIELD_ERR_DOCPROPERTY_UNSPECIFIED_PROPERTY</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:DocProperty-&gt;click OK</translatorcomment>
         <translation>Erreur ! Aucun nom de propriété n&apos;a été fourni.</translation>
     </message>
 </context>
@@ -155,6 +284,7 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>Error! Hyperlink reference is invalid.</source>
         <comment>TX_FIELD_ERR_HYPERLINK_REFERENCE_NOT_VALID</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:Hyperlink-&gt;click OK</translatorcomment>
         <translation>Erreur ! Référence de lien hypertexte non valide.</translation>
     </message>
     <message>
@@ -185,26 +315,31 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>Error! Table of contents not allowed in footnote, endnote, header, footer, comment, or text box.</source>
         <comment>TX_FIELD_ERR_NO_TOC_ALLOWED</comment>
-        <translation>Erreur ! Les tables des matières ne sont pas autorisées dans les notes de fin ou de bas de page, les pieds de page ou les zones de texte.</translation>
+        <translatorcomment>New document-&gt;type “a”-&gt;Home tab-&gt;click Heading 1 for &quot;a&quot;-&gt;Reference tab-&gt;Insert TOC-&gt;dialog Table of Contents,click OK-&gt;Insert tab-&gt;Text Box-&gt;draw a text box-&gt;cut the TOC and paste it into the text box-&gt;right click the TOC in the text box-&gt;click Update Field</translatorcomment>
+        <translation>Erreur ! Les tables des matières ne sont pas autorisées dans les notes de fin ou de bas de page, les en-têtes et les pieds de page, les commentaires, ou les zones de texte.</translation>
     </message>
     <message>
         <source>Error! No table of contents entries found.</source>
         <comment>TX_FIELD_ERR_NOT_TABLE_OF_CONTENTS_ENTRIES_FOUND</comment>
+        <translatorcomment>Insert tab-&gt;Fileds-&gt;Filed names:TOC-&gt;click OK</translatorcomment>
         <translation>Erreur ! Aucune entrée de table des matières n&apos;a été trouvée.</translation>
     </message>
     <message>
         <source>Error! No bookmark name given.</source>
         <comment>TX_FIELD_ERR_NO_BOOKMARK_SPECIFIED</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:PageRef-&gt;click OK</translatorcomment>
         <translation>Erreur ! Aucun nom n&apos;a été donné au signet.</translation>
     </message>
     <message>
         <source>Error! The file you specified cannot be opened.</source>
         <comment>TX_FIELD_ERR_CANNOT_OPEN_FILE</comment>
+        <translatorcomment>Insert tab-&gt;Hyperlink-&gt;chosse a file,click OK-&gt;move the to another folder-&gt;Ctrl+click the link inserted in WPS</translatorcomment>
         <translation>Erreur ! Impossible d&apos;ouvrir le fichier spécifié.</translation>
     </message>
     <message>
         <source>Error! File name not specified.</source>
         <comment>TX_FIELD_ERR_FILENAME_NOT_SPECIFIED</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:IncludePicture-&gt;click OK</translatorcomment>
         <translation>Erreur ! Nom de fichier non spécifié.</translation>
     </message>
     <message>
@@ -215,21 +350,25 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>Error! Not a valid bookmark self-reference.</source>
         <comment>TX_FIELD_ERR_SELF_REFERENCE</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Filed names:StyleRef,Style name:Normal-&gt;click OK</translatorcomment>
         <translation>Erreur ! Référence non valide pour un signet.</translation>
     </message>
     <message>
         <source>Error! Invalid file name.</source>
         <comment>TX_FIELD_ERR_FILENAME_NOT_EXISTED</comment>
+        <translatorcomment>deserted</translatorcomment>
         <translation>Erreur ! Nom de fichier non valide.</translation>
     </message>
     <message>
         <source>Error! Include may not refer to itself.</source>
         <comment>TX_FIELD_ERR_CANNOT_INCLUDE_ITSELF</comment>
+        <translatorcomment>deserted</translatorcomment>
         <translation>Erreur ! Inclure ne peut se référer à lui-même.</translation>
     </message>
     <message>
         <source>Fields are nested too deeply.</source>
         <comment>TX_FIELD_ERR_NESTED_TOO_MUCH</comment>
+        <translatorcomment>deserted</translatorcomment>
         <translation>Trop de niveaux d&apos;imbrication de champs.</translation>
     </message>
 </context>
@@ -251,26 +390,31 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>Error! No sequence specified.</source>
         <comment>TX_FIELD_ERR_NO_SEQUENCE_SPECIFIED</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:Seq-&gt;Field codes:SEQ@</translatorcomment>
         <translation>Erreur ! Pas de séquence spécifiée.</translation>
     </message>
     <message>
         <source>! Formula is not in the table.</source>
         <comment>TX_FIELD_ERR_EXPRESSION_NOTIN_TABLE</comment>
-        <translation>! Formule non dans le tableau.</translation>
+        <translatorcomment>Insert tab-&gt;Table-&gt;insert a table of 1*3-&gt;type a number in the 1st and 2nd column-&gt;put the cursor into the 3rd column-&gt;Insert tab-&gt;Fields-&gt;Field names:Formula-&gt;Field codes:&quot;=SUM(LEFT)&quot;-&gt;click OK-&gt;select the result and drag it out of the table-&gt;press F9</translatorcomment>
+        <translation>! La formule n&apos;est pas dans le tableau</translation>
     </message>
     <message>
         <source>!Undefined bookmark,</source>
         <comment>TX_FIELD_ERR_BOOKMARK_NOTDEFINED</comment>
+        <translatorcomment>Insert tab-&gt;Table-&gt;insert a table-&gt;Formula-&gt;Formula dialog-&gt;Formula:type &quot;a&quot;-&gt;click OK</translatorcomment>
         <translation>!Signet indéfini,</translation>
     </message>
     <message>
         <source>!Abnormal formula end</source>
         <comment>TX_FIELD_ERR_COMPILE_UNEXPECTED_END</comment>
-        <translation>!Fin de formule anormale</translation>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:Formula-&gt;Field codes:={=} -&gt;click ok</translatorcomment>
+        <translation>!Fin de formule inattendue</translation>
     </message>
     <message>
         <source>!Divisor is zero</source>
         <comment>TX_FIELD_ERR_COMPILE_DIVIDEND_IS_ZERO</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Fied names:Formula-&gt;Field codes:=1/0,click ok</translatorcomment>
         <translation>!Le diviseur est zéro</translation>
     </message>
     <message>
@@ -286,6 +430,7 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>!Syntax errors</source>
         <comment>TX_FIELD_ERR_COMPILE_SYNTAX</comment>
+        <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:Formula,Paste fuction:AND-&gt;Field codes:type 1 between the parentheses-&gt;click OK</translatorcomment>
         <translation>!Erreurs de syntaxe</translation>
     </message>
 </context>
@@ -556,7 +701,7 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>Cannot split the selection because it contains joined cells.</source>
         <comment>_TxSplitCells_CantSplitMergeCellError</comment>
-        <translation>Impossible de fractionner la sélection car elle contient des cellules jointes.</translation>
+        <translation>Impossible de fractionner la sélection car elle contient des cellules fusionnées.</translation>
     </message>
     <message>
         <source>Cannot split cells vertically in multiple rows.</source>
@@ -566,6 +711,7 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>You must select more than one columns.</source>
         <comment>_TxDistributeWidth_MultColumsErr</comment>
+        <translatorcomment>Insert tab-&gt;Table-&gt;insert a table of 2*2-&gt;Table Tools tab-&gt;Select one coloumn-&gt;Autofit drop-down menu-&gt;Distribute Columns Evenly</translatorcomment>
         <translation>Vous devez sélectionner plus d&apos;une colonne.</translation>
     </message>
     <message>
@@ -576,6 +722,7 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>You must select more than one rows.</source>
         <comment>_TxDistributeWidth_MultRowsErr</comment>
+        <translatorcomment>Insert tab-&gt;Table-&gt;insert a table of 2*2-&gt;Table Tools tab-&gt;Select one row-&gt;Autofit drop-down menu-&gt;Distribute Rows Evenly</translatorcomment>
         <translation>Vous devez sélectionner plus d&apos;une ligne.</translation>
     </message>
 </context>
@@ -704,7 +851,7 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>AaBbCc</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation>AaBbCc</translation>
+        <translation type="obsolete">AaBbCc</translation>
     </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
@@ -714,11 +861,13 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>WPS Writer has reached the beginning of the document.</source>
         <comment>_TxFind_ReachBeginningOfDoc</comment>
+        <translatorcomment>New document-&gt;type &quot;a&quot;-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Up-&gt;click Find Next-&gt;click Find Next again</translatorcomment>
         <translation>WPS Writer a atteint le début du document.</translation>
     </message>
     <message>
         <source>WPS Writer has reached the end of the document.</source>
         <comment>_TxFind_ReachEndOfDoc</comment>
+        <translatorcomment>New document-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Down-&gt;click Find Next</translatorcomment>
         <translation>WPS Writer a atteint la fin du document.</translation>
     </message>
     <message>
@@ -734,6 +883,7 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>WPS Writer has finished searching the selection.</source>
         <comment>_TxFind_FinishSearchingSelection</comment>
+        <translatorcomment>New document-&gt;type &quot;a&quot;-&gt;Home tab-&gt;Find and Replace-&gt;Replace tab-&gt;Find what:a,Replace with:b-&gt;click Replace-&gt;click Replace All</translatorcomment>
         <translation>WPS Writer a fini d&apos;effectuer les recherches dans la sélection.</translation>
     </message>
     <message>
@@ -744,21 +894,25 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source> Do you want to continue searching from the beginning?</source>
         <comment>_TxFind_ContiuneAtBeginning</comment>
+        <translatorcomment>New document-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Down-&gt;click Find Next</translatorcomment>
         <translation> Voulez-vous continuer la recherche à partir du début ?</translation>
     </message>
     <message>
         <source> Do you want to continue searching from the end?</source>
         <comment>_TxFind_ContiuneAtEnd</comment>
+        <translatorcomment>New document-&gt;type &quot;a&quot;-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Up-&gt;click Find Next-&gt;click Find Next again</translatorcomment>
         <translation> Voulez-vous continuer la recherche à partir de la fin ?</translation>
     </message>
     <message>
         <source> Do you want to search the other part of the document?</source>
         <comment>_TxFind_ContiuneRemainder</comment>
+        <translatorcomment>New document-&gt;type &quot;a&quot;-&gt;Home tab-&gt;Find and Replace-&gt;Replace tab-&gt;Find what:a,Replace with:b-&gt;click Replace-&gt;click Replace All</translatorcomment>
         <translation> Voulez-vous continuer la recherche à partir d&apos;une autre partie du document ?</translation>
     </message>
     <message>
         <source>and has replaced %i items.</source>
         <comment>_TxFind_NReplacementMade</comment>
+        <translatorcomment>New document-&gt;type &quot;a&quot;-&gt;Home tab-&gt;Find and Replace-&gt;Replace tab-&gt;Find what:a,Replace with:b-&gt;click Replace-&gt;click Replace All</translatorcomment>
         <translation>et a remplacé %i éléments.</translation>
     </message>
     <message>
@@ -784,6 +938,7 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>This action will not be marked as a revision. Do you want to continue?</source>
         <comment>_TxRevision_CantRevision</comment>
+        <translatorcomment>New document-&gt;Review tab-&gt;Track Changes-&gt;Inser tab-&gt;Table-&gt;click Draw Table-&gt;draw table in the document</translatorcomment>
         <translation>Cette action ne sera pas indiquée comme une révision. Voulez-vous continuer ?</translation>
     </message>
     <message>
@@ -794,6 +949,7 @@ Essayez une ou plusieurs des opérations suivantes :
     <message>
         <source>WPS Writer cannot open the Data Source.</source>
         <comment>_TxMailMerge_OpenDataSourceErr</comment>
+        <translatorcomment>New workbook in Spreadsheets-&gt;Revie tab-&gt;Protect Sheet-&gt;Set password-&gt;Save the workbook-&gt;New document in Writer-&gt;Reference tab-&gt;Mail Merge-&gt;Open Data Source-&gt;choose the restriceted workbook</translatorcomment>
         <translation>WPS Writer n&apos;arrive pas à ouvrir la source des données.</translation>
     </message>
     <message>
@@ -805,6 +961,7 @@ Essayez une ou plusieurs des opérations suivantes :
         <source>%s already exists.
 Do you want to replace it?</source>
         <comment>_TxMailMerge_FileExist</comment>
+        <translatorcomment>new workbook in Spreadsheet-&gt;type &quot;a&quot;-&gt;save the workbook as Book 1-&gt;new document in Writer-&gt;Reference tab-&gt;Mail Merge-&gt;Open Data Source-&gt;choose Book 1,click Open-&gt;Select Table dialog,choose Sheet 1,click OK-&gt;Insert Merge Field,click &quot;a&quot;,click Insert,click Close-&gt;click Merge to Different New Document,click OK-&gt;click Merge to Different New Document,click OK</translatorcomment>
         <translation>%s existe déjà.
 Voulez-vous le remplacer ?</translation>
     </message>
@@ -816,6 +973,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>This operation is invalid for the end of a row.</source>
         <comment>_TxTbl_CanntBackspaceAtEndOfRow</comment>
+        <translatorcomment>Insert tab-&gt;Table-&gt;insert a table-&gt;move the cursor to the end of the table-&gt;backspace</translatorcomment>
         <translation>Cette opération n&apos;est pas valide pour la fin d&apos;une ligne.</translation>
     </message>
     <message>
@@ -831,6 +989,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>Please select the base text for the Phonetic Guide.</source>
         <comment>_TxPhoneticGuideTip</comment>
+        <translatorcomment>New document-&gt;Home tab-&gt;Phonetic Guide</translatorcomment>
         <translation>Sélectionnez le texte de base pour le Guide phonétique.</translation>
     </message>
     <message>
@@ -866,6 +1025,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>The full-text search is finished, %d results were found. Only the first %d results were selected owing to too many results found.</source>
         <comment>_TxFind_TooMuchResult</comment>
+        <translatorcomment>New document-&gt;type 4000 &quot;a&quot;-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;Find In,drop-down menu,click Main Document</translatorcomment>
         <translation>La recherche en texte intégral est terminée, %d résultats ont été trouvés. Seuls les %d premiers résultats ont été sélectionnés car les résultats trouvés sont trop nombreux.</translation>
     </message>
     <message>
@@ -996,7 +1156,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>Pause mark</source>
         <comment>TxRevision_Chp_PauseMark</comment>
-        <translation>Interrompre les marques</translation>
+        <translation>Virgule idéographique</translation>
     </message>
     <message>
         <source>No emphasis mark</source>
@@ -1306,7 +1466,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>Don&apos;t use Asian rules to control first and last character</source>
         <comment>TxRevision_Pap_DontUseAsianRulesToControlFirstAndLastCharacter</comment>
-        <translation>Utiliser les règles asiatiques pour le contrôle des premier et dernier caractères</translation>
+        <translation>Ne pas utiliser les règles asiatiques pour le contrôle des premier et dernier caractères</translation>
     </message>
     <message>
         <source>Allow text to wrap in the middle of a word</source>
@@ -1756,7 +1916,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</source>
         <comment>TxRevision_Color_ColorNameReplacedList</comment>
-        <translation>Noir;Bleu-vert foncé;Bleu foncé;Indigo;Bleu;Bleu clair;Gris bleu;Lavande;Gris - 80 %;Bleu-vert;Vert d&apos;eau;Bleu ciel;Bleu pâle;Turquoise claire;Rose;Rose saumon;%Gris - 50 %;Vert marin;Turquoise;Vert clair;Blanc;Jaune clair;Brun tanné;Violet;Gris - 40 %;Vert foncé;Vert brillant;Jaune;Or;Orange clair;Rouge;Prune;Gris - 25 %;Vert;Citron vert;Jaune foncé;Vert olive;Orange;Marron;Rouge foncé:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
+        <translation>Noir;Bleu-vert foncé;Bleu foncé;Indigo;Bleu;Bleu clair;Bleu gris;Lavande;Gris - 80 %;Bleu-vert;Vert d&apos;eau;Bleu ciel;Bleu pâle;Turquoise claire;Rose;Rose saumon;%Gris - 50 %;Vert marin;Turquoise;Vert clair;Blanc;Jaune clair;Brun tanné;Violet;Gris - 40 %;Vert foncé;Vert brillant;Jaune;Or;Orange clair;Rouge;Prune;Gris - 25 %;Vert;Citron vert;Jaune foncé;Vert olive;Orange;Marron;Rouge foncé:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -1831,7 +1991,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>Don&apos;t suppress line numbers</source>
         <comment>TxRevision_Pap_DontSuppressLineNumbers</comment>
-        <translation>Supprimer les numéros de ligne</translation>
+        <translation>Ne pas supprimer les numéros de ligne</translation>
     </message>
     <message>
         <source>Hyphenate</source>
@@ -2046,41 +2206,49 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>Reached the beginning of the text box.</source>
         <comment>_TxFind_ReachBeginningOfTextFrames</comment>
+        <translatorcomment>Insert tab-&gt;Text Box-&gt;type&quot;a&quot; in the text box-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Up-&gt;click Find Next</translatorcomment>
         <translation>A atteint le début de la zone de texte.</translation>
     </message>
     <message>
         <source>Reached the end of the text box.</source>
         <comment>_TxFind_ReachEndOfTextFrames</comment>
+        <translatorcomment>Insert tab-&gt;Text Box-&gt;type&quot;a&quot; in the text box-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Down-&gt;click Find Next</translatorcomment>
         <translation>A atteint la fin de la zone de texte.</translation>
     </message>
     <message>
         <source>Reached the beginning of the endnote.</source>
         <comment>_TxFind_ReachBeginningOfEndnotes</comment>
+        <translatorcomment>Reference tab-&gt;Insert Endnote-&gt;type&quot;a&quot; in the endnote-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Up-&gt;click Find Next</translatorcomment>
         <translation>A atteint le début de la note de fin.</translation>
     </message>
     <message>
         <source>Reached the end of the endnote.</source>
         <comment>_TxFind_ReachEndOfEndnotes</comment>
+        <translatorcomment>Reference tab-&gt;Insert Endnote-&gt;type&quot;a&quot; in the endnote-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Down-&gt;click Find Next</translatorcomment>
         <translation>A atteint la fin de la note de fin.</translation>
     </message>
     <message>
         <source>Reached the beginning of the footnote.</source>
         <comment>_TxFind_ReachBeginningOfFootnotes</comment>
+        <translatorcomment>Reference tab-&gt;Insert Footnote-&gt;type&quot;a&quot; in the footnote-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Up-&gt;click Find Next</translatorcomment>
         <translation>A atteint le début de la note de bas de page.</translation>
     </message>
     <message>
         <source>Reached the end of the footnote.</source>
         <comment>_TxFind_ReachEndOfFootnotes</comment>
+        <translatorcomment>Reference tab-&gt;Insert Footnote-&gt;type&quot;a&quot; in the footnote-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Down-&gt;click Find Next</translatorcomment>
         <translation>A atteint la fin de la note de bas de page.</translation>
     </message>
     <message>
         <source>Reached the beginning of the headers and footers.</source>
         <comment>_TxFind_ReachBeginningOfHeaderFooters</comment>
+        <translatorcomment>Insert tab-&gt;Insert Header and Footer-&gt;type&quot;a&quot; in the header-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Up-&gt;click Find Next</translatorcomment>
         <translation>A atteint le début des en-têtes et des pieds de page.</translation>
     </message>
     <message>
         <source>Reached the end of the headers and footers.</source>
         <comment>_TxFind_ReachEndOfHeaderFooters</comment>
+        <translatorcomment>Insert tab-&gt;Insert Header and Footer-&gt;type&quot;a&quot; in the header-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Down-&gt;click Find Next</translatorcomment>
         <translation>A atteint la fin des en-têtes et des pieds de page.</translation>
     </message>
     <message>
@@ -2091,6 +2259,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>Reached the end of the text box.</source>
         <comment>_TxFind_ReachEndOfHeaderFooterTextFrames</comment>
+        <translatorcomment>Insert tab-&gt;Text Box-&gt;type&quot;a&quot; in the text box-&gt;Home tab-&gt;Find and Replace-&gt;Find what:a-&gt;click More-&gt;Search:Down-&gt;click Find Next</translatorcomment>
         <translation>A atteint la fin de la zone de texte.</translation>
     </message>
     <message>
@@ -2125,11 +2294,12 @@ Voulez-vous le remplacer ?</translation>
     </message>
     <message>
         <source>Writer</source>
-        <translation>Scénariste</translation>
+        <translation>Writer</translation>
     </message>
     <message>
         <source>%s is not a valid special character for the Replace With box.</source>
         <comment>_TxFind_NoValidReplacementStr</comment>
+        <translatorcomment>New document-&gt;type&quot;a&quot;-&gt;Home tab-&gt;Find and Replace-&gt;Replace tab-&gt;Find what:a,Replace with:^a-&gt;click Replace-&gt;click Replace again</translatorcomment>
         <translation>%s n’est pas un caractère spécial valide dans la zone Remplacer par.</translation>
     </message>
     <message>
@@ -2145,6 +2315,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_NoRecordExecute</comment>
+        <translatorcomment>Reference tab-&gt;Mailings-&gt;Open Data Source-&gt;select a file as source-&gt;Merge to Differenct New Document-&gt;Merge records-&gt;From:9999 To:9999-&gt;OK</translatorcomment>
         <translation>Impossible pour WPS Writer de fusionner le document principal avec la source de données : les enregistrements étaient tous vides ou aucun enregistrement ne correspondait à vos options de requête.</translation>
     </message>
     <message>
@@ -2198,8 +2369,58 @@ Voulez-vous le remplacer ?</translation>
         <translation type="obsolete">Il est possible que certains navigateurs ne puissent pas afficher les pages web à fichier unique dont le chemin inclut ces caractères &quot;!”, « # », « %20 », « %23 » ou « %25 », etc. Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!?, ?#?, ?%20?, ?%23? or ?%25?, etc. Do you want to continue?</source>
+        <source>WPS Make the office more relaxed</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation type="obsolete">WPS facilite la vie dans le bereau</translation>
+    </message>
+    <message>
+        <source>Document is under protected, can not be merged</source>
+        <translation type="obsolete">Le document est protégé, et impossible d&apos;être fusionné.</translation>
+    </message>
+    <message>
+        <source>There are one or all documents contain revsions, continue compare or not?</source>
+        <translation type="obsolete">Un ou tous les documents contient les révisions. Continuez-vous la comparaison ?</translation>
+    </message>
+    <message>
+        <source>no proofing</source>
+        <comment>TxLanguage_NoProofing</comment>
+        <translation type="obsolete">Pas de vérification</translation>
+    </message>
+    <message>
+        <source>Are you sure to discard the changes made to &quot;%s&quot; and load the latest version?</source>
+        <comment>TxReload_ConfirmDropChanges</comment>
+        <translation type="obsolete">Voulez-vous annuler les modifications apportées à %s et charger la dernière version ?</translation>
+    </message>
+    <message>
+        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
+        <translation type="unfinished">Il est possible que certains navigateurs ne puissent pas afficher les pages web à fichier unique dont le chemin inclut ces caractères &quot;!”, « # », « %20 », « %23 » ou « %25 », etc. Voulez-vous continuer ?</translation>
+    </message>
+    <message>
+        <source>Make office work easier</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot merge these documents because document protection is in effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(no proofing)</source>
+        <comment>TxLanguage_NoProofing</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
+        <comment>TxReload_ConfirmDropChanges</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2228,7 +2449,8 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
         <comment>_TxErr_CantCreateNewStyle</comment>
-        <translation>Ce nom de style est déjà utilisé ou réservé pour un style prédéfini.</translation>
+        <translatorcomment>Home tab-&gt;New Style-&gt;New Style dialog-&gt;Name:Heading 1-&gt;click OK</translatorcomment>
+        <translation>Ce nom de style existe déjà ou est réservé pour un style prédéfini.</translation>
     </message>
     <message>
         <source>Preview Mode is in use.</source>
@@ -2238,7 +2460,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>Preview Mode is unactivated.</source>
         <comment>_TxErr_PrintPreviewNotActivated</comment>
-        <translation>Le mode Aperçu n&apos;est pas désactivé.</translation>
+        <translation>Le mode Aperçu n&apos;est pas activé.</translation>
     </message>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
@@ -2248,7 +2470,8 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
         <comment>_TxErr_CycBaseStyle</comment>
-        <translation>Ce style a une liste de style Basé sur circulatoire.</translation>
+        <translatorcomment>Home tab-&gt;New style-&gt;New style dialog box-&gt;Style based on,choose Heading 1,click OK-&gt;Home tab-&gt;right-click Heading 1-&gt;Modify style-&gt;Modify Style dialog box-&gt;Style based on,click Style 1-&gt;prompt dialog</translatorcomment>
+        <translation>Ce style est basé sur une référence circulatoire.</translation>
     </message>
     <message>
         <source>Failed to open.</source>
@@ -2268,6 +2491,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>The text box contains one or more tables which will be deleted if you convert them, because the vertical text box cannot contain any table. Do you want to continue?</source>
         <comment>_TxErr_ChangeTextboxToVerticalWarning</comment>
+        <translatorcomment>Insert tab-&gt;Text Box-&gt;Horizonal-&gt;draw a text box-&gt;Table-&gt;insert a table in the text box-&gt;Page Layout tab-&gt;Text Direction-&gt;Vertical</translatorcomment>
         <translation>La zone de texte contient un ou plusieurs tableaux qui seront supprimés si vous les convertissez car la zone de texte verticale ne peut pas contenir de tableau. Voulez-vous continuer ?</translation>
     </message>
     <message>
@@ -2278,11 +2502,12 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>Unprotect method or property is invalid due to the unprotected document.</source>
         <comment>_TxErr_DocumentHasUnprotected</comment>
-        <translation>La méthode ou la propriété de non protection ne sont pas valides en raison du document non protégé.</translation>
+        <translation>La méthode ou la propriété de non protection n&apos;est pas valides en raison du document non protégé.</translation>
     </message>
     <message>
         <source>The password is not correct.</source>
         <comment>_TxErr_PasswordError</comment>
+        <translatorcomment>New document-&gt;Review tab-&gt;Restrict Editing-&gt;click&quot;Limit formatting to a selection of styles&quot;-&gt;click Start Protection-&gt;enter and reenter your passward-&gt;click OK-&gt;click Stop Protection...-&gt;Unprotect Document dialog,Password:enter a wrong password</translatorcomment>
         <translation>Le mot de passe n&apos;est pas correct.</translation>
     </message>
     <message>
@@ -2293,14 +2518,15 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <source>Cannot insert any object to the text box which can be resized or rotated.</source>
         <comment>_TxErr_ResizeOrRotateTextboxAddShapeWarning</comment>
+        <translatorcomment>Insert tab-&gt;Text Box-&gt;draw a text box-&gt;select and right click the text box-&gt;Format Object-&gt;Text Box-&gt;Click Allow text to scale to frame-&gt;click ok-&gt;click the text box-&gt;Insert tab-&gt;Object-&gt;Insert Object dialog,click Create new,click Bitmap Image,click OK</translatorcomment>
         <translation>Impossible d&apos;insérer un objet dans la zone de texte qui peut être redimensionnée ou pivotée.</translation>
     </message>
     <message>
         <source>Some of the regions you can edit overlap, and it is not possible to show them at the same time.
 Use the &apos;Find Next Region I Can Edit&apos; button to show each region individually.</source>
         <comment>_TxErr_SelectAllExceptions</comment>
-        <translation>Certaines régions que vous pouvez modifier se chevauchent et il n&apos;est pas possible de les afficher en même temps.
-Utilisez le bouton &apos;Trouver la zone modifiable suivante&apos; pour afficher chaque région individuellement.</translation>
+        <translation>Certaines des zones que vous pouvez modifier se chevauchent et il n&apos;est pas possible de les afficher en même temps.
+Utilisez le bouton &apos;Trouver la zone modifiable suivante&apos; pour afficher chaque zone individuellement.</translation>
     </message>
     <message>
         <source>You cannot put drawing objects into a text box, callout, comment, footnote, or endnote.</source>
@@ -2315,6 +2541,7 @@ Utilisez le bouton &apos;Trouver la zone modifiable suivante&apos; pour afficher
     <message>
         <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
         <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
+        <translatorcomment>Insert tab-&gt;Text Box-&gt;Vertical-&gt;draw a vertical text box-&gt;Insert tab-&gt;Table-&gt;Select a table to insert-&gt;Table Tools-&gt;Select-&gt;Select Table-&gt;right click the table-&gt;copy-&gt;right click the vertical text box-&gt;Paste-&gt;prompt dialog</translatorcomment>
         <translation>Vous allez coller un ou plusieurs tableaux dans une zone de texte ou un cadre vertical. Une zone de texte ou un cadre vertical ne peuvent pas contenir de tableau. Voulez-vous continuer ?</translation>
     </message>
 </context>
@@ -2388,6 +2615,7 @@ Utilisez le bouton &apos;Trouver la zone modifiable suivante&apos; pour afficher
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>_TxDocument_SaveChangeMsg</comment>
+        <translatorcomment>New document-&gt;type &quot;a&quot;-&gt;close Document1 in the label bar</translatorcomment>
         <translation>Voulez-vous enregistrer les modifications effectuées dans %s ?</translation>
     </message>
     <message>
@@ -2408,7 +2636,7 @@ Please try one of the following.
 •Make sure you are permitted to access this file or drive.
 •Make sure there is enough memory and disk space.</source>
         <comment>_TxDocument_OpenFailure</comment>
-        <translation>Des erreurs sont survenues pendant que WPS Presentation ouvrait ce fichier.
+        <translation>Des erreurs sont survenues pendant que WPS Writer ouvrait ce fichier.
 Essayez une des opérations suivantes.
 •Assurez-vous d&apos;avoir l&apos;autorisation d&apos;accéder à ce fichier ou lecteur.
 •Assurez-vous qu&apos;il y a assez d&apos;espace disque disponible.</translation>
@@ -2462,6 +2690,7 @@ Essayez une des opérations suivantes.
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>_TxDocument_SaveFailureLocked</comment>
+        <translatorcomment>New document-&gt;save New document in the name of Document 1-&gt;close Writer-&gt;open the Document 1 with MSO-&gt;open the Document 1 with WPS Writer</translatorcomment>
         <translation>Le document a été verrouillé par une autre application. Voulez-vous l&apos;ouvrir en lecture seule ?
 (%s)</translation>
     </message>
@@ -2483,7 +2712,7 @@ Essayez une des opérations suivantes.
 •If you want to keep this format, click Yes.
 •If you want to preserve the features, click No. Then save a copy as the latest WPS Writer format.</source>
         <comment>_TxDocument_FormatNotCompatible</comment>
-        <translation>%s peut contenir des fonctionnalités qui ne sont pas compatibles avec le format %s. Voulez-vous conserver le document dans ce format ?
+        <translation>%s peut contenir des fonctions qui ne sont pas compatibles avec le format %s. Voulez-vous conserver le document dans ce format ?
 
 •Si c&apos;est le cas, cliquez sur Oui.
 •Si vous voulez conserver les fonctionnalités, cliquez sur Non. Enregistrez ensuite une copie au format WPS Writer le plus récent.</translation>
@@ -2502,7 +2731,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
 Voulez-vous quand même ouvrir ce fichier ?
 
 •Cliquez sur Oui et WPS Writer ouvrira ce fichier.
-•Cliquez sur Non et WPS Presentation n&apos;ouvrira pas ce fichier.
+•Cliquez sur Non et WPS Writer n&apos;ouvrira pas ce fichier.
 
 Notez que certains fichiers peuvent contenir des virus présents dans des macros et être potentiellement nuisibles. N&apos;ouvrez pas ce fichier si vous n&apos;êtes pas certain de sa fiabilité.
 (%s)</translation>
@@ -2515,6 +2744,7 @@ Notez que certains fichiers peuvent contenir des virus présents dans des macros
     <message>
         <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
         <comment>_TxDocument_DrawingWillLost</comment>
+        <translatorcomment>Insert tab-&gt;Text Boxt-&gt;draw a text box,click the cursor out of the text box-&gt;Insert tab-&gt;Shapes-&gt;insert any shape-&gt;right click the shape and click Copy-&gt;paste the shape into the text box</translatorcomment>
         <translation>Les objets du contenu à coller seront perdues en collant dans la zone de texte, la zone de commentaire, les notes de bas de page et les notes de fin.</translation>
     </message>
     <message>
@@ -2540,7 +2770,7 @@ Data from your database will be placed in the document. Do you want to continue?
         <comment>_TxMailMerge_OpenDataSource</comment>
         <translation>En ouvrant ce document, la commande SQL ci-dessous est exécutée :
 %s 
-Les données de votre base de données seront placées dans le document. Voulez-vous continuer ?
+Des données de votre base de données seront placées dans le document. Voulez-vous continuer ?
 </translation>
     </message>
     <message>
@@ -2601,6 +2831,7 @@ Tapez un nom différent pour le document à enregistrer.
         <source>WPS Writer cannot open this file, because the password is not correct.
 </source>
         <comment>_TxDocument_OpenPasswordFailure2</comment>
+        <translatorcomment>New document-&gt;click application button-&gt;File Information-&gt;Encryption-&gt;Document password:1,Reenter password:1-&gt;click OK-&gt;save the document and close it-&gt;open the doucment-&gt;enter a wrong password</translatorcomment>
         <translation>WPS Writer ne peut pas ouvrir ce fichier car le mot de passe n&apos;est pas correct.
 </translation>
     </message>
@@ -2628,14 +2859,14 @@ To continue saving as a macro-free workbook, click Yes.
         <comment>_TxDocument_SaveMacroWarning</comment>
         <translation>Les fonctionnalités suivantes ne peuvent pas enregistrer de classeurs sans macro :
 · Projet VB
-Pour enregistrer un fichier avec ces fonctionnalités, cliquez sur Non puis choisissez un type de fichier compatible pour macro dans la liste Type de fichier.
+Pour enregistrer un fichier avec ces fonctionnalités, cliquez sur Non puis choisissez un type de fichierprenant en charge les  macros dans la liste Type de fichier.
 Pour continuer l&apos;enregistrement en tant que classeur sans macro, cliquez sur Oui.
 </translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPSEx</comment>
-        <translation>Fichiers communs(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</translation>
+        <translation type="obsolete">Fichiers communs(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.wpsx;*.doc;*.dot; *.docx</source>
@@ -2647,14 +2878,14 @@ Pour continuer l&apos;enregistrement en tant que classeur sans macro, cliquez su
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
         <comment>_TxDocument_Open_File_Isnot_Exist</comment>
         <translation>Impossible de trouver &quot;%s&quot;. Vérifiez l&apos;orthographe du nom du fichier et que l&apos;emplacement du fichier est correct.
-Si vous essayez d&apos;ouvrir le fichier depuis la liste des fichiers récemment utilisés, assurez-vous que le fichier n&apos;a pas été renommé, déplacé ou supprimé.</translation>
+Si vous essayez d&apos;ouvrir le fichier à partir de la liste des fichiers récemment utilisés, assurez-vous que le fichier n&apos;a pas été renommé, déplacé ou supprimé.</translation>
     </message>
     <message>
         <source>WPS Writer cannot save or create this file.
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>_TxDocument_SaveFailure</comment>
-        <translation>WPS Writer ne peut pas enregistrer ou écrire dans ce fichier.
+        <translation>WPS Writer ne peut pas enregistrer ou créer ce fichier.
 Assurez-vous que le fichier n&apos;est pas verrouillé par un autre utilisateur, ou que le disque cible n&apos;est pas plein ou endommagé.
 (%s)</translation>
     </message>
@@ -2664,7 +2895,7 @@ Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.</source>
         <comment>_TxDocument_KRM_RightsInsufficient</comment>
-        <translation type="obsolete">WPS Writer ne peut pas ouvrir ce fichier car l&apos;utilisateur actuel ne dispose pas des autorisations d&apos;accès suffisantes.
+        <translation>WPS Writer ne peut pas ouvrir ce fichier car l&apos;utilisateur actuel ne dispose pas des autorisations d&apos;accès suffisantes.
 Essayez l&apos;une des actions suivantes.
 •Passez à un autre compte utilisateur.
 •Demandez à son créateur de modifier le niveau de contrôle d&apos;autorisation pour ce fichier.</translation>
@@ -2673,7 +2904,7 @@ Essayez l&apos;une des actions suivantes.
         <source>
 • Multi-Diagonal cell</source>
         <comment>_TxDocument_FormatNotCompatible_MultiDiagonalCell</comment>
-        <translation type="unfinished">
+        <translation>
 • Cellule multidiagonale</translation>
     </message>
     <message>
@@ -2684,15 +2915,17 @@ Essayez l&apos;une des actions suivantes.
     <message>
         <source>*.wps;*.wpt;*.wpsx;*.doc;*.dot;*.rtf; *.docx</source>
         <comment>TxExts_AllWPSEx</comment>
-        <translation>*.wps;*.wpt;*.wpsx;*.doc;*.dot;*.rtf; *.docx</translation>
+        <translation type="obsolete">*.wps;*.wpt;*.wpsx;*.doc;*.dot;*.rtf; *.docx</translation>
     </message>
     <message>
-        <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
-Please try one of the following.
-?Switch to another user account.
-?Ask its creator to change the permissions control level of this file.</source>
-        <comment>_TxDocument_KRM_RightsInsufficient</comment>
-        <translation type="unfinished"></translation>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</source>
+        <comment>TxDesc_AllWPSEx</comment>
+        <translation>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
+        <comment>TxExts_AllWPSEx</comment>
+        <translation>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot;*.rtf;*.docx;</translation>
     </message>
 </context>
 <context>
@@ -2765,6 +2998,7 @@ Please try one of the following.
     <message>
         <source>Bookmark does not exist or is hidden.</source>
         <comment>wps_sBookMarkNotExist</comment>
+        <translatorcomment>New document-&gt;Home tab-&gt;Find and Replace-&gt;Go To tab-&gt;Got to what:Bookmark-&gt;Enter bookmark name:a-&gt;click Go To</translatorcomment>
         <translation>Le signet n&apos;existe pas ou est masqué.</translation>
     </message>
     <message>
@@ -2835,6 +3069,7 @@ Please try one of the following.
     <message>
         <source>Cannot check spelling in the Original review.</source>
         <comment>wps_sCannotCheckSpellingOnOrgRevision</comment>
+        <translatorcomment>Review tab-&gt;click Display for Review-&gt;Original-&gt;Review tab-&gt;Spell Check</translatorcomment>
         <translation>Impossible de vérifier l&apos;orthographe du statut de révision original</translation>
     </message>
     <message>
@@ -2911,6 +3146,7 @@ Please try one of the following.
         <source>Do you want to change the default settings for page setup?
 This change will affect all new documents based on the %s template.</source>
         <comment>wps_sDefaltTemplateConfirm</comment>
+        <translatorcomment>Page Layout tab-&gt;Settings-&gt;Dorp-down menu-&gt;Page Setup-&gt;click Default...</translatorcomment>
         <translation>Souhaitez-vous modifier les paramètres de mise en page par défaut ?
 Cette modification s’appliquera à tous les nouveaux documents basés sur le modèle %s.</translation>
     </message>
@@ -3012,6 +3248,7 @@ Cette modification s’appliquera à tous les nouveaux documents basés sur le m
     <message>
         <source>%s is not a valid special character for the Find What box.</source>
         <comment>wps_sErrorSpecialChar</comment>
+        <translatorcomment>Home tab-&gt;Find and Replace-&gt;Find what:^[-&gt;click Find Next</translatorcomment>
         <translation>%s n’est pas un caractère spécial valide dans la zone Rechercher.</translation>
     </message>
     <message>
@@ -3077,6 +3314,7 @@ Cette modification s’appliquera à tous les nouveaux documents basés sur le m
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
         <comment>wps_sFileExist</comment>
+        <translatorcomment>New document-&gt;Application Button-&gt;Save As-&gt;Export to PDF-&gt;click OK-&gt;Application button-&gt;Save As-&gt;Export to PDF-&gt;save it in the same folder-&gt;click OK</translatorcomment>
         <translation>Le fichier existe déjà. Voulez-vous remplacer le fichier existant ?</translation>
     </message>
     <message>
@@ -3182,6 +3420,7 @@ Cette modification s’appliquera à tous les nouveaux documents basés sur le m
     <message>
         <source>This style name already exists or is reserved for a built-in style.</source>
         <comment>wps_sInvalidStyleName</comment>
+        <translatorcomment>Home tab-&gt;New Style-&gt;Click OK-&gt;Style Gallery, right click Style 1,Modify Style-&gt;Style name:Heading 1-&gt;Click OK</translatorcomment>
         <translation>Ce nom de style existe déjà ou est réservé pour un style prédéfini.</translation>
     </message>
     <message>
@@ -3382,7 +3621,7 @@ Cette modification s’appliquera à tous les nouveaux documents basés sur le m
     <message>
         <source>No Scaling</source>
         <comment>wps_sNoScaling</comment>
-        <translation>Non</translation>
+        <translation>Pas de mise à l&apos;échelle</translation>
     </message>
     <message>
         <source>(no spelling suggestions)</source>
@@ -3412,6 +3651,7 @@ Cette modification s’appliquera à tous les nouveaux documents basés sur le m
     <message>
         <source>The password confirmation does not match.</source>
         <comment>wps_sNotMatchPassword</comment>
+        <translatorcomment>Review tab-&gt;Restrict Editing-&gt;Start Protection...-&gt;Enter new password(optional):1,Reenter password to confirm:2,click OK</translatorcomment>
         <translation>Non concordance du mot de passe de confirmation.</translation>
     </message>
     <message>
@@ -3422,6 +3662,7 @@ Cette modification s’appliquera à tous les nouveaux documents basés sur le m
     <message>
         <source>Please choose the base text for the Phonetic Guide.</source>
         <comment>wps_sNotNormCharacter</comment>
+        <translatorcomment>New document-&gt;Home tab-&gt;Phonetic Guide</translatorcomment>
         <translation>Choisissez le texte de base pour le Guide phonétique.</translation>
     </message>
     <message>
@@ -3797,7 +4038,7 @@ Cette modification s’appliquera à tous les nouveaux documents basés sur le m
     <message>
         <source>Table</source>
         <comment>wps_sTable</comment>
-        <translation>Table</translation>
+        <translation>Tableau</translation>
     </message>
     <message>
         <source>Text</source>
@@ -3917,12 +4158,13 @@ Cette modification s’appliquera à tous les nouveaux documents basés sur le m
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <comment>wps_sRemoveDefaultDict</comment>
+        <translatorcomment>Drop-down menu on the right of the application button-&gt;Tools-&gt;Options-&gt;Spell Check-&gt;Custom Dictionaries-&gt;New...-&gt;fr_FR-&gt;Rename CUSTOM.dic as CUSTOM 1.dic-&gt;click save-&gt;click Yes-&gt;click CUSTOM.DIC(Default)-&gt;Remove</translatorcomment>
         <translation>La suppression du dictionnaire personnel risque d&apos;affecter le dictionnaire personnel défini pour les autres programmes WPS Office. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>This operation will not be only applied to this section. Do you want to continue?</source>
         <comment>wps_sLinkToPreviousSection</comment>
-        <translation>Cette opération ne sera pas appliquée à cette section. Voulez-vous continuer ?</translation>
+        <translation>Cette opération ne sera pas appliquée qu&apos;à cette section. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>Inside</source>
@@ -3952,7 +4194,7 @@ Cette modification s’appliquera à tous les nouveaux documents basés sur le m
     <message>
         <source>The number must be %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation>Le nombre doit être compris entre %d et %d.</translation>
+        <translation type="obsolete">Le nombre doit être compris entre %d et %d.</translation>
     </message>
     <message>
         <source>The maximum length value must be equal to or greater than the length of the default text,%d characters.</source>
@@ -4244,7 +4486,7 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     <message>
         <source>Table</source>
         <comment>TxCrossRefType_Table</comment>
-        <translation>Table</translation>
+        <translation>Tableau</translation>
     </message>
     <message>
         <source>Page number</source>
@@ -4344,7 +4586,7 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     <message>
         <source>The form tip cannot be longer than 40 characters.</source>
         <comment>wps_sTextInputTip_Erro</comment>
-        <translation>L&apos;infobulle de formulaire ne doit pas dépasser 40 caractères.</translation>
+        <translation>L&apos;info-bulle de formulaire ne doit pas dépasser 40 caractères.</translation>
     </message>
     <message>
         <source>(none)
@@ -4493,13 +4735,14 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
   Heading2.........................33
     Heading3.......................5</source>
         <comment>wps_sPreviewToc</comment>
-        <translation type="unfinished">Heading1...........................1
-  Heading2.........................33
-    Heading3.......................5</translation>
+        <translation>Titre1...........................1
+  Titre2.........................33
+    Titre3.......................5</translation>
     </message>
     <message>
         <source>The Find What text contains a Pattern Match expression which is not valid.</source>
         <comment>wps_sFindBadPattern</comment>
+        <translatorcomment>New document-&gt;Home tab-&gt;Find and Replace-&gt;tick Use wildcards,Find what:?{1]-&gt;click Find Next</translatorcomment>
         <translation>Le texte recherché contient un critère spécial qui n&apos;est pas valide.</translation>
     </message>
     <message>
@@ -4550,17 +4793,22 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     <message>
         <source>Final Show Markup,Final,Original Show Markup,Original</source>
         <comment>wps_sDisplayForReview</comment>
-        <translation type="unfinished">Final : Afficher les marques,Final,Original : Afficher les marques, Original</translation>
+        <translation>Final : Afficher les marques,Final,Original : Afficher les marques, Original</translation>
     </message>
     <message>
         <source>Phonetic Guide for Last Name</source>
         <comment>wps_sPhoneticGuideforlastName</comment>
-        <translation type="unfinished">Guide phonétique pour nom</translation>
+        <translation>Guide phonétique pour nom</translation>
     </message>
     <message>
-        <source>Has finished searching ?%s?. The search item was not found.</source>
+        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A terminé de rechercher « %s ». Texte recherché introuvable.</translation>
+    </message>
+    <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sValidValue</comment>
+        <translation type="unfinished">Le nombre doit être compris entre %d et %d.</translation>
     </message>
 </context>
 <context>
@@ -5158,7 +5406,7 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     <message>
         <source>Data/Time</source>
         <comment>TxVersion_InsDateTime</comment>
-        <translation>Données/Heure</translation>
+        <translation type="obsolete">Données/Heure</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -5248,12 +5496,12 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     <message>
         <source>Split Cells</source>
         <comment>TxVersion_SplitCells</comment>
-        <translation>Fractionner des cellules</translation>
+        <translation>Fractionner les cellules</translation>
     </message>
     <message>
         <source>Merge Cells</source>
         <comment>TxVersion_MergeCells</comment>
-        <translation>Fusionner des cellules</translation>
+        <translation>Fusionner les cellules</translation>
     </message>
     <message>
         <source>Repeat Heading</source>
@@ -5383,26 +5631,31 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     <message>
         <source>The text box you selected cannot be linked because a link has already existed in the text box , or you have linked the text box to itself.</source>
         <comment>TxMessage_CreateTextboxLinkError2</comment>
+        <translatorcomment>Insert tab-&gt;Text Box-&gt;draw a text box-&gt;right click the text bos-&gt;Create Text Box Link-&gt;click the text box</translatorcomment>
         <translation>Impossible de lier la zone de texte sur laquelle vous avez cliqué : un lien existe déjà dans la zone de texte ou vous avez lié la zone de texte avec elle-même.</translation>
     </message>
     <message>
         <source>Cannot link, because the target text box is not empty. You can only link to an empty text box.</source>
         <comment>TxMessage_CreateTextboxLinkError3</comment>
+        <translatorcomment>Insert tab-&gt;Text Box-&gt;draw two text boxes-&gt;type &quot;a&quot; in one text box-&gt;right click the other text box-&gt;Create Text Box Link-&gt;click the text box with &quot;a&quot;</translatorcomment>
         <translation>Impossible de lier car la zone de texte cible n&apos;est pas vide. Vous pouvez uniquement effectuer un lien avec une zone de texte vide.</translation>
     </message>
     <message>
         <source>The number must be between 1 and 1638.</source>
         <comment>TxMessage_FontSizeError1</comment>
+        <translatorcomment>Home tab-&gt;Font Size-&gt;type 9999 in the Font Size box</translatorcomment>
         <translation>Le nombre doit être compris entre 1 et 1638.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 500.</source>
         <comment>TxMessge_ZoomError1</comment>
+        <translatorcomment>View tab-&gt;click Zoom-&gt;Zoom dialog-&gt;Percent:600-&gt;click OK</translatorcomment>
         <translation>Le nombre doit être compris entre 10 et 500.</translation>
     </message>
     <message>
         <source>Are you sure to delete style %s?</source>
         <comment>TxMessage_DeleteStyle</comment>
+        <translatorcomment>Home tab-&gt;New Style-&gt;New Style dialog-&gt;clcik OK to create Style 1-&gt;drop-down menu of style galleries(Marked with Heading 1 Heading 2)-&gt;right click Style 1-&gt;Delete Style</translatorcomment>
         <translation>Êtes-vous sûr de vouloir supprimer le style %s ?</translation>
     </message>
     <message>
@@ -5448,6 +5701,7 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     <message>
         <source>Do you want to delete the header and footer, and connect to the previous section?</source>
         <comment>TxMessge_DelHeaderFooter</comment>
+        <translatorcomment>New document-&gt;Insert tab-&gt;Breaks-&gt;Next Page Section Break-&gt;Insert tab-&gt;Header and Footer-&gt;click the sencond section&apos;s header-&gt;Header and Footer tab-&gt;Link to Previous</translatorcomment>
         <translation>Voulez-vous supprimer l&apos;en-tête et le pied de page et établir la liaison avec l&apos;en-tête/pied de page dans la section précédente ?</translation>
     </message>
     <message>
@@ -5463,12 +5717,14 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     <message>
         <source>This document contains no comments or tracked changes.</source>
         <comment>TxMessge_NoComment</comment>
+        <translatorcomment>New document-&gt;View tab-&gt;Unchoose Markup-&gt;choose Markup</translatorcomment>
         <translation>Ce document ne contient ni commentaires ni marques de révision.</translation>
     </message>
     <message>
         <source>
 To follow this link, please hold down Ctrl and click.</source>
         <comment>TxMessage_Hyperlink_ToClick</comment>
+        <translatorcomment>New document-&gt;type &quot;www.baidu.com&quot; and press Enter-&gt;put the mouse on the site and don&apos;t move</translatorcomment>
         <translation>
 Pour suivre ce lien, maintenez la touche Ctrl enfoncée et cliquez.</translation>
     </message>
@@ -5525,7 +5781,7 @@ Pour suivre ce lien, maintenez la touche Ctrl enfoncée et cliquez.</translation
     <message>
         <source>Paste by Appending Table</source>
         <comment>TxEdit_PasteAppendTable</comment>
-        <translation>Coller en insérant un tableau</translation>
+        <translation>Coller par ajout dans un tableau</translation>
     </message>
     <message>
         <source>Document 
@@ -5804,12 +6060,12 @@ modifications</translation>
     <message>
         <source>Match the Current Format</source>
         <comment>TxCaption_PasteMatchingFormat</comment>
-        <translation>Respect du format en cours</translation>
+        <translation>Respect du format actuel</translation>
     </message>
     <message>
         <source>Match the Current Format</source>
         <comment>TxHint_PasteMatchingFormat</comment>
-        <translation>Respect du format en cours</translation>
+        <translation>Respect du format actuel</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -5839,7 +6095,7 @@ modifications</translation>
     <message>
         <source>Replace Full Width Period With a Point</source>
         <comment>TxVersion_AutoFormatReplaceFullPeriod</comment>
-        <translation>Remplacer le point de largeur complet par un point</translation>
+        <translation>Remplacer le point pleine chasse par un point</translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
@@ -5849,7 +6105,7 @@ modifications</translation>
     <message>
         <source>Cannot go to TOC. TOC may not exist!</source>
         <comment>TxVersion_CannotGotoTOC</comment>
-        <translation>Impossible d&apos;accéder à la Table de matières La table des matières n&apos;existe peut-être pas !</translation>
+        <translation>Impossible d&apos;accéder à la Table de matières. La table des matières n&apos;existe peut-être pas !</translation>
     </message>
     <message>
         <source>Outline Promote Heading 1</source>
@@ -5994,7 +6250,7 @@ modifications</translation>
     <message>
         <source>Clean Paragraph Space And Indent</source>
         <comment>TxTooltip_CleanParaSpaceAndIndent</comment>
-        <translation>Espace de paragraphe et retrait propres</translation>
+        <translation>Effacer l&apos;espace de paragraphe et le retrait</translation>
     </message>
     <message>
         <source>Formatted</source>
@@ -6085,12 +6341,14 @@ modifications</translation>
         <source>To create a link, click an empty text box.
 To add another text box to your document, click Text Box on the Insert menu and choose a text box. Select the original text box and click Create Link again.</source>
         <comment>TxMessage_CreateTextboxLinkError1</comment>
+        <translatorcomment>Insert tab-&gt;Text box-&gt;insert a text box-&gt;right click the text box-&gt;Create Text Box Link-&gt;click outside the text box</translatorcomment>
         <translation>Pour créer un lien, cliquez sur une zone de texte vide.
 Pour ajouter une autre zone de texte à votre document, cliquez sur Zone de texte sous l’onglet Insertion et choisissez une zone de texte dans la galerie. Sélectionnez la zone de texte d&apos;origine et cliquez de nouveau sur Créer un lien.</translation>
     </message>
     <message>
         <source>This text box has a different text flow from the previous text box. Do you want to change the text flow of this text box to match the previous text box?</source>
         <comment>TxMessage_CreateTextboxLinkError4</comment>
+        <translatorcomment>Insert tab-&gt;Text Box-&gt;insert a horizonal text box-&gt;insert a vertical text box-&gt;right click the vertical text box-&gt;Create Text Box Link-&gt;click the horizonal text box</translatorcomment>
         <translation>Cette zone de texte comporte un enchaînement différent de la zone précédente. Voulez-vous modifier l&apos;enchaînement de cette zone de texte pour concorder avec la zone précédente ?</translation>
     </message>
     <message>
@@ -6108,12 +6366,253 @@ orthographique</translation>
     <message>
         <source>Cannot update TOC. TOC may not exist.</source>
         <comment>TxVersion_CannotUpdateTOC</comment>
+        <translatorcomment>New document-&gt;Insert tab-&gt;Update TOC</translatorcomment>
         <translation>Mise à jour de la table des matières impossible. La table de matières n&apos;existe peut-être pas.</translation>
     </message>
     <message>
         <source>Formatted</source>
         <comment>TxMessage_ToolTip_Suffix_Formatting</comment>
         <translation>Mis en forme</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation type="obsolete">Kingsoft Writer 2007/2010 Modèle(*.wptx)</translation>
+    </message>
+    <message>
+        <source>Table Normal</source>
+        <comment>TxTableStyle_TableNormal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Simple 1</source>
+        <comment>TxTableStyle_TableSimple1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Simple 2</source>
+        <comment>TxTableStyle_TableSimple2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Simple 3</source>
+        <comment>TxTableStyle_TableSimple3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 1</source>
+        <comment>TxTableStyle_TableClassic1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 2</source>
+        <comment>TxTableStyle_TableClassic2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 3</source>
+        <comment>TxTableStyle_TableClassic3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Classic 4</source>
+        <comment>TxTableStyle_TableClassic4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Colorful 1</source>
+        <comment>TxTableStyle_TableColorful1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Colorful 2</source>
+        <comment>TxTableStyle_TableColorful2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Colorful 3</source>
+        <comment>TxTableStyle_TableColorful3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 1</source>
+        <comment>TxTableStyle_TableColumns1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 2</source>
+        <comment>TxTableStyle_TableColumns2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 3</source>
+        <comment>TxTableStyle_TableColumns3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 4</source>
+        <comment>TxTableStyle_TableColumns4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Columns 5</source>
+        <comment>TxTableStyle_TableColumns5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 1</source>
+        <comment>TxTableStyle_TableGrid1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 2</source>
+        <comment>TxTableStyle_TableGrid2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 3</source>
+        <comment>TxTableStyle_TableGrid3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 4</source>
+        <comment>TxTableStyle_TableGrid4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 5</source>
+        <comment>TxTableStyle_TableGrid5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 6</source>
+        <comment>TxTableStyle_TableGrid6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 7</source>
+        <comment>TxTableStyle_TableGrid7</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid 8</source>
+        <comment>TxTableStyle_TableGrid8</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 1</source>
+        <comment>TxTableStyle_TableList1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 2</source>
+        <comment>TxTableStyle_TableList2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 3</source>
+        <comment>TxTableStyle_TableList3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 4</source>
+        <comment>TxTableStyle_TableList4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 5</source>
+        <comment>TxTableStyle_TableList5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 6</source>
+        <comment>TxTableStyle_TableList6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 7</source>
+        <comment>TxTableStyle_TableList7</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List 8</source>
+        <comment>TxTableStyle_TableList8</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table 3D effects 1</source>
+        <comment>TxTableStyle_Table3dfx1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table 3D effects 2</source>
+        <comment>TxTableStyle_Table3dfx2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table 3D effects 3</source>
+        <comment>TxTableStyle_Table3dfx3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Contemporary</source>
+        <comment>TxTableStyle_TableContemporary</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Elegant</source>
+        <comment>TxTableStyle_TableElegant</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Professional</source>
+        <comment>TxTableStyle_TableProfessional</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Subtle1</source>
+        <comment>TxTableStyle_TableSubtle1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Subtle2</source>
+        <comment>TxTableStyle_TableSubtle2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Web 1</source>
+        <comment>TxTableStyle_TableWeb1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Web 2</source>
+        <comment>TxTableStyle_TableWeb2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Web 3</source>
+        <comment>TxTableStyle_TableWeb3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Grid</source>
+        <comment>TxTableStyle_TableGrid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Theme</source>
+        <comment>TxTableStyle_TabelTheme</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date/Time</source>
+        <comment>TxVersion_InsDateTime</comment>
+        <translation type="unfinished">Données/Heure</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

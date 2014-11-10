@@ -16,6 +16,54 @@
 <context>
     <name>KHomepageMainWindow</name>
     <message>
+        <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;使用新版&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Check Online Templates</source>
+        <comment>tooltip</comment>
+        <translation>檢查線上範本</translation>
+    </message>
+    <message>
+        <source>Create a blank document at startup</source>
+        <translation>下次啟動直接建立空白文件</translation>
+    </message>
+    <message>
+        <source>Current version:</source>
+        <translation>目前版本號: </translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="obsolete">首頁</translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <comment>title</comment>
+        <translation>首頁</translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <comment>tooltip</comment>
+        <translation type="obsolete">首頁</translation>
+    </message>
+    <message>
+        <source>Restart to use newer version.</source>
+        <translation>重啟 WPS Office 后，使用新版本</translation>
+    </message>
+    <message>
+        <source>This is the latest version.</source>
+        <translation>已是最新版本</translation>
+    </message>
+    <message>
+        <source>Version is too old.</source>
+        <translation>版本過舊</translation>
+    </message>
+    <message>
+        <source>docerhomepage</source>
+        <translatorcomment>Unknown</translatorcomment>
+        <translation type="obsolete">首頁</translation>
+    </message>
+    <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;use new version&lt;/a&gt;</source>
         <translation type="obsolete">&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;使用新版&lt;/a&gt;</translation>
     </message>
@@ -52,53 +100,6 @@
     <message>
         <source>version too old|</source>
         <translation type="obsolete">版本過舊 | </translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check Online Templates</source>
-        <comment>tooltip</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create a blank document at startup</source>
-        <translation>下次啟動直接建立空白文件</translation>
-    </message>
-    <message>
-        <source>Current version:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Templates</source>
-        <translation type="obsolete">首頁</translation>
-    </message>
-    <message>
-        <source>Online Templates</source>
-        <comment>title</comment>
-        <translation>首頁</translation>
-    </message>
-    <message>
-        <source>Online Templates</source>
-        <comment>tooltip</comment>
-        <translation type="obsolete">首頁</translation>
-    </message>
-    <message>
-        <source>Restart to use newer version.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is the latest version.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Version is too old.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>docerhomepage</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

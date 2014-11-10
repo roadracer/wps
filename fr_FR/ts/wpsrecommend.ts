@@ -5,30 +5,30 @@
     <name>KRecommendButton</name>
     <message>
         <source>Install %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Installation %1</translation>
     </message>
 </context>
 <context>
     <name>KWPSRecommend</name>
     <message>
         <source>Software Recommendation</source>
-        <translation type="unfinished"></translation>
+        <translation>La recommandation de logiciel</translation>
     </message>
     <message>
         <source>Would you like to try the following popular software?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous essayer les logiciels populaires ci-dessous ? </translation>
     </message>
     <message>
         <source>Upgrade succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>La mise à jour a réussie.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK.</translation>
     </message>
     <message>
         <source>No, thanks</source>
-        <translation type="unfinished"></translation>
+        <translation>Non, merci.</translation>
     </message>
 </context>
 </TS>

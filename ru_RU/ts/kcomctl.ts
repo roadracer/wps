@@ -237,6 +237,35 @@
     </message>
 </context>
 <context>
+    <name>KDocTabbarStickerCommand</name>
+    <message>
+        <source>Lock tabbar</source>
+        <translation>Заблокировать панель вкладок</translation>
+    </message>
+    <message>
+        <source>UnLock tabbar</source>
+        <translation>Разблокировать панель вкладок</translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageCloseButton</name>
+    <message>
+        <source>Clear Record from List</source>
+        <translation>Очистить запись</translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageFixedButton</name>
+    <message>
+        <source>unfixed from list</source>
+        <translation>открепленный от списка</translation>
+    </message>
+    <message>
+        <source>fixed to list</source>
+        <translation>прикрепленный к списку</translation>
+    </message>
+</context>
+<context>
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
@@ -296,6 +325,34 @@
     <message>
         <source>&amp;Restore</source>
         <translation>&amp;Восстановить</translation>
+    </message>
+</context>
+<context>
+    <name>KMemberUser</name>
+    <message>
+        <source>Bronze</source>
+        <comment>Member user type</comment>
+        <translation>Бронзовый</translation>
+    </message>
+    <message>
+        <source>Plate with silver</source>
+        <comment>Member user type</comment>
+        <translation>Серебряная табличка</translation>
+    </message>
+    <message>
+        <source>Silver</source>
+        <comment>Member user type</comment>
+        <translation>Серебрянный</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <comment>Member user type</comment>
+        <translation>Золотой</translation>
+    </message>
+    <message>
+        <source>Platina</source>
+        <comment>Member user type</comment>
+        <translation>Платиновый</translation>
     </message>
 </context>
 <context>
@@ -404,6 +461,48 @@
         <source>Clear Unpinned Files</source>
         <translation>Очистить все не прикрепленные файлы</translation>
     </message>
+    <message>
+        <source>Recent Documents: </source>
+        <translation>Последние документы:</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>Очистить всё</translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation>Открыть папку</translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
+        <translation>Очистить недействительный файл</translation>
+    </message>
+    <message>
+        <source>Can not find the file &quot;%1&quot;.
+the file may be renamed,deleted or moved the location.</source>
+        <translation>Файл &quot;%1&quot; не найден.
+Возможно файл был переименован, удалён или перемещён.</translation>
+    </message>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation>
+
+время изменения:</translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation>
+
+Запись недействительна, возможно файл был переименован, удалён или перемещён.</translation>
+    </message>
 </context>
 <context>
     <name>KSystemMenuCommand</name>
@@ -484,6 +583,19 @@ pt=пт; п
 
 [Несколько] 
 несколько=несколько</translation>
+    </message>
+</context>
+<context>
+    <name>KWPSCloudSetup</name>
+    <message>
+        <source>WPS Office</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly,
+please reinstall WPS Office!</source>
+        <translation>Некоторые компоненты установлены с ошибками!
+Переустановите WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -601,11 +713,11 @@ pt=пт; п
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation>Переслать документы:</translation>
+        <translation type="obsolete">Переслать документы:</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Открыть</translation>
+        <translation type="obsolete">Открыть</translation>
     </message>
     <message>
         <source>Delete from the Listing</source>
@@ -613,11 +725,11 @@ pt=пт; п
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Очистить всё</translation>
+        <translation type="obsolete">Очистить всё</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Открыть папку</translation>
+        <translation type="obsolete">Открыть папку</translation>
     </message>
     <message>
         <source>Overtype</source>
@@ -625,7 +737,7 @@ pt=пт; п
     </message>
     <message>
         <source>Clear Record from List</source>
-        <translation>Очистить запись</translation>
+        <translation type="obsolete">Очистить запись</translation>
     </message>
     <message>
         <source>Delete from List</source>

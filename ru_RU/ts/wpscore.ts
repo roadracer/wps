@@ -94,6 +94,53 @@
     </message>
 </context>
 <context>
+    <name>field_parser_index</name>
+    <message>
+        <source>Error. No index entries found.</source>
+        <translation>Ошибка! Элементы указателя не найдены.</translation>
+    </message>
+    <message>
+        <source>Error. Switch argument not specified.</source>
+        <translation>Ошибка! Не указан аргумент ключа.</translation>
+    </message>
+    <message>
+        <source>Error. Not a valid bookmark in entry on page .</source>
+        <translation>Ошибка! Указана неверная закладка в элементе на странице.</translation>
+    </message>
+    <message>
+        <source>Alphanumeric</source>
+        <translation>Буквенно-цифровой</translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation>Символ</translation>
+    </message>
+    <message>
+        <source>Error. Unknown switch argument.</source>
+        <translation>Ошибка! Неизвестный параметр ключа.</translation>
+    </message>
+    <message>
+        <source>Stroke</source>
+        <translation>Начертание</translation>
+    </message>
+    <message>
+        <source>Chinese</source>
+        <translation>Китайский</translation>
+    </message>
+    <message>
+        <source>Error. Not a valid range of characters.</source>
+        <translation>Ошибка! Указан недопустимый диапазон символов.</translation>
+    </message>
+    <message>
+        <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
+        <translation>Ошибка! Недопустимо помещение предметного указателя в сноски, колонтитулы и примечания.</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot update Index.</source>
+        <translation>WPS Writer не может обновить указатель.</translation>
+    </message>
+</context>
+<context>
     <name>field_parser_links_and_reference</name>
     <message>
         <source>Error! Hyperlink reference is invalid.</source>
@@ -457,7 +504,7 @@
     <message>
         <source>Text Box</source>
         <comment>TxTextBox</comment>
-        <translation></translation>
+        <translation>Текстовое поле</translation>
     </message>
 </context>
 <context>
@@ -562,6 +609,26 @@ Try one or more of the following:
         <source>_Top</source>
         <comment>TX_FILED_LINK_DOCUMENTTOP</comment>
         <translation>_Сверху</translation>
+    </message>
+    <message>
+        <source>Main Document Only.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation>Только основной документ.</translation>
+    </message>
+    <message>
+        <source>Error. Missing test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation>Ошибка! Отсутствует условие проверки.</translation>
+    </message>
+    <message>
+        <source>Error. Unknown op code for conditional.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation>Ошибка! Неизвестный код операции сравнения.</translation>
+    </message>
+    <message>
+        <source>Error. Missing second part of test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
+        <translation>Ошибка! Отсутствует вторая часть условия проверки.</translation>
     </message>
 </context>
 <context>
@@ -1101,7 +1168,7 @@ Try one or more of the following:
     <message>
         <source>AaBbCc</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation>АаБбВв</translation>
+        <translation type="obsolete">АаБбВв</translation>
     </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
@@ -1258,7 +1325,7 @@ Do you want to replace it?</source>
     <message>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!?, ?#?, ?%20?, ?%23? or ?%25?, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
-        <translation>Некоторые браузеры не могут отображать веб-страницы из одного файла, где путь включает в себя символы &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; или &quot;%25&quot; и др.. Хотите продолжить?</translation>
+        <translation type="obsolete">Некоторые браузеры не могут отображать веб-страницы из одного файла, где путь включает в себя символы &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; или &quot;%25&quot; и др.. Хотите продолжить?</translation>
     </message>
     <message>
         <source>Please select the base text for the Phonetic Guide.</source>
@@ -1323,7 +1390,7 @@ Do you want to replace it?</source>
     <message utf8="true">
         <source>（Asian）</source>
         <comment>TxRevision_Chp_Asian</comment>
-        <translation></translation>
+        <translation> (азиатский）</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2594,6 +2661,38 @@ Do you want to replace it?</source>
         <source>Writer</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Make office work easier</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation>Сделать работу с офисом проще</translation>
+    </message>
+    <message>
+        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
+        <comment>_TxSaveMHTHTMLWarning</comment>
+        <translation>Некоторые браузеры не могут отображать веб-страницу в одном файле, включающую символы &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot;, &quot;%25&quot;, и подобные. Продолжить?</translation>
+    </message>
+    <message>
+        <source>You cannot merge these documents because document protection is in effect.</source>
+        <translation>Объединение документов невозможно, так как включена защита документа.</translation>
+    </message>
+    <message>
+        <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
+        <translation>Один или оба сравниваемых документа содержат исправления. При сравнении приложение WPS будет считать, что все эти изменения приняты. Выполнить сравнение?</translation>
+    </message>
+    <message>
+        <source>(no proofing)</source>
+        <comment>TxLanguage_NoProofing</comment>
+        <translation>(без проверки правописания)</translation>
+    </message>
+    <message>
+        <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
+        <comment>TxReload_ConfirmDropChanges</comment>
+        <translation>Отменить изменения в &quot;%s&quot; и загрузить последнюю версию?</translation>
+    </message>
+    <message>
+        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
+        <translation>Документ содержит связи с другими файлами. Обновить в документе данные, связанные с другими файлами?</translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_err</name>
@@ -2779,12 +2878,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>_TxDocument_SaveChangeMsg</comment>
-        <translation>Хотите сохранить изменения в %s?</translation>
+        <translation>Сохранить изменения в %s?</translation>
     </message>
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
         <comment>_TxDocument_SaveGlobalTempChange</comment>
-        <translation>Внесённые изменения повлияют на общий шаблон %s. Хотите сохранить изменения?</translation>
+        <translation>Внесённые изменения повлияют на общий шаблон %s. Сохранить изменения?</translation>
     </message>
     <message>
         <source>The file you opened is read-only, or is locked by another application.
@@ -2891,7 +2990,7 @@ Please make sure the file is not locked by another user, or the target disk is n
 •If you want to keep this format, click Yes.
 •If you want to preserve the features, click No. Then save a copy as the latest WPS Writer format.</source>
         <comment>_TxDocument_FormatNotCompatible</comment>
-        <translation>%s может содержать форматирование не совместимое с форматом %s. Хотите сохранить документ в этом формате? 
+        <translation>%s может содержать форматирование не совместимое с форматом %s. Сохранить документ в этом формате? 
 
 • Чтобы сохранить в этом формате, нажмите кнопку &quot;Да&quot;. 
 • Чтобы сохранить всё форматирование, нажмите кнопку &quot;Нет&quot;. Затем сохраните копию в формате последней версии WPS Writer.</translation>
@@ -2946,7 +3045,7 @@ Please try one of the following.
 ?Switch to another user account.
 ?Ask its creator to change the permissions control level of this file.</source>
         <comment>_TxDocument_KRM_RightsInsufficient</comment>
-        <translation>WPS Writer не может открыть файл, поскольку текущий пользователь не имеет достаточных прав доступа. 
+        <translation type="obsolete">WPS Writer не может открыть файл, поскольку текущий пользователь не имеет достаточных прав доступа. 
 Попробуйте одно из следующих действий - 
 • Зарегистрируйтесь с другой учетной записью. 
 • Попросите создателя файла изменить уровень управления правами доступа к файлу. 
@@ -3051,10 +3150,26 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPSEx</comment>
-        <translation>Общие файлы (*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
+        <translation type="obsolete">Общие файлы (*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
+    </message>
+    <message utf8="true">
+        <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
+Please try one of the following.
+•Switch to another user account.
+•Ask its creator to change the permissions control level of this file.</source>
+        <comment>_TxDocument_KRM_RightsInsufficient</comment>
+        <translation>WPS Writer не может открыть этот файл, так как текущий пользователь не имеет достаточных прав доступа. 
+Попробуйте одно из следующих действий. 
+• Поменяйте учетную запись пользователя. 
+• Попросите создателя файлов изменить права доступа для файла.</translation>
     </message>
     <message>
-        <source>*.wps;*.wpt;*.wpsx;*.doc;*.dot;*.rtf; *.docx</source>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</source>
+        <comment>TxDesc_AllWPSEx</comment>
+        <translation>Общие файлы(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
         <comment>TxExts_AllWPSEx</comment>
         <translation></translation>
     </message>
@@ -4411,7 +4526,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>The number must be %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation>Число должно быть в диапазоне между %d и %d.</translation>
+        <translation type="obsolete">Число должно быть в диапазоне между %d и %d.</translation>
     </message>
     <message>
         <source>The maximum length value must be equal to or greater than the length of the default text,%d characters.</source>
@@ -4687,7 +4802,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Has finished searching ?%s?. The search item was not found.</source>
         <comment>wps_sFinishHighlightAllNotFound</comment>
-        <translation>Поиск &quot;%s&quot; завершен, искомые элементы не были найдены.</translation>
+        <translation type="obsolete">Поиск &quot;%s&quot; завершен, искомые элементы не были найдены.</translation>
     </message>
     <message>
         <source>Numbered item</source>
@@ -4905,6 +5020,16 @@ Cancel:	Return to the dialog.</source>
         <source>You are not allowed to edit this selection because it is protected.</source>
         <comment>wps_sSelectionProtected</comment>
         <translation>Нельзя изменять защищённое выделенное содержимое.</translation>
+    </message>
+    <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sValidValue</comment>
+        <translation>Число должно быть в диапазоне между %d и %d.</translation>
+    </message>
+    <message>
+        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
+        <comment>wps_sFinishHighlightAllNotFound</comment>
+        <translation>Поиск &quot;%s&quot; завершен, искомые элементы не были найдены.</translation>
     </message>
 </context>
 <context>
@@ -5507,7 +5632,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Data/Time</source>
         <comment>TxVersion_InsDateTime</comment>
-        <translation>Дата / время</translation>
+        <translation type="obsolete">Дата / время</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -5702,12 +5827,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Can&apos;t Undo</source>
         <comment>TxVersion_CannotUndo</comment>
-        <translation>Невозможно отменить</translation>
+        <translation>Нельзя отменить</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
         <comment>TxVersion_CannotRedo</comment>
-        <translation>Невозможно вернуть</translation>
+        <translation>Нельзя вернуть</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -6456,6 +6581,241 @@ Check</source>
         <source>WPS Writer 2007/2010 File(*.wpsx)</source>
         <comment>TxDesc_DataSource_wpsx</comment>
         <translation>Файл WPS Writer 2007/2010(*.wpsx)</translation>
+    </message>
+    <message>
+        <source>Date/Time</source>
+        <comment>TxVersion_InsDateTime</comment>
+        <translation>Дата и время</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation>Шаблон WPS Writer 2007/2010(*.wptx)</translation>
+    </message>
+    <message>
+        <source>Table Normal</source>
+        <comment>TxTableStyle_TableNormal</comment>
+        <translation>Обычная таблица</translation>
+    </message>
+    <message>
+        <source>Table Simple 1</source>
+        <comment>TxTableStyle_TableSimple1</comment>
+        <translation>Простая таблица 1</translation>
+    </message>
+    <message>
+        <source>Table Simple 2</source>
+        <comment>TxTableStyle_TableSimple2</comment>
+        <translation>Простая таблица 2</translation>
+    </message>
+    <message>
+        <source>Table Simple 3</source>
+        <comment>TxTableStyle_TableSimple3</comment>
+        <translation>Простая таблица 3</translation>
+    </message>
+    <message>
+        <source>Table Classic 1</source>
+        <comment>TxTableStyle_TableClassic1</comment>
+        <translation>Классическая таблица 1</translation>
+    </message>
+    <message>
+        <source>Table Classic 2</source>
+        <comment>TxTableStyle_TableClassic2</comment>
+        <translation>Классическая таблица 2</translation>
+    </message>
+    <message>
+        <source>Table Classic 3</source>
+        <comment>TxTableStyle_TableClassic3</comment>
+        <translation>Классическая таблица 3</translation>
+    </message>
+    <message>
+        <source>Table Classic 4</source>
+        <comment>TxTableStyle_TableClassic4</comment>
+        <translation>Классическая таблица 4</translation>
+    </message>
+    <message>
+        <source>Table Colorful 1</source>
+        <comment>TxTableStyle_TableColorful1</comment>
+        <translation>Цветная таблица 1</translation>
+    </message>
+    <message>
+        <source>Table Colorful 2</source>
+        <comment>TxTableStyle_TableColorful2</comment>
+        <translation>Цветная таблица 2</translation>
+    </message>
+    <message>
+        <source>Table Colorful 3</source>
+        <comment>TxTableStyle_TableColorful3</comment>
+        <translation>Цветная таблица 3</translation>
+    </message>
+    <message>
+        <source>Table Columns 1</source>
+        <comment>TxTableStyle_TableColumns1</comment>
+        <translation>Столбцы таблицы 1</translation>
+    </message>
+    <message>
+        <source>Table Columns 2</source>
+        <comment>TxTableStyle_TableColumns2</comment>
+        <translation>Столбцы таблицы 2</translation>
+    </message>
+    <message>
+        <source>Table Columns 3</source>
+        <comment>TxTableStyle_TableColumns3</comment>
+        <translation>Столбцы таблицы 3</translation>
+    </message>
+    <message>
+        <source>Table Columns 4</source>
+        <comment>TxTableStyle_TableColumns4</comment>
+        <translation>Столбцы таблицы 4</translation>
+    </message>
+    <message>
+        <source>Table Columns 5</source>
+        <comment>TxTableStyle_TableColumns5</comment>
+        <translation>Столбцы таблицы 5</translation>
+    </message>
+    <message>
+        <source>Table Grid 1</source>
+        <comment>TxTableStyle_TableGrid1</comment>
+        <translation>Сетка таблицы 1</translation>
+    </message>
+    <message>
+        <source>Table Grid 2</source>
+        <comment>TxTableStyle_TableGrid2</comment>
+        <translation>Сетка таблицы 2</translation>
+    </message>
+    <message>
+        <source>Table Grid 3</source>
+        <comment>TxTableStyle_TableGrid3</comment>
+        <translation>Сетка таблицы 3</translation>
+    </message>
+    <message>
+        <source>Table Grid 4</source>
+        <comment>TxTableStyle_TableGrid4</comment>
+        <translation>Сетка таблицы 4</translation>
+    </message>
+    <message>
+        <source>Table Grid 5</source>
+        <comment>TxTableStyle_TableGrid5</comment>
+        <translation>Сетка таблицы 5</translation>
+    </message>
+    <message>
+        <source>Table Grid 6</source>
+        <comment>TxTableStyle_TableGrid6</comment>
+        <translation>Сетка таблицы 6</translation>
+    </message>
+    <message>
+        <source>Table Grid 7</source>
+        <comment>TxTableStyle_TableGrid7</comment>
+        <translation>Сетка таблицы 7</translation>
+    </message>
+    <message>
+        <source>Table Grid 8</source>
+        <comment>TxTableStyle_TableGrid8</comment>
+        <translation>Сетка таблицы 8</translation>
+    </message>
+    <message>
+        <source>Table List 1</source>
+        <comment>TxTableStyle_TableList1</comment>
+        <translation>Таблица-список 1</translation>
+    </message>
+    <message>
+        <source>Table List 2</source>
+        <comment>TxTableStyle_TableList2</comment>
+        <translation>Таблица-список 2</translation>
+    </message>
+    <message>
+        <source>Table List 3</source>
+        <comment>TxTableStyle_TableList3</comment>
+        <translation>Таблица-список 3</translation>
+    </message>
+    <message>
+        <source>Table List 4</source>
+        <comment>TxTableStyle_TableList4</comment>
+        <translation>Таблица-список 4</translation>
+    </message>
+    <message>
+        <source>Table List 5</source>
+        <comment>TxTableStyle_TableList5</comment>
+        <translation>Таблица-список 5</translation>
+    </message>
+    <message>
+        <source>Table List 6</source>
+        <comment>TxTableStyle_TableList6</comment>
+        <translation>Таблица-список 6</translation>
+    </message>
+    <message>
+        <source>Table List 7</source>
+        <comment>TxTableStyle_TableList7</comment>
+        <translation>Таблица-список 7</translation>
+    </message>
+    <message>
+        <source>Table List 8</source>
+        <comment>TxTableStyle_TableList8</comment>
+        <translation>Таблица-список 8</translation>
+    </message>
+    <message>
+        <source>Table 3D effects 1</source>
+        <comment>TxTableStyle_Table3dfx1</comment>
+        <translation>Объемная таблица 1</translation>
+    </message>
+    <message>
+        <source>Table 3D effects 2</source>
+        <comment>TxTableStyle_Table3dfx2</comment>
+        <translation>Объемная таблица 2</translation>
+    </message>
+    <message>
+        <source>Table 3D effects 3</source>
+        <comment>TxTableStyle_Table3dfx3</comment>
+        <translation>Объемная таблица 3</translation>
+    </message>
+    <message>
+        <source>Table Contemporary</source>
+        <comment>TxTableStyle_TableContemporary</comment>
+        <translation>Современная таблица</translation>
+    </message>
+    <message>
+        <source>Table Elegant</source>
+        <comment>TxTableStyle_TableElegant</comment>
+        <translation>Изысканная таблица</translation>
+    </message>
+    <message>
+        <source>Table Professional</source>
+        <comment>TxTableStyle_TableProfessional</comment>
+        <translation>Стандартная таблица</translation>
+    </message>
+    <message>
+        <source>Table Subtle1</source>
+        <comment>TxTableStyle_TableSubtle1</comment>
+        <translation>Изящная таблица 1</translation>
+    </message>
+    <message>
+        <source>Table Subtle2</source>
+        <comment>TxTableStyle_TableSubtle2</comment>
+        <translation>Изящная таблица 2</translation>
+    </message>
+    <message>
+        <source>Table Web 1</source>
+        <comment>TxTableStyle_TableWeb1</comment>
+        <translation>Веб-таблица 1</translation>
+    </message>
+    <message>
+        <source>Table Web 2</source>
+        <comment>TxTableStyle_TableWeb2</comment>
+        <translation>Веб-таблица 2</translation>
+    </message>
+    <message>
+        <source>Table Web 3</source>
+        <comment>TxTableStyle_TableWeb3</comment>
+        <translation>Веб-таблица 3</translation>
+    </message>
+    <message>
+        <source>Table Grid</source>
+        <comment>TxTableStyle_TableGrid</comment>
+        <translation>Сетка таблицы</translation>
+    </message>
+    <message>
+        <source>Table Theme</source>
+        <comment>TxTableStyle_TabelTheme</comment>
+        <translation>Тема таблицы</translation>
     </message>
 </context>
 <context>
@@ -7618,11 +7978,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
-        <translation type="obsolete">Хотите сохранить изменения в %s?</translation>
+        <translation type="obsolete">Cохранить изменения в %s?</translation>
     </message>
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
-        <translation type="obsolete">Внесённые изменения повлияют на общий шаблон %s. Хотите сохранить изменения?</translation>
+        <translation type="obsolete">Внесённые изменения повлияют на общий шаблон %s. Сохранить изменения?</translation>
     </message>
     <message>
         <source>The file you opened is read-only, or is locked by another application.
@@ -7712,7 +8072,7 @@ Please try one of the following.
 
 •If you want to keep this format, click Yes.
 •If you want to preserve the features, click No. Then save a copy as the latest Kingsoft Writer format.</source>
-        <translation type="obsolete">%s может содержать форматирование не совместимое с форматом %s. Хотите сохранить документ в этом формате? 
+        <translation type="obsolete">%s может содержать форматирование не совместимое с форматом %s. Сохранить документ в этом формате? 
 
 • Чтобы сохранить в этом формате, нажмите кнопку &quot;Да&quot;. 
 • Чтобы сохранить всё форматирование, нажмите кнопку &quot;Нет&quot;. Затем сохраните копию в формате последней версии Writer Kingsoft.</translation>
@@ -9659,11 +10019,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
-        <translation type="obsolete">Невозможно отменить</translation>
+        <translation type="obsolete">Нельзя отменить</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
-        <translation type="obsolete">Невозможно вернуть</translation>
+        <translation type="obsolete">Нельзя вернуть</translation>
     </message>
     <message>
         <source>Undo</source>

@@ -185,6 +185,10 @@
         <source>&amp;Colors:</source>
         <translation>&amp;Палитра:</translation>
     </message>
+    <message>
+        <source>Advanced</source>
+        <translation>Подробнее</translation>
+    </message>
 </context>
 <context>
     <name>KCommand</name>
@@ -202,15 +206,23 @@
     </message>
     <message>
         <source>Downloading the online font &quot;%1&quot;  succeeded.</source>
-        <translation>Загрузка шрифта из Интернета&quot;%1&quot; выполнена успешно.</translation>
+        <translation type="obsolete">Загрузка шрифта из Интернета&quot;%1&quot; выполнена успешно.</translation>
     </message>
     <message>
         <source>Downloading the online font &quot;%1&quot;  failed.</source>
-        <translation>Ошибка загрузки шрифта из Интернета&quot;%1&quot;.</translation>
+        <translation type="obsolete">Ошибка загрузки шрифта из Интернета&quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Click here to change your interface style.</source>
         <translation>Щёлкните здесь для изменения стиля интерфейса.</translation>
+    </message>
+    <message>
+        <source>DownLoad Online Fonts &quot;%1&quot; Successful</source>
+        <translation>Загрузка шрифтов из Интернета &quot;%1&quot; успешно</translation>
+    </message>
+    <message>
+        <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
+        <translation>Загрузка шрифтов из Интернета &quot;%1&quot; ошибка</translation>
     </message>
 </context>
 <context>
@@ -277,15 +289,15 @@
     </message>
     <message>
         <source>2012 Skin</source>
-        <translation>Обложка 2012</translation>
+        <translation>Стиль интерфейса 2012</translation>
     </message>
     <message>
         <source>2013 Skin</source>
-        <translation>Обложка 2013</translation>
+        <translation>Стиль интерфейса 2013</translation>
     </message>
     <message>
         <source>Restart Office to apply the layout.</source>
-        <translation>Перезапустите Office для применениея макета.</translation>
+        <translation type="obsolete">Перезапустите Office для применениея макета.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -313,15 +325,27 @@
     </message>
     <message>
         <source>2013 Elegant Black</source>
-        <translation>Изысканный черный 2013</translation>
+        <translation>Изысканный чёрный 2013</translation>
     </message>
     <message>
         <source>2013 Water Blue</source>
-        <translation>Водяной синий 2013</translation>
+        <translation>Морская волна 2013</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
-        <translation>Изменения макета вступят в силу после перезапуска WPS Office.</translation>
+        <translation type="obsolete">Изменения макета вступят в силу после перезапуска WPS Office.</translation>
+    </message>
+    <message>
+        <source>about:blank</source>
+        <translation>:пусто</translation>
+    </message>
+    <message>
+        <source>applying...</source>
+        <translation>применить...</translation>
+    </message>
+    <message>
+        <source>Restart WPS Office for layout setting to take effect</source>
+        <translation>Для вступления в силу настроек интерфейса перезапустите WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -388,11 +412,11 @@
     </message>
     <message>
         <source>Choose Language Installation Package</source>
-        <translation>Выбрать установочный пакет для языка</translation>
+        <translation type="obsolete">Выбрать установочный пакет для языка</translation>
     </message>
     <message>
         <source>Install Language Package</source>
-        <translation>Установить языковой пакет</translation>
+        <translation type="obsolete">Установить языковой пакет</translation>
     </message>
     <message>
         <source>Information</source>
@@ -400,15 +424,15 @@
     </message>
     <message>
         <source>&amp;Install new language</source>
-        <translation>&amp;Установить новый язык</translation>
+        <translation type="obsolete">&amp;Установить новый язык</translation>
     </message>
     <message>
         <source>Get &amp;More...</source>
-        <translation>&amp;Дополнительно...</translation>
+        <translation type="obsolete">&amp;Дополнительно...</translation>
     </message>
     <message>
         <source>ZIP File (*.zip)</source>
-        <translation>Файл ZIP (*.zip)</translation>
+        <translation type="obsolete">Файл ZIP (*.zip)</translation>
     </message>
     <message>
         <source>&amp;Follow system locale</source>
@@ -416,11 +440,54 @@
     </message>
     <message>
         <source>Installation fails, make sure to install the complete package.</source>
-        <translation>Ошибка установки. Убедитесь, что устанавливается полный пакет.</translation>
+        <translation type="obsolete">Ошибка установки. Убедитесь, что устанавливается полный пакет.</translation>
     </message>
     <message>
         <source>Settings will take effect after the application restarts.</source>
         <translation>Настройки вступят в силу после перезапуска приложения.</translation>
+    </message>
+    <message>
+        <source>Downloading %1...</source>
+        <translation>Загрузка %1...</translation>
+    </message>
+    <message>
+        <source>Installing %1...</source>
+        <translation>Установка %1...</translation>
+    </message>
+    <message>
+        <source>Local Language Packs</source>
+        <translation>Локальные языковые пакеты</translation>
+    </message>
+    <message>
+        <source>Online Language Packs</source>
+        <translation>Языковые пакеты из Интернета</translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation>Загрузка...</translation>
+    </message>
+    <message>
+        <source>Click to open the credits page.</source>
+        <translation>Щёлкните, чтобы открыть страницу с перечислением участников проекта.</translation>
+    </message>
+    <message>
+        <source>Network error...</source>
+        <translation>Сетевая ошибка...</translation>
+    </message>
+    <message>
+        <source>A network error occurred.</source>
+        <translation>Сетевая ошибка.</translation>
+    </message>
+    <message>
+        <source>Download language packs failed.</source>
+        <translation>Ошибка загрузки языковых пакетов.</translation>
+    </message>
+</context>
+<context>
+    <name>KLanguageDownloadDialog</name>
+    <message>
+        <source>Are you sure to cancel the download?</source>
+        <translation>Отменить загрузку?</translation>
     </message>
 </context>
 <context>
@@ -602,7 +669,7 @@
     <name>KSwitchFaceDlg</name>
     <message>
         <source>2012 Skin</source>
-        <translation>Обложка 2012</translation>
+        <translation>Стиль интерфейса 2012</translation>
     </message>
     <message>
         <source>Classic Skin</source>
@@ -1284,6 +1351,13 @@
     </message>
 </context>
 <context>
+    <name>KxCustomRibbonEx_Menu</name>
+    <message>
+        <source>Customize menu</source>
+        <translation>Настройка меню</translation>
+    </message>
+</context>
+<context>
     <name>KxCustomRibbonEx_Tab</name>
     <message>
         <source>Custom Tab</source>
@@ -1470,7 +1544,7 @@
     <message>
         <source>To work with Developer tab (including Macros, Control
 Toolbox), please purchase WPS Office Professional.</source>
-        <translation>Для работы с вкладкой &quot;Разработчик&quot; (включая макросы,
+        <translation type="obsolete">Для работы с вкладкой &quot;Разработчик&quot; (включая макросы,
 панель элементов управления) необходима WPS Office Профессиональная.</translation>
     </message>
 </context>
@@ -2152,6 +2226,65 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgMailFeedBack</name>
+    <message>
+        <source>Phone*:</source>
+        <translation>Телефон*:</translation>
+    </message>
+    <message>
+        <source>E-Mail*:</source>
+        <translation>Электронная почта*:</translation>
+    </message>
+    <message>
+        <source>Problem types:</source>
+        <translation>Типы ошибок:</translation>
+    </message>
+    <message>
+        <source>Cannot find functions</source>
+        <translation>Функции не найдены</translation>
+    </message>
+    <message>
+        <source>Do not know how to use the function</source>
+        <translation>Ошибка использования функции</translation>
+    </message>
+    <message>
+        <source>Compatible problems with other software</source>
+        <translation>Ошибки совместимости с другим программным обеспечением</translation>
+    </message>
+    <message>
+        <source>WPS Office operating process not smoothly</source>
+        <translation>Слишком медленное выполнение процесса WPS Office</translation>
+    </message>
+    <message>
+        <source>Problems of secondly development</source>
+        <translation>Ошибки разработки</translation>
+    </message>
+    <message>
+        <source>Other problems</source>
+        <translation>Другие ошибки</translation>
+    </message>
+    <message>
+        <source>Suggestions</source>
+        <translation>Предложения</translation>
+    </message>
+    <message>
+        <source>Files to reproduce the problem (Files will be properly kept.) </source>
+        <translation>Файлы для воспроизведения ошибки (файлы будут храниться с соблюдением конфиденциальности.)</translation>
+    </message>
+    <message>
+        <source>Add Attachment</source>
+        <translation>Добавить вложение</translation>
+    </message>
+    <message>
+        <source>Send Email</source>
+        <translation>Отправить электронную почту</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgNewTemplate</name>
     <message>
         <source>Templates</source>
@@ -2251,7 +2384,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation>Выбрать &amp;все</translation>
+        <translation type="obsolete">Выбрать &amp;все</translation>
     </message>
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
@@ -2413,6 +2546,25 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <source>&amp;Encryption...</source>
         <comment>Encrypt button tab in filedialog</comment>
         <translation>&amp;Шифрование...</translation>
+    </message>
+</context>
+<context>
+    <name>KxFileItemWidget</name>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation>
+
+время изменения:</translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation>
+
+Запись недействительна, возможно файл был переименован, удалён или перемещён.</translation>
     </message>
 </context>
 <context>
@@ -2883,8 +3035,114 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>To work with macros, please purchase WPS Office Professional.
 </source>
-        <translation>Для работы с макросами необходима WPS Office Профессиональная.
+        <translation type="obsolete">Для работы с макросами необходима WPS Office Профессиональная.
 </translation>
+    </message>
+</context>
+<context>
+    <name>KxMailFeedBackDlg</name>
+    <message>
+        <source>----please choose the type of your problem-----</source>
+        <translation>----выберите тип ошибки-----</translation>
+    </message>
+    <message>
+        <source>(Details of problems)</source>
+        <translation>(Информация об ошибке)</translation>
+    </message>
+    <message>
+        <source>(Steps to reproduce the problem)</source>
+        <translation>(Действия для воспроизведения ошибки)</translation>
+    </message>
+    <message>
+        <source>(A detailed description)</source>
+        <translation>(Подробное описание)</translation>
+    </message>
+    <message>
+        <source>If options folow are empty, the email will only send the auto-generated error log report.</source>
+        <translation>Если не заполнены следующие поля, то по электронной почте будет отправлен только, созданный автоматически, отчёт об ошибке.</translation>
+    </message>
+    <message>
+        <source>Abnormal exit</source>
+        <translation>Аварийное завершение</translation>
+    </message>
+    <message>
+        <source>User feedback</source>
+        <translation>Отзывы пользователей</translation>
+    </message>
+    <message>
+        <source>Files or pictures to help describing problems</source>
+        <translation>Файлы или изображения для описания проблемы</translation>
+    </message>
+    <message>
+        <source>We are looking forward to receiving your email. Please describe encountered problems or share your suggestions of WPS Office in the below table. We will reply you as soon as possible.
+If the problem is urgent, call the customer hotline : 400-667-5005.</source>
+        <translation>Ждём от вас сообщения по электронной почте. Вы можете описать возникшие ошибки, или внести предложения по улучшению WPS Office в таблице, приведенной ниже. Мы ответим Вам как можно скорее.
+При необходимости срочной консультации по возникшим ошибкам, позвоните по телефону клиентской горячей линии: 400-667-5005.</translation>
+    </message>
+    <message>
+        <source>We are sorry that WPS Office encountered an error and closed automatically. An error log report has been generated. We suggest you email this report to us and provide other information about this error. We will handle it quickly. Thank you for your feedback.</source>
+        <translation>Обнаружена ошибка WPS Office, и приложение будет завершено с автоматической генерацией отчёта об ошибке. Рекомендуем отправить этот отчёт с любой дополнительной информацией об ошибке по электронной почте . Мы постараемся найти решение как можно быстрее. Спасибо за отзыв!
+</translation>
+    </message>
+    <message>
+        <source>Phone number can only contain numbers, +, -</source>
+        <translation>Телефон может содержать только цифры, +, -.</translation>
+    </message>
+    <message>
+        <source>Please choose the problem type!</source>
+        <translation>Выберите тип ошибки!</translation>
+    </message>
+    <message>
+        <source>File does not exist! Please check the file path.</source>
+        <translation>Файл не существует! Проверьте путь к файлу.</translation>
+    </message>
+    <message>
+        <source>Please enter the contact phone and E-mail address!</source>
+        <translation>Введите номер контактного телефона и адрес электронной почты!</translation>
+    </message>
+    <message>
+        <source>Please enter a contact phone!</source>
+        <translation>Введите номер контактного телефона!</translation>
+    </message>
+    <message>
+        <source>Please enter an e-mail address!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E-mail addresses are not compliant!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[User feedback] Version:%1--%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dear users,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following content has been automatically filled in the absence of complement, can be sent directly to this email, Thank you for your feedback.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details of problems:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Steps to reproduce the problem:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A detailed description:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E-mail:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3061,21 +3319,57 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
 </context>
 <context>
+    <name>KxOnlineFontTipDlg</name>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation>Ошибка подключения к услуге. Проверьте сетевое подключение.</translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation>Истекает срок действия функции &quot;важный клиент&quot; %1. Щёлкните для продления и получения новых скидок.
+</translation>
+    </message>
+    <message>
+        <source>Renew</source>
+        <translation>Продлить</translation>
+    </message>
+    <message>
+        <source>You still not a senior member?upgrade to enjoy more cloud fonts now.</source>
+        <translation>Вы пока не являетесь важным участником. Обновите для доступа к дополнительным шрифтам из Интернета.</translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation>Обновление</translation>
+    </message>
+    <message>
+        <source>Tip</source>
+        <translation>Подсказка</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxOnlineFonts</name>
     <message>
         <source>Using online fonts needs to sign in.
 Click the icon to sign in.</source>
-        <translation>Для использования шрифтов из Интернета необходимо войти на сайт.
+        <translation type="obsolete">Для использования шрифтов из Интернета необходимо войти на сайт.
 Нажмите на значок для входа.</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation>Вход</translation>
+        <translation type="obsolete">Вход</translation>
     </message>
     <message>
         <source>Pay font, which is free for VIP.
 Click the icon for more details.</source>
-        <translation>Этот платный шрифт является бесплатным для &quot;важных клиентов&quot;.
+        <translation type="obsolete">Этот платный шрифт является бесплатным для &quot;важных клиентов&quot;.
 Щёлкните значок для получения более подробной информации.</translation>
     </message>
     <message>
@@ -3088,20 +3382,20 @@ Click the icon for more details.</source>
     </message>
     <message>
         <source>Click to use</source>
-        <translation>Щёлкните, чтобы использовать</translation>
+        <translation type="obsolete">Щёлкните, чтобы использовать</translation>
     </message>
     <message>
         <source>Click to download</source>
-        <translation>Щёлкните, чтобы скачать</translation>
+        <translation type="obsolete">Щёлкните, чтобы скачать</translation>
     </message>
     <message>
         <source>For more details</source>
-        <translation>Для более подробной информации</translation>
+        <translation type="obsolete">Для более подробной информации</translation>
     </message>
     <message>
         <source>VIP soon to be expired.
 Click to recharge for more discounts.</source>
-        <translation>Истекает срок режима &quot;важный клиент&quot;.
+        <translation type="obsolete">Истекает срок режима &quot;важный клиент&quot;.
 Щёлкните для обновления и получения новых скидок.
 </translation>
     </message>
@@ -3120,6 +3414,68 @@ Click to recharge for more discounts.</source>
     <message>
         <source>More online fonts</source>
         <translation>Другие шрифты из Интернета</translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.
+Click here to sign in now.</source>
+        <translation>Обновите до &quot;важного клиента&quot; для доступа к расширенному набору шрифтов.
+Для входа нажмите здесь.</translation>
+    </message>
+    <message>
+        <source>Sign in to use cloud fonts.
+Click the icon to sign in now.</source>
+        <translation>Для использования шрифтов из облачного сервиса необходимо войти на сайт.
+Нажмите на значок для входа.</translation>
+    </message>
+    <message>
+        <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
+        <translation>&quot;Важные клиенты&quot; получают доступ к расширенному набору шрифтов. Нажмите для входа на сайт.</translation>
+    </message>
+    <message>
+        <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
+        <translation>Клиенты получают доступ к бесплатным шрифтам облачного сервиса. Нажмите для входа на сайт.</translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew.</source>
+        <translation>Ваше членство %1 истекает сейчас. Его можно продлить  сейчас.
+</translation>
+    </message>
+    <message>
+        <source>VIP cloud fonts installed</source>
+        <translation>Установлен расширенный набор шрифтов &quot;важного клиента&quot;.</translation>
+    </message>
+    <message>
+        <source>Cloud fonts installed</source>
+        <translation>Установлен набор шрифтов облачного сервиса.</translation>
+    </message>
+    <message>
+        <source>Upgrade to VIP to enjoy VIP fonts.</source>
+        <translation>Обновите до &quot;важного клиента&quot; для доступа к расширенному набору шрифтов.</translation>
+    </message>
+    <message>
+        <source>Click to install free cloud fonts</source>
+        <translation>Щёлкните для установки бесплатных шрифтов облачного сервиса.</translation>
+    </message>
+    <message>
+        <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
+        <translation>Истекает срок действия членства %1. Продлите и получите доступ к шрифтам облачного сервиса.
+</translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait?</source>
+        <translation>Загружаются шрифты, подождите...</translation>
+    </message>
+    <message>
+        <source>All cloud fonts installed.  Please looking forward to more.</source>
+        <translation>Шрифты облачного сервиса установлены.</translation>
+    </message>
+    <message>
+        <source>Click to keep cloud fonts on top</source>
+        <translation>Щёлкните для перемещения облачных шрифтов наверх списка.</translation>
+    </message>
+    <message>
+        <source>Click to shuffle cloud fonts</source>
+        <translation>Щёлкните для расстановки облачных шрифтов в случайном порядке.</translation>
     </message>
 </context>
 <context>
@@ -3199,6 +3555,48 @@ Click to recharge for more discounts.</source>
     <message>
         <source>Printing %1 page of %2</source>
         <translation>Печать страницы %1 из %2</translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintRestrictDlg</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation>Вы используете бесплатную версию.</translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
+        <translation>Подложка будет добавлена в документ при печати. Рекомендуется выбрать предварительный просмотр для просмотра изменений перед печатью.</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation>&amp;Печать</translation>
+    </message>
+    <message>
+        <source>Print Pre&amp;view</source>
+        <translation>Предварительный прос&amp;мотр</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Отмена</translation>
+    </message>
+</context>
+<context>
+    <name>KxPrintWatermarkDlg</name>
+    <message>
+        <source>You are using a free version. </source>
+        <translation>Вы используете бесплатную версию.</translation>
+    </message>
+    <message>
+        <source>A watermark will be added to your document when printing. </source>
+        <translation>Подложка будет добавлена в документ при печати.</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again.</source>
+        <translation>Больше не показывать.</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3496,6 +3894,55 @@ Click to recharge for more discounts.</source>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
+    <message>
+        <source>A key to clear</source>
+        <translation>Ключ, который надо очистить</translation>
+    </message>
+    <message>
+        <source>Clear this recor&amp;d</source>
+        <translation>Очистить &amp;данную запись</translation>
+    </message>
+    <message>
+        <source>Clear &amp;all selected record</source>
+        <translation>Очистить выбранные за&amp;писи</translation>
+    </message>
+    <message>
+        <source>Clear &amp;all invalid record</source>
+        <translation>Очистить &amp;все неверные записи</translation>
+    </message>
+    <message>
+        <source>Open the file in &amp;folder</source>
+        <translation>Открыть файл в &amp;папке</translation>
+    </message>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation>
+
+время изменения:</translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation>
+
+Запись недействительна, возможно файл был переименован, удалён или перемещён.</translation>
+    </message>
+    <message>
+        <source>A total of %1 records</source>
+        <translation>Всего %1 записей.</translation>
+    </message>
+    <message>
+        <source>cannot open the file &quot;%1&quot;. 
+the file may be renamed,deleted or moved the location.</source>
+        <translation>Ошибка открытия файла &quot;%1&quot; . Возможно, он был удалён, перемещён или переименован.</translation>
+    </message>
+    <message>
+        <source>open file folder</source>
+        <translation>Открыть папку файла</translation>
+    </message>
 </context>
 <context>
     <name>KxRecentFilePageCommand</name>
@@ -3556,6 +4003,13 @@ but the included system package is reserved.</source>
     </message>
 </context>
 <context>
+    <name>KxSkinSwitchHtmlBridge</name>
+    <message>
+        <source>upload</source>
+        <translation>Загрузка на сервер</translation>
+    </message>
+</context>
+<context>
     <name>KxStartup</name>
     <message>
         <source>Not a valid file.</source>
@@ -3597,7 +4051,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Skin Management</source>
-        <translation>Управление стилями обложек</translation>
+        <translation>Управление стилями интерфейса</translation>
     </message>
 </context>
 <context>
@@ -3619,7 +4073,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Current locale cannot apply this skin.</source>
-        <translation>Текущий язык неприменим к этой обложке.</translation>
+        <translation>Текущий язык неприменим к этому стилю интерфейса.</translation>
     </message>
 </context>
 <context>
@@ -3864,7 +4318,11 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Customize animation:</source>
-        <translation>Настройки анимации:</translation>
+        <translation type="obsolete">Настройки анимации:</translation>
+    </message>
+    <message>
+        <source>Custom animation:</source>
+        <translation>Настройка анимации:</translation>
     </message>
 </context>
 <context>
@@ -3913,6 +4371,32 @@ but the included system package is reserved.</source>
         <source>New from Online Templates</source>
         <translation>Создать на шаблоне из Интернета</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation>Ошибка открытия файла &quot;%1&quot;.
+Возможно, он был удалён, перемещён или переименован.</translation>
+    </message>
+    <message>
+        <source>Open file location</source>
+        <translation>Открыть папку файла</translation>
+    </message>
+    <message>
+        <source>
+
+modify time: </source>
+        <translation>
+
+время изменения:</translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation>
+
+Запись недействительна, возможно файл был переименован, удалён или перемещён.</translation>
+    </message>
 </context>
 <context>
     <name>KxTpRNNewDoc</name>
@@ -3960,6 +4444,15 @@ but the included system package is reserved.</source>
         <source>New from Online Templates</source>
         <translation>Создать на шаблоне из Интернета</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed , deleted or moved the location.</source>
+        <translation>Ошибка открытия файла &quot;%1&quot; . Возможно, он был удалён, перемещён или переименован.</translation>
+    </message>
+    <message>
+        <source>Open file location</source>
+        <translation>Открыть папку файла</translation>
+    </message>
 </context>
 <context>
     <name>KxTpSelectShape</name>
@@ -4004,32 +4497,32 @@ but the included system package is reserved.</source>
     <message>
         <source>Try the Professional version now to enjoy a greater number
 of services and features.</source>
-        <translation>Установите версию &quot;Профессиональная&quot;, в которой доступно 
+        <translation type="obsolete">Установите версию &quot;Профессиональная&quot;, в которой доступно 
 большее количество сервисов и функций.</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>Загрузить</translation>
+        <translation type="obsolete">Загрузить</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Нет</translation>
+        <translation type="obsolete">Нет</translation>
     </message>
     <message>
         <source>Click to try it now.</source>
-        <translation>Щёлкните для загрузки.</translation>
+        <translation type="obsolete">Щёлкните для загрузки.</translation>
     </message>
     <message>
         <source>Purchase</source>
-        <translation>Приобрести</translation>
+        <translation type="obsolete">Приобрести</translation>
     </message>
     <message>
         <source>Purchase now to get full version of WPS Office Professional.</source>
-        <translation>Купите сейчас для получения полной версии WPS Office Профессиональная.</translation>
+        <translation type="obsolete">Купите сейчас для получения полной версии WPS Office Профессиональная.</translation>
     </message>
     <message>
         <source>Continue Trial</source>
-        <translation>Продолжить использование пробной версии.</translation>
+        <translation type="obsolete">Продолжить использование пробной версии.</translation>
     </message>
 </context>
 <context>
@@ -4486,7 +4979,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Black</source>
-        <translation>Черный</translation>
+        <translation>Чёрный</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
@@ -4510,7 +5003,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Blue Grey</source>
-        <translation>Сизый</translation>
+        <translation type="obsolete">Сизый</translation>
     </message>
     <message>
         <source>Light Purple</source>
@@ -4782,12 +5275,16 @@ Always take this action.</source>
         <source>Do not check this when starting WPS Office next time</source>
         <translation>Не проверять при следующем запуске WPS Office</translation>
     </message>
+    <message>
+        <source>Blue Gray</source>
+        <translation>Сизый</translation>
+    </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
     <message>
         <source>Current locale cannot apply this skin.</source>
-        <translation>Текущий системный язык не может использоваться с этой обложкой.</translation>
+        <translation>Текущий системный язык не может использоваться с этим стилем интерфейса.</translation>
     </message>
 </context>
 <context>
@@ -4839,7 +5336,7 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
     <message>
         <source>This product is licensed to:</source>
-        <translation>Данный продукт лицензирован:</translation>
+        <translation>Данный продукт лицензирован для:</translation>
     </message>
     <message>
         <source>Product ID:</source>
@@ -4991,7 +5488,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Link to:</source>
-        <translation>Связать с:</translation>
+        <translation>Ссылка на:</translation>
     </message>
     <message>
         <source>&amp;Text to display:</source>
@@ -5033,7 +5530,7 @@ Document</source>
     <message>
         <source>E&amp;xisting File
 or Web Page</source>
-        <translation>&amp;файлом или веб- страницей</translation>
+        <translation>&amp;Файл или веб-страницу</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
@@ -5349,7 +5846,7 @@ or Web Page</source>
     <name>updateMessageDlg</name>
     <message>
         <source>Update</source>
-        <translation>Обновить</translation>
+        <translation>Обновление версии</translation>
     </message>
     <message>
         <source>A new version is detected. Do you want to download the updated one?</source>
@@ -5357,7 +5854,7 @@ or Web Page</source>
     </message>
     <message>
         <source>Ignore it</source>
-        <translation>Пропустить</translation>
+        <translation>Не показывать</translation>
     </message>
 </context>
 <context>

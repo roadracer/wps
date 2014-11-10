@@ -33,6 +33,7 @@
         <source>The document will be saved as &quot;%s&quot; format, do you want to continue?
 (%s)</source>
         <comment>TX_Workbook_SaveConvertToDefault</comment>
+        <translatorcomment>Spreadsheets button-&gt;Save as-&gt;Other formats</translatorcomment>
         <translation>Le document sera enregistré au format &quot;%s&quot;, voulez-vous continuer ?
 (%s)</translation>
     </message>
@@ -51,6 +52,7 @@ Please try one of the following.
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure</comment>
+        <translatorcomment>Spreadsheets button-&gt;Open-&gt;Files of type-&gt;choose All Files-&gt;select an application-&gt;Open</translatorcomment>
         <translation>Des erreurs surviennent lorsque WPS Spreadsheets ouvre ce fichier.
 Essayez l&apos;une des actions suivantes.
 •Vérifiez que vous avez l&apos;autorisation d&apos;accéder à ce fichier ou à ce lecteur.
@@ -88,6 +90,7 @@ Essayez l&apos;une des actions suivantes.
         <source>WPS Spreadsheets cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>TX_Workbook_OpenPasswordFailure</comment>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security-&gt;Document password-&gt;enter &apos;123&apos;-&gt;Reenter password to open-&gt;enter&apos;123&apos;-&gt;OK-&gt;save and close the workbook-&gt;open the workbook-&gt;Password dialog box-&gt;enter&apos;111&apos;</translatorcomment>
         <translation>WPS Spreadsheets ne peut pas ouvrir ce fichier, car le mot de passe est incorrect.
 (%s)</translation>
     </message>
@@ -102,7 +105,8 @@ Essayez l&apos;une des actions suivantes.
         <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
 (%s)</source>
         <comment>TX_Workbook_SaveFailure</comment>
-        <translation>WPS Spreadsheets ne peut pas enregistrer ou créer ce fichier. Vérifiez que le disque cible n&apos;est pas plein, ni endommagé.
+        <translatorcomment>Quick Access toolbar-&gt;click Save-&gt;Save as dialog box, choose a full disk to save in-&gt;Save</translatorcomment>
+        <translation>WPS Spreadsheets ne peut pas enregistrer ou créer ce fichier. Vérifiez que le disque cible n&apos;est pas plein ou endommagé.
 (%s)</translation>
     </message>
     <message>
@@ -149,6 +153,7 @@ Essayez l&apos;une des actions suivantes.
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
         <comment>TX_Save_Modified_Book</comment>
+        <translatorcomment>Book1-&gt;click A1-&gt;enter a-&gt;click Close button</translatorcomment>
         <translation>Voulez-vous enregistrer les modifications apportées à &quot;%s&quot; ?</translation>
     </message>
     <message>
@@ -187,11 +192,13 @@ Essayez l&apos;une des actions suivantes.
     <message>
         <source>Cannot save the file due to the full disk.</source>
         <comment>TX_Medium_Full</comment>
+        <translatorcomment>Spreadsheets button-&gt;Save as dialog box-&gt;choose a full disk-&gt;Save</translatorcomment>
         <translation>Impossible d&apos;enregistrer le fichier, car le disque est plein.</translation>
     </message>
     <message>
         <source>Cannot save the file, because the file location you want to save is write protected.</source>
         <comment>TX_DiskIsWriteProtected</comment>
+        <translatorcomment>Spreadsheets button-&gt;Save as dialog box-&gt;choose a disk protected-&gt;Save</translatorcomment>
         <translation>Impossible d&apos;enregistrer le fichier, car l&apos;emplacement sur lequel vous souhaitez l&apos;enregistrer est protégé en écriture.</translation>
     </message>
     <message>
@@ -211,6 +218,7 @@ Delete or clear all cells between the end of your data and the last cell. You ca
 
 Or, you can move the last nonblank cells to a new location and try again.</source>
         <comment>TX_InsertRange_LoseData</comment>
+        <translatorcomment>press Ctrl+&gt; to the IV column-&gt;enter &apos;1&apos;in IV1-&gt;click IU column-&gt;right click and insert a column</translatorcomment>
         <translation>Pour empêcher une perte de données éventuelle, WPS Spreadsheets ne peut pas supprimer les cellules non vides de la feuille de calcul.
 
 Supprimez ou effacez toutes les cellules situées entre la fin de vos données et la dernière cellule. Vous pouvez accéder à la dernière cellule non vide en appuyant sur Ctrl+Fin et en sélectionnant la zone à supprimer, puis procédez à la suppression ou à l&apos;effacement.
@@ -220,6 +228,7 @@ Vous pouvez également déplacer les dernières cellules non vides vers un nouve
     <message>
         <source>Fill failed due to there is an array in source area.</source>
         <comment>TX_VALUE_INVALID</comment>
+        <translatorcomment>select A1 to A5-&gt;enter &apos;=1&apos;-&gt;Ctrl+Shift+Enter-&gt;click A1-&gt;Home tab-&gt;Rows and Columns-&gt;Fill-&gt;Down</translatorcomment>
         <translation>Échec du remplissage en raison d&apos;une matrice dans la zone source.</translation>
     </message>
     <message>
@@ -275,17 +284,20 @@ Vous pouvez également déplacer les dernières cellules non vides vers un nouve
     <message>
         <source>The selection contains multiple data values. Only the data in the upper-left corner will be kept when merging into one cell.</source>
         <comment>TX_MergeCells_LoseData</comment>
+        <translatorcomment>enter 1 in A1, enter 2 in A2, enter 3 in A3-&gt;Home tab-&gt;Merge and Center</translatorcomment>
         <translation>La sélection contient plusieurs valeurs de données. Seules les données situées dans l&apos;angle supérieur gauche sont conservées lors de la fusion en une seule cellule.</translation>
     </message>
     <message>
         <source>Cannot merge overlapping ranges.</source>
         <comment>TX_MergeCells_CollapsedArea</comment>
+        <translatorcomment>click and hold to select A1 to C8-&gt;press Ctrl and hold, click and hold to select B7 to D10-&gt;Home tab-&gt;Merge and Center</translatorcomment>
         <translation>Impossible de fusionner des plages superposées.</translation>
     </message>
     <message>
         <source>A document with the name &quot;%s&quot; is already open. You cannot open two documents with the same name, even if the documents are in different folders.
 To open the second document with the same name, you can close the document that is currently open, or rename one of the documents.</source>
         <comment>TX_Cannot_Open_SameName</comment>
+        <translatorcomment>save a workbook named AA on the desktop-&gt;close-&gt;save a workbook named AA in the Disk D-&gt;open workbook AA on the desktop</translatorcomment>
         <translation>Un document portant le même nom &quot;%s&quot; est déjà ouvert. Vous ne pouvez pas ouvrir deux documents portant un nom identique, même s&apos;ils se trouvent dans deux dossiers distincts.
 Pour ouvrir le second document portant un nom identique, vous pouvez fermer le document ouvert ou renommer l&apos;un des documents.</translation>
     </message>
@@ -304,6 +316,7 @@ Pour ouvrir le second document portant un nom identique, vous pouvez fermer le d
 
 Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
         <comment>TX_NeedToUpdateExternalDataLink</comment>
+        <translatorcomment>create Book1,Book2-&gt;Book1,A1,enter &apos;=&apos;-&gt;click Book2, click A1, press Enter-&gt;save and close Book1, Book2-&gt;open Book1</translatorcomment>
         <translation>Ce classeur contient des liens vers d&apos;autres sources de données.
 
 •Si vous les mettez à jour, les feuilles de calcul WPS essaient d&apos;obtenir les données les plus récentes.
@@ -314,11 +327,13 @@ Notez que les liaisons de données peuvent être utilisées pour accéder à des
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
         <comment>TX_PrinterError</comment>
+        <translatorcomment>Quick Access toolbar-&gt;Print-&gt;Print dialog box-&gt;OK</translatorcomment>
         <translation>Impossible d&apos;imprimer, vérifiez que votre imprimante est installée correctement.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets finds nothing to print.</source>
         <comment>TX_PrintPreview_No_data</comment>
+        <translatorcomment>create Book1-&gt;Quick Access toolbar-&gt;Print Preview</translatorcomment>
         <translation>WPS Spreadsheets ne trouve rien à imprimer.</translation>
     </message>
     <message>
@@ -329,48 +344,57 @@ Notez que les liaisons de données peuvent être utilisées pour accéder à des
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_Corrupt_FormulaArray</comment>
+        <translatorcomment>select A1 to A5-&gt;enter &apos;=1&apos;-&gt;Ctrl+Shift+Enter-&gt;click A1-&gt;move the cursor to right down corner of A1-&gt;click and drag to fill</translatorcomment>
         <translation>Impossible de modifier une partie de matrice.</translation>
     </message>
     <message>
         <source>The name you entered is invalid. When renaming a sheet, try one of the following:</source>
         <comment>TX_RenameSheet_Error</comment>
+        <translatorcomment>sheet tab bar-&gt;right click-&gt;Rename-&gt;enter &apos;[&apos;-&gt;press Enter</translatorcomment>
         <translation>Le nom que vous avez entré n&apos;est pas valide. Lorsque vous renommez une feuille, essayez l&apos;une des actions suivantes :</translation>
     </message>
     <message>
         <source>• Make sure the name you entered does not exceed 31 characters.</source>
         <comment>TX_Confirm_Max_Length_SheetName</comment>
+        <translatorcomment>sheet tab bar-&gt;right click-&gt;Rename-&gt;enter &apos;[&apos;-&gt;press Enter</translatorcomment>
         <translation>• Vérifiez que le nom que vous avez entré ne contient pas plus de 31 caractères.</translation>
     </message>
     <message>
         <source>• Make sure the name does not contain any of the following characters: : / ?\ * [ ]
 • The first or last character cannot be single quotes.</source>
         <comment>TX_Confirm_Invalid_Char_In_SheetName</comment>
+        <translatorcomment>sheet tab bar-&gt;right click-&gt;Rename-&gt;enter &apos;[&apos;-&gt;press Enter</translatorcomment>
         <translation>• Vérifiez que le nom que vous avez entré ne contient pas les caractères suivants : : / ?\ * [ ]
 • Le premier ou le dernier caractère ne peut être une apostrophe.</translation>
     </message>
     <message>
         <source>• Make sure the worksheet name is not blank.</source>
         <comment>TX_Confirm_Zero_Length_SheetName</comment>
+        <translatorcomment>sheet tab bar-&gt;right click-&gt;Rename-&gt;enter &apos;[&apos;-&gt;press Enter</translatorcomment>
         <translation>• Vérifiez que le nom de la feuille de calcul n&apos;est pas vide.</translation>
     </message>
     <message>
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
         <comment>TX_Confirm_Max_Length_BookName</comment>
+        <translatorcomment>sheet tab bar-&gt;right click-&gt;Rename-&gt;enter &apos;[&apos;-&gt;press Enter</translatorcomment>
         <translation>• Vérifiez que le nom que vous avez entré ne contient pas plus de 218 caractères.</translation>
     </message>
     <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; |.</source>
         <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
+        <translatorcomment>sheet tab bar-&gt;right click-&gt;Rename-&gt;enter &apos;[&apos;-&gt;press Enter</translatorcomment>
         <translation>• Vérifiez que le nom que vous avez entré ne contient pas les caractères suivants : \ * / : ? &quot; &lt; &gt; |.</translation>
     </message>
     <message>
         <source>• Make sure the workbook name is not blank.</source>
         <comment>TX_Confirm_Zero_Length_BookName</comment>
+        <translatorcomment>sheet tab bar-&gt;right click-&gt;Rename-&gt;enter &apos;[&apos;-&gt;press Enter</translatorcomment>
         <translation>• Vérifiez que le nom du classeur n&apos;est pas vide.</translation>
     </message>
     <message>
         <source>Reference is invalid.</source>
         <comment>TX_Hyperlink_Cannot_OpenRef</comment>
+        <translatorcomment>Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box-&gt;OK</translatorcomment>
         <translation>La référence n&apos;est pas valide.</translation>
     </message>
     <message>
@@ -381,7 +405,7 @@ Notez que les liaisons de données peuvent être utilisées pour accéder à des
     <message>
         <source>WPS Spreadsheets cannot finish this operation due to insufficient memory.</source>
         <comment>TX_MASS_CELLS_OPERATION_OUTOF_MEM</comment>
-        <translation>WPS Spreadsheets ne peut pas terminer l&apos;opération en raison d&apos;une mémoire insuffisante.</translation>
+        <translation type="unfinished">WPS Spreadsheets ne peut pas terminer l&apos;opération en raison d&apos;une mémoire insuffisante.</translation>
     </message>
     <message>
         <source>Parts of formats are lost due to insufficient resources.</source>
@@ -391,11 +415,13 @@ Notez que les liaisons de données peuvent être utilisées pour accéder à des
     <message>
         <source>The merged cells cannot be sorted.</source>
         <comment>TX_MergedCell_InRange</comment>
+        <translatorcomment>click and hold to select A1,B1-&gt;Home tab-&gt;Merge and Center-&gt;click and hold to select A1 to A3-&gt;Home tab-&gt;Sort</translatorcomment>
         <translation>Impossible de trier les cellules fusionnées.</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_ERROR_ArrayFormula</comment>
+        <translatorcomment>select A1 to A5-&gt;enter &apos;=1&apos;-&gt;Ctrl+Shift+Enter-&gt;click A1-&gt;move the cursor to right down corner of A1-&gt;click and drag to fill</translatorcomment>
         <translation>Impossible de modifier une partie de matrice.</translation>
     </message>
     <message>
@@ -406,27 +432,31 @@ Notez que les liaisons de données peuvent être utilisées pour accéder à des
     <message>
         <source>Array formulas in merged cells are not valid.</source>
         <comment>TX_ERROR_MergeCell_FORMULA</comment>
+        <translatorcomment>click and select A1,B1,C1-&gt;Home tab-&gt;Merge and Center-&gt;click and select A1 to C5-&gt;enter&apos;=1&apos;-&gt;press Ctrl+Shift+Enter</translatorcomment>
         <translation>Les formules matricielles dans les cellules fusionnées ne sont pas valides.</translation>
     </message>
     <message>
         <source>This command cannot be used on overlapping selections.</source>
         <comment>TX_ERROR_MultiRange_Option</comment>
+        <translatorcomment>Book1-&gt;click and hold to select the area A1 to E8-&gt;press Ctrl and hold, click and hold to select A3 to E10-&gt;right click and click Copy</translatorcomment>
         <translation>Impossible d&apos;utiliser cette commande sur des sélections qui se chevauchent.</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections.</source>
         <comment>TX_ERROR_MultiRange_Copy</comment>
+        <translatorcomment>Book1-&gt;click and hold to select the area A1 to B8-&gt;press Ctrl and hold, click and hold to select F3 to G10-&gt;right click and click Copy</translatorcomment>
         <translation>Impossible d&apos;utiliser cette commande sur des sélections multiples.</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_ERROR_Array_PartChange</comment>
+        <translatorcomment>select A1 to A5-&gt;enter &apos;=1&apos;-&gt;Ctrl+Shift+Enter-&gt;click A1-&gt;move the cursor to right down corner of A1-&gt;click and drag to fill</translatorcomment>
         <translation>Impossible de modifier une partie de matrice.</translation>
     </message>
     <message>
         <source>Source reference area overlaps with target area.</source>
         <comment>TX_ERROR_CONSOLIDATE</comment>
-        <translation>La zone de référence source chevauche la zone cible.</translation>
+        <translation>La référence source se superpose à la zone de destination.</translation>
     </message>
     <message>
         <source>The sort reference is not valid. Make sure that it&apos;s within the data you want to sort, and the first Sort By box is not the same and not blank.</source>
@@ -481,6 +511,7 @@ Notez que les liaisons de données peuvent être utilisées pour accéder à des
     <message>
         <source>The merged cells cannot be sorted.</source>
         <comment>TX_ERROR_MERGECELLINSORT</comment>
+        <translatorcomment>click and hold to select A1,B1-&gt;Home tab-&gt;Merge and Center-&gt;click and hold to select A1 to A3-&gt;Home tab-&gt;Sort</translatorcomment>
         <translation>Impossible de trier les cellules fusionnées.</translation>
     </message>
     <message>
@@ -531,21 +562,24 @@ Raisons possibles :
     <message>
         <source>The text you entered is an invalid reference or defined name.</source>
         <comment>TX_ERROR_INVALID_REFERENCE_OR_DEFINEDNAME</comment>
-        <translation>Le texte saisi ne correspond pas à une référence correcte ni à un nom défini.</translation>
+        <translation>Le texte que vous avez tapé n&apos;est ni une référence ni un nom défini valides.</translation>
     </message>
     <message>
         <source>Reference is invalid.</source>
         <comment>TX_ERROR_INVALID_REFERENCE</comment>
+        <translatorcomment>Home tab-&gt;AutoFilter-&gt;Advanced Filter-&gt;Advanced Filter dialog box-&gt;OK</translatorcomment>
         <translation>La référence n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
         <comment>TX_OPERATION_PROTECTED_SHEET</comment>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Protect Sheet-&gt;Protect Sheet dialog box-&gt;OK-&gt;click A1-&gt;right click-&gt;Format Cells</translatorcomment>
         <translation>Vous ne pouvez pas utiliser cette commande sur une feuille de calcul protégée.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected workbook.</source>
         <comment>TX_OPERATION_PROTECTED_BOOK</comment>
+        <translatorcomment>Drop down menu-&gt;Tools-&gt;Options-&gt;Security-&gt;enter password-&gt;OK-&gt;click A1-&gt;right click-&gt;Format Cells</translatorcomment>
         <translation>Vous ne pouvez pas utiliser cette commande sur un classeur protégé.</translation>
     </message>
     <message>
@@ -814,6 +848,7 @@ Vous ne pouvez pas utiliser cette commande sur une feuille protégée. Pour enle
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_TextToColumns_Tip3</comment>
+        <translatorcomment>select A1 to A5-&gt;enter &apos;=1&apos;-&gt;Ctrl+Shift+Enter-&gt;click A1-&gt;move the cursor to right down corner of A1-&gt;click and drag to fill</translatorcomment>
         <translation>Impossible de modifier une partie de matrice.</translation>
     </message>
     <message>
@@ -922,12 +957,12 @@ Vous ne pouvez pas utiliser cette commande sur une feuille protégée. Pour enle
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>TX_ShareWorkbook_MsgInvalidRef</comment>
-        <translation>Le texte saisi ne correspond pas à une référence correcte ni à un nom défini.</translation>
+        <translation>Le texte que vous avez tapé n&apos;est ni une référence ni un nom défini valides.</translation>
     </message>
     <message>
         <source>This command is not available in a shared workbook.</source>
         <comment>TX_ShareWorkbook_MsgCmdNotAvailable</comment>
-        <translation>Cette commande n&apos;est pas disponible avec un fichier partagé.</translation>
+        <translation>Cette commande n&apos;est pas disponible dans un fichier partagé.</translation>
     </message>
     <message>
         <source>Cannot modify or delete array formulas in shared workbooks.</source>
@@ -976,6 +1011,7 @@ Remove the workbook from shared use?
 ·  To make the workbook exclusive, click Yes.
 ·  To cancel and return to shared mode, click No.</source>
         <comment>TX_ShareWorkbook_MsgUnshare</comment>
+        <translatorcomment>Review tab-&gt;Share Workbook-&gt;tick to Allow changes by more than one user at the same time-&gt;OK-&gt;Review tab-&gt;Share Workbook-&gt;click to cancel Allow changes by more than one user at the same time-&gt;OK</translatorcomment>
         <translation>Cette opération supprime le classeur du partage. L&apos;enregistrement de la révision est supprimé et les autres utilisateurs qui modifient actuellement ce classeur ne peuvent pas enregistrer leurs modifications, même si vous partagez de nouveau ce classeur.
 
 Supprimer le classeur du partage ?
@@ -1011,7 +1047,7 @@ Supprimer le classeur du partage ?
     <message>
         <source>New styles cannot be added in shared workbooks.</source>
         <comment>TX_ShareWorkbook_MsgCannotAddStyle</comment>
-        <translation>Impossible d&apos;ajouter de nouveaux styles aux classeurs partagés.</translation>
+        <translation>Impossible d&apos;ajouter de nouveaux styles dans les classeurs partagés.</translation>
     </message>
     <message>
         <source>(Shared)</source>
@@ -1021,14 +1057,14 @@ Supprimer le classeur du partage ?
     <message>
         <source>The workbook is created by %s in exclusive mode.</source>
         <comment>TX_ShareWorkbook_MsgMadeExclusive</comment>
-        <translation>Le classeur est créé par %s en mode exclusif.</translation>
+        <translation type="unfinished">Le classeur est créé par %s en mode exclusif.</translation>
     </message>
     <message>
         <source>No track changes were found with the specified properties.
 
 To highlight all track changes, uncheck the When, Who, and Where options.</source>
         <comment>TX_ShareWorkbook_MsgHighlightNone</comment>
-        <translation>Aucun suivi des modification trouvé avec les propriétés spécifiées.
+        <translation type="unfinished">Aucun suivi des modification trouvé avec les propriétés spécifiées.
 
 Pour mettre en surbrillance le suivi de toutes les modifications, décochez les options Le, Par et Dans.</translation>
     </message>
@@ -1047,7 +1083,7 @@ Pour mettre en surbrillance le suivi de toutes les modifications, décochez les 
 Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and then try to open it with WPS Spreadsheets.</source>
         <comment>TX_ShareWorkbook_WarnningTimedUpdate</comment>
         <translation>Vous ouvrez actuellement un classeur Excel partagé qui se met à jour périodiquement. WPS Spreadsheets ne prend pas en charge ce format.
-Ouvrez-le d&apos;abord avec Microsoft Excel, puis exécutez la fonctionnalité &quot;Enregistrer&quot;, et enfin essayez de l&apos;ouvrir avec WPS Spreadsheets.</translation>
+Ouvrez-le d&apos;abord avec Microsoft Excel, puis exécutez la fonctionnalité &quot;Enregistrer&quot;, et essayez de l&apos;ouvrir avec WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
@@ -1187,9 +1223,9 @@ Pour créer des étiquettes de colonnes, cliquez sur Annuler et entrez une étiq
 This workbook was also last saved with multiple sheets selected, and links cannot be fixed in this state.
 To fix the links, select a single sheet and click Edit Links.</source>
         <comment>TX_UpdateExternalDataLinkFailCannotEdit</comment>
-        <translation>Ce classeur contient une ou plusieurs liaisons qui ne peuvent pas être mises à jour.
-Lors de son dernier enregistrement, plusieurs feuilles étaient sélectionnées et les liaisons ne peuvent pas être corrigées dans cet état.
-Pour les corriger, sélectionnez une seule feuille, puis cliquez sur Modifier les liaisons.</translation>
+        <translation>Ce classeur contient une ou plusieurs liens qui ne peuvent pas être mises à jour.
+Lors de son dernier enregistrement, plusieurs feuilles étaient sélectionnées et les liens ne peuvent pas être corrigées dans cet état.
+Pour les corriger, sélectionnez une seule feuille, puis cliquez sur Modifier les liens.</translation>
     </message>
     <message>
         <source>A file named &apos;%s&apos; already exists in this location. Do you want to replace it?</source>
@@ -1629,7 +1665,7 @@ Pour les corriger, sélectionnez une seule feuille, puis cliquez sur Modifier le
     <message>
         <source>No cells were found.</source>
         <comment>TX_NO_CELL_FOUND</comment>
-        <translation>Pas de cellules correspondantes.</translation>
+        <translation>Aucuns cellules trouvés.</translation>
     </message>
     <message>
         <source>Cannot run the macro &quot;%s&quot;. The macro may not be available in this workbook or all macros may be disabled.</source>
@@ -1639,7 +1675,7 @@ Pour les corriger, sélectionnez une seule feuille, puis cliquez sur Modifier le
     <message>
         <source>Backing up</source>
         <comment>TX_PROGRESS_AUTOSAVING</comment>
-        <translation>Sauvegarde</translation>
+        <translation>Sauvegarde en cours</translation>
     </message>
     <message>
         <source>(Press ESC to cancel)</source>
@@ -1702,7 +1738,7 @@ Vérifiez le serveur de la base de données ou contactez votre administrateur de
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Feuilles de calcul</translation>
+        <translation>Spreadsheets</translation>
     </message>
     <message>
         <source>Null Error</source>
@@ -1797,12 +1833,12 @@ Vérifiez le serveur de la base de données ou contactez votre administrateur de
     <message>
         <source>A value is not available to the formula or function.</source>
         <comment>TX_ERRORCHECK_ERRDESC_NA</comment>
-        <translation>Aucune valeur n&apos;est disponible pour la formule ou la fonction.</translation>
+        <translation>Une certaine valeur n&apos;est pas disponible pour la formule ou la fonction.</translation>
     </message>
     <message>
         <source>This cell contains a date string represented with only 2 digits for the year.</source>
         <comment>TX_ERRORCHECK_ERRDESC_TextDate</comment>
-        <translation>Cette cellule contient une date dont l&apos;année comprend uniquement deux chiffres.</translation>
+        <translation>Cette cellule contient une chaîne de date représentée par uniquement deux chiffres pour l&apos;année.</translation>
     </message>
     <message>
         <source>The number in this cells is formatted as text or preceded by an apostrophe.</source>
@@ -1872,22 +1908,22 @@ Vérifiez le serveur de la base de données ou contactez votre administrateur de
     <message>
         <source>Copy Formula from &amp;Above</source>
         <comment>TX_ERRORCHECK_REPAIR_CopyFromUp</comment>
-        <translation>Copier la formule à partir de &amp;ci-dessus</translation>
+        <translation type="unfinished">Copier la formule à partir de &amp;ci-dessus</translation>
     </message>
     <message>
         <source>&amp;Update Formula to include Cells</source>
         <comment>TX_ERRORCHECK_REPAIR_UpdateFmla</comment>
-        <translation>&amp;Mettre à jour la formule pour y inclure des cellules</translation>
+        <translation type="unfinished">&amp;Mettre à jour la formule pour y inclure des cellules</translation>
     </message>
     <message>
         <source>&amp;Lock Cell</source>
         <comment>TX_ERRORCHECK_REPAIR_LockCell</comment>
-        <translation>&amp;Verrouiller la cellule</translation>
+        <translation type="unfinished">&amp;Verrouiller la cellule</translation>
     </message>
     <message>
         <source>&amp;Trace Empty Cell</source>
         <comment>TX_ERRORCHECK_REPAIR_TraceEmptyCell</comment>
-        <translation>&amp;Repérer les cellules vides</translation>
+        <translation type="unfinished">&amp;Repérer les cellules vides</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.  If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
@@ -1899,6 +1935,7 @@ Vérifiez le serveur de la base de données ou contactez votre administrateur de
 
 To hide, delete, or move the selected sheet(s), you must first insert a new sheet or unhide a sheet that is already hidden.</source>
         <comment>TX_Sheet_DEL_OneSheet_ET</comment>
+        <translatorcomment>Sheet tab bar-&gt;Delete Sheet1 &amp; Sheet2-&gt;Delete Sheet3</translatorcomment>
         <translation>Un classeur doit contenir au moins une feuille de calcul visible. 
 
 Pour masquer, supprimer ou déplacer la ou les feuilles de calcul sélectionnées, vous devez d&apos;abord insérer une nouvelle feuille ou afficher une feuille déjà masquée.</translation>
@@ -1939,7 +1976,7 @@ Voulez-vous continuer sans annuler ?</translation>
     <message>
         <source>Text date with 2 digit years</source>
         <comment>TX_ERRORCHECK_ERR_TextDate</comment>
-        <translation>Date du texte avec des années à deux chiffres</translation>
+        <translation>Texte de date avec des années à deux chiffres</translation>
     </message>
     <message>
         <source>Copy Formul&amp;a from Left</source>
@@ -1951,16 +1988,17 @@ Voulez-vous continuer sans annuler ?</translation>
 • Click a single cell, and then paste.
 • Select a rectangle that&apos;s the same size and shape, and then paste.</source>
         <comment>TX_ERROR_INVALIDPASTERG</comment>
+        <translatorcomment>click to select all the sheet area-&gt;right click and copy-&gt;click A1-&gt;right click and paste</translatorcomment>
         <translation>Impossible de coller les informations, car la zone de copie et la zone de collage n&apos;ont pas des tailles et des formes identiques. Essayez l&apos;une des actions suivantes : 
-• Cliquez sur une seule cellule, puis sur collez.
-• Sélectionnez un rectangle ayant une taille et une forme identiques, puis collez.</translation>
+• Cliquez sur une seule cellule, puis recollez.
+• Sélectionnez un rectangle ayant une taille et une forme identiques, puis recollez.</translation>
     </message>
     <message>
         <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
 • To save it on the Clipboard so that you can paste it later, click Yes.
 • To delete it from the Clipboard and free memory, click No.</source>
         <comment>TX_WARNING_Large_Clipboard</comment>
-        <translation type="obsolete">Le Presse-papiers contient une grande quantité d&apos;informations. Voulez-vous avoir la possibilité de coller ces informations dans un autre document ultérieurement ?
+        <translation>Le Presse-papiers contient une grande quantité d&apos;informations. Voulez-vous avoir la possibilité de coller ces informations dans un autre document ultérieurement ?
 • Pour les enregistrer dans le Presse-papiers afin de pouvoir les coller ultérieurement, cliquez sur Oui.
 • Pour les supprimer du Presse-papiers et libérer de la mémoire, cliquez sur Non.</translation>
     </message>
@@ -1971,16 +2009,16 @@ Please try one of the following.
 •Ask its creator to change the permission control level as full control level.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Unsuport_KRM_Right</comment>
-        <translation type="unfinished">Des erreurs surviennent lorsque WPS Spreadsheets ouvre ce fichier.
+        <translation>Des erreurs surviennent lorsque WPS Spreadsheets ouvre ce fichier.
 Essayez l&apos;une des actions suivantes.
-•La version actuelle des feuilles de calcul WPS ne prend pas en charge le niveau de contrôle des autorisations de ce fichier. Effectuez une mise à jour vers la version la plus récente.
+•La version actuelle de Spreadsheets WPS ne prend pas en charge le niveau de contrôle des autorisations de ce fichier. Effectuez une mise à jour vers la dernière version.
 •Demandez à son créateur de passer le niveau de contrôle des autorisations au niveau de contrôle complet.
 (%s)</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
         <comment>TX_Cannot_Write_Readonly_File</comment>
-        <translation type="unfinished">&quot;%s&quot; est en lecture seule.  Pour en enregistrer une copie, cliquez sur OK, puis donnez au classeur un nom différent dans la boîte de dialogue Enregistrer sous.</translation>
+        <translation>&quot;%s&quot; est en lecture seule. Pour en enregistrer une copie, cliquez sur OK, puis donnez au classeur un nom différent dans la boîte de dialogue Enregistrer sous.</translation>
     </message>
     <message>
         <source>Due to the following reasons, macros codes in this file will be lost. Do you still want to save it?
@@ -1988,7 +2026,7 @@ Essayez l&apos;une des actions suivantes.
 1.Changes you made to this file cause the macros to be re-organized.
 2.You didn&apos;t install the necessary environment to run macros.</source>
         <comment>TX_Macro_Lost_On_NoneKDE_Env</comment>
-        <translation type="unfinished">Pour les raisons suivantes, les codes des macros de ce fichier seront perdus. Voulez-vous vraiment l&apos;enregistrer ?
+        <translation>Pour les raisons suivantes, les codes des macros de ce fichier seront perdus. Voulez-vous continuer à l&apos;enregistrer?
 
 1.Les modifications apportées à ce fichier entraînent la réorganisation des macros.
 2.Vous n&apos;avez pas installé l&apos;environnement nécessaire pour exécuter des macros.</translation>
@@ -1996,14 +2034,276 @@ Essayez l&apos;une des actions suivantes.
     <message>
         <source>The destination cells may contain some data values which will be lost when continue, do you want to continue?</source>
         <comment>TX_TextToColumns_Tip1</comment>
-        <translation type="unfinished">Les cellules de destination peuvent contenir des valeurs de données qui seront perdues si vous continuez. Voulez-vous continuer ?</translation>
+        <translation>Les cellules de destination peuvent contenir des valeurs de données qui seront perdues si vous continuez. Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
-? To save it on the Clipboard so that you can paste it later, click Yes.
-? To delete it from the Clipboard and free memory, click No.</source>
-        <comment>TX_WARNING_Large_Clipboard</comment>
+        <source>File not loaded completely.</source>
+        <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s on %s</source>
+        <comment>TX_ACTIVE_PRINTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown printer (check your Control Panel)</source>
+        <comment>TX_UNKNOWN_PRINTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <comment>TX_NUMFMTApi_BuildIn_00</comment>
+        <translation type="unfinished">Général</translation>
+    </message>
+    <message>
+        <source>0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_02</comment>
+        <translation type="unfinished">0.00</translation>
+    </message>
+    <message>
+        <source>#,##0</source>
+        <comment>TX_NUMFMTApi_BuildIn_03</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0.00</source>
+        <comment>TX_NUMFMTApi_BuildIn_04</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0_);($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_05</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0_);[Red]($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_06</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_07</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);[Red]($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_08</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.00%</source>
+        <comment>TX_NUMFMTApi_BuildIn_10</comment>
+        <translation type="unfinished">0.00%</translation>
+    </message>
+    <message>
+        <source>0.00E+00</source>
+        <comment>TX_NUMFMTApi_BuildIn_11</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_14</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>d-mmm-yy</source>
+        <comment>TX_NUMFMTApi_BuildIn_15</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>d-mmm</source>
+        <comment>TX_NUMFMTApi_BuildIn_16</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_20</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_21</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_22</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0_);(\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_23</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0_);[Red](\$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_24</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);(\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_25</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_26</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_30</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0_);(#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_37</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0_);[Red](#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_38</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);(#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_39</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);[Red](#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_40</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_41</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_42</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_43</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
+        <comment>TX_NUMFMTApi_BuildIn_44</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>mm:ss.0</source>
+        <comment>TX_NUMFMTApi_BuildIn_45</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##0.0E+0</source>
+        <comment>TX_NUMFMTApi_BuildIn_48</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)| *.*</source>
+        <comment>TX_App_GetSaveAsFileName_FileFilter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/dd/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dialog Title</source>
+        <comment>Dialog Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
+        <comment>TX_CANNOTDELNUMFORMAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables</source>
+        <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify existing outline?</source>
+        <comment>TX_ChangeAutoOutline</comment>
+        <translation type="unfinished">Voulez-vous modifier le plan existant?</translation>
     </message>
 </context>
 <context>
@@ -2261,12 +2561,12 @@ Essayez l&apos;une des actions suivantes.
     <message>
         <source>Bottom %s items</source>
         <comment>TX_Bottom10Items</comment>
-        <translation>%s éléments du bas</translation>
+        <translation>Bas %s éléments</translation>
     </message>
     <message>
         <source>Bottom %s percent</source>
         <comment>TX_Bottom10Percent</comment>
-        <translation>%s pourcentages du bas</translation>
+        <translation>Bas %s pourcentage</translation>
     </message>
     <message>
         <source>Or</source>
@@ -2321,7 +2621,7 @@ Essayez l&apos;une des actions suivantes.
     <message>
         <source>The selected range contains array.</source>
         <comment>TX_RepeatWord_ArrayFormula</comment>
-        <translation>La plage sélectionnée contient une matrice.</translation>
+        <translation type="obsolete">La plage sélectionnée contient une matrice.</translation>
     </message>
     <message>
         <source>Duplicates do not support reference to other workbooks or worksheets.</source>
@@ -2347,6 +2647,26 @@ Essayez l&apos;une des actions suivantes.
         <source>&lt;Unknown Sheet&gt;</source>
         <comment>TX_Revision_Desc_UnknownSheet</comment>
         <translation>&lt;Feuille inconnue&gt;</translation>
+    </message>
+    <message>
+        <source>You cannot change part of an array.</source>
+        <comment>TX_RepeatWord_ArrayFormula</comment>
+        <translation type="unfinished">Impossible de modifier une partie de matrice.</translation>
+    </message>
+    <message>
+        <source>Table_</source>
+        <comment>TX_ListObject_NamePrefix</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
+        <comment>TX_RepeatWord_Group_Range</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Column has been selected.</source>
+        <comment>TX_RepeatWord_No_Column</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2402,13 +2722,63 @@ Voulez-vous que WPS Spreadsheets recalcule toutes les formules lorsque ce classe
 
 Do you want WPS Spreadsheets to recalculate all formulas when this workbook is opened?</source>
         <comment>TX_RECALC_ALL_QUESTION</comment>
-        <translation type="unfinished">Les noms ou les formules définies dans ce classeur peuvent afficher des valeurs différentes si elles sont calculées dans une version antérieure de WPS Spreadsheets si celles-ci :
+        <translation>Les noms ou les formules définies dans ce classeur peuvent afficher des valeurs différentes si elles sont calculées dans une version antérieure de WPS Spreadsheets si celles-ci :
 
 ·référencent des cellules situées au-delà des limitations de lignes et de colonnes d&apos;une version antérieure de WPS Spreadsheets
 ·incluent des fonctionnalités non prises en charge dans une version antérieure de WPS Spreadsheets
 ·utilisent les limitations de formules non prises en charge dans une version antérieure de WPS Spreadsheets (comme supérieure à sept niveaux d&apos;imbrication)
 
 Voulez-vous que WPS Spreadsheets recalcule toutes les formules lorsque ce classeur est ouvert ?</translation>
+    </message>
+    <message>
+        <source>The real-time data server &apos;%s&apos; is not responding. Would you like %s to attempt to restart the server?</source>
+        <comment>TX_RTD_SERVER_NO_RESPONSE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro Error</source>
+        <comment>TX_MSF_RUN_ERR_TITLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro error at cell: </source>
+        <comment>TX_MSF_RUN_ERR_ERROR_IN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro interrupted at cell:</source>
+        <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing NEXT function for loop.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing loop.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing IF.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing an END.IF function.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function fount on macro sheet.</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid reference argument at:</source>
+        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2421,12 +2791,12 @@ Voulez-vous que WPS Spreadsheets recalcule toutes les formules lorsque ce classe
     <message>
         <source>Count of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Count</comment>
-        <translation>Nombre de </translation>
+        <translation>NBval de </translation>
     </message>
     <message>
         <source>Count of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_CountNums</comment>
-        <translation>Nombre de </translation>
+        <translation>NB de </translation>
     </message>
     <message>
         <source>Max of </source>
@@ -2556,7 +2926,7 @@ Voulez-vous que WPS Spreadsheets recalcule toutes les formules lorsque ce classe
     <message>
         <source>A PivotTable cannot overlap another PivotTable.</source>
         <comment>TX_DAP_DlgInfo_PTCannotOverloadOtherPT</comment>
-        <translation>Un tableau croisé dynamique ne peut pas en chevaucher un autre.</translation>
+        <translation>Un tableau croisé dynamique ne peut pas se superposer sur un autre.</translation>
     </message>
     <message>
         <source>Do you want to replace the contents of the destination cells in %s?</source>
@@ -2663,7 +3033,7 @@ Si vous créez un rapport de tableau croisé dynamique, tapez une référence de
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt,*.accdb)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation>Tous les fichiers (*.*)|*.*|Toutes les sources de données (*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt,*.accdb)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Bases de données Access (*.mdb,*.accdb)|*.mdb;*.accdb|Fichiers DBase (*.dbf)|*.dbf|Fichiers Excel (*.xls)|*.xls|Fichiers WPS Spreadsheets (*.et)|*.et|Fichiers texte CSV (*.csv)|*.csv|Fichiers texte (*.txt)|*.txt||</translation>
+        <translation type="obsolete">Tous les fichiers (*.*)|*.*|Toutes les sources de données (*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt,*.accdb)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Bases de données Access (*.mdb,*.accdb)|*.mdb;*.accdb|Fichiers DBase (*.dbf)|*.dbf|Fichiers Excel (*.xls)|*.xls|Fichiers WPS Spreadsheets (*.et)|*.et|Fichiers texte CSV (*.csv)|*.csv|Fichiers texte (*.txt)|*.txt||</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2772,12 +3142,12 @@ La chaîne que vous avez tapée ne correspond pas à la syntaxe SQL.
     <message>
         <source>like</source>
         <comment>TX_ETDBE_OPR_LIKE</comment>
-        <translation>like</translation>
+        <translation>ressemble à</translation>
     </message>
     <message>
         <source>not like</source>
         <comment>TX_ETDBE_OPR_NOTLIKE</comment>
-        <translation>not like</translation>
+        <translation>ne ressemble pas à</translation>
     </message>
     <message>
         <source>Relation</source>
@@ -3014,12 +3384,47 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>Continue to refresh all?</source>
         <comment>TX_ETDBE_STR_REFRESHFAIL_2</comment>
-        <translation>Voulez-vous continuer l&apos;actualisation ?</translation>
+        <translation>Voulez-vous continuer à tout actualiser ?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
         <comment>TX_ETDBE_QUERYINVALIDERROR</comment>
-        <translation>Impossibel d&apos;ouvrir WPS Spreadsheets ou de lire ce fichier de requête. Le fichier est peut-être endommagé ou son format n&apos;est pas valide.</translation>
+        <translation>Impossible d&apos;ouvrir WPS Spreadsheets ou de lire ce fichier de requête. Le fichier est peut-être endommagé ou son format n&apos;est pas valide.</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connection</source>
+        <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parameter</source>
+        <comment>TX_ETDBE_STR_PARAMDEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open %s. Cannot download the information you requested.</source>
+        <comment>TX_ETDBE_STR_WEBDOWNLOADERROR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
+        <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3027,56 +3432,67 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>Recently Used</source>
         <comment>FuncCatName01</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
         <translation>Récemment ouverts</translation>
     </message>
     <message>
         <source>All</source>
         <comment>FuncCatName02</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
         <translation>Tout</translation>
     </message>
     <message>
         <source>Financial</source>
         <comment>FuncCatName03</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
         <translation>Finances</translation>
     </message>
     <message>
         <source>Date and Time</source>
         <comment>FuncCatName04</comment>
-        <translation>Date et heure</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
+        <translation>Date &amp; heure</translation>
     </message>
     <message>
         <source>Math and Trig</source>
         <comment>FuncCatName05</comment>
-        <translation>Maths et trigo</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
+        <translation>Math &amp; trigo</translation>
     </message>
     <message>
         <source>Statistical</source>
         <comment>FuncCatName06</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
         <translation>Statistiques</translation>
     </message>
     <message>
         <source>Lookup and Reference</source>
         <comment>FuncCatName07</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
         <translation>Recherche et référence</translation>
     </message>
     <message>
         <source>Database</source>
         <comment>FuncCatName08</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
         <translation>BaseDeDonnées</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>FuncCatName09</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
         <translation>Texte</translation>
     </message>
     <message>
         <source>Logical</source>
         <comment>FuncCatName10</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
         <translation>Logique</translation>
     </message>
     <message>
         <source>Information</source>
         <comment>FuncCatName11</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
         <translation>Informations</translation>
     </message>
     <message>
@@ -3087,241 +3503,289 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>Engineering</source>
         <comment>FuncCatName13</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category</translatorcomment>
         <translation>Ingénierie</translation>
     </message>
     <message>
         <source>DATE(year,month,day)</source>
         <comment>DATE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;DATE</translatorcomment>
         <translation>DATE(année,mois,jour)</translation>
     </message>
     <message>
         <source>Returns the number that represents the date in WPS Spreadsheets date-time code.</source>
         <comment>DATE_REMARK</comment>
-        <translation>Renvoie le nombre qui représente la date dans le code date-heure des feuilles de calcul WPS.</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;DATE</translatorcomment>
+        <translation>Renvoie un numéro qui représente la date dans le code de date et d&apos;heure de WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>DATEVALUE(date_text)</source>
         <comment>DATEVALUE_GRAMMER</comment>
-        <translation>DATEVALUE(texte_date)</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;DATEVALUE</translatorcomment>
+        <translation>DATEVALUE(date_texte)</translation>
     </message>
     <message>
         <source>Converts a date in the form of text to a number that represents the date in WPS Spreadsheets date-time code.</source>
         <comment>DATEVALUE_REMARK</comment>
-        <translation>Convertit une date au format texte en nombre représentant la date dans le code date-heure des feuilles de calcul WPS.</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;DATEVALUE</translatorcomment>
+        <translation>Convertit une date donné sous forme de texte en un numéro représentant la date dans le code date-heure de WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>Returns the day of the month, a number from 1 to 31.</source>
         <comment>DAY_REMARK</comment>
-        <translation>Renvoie le jour du mois, un nombre entre 1 et 31.</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;DAY</translatorcomment>
+        <translation>Donne le jour du mois, un nombre entre 1 et 31.</translation>
     </message>
     <message>
         <source>HOUR(serial_number)</source>
         <comment>HOUR_GRAMMER</comment>
-        <translation>HOUR(numéro_série)</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;HOUR</translatorcomment>
+        <translation>HOUR(numéro_de_série)</translation>
     </message>
     <message>
         <source>Returns the hour as a number from 0(12:00 A.M.) to 23(11:00 P.M.).</source>
         <comment>HOUR_REMARK</comment>
-        <translation>Renvoie l&apos;heure sous forme de nombre entre 0(12 h 00) à 23(23 h 00).</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;HOUR</translatorcomment>
+        <translation>Renvoie l&apos;heure sous forme de nombre entre 0(12:00 A.M.) à 23(11:00 P.M.).</translation>
     </message>
     <message>
         <source>MINUTE(serial_number)</source>
         <comment>MINUTE_GRAMMER</comment>
-        <translation>MINUTE(numéro_série)</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;MINUTE</translatorcomment>
+        <translation>MINUTE(numéro_de_série)</translation>
     </message>
     <message>
         <source>Returns the minute, a number from 0 to 59.</source>
         <comment>MINUTE_REMARK</comment>
-        <translation>Renvoie la minute, un nombre entre 0 et 59.</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;MINUTE</translatorcomment>
+        <translation>Renvoie les minutes, un nombre entre 0 et 59.</translation>
     </message>
     <message>
         <source>MONTH(serial_number)</source>
         <comment>MONTH_GRAMMER</comment>
-        <translation>MONTH(numéro_série)</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;MONTH</translatorcomment>
+        <translation>MONTH(numéro_de_série)</translation>
     </message>
     <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
         <comment>MONTH_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;MONTH</translatorcomment>
         <translation>Renvoie le mois, un nombre entre 1(Janvier) et 12(Décembre).</translation>
     </message>
     <message>
         <source>NETWORKDAYS(start_date,end_date,holidays)</source>
         <comment>NETWORKDAYS_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;NETWORKDAYS</translatorcomment>
         <translation>NETWORKDAYS(date_début,date_fin,jours fériés)</translation>
     </message>
     <message>
         <source>Returns the number of whole workdays between two dates.(Workdays don&apos;t include weekends and legal holidays.)</source>
         <comment>NETWORKDAYS_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;NETWORKDAYS</translatorcomment>
         <translation>Renvoie le nombre de jours ouvrés compris entre deux dates (les jours ouvrés n&apos;incluent pas les week-ends et jours fériés).</translation>
     </message>
     <message>
         <source>NOW()</source>
         <comment>NOW_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;NOW</translatorcomment>
         <translation>NOW()</translation>
     </message>
     <message>
         <source>Returns the current date and time formatted as a date and time.</source>
         <comment>NOW_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;NOW</translatorcomment>
         <translation>Renvoie la date et de l&apos;heure du jour, sous la forme d&apos;une date et d&apos;une heure.</translation>
     </message>
     <message>
         <source>SECOND(serial_number)</source>
         <comment>SECOND_GRAMMER</comment>
-        <translation>SECOND(numéro_série)</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;SECOND</translatorcomment>
+        <translation>SECOND(numéro_de_série)</translation>
     </message>
     <message>
         <source>Returns the second, a number from 0 to 59.</source>
         <comment>SECOND_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;SECOND</translatorcomment>
         <translation>Renvoie la seconde, un nombre entre 0 et 59.</translation>
     </message>
     <message>
         <source>TIME(hour,minute,second)</source>
         <comment>TIME_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;TIME</translatorcomment>
         <translation>TIME(heure,minute,seconde)</translation>
     </message>
     <message>
         <source>Converts hours, minutes, and seconds given as numbers to a WPS Spreadsheets serial number, formatted with a time format.</source>
         <comment>TIME_REMARK</comment>
-        <translation>Convertit les heures, les minutes et les secondes données en nombres dans un numéro de série des feuilles de calcul WPS, au format d&apos;heure.</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;TIME</translatorcomment>
+        <translation>Convertit les heures, les minutes et les secondes données en nombres dans un numéro de série de WPS Spreadsheets, au format d&apos;heure.</translation>
     </message>
     <message>
         <source>TIMEVALUE(time_text)</source>
         <comment>TIMEVALUE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;TIMEVALUE</translatorcomment>
         <translation>TIMEVALUE(texte_heure)</translation>
     </message>
     <message>
         <source>Converts a text time to an WPS Spreadsheets serial number for a time.</source>
         <comment>TIMEVALUE_REMARK</comment>
-        <translation>Convertit une heure donnée sous forme de texte en un numéro de série des feuilles de calcul WPS.</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;TIMEVALUE</translatorcomment>
+        <translation>Convertit une heure donnée sous forme de texte en un numéro de série de WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>TODAY()</source>
         <comment>TODAY_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;TODAY</translatorcomment>
         <translation>TODAY()</translation>
     </message>
     <message>
         <source>Returns the current date formatted as a date.</source>
         <comment>TODAY_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;TODAY</translatorcomment>
         <translation>Renvoie la date du jour au format de date.</translation>
     </message>
     <message>
         <source>WEEKDAY(serial_number,return_type)</source>
         <comment>WEEKDAY_GRAMMER</comment>
-        <translation>WEEKDAY(numéro_série,type_renvoi)</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;WEEKDAY</translatorcomment>
+        <translation>WEEKDAY(numéro_de_série,type_renvoi)</translation>
     </message>
     <message>
         <source>Returns a number from 1 to 7 identifying the day of the week of a date.</source>
         <comment>WEEKDAY_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;WEEKDAY</translatorcomment>
         <translation>Renvoie un chiffre entre 1 et 7 désignant le jour de la semaine d&apos;une date.</translation>
     </message>
     <message>
         <source>WEEKNUM(serial_num,return_type)</source>
         <comment>WEEKNUM_GRAMMER</comment>
-        <translation>WEEKNUM(num_série,type_renvoi)</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;WEEKNUM</translatorcomment>
+        <translation>WEEKNUM(num_de_série,type_renvoi)</translation>
     </message>
     <message>
         <source>Returns the number identifying the order of the week of a year.</source>
         <comment>WEEKNUM_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;WEEKNUM</translatorcomment>
         <translation>Renvoie le nombre identifiant l&apos;ordre des semaines dans une année.</translation>
     </message>
     <message>
         <source>YEAR(serial_number)</source>
         <comment>YEAR_GRAMMER</comment>
-        <translation>YEAR(numéro_série)</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;YEAR</translatorcomment>
+        <translation>YEAR(numéro_de_série)</translation>
     </message>
     <message>
         <source>Returns the year of a date, an integer in the range 1900-9999.</source>
         <comment>YEAR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Date and Time-&gt;YEAR</translatorcomment>
         <translation>Renvoie l&apos;année d&apos;une date, un entier situé entre 1900 et 9999.</translation>
     </message>
     <message>
         <source>ABS(number)</source>
         <comment>ABS_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ABS</translatorcomment>
         <translation>ABS(nombre)</translation>
     </message>
     <message>
         <source>Returns the absolute value of a number, a number without its sign.</source>
         <comment>ABS_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ABS</translatorcomment>
         <translation>Renvoie la valeur absolue d&apos;un nombre, un chiffre sans son signe.</translation>
     </message>
     <message>
         <source>ACOS(number)</source>
         <comment>ACOS_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ACOS</translatorcomment>
         <translation>ACOS(nombre)</translation>
     </message>
     <message>
         <source>Returns the arccosine of a number, in radians in the range 0 to Pi. The arccosine is the angle whose cosine is Number.</source>
         <comment>ACOS_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ACOS</translatorcomment>
         <translation>Renvoie l&apos;arccosinus d&apos;un nombre, en radians de 0 à pi. L&apos;arccosinus est l&apos;angle dont le cosinus correspond au chiffre.</translation>
     </message>
     <message>
         <source>ASIN(number)</source>
         <comment>ASIN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ASIN</translatorcomment>
         <translation>ASIN(nombre)</translation>
     </message>
     <message>
         <source>Returns the arcsine of a number within radians from -Pi/2 to Pi/2.</source>
         <comment>ASIN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ASIN</translatorcomment>
         <translation>Renvoie l&apos;arcsinus d&apos;un nombre en radians de -pi/2 à pi/2.</translation>
     </message>
     <message>
         <source>ATAN (number)</source>
         <comment>ATAN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ATAN</translatorcomment>
         <translation>ATAN (nombre)</translation>
     </message>
     <message>
         <source>Returns the arctangent of a number in radians, in the range -Pi/2 to Pi/2.</source>
         <comment>ATAN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ATAN</translatorcomment>
         <translation>Renvoie l&apos;arctangente d&apos;un nombre, en radians de -pi/2 à pi/2.</translation>
     </message>
     <message>
         <source>ATAN2(x_num,y_num)</source>
         <comment>ATAN2_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ATAN2</translatorcomment>
         <translation>ATAN2(num_x,num_x)</translation>
     </message>
     <message>
         <source>Returns the arctangent of the specified x- and y- coordinates, in radians between -Pi and Pi, excluding -Pi.</source>
         <comment>ATAN2_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ATAN2</translatorcomment>
         <translation>Renvoie l&apos;arctangente des coordonnées x- et y- spécifiées, en radians entre -pi et pi, -pi exclus.</translation>
     </message>
     <message>
         <source>CEILING(number,significance)</source>
         <comment>CEILING_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;CEILING</translatorcomment>
         <translation>CEILING(nombre,précision)</translation>
     </message>
     <message>
         <source>Rounds a number up, to the nearest integer or to the nearest multiple of significance.</source>
         <comment>CEILING_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;CEILING</translatorcomment>
         <translation>Arrondit un nombre à l&apos;entier ou au multiple le plus proche de l&apos;argument précision en s&apos;éloignant de zéro.</translation>
     </message>
     <message>
         <source>COS(number)</source>
         <comment>COS_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;COS</translatorcomment>
         <translation>COS(nombre)</translation>
     </message>
     <message>
         <source>Returns the cosine of a given angle.</source>
         <comment>COS_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;COS</translatorcomment>
         <translation>Renvoie le cosinus d&apos;un angle donné.</translation>
     </message>
     <message>
         <source>COSH(number)</source>
         <comment>COSH_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;COSH</translatorcomment>
         <translation>COSH(nombre)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic cosine of a number.</source>
         <comment>COSH_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;COSH</translatorcomment>
         <translation>Renvoie le cosinus hyperbolique d&apos;un nombre.</translation>
     </message>
     <message>
         <source>DEGREES(angle)</source>
         <comment>DEGREES_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;DEGREES</translatorcomment>
         <translation>DEGREES(angle)</translation>
     </message>
     <message>
         <source>Converts radians to degrees.</source>
         <comment>DEGREES_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;DEGREES</translatorcomment>
         <translation>Convertit les radians en degrés.</translation>
     </message>
     <message>
@@ -3337,386 +3801,463 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>EVEN(number)</source>
         <comment>EVEN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;EVEN</translatorcomment>
         <translation>EVEN(nombre)</translation>
     </message>
     <message>
         <source>Rounds a positive number up and negative number down to the nearest even integer.</source>
         <comment>EVEN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;EVEN</translatorcomment>
         <translation>Arrondit un nombre au nombre entier pair le plus proche en s&apos;éloignant de zéro.</translation>
     </message>
     <message>
         <source>EXP(number)</source>
         <comment>EXP_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;EXP</translatorcomment>
         <translation>EXP(nombre)</translation>
     </message>
     <message>
         <source>Returns e raised to the power of a given number.</source>
         <comment>EXP_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;EVEN</translatorcomment>
         <translation>Donne e élevé à la puissance spécifiée.</translation>
     </message>
     <message>
         <source>FACT(number)</source>
         <comment>FACT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;FACT</translatorcomment>
         <translation>FACT(nombre)</translation>
     </message>
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
         <comment>FACT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;FACT</translatorcomment>
         <translation>Renvoie la factorielle d&apos;un nombre, égale à 1*2*3*...*nombre.</translation>
     </message>
     <message>
         <source>GCD(number1,number2,...)</source>
         <comment>GCD_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;GCD</translatorcomment>
         <translation>GCD(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the greatest common divisors of two or more integers.</source>
         <comment>GCD_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;FACT</translatorcomment>
         <translation>Renvoie les diviseurs les plus communs de deux entiers ou plus.</translation>
     </message>
     <message>
         <source>FLOOR(number,significance)</source>
         <comment>FLOOR_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;FLOOR</translatorcomment>
         <translation>FLOOR(nombre,précision)</translation>
     </message>
     <message>
         <source>Rounds a number down, toward zero, to the nearest multiple of significance.</source>
         <comment>FLOOR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;FLOOR</translatorcomment>
         <translation>Arrondit un nombre au multiple le plus proche de l&apos;argument précision en tendant vers zéro.</translation>
     </message>
     <message>
         <source>INT(number)</source>
         <comment>INT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;INT</translatorcomment>
         <translation>INT(nombre)</translation>
     </message>
     <message>
         <source>Rounds a number down to the nearest integer.</source>
         <comment>INT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;INT</translatorcomment>
         <translation>Arrondit un nombre à l&apos;entier le plus proche.</translation>
     </message>
     <message>
         <source>LCM(number1,number2,...)</source>
         <comment>LCM_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;LCM</translatorcomment>
         <translation>LCM(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the lease common multiples of two or more integers.</source>
         <comment>LCM_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;LCM</translatorcomment>
         <translation>Renvoie les multiples les moins communs de deux entiers ou plus.</translation>
     </message>
     <message>
         <source>LN(number)</source>
         <comment>LN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;LN</translatorcomment>
         <translation>LN(nombre)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of a number.</source>
         <comment>LN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;LN</translatorcomment>
         <translation>Renvoie le logarithme népérien d&apos;un nombre.</translation>
     </message>
     <message>
         <source>LOG(number,base)</source>
         <comment>LOG_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;LOG</translatorcomment>
         <translation>LOG(nombre,base)</translation>
     </message>
     <message>
         <source>Returns the logarithm of a number to the base you specify.</source>
         <comment>LOG_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;LOG</translatorcomment>
         <translation>Renvoie le logarithme d&apos;un nombre à la base que vous spécifiez.</translation>
     </message>
     <message>
         <source>LOG10(number)</source>
         <comment>LOG10_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;LOG10</translatorcomment>
         <translation>LOG10(nombre)</translation>
     </message>
     <message>
         <source>Returns the base-10 logarithm of a number.</source>
         <comment>LOG10_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;LOG10</translatorcomment>
         <translation>Renvoie le logarithme en base 10 d&apos;un nombre.</translation>
     </message>
     <message>
         <source>MOD(number,divisor)</source>
         <comment>MOD_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;MOD</translatorcomment>
         <translation>MOD(nombre,diviseur)</translation>
     </message>
     <message>
         <source>Returns the remainder after a number is divided by a divisor.</source>
         <comment>MOD_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;MOD</translatorcomment>
         <translation>Renvoie le reste d&apos;une division.</translation>
     </message>
     <message>
         <source>ODD(number)</source>
         <comment>ODD_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ODD</translatorcomment>
         <translation>ODD(nombre)</translation>
     </message>
     <message>
         <source>Rounds a positive number up and negative number down to the nearest odd integer.</source>
         <comment>ODD_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ODD</translatorcomment>
         <translation>Arrondit un nombre au nombre entier impair le plus proche en s&apos;éloignant de zéro.</translation>
     </message>
     <message>
         <source>PI()</source>
         <comment>PI_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;PI</translatorcomment>
         <translation>PI()</translation>
     </message>
     <message>
         <source>Returns the value of Pi, 3.14159265358979, accurate to 15 digits.</source>
         <comment>PI_REMARK</comment>
-        <translation>Renvoie la valeur de pi, 3,14159265358979 avec une précision de 15 chiffres!</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;PI</translatorcomment>
+        <translation>Renvoie la valeur de pi, 3,14159265358979 avec une précision de 15 chiffres.</translation>
     </message>
     <message>
         <source>POWER(number,power)</source>
         <comment>POWER_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;POWER</translatorcomment>
         <translation>POWER(nombre,puissance)</translation>
     </message>
     <message>
         <source>Returns the result of a number raised to a power.</source>
         <comment>POWER_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;POWER</translatorcomment>
         <translation>Renvoie le résultat d&apos;un chiffre élevé à une puissance.</translation>
     </message>
     <message>
         <source>PRODUCT(number1,number2,...)</source>
         <comment>PRODUCT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;PRODUCT</translatorcomment>
         <translation>PRODUCT(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Multiplies all the numbers given as arguments.</source>
         <comment>PRODUCT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;PRODUCT</translatorcomment>
         <translation>Donne le produit de la multiplication de tous les nombres donnés comme arguments.</translation>
     </message>
     <message>
         <source>QUARTILE(array,quart)</source>
         <comment>QUARTILE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>QUARTILE(matrice,quart)</translation>
     </message>
     <message>
         <source>Returns the quartile of a data set.</source>
         <comment>QUARTILE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;QUARTILE</translatorcomment>
         <translation>Renvoie le quartile d&apos;une série de données.</translation>
     </message>
     <message>
         <source>RADIANS(angle)</source>
         <comment>RADIANS_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>RADIANS(angle)</translation>
     </message>
     <message>
         <source>Converts degrees to radians.</source>
         <comment>RADIANS_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;RADIANS</translatorcomment>
         <translation>Convertit les degrés en radians.</translation>
     </message>
     <message>
         <source>RAND()</source>
         <comment>RAND_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;RAND</translatorcomment>
         <translation>RAND()</translation>
     </message>
     <message>
         <source>Returns a random number greater than or equal to 0 and less than 1, evenly distributed (changes on recalculation).</source>
         <comment>RAND_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;RAND</translatorcomment>
         <translation>Renvoie un nombre aléatoire de distribution normale supérieur ou égal à 0 et inférieur à 1 (différent à chaque calcul).</translation>
     </message>
     <message>
         <source>RANDBETWEEN(bottom,top)</source>
         <comment>RANDBETWEEN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;RANDBETWEEN</translatorcomment>
         <translation>RANDBETWEEN(bas,haut)</translation>
     </message>
     <message>
         <source>ROMAN(number,form)</source>
         <comment>ROMAN_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ROMAN</translatorcomment>
         <translation>ROMAN(nombre,forme)</translation>
     </message>
     <message>
         <source>Converts an Arabic numeral to Roman, as text.</source>
         <comment>ROMAN_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ROMAN</translatorcomment>
         <translation>Convertir un chiffre arabe en chiffre romain sous forme de texte.</translation>
     </message>
     <message>
         <source>Returns a random integer between the two numbers you specified.</source>
         <comment>RANDBETWEEN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;RANDBETWEEN</translatorcomment>
         <translation>Renvoie un entier aléatoire entre les deux nombres spécifiés.</translation>
     </message>
     <message>
         <source>ROUND(number,num_digits)</source>
         <comment>ROUND_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ROUND</translatorcomment>
         <translation>ROUND(nombre,nom_chiffres)</translation>
     </message>
     <message>
         <source>Rounds a number to a specified number of digits.</source>
         <comment>ROUND_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ROUND</translatorcomment>
         <translation>Arrondit un nombre au nombre de chiffres indiqué.</translation>
     </message>
     <message>
         <source>SIGN(number)</source>
         <comment>SIGN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SIGN</translatorcomment>
         <translation>SIGN(nombre)</translation>
     </message>
     <message>
         <source>Returns the sign of a number: 1 if the number is positive, zero if the number is zero, or -1 if the number is negative.</source>
         <comment>SIGN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SIGN</translatorcomment>
         <translation>Renvoie le signe d&apos;un nombre : 1 si le nombre est positif, zéro si le nombre est égal à zéro, ou -1 si le nombre est négatif.</translation>
     </message>
     <message>
         <source>SIN(number)</source>
         <comment>SIN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SIN</translatorcomment>
         <translation>SIN(nombre)</translation>
     </message>
     <message>
         <source>Returns the sine of a given angle.</source>
         <comment>SIN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SIN</translatorcomment>
         <translation>Renvoie le sinus d&apos;un angle donné.</translation>
     </message>
     <message>
         <source>SINH(number)</source>
         <comment>SINH_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SINH</translatorcomment>
         <translation>SINH(nombre)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic sine of a number.</source>
         <comment>SINH_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SINH</translatorcomment>
         <translation>Renvoie le sinus hyperbolique d&apos;un nombre.</translation>
     </message>
     <message>
         <source>SKEW(number1,number2,...)</source>
         <comment>SKEW_SYNTAX</comment>
-        <translation>SKEW(numéro1,numéro2,...)</translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
+        <translation>SKEW(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the skewness of a distribution: a characterization of the degree of asymmetry of a distribution around its mean.</source>
         <comment>SKEW_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;SKEW</translatorcomment>
         <translation>Renvoie l&apos;asymétrie d&apos;une distribution : la caractérisation du degré d&apos;asymétrie d&apos;une distribution par rapport à sa moyenne.</translation>
     </message>
     <message>
         <source>SQRT(number)</source>
         <comment>SQRT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SQRT</translatorcomment>
         <translation>SQRT(nombre)</translation>
     </message>
     <message>
         <source>Returns the square root of a number.</source>
         <comment>SQRT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SQRT</translatorcomment>
         <translation>Renvoie la racine carrée d&apos;un nombre.</translation>
     </message>
     <message>
         <source>SQRTPI(number)</source>
         <comment>SQRTPI_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SQRTPI</translatorcomment>
         <translation>SQRTPI(nombre)</translation>
     </message>
     <message>
         <source>Returns the square root of a number which has been multiplied by Pi.</source>
         <comment>SQRTPI_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SQRTPI</translatorcomment>
         <translation>Renvoie la racine carrée d&apos;un nombre multiplié par pi.</translation>
     </message>
     <message>
         <source>STEYX(known_y&apos;s,known_x&apos;s)</source>
         <comment>STEYX_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>STEYX(y_connus,x_connus)</translation>
     </message>
     <message>
         <source>Returns the standard deviation of the predicted y-value for each x in the linear regression.</source>
         <comment>STEYX_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;STEYX</translatorcomment>
         <translation>Renvoie l&apos;écart-type de la valeur y prédite pour chaque x d&apos;une droite de régression linéaire.</translation>
     </message>
     <message>
         <source>SUBTOTAL(function_num,ref1,ref2,...)</source>
         <comment>SUBTOTAL_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUBTOTAL</translatorcomment>
         <translation>SUBTOTAL(nom_fonction,réf1,réf2,...)</translation>
     </message>
     <message>
         <source>Returns a subtotal in list or database.</source>
         <comment>SUBTOTAL_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUBTOTAL</translatorcomment>
         <translation>Renvoie un sous-total dans la liste ou la base de données.</translation>
     </message>
     <message>
         <source>SUM(number1,number2, ...)</source>
         <comment>SUM_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUM</translatorcomment>
         <translation>SUM(nombre1,nombre2, ...)</translation>
     </message>
     <message>
         <source>Returns the sum of all the numbers in a range of cells.</source>
         <comment>SUM_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUM</translatorcomment>
         <translation>Renvoie la somme de tous les nombres d&apos;une plage de cellules.</translation>
     </message>
     <message>
         <source>SUMIF(range,criteria,sum_range)</source>
         <comment>SUMIF_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUMIF</translatorcomment>
         <translation>SUMIF(plage,critères,plage_somme)</translation>
     </message>
     <message>
         <source>Sums the cells that meet the given criteria.</source>
         <comment>SUMIF_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUMIF</translatorcomment>
         <translation>Additionne les cellules répondant aux critères donnés.</translation>
     </message>
     <message>
         <source>SUMPRODUCT(array1,array2,array3, ...)</source>
         <comment>SUMPRODUCT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUMPRODUCT</translatorcomment>
         <translation>SUMPRODUCT(matrice1,matrice2,matrice3, ...)</translation>
     </message>
     <message>
         <source>Multiplies the corresponding data in the given arrays and then returns the sum of the products.</source>
         <comment>SUMPRODUCT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUMPRODUCT</translatorcomment>
         <translation>Multiplie les données correspondantes des matrices données, puis renvoie la somme des produits.</translation>
     </message>
     <message>
         <source>TAN(number)</source>
         <comment>TAN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;TAN</translatorcomment>
         <translation>TAN(nombre)</translation>
     </message>
     <message>
         <source>Returns the tangent of a given angle.</source>
         <comment>TAN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;TAN</translatorcomment>
         <translation>Renvoie la tangente d&apos;un angle donné.</translation>
     </message>
     <message>
         <source>TANH(number)</source>
         <comment>TANH_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;TANH</translatorcomment>
         <translation>TANH(nombre)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic tangent of a number.</source>
         <comment>TANH_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;TANH</translatorcomment>
         <translation>Renvoie la tangente hyperbolique d&apos;un nombre.</translation>
     </message>
     <message>
         <source>ACOSH(number)</source>
         <comment>ACOSH_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ACOSH</translatorcomment>
         <translation>ACOSH(nombre)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic cosine of a number.</source>
         <comment>ACOSH_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ACOSH</translatorcomment>
         <translation>Renvoie le cosinus hyperbolique inverse d&apos;un nombre.</translation>
     </message>
     <message>
         <source>ASINH(number)</source>
         <comment>ASINH_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ASINH</translatorcomment>
         <translation>ASINH(nombre)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is the value whose hyperbolic sine is number, so ASINH(SINH(number)) equals number.</source>
         <comment>ASINH_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ASINH</translatorcomment>
         <translation>Renvoie le sinus hyperbolique inverse d&apos;un nombre. Le sinus hyperbolique inverse correspond à la valeur dont le sinus hyperbolique est un nombre, pour que ASINH(SINH(nombre)) soit égal au nombre.</translation>
     </message>
     <message>
         <source>ATANH(number)</source>
         <comment>ATANH_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ATANH</translatorcomment>
         <translation>ATANH(nombre)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic tangent of a number. Number must be between -1 and 1 (excluding -1 and 1). The inverse hyperbolic tangent is the value whose hyperbolic tangent is number, so ATANH(TANH(number)) equals number.</source>
         <comment>ATANH_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ATANH</translatorcomment>
         <translation>Renvoie la tangente hyperbolique inverse d&apos;un nombre. Le nombre doit se situer entre -1 et 1 (-1 et 1 exclus). La tangente hyperbolique inverse correspond à la valeur dont la tangente hyperbolique est un nombre, pour que ATANH(TANH(nombre)) soit égal au nombre.</translation>
     </message>
     <message>
         <source>TRUNC(number,num_digits)</source>
         <comment>TRUNC_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;TRUNC</translatorcomment>
         <translation>TRUNC(nombre,nom_chiffres)</translation>
     </message>
     <message>
         <source>Returns an integer by removing the decimal part of the number.</source>
         <comment>TRUNC_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;TRUNC</translatorcomment>
         <translation>Renvoie un entier en supprimant la décimale du nombre.</translation>
     </message>
     <message>
         <source>SUMSQ(number1,number2, ...)</source>
         <comment>SUMSQ_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUMSQ</translatorcomment>
         <translation>SUMSQ(nombre1,nombre2, ...)</translation>
     </message>
     <message>
@@ -3727,1971 +4268,2365 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;COMBIN</translatorcomment>
         <translation>COMBIN(nombre,nombre_choisi)</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>
         <comment>COMBIN_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;COMBIN</translatorcomment>
         <translation>Renvoie le nombre de combinaisons d&apos;un nombre d&apos;éléments donné.</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>COMBIN(nombre,nombre_choisi)</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;COMBIN</translatorcomment>
         <translation>Renvoie le nombre de combinaisons d&apos;un nombre d&apos;éléments donné.</translation>
     </message>
     <message>
         <source>COVAR(array1,array2)</source>
         <comment>COVAR_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>COVAR(matrice1,matrice2)</translation>
     </message>
     <message>
         <source>Returns covariance, the average of the products of deviations for each data point pair. Use covariance to determine the relationship between two data sets.</source>
         <comment>COVAR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;COVAR</translatorcomment>
         <translation>Renvoie la covariance, moyenne des produits des écarts à la moyenne de chaque paire de points. Utilisez la covariance pour déterminer la relation entre les deux séries de données.</translation>
     </message>
     <message>
         <source>ROUNDDOWN(number,num_digits)</source>
         <comment>ROUNDDOWN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ROUNDDOWN</translatorcomment>
         <translation>ROUNDDOWN(nombre,nom_chiffres)</translation>
     </message>
     <message>
         <source>Rounds a number down, towards zero.</source>
         <comment>ROUNDDOWN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ROUNDDOWN</translatorcomment>
         <translation>Arrondit un nombre en tendant vers zéro.</translation>
     </message>
     <message>
         <source>ROUNDUP(number,num_digits)</source>
         <comment>ROUNDUP_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ROUNDUP</translatorcomment>
         <translation>ROUNDUP(nombre,nom_chiffres)</translation>
     </message>
     <message>
         <source>Rounds a number up, away from zero.</source>
         <comment>ROUNDUP_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;ROUNDUP</translatorcomment>
         <translation>Arrondit un nombre en s&apos;éloignant de zéro.</translation>
     </message>
     <message>
         <source>SERIESSUM(x,n,m,coefficients)</source>
         <comment>SERIESSUM_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SERIESSUM</translatorcomment>
         <translation>SERIESSUM(x,n,m,coefficients)</translation>
     </message>
     <message>
         <source>Returns the sum of a power series.</source>
         <comment>SERIESSUM_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SERIESSUM</translatorcomment>
         <translation>Renvoie la somme d&apos;une série géométrique.</translation>
     </message>
     <message>
         <source>SUMX2MY2(array_x,array_y)</source>
         <comment>SUMX2MY2_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUMX2MY2</translatorcomment>
         <translation>SUMX2MY2(matrice_x,matrice_y)</translation>
     </message>
     <message>
         <source>Returns the sum of the differences of squares of corresponding values in two arrays.</source>
         <comment>SUMX2MY2_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUMX2MY2</translatorcomment>
         <translation>Renvoie la somme des carrés des différences entre les valeurs correspondantes de deux matrices.</translation>
     </message>
     <message>
         <source>SUMX2PY2(array_x,array_y)</source>
         <comment>SUMX2PY2_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUMX2PY2</translatorcomment>
         <translation>SUMX2PY2(matrice_x,matrice_y)</translation>
     </message>
     <message>
         <source>Returns the sum of the sum squares of corresponding values in two arrays.</source>
         <comment>SUMX2PY2_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUMX2PY2</translatorcomment>
         <translation>Renvoie la somme des carrés des sommes entre les valeurs correspondantes de deux matrices.</translation>
     </message>
     <message>
         <source>SUMXMY2(array_x,array_y)</source>
         <comment>SUMXMY2_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUMXPY2</translatorcomment>
         <translation>SUMXMY2(matrice_x,matrice_y)</translation>
     </message>
     <message>
         <source>Returns the sum of squares of differences of corresponding values in two arrays.</source>
         <comment>SUMXMY2_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Math and Trig-&gt;SUMXPY2</translatorcomment>
         <translation>Renvoie la somme des carrés des différences entre les valeurs correspondantes de deux matrices.</translation>
     </message>
     <message>
         <source>AVERAGE(number1,number2,...)</source>
         <comment>AVERAGE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;AVERAGE</translatorcomment>
         <translation>AVERAGE(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the average (arithmetic mean) of its arguments, which can be numbers, names, arrays or references that contain numbers.</source>
         <comment>AVERAGE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;AVERAGE</translatorcomment>
         <translation>Renvoie la moyenne (espérance arithmétique) des arguments, qui peuvent être des nombres, des noms, des matrices ou des références contenant des nombres.</translation>
     </message>
     <message>
         <source>AVERAGEA(number1,number2,...)</source>
         <comment>AVERAGEA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;AVERAGEA</translatorcomment>
         <translation>AVERAGEA(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the average (arithmetic mean) of the given arguments. Evaluates text and FALSE in arguments as 0, TRUE as 1. Arguments can be numbers, names, arrays or references.</source>
         <comment>AVERAGEA_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;AVERAGEA</translatorcomment>
         <translation>Renvoie la moyenne (moyenne arithmétique) des arguments données. Considère le texte et la valeur FALSE dans les arguments = 0, TRUE = 1. Les arguments peuvent être des nombres, des noms, des matrices ou des références.</translation>
     </message>
     <message>
         <source>AVEDEV(number1,number2,...)</source>
         <comment>AVEDEV_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;AVEDEV</translatorcomment>
         <translation>AVEDEV(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the average of the absolute deviations of data points from their mean. AVEDEV is a measure of the variability in a data set.</source>
         <comment>AVEDEV_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;AVEDEV</translatorcomment>
         <translation>Renvoie la moyenne des écarts absolus des points de données par rapport à leur moyenne arithmétique. AVEDEV mesure la variabilité d&apos;une série de données.</translation>
     </message>
     <message>
         <source>BINOMDIST(number_s,trials,probability_s,cumulative)</source>
         <comment>BINOMDIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;BINOMDIST</translatorcomment>
         <translation>BINOMDIST(nombre_s,tirages,probabilité_s,cumulative)</translation>
     </message>
     <message>
         <source>Returns the individual term binomial distribution probability.</source>
         <comment>BINOMDIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;BINOMDIST</translatorcomment>
         <translation>Renvoie la probabilité d’une variable aléatoire discrète suivant la loi binomiale.</translation>
     </message>
     <message>
         <source>CHIDIST(x,degrees_freedom)</source>
         <comment>CHIDIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;CHIDIST</translatorcomment>
         <translation>CHIDIST(x,degrés_liberté)</translation>
     </message>
     <message>
         <source>Returns the one-tailed probability of the chi-squared distribution. The c2 distribution is associated with a c2 test. Use the c2 test to compare observed and expected values. </source>
         <comment>CHIDIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;BINOMDIST</translatorcomment>
         <translation>Renvoie la probabilité unilatérale d’une variable aléatoire continue suivant une loi du Khi-deux. La variable aléatoire continue suivant une loi du Khi-deux est associée à un test connexe. Utilisez-le pour comparer les valeurs observées aux valeurs attendues. </translation>
     </message>
     <message>
         <source>CHIINV(probability,degrees_freedom)</source>
         <comment>CHIINV_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;CHINV</translatorcomment>
         <translation>CHIINV(probabilité,degrés_liberté)</translation>
     </message>
     <message>
         <source>Returns the inverse of the one-tailed probability of the chi-squared distribution.</source>
         <comment>CHIINV_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;CHINV</translatorcomment>
         <translation>Renvoie l&apos;inverse de la probabilité unilatérale d’une variable aléatoire continue suivant une loi du Khi-deux.</translation>
     </message>
     <message>
         <source>CHITEST(actual_range,expected_range)</source>
         <comment>CHITEST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;CHITEST</translatorcomment>
         <translation>CHITEST(plage_réelle,plage_attendue)</translation>
     </message>
     <message>
         <source>Returns the test for independence. </source>
         <comment>CHITEST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;CHITEST</translatorcomment>
         <translation>Renvoie le test d’indépendance. </translation>
     </message>
     <message>
         <source>CONFIDENCE(alpha,standard_dev,size)</source>
         <comment>CONFIDENCE_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;CONFIDENCE</translatorcomment>
         <translation>CONFIDENCE(alpha,écart_type,taille)</translation>
     </message>
     <message>
         <source>Returns the confidence interval for a population mean, using a normal distribution.</source>
         <comment>CONFIDENCE_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;CONFIDENCE</translatorcomment>
         <translation>Renvoie l’intervalle de confiance pour la moyenne d’une population à l’aide d’une distribution normale.</translation>
     </message>
     <message>
         <source>CORREL(array1,array2)</source>
         <comment>CORREL_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;CORREL</translatorcomment>
         <translation>CORREL(matrice1,matrice2)</translation>
     </message>
     <message>
         <source>Returns the correlation coefficient between two data sets.</source>
         <comment>CORREL_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;CORREL</translatorcomment>
         <translation>Renvoie le coefficient de corrélation entre deux séries de données.</translation>
     </message>
     <message>
         <source>COUNT(value1,value2,...)</source>
         <comment>COUNT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;COUNT</translatorcomment>
         <translation>COUNT(valeur1,valeur2,...)</translation>
     </message>
     <message>
         <source>Returns the number of cells containing numbers and of numbers in the list of arguments.</source>
         <comment>COUNT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;COUNT</translatorcomment>
         <translation>Renvoie le nombre de cellules contenant des nombres et les nombres de la liste d&apos;arguments.</translation>
     </message>
     <message>
         <source>COUNTA(value1,value2,...)</source>
         <comment>COUNTA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;COUNTA</translatorcomment>
         <translation>COUNTA(valeur1,valeur2,...)</translation>
     </message>
     <message>
         <source>Counts the number of cells that are not empty.</source>
         <comment>COUNTA_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;COUNTA</translatorcomment>
         <translation>Compte le nombre de cellules qui ne sont pas vides.</translation>
     </message>
     <message>
         <source>COUNTBLANK(range)</source>
         <comment>COUNTBLANK_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;COUNTBLANK</translatorcomment>
         <translation>COUNTBLANK(plage)</translation>
     </message>
     <message>
         <source>Counts the number of empty cells in a specified range of cells.</source>
         <comment>COUNTBLANK_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;COUNTBLANK</translatorcomment>
         <translation>Compte le nombre de cellules vides à l&apos;intérieur d&apos;une plage spécifique.</translation>
     </message>
     <message>
         <source>COUNTIF(range,criteria)</source>
         <comment>COUNTIF_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;COUNTIF</translatorcomment>
         <translation>COUNTIF(plage,critères)</translation>
     </message>
     <message>
         <source>Counts the number of cells within a range that meet the given condition.</source>
         <comment>COUNTIF_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;COUNTIF</translatorcomment>
         <translation>Détermine le nombre de cellules non vides répondant à la condition à l&apos;intérieur d&apos;une plage.</translation>
     </message>
     <message>
         <source>CRITBINOM(trials,probability_s,alpha)</source>
         <comment>CRITBINOM_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;CRITBINOM</translatorcomment>
         <translation>CRITBINOM(tirages,probabilité_s,alpha)</translation>
     </message>
     <message>
         <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
         <comment>CRITBINOM_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;CRITBINOM</translatorcomment>
         <translation>Renvoie la plus petite valeur pour laquelle la distribution binomiale cumulée est supérieure ou égale à une valeur critère.</translation>
     </message>
     <message>
         <source>DEVSQ(number1,number2,...)</source>
         <comment>DEVSQ_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;DEVSQ</translatorcomment>
         <translation>DEVSQ(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the sum of squares of deviations of a data set from their sample mean.</source>
         <comment>DEVSQ_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;DEVSQ</translatorcomment>
         <translation>Renvoie la somme des carrés des écarts entre les points de données et leur moyenne échantillonnée.</translation>
     </message>
     <message>
         <source>EXPONDIST(x,lambda,cumulative)</source>
         <comment>EXPONDIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;EXPONDIST</translatorcomment>
         <translation>EXPONDIST(x,lambda,cumulative)</translation>
     </message>
     <message>
         <source>Returns the exponential distribution.</source>
         <comment>EXPONDIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;EXPONDIST</translatorcomment>
         <translation>Renvoie la probabilité d’une variable aléatoire continue suivant une loi exponentielle.</translation>
     </message>
     <message>
         <source>FDIST(x,degrees_freedom1,degrees_freedom2)</source>
         <comment>FDIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;FDIST</translatorcomment>
         <translation>FDIST(x,degrés_liberté1,degrés_liberté2)</translation>
     </message>
     <message>
         <source>Returns the F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity.</source>
         <comment>FDIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;FDIST</translatorcomment>
         <translation>Renvoie la probabilité d’une variable aléatoire suivant une loi F. Vous pouvez utiliser cette fonction pour déterminer si deux séries de données ont des degrés de diversité différents.</translation>
     </message>
     <message>
         <source>FREQUENCY(data_array,bins_array)</source>
         <comment>FREQUENCY_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;FREQUENCY</translatorcomment>
         <translation>FREQUENCY(matrice_données,matrices_bacs)</translation>
     </message>
     <message>
         <source>Calculates how often values occur within a range of values and then returns a vertical array of numbers having one more element than Bins_array.</source>
         <comment>FREQUENCY_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;FREQUENCY</translatorcomment>
         <translation>Calcule la fréquence à laquelle les valeurs apparaissent dans une plage de valeurs, puis renvoie une matrice verticale de nombres ayant un élément de plus que l&apos;argument matrices_bacs.</translation>
     </message>
     <message>
         <source>FTEST(array1,array2)</source>
         <comment>FTEST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;FTEST</translatorcomment>
         <translation>FTEST(matrice1,matrice2)</translation>
     </message>
     <message>
         <source>Returns the result of an F-test, the one-tailed probability that the variances in Array1 and Array2 are not significantly different.</source>
         <comment>FTEST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;FTEST</translatorcomment>
         <translation>Renvoie le résultat d’un test F, la probabilité bilatérale que les variances des matrice1 et matrice2 ne sont pas très différentes.</translation>
     </message>
     <message>
         <source>GAMMADIST(x,alpha,beta,cumulative)</source>
         <comment>GAMMADIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;GAMMADIST</translatorcomment>
         <translation>GAMMADIST(x,alpha,bêta,cumulative)</translation>
     </message>
     <message>
         <source>Returns the gamma distribution.</source>
         <comment>GAMMADIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;GAMMADIST</translatorcomment>
         <translation>Renvoie la probabilité d’une variable aléatoire suivant une loi Gamma.</translation>
     </message>
     <message>
         <source>GAMMAINV(probability,alpha,beta)</source>
         <comment>GAMMAINV_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;GAMMAINV</translatorcomment>
         <translation>GAMMAINV(probabilité,alpha,bêta)</translation>
     </message>
     <message>
         <source>Returns the inverse of the gamma cumulative distribution.</source>
         <comment>GAMMAINV_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;GAMMAINV</translatorcomment>
         <translation>Renvoie, pour une probabilité donnée, la valeur d’une variable aléatoire suivant une loi Gamma.</translation>
     </message>
     <message>
         <source>GAMMALN(x)</source>
         <comment>GAMMALN_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;GAMMALN</translatorcomment>
         <translation>GAMMALN(x)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of the gamma function,Γ(x).</source>
         <comment>GAMMALN_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;GAMMALN</translatorcomment>
         <translation>Renvoie le logarithme népérien de la fonction Gamma,Γ(x).</translation>
     </message>
     <message>
         <source>GROWTH(known_y&apos;s,known_x&apos;s,new_x&apos;s,stats)</source>
         <comment>GROWTH_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;GROWTH</translatorcomment>
         <translation>GROWTH(y_connus,x_connus,nouveaux_x,stats)</translation>
     </message>
     <message>
         <source>Predicts the exponential growth by using existing data.</source>
         <comment>GROWTH_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;GROWTH</translatorcomment>
         <translation>Prédit la croissance exponentielle à l&apos;aide des données existantes.</translation>
     </message>
     <message>
         <source>GEOMEAN(number1,number2,...)</source>
         <comment>GEOMEAN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;GEOMEAN</translatorcomment>
         <translation>GEOMEAN(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the geometric mean of an array or range of positive numeric data.</source>
         <comment>GEOMEAN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;GEOMEAN</translatorcomment>
         <translation>Renvoie la moyenne géométrique d&apos;une matrice ou d&apos;une plage de données numériques positives.</translation>
     </message>
     <message>
         <source>HARMEAN(number1,number2,...)</source>
         <comment>HARMEAN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;HARMEAN</translatorcomment>
         <translation>HARMEAN(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the harmonic mean of a data set. The harmonic mean is the reciprocal of the arithmetic mean of reciprocals.</source>
         <comment>HARMEAN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;HARMEAN</translatorcomment>
         <translation>Renvoie la moyenne harmonique d&apos;une série de données. La moyenne harmonique correspond à la réciproque de la moyenne arithmétique des réciproques.</translation>
     </message>
     <message>
         <source>HYPGEOMDIST(sample_s,number_sample,population_s,number_population)</source>
         <comment>HYPGEOMDIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;HYPGEOMDIST</translatorcomment>
         <translation>HYPGEOMDIST(échantillon_s,nombre_échantillon,population_s,nombre_population)</translation>
     </message>
     <message>
         <source>Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. </source>
         <comment>HYPGEOMDIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;HYPGEOMDIST</translatorcomment>
         <translation>Renvoie la probabilité d’une variable aléatoire discrète suivant une loi hypergéométrique. HYPGEOMDIST renvoie la probabilité d&apos;un nombre donné d&apos;échantillons de succès, en fonction de la taille de l&apos;échantillon, du nombre de succès dans la population, et de la taille de celle-ci. </translation>
     </message>
     <message>
         <source>INTERCEPT(known_y&apos;s,known_x&apos;s)</source>
         <comment>INTERCEPT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;INTERCEPT</translatorcomment>
         <translation>INTERCEPT(y_connus, x_connus)</translation>
     </message>
     <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
         <comment>INTERCEPT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;INTERCEPT</translatorcomment>
         <translation>Calcule le point auquel une droite va croiser l&apos;axe des y à l&apos;aide des valeurs x et y existantes.</translation>
     </message>
     <message>
         <source>KURT(number1,number2,...)</source>
         <comment>KURT_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;KUPT</translatorcomment>
         <translation>KURT(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the kurtosis of a data set. Kurtosis characterizes the relative peakedness or flatness of a distribution compared with the normal distribution.</source>
         <comment>KURT_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;KURT</translatorcomment>
         <translation>Renvoie le kurtosis d&apos;une série de données. Le kurtosis caractérise la probabilité de succès ou d&apos;échec relative d&apos;une distribution comparée à la distribution normale.</translation>
     </message>
     <message>
         <source>LARGE(array,k)</source>
         <comment>LARGE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;LARGE</translatorcomment>
         <translation>LARGE(matrice,k)</translation>
     </message>
     <message>
         <source>Returns the k-th largest value in a data set. For example, it indicates the fourth largest number if k equals 4.</source>
         <comment>LARGE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;LARGE</translatorcomment>
         <translation>Renvoie la k-ième plus grande valeur d&apos;une série de données. Par exemple, ce paramètre indique le quatrième nombre le plus grand si k est égal à 4.</translation>
     </message>
     <message>
         <source>LINEST(known_y&apos;s,known_x&apos;s,const,stats)</source>
         <comment>LINEST_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;LINEST</translatorcomment>
         <translation>LINEST(y_connus, x_connus,const,stats)</translation>
     </message>
     <message>
         <source>Returns statistics that describe a linear trend matching known data points, by fitting a straight line using the least squares method.</source>
         <comment>LINEST_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;LINEST</translatorcomment>
         <translation>Renvoie une matrice qui décrit une droite de corrélation pour vos données, calculée avec la méthode des moindres carrés.</translation>
     </message>
     <message>
         <source>LOGINV(probability,mean,standard_dev)</source>
         <comment>LOGINV_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;LOGINV</translatorcomment>
         <translation>LOGINV(probabilité,moyenne,écart_type)</translation>
     </message>
     <message>
         <source>Returns the inverse of the lognormal cumulative distribution function of x, where ln(x) is the normal distribution of parameters Mean and Standard_dev.</source>
         <comment>LOGINV_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;LOGINV</translatorcomment>
         <translation>Renvoie l’inverse de la fonction de distribution de x suivant une loi lognormale cumulée, où In(x) est normalement distribué avec les paramètres Espérance et Écart_type.</translation>
     </message>
     <message>
         <source>LOGNORMDIST(x,mean,standard_dev)</source>
         <comment>LOGNORMDIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;LOGNORMDIST</translatorcomment>
         <translation>LOGNORMDIST(x,mean,standard_dev)</translation>
     </message>
     <message>
         <source>Returns the lognormal cumulative distribution of x, where ln(x) is normally distributed with parameters Mean and Standard_dev.</source>
         <comment>LOGNORMDIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;LOGNORMDIST</translatorcomment>
         <translation>Renvoie la distribution de x suivant une loi lognormale cumulée, où ln(x) est normalement distribué avec les paramètres Espérance et Écart_type.</translation>
     </message>
     <message>
         <source>MAX(number1,number2,...)</source>
         <comment>MAX_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MAX</translatorcomment>
         <translation>MAX(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the maximum value in a list of arguments. Ignores logical values and text.</source>
         <comment>MAX_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MAX</translatorcomment>
         <translation>Renvoie la valeur maximale d&apos;une liste d&apos;arguments. Ignore les valeurs logiques et le texte.</translation>
     </message>
     <message>
         <source>MAXA(number1,number2,...)</source>
         <comment>MAXA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MAXA</translatorcomment>
         <translation>MAXA(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the maximum value in a list of arguments. Does not ignore logical values and text.</source>
         <comment>MAXA_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MAXA</translatorcomment>
         <translation>Renvoie la valeur maximale d&apos;une liste d&apos;arguments. N&apos;ignore pas les valeurs logiques et le texte.</translation>
     </message>
     <message>
         <source>MEDIAN(number1,number2,...)</source>
         <comment>MEDIAN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MADIAN</translatorcomment>
         <translation>MEDIAN(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the median of the given numbers.</source>
         <comment>MEDIAN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MADIAN</translatorcomment>
         <translation>Renvoie la médiane des nombres donnés.</translation>
     </message>
     <message>
         <source>MIN(number1,number2,...)</source>
         <comment>MIN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MIN</translatorcomment>
         <translation>MIN(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the minimum value in a list of arguments. Ignores logical values and text.</source>
         <comment>MIN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MIN</translatorcomment>
         <translation>Renvoie la valeur minimale d&apos;une liste d&apos;arguments. Ignore les valeurs logiques et le texte.</translation>
     </message>
     <message>
         <source>MINA(number1,number2,...)</source>
         <comment>MINA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MINA</translatorcomment>
         <translation>MINA(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the minimum value in a list of arguments. Does not ignore logical values and text.</source>
         <comment>MINA_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MINA</translatorcomment>
         <translation>Renvoie la valeur minimale d&apos;une liste d&apos;arguments. N&apos;ignore pas les valeurs logiques et le texte.</translation>
     </message>
     <message>
         <source>MODE(number1,number2,...)</source>
         <comment>MODE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MODE</translatorcomment>
         <translation>MODE(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Returns the most common number (most frequently occurring) in an array or range of data.</source>
         <comment>MODE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;MODE</translatorcomment>
         <translation>Renvoie le nombre le plus commun (le plus fréquent) dans une matrice ou une plage de données.</translation>
     </message>
     <message>
         <source>NEGBINOMDIST(number_f,number_s,probability_s)</source>
         <comment>NEGBINOMDIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;NEGBINOMDIST</translatorcomment>
         <translation>NEGBINOMDIST(nombre_f,nombre_s,probabilité_s)</translation>
     </message>
     <message>
         <source>Returns the negative binomial distribution, the probability that there will be Number_f failures before the Number_s-th success, with Probability_s probability of a success.</source>
         <comment>NEGBINOMDIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;NEGBINOMDIST</translatorcomment>
         <translation>Renvoie la distribution négative binomiale, probabilité d’obtenir un nombre d’échecs égal à Number_f avant le succès numéro Number_s, avec une probabilité égale à Probabilité_s.</translation>
     </message>
     <message>
         <source>NORMDIST(x,mean,standard_dev,cumulative)</source>
         <comment>NORMDIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;NORMDIST</translatorcomment>
         <translation>NORMDIST(x,moyenne,écart_type,cumulative)</translation>
     </message>
     <message>
         <source>Returns the normal cumulative distribution for the specified mean and standard deviation</source>
         <comment>NORMDIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;NORMDIST</translatorcomment>
         <translation>Renvoie la probabilité d&apos;une variable aléatoire continue suivant une loi normale pour la moyenne et l&apos;écart-type spécifiés</translation>
     </message>
     <message>
         <source>NORMINV(probability,mean,standard_dev)</source>
         <comment>NORMINV_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;NORMINV</translatorcomment>
         <translation>NORMINV(probabilité,moyenne,écart-type)</translation>
     </message>
     <message>
         <source>Returns the inverse of the normal cumulative distribution for the specified mean and standard deviation.</source>
         <comment>NORMINV_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;NORMINV</translatorcomment>
         <translation>Renvoie, pour une probabilité donnée, la valeur d&apos;une variable aléatoire suivant une loi normale pour la moyenne et l&apos;écart-type spécifiés.</translation>
     </message>
     <message>
         <source>NORMSDIST(z)</source>
         <comment>NORMSDIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;NORMSDIST</translatorcomment>
         <translation>NORMSDIST(z)</translation>
     </message>
     <message>
         <source>Returns the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSDIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;NORMSDIST</translatorcomment>
         <translation>Renvoie la distribution cumulée suivant une loi normale centrée réduite d’espérance nulle et d’écart-type égal à 1.</translation>
     </message>
     <message>
         <source>NORMSINV(probability)</source>
         <comment>NORMSINV_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;NORMSINV</translatorcomment>
         <translation>NORMSINV(probabilité)</translation>
     </message>
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution fuction with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSINV_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;NORMSINV</translatorcomment>
         <translation>Renvoie, pour une probabilité donnée, l&apos;inverse de la valeur d’une variable aléatoire suivant une loi normale standard (ou centrée réduite), c’est-à-dire ayant une moyenne de zéro et un écart-type de 1.</translation>
     </message>
     <message>
         <source>PERCENTRANK(array,x,significance)</source>
         <comment>PERCENTRANK_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;PERCENTRANK</translatorcomment>
         <translation>PERCENTRANK(matrice,x,précision)</translation>
     </message>
     <message>
         <source>Returns the percentage rank of a value in a data set.</source>
         <comment>PERCENTRANK_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;PERCENTRANK</translatorcomment>
         <translation>Renvoie le rang en pourcentage d’une valeur d’une série de données.</translation>
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
         <comment>PERMUT_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;PERMUT</translatorcomment>
         <translation>PERMUT(nombre,nombre_choisi)</translation>
     </message>
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
         <comment>PERMUT_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;PERMUT</translatorcomment>
         <translation>Renvoie le nombre de permutations pour un nombre donné d&apos;objets sélectionné à partir du nombre total d&apos;objets.</translation>
     </message>
     <message>
         <source>PEARSON(array1,array2)</source>
         <comment>PEARSON_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;PEARSON</translatorcomment>
         <translation>PEARSON(matrice1,matrice2)</translation>
     </message>
     <message>
         <source>Returns the Pearson product moment correlation coefficient, r, a dimensionless index that ranges from -1.0 to 1.0 inclusive.</source>
         <comment>PEARSON_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;PEARSON</translatorcomment>
         <translation>Renvoie le coefficient de corrélation du produit-moment de Pearson, r, index sans dimension qui s&apos;étend de -1,0 à 1,0 inclus.</translation>
     </message>
     <message>
         <source>PERCENTILE(array,k)</source>
         <comment>PERCENTILE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;PERCENTILE</translatorcomment>
         <translation>PERCENTILE(matrice,k)</translation>
     </message>
     <message>
         <source>Returns the k-th percentile of values in a range.</source>
         <comment>PERCENTILE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;PERCENTILE</translatorcomment>
         <translation>Renvoie le k-ième centile des valeurs d’une plage.</translation>
     </message>
     <message>
         <source>RANK(number,ref,order)</source>
         <comment>RANK_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;RANK</translatorcomment>
         <translation>RANK(nombre,réf,ordre)</translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers.</source>
         <comment>RANK_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;RANK</translatorcomment>
         <translation>Renvoie le rang d&apos;un nombre dans une liste de nombres.</translation>
     </message>
     <message>
         <source>PROB(x_range,prob_range,lower_limit,upper_limit)</source>
         <comment>PROB_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;PROB</translatorcomment>
         <translation>PROB(plage_x,plage_prob,limite_inférieure,limite_supérieure)</translation>
     </message>
     <message>
         <source>Returns the probability that values in a range which are between two limits.</source>
         <comment>PROB_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;PROB</translatorcomment>
         <translation>Renvoie la probabilité pour les valeurs d&apos;une plage d&apos;être comprises entre deux limites.</translation>
     </message>
     <message>
         <source>RSQ(known_y&apos;s,known_x&apos;s)</source>
         <comment>RSQ_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;RSQ</translatorcomment>
         <translation>RSQ(y_connus, x_connus)</translation>
     </message>
     <message>
         <source>RSQ(Returns the square of the Pearson product moment correlation coefficient through data points in known_y&apos;s and known_x&apos;s.)</source>
         <comment>RSQ_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;RSQ</translatorcomment>
         <translation>RSQ(Renvoie le carré du coefficient de corrélation du produit-moment de Pearson par les points de données de y_connus et x_connus)</translation>
     </message>
     <message>
         <source>SLOPE(known_y&apos;s,known_x&apos;s)</source>
         <comment>SLOPE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;SLOPE</translatorcomment>
         <translation>SLOPE(y_connus, x_connus)</translation>
     </message>
     <message>
         <source>Returns the slope of the linear regression line through data points in known_y&apos;s and known_x&apos;s.</source>
         <comment>SLOPE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;Statistical-&gt;SLOPE</translatorcomment>
         <translation>Renvoie la pente d&apos;une droite de régression linéaire par le points de données de y_connus et x_connus.</translation>
     </message>
     <message>
         <source>SMALL(array,k)</source>
         <comment>SMALL_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>SMALL(matrice,k)</translation>
     </message>
     <message>
         <source>Returns the k-th smallest value in a data set. For example, the fourth smallest number if k equals four.</source>
         <comment>SMALL_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;SMALL</translatorcomment>
         <translation>Renvoie la k-ième plus petite valeur d&apos;une série de données. Par exemple, le quatrième nombre le plus petit si k est égal à quatre.</translation>
     </message>
     <message>
         <source>STANDARDIZE(x,mean,standard_dev)</source>
         <comment>STANDARDIZE_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>STANDARDIZE(x,moyenne,écart_type)</translation>
     </message>
     <message>
         <source>Returns a normalized value from a distribution characterized by mean and standard_dev.</source>
         <comment>STANDARDIZE_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;STANDARDIZE</translatorcomment>
         <translation>Renvoie une valeur centrée réduite, depuis une distribution caractérisée par une moyenne et un écart-type</translation>
     </message>
     <message>
         <source>STDEV(number1,number2,...)</source>
         <comment>STDEV_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>STDEV(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on a sample(ignores logical values and text in the sample).</source>
         <comment>STDEV_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;STDEV</translatorcomment>
         <translation>Calcule l’écart-type standard en se basant sur un échantillon (ignore les valeurs logiques et le texte de l’échantillon).</translation>
     </message>
     <message>
         <source>STDEVA(number1,number2,...)</source>
         <comment>STDEVA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>STDEVA(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
         <comment>STDEVA_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;STDEVA</translatorcomment>
         <translation>Calcule l’écart-type standard en se basant sur un échantillon. N&apos;ignore pas les valeurs logiques et le texte.</translation>
     </message>
     <message>
         <source>STDEVP(number1,number2,...)</source>
         <comment>STDEVP_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>STDEVP(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on the entire population (ignores logical values and text).</source>
         <comment>STDEVP_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;STDEVP</translatorcomment>
         <translation>Calcule l’écart-type standard en se basant sur l&apos;ensemble de la population (ignore les valeurs logiques et le texte).</translation>
     </message>
     <message>
         <source>STDEVPA(number1,number2,...)</source>
         <comment>STDEVPA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>STDEVPA(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on the entire population. Doesn&apos;t ignore logical values and text.</source>
         <comment>STDEVPA_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;STDEVPA</translatorcomment>
         <translation>Calcule l’écart-type standard en se basant sur l&apos;ensemble de la population. N&apos;ignore pas les valeurs logiques et le texte.</translation>
     </message>
     <message>
         <source>TDIST(x,degrees_freedom,tails)</source>
         <comment>TDIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>TDIST(x,degrés_liberté,uni-bilatéral)</translation>
     </message>
     <message>
         <source>Returns the percentile (probability) for the Student t-distribution, which is used in the hypothesis testing of small sample data sets.</source>
         <comment>TDIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;TDIST</translatorcomment>
         <translation>Renvoie le centile (probabilité) de la distribution t des étudiants qui est utilisé pour tester l&apos;hypothèse de petits échantillons de séries de données.</translation>
     </message>
     <message>
         <source>TINV(probability,degrees_freedom)</source>
         <comment>TINV_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>TINV(probabilité,degrés_liberté)</translation>
     </message>
     <message>
         <source>Returns the t-value of the Student&apos;s t-distribution as a function of the probability and the degrees of freedom.</source>
         <comment>TINV_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;TINV</translatorcomment>
         <translation>Renvoie la valeur t de la distribution t des étudiants en tant que fonction de la probabilité et les degrés de liberté.</translation>
     </message>
     <message>
         <source>TTEST(array1,array2,tails,type)</source>
         <comment>TTEST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>TTEST(matrice1,matrice2,uni/bilatéral,type)</translation>
     </message>
     <message>
         <source>Returns the probability associated with a Student&apos;s t-Test. Use TTEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.</source>
         <comment>TTEST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;TTEST</translatorcomment>
         <translation>Renvoie la probabilité associée à un test t des étudiants. Utilisez TTEST pour déterminer la probabilité que deux échantillons proviennent des deux mêmes populations sous-jacentes ayant la même moyenne.</translation>
     </message>
     <message>
         <source>TRIMMEAN(array,percent)</source>
         <comment>TRIMMEAN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>TRIMMEAN(matrice,pourcentage)</translation>
     </message>
     <message>
         <source>Returns the mean of the interior of a data set. </source>
         <comment>TRIMMEAN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;TRIMMEAN</translatorcomment>
         <translation>Renvoie la moyenne de l&apos;intérieur d&apos;une série de données. </translation>
     </message>
     <message>
         <source>VAR(number1,number2,...)</source>
         <comment>VAR_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>VAR(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on a sample(ignores logical values and text in the sample).</source>
         <comment>VAR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;VAR</translatorcomment>
         <translation>Calcule la variance en se basant sur un échantillon (ignore les valeurs logiques et le texte de l’échantillon).</translation>
     </message>
     <message>
         <source>VARA(number1,number2,...)</source>
         <comment>VARA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>VARA(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on a sample(doesn&apos;t ignore logical values and text in the sample).</source>
         <comment>VARA_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;VARA</translatorcomment>
         <translation>Calcule la variance à partir d&apos;un échantillon (n&apos;ignore pas les valeurs logiques et le texte de l&apos;échantillon).</translation>
     </message>
     <message>
         <source>VARP(number1,number2,...)</source>
         <comment>VARP_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>VARP(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on the entire population(ignores logical values and text in the population).</source>
         <comment>VARP_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;VARP</translatorcomment>
         <translation>Calcule la variance en se basant sur la population entière (ignore les valeurs logiques et le texte de la population).</translation>
     </message>
     <message>
         <source>VARPA(number1,number2,...)</source>
         <comment>VARPA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>VARPA(nombre1,nombre2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on the entire population(includes logical values and text in the population).</source>
         <comment>VARPA_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;VARPA</translatorcomment>
         <translation>Calcule la variance en se basant sur la population entière (inclut les valeurs logiques et le texte de la population).</translation>
     </message>
     <message>
         <source>GAMMALN(x)</source>
         <comment>GAMMALN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>GAMMALN(x)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of the gamma function.</source>
         <comment>GAMMALN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;GAMMALN</translatorcomment>
         <translation>Renvoie le logarithme népérien de la fonction gamma.</translation>
     </message>
     <message>
         <source>FINV(probability,degrees_freedom1,degrees_freedom2)</source>
         <comment>FINV_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>FINV(probabilité,degrés_liberté1,degrés_liberté2)</translation>
     </message>
     <message>
         <source>Returns the inverse of the F probability distribution.</source>
         <comment>FINV_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;FINV</translatorcomment>
         <translation>Renvoie, pour une probabilité donnée, la valeur d’une variable aléatoire suivant une loi F.</translation>
     </message>
     <message>
         <source>FORECAST(x,known_y&apos;s,known_x&apos;s)</source>
         <comment>FORECAST_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>FORECAST(x,y_connus,x_connus)</translation>
     </message>
     <message>
         <source>Calculates or predicts a future value by using the existing values.</source>
         <comment>FORECAST_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;FORECAST</translatorcomment>
         <translation>Calcule ou prédit une future valeur à l&apos;aide des valeurs existantes.</translation>
     </message>
     <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
         <comment>BETADIST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>BETADIST(x,alpha,bêta,A,B)</translation>
     </message>
     <message>
         <source>Returns the cumulative beta probability density function.</source>
         <comment>BETADIST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;BETADIST</translatorcomment>
         <translation>Revoie la fonction de densité de distribution de la probabilité suivant une loi bêta cumulée.</translation>
     </message>
     <message>
         <source>BETAINV(probability,alpha,beta,A,B)</source>
         <comment>BETAINV_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>BETAINV(probabilité,alpha,bêta,A,B)</translation>
     </message>
     <message>
         <source>Returns the inverse of the cumulative beta probability density function (BETADIST).</source>
         <comment>BETAINV_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;BETAINV</translatorcomment>
         <translation>Renvoie l&apos;inverse de la fonction de densité de distribution de la probabilité suivant une loi bêta cumulée (BETADIST).</translation>
     </message>
     <message>
         <source>FISHER(x)</source>
         <comment>FISHER_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>FISHER(x)</translation>
     </message>
     <message>
         <source>Returns the Fisher transformation.</source>
         <comment>FISHER_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;FISHER</translatorcomment>
         <translation>Renvoie la transformation de Fisher.</translation>
     </message>
     <message>
         <source>FISHERINV(y)</source>
         <comment>FISHERINV_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>FISHERINV(y)</translation>
     </message>
     <message>
         <source>Returns the inverse of the Fisher transformation. If y = FISHER(x), then FISHRINV(y) = x.</source>
         <comment>FISHERINV_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;FISHERINV</translatorcomment>
         <translation>Renvoie l&apos;inverse de la transformation Fisher. Si y = FISHER(x), alors FISHRINV(y) = x.</translation>
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
         <comment>PERMUT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>PERMUT(nombre,nombre_choisi)</translation>
     </message>
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
         <comment>PERMUT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;PERMUT</translatorcomment>
         <translation>Renvoie le nombre de permutations pour un nombre donné d&apos;objets sélectionné à partir du nombre total d&apos;objets.</translation>
     </message>
     <message>
         <source>POISSON(x,mean,cumulative)</source>
         <comment>POISSON_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>POISSON(x,moyenne,cumulative)</translation>
     </message>
     <message>
         <source>Returns the Poisson distribution. Poisson distribution is commonly used to predict the number of events over a specific time.</source>
         <comment>POISSON_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;POISSON</translatorcomment>
         <translation>Renvoie la probabilité d&apos;une variable aléatoire suivant une loi de Poisson. La probabilité d&apos;une variable aléatoire suivant une loi de Poisson est communément utilisée pour prédire le nombre d&apos;événements sur une période spécifique.</translation>
     </message>
     <message>
         <source>WEIBULL(x,alpha,beta,cumulative)</source>
         <comment>WEIBULL_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>WEIBULL(x,alpha,bêta,cumulative)</translation>
     </message>
     <message>
         <source>Returns the Weibull distribution. Use this function in reliability analysis, such as calculating a device&apos;s mean time to failure.</source>
         <comment>WEIBULL_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;WEIBULL</translatorcomment>
         <translation>Renvoie la probabilité d&apos;une variable aléatoire suivant une loi de Weibull. Utilisez cette fonctionnalité pour l&apos;anayse de la fiabilité, comme le calcul du temps moyen d&apos;un périphérique de tomber en panne.</translation>
     </message>
     <message>
         <source>ZTEST(array,μ0,sigma)</source>
         <comment>ZTEST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ZTEST(matrice,μ0,sigma)</translation>
     </message>
     <message>
         <source>Returns the one-tailed probability-value of a z-test.</source>
         <comment>ZTEST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ZTEST</translatorcomment>
         <translation>Renvoie la valeur-probabilité unilatérale d&apos;un test z.</translation>
     </message>
     <message>
         <source>ADDRESS(row_num,column_num,abs_num,a1,sheet_text)</source>
         <comment>ADDRESS_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ADDRESS(nom_ligne,nom_colonne,nom_abs,a1,texte_feuille)</translation>
     </message>
     <message>
         <source>Creates a cell reference as text according to the specified row and column numbers.</source>
         <comment>ADDRESS_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ADDRESS</translatorcomment>
         <translation>Crée une référence de cellule sous forme de texte, en fonction des numéros de lignes et colonnes spécifiées.</translation>
     </message>
     <message>
         <source>AREAS(reference)</source>
         <comment>AREAS_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>AREAS(référence)</translation>
     </message>
     <message>
         <source>Returns the number of areas in a reference. An area is a range of contiguous cells or a single cell.</source>
         <comment>AREAS_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;AREAS</translatorcomment>
         <translation>Renvoie le nombre de zones dans une référence. Une zone est une plage de cellules contiguës ou une seule cellule.</translation>
     </message>
     <message>
         <source>CHOOSE(index_num,value1,value2,...)</source>
         <comment>CHOOSE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>CHOOSE(nom_index,valeur1,valeur2,...)</translation>
     </message>
     <message>
         <source>Returns a value from the list of arguments based on the given index number.</source>
         <comment>CHOOSE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;CHOOSE</translatorcomment>
         <translation>Renvoie une valeur de la liste d&apos;arguments en fonction du numéro d&apos;index donné.</translation>
     </message>
     <message>
         <source>COLUMN(reference)</source>
         <comment>COLUMN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>COLUMN(référence)</translation>
     </message>
     <message>
         <source>Returns the column number of a reference.</source>
         <comment>COLUMN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;COLUMN</translatorcomment>
         <translation>Renvoie le numéro de la colonne en référence.</translation>
     </message>
     <message>
         <source>COLUMNS(array)</source>
         <comment>COLUMNS_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>COLUMNS(matrice)</translation>
     </message>
     <message>
         <source>Returns the number of columns in an array or reference.</source>
         <comment>COLUMNS_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;COLUMNS</translatorcomment>
         <translation>Renvoie le nombre de colonnes dans une matrice de référence.</translation>
     </message>
     <message>
         <source>HLOOKUP(lookup_value,table_array,row_index_num,range_lookup)</source>
         <comment>HLOOKUP_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>HLOOKUP(valeur_recherche,tableau_matrice,num_index_ligne,recherche_plage)</translation>
     </message>
     <message>
         <source>Looks for a value in the top row of a table or array of values and returns a value in the same column from a row you specify in the table or array (The table is ascending by default) .</source>
         <comment>HLOOKUP_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;HLOOKUP</translatorcomment>
         <translation>Cherche une valeur dans la première ligne d&apos;une matrice de valeurs ou d&apos;un tableau et renvoie la valeur de la même colonne à partir d&apos;une ligne spécifiée dans le tableau ou la matrice. (Le tableau est ascendant par défaut.)</translation>
     </message>
     <message>
         <source>INDEX(array,row_num,column_num)</source>
         <comment>INDEX_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>INDEX(matrice,nom_ligne,nom_colonne)</translation>
     </message>
     <message>
         <source>Returns the value of an element in a table or an array, selected by the row and column number indexes.</source>
         <comment>INDEX_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;INDEX</translatorcomment>
         <translation>Renvoie la valeur d&apos;un élément dans un tableau ou une matrice, sélectionnée en fonction des index de numéro de ligne et de colonne.</translation>
     </message>
     <message>
         <source>INDIRECT(ref_text,a1)</source>
         <comment>INDIRECT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>INDIRECT(texte_réf,a1)</translation>
     </message>
     <message>
         <source>Returns the reference specified by a text string.</source>
         <comment>INDIRECT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;INDIRECT</translatorcomment>
         <translation>Renvoie la référence spécifiée par une chaîne de texte.</translation>
     </message>
     <message>
         <source>LOOKUP(lookup_value,lookup_vector,result_vector);LOOKUP(lookup_value,array)</source>
         <comment>LOOKUP_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>LOOKUP(valeur_recherche,vecteur_recherche,vecteur_résultat);LOOKUP(valeur_recherche,matrice)</translation>
     </message>
     <message>
         <source>Looks up a value either from a one-row or one-column range or from an array.</source>
         <comment>LOOKUP_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;LOOKUP</translatorcomment>
         <translation>Recherche une valeur dans une plage à une ligne ou à une colonne ou dans une matrice.</translation>
     </message>
     <message>
         <source>MATCH(lookup_value,lookup_array,match_type)</source>
         <comment>MATCH_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>MATCH(valeur_recherche,matrice_recherche,type_correspondance)</translation>
     </message>
     <message>
         <source>Returns the relative position of an item in an array that matches a specified value in a specified order.</source>
         <comment>MATCH_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;MATCH</translatorcomment>
         <translation>Renvoie la position relative d&apos;un élément dans une matrice correspondant à une valeur spécifiée dans un ordre donné.</translation>
     </message>
     <message>
         <source>OFFSET(reference,rows,cols,height,width)</source>
         <comment>OFFSET_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>OFFSET(référence,lignes,cols,hauteur,largeur)</translation>
     </message>
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
         <comment>OFFSET_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;OFFSET</translatorcomment>
         <translation>Renvoie une référence à une plage qui correspond à un nombre donné de lignes et de colonnes à partir d&apos;une référence donnée.</translation>
     </message>
     <message>
         <source>ROW(reference)</source>
         <comment>ROW_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ROW(référence)</translation>
     </message>
     <message>
         <source>Returns the internal row number of a specified reference.</source>
         <comment>ROW_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ROW</translatorcomment>
         <translation>Renvoie le numéro de ligne interne d&apos;une référence spécifiée.</translation>
     </message>
     <message>
         <source>ROWS(array)</source>
         <comment>ROWS_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ROWS(matrice)</translation>
     </message>
     <message>
         <source>Returns the number of rows in a reference or array.</source>
         <comment>ROWS_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ROWS</translatorcomment>
         <translation>Renvoie le nombre de lignes dans une matrice ou une référence.</translation>
     </message>
     <message>
         <source>VLOOKUP(lookup_value,table_array,col_index_num,range_lookup)</source>
         <comment>VLOOKUP_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>VLOOKUP(valeur_recherche,matrice_tableau,nom_index_col,recherche_plage)</translation>
     </message>
     <message>
         <source>Searches a specified value in the leftmost column of a table and returns a value in the current row from a column you specify.</source>
         <comment>VLOOKUP_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;VLOOKUP</translatorcomment>
         <translation>Cherche une valeur dans la première colonne à gauche d&apos;un tableau, puis renvoie une valeur dans la même ligne à partir d&apos;une colonne spécifiée.</translation>
     </message>
     <message>
         <source>ASC(text)</source>
         <comment>ASC_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ASC(texte)</translation>
     </message>
     <message>
         <source>Converts full-width (double-byte) characters to half-width (single-byte) characters. Use with double-byte character sets (DBCS).</source>
         <comment>ASC_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ASC</translatorcomment>
         <translation>Convertit une chaîne de caractères codés sur deux octets en chaîne de caractères codés sur un octet. À utiliser avec les jeux de caractères codés sur deux octets (DBCS).</translation>
     </message>
     <message>
         <source>CHAR(number)</source>
         <comment>CHAR_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>CHAR(nombre)</translation>
     </message>
     <message>
         <source>Returns the character specified by the code number from the character set for your computer.</source>
         <comment>CHAR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;CHAR</translatorcomment>
         <translation>Renvoie le caractère spécifié par le code numérique du jeu de caractères de votre ordinateur.</translation>
     </message>
     <message>
         <source>CODE(text)</source>
         <comment>CODE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>CODE(texte)</translation>
     </message>
     <message>
         <source>Returns a numeric code for the first character in a text string, in the character set used by your computer.</source>
         <comment>CODE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;CODE</translatorcomment>
         <translation>Renvoie le numéro de code du premier caractère du texte, dans le jeu de caractères utilisé par votre ordinateur.</translation>
     </message>
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
         <comment>CONCATENATE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>CONCATENATE (texte1,texte2,...)</translation>
     </message>
     <message>
         <source>Joins several text strings into one text string.</source>
         <comment>CONCATENATE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;CONCATENATE</translatorcomment>
         <translation>Joint plusieurs chaînes de texte en une seule.</translation>
     </message>
     <message>
         <source>EXACT(text1,text2)</source>
         <comment>EXACT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>EXACT(texte1,texte2)</translation>
     </message>
     <message>
         <source>Returns TRUE if one string is exactly equal to another string (EXACTLY means case-sensitive); returns FALSE otherwise.</source>
         <comment>EXACT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;EXACT</translatorcomment>
         <translation>Renvoie TRUE si une chaîne est exactement égale à une autre chaîne (EXACTEMENT signifie que l&apos;argument est sensible à la casse). Renvoie FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>FIND(find_text,within_text,start_num)</source>
         <comment>FIND_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>FIND(trouver_texte,dans_text,nom_début)</translation>
     </message>
     <message>
         <source>Returns the starting position of one text string within another(case-sensitive and wildcard characters are not allowed).</source>
         <comment>FIND_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;FIND</translatorcomment>
         <translation>Renvoie la position de départ d&apos;une chaîne de texte à l&apos;intérieur d&apos;une autre chaîne de texte (la distinction entre les majuscules et les minuscules et les caractères génériques ne sont pas autorisés).</translation>
     </message>
     <message>
         <source>LEFT(text,num_chars)</source>
         <comment>LEFT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>LEFT(texte,nom_cars)</translation>
     </message>
     <message>
         <source>Returns the characters with a specified number from the first character of a text string.</source>
         <comment>LEFT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;LEFT</translatorcomment>
         <translation>Renvoie les caractères avec un numéro spécifié à partir du premier caractère d&apos;une chaîne de texte.</translation>
     </message>
     <message>
         <source>LEN(text)</source>
         <comment>LEN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>LEN(texte)</translation>
     </message>
     <message>
         <source>Returns the length of a text string.</source>
         <comment>LEN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;LEN</translatorcomment>
         <translation>Renvoie la longueur d&apos;une chaîne de texte.</translation>
     </message>
     <message>
         <source>LOWER(text)</source>
         <comment>LOWER_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>LOWER(texte)</translation>
     </message>
     <message>
         <source>Returns the lower-case version of a text string.</source>
         <comment>LOWER_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;LOWER</translatorcomment>
         <translation>Renvoie la version en minuscule d&apos;une chaîne de texte.</translation>
     </message>
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>LTRIM(texte)</translation>
     </message>
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;LTRIM</translatorcomment>
         <translation>Supprime les espaces à gauche de la chaîne de texte spécifiée.</translation>
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
         <comment>MID_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>MID(texte,nom_début,nom_cars)</translation>
     </message>
     <message>
         <source>Returns the characters with a specified length from a given starting position in a text string.</source>
         <comment>MID_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;MID</translatorcomment>
         <translation>Renvoie les caractères d&apos;une longueur spécifiée d&apos;une chaîne de texte à partir de la position que vous indiquez.</translation>
     </message>
     <message>
         <source>REPLACE(old_text,start_num,num_chars,new_text)</source>
         <comment>REPLACE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>REPLACE(ancien_texte,nom_début,nom_cars,nouveau_texte)</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
         <comment>REPLACE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;REPLACE</translatorcomment>
         <translation>Remplace les caractères d&apos;une chaîne de texte avec une autre chaîne de texte.</translation>
     </message>
     <message>
         <source>REPT(text,number_times)</source>
         <comment>REPT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>REPT(texte,nombre_fois)</translation>
     </message>
     <message>
         <source>Returns the repetitions of string for specified times. You can use REPT to fill a cell with a text string repeatedly.</source>
         <comment>REPT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;REPT</translatorcomment>
         <translation>Renvoie les répétitions d&apos;une chaîne à des moments spécifiés. Vous pouvez utiliser REPT pour remplir une cellule avec une chaîne de texte de manière répétée.</translation>
     </message>
     <message>
         <source>RIGHT(text,num_chars)</source>
         <comment>RIGHT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>RIGHT(texte,nom_cars)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the end of a text string.</source>
         <comment>RIGHT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;RIGHT</translatorcomment>
         <translation>Renvoie le nombre de caractères spécifié depuis la fin d&apos;une chaîne de texte.</translation>
     </message>
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>RTRIM(texte)</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;RTRIM</translatorcomment>
         <translation>Supprime les espaces à droite de la chaîne de texte spécifiée.</translation>
     </message>
     <message>
         <source>SEARCH(find_text,within_text,start_num)</source>
         <comment>SEARCH_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>SEARCH(trouver_texte,dans_text,nom_début)</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive).</source>
         <comment>SEARCH_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;SEARCH</translatorcomment>
         <translation>Renvoie le premier emplacement trouvé du caractère ou de la chaîne spécifiée au sein d&apos;une chaîne de texte, à partir de la gauche (non sensible à la casse).</translation>
     </message>
     <message>
         <source>SUBSTITUTE(text,old_text,new_text,instance_num)</source>
         <comment>SUBSTITUTE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>SUBSTITUTE(texte,ancien_texte,nouveau_texte,nom_instance)</translation>
     </message>
     <message>
         <source>Replaces part of the old text with new text in a string.</source>
         <comment>SUBSTITUTE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;SUBSTITUTE</translatorcomment>
         <translation>Remplace des parties de l&apos;ancien texte avec du nouveau texte dans une chaîne.</translation>
     </message>
     <message>
         <source>TEXT(value,format_text)</source>
         <comment>TEXT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>TEXT(valeur,format_texte)</translation>
     </message>
     <message>
         <source>Returns value as a string with the specified format.</source>
         <comment>TEXT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;TEXT</translatorcomment>
         <translation>Renvoie la valeur sous forme de chaîne au format spécifié.</translation>
     </message>
     <message>
         <source>TRIM(text)</source>
         <comment>TRIM_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>TRIM(texte)</translation>
     </message>
     <message>
         <source>Returns text with only single spaces between words.</source>
         <comment>TRIM_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;TRIM</translatorcomment>
         <translation>Renvoie le texte avec uniquement des espaces simples entre les mots.</translation>
     </message>
     <message>
         <source>UPPER(text)</source>
         <comment>UPPER_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>UPPER(texte)</translation>
     </message>
     <message>
         <source>Returns the upper-case version of a text string.</source>
         <comment>UPPER_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;UPPER</translatorcomment>
         <translation>Renvoie la version en majuscule d&apos;une chaîne de texte.</translation>
     </message>
     <message>
         <source>VALUE(text)</source>
         <comment>VALUE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>VALUE(texte)</translation>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
         <comment>VALUE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;VALUE</translatorcomment>
         <translation>Renvoie la valeur numérique d&apos;une chaîne de texte.</translation>
     </message>
     <message>
         <source>PROPER(text)</source>
         <comment>PROPER_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>PROPER(texte)</translation>
     </message>
     <message>
         <source>Capitalizes the initials of all the words.</source>
         <comment>PROPER_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;PROPER</translatorcomment>
         <translation>Met les initiales de tous les mots en majuscules.</translation>
     </message>
     <message>
         <source>DOLLAR(number,decimals)</source>
         <comment>DOLLAR_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DOLLAR(nombre,décimales)</translation>
     </message>
     <message>
         <source>Converts a number to text, using currency format and the specified digits.</source>
         <comment>DOLLAR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DOLLAR</translatorcomment>
         <translation>Convertir un nombre en texte, à l&apos;aide du format de devise et des chiffres spécifiés.</translation>
     </message>
     <message>
         <source>AND(logical1,logical2, ...)</source>
         <comment>AND_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>AND(logique1,logique2, ...)</translation>
     </message>
     <message>
         <source>Returns FASLE if any of the arguments are FALSE; returns TRUE only if all arguments are TRUE.</source>
         <comment>AND_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;AND</translatorcomment>
         <translation>Renvoie FALSE si l&apos;un des arguments est FALSE ; renvoie TRUE uniquement si tous les arguments sont TRUE.</translation>
     </message>
     <message>
         <source>FALSE()</source>
         <comment>FALSE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>FALSE()</translation>
     </message>
     <message>
         <source>Returns the logical value FALSE.</source>
         <comment>FALSE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;FALSE</translatorcomment>
         <translation>Renvoie la valeur logique FALSE.</translation>
     </message>
     <message>
         <source>IF(logical_test,value_if_true,value_if_false)</source>
         <comment>IF_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IF(test_logique,valeur_si_true,valeur_si_false)</translation>
     </message>
     <message>
         <source>Checks whether a condition is met, and returns one value if TRUE, and another value if FALSE.</source>
         <comment>IF_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IF</translatorcomment>
         <translation>Vérifie si une condition est satisfaite et renvoie une valeur si TRUE, et une autre valeur si FALSE.</translation>
     </message>
     <message>
         <source>NOT(logical)</source>
         <comment>NOT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>NOT(logique)</translation>
     </message>
     <message>
         <source>Reverses the logical value of the argument.</source>
         <comment>NOT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;NOT</translatorcomment>
         <translation>Inverse la valeur logique de l&apos;argument.</translation>
     </message>
     <message>
         <source>OR(logical1,logical2,...)</source>
         <comment>OR_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>OR(logique1,logique2,...)</translation>
     </message>
     <message>
         <source>Returns TRUE if any of the arguments are TRUE; returns FALSE only if all arguments are FALSE.</source>
         <comment>OR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;OR</translatorcomment>
         <translation>Renvoie TRUE si l&apos;un des arguments est TRUE ; renvoie FALSE uniquement si tous les arguments sont FALSE.</translation>
     </message>
     <message>
         <source>TRUE()</source>
         <comment>TRUE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>TRUE()</translation>
     </message>
     <message>
         <source>Returns the logical value TRUE.</source>
         <comment>TRUE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;TRUE</translatorcomment>
         <translation>Renvoie la valeur logique TRUE.</translation>
     </message>
     <message>
         <source>ERROR.TYPE(error_val)</source>
         <comment>ERRORTYPE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ERROR.TYPE(erreur_val)</translation>
     </message>
     <message>
         <source>Returns a number corresponding to the given error value; returns #N/A if no error exists.</source>
         <comment>ERRORTYPE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ERROR.TYPE</translatorcomment>
         <translation>Renvoie un nombre correspondant à la valeur d&apos;une erreur donnée ; renvoi #N/A en cas d&apos;erreur.</translation>
     </message>
     <message>
         <source>FORMULA(Ref)</source>
         <comment>FORMULA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>FORMULA(Réf)</translation>
     </message>
     <message>
         <source>Returns the formula in a cell.</source>
         <comment>FORMULA_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;FORMULA</translatorcomment>
         <translation>Renvoie la formule dans une cellule.</translation>
     </message>
     <message>
         <source>ISBLANK(value)</source>
         <comment>ISBLANK_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISBLANK(valeur)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value refers to an empty cell and FALSE otherwise.</source>
         <comment>ISBLANK_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISBLANK</translatorcomment>
         <translation>Renvoie TRUE si une valeur fait référence à une cellule vide et FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>ISERR(value)</source>
         <comment>ISERR_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISERR(valeur)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is an error (#VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #NULL) excluding #N/A; returns FALSE otherwise.</source>
         <comment>ISERR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISERR</translatorcomment>
         <translation>Renvoie TRUE si une valeur est une erreur (#VALUE!, #REF!, #DIV/0!, #NUM!, #NAME? ou #NULL), #N/A exclus ; renvoie FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>ISERROR(value)</source>
         <comment>ISERROR_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISERROR(valeur)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is an error (#N/A, #VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #NULL); returns FALSE otherwise.</source>
         <comment>ISERROR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISERROR</translatorcomment>
         <translation>Renvoie TRUE si une valeur est une erreur (#N/A, #VALUE!, #REF!, #DIV/0!, #NUM!, #NAME? ou #NULL) ; renvoie FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>ISEVEN(value)</source>
         <comment>ISEVEN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISEVEN(valeur)</translation>
     </message>
     <message>
         <source>Returns TRUE if the number is even and FALSE otherwise.</source>
         <comment>ISEVEN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISEVEN</translatorcomment>
         <translation>Renvoie TRUE si le nombre est pair et FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>ISLOGICAL(value)</source>
         <comment>ISLOGICAL_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISLOGICAL(valeur)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is a logical value and FALSE otherwise.</source>
         <comment>ISLOGICAL_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISLOGICAL</translatorcomment>
         <translation>Renvoie TRUE si une valeur est logique et FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>ISNA(value)</source>
         <comment>ISNA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISNA(valeur)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is #N/A and FALSE otherwise.</source>
         <comment>ISNA_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISNA</translatorcomment>
         <translation>Renvoie TRUE si une valeur est #N/A et FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>ISNONTEXT(value)</source>
         <comment>ISNONTEXT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISNONTEXT(valeur)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is not text (blank cells are not text) and FALSE otherwise.</source>
         <comment>ISNONTEXT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISNONTEXT</translatorcomment>
         <translation>Renvoie TRUE si une valeur n&apos;est pas du texte (les cellules vides ne sont pas du texte) et FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>ISNUMBER(value)</source>
         <comment>ISNUMBER_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISNUMBER(valeur)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is a number and FALSE otherwise.</source>
         <comment>ISNUMBER_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISNUMBER</translatorcomment>
         <translation>Renvoie TRUE si une valeur est un nombre et FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>ISODD(value)</source>
         <comment>ISODD_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISODD(valeur)</translation>
     </message>
     <message>
         <source>Returns TRUE if the number is odd and FALSE otherwise.</source>
         <comment>ISODD_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISODD</translatorcomment>
         <translation>Renvoie TRUE si le nombre est impair et FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>ISREF(value)</source>
         <comment>ISREF_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISREF(valeur)</translation>
     </message>
     <message>
         <source>Returns TRUE if the value is a reference and FALSE otherwise.</source>
         <comment>ISREF_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISREF</translatorcomment>
         <translation>Renvoie TRUE si la valeur est une référence et FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>ISTEXT(value)</source>
         <comment>ISTEXT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISTEXT(valeur)</translation>
     </message>
     <message>
         <source>Returns TRUE if the value is text and FALSE otherwise.</source>
         <comment>ISTEXT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISTEXT</translatorcomment>
         <translation>Renvoie TRUE si la valeur est un texte et FALSE dans le cas contraire.</translation>
     </message>
     <message>
         <source>N(value)</source>
         <comment>N_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>N(valeur)</translation>
     </message>
     <message>
         <source>Returns a value that has been converted to a number.</source>
         <comment>N_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;N</translatorcomment>
         <translation>Renvoie une valeur convertie en nombre.</translation>
     </message>
     <message>
         <source>NA()</source>
         <comment>NA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>NA()</translation>
     </message>
     <message>
         <source>Returns the error value #N/A, the abbreviation of &quot;value not available&quot;.</source>
         <comment>NA_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;NA</translatorcomment>
         <translation>Renvoie la valeur d&apos;erreur #N/A, abréviation de « valeur indisponible ».</translation>
     </message>
     <message>
         <source>TYPE(value)</source>
         <comment>TYPE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>TYPE(valeur)</translation>
     </message>
     <message>
         <source>Returns a number representing the data type of a value.</source>
         <comment>TYPE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;TYPE</translatorcomment>
         <translation>Renvoie un nombre représentant le type de données d&apos;une valeur.</translation>
     </message>
     <message>
         <source>DB(cost,salvage,life,period,month)</source>
         <comment>DB_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DB(coût,valeur résiduelle,durée de vie,période,mois)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a specified period using the fixed-declining balance method.</source>
         <comment>DB_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DB</translatorcomment>
         <translation>Renvoie l&apos;amortissement d&apos;un bien durant une période spécifiée en utilisant la méthode de l&apos;amortissement dégressif à taux fixe.</translation>
     </message>
     <message>
         <source>DDB(cost,salvage,life,period,factor)</source>
         <comment>DDB_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DDB(coût,valeur résiduelle,durée de vie,période,facteur)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.</source>
         <comment>DDB_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DDB</translatorcomment>
         <translation>Renvoie l&apos;amortissement d&apos;un bien durant une période spécifiée en utilisant la méthode de l&apos;amortissement dégressif à taux double ou une autre méthode que vous spécifiez.</translation>
     </message>
     <message>
         <source>FV(rate,nper,pmt,pv,type)</source>
         <comment>FV_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>FV(taux,npm,vpm,va,type)</translation>
     </message>
     <message>
         <source>Returns the future value of an investment based on periodic, constant payments and a constant interest rate.</source>
         <comment>FV_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;FV</translatorcomment>
         <translation>Renvoie la valeur future d&apos;un investissement sur la base de paiements constants et réguliers et d&apos;un taux d&apos;intérêt constant.</translation>
     </message>
     <message>
         <source>IPMT(rate,per,nper,pv,fv,type)</source>
         <comment>IPMT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IPMT(taux,par, npm,vpm,va,type)</translation>
     </message>
     <message>
         <source>Returns the amount of interest payment for an investment within a given period, based on periodic, constant payments and a constant interest rate.</source>
         <comment>IPMT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IPMT</translatorcomment>
         <translation>Calcule la part de remboursement d&apos;un investissement, fondée sur des remboursements constants et réguliers, et un taux d&apos;intérêt constant.</translation>
     </message>
     <message>
         <source>IRR(values,guess)</source>
         <comment>IRR_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IRR(valeurs,prédéfini)</translation>
     </message>
     <message>
         <source>Returns the internal rate of return that is represented by numbers for a series of cash flows. </source>
         <comment>IRR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IRR</translatorcomment>
         <translation>Calcule le taux de rentabilité interne représenté par des nombres pour une série de paiements. </translation>
     </message>
     <message>
         <source>ISPMT(rate,per,nper,pv)</source>
         <comment>ISPMT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ISPMT(taux,par,npm,va)</translation>
     </message>
     <message>
         <source>Calculates the interest that should be paid within a specific investment period.</source>
         <comment>ISPMT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ISPMT</translatorcomment>
         <translation>Calcule l&apos;intérêt qui devrait être payé sur une période d&apos;investissement spécifique.</translation>
     </message>
     <message>
         <source>MIRR(values,finance_rate,reinvest_rate)</source>
         <comment>MIRR_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>MIRR(valeurs,taux_finance,taux_réinvestissement)</translation>
     </message>
     <message>
         <source>Returns the modified internal rate of return for the given periodic cash flows. MIRR takes both the cost of the investment and the interest received on reinvestment of cash into account.</source>
         <comment>MIRR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;MIRR</translatorcomment>
         <translation>Renvoie le taux de rentabilité interne modifié de paiements périodiques donnés. MIRR prend en compte à la fois le coût de l&apos;investissement et celui de l&apos;intérêt sur le réinvestissement des liquidités.</translation>
     </message>
     <message>
         <source>NPER(rate, pmt, pv, fv, type)</source>
         <comment>NPER_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>NPER(taux, vpm, va, vc, type)</translation>
     </message>
     <message>
         <source>Returns the number of payment periods for an investment based on periodic, constant payments and a constant interest rate.</source>
         <comment>NPER_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;NPER</translatorcomment>
         <translation>Renvoie le nombre total de remboursements d&apos;un investissement sur la base de paiements constants et réguliers et d&apos;un taux d&apos;intérêt constant.</translation>
     </message>
     <message>
         <source>NPV(rate,value1,value2, ...)</source>
         <comment>NPV_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>NPV(taux,valeur1,valeur2, ...)</translation>
     </message>
     <message>
         <source>Returns the net present value of an investment, using a discount rate and a series of future periodic payments and income.</source>
         <comment>NPV_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;NPV</translatorcomment>
         <translation>Calcule la valeur actuelle nette d&apos;un investissement s&apos;appuyant sur un taux d&apos;escompte et une série de remboursements futurs et de crédits.</translation>
     </message>
     <message>
         <source>PMT(rate,nper,pv,fv,type)</source>
         <comment>PMT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>PMT(taux,npm,va,vc,type)</translation>
     </message>
     <message>
         <source>Returns the amount of payment for a loan based on constant payments and a constant interest rate.</source>
         <comment>PMT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;PMT</translatorcomment>
         <translation>Calcule le montant du remboursement d&apos;un emprunt, fondée sur des remboursements constants et réguliers, et un taux d&apos;intérêt constant.</translation>
     </message>
     <message>
         <source>PPMT(rate,per,nper,pv,fv,type)</source>
         <comment>PPMT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>PPMT(taux,par,npm,va,vc,type)</translation>
     </message>
     <message>
         <source>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</source>
         <comment>PPMT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;PPMT</translatorcomment>
         <translation>Renvoie, pour une période donnée, le remboursement du capital d&apos;un investissement sur la base de paiements constants et réguliers et d&apos;un taux d&apos;intérêt constant.</translation>
     </message>
     <message>
         <source>PV(rate,nper,pmt,fv,type)</source>
         <comment>PV_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>PV(taux,npm,vpm,vc,type)</translation>
     </message>
     <message>
         <source>Returns the present value of an investment, calculating from a series of future payments.</source>
         <comment>PV_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;PV</translatorcomment>
         <translation>Renvoie la valeur actuelle d&apos;un investissement, en basant le calcul sur une série de remboursements à venir.</translation>
     </message>
     <message>
         <source>RATE(nper,pmt,pv,fv,type,guess)</source>
         <comment>RATE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>RATE(npm,vpm,va,vc,type,prédéfini)</translation>
     </message>
     <message>
         <source>Returns the interest rate per period of an annuity.</source>
         <comment>RATE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;RATE</translatorcomment>
         <translation>Renvoie le taux d&apos;intérêt par période d&apos;une rente.</translation>
     </message>
     <message>
         <source>SLN(cost,salvage,life)</source>
         <comment>SLN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>SLN(coût,valeur résiduelle,durée de vie)</translation>
     </message>
     <message>
         <source>Returns the linear depreciation of an asset per period.</source>
         <comment>SLN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;SLN</translatorcomment>
         <translation>Renvoie l&apos;amortissement linéaire d&apos;un actif par période.</translation>
     </message>
     <message>
         <source>SYD(cost,salvage,life,per)</source>
         <comment>SYD_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>SYD(coût,valeur résiduelle,durée de vie,par)</translation>
     </message>
     <message>
         <source>Returns the sum-of-years&apos; digits depreciation of an asset for a specified period, which is based on its cost, salvage value and anticipated life.</source>
         <comment>SYD_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;SYD</translatorcomment>
         <translation>Calcule l&apos;amortissement d&apos;un bien pour une période donnée sur la base de la méthode américaine Sum-of-Years Digits qui s&apos;appuie sur son coût, sa valeur résiduelle et sa durée de vie anticipée.</translation>
     </message>
     <message>
         <source>VDB(cost,salvage,life,start_period,end_period,factor,no_switch)</source>
         <comment>VDB_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>VDB(coût,valeur résiduelle,durée de vie,période_début,période_fin,facteur,pas_bascul)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a given period or partial period using the double-declining balance method or some other method you specify.</source>
         <comment>VDB_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;VDB</translatorcomment>
         <translation>Renvoie l&apos;amortissement d&apos;un bien durant une période donnée ou une période partielle en utilisant la méthode de l&apos;amortissement dégressif à taux double ou une autre méthode que vous spécifiez.</translation>
     </message>
     <message>
         <source>FACTDOUBLE(number)</source>
         <comment>FACTDOUBLE_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>FACTDOUBLE(nombre)</translation>
     </message>
     <message>
         <source>Returns the double factorial of a number.</source>
         <comment>FACTDOUBLE_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;FACTDOUBLE</translatorcomment>
         <translation>Renvoie la factorielle double d&apos;un nombre.</translation>
     </message>
     <message>
         <source>MROUND(number,multiple)</source>
         <comment>MROUND_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>MROUND(nombre,multiple)</translation>
     </message>
     <message>
         <source>Returns a given number rounded to a special multiple.</source>
         <comment>MROUND_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;MROUND</translatorcomment>
         <translation>Renvoie un nombre donné arrondi à un multiple spécial.</translation>
     </message>
     <message>
         <source>MULTINOMIAL(number1,number2, ...)</source>
         <comment>MULTINOMIAL_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>MULTINOMIAL(nombre1,nombre2, ...)</translation>
     </message>
     <message>
         <source>Returns the ratio of the factorial of a sum of values to the product of the factorials.</source>
         <comment>MULTINOMIAL_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;MULTINOMIAL</translatorcomment>
         <translation>Renvoie le ratio de la factorielle d&apos;une somme de valeurs au produit des factorielles.</translation>
     </message>
     <message>
         <source>QUOTIENT(numerator,denominator)</source>
         <comment>QUOTIENT_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>QUOTIENT(numérateur,dénominateur)</translation>
     </message>
     <message>
         <source>Returns the integer portion of a division. When using this function, you can discard the remainder of a division.</source>
         <comment>QUOTIENT_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;QUOTIENT</translatorcomment>
         <translation>Renvoie la partie entière du résultat d&apos;une division. Lorsque vous utilisez cette fonction, vous pouvez ignorer le reste de la division.</translation>
     </message>
     <message>
         <source>BESSELI(x,n)</source>
         <comment>BESSELI_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>BESSELI(x,n)</translation>
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
         <comment>BESSELI_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;BESSELI</translatorcomment>
         <translation>Renvoie la fonction de Bessel modifiée qui correspond à la fonction de Bessel évaluée aux fins d&apos;arguments purement imaginaires.</translation>
     </message>
     <message>
         <source>BESSELJ(x,n)</source>
         <comment>BESSELJ_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>BESSELJ(x,n)</translation>
     </message>
     <message>
         <source>Returns the Bessel function.</source>
         <comment>BESSELJ_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;BESSELJ</translatorcomment>
         <translation>Renvoie la fonction de Bessel.</translation>
     </message>
     <message>
         <source>BESSELK(x,n)</source>
         <comment>BESSELK_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>BESSELK(x,n)</translation>
     </message>
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel functions evaluated for purely imaginary arguments.</source>
         <comment>BESSELK_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;BESSELK</translatorcomment>
         <translation>Renvoie la fonction de Bessel modifiée qui correspond aux fonctions de Bessel évaluées aux fins d&apos;arguments purement imaginaires.</translation>
     </message>
     <message>
         <source>BESSELY(x,n)</source>
         <comment>BESSELY_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>BESSELY(x,n)</translation>
     </message>
     <message>
         <source>Returns the Bessel function(also called the Weber function or the Neumann function).</source>
         <comment>BESSELY_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;BESSELY</translatorcomment>
         <translation>Renvoie la fonction de Bessel (également appelée la fonction de Weber ou de Neumann).</translation>
     </message>
     <message>
         <source>BIN2DEC(number)</source>
         <comment>BIN2DEC_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>BIN2DEC(nombre)</translation>
     </message>
     <message>
         <source>Converts a binary number to decimal.</source>
         <comment>BIN2DEC_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;BIN2DEC</translatorcomment>
         <translation>Convertit un nombre binaire en nombre décimal.</translation>
     </message>
     <message>
         <source>BIN2HEX(number,places)</source>
         <comment>BIN2HEX_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>BIN2HEX(nombre,décimales)</translation>
     </message>
     <message>
         <source>Converts a binary number to hexadecimal.</source>
         <comment>BIN2HEX_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;BIN2HEX</translatorcomment>
         <translation>Convertit un nombre binaire en nombre hexadécimal.</translation>
     </message>
     <message>
         <source>BIN2OCT(number,places)</source>
         <comment>BIN2OCT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>BIN2OCT(nombre,décimales)</translation>
     </message>
     <message>
         <source>Converts a binary number to octal.</source>
         <comment>BIN2OCT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;BIN2OCT</translatorcomment>
         <translation>Convertit un nombre binaire en nombre octal.</translation>
     </message>
     <message>
         <source>COMPLEX(real_num,i_num,suffix)</source>
         <comment>COMPLEX_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>COMPLEX(nom_réel,nom_i,suffixe)</translation>
     </message>
     <message>
         <source>Converts real and imaginary coefficients to a complex number with the form of x + yi or x + yj.</source>
         <comment>COMPLEX_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;COMPLEX</translatorcomment>
         <translation>Convertit des coefficients réels et imaginaires en un nombre complexe ayant la forme suivante : x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>CONVERT(number,from_unit,to_unit)</source>
         <comment>CONVERT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>CONVERT(nombre,depuis_unite,vers_unité)</translation>
     </message>
     <message>
         <source>Converts a number from one measurement system to another.</source>
         <comment>CONVERT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;CONVERT</translatorcomment>
         <translation>Convertit un nombre d&apos;un système de mesure à l&apos;autre.</translation>
     </message>
     <message>
         <source>DEC2BIN(number,places)</source>
         <comment>DEC2BIN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DEC2BIN(nombre,décimales)</translation>
     </message>
     <message>
         <source>Converts a decimal number to binary.</source>
         <comment>DEC2BIN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DEC2BIN</translatorcomment>
         <translation>Convertit un nombre décimal en nombre binaire.</translation>
     </message>
     <message>
         <source>DEC2HEX(number,places)</source>
         <comment>DEC2HEX_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DEC2HEX(nombre,décimales)</translation>
     </message>
     <message>
         <source>Converts a decimal number to hexadecimal.</source>
         <comment>DEC2HEX_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DEC2HEX</translatorcomment>
         <translation>Convertit un nombre décimal en nombre hexadécimal.</translation>
     </message>
     <message>
         <source>DEC2OCT(number,places)</source>
         <comment>DEC2OCT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DEC2OCT(nombre,décimales)</translation>
     </message>
     <message>
         <source>Converts a decimal number to octal.</source>
         <comment>DEC2OCT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DEC2OCT</translatorcomment>
         <translation>Convertit un nombre décimal en nombre octal.</translation>
     </message>
     <message>
         <source>DELTA(number1,number2)</source>
         <comment>DELTA_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DELTA(nombre1,nombre2)</translation>
     </message>
     <message>
         <source>Tests if two values are equal. </source>
         <comment>DELTA_REMARK</comment>
-        <translation>Test si deux valeurs sont égales. </translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DELTA</translatorcomment>
+        <translation>Teste si deux valeurs sont égales. </translation>
     </message>
     <message>
         <source>ERF(lower_limit,upper_limit)</source>
         <comment>ERF_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ERF(limite_inférieure,limite_supérieure)</translation>
     </message>
     <message>
         <source>Returns the error function whose integral is between lower_limit and upper_limit.</source>
         <comment>ERF_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ERF</translatorcomment>
         <translation>Renvoie la fonction d&apos;erreur dont l&apos;entier se situe entre la limite_inférieure et la limite_supérieure.</translation>
     </message>
     <message>
         <source>ERFC(x)</source>
         <comment>ERFC_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ERFC(x)</translation>
     </message>
     <message>
         <source>Returns the complementary ERF function whose integral is between x and infinity.</source>
         <comment>ERFC_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ERFC</translatorcomment>
         <translation>Renvoie la fonction ERF complémentaire dont l&apos;entier se situe entre x et l&apos;infini.</translation>
     </message>
     <message>
         <source>GESTEP(number,step)</source>
         <comment>GESTEP_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>GESTEP(nombre,pas)</translation>
     </message>
     <message>
         <source>Returns 1 if number ≥ step and 0 (zero) otherwise. </source>
         <comment>GESTEP_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;GESTEP</translatorcomment>
         <translation>Renvoie 1 si le nombre ≥ au pas et 0 (zéro) dans le cas contraire. </translation>
     </message>
     <message>
         <source>HEX2BIN(number,places)</source>
         <comment>HEX2BIN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>HEX2BIN(nombre,décimales)</translation>
     </message>
     <message>
         <source>Converts a hexadecimal number to binary.</source>
         <comment>HEX2BIN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;HEX2BIN</translatorcomment>
         <translation>Convertit un nombre hexadécimal en nombre binaire.</translation>
     </message>
     <message>
         <source>HEX2DEC(number)</source>
         <comment>HEX2DEC_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>HEX2DEC(nombre)</translation>
     </message>
     <message>
         <source>Converts a hexadecimal number to decimal.</source>
         <comment>HEX2DEC_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;HEX2DEC</translatorcomment>
         <translation>Convertit un nombre hexadécimal en nombre décimal.</translation>
     </message>
     <message>
         <source>HEX2OCT(number,places)</source>
         <comment>HEX2OCT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>HEX2OCT(nombre,décimales)</translation>
     </message>
     <message>
         <source>Converts a hexadecimal number to octal.</source>
         <comment>HEX2OCT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;HEX2OCT</translatorcomment>
         <translation>Convertit un nombre hexadécimal en nombre octal.</translation>
     </message>
     <message>
         <source>IMAGINARY(inumber)</source>
         <comment>IMAGINARY_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMAGINARY(nombrei)</translation>
     </message>
     <message>
         <source>Returns the imaginary coefficient of a complex number in x + yi or x + yj text format.</source>
         <comment>IMAGINARY_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMAGINARY</translatorcomment>
         <translation>Renvoie le coefficient imaginaire d&apos;un nombre complexe au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMARGUMENT(inumber)</source>
         <comment>IMARGUMENT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMARGUMENT(nombrei)</translation>
     </message>
     <message>
         <source>Returns the argument θ(theta), which is an angle expressed in radians.</source>
         <comment>IMARGUMENT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMARGUMENT</translatorcomment>
         <translation>Renvoie l&apos;argument θ (thêta) qui correspond à un angle exprimé en radians.</translation>
     </message>
     <message>
         <source>IMCONJUGATE(inumber)</source>
         <comment>IMCONJUGATE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMCONJUGATE(nombrei)</translation>
     </message>
     <message>
         <source>Returns the complex conjugate of a complex number in x + yi or x + yj text format.</source>
         <comment>IMCONJUGATE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMCONJUGATE</translatorcomment>
         <translation>Renvoie le conjugué d&apos;un nombre complexe au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMCOS(inumber)</source>
         <comment>IMCOS_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMCOS(nombrei)</translation>
     </message>
     <message>
         <source>Returns the cosine of a complex number in x + yi or x + yj text format.</source>
         <comment>IMCOS_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMCOS</translatorcomment>
         <translation>Renvoie le cosinus d&apos;un nombre complexe au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMDIV(inumber1,inumber2)</source>
         <comment>IMDIV_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMDIV(nombrei1,nombrei2)</translation>
     </message>
     <message>
         <source>Calculates the quotient of two complex numbers in x + yi or x + yj text format.</source>
         <comment>IMDIV_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMDIV</translatorcomment>
         <translation>Calcule le quotient de deux nombres complexes au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMEXP(inumber)</source>
         <comment>IMEXP_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMEXP(nombrei)</translation>
     </message>
     <message>
         <source>Calculates the exponential of a complex number in x + yi or x + yj text format.</source>
         <comment>IMEXP_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMEXP</translatorcomment>
         <translation>Calcule l&apos;exponentiel d&apos;un nombre complexe au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMLN(inumber)</source>
         <comment>IMLN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMLN(nombrei)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of a complex number in x + yi or x + yj text format</source>
         <comment>IMLN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMLN</translatorcomment>
         <translation>Renvoie le logarithme népérien d&apos;un nombre complexe au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMLOG10(inumber)</source>
         <comment>IMLOG10_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMLOG10(nombrei)</translation>
     </message>
     <message>
         <source>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</source>
         <comment>IMLOG10_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMLOG10</translatorcomment>
         <translation>Renvoie le logarithme commun (en base 10) d&apos;un nombre complexe au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMLOG2(inumber)</source>
         <comment>IMLOG2_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMLOG2(nombrei)</translation>
     </message>
     <message>
         <source>Returns the base-2 logarithm of a complex number in x + yi or x + yj text format.</source>
         <comment>IMLOG2_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMLOG2</translatorcomment>
         <translation>Renvoie le logarithme en base 2 d&apos;un nombre complexe au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMPOWER(inumber,number)</source>
         <comment>IMPOWER_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMPOWER(nombrei,nombre)</translation>
     </message>
     <message>
         <source>Calculates a complex number in x + yi or x + yj text format raised to a power.</source>
         <comment>IMPOWER_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMPOWER</translatorcomment>
         <translation>Calcule un nombre complexe au format texte x + yi ou x + yj élevé à une puissance.</translation>
     </message>
     <message>
         <source>IMPRODUCT(inumber1,inumber2,...)</source>
         <comment>IMPRODUCT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMPRODUCT(nombrei1,nombrei2,...)</translation>
     </message>
     <message>
         <source>Calculates the product of complex numbers in x + yi or x + yj text format.</source>
         <comment>IMPRODUCT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMPRODUCT</translatorcomment>
         <translation>Calcule le produit de nombres complexes au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMREAL(inumber)</source>
         <comment>IMREAL_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMREAL(nombrei)</translation>
     </message>
     <message>
         <source>Returns the real coefficient of a complex number in x + yi or x + yj text format.</source>
         <comment>IMREAL_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMREAL</translatorcomment>
         <translation>Renvoie le coefficient réel d&apos;un nombre complexe au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMSIN(inumber)</source>
         <comment>IMSIN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMSIN(nombrei)</translation>
     </message>
     <message>
         <source>Returns the sine of a complex number in x + yi or x + yj text format</source>
         <comment>IMSIN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMSIN</translatorcomment>
         <translation>Renvoie le sinus d&apos;un nombre complexe au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMSQRT(inumber)</source>
         <comment>IMSQRT_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMSQRT(nombrei)</translation>
     </message>
     <message>
         <source>Returns the square root of a complex number in x + yi or x + yj text format.</source>
         <comment>IMSQRT_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMSQRT</translatorcomment>
         <translation>Renvoie la racine carrée d&apos;un nombre complexe au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
@@ -5702,56 +6637,67 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>Returns the difference of two complex numbers in x + yi or x + yj text format.</source>
         <comment>IMSUB_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMSUB</translatorcomment>
         <translation>Renvoie la différence entre deux nombres complexes au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>IMSUM(inumber1,inumber2,...)</source>
         <comment>IMSUM_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMSUM(nombrei1,nombrei2,...)</translation>
     </message>
     <message>
         <source>Returns the sum of two or more complex numbers in x + yi or x + yj text format.</source>
         <comment>IMSUM_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMSUM</translatorcomment>
         <translation>Renvoie la somme de deux nombres complexes au format texte x + yi ou x + yj.</translation>
     </message>
     <message>
         <source>OCT2BIN(number,places)</source>
         <comment>OCT2BIN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>OCT2BIN(nombre,décimales)</translation>
     </message>
     <message>
         <source>Converts an octal number to binary.</source>
         <comment>OCT2BIN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;OCT2BIN</translatorcomment>
         <translation>Convertit un nombre octal en nombre binaire.</translation>
     </message>
     <message>
         <source>OCT2DEC(number)</source>
         <comment>OCT2DEC_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>OCT2DEC(nombre)</translation>
     </message>
     <message>
         <source>Converts an octal number to decimal.</source>
         <comment>OCT2DEC_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;OCT2DE</translatorcomment>
         <translation>Convertit un nombre octal en nombre décimal.</translation>
     </message>
     <message>
         <source>OCT2HEX(number,places)</source>
         <comment>OCT2HEX_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>OCT2HEX(nombre,décimales)</translation>
     </message>
     <message>
         <source>Converts an octal number to hexadecimal.</source>
         <comment>OCT2HEX_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;OCT2HEX</translatorcomment>
         <translation>Convertit un nombre octal en nombre hexadécimal.</translation>
     </message>
     <message>
         <source>IMABS(inumber)</source>
         <comment>IMABS_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IMABS(nombrei)</translation>
     </message>
     <message>
         <source>Returns the absolute value (modulus) of a complex number.</source>
         <comment>IMABS_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IMABS</translatorcomment>
         <translation>Renvoie la valeur absolue d&apos;un nombre complexe.</translation>
     </message>
     <message>
@@ -5762,551 +6708,661 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>Rounds a number to the specified number of decimals in decimal format and returns the result as text with or without commas.</source>
         <comment>FIXED_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;FIXED</translatorcomment>
         <translation>Arrondit un nombre aux nombre de décimales spécifié au format décimal et renvoie le résultat sous forme de texte avec ou sans virgule.</translation>
     </message>
     <message>
         <source>LENB(text)</source>
         <comment>LENB_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>LENB(texte)</translation>
     </message>
     <message>
         <source>Returns the number of charcters in the text. Use with double-byte characters(DBCS).</source>
         <comment>LENB_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;LENB</translatorcomment>
         <translation>Renvoie le nombre de caractères contenus dans le texte. À utiliser avec les caractères codés sur deux octets (DBCS).</translation>
     </message>
     <message>
         <source>FINDB(find_text,within_text,start_num)</source>
         <comment>FINDB_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>FINDB(trouver_texte,dans_texte,nom_début)</translation>
     </message>
     <message>
         <source>Searches another text string&apos;s starting location in one text string. FINDB is case-sensitive and doesn&apos;t allow to use wildcard. Use with double-byte characters(DBCS).</source>
         <comment>FINDB_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;FINDB</translatorcomment>
         <translation>Recherche l&apos;emplacement de départ d&apos;une autre chaîne de texte dans une chaîne. FINDB est sensible à la casse et n&apos;autorise pas l&apos;utilisation de caractères génériques. À utiliser avec les caractères codés sur deux octets (DBCS).</translation>
     </message>
     <message>
         <source>LEFTB(text,num_bytes)</source>
         <comment>LEFTB_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>LEFTB(texte,nom_octets)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the leftmost appointed location of a text string. Use with double-byte character set(DBCS).</source>
         <comment>LEFTB_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;LEFTB</translatorcomment>
         <translation>Renvoie le nombre de caractères spécifié depuis l&apos;emplacement de gauche désigné d&apos;une chaîne de texte. À utiliser avec les jeux de caractères codés sur deux octets (DBCS).</translation>
     </message>
     <message>
         <source>MIDB(text,start_num,num_bytes)</source>
         <comment>MIDB_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>MIDB(texte,nom_début,nom_octets)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the appointed location of a text string. Use with double-byte character set(DBCS).</source>
         <comment>MIDB_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;MIDB</translatorcomment>
         <translation>Renvoie le nombre de caractères spécifié depuis l&apos;emplacement désigné d&apos;une chaîne de texte. À utiliser avec les jeux de caractères codés sur deux octets (DBCS).</translation>
     </message>
     <message>
         <source>REPLACEB(old_text,start_num,num_bytes,new_text)</source>
         <comment>REPLACEB_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>REPLACEB(ancien_texte,nom_début,nom_octets,nouveau_texte)</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string. Use with double-byte character set(DBCS).</source>
         <comment>REPLACEB_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;REPLACEB</translatorcomment>
         <translation>Remplace les caractères d&apos;une chaîne de texte avec une autre chaîne de texte. À utiliser avec les jeux de caractères codés sur deux octets (DBCS).</translation>
     </message>
     <message>
         <source>RIGHTB(text,num_bytes)</source>
         <comment>RIGHTB_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>RIGHTB(texte,nom_octets)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the last character of a text string. Use with double-byte character set(DBCS).</source>
         <comment>RIGHTB_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;RIGHTB</translatorcomment>
         <translation>Renvoie le nombre de caractères spécifié depuis le dernier caractère d&apos;une chaîne de texte. À utiliser avec les jeux de caractères codés sur deux octets (DBCS).</translation>
     </message>
     <message>
         <source>SEARCHB(find_text,within_text,start_num)</source>
         <comment>SEARCHB_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>SEARCHB(trouver_texte,dans_texte,nom_début)</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
         <comment>SEARCHB_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;SEARCHB</translatorcomment>
         <translation>Renvoie le premier emplacement trouvé du caractère ou de la chaîne spécifiée au sein d&apos;une chaîne de texte, à partir de la gauche (non sensible à la casse). À utiliser avec les jeux de caractères codés sur deux octets (DBCS).</translation>
     </message>
     <message>
         <source>WIDECHAR(text)</source>
         <comment>WIDECHAR_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>WIDECHAR(texte)</translation>
     </message>
     <message>
         <source>converts half-width (single-byte) characters to full-width (double-byte) characters.Use with double-byte character set(DBCS).</source>
         <comment>WIDECHAR_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;WIDECHAR</translatorcomment>
         <translation>Convertit une chaîne de caractères codés sur un octet en chaîne de caractères codés sur deux octets. À utiliser avec les jeux de caractères codés sur deux octets (DBCS).</translation>
     </message>
     <message>
         <source>CLEAN(text)</source>
         <comment>CLEAN_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>CLEAN(texte)</translation>
     </message>
     <message>
         <source>Removes all nonprintable characters from text.</source>
         <comment>CLEAN_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;CLEAN</translatorcomment>
         <translation>Supprime du texte tous les caractères qui ne doivent pas apparaître à l&apos;impression.</translation>
     </message>
     <message>
         <source>T(value)</source>
         <comment>T_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>T(valeur)</translation>
     </message>
     <message>
         <source>Returns the text that value refers to.</source>
         <comment>T_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;T</translatorcomment>
         <translation>Renvoie le texte auquel la valeur fait référence.</translation>
     </message>
     <message>
         <source>DAYS360(start_date,end_date,method)</source>
         <comment>DAYS360_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DAYS360(date_début,date_fin,méthode)</translation>
     </message>
     <message>
         <source>Returns the number of days between two dates based on a 360-day year (30 days a month, 12 months a year),which is used in some accounting calculations. Use this function to help compute payments if your accounting system is based on 30 days a month and 12 months a year.</source>
         <comment>DAYS360_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DAY360</translatorcomment>
         <translation>Renvoie le nombre de jours entre deux dates basées sur une année de 360 jours (30 jours par mois, 12 mois par an) qui est utilisé dans certains calculs comptables. Utilise cette fonction pour permettre le calcul des paiements si votre système comptable est basé sur des mois de 30 jours et des années de 12 mois.</translation>
     </message>
     <message>
         <source>EOMONTH(start_date,months)</source>
         <comment>EOMONTH_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>EOMONTH(date_début,mois)</translation>
     </message>
     <message>
         <source>Returns the serial number for the last day of the month that is the indicated number of month before or after start_date. Use EOMONTH to calculate maturity dates that fall on the last day of the month.</source>
         <comment>EOMONTH_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;EOMONTH</translatorcomment>
         <translation>Renvoie le numéro de série du dernier jour du mois qui correspond au numéro du mois indiqué avant ou après la date_début. Utilisez EOMONTH pour calculer les dates d&apos;échéance qui surviennent le dernier jour du mois.</translation>
     </message>
     <message>
         <source>EDATE(start_date,months)</source>
         <comment>EDATE_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>EDATE(date_début,mois)</translation>
     </message>
     <message>
         <source>Returns the serial number that represents the date that is the indicated number of months before or after a date (the start_date). Use EDATE function to calculate the maturity dates that fall on the same day of the month as the date of issue.</source>
         <comment>EDATE_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;EDATE</translatorcomment>
         <translation>Renvoie le numéro de série qui représente la date correspondant au nombre de mois indiqué avant ou après une date (la date_début). Utilisez la fonction EDATE pour calculer les dates d&apos;échéance qui surviennent le même jour du mois que la date démission.</translation>
     </message>
     <message>
         <source>WORKDAY(start_date,days,holidays)</source>
         <comment>WORKDAY_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>WORKDAY(date_début,jours,jours fériés)</translation>
     </message>
     <message>
         <source>Returns a date that represents a date that is the indicated number of working days before or after a date (the starting date). The weekend and the dates specified as holidays are not included in working days. Use WORKDAY function to exclude weekend or holidays when you calculate invoice due dates, expected delivery date or the number of days you worked.</source>
         <comment>WORKDAY_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;WORKDAY</translatorcomment>
         <translation>Renvoie une date qui représente une date correspondant au nombre de jours ouvrés indiqué avant ou après une date (la date de début). Les week-ends et les dates désignées comme des jours fériés ne sont pas inclus dans les jours ouvrés. Utilisez la fonction WORKDAY pour exclure les week-ends ou les jours fériés lorsque vous calculez les dates d&apos;échéance des factures, les dates de livraison attendues ou le nombre de jours auxquels vous avez travaillé..</translation>
     </message>
     <message>
         <source>YEARFRAC(start_date,end_date,basis)</source>
         <comment>YEARFRAC_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>YEARFRAC(date_début,date_fin,base)</translation>
     </message>
     <message>
         <source>Returns the percentage of the year represented by the number of whole days between two dates (the start_date and end_date). Use YEARFRAC function to identify the proportion of a whole year&apos;s benefits or obligations under some specified condition.</source>
         <comment>YEARFRAC_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;YEARFRAC</translatorcomment>
         <translation>Renvoie le pourcentage de l&apos;année représentée par le nombre de jours entiers entre deux dates (la date_début et la date_fin). Utilisez la fonction YEARFRAC pour identifier la proportion d&apos;avantages ou d&apos;obligations dans une année complète dans certaines conditions spécifiées.</translation>
     </message>
     <message>
         <source>TRANSPOSE(array)</source>
         <comment>TRANSPOSE_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>TRANSPOSE(matrice)</translation>
     </message>
     <message>
         <source>Returns a horizontal range of cells as a vertical range, or vice versa. TRANSPOSE must be entered as an array formula in the range that has the same numbers of rows or columns respectively with those of an array. Use TRANSPOSE to shift the vertical or horizontal orientation of an array in the worksheet.</source>
         <comment>TRANSPOSE_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;TRANSPOSE</translatorcomment>
         <translation>Renvoie une plage de cellules horizontale sous forme de plage verticale ou inversement. TRANSPOSE doit être entrée comme formule matricielle dans la plage ayant respectivement le même nombre de lignes ou de colonnes que celles d&apos;une matrice. Utilisez TRANSPOSE pour basculer vers l&apos;orientation verticale ou horizontale d&apos;une matrice de la feuille de calcul.</translation>
     </message>
     <message>
         <source>MMULT(array1,array2)</source>
         <comment>MMULT_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>MMULT(matrice1,matrice2)</translation>
     </message>
     <message>
         <source>Returns the matrix product of two arrays. The result is that the array has the same number of rows with array 1 and the same number of columns with array 2.</source>
         <comment>MMULT_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;MMULT</translatorcomment>
         <translation>Renvoie le produit de deux matrices. Le résultat obtenu correspond à une matrice avec le même nombre de lignes que la matrice 1 et de colonnes que la matrice 2</translation>
     </message>
     <message>
         <source>MINVERSE(array)</source>
         <comment>MINVERSE_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>MINVERSE(matrice)</translation>
     </message>
     <message>
         <source>MDETERM(array)</source>
         <comment>MDETERM_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>MDETERM(matrice)</translation>
     </message>
     <message>
         <source>Returns a matrix determinant of an array.</source>
         <comment>MDETERM_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;MDETERM</translatorcomment>
         <translation>Renvoie le déterminant d&apos;une matrice.</translation>
     </message>
     <message>
         <source>Returns the inverse matrix for the matrix stored in an array.</source>
         <comment>MINVERSE_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;MINVERSE</translatorcomment>
         <translation>Renvoie la matrice inverse de celle stockée dans une matrice.</translation>
     </message>
     <message>
         <source>DCOUNT(database,field,criteria)</source>
         <comment>DCOUNT_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DCOUNT(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Returns the number of cells containing numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DCOUNT_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DCOUNT</translatorcomment>
         <translation>Renvoie le nombre de cellules contenant des nombres dans la colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>DCOUNTA(database,field,criteria)</source>
         <comment>DCOUNTA_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DCOUNTA(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Returns the number of nonblank cells in the column of a list or database that matches the conditions you specify.</source>
         <comment>DCOUNTA_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DCOUNTA</translatorcomment>
         <translation>Renvoie le nombre de cellules non vides dans la colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>DAVERAGE(database,field,criteria)</source>
         <comment>DAVERAGE_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DAVERAGE(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Averages the values in a column in a list or database that match conditions you specify.</source>
         <comment>DAVERAGE_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DAVERAGE</translatorcomment>
         <translation>Calcule la moyenne des valeurs dans une colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>DGET(database,field,criteria)</source>
         <comment>DGET_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DGET(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Extracts a single value in the column of a list or database that matches the conditions you specify.</source>
         <comment>DGET_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DGET</translatorcomment>
         <translation>Extrait une valeur unique de la colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>DMAX(database,field,criteria)</source>
         <comment>DMAX_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DMAX(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Returns the largest value in the column of a list or database that matches the conditions you specify.</source>
         <comment>DMAX_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DMAX</translatorcomment>
         <translation>Renvoie la valeur la plus grande de la colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>DMIN(database,field,criteria)</source>
         <comment>DMIN_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DMIN(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Returns the smallest number in the column of a list or database that matches the conditions you specify.</source>
         <comment>DMIN_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DMIN</translatorcomment>
         <translation>Renvoie la valeur la plus petite de la colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>DPRODUCT(database,field,criteria)</source>
         <comment>DPRODUCT_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DPRODUCT(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Returns the product of the values in the column of a list or database that matches the conditions you specify.</source>
         <comment>DPRODUCT_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;PRODUCT</translatorcomment>
         <translation>Renvoie le produit des valeurs de la colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>DSTDEV(database,field,criteria)</source>
         <comment>DSTDEV_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DSTDEV(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Estimates the standard deviation of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DSTDEV_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DSTDEV</translatorcomment>
         <translation>Évalue l&apos;écart-type à partir d&apos;un échantillon de population à l&apos;aide des nombres de la colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>DSTDEVP(database,field,criteria)</source>
         <comment>DSTDEVP_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DSTDEVP(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Calculates the standard deviation of a population based on an entire population by using the numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DSTDEVP_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DSTDEVP</translatorcomment>
         <translation>Calcule l&apos;écart-type à partir d&apos;un échantillon de population basé sur une population entière à l&apos;aide des nombres de la colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>DSUM(database,field,criteria)</source>
         <comment>DSUM_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DSUM(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Returns the sum of the numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DSUM_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DSUM</translatorcomment>
         <translation>Renvoie la somme des nombres de la colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>DVAR(database,field,criteria)</source>
         <comment>DVAR_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DVAR(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Estimates the variance of the population based on a sample by using the numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DVAR_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DVAR</translatorcomment>
         <translation>Évalue la variance à partir d&apos;un échantillon de population à l&apos;aide des nombres de la colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>DVARP(database,field,criteria)</source>
         <comment>DVARP_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DVARP(base de données,champ,critères)</translation>
     </message>
     <message>
         <source>Calculate the variance of a population based on an entire population by using the numbers in the column of a list or database that matches the conditions you specify.</source>
         <comment>DVARP_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DVARP</translatorcomment>
         <translation>Calcule la variance à partir d&apos;un échantillon de population basé sur une population entière à l&apos;aide des nombres de la colonne d&apos;une liste ou une base de données respectant les conditions que vous avez spécifiées.</translation>
     </message>
     <message>
         <source>LOGEST(known_y&apos;s,known_x&apos;s,const,stats)</source>
         <comment>LOGEST_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>LOGEST(y_connus, x_connus,const,stats)</translation>
     </message>
     <message>
         <source>In regression analysis, calculate an exponential curve that fits the data most and return an array of values that describe the curve. Since the function returns an array of values, it must be entered as an array formula.</source>
         <comment>LOGEST_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;LOGEST</translatorcomment>
         <translation>Pour l&apos;analyse de la régression, calcule une courbe exponentielle correspondant le plus aux données et renvoie une matrice de valeurs décrivant la courbe. Du fait que cette fonction renvoie une matrice de valeurs, elle doit être entrée comme une formule matricielle.</translation>
     </message>
     <message>
         <source>TREND(known_y&apos;s,known_x&apos;s,new_x&apos;s,const)</source>
         <comment>TREND_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>TREND(y_connus, x_connus,nouveaux_x,const)</translation>
     </message>
     <message>
         <source>Predicts the linear increasing amount based on the current data.</source>
         <comment>TREND_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;TREND</translatorcomment>
         <translation>Prédit le volume croissant linéaire en fonction des données actuelles.</translation>
     </message>
     <message>
         <source>ACCRINTM(issue,settlement,rate,par,basis)</source>
         <comment>ACCRINTM_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ACCRINTM(émission,escompte,taux,nomin,base)</translation>
     </message>
     <message>
         <source>Returns the interests of the securities whose interests should be paid off once the time is due.</source>
         <comment>ACCRINTM_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ACCRINTM</translatorcomment>
         <translation>Renvoie les intérêts des titres devant être versés le moment venu.</translation>
     </message>
     <message>
         <source>DATEDIF(start_date,end_date,unit)</source>
         <comment>DATEDIF_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DATEDIF(date_début,date_fin,unité)</translation>
     </message>
     <message>
         <source>Counts the numbers of days, months or years between the two dates.</source>
         <comment>DATEDIF_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;DATEDIF</translatorcomment>
         <translation>Compte le nombre de jours, de mois ou d&apos;années entre deux dates.</translation>
     </message>
     <message>
         <source>HYPERLINK(link_location, friendly_name)</source>
         <comment>HYPERLINK_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>HYPERLINK(lien_emplacement, nom_convivial)</translation>
     </message>
     <message>
         <source>Creates a shortcut or jump that opens a document stored on a network server, Intranet or Internet.</source>
         <comment>HYPERLINK_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;HYPERLINK</translatorcomment>
         <translation>Crée un raccourci pour ouvrir un document enregistré sur votre disque dur, un serveur de réseau, ou sur Internet.</translation>
     </message>
     <message>
         <source>ACCRINT(issue,first_interest,settlement,rate,par,frequency,basis)</source>
         <comment>ACCRINT_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>ACCRINT(émission,premier_intérêt,escompte,taux,nomin,fréquence,base)</translation>
     </message>
     <message>
         <source>Returns the accrued interest for a security that pays periodic interest.</source>
         <comment>ACCRINT_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;ACCRINT</translatorcomment>
         <translation>Renvoie l&apos;intérêt couru non échu d&apos;un titre dont l&apos;intérêt est perçu périodiquement.</translation>
     </message>
     <message>
         <source>CELL(info_type, reference)</source>
         <comment>CELL_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>CELL(type_info, référence)</translation>
     </message>
     <message>
         <source>Returns information about the formatting, location, or contents of the first cell, according to the sheet&apos;s reading order, in a reference.</source>
         <comment>CELL_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;CELL</translatorcomment>
         <translation>Renvoie des informations sur la mise en forme, l&apos;emplacement ou le contenu de la première cellule, selon l&apos;ordre de lecture de la feuille, d&apos;une référence.</translation>
     </message>
     <message>
         <source>EVALUATE(formula_text)</source>
         <comment>EVALUATE_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>EVALUATE(texte_formule)</translation>
     </message>
     <message>
         <source>Evaluates a formula or expression which is expressed in text and returns the result.</source>
         <comment>EVALUATE_REMARK</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;EVALUATE</translatorcomment>
         <translation>Évalue une formule ou une expression exprimée en texte et renvoie le résultat.</translation>
     </message>
     <message>
         <source>SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)</source>
         <comment>SUMIFS_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>SUMIFS(plage_sommes, plage_critères1, critères1, [plage_critères2, critères2], ...)</translation>
     </message>
     <message>
         <source>Adds the cells specified by a given set of conditions or criteria.</source>
         <comment>SUMIFS_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;SUMIFS</translatorcomment>
         <translation>Ajoute les cellules spécifiées par un ensemble donné de conditions ou de critères.</translation>
     </message>
     <message>
         <source>COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2],…)</source>
         <comment>COUNTIFS_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>COUNTIFS(plage_critères1, critères1, [plage_critères2, critères2],…)</translation>
     </message>
     <message>
         <source>Counts the number of cells specified by a given set of conditions or criteria.</source>
         <comment>COUNTIFS_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;COUNTIFS</translatorcomment>
         <translation>Calcule le nombre de cellules spécifiées par un ensemble donné de conditions ou de critères.</translation>
     </message>
     <message>
         <source>AVERAGEIF(range,criteria,average_range)</source>
         <comment>AVERAGEIF_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>AVERAGEIF(plage,critères,plage_moyenne)</translation>
     </message>
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given condition or criteria.</source>
         <comment>AVERAGEIF_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;AVERAGEIF</translatorcomment>
         <translation>Calcule la moyenne (arithmétique) des cellules spécifiées par une condition ou des critères donnés.</translation>
     </message>
     <message>
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
         <comment>AVERAGEIFS_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>AVERAGEIFS(plage_moyenne,plage_critères1,critères1,plage_critères2,critères2,…)</translation>
     </message>
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given set of conditions or criteria.</source>
         <comment>AVERAGEIFS_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;AVERRAGEIFS</translatorcomment>
         <translation>Calcule la moyenne (arithmétique) des cellules spécifiées par un ensemble donné de conditions ou de critères.</translation>
     </message>
     <message>
         <source>IFERROR(value,value_if_error)</source>
         <comment>IFERROR_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>IFERROR(valeur,valeur_si_erreur)</translation>
     </message>
     <message>
         <source>Returns the value you specify if the calculated result of the formula is an error and the calculated result otherwise.</source>
         <comment>IFERROR_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;IFERROR</translatorcomment>
         <translation>Renvoie la valeur que vous spécifiez si le résultat calculé de la formule est une erreur et le résultat calculé dans le cas contraire.</translation>
     </message>
     <message>
         <source>DAY(serial_number)</source>
         <comment>DAY_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>DAY(numéro_série)</translation>
     </message>
     <message>
         <source>PRICE(settlement,maturity,rate,yld,redemption,frequency,[basis])</source>
         <comment>PRICE_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>PRICE(escompte,échéance,taux,rendement,échange,fréquence,[base])</translation>
     </message>
     <message>
         <source>Returns the price per $100 face value of a security that pays periodic interest.</source>
         <comment>PRICE_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;PRICE</translatorcomment>
         <translation>Renvoie le prix d&apos;un titre d&apos;une valeur nominale de 100 € dont l&apos;intérêt est perçu périodiquement.</translation>
     </message>
     <message>
         <source>GETPIVOTDATA(data_field, pivot_table, field, item,…)</source>
         <comment>GETPIVOTDATA_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>GETPIVOTDATA(champ_données, tableau_croisé_dynamique, champ, élément ,…)</translation>
     </message>
     <message>
         <source>Extract data stored in a PivotTable</source>
         <comment>GETPIVOTDATA_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;GETPIVOTDATA</translatorcomment>
         <translation>Extrait des données d&apos;un d&apos;un tableau croisé dynamique</translation>
     </message>
     <message>
         <source>GET.CELL(type_num, reference)</source>
         <comment>GETCELL_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>GET.CELL(nom_type, référence)</translation>
     </message>
     <message>
         <source>Returns information about the formatting, location and cell contents.</source>
         <comment>GETCELL_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;GET.CELL</translatorcomment>
         <translation>Renvoie des informations sur la mise en forme, l&apos;emplacement ou le contenu de cellule.</translation>
     </message>
     <message>
         <source>Returns the cumulative interest paid between start_period and  end_period.</source>
         <comment>CUMIPMT_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;CUMIPMT</translatorcomment>
         <translation>Renvoie le montant cumulé des intérêts payés entre la période_début et la période_fin.</translation>
     </message>
     <message>
         <source>CUMIPMT(rate, nper, pv, start_period, end_period, type)</source>
         <comment>CUMIPMT_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>CUMIPMT(taux, npm, va, période_début, période_fin, type)</translation>
     </message>
     <message>
         <source>Returns the cumulative principal paid on a loan between start_period and end_period.</source>
         <comment>CUMPRINC_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;CUMPRINC</translatorcomment>
         <translation>Renvoie le montant cumulé du capital payé sur un emprunt entre la période_début et la période_fin.</translation>
     </message>
     <message>
         <source>CUMPRINC(rate, nper, pv, start_period, end_period, type)</source>
         <comment>CUMPRINC_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>CUMPRINC(taux, npm, va, période_début, période_fin, type)</translation>
     </message>
     <message>
         <source>AMORLINC(cost, date_purchased, first_period, salvage, period, rate, [basis])</source>
         <comment>AMORLINC_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>AMORLINC(coût, date_achat, première_période, valeur_résiduelle, période, taux, [base])</translation>
     </message>
     <message>
         <source>Returns the prorated linear depreciation of an asset for each accounting period.</source>
         <comment>AMORLINC_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;AMORLINC</translatorcomment>
         <translation>Renvoie l&apos;amortissement linéaire proportionnel d&apos;un actif par période comptable.</translation>
     </message>
     <message>
         <source>AMORDEGRC(cost, date_purchased, first_period, salvage, period, rate, [basis])</source>
         <comment>AMORDEGRC_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>AMORDEGRC(coût, date_achat, première_période, valeur_résiduelle, période, taux, [base])</translation>
     </message>
     <message>
         <source>Returns the depreciation for each settlement period.</source>
         <comment>AMORDEGRC_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;AMORDEGRC</translatorcomment>
         <translation>Renvoie l&apos;amortissement de chaque période de liquidation.</translation>
     </message>
     <message>
         <source>NUMBERSTRING(num, option)</source>
         <comment>NUMBERSTRING_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>NUMBERSTRING(nom, option)</translation>
     </message>
     <message>
         <source>Convert a number to a chinese string</source>
         <comment>NUMBERSTRING_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;NUMBERSTRING</translatorcomment>
         <translation>Convertit un nombre en une chaîne chinoise</translation>
     </message>
     <message>
         <source>INFO(type_text)</source>
         <comment>INFO_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>INFO(type_texte)</translation>
     </message>
     <message>
         <source>Returns information about the current operating environment</source>
         <comment>INFO_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;INFO</translatorcomment>
         <translation>Renvoie des informations sur l&apos;environnement d&apos;exploitation actuel</translation>
     </message>
     <message>
         <source>PHONETIC(reference)</source>
         <comment>PHONETIC_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>PHONETIC(référence)</translation>
     </message>
     <message>
         <source>Extract the phonetic character of the text string.</source>
         <comment>PHONETIC_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;PHONETIC</translatorcomment>
         <translation>Renvoie le caractère phonétique de la chaîne de texte.</translation>
     </message>
     <message>
@@ -6347,31 +7403,37 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>COUPDAYSNC(settlement, maturity, frequency, [basis])</source>
         <comment>COUPDAYSNC_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>COUPDAYSNC(liquidation, échéance, fréquence, [base])</translation>
     </message>
     <message>
         <source>COUPDAYBS(settlement, maturity, frequency, [basis])</source>
         <comment>COUPDAYBS_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>COUPDAYBS(liquidation, échéance, fréquence, [base])</translation>
     </message>
     <message>
         <source>COUPDAYBS Returns the number of days from the beginning of the coupon periond to the settlement date.</source>
         <comment>COUPDAYBS_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>COUPDAYBS Calcule le nombre de jours entre le début de la période de coupon et la date de liquidation.</translation>
     </message>
     <message>
         <source>Returns the number of days from the settlement date to the next coupon date.</source>
         <comment>COUPDAYSNC_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;COUPADAYSNC</translatorcomment>
         <translation>Calcule le nombre de jours entre le début de la date de liquidation et la prochaine date de coupon.</translation>
     </message>
     <message>
         <source>XIRR(values, dates, [guess])</source>
         <comment>XIRR_SYNTAX</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
         <translation>XIRR(valeurs, dates, [prédéfini])</translation>
     </message>
     <message>
         <source>Returns the internal rate of return for a schedule of crash flows.</source>
         <comment>XIRR_DESCRIPTION</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All-&gt;XIRR</translatorcomment>
         <translation>Renvoie le taux de rentabilité interne pour un ensemble de paiements planifiés.</translation>
     </message>
     <message>
@@ -6412,11 +7474,382 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>IMSUB(inumber1,inumber2)</source>
         <comment>IMSUB_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
+        <translation>IMSUB(nombrei1,nombrei2)</translation>
     </message>
     <message>
         <source>FIXED(number,decimals,no_commas)</source>
         <comment>FIXED_GRAMMER</comment>
+        <translatorcomment>Formulas tab-&gt;Insert Function-&gt;Insert Function dialog box-&gt;select a category-&gt;All</translatorcomment>
+        <translation>FIXED(nombre,décimals,pas_virgule)</translation>
+    </message>
+    <message>
+        <source>RTD(progID, server, topic1, [topic2], ...)</source>
+        <comment>RTD_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retrieves real-time data from a program that supports COM automation.</source>
+        <comment>RTD_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>See Help for help on this function and its arguments.</source>
+        <comment>SEE_HELP_FORMORE_DESC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ARGUMENT(name_text, data_type_num, reference)</source>
+        <comment>ARGUMENT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BREAK()</source>
+        <comment>BREAK_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ELSE()</source>
+        <comment>ELSE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ELSE.IF(logical_test)</source>
+        <comment>ELSEIF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>END.IF()</source>
+        <comment>ENDIF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FOR(counter_text, start_num, end_num, step_num)</source>
+        <comment>FOR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FOR.CELL(ref_name, area_ref, skip_blanks)</source>
+        <comment>FORCELL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GOTO(reference)</source>
+        <comment>GOTO_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HALT(cancel_close)</source>
+        <comment>HALT_STNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NEXT()</source>
+        <comment>NEXT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PAUSE(no_tool)</source>
+        <comment>PAUSE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RESTART(level_num)</source>
+        <comment>RESTART_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RESULT(type_num)</source>
+        <comment>RESULT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RETURN(value)</source>
+        <comment>RETURN_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SET.NAME(name_text, value)</source>
+        <comment>SETNAME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SET.VALUE(reference, values)</source>
+        <comment>SETVALUE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>STEP()</source>
+        <comment>STEP_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VOLATILE(logical)</source>
+        <comment>VOLATILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WHILE(logical_test)</source>
+        <comment>WHILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.NAME(name_text, info_type)</source>
+        <comment>GETNAME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REGISTER(module_text, procedure, type_text, function_text,...)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REGISTER.ID(module_text, procedure, type_text)</source>
+        <comment>REGISTERID_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UNREGISTER(register_id)</source>
+        <comment>UNREGISTER_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.DOCUMENT(type_num, name_text)</source>
+        <comment>GETDOCUMENT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.WORKBOOK(type_num, name_text)</source>
+        <comment>GETWORKBOOK_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.WORKSPACE(type_num)</source>
+        <comment>GETWORKSPACE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>APP.TITLE(text)</source>
+        <comment>APPTITLE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WINDOW.TITLE(text)</source>
+        <comment>WINDOWTITLE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ACTIVE.CELL()</source>
+        <comment>ACTIVECELL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DOCUMENTS(type_num, match_text)</source>
+        <comment>DOCUMENTS_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.FORMULA(reference)</source>
+        <comment>GETFORMULA_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.NOTE(cell_ref, start_char, num_chars)</source>
+        <comment>GETNOTE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.WINDOW(type_num, window_text)</source>
+        <comment>GETWINDOW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WINDOWS(type_num, match_text)</source>
+        <comment>WINDOWS_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FORMULA.CONVERT(formula_text, from_a1, to_a1, to_ref_type, rel_to_ref)</source>
+        <comment>FORMULACONVERT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TEXTREF(text, a1)</source>
+        <comment>TEXTREF_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REFTEXT(reference, a1)</source>
+        <comment>REFTEXT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.BAR(bar_num, menu, command, subcommand)</source>
+        <comment>GETBAR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADD.BAR(bar_num)</source>
+        <comment>ADDBAR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADD.MENU(bar_num, menu_ref, position1, position2)</source>
+        <comment>ADDMENU_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DELETE.MENU(bar_num, menu, submenu)</source>
+        <comment>DELETEMENU_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GET.TOOLBAR(type_num, bar_id)</source>
+        <comment>GETTOOLBAR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ALERT(message_text, type_num, help_ref)</source>
+        <comment>ALERT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALLER()</source>
+        <comment>CALLER_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ECHO(logical)</source>
+        <comment>ECHO_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NEW(type_num, xy_series, add_logical)</source>
+        <comment>NEW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALCULATE.NOW()</source>
+        <comment>CALCULATENOW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALCULATE.DOCUMENT()</source>
+        <comment>CALCULATEDOCUMENT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.DATA(document_text, macro_text)</source>
+        <comment>ONDATA_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
+        <comment>ONDOUBLECLICK_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.ENTRY(sheet_text, macro_text)</source>
+        <comment>ONENTRY_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.KEY(key_text, macro_text)</source>
+        <comment>ONKEY_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.RECALC(sheet_text, macro_text)</source>
+        <comment>ONRECALC_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.SHEET(sheet_text, macro_text, activate_logical)</source>
+        <comment>ONSHEET_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.TIME(time, macro_text, tolerance, insert_logical)</source>
+        <comment>ONTIME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON.WINDOW(window_text, macro_text)</source>
+        <comment>ONWINDOW_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QUIT()</source>
+        <comment>QUIT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SELECT(selection, active_cell)</source>
+        <comment>SELECT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SELECT.LAST.CELL()</source>
+        <comment>SELECTLASTCELL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COPY(from_reference, to_reference)</source>
+        <comment>COPY_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FORMULA(formula_text, reference)</source>
+        <comment>FORMULA_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DEFINE.NAME(name_text, refers_to, macro_type, shortcut_text, hidden, category, local)</source>
+        <comment>DEFINENAME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ROW.HEIGHT(height_num, reference, standard_height, type_num)</source>
+        <comment>ROWHEIGHT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</source>
+        <comment>COLUMNWIDTH_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PASTE.SPECIAL(paste_num, operation_num, skip_blanks, transpose)</source>
+        <comment>PASTESPECIAL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ERROR(enable_logical, macro_ref)</source>
+        <comment>ERROR_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RUN(reference, step)</source>
+        <comment>RUN_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILE.CLOSE(save_logical, route_logical)</source>
+        <comment>FILECLOSE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PRINT(range_num, from, to, copies,...)</source>
+        <comment>PRINT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CALL(module_text, procedure, type_text, argument1, ...)</source>
+        <comment>CALL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calls a procedure in a dynamic link library or code resource.</source>
+        <comment>CALL_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6480,12 +7913,12 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>XML SpreadSheet(*.xml)</source>
         <comment>TX_ssDesc_Xml_</comment>
-        <translation>Feuille de calcul XML (*.xml)</translation>
+        <translation>SpreadSheet XML (*.xml)</translation>
     </message>
     <message>
         <source>XML SpreadSheet Template(*.xmt)</source>
         <comment>TX_ssDesc_XmlTemp_</comment>
-        <translation>Modèle de feuille de calcul XML (*.xmt)</translation>
+        <translation>Modèle de SpreadSheet XML (*.xmt)</translation>
     </message>
     <message>
         <source>Text(Tab delimited)(*.txt)</source>
@@ -6508,6 +7941,7 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
 ·To save only the active sheet, click OK. 
 ·To save all sheets, save them individually using a different file name for each, or choose a file type that supports multiple sheets.</source>
         <comment>TX_Save_Txt_Wanging</comment>
+        <translatorcomment>Spreadsheets button-&gt;Save as-&gt;Save as type-&gt;choose DIF Data Interchange File-&gt;Save</translatorcomment>
         <translation>Le type de fichier sélectionné ne prend pas en charge les classeurs qui contiennent plusieurs feuilles.
 
 ·Pour enregistrer seulement la feuille active, cliquez sur OK. 
@@ -6532,7 +7966,7 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>Some data may be lost when a file of older version is opened.</source>
         <comment>TX_Open_Data_Losing_On_Old_Ver_File</comment>
-        <translation>Certaines données pourraient être perdues si un fichier d&apos;une version antérieure est ouvert..</translation>
+        <translation type="obsolete">Certaines données pourraient être perdues si un fichier d&apos;une version antérieure est ouvert..</translation>
     </message>
     <message>
         <source>Web Pages(*.htm; *.html)</source>
@@ -6600,12 +8034,12 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>The worksheet you are trying to save is password-protected, which can not be saved as XML Spreadsheets.If you must save it as XML Spreadsheets, please delete the password first.</source>
         <comment>TX_Save_Xml_Warning_BookProt</comment>
-        <translation>La feuille de calcul que vous essayez d&apos;enregistrer est protégée par un mot de passe qui ne peut pas être enregistré au format des feuilles de calcul XML. Si vous devez l&apos;enregistrer au format des feuilles de calcul XML, supprimez d&apos;abord le mot de passe.</translation>
+        <translation>La feuille de calcul que vous essayez d&apos;enregistrer est protégée par un mot de passe qui ne peut pas être enregistré au format des SpreadSheet XML. Si vous devez l&apos;enregistrer au format de SpreadSheet XML, supprimez d&apos;abord le mot de passe.</translation>
     </message>
     <message>
         <source>There is a password-protected worksheet in the workbook you are trying to save, which can not be saved as XML Spreadsheets. If you must save it as XML Spreadsheets, please delete the password first.</source>
         <comment>TX_Save_Xml_Warning_SheetProt</comment>
-        <translation>Le classeur que vous essayez d&apos;enregistrer contient une feuille de calcul protégée par mot de passe qui ne peut pas être enregistrée au format des feuilles de calcul XML. Si vous devez l&apos;enregistrer au format des feuilles de calcul XML, supprimez d&apos;abord le mot de passe.</translation>
+        <translation>Le classeur que vous essayez d&apos;enregistrer contient une feuille de calcul protégée par mot de passe qui ne peut pas être enregistrée au format de SpreadSheet XML. Si vous devez l&apos;enregistrer au format de SpeadSheet XML, supprimez d&apos;abord le mot de passe.</translation>
     </message>
     <message>
         <source> · Refer to external sheet
@@ -6633,7 +8067,7 @@ Remarque : si la deuxième opérande demande le nombre sous forme de texte, des 
     <message>
         <source>The worksheet you are trying to save is password-protected, which can not be saved as HTML Spreadsheets.If you must save it as HTML Spreadsheets, please delete the password first.</source>
         <comment>TX_Save_Html_Warning_BookProt</comment>
-        <translation>La feuille de calcul que vous essayez d&apos;enregistrer est protégée par un mot de passe qui ne peut pas être enregistré au format des feuilles de calcul HTML. Si vous devez l&apos;enregistrer au format des feuilles de calcul HTML, supprimez d&apos;abord le mot de passe.</translation>
+        <translation>La feuille de calcul que vous essayez d&apos;enregistrer est protégée par un mot de passe qui ne peut pas être enregistré au format de Spreadsheets HTML. Si vous devez l&apos;enregistrer au format de Spreadsheets HTML, supprimez d&apos;abord le mot de passe.</translation>
     </message>
     <message>
         <source>There is a password-protected worksheet in the workbook you are trying to save, which can not be saved as HTML Spreadsheets. If you must save it as HTML Spreadsheets, please delete the password first.</source>
@@ -6781,12 +8215,12 @@ Remarque : certains fichiers peuvent contenir des virus de macro dont l&apos;ex�
     <message>
         <source>WPS Spreadsheets Files(*.etx)</source>
         <comment>TX_ssDesc_Etx</comment>
-        <translation>Fichiers WPS Spreadsheets (*.etx)</translation>
+        <translation type="obsolete">Fichiers WPS Spreadsheets (*.etx)</translation>
     </message>
     <message>
         <source>Query Files(*.iqy)</source>
         <comment>TX_ssDesc_Iqy_</comment>
-        <translation>Fichiers Query (*.iqy)</translation>
+        <translation type="obsolete">Fichiers Query (*.iqy)</translation>
     </message>
     <message>
         <source>Access Databases(*.mdb;*.accdb)</source>
@@ -6815,7 +8249,7 @@ Projet VB
 ·To keep this format, which leaves out any incompatible features, click Yes. 
 ·To preserve the features, click No. Then save a copy in the latest WPS Spreadsheets format.</source>
         <comment>TX_Save_Txt_Backup</comment>
-        <translation type="unfinished">Le fichier que vous essayez d&apos;enregistrer contient peut-être des fonctionnalités incompatibles avec le format de fichier actuel. Voulez-vous conserver le classeur à ce format ?
+        <translation>Le fichier que vous essayez d&apos;enregistrer contient peut-être des fonctionnalités incompatibles avec le format de fichier actuel. Voulez-vous conserver le classeur à ce format ?
 
 ·Pour conserver ce format qui exclue toutes les fonctionnalités incompatibles, cliquez sur Oui. 
 ·Pour conserver ces fonctionnalités, cliquez sur Non. Ensuite, enregistrez une copie au format WPS Spreadsheets le plus récent.</translation>
@@ -6823,7 +8257,42 @@ Projet VB
     <message>
         <source>The current file is restricted by permission, which can only be protected when the format is WPS Spreadsheets. If the file is saved as the current format, any of the permission will be removed. Do you want to continue?</source>
         <comment>TX_Save_KRM_UnSuport_Format</comment>
-        <translation type="unfinished">Le fichier actuel est limité par les autorisations et ne peut être protégé que lorsqu&apos;il est au format WPS Spreadsheets. Si le fichier est enregistré au format actuel, l&apos;une des autorisations sera supprimée. Voulez-vous continuer ?</translation>
+        <translation>Le fichier actuel est limité par les autorisations et ne peut être protégé que lorsqu&apos;il est au format WPS Spreadsheets. Si le fichier est enregistré au format actuel, l&apos;une des autorisations sera supprimée. Voulez-vous continuer ?</translation>
+    </message>
+    <message>
+        <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
+        <comment>TX_UPDATE_OLD_FORMAT_TO_NEW_FORTMAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Query Files(*.iqy; *.dqy)</source>
+        <comment>TX_ssDesc_Qy_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
+        <comment>TX_ssDesc_Etx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
+        <comment>TX_ssDesc_EtxTemp_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Interchange Format (*.dif)</source>
+        <comment>TX_ssDesc_Dif_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DIF (Data Interchange Format)(*.dif)</source>
+        <comment>TX_ssDesc_Dif_Exp_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
+        <comment>TX_ssDesc_DataSrcFile_</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6890,31 +8359,37 @@ Projet VB
     <message>
         <source>Normal</source>
         <comment>TX_StyleName_Normal</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Styles-&gt;Style name</translatorcomment>
         <translation>Normal</translation>
     </message>
     <message>
         <source>Comma</source>
         <comment>TX_StyleName_COMMA</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Styles-&gt;Style name</translatorcomment>
         <translation>Virgule</translation>
     </message>
     <message>
         <source>Currency</source>
         <comment>TX_StyleName_CURRENCY</comment>
-        <translation>Devise</translation>
+        <translatorcomment>Home tab-&gt;Format-&gt;Styles-&gt;Style name</translatorcomment>
+        <translation>Monétaire</translation>
     </message>
     <message>
         <source>Percent</source>
         <comment>TX_StyleName_PERCENT</comment>
-        <translation>Pour cent</translation>
+        <translatorcomment>Home tab-&gt;Format-&gt;Styles-&gt;Style name</translatorcomment>
+        <translation>Pourcentage</translation>
     </message>
     <message>
         <source>Comma[0]</source>
         <comment>TX_StyleName_COMMA0</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Styles-&gt;Style name</translatorcomment>
         <translation>Milliers [0]</translation>
     </message>
     <message>
         <source>Currency[0]</source>
         <comment>TX_StyleName_CURRENCY0</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Styles-&gt;Style name</translatorcomment>
         <translation>Monétaire [0]</translation>
     </message>
     <message>
@@ -7060,16 +8535,19 @@ Raisons possibles :
     <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
         <comment>TX_DESC_Sort_singleCell_ET</comment>
+        <translatorcomment>Book1-&gt;Select a blank cell-&gt;Home tab-&gt;click Sort</translatorcomment>
         <translation>Impossible d&apos;exécuter la commande avec la plage spécifiée. Sélectionnez une seule cellule dans la plage et réessayez d&apos;exécuter la commande.</translation>
     </message>
     <message>
         <source>The sheet(s) you are deleting is not empty. If you want to delete the data permanently, please click OK or press Enter on the keyboard.</source>
         <comment>TX_Sheet_DEL_ContainsData_ET</comment>
+        <translatorcomment>Book1-&gt;click A1, enter &apos;a&apos;, press enter-&gt;sheet tab bar-&gt;Sheet1-&gt;right-click-&gt;Delete Sheet</translatorcomment>
         <translation>La ou les feuilles que vous supprimez actuellement ne sont pas vides. Si vous souhaitez supprimer les données de manière permanente, cliquez sur OK ou appuyez sur Entrée sur votre clavier.</translation>
     </message>
     <message>
         <source>Font size must be between 1 and 409 points.</source>
         <comment>TX_FontSize_Invalid_ET</comment>
+        <translatorcomment>Home tab-&gt;Font Size-&gt;click &amp; enter &apos;0&apos;-&gt;press enter</translatorcomment>
         <translation>La taille de la police doit être comprise entre 1 et 409.</translation>
     </message>
     <message>
@@ -7085,6 +8563,7 @@ Raisons possibles :
     <message>
         <source>WPS Spreadsheets cannot remove grouping. To start an outline, select the detail rows or columns and group them.</source>
         <comment>TX_Data_Cannot_Ungroup</comment>
+        <translatorcomment>Book1-&gt;click a blank cell-&gt;Data tab-&gt;click Ungroup</translatorcomment>
         <translation>WPS Spreadsheets ne peut pas supprimer le regroupement. Pour construire un plan, sélectionnez les lignes ou les colonnes de détail et regroupez-les.</translation>
     </message>
     <message>
@@ -7100,6 +8579,7 @@ Raisons possibles :
     <message>
         <source>The number must be between 10 and 400. Please enter a number within this range and try again.</source>
         <comment>TX_ZoomBox_Value_Invalid_ET</comment>
+        <translatorcomment>View tab-&gt;Zoom-&gt;Zoom dialog box-&gt;Custom-&gt;enter &apos;0&apos;-&gt;press enter</translatorcomment>
         <translation>Le nombre doit être compris entre 10 et 400. Entrez un nombre situé dans cette plage et réessayez.</translation>
     </message>
     <message>
@@ -7119,6 +8599,7 @@ Raisons possibles :
         <source>The formula you entered contains errors. 
 If you do not wish to use a formula, insert a single quotation mark before your text.</source>
         <comment>TX_InputFormula_Error2</comment>
+        <translatorcomment>click a blank cell-&gt;enter &apos;=123abb&apos;, press enter</translatorcomment>
         <translation>La formule que vous avez entrée contient des erreurs. 
 SI vous ne voulez pas utiliser de formule, insérez une apostrophe avant votre texte.</translation>
     </message>
@@ -7138,12 +8619,13 @@ SI vous ne voulez pas utiliser de formule, insérez une apostrophe avant votre t
     <message>
         <source>You cannot modify the read-only cells in the protected worksheet.</source>
         <comment>TX_CanNotEdit</comment>
+        <translatorcomment>Home tab-&gt;Worksheet-&gt;Pretect Sheet-&gt;press OK-&gt;click a cell-&gt;enter &apos;1&apos;</translatorcomment>
         <translation>Vous ne pouvez pas modifier les cellules en lecture seule dans la feuille de calcul protégée.</translation>
     </message>
     <message>
         <source>Please enter a valid reference or a valid name of the selection.</source>
         <comment>TX_Invalid_Name</comment>
-        <translation>Entrée une référence ou un nom valide pour la sélection.</translation>
+        <translation>Entrez une référence ou un nom valide pour la sélection.</translation>
     </message>
     <message>
         <source>Do you want to replace the contents of the destination cells?</source>
@@ -7153,6 +8635,7 @@ SI vous ne voulez pas utiliser de formule, insérez une apostrophe avant votre t
     <message>
         <source>Please exit editing cell or formula first before closing the window.</source>
         <comment>TX_PROMPT_EXIT_EDIT_BEFORECLOSE</comment>
+        <translatorcomment>click a blank cell-&gt;enter &apos;=sum(&apos;-&gt;title bar-&gt;Exit-&gt;Spreadsheets prompt-&gt;OK</translatorcomment>
         <translation>Quittez a cellule ou la formule en cours de modification avant de fermer la fenêtre.</translation>
     </message>
     <message>
@@ -7185,11 +8668,13 @@ Vérifiez que les zones sélectionnées sont des cellules continues.</translatio
     <message>
         <source>Enter</source>
         <comment>TX_Editing_Input</comment>
+        <translatorcomment>click a blank cell-&gt;press F2-&gt;Status bar</translatorcomment>
         <translation>Entrée</translation>
     </message>
     <message>
         <source> Edit</source>
         <comment>TX_Editing_Edit</comment>
+        <translatorcomment>click a blank cell-&gt;press F2-&gt;Status bar</translatorcomment>
         <translation> Modifier</translation>
     </message>
     <message>
@@ -7205,21 +8690,25 @@ Vérifiez que les zones sélectionnées sont des cellules continues.</translatio
     <message>
         <source>Click to follow the link.</source>
         <comment>TX_Hyperlink_Tip</comment>
+        <translatorcomment>click a blank cell-&gt;enter &apos;www.wps.com&apos;, press enter-&gt;move the cursor on the link</translatorcomment>
         <translation>Cliquez pour suivre le lien.</translation>
     </message>
     <message>
         <source>Width</source>
         <comment>TX_SizeTip_Col</comment>
+        <translatorcomment>move the cursor on the divider of column A &amp; column B-&gt;click &amp; hold</translatorcomment>
         <translation>Largeur</translation>
     </message>
     <message>
         <source>Height</source>
         <comment>TX_SizeTip_Row</comment>
+        <translatorcomment>move the cursor on the divider of row A &amp; row B-&gt;click &amp; hold</translatorcomment>
         <translation>Hauteur</translation>
     </message>
     <message>
         <source>Centimeter</source>
         <comment>TX_SizeUint_cm</comment>
+        <translatorcomment>move the cursor on the divider of row A &amp; row B-&gt;click &amp; hold</translatorcomment>
         <translation>Centimètre</translation>
     </message>
     <message>
@@ -7304,7 +8793,7 @@ The values which can be typed here is restricted by other users.</source>
         <comment>TX_WarningInfo</comment>
         <translation>La valeur entrée n&apos;est pas valide.
 
-Les valeurs pouvant être tapées ici sont limitées par d&apos;autres utilisateurs.</translation>
+Les valeurs qui peuvent être tapées ici sont limitées par d&apos;autres utilisateurs.</translation>
     </message>
     <message>
         <source>
@@ -7323,32 +8812,35 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>References to other workbooks cannot be used for Data Validation criteria.</source>
         <comment>TX_DV_CrossSheet</comment>
+        <translatorcomment>Book1-&gt;Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Whole number-&gt;Data, choose equal to-&gt;Value, click zone selection-&gt;Book2, click a blank cell-&gt;OK</translatorcomment>
         <translation>Les références aux autres classeurs ne peuvent pas être utilisées pour Critères de validation des données.</translation>
     </message>
     <message>
         <source>The Value contains an error now. Do you want to continue?</source>
         <comment>TX_DV_WholeNumberErr</comment>
-        <translation>Valeur contient une erreur à présent. Voulez-vous continuer ?</translation>
+        <translation>La valeur contient une erreur à présent. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The Minumum contains an error now. Do you want to continue?</source>
         <comment>TX_DV_WholeNumberErr1</comment>
-        <translation>Minimum contient une erreur à présent. Voulez-vous continuer ?</translation>
+        <translation>Le minimum contient une erreur à présent. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The Maximum contains an error now. Do you want to continue?</source>
         <comment>TX_DV_WholeNumberErr2</comment>
-        <translation>Maximum contient une erreur à présent. Voulez-vous continuer ?</translation>
+        <translation>Le maximum contient une erreur à présent. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The Value must be a integer, numeric expression, or reference to a cell containing  numeric values.</source>
         <comment>TX_DV_WholeNumber</comment>
-        <translation>Valeur doit être un entier, une expression numérique ou une référence à une cellule contenant des valeurs numériques.</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Whole number-&gt;Data, choose equal to-&gt;Value, enter&apos;a1&apos;-&gt;OK</translatorcomment>
+        <translation>La valeur doit être un entier, une expression numérique ou une référence à une cellule contenant des valeurs numériques.</translation>
     </message>
     <message>
         <source>The Minimum must be a integer, numeric expression, or reference to a cell containing numeric values.</source>
         <comment>TX_DV_WholeNumber1</comment>
-        <translation>Minimum doit être un entier, une expression numérique ou une référence à une cellule contenant des valeurs numériques.</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow-&gt;Whole number-&gt;Minimum, enter&apos;a1&apos;-&gt;Maximum, enter&apos;a1&apos;-&gt;OK</translatorcomment>
+        <translation>Le minimum doit être un entier, une expression numérique ou une référence à une cellule contenant des valeurs numériques.</translation>
     </message>
     <message>
         <source>The Maximum must be a whole number , numeric expression, or reference to a cell containing numeric values.</source>
@@ -7358,187 +8850,223 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Only integer can be used for whole number conditions.</source>
         <comment>TX_DV_MustWholeNumber</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Whole number-&gt;Data, choose equal to-&gt;Value, enter &apos;10.2.&apos;-&gt;OK</translatorcomment>
         <translation>Seul un entier peut être utilisé pour les conditions avec nombre entier.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
         <comment>TX_DV_EmptyWholeNumber</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Whole number-&gt;Data, choose equal to-&gt;OK</translatorcomment>
         <translation>Vous devez saisir une Valeur.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
         <comment>TX_DV_EmptyWholeNumber1</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Whole number-&gt;Data, choose between-&gt;Maximum, enter &apos;2&apos;-&gt;OK</translatorcomment>
         <translation>Vous devez saisir un Minimum.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
         <comment>TX_DV_EmptyWholeNumber2</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Whole number-&gt;Data, choose between-&gt;Minimum, enter &apos;2&apos;-&gt;OK</translatorcomment>
         <translation>Vous devez saisir un Maximum.</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
         <comment>TX_DV_EmptyWholeNumberBoth</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Whole number-&gt;Data, choose between-&gt;OK</translatorcomment>
         <translation>Vous devez saisir un Maximum et un Minimum.</translation>
     </message>
     <message>
         <source>The Maximum must be greater than or equal to the Minimum.</source>
         <comment>TX_DV_WholeNumberValueErr</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Whole number-&gt;Data, choose between-&gt;Minimum, enter 5-&gt;Maximum, enter 2-&gt;OK</translatorcomment>
         <translation>Le Maximum doit être supérieur ou égal au Minimum.</translation>
     </message>
     <message>
         <source>Cannot find the named range you specified.</source>
         <comment>TX_DV_List</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose List</translatorcomment>
         <translation>Impossible de trouver la plage nommée spécifiée.</translation>
     </message>
     <message>
         <source>The List Source must be a delimited data list, or a reference to a single row or column.</source>
         <comment>TX_DV_ListMustSingleLine</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose List</translatorcomment>
         <translation>La liste Source doit être délimitée ou faire référence à une seule ligne ou colonne.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
         <comment>TX_DV_EmptyList</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose List-&gt;OK</translatorcomment>
         <translation>Vous devez saisir une Source.</translation>
     </message>
     <message>
         <source>The Date contains an error now. Do you want to continue?</source>
         <comment>TX_DV_DateErr</comment>
-        <translation>Date contient une erreur à présent. Voulez-vous continuer ?</translation>
+        <translation>La date contient une erreur à présent. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The Start Date contains an error now. Do you want to continue?</source>
         <comment>TX_DV_DateErr1</comment>
-        <translation>Date de début contient une erreur à présent. Voulez-vous continuer ?</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Date</translatorcomment>
+        <translation>La date de début contient une erreur à présent. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The End Date contains an error now. Do you want to continue?</source>
         <comment>TX_DV_DateErr2</comment>
-        <translation>Date de fin contient une erreur à présent. Voulez-vous continuer ?</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Date</translatorcomment>
+        <translation>La date de fin contient une erreur à présent. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The date you specified in Date is invalid.</source>
         <comment>TX_DV_Date</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Date</translatorcomment>
         <translation>La date que vous avez spécifiée dans Date n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>The date you specified in Start Date is invalid.</source>
         <comment>TX_DV_Date1</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Date</translatorcomment>
         <translation>La date que vous avez spécifiée dans Date de début n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>The date you specified in End Date is invalid.</source>
         <comment>TX_DV_Date2</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Date</translatorcomment>
         <translation>La date que vous avez spécifiée dans Date de fin n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
         <comment>TX_DV_EmptyDate</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Date</translatorcomment>
         <translation>Vous devez saisir une Date.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
         <comment>TX_DV_EmptyDate1</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Date</translatorcomment>
         <translation>Vous devez saisir une Date de début.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
         <comment>TX_DV_EmptyDate2</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Date</translatorcomment>
         <translation>Vous devez saisir une Date de fin.</translation>
     </message>
     <message>
         <source>You must enter both a Start Date and an End Date.</source>
         <comment>TX_DV_EmptyDateBoth</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Date</translatorcomment>
         <translation>Vous devez entrer une Date de début et une Date de fin.</translation>
     </message>
     <message>
         <source>The End Date must be greater than or equal to the Start Date.</source>
         <comment>TX_DV_DateValueErr</comment>
-        <translation>Date de fin doit être supérieure ou égale à Date de début.</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Date</translatorcomment>
+        <translation>La date de fin doit être supérieure ou égale à Date de début.</translation>
     </message>
     <message>
         <source>The Time contains an error now. Do you want to continue?</source>
         <comment>TX_DV_TimeErr</comment>
-        <translation>Heure contient une erreur à présent. Voulez-vous continuer ?</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Time</translatorcomment>
+        <translation>L&apos;heure contient une erreur à présent. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The Start Time contains an error now. Do you want to continue?</source>
         <comment>TX_DV_TimeErr1</comment>
-        <translation>Heure de début contient une erreur à présent. Voulez-vous continuer ?</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Time</translatorcomment>
+        <translation>L&apos;heure de début contient une erreur à présent. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The End Time contains an error now. Do you want to continue?</source>
         <comment>TX_DV_TimeErr2</comment>
-        <translation>Heure de fin contient une erreur à présent. Voulez-vous continuer ?</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Time</translatorcomment>
+        <translation>L&apos;heure de fin contient une erreur à présent. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The date you specified in Time is invalid.</source>
         <comment>TX_DV_Time</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Time</translatorcomment>
         <translation>La date que vous avez spécifiée dans Heure n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>The date you specified in Start Time is invalid.</source>
         <comment>TX_DV_Time1</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Time</translatorcomment>
         <translation>La date que vous avez spécifiée dans Heure de début n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>The date you specified in End Time is invalid.</source>
         <comment>TX_DV_Time2</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Time</translatorcomment>
         <translation>La date que vous avez spécifiée dans Heure de fin n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
         <comment>TX_DV_EmptyTime</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Time</translatorcomment>
         <translation>Vous devez saisir une Heure.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
         <comment>TX_DV_EmptyTime1</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Time</translatorcomment>
         <translation>Vous devez saisir une Heure de début.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
         <comment>TX_DV_EmptyTime2</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Time</translatorcomment>
         <translation>Vous devez saisir une Heure de fin.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
         <comment>TX_DV_EmptyTimeBoth</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Time</translatorcomment>
         <translation>Vous devez saisir une Heure de début et une Heure de fin.</translation>
     </message>
     <message>
         <source>The End Time must be greater than or equal to the Start Time.</source>
         <comment>TX_DV_TimeValueErr</comment>
-        <translation>Heure de fin doit être supérieure ou égale à Heure de début.</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Time</translatorcomment>
+        <translation>L&apos;heure de fin doit être supérieure ou égale à Heure de début.</translation>
     </message>
     <message>
         <source>The Text length contains an error now. Do you want to continue?</source>
         <comment>TX_DV_TextLengthErr</comment>
-        <translation>Longueur du texte contient une erreur à présent. Voulez-vous continuer ?</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Text length</translatorcomment>
+        <translation>La longueur du texte contient une erreur à présent. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The Text length must be a integer, numeric expression, or reference to a cell contains numeric values.</source>
         <comment>TX_DV_TextLength</comment>
-        <translation>Longueur du texte doit être un entier, une expression numérique ou une référence à une cellule contenant des valeurs numériques.</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Text length</translatorcomment>
+        <translation>La longueur du texte doit être un entier, une expression numérique ou une référence à une cellule contenant des valeurs numériques.</translation>
     </message>
     <message>
         <source>Only integer can be used for Text length conditions.</source>
         <comment>TX_DV_MustTextLength</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Text length</translatorcomment>
         <translation>Seul un entier peut être utilisé pour les conditions de Longueur de texte.</translation>
     </message>
     <message>
         <source>You must enter a Text length.</source>
         <comment>TX_DV_EmptyTextLength</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Text length</translatorcomment>
         <translation>Vous devez saisir une Longueur de texte.</translation>
     </message>
     <message>
         <source>You must enter a formula.</source>
         <comment>TX_DV_EmptyFormula</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Custom</translatorcomment>
         <translation>Vous devez saisir une formule.</translation>
     </message>
     <message>
         <source>The Formula contains an error now. Do you want to continue?</source>
         <comment>TX_DV_FormulaErr</comment>
-        <translation>Formule contient une erreur à présent. Voulez-vous continuer ?</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Custom</translatorcomment>
+        <translation>Le formule contient une erreur à présent. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
@@ -7599,6 +9127,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Al</source>
         <comment>TX_ParaInfo_001</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INDIRECT-&gt;Function Arguments</translatorcomment>
         <translation>Al</translation>
     </message>
     <message>
@@ -7609,31 +9138,37 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Angle</source>
         <comment>TX_ParaInfo_003</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DEGREES-&gt;Function Arguments</translatorcomment>
         <translation>Angle</translation>
     </message>
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_004</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ROWS&gt;Function Arguments</translatorcomment>
         <translation>Matrice</translation>
     </message>
     <message>
         <source>Array1</source>
         <comment>TX_ParaInfo_005</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CORREL-&gt;Function Arguments</translatorcomment>
         <translation>Matrice1</translation>
     </message>
     <message>
         <source>Array2</source>
         <comment>TX_ParaInfo_006</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CORREL-&gt;Function Arguments</translatorcomment>
         <translation>Matrice2</translation>
     </message>
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_007</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INDEX-&gt;Function Arguments</translatorcomment>
         <translation>Matrice</translation>
     </message>
     <message>
         <source>Base</source>
         <comment>TX_ParaInfo_008</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOG-&gt;Function Arguments</translatorcomment>
         <translation>Base</translation>
     </message>
     <message>
@@ -7644,26 +9179,31 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Col_index_num</source>
         <comment>TX_ParaInfo_010</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>Nom_index_col</translation>
     </message>
     <message>
         <source>Cols</source>
         <comment>TX_ParaInfo_011</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OFFSET-&gt;Function Arguments</translatorcomment>
         <translation>Cols</translation>
     </message>
     <message>
         <source>Column_num</source>
         <comment>TX_ParaInfo_012</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>Nom_colonne</translation>
     </message>
     <message>
         <source>Const</source>
         <comment>TX_ParaInfo_013</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LINEST-&gt;Function Arguments</translatorcomment>
         <translation>Const</translation>
     </message>
     <message>
         <source>Criteria</source>
         <comment>TX_ParaInfo_014</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COUNTIFS-&gt;Function Arguments</translatorcomment>
         <translation>Critères</translation>
     </message>
     <message>
@@ -7674,6 +9214,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Day</source>
         <comment>TX_ParaInfo_016</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATE-&gt;Function Arguments</translatorcomment>
         <translation>Jour</translation>
     </message>
     <message>
@@ -7684,6 +9225,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Divisor</source>
         <comment>TX_ParaInfo_018</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MOD-&gt;Function Arguments</translatorcomment>
         <translation>Diviseur</translation>
     </message>
     <message>
@@ -7694,11 +9236,13 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Error_val</source>
         <comment>TX_ParaInfo_020</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ERROR.TYPE-&gt;Function Arguments</translatorcomment>
         <translation>Val_erreur</translation>
     </message>
     <message>
         <source>Find_text</source>
         <comment>TX_ParaInfo_021</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FIND-&gt;Function Arguments</translatorcomment>
         <translation>Trouver_texte</translation>
     </message>
     <message>
@@ -7714,6 +9258,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Height</source>
         <comment>TX_ParaInfo_024</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OFFSET-&gt;Function Arguments</translatorcomment>
         <translation>Hauteur</translation>
     </message>
     <message>
@@ -7724,36 +9269,43 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Hour</source>
         <comment>TX_ParaInfo_026</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TIME-&gt;Function Arguments</translatorcomment>
         <translation>Heure</translation>
     </message>
     <message>
         <source>Index_num</source>
         <comment>TX_ParaInfo_027</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CHOOSE-&gt;Function Arguments</translatorcomment>
         <translation>Nom_index</translation>
     </message>
     <message>
         <source>Instance_num</source>
         <comment>TX_ParaInfo_028</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUBSTITUTE-&gt;Function Arguments</translatorcomment>
         <translation>Nom_instance</translation>
     </message>
     <message>
         <source>K</source>
         <comment>TX_ParaInfo_029</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LARGE-&gt;Function Arguments</translatorcomment>
         <translation>G</translation>
     </message>
     <message>
         <source>Known_x&apos;s</source>
         <comment>TX_ParaInfo_030</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FORECAST-&gt;Function Arguments</translatorcomment>
         <translation>x_connus</translation>
     </message>
     <message>
         <source>Known_y&apos;s</source>
         <comment>TX_ParaInfo_031</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FORECAST-&gt;Function Arguments</translatorcomment>
         <translation>y_connus</translation>
     </message>
     <message>
         <source>Logical</source>
         <comment>TX_ParaInfo_032</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EXPONDIST-&gt;Function Arguments</translatorcomment>
         <translation>Logique</translation>
     </message>
     <message>
@@ -7764,71 +9316,85 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Logical</source>
         <comment>TX_ParaInfo_034</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EXPONDIST-&gt;Function Arguments</translatorcomment>
         <translation>Logique</translation>
     </message>
     <message>
         <source>Logical</source>
         <comment>TX_ParaInfo_035</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EXPONDIST-&gt;Function Arguments</translatorcomment>
         <translation>Logique</translation>
     </message>
     <message>
         <source>Lookup_array</source>
         <comment>TX_ParaInfo_036</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MATCH-&gt;Function Arguments</translatorcomment>
         <translation>Recherche_matrice</translation>
     </message>
     <message>
         <source>Lookup_value</source>
         <comment>TX_ParaInfo_037</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>Recherche_valeur</translation>
     </message>
     <message>
         <source>Lookup_vector</source>
         <comment>TX_ParaInfo_038</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>Recherche_vecteur</translation>
     </message>
     <message>
         <source>Match_type</source>
         <comment>TX_ParaInfo_039</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MATCH-&gt;Function Arguments</translatorcomment>
         <translation>Type_correspondance</translation>
     </message>
     <message>
         <source>Minute</source>
         <comment>TX_ParaInfo_040</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TIME-&gt;Function Arguments</translatorcomment>
         <translation>Minute</translation>
     </message>
     <message>
         <source>Month</source>
         <comment>TX_ParaInfo_041</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATE-&gt;Function Arguments</translatorcomment>
         <translation>Mois</translation>
     </message>
     <message>
         <source>New_text</source>
         <comment>TX_ParaInfo_042</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPLACE-&gt;Function Arguments</translatorcomment>
         <translation>Nouveau_texte</translation>
     </message>
     <message>
         <source>Num_chars</source>
         <comment>TX_ParaInfo_043</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LEFT-&gt;Function Arguments</translatorcomment>
         <translation>Nom_cars</translation>
     </message>
     <message>
         <source>Num_digits</source>
         <comment>TX_ParaInfo_044</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACOSH-&gt;Function Arguments</translatorcomment>
         <translation>Nom_chiffres</translation>
     </message>
     <message>
         <source>Number</source>
         <comment>TX_ParaInfo_045</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ABS-&gt;Function Arguments</translatorcomment>
         <translation>Nombre</translation>
     </message>
     <message>
         <source>Number_times</source>
         <comment>TX_ParaInfo_046</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPT-&gt;Function Arguments</translatorcomment>
         <translation>Nombre_fois</translation>
     </message>
     <message>
         <source>Number</source>
         <comment>TX_ParaInfo_047</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CEILING-&gt;Function Arguments</translatorcomment>
         <translation>Nombre</translation>
     </message>
     <message>
@@ -7839,26 +9405,31 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Old_text</source>
         <comment>TX_ParaInfo_049</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPLACE-&gt;Function Arguments</translatorcomment>
         <translation>Ancien_texte</translation>
     </message>
     <message>
         <source>Order</source>
         <comment>TX_ParaInfo_050</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RANK-&gt;Function Arguments</translatorcomment>
         <translation>Ordre</translation>
     </message>
     <message>
         <source>Power</source>
         <comment>TX_ParaInfo_051</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMPOWER-&gt;Function Arguments</translatorcomment>
         <translation>Puissance</translation>
     </message>
     <message>
         <source>Range</source>
         <comment>TX_ParaInfo_052</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AVERAGEIF-&gt;Function Arguments</translatorcomment>
         <translation>Plage</translation>
     </message>
     <message>
         <source>Range_lookup</source>
         <comment>TX_ParaInfo_053</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>Plage_recherche</translation>
     </message>
     <message>
@@ -7869,6 +9440,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Ref_text</source>
         <comment>TX_ParaInfo_055</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INDIRECT-&gt;Function Arguments</translatorcomment>
         <translation>Réf_texte</translation>
     </message>
     <message>
@@ -7884,11 +9456,13 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_058</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AREAS-&gt;Function Arguments</translatorcomment>
         <translation>Référence</translation>
     </message>
     <message>
         <source>Result_vector</source>
         <comment>TX_ParaInfo_059</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>Vecteur_résultat</translation>
     </message>
     <message>
@@ -7899,32 +9473,38 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Row_num</source>
         <comment>TX_ParaInfo_061</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ADDRESS-&gt;Function Arguments</translatorcomment>
         <translation>Nom_ligne</translation>
     </message>
     <message>
         <source>Row_num</source>
         <comment>TX_ParaInfo_062</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>Nom_ligne</translation>
     </message>
     <message>
         <source>Rows</source>
         <comment>TX_ParaInfo_063</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OFFSET-&gt;Function Arguments</translatorcomment>
         <translation>Lignes</translation>
     </message>
     <message>
         <source>Second</source>
         <comment>TX_ParaInfo_064</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TIME-&gt;Function Arguments</translatorcomment>
         <translation>Seconde</translation>
     </message>
     <message>
         <source>Serial_number</source>
         <comment>TX_ParaInfo_065</comment>
-        <translation>Numéro_série</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HOUR-&gt;Function Arguments</translatorcomment>
+        <translation>Numéro_de_série</translation>
     </message>
     <message>
         <source>Serial_number</source>
         <comment>TX_ParaInfo_066</comment>
-        <translation>Numéro_série</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MINUTE-&gt;Function Arguments</translatorcomment>
+        <translation>Numéro_de_série</translation>
     </message>
     <message>
         <source>Sheet_text</source>
@@ -7934,51 +9514,61 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Significance</source>
         <comment>TX_ParaInfo_068</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CEILING-&gt;Function Arguments</translatorcomment>
         <translation>Précision</translation>
     </message>
     <message>
         <source>Start_date</source>
         <comment>TX_ParaInfo_069</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATES360-&gt;Function Arguments</translatorcomment>
         <translation>Date_début</translation>
     </message>
     <message>
         <source>Start_num</source>
         <comment>TX_ParaInfo_070</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FIND-&gt;Function Arguments</translatorcomment>
         <translation>Nom_début</translation>
     </message>
     <message>
         <source>Stats</source>
         <comment>TX_ParaInfo_071</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LINEST-&gt;Function Arguments</translatorcomment>
         <translation>Stats</translation>
     </message>
     <message>
         <source>Sum_range</source>
         <comment>TX_ParaInfo_072</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUMIF-&gt;Function Arguments</translatorcomment>
         <translation>Plage_sommes</translation>
     </message>
     <message>
         <source>Table_array</source>
         <comment>TX_ParaInfo_073</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>tableau_matrice</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>TX_ParaInfo_074</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ASC-&gt;Function Arguments</translatorcomment>
         <translation>Texte</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>TX_ParaInfo_075</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CLEAN-&gt;Function Arguments</translatorcomment>
         <translation>Texte</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>TX_ParaInfo_076</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CONCATENATE-&gt;Function Arguments</translatorcomment>
         <translation>Texte</translation>
     </message>
     <message>
         <source>Time_text</source>
         <comment>TX_ParaInfo_077</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TIMEVALUE-&gt;Function Arguments</translatorcomment>
         <translation>Texte_heure</translation>
     </message>
     <message>
@@ -7989,6 +9579,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_079</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CHOOSE-&gt;Function Arguments</translatorcomment>
         <translation>Valeur</translation>
     </message>
     <message>
@@ -8014,26 +9605,31 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Within_text</source>
         <comment>TX_ParaInfo_084</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SEARCH-&gt;Function Arguments</translatorcomment>
         <translation>Dans_texte</translation>
     </message>
     <message>
         <source>X_num</source>
         <comment>TX_ParaInfo_085</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ATAN2-&gt;Function Arguments</translatorcomment>
         <translation>Nom_x</translation>
     </message>
     <message>
         <source>Y_num</source>
         <comment>TX_ParaInfo_086</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ATAN2-&gt;Function Arguments</translatorcomment>
         <translation>Nom_y</translation>
     </message>
     <message>
         <source>Year</source>
         <comment>TX_ParaInfo_087</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATE-&gt;Function Arguments</translatorcomment>
         <translation>Année</translation>
     </message>
     <message>
         <source>Width</source>
         <comment>TX_ParaInfo_088</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OFFSET-&gt;Function Arguments</translatorcomment>
         <translation>Largeur</translation>
     </message>
     <message>
@@ -8044,66 +9640,79 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Cost</source>
         <comment>TX_ParaInfo_090</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AMORDEGRC-&gt;Function Arguments</translatorcomment>
         <translation>Coût</translation>
     </message>
     <message>
         <source>Salvage</source>
         <comment>TX_ParaInfo_091</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AMORDEGRC-&gt;Function Arguments</translatorcomment>
         <translation>Coût initial</translation>
     </message>
     <message>
         <source>Life</source>
         <comment>TX_ParaInfo_092</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DB-&gt;Function Arguments</translatorcomment>
         <translation>Durée de vie</translation>
     </message>
     <message>
         <source>Period</source>
         <comment>TX_ParaInfo_093</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AMORDEGRC-&gt;Function Arguments</translatorcomment>
         <translation>Période</translation>
     </message>
     <message>
         <source>Month</source>
         <comment>TX_ParaInfo_094</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DB-&gt;Function Arguments</translatorcomment>
         <translation>Mois</translation>
     </message>
     <message>
         <source>Factor</source>
         <comment>TX_ParaInfo_095</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DDB-&gt;Function Arguments</translatorcomment>
         <translation>Facteur</translation>
     </message>
     <message>
         <source>Pv</source>
         <comment>TX_ParaInfo_096</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CUMIPMT-&gt;Function Arguments</translatorcomment>
         <translation>Va</translation>
     </message>
     <message>
         <source>Fv</source>
         <comment>TX_ParaInfo_097</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IPMT-&gt;Function Arguments</translatorcomment>
         <translation>Vc</translation>
     </message>
     <message>
         <source>Pmt</source>
         <comment>TX_ParaInfo_098</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FV-&gt;Function Arguments</translatorcomment>
         <translation>Vpm</translation>
     </message>
     <message>
         <source>Rate</source>
         <comment>TX_ParaInfo_099</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments</translatorcomment>
         <translation>Taux</translation>
     </message>
     <message>
         <source>Nper</source>
         <comment>TX_ParaInfo_100</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CUMIPMT-&gt;Function Arguments</translatorcomment>
         <translation>Npm</translation>
     </message>
     <message>
         <source>Rate</source>
         <comment>TX_ParaInfo_101</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NPV-&gt;Function Arguments</translatorcomment>
         <translation>Taux</translation>
     </message>
     <message>
         <source>Type</source>
         <comment>TX_ParaInfo_102</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FV-&gt;Function Arguments</translatorcomment>
         <translation>Type</translation>
     </message>
     <message>
@@ -8114,21 +9723,25 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Values</source>
         <comment>TX_ParaInfo_104</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IRR-&gt;Function Arguments</translatorcomment>
         <translation>Valeurs</translation>
     </message>
     <message>
         <source>Finance_rate</source>
         <comment>TX_ParaInfo_105</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MIRR-&gt;Function Arguments</translatorcomment>
         <translation>Taux_finance</translation>
     </message>
     <message>
         <source>Reinvest_rate</source>
         <comment>TX_ParaInfo_106</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MIRR-&gt;Function Arguments</translatorcomment>
         <translation>Taux_réinvestissement</translation>
     </message>
     <message>
         <source>Guess</source>
         <comment>TX_ParaInfo_107</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IRR-&gt;Function Arguments</translatorcomment>
         <translation>Prédéfini</translation>
     </message>
     <message>
@@ -8149,61 +9762,73 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Percent</source>
         <comment>TX_ParaInfo_111</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PERCENTILE-&gt;Function Arguments</translatorcomment>
         <translation>Pour cent</translation>
     </message>
     <message>
         <source>X</source>
         <comment>TX_ParaInfo_112</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FORECAST-&gt;Function Arguments</translatorcomment>
         <translation>C</translation>
     </message>
     <message>
         <source>Quartile</source>
         <comment>TX_ParaInfo_113</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;QUARTILE-&gt;Function Arguments</translatorcomment>
         <translation>Quartile</translation>
     </message>
     <message>
         <source>Const</source>
         <comment>TX_ParaInfo_114</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GETPIVOTDATA-&gt;Function Arguments</translatorcomment>
         <translation>Const</translation>
     </message>
     <message>
         <source>New_x&apos;s</source>
         <comment>TX_ParaInfo_115</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GETPIVOTDATA-&gt;Function Arguments</translatorcomment>
         <translation>Nouveaux_x</translation>
     </message>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_116</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NPV-&gt;Function Arguments</translatorcomment>
         <translation>Valeur</translation>
     </message>
     <message>
         <source>Arithmetic Average</source>
         <comment>TX_ParaInfo_117</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOGNORMDIST-&gt;Function Arguments</translatorcomment>
         <translation>Moyenne arithmétique</translation>
     </message>
     <message>
         <source>Standard deviation</source>
         <comment>TX_ParaInfo_118</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOGINV-&gt;Function Arguments</translatorcomment>
         <translation>Écart-type</translation>
     </message>
     <message>
         <source>Returns the cumulative distribution function</source>
         <comment>TX_ParaInfo_119</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BINOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>Renvoie la fonction de distribution cumulée</translation>
     </message>
     <message>
         <source>Distribution Probability</source>
         <comment>TX_ParaInfo_120</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FINV-&gt;Function Arguments</translatorcomment>
         <translation>Probabilité de distribution</translation>
     </message>
     <message>
         <source>Degrees of freedom</source>
         <comment>TX_ParaInfo_121</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CHIDIST-&gt;Function Arguments</translatorcomment>
         <translation>Degrés de liberté</translation>
     </message>
     <message>
         <source>Alpha</source>
         <comment>TX_ParaInfo_122</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GAMMADIST-&gt;Function Arguments</translatorcomment>
         <translation>Alpha</translation>
     </message>
     <message>
@@ -8214,96 +9839,115 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Number_f</source>
         <comment>TX_ParaInfo_124</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NEGBINOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>Nombre_f</translation>
     </message>
     <message>
         <source>Number_s</source>
         <comment>TX_ParaInfo_125</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BINOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>Nombre_s</translation>
     </message>
     <message>
         <source>Probability_s</source>
         <comment>TX_ParaInfo_126</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BINOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>Probabilité_s</translation>
     </message>
     <message>
         <source>Sample_s</source>
         <comment>TX_ParaInfo_127</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HYPGEOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>Échantillon_s</translation>
     </message>
     <message>
         <source>Number_sample</source>
         <comment>TX_ParaInfo_128</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CONFIDENCE-&gt;Function Arguments</translatorcomment>
         <translation>Nombre_échantillon</translation>
     </message>
     <message>
         <source>Population_s</source>
         <comment>TX_ParaInfo_129</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HYPGEOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>Population_s</translation>
     </message>
     <message>
         <source>Number_population</source>
         <comment>TX_ParaInfo_130</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HYPGEOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>Nombre_population</translation>
     </message>
     <message>
         <source>Alpha</source>
         <comment>TX_ParaInfo_131</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CONFIDENCE-&gt;Function Arguments</translatorcomment>
         <translation>Alpha</translation>
     </message>
     <message>
         <source>Standard_dev</source>
         <comment>TX_ParaInfo_132</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CONFIDENCE-&gt;Function Arguments</translatorcomment>
         <translation>Écart-type</translation>
     </message>
     <message>
         <source>X</source>
         <comment>TX_ParaInfo_133</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EXPONDIST-&gt;Function Arguments</translatorcomment>
         <translation>C</translation>
     </message>
     <message>
         <source>X</source>
         <comment>TX_ParaInfo_134</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EXPONDIST-&gt;Function Arguments</translatorcomment>
         <translation>C</translation>
     </message>
     <message>
         <source>Sample Standard Deviation</source>
         <comment>TX_ParaInfo_135</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ZTEST-&gt;Function Arguments</translatorcomment>
         <translation>Écart-type de l&apos;échantillon</translation>
     </message>
     <message>
         <source>μ0</source>
         <comment>TX_ParaInfo_136</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ZTEST-&gt;Function Arguments</translatorcomment>
         <translation>μ0</translation>
     </message>
     <message>
         <source>Actual_range</source>
         <comment>TX_ParaInfo_137</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CHITEST-&gt;Function Arguments</translatorcomment>
         <translation>Plage_réelle</translation>
     </message>
     <message>
         <source>Expected_range</source>
         <comment>TX_ParaInfo_138</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CHITEST-&gt;Function Arguments</translatorcomment>
         <translation>Plage_attendue</translation>
     </message>
     <message>
         <source>Number</source>
         <comment>TX_ParaInfo_139</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COMBIN-&gt;Function Arguments</translatorcomment>
         <translation>Nombre</translation>
     </message>
     <message>
         <source>Number_chosen</source>
         <comment>TX_ParaInfo_140</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COMBIN-&gt;Function Arguments</translatorcomment>
         <translation>Nombre_choisi</translation>
     </message>
     <message>
         <source>Data_array</source>
         <comment>TX_ParaInfo_141</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FREQUENCY-&gt;Function Arguments</translatorcomment>
         <translation>Matrice_données</translation>
     </message>
     <message>
         <source>Bins_array</source>
         <comment>TX_ParaInfo_142</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FREQUENCY-&gt;Function Arguments</translatorcomment>
         <translation>Matrices_bacs</translation>
     </message>
     <message>
@@ -8329,21 +9973,25 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Type</source>
         <comment>TX_ParaInfo_147</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ROMAN-&gt;Function Arguments</translatorcomment>
         <translation>Type</translation>
     </message>
     <message>
         <source>Value X</source>
         <comment>TX_ParaInfo_148</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BETADIST-&gt;Function Arguments</translatorcomment>
         <translation>Valeur X</translation>
     </message>
     <message>
         <source>Lower bound of the X range</source>
         <comment>TX_ParaInfo_149</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BETADIST-&gt;Function Arguments</translatorcomment>
         <translation>Limite inférieure de la plage X</translation>
     </message>
     <message>
         <source>Upper bound of the X range </source>
         <comment>TX_ParaInfo_150</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BETADIST-&gt;Function Arguments</translatorcomment>
         <translation>Limite supérieure de la plage X </translation>
     </message>
     <message>
@@ -8354,11 +10002,13 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Degrees_freedom 1</source>
         <comment>TX_ParaInfo_152</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FDIST-&gt;Function Arguments</translatorcomment>
         <translation>Degrés_liberté 1</translation>
     </message>
     <message>
         <source>Degrees_freedom 2</source>
         <comment>TX_ParaInfo_153</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FDIST-&gt;Function Arguments</translatorcomment>
         <translation>Degrés_liberté 2</translation>
     </message>
     <message>
@@ -8369,91 +10019,109 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Trials</source>
         <comment>TX_ParaInfo_155</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BINOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>Tirages</translation>
     </message>
     <message>
         <source>Alpha</source>
         <comment>TX_ParaInfo_156</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BETADIST-&gt;Function Arguments</translatorcomment>
         <translation>Alpha</translation>
     </message>
     <message>
         <source>X_range</source>
         <comment>TX_ParaInfo_157</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PROB-&gt;Function Arguments</translatorcomment>
         <translation>X_range</translation>
     </message>
     <message>
         <source>Prob_range</source>
         <comment>TX_ParaInfo_158</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PROB-&gt;Function Arguments</translatorcomment>
         <translation>Plage_prob</translation>
     </message>
     <message>
         <source>Lambda</source>
         <comment>TX_ParaInfo_159</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AVERAGEIFS-&gt;Function Arguments</translatorcomment>
         <translation>Lambda</translation>
     </message>
     <message>
         <source>N</source>
         <comment>TX_ParaInfo_160</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BESSELI-&gt;Function Arguments</translatorcomment>
         <translation>N</translation>
     </message>
     <message>
         <source>Number</source>
         <comment>TX_ParaInfo_161</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DELTA-&gt;Function Arguments</translatorcomment>
         <translation>Nombre</translation>
     </message>
     <message>
         <source>Integral lower bound</source>
         <comment>TX_ParaInfo_162</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ERF-&gt;Function Arguments</translatorcomment>
         <translation>Limite inférieure intégrale</translation>
     </message>
     <message>
         <source>Integral upper bound</source>
         <comment>TX_ParaInfo_163</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ERF-&gt;Function Arguments</translatorcomment>
         <translation>Limite supérieure intégrale</translation>
     </message>
     <message>
         <source>Alpha</source>
         <comment>TX_ParaInfo_164</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CRITBINOM-&gt;Function Arguments</translatorcomment>
         <translation>Alpha</translation>
     </message>
     <message>
         <source>Hex</source>
         <comment>TX_ParaInfo_165</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HEX2BIN-&gt;Function Arguments</translatorcomment>
         <translation>Hex</translation>
     </message>
     <message>
         <source>Places</source>
         <comment>TX_ParaInfo_166</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BIN2HEX-&gt;Function Arguments</translatorcomment>
         <translation>Places</translation>
     </message>
     <message>
         <source>Real_num</source>
         <comment>TX_ParaInfo_167</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COMPLEX-&gt;Function Arguments</translatorcomment>
         <translation>Nom_réel</translation>
     </message>
     <message>
         <source>I_num</source>
         <comment>TX_ParaInfo_168</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COMPLEX-&gt;Function Arguments</translatorcomment>
         <translation>Nom_I</translation>
     </message>
     <message>
         <source>Suffix</source>
         <comment>TX_ParaInfo_169</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COMPLEX-&gt;Function Arguments</translatorcomment>
         <translation>Suffixe</translation>
     </message>
     <message>
         <source>Inumber</source>
         <comment>TX_ParaInfo_170</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMABS-&gt;Function Arguments</translatorcomment>
         <translation>Nombrei</translation>
     </message>
     <message>
         <source>From_unit</source>
         <comment>TX_ParaInfo_171</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CONVERT-&gt;Function Arguments</translatorcomment>
         <translation>Depuis_unité</translation>
     </message>
     <message>
         <source>To_unit</source>
         <comment>TX_ParaInfo_172</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CONVERT-&gt;Function Arguments</translatorcomment>
         <translation>Vers_unité</translation>
     </message>
     <message>
@@ -8464,11 +10132,13 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Decimals</source>
         <comment>TX_ParaInfo_174</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DOLLAR-&gt;Function Arguments</translatorcomment>
         <translation>Décimales</translation>
     </message>
     <message>
         <source>no_commas</source>
         <comment>TX_ParaInfo_175</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FIXED-&gt;Function Arguments</translatorcomment>
         <translation>pas_virgules</translation>
     </message>
     <message>
@@ -8479,16 +10149,19 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Basis</source>
         <comment>TX_ParaInfo_177</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINTM-&gt;Function Arguments</translatorcomment>
         <translation>Base</translation>
     </message>
     <message>
         <source>Method</source>
         <comment>TX_ParaInfo_178</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DAYS360-&gt;Function Arguments</translatorcomment>
         <translation>Méthode</translation>
     </message>
     <message>
         <source>Number of months</source>
         <comment>TX_ParaInfo_179</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EDATE-&gt;Function Arguments</translatorcomment>
         <translation>Nombre de mois</translation>
     </message>
     <message>
@@ -8499,16 +10172,19 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Database range</source>
         <comment>TX_ParaInfo_181</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DCOUNT-&gt;Function Arguments</translatorcomment>
         <translation>Plage de base de données</translation>
     </message>
     <message>
         <source>Operation field</source>
         <comment>TX_ParaInfo_182</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DCOUNT-&gt;Function Arguments</translatorcomment>
         <translation>Champ d&apos;opération</translation>
     </message>
     <message>
         <source>Date of issue</source>
         <comment>TX_ParaInfo_183</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments</translatorcomment>
         <translation>Date d&apos;émission</translation>
     </message>
     <message>
@@ -8519,91 +10195,109 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Face value</source>
         <comment>TX_ParaInfo_185</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments</translatorcomment>
         <translation>Valeur nominale</translation>
     </message>
     <message>
         <source>decimal number</source>
         <comment>TX_ParaInfo_186</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DEC2BIN-&gt;Function Arguments</translatorcomment>
         <translation>nombre décimal</translation>
     </message>
     <message>
         <source>binary number</source>
         <comment>TX_ParaInfo_187</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BIN2DEC-&gt;Function Arguments</translatorcomment>
         <translation>nombre binaire</translation>
     </message>
     <message>
         <source>Angle</source>
         <comment>TX_ParaInfo_188</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RADIANS-&gt;Function Arguments</translatorcomment>
         <translation>Angle</translation>
     </message>
     <message>
         <source>Up to one digit (%s)</source>
         <comment>TX_FRACTION_STYLE_01</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Fraction-&gt;Type</translatorcomment>
         <translation>D&apos;un chiffre (%s )</translation>
     </message>
     <message>
         <source>Up to two digits (%s)</source>
         <comment>TX_FRACTION_STYLE_02</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Fraction-&gt;Type</translatorcomment>
         <translation>De deux chiffres (%s)</translation>
     </message>
     <message>
         <source>Up to three digits (%s)</source>
         <comment>TX_FRACTION_STYLE_03</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Fraction-&gt;Type</translatorcomment>
         <translation>De trois chiffres (%s)</translation>
     </message>
     <message>
         <source>As halves (%s)</source>
         <comment>TX_FRACTION_STYLE_04</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Fraction-&gt;Type</translatorcomment>
         <translation>Demis (%s)</translation>
     </message>
     <message>
         <source>As quarters (%s)</source>
         <comment>TX_FRACTION_STYLE_05</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Fraction-&gt;Type</translatorcomment>
         <translation>Quarts (%s)</translation>
     </message>
     <message>
         <source>As eighths (%s)</source>
         <comment>TX_FRACTION_STYLE_06</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Fraction-&gt;Type</translatorcomment>
         <translation>Huitièmes (%s)</translation>
     </message>
     <message>
         <source>As sixteenths (%s)</source>
         <comment>TX_FRACTION_STYLE_07</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Fraction-&gt;Type</translatorcomment>
         <translation>Seizièmes (%s)</translation>
     </message>
     <message>
         <source>As tenths (%s)</source>
         <comment>TX_FRACTION_STYLE_08</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Fraction-&gt;Type</translatorcomment>
         <translation>Dizièmes (%s)</translation>
     </message>
     <message>
         <source>As hundredths (%s)</source>
         <comment>TX_FRACTION_STYLE_09</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Fraction-&gt;Type</translatorcomment>
         <translation>Centièmes (%s)</translation>
     </message>
     <message>
         <source>Zip code</source>
         <comment>TX_SPECIAL_STYLE_01</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Special-&gt;Type</translatorcomment>
         <translation>Code postal</translation>
     </message>
     <message>
         <source>Lower Case Chinese number</source>
         <comment>TX_SPECIAL_STYLE_02</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Special-&gt;Type</translatorcomment>
         <translation>Numéro chinois en minuscules</translation>
     </message>
     <message>
         <source>Upper Case Chinese number</source>
         <comment>TX_SPECIAL_STYLE_03</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Special-&gt;Type</translatorcomment>
         <translation>Numéro chinois en majuscules</translation>
     </message>
     <message>
         <source>Upper Case Chinese number2</source>
         <comment>TX_SPECIAL_STYLE_04</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Special-&gt;Type</translatorcomment>
         <translation>Numéro chinois en majuscules2</translation>
     </message>
     <message>
         <source>Upper Case RMB</source>
         <comment>TX_SPECIAL_STYLE_05</comment>
+        <translatorcomment>Home tab-&gt;Format-&gt;Cells-&gt;Format Cells dialog box-&gt;Number-&gt;Special-&gt;Type</translatorcomment>
         <translation>RMB en majuscules</translation>
     </message>
     <message>
@@ -8619,36 +10313,43 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>The selection contains some cells without Data Validation settings. Do you want to make this Data Validation settings to these cells too?</source>
         <comment>TX_DV_APPLYVALIDATION</comment>
+        <translatorcomment>Data tab-&gt;Validation-&gt;</translatorcomment>
         <translation>La sélection contient des cellules sans paramètres de validation des données. Voulez-vous étendre ces paramètres de validation de données à ces cellules également ?</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TX_LEFT_MARGIN</comment>
+        <translatorcomment>Quick-access toolbar-&gt;Print Preview-&gt;Margins-&gt;click and hold the left margin</translatorcomment>
         <translation>Gauche</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TX_RIGHT_MARGIN</comment>
+        <translatorcomment>Quick-access toolbar-&gt;Print Preview-&gt;Margins-&gt;click and hold the right margin</translatorcomment>
         <translation>Droite</translation>
     </message>
     <message>
         <source>Top</source>
         <comment>TX_TOP_MARGIN</comment>
+        <translatorcomment>Quick-access toolbar-&gt;Print Preview-&gt;Margins-&gt;click and hold the top margin</translatorcomment>
         <translation>Haut</translation>
     </message>
     <message>
         <source>Bottom</source>
         <comment>TX_BOTTOM_MARGIN</comment>
+        <translatorcomment>Quick-access toolbar-&gt;Print Preview-&gt;Margins-&gt;click and hold the bottom margin</translatorcomment>
         <translation>Bas</translation>
     </message>
     <message>
         <source>Header</source>
         <comment>TX_HEADER_POS</comment>
+        <translatorcomment>Quick-access toolbar-&gt;Print Preview-&gt;Margins-&gt;click and hold the header margin</translatorcomment>
         <translation>En-tête</translation>
     </message>
     <message>
         <source>Footer</source>
         <comment>TX_FOOTER_POS</comment>
+        <translatorcomment>Quick-access toolbar-&gt;Print Preview-&gt;Margins-&gt;click and hold the footer margin</translatorcomment>
         <translation>Pied de page</translation>
     </message>
     <message>
@@ -8659,91 +10360,109 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>You have not selected the data to be parsed.</source>
         <comment>TX_DS_NODATA</comment>
+        <translatorcomment>Data tab-&gt;Subtotal</translatorcomment>
         <translation>Vous n&apos;avez pas sélectionné les données à analyser.</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections. Select a single region and then perform this command again.</source>
         <comment>TX_DS_MULSEL</comment>
+        <translatorcomment>Data tab-&gt;Subtotal</translatorcomment>
         <translation>Impossible d&apos;utiliser cette commande sur des sélections multiples. Sélectionnez une seule zone, puis exécutez à nouveau cette commande.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets only can convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
         <comment>TX_DS_MULCOLS</comment>
+        <translatorcomment>Data tab-&gt;Subtotal</translatorcomment>
         <translation>WPS Spreadsheets peut uniquement convertir une colonne à la fois. La sélection peut contenir plusieurs lignes, mais une seule colonne. Sélectionnez les cellules d&apos;une même colonne et réessayez.</translation>
     </message>
     <message>
         <source>Margins you set do not fit for the paper size you specified.</source>
         <comment>TX_PAPERMARGINERR</comment>
+        <translatorcomment>Page layout-&gt;Margins-&gt;Top, enter &apos;100&apos;-&gt;OK</translatorcomment>
         <translation>Les marges que vous définissez ne sont pas à l&apos;échelle de la feuille que vous avez spécifiée.</translation>
     </message>
     <message>
         <source>Do you want to continue searching from the beginning of the sheet?</source>
         <comment>TX_CHECKSPELLING_RBEGIN</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Voulez-vous continuer la recherche depuis le début de la feuille ?</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
         <comment>TX_CHECKSPELLING_SHEETOK</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Vérification orthographique terminée.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find a default custom dictionary. Please select one from Settings and perform the command again.</source>
         <comment>TX_CHECKSPELLING_NODICTIONARY</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>WPS Spreadsheets ne peut pas trouver de dictionnaire personnalisé par défaut. Sélectionnez-en un dans les paramètres et exécutez la commande à nouveau.</translation>
     </message>
     <message>
         <source>This word you used does not exist in both main dictionary and custom dictionary. Do you want to add it to the custom dictionary?</source>
         <comment>TX_CHECKSPELLING_ADDTODICTIONARY</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Le mot que vous avez utilisé n&apos;existe pas dans le dictionnaire principal et le dictionnaire personnalisé. Voulez-vous l&apos;ajouter au dictionnaire personnalisé ?</translation>
     </message>
     <message>
         <source>Cell </source>
         <comment>TX_CHECKSPELLING_FROMCELL</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Cellule </translation>
     </message>
     <message>
         <source>Text box </source>
         <comment>TX_CHECKSPELLING_FROMTEXTBOX</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Zone de texte </translation>
     </message>
     <message>
         <source>Left section </source>
         <comment>TX_CHECKSPELLING_FROMLEFTHEADER</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Partie gauche </translation>
     </message>
     <message>
         <source>Center section </source>
         <comment>TX_CHECKSPELLING_FROMCENTERHEADER</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Partie centrale </translation>
     </message>
     <message>
         <source>Right section </source>
         <comment>TX_CHECKSPELLING_FROMRIGHTHEADER</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Partie droite </translation>
     </message>
     <message>
         <source>Left section </source>
         <comment>TX_CHECKSPELLING_FROMLEFTFOOTER</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Partie gauche </translation>
     </message>
     <message>
         <source>Center section </source>
         <comment>TX_CHECKSPELLING_FROMCENTERFOOTER</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Partie centrale </translation>
     </message>
     <message>
         <source>Right section </source>
         <comment>TX_CHECKSPELLING_FROMRIGHTFOOTER</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Partie droite </translation>
     </message>
     <message>
         <source>The comment of </source>
         <comment>TX_CHECKSPELLING_FROMCOMMENT</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Commentaire de </translation>
     </message>
     <message>
         <source>Chart </source>
         <comment>TX_CHECKSPELLING_FROMCHART</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>Graphique </translation>
     </message>
     <message>
@@ -8754,6 +10473,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>WPS Spreadsheets has finished checking spelling in your selection. Do you want to check spelling in the entire sheet?</source>
         <comment>TX_CHECKSPELLING_SHEETYESNO</comment>
+        <translatorcomment>Review-&gt;Spell Check</translatorcomment>
         <translation>WPS Spreadsheets a terminé la vérification orthographique de votre sélection. VOulez-vous vérifier l&apos;orthographe de la feuille entière ?</translation>
     </message>
     <message>
@@ -8816,17 +10536,20 @@ des données</translation>
     <message>
         <source>The Value must be a decimal number, numeric expression, or reference to a cell containing decimal numbers.</source>
         <comment>TX_DV_Decimal</comment>
-        <translation>Valeur doit être un nombre décimal, une expression numérique ou une référence à une cellule contenant des valeurs décimales.</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Decimal</translatorcomment>
+        <translation>La valeur doit être un nombre décimal, une expression numérique ou une référence à une cellule contenant des valeurs décimales.</translation>
     </message>
     <message>
         <source>The Minimum must be a decimal number, numeric expression, or reference to a cell containing decimal numbers.</source>
         <comment>TX_DV_Decimal1</comment>
-        <translation>Minimum doit être un nombre décimal, une expression numérique ou une référence à une cellule contenant des valeurs décimales.</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Decimal</translatorcomment>
+        <translation>Le minimum doit être un nombre décimal, une expression numérique ou une référence à une cellule contenant des valeurs décimales.</translation>
     </message>
     <message>
         <source>The Maximum must be a decimal number, numeric expression, or reference to a cell containing decimal numbers.</source>
         <comment>TX_DV_Decimal2</comment>
-        <translation>Maximum doit être un nombre décimal, une expression numérique ou une référence à une cellule contenant des valeurs décimales.</translation>
+        <translatorcomment>Data tab-&gt;Validation-&gt;Settings-&gt;Allow, choose Decimal</translatorcomment>
+        <translation>Le maximum doit être un nombre décimal, une expression numérique ou une référence à une cellule contenant des valeurs décimales.</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -8896,11 +10619,13 @@ des données</translation>
     <message>
         <source>Hyperlink position</source>
         <comment>TX_ParaInfo_190</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HYPERLINK-&gt;Function Arguments</translatorcomment>
         <translation>Position du lien hypertexte</translation>
     </message>
     <message>
         <source>Display text</source>
         <comment>TX_ParaInfo_191</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HYPERLINK-&gt;Function Arguments</translatorcomment>
         <translation>Texte d&apos;affichage</translation>
     </message>
     <message>
@@ -8926,16 +10651,19 @@ des données</translation>
     <message>
         <source>Value Date</source>
         <comment>TX_ParaInfo_192</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments</translatorcomment>
         <translation>Date de valeur</translation>
     </message>
     <message>
         <source>Transaction Date</source>
         <comment>TX_ParaInfo_193</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments</translatorcomment>
         <translation>Date de transaction</translation>
     </message>
     <message>
         <source>Number of paying interest annually</source>
         <comment>TX_ParaInfo_194</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COUPDAYBS-&gt;Function Arguments</translatorcomment>
         <translation>Montant des intérêts perçus chaque année</translation>
     </message>
     <message>
@@ -8951,6 +10679,7 @@ des données</translation>
     <message>
         <source>Tails</source>
         <comment>TX_ParaInfo_195</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CONCATENATE-&gt;Function Arguments</translatorcomment>
         <translation>Uni/bilatéral</translation>
     </message>
     <message>
@@ -8986,31 +10715,37 @@ des données</translation>
     <message>
         <source>Info_type</source>
         <comment>TX_ParaInfo_197</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CELL-&gt;Function Arguments</translatorcomment>
         <translation>Type_info</translation>
     </message>
     <message>
         <source>is the real number for which you want the absolute value.</source>
         <comment>TX_ParaDesc_001</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ABS-&gt;Function Arguments</translatorcomment>
         <translation>correspond au nombre réel pour lequel vous voulez connaître la valeur absolue.</translation>
     </message>
     <message>
         <source>is the cosine of the angle you want and must be from -1 to 1.</source>
         <comment>TX_ParaDesc_002</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACOS-&gt;Function Arguments</translatorcomment>
         <translation>correspond au cosinus de l&apos;angle que vous voulez et doit se situer entre -1 et 1.</translation>
     </message>
     <message>
         <source>is any real number equal to or greater than 1</source>
         <comment>TX_ParaDesc_003</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ASINH-&gt;Function Arguments</translatorcomment>
         <translation>correspond à n&apos;importe quel nombre réel égal ou supérieur à 1</translation>
     </message>
     <message>
         <source>is the row number to use in the cell reference: Row_number =1 for row</source>
         <comment>TX_ParaDesc_004</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ADDRESS-&gt;Function Arguments</translatorcomment>
         <translation>correspond au numéro de ligne à utiliser dans la référence de cellule : Row_number =1 pour la ligne</translation>
     </message>
     <message>
         <source>is the column number to use in the cell reference. For example Column_number = 4 for column D.</source>
         <comment>TX_ParaDesc_005</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ADDRESS-&gt;Function Arguments</translatorcomment>
         <translation>correspond au numéro de colonne à utiliser dans la référence de cellule. Par exemple : Column_number = 4 pour la colonne D.</translation>
     </message>
     <message>
@@ -9021,166 +10756,198 @@ des données</translation>
     <message>
         <source>is a logical value that specifies the reference style; A1 style = 1 or TRUE; R1C1 style = 0 or FALSE.</source>
         <comment>TX_ParaDesc_007</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ADDRESS-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique qui spécifie le style de référence ; style A1 = 1 ou TRUE ; style R1C1 = 0 ou FALSE.</translation>
     </message>
     <message>
         <source>is text specifying the name of the worksheet to be used as the external reference.</source>
         <comment>TX_ParaDesc_008</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ADDRESS-&gt;Function Arguments</translatorcomment>
         <translation>correspond au texte spécifiant le nom de la feuille de calcul à utiliser comme référence externe.</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AND-&gt;Function Arguments</translatorcomment>
         <translation>logique1, logique2,... correspondent aux conditions 1 à 30 que vous voulez tester qui peuvent être TRUE ou FAlSE et être des valeurs logiques, des matrices ou des références.</translation>
     </message>
     <message>
         <source>is a reference to a cell or range of cells and can refer to multiple areas.</source>
         <comment>TX_ParaDesc_010</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AREAS-&gt;Function Arguments</translatorcomment>
         <translation>correspond à une référence d&apos;une cellule ou d&apos;une plage et peut faire référence à plusieurs zones.</translation>
     </message>
     <message>
         <source>is the text you want to convert to single-byte, or reference to text cell.</source>
         <comment>TX_ParaDesc_011</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ASC-&gt;Function Arguments</translatorcomment>
         <translation>correspond au texte que vous voulez coder sur deux octets ou auquel faire référence dans la cellule de texte.</translation>
     </message>
     <message>
         <source>is the sine of the angle you want and must be from -1 to 1.</source>
         <comment>TX_ParaDesc_012</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ASIN-&gt;Function Arguments</translatorcomment>
         <translation>correspond au sinus de l&apos;angle que vous voulez et doit se situer entre -1 et 1.</translation>
     </message>
     <message>
         <source>is any real number equal or greater than 1.</source>
         <comment>TX_ParaDesc_013</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ASINH-&gt;Function Arguments</translatorcomment>
         <translation>correspond à n&apos;importe quel nombre réel égal ou supérieur à 1.</translation>
     </message>
     <message>
         <source>is the tangent of the angle you want.</source>
         <comment>TX_ParaDesc_014</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ATAN-&gt;Function Arguments</translatorcomment>
         <translation>correspond à la tangente de l&apos;angle que vous voulez.</translation>
     </message>
     <message>
         <source>is the x-coordinate of the point.</source>
         <comment>TX_ParaDesc_015</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ATAN2-&gt;Function Arguments</translatorcomment>
         <translation>correspond à la coordonnée x du point.</translation>
     </message>
     <message>
         <source>is the y-coordinate of the point.</source>
         <comment>TX_ParaDesc_016</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ATAN2-&gt;Function Arguments</translatorcomment>
         <translation>correspond à la coordonnée y du point.</translation>
     </message>
     <message>
         <source>is any real number between -1 and 1 excluding -1 and 1.</source>
         <comment>TX_ParaDesc_017</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ATANH-&gt;Function Arguments</translatorcomment>
         <translation>correspond à n&apos;importe quel nombre réel compris entre -1 et 1.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation>numéro1, numéro2,... correspondent aux arguments 1 à 30 dont vous voulez connaître la moyenne des écarts-types.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AVEDEV-&gt;Function Arguments</translatorcomment>
+        <translation>nombre1, nombre2,... correspondent aux arguments 1 à 30 dont vous voulez connaître la moyenne des écarts-types.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation>correspondent aux arguments numériques 1 à 30 dont vous voulez connaître la moyenne.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AVERAGE-&gt;Function Arguments</translatorcomment>
+        <translation>nombre1, nombre2,... correspondent aux arguments numériques 1 à 30 dont vous voulez connaître la moyenne.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AVERAGEA-&gt;Function Arguments</translatorcomment>
         <translation>valeur1, valeur2,... correspondent aux arguments 1 à 30 dont vous voulez connaître la moyenne.</translation>
     </message>
     <message>
         <source>the numbers you want to convert.</source>
         <comment>TX_ParaDesc_021</comment>
-        <translation>le nombres que vous souhaitez convertir.</translation>
+        <translation type="unfinished">le nombres que vous souhaitez convertir.</translation>
     </message>
     <message>
         <source>is the value between A and B at which to evaluate the function.</source>
         <comment>TX_ParaDesc_022</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BETADIST-&gt;Function Arguments-&gt;VALUE X</translatorcomment>
         <translation>correspond à la valeur située entre A et B avec laquelle évaluer la fonction.</translation>
     </message>
     <message>
         <source>is a parameter to the distribution and must be greater than 0.</source>
         <comment>TX_ParaDesc_023</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BETADIST-&gt;Function Arguments-&gt;Alpha</translatorcomment>
         <translation>correspond au paramètre de la distribution et doit être supérieur à 0.</translation>
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range =0.</source>
         <comment>TX_ParaDesc_024</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BETADIST-&gt;Function Arguments-&gt;Upper bound of the X range</translatorcomment>
         <translation>correspond à la limite supérieure facultative de l&apos;intervalle de x. Si omis, la limite supérieure de la plage x = 1 et la limite inférieure de la page x = 0.</translation>
     </message>
     <message>
         <source>is probability associated with the beta distribution.</source>
         <comment>TX_ParaDesc_025</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BETAINV-&gt;Function Arguments-&gt;Distribution Probability</translatorcomment>
         <translation>est une probabilité associée à la distribution bêta.</translation>
     </message>
     <message>
         <source>is a parameter to the distribution and must be greater than 0.</source>
         <comment>TX_ParaDesc_026</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BETAINV-&gt;Function Arguments-&gt;Alpha</translatorcomment>
         <translation>correspond au paramètre de la distribution et doit être supérieur à 0.</translation>
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range =0.</source>
         <comment>TX_ParaDesc_027</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BETADIST-&gt;Function Arguments-&gt;Upper bound of the X range</translatorcomment>
         <translation>correspond à la limite supérieure facultative de l&apos;intervalle de x. Si omis, la limite supérieure de la plage x = 1 et la limite inférieure de la page x = 0.</translation>
     </message>
     <message>
         <source>is the number of successes in trials.</source>
         <comment>TX_ParaDesc_028</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BINOMDIST-&gt;Function Arguments-&gt;Number_s</translatorcomment>
         <translation>correspond au nombre de tirages réussis.</translation>
     </message>
     <message>
         <source>is the number of independent trials.</source>
         <comment>TX_ParaDesc_029</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BINOMDIST-&gt;Function Arguments-&gt;Trials</translatorcomment>
         <translation>correspond au nombre de tirages indépendants.</translation>
     </message>
     <message>
         <source>is the probability of success on each trial.</source>
         <comment>TX_ParaDesc_030</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BINOMDIST-&gt;Function Arguments-&gt;Probability_s</translatorcomment>
         <translation>est la probabilité de succès de chaque tirage.</translation>
     </message>
     <message>
         <source>is the value you want to round.</source>
         <comment>TX_ParaDesc_031</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BINOMDIST-&gt;Function Arguments-&gt;Returns the individual term binomial distribution probability.</translatorcomment>
         <translation>correspond à la valeur que vous voulez arrondir.</translation>
     </message>
     <message>
         <source>is the value you want to round.</source>
         <comment>TX_ParaDesc_032</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BINOMDIST-&gt;Function Arguments-&gt;Returns the individual term binomial distribution probability.</translatorcomment>
         <translation>correspond à la valeur que vous voulez arrondir.</translation>
     </message>
     <message>
         <source>is the multiple to which you want to round.</source>
         <comment>TX_ParaDesc_033</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CEILING-&gt;Function Arguments-&gt;</translatorcomment>
         <translation>correspond au multiple auquel vous voulez arrondir.</translation>
     </message>
     <message>
         <source>is a text value that specifies what type of cell information you want.</source>
         <comment>TX_ParaDesc_034</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CELL-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur de texte qui spécifie le type d&apos;informations de cellule que vous voulez.</translation>
     </message>
     <message>
         <source>is a text value that specifies what type of cell information you want.</source>
         <comment>TX_ParaDesc_035</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CELL-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur de texte qui spécifie le type d&apos;informations de cellule que vous voulez.</translation>
     </message>
     <message>
         <source>is the cell that you want information about.</source>
         <comment>TX_ParaDesc_036</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CELL-&gt;Function Arguments</translatorcomment>
         <translation>représente la cellule sur laquelle vous voulez des informations.</translation>
     </message>
     <message>
         <source>is a number between 1 and 255 specifying which character you want.</source>
         <comment>TX_ParaDesc_037</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CHAR-&gt;Function Arguments</translatorcomment>
         <translation>représente un nombre entre 1 et 255 spécifiant quel caractère vous voulez.</translation>
     </message>
     <message>
         <source>is the value at which you want to evaluate the distribution, a nonnegative number.</source>
         <comment>TX_ParaDesc_038</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CHIDIST-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à laquelle vous voulez évaluer la distribution, un nombre positif.</translation>
     </message>
     <message>
         <source>is the number of degrees of freedom, a number between 1 and 10^10, excluding 10^10.</source>
         <comment>TX_ParaDesc_039</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CHIDIST-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de degrés de liberté, un nombre entre 1 et 10^10, à l&apos;exclusion de 10^10.</translation>
     </message>
     <message>
@@ -9191,11 +10958,13 @@ des données</translation>
     <message>
         <source>is the range of data that contains observations to test against expected values.</source>
         <comment>TX_ParaDesc_041</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CHITEST-&gt;Function Arguments</translatorcomment>
         <translation>représente la plage de données contenant les observations à tester par rapport aux valeurs attendues</translation>
     </message>
     <message>
         <source>is the range of data that contains the ratio of the product of row totals and column totals to the grand total.</source>
         <comment>TX_ParaDesc_042</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CHITEST-&gt;Function Arguments</translatorcomment>
         <translation>représente la plage de données contenant le rapport du produit des totaux de ligne et colonne avec le total général.</translation>
     </message>
     <message>
@@ -9206,166 +10975,199 @@ des données</translation>
     <message>
         <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CHOOSE-&gt;Function Arguments</translatorcomment>
         <translation>valeur 1, valeur 2,... sont des nombres, des références de cellule, des noms définis, des formules, des fonctions ou des arguments de texte de 1 à 29 à partir desquels CHOISIR effectue une sélection.</translation>
     </message>
     <message>
         <source>is any worksheet information from which you want to remove nonprintable characters.</source>
         <comment>TX_ParaDesc_045</comment>
-        <translation>est n&apos;importe quelle information de feuille de calcul pour laquelle vous voulez supprimer des caractères non imprimables.</translation>
+        <translatorcomment>Formulas-&gt;All-&gt;CLEAN-&gt;Function Arguments</translatorcomment>
+        <translation>est n&apos;importe quelle information de feuille de calcul de laquelle vous voulez supprimer des caractères non imprimables.</translation>
     </message>
     <message>
         <source>is the text for which you want the code of the first character.</source>
         <comment>TX_ParaDesc_046</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CODE-&gt;Function Arguments</translatorcomment>
         <translation>est le texte pour lequel vous voulez le code du premier caractère.</translation>
     </message>
     <message>
         <source>is the cell or range of contiguous cells for which you want the column number. If omitted, the cell containing the COLUMN function is used.</source>
         <comment>TX_ParaDesc_047</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;COLUMN-&gt;Function Arguments</translatorcomment>
         <translation>est la cellule ou la plage de cellules contiguës pour lesquelles vous voulez le numéro de colonne. Si omis, la cellule contenant la fonction COLUMN est utilisée.</translation>
     </message>
     <message>
         <source>is an array or array formula, or a reference to a range of cells for which you want the number of columns.</source>
         <comment>TX_ParaDesc_048</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;COLUMNS-&gt;Function Arguments</translatorcomment>
         <translation>est une matrice ou une formule de matrice, ou une référence à une plage de cellules pour laquelle vous voulez le nombre de colonnes.</translation>
     </message>
     <message>
         <source>is the total number of items.</source>
         <comment>TX_ParaDesc_049</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;COMBIN-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre total d&apos;éléments.</translation>
     </message>
     <message>
         <source>is the number of items in each combination.</source>
         <comment>TX_ParaDesc_050</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;COMBIN-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre d&apos;éléments dans chaque combinaison.</translation>
     </message>
     <message>
         <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CONCATENATE-&gt;Function Arguments</translatorcomment>
         <translation>texte1, texte2,... représentent de 1 à 30 chaînes de texte à assembler à une seule chaîne de texte et peuvent être des chaînes de texte, des nombres et des références à une seule cellule.</translation>
     </message>
     <message>
         <source>is the significance level used to compute the confidence level, a number greater than 0 and less than 10.</source>
         <comment>TX_ParaDesc_052</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CONFIDENCE-&gt;Function Arguments</translatorcomment>
         <translation>représente le degré de précision utilisé pour calculer le niveau de confiance, un nombre supérieur à 0 et inférieur à 10.</translation>
     </message>
     <message>
         <source>is the population standard deviation for the data range and is assumed to be know. Standard_dev must be greater than 0.</source>
         <comment>TX_ParaDesc_053</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CONFIDENCE-&gt;Function Arguments</translatorcomment>
         <translation>représente l’écart-type de la population pour la plage de données ; cette valeur est supposée connue. L’écart-type doit être supérieur à 0.</translation>
     </message>
     <message>
         <source>is the sample size.</source>
         <comment>TX_ParaDesc_054</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;CONFIDENCE-&gt;Function Arguments</translatorcomment>
         <translation>est la taille de l’échantillon.</translation>
     </message>
     <message>
         <source>is a cell range of values. The values should be numbers, names, arrays, or reference that contain numbers. </source>
         <comment>TX_ParaDesc_055</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CORREL-&gt;Function Arguments</translatorcomment>
         <translation>représente une plage de cellules de valeurs. Les valeurs doivent être un nombre, un nom, une matrice ou une référence qui contient des nombres </translation>
     </message>
     <message>
         <source>is a second cell range of values. The values should be numbers, names, arrays, or references that contain numbers.</source>
         <comment>TX_ParaDesc_056</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CORREL-&gt;Function Arguments</translatorcomment>
         <translation>représente une seconde plage de cellules de valeurs. Les valeurs doivent être un nombre, un nom, une matrice ou une référence qui contient des nombres</translation>
     </message>
     <message>
         <source>is the angle in radians for which you want the cosine.</source>
         <comment>TX_ParaDesc_057</comment>
+        <translatorcomment>Formulas tab-&gt;Math and Trig-&gt;COS</translatorcomment>
         <translation>est l&apos;angle exprimé en radians dont vous voulez obtenir le cosinus.</translation>
     </message>
     <message>
         <source>is any real number.</source>
         <comment>TX_ParaDesc_058</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COSH-&gt;Function Arguments</translatorcomment>
         <translation>représente n&apos;importe quel nombre.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COUNT-&gt;Function Arguments</translatorcomment>
         <translation>valeur1,valeur2,... représentant de 1 à 30 arguments qui peuvent contenir ou faire référence à différents types de données, mais dont seuls les nombres sont comptés.</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COUNTA-&gt;Function Arguments</translatorcomment>
         <translation>valeur1, valeur2,... représentent de 1 à 30 arguments représentant les valeurs et les cellules à compter. Les valeurs peuvent être n&apos;importe quel type d&apos;informations.</translation>
     </message>
     <message>
         <source>is the range from which you want to count the empty cells.</source>
         <comment>TX_ParaDesc_061</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COUNTBLANK-&gt;Function Arguments</translatorcomment>
         <translation>est la plage dans laquelle vous voulez compter les cellules vides.</translation>
     </message>
     <message>
         <source>is the range of cells from which you want to count nonblank cells.</source>
         <comment>TX_ParaDesc_062</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COUNTIF-&gt;Function Arguments</translatorcomment>
         <translation>est la plage de cellules dans laquelle vous voulez compter les cellules non vides.</translation>
     </message>
     <message>
         <source>is the condition or criteria in the form of a number, experession, or text that defines which cells will be used to find the average.</source>
         <comment>TX_ParaDesc_063</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COUNTIF-&gt;Function Arguments</translatorcomment>
         <translation>représente la condition ou les critères sous la forme d&apos;un nombre, d&apos;une expression ou de texte qui seront utilisés pour déterminer la moyenne.</translation>
     </message>
     <message>
         <source>is the first cell range of integers and must be numbers, arrays, or references that contain numbers.</source>
         <comment>TX_ParaDesc_064</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COVAR-&gt;Function Arguments-&gt;Rate</translatorcomment>
         <translation>est la première plage de cellules d&apos;entiers et doit être un nombre, une matrice ou une référence qui contient des nombres.</translation>
     </message>
     <message>
         <source>is the second cell range of integers and must be numbers, arrays, or reference that contain numbers.</source>
         <comment>TX_ParaDesc_065</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COVAR-&gt;Function Arguments-&gt;Rate</translatorcomment>
         <translation>est la deuxième plage de cellules d&apos;entiers et doit être un nombre, une matrice ou une référence qui contient des nombres.</translation>
     </message>
     <message>
         <source>is the number of Bernoulli trials.</source>
         <comment>TX_ParaDesc_066</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CRITBINOM-&gt;Function Arguments-&gt;Rate</translatorcomment>
         <translation>représente le nombre de tirages de Bernoulli.</translation>
     </message>
     <message>
         <source>is the probability of success on each trial, a number between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_067</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CRITBINOM-&gt;Function Arguments-&gt;Rate</translatorcomment>
         <translation>représente la probabilité de réussite de chaque tirage, un nombre entre 0 et 1 inclus.</translation>
     </message>
     <message>
         <source>is the criterion value, a number between 0 and 1.</source>
         <comment>TX_ParaDesc_068</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CRITBINOM-&gt;Function Arguments-&gt;Rate</translatorcomment>
         <translation>représente la valeur de critère, un nombre entre 0 et 1.</translation>
     </message>
     <message>
         <source>is a number from 1904 to 9999.</source>
         <comment>TX_ParaDesc_069</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATE-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre compris entre 1904 et 9999.</translation>
     </message>
     <message>
         <source>is a number from 1 to 12 representing the month of the year.</source>
         <comment>TX_ParaDesc_070</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATE-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre compris entre 1 et 12 représentant le mois de l&apos;année.</translation>
     </message>
     <message>
         <source>is a number from 1 to 31 representing the day of the month.</source>
         <comment>TX_ParaDesc_071</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATE-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre compris entre 1 et 31 représentant le jour de l&apos;année.</translation>
     </message>
     <message>
         <source>is text that represents a date in a WPS Spreadsheets date format, between 1/1/1900 (Windows) or 1/1/1904 (Macintosh) and 12/31/9999.</source>
         <comment>TX_ParaDesc_072</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATEVALUE-&gt;Function Arguments</translatorcomment>
         <translation>est du texte représentant une date dans un format de date de WPS Spreadsheets, entre le 01/01/1900 (pour Windows), ou le 01/01/1904 (pour Macintosh), et le 31/12/9999.</translation>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
         <comment>TX_ParaDesc_073</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DCOUNT-&gt;Function Arguments</translatorcomment>
         <translation>représente la plage de cellules qui constitue une liste ou une base de données. Une base de données est une liste de données connexes.</translation>
     </message>
     <message>
         <source>is either the label of the column in double quotation marks or a number that represents the column&apos;s position in the list.</source>
         <comment>TX_ParaDesc_074</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DCOUNT-&gt;Function Arguments</translatorcomment>
         <translation>indique soit l&apos;étiquette de la colonne entre guillemets, soit un nombre représentant la position de la colonne dans la liste.</translation>
     </message>
     <message>
         <source>is the range of cells that contains the conditions you specify. The range includes a column label and one cell below the label for a condition.</source>
         <comment>TX_ParaDesc_075</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DCOUNT-&gt;Function Arguments</translatorcomment>
         <translation>est la plage de cellules qui contient les conditions. Cette plage inclut une étiquette de colonne et une cellule en dessous de l&apos;étiquette de la condition.</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets.</source>
         <comment>TX_ParaDesc_076</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;YEAR-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre dans le code date-heure utilisé par WPS Spreadsheets.</translation>
     </message>
     <message>
@@ -9376,46 +11178,55 @@ des données</translation>
     <message>
         <source>is a logical value specifying the calculation method; U.S.(NASD) = FALSE or omitted; European = TRUE.</source>
         <comment>TX_ParaDesc_078</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DAYS360-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique qui détermine la méthode de calcul : États-Unis (NASD) = FALSE ou si cette valeur est omise ; Européen = TRUE.</translation>
     </message>
     <message>
         <source>is the initial cost of the asset.</source>
         <comment>TX_ParaDesc_079</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DB-&gt;Function Arguments</translatorcomment>
         <translation>est le coût initial du bien.</translation>
     </message>
     <message>
         <source>is the salvage value at the end of the life of the asset.</source>
         <comment>TX_ParaDesc_080</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DB-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur résiduelle du bien ou valeur du bien à la fin de sa vie.</translation>
     </message>
     <message>
         <source>is the number of periods over which the asset is being depreciated (sometimes called the useful life of the asset).</source>
         <comment>TX_ParaDesc_081</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DB-&gt;Function Arguments</translatorcomment>
         <translation>est la vie utile du bien ou le nombre de périodes au cours desquelles le bien est amorti (appelé aussi durée de vie utile du bien).</translation>
     </message>
     <message>
         <source>is the period for which you want to calculate the depreciation. Period must use the same units as life.</source>
         <comment>TX_ParaDesc_082</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DB-&gt;Function Arguments</translatorcomment>
         <translation>est la période pour laquelle vous souhaitez calculer l&apos;amortissement. Elle doit être exprimée dans la même unité que la durée de vie du bien.</translation>
     </message>
     <message>
         <source>is the number of months in the first year. If month is omitted, it is assumed to be 12.</source>
         <comment>TX_ParaDesc_083</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DB-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de mois dans la première année. Si omis, 12 est utilisé par défaut.</translation>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
         <comment>TX_ParaDesc_084</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATERAGE-&gt;Function Arguments</translatorcomment>
         <translation>représente la plage de cellules qui constitue une liste ou une base de données. Une base de données est une liste de données connexes.</translation>
     </message>
     <message>
         <source>is either the label of the column in double quotation marks or a number that represents the column&apos;s position in the list.</source>
         <comment>TX_ParaDesc_085</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATERAGE-&gt;Function Arguments</translatorcomment>
         <translation>indique soit l&apos;étiquette de la colonne entre guillemets, soit un nombre représentant la position de la colonne dans la liste.</translation>
     </message>
     <message>
         <source>is the range of cells that contains the conditions you specify. The range includes a column label and one cell below the label for a condition.</source>
         <comment>TX_ParaDesc_086</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATERAGE-&gt;Function Arguments</translatorcomment>
         <translation>est la plage de cellules qui contient les conditions. Cette plage inclut une étiquette de colonne et une cellule en dessous de l&apos;étiquette de la condition.</translation>
     </message>
     <message>
@@ -9436,11 +11247,13 @@ des données</translation>
     <message>
         <source>is the salvage value at the end of the life of the asset.</source>
         <comment>TX_ParaDesc_090</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AMORDEGRC-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur résiduelle du bien ou valeur du bien à la fin de sa vie.</translation>
     </message>
     <message>
         <source>is the number of periods over which the asset is being depreciated (sometimes called the useful life of the asset).</source>
         <comment>TX_ParaDesc_091</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SLN-&gt;Function Arguments</translatorcomment>
         <translation>est la vie utile du bien ou le nombre de périodes au cours desquelles le bien est amorti (appelé aussi durée de vie utile du bien).</translation>
     </message>
     <message>
@@ -9451,11 +11264,13 @@ des données</translation>
     <message>
         <source>is the angle in radians that you want to convert.</source>
         <comment>TX_ParaDesc_093</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DEGREES-&gt;Function Arguments</translatorcomment>
         <translation>représente l&apos;angle en radians à convertir.</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DEVSQ-&gt;Function Arguments</translatorcomment>
         <translation>nombre1, nombre2,... représentent de 1 à 30 arguments ou matrice ou référence à une matrice, que vous voulez que DEVSQ calcule.</translation>
     </message>
     <message>
@@ -9496,56 +11311,67 @@ des données</translation>
     <message>
         <source>is a number, a reference to a cell containing a number, or a formula that evaluates to number.</source>
         <comment>TX_ParaDesc_102</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DOLLAR-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre, une référence à une cellule contenant un nombre, ou une formule qui évalue à un nombre.</translation>
     </message>
     <message>
         <source>Number</source>
         <comment>TX_ParaDesc_103</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DOLLAR-&gt;Function Arguments</translatorcomment>
         <translation>Nombre</translation>
     </message>
     <message>
         <source>is the error value for which you want the identifying number, and can be an actual error value or a reference to cell containing an error value.</source>
         <comment>TX_ParaDesc_104</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ERROR.TYPE-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur d&apos;erreur dont vous voulez trouver le numéro d&apos;identification ; il peut s&apos;agir d&apos;une valeur d&apos;erreur véritable ou d&apos;une référence à une cellule contenant une valeur d&apos;erreur.</translation>
     </message>
     <message>
         <source>is the value to round.</source>
         <comment>TX_ParaDesc_105</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EVEN-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à arrondir.</translation>
     </message>
     <message>
         <source>is the first text string.</source>
         <comment>TX_ParaDesc_106</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EXACT-&gt;Function Arguments</translatorcomment>
         <translation>représente la première chaîne de texte.</translation>
     </message>
     <message>
         <source>is the second text string.</source>
         <comment>TX_ParaDesc_107</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EXACT-&gt;Function Arguments</translatorcomment>
         <translation>représente la deuxième chaîne de texte.</translation>
     </message>
     <message>
         <source>is the exponent applied to the base e. The constant e equals 2.71828182845904, the base of the natural logarithm.</source>
         <comment>TX_ParaDesc_108</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EXP-&gt;Function Arguments</translatorcomment>
         <translation>est l&apos;exposant de la base e. La constante e égale 2,71828182845904, la base du logarithme népérien.</translation>
     </message>
     <message>
         <source>is the value of the function, a nonnegative number.</source>
         <comment>TX_ParaDesc_109</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EXPONDIST-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur d&apos;une fonction, un nombre positif.</translation>
     </message>
     <message>
         <source>is the parameter value, a positive number.</source>
         <comment>TX_ParaDesc_110</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EXPONDIST-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur du paramètre, un nombre positif.</translation>
     </message>
     <message>
         <source>is a logical value for the function to return; the cumulative distribution function = TRUE; the probability density function = FALSE.</source>
         <comment>TX_ParaDesc_111</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EXPONDIST-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : renvoie la fonction de distribution cumulée = VRAI ; ou fonction de probabilité de masse = FAUX.</translation>
     </message>
     <message>
         <source>is the nonnegative number you want the factorial of.</source>
         <comment>TX_ParaDesc_112</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FACT-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre positif dont vous voulez obtenir la factorielle.</translation>
     </message>
     <message>
@@ -9556,101 +11382,121 @@ des données</translation>
     <message>
         <source>is the number of degrees of freedom, a number between 1 and 10^10, excluding 10^10.</source>
         <comment>TX_ParaDesc_114</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FDIST-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de degrés de liberté, un nombre entre 1 et 10^10, à l&apos;exclusion de 10^10.</translation>
     </message>
     <message>
         <source>is the number of degrees of freedom, a number between 1 and 10^10, excluding 10^10.</source>
         <comment>TX_ParaDesc_115</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FDIST-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de degrés de liberté, un nombre entre 1 et 10^10, à l&apos;exclusion de 10^10.</translation>
     </message>
     <message>
         <source>is the text you want to find. Use double quotes (empty text) to match the first character Within_text; wildcard characters not allowed.</source>
         <comment>TX_ParaDesc_116</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FIND-&gt;Function Arguments</translatorcomment>
         <translation>est le texte que vous recherchez. Utilisez des guillemets (sans texte) pour trouver le premier caractère dans Texte; les caractères génériques ne sont pas autorisés.</translation>
     </message>
     <message>
         <source>is the text containing the text you want to find.</source>
         <comment>TX_ParaDesc_117</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FIND-&gt;Function Arguments</translatorcomment>
         <translation>est le texte contenant le texte à trouver.</translation>
     </message>
     <message>
         <source>specifies the character at which to start the search. The first character in Within_text is character number 1. If omitted, Start_num = 1.</source>
         <comment>TX_ParaDesc_118</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FIND-&gt;Function Arguments</translatorcomment>
         <translation>indique le caractère à partir duquel commencer la recherche. Le premier caractère dans l&apos;argument texte est le chiffre 1. S&apos;il est omis, No_départ = 1.</translation>
     </message>
     <message>
         <source>is the text you want to search.</source>
         <comment>TX_ParaDesc_119</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FINDB-&gt;Function Arguments</translatorcomment>
         <translation>est le texte à chercher.</translation>
     </message>
     <message>
         <source>is the text containing the text you want to find.</source>
         <comment>TX_ParaDesc_120</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FINDB-&gt;Function Arguments</translatorcomment>
         <translation>est le texte contenant le texte à trouver.</translation>
     </message>
     <message>
         <source>specifies the character at which to start the search.</source>
         <comment>TX_ParaDesc_121</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FINDB-&gt;Function Arguments</translatorcomment>
         <translation>indique le caractère à partir duquel commencer la recherche.</translation>
     </message>
     <message>
         <source>is probability associated with the F cumulative distribution, a number between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_122</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FINV-&gt;Function Arguments</translatorcomment>
         <translation>représente la probabilité associée à la distribution cumulée F, un nombre entre 0 et 1 compris.</translation>
     </message>
     <message>
         <source>is the number of degrees of freedom, a number between 1 and 10^10, excluding 10^10.</source>
         <comment>TX_ParaDesc_123</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FINV-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de degrés de liberté, un nombre entre 1 et 10^10, à l&apos;exclusion de 10^10.</translation>
     </message>
     <message>
         <source>is the number of degrees of freedom, a number between 1 and 10^10, excluding 10^10.</source>
         <comment>TX_ParaDesc_124</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FINV-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de degrés de liberté, un nombre entre 1 et 10^10, à l&apos;exclusion de 10^10.</translation>
     </message>
     <message>
         <source>is the value for which you want the transformation, a number between -1 and 1, excluding -1 and 1.</source>
         <comment>TX_ParaDesc_125</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FISHER-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur numérique pour laquelle vous voulez obtenir la transformation, un nombre entre -1 et 1, -1 et 1 exclus</translation>
     </message>
     <message>
         <source>is the value for which you want to perform the inverse of the transformation.</source>
         <comment>TX_ParaDesc_126</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FISHERINV-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur numérique pour laquelle vous voulez obtenir l&apos;inverse de la transformation.</translation>
     </message>
     <message>
         <source>is the number you want to round and convert to text.</source>
         <comment>TX_ParaDesc_127</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FIXED-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre à arrondir et à convertir en texte.</translation>
     </message>
     <message>
         <source>is the number of digits to the right of the decimal point. If omitted, Decimals = 2.</source>
         <comment>TX_ParaDesc_128</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FIXED-&gt;Function Arguments</translatorcomment>
         <translation>indique le nombre de chiffres à droite de la virgule. Si omis, Décimale = 2.</translation>
     </message>
     <message>
         <source>is a logical value: do not display commas in the returned text = TRUE; do display commas in the returned text = FALSE or omitted.</source>
         <comment>TX_ParaDesc_129</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FIXED-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : ne pas afficher de virgule dans le texte renvoyé = VRAI; afficher des virgules dans le texte renvoyé = FAUX ou omis.</translation>
     </message>
     <message>
         <source>is the numeric value you want to round.</source>
         <comment>TX_ParaDesc_130</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FLOOR-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur numérique à arrondir.</translation>
     </message>
     <message>
         <source>is the multiple to which you want to round. Number and Significance must either both be positive or both be negative.</source>
         <comment>TX_ParaDesc_131</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FLOOR-&gt;Function Arguments</translatorcomment>
         <translation>correspond au multiple auquel vous voulez arrondir. Le nombre et le degré de précision doivent être soit positifs tous les deux, soit tous les deux négatifs.</translation>
     </message>
     <message>
         <source>is the data point for which you want to predict value and must be a numeric value.</source>
         <comment>TX_ParaDesc_132</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FORECAST-&gt;Function Arguments</translatorcomment>
         <translation>est le point de données pour lesquelles vous voulez prédire la valeur et doit être une valeur numérique.</translation>
     </message>
     <message>
         <source>is the set of y-values you already know in the relationship y=mx+b.</source>
         <comment>TX_ParaDesc_133</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FORECAST-&gt;Function Arguments</translatorcomment>
         <translation>est la série des valeurs y déjà connues par la relation y = mx + b.</translation>
     </message>
     <message>
@@ -9661,41 +11507,49 @@ des données</translation>
     <message>
         <source>is an array of or reference to a set of values for which you want to count frequencies (blanks and text are ignored).</source>
         <comment>TX_ParaDesc_135</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FREQUENCY-&gt;Function Arguments</translatorcomment>
         <translation>est un tableau ou une référence comprenant les valeurs parmi lesquelles vous recherchez une fréquence (les cellules vides et le texte sont ignorés).</translation>
     </message>
     <message>
         <source>is an array of or reference to intervals into which you want to group the values in data_array.</source>
         <comment>TX_ParaDesc_136</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FREQUENCY-&gt;Function Arguments</translatorcomment>
         <translation>est une matrice ou une référence correspondant aux intervalles permettant de grouper les valeurs de l&apos;argument tableau_données.</translation>
     </message>
     <message>
         <source>is the first array or range of data and can be numbers or names, arrays, or references that contain numbers (blanks are ignored).</source>
         <comment>TX_ParaDesc_137</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FTEST-&gt;Function Arguments</translatorcomment>
         <translation>représente la première matrice ou plage de données et peut être des nombres, des noms, des matrices, ou des références qui contiennent des nombres (les cellules vides sont ignorées).</translation>
     </message>
     <message>
         <source>is the second array or range of data and can be numbers or names, arrays, or references that contain numbers (blanks are ignored).</source>
         <comment>TX_ParaDesc_138</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FTEST-&gt;Function Arguments</translatorcomment>
         <translation>représente la seconde matrice ou plage de données et peut être des nombres, des noms, des matrices ou des références qui contiennent des nombres (les cellules vides sont ignorées).</translation>
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%4 for quarterly payment at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CUMIPMT-&gt;Function Arguments</translatorcomment>
         <translation>est le taux d&apos;intérêt par période. Par exemple, utilisez 6%%4 pour des paiements trimestriels à 6% APR.</translation>
     </message>
     <message>
         <source>is the total number of payment periods in the investment.</source>
         <comment>TX_ParaDesc_140</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CUMIPMT-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre total de remboursements durant l&apos;opération.</translation>
     </message>
     <message>
         <source>is the payment made each period and cannot change over the life of the investment.</source>
         <comment>TX_ParaDesc_141</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FV-&gt;Function Arguments</translatorcomment>
         <translation>est le montant du remboursement pour chaque période ; ce montant est inchangé durant toute la durée de l&apos;opération.</translation>
     </message>
     <message>
         <source>is the present value, or the lump-sum amount that a series of future payments is worth now. If omitted, Pv = 0.</source>
         <comment>TX_ParaDesc_142</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CUMIPMT-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur actuelle, ou la somme que représente aujourd&apos;hui une série de paiements futurs. Si omis, Va = 0.</translation>
     </message>
     <message>
@@ -9706,71 +11560,85 @@ des données</translation>
     <message>
         <source>is the value at which you want to evaluate the distribution, a nonnegative number.</source>
         <comment>TX_ParaDesc_144</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GAMMADIST-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à laquelle vous voulez évaluer la distribution, un nombre positif.</translation>
     </message>
     <message>
         <source>is a parameter to distribution, a positive number.</source>
         <comment>TX_ParaDesc_145</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GAMMADIST-&gt;Function Arguments</translatorcomment>
         <translation>représente un paramètre de la distribution, un nombre positif.</translation>
     </message>
     <message>
         <source>is a parameter to the distribution, a positive number. If beta = 1,GAMMADIST returns the standard gamma distribution.</source>
         <comment>TX_ParaDesc_146</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GAMMADIST-&gt;Function Arguments</translatorcomment>
         <translation>représente un paramètre de la distribution, un nombre positif. Si bêta vaut 1, cette fonction renvoie la probabilité d&apos;une variable aléatoire suivant une loi Gamma centrée réduite</translation>
     </message>
     <message>
         <source>is a logical value: return the cumulative distribution function = TRUE; return the probability mass function = FALSE or omitted.</source>
         <comment>TX_ParaDesc_147</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GAMMADIST-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : renvoie la fonction de distribution cumulée = VRAI ; ou fonction de probabilité de masse = FAUX ou omis.</translation>
     </message>
     <message>
         <source>is the probability associated with the gamma distribution, a number between 0 and 1, inclusive.</source>
         <comment>TX_ParaDesc_148</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GAMMAINV-&gt;Function Arguments</translatorcomment>
         <translation>représente la probabilité associée à la loi Gamma, un nombre entre 0 et 1 compris</translation>
     </message>
     <message>
         <source>is a parameter to distribution, a positive number.</source>
         <comment>TX_ParaDesc_149</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GAMMAINV-&gt;Function Arguments</translatorcomment>
         <translation>représente un paramètre de la distribution, un nombre positif.</translation>
     </message>
     <message>
         <source>is a parameter to the distribution, a positive number. If beta = 1,GAMMAINV returns the standard gamma distribution.</source>
         <comment>TX_ParaDesc_150</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GAMMAINV-&gt;Function Arguments</translatorcomment>
         <translation>représente un paramètre de la distribution, un nombre positif. Si bêta = 1, LOI.GAMMA.INVERSE renvoie l’inverse de la valeur d’une variable aléatoire suivant une loi Gamma centrée réduite.</translation>
     </message>
     <message>
         <source>is the value for which you want to calculate GAMMALN, a positive number.</source>
         <comment>TX_ParaDesc_151</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GAMMALN-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur pour laquelle vous voulez calculer LNGAMMA, un nombre positif.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 values.</source>
         <comment>TX_ParaDesc_152</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GCD-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,...représentent de 1 à 30 valeurs.</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GEOMEAN-&gt;Function Arguments</translatorcomment>
         <translation>nombre1, nombre2,...représentent de 1 à 30 nombres ou noms, matrices ou références qui contiennent des nombres dont vous voulez la moyenne.</translation>
     </message>
     <message>
         <source>is the set of y-values you already know in the relationship y=b*m^x, an array or range of positive numbers.</source>
         <comment>TX_ParaDesc_154</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GETPIVOTDATA-&gt;Function Arguments</translatorcomment>
         <translation>est la série des valeurs y déjà connues par la relation y=b*m^x, une matrice ou une plage de nombres positifs.</translation>
     </message>
     <message>
         <source>is an optional set of x-values that you may already know in the relationship y=b*m^x, an array or range the same size as Known_y&apos;s.</source>
         <comment>TX_ParaDesc_155</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GROWTH-&gt;Function Arguments</translatorcomment>
         <translation>est une série facultatives des valeurs x que vous connaissez peut-être déjà dans la relation y=b*m^x, une matrice ou une plage de la même taille que Connu_y.</translation>
     </message>
     <message>
         <source>are new x-values for which you want GROWTH to return corresponding y-values.</source>
         <comment>TX_ParaDesc_156</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GROWTH-&gt;Function Arguments</translatorcomment>
         <translation>sont de nouvelles valeurs x pour lesquels vous voulez que CROISSANCE renvoie les valeurs y correspondantes.</translation>
     </message>
     <message>
         <source>is a logical value: the constant b is calculated normally if Const = TRUE; b is set equal to 1 if Const = FALSE or omitted.</source>
         <comment>TX_ParaDesc_157</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GROWTH-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : la constante b est calculée normalement si Const = VRAI ; b est égale à 1 si Const = FAUX ou omis.</translation>
     </message>
     <message>
@@ -9786,16 +11654,19 @@ des données</translation>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HARMEAN-&gt;Function Arguments</translatorcomment>
         <translation>nombre1, nombre2,...représentent de 1 à 30 nombres ou noms, matrices ou références qui contiennent des nombres dont vous voulez la moyenne harmonique.</translation>
     </message>
     <message>
         <source>is the value to be found in the first row of the table and can be a value, a reference, or a text string.</source>
         <comment>TX_ParaDesc_161</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur située dans la première ligne de la table, et peut être une valeur, une référence ou une chaîne de texte.</translation>
     </message>
     <message>
         <source>is the table of text, numbers, or logical values, in which data is looked up. Table_array can be a reference to range or a range name.</source>
         <comment>TX_ParaDesc_162</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>est un tableau de texte, nombre ou valeurs logiques dans lequel la valeur est recherchée. L&apos;argument table_matrice peut être une référence à une plage ou à un nom de plage de données.</translation>
     </message>
     <message>
@@ -9806,41 +11677,49 @@ des données</translation>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in accending order) = TRUE or omitted; find an exact match = FALSE.</source>
         <comment>TX_ParaDesc_164</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : pour trouver la valeur la plus proche dans la ligne du haut (tri par ordre croissant) = VRAI ou omis ; pour trouver une valeur exactement identique = FAUX.</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets, or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
         <comment>TX_ParaDesc_165</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HOUR-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre dans le code date-heure utilisé par WPS Spreadsheets, ou texte au format horaire, comme 16:48:00 ou 4:48:00 PM.</translation>
     </message>
     <message>
         <source>is the text giving the path and file name to the document to be opened, a hard drive location, UNC address, or URL path.</source>
         <comment>TX_ParaDesc_166</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HLYPERLINK-&gt;Function Arguments</translatorcomment>
         <translation>représente le chemin et le nom du document à ouvrir, un emplacement de disque dur, une adresse UNC ou encore un chemin URL.</translation>
     </message>
     <message>
         <source>is text or a number that is displayed in the cell. If omitted, the cell displays the Link_location text.</source>
         <comment>TX_ParaDesc_167</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HLYPERLINK-&gt;Function Arguments</translatorcomment>
         <translation>représente le texte ou un nombre qui s&apos;affiche dans la cellule. Si omis, la cellule affiche le texte de l&apos;argument Emplacement_lien.</translation>
     </message>
     <message>
         <source>is the number of successes in the sample.</source>
         <comment>TX_ParaDesc_168</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HYPGEOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de réussites dans l&apos;échantillon.</translation>
     </message>
     <message>
         <source>is the size of the sample.</source>
         <comment>TX_ParaDesc_169</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HYPGEOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>est la taille de l’échantillon.</translation>
     </message>
     <message>
         <source>is the number of successes in the population.</source>
         <comment>TX_ParaDesc_170</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HYPGEOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de réussites dans la population.</translation>
     </message>
     <message>
         <source>is the population size.</source>
         <comment>TX_ParaDesc_171</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HYPGEOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>est la taille de la population.</translation>
     </message>
     <message>
@@ -9861,21 +11740,25 @@ des données</translation>
     <message>
         <source>is a range of cells or an array constant.</source>
         <comment>TX_ParaDesc_175</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INDEX-&gt;Function Arguments</translatorcomment>
         <translation>est une plage de cellules ou une constante de matrice.</translation>
     </message>
     <message>
         <source>selects the row in Array or Reference from which to return a value. If omitted, Column_num is required.</source>
         <comment>TX_ParaDesc_176</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INDEX-&gt;Function Arguments</translatorcomment>
         <translation>sélectionne la ligne de la matrice ou de la référence à partir de laquelle la valeur doit être renvoyée. Si cet argument est omis, no_col est requis.</translation>
     </message>
     <message>
         <source>selects the column in Array or Reference from which to return a value. If omitted, Row_num is required.</source>
         <comment>TX_ParaDesc_177</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INDEX-&gt;Function Arguments</translatorcomment>
         <translation>sélectionne la colonne de la matrice ou de la référence à partir de laquelle la valeur doit être renvoyée. Si omis, no_ligne est requis.</translation>
     </message>
     <message>
         <source>selects a range in Reference from which to return a value. The first area selected or entered is area 1, the second area is area 2, and so on.</source>
         <comment>TX_ParaDesc_178</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INDEX-&gt;Function Arguments</translatorcomment>
         <translation>sélectionne une plage dans la référence à partir de laquelle la valeur doit être renvoyée. La première zone sélectionnée ou tapée est la zone 1, la deuxième est la zone 2, et ainsi de suite.</translation>
     </message>
     <message>
@@ -9896,16 +11779,19 @@ des données</translation>
     <message>
         <source>is a reference to a cell that contains an A1 or R1C1 style reference, a name defined as a reference, or a reference to a cell as a text string.</source>
         <comment>TX_ParaDesc_182</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INDIRECT-&gt;Function Arguments</translatorcomment>
         <translation>est une référence à une cellule qui contient une référence de type A1 ou L1C1, un nom défini comme référence, ou une référence à une cellule équivalente à une chaîne de caractères.</translation>
     </message>
     <message>
         <source>is a logical value that specifies the type of reference in Ref_text: R1C1-style = FALSE; A1-style = TRUE or omitted.</source>
         <comment>TX_ParaDesc_183</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INDIRECT-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique qui indique le type de référence contenu dans la cellule de l&apos;argument réf_texte : style L1C1 = FAUX; style A1 = VRAI ou omis.</translation>
     </message>
     <message>
         <source>is the real number you want to round down to an integer.</source>
         <comment>TX_ParaDesc_184</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INT-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre réel que vous voulez arrondir à l&apos;entier immédiatement inférieur.</translation>
     </message>
     <message>
@@ -9916,151 +11802,181 @@ des données</translation>
     <message>
         <source>is the dependent set of observations or data and can be numbers or names, arrays, or references that contain numbers.</source>
         <comment>TX_ParaDesc_186</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INTERCEPT-&gt;Function Arguments</translatorcomment>
         <translation>représente la série indépendante d&apos;observations ou de données et peut être un nombre, un nom, une matrice, ou une référence qui contient des nombres.</translation>
     </message>
     <message>
         <source>is the independent set of observations or data and can be numbers or names, arrays, or references that contain numbers.</source>
         <comment>TX_ParaDesc_187</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INTERCEPT-&gt;Function Arguments</translatorcomment>
         <translation>représente la série indépendante d&apos;observations ou de données et peut être un nombre, un nom, une matrice, ou une référence qui contient des nombres.</translation>
     </message>
     <message>
         <source>period for which you want to find interest.</source>
         <comment>TX_ParaDesc_188</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMPT-&gt;Function Arguments</translatorcomment>
         <translation>est la période pour laquelle vous voulez calculer les intérêts.</translation>
     </message>
     <message>
         <source>number of payment periods in an investment.</source>
         <comment>TX_ParaDesc_189</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMPT-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre total de remboursements durant l&apos;opération.</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
         <comment>TX_ParaDesc_190</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMPT-&gt;Function Arguments</translatorcomment>
         <translation>la somme que représente aujourd&apos;hui une série de paiements futurs.</translation>
     </message>
     <message>
         <source>is the future value, or a cash balance you want to attain after the last payment is made. If omitted, zero is used.</source>
         <comment>TX_ParaDesc_191</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMPT-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur future ou capitalisée; c&apos;est-à-dire un montant que vous voulez atteindre après le dernier paiement. Si omis, zéro est utilisé.</translation>
     </message>
     <message>
         <source>is an array or a reference to cells that contain numbers for which you want to calculate the internal rate of return.</source>
         <comment>TX_ParaDesc_192</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IRR-&gt;Function Arguments</translatorcomment>
         <translation>est une matrice ou une référence à des cellules qui contient des nombres dont vous voulez calculer le taux de rentabilité interne.</translation>
     </message>
     <message>
         <source>is a number that you guess is close to the result of IRR; 0.1(10 percent) if omitted.</source>
         <comment>TX_ParaDesc_193</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IRR-&gt;Function Arguments</translatorcomment>
         <translation>est le taux que vous estimez être le plus proche du résultat de TRI; 0,1 (10 %) si omis.</translation>
     </message>
     <message>
         <source>is the cell or a name that refers to the cell you want to test.</source>
         <comment>TX_ParaDesc_194</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ISBLANK-&gt;Function Arguments</translatorcomment>
         <translation>représente la cellule ou un nom faisant référence à la cellule à tester.</translation>
     </message>
     <message>
         <source>is the value you want to test. Values can be name that refers to a cell, formula, or value.</source>
         <comment>TX_ParaDesc_195</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ISERR-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à tester. Les valeurs peuvent être des noms faisant référence à une cellule, une formule ou une valeur.</translation>
     </message>
     <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a name that refers to a cell, formula, or value.</source>
         <comment>TX_ParaDesc_196</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IFERROR-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à tester. Les valeurs peuvent être une cellule, une formule ou un nom faisant référence à une cellule, une formule ou une valeur.</translation>
     </message>
     <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a name that refers to a cell, formula, or value.</source>
         <comment>TX_ParaDesc_197</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ISERROR-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à tester. Les valeurs peuvent être une cellule, une formule ou un nom faisant référence à une cellule, une formule ou une valeur.</translation>
     </message>
     <message>
         <source>is the value you want to test. Values can be a cell, a formula, or a reference to a cell, formula, or value.</source>
         <comment>TX_ParaDesc_198</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ISLOGICAL-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à tester. Les valeurs peuvent être une cellule, une formule ou une référence à une cellule, une formule ou une valeur.</translation>
     </message>
     <message>
         <source>is the detection value. The values should be name of cells, formula, or numbers.</source>
         <comment>TX_ParaDesc_199</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ISNUMBER-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur de détection. Les valeurs doivent être un nom de cellules, formules ou nombres.</translation>
     </message>
     <message>
         <source>period for which you want to find interest.</source>
         <comment>TX_ParaDesc_200</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ISPMT-&gt;Function Arguments</translatorcomment>
         <translation>est la période pour laquelle vous voulez calculer les intérêts.</translation>
     </message>
     <message>
         <source>number of payment periods in an investment.</source>
         <comment>TX_ParaDesc_201</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ISPMT-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre total de remboursements durant l&apos;opération.</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
         <comment>TX_ParaDesc_202</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ISPMT-&gt;Function Arguments</translatorcomment>
         <translation>la somme que représente aujourd&apos;hui une série de paiements futurs.</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;KURT-&gt;Function Arguments</translatorcomment>
         <translation>nombre1, nombre2,...représentent de 1 à 30 nombres ou noms, matrices ou références qui contiennent des nombres dont vous voulez calculer le kurtosis.</translation>
     </message>
     <message>
         <source>is the array or range of data for which you want to determine the k-th largest value.</source>
         <comment>TX_ParaDesc_204</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LARGE-&gt;Function Arguments</translatorcomment>
         <translation>est la matrice ou la plage de données pour lesquels vous voulez déterminer la k-ième plus grande valeur.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 255 values for which you want the least common multiple.</source>
         <comment>TX_ParaDesc_205</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LARGE-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,... représentent de 1 à 255 valeurs dont vous voulez obtenir le plus petit dénominateur commun.</translation>
     </message>
     <message>
         <source>specifies how many characters you want LEFT to exact; 1 if omitted.</source>
         <comment>TX_ParaDesc_207</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LEFT-&gt;Function Arguments</translatorcomment>
         <translation>indique le nombre de caractères que la fonction GAUCHE doit renvoyer; 1 si omis.</translation>
     </message>
     <message>
         <source>is the text from which you want to exact part of character strings.</source>
         <comment>TX_ParaDesc_208</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LEFTB-&gt;Function Arguments</translatorcomment>
         <translation>est le texte pour lequel vous voulez la partie exacte des chaînes de caractère.</translation>
     </message>
     <message>
         <source>is the text whose length you want to find. Spaces count as characters.</source>
         <comment>TX_ParaDesc_210</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LEN-&gt;Function Arguments</translatorcomment>
         <translation>est le texte de la longueur à trouver. Les espaces sont considérés comme des caractères.</translation>
     </message>
     <message>
         <source>is the text whose number of characters you want to find.</source>
         <comment>TX_ParaDesc_211</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LENB-&gt;Function Arguments</translatorcomment>
         <translation>est le texte avec le nombre de caractères que vous voulez trouver.</translation>
     </message>
     <message>
         <source>is a logical value: the constant b is calculated normally if Const = TRUE or omitted; b is set equal to 1 if Const = FALSE.</source>
         <comment>TX_ParaDesc_212</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LINEST-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : la constante b est calculée normalement si Const = VRAI ou omis ; b est égale à 1 si Const = FAUX.</translation>
     </message>
     <message>
         <source>is a logical value: return additonal regression statistics = TRUE; return m-coefficient and the constant b = FALSE or omitted.</source>
         <comment>TX_ParaDesc_213</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LINEST-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : renvoyer les statistiques de régression complémentaires = VRAI; renvoyer les coefficients m ou la constante b = FAUX ou omis.</translation>
     </message>
     <message>
         <source>is the positive real number for which you want the natural logarithm.</source>
         <comment>TX_ParaDesc_214</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LN-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre réel positif pour lequel vous voulez l&apos;algorithme naturel.</translation>
     </message>
     <message>
         <source>is the text you want to convert to lowercase. Characters in Text that are not letters are not changed.</source>
         <comment>TX_ParaDesc_215</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOWER-&gt;Function Arguments</translatorcomment>
         <translation>est le texte que vous voulez convertir en minuscule. Les caractères du texte qui ne sont pas des lettres ne sont pas modifiés.</translation>
     </message>
     <message>
         <source>is the positive real number for which you want the logarithm.</source>
         <comment>TX_ParaDesc_216</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOG-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre réel positif pour lequel vous voulez le logarithme.</translation>
     </message>
     <message>
         <source>is the positive real number for which you want the base-10 logarithm.</source>
         <comment>TX_ParaDesc_217</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOG-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre réel positif dont vous voulez obtenir le logarithme en base 10.</translation>
     </message>
     <message>
@@ -10091,21 +12007,25 @@ des données</translation>
     <message>
         <source>is the standard deviation of ln(x), a positive number.</source>
         <comment>TX_ParaDesc_223</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOGINV-&gt;Function Arguments</translatorcomment>
         <translation>représente l’écart-type de ln(x), un nombre positif.</translation>
     </message>
     <message>
         <source>is the value at which to evaluate the function, a positive number.</source>
         <comment>TX_ParaDesc_224</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOGNORMDIST-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à laquelle évaluer la fonction, un nombre positif.</translation>
     </message>
     <message>
         <source>is a value that LOOKUP searches for in Lookup_vector and can be a number, text, a logical value, or a name or reference to a value.</source>
         <comment>TX_ParaDesc_225</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur que la fonction cherche dans un tableau ou un vecteur ; cela peut être un nombre, du texte, une valeur logique, un nom ou une référence à une valeur.</translation>
     </message>
     <message>
         <source>is a range that contains only one row or one column of text, numbers, or logical values, placed in ascending order.</source>
         <comment>TX_ParaDesc_226</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>représente une plage d&apos;une seule ligne ou colonne de texte, de nombres ou de valeurs logiques rangés en ordre croissant</translation>
     </message>
     <message>
@@ -10131,101 +12051,121 @@ des données</translation>
     <message>
         <source>is the value you use to find the value you want in the array, a number, text, or logical value, or a reference to one of these.</source>
         <comment>TX_ParaDesc_231</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MATCH-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur utilisée pour trouver la valeur voulue dans la matrice, un nombre, du texte, une valeur logique ou la référence à une de ces valeurs.</translation>
     </message>
     <message>
         <source>is a contiguous range of cells containing possible lookup value, an array of values, or a reference to an array.</source>
         <comment>TX_ParaDesc_232</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MATCH-&gt;Function Arguments</translatorcomment>
         <translation>est une plage de cellules adjacentes contenant les valeurs d&apos;équivalence possibles, une matrice de valeurs ou la référence à une matrice.</translation>
     </message>
     <message>
         <source>is a number 1, 0, or -1 indicating which value to return.</source>
         <comment>TX_ParaDesc_233</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MATCH-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre 1, 0, ou -1 indiquant quelle valeur à renvoyer.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MAX-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,... représentent de 1 à 30 nombres, cellules vides, valeurs logiques ou nombres au format texte parmi lesquels vous voulez trouver la valeur la plus grande.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MAXA-&gt;Function Arguments</translatorcomment>
         <translation>valeur1,valeur2,... représentent de 1 à 30 nombres, cellules vides, valeurs logiques ou nombres au format texte parmi lesquels vous voulez trouver la valeur la plus grande.</translation>
     </message>
     <message>
         <source>is a numeric array with an equal number of rows and columns, either a cell range or an array constant.</source>
         <comment>TX_ParaDesc_236</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MDETERM-&gt;Function Arguments</translatorcomment>
         <translation>est une matrice carrée numérique, soit une plage de cellules, soit une constante de matrice.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MEDIAN-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,...représentent de 1 à 30 nombres ou noms, matrices ou références qui contiennent des nombres dont vous voulez la moyenne.</translation>
     </message>
     <message>
         <source>is the text string from which you want to extract the characters.</source>
         <comment>TX_ParaDesc_238</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MATCH-&gt;Function Arguments</translatorcomment>
         <translation>est la chaîne de texte contenant les caractères à extraire.</translation>
     </message>
     <message>
         <source>is the position of the first character you want to extract. The first character in Text is 1.</source>
         <comment>TX_ParaDesc_239</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MATCH-&gt;Function Arguments</translatorcomment>
         <translation>est la position du premier caractère à extraire. Le premier caractère dans le texte est 1.</translation>
     </message>
     <message>
         <source>specifies how many characters to return from Text.</source>
         <comment>TX_ParaDesc_240</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MATCH-&gt;Function Arguments</translatorcomment>
         <translation>indique le nombre de caractères à extraire du texte.</translation>
     </message>
     <message>
         <source>is the text from which you want to exact part of character strings.</source>
         <comment>TX_ParaDesc_241</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MIDB-&gt;Function Arguments</translatorcomment>
         <translation>est le texte pour lequel vous voulez la partie exacte des chaînes de caractère.</translation>
     </message>
     <message>
         <source>is the position of the first character you want to extract. The first character in Text is 1.</source>
         <comment>TX_ParaDesc_242</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MIDB-&gt;Function Arguments</translatorcomment>
         <translation>est la position du premier caractère à extraire. Le premier caractère dans le texte est 1.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MIN-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,... représentent de 1 à 30 nombres, cellules vides, valeurs logiques ou nombres au format texte parmi lesquels vous voulez trouver la valeur la plus petite.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MINA-&gt;Function Arguments</translatorcomment>
         <translation>valeur1,valeur2,... représentent de 1 à 30 nombres, cellules vides, valeurs logiques ou nombres au format texte parmi lesquels vous voulez trouver la valeur la plus petite.</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
         <comment>TX_ParaDesc_246</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MINUTE-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre dans le code date-heure utilisé par WPS Spreadsheets, ou texte au format horaire, comme 16:48:00 ou 4:48:00 PM.</translation>
     </message>
     <message>
         <source>is an array or a reference to cells that contain numbers that represent a series of payments (negative) and income (positive) at a regular periods.</source>
         <comment>TX_ParaDesc_247</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MIRR-&gt;Function Arguments</translatorcomment>
         <translation>est une matrice ou une référence à des cellules qui contiennent des nombres représentant une série de débits (en négatif) et de crédits (en positif) à des dates régulières.</translation>
     </message>
     <message>
         <source>is the interest rate you pay on the money used in the cash flows.</source>
         <comment>TX_ParaDesc_248</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MIRR-&gt;Function Arguments</translatorcomment>
         <translation>est le taux d&apos;intérêt payé pour le financement des besoins de trésorerie.</translation>
     </message>
     <message>
         <source>is the interest rate you receive on the cash flows as you reinvest them.</source>
         <comment>TX_ParaDesc_249</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MIRR-&gt;Function Arguments</translatorcomment>
         <translation>est le taux d&apos;intérêt perçu en cas de placement des excédents de trésorerie.</translation>
     </message>
     <message>
         <source>is the first array of numbers to multiply and must have the same number of columns as Array2 has rows.</source>
         <comment>TX_ParaDesc_250</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MIRR-&gt;Function Arguments</translatorcomment>
         <translation>représente la première matrice de nombres à multiplier et doit avoir le même nombre de colonnes comme Matrice2 a des lignes.</translation>
     </message>
     <message>
         <source>is the second array of numbers to multiply and must have the same number of columns as Array1 has rows.</source>
         <comment>TX_ParaDesc_251</comment>
+        <translatorcomment>要进行矩阵乘法运算的第一组数值，其列数要与第二组数值的行数相同</translatorcomment>
         <translation>représente la deuxième matrice de nombres à multiplier et doit avoir le même nombre de colonnes comme Matrice1 a des lignes.</translation>
     </message>
     <message>
@@ -10236,51 +12176,61 @@ des données</translation>
     <message>
         <source>is the number by which you want to divide Number.</source>
         <comment>TX_ParaDesc_253</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MOD-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre par lequel diviser le nombre.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MODE-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,... représentent les 1 à 30 nombres, noms, matrices ou références qui contiennent des nombres dont vous recherchez le mode.</translation>
     </message>
     <message>
         <source>is number in the date-time code used by WPS Spreadsheets.</source>
         <comment>TX_ParaDesc_255</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DAY-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre dans le code date-heure utilisé par WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>is the value you want converted.</source>
         <comment>TX_ParaDesc_256</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;N-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à convertir.</translation>
     </message>
     <message>
         <source>is the number of failures.</source>
         <comment>TX_ParaDesc_257</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NEGBINOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre d&apos;échecs.</translation>
     </message>
     <message>
         <source>is the number of successes.</source>
         <comment>TX_ParaDesc_258</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NEGBINOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de réussites.</translation>
     </message>
     <message>
         <source>is the value for which you want the distribution.</source>
         <comment>TX_ParaDesc_259</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NORMDIST-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur dont vous recherchez la distribution.</translation>
     </message>
     <message>
         <source>is the arithmetic mean of the distribution.</source>
         <comment>TX_ParaDesc_260</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NORMDIST-&gt;Function Arguments</translatorcomment>
         <translation>représente l’espérance arithmétique de la distribution.</translation>
     </message>
     <message>
         <source>is the standard deviation of the distribution, a positive number.</source>
         <comment>TX_ParaDesc_261</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NORMDIST-&gt;Function Arguments</translatorcomment>
         <translation>représente l’écart-type de la distribution, un nombre positif</translation>
     </message>
     <message>
         <source>is a logical value: for the cumulative distribution function, use TRUE; for the probability density function, use FALSE.</source>
         <comment>TX_ParaDesc_262</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NORMDIST-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : pour la fonction distribution cumulative, utilisez VRAI ; pour la fonction de probabilité de masse, utilisez FAUX.</translation>
     </message>
     <message>
@@ -10291,11 +12241,13 @@ des données</translation>
     <message>
         <source>is the arithmetic mean of the distribution.</source>
         <comment>TX_ParaDesc_264</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NORMDIST-&gt;Function Arguments</translatorcomment>
         <translation>représente l’espérance arithmétique de la distribution.</translation>
     </message>
     <message>
         <source>is the standard deviation of the distribution, a positive number.</source>
         <comment>TX_ParaDesc_265</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NORMINV-&gt;Function Arguments</translatorcomment>
         <translation>représente l’écart-type de la distribution, un nombre positif</translation>
     </message>
     <message>
@@ -10311,116 +12263,139 @@ des données</translation>
     <message>
         <source>is a value or expression that can be evaluated to TRUE or FALSE.</source>
         <comment>TX_ParaDesc_268</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NOT-&gt;Function Arguments</translatorcomment>
         <translation>représente n&apos;importe quelle valeur ou expression qui peut être évaluée sur VRAI ou FAUX.</translation>
     </message>
     <message>
         <source>is the payment made each period, it change over the life of the investment.</source>
         <comment>TX_ParaDesc_269</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NPER-&gt;Function Arguments</translatorcomment>
         <translation>est le montant du remboursement pour chaque période; ce montant est inchangé durant toute la durée de l&apos;opération.</translation>
     </message>
     <message>
         <source>is the present value, or the lump-sum amount that a series of future payments is worth now.</source>
         <comment>TX_ParaDesc_270</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NPER-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur actuelle, ou la somme que représente aujourd&apos;hui une série de paiements futurs.</translation>
     </message>
     <message>
         <source>is the future value, or a cash balance you want to attain after the last payment is made. If omitted, zero is used.</source>
         <comment>TX_ParaDesc_271</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NPER-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur future ou capitalisée; c&apos;est-à-dire un montant que vous voulez atteindre après le dernier paiement. Si omis, zéro est utilisé.</translation>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period = 1; payment at the end of the period = 0 or omitted.</source>
         <comment>TX_ParaDesc_272</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NPER-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : paiement au début de la période = 1; paiement à la fin de la période = 0 ou omis.</translation>
     </message>
     <message>
         <source>is the rate of discount over the length of one period.</source>
         <comment>TX_ParaDesc_273</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NPV-&gt;Function Arguments</translatorcomment>
         <translation>est le taux d&apos;actualisation pour une période.</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
         <comment>TX_ParaDesc_274</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NPV-&gt;Function Arguments</translatorcomment>
         <translation>valeur 1, valeur 2,... représentent de 1 à 29 encaissements et décaissements, répartis de façon égale dans le temps et se produisant à la fin de chaque période.</translation>
     </message>
     <message>
         <source>is the value to round.</source>
         <comment>TX_ParaDesc_275</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ODD-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à arrondir.</translation>
     </message>
     <message>
         <source>is the reference from which you want to base the offset, a reference to a cell or range of adjacent cells.</source>
         <comment>TX_ParaDesc_276</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OFFSET-&gt;Function Arguments</translatorcomment>
         <translation>est la référence par rapport à laquelle le décalage doit être opéré, une référence à une cellule ou une plage de cellules adjacentes.</translation>
     </message>
     <message>
         <source>is the number of rows, up or down, that you want the upper-left cell of the result to refer to.</source>
         <comment>TX_ParaDesc_277</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OFFSET-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de lignes vers le haut ou vers le bas dont la cellule supérieure gauche de la référence renvoyée doit être décalée</translation>
     </message>
     <message>
         <source>is the number of columns, to the left or right, that you want the upper-left cell of the result to refer to.</source>
         <comment>TX_ParaDesc_278</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OFFSET-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de colonnes vers la droite ou vers la gauche dont la cellule supérieure gauche de la référence renvoyée doit être décalée.</translation>
     </message>
     <message>
         <source>is the height, in number of rows, that you want the result to be, the same height as Reference if omitted.</source>
         <comment>TX_ParaDesc_279</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OFFSET-&gt;Function Arguments</translatorcomment>
         <translation>est la hauteur, en nombre de lignes, attendue pour le résultat. Celle-ci est égale à Réf si omise.</translation>
     </message>
     <message>
         <source>is the width, in number of columns, that you want the result to be, the same width as Reference if omitted.</source>
         <comment>TX_ParaDesc_280</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OFFSET-&gt;Function Arguments</translatorcomment>
         <translation>est la largeur, en nombre de colonnes, attendue pour le résultat. Celle-ci est égale à Réf si omise.</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
         <comment>TX_ParaDesc_281</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OR-&gt;Function Arguments</translatorcomment>
         <translation>logique1,logique2,... représentent de 1 à 30 conditions à tester qui peuvent être VRAI ou FAUX.</translation>
     </message>
     <message>
         <source>is a set of independent values.</source>
         <comment>TX_ParaDesc_282</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PEARSON-&gt;Function Arguments</translatorcomment>
         <translation>est un ensemble de valeurs indépendantes.</translation>
     </message>
     <message>
         <source>is a set of dependent values.</source>
         <comment>TX_ParaDesc_283</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PEARSON-&gt;Function Arguments</translatorcomment>
         <translation>est un ensemble de valeurs dépendantes.</translation>
     </message>
     <message>
         <source>is the array or range of data that defines relative standing.</source>
         <comment>TX_ParaDesc_284</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PERCENTILE-&gt;Function Arguments</translatorcomment>
         <translation>représente la matrice ou la plage de données de valeurs numériques définissant l’étendue relative.</translation>
     </message>
     <message>
         <source>is the percent value that is between 0 through 1, inclusive.</source>
         <comment>TX_ParaDesc_285</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PERCENTILE-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur en pourcentage de 0 à 1 compris.</translation>
     </message>
     <message>
         <source>is the array or range of data that defines relative standing.</source>
         <comment>TX_ParaDesc_286</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PERCENTRANK-&gt;Function Arguments</translatorcomment>
         <translation>représente la matrice ou la plage de données de valeurs numériques définissant l’étendue relative.</translation>
     </message>
     <message>
         <source>is the value for which you want to know the rank.</source>
         <comment>TX_ParaDesc_287</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PERCENTRANK-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur pour laquelle vous voulez connaître le rang.</translation>
     </message>
     <message>
         <source>is an optional value that identifies the number of singnificant digits for the returned percentage, three digits if omitted(0.xxx%).</source>
         <comment>TX_ParaDesc_288</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PERCENTRANK-&gt;Function Arguments</translatorcomment>
         <translation>représente une valeur facultative indiquant le nombre de décimales du pourcentage renvoyé, 3 chiffres après la décimale si omise (0,xxx %).</translation>
     </message>
     <message>
         <source>is the total number of objects.</source>
         <comment>TX_ParaDesc_289</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PERMUT-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre total d&apos;objets.</translation>
     </message>
     <message>
         <source>in the number of objects in each permutation.</source>
         <comment>TX_ParaDesc_290</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PERMUT-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre d&apos;objets dans chaque permutation.</translation>
     </message>
     <message>
@@ -10451,26 +12426,31 @@ des données</translation>
     <message>
         <source>is the number of events.</source>
         <comment>TX_ParaDesc_296</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;POISSON-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre d&apos;évènements.</translation>
     </message>
     <message>
         <source>is the expected number value, a positive number.</source>
         <comment>TX_ParaDesc_297</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;POISSON-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur numérique attendue, un nombre positif.</translation>
     </message>
     <message>
         <source>is a logical value: for the cumulative Poisson probability, use TRUE; for the Poisson probability mass function, use FALSE.</source>
         <comment>TX_ParaDesc_298</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;POISSON-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : pour la probabilité cumulative de Poisson, utilisez VRAI ; pour la fonction de probabilité de masse en série de Poisson, utilisez FAUX.</translation>
     </message>
     <message>
         <source>is the base number, any real number.</source>
         <comment>TX_ParaDesc_299</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;POWER-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre à élever à la puissance, n&apos;importe quel nombre réel.</translation>
     </message>
     <message>
         <source>is the exponent, to which the base number is raised.</source>
         <comment>TX_ParaDesc_300</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;POWER-&gt;Function Arguments</translatorcomment>
         <translation>est la puissance à laquelle le nombre est élevé.</translation>
     </message>
     <message>
@@ -10486,16 +12466,19 @@ des données</translation>
     <message>
         <source>is the range of numeric values of x with which there are associated probabilities.</source>
         <comment>TX_ParaDesc_303</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PROB-&gt;Function Arguments</translatorcomment>
         <translation>est la plage de valeurs numériques de x avec lesquelles des probabilités sont associées.</translation>
     </message>
     <message>
         <source>is the set of probabilities associated with values in X_range, values between 0 and 1 and excluding 0.</source>
         <comment>TX_ParaDesc_304</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PROB-&gt;Function Arguments</translatorcomment>
         <translation>représente une série de probabilités associée aux valeurs de Plage_x, valeurs entre 0 et 1, 0 étant exclu</translation>
     </message>
     <message>
         <source>is the lower bound on the value for which you want a probability.</source>
         <comment>TX_ParaDesc_305</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PROB-&gt;Function Arguments</translatorcomment>
         <translation>représente la borne d&apos;intégration pour la valeur pour laquelle vous voulez une probabilité.</translation>
     </message>
     <message>
@@ -10506,11 +12489,13 @@ des données</translation>
     <message>
         <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PRODUCT-&gt;Function Arguments</translatorcomment>
         <translation>nombre 1, nombre 2,...représentent de 1 à 30 nombres, valeurs logiques, ou transcriptions textuelles des nombres que vous voulez multiplier.</translation>
     </message>
     <message>
         <source>is text enclosed in quotation marks, a formula that returns text, or a reference to a cell containing text to partially capitalize.</source>
         <comment>TX_ParaDesc_308</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PROPER-&gt;Function Arguments</translatorcomment>
         <translation>est un texte entre guillemets, une formule qui renvoie du texte ou une référence à une cellule contenant un texte dont vous voulez que certaines lettres soient en majuscules.</translation>
     </message>
     <message>
@@ -10531,106 +12516,127 @@ des données</translation>
     <message>
         <source>is the array or cell range of numeric values for which you want the quartile value.</source>
         <comment>TX_ParaDesc_312</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;QUARTILE-&gt;Function Arguments</translatorcomment>
         <translation>représente la matrice ou la plage de cellules de valeurs numériques pour laquelle vous recherchez la valeur du quartile.</translation>
     </message>
     <message>
         <source>is a number value = 0; lst quartile = 1; median value = 2; 3rd quartile = 3; maximum value = 4.</source>
         <comment>TX_ParaDesc_313</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;QUARTILE-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur numérique = 0 ; 1er quartile = 1 ; quartile moyen = 2 ; 3e quartile = 3 ; valeur maximale = 4.</translation>
     </message>
     <message>
         <source>is an angle in degrees that you want to convert.</source>
         <comment>TX_ParaDesc_314</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RADIANS-&gt;Function Arguments</translatorcomment>
         <translation>désigne l&apos;angle en degrés que vous voulez convertir.</translation>
     </message>
     <message>
         <source>is the number for which you want to find the rank.</source>
         <comment>TX_ParaDesc_315</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RANK-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre pour lequel vous voulez trouver le rang.</translation>
     </message>
     <message>
         <source>is an array of, or a reference to, a list of numbers. Nonnumeric values are ignored.</source>
         <comment>TX_ParaDesc_316</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RANK-&gt;Function Arguments</translatorcomment>
         <translation>est une matrice, ou une référence, à une liste de nombres. Valeurs non numériques ignorées.</translation>
     </message>
     <message>
         <source>is a number: rank in the list sorted descending = 0 or omitted; rank in the list sorted ascending = any nonzero value.</source>
         <comment>TX_ParaDesc_317</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RANK-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre : le rang de l’argument dans la liste triée par ordre décroissant = 0 ou omis ; son rang dans la liste triée par ordre croissant = toute valeur différente de zéro.</translation>
     </message>
     <message>
         <source>is the total number of payment periods for the loan or investment.</source>
         <comment>TX_ParaDesc_318</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RATE-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre total de périodes de remboursement durant l&apos;opération.</translation>
     </message>
     <message>
         <source>is the payment made each period and cannot change over the life of the loan or investment.</source>
         <comment>TX_ParaDesc_319</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RATE-&gt;Function Arguments</translatorcomment>
         <translation>est le montant de chaque remboursement périodique et ce montant ne peut pas être changé durant toute la durée de l&apos;opération.</translation>
     </message>
     <message>
         <source>is the present value: the total amount that a series of future payments is worth now.</source>
         <comment>TX_ParaDesc_320</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RATE-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur actuelle : ou la somme que représente aujourd&apos;hui une série de paiements futurs.</translation>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period = 1; payment at the end of the period = 0 or omitted.</source>
         <comment>TX_ParaDesc_321</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RATE-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : paiement au début de la période = 1; paiement à la fin de la période = 0 ou omis.</translation>
     </message>
     <message>
         <source>is text in which you want to replace some characters.</source>
         <comment>TX_ParaDesc_322</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPLACE-&gt;Function Arguments</translatorcomment>
         <translation>est le texte dans lequel vous voulez remplacer des caractères.</translation>
     </message>
     <message>
         <source>is the position of the character in Old_text that you want to replace with New_text.</source>
         <comment>TX_ParaDesc_323</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPLACE-&gt;Function Arguments</translatorcomment>
         <translation>est la position du caractère dans l&apos;ancien texte que vous voulez remplacer par le nouveau texte.</translation>
     </message>
     <message>
         <source>is the number of the characters in Old_text that you want to replace.</source>
         <comment>TX_ParaDesc_324</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPLACE-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de caractères dans l&apos;ancien texte que vous voulez remplacer.</translation>
     </message>
     <message>
         <source>is the text that will replace characters in Old_text.</source>
         <comment>TX_ParaDesc_325</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPLACE-&gt;Function Arguments</translatorcomment>
         <translation>est le texte qui remplacera les caractères dans l&apos;ancien texte.</translation>
     </message>
     <message>
         <source>is the text in which you want to replace.</source>
         <comment>TX_ParaDesc_326</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPLACEB-&gt;Function Arguments</translatorcomment>
         <translation>est le texte dans lequel vous voulez remplacer.</translation>
     </message>
     <message>
         <source>is the position of the character in Old_text that you want to replace with New_text.</source>
         <comment>TX_ParaDesc_327</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPLACEB-&gt;Function Arguments</translatorcomment>
         <translation>est la position du caractère dans l&apos;ancien texte que vous voulez remplacer par le nouveau texte.</translation>
     </message>
     <message>
         <source>is the number of the characters in Old_text that you want to replace with New_text.</source>
         <comment>TX_ParaDesc_328</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPLACEB-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de caractères dans l&apos;ancien texte que vous voulez remplacer par le nouveau texte.</translation>
     </message>
     <message>
         <source>is the text in which you want to replace.</source>
         <comment>TX_ParaDesc_329</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPLACEB-&gt;Function Arguments</translatorcomment>
         <translation>est le texte dans lequel vous voulez remplacer.</translation>
     </message>
     <message>
         <source>is the text you want to repeat.</source>
         <comment>TX_ParaDesc_330</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPT-&gt;Function Arguments</translatorcomment>
         <translation>est le texte que vous voulez répéter.</translation>
     </message>
     <message>
         <source>is a positive number specifying the number of times to repeat text.</source>
         <comment>TX_ParaDesc_331</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;REPT-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre positif indiquant le nombre de fois que texte doit être répété.</translation>
     </message>
     <message>
         <source>specifies how many characters you want to extract, 1 if omitted.</source>
         <comment>TX_ParaDesc_333</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RIGHT-&gt;Function Arguments</translatorcomment>
         <translation>indique le nombre de caractères que la fonction doit renvoyer, 1 si omis.</translation>
     </message>
     <message>
@@ -10646,41 +12652,49 @@ des données</translation>
     <message>
         <source>is a number, a reference to a cell containing a number, or a formula that evalueates to a number, 2 if omitted.</source>
         <comment>TX_ParaDesc_337</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;USDOLLAR-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre, une référence faisant référence à une cellule contenant un nombre ou une formule renvoyant un nombre, 2 si omis.</translation>
     </message>
     <message>
         <source>is the Arabic numeral you want to convert.</source>
         <comment>TX_ParaDesc_338</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ROMAN-&gt;Function Arguments</translatorcomment>
         <translation>est le chiffre arabe à convertir.</translation>
     </message>
     <message>
         <source>is a number specifying the type of Roman numeral you want.</source>
         <comment>TX_ParaDesc_339</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ROMAN-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre indiquant le type de chiffres romains que vous voulez.</translation>
     </message>
     <message>
         <source>is the number you want to round.</source>
         <comment>TX_ParaDesc_340</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ROUND-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre à arrondir.</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero to the nearst integer.</source>
         <comment>TX_ParaDesc_341</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ROUND-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de chiffre auxquels vous voulez arrondir. Arrondir négativement à la gauche de la décimale; zéro arrondi au nombre entier le plus proche.</translation>
     </message>
     <message>
         <source>is any real number that you want rounded down.</source>
         <comment>TX_ParaDesc_342</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ROUNDDOWN-&gt;Function Arguments</translatorcomment>
         <translation>est n&apos;importe quel nombre réel que vous voulez arrondir au chiffre au-dessous.</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero or omitted, to the nearst integer.</source>
         <comment>TX_ParaDesc_343</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ROUNDDOWN-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de chiffre auxquels vous voulez arrondir. Arrondir négativement à la gauche de la décimale ; zéro ou omis, arrondi au nombre entier le plus proche.</translation>
     </message>
     <message>
         <source>is any real number that you want rounded up.</source>
         <comment>TX_ParaDesc_344</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ROUNDUP-&gt;Function Arguments</translatorcomment>
         <translation>est n&apos;importe quel nombre réel que vous voulez arrondir au chiffre au-dessus.</translation>
     </message>
     <message>
@@ -10691,41 +12705,49 @@ des données</translation>
     <message>
         <source>is the cell or a single range of cells for which you want the row number; if omitted, returns the cell containing the ROW function.</source>
         <comment>TX_ParaDesc_346</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ROW-&gt;Function Arguments</translatorcomment>
         <translation>est la cellule ou la plage de cellules dont vous voulez obtenir le numéro de ligne ; si omis, renvoie la cellule contenant la fonction LIGNE.</translation>
     </message>
     <message>
         <source>is an array, an array formula, or a reference to a range of cells for which you want the number of rows.</source>
         <comment>TX_ParaDesc_347</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ROWS-&gt;Function Arguments</translatorcomment>
         <translation>est une matrice ou une formule de matrice, ou une référence à une plage de cellules pour laquelle vous voulez le nombre de lignes.</translation>
     </message>
     <message>
         <source>is an array or range of data points and can be numbers or names, arrays, or references that contain numbers.</source>
         <comment>TX_ParaDesc_348</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RSQ-&gt;Function Arguments</translatorcomment>
         <translation>est une matrice ou une plage de points de données, et peut être des nombres ou des noms, matrices ou références qui contiennent des nombres.</translation>
     </message>
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaDesc_349</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RTD-&gt;Function Arguments</translatorcomment>
         <translation>est le nom du ProgID d&apos;un complément d&apos;automation COM enregistré. Le nom doit être placé entre guillemets.</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaDesc_350</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RTD-&gt;Function Arguments</translatorcomment>
         <translation>est le nom du serveur dans lequel le complément doit être exécuté. Le nom doit être placé entre guillemets. Si le complément est exécuté en local, utilisez une chaîne vide.</translation>
     </message>
     <message>
         <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RTD-&gt;Function Arguments</translatorcomment>
         <translation>rubrique1,rubrique2,...représentent de 1 à 28 paramètres qui indiquent une partie des données.</translation>
     </message>
     <message>
         <source>is the text you want to find. You can use the ? and * wildcard characters; use ~? and ~* to find the ? and * characters.</source>
         <comment>TX_ParaDesc_352</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SEARCH-&gt;Function Arguments</translatorcomment>
         <translation>est le texte que vous recherchez. Vous pouvez utiliser les caractères génériques ? et *; utilisez ~? et ~* pour trouver les caractères ? et *.</translation>
     </message>
     <message>
         <source>is the text in which you want to search for Find_text.</source>
         <comment>TX_ParaDesc_353</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SEARCH-&gt;Function Arguments</translatorcomment>
         <translation>est le texte comprenant la chaîne de texte à trouver.</translation>
     </message>
     <message>
@@ -10736,26 +12758,31 @@ des données</translation>
     <message>
         <source>is the text you want to search.</source>
         <comment>TX_ParaDesc_355</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SEARCHB-&gt;Function Arguments</translatorcomment>
         <translation>est le texte à chercher.</translation>
     </message>
     <message>
         <source>is the text containing the text you want to find.</source>
         <comment>TX_ParaDesc_356</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SEARCHB-&gt;Function Arguments</translatorcomment>
         <translation>est le texte contenant le texte à trouver.</translation>
     </message>
     <message>
         <source>specifies the character at which to start the search.</source>
         <comment>TX_ParaDesc_357</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SEARCHB-&gt;Function Arguments</translatorcomment>
         <translation>indique le caractère à partir duquel commencer la recherche.</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:23 or 4:48:47 PM.</source>
         <comment>TX_ParaDesc_358</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SECOND-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre dans le code date-heure utilisé par WPS Spreadsheets, ou texte au format horaire, comme 16:48:23 ou 4:48:47 PM.</translation>
     </message>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_359</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SIN-&gt;Function Arguments</translatorcomment>
         <translation>est l&apos;angle exprimé en radians dont vous voulez obtenir le sinus. Degrés *PI()/180 = radians.</translation>
     </message>
     <message>
@@ -10781,61 +12808,73 @@ des données</translation>
     <message>
         <source>is an array or cell range of numeric dependent data points and can be numbers or names, arrays, or references that contain numbers.</source>
         <comment>TX_ParaDesc_364</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SLOPE-&gt;Function Arguments</translatorcomment>
         <translation>représente une matrice ou une plage de points de données numériques dépendants, et peut être constitué de nombres, de noms, de matrices ou de références qui contiennent des nombres.</translation>
     </message>
     <message>
         <source>is an array or cell range of numeric dependent data points and can be numbers or names, arrays, or references that contain numbers.</source>
         <comment>TX_ParaDesc_365</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SLOPE-&gt;Function Arguments</translatorcomment>
         <translation>représente une matrice ou une plage de points de données numériques dépendants, et peut être constitué de nombres, de noms, de matrices ou de références qui contiennent des nombres.</translation>
     </message>
     <message>
         <source>is an array or range of numerical data for which you want to determine the k-th smallest value.</source>
         <comment>TX_ParaDesc_366</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SMALL-&gt;Function Arguments</translatorcomment>
         <translation>représente une matrice ou une plage de données numériques dans laquelle vous recherchez la k-ième plus petite valeur.</translation>
     </message>
     <message>
         <source>is the position (from the smallest) in the array or range of the value to return.</source>
         <comment>TX_ParaDesc_367</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SMALL-&gt;Function Arguments</translatorcomment>
         <translation>représente, dans la matrice ou la plage, le rang de la donnée à renvoyer, déterminé à partir de la valeur la plus petite.</translation>
     </message>
     <message>
         <source>is the number for which you want the square root.</source>
         <comment>TX_ParaDesc_368</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SQRT-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre dont vous voulez obtenir la racine carrée.</translation>
     </message>
     <message>
         <source>is the value you want to normalize.</source>
         <comment>TX_ParaDesc_369</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;STANDARDIZE-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur que vous voulez normaliser.</translation>
     </message>
     <message>
         <source>is the arithmetic mean of the distribution.</source>
         <comment>TX_ParaDesc_370</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;STANDARDIZE-&gt;Function Arguments</translatorcomment>
         <translation>représente l’espérance arithmétique de la distribution.</translation>
     </message>
     <message>
         <source>is the standard deviation of the distribution, a positive number.</source>
         <comment>TX_ParaDesc_371</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;STANDARDIZE-&gt;Function Arguments</translatorcomment>
         <translation>représente l’écart-type de la distribution, un nombre positif</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;STDEV-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,... représentent de 1 à 30 nombres correspondant à un échantillon de population, et peuvent être des nombres ou des références qui contiennent des nombres.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;STDEVA-&gt;Function Arguments</translatorcomment>
         <translation>valeur1,valeur2,... représente de 1 à 30 valeurs correspondant à un échantillon de population, et peuvent être des valeurs ou des noms ou des références aux valeurs.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;STDEVP-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,...représentent de 1 à 30 nombres correspondant à une population, et peuvent être des nombres ou des références contenant des nombres.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;STDEVPA-&gt;Function Arguments</translatorcomment>
         <translation>valeur1,valeur2,...représentent de 1 à 30 valeurs correspondant à une population, et peuvent être des valeurs, noms, matrices ou des références contenant des valeurs.</translation>
     </message>
     <message>
@@ -10846,11 +12885,13 @@ des données</translation>
     <message>
         <source>is the existing text you want to replace. If the case of Old_text does not match the case of text, SUBSTITUTE not replace the text.</source>
         <comment>TX_ParaDesc_377</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUBSTITUTE-&gt;Function Arguments</translatorcomment>
         <translation>est le texte existant que vous voulez remplacer. Si la casse de l&apos;ancien texte ne correspond pas à la casse du nouveau, le remplacement sera annulé.</translation>
     </message>
     <message>
         <source>is the text you want to replace Old_text.</source>
         <comment>TX_ParaDesc_378</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUBSTITUTE-&gt;Function Arguments</translatorcomment>
         <translation>est le texte qui doit remplacer l&apos;ancien texte.</translation>
     </message>
     <message>
@@ -10861,66 +12902,79 @@ des données</translation>
     <message>
         <source>is the number 1 to 11 that specifies the summary function for the subtotal.</source>
         <comment>TX_ParaDesc_380</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUBTOTAL-&gt;Function Arguments</translatorcomment>
         <translation>représente un nombre de 1 à 11 déterminant quelle fonction de synthèse utiliser pour calculer le sous-total.</translation>
     </message>
     <message>
         <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUBTOTAL-&gt;Function Arguments</translatorcomment>
         <translation>réf 1, réf 2,...représentent de 1 à 29 plages ou références pour lesquelles vous voulez calculer le sous-total.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
         <comment>TX_ParaDesc_382</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUM-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,... représentent de 1 à 30 nombres dont vous voulez calculer la somme. Les valeurs logiques et le texte sont ignorés dans les cellules, même s&apos;ils sont tapés en tant qu&apos;arguments.</translation>
     </message>
     <message>
         <source>is the range of cells you want evaluated.</source>
         <comment>TX_ParaDesc_383</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AVERAGEIF-&gt;Function Arguments</translatorcomment>
         <translation>est la plage de cellules que vous voulez évaluer.</translation>
     </message>
     <message>
         <source>is the condition or criteria in the form of a number, experession, or text that defines which cells will be used to find the average.</source>
         <comment>TX_ParaDesc_384</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AVERAGEIF-&gt;Function Arguments</translatorcomment>
         <translation>représente la condition ou les critères sous la forme d&apos;un nombre, d&apos;une expression ou de texte qui seront utilisés pour déterminer la moyenne.</translation>
     </message>
     <message>
         <source>is the actual cells to sum.</source>
         <comment>TX_ParaDesc_385</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUMIF-&gt;Function Arguments</translatorcomment>
         <translation>représente les cellules qui seront effectivement additionnées.</translation>
     </message>
     <message>
         <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
         <comment>TX_ParaDesc_386</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUMPRODUCT-&gt;Function Arguments</translatorcomment>
         <translation>matrice1,matrice2,...représentent de 2 à 30 matrices dont vous voulez multiplier puis ajouter les composants. Toutes les matrices doivent être de mêmes dimensions.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUMSQ-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,...représentent les 1 à 30 nombres, matrices, noms ou références dont vous recherchez la somme des carrés.</translation>
     </message>
     <message>
         <source>is the first range or array of numbers and be a number or name, array, or reference that contains numbers.</source>
         <comment>TX_ParaDesc_388</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUMX2MY2-&gt;Function Arguments</translatorcomment>
         <translation>est la première plage ou matrice de nombres et peut être un nombre, un nom, une matrice ou une référence qui contient des nombres.</translation>
     </message>
     <message>
         <source>is the second range or array of numbers and be a number or name, array, or reference that contains numbers.</source>
         <comment>TX_ParaDesc_389</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUMX2MY2-&gt;Function Arguments</translatorcomment>
         <translation>est la deuxième plage ou matrice de nombres et peut être un nombre, un nom, une matrice ou une référence qui contient des nombres.</translation>
     </message>
     <message>
         <source>is the first range or array of numbers.</source>
         <comment>TX_ParaDesc_390</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUMX2PY2-&gt;Function Arguments</translatorcomment>
         <translation>représente la première plage ou matrice de nombres.</translation>
     </message>
     <message>
         <source>is the second range or array of numbers.</source>
         <comment>TX_ParaDesc_391</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUMX2PY2-&gt;Function Arguments</translatorcomment>
         <translation>représente la deuxième plage ou matrice de nombres.</translation>
     </message>
     <message>
         <source>is the salvage value at the end of the life of the asset.</source>
         <comment>TX_ParaDesc_392</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AMORDEGRC-&gt;Function Arguments</translatorcomment>
         <translation>est la valeur résiduelle du bien ou valeur du bien à la fin de sa vie.</translation>
     </message>
     <message>
@@ -10931,56 +12985,67 @@ des données</translation>
     <message>
         <source>is the value you want to test.</source>
         <comment>TX_ParaDesc_394</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUMX2PY2-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à tester.</translation>
     </message>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_395</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TAN-&gt;Function Arguments</translatorcomment>
         <translation>est l&apos;angle exprimé en radians dont vous voulez obtenir le sinus. Degrés *PI()/180 = radians.</translation>
     </message>
     <message>
         <source>is the numeric value at which to evaluate the distribution.</source>
         <comment>TX_ParaDesc_396</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TDIST-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur numérique à laquelle évaluer la distribution.</translation>
     </message>
     <message>
         <source>degrees of freedom</source>
         <comment>TX_ParaDesc_397</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TDIST-&gt;Function Arguments</translatorcomment>
         <translation>degrés de liberté</translation>
     </message>
     <message>
         <source>specifies the number of distribution tails to return: ont-tailed distribution = 1; tow-tailed distribution = 2.</source>
         <comment>TX_ParaDesc_398</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TDIST-&gt;Function Arguments</translatorcomment>
         <translation>indique le type de distribution à renvoyer : unilatérale = 1 ; bilatérale = 2.</translation>
     </message>
     <message>
         <source>is a number, a formula that evaluates to a numeric value, or a reference to a cell containing a numeric value.</source>
         <comment>TX_ParaDesc_399</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TEXT-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre, une formule dont le résultat est une valeur numérique ou une référence à une cellule contenant une valeur numérique.</translation>
     </message>
     <message>
         <source>is a number format in text form from the Category box on the Number tab in the Format Cells dialog box (not General).</source>
         <comment>TX_ParaDesc_400</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TEXT-&gt;Function Arguments</translatorcomment>
         <translation>est un format de nombres en format texte de la boîte de dialogue Format de cellule, onglet Nombres, case Catégorie.</translation>
     </message>
     <message>
         <source>is a number from 0 to 23 representing the hour.</source>
         <comment>TX_ParaDesc_401</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TIME-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre compris entre 0 et 23 qui représente les heures.</translation>
     </message>
     <message>
         <source>is a number from 0 to 59 representing the minute.</source>
         <comment>TX_ParaDesc_402</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TIME-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre compris entre 0 et 59 qui représente les minutes.</translation>
     </message>
     <message>
         <source>is a number from 0 to 59 representing the second.</source>
         <comment>TX_ParaDesc_403</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TIME-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre compris entre 0 et 59 qui représente les secondes.</translation>
     </message>
     <message>
         <source>is a text string that gives a time in any one of the WPS Spreadsheets time formats (date information in the string is ignored).</source>
         <comment>TX_ParaDesc_404</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TIMEVALUE-&gt;Function Arguments</translatorcomment>
         <translation>est une chaîne de texte qui indique une heure dans un des formats d’heure de WPS Spreadsheets (l’information sur la date dans la chaîne de caractères est ignorée).</translation>
     </message>
     <message>
@@ -10991,176 +13056,211 @@ des données</translation>
     <message>
         <source>is a positive integer indicating the number of degrees of freedom to characterize the distribution.</source>
         <comment>TX_ParaDesc_406</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TINV-&gt;Function Arguments</translatorcomment>
         <translation>est un entier positif indiquant le nombre de degrés de liberté caractérisant la distribution.</translation>
     </message>
     <message>
         <source>is a range of cells on a worksheet or an array of values that you want to transpose.</source>
         <comment>TX_ParaDesc_407</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TRANSPOSE-&gt;Function Arguments</translatorcomment>
         <translation>représente une plage de cellules sur une feuille de calcul ou une matrice de valeurs à transposer.</translation>
     </message>
     <message>
         <source>is an optional range or array of x-values that you konw in the relationship y = mx+b, an array the same size as Know_y&apos;s.</source>
         <comment>TX_ParaDesc_408</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LINEST-&gt;Function Arguments</translatorcomment>
         <translation>représente une plage ou matrice facultative de valeurs x connues par la relation y = mx+b, une matrice de même dimension que y_connus.</translation>
     </message>
     <message>
         <source>is a range or array of new x-values for which you want TREND to return corresponding y-values.</source>
         <comment>TX_ParaDesc_409</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TREND-&gt;Function Arguments</translatorcomment>
         <translation>est la plage ou la matrice de nouvelles valeurs x dont vous voulez que TENDANCE renvoie les valeurs y correspondantes.</translation>
     </message>
     <message>
         <source>is a logical value: the constant b is calculated normally if Const =TRUE or omitted; b set equal to 0 if Const = FALSE.</source>
         <comment>TX_ParaDesc_410</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TREND-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : la constante b est calculée normalement si Const = VRAI ou si cette valeur est omise ; b est égale à 0 si Const = FAUX.</translation>
     </message>
     <message>
         <source>is the text from which you want spaces removed.</source>
         <comment>TX_ParaDesc_411</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TRIM-&gt;Function Arguments</translatorcomment>
         <translation>est le texte dont vous voulez supprimer les espaces.</translation>
     </message>
     <message>
         <source>is the range or array of values to trim and average.</source>
         <comment>TX_ParaDesc_412</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TRIMMEAN-&gt;Function Arguments</translatorcomment>
         <translation>représente la matrice ou la plage de valeurs à réduire et sur laquelle calculer la moyenne.</translation>
     </message>
     <message>
         <source>is the fractional number of data points to exclude from the top and bottom of the data set.</source>
         <comment>TX_ParaDesc_413</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TRIMMEAN-&gt;Function Arguments</translatorcomment>
         <translation>représente le nombre fractionnaire de points de données à exclure du haut et du bas de la série de données.</translation>
     </message>
     <message>
         <source>is the number you want to truncate.</source>
         <comment>TX_ParaDesc_414</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TRUNC-&gt;Function Arguments</translatorcomment>
         <translation>représente le nombre que vous voulez tronquer.</translation>
     </message>
     <message>
         <source>is a number specifies the precision of the truncation, 0(zero) if omitted.</source>
         <comment>TX_ParaDesc_415</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TRUNC-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre qui indique la précision de la troncature, 0 (zéro) par défaut.</translation>
     </message>
     <message>
         <source>is the first data set.</source>
         <comment>TX_ParaDesc_416</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TTEST-&gt;Function Arguments</translatorcomment>
         <translation>représente la première série de données.</translation>
     </message>
     <message>
         <source>is the second data set.</source>
         <comment>TX_ParaDesc_417</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TTEST-&gt;Function Arguments</translatorcomment>
         <translation>représente la deuxième série de données.</translation>
     </message>
     <message>
         <source>specifies the number of distribution tails to return: one-tailed distribution = 1; two-tailed distribution = 2.</source>
         <comment>TX_ParaDesc_418</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TTEST-&gt;Function Arguments</translatorcomment>
         <translation>indique le type de distribution à renvoyer : unilatérale = 1 ; bilatérale = 2.</translation>
     </message>
     <message>
         <source>is the kind of t-test: paired = 1, two-sample equal variance(homoscedastic) = 2, two-sample unequal variance = 3.</source>
         <comment>TX_ParaDesc_419</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TTEST-&gt;Function Arguments</translatorcomment>
         <translation>représente le type de test T : par paires = 1 ; variance égale à deux exemples (homoscédastique) = 2 ; variance inégale à deux exemples = 3.</translation>
     </message>
     <message>
         <source>can be any value.</source>
         <comment>TX_ParaDesc_420</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TTEST-&gt;Function Arguments</translatorcomment>
         <translation>peut-être n&apos;importe quelle valeur.</translation>
     </message>
     <message>
         <source>is the text you want converted to uppercase, a reference or a text string.</source>
         <comment>TX_ParaDesc_421</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;UPPER-&gt;Function Arguments</translatorcomment>
         <translation>est le texte que vous voulez convertir en caractères majuscules, une référence ou une chaîne de caractères.</translation>
     </message>
     <message>
         <source>is the text enclosed in quotation marks or a reference to a cell containing the text you want to convert.</source>
         <comment>TX_ParaDesc_422</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;USDOLLAR-&gt;Function Arguments</translatorcomment>
         <translation>est le texte placé entre guillemets ou la référence à une cellule contenant le texte que vous voulez convertir.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_423</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VAR-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,...représentent de 1 à 30 arguments numériques correspondant à un échantillon de population.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VARA-&gt;Function Arguments</translatorcomment>
         <translation>valeur1,valeur2,... représentent de 1 à 30 arguments de valeur correspondant à un échantillon de population.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VARP-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,...représentent de 1 à 30 arguments numériques correspondant à une population.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VARPA-&gt;Function Arguments</translatorcomment>
         <translation>nombre1,nombre2,...représentent de 1 à 30 arguments numériques correspondant à une population.</translation>
     </message>
     <message>
         <source>is the starting period for which you want to calculate the depreciation. Period must use the same units as life.</source>
         <comment>TX_ParaDesc_427</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VDB-&gt;Function Arguments</translatorcomment>
         <translation>est le début de la période de calcul de l&apos;amortissement. Elle doit être exprimée dans la même unité que la durée de vie du bien.</translation>
     </message>
     <message>
         <source>is the ending period for which you want to calculate the depreciation, in the same units as Life.</source>
         <comment>TX_ParaDesc_428</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VDB-&gt;Function Arguments</translatorcomment>
         <translation>est la fin de la période de calcul de l&apos;amortissement, dans les mêmes unités que la durée de vie.</translation>
     </message>
     <message>
         <source>is the value to be found in the first column of the table, and can be a value, a reference, or a text string.</source>
         <comment>TX_ParaDesc_429</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur située dans la première colonne de la table, et peut être une valeur, une référence ou une chaîne de texte.</translation>
     </message>
     <message>
         <source>is a table of text, number, or logical values in which data is looked up. Table_array can be a reference to a range or a range name.</source>
         <comment>TX_ParaDesc_430</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>est un tableau de données (texte, nombres ou valeurs logiques) dans lequel la valeur est recherchée. L&apos;argument table_matrice peut être une référence à une plage ou à un nom de plage de données.</translation>
     </message>
     <message>
         <source>is the row number in table_array from which the matching value should be returned. The first row of values in the table is row 1.</source>
         <comment>TX_ParaDesc_431</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>est le numéro de la ligne de l&apos;argument table_matrice dont la valeur correspondante est renvoyée. La première ligne de valeurs dans la table est la ligne 1.</translation>
     </message>
     <message>
         <source>is a logical value: to find the closest match in the top row(sorted in ascending order) = FALSE or omitted; find an exact match = TRUE.</source>
         <comment>TX_ParaDesc_432</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;VLOOKUP-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur logique : pour trouver la valeur la plus proche dans la ligne du haut (tri par ordre croissant) = FAUX ou si cette valeur est omise ; pour trouver une valeur exactement identique = VRAI.</translation>
     </message>
     <message>
         <source>is the number that represents a date.</source>
         <comment>TX_ParaDesc_433</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;WEEKDAY-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre qui représente une date.</translation>
     </message>
     <message>
         <source>is a number: for Sunday = 1 through Saturday = 7, use 1; for Monday = 1 through Sunday = 7, use 2; for Monday = 0 through Sunday = 6, use 3.</source>
         <comment>TX_ParaDesc_434</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;WEEKDAY-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre : pour Dimanche = 1 à Samedi = 7, utilisez 1 ; pour Lundi = 1 à Dimanche = 7, utilisez 2 ; pour Lundi = 0 à Dimanche = 6, utilisez 3.</translation>
     </message>
     <message>
         <source>is the value at which to evaluate the function, a nonnegative number.</source>
         <comment>TX_ParaDesc_435</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;WEIBULL-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à laquelle évaluer la fonction, un nombre positif.</translation>
     </message>
     <message>
         <source>is a parameter to the distribution, a positive number.</source>
         <comment>TX_ParaDesc_436</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;WEIBULL-&gt;Function Arguments</translatorcomment>
         <translation>représente un paramètre de la distribution, un nombre positif.</translation>
     </message>
     <message>
         <source>is the text that you want to convert to double-byte, or references to text cells.</source>
         <comment>TX_ParaDesc_437</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;WIDECHAR-&gt;Function Arguments</translatorcomment>
         <translation>représente le texte que vous voulez convertir en caractères codés sur deux octets, ou des références à des cellules de texte.</translation>
     </message>
     <message>
         <source>is the array or range of data against which to text X.</source>
         <comment>TX_ParaDesc_438</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ZTEST-&gt;Function Arguments</translatorcomment>
         <translation>représente la matrice ou la plage de données par rapport à laquelle tester X.</translation>
     </message>
     <message>
         <source>is the value to test.</source>
         <comment>TX_ParaDesc_439</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ZTEST-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à tester.</translation>
     </message>
     <message>
         <source>is the population (know) standard deviation. If omitted, the sample standard deviation is used.</source>
         <comment>TX_ParaDesc_440</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ZTEST-&gt;Function Arguments</translatorcomment>
         <translation>représente l’écart-type (connu) de la population. Si omis, l’écart-type de l’échantillon est utilisé.</translation>
     </message>
     <message>
@@ -11186,6 +13286,7 @@ des données</translation>
     <message>
         <source>is the security&apos;s issue date, expressed as a serial date number.</source>
         <comment>TX_ParaDesc_444</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments-&gt;Date of issue</translatorcomment>
         <translation>est la date d&apos;émission, exprimée sous forme de numéro de série.</translation>
     </message>
     <message>
@@ -11206,16 +13307,19 @@ des données</translation>
     <message>
         <source>is the multiple to which you want to round number.</source>
         <comment>TX_ParaDesc_448</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MROUND-&gt;Function Arguments</translatorcomment>
         <translation>est le multiple auquel arrondir le nombre.</translation>
     </message>
     <message>
         <source>is the number of characters to use.</source>
         <comment>TX_ParaDesc_449</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;BIN2HEX-&gt;Function Arguments</translatorcomment>
         <translation>représente le nombre de caractères à utiliser.</translation>
     </message>
     <message>
         <source>is the number of characters to use.</source>
         <comment>TX_ParaDesc_450</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DEC2BIN-&gt;Function Arguments</translatorcomment>
         <translation>représente le nombre de caractères à utiliser.</translation>
     </message>
     <message>
@@ -11226,21 +13330,25 @@ des données</translation>
     <message>
         <source>any</source>
         <comment>TX_ParaType_002</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DELTA-&gt;Function Arguments</translatorcomment>
         <translation>quelconque</translation>
     </message>
     <message>
         <source>logical values</source>
         <comment>TX_ParaType_003</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AND-&gt;Function Arguments</translatorcomment>
         <translation>valeurs logiques</translation>
     </message>
     <message>
         <source>text</source>
         <comment>TX_ParaType_004</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DCOUNT-&gt;Function Arguments</translatorcomment>
         <translation>texte</translation>
     </message>
     <message>
         <source>reference</source>
         <comment>TX_ParaType_005</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CELL-&gt;Function Arguments</translatorcomment>
         <translation>référence</translation>
     </message>
     <message>
@@ -11251,46 +13359,55 @@ des données</translation>
     <message>
         <source>is the type of result you want to return.(&quot;Y&quot;,&quot;M&quot;,&quot;D&quot;)</source>
         <comment>TX_ParaDesc_451</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATEDIF-&gt;Function Arguments</translatorcomment>
         <translation>est le type de résultats à renvoyer.(&quot;Y&quot;,&quot;M&quot;,&quot;D&quot;)</translation>
     </message>
     <message>
         <source>is the hexadecimal number you want to convert.</source>
         <comment>TX_ParaDesc_452</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HEX2DEC-&gt;Function Arguments</translatorcomment>
         <translation>représente le nombre hexadécimal à convertir.</translation>
     </message>
     <message>
         <source>is the security&apos;s annual coupon rate.</source>
         <comment>TX_ParaDesc_453</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments-&gt;Rate</translatorcomment>
         <translation>est le taux annuel du coupon.</translation>
     </message>
     <message>
         <source>is the security&apos;s par value.</source>
         <comment>TX_ParaDesc_454</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments-&gt;Face value</translatorcomment>
         <translation>est la valeur nominale du titre.</translation>
     </message>
     <message>
         <source>is the type of day count basis to use.</source>
         <comment>TX_ParaDesc_455</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINTM-&gt;Function Arguments-&gt;Basis</translatorcomment>
         <translation>est la base annuelle utilisée pour le calcul.</translation>
     </message>
     <message>
         <source>is a serial date number that represents the start date.</source>
         <comment>TX_ParaDesc_456</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATEDIF-&gt;Function Arguments</translatorcomment>
         <translation>est la date de départ, exprimée sous forme de numéro de série.</translation>
     </message>
     <message>
         <source>is a serial date number that represents the end date.</source>
         <comment>TX_ParaDesc_457</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DATEDIF-&gt;Function Arguments</translatorcomment>
         <translation>est la date de départ, exprimée sous forme de numéro de série.</translation>
     </message>
     <message>
         <source>start_date and end_date are the two dates between which you want to know the number of days.</source>
         <comment>TX_ParaDesc_458</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DAYS360-&gt;Function Arguments</translatorcomment>
         <translation>date_début et date_fin sont les deux dates délimitant la période dont vous recherchez l&apos;étendue en jours.</translation>
     </message>
     <message>
         <source>is the number of months before or after start_date.</source>
         <comment>TX_ParaDesc_459</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EDATE-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre de mois avant ou après la date de départ.</translation>
     </message>
     <message>
@@ -11306,21 +13423,25 @@ des données</translation>
     <message>
         <source>is the value to round.</source>
         <comment>TX_ParaDesc_462</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MROUND-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à arrondir.</translation>
     </message>
     <message>
         <source>is the binary number you want to convert.</source>
         <comment>TX_ParaDesc_463</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;BIN2DEC-&gt;Function Arguments</translatorcomment>
         <translation>est le nombre binaire à convertir.</translation>
     </message>
     <message>
         <source>is the decimal integer you want to convert.</source>
         <comment>TX_ParaDesc_464</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DEC2HEX-&gt;Function Arguments</translatorcomment>
         <translation>est l&apos;entier décimal à convertir.</translation>
     </message>
     <message>
         <source>is the hexadecimal number you want to convert.</source>
         <comment>TX_ParaDesc_465</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;HEX2BIN-&gt;Function Arguments</translatorcomment>
         <translation>représente le nombre hexadécimal à convertir.</translation>
     </message>
     <message>
@@ -11361,6 +13482,7 @@ des données</translation>
     <message>
         <source>is the security&apos;s due date, expressed as a serial date number.</source>
         <comment>TX_ParaDesc_466</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINTM-&gt;Function Arguments-&gt;Maturity date</translatorcomment>
         <translation>est la date d&apos;échéance, exprimée sous forme de numéro de série.</translation>
     </message>
     <message>
@@ -11371,6 +13493,7 @@ des données</translation>
     <message>
         <source>is the security&apos;s issue date, expressed as a serial date number.</source>
         <comment>TX_ParaDesc_468</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments-&gt;Date of issue</translatorcomment>
         <translation>est la date d&apos;émission, exprimée sous forme de numéro de série.</translation>
     </message>
     <message>
@@ -11386,21 +13509,25 @@ des données</translation>
     <message>
         <source>is the value in from_unit to convert.</source>
         <comment>TX_ParaDesc_471</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CONVERT-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur dans de_unité à convertir.</translation>
     </message>
     <message>
         <source>is the units for number.</source>
         <comment>TX_ParaDesc_472</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CONVERT-&gt;Function Arguments</translatorcomment>
         <translation>représente les unités pour le nombre.</translation>
     </message>
     <message>
         <source>is the units for the result.</source>
         <comment>TX_ParaDesc_473</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CONVERT-&gt;Function Arguments</translatorcomment>
         <translation>représente les unités pour le résultat.</translation>
     </message>
     <message>
         <source>is the value to test.</source>
         <comment>TX_ParaDesc_474</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ISODD-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur à tester.</translation>
     </message>
     <message>
@@ -11426,6 +13553,7 @@ des données</translation>
     <message>
         <source>is a text value that specifies what type of cell information you want.</source>
         <comment>TX_ParaDesc_479</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;BINOMDIST-&gt;Function Arguments</translatorcomment>
         <translation>est une valeur de texte qui spécifie le type d&apos;informations de cellule que vous voulez.</translation>
     </message>
     <message>
@@ -11436,11 +13564,13 @@ des données</translation>
     <message>
         <source>formula_text</source>
         <comment>TX_ParaInfo_198</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EVALUATE-&gt;Function Arguments</translatorcomment>
         <translation>formule_texte</translation>
     </message>
     <message>
         <source>is the value for which to return the double factorial.</source>
         <comment>TX_ParaDesc_481</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;EVALUATE-&gt;Function Arguments</translatorcomment>
         <translation>est un nombre dont vous voulez obtenir la factorielle double.</translation>
     </message>
     <message>
@@ -11491,21 +13621,25 @@ des données</translation>
     <message>
         <source>value_if_error</source>
         <comment>TX_ParaInfo_199</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IFERROR-&gt;Function Arguments</translatorcomment>
         <translation>valeur_si_erreur</translation>
     </message>
     <message>
         <source>Average_range</source>
         <comment>TX_ParaInfo_200</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AVERAGEIFS-&gt;Function Arguments</translatorcomment>
         <translation>Moyenne_plage</translation>
     </message>
     <message>
         <source>is the input value to the power series.</source>
         <comment>TX_ParaDesc_482</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IFERROR-&gt;Function Arguments</translatorcomment>
         <translation>représente la valeur d&apos;entrée de la série géométrique.</translation>
     </message>
     <message>
         <source>is the actual cells to be used to find the average. If omitted, cells in the range will be used.</source>
         <comment>TX_ParaDesc_483</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AVERAGEIF-&gt;Function Arguments</translatorcomment>
         <translation>représente les cellules servant de base au calcul de la moyenne. Si omis, les cellules de la plage sont alors utilisées.</translation>
     </message>
     <message>
@@ -11516,6 +13650,7 @@ des données</translation>
     <message>
         <source>is the range of cells you want evaluated for the particular condition.</source>
         <comment>TX_ParaDesc_485</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;COUNTIFS-&gt;Function Arguments</translatorcomment>
         <translation>représente la plage de cellules que vous voulez évaluer pour la condition particulière.</translation>
     </message>
     <message>
@@ -11546,16 +13681,19 @@ des données</translation>
     <message>
         <source>1 to 30 of skewness parameter needs to be calculated. You can refer to the single array or the array, not separate parameters in comma.</source>
         <comment>TX_ParaDesc_494</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SKEW-&gt;Function Arguments</translatorcomment>
         <translation>1 à 30 paramètres d&apos;asymétrie doivent être calculés. Vous pouvez vous référer à une seule matrice ou à la matrice, sans séparer les paramètres par une virgule.</translation>
     </message>
     <message>
         <source>As the array of dependent variable data point or area</source>
         <comment>TX_ParaDesc_495</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;STEYX-&gt;Function Arguments</translatorcomment>
         <translation>Comme la matrice du point de données ou de la zone de variable dépendante</translation>
     </message>
     <message>
         <source>As the array of independent variable data points or area</source>
         <comment>TX_ParaDesc_496</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;STEYX-&gt;Function Arguments</translatorcomment>
         <translation>Comme la matrice du point de données ou de la zone de variable indépendante</translation>
     </message>
     <message>
@@ -11566,166 +13704,199 @@ des données</translation>
     <message>
         <source>For testing the value of the function</source>
         <comment>TX_ParaDesc_498</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;BESSELI-&gt;Function Arguments</translatorcomment>
         <translation>Pour tester la valeur de la fonction</translation>
     </message>
     <message>
         <source>The order of the function</source>
         <comment>TX_ParaDesc_499</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;BESSELI-&gt;Function Arguments</translatorcomment>
         <translation>L&apos;ordre de la fonction</translation>
     </message>
     <message>
         <source>The real coefficient of plural</source>
         <comment>TX_ParaDesc_500</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;COMPLEX-&gt;Function Arguments</translatorcomment>
         <translation>Le vrai coefficient du pluriel</translation>
     </message>
     <message>
         <source>The imaginary coefficient of plural</source>
         <comment>TX_ParaDesc_501</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;COMPLEX-&gt;Function Arguments</translatorcomment>
         <translation>Le coefficient imaginaire du pluriel</translation>
     </message>
     <message>
         <source>The plural imaginary part of the suffix</source>
         <comment>TX_ParaDesc_502</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;COMPLEX-&gt;Function Arguments</translatorcomment>
         <translation>La partie au pluriel imaginaire du suffixe</translation>
     </message>
     <message>
         <source>The first number</source>
         <comment>TX_ParaDesc_503</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DELTA-&gt;Function Arguments</translatorcomment>
         <translation>Le premier nombre</translation>
     </message>
     <message>
         <source>The second number</source>
         <comment>TX_ParaDesc_504</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;DELTA-&gt;Function Arguments</translatorcomment>
         <translation>Le deuxième nombre</translation>
     </message>
     <message>
         <source>The lower bound of the integrated ERF</source>
         <comment>TX_ParaDesc_505</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ERF-&gt;Function Arguments</translatorcomment>
         <translation>La limite inférieure de la fonction ERF intégrée</translation>
     </message>
     <message>
         <source>The upper limit of the integrated ERF</source>
         <comment>TX_ParaDesc_506</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ERF-&gt;Function Arguments</translatorcomment>
         <translation>La limite supérieure de la fonction ERF intégrée</translation>
     </message>
     <message>
         <source>The value of step-by-step test</source>
         <comment>TX_ParaDesc_507</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GESTEP-&gt;Function Arguments</translatorcomment>
         <translation>La valeur du test étape par étape</translation>
     </message>
     <message>
         <source>Threshold</source>
         <comment>TX_ParaDesc_508</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GESTEP-&gt;Function Arguments</translatorcomment>
         <translation>Seuil</translation>
     </message>
     <message>
         <source>Calculate the plural of its absolute value</source>
         <comment>TX_ParaDesc_509</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMABS-&gt;Function Arguments</translatorcomment>
         <translation>Calculer le pluriel de sa valeur absolue</translation>
     </message>
     <message>
         <source>Calculate the plural of its imaginary coefficients</source>
         <comment>TX_ParaDesc_510</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMAGINARY-&gt;Function Arguments</translatorcomment>
         <translation>Calculer le pluriel de ses coefficients imaginaires</translation>
     </message>
     <message>
         <source>Calculate the plural of its parameter values</source>
         <comment>TX_ParaDesc_511</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMARGUMENT-&gt;Function Arguments</translatorcomment>
         <translation>Calculer le pluriel de ses valeurs de paramètre</translation>
     </message>
     <message>
         <source>Calculate the plural of its conjugate plural</source>
         <comment>TX_ParaDesc_512</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMCONJUGATE-&gt;Function Arguments</translatorcomment>
         <translation>Calculer le pluriel de son pluriel conjugué</translation>
     </message>
     <message>
         <source>Calculate the plural of its cosine</source>
         <comment>TX_ParaDesc_513</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMCOS-&gt;Function Arguments</translatorcomment>
         <translation>Calculer le pluriel de son cosinus</translation>
     </message>
     <message>
         <source>The plural form of molecules or dividend</source>
         <comment>TX_ParaDesc_514</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMDIV-&gt;Function Arguments</translatorcomment>
         <translation>La forme plurielle des molécules ou dividende</translation>
     </message>
     <message>
         <source>The plural form of denominator or divisor</source>
         <comment>TX_ParaDesc_515</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMDIV-&gt;Function Arguments</translatorcomment>
         <translation>La forme plurielle du dénominateur ou diviseur</translation>
     </message>
     <message>
         <source> Calculate the plural of its index value</source>
         <comment>TX_ParaDesc_516</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMEXP-&gt;Function Arguments</translatorcomment>
         <translation> Calculer le pluriel de sa valeur d&apos;index</translation>
     </message>
     <message>
         <source>Calculate the plural of its natural logarithm</source>
         <comment>TX_ParaDesc_517</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMLN-&gt;Function Arguments</translatorcomment>
         <translation>Calculer le pluriel de son algorithme naturel</translation>
     </message>
     <message>
         <source>Calculate the plural of its logarithm value</source>
         <comment>TX_ParaDesc_518</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMLOG10-&gt;Function Arguments</translatorcomment>
         <translation>Calculer le pluriel de sa valeur logarithmique</translation>
     </message>
     <message>
         <source>Calculate the plural of the base 2 logarithm value</source>
         <comment>TX_ParaDesc_519</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMLOG2-&gt;Function Arguments</translatorcomment>
         <translation>Calculer le pluriel de la valeur logarithmique en base 2</translation>
     </message>
     <message>
         <source>The plural used as power form</source>
         <comment>TX_ParaDesc_520</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMPOWER-&gt;Function Arguments</translatorcomment>
         <translation>Le pluriel utilisé comme forme géométrique</translation>
     </message>
     <message>
         <source>The power of plural form</source>
         <comment>TX_ParaDesc_521</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMPOWER-&gt;Function Arguments</translatorcomment>
         <translation>La géométrie de la forme plurielle</translation>
     </message>
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMPRODUCT-&gt;Function Arguments</translatorcomment>
         <translation>Valeur 1,valeur 2,...de 1 à 30 nombres pluriels, utilisés pour calculer le produit.</translation>
     </message>
     <message>
         <source>Calculate the plural of its real coefficient</source>
         <comment>TX_ParaDesc_523</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMREAL&gt;Function Arguments</translatorcomment>
         <translation>Calculer le pluriel de son coefficient réel</translation>
     </message>
     <message>
         <source>Calculate the plural of its sine value</source>
         <comment>TX_ParaDesc_524</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMSIN-&gt;Function Arguments</translatorcomment>
         <translation>Calculer le pluriel de sa valeur de sinus</translation>
     </message>
     <message>
         <source>Calculate the plural of its square root</source>
         <comment>TX_ParaDesc_525</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMSQRT-&gt;Function Arguments</translatorcomment>
         <translation>Calculer le pluriel de sa racine carrée</translation>
     </message>
     <message>
         <source>The minuend in the plural form</source>
         <comment>TX_ParaDesc_526</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMSUB-&gt;Function Arguments</translatorcomment>
         <translation>Le diminuende dans la forme plurielle</translation>
     </message>
     <message>
         <source>The minuend in the plural form</source>
         <comment>TX_ParaDesc_527</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMSUB-&gt;Function Arguments</translatorcomment>
         <translation>Le diminuende dans la forme plurielle</translation>
     </message>
     <message>
         <source>Used for the plural of the sum of 1 to 30</source>
         <comment>TX_ParaDesc_528</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;IMSUM-&gt;Function Arguments</translatorcomment>
         <translation>Utilisé pour le pluriel de la somme de 1 à 30</translation>
     </message>
     <message>
         <source>The octal number to convert</source>
         <comment>TX_ParaDesc_529</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OCT2BIN-&gt;Function Arguments</translatorcomment>
         <translation>Le nombre octal à convertir</translation>
     </message>
     <message>
         <source>By default, the character number from the octal number conversion, is accordant with the character number in least.</source>
         <comment>TX_ParaDesc_530</comment>
+        <translatorcomment>Formulas-&gt;All-&gt;BIN2OCT-&gt;Function Arguments</translatorcomment>
         <translation>Par défaut, le nombre de caractère de la conversion du nombre octal correspond au nombre minimum de caractères.</translation>
     </message>
     <message>
@@ -11741,6 +13912,7 @@ des données</translation>
     <message>
         <source>Octal number</source>
         <comment>TX_ParaInfo_205</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;OCT2BIN-&gt;Function Arguments</translatorcomment>
         <translation>Nombre octal</translation>
     </message>
     <message>
@@ -11786,31 +13958,37 @@ des données</translation>
     <message>
         <source>is the name of the data field to extract data from</source>
         <comment>TX_ParaDesc_532</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CUMIPMT-&gt;Function Arguments</translatorcomment>
         <translation>est le nom du champ de données duquel extraire les données</translation>
     </message>
     <message>
         <source>is a reference to a cell or range of cells in the PivotTable that contains the data you want to retrieve</source>
         <comment>TX_ParaDesc_533</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GETPIVOTDATA-&gt;Function Arguments</translatorcomment>
         <translation>est une référence à une cellule ou à une plage de cellules du tableau croisé dynamique contenant les données à extraire</translation>
     </message>
     <message>
         <source>field to refer to</source>
         <comment>TX_ParaDesc_534</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GETPIVOTDATA-&gt;Function Arguments</translatorcomment>
         <translation>champ de référence</translation>
     </message>
     <message>
         <source>field item to refer to</source>
         <comment>TX_ParaDesc_535</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GETPIVOTDATA-&gt;Function Arguments</translatorcomment>
         <translation>élément du champ de référence</translation>
     </message>
     <message>
         <source>Data Field</source>
         <comment>TX_ParaInfo_208</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GETPIVOTDATA-&gt;Function Arguments</translatorcomment>
         <translation>Champ de données</translation>
     </message>
     <message>
         <source>PivotTable area</source>
         <comment>TX_ParaInfo_209</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;GETPIVOTDATA-&gt;Function Arguments</translatorcomment>
         <translation>Zone de tableau croisé dynamique</translation>
     </message>
     <message>
@@ -11836,11 +14014,13 @@ des données</translation>
     <message>
         <source>Start_period</source>
         <comment>TX_ParaInfo_212</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CUMIPMT-&gt;Function Arguments</translatorcomment>
         <translation>Période_début</translation>
     </message>
     <message>
         <source>End_period</source>
         <comment>TX_ParaInfo_213</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CUMIPMT-&gt;Function Arguments</translatorcomment>
         <translation>Période_fin</translation>
     </message>
     <message>
@@ -11851,26 +14031,31 @@ des données</translation>
     <message>
         <source>is the last period in the calculation</source>
         <comment>TX_ParaDesc_537</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;CUMIPMT-&gt;Function Arguments</translatorcomment>
         <translation>est la dernière période du calcul</translation>
     </message>
     <message>
         <source>Date_purchased</source>
         <comment>TX_ParaInfo_214</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AMORDEGRC-&gt;Function Arguments</translatorcomment>
         <translation>Date_acheté</translation>
     </message>
     <message>
         <source>First_period</source>
         <comment>TX_ParaInfo_215</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AMORDEGRC-&gt;Function Arguments</translatorcomment>
         <translation>première_période</translation>
     </message>
     <message>
         <source>is the date the asset is purchased.</source>
         <comment>TX_ParaDesc_538</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AMORDEGRC-&gt;Function Arguments</translatorcomment>
         <translation>représente la date à laquelle le bien est acheté.</translation>
     </message>
     <message>
         <source>is the date of the end of the first period.</source>
         <comment>TX_ParaDesc_539</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;AMORDEGRC-&gt;Function Arguments</translatorcomment>
         <translation>représente la date de fin de la première période.</translation>
     </message>
     <message>
@@ -11881,16 +14066,19 @@ des données</translation>
     <message>
         <source>The number used to be converted to chinese string.</source>
         <comment>TX_ParaDesc_541</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NUMBERSTRING-&gt;Function Arguments</translatorcomment>
         <translation>Le nombre utilisé à convertir en chaîne chinoise.</translation>
     </message>
     <message>
         <source>Actions Options</source>
         <comment>TX_ParaDesc_542</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NUMBERSTRING-&gt;Function Arguments</translatorcomment>
         <translation>Options d&apos;actions</translation>
     </message>
     <message>
         <source>is text specifying what type of information you want returned.</source>
         <comment>TX_ParaDesc_543</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;INFO-&gt;Function Arguments</translatorcomment>
         <translation>est le texte spécifiant le type d&apos;informations qui doit être renvoyé.</translation>
     </message>
     <message>
@@ -11919,16 +14107,19 @@ des données</translation>
     <message>
         <source>is the security&apos;s settlement date, expressed as a serial date number.</source>
         <comment>TX_ParaDesc_488</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments</translatorcomment>
         <translation>est la date de l&apos;escompte, exprimée sous forme de numéro de série</translation>
     </message>
     <message>
         <source>is the security&apos;s maturity date, expressed as a serial date number.</source>
         <comment>TX_ParaDesc_489</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments</translatorcomment>
         <translation>est la date d&apos;échéance, exprimée sous forme de numéro de série.</translation>
     </message>
     <message>
         <source>is the security&apos;s annual coupon rate.</source>
         <comment>TX_ParaDesc_490</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments-&gt;Rate</translatorcomment>
         <translation>est le taux annuel du coupon.</translation>
     </message>
     <message>
@@ -11944,6 +14135,7 @@ des données</translation>
     <message>
         <source>is the number of coupon payments per year. If pay by year, frequency = 1; by six months, frequency = 2; by quarter, frequency = 4</source>
         <comment>TX_ParaDesc_493</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ACCRINT-&gt;Function Arguments-&gt;Value Date</translatorcomment>
         <translation>est le nombre de paiements de coupon par an. Si paiement pour un an, fréquence = 1 ; pour six mois, fréquence = 2; pour trois mois, fréquence = 4</translation>
     </message>
     <message>
@@ -11982,21 +14174,25 @@ orthographique</translation>
     <message>
         <source>Not force the coefficient to be 0</source>
         <comment>TX_ParaInfo_196</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TREND-&gt;Function Arguments</translatorcomment>
         <translation>Ne pas forcer le coefficient à être égal à 0</translation>
     </message>
     <message>
         <source>is the text string containing the characters you want to extract.</source>
         <comment>TX_ParaDesc_206</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LEFT-&gt;Function Arguments</translatorcomment>
         <translation>est la chaîne de texte contenant les caractères à extraire.</translation>
     </message>
     <message>
         <source>is the length of the text string that contains the characters you want to extract.</source>
         <comment>TX_ParaDesc_209</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LEFTB-&gt;Function Arguments</translatorcomment>
         <translation>est la longueur de la chaîne de texte qui contient les caractères à extraire.</translation>
     </message>
     <message>
         <source>is the length of the text string that contains the characters you want to extract.</source>
         <comment>TX_ParaDesc_243</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MIDB-&gt;Function Arguments</translatorcomment>
         <translation>est la longueur de la chaîne de texte qui contient les caractères à extraire.</translation>
     </message>
     <message>
@@ -12007,6 +14203,7 @@ orthographique</translation>
     <message>
         <source>is the text containing part characters you want to extract.</source>
         <comment>TX_ParaDesc_334</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;RIGHTB-&gt;Function Arguments</translatorcomment>
         <translation>est le texte contenant les caractères à extraire.</translation>
     </message>
     <message>
@@ -12029,32 +14226,36 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>The Maximum must be a whole number, numeric expression, or reference to a cell containing numeric values.</source>
         <comment>TX_DV_WholeNumber2</comment>
-        <translation type="unfinished">Maximum doit être un nombre entier, une expression numérique ou une référence à une cellule contenant des valeurs numériques.</translation>
+        <translation>Le maximum doit être un nombre entier, une expression numérique ou une référence à une cellule contenant des valeurs numériques.</translation>
     </message>
     <message>
         <source>specifies the reference type: absolute = 1; absolute row/relative column = 2; relative row/absolute column = 4.</source>
         <comment>TX_ParaDesc_006</comment>
-        <translation type="unfinished">spécifie le type de référence : absolue = 1; ligne absolue/colonne relative = 2; ligne relative/colonne absolue = 4.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;ADDRESS-&gt;Function Arguments</translatorcomment>
+        <translation>spécifie le type de référence : absolue = 1; ligne absolue/colonne relative = 2; ligne relative/colonne absolue = 4.</translation>
     </message>
     <message>
         <source>is a probability associated with the chi-squared distribution, a value between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_040</comment>
-        <translation type="unfinished">représente la probabilité associée à la distribution du Khi-deux, c’est-à-dire une valeur entre 0 et 1 inclus</translation>
+        <translation>représente la probabilité associée à la distribution du Khi-deux, c’est-à-dire une valeur entre 0 et 1 inclus.</translation>
     </message>
     <message>
         <source>specifies which value argument is selected. Index_num must be between 1 and 29, or a formula or a reference to a number between 1 to 29.</source>
         <comment>TX_ParaDesc_043</comment>
-        <translation type="unfinished">spécifie l&apos;argument valeur sélectionné. No_index doit être compris entre 1 et 29, ou bien être une formule ou une référence à un numéro entre 1 et 29</translation>
+        <translatorcomment>Formulas-&gt;All-&gt;CHOOSE-&gt;Function Arguments</translatorcomment>
+        <translation>spécifie l&apos;argument valeur sélectionné. No_index doit être compris entre 1 et 29, ou bien être une formule ou une référence à un numéro entre 1 et 29.</translation>
     </message>
     <message>
         <source>is the value at which to evaluate the function, a nonnegative number.</source>
         <comment>TX_ParaDesc_113</comment>
-        <translation type="unfinished">représente la valeur à laquelle évaluer la fonction, un nombre positif.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FDIST-&gt;Function Arguments</translatorcomment>
+        <translation>représente la valeur à laquelle évaluer la fonction, un nombre positif.</translation>
     </message>
     <message>
         <source>is a range or array of x-values you already know in the relationship y=mx + b.</source>
         <comment>TX_ParaDesc_134</comment>
-        <translation type="unfinished">est la plage ou la matrice des valeurs x déjà connues dans la relation y = mx + b.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LINEST-&gt;Function Arguments</translatorcomment>
+        <translation>est la plage ou la matrice des valeurs x déjà connues dans la relation y = mx + b.</translation>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period = 1: payment at the end of the period = 0 or omitted.</source>
@@ -12064,61 +14265,760 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>is a probability associated with the lognormal distribution, a number between 0 and 1, inclusive.</source>
         <comment>TX_ParaDesc_221</comment>
-        <translation type="unfinished">représente la probabilité associée à la loi lognormale, un nombre entre 0 et 1 compris.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOGINV-&gt;Function Arguments</translatorcomment>
+        <translation>représente la probabilité associée à la loi lognormale, un nombre entre 0 et 1 compris.</translation>
     </message>
     <message>
         <source>is the mean of ln(x).</source>
         <comment>TX_ParaDesc_222</comment>
-        <translation type="unfinished">représente l’espérance mathématique de ln(x).</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;LOGINV-&gt;Function Arguments</translatorcomment>
+        <translation>représente l’espérance mathématique de ln(x).</translation>
     </message>
     <message>
         <source>is the number for which you want to find the remainder after the division is performed.</source>
         <comment>TX_ParaDesc_252</comment>
-        <translation type="unfinished">est le nombre pour lequel vous voulez trouver le reste de la division.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;MOD-&gt;Function Arguments</translatorcomment>
+        <translation>est le nombre pour lequel vous voulez trouver le reste de la division.</translation>
     </message>
     <message>
         <source>is a probability corresponding to the normal distribution, a number between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_263</comment>
-        <translation type="unfinished">représente une probabilité correspondant à la distribution normale, un nombre entre 0 et 1 compris.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;NORMINV-&gt;Function Arguments</translatorcomment>
+        <translation>représente une probabilité correspondant à la distribution normale, un nombre entre 0 et 1 compris.</translation>
     </message>
     <message>
         <source>is the optional upper bound on the value. If omitted, PROB returns the probability that X_range values are equal to Lower_limit.</source>
         <comment>TX_ParaDesc_306</comment>
-        <translation type="unfinished">représente la limite supérieure facultative de la valeur. Si omise, PROBABILITE renvoie la probabilité que les valeurs de Plage_x soient égales à Limite_inf.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;PROB-&gt;Function Arguments</translatorcomment>
+        <translation>représente la limite supérieure facultative de la valeur. Si omise, PROBABILITE renvoie la probabilité que les valeurs de Plage_x soient égales à Limite_inf.</translation>
     </message>
     <message>
         <source>is the character number in Within_text, counting from the left, at which you want to start searching. If omitted, 1 is used.</source>
         <comment>TX_ParaDesc_354</comment>
-        <translation type="unfinished">indique le numéro du caractère dans l&apos;argument texte à partir duquel la recherche doit débuter (en comptant à partir de la gauche). 1 est utilisé par défaut.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SEARCH-&gt;Function Arguments</translatorcomment>
+        <translation>indique le numéro du caractère dans l&apos;argument texte à partir duquel la recherche doit débuter (en comptant à partir de la gauche). 1 est utilisé par défaut.</translation>
     </message>
     <message>
         <source>is the text or the reference to a cell containing text in which you want to substitute characters.</source>
         <comment>TX_ParaDesc_376</comment>
-        <translation type="unfinished">représente le texte ou la référence de la cellule contenant le texte dont vous voulez remplacer des caractères.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUBSTITUTE-&gt;Function Arguments</translatorcomment>
+        <translation>représente le texte ou la référence de la cellule contenant le texte dont vous voulez remplacer des caractères.</translation>
     </message>
     <message>
         <source>specifies which occurrence of Old_text you want to replace. If omitted, every instance of Old_text is replaced.</source>
         <comment>TX_ParaDesc_379</comment>
-        <translation type="unfinished">indique l&apos;occurrence de l&apos;ancien texte que vous voulez remplacer. Par défaut, toutes les occurrence de l&apos;ancien texte seront remplacées.</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;SUBSTITUTE-&gt;Function Arguments</translatorcomment>
+        <translation>indique l&apos;occurrence de l&apos;ancien texte que vous voulez remplacer. Par défaut, toutes les occurrence de l&apos;ancien texte seront remplacées.</translation>
     </message>
     <message>
         <source>is the probability associated with the two-tailed Student&apos;s t-distribution, a number between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_405</comment>
-        <translation type="unfinished">représente la probabilité associée à la loi bilatérale T de Student, c’est-à-dire un nombre entre 0 et 1 inclus</translation>
+        <translatorcomment>Formulas tab-&gt;All-&gt;TINV-&gt;Function Arguments</translatorcomment>
+        <translation>représente la probabilité associée à la loi bilatérale T de Student, c’est-à-dire un nombre entre 0 et 1 inclus.</translation>
     </message>
     <message>
         <source>is an optional set of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
         <comment>TX_ParaDesc_460</comment>
-        <translation type="unfinished">est une matrice facultative contenant un ou plusieurs numéros de série de date à exclure du calendrier des jours ouvrés (jours de fêtes nationales, etc.).</translation>
+        <translation>est une matrice facultative contenant un ou plusieurs numéros de série de date à exclure du calendrier des jours ouvrés (jours de fêtes nationales, etc.).</translation>
     </message>
     <message>
         <source>is an optional array of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
         <comment>TX_ParaDesc_467</comment>
-        <translation type="unfinished">est une matrice facultative contenant un ou plusieurs numéros de série de date à exclure du calendrier des jours ouvrés (jours de fêtes nationales, etc.).</translation>
+        <translation>est une matrice facultative contenant un ou plusieurs numéros de série de date à exclure du calendrier des jours ouvrés (jours de fêtes nationales, etc.).</translation>
     </message>
     <message>
         <source>You cannot begin synchronizing changes or display the Error Checking dialog box if you are already in the process of synchronizing changes or checking errors.</source>
-        <translation type="unfinished">Vous ne pouvez pas commencer la synchronisation des modifications ou afficher la boîte de dialogue Vérification des erreurs si vous avez déjà entamé le processus de synchronisation des modifications ou de vérification des erreurs.</translation>
+        <translation>Vous ne pouvez pas commencer la synchronisation des modifications ou afficher la boîte de dialogue Vérification des erreurs si vous avez déjà entamé le processus de synchronisation des modifications ou de vérification des erreurs.</translation>
+    </message>
+    <message>
+        <source>Logical_test</source>
+        <comment>TX_ParaInfo_217</comment>
+        <translation type="unfinished">Test_logique</translation>
+    </message>
+    <message>
+        <source>Counter_text</source>
+        <comment>TX_ParaInfo_218</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start_num</source>
+        <comment>TX_ParaInfo_219</comment>
+        <translation type="unfinished">Nom_début</translation>
+    </message>
+    <message>
+        <source>End_num</source>
+        <comment>TX_ParaInfo_220</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step_num</source>
+        <comment>TX_ParaInfo_221</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ref_name</source>
+        <comment>TX_ParaInfo_222</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Area_ref</source>
+        <comment>TX_ParaInfo_223</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip_blanks</source>
+        <comment>TX_ParaInfo_224</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical_test</source>
+        <comment>TX_ParaInfo_225</comment>
+        <translation type="unfinished">Test_logique</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_ParaInfo_226</comment>
+        <translation type="unfinished">Valeur</translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_227</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data_type_num</source>
+        <comment>TX_ParaInfo_228</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_229</comment>
+        <translation type="unfinished">Référence</translation>
+    </message>
+    <message>
+        <source>Cancel_close</source>
+        <comment>TX_ParaInfo_230</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_231</comment>
+        <translation type="unfinished">Référence</translation>
+    </message>
+    <message>
+        <source>No_tool</source>
+        <comment>TX_ParaInfo_232</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Level_num</source>
+        <comment>TX_ParaInfo_233</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_234</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_235</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_ParaInfo_236</comment>
+        <translation type="unfinished">Valeur</translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_237</comment>
+        <translation type="unfinished">Référence</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>TX_ParaInfo_238</comment>
+        <translation type="unfinished">Valeurs</translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_239</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Info_type</source>
+        <comment>TX_ParaInfo_240</comment>
+        <translation type="unfinished">Type_info</translation>
+    </message>
+    <message>
+        <source>Module_text</source>
+        <comment>TX_ParaInfo_241</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Procedure</source>
+        <comment>TX_ParaInfo_242</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_text</source>
+        <comment>TX_ParaInfo_243</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function_text</source>
+        <comment>TX_ParaInfo_244</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argument_text</source>
+        <comment>TX_ParaInfo_245</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_type</source>
+        <comment>TX_ParaInfo_246</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <comment>TX_ParaInfo_247</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut_text</source>
+        <comment>TX_ParaInfo_248</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help_topic</source>
+        <comment>TX_ParaInfo_249</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function_help</source>
+        <comment>TX_ParaInfo_250</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argument_help</source>
+        <comment>TX_ParaInfo_251</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register_id</source>
+        <comment>TX_ParaInfo_252</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_253</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_254</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>TX_ParaInfo_255</comment>
+        <translation type="unfinished">Texte</translation>
+    </message>
+    <message>
+        <source>Match_text</source>
+        <comment>TX_ParaInfo_256</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell_ref</source>
+        <comment>TX_ParaInfo_257</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start_char</source>
+        <comment>TX_ParaInfo_258</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Num_chars</source>
+        <comment>TX_ParaInfo_259</comment>
+        <translation type="unfinished">Nom_cars</translation>
+    </message>
+    <message>
+        <source>Window_text</source>
+        <comment>TX_ParaInfo_260</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula_text</source>
+        <comment>TX_ParaInfo_261</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From_a1</source>
+        <comment>TX_ParaInfo_262</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To_a1</source>
+        <comment>TX_ParaInfo_263</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To_ref_type</source>
+        <comment>TX_ParaInfo_264</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rel_to_ref</source>
+        <comment>TX_ParaInfo_265</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A1</source>
+        <comment>TX_ParaInfo_266</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bar_num</source>
+        <comment>TX_ParaInfo_267</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <comment>TX_ParaInfo_268</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <comment>TX_ParaInfo_269</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subcommand</source>
+        <comment>TX_ParaInfo_270</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu_ref</source>
+        <comment>TX_ParaInfo_271</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Position1</source>
+        <comment>TX_ParaInfo_272</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Position2</source>
+        <comment>TX_ParaInfo_273</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Submenu</source>
+        <comment>TX_ParaInfo_274</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bar_id</source>
+        <comment>TX_ParaInfo_275</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ProgID</source>
+        <comment>TX_ParaInfo_217</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server</source>
+        <comment>TX_ParaInfo_218</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Topic</source>
+        <comment>TX_ParaInfo_219</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Topic</source>
+        <comment>TX_ParaInfo_220</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
+        <comment>TX_ParaInfo_548</comment>
+        <translation type="unfinished">rubrique1,rubrique2,...représentent de 1 à 28 paramètres qui indiquent une partie des données. {1,?} {2,?} {1 ?} {38 ?}</translation>
+    </message>
+    <message>
+        <source>Message_text</source>
+        <comment>TX_ParaInfo_280</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_281</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help_ref</source>
+        <comment>TX_ParaInfo_282</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical</source>
+        <comment>TX_ParaInfo_283</comment>
+        <translation type="unfinished">Logique</translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_284</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xy_series</source>
+        <comment>TX_ParaInfo_285</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add_logical</source>
+        <comment>TX_ParaInfo_286</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document_text</source>
+        <comment>TX_ParaInfo_287</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_text</source>
+        <comment>TX_ParaInfo_288</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sheet_text</source>
+        <comment>TX_ParaInfo_289</comment>
+        <translation type="unfinished">Texte_feuille</translation>
+    </message>
+    <message>
+        <source>Key_text</source>
+        <comment>TX_ParaInfo_290</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate_logical</source>
+        <comment>TX_ParaInfo_291</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <comment>TX_ParaInfo_292</comment>
+        <translation type="unfinished">Heure</translation>
+    </message>
+    <message>
+        <source>Tolerance</source>
+        <comment>TX_ParaInfo_293</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert_logical</source>
+        <comment>TX_ParaInfo_294</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window_text</source>
+        <comment>TX_ParaInfo_295</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <comment>TX_ParaInfo_296</comment>
+        <translation type="unfinished">Sélection</translation>
+    </message>
+    <message>
+        <source>Active_cell</source>
+        <comment>TX_ParaInfo_297</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From_reference</source>
+        <comment>TX_ParaInfo_298</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format_text</source>
+        <comment>TX_ParaInfo_299</comment>
+        <translation type="obsolete">Format_texte</translation>
+    </message>
+    <message>
+        <source>Icon_number</source>
+        <comment>TX_ParaInfo_303</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon_label</source>
+        <comment>TX_ParaInfo_304</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name_text</source>
+        <comment>TX_ParaInfo_305</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refers_to</source>
+        <comment>TX_ParaInfo_306</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_type</source>
+        <comment>TX_ParaInfo_307</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut_text</source>
+        <comment>TX_ParaInfo_308</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hidden</source>
+        <comment>TX_ParaInfo_309</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <comment>TX_ParaInfo_310</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local</source>
+        <comment>TX_ParaInfo_311</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height_num</source>
+        <comment>TX_ParaInfo_312</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_313</comment>
+        <translation type="unfinished">Référence</translation>
+    </message>
+    <message>
+        <source>Standard_height</source>
+        <comment>TX_ParaInfo_314</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_315</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width_num</source>
+        <comment>TX_ParaInfo_316</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_317</comment>
+        <translation type="unfinished">Référence</translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <comment>TX_ParaInfo_318</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_319</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard_num</source>
+        <comment>TX_ParaInfo_320</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula_text</source>
+        <comment>TX_ParaInfo_321</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_322</comment>
+        <translation type="unfinished">Référence</translation>
+    </message>
+    <message>
+        <source>To_reference</source>
+        <comment>TX_ParaInfo_323</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste_num</source>
+        <comment>TX_ParaInfo_299</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operation_num</source>
+        <comment>TX_ParaInfo_300</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip_blanks</source>
+        <comment>TX_ParaInfo_301</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transpose</source>
+        <comment>TX_ParaInfo_302</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable_logical</source>
+        <comment>TX_ParaInfo_324</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro_ref</source>
+        <comment>TX_ParaInfo_325</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_326</comment>
+        <translation type="unfinished">Référence</translation>
+    </message>
+    <message>
+        <source>Step</source>
+        <comment>TX_ParaInfo_327</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save_logical</source>
+        <comment>TX_ParaInfo_328</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Route_logical</source>
+        <comment>TX_ParaInfo_329</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Range_num</source>
+        <comment>TX_ParaInfo_330</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From</source>
+        <comment>TX_ParaInfo_331</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To</source>
+        <comment>TX_ParaInfo_332</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copies</source>
+        <comment>TX_ParaInfo_333</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draft</source>
+        <comment>TX_ParaInfo_334</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <comment>TX_ParaInfo_335</comment>
+        <translation type="unfinished">Aperçu</translation>
+    </message>
+    <message>
+        <source>Print_what</source>
+        <comment>TX_ParaInfo_336</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <comment>TX_ParaInfo_337</comment>
+        <translation type="unfinished">Couleur</translation>
+    </message>
+    <message>
+        <source>Feed</source>
+        <comment>TX_ParaInfo_338</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quality</source>
+        <comment>TX_ParaInfo_339</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Y_resolution</source>
+        <comment>TX_ParaInfo_340</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <comment>TX_ParaInfo_341</comment>
+        <translation type="unfinished">Sélection</translation>
+    </message>
+    <message>
+        <source>Printer_text</source>
+        <comment>TX_ParaInfo_342</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print_to_file</source>
+        <comment>TX_ParaInfo_343</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collate</source>
+        <comment>TX_ParaInfo_344</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <comment>TX_ParaInfo_345</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore_print_area</source>
+        <comment>TX_ParaInfo_346</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Module_text</source>
+        <comment>TX_ParaInfo_347</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Procedure</source>
+        <comment>TX_ParaInfo_348</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type_text</source>
+        <comment>TX_ParaInfo_349</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argument</source>
+        <comment>TX_ParaInfo_350</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="unfinished">est le nom du ProgID d&apos;un complément d&apos;automation COM enregistré. Le nom doit être placé entre guillemets.</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="unfinished">est le nom du serveur dans lequel le complément doit être exécuté. Le nom doit être placé entre guillemets. Si le complément est exécuté en local, utilisez une chaîne vide.</translation>
     </message>
 </context>
 <context>
@@ -12206,7 +15106,7 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>Across Worksheets</source>
         <comment>TX_Undo_AcrossSheets</comment>
-        <translation>Sur l&apos;ensemble des feuilles de calcul</translation>
+        <translation>Dans toutes les feuilles de donnée</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -12456,7 +15356,7 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>Group</source>
         <comment>TX_Undo_DataGroup</comment>
-        <translation>Groupe</translation>
+        <translation>Grouper</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -12546,7 +15446,7 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>Underline</source>
         <comment>TX_Undo_Underline</comment>
-        <translation>Soulignement</translation>
+        <translation>Souligner</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -12561,7 +15461,7 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>Alignment</source>
         <comment>TX_Undo_Alignment</comment>
-        <translation>Alignement</translation>
+        <translation>Aligner</translation>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -12571,7 +15471,7 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>Currency</source>
         <comment>TX_Undo_Currency</comment>
-        <translation>Devise</translation>
+        <translation>Monétaire</translation>
     </message>
     <message>
         <source>Percent Style</source>
@@ -12646,12 +15546,12 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>Name Box</source>
         <comment>TX_Undo_FormulaBarNameBox</comment>
-        <translation>Zone Nom</translation>
+        <translation>Zone de Nom</translation>
     </message>
     <message>
         <source>Enter</source>
         <comment>TX_Undo_FormulaBarEnter</comment>
-        <translation>Entrée</translation>
+        <translation>Entrer</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12929,7 +15829,7 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>(Blank)</source>
         <comment>et_sBlank</comment>
-        <translation>(Blank)</translation>
+        <translation>(Vide)</translation>
     </message>
     <message>
         <source>(Blanks)</source>
@@ -13045,12 +15945,12 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>Center</source>
         <comment>et_sCenter</comment>
-        <translation>Centre</translation>
+        <translation>Centrer</translation>
     </message>
     <message>
         <source>Across Center</source>
         <comment>et_sCenterAcross</comment>
-        <translation>Centré sur plusieurs colonnes</translation>
+        <translation>Centrer sur plusieurs colonnes</translation>
     </message>
     <message>
         <source>Vertical Center Aligned</source>
@@ -13085,7 +15985,7 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>Drop Column Fields Here</source>
         <comment>et_sColAreaHint</comment>
-        <translation>Déposer champs de colonne Ici</translation>
+        <translation>Déposer le Champs de colonne Ici</translation>
     </message>
     <message>
         <source>Column Area</source>
@@ -13160,7 +16060,7 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>Currency</source>
         <comment>et_sCurrency</comment>
-        <translation>Devise</translation>
+        <translation>Monétaire</translation>
     </message>
     <message>
         <source>Currency[0]</source>
@@ -13430,7 +16330,7 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>Integer is not valid.</source>
         <comment>et_sErrorFirstPage</comment>
-        <translation>Valeur incorrecte.</translation>
+        <translation>L&apos;entier n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>Everyone</source>
@@ -13475,6 +16375,7 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
         <comment>et_sFileExist</comment>
+        <translatorcomment>create Book1-&gt;Save-&gt;close ET-&gt;start ET-&gt;create Book1-&gt;Save</translatorcomment>
         <translation>Le fichier existe déjà. Voulez-vous remplacer le fichier existant ?</translation>
     </message>
     <message>
@@ -13595,7 +16496,7 @@ Pour modifier une cellule ou un graphique protégé, retirez d&apos;abord la pro
     <message>
         <source>Integer is not valid.</source>
         <comment>et_sIntegerNotValid</comment>
-        <translation>Valeur incorrecte.</translation>
+        <translation>L&apos;entier n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>Input error, the value must be an Integer between 1 and 10000.</source>
@@ -13654,7 +16555,7 @@ la catégorie que vous souhaitez, puis choisissez les autres options.</translati
     <message>
         <source>Left-to-Right Reading Order</source>
         <comment>et_sLeftToRightReadingOrder</comment>
-        <translation>Sens de la lecture de gauche à droite</translation>
+        <translation>Ordre de lecture de gauche à droite</translation>
     </message>
     <message>
         <source>less than</source>
@@ -13799,7 +16700,7 @@ la catégorie que vous souhaitez, puis choisissez les autres options.</translati
     <message>
         <source>No Borders</source>
         <comment>et_sNoBorders</comment>
-        <translation>Pas de bordure</translation>
+        <translation>Aucune bordure</translation>
     </message>
     <message>
         <source>No Font</source>
@@ -13809,7 +16710,7 @@ la catégorie que vous souhaitez, puis choisissez les autres options.</translati
     <message>
         <source>(No Blanks)</source>
         <comment>et_sNonBlanks</comment>
-        <translation>(Pas de valeur vide)</translation>
+        <translation>(Aucune valeur vide)</translation>
     </message>
     <message>
         <source>(none)</source>
@@ -13824,7 +16725,7 @@ la catégorie que vous souhaitez, puis choisissez les autres options.</translati
     <message>
         <source>No Protection</source>
         <comment>et_sNoProtection</comment>
-        <translation>Pas de protection</translation>
+        <translation>Sans protection</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -13984,7 +16885,7 @@ la catégorie que vous souhaitez, puis choisissez les autres options.</translati
     <message>
         <source>Percent</source>
         <comment>et_sPercent</comment>
-        <translation>Pour cent</translation>
+        <translation>Pourcentage</translation>
     </message>
     <message>
         <source>Solid, &quot;75% Gray&quot;, &quot;50% Gray&quot;, &quot;25% Gray&quot;, &quot;12.5% Gray&quot;, &quot;6.5% Gray&quot;, &quot;Horizontal stripe&quot;, &quot;Vertical stripe&quot;, &quot;Reverse Diagonal stripe&quot;, &quot;Diagonal stripe&quot;, &quot;Diagonal crosshatch&quot;, &quot;Thick Diagonal crosshatch&quot;, &quot;Thin Horizontal stripe&quot;, &quot;Thin Vertical stripe&quot;, &quot;Thin Reverse Diagonal stripe&quot;, &quot;Thin Diagonal stripe&quot;, &quot;Thin Horizontal crosshatch&quot;, &quot;Thin Diagonal crosshatch&quot;</source>
@@ -14059,7 +16960,7 @@ la catégorie que vous souhaitez, puis choisissez les autres options.</translati
     <message>
         <source>Right-to-Left Reading Order</source>
         <comment>et_sRightToLeftReadingOrder</comment>
-        <translation>Sens de la lecture de droite à gauche</translation>
+        <translation>Ordre de lecture de droite à gauche</translation>
     </message>
     <message>
         <source>Rotated down %d Degrees</source>
@@ -14182,12 +17083,12 @@ la catégorie que vous souhaitez, puis choisissez les autres options.</translati
     <message>
         <source>&amp;Start date:</source>
         <comment>et_sStartDate</comment>
-        <translation>Date de dé&amp;but :</translation>
+        <translation type="unfinished">Date de dé&amp;but :</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
         <comment>et_sStartTime</comment>
-        <translation>&amp;Heure de début :</translation>
+        <translation type="unfinished">&amp;Heure de début :</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -14237,7 +17138,7 @@ la catégorie que vous souhaitez, puis choisissez les autres options.</translati
     <message>
         <source>&amp;Time:</source>
         <comment>et_sTimeS</comment>
-        <translation>Heu&amp;re :</translation>
+        <translation type="unfinished">Heu&amp;re :</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
@@ -14297,7 +17198,7 @@ la catégorie que vous souhaitez, puis choisissez les autres options.</translati
     <message>
         <source>Vertical</source>
         <comment>et_sVertical</comment>
-        <translation>Verticale</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -14397,7 +17298,7 @@ la catégorie que vous souhaitez, puis choisissez les autres options.</translati
     <message>
         <source>Cannot find object.</source>
         <comment>et_sLocate_NotFindObject</comment>
-        <translation>Objet ntrouvable.</translation>
+        <translation>Objet introuvable.</translation>
     </message>
     <message>
         <source>Set display area</source>
@@ -14417,7 +17318,7 @@ la catégorie que vous souhaitez, puis choisissez les autres options.</translati
     <message>
         <source>User Feedback</source>
         <comment>et_sFeedbackMailTitle</comment>
-        <translation>Commentaires des utilisateur</translation>
+        <translation>Commentaires des utilisateurs</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -14534,6 +17435,7 @@ Pour saisir une référence, cliquez sur la cellule de la feuile à laquelle vou
     <message>
         <source>This function takes no arguments.</source>
         <comment>et_sFuncHasNoParam</comment>
+        <translatorcomment>Formulas tab-&gt;All-&gt;FALSE-&gt;Function Arguments</translatorcomment>
         <translation>Cette fonction ne possède pas d&apos;argument.</translation>
     </message>
     <message>
@@ -14627,7 +17529,7 @@ ment, pour conserver une ligne.
     <message>
         <source>&amp;Find/Replace...</source>
         <comment>et_sFindMenuCaption</comment>
-        <translation>&amp;Chercher/Remplacer...</translation>
+        <translation type="unfinished">&amp;Chercher/Remplacer...</translation>
     </message>
     <message>
         <source>Type the number format code, using one of the existing codes as a starting point.</source>

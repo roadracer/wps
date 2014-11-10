@@ -61,6 +61,10 @@
         <source>This file does not belong to the current user. Please change the account</source>
         <translation>Этот файл не принадлежит текущему пользователю. Измените аккаунт</translation>
     </message>
+    <message>
+        <source>Check failed because the account was logged off. Please login again.</source>
+        <translation>Ошибка проверки, так как пользователь вышел из системы. Выполните вход повторно.</translation>
+    </message>
 </context>
 <context>
     <name>KCloudFileStatePanel</name>
@@ -311,10 +315,14 @@
     <name>KDataRecoverButton</name>
     <message>
         <source>Kingsoft Data Recovery Master</source>
-        <translation>Образец восстановления данных WPS</translation>
+        <translation type="obsolete">Образец восстановления данных WPS</translation>
     </message>
     <message>
         <source>Data Recovery Master</source>
+        <translation>Образец восстановления данных</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
         <translation>Образец восстановления данных</translation>
     </message>
 </context>
@@ -364,11 +372,11 @@
     <message>
         <source>Changing the file suffix may lead to file opening failure!
 Are you sure to change?</source>
-        <translation>Изменение суффикса файла может привести к невозможности открытия файла. Изменить?</translation>
+        <translation type="obsolete">Изменение суффикса файла может привести к невозможности открытия файла. Изменить?</translation>
     </message>
     <message>
         <source>rename</source>
-        <translation>переименовать</translation>
+        <translation type="obsolete">переименовать</translation>
     </message>
     <message>
         <source>The file path cannot be longer than 255 characters.</source>
@@ -388,6 +396,14 @@ Are you sure to change?</source>
     <message>
         <source>The file name already exists.</source>
         <translation>Файл с таким именем уже существует.</translation>
+    </message>
+    <message>
+        <source>If you change the filename extension, the file can become unusable. Do you want to continue?</source>
+        <translation>При изменении расширения имени файл может стать непригодным для использования. Продолжить?</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Переименовать</translation>
     </message>
 </context>
 <context>
@@ -643,7 +659,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>File %1 does not exist.</source>
-        <translation>Файл %1 не существет.</translation>
+        <translation>Файл %1 не существует.</translation>
     </message>
     <message>
         <source>The file name is too long. Please enter a file name less than %1 characters.</source>
@@ -713,7 +729,7 @@ Are you sure to change?</source>
     <name>KLiveEmbedDialogImpl</name>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Отркыть из Cloud Docs</translation>
+        <translation>Открыть из Cloud Docs</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -740,6 +756,48 @@ Are you sure to change?</source>
     <message>
         <source>Ignore</source>
         <translation>Пропустить</translation>
+    </message>
+</context>
+<context>
+    <name>KLoginButtonTipWidget</name>
+    <message>
+        <source>UC_Feature1</source>
+        <translation>Восстановление данных</translation>
+    </message>
+    <message>
+        <source>UC_Feature2</source>
+        <translation>Шрифты облачного сервиса</translation>
+    </message>
+    <message>
+        <source>UC_Feature3</source>
+        <translation>Шаблоны из Интернета</translation>
+    </message>
+    <message>
+        <source>UC_Feature4</source>
+        <translation>Стили интерфейса из Интернета</translation>
+    </message>
+    <message>
+        <source>UC_Feature5</source>
+        <translation>Облегчённый офис</translation>
+    </message>
+    <message>
+        <source>UC_Feature6</source>
+        <translation>Роуминг документов</translation>
+    </message>
+    <message>
+        <source>Login gifts</source>
+        <translation>Войдите для доступа к дополнительным возможностям</translation>
+    </message>
+    <message>
+        <source>UC_Feature_More</source>
+        <translation>Другие</translation>
+    </message>
+</context>
+<context>
+    <name>KLoginUserCenterCommand</name>
+    <message>
+        <source>You have signed in WPS Office. Click here for more information.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -845,6 +903,37 @@ path:%3</source>
         <source>Remove all non-starred records</source>
         <translation>Удалить все не помеченные записи</translation>
     </message>
+    <message>
+        <source>Open</source>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <source>Remove From List</source>
+        <translation>Удалить из списка</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>Очистить все</translation>
+    </message>
+    <message>
+        <source>Open File Location</source>
+        <translation>Открыть папку файла</translation>
+    </message>
+    <message>
+        <source>Clear Invalid Records</source>
+        <translation>Удалить неверные записи</translation>
+    </message>
+</context>
+<context>
+    <name>KRoamingFilePageFixedButton</name>
+    <message>
+        <source>Remove star</source>
+        <translation>Убрать метку</translation>
+    </message>
+    <message>
+        <source>Add star</source>
+        <translation>Добавить метку</translation>
+    </message>
 </context>
 <context>
     <name>KRoamingFloatingWidget</name>
@@ -886,6 +975,26 @@ path:%3</source>
     <message>
         <source>Disable File Roaming</source>
         <translation>Отключить роуминг файлов</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <source>Remove From List</source>
+        <translation>Удалить из списка</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>Очистить все</translation>
+    </message>
+    <message>
+        <source>Open File Location</source>
+        <translation>Открыть папку файла</translation>
+    </message>
+    <message>
+        <source>Clear Invalid Records</source>
+        <translation>Удалить неверные записи</translation>
     </message>
 </context>
 <context>
@@ -1021,6 +1130,41 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KUpgradeHintDlg</name>
+    <message>
+        <source>Upgrade Hint</source>
+        <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
+        <translation>Подсказка для обновления версии</translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; contains macros.</source>
+        <extracomment>open a document contains macros</extracomment>
+        <translation>&quot;%1&quot; содержит макрос.</translation>
+    </message>
+    <message>
+        <source>If you want to use marcos, please upgrade to professional or commercial version</source>
+        <translation>Для использования макросов необходима профессиональная или коммерческая версия приложения.</translation>
+    </message>
+    <message>
+        <source>Learn Professional</source>
+        <extracomment>click upgrade to professional version</extracomment>
+        <translation>Знакомство с профессиональной версией</translation>
+    </message>
+    <message>
+        <source>Learn Commercial</source>
+        <extracomment>click to upgrade to commercial version</extracomment>
+        <translation>Знакомство с коммерческой версией</translation>
+    </message>
+    <message>
+        <source>%1 contains macro.</source>
+        <translation>%1 содержит макрос.</translation>
+    </message>
+    <message>
+        <source>The file you would like to open contains macros.</source>
+        <translation>Открываемый файл содержит макросы.</translation>
+    </message>
+</context>
+<context>
     <name>KUserCenterCommand</name>
     <message>
         <source>You have logged in WPS Office</source>
@@ -1054,6 +1198,13 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KxDaysRemainWidget</name>
+    <message>
+        <source>Days Remaining</source>
+        <translation>Осталось дней</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgCheckUpload</name>
     <message>
         <source>retry</source>
@@ -1070,6 +1221,41 @@ path:%3</source>
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
         <translation>Выполняется проверка прав на сохранение в облачном сервисе. Пожалуйста, подождите...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgExpirationReminder</name>
+    <message>
+        <source>WPS Office Expiration Reminder</source>
+        <translation>Напоминание об истечении срока действия WPS Office</translation>
+    </message>
+    <message>
+        <source>The %1-day trial expires now. </source>
+        <translation type="obsolete">Истекает срок действия %1-дневной пробной версии.</translation>
+    </message>
+    <message>
+        <source>The program will switch to a free version. Some features cannot work properly. To use these features, please purchase WPS Office. </source>
+        <translation type="obsolete">Программа будет переведена на бесплатную версию. Некоторые функции могут быть ограничены. Для использования всех функций необходима платная версия WPS Office.</translation>
+    </message>
+    <message>
+        <source>List of limited features in free version</source>
+        <translation>Список ограничений бесплатной версии</translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="obsolete">Купить</translation>
+    </message>
+    <message>
+        <source>Your subscription for WPS Office or %1-day trial expries now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy/Renew Now</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1099,15 +1285,225 @@ path:%3</source>
     <name>KxDlgSyncProcess</name>
     <message>
         <source>Synchronize progress</source>
-        <translation>Выполняется синхронизация</translation>
+        <translation type="obsolete">Выполняется синхронизация</translation>
     </message>
     <message>
         <source>Synchronizing, please wait...</source>
-        <translation>Выполняется синхронизация, подождите...</translation>
+        <translation type="obsolete">Выполняется синхронизация, подождите...</translation>
     </message>
     <message>
         <source>Cancel</source>
         <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>Sync Progress</source>
+        <translation>Выполняется синхронизация</translation>
+    </message>
+    <message>
+        <source>Syncing, please wait…</source>
+        <translation>Выполняется синхронизация, подождите...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgVbaInstallation</name>
+    <message>
+        <source>Macro</source>
+        <translation>Макрос</translation>
+    </message>
+    <message>
+        <source>Macros depend on VBA support to function correctly. </source>
+        <translation>Функционирование макросов зависит от поддержки VBA.</translation>
+    </message>
+    <message>
+        <source>Please download and install VBA to allow all macros to run if you need.</source>
+        <translation type="obsolete">Загрузите и установите VBA для возможности запуска любых макросов при необходимости.</translation>
+    </message>
+    <message>
+        <source>&amp;Download</source>
+        <translation>&amp;Загрузка</translation>
+    </message>
+    <message>
+        <source>Please download and install VBA to allow all macros to run if you need. If you have installed VBA, please restart WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxExpirationReminderDlg</name>
+    <message>
+        <source>WPS Office you purchased has expired at used period, the program will automatically become free version, the part of the feature is not used properly./nWe extend the %1 - day renewal fee for your time, you can renew and enjoy the discount in this time.</source>
+        <translation type="obsolete">Истёк срок действия платной версии WPS Office, и программа автоматически переключается на бесплатную версию, в которой ограничено использование некоторых функций. /nМы продлеваем %1 - дневный период обновления программы. Сейчас вы можете продлить срок действия платной версии и получить скидку.</translation>
+    </message>
+    <message>
+        <source>Renew Now</source>
+        <translation type="obsolete">Продлить</translation>
+    </message>
+    <message>
+        <source>The %1-day trial expires now.</source>
+        <translation type="obsolete">Истекает срок действия %1-дневной пробной версии.</translation>
+    </message>
+    <message>
+        <source>The program will switch to a free version. Some features cannot work properly. To use these features, please purchase WPS Office. </source>
+        <translation type="obsolete">Программа будет переведена на бесплатную версию. Некоторые функции могут быть ограничены. Для использования всех функций необходима платная версия WPS Office.</translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="obsolete">Купить</translation>
+    </message>
+    <message>
+        <source>Writer:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save as docx format</source>
+        <translation>Сохранить в формате .docx</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation type="obsolete">Проверка правописания</translation>
+    </message>
+    <message>
+        <source>Check the spelling of the text in the current document.</source>
+        <translation type="obsolete">Проверьте правильность написания текста в текущем документе.</translation>
+    </message>
+    <message>
+        <source>Enable/Disable Online Template</source>
+        <translation>Разрешить или запретить шаблоны из Интернета</translation>
+    </message>
+    <message>
+        <source>Mail Merge</source>
+        <translation>Слияние почты</translation>
+    </message>
+    <message>
+        <source>Track Changes</source>
+        <translation>Исправления</translation>
+    </message>
+    <message>
+        <source>Choose revision markups and comment formatting, or to change reviewer information.</source>
+        <translation>Выбор меток исправлений и форматирования примечаний или изменение информации проверяющего.</translation>
+    </message>
+    <message>
+        <source>Fields Protection</source>
+        <translation>Защита поля</translation>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation>Подложка</translation>
+    </message>
+    <message>
+        <source>Insert ghosted text and picture behind the content on the page.</source>
+        <translation>Вставка скрытого текста и изображения позади содержимого страницы.</translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation>Ограничение редактирования</translation>
+    </message>
+    <message>
+        <source>Restrict Editing Content.</source>
+        <translation>Ограничение редактирования содержимого.</translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation>Макросы</translation>
+    </message>
+    <message>
+        <source>View the list of macros, from which you can run, create, or delete a macro.</source>
+        <translation>Вывод списка макросов для выполнения, создания или удаления макроса.</translation>
+    </message>
+    <message>
+        <source>Developer tools</source>
+        <translation>Средства разработчика</translation>
+    </message>
+    <message>
+        <source>Insert the Option Button, Check Box and more.</source>
+        <translation>Вставить кнопку выбора, флажок и другие.</translation>
+    </message>
+    <message>
+        <source>Presentation:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Check the spelling of the text in the document.</source>
+        <translation type="obsolete">Проверьте правильность написания текста в текущем документе.</translation>
+    </message>
+    <message>
+        <source>Convert to WPS Writer Document</source>
+        <translation type="obsolete">Преобразовать в документ WPS Writer</translation>
+    </message>
+    <message>
+        <source>Advanced Timeline </source>
+        <translation type="obsolete">Расширенная временная шкала</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>Примечание</translation>
+    </message>
+    <message>
+        <source>Package to Folder/Compressed File</source>
+        <translation>Упаковать в папку или сжатый файл</translation>
+    </message>
+    <message>
+        <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
+        <translation>Копирование файла презентации и связанных с ним элементов мультимедиа, например, видео, аудио файлов и т.д. в указанную папку для проигрывания этого файла на другом компьютере.</translation>
+    </message>
+    <message>
+        <source>Spreadsheets:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save as xlsx/xlsm format</source>
+        <translation>Сохранить в формате .xlsx/.xlsm</translation>
+    </message>
+    <message>
+        <source>Check the spelling of the text in the current worksheet.</source>
+        <translation type="obsolete">Проверьте правильность написания текста в текущей электронной таблице.</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <translation>Сводная таблица</translation>
+    </message>
+    <message>
+        <source>Make it easy to arrange and summarize complicated data and drill down on details.</source>
+        <translation>Упрощают представление, сведение и детализацию сложных данных.</translation>
+    </message>
+    <message>
+        <source>Consolidate</source>
+        <translation>Консолидация</translation>
+    </message>
+    <message>
+        <source>Combine values from multiple ranges into one new range.</source>
+        <translation>Объединение значений из нескольких диапазонов в один новый диапазон.</translation>
+    </message>
+    <message>
+        <source>Text to Columns</source>
+        <translation>Текст по столбцам</translation>
+    </message>
+    <message>
+        <source>Separate the contents of one Spreadsheets cell into separate columns.</source>
+        <translation>Распределение содержимого одной ячейки Spreadsheets по нескольким столбцам. </translation>
+    </message>
+    <message>
+        <source>Solver</source>
+        <translation>Поиск решения</translation>
+    </message>
+    <message>
+        <source>Find the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
+        <translation>Найти оптимальное значение целевой ячейки, изменяя значения ячеек, которые используются для расчета значения целевой ячейки.</translation>
+    </message>
+    <message>
+        <source>Goal Seek</source>
+        <translation>Подбор параметра</translation>
+    </message>
+    <message>
+        <source>Find the right input when you know the result you want.</source>
+        <translation>Поиск значения, которое надо ввести в формулу для получения известного результата. </translation>
+    </message>
+    <message>
+        <source>Share Workbook</source>
+        <translation>Управление доступом к файлу</translation>
+    </message>
+    <message>
+        <source>Allow multiple people to work in a workbook at the same time.</source>
+        <translation>Организация одновременной работы нескольких пользователей с одной и той же книгой.</translation>
     </message>
 </context>
 <context>
@@ -1257,7 +1653,7 @@ path:%3</source>
     <name>KxLiveStateUpdateCache</name>
     <message>
         <source>Click icon</source>
-        <translation>Щёлкните значок</translation>
+        <translation type="obsolete">Щёлкните значок</translation>
     </message>
     <message>
         <source>You can view or send collaborative information.</source>
@@ -1273,7 +1669,7 @@ path:%3</source>
     </message>
     <message>
         <source>Sign in for more free services like &lt;br/&gt;online documents, Online Templates and Material Collections.</source>
-        <translation>Войти для использования других бесплатных услуг, таких как &lt;br/&gt; документы из Интернета, шаблоны из Интернета и коллекций материалов.</translation>
+        <translation type="obsolete">Войти для использования других бесплатных услуг, таких как &lt;br/&gt; документы из Интернета, шаблоны из Интернета и коллекций материалов.</translation>
     </message>
     <message>
         <source>Sign out</source>
@@ -1294,6 +1690,14 @@ path:%3</source>
     <message>
         <source>Equipment Management</source>
         <translation>Управление устройствами</translation>
+    </message>
+    <message>
+        <source>Click Icon</source>
+        <translation>Щёлкните значок</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1344,10 +1748,362 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KxQingActiveCodeDialog</name>
+    <message>
+        <source>WPS Office Activation Code</source>
+        <translation>Код активации WPS Office</translation>
+    </message>
+    <message>
+        <source>Enter your activation code here:</source>
+        <translation>Введите код активации:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>ОК</translation>
+    </message>
+    <message>
+        <source>Invalid activation code.</source>
+        <translation>Неверный код активации.</translation>
+    </message>
+    <message>
+        <source>The activation code does not exist.</source>
+        <translation>Несуществующий код активации.</translation>
+    </message>
+    <message>
+        <source>The activation code has expired.</source>
+        <translation>Истёк срок действия кода активации.</translation>
+    </message>
+    <message>
+        <source>The activation code has exceeded the maximum number of activations.</source>
+        <translation>Превышено максимальное число активаций для кода активации.</translation>
+    </message>
+    <message>
+        <source>Please check your network connection and try again.</source>
+        <translation type="obsolete">Проверьте сетевое соединение и повторите.</translation>
+    </message>
+    <message>
+        <source>The server is busy. Please try again later.</source>
+        <translation type="obsolete">Сервер перегружен. Повторите попытку позже.</translation>
+    </message>
+    <message>
+        <source>Please update your system time to connect to server.</source>
+        <translation>Обновите системное время для подключения к серверу.</translation>
+    </message>
+    <message>
+        <source>Unknown error</source>
+        <translation>Неизвестная ошибка</translation>
+    </message>
+    <message>
+        <source>ACTIVING...</source>
+        <translation type="obsolete">Активирование...</translation>
+    </message>
+    <message>
+        <source>Please check your network connection and %1try again%2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The server is busy. Please %1try again%2 later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQingActiveSucceedDialog</name>
+    <message>
+        <source>WPS Office activation is successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">ОК</translation>
+    </message>
+</context>
+<context>
+    <name>KxQingAuthorize</name>
+    <message>
+        <source>Trial</source>
+        <translation>Пробная</translation>
+    </message>
+    <message>
+        <source>Free</source>
+        <translation>Свободная</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="obsolete">Ошибка</translation>
+    </message>
+    <message>
+        <source>WPS Office detects that the current system time and the actual time do not match. Please update your current system time to authenticate against the server.</source>
+        <translation type="obsolete">WPS Office обнаружил расхождение системного и фактического времени. Обновите текущее системное время для аутентификации на сервере.</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="obsolete">Предупреждение</translation>
+    </message>
+</context>
+<context>
+    <name>KxQingBuyTooltip</name>
+    <message>
+        <source>Form</source>
+        <translation>Форма</translation>
+    </message>
+    <message>
+        <source>To purchase WPS Office, click here to visit the purchase page for more information. 
+You need to sign in before you buy. </source>
+        <translation>Щёлкните здесь для перехода на страницу покупки WPS Office и получения дополнительной информации. Для выполнения покупки необходимо войти в систему.</translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires after %2 days</source>
+        <translation>Срок действия %1-дневной пробной версии истекает через %2 дней</translation>
+    </message>
+    <message>
+        <source>After the trial expires, some features will not work properly. 
+Please purchase to continue using WPS Office.</source>
+        <translation>После завершения срока действия пробной версии некоторые компоненты могут перестать работать, или их функциональность может быть ограниченна. Купите сейчас для продолжения использования WPS Office.</translation>
+    </message>
+    <message>
+        <source>Buy Now &gt;&gt;</source>
+        <translation>Купить&gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation>Купить</translation>
+    </message>
+    <message>
+        <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>
+        <translation>Щёлкните здесь для перехода на страницу покупки и получения дополнительной информации. Для выполнения покупки необходимо войти в систему.</translation>
+    </message>
+    <message>
+        <source>Subscription will expire after %1 days</source>
+        <translation>Срок действия подписки истекает через %1 дней</translation>
+    </message>
+    <message>
+        <source>Your WPS Office is about to expire. 
+After expiration, some features will not work properly. Renew now and you can get a discount. </source>
+        <translation>Истекает срок действия WPS Office.
+После этого некоторые компоненты могут перестать работать, или их функциональность может быть ограниченна. Продлите сейчас для получения скидки.</translation>
+    </message>
+    <message>
+        <source>Renew Now &gt;&gt;</source>
+        <translation>Продлить&gt;&gt;</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">Метка текста</translation>
+    </message>
+    <message>
+        <source>Subscription will expire by the end of the day</source>
+        <translation type="obsolete">Срок действия подписки истекает к концу дня</translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires</source>
+        <translation>Истекает срок действия %1-дневной пробной версии</translation>
+    </message>
+    <message>
+        <source>Your %1-day trial expires after 1 day</source>
+        <translation>Срок действия %1-дневной пробной версии истекает через 1 день</translation>
+    </message>
+    <message>
+        <source>Your subscription has expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify Again &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscription will expire today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your WPS Office is about to expire. 
+After expiration, some features will not work properly. Please renew now. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some features will not work properly. &lt;br/&gt;Please renew now.  %1View details%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verification Failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQingRestrictDlg</name>
+    <message>
+        <source>WPS Office Disable Features</source>
+        <translation>WPS Office запрет функциональности</translation>
+    </message>
+    <message>
+        <source>WPS Office Limited Features</source>
+        <translation>WPS Office ограничение функциональности</translation>
+    </message>
+    <message>
+        <source>The free version can not use this feature</source>
+        <translation type="obsolete">Бесплатная версия не может использовать эту функцию</translation>
+    </message>
+    <message>
+        <source>To provoke you are paying customers can use any of the following ways:</source>
+        <translation type="obsolete">Для оплаты можно воспользоваться любым из следующих способов:</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Войти</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription for individuals,  sign in to enjoy the service.</source>
+        <translation>Если вы приобрели индивидуальную подписку, войдите для того, чтобы вспользоваться услугой.</translation>
+    </message>
+    <message>
+        <source>Enter your activation code</source>
+        <translation>Введите код активации</translation>
+    </message>
+    <message>
+        <source>If you already have an activation code, use it to activate WPS Office.</source>
+        <translation>Если у вас уже есть код активации, используйте его, чтобы активировать WPS Office.</translation>
+    </message>
+    <message>
+        <source>The feature is not available in free version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you are a paid subscriber, you can use this feature in either way:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy/Renew Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQingWelcomeDlg</name>
+    <message>
+        <source>Welcome to WPS Office</source>
+        <translation>Добро пожаловать в WPS Office</translation>
+    </message>
+    <message>
+        <source>Trial</source>
+        <translation>Пробная</translation>
+    </message>
+    <message>
+        <source>Start your free %-day trial.</source>
+        <translation type="obsolete">Начните %-дневную бесплатную пробную версию.</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Войти</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription for individuals,  sign in to enjoy the service.</source>
+        <translation type="obsolete">Если вы приобрели индивидуальную подписку, войдите для того, чтобы вспользоваться услугой.</translation>
+    </message>
+    <message>
+        <source>Enter Your Activation Code</source>
+        <translation type="obsolete">Введите код активации</translation>
+    </message>
+    <message>
+        <source>If you already have an activation code, use it to activate WPS Office.</source>
+        <translation>Если у вас уже есть код активации, используйте его, чтобы активировать WPS Office.</translation>
+    </message>
+    <message>
+        <source>Start your free %1-day trial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription for individuals, sign in to enjoy the service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTpCloudLinkWidget</name>
     <message>
         <source>Transmitting share link failed. Please check the network or operation authorization.</source>
         <translation>Ошибка передачи ссылки публикации. Проверьте сетевое соединение или разрешение на операцию.</translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaBuyDlg</name>
+    <message>
+        <source>Macro</source>
+        <translation>Макрос</translation>
+    </message>
+    <message>
+        <source>Macros depend on VBA support to function correctly. </source>
+        <translation>Правильность функционирования макросов зависит от поддержки VBA.</translation>
+    </message>
+    <message>
+        <source>Your subscription does not include VBA. Macro in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
+        <translation>Ваша подписка не включает VBA, поэтому макросы в документе не смогут работать. Купите отдельно поддержку VBA, если необходима поддержка макросов.</translation>
+    </message>
+    <message>
+        <source>&amp;Buy Now</source>
+        <translation>&amp;Купить</translation>
+    </message>
+    <message>
+        <source>Macros depend on VBA support to function correctly.</source>
+        <translation>Правильность функционирования макросов зависит от поддержки VBA.</translation>
+    </message>
+    <message>
+        <source>This document contains macros.</source>
+        <translation>Документ содержит макросы.</translation>
+    </message>
+    <message>
+        <source>Trial version does not support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
+        <translation>Пробная версия не поддерживает VBA, поэтому макросы в документе не смогут работать. Для поддержки макросов купите платную версию WPS Office.</translation>
+    </message>
+    <message>
+        <source>WPS Office Free cannot support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
+        <translation>Бесплатная версия не поддерживает VBA, поэтому макросы в документе не смогут работать. Для поддержки макросов купите платную версию WPS Office.</translation>
+    </message>
+    <message>
+        <source>Your subscription does not include VBA so that macros in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
+        <translation>Ваша подписка не включает VBA, поэтому макросы в документе не смогут работать. Купите отдельно поддержку VBA, если необходима поддержка макросов.</translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaInstallationDlg</name>
+    <message>
+        <source>Macros depend on VBA support to function correctly.</source>
+        <translation type="obsolete">Правильность функционирования макросов зависит от поддержки VBA.</translation>
+    </message>
+    <message>
+        <source>Please download and install VBA to allow all macros to run if you need.</source>
+        <translation type="obsolete">Загрузите и установите VBA для возможности запуска любых макросов при необходимости.</translation>
+    </message>
+    <message>
+        <source>This document contains macros.</source>
+        <translation type="obsolete">Документ содержит макросы.</translation>
+    </message>
+    <message>
+        <source>This document contains macros. Macros depend on VBA support to function correctly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaReminderDlg</name>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished">Макрос</translation>
+    </message>
+    <message>
+        <source>Macros depend on VBA support to function correctly. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">ОК</translation>
     </message>
 </context>
 <context>
@@ -1358,15 +2114,15 @@ path:%3</source>
     </message>
     <message>
         <source>Failed to delete the following files! Please check if the files are being used.</source>
-        <translation>Не удалось удалить данные файлы. Проверьте не находятся ли файлы в использовании.</translation>
+        <translation type="obsolete">Не удалось удалить данные файлы. Проверьте не находятся ли файлы в использовании.</translation>
     </message>
     <message>
         <source>Failed to cut the following files! Please check if the files are being used.</source>
-        <translation>Не удалось вырезать файлы. Проверьте не находятся ли файлы в использовании.</translation>
+        <translation type="obsolete">Не удалось вырезать файлы. Проверьте не находятся ли файлы в использовании.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; already exists. Operation cannot be completed.</source>
-        <translation>&apos;%1 уже существет. Операция не может быть завершена.</translation>
+        <translation>&apos;%1 уже существует. Операция не может быть завершена.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this &apos;%1&apos; item permanently?</source>
@@ -1386,23 +2142,31 @@ path:%3</source>
     </message>
     <message>
         <source>Open</source>
-        <translation>Открыть</translation>
+        <translation type="obsolete">Открыть</translation>
     </message>
     <message>
         <source>Delete From The Listing</source>
-        <translation>Удалить из списка</translation>
+        <translation type="obsolete">Удалить из списка</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Очистить все</translation>
+        <translation type="obsolete">Очистить все</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Отркыть папку</translation>
+        <translation type="obsolete">Открыть папку</translation>
     </message>
     <message>
         <source>Delete from List</source>
-        <translation>Удалить из списка</translation>
+        <translation type="obsolete">Удалить из списка</translation>
+    </message>
+    <message>
+        <source>Failed to delete the following files. Please check if the files were in use.</source>
+        <translation>Ошибка удаления следующих файлов. Проверьте не находятся ли данные файлы в использовании.</translation>
+    </message>
+    <message>
+        <source>Failed to cut the following files. Please check if the files were in use.</source>
+        <translation>Ошибка удаления следующих файлов. Проверьте не находятся ли данные файлы в использовании.</translation>
     </message>
 </context>
 <context>
@@ -1438,7 +2202,11 @@ path:%3</source>
     <name>kxKOSLoginCommand</name>
     <message>
         <source>Sign in for more free services like &lt;br/&gt;online documents, Online Templates and Material Collections.</source>
-        <translation>Войти для использования других бесплатных услуг, таких как &lt;br/&gt; документы из Интернета, шаблоны из Интернета и коллекций материалов.</translation>
+        <translation type="obsolete">Войти для использования других бесплатных услуг, таких как &lt;br/&gt; документы из Интернета, шаблоны из Интернета и коллекций материалов.</translation>
+    </message>
+    <message>
+        <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

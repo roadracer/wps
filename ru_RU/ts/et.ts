@@ -191,7 +191,7 @@
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation>&amp;Остановить</translation>
+        <translation>&amp;Стоп</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -784,11 +784,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Fill by Color</source>
-        <translation>Заливка цветом</translation>
+        <translation type="obsolete">Заливка цветом</translation>
     </message>
     <message>
         <source>Not equal to &quot;%1&quot;</source>
         <translation>Не равно &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>Filter by Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -830,7 +834,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Cannot find the Add-Ins.</source>
-        <translation>Отстутствуют дополнения.</translation>
+        <translation>Отстутствуют надстройки.</translation>
     </message>
     <message>
         <source>&quot;, do you want to delete it from the list?</source>
@@ -838,15 +842,47 @@ condition is true:</source>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation>Дополнения</translation>
+        <translation>Надстройки</translation>
     </message>
     <message>
         <source>The file already exists in the list.</source>
-        <translation>Файл в списке уже существует.</translation>
+        <translation type="obsolete">Файл в списке уже существует.</translation>
     </message>
     <message>
         <source>is not a valid Add-In.</source>
-        <translation>Недопустимое дополнение.</translation>
+        <translation type="obsolete">Недопустимая надстройка.</translation>
+    </message>
+    <message>
+        <source>Automation Servers</source>
+        <translation>Серверы автоматизации</translation>
+    </message>
+    <message>
+        <source>The file you selected does not contain a new Automation Server, or you do not have sufficient privileges to register the Automation Server.</source>
+        <translation>Выбранный файл не содержит нового сервера автоматизации, либо у вас недостаточно прав для регистрации сервера автоматизации.</translation>
+    </message>
+    <message>
+        <source>A file named </source>
+        <translation>Файл с именем </translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it does not contain a new Automation Server.</source>
+        <translation>уже существует в этом месте, или выбранный файл не содержит нового сервера автоматизации.</translation>
+    </message>
+    <message>
+        <source>already exists in this location, or it is an invalid add-ins.</source>
+        <translation>уже существует в этом месте, или недопустимая надстройка.</translation>
+    </message>
+    <message>
+        <source>already exists in this location. Do you want to replace it?</source>
+        <translation>уже существует в этом месте. Заменить?</translation>
+    </message>
+    <message>
+        <source>does not contain a new Automation Server.</source>
+        <translation>не содержит нового сервера автоматизации.</translation>
+    </message>
+    <message>
+        <source>is an invalid add-ins.</source>
+        <translation>недопустимая надстройка.</translation>
     </message>
 </context>
 <context>
@@ -1196,23 +1232,23 @@ condition is true:</source>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation></translation>
+        <translation>Формат JPEG</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation>Portable Network Graphics</translation>
+        <translation>Формат PNG</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation></translation>
+        <translation>Точечный рисунок Windows (BMP)</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation></translation>
+        <translation>Формат GIF</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation></translation>
+        <translation>Формат TIFF</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
@@ -1357,11 +1393,11 @@ To keep existing picture, press Cancel.</source>
     <name>KxDlgAddIns</name>
     <message>
         <source>Add-Ins</source>
-        <translation>Дополнения</translation>
+        <translation>Надстройки</translation>
     </message>
     <message>
         <source>&amp;Add-Ins available:</source>
-        <translation>&amp;Доступные дополнения:</translation>
+        <translation>&amp;Доступные надстройки:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -1837,6 +1873,26 @@ cursor in the edit box and press the Format Picture button.</source>
         <source>&amp;Refer to:</source>
         <translation>&amp;Ссылка на:</translation>
     </message>
+    <message>
+        <source>Macro</source>
+        <translation>Макрос</translation>
+    </message>
+    <message>
+        <source>&amp;Function</source>
+        <translation>&amp;Функция</translation>
+    </message>
+    <message>
+        <source>&amp;Command</source>
+        <translation>&amp;Команда</translation>
+    </message>
+    <message>
+        <source>Non&amp;e</source>
+        <translation>Н&amp;ет</translation>
+    </message>
+    <message>
+        <source>Sor&amp;t</source>
+        <translation>Со&amp;ртировка</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgDelCell</name>
@@ -1951,14 +2007,14 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Command t&amp;ext:</source>
-        <translation>Т&amp;екст команды:</translation>
+        <translation>Те&amp;кст команды:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgErrorCheck</name>
     <message>
         <source>Error Checking</source>
-        <translation>Проверка ошибок</translation>
+        <translation>Проверка наличия ошибок</translation>
     </message>
     <message>
         <source>Cell ? Error</source>
@@ -3315,7 +3371,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Error Checking</source>
-        <translation></translation>
+        <translation>Проверка наличия ошибок</translation>
     </message>
     <message>
         <source>Enable &amp;background error checking</source>
@@ -3443,7 +3499,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>After pressing Enter, &amp;move selection</source>
-        <translation>После нажатия Enter, &amp;переместить выделение</translation>
+        <translation>После нажатия Enter &amp;переместить выделение</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -3451,7 +3507,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation>Создавать файл &amp;резервной копии при первом сохранении</translation>
+        <translation type="obsolete">Создавать файл &amp;резервной копии при первом сохранении</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -3565,6 +3621,10 @@ p, li { white-space: pre-wrap; }
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
         <translation>Нажмите Ctrl + Tab для &amp;переключения вкладок</translation>
     </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation>Создавать файл &amp;резервной копии при первом сохранении</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -3618,7 +3678,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>72 dpi</source>
-        <translation></translation>
+        <translation>72 точки на дюйм</translation>
     </message>
     <message>
         <source>144 dpi</source>
@@ -4286,6 +4346,62 @@ prior to sharing the workbook.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgRemoveDuplicates</name>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation>Удалить повторения</translation>
+    </message>
+    <message>
+        <source>Please select one or more columns that contain duplicates.</source>
+        <translation>Выделите один или несколько столбцов, содержащих повторяющиеся значения.</translation>
+    </message>
+    <message>
+        <source>&amp;My data has headers</source>
+        <translation>&amp;Мои данные содержат заголовки</translation>
+    </message>
+    <message>
+        <source>row</source>
+        <translation>строка</translation>
+    </message>
+    <message>
+        <source>%d duplicates are found;
+Only %d unique value can be keep after delete.</source>
+        <translation>найдено %d повторений; 
+Только %d уникальные значения будут оставлены после удаления.</translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates</source>
+        <translation>&amp;Удалить повторения</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemoveDuplicatesWarning</name>
+    <message>
+        <source>Remove Duplicates Warning</source>
+        <translation>Предупреждение об удалении дубликатов</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets found data next to your selection. Because you have not select this data, it will not be removed.</source>
+        <translation>Spreadsheets обнаружила данные после выделенного диапазона. Не выделенные данные удалены не будут.</translation>
+    </message>
+    <message>
+        <source>What do you want to do?</source>
+        <translation>Что вы хотите сделать?</translation>
+    </message>
+    <message>
+        <source>&amp;Expand the selection</source>
+        <translation>&amp;Расширить выделенный диапазон</translation>
+    </message>
+    <message>
+        <source>&amp;Continue with the current selection</source>
+        <translation>&amp;Сортировать в пределах указанного выделения</translation>
+    </message>
+    <message>
+        <source>&amp;Remove Duplicates...</source>
+        <translation>&amp;Удалить повторения...</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgRepeatWord</name>
     <message>
         <source>input</source>
@@ -4711,7 +4827,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Number:</source>
-        <translation>Номер:</translation>
+        <translation>Число:</translation>
     </message>
     <message>
         <source>Alignment:</source>
@@ -4723,7 +4839,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Border:</source>
-        <translation>Граница:</translation>
+        <translation>Рамка:</translation>
     </message>
     <message>
         <source>Patterns:</source>
@@ -5172,7 +5288,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Decimal</source>
-        <translation>Десятичный</translation>
+        <translation>Десятичное</translation>
     </message>
     <message>
         <source>List</source>
@@ -5288,7 +5404,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Stop</source>
-        <translation>Остановить</translation>
+        <translation>Стоп</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -5571,6 +5687,37 @@ If this is correct, choose Next, or choose the data type that best describes you
     <message>
         <source>Error in filter conditions.</source>
         <translation>Ошибка условия фильтра.</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDialogSheetDlg</name>
+    <message>
+        <source>Integer is not valid.</source>
+        <translation>Недопустимое целое.</translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation>Введено недопустимое значение. Следует ввести число.</translation>
+    </message>
+    <message>
+        <source>The reference you typed is not valid, or you did not provide a reference where one was required
+To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
+        <translation>Неверная ссылка или ссылка отсутствует.
+Чтобы ввести ссылку с помощью мыши, щелкните строку ввода, а затем щелкните ячейку листа, или выделите диапазон.</translation>
+    </message>
+    <message>
+        <source>The formula you typed contains an error.
+To get assistance in entering a function, click Function Wizard
+If you are not trying to enter a formula, avoid using an equal sign(=) or minus sign(-),or precede it with a single quotation mark(&apos;)&apos;).</source>
+        <translation>Введенная формула содержит ошибку.
+Для получения помощи по вводу функции, откройте мастер функций.
+Если вы хотите ввести не формулу, а какой-либо текст, старайтесь не использовать знаки равно (=) и минус (-) или вводите перед ними знак кавычки (&apos;).</translation>
+    </message>
+    <message>
+        <source>The cell or chart that you are trying to change is protected and therefore read-only.
+To Modify a protected cell or chart, first remove protection using the Unprotect Sheet command.You may be prompted for a password.</source>
+        <translation>Ячейка или диаграмма защищена от изменений.
+Чтобы изменить защищенную ячейку или диаграмму, снимите защиту при помощи команды &quot;Снять защиту листа&quot; (вкладка &quot;Рецензирование&quot;). При этом может потребоваться ввод пароля.</translation>
     </message>
 </context>
 <context>
@@ -5920,7 +6067,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Save Adobe PDF File</source>
-        <translation>Сохранить файл PDF</translation>
+        <translation type="obsolete">Сохранить файл PDF</translation>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
@@ -5933,6 +6080,10 @@ If this is correct, choose Next, or choose the data type that best describes you
     <message>
         <source>Please input the password of permission settings!</source>
         <translation>Введите пароль для настройки разрешений!</translation>
+    </message>
+    <message>
+        <source>Save PDF File</source>
+        <translation>Сохранить файл PDF</translation>
     </message>
 </context>
 <context>
@@ -6807,6 +6958,14 @@ on iteration #%2.</source>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
         <translation>Изменения стандартного шрифта и размера вступят в силу только после перезагрузки WPS Spreadsheets..</translation>
     </message>
+    <message>
+        <source>Custom Lists</source>
+        <translation>Списки</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Параметры</translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
@@ -7256,6 +7415,31 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
 </context>
 <context>
+    <name>KxRemoveDuplicatesDlg</name>
+    <message>
+        <source>( Select All )</source>
+        <translation>(Выделить все)</translation>
+    </message>
+    <message>
+        <source>column </source>
+        <translation>столбец </translation>
+    </message>
+    <message>
+        <source>(%1) %2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found;
+Only %2 unique value can be keep after delete.</source>
+        <translation>найдено %1 повторений; 
+Только %2 уникальные значения будут оставлены после удаления.</translation>
+    </message>
+    <message>
+        <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
+        <translation>найдено %1 повторений, которые будут удалены. Только %2 уникальные значения будут оставлены после удаления.</translation>
+    </message>
+</context>
+<context>
     <name>KxRepeatWordDlg</name>
     <message>
         <source>Highlight Duplicate</source>
@@ -7324,6 +7508,29 @@ system will remind checking the correctness of the contents.
     <message>
         <source>*No Assign*</source>
         <translation>*Не определено*</translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectTableFromDbDlg</name>
+    <message>
+        <source>Select Table</source>
+        <translation>Выбор таблицы</translation>
+    </message>
+    <message>
+        <source>This data source contains no visible tables.</source>
+        <translation>Этот источник данных не содержит видимых таблиц.</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Имя</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation>Владелец</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Тип</translation>
     </message>
 </context>
 <context>
@@ -7832,7 +8039,7 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     </message>
     <message>
         <source>Parameter</source>
-        <translation>Параметр</translation>
+        <translation type="obsolete">Параметр</translation>
     </message>
     <message>
         <source>Empty value for parameter.</source>
@@ -8527,7 +8734,7 @@ t</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation></translation>
+        <translation>Заполнение</translation>
     </message>
     <message>
         <source>Horizontal Distributed</source>
@@ -8599,7 +8806,7 @@ t</source>
     </message>
     <message>
         <source>No Borders</source>
-        <translation>Без границ</translation>
+        <translation>Без рамки</translation>
     </message>
     <message>
         <source>Border</source>
@@ -8627,7 +8834,7 @@ t</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Остановить</translation>
+        <translation>Стоп</translation>
     </message>
     <message>
         <source>Black</source>
@@ -9281,6 +9488,13 @@ t</source>
     </message>
 </context>
 <context>
+    <name>SelectTableFromDbUI</name>
+    <message>
+        <source>Select Table</source>
+        <translation>Выбор таблицы</translation>
+    </message>
+</context>
+<context>
     <name>SolverOptions</name>
     <message>
         <source>Options</source>
@@ -9709,7 +9923,7 @@ t</source>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation>Преобразование в файл PDF</translation>
+        <translation type="obsolete">Преобразование в файл PDF</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -9819,12 +10033,16 @@ t</source>
         <source>Low-quality printing</source>
         <translation>Печать низкого качества</translation>
     </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation>Преобразование в файл PDF</translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation>Преобразование в файл PDF</translation>
+        <translation type="obsolete">Преобразование в файл PDF</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
@@ -9837,6 +10055,10 @@ t</source>
     <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>Подготовка для преобразования в файл PDF...</translation>
+    </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation>Преобразование в файл PDF</translation>
     </message>
 </context>
 <context>
@@ -9860,8 +10082,8 @@ t</source>
     <message>
         <source>Pl&amp;ace in this
 Document</source>
-        <translation>По&amp;местить в этот 
-документ</translation>
+        <translation>&amp;Место в
+документе</translation>
     </message>
     <message>
         <source>Email Buttion</source>
@@ -9899,7 +10121,7 @@ Document</source>
         <source>E&amp;xisting File
 or Web Page</source>
         <translation>Су&amp;ществующий файл
-или веб-страница</translation>
+или веб-страницу</translation>
     </message>
     <message>
         <source>Browse for File</source>
@@ -10067,7 +10289,7 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Print object</source>
-        <translation>&amp;Печать объекта</translation>
+        <translation>&amp;Выводить объект на печать</translation>
     </message>
 </context>
 <context>

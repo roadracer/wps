@@ -5,15 +5,7 @@
 <context>
     <name>KxItemWebView</name>
     <message>
-        <source>Click to enlarge preview item.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click to show additional options.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Lock this item to the list.</source>
+        <source>Unlock this item from the list.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21,7 +13,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unlock this item from the list.</source>
+        <source>Lock this item to the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to enlarge preview item.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to show additional options.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -32,10 +32,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Click to Paste:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clipboard</source>
         <translation type="unfinished"></translation>
     </message>
@@ -43,13 +39,13 @@
         <source>Setting</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click to Paste:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpClipboardPanel</name>
-    <message>
-        <source>&amp;Collect Data Without Showing Clipboard</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>&amp;Delete</source>
         <translation type="unfinished"></translation>
@@ -59,7 +55,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lock this item to the list.</source>
+        <source>Show Clipboard &amp;Automatically When Copying</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -67,11 +63,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show Clipboard &amp;Automatically When Copying</source>
+        <source>&amp;Collect Data Without Showing Clipboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unlock this item from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock this item to the list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

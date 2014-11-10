@@ -754,6 +754,14 @@
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
         <translation>Цвет фона,Цвет текстов и линий,Цвет теней,Цвет заголовков,Цвет заливки,Цвет акцентов,Цвет акцентов с гиперссылкой,Цвет акцентов с последующей гиперссылкой</translation>
     </message>
+    <message>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <translation>Тысячи шаблонов для создания привлекательных и оригинальных презентаций.</translation>
+    </message>
+    <message>
+        <source>bgMagic tooltip</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxBrowseSlidesDlg</name>
@@ -945,6 +953,18 @@
     <message>
         <source>I&amp;gnore the background of master slide</source>
         <translation>Не у&amp;читывать фон образца слайдов</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation>Дополнительно</translation>
+    </message>
+    <message>
+        <source>Template Background</source>
+        <translation>Фон шаблона</translation>
+    </message>
+    <message>
+        <source>Magic Backgroud</source>
+        <translation>&quot;Волшебный&quot; фон</translation>
     </message>
 </context>
 <context>
@@ -1815,6 +1835,22 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Help us to improve WPS Office</source>
         <translation>Помогите нам улучшить WPS Office</translation>
     </message>
+    <message>
+        <source>Preserve &amp;fidelity when sharing this document:</source>
+        <translation>Сохранение &amp;качества при совместном использовании документа:</translation>
+    </message>
+    <message>
+        <source>Embed fon&amp;ts in the file</source>
+        <translation>Внедрить &amp;шрифты в файл</translation>
+    </message>
+    <message>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
+        <translation>Внедрять &amp;только знаки, используемые в документе (уменьшение размера файла)</translation>
+    </message>
+    <message>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation>Внедрять все &amp;знаки (возможность изменения другими пользователями)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -1855,7 +1891,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>On-screen show</source>
-        <translation>На экране</translation>
+        <translation type="obsolete">На экране</translation>
     </message>
     <message>
         <source>Letter Paper(8.5x11 Inch)</source>
@@ -1887,7 +1923,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Projector</source>
-        <translation>Проектор</translation>
+        <translation type="obsolete">Проектор</translation>
     </message>
     <message>
         <source>Banner</source>
@@ -1952,6 +1988,26 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Notes, handouts and outline</source>
         <translation>Заметки, выдачи и структуры</translation>
+    </message>
+    <message>
+        <source>Fullscreen(4:3)</source>
+        <translation>Полный экран(4:3)</translation>
+    </message>
+    <message>
+        <source>Overhead</source>
+        <translation>Прозрачная плёнка</translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:9)</source>
+        <translation>Полный экран(16:9)</translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:10)</source>
+        <translation>Полный экран(16:10)</translation>
+    </message>
+    <message>
+        <source>Widescreen</source>
+        <translation>Широкоэкранный</translation>
     </message>
 </context>
 <context>
@@ -2332,7 +2388,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>   Use extend mode to show the speaker view and playing view on different monitors. The audience can only see the process of slide shows and the operation of drawing marks. The speaker can run other programs or perform other operations without the audience&apos;s noticing</source>
-        <translation>   Используйте расширенный режим для показа представления докладчика и отображения на разных мониторах. Зрители могут увидеть только показ слайдов и нанесение пометок. Докладчик может запускать другие программы или выполнять различные операции.</translation>
+        <translation>   Используйте расширенный режим для показа представления докладчика и отображения на разных мониторах. Зрители могут увидеть только показ слайдов и нанесение пометок. Докладчик может запускать другие программы или выполнять различные операции, не отвлекая внимание аудитории.</translation>
     </message>
     <message>
         <source>   This wizard will help you to understand the various settings of the double-screen extended mode. Please use the following links to view the help files:</source>
@@ -2535,7 +2591,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Save Adobe PDF File</source>
-        <translation>Сохранить файл Adobe PDF</translation>
+        <translation type="obsolete">Сохранить файл Adobe PDF</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
@@ -2580,6 +2636,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
         <translation>Убедитесь, что слайды больше не скрыты, или установите флажок &quot;печать скрытых слайдов&quot;.</translation>
+    </message>
+    <message>
+        <source>Save PDF File</source>
+        <translation>Сохранить файл PDF</translation>
     </message>
 </context>
 <context>
@@ -4222,14 +4282,14 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>dialogstestClass</name>
     <message>
         <source>Dialogstest</source>
-        <translation></translation>
+        <translation>Проверка</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation>Преобразовать в формат Adobe PDF</translation>
+        <translation type="obsolete">Преобразовать в формат Adobe PDF</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -4423,6 +4483,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>File open password:</source>
         <translation>Пароль доступа к файлу:</translation>
     </message>
+    <message>
+        <source>Export PDF File</source>
+        <translation>Преобразовать в файл PDF</translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -4440,7 +4504,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation>Преобразование в формат Adobe PDF</translation>
+        <translation type="obsolete">Преобразование в формат Adobe PDF</translation>
+    </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation>Преобразовать в файл PDF</translation>
     </message>
 </context>
 <context>

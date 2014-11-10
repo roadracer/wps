@@ -5,7 +5,7 @@
     <name>BordersAndShadingWidget</name>
     <message>
         <source>No Fill</source>
-        <translation>Без заливки</translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>White</source>
@@ -1474,11 +1474,11 @@
     <name>KxCustomizeBulletedlistDlg</name>
     <message>
         <source>&amp;Less</source>
-        <translation>&amp;Меньше</translation>
+        <translation>&amp;Кратко</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Подробнее</translation>
     </message>
 </context>
 <context>
@@ -1489,11 +1489,11 @@
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation>&amp;Меньше</translation>
+        <translation>&amp;Кратко</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Подробнее</translation>
     </message>
 </context>
 <context>
@@ -1570,31 +1570,31 @@
     </message>
     <message>
         <source>B&amp;orders</source>
-        <translation>&amp;Границы</translation>
+        <translation>&amp;Граница</translation>
     </message>
     <message>
         <source>Setting:</source>
-        <translation>Настройка:</translation>
+        <translation>Тип:</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation>&amp;Нет</translation>
+        <translation>&amp;нет</translation>
     </message>
     <message>
         <source>Bo&amp;x</source>
-        <translation>&amp;Поле</translation>
+        <translation>&amp;рамка</translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation>&amp;Все</translation>
+        <translation>&amp;все</translation>
     </message>
     <message>
         <source>Gri&amp;d</source>
-        <translation>&amp;Сетка</translation>
+        <translation>&amp;сетка</translation>
     </message>
     <message>
         <source>C&amp;ustom</source>
-        <translation>Настройки &amp;пользователя</translation>
+        <translation>&amp;другая</translation>
     </message>
     <message>
         <source>St&amp;yle:</source>
@@ -1629,7 +1629,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Page Border</source>
-        <translation>&amp;Граница страницы</translation>
+        <translation>&amp;Страница</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -1649,7 +1649,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Shading</source>
-        <translation>&amp;Затенение фона</translation>
+        <translation>&amp;Заливка</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -1661,7 +1661,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Patterns</source>
-        <translation>Образцы</translation>
+        <translation>Узоры</translation>
     </message>
     <message>
         <source>St&amp;yle:</source>
@@ -1674,7 +1674,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Pure(100%)</source>
-        <translation>Чистый (100%)</translation>
+        <translation>Сплошная (100%)</translation>
     </message>
     <message>
         <source>5%</source>
@@ -2426,10 +2426,6 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>ed1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>-</source>
         <translation></translation>
     </message>
     <message>
@@ -3501,7 +3497,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Другие</translation>
     </message>
     <message>
         <source>Sp&amp;ecial</source>
@@ -4078,7 +4074,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>UnderLine</source>
-        <translation></translation>
+        <translation>Подчёркивание</translation>
     </message>
     <message>
         <source>Border</source>
@@ -4662,6 +4658,93 @@ Example: +4 will move forward four items:</source>
     </message>
 </context>
 <context>
+    <name>KxDlgMergeCompare</name>
+    <message>
+        <source>&amp;Original document</source>
+        <translation>&amp;Исходный документ</translation>
+    </message>
+    <message>
+        <source>&amp;Revised document</source>
+        <translation>Из&amp;менённый документ</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>Comparison settings</source>
+        <translation>Параметры сравнения</translation>
+    </message>
+    <message>
+        <source>Insertions and Deletions</source>
+        <translation>Вставки и удаления</translation>
+    </message>
+    <message>
+        <source>T&amp;ables</source>
+        <translation>&amp;Таблицы</translation>
+    </message>
+    <message>
+        <source>Comme&amp;nts</source>
+        <translation>&amp;Примечания</translation>
+    </message>
+    <message>
+        <source>Footnotes and en&amp;dnotes</source>
+        <translation>&amp;Сноски</translation>
+    </message>
+    <message>
+        <source>Te&amp;xtboxes</source>
+        <translation>&amp;Надписи</translation>
+    </message>
+    <message>
+        <source>Case chan&amp;ges</source>
+        <translation>Изменения &amp;регистра</translation>
+    </message>
+    <message>
+        <source>Field&amp;s</source>
+        <translation>По&amp;ля</translation>
+    </message>
+    <message>
+        <source>White s&amp;pace</source>
+        <translation>Про&amp;белы</translation>
+    </message>
+    <message>
+        <source>Show changes</source>
+        <translation>Показать изменения</translation>
+    </message>
+    <message>
+        <source>Show changes at:</source>
+        <translation>Показывать изменения:</translation>
+    </message>
+    <message>
+        <source>Show changes in:</source>
+        <translation>Показывать изменения:</translation>
+    </message>
+    <message>
+        <source>&amp;Character level</source>
+        <translation>п&amp;о знакам</translation>
+    </message>
+    <message>
+        <source>Original documen&amp;t</source>
+        <translation>Ис&amp;ходный документ</translation>
+    </message>
+    <message>
+        <source>&amp;Word level</source>
+        <translation>по сло&amp;вам</translation>
+    </message>
+    <message>
+        <source>Rev&amp;ised document</source>
+        <translation>И&amp;зменённый документ</translation>
+    </message>
+    <message>
+        <source>New doc&amp;ument</source>
+        <translation>Новый &amp;документ</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgMergeToDiffNewDoc</name>
     <message>
         <source>Merge to Different New Document</source>
@@ -4772,7 +4855,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation></translation>
+        <translation>&amp;Все</translation>
     </message>
     <message>
         <source>rbCurrentRecord</source>
@@ -5198,7 +5281,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>AutoFormat</source>
-        <translation>Автоформат</translation>
+        <translation type="obsolete">Автоформат</translation>
     </message>
     <message>
         <source>&amp;AutoFormat apply lists</source>
@@ -5270,7 +5353,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>General and Save</source>
-        <translation>Общие параметры и сохранение</translation>
+        <translation>Общие и сохранение</translation>
     </message>
     <message>
         <source>General options</source>
@@ -5294,7 +5377,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="obsolete">Последние документы</translation>
+        <translation>Последние документы</translation>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
@@ -5334,7 +5417,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Create backup file at the first save</source>
-        <translation>Создавать &amp;резервную копию при первом сохранении файла</translation>
+        <translation type="obsolete">Создавать &amp;резервную копию при первом сохранении файла</translation>
     </message>
     <message>
         <source>Save backup f&amp;ile every:</source>
@@ -6062,7 +6145,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>Последние документы</translation>
+        <translation type="obsolete">Последние документы</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -6173,6 +6256,42 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Help us to improve WPS Office</source>
         <translation>Помогите нам улучшить WPS Office</translation>
+    </message>
+    <message>
+        <source>F&amp;onts Preview Box</source>
+        <translation>Поле прос&amp;мотра шрифтов</translation>
+    </message>
+    <message>
+        <source>AutoNumber</source>
+        <translation>Автономер</translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation>Создавать &amp;резервную копию при первом сохранении файла</translation>
+    </message>
+    <message>
+        <source>Reminder for embedding &amp;cloud fonts in the file</source>
+        <translation>Напоминание для внедрения &amp;облачных шрифтов в файл</translation>
+    </message>
+    <message>
+        <source>Do &amp;not compress images in file</source>
+        <translation>&amp;Не сжимать изображени&amp;я в файле</translation>
+    </message>
+    <message>
+        <source>Set default target out&amp;put to:</source>
+        <translation>&amp;Качество вывода по умолчанию:</translation>
+    </message>
+    <message>
+        <source>220 ppi</source>
+        <translation>220 пикселей на дюйм</translation>
+    </message>
+    <message>
+        <source>150 ppi</source>
+        <translation>150 пикселей на дюйм</translation>
+    </message>
+    <message>
+        <source>96 ppi</source>
+        <translation>96 пикселей на дюйм</translation>
     </message>
 </context>
 <context>
@@ -7242,7 +7361,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Enter new password(optional):</source>
-        <translation>&amp;Введите новый пароль (не обязательно):</translation>
+        <translation>&amp;Новый пароль (не обязательно):</translation>
     </message>
 </context>
 <context>
@@ -8133,7 +8252,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
-        <translation>Сохранить PDF файл как</translation>
+        <translation type="obsolete">Сохранить PDF файл как</translation>
     </message>
     <message>
         <source>PDF File(*.pdf)|*.pdf|All File(*.*)|*.*</source>
@@ -8154,6 +8273,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing file?</source>
         <translation>Указанный файл уже существует. Зменить существующий файл?</translation>
+    </message>
+    <message>
+        <source>Save PDF File As</source>
+        <translation>Сохранить PDF файл как</translation>
     </message>
 </context>
 <context>
@@ -8215,7 +8338,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxFieldDlg</name>
     <message>
         <source>Formula</source>
-        <translation></translation>
+        <translation>Формула</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -8364,7 +8487,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation></translation>
+        <translation>Формула:</translation>
     </message>
     <message>
         <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents, click Options, then select Table entry fields. Field code: TC</source>
@@ -8806,7 +8929,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Sounds like(English)</source>
-        <translation>Произносится как (английский)</translation>
+        <translation type="obsolete">Произносится как (английский)</translation>
     </message>
     <message>
         <source>Footnote</source>
@@ -8926,11 +9049,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation>&amp;Меньше</translation>
+        <translation>&amp;Кратко</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Подробнее</translation>
     </message>
     <message>
         <source>[Only format]</source>
@@ -9551,6 +9674,65 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
 </context>
 <context>
+    <name>KxMergeCompareDlg</name>
+    <message>
+        <source>Compare Documents</source>
+        <translation>Сравнение версий</translation>
+    </message>
+    <message>
+        <source>Lab&amp;el changes with</source>
+        <translation>По&amp;метка изменений</translation>
+    </message>
+    <message>
+        <source>La&amp;bel changes with</source>
+        <translation>Поме&amp;тка изменений</translation>
+    </message>
+    <message>
+        <source>Merge Documents</source>
+        <translation>Объединение документов</translation>
+    </message>
+    <message>
+        <source>Lab&amp;el unmarked changes with:</source>
+        <translation>Пометка ис&amp;правлений:</translation>
+    </message>
+    <message>
+        <source>La&amp;bel unmarked changes with:</source>
+        <translation>Пометка &amp;исправлений:</translation>
+    </message>
+    <message>
+        <source>&amp;More&gt;&gt;</source>
+        <translation>&amp;Подробнее&gt;&gt;</translation>
+    </message>
+    <message>
+        <source>browse...</source>
+        <translation>Обзор...</translation>
+    </message>
+    <message>
+        <source>&lt;&lt; &amp;Less</source>
+        <translation>&lt;&lt; &amp;Кратко</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <source>WPS Writer found no differences between the two documents.</source>
+        <translation>WPS Writer не обнаружил различий между двумя документами.</translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation>Автор</translation>
+    </message>
+    <message>
+        <source>Cannot compare the unsaved read-only document.</source>
+        <translation>Невозможно сравнить несохранённые документы с доступом только для чтения.</translation>
+    </message>
+    <message>
+        <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
+        <translation>Необходимо сохранить изменения в&quot;%1&quot; перед сравнением документов. Пожалуйста, сохраните документ.</translation>
+    </message>
+</context>
+<context>
     <name>KxMergeToDiffNewDocDlg</name>
     <message>
         <source>The number must not be nil</source>
@@ -9600,7 +9782,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must not be nil</source>
-        <translation>Число не должно быть нулем</translation>
+        <translation type="obsolete">Число не должно быть нулем</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -9609,6 +9791,10 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>The number must be between %1 and %2.</source>
         <translation>Число должно быть в диапазоне от %1 до %2.</translation>
+    </message>
+    <message>
+        <source>The value must not be blank.</source>
+        <translation>Значение не должно быть пустым.</translation>
     </message>
 </context>
 <context>
@@ -10073,6 +10259,21 @@ Cancel:	Return to the dialog.</source>
     </message>
 </context>
 <context>
+    <name>KxOnlineFontTipDlg</name>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation>Не удаётся подключиться к этой службе. Проверьте сетевое подключение.</translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation>Заканчивается время действия вашего VIP %1. Пожалуйста, продлите для получения дополнительных скидок.</translation>
+    </message>
+    <message>
+        <source>Renew</source>
+        <translation>Обновить</translation>
+    </message>
+</context>
+<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>By author</source>
@@ -10155,11 +10356,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation>&amp;Меньше</translation>
+        <translation>&amp;Кратко</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Подробнее</translation>
     </message>
     <message>
         <source>Level %1</source>
@@ -10182,11 +10383,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation>&amp;Больше</translation>
+        <translation>&amp;Подробнее</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation>&amp;Меньше</translation>
+        <translation>&amp;Кратко</translation>
     </message>
     <message>
         <source>Read Number Format Error!</source>
@@ -10194,10 +10395,6 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>?</source>
         <translation></translation>
     </message>
     <message>
@@ -10259,6 +10456,46 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>The measurement must be between 1 and 12.</source>
         <translation>Значение должно быть в диапазоне от 1 до 12.</translation>
+    </message>
+    <message utf8="true">
+        <source>①</source>
+        <translation></translation>
+    </message>
+    <message utf8="true">
+        <source>②</source>
+        <translation></translation>
+    </message>
+    <message utf8="true">
+        <source>③</source>
+        <translation></translation>
+    </message>
+    <message utf8="true">
+        <source>④</source>
+        <translation></translation>
+    </message>
+    <message utf8="true">
+        <source>⑤</source>
+        <translation></translation>
+    </message>
+    <message utf8="true">
+        <source>⑥</source>
+        <translation></translation>
+    </message>
+    <message utf8="true">
+        <source>⑦</source>
+        <translation></translation>
+    </message>
+    <message utf8="true">
+        <source>⑧</source>
+        <translation></translation>
+    </message>
+    <message utf8="true">
+        <source>⑨</source>
+        <translation></translation>
+    </message>
+    <message utf8="true">
+        <source>⑩</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -10352,6 +10589,10 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
         <translation>Число должно находиться в диапазоне между %1 и %2. Попробуйте еще раз, введя число в этом диапазоне.</translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation>Неверно указана единица измерения.</translation>
     </message>
 </context>
 <context>
@@ -10667,7 +10908,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTpDocProtection</name>
     <message>
         <source>Limit formating to a selection of styles</source>
-        <translation type="obsolete">Ограничить форматирование выделением стилей</translation>
+        <translation type="obsolete">Ограничить набор разрешенных стилей</translation>
     </message>
     <message>
         <source>Settings...</source>
@@ -10727,7 +10968,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Limit formatting to a selection of styles</source>
-        <translation>Ограничить форматирование выделением стилей</translation>
+        <translation>Ограничить набор разрешенных стилей</translation>
     </message>
     <message>
         <source>Set the protection way in the document</source>
@@ -11992,6 +12233,13 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsGalleryFontComboBox</name>
+    <message>
+        <source>Simsun</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsHFLinkToPreviousCommand</name>
     <message>
         <source>Header and Footer Link to Previous</source>
@@ -12017,7 +12265,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
         <source>Show header line</source>
-        <translation>Показать строку верхнего колонтитула </translation>
+        <translation type="obsolete">Показать строку верхнего колонтитула </translation>
+    </message>
+    <message>
+        <source>Show Header Line</source>
+        <translation>Показать строку заголовка</translation>
     </message>
 </context>
 <context>
@@ -12121,7 +12373,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsLocateCloseBtn</name>
     <message>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="obsolete">Закрыть</translation>
     </message>
 </context>
 <context>
@@ -12158,9 +12410,20 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>%1 hours ago</source>
         <translation>%1 часов назад</translation>
     </message>
+</context>
+<context>
+    <name>KxWpsMainWindow</name>
     <message>
-        <source>yyyy years MM months dd days</source>
-        <translation></translation>
+        <source>Command name</source>
+        <translation>Имя команды</translation>
+    </message>
+    <message>
+        <source>Editing tools</source>
+        <translation>Инструменты редактирования</translation>
+    </message>
+    <message>
+        <source>Key</source>
+        <translation>Ключ</translation>
     </message>
 </context>
 <context>
@@ -12878,7 +13141,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>No Fill</source>
-        <translation>Без заливки</translation>
+        <translation>Нет</translation>
     </message>
 </context>
 <context>
@@ -13076,6 +13339,10 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
         <translation>Нет записи макросов в данный момент. Нажмите, чтобы начать запись нового макроса.</translation>
     </message>
+    <message>
+        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
+        <translation>Шаблон Kingsoft Writer 2007/2010(*.wptx)</translation>
+    </message>
 </context>
 <context>
     <name>SelectedFormatPanel</name>
@@ -13141,7 +13408,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export Adobe PDF File</source>
-        <translation>Экспорт в файл Adobe PDF</translation>
+        <translation type="obsolete">Экспорт в файл Adobe PDF</translation>
     </message>
     <message>
         <source>General</source>
@@ -13165,7 +13432,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Comment</source>
-        <translation type="obsolete">&amp;Комментарий</translation>
+        <translation type="obsolete">&amp;Примечание</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
@@ -13265,7 +13532,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation>Следующее &amp;примечание</translation>
+        <translation>Новое &amp;примечание</translation>
     </message>
     <message>
         <source>Li&amp;nks of footnotes and endnotes</source>
@@ -13299,6 +13566,10 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>File open password:</source>
         <translation>Пароль на открытие файла:</translation>
     </message>
+    <message>
+        <source>Export PDF File</source>
+        <translation>Преобразовать в файл PDF</translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -13316,7 +13587,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Export to Adobe PDF File</source>
-        <translation>Экспорт в файл Adobe PDF</translation>
+        <translation type="obsolete">Экспорт в файл Adobe PDF</translation>
+    </message>
+    <message>
+        <source>Export to PDF File</source>
+        <translation>Преобразовать в файл PDF</translation>
     </message>
 </context>
 <context>

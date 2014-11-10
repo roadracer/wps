@@ -9,6 +9,10 @@
         <translation>好吧</translation>
     </message>
     <message>
+        <source>Kingsoft Office recommendation</source>
+        <translation type="obsolete">WPS 推荐</translation>
+    </message>
+    <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
         <translation>大家都在用的好工具，您是否要试试？</translation>
     </message>

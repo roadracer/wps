@@ -42,7 +42,7 @@
     <message>
         <source>Item Exists</source>
         <comment>_ksoErr_Basic_ItemExists</comment>
-        <translation>Élément existe</translation>
+        <translation>Élément existant</translation>
     </message>
     <message>
         <source>Temporary directory does not exist or failed to create temporary directory.
@@ -218,7 +218,7 @@ Veuillez vérifier vos paramètres système et assurez-vous que le répertoire t
     <message>
         <source>The contents of the clipboard will be inserted as Text with Font and Table Formatting.</source>
         <comment>TX_KSO_CF_RTF_RESULTNAME</comment>
-        <translation>Le contenu du Presse-papier sera inséré comme texte avec une mise en forme de la police et des tableaux.</translation>
+        <translation>Le contenu du Presse-papier sera inséré comme texte avec une mise en forme de la police et du tableau.</translation>
     </message>
     <message>
         <source>HTML Format</source>
@@ -421,7 +421,7 @@ Veuillez vérifier vos paramètres système et assurez-vous que le répertoire t
     <message>
         <source>Group </source>
         <comment>DgUil_KSO_Cmd_Group</comment>
-        <translation>Groupe </translation>
+        <translation>Grouper </translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -1136,7 +1136,7 @@ Veuillez vérifier vos paramètres système et assurez-vous que le répertoire t
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_PictureCrop</comment>
-        <translation>Rogné</translation>
+        <translation>Rogner</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -1171,7 +1171,7 @@ Veuillez vérifier vos paramètres système et assurez-vous que le répertoire t
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_CropPicture</comment>
-        <translation>Rogné</translation>
+        <translation>Rogner</translation>
     </message>
     <message>
         <source>Insert Control</source>
@@ -1293,7 +1293,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Cannot play the specified file on the specified device. The file may be damaged, or not in the correct format, or no file handler available for this format.</source>
         <comment>DgUil_KSO_MediaFileDamaged</comment>
-        <translation>Impossible de lire le fichier spécifié sur le périphérique spécifié. Le fichier est peut-être endommagé ou au mauvais format, ou bien aucun gestionnaire de fichier n&apos;est disponible pour ce format.</translation>
+        <translation>Impossible de lire le fichier spécifié sur le périphérique spécifié. Le fichier est peut-être endommagé ou au format incorrect, ou bien aucun gestionnaire de fichier n&apos;est disponible pour ce format.</translation>
     </message>
     <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
@@ -1321,7 +1321,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Rounded Rectangle</source>
         <comment>DRAWINGSTR_ROUNDRECTANGLE</comment>
-        <translation>Rectangle arrondi</translation>
+        <translation>Rectangle à coins arrondi</translation>
     </message>
     <message>
         <source>Oval</source>
@@ -1366,7 +1366,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Cross</source>
         <comment>DRAWINGSTR_PLUS</comment>
-        <translation>Sur l&apos;axe</translation>
+        <translation>Croix</translation>
     </message>
     <message>
         <source>5-Point Star</source>
@@ -1426,7 +1426,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Donut</source>
         <comment>DRAWINGSTR_DONUT</comment>
-        <translation>Donut</translation>
+        <translation>Bouée</translation>
     </message>
     <message>
         <source>WordArt: Simple Text</source>
@@ -1486,72 +1486,72 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Line Callout 2 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT1</comment>
-        <translation>Légende de ligne (Pas de bordure)</translation>
+        <translation>Légende sans bordure 2</translation>
     </message>
     <message>
         <source>Line Callout 3 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT2</comment>
-        <translation>Line Callout 3 (No Border)</translation>
+        <translation>Légende sans bordure 3</translation>
     </message>
     <message>
         <source>Line Callout 4 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT3</comment>
-        <translation>Line Callout 4 (No Border)</translation>
+        <translation>Légende sans bordure 4</translation>
     </message>
     <message>
         <source>Line Callout 2 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT1</comment>
-        <translation>Légende de ligne 2 (Bordure et barre d&apos;accentuation)</translation>
+        <translation>Légende encadrée avec une bordure 2</translation>
     </message>
     <message>
         <source>Line Callout 3 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT2</comment>
-        <translation>Légende de ligne 3 (Bordure et barre d&apos;accentuation)</translation>
+        <translation>Légende encadrée avec une bordure 3</translation>
     </message>
     <message>
         <source>Line Callout 4 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT3</comment>
-        <translation>Légende de ligne 4 (Bordure et barre d&apos;accentuation)</translation>
+        <translation>Légende encadrée avec une bordure 4</translation>
     </message>
     <message>
         <source>Line Callout 2</source>
         <comment>DRAWINGSTR_BORDERCALLOUT1</comment>
-        <translation>Légende de ligne 2</translation>
+        <translation>Légende encadrée 2</translation>
     </message>
     <message>
         <source>Line Callout 3</source>
         <comment>DRAWINGSTR_BORDERCALLOUT2</comment>
-        <translation>Légende de ligne 3</translation>
+        <translation>Légende encadrée 3</translation>
     </message>
     <message>
         <source>Line Callout 4</source>
         <comment>DRAWINGSTR_BORDERCALLOUT3</comment>
-        <translation>Légende de ligne 4</translation>
+        <translation>Légende encadrée 4</translation>
     </message>
     <message>
         <source>Line Callout 2 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT1</comment>
-        <translation>Légende de ligne 2 (Barre d&apos;accentuation)</translation>
+        <translation>Légende à une bordure 2</translation>
     </message>
     <message>
         <source>Line Callout 3 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT2</comment>
-        <translation>Légende de ligne 3 (Barre d&apos;accentuation)</translation>
+        <translation>Légende à une bordure 3</translation>
     </message>
     <message>
         <source>Line Callout 4 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT3</comment>
-        <translation>Légende de ligne 4 (Barre d&apos;accentuation)</translation>
+        <translation>Légende à une bordure 4</translation>
     </message>
     <message>
         <source>Down Ribbon</source>
         <comment>DRAWINGSTR_RIBBON</comment>
-        <translation>Ruban bas</translation>
+        <translation>Ruban vers le bas</translation>
     </message>
     <message>
         <source>Up Ribbon</source>
         <comment>DRAWINGSTR_RIBBON2</comment>
-        <translation>Ruban haut</translation>
+        <translation>Ruban vers le haut</translation>
     </message>
     <message>
         <source>Chevron</source>
@@ -1566,7 +1566,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>No Symbol</source>
         <comment>DRAWINGSTR_NOSMOKING</comment>
-        <translation>Aucun symbole</translation>
+        <translation>Interdiction</translation>
     </message>
     <message>
         <source>8-Point Star</source>
@@ -1596,7 +1596,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Oval Callout</source>
         <comment>DRAWINGSTR_WEDGEELLIPSECALLOUT</comment>
-        <translation>Légende d&apos;ellipse</translation>
+        <translation>Bulle ronde</translation>
     </message>
     <message>
         <source>Wave</source>
@@ -1606,7 +1606,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Folded Corner</source>
         <comment>DRAWINGSTR_FOLDEDCORNER</comment>
-        <translation>Coin plié</translation>
+        <translation>Carré corné</translation>
     </message>
     <message>
         <source>Left Arrow</source>
@@ -1616,12 +1616,12 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Down Arrow</source>
         <comment>DRAWINGSTR_DOWNARROW</comment>
-        <translation>Flèche bas</translation>
+        <translation>Flèche vers le bas</translation>
     </message>
     <message>
         <source>Up Arrow</source>
         <comment>DRAWINGSTR_UPARROW</comment>
-        <translation>Flèche haut</translation>
+        <translation>Flèche vers le haut</translation>
     </message>
     <message>
         <source>Left-Right Arrow</source>
@@ -1661,42 +1661,42 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Quad Arrow</source>
         <comment>DRAWINGSTR_QUADARROW</comment>
-        <translation>Flèche 4 directions</translation>
+        <translation>Flèche à quatre pointes</translation>
     </message>
     <message>
         <source>Left Arrow Callout</source>
         <comment>DRAWINGSTR_LEFTARROWCALLOUT</comment>
-        <translation>Légende de flèche gauche</translation>
+        <translation>Rectangle avec flèche vers la gauche</translation>
     </message>
     <message>
         <source>Right Arrow Callout</source>
         <comment>DRAWINGSTR_RIGHTARROWCALLOUT</comment>
-        <translation>Légende de flèche droite</translation>
+        <translation>Rectangle avec flèche vers la droite</translation>
     </message>
     <message>
         <source>Up Arrow Callout</source>
         <comment>DRAWINGSTR_UPARROWCALLOUT</comment>
-        <translation>Légende de flèche vers le haut</translation>
+        <translation>Rectangle avec flèche vers le haut</translation>
     </message>
     <message>
         <source>Down Arrow Callout</source>
         <comment>DRAWINGSTR_DOWNARROWCALLOUT</comment>
-        <translation>Légende de flèche vers le bas</translation>
+        <translation>Rectangle avec flèche vers le bas</translation>
     </message>
     <message>
         <source>Left-Right Arrow Callout</source>
         <comment>DRAWINGSTR_LEFTRIGHTARROWCALLOUT</comment>
-        <translation>Légende de double flèche horizontale</translation>
+        <translation>Rectangle horizontal à deux flèches</translation>
     </message>
     <message>
         <source>Up-Down Arrow Callout</source>
         <comment>DRAWINGSTR_UPDOWNARROWCALLOUT</comment>
-        <translation>Légende de double flèche verticale</translation>
+        <translation>Rectangle vertical à deux flèches</translation>
     </message>
     <message>
         <source>Quad Arrow Callout</source>
         <comment>DRAWINGSTR_QUADARROWCALLOUT</comment>
-        <translation>Légende de flèche quadruple</translation>
+        <translation>Rectangle à quatre flèches</translation>
     </message>
     <message>
         <source>Bevel</source>
@@ -1706,37 +1706,37 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Left Bracket</source>
         <comment>DRAWINGSTR_LEFTBRACKET</comment>
-        <translation>Crochet gauche</translation>
+        <translation>Parenthèse ouvrante</translation>
     </message>
     <message>
         <source>Right Bracket</source>
         <comment>DRAWINGSTR_RIGHTBRACKET</comment>
-        <translation>Crochet droit</translation>
+        <translation>Parenthèse fermante</translation>
     </message>
     <message>
         <source>Left Brace</source>
         <comment>DRAWINGSTR_LEFTBRACE</comment>
-        <translation>Parenthèse gauche</translation>
+        <translation>Accolade ouvrante</translation>
     </message>
     <message>
         <source>Right Brace</source>
         <comment>DRAWINGSTR_RIGHTBRACE</comment>
-        <translation>Parenthèse droite</translation>
+        <translation>Accolade fermante</translation>
     </message>
     <message>
         <source>Left-Up Arrow</source>
         <comment>DRAWINGSTR_LEFTUPARROW</comment>
-        <translation>Flèche vers le haut gauche</translation>
+        <translation>Flèche angle droit à deux pointes</translation>
     </message>
     <message>
         <source>Bent-Up Arrow</source>
         <comment>DRAWINGSTR_BENTUPARROW</comment>
-        <translation>Flèche vers le haut penchée</translation>
+        <translation>Flèche à angle droit</translation>
     </message>
     <message>
         <source>Bent Arrow</source>
         <comment>DRAWINGSTR_BENTARROW</comment>
-        <translation>Flèche penchée</translation>
+        <translation>Virage</translation>
     </message>
     <message>
         <source>24-Point Star</source>
@@ -1751,32 +1751,32 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Notched Right Arrow</source>
         <comment>DRAWINGSTR_NOTCHEDRIGHTARROW</comment>
-        <translation>Flèche droite déplacée</translation>
+        <translation>Flèche droite à entaille</translation>
     </message>
     <message>
         <source>Block Arc</source>
         <comment>DRAWINGSTR_BLOCKARC</comment>
-        <translation>Arc de bloc</translation>
+        <translation>Arc plein</translation>
     </message>
     <message>
         <source>Smiling Face</source>
         <comment>DRAWINGSTR_SMILEYFACE</comment>
-        <translation>Visage souriant</translation>
+        <translation>Émoticône</translation>
     </message>
     <message>
         <source>Vertical Scroll</source>
         <comment>DRAWINGSTR_VERTICALSCROLL</comment>
-        <translation>Défilement vertical</translation>
+        <translation>Parchemin vertical</translation>
     </message>
     <message>
         <source>Horizontal Scroll</source>
         <comment>DRAWINGSTR_HORIZONTALSCROLL</comment>
-        <translation>Défilement horizontal</translation>
+        <translation>Parchemin horizontal</translation>
     </message>
     <message>
         <source>Circular Arrow</source>
         <comment>DRAWINGSTR_CIRCULARARROW</comment>
-        <translation>Flèche circulaire</translation>
+        <translation>Flèche en arc</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -1786,42 +1786,42 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>U-Turn Arrow</source>
         <comment>DRAWINGSTR_UTURNARROW</comment>
-        <translation>Flèche demi-tour</translation>
+        <translation>Demi-tour</translation>
     </message>
     <message>
         <source>Curved Left Arrow</source>
         <comment>DRAWINGSTR_CURVEDRIGHTARROW</comment>
-        <translation>Flèche gauche courbée</translation>
+        <translation>Flèche courbée vers la droite</translation>
     </message>
     <message>
         <source>Curved Right Arrow</source>
         <comment>DRAWINGSTR_CURVEDLEFTARROW</comment>
-        <translation>Flèche droite courbée</translation>
+        <translation>Flèche courbée vers la gauche</translation>
     </message>
     <message>
         <source>Curved Down Arrow</source>
         <comment>DRAWINGSTR_CURVEDUPARROW</comment>
-        <translation>Flèche vers le bas courbée</translation>
+        <translation>Flèche courbée vers le haut</translation>
     </message>
     <message>
         <source>Curved Up Arrow</source>
         <comment>DRAWINGSTR_CURVEDDOWNARROW</comment>
-        <translation>Flèche vers le haut courbée</translation>
+        <translation>Flèche courbée vers le bas</translation>
     </message>
     <message>
         <source>Cloud Callout</source>
         <comment>DRAWINGSTR_CLOUDCALLOUT</comment>
-        <translation>Légende du Cloud</translation>
+        <translation>Pensées</translation>
     </message>
     <message>
         <source>Curved Down Ribbon</source>
         <comment>DRAWINGSTR_ELLIPSERIBBON</comment>
-        <translation>Ruban bas courbé</translation>
+        <translation>Ruban courbé vers le bas</translation>
     </message>
     <message>
         <source>Curved Up Ribbon</source>
         <comment>DRAWINGSTR_ELLIPSERIBBON2</comment>
-        <translation>Ruban haut courbé</translation>
+        <translation>Ruban courbé vers le haut</translation>
     </message>
     <message>
         <source>Flowchart: Process</source>
@@ -1841,7 +1841,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Flowchart: Predefined Process</source>
         <comment>DRAWINGSTR_FLOWCHARTPREDEFINEDPROCESS</comment>
-        <translation>Organigramme : Processus prédéfini</translation>
+        <translation>Organigramme : Procédé prédéfini</translation>
     </message>
     <message>
         <source>Flowchart: Internal Storage</source>
@@ -1861,7 +1861,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Flowchart: Terminator</source>
         <comment>DRAWINGSTR_FLOWCHARTTERMINATOR</comment>
-        <translation>Organigramme : Terminaison</translation>
+        <translation>Organigramme : Terminateur</translation>
     </message>
     <message>
         <source>Flowchart: Preparation</source>
@@ -1871,7 +1871,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Flowchart: Manual Input</source>
         <comment>DRAWINGSTR_FLOWCHARTMANUALINPUT</comment>
-        <translation>Organigramme : Saisie manuelle</translation>
+        <translation>Organigramme : Entrée manuelle</translation>
     </message>
     <message>
         <source>Flowchart: Manual Operation</source>
@@ -1886,17 +1886,17 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Flowchart: Card</source>
         <comment>DRAWINGSTR_FLOWCHARTPUNCHEDCARD</comment>
-        <translation>Organigramme : Carte</translation>
+        <translation>Organigramme : Carte perforée</translation>
     </message>
     <message>
         <source>Flowchart: Punched Tape</source>
         <comment>DRAWINGSTR_FLOWCHARTPUNCHEDTAPE</comment>
-        <translation>Organigramme : Ruban perforé</translation>
+        <translation>Organigramme : Bande perforée</translation>
     </message>
     <message>
         <source>Flowchart: Summing Junction</source>
         <comment>DRAWINGSTR_FLOWCHARTSUMMINGJUNCTION</comment>
-        <translation>Organigramme : Jonction de totalisation</translation>
+        <translation>Organigramme : Jonction de sommaire</translation>
     </message>
     <message>
         <source>Flowchart: Or</source>
@@ -1906,7 +1906,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Flowchart: Collate</source>
         <comment>DRAWINGSTR_FLOWCHARTCOLLATE</comment>
-        <translation>Organigramme : Assembler</translation>
+        <translation>Organigramme : Joindre</translation>
     </message>
     <message>
         <source>Flowchart: Sort</source>
@@ -1921,7 +1921,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Flowchart: Merge</source>
         <comment>DRAWINGSTR_FLOWCHARTMERGE</comment>
-        <translation>Organigramme : Publipostage</translation>
+        <translation>Organigramme : Fusion</translation>
     </message>
     <message>
         <source>FlowChart: Offline Storage</source>
@@ -1936,7 +1936,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation>Organigramme : Stockage d&apos;accès séquentiel</translation>
+        <translation type="obsolete">Organigramme : Stockage à accès séquentiel</translation>
     </message>
     <message>
         <source>Flowchart: Magnetic Disk</source>
@@ -1946,12 +1946,12 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Flowchart: Direct Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICDRUM</comment>
-        <translation>Organigramme : Stockage d&apos;accès direct</translation>
+        <translation>Organigramme : Stockage à accès direct</translation>
     </message>
     <message>
         <source>Flowchart: Display</source>
         <comment>DRAWINGSTR_FLOWCHARTDISPLAY</comment>
-        <translation>Organigramme : Afficher</translation>
+        <translation>Organigramme : Affichage</translation>
     </message>
     <message>
         <source>Flowchart: Delay</source>
@@ -2001,32 +2001,32 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>WordArt: Arch Up Curve</source>
         <comment>DRAWINGSTR_TEXTARCHUPCURVE</comment>
-        <translation>WordArt : Arc vers le haut courbé</translation>
+        <translation>WordArt : Arc vers le haut</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Curve</source>
         <comment>DRAWINGSTR_TEXTARCHDOWNCURVE</comment>
-        <translation>WordArt : Arc vers le bas courbé</translation>
+        <translation>WordArt : Arc vers le bas</translation>
     </message>
     <message>
         <source>WordArt: Circle Curve</source>
         <comment>DRAWINGSTR_TEXTCIRCLECURVE</comment>
-        <translation>WordArt : Cercle courbé</translation>
+        <translation>WordArt : Cercle</translation>
     </message>
     <message>
         <source>WordArt: Button Curve</source>
         <comment>DRAWINGSTR_TEXTBUTTONCURVE</comment>
-        <translation>WordArt : Bouton courbé</translation>
+        <translation>WordArt : Bouton</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Pour</source>
         <comment>DRAWINGSTR_TEXTARCHUPPOUR</comment>
-        <translation>WordArt : Arc vers le haut étiré</translation>
+        <translation>WordArt : Arc étiré vers le haut</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Pour</source>
         <comment>DRAWINGSTR_TEXTARCHDOWNPOUR</comment>
-        <translation>WordArt : Arc vers le bas étiré</translation>
+        <translation>WordArt : Arc étiré vers le bas</translation>
     </message>
     <message>
         <source>WordArt: Circle Pour</source>
@@ -2041,12 +2041,12 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>WordArt: Curve Up</source>
         <comment>DRAWINGSTR_TEXTCURVEUP</comment>
-        <translation>WordArt : Courbe vers le haut</translation>
+        <translation>WordArt : Courbé vers le haut</translation>
     </message>
     <message>
         <source>WordArt: Curve Down</source>
         <comment>DRAWINGSTR_TEXTCURVEDOWN</comment>
-        <translation>WordArt : Courbe vers le bas</translation>
+        <translation>WordArt : Courbé vers le bas</translation>
     </message>
     <message>
         <source>WordArt: Cascade Up</source>
@@ -2071,12 +2071,12 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>WordArt: Wave1</source>
         <comment>DRAWINGSTR_TEXTWAVE3</comment>
-        <translation>WordArt : Vague1</translation>
+        <translation>WordArt : Double vague1</translation>
     </message>
     <message>
         <source>WordArt: Wave2</source>
         <comment>DRAWINGSTR_TEXTWAVE4</comment>
-        <translation>WordArt : Vague2</translation>
+        <translation>WordArt : Double vague2</translation>
     </message>
     <message>
         <source>WordArt: Inflate</source>
@@ -2161,42 +2161,42 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Flowchart: Alternate Process</source>
         <comment>DRAWINGSTR_FLOWCHARTALTERNATEPROCESS</comment>
-        <translation>Organigramme : Processus alterné</translation>
+        <translation>Organigramme : Alternative</translation>
     </message>
     <message>
         <source>Flowchart: Off-page Connector</source>
         <comment>DRAWINGSTR_FLOWCHARTOFFPAGECONNECTOR</comment>
-        <translation>Organigramme : Connecteur hors page</translation>
+        <translation>Organigramme : Connecteur page suivante</translation>
     </message>
     <message>
         <source>Line Callout 1 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT90</comment>
-        <translation>Line Callout 1 (No Border)</translation>
+        <translation>Connecteur page suivante 1</translation>
     </message>
     <message>
         <source>Line Callout 1 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT90</comment>
-        <translation>Légende de ligne 1 (Barre d&apos;accentuation)</translation>
+        <translation>Légende à une bordure 1</translation>
     </message>
     <message>
         <source>Line Callout 1</source>
         <comment>DRAWINGSTR_BORDERCALLOUT90</comment>
-        <translation>Légende de ligne 1</translation>
+        <translation>Légende encadrée 1</translation>
     </message>
     <message>
         <source>Line Callout 1 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT90</comment>
-        <translation>Légende de ligne 1 (Bordure et barre d&apos;accentuation)</translation>
+        <translation>Légende encadrée avec une bordure 1</translation>
     </message>
     <message>
         <source>Left-Right-Up Arrow</source>
         <comment>DRAWINGSTR_LEFTRIGHTUPARROW</comment>
-        <translation>Flèche vers le haut droit</translation>
+        <translation>Flèche à trois pointes</translation>
     </message>
     <message>
         <source>Sun</source>
         <comment>DRAWINGSTR_SUN</comment>
-        <translation>Dim</translation>
+        <translation>Soleil</translation>
     </message>
     <message>
         <source>Moon</source>
@@ -2206,12 +2206,12 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Double Bracket</source>
         <comment>DRAWINGSTR_BRACKETPAIR</comment>
-        <translation>Double parenthèse</translation>
+        <translation>Parenthèse</translation>
     </message>
     <message>
         <source>Double Brace</source>
         <comment>DRAWINGSTR_BRACEPAIR</comment>
-        <translation>Double accolade</translation>
+        <translation>Accolades</translation>
     </message>
     <message>
         <source>4-Point Star</source>
@@ -2296,7 +2296,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPSHAPE</comment>
-        <translation>Groupe</translation>
+        <translation>Grouper</translation>
     </message>
     <message>
         <source>Chair</source>
@@ -2316,7 +2316,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Cloud</source>
         <comment>DRAWINGSTR_CLOUD</comment>
-        <translation>Cloud</translation>
+        <translation>Nuage</translation>
     </message>
     <message>
         <source>Desktop computer</source>
@@ -2411,7 +2411,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Firewall</source>
         <comment>DRAWINGSTR_FIREWALL</comment>
-        <translation>Parefeu</translation>
+        <translation>Pare-feu</translation>
     </message>
     <message>
         <source>Floor Lamp</source>
@@ -2426,7 +2426,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Gear</source>
         <comment>DRAWINGSTR_GEAR</comment>
-        <translation>Matériel</translation>
+        <translation>Engrenage</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -2681,7 +2681,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPNAME</comment>
-        <translation>Groupe</translation>
+        <translation>Grouper</translation>
     </message>
     <message>
         <source>Mixed texture</source>
@@ -2821,7 +2821,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Invalid request. To select a shape, its view must be activated.</source>
         <comment>DRAWINGSTR_ERR_NOACTIVEVIEW</comment>
-        <translation>Demande non valide Pour sélectionner une forme, son affichage doit être activé.</translation>
+        <translation>Demande non valide. Pour sélectionner une forme, son affichage doit être activé.</translation>
     </message>
     <message>
         <source>The value specified is beyond the range.</source>
@@ -2846,7 +2846,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Outline</source>
         <comment>DRAWINGSTR_DGMSTYLE_OUTLINE</comment>
-        <translation>Plan</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <source>Double Outline</source>
@@ -2952,6 +2952,11 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
         <source>Black Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
         <translation>Dégradé noir</translation>
+    </message>
+    <message>
+        <source>Flowchart: Sequential Access Storage</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3059,7 +3064,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>(beta) Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
-        <translation>Un seul fichier de page Web (beta)</translation>
+        <translation>Un seul fichier de page Web (bêta)</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
@@ -3074,7 +3079,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Document</source>
         <comment>_KsoDesc_MSWORD12DOCM</comment>
-        <translation>Document Microsoft Word 2007/2010 compatible avec les macros</translation>
+        <translation>Document Microsoft Word 2007/2010 prenant en charge les macros</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format</source>
@@ -3084,7 +3089,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Single Web Page Files</source>
         <comment>_KsoFileFormatDesc_MHT_Files</comment>
-        <translation>Un seul fichier de page Web</translation>
+        <translation>Page Web à fichier unique</translation>
     </message>
     <message>
         <source>WPS Office encountered an error when saving the file. Please try again or contact customer service.</source>
@@ -3094,7 +3099,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Template</source>
         <comment>_KsoDesc_MSWORD12DOTM</comment>
-        <translation>Modèle Microsoft Word 2007/2010 compatible avec les micros</translation>
+        <translation>Modèle Microsoft Word 2007/2010 prenant en charge les macros</translation>
     </message>
 </context>
 <context>
@@ -3311,7 +3316,7 @@ Fichier : %s
     <message>
         <source>System and Exception Information File</source>
         <comment>_kso_ErrorRep_DesString_XML</comment>
-        <translation>Fichier d&apos;information système et d&apos;exception</translation>
+        <translation>Fichier d&apos;information de système et d&apos;exception</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3446,12 +3451,12 @@ Fichier : %s
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
         <comment>_kso_ksoThanksTo_for_linux_version</comment>
-        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1 ; Polices Founder et obtient son autorisation selon les clauses d&apos;autorisation officielles de Founder.</translation>
+        <translation>Ce logiciel inclut : Le projet FreeType obtient son autorisation gratuite selon les clauses d&apos;autorisation de la licence FreeType ; segment de mot chinois, annotations phonétiques chinoises, et la technologie de conversion entre le chinois simplifié et le chinois traditionnel fourni par l&apos;Information Retrieval Center, Harbin Institute of Technology ; vérificateur orthographique Hunspell, le code source en Hunspell est applicable pour le code source dans l&apos;accord de licence Open Source de MPL 1.1/GPL 2.0/LGPL 2.1 ; Polices Founder obtient son autorisation selon les clauses d&apos;autorisation officielles de Founder.</translation>
     </message>
     <message>
         <source>WPS Office (Beta)</source>
         <comment>_kso_ksoProductName_Debug</comment>
-        <translation>WPS Office (Beta)</translation>
+        <translation>WPS Office (Bêta)</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -3551,7 +3556,7 @@ Fichier : %s
     <message>
         <source>WPS Writer (Beta)</source>
         <comment>_kso_wpsProductName_Debug</comment>
-        <translation>WPS Writer (Beta)</translation>
+        <translation>WPS Writer (Bêta)</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -3601,7 +3606,7 @@ Fichier : %s
     <message>
         <source>WPS Presentation (Beta)</source>
         <comment>_kso_wppProductName_Debug</comment>
-        <translation>WPS Presentation (Beta)</translation>
+        <translation>WPS Presentation (Bêta)</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -3651,7 +3656,7 @@ Fichier : %s
     <message>
         <source>WPS Spreadsheets (Beta)</source>
         <comment>_kso_etProductName_Debug</comment>
-        <translation>WPS Spreadsheets (Beta)</translation>
+        <translation>WPS Spreadsheets (Bêta)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -3806,13 +3811,13 @@ Fichier : %s
     <message>
         <source>WPS Office Crashing Information</source>
         <comment>_kso_crashdlg_caption</comment>
-        <translation>Information de blocage WPS Office</translation>
+        <translation>Information de l&apos;arrêt imprévu  WPS Office</translation>
     </message>
     <message>
         <source>Sorry, WPS Office crashes.
 You can click the button to recover files you work on.</source>
         <comment>_kso_crashdlg_warmtext</comment>
-        <translation>Désolé, WPS Office bloque.
+        <translation>Désolé, WPS Office se bloque.
 Vous pouvez cliquer sur le bouton pour récupérer les fichiers sur lesquels vous travaillez.</translation>
     </message>
     <message>
@@ -4028,7 +4033,7 @@ Vous pouvez choisir le bouton Lecture seule pour l&apos;ouvrir en lecture seule.
     <message>
         <source>Please remove the paper with one side printed from output tray and place it back in the input bin, then press OK to continue printing.</source>
         <comment>_kso_Print_Msg</comment>
-        <translation>Veuillez retirer du bac de sortie le papier avec un côté imprimé et replacez-le dans le bac d&apos;entrée, puis appuyez sur OK pour continuer l&apos;impression.</translation>
+        <translation>Veuillez retirer du bac de sortie le papier avec un côté imprimé et replacez-le dans le bac d&apos;alimentation, puis appuyez sur OK pour continuer l&apos;impression.</translation>
     </message>
     <message>
         <source>Use printer settings</source>
@@ -4063,10 +4068,12 @@ Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
-You can add the customized paper %dmm�%dmm in printer properties and print it again.
+You can add the customized paper %dmm x %dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L&apos;imprimante ne prend pas en charge le format de papier actuel. En continuant l&apos;impression, la qualité peut être insatisfaisante.
+Vous pouvez ajouter le papier personnalisé %dmm×%dmm dans les propriétés de l&apos;imprimante et l&apos;imprimer de nouveau.
+Voulez-vous continuer ?</translation>
     </message>
 </context>
 <context>
@@ -4304,7 +4311,7 @@ Do you want to continue?</source>
     <message>
         <source>(Build %s)</source>
         <comment>kso_sBuildNumber</comment>
-        <translation>(Version %s)</translation>
+        <translation>(Build %s)</translation>
     </message>
     <message>
         <source>Byte</source>
@@ -4615,12 +4622,12 @@ Do you want to continue?</source>
     <message>
         <source>Insert an icon that represent the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sEtLinkAsIcon</comment>
-        <translation>Insérez une icône représentant le contenu du fichier dans votre document. Toute modification apportée au fichier source sera ainsi reflétée dans votre document.</translation>
+        <translation>Insérez une icône représentant le contenu du fichier dans votre document. Toute modification apportée au fichier auxiliaire sera reflétée dans votre document.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document and create a link to the source file. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sEtLinkFile</comment>
-        <translation>Insérez le contenu du fichier dans votre document en créant un lien vers le fichier source. Toute modification apportée au fichier source sera ainsi reflétée dans votre document.</translation>
+        <translation>Insérez le contenu du fichier dans votre document en créant un lien vers le fichier source. Toute modification apportée au fichier auxiliaire sera reflétée dans votre document.</translation>
     </message>
     <message>
         <source>Failed to save the serial number. Please check whether you have the administrator permissions or not.</source>
@@ -4764,7 +4771,7 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     <message>
         <source>Blue-Gray</source>
         <comment>kso_sKclBlueGray</comment>
-        <translation>Gris bleu</translation>
+        <translation>Bleu gris</translation>
     </message>
     <message>
         <source>Bright Green</source>
@@ -4824,112 +4831,112 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     <message>
         <source>Gray-12.5%</source>
         <comment>kso_sKclGray_12_5</comment>
-        <translation>Gray-12.5%</translation>
+        <translation>Gris-12.5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
         <comment>kso_sKclGray_15</comment>
-        <translation>Gray-15%</translation>
+        <translation>Gris-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
         <comment>kso_sKclGray_20</comment>
-        <translation>Gray-20%</translation>
+        <translation>Gris-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
         <comment>kso_sKclGray_25</comment>
-        <translation>Gray-25%</translation>
+        <translation>Gris-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
         <comment>kso_sKclGray_30</comment>
-        <translation>Gray-30%</translation>
+        <translation>Gris-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
         <comment>kso_sKclGray_35</comment>
-        <translation>Gray-35%</translation>
+        <translation>Gris-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
         <comment>kso_sKclGray_37_5</comment>
-        <translation>Gray-37.5%</translation>
+        <translation>Gris-37.5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
         <comment>kso_sKclGray_40</comment>
-        <translation>Gray-40%</translation>
+        <translation>Gris-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
         <comment>kso_sKclGray_45</comment>
-        <translation>Gray-45%</translation>
+        <translation>Gris-45%</translation>
     </message>
     <message>
         <source>Gray-5%</source>
         <comment>kso_sKclGray_5</comment>
-        <translation>Gray-5%</translation>
+        <translation>Gris-5%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
         <comment>kso_sKclGray_50</comment>
-        <translation>Gray-50%</translation>
+        <translation>Gris-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
         <comment>kso_sKclGray_55</comment>
-        <translation>Gray-55%</translation>
+        <translation>Gris-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
         <comment>kso_sKclGray_60</comment>
-        <translation>Gray-60%</translation>
+        <translation>Gris-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
         <comment>kso_sKclGray_62_5</comment>
-        <translation>Gray-62.5%</translation>
+        <translation>Gris-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
         <comment>kso_sKclGray_65</comment>
-        <translation>Gray-65%</translation>
+        <translation>Gris-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
         <comment>kso_sKclGray_70</comment>
-        <translation>Gray-70%</translation>
+        <translation>Gris-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
         <comment>kso_sKclGray_75</comment>
-        <translation>Gray-75%</translation>
+        <translation>Gris-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
         <comment>kso_sKclGray_80</comment>
-        <translation>Gray-80%</translation>
+        <translation>Gris-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
         <comment>kso_sKclGray_85</comment>
-        <translation>Gray-85%</translation>
+        <translation>Gris-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
         <comment>kso_sKclGray_87_5</comment>
-        <translation>Gray-87.5%</translation>
+        <translation>Gris-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
         <comment>kso_sKclGray_90</comment>
-        <translation>Gray-90%</translation>
+        <translation>Gris-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
         <comment>kso_sKclGray_95</comment>
-        <translation>Gray-95%</translation>
+        <translation>Gris-95%</translation>
     </message>
     <message>
         <source>Green</source>
@@ -5314,7 +5321,7 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sPasteLink</comment>
-        <translation>Un raccourci vers le fichier source sera créé une fois collé comme lien hypertexte. Toute modification apportée au fichier source sera ainsi reflétée dans votre document.</translation>
+        <translation>Un raccourci vers le fichier source sera créé une fois collé comme lien hypertexte. Toute modification apportée au fichier auxiliaire sera reflétée dans votre document.</translation>
     </message>
     <message>
         <source>Select Picture</source>
@@ -5384,7 +5391,7 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     <message>
         <source>&amp;Sat:</source>
         <comment>kso_sSat</comment>
-        <translation>&amp;Sam :</translation>
+        <translation>&amp;Saturation :</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -5579,7 +5586,7 @@ Si vous changez le nom d&apos;un champ de tableau croisé dynamique, vous devez 
     <message>
         <source>Trademark</source>
         <comment>kso_sSymbolTrademark</comment>
-        <translation>Marque déposée</translation>
+        <translation>Marque commerciale</translation>
     </message>
     <message>
         <source>System</source>
@@ -5814,12 +5821,12 @@ Pour un meilleur service, veuillez mettre à jour l&apos;édition d&apos;essai v
     <message>
         <source>Curve Down</source>
         <comment>kso_sWASCurveDown</comment>
-        <translation>Courbe vers le bas</translation>
+        <translation>Courbé vers le bas</translation>
     </message>
     <message>
         <source>Curve Up</source>
         <comment>kso_sWASCurveUp</comment>
-        <translation>Courbe vers le haut</translation>
+        <translation>Courbé vers le haut</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
@@ -5979,12 +5986,12 @@ Pour un meilleur service, veuillez mettre à jour l&apos;édition d&apos;essai v
     <message>
         <source>Insert the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
         <comment>kso_sWppInsertAsIcon</comment>
-        <translation>Insérez le contenu du fichier en tant qu&apos;objet dans votre présentation afin que vous puissiez l&apos;activer en utilisant l&apos;application qui l&apos;a créée. Il sera affiché sous forme d&apos;icône.</translation>
+        <translation>Insère le contenu du fichier sous la forme d&apos;un objet dans votre présentation afin que vous puissiez l&apos;activer en utilisant l&apos;application dans laquelle il a été créé. Il sera affiché sous forme d&apos;icône.</translation>
     </message>
     <message>
         <source>Insert the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
         <comment>kso_sWppInsertFromFile</comment>
-        <translation>Insérez le contenu du fichier en tant qu&apos;objet dans votre présentation afin que vous puissiez l&apos;activer en utilisant l&apos;application qui l&apos;a créée.</translation>
+        <translation>Insère le contenu du fichier sous la forme d&apos;un objet dans votre présentation afin que vous puissiez l&apos;activer en utilisant l&apos;application dans laquelle il a été créé. Il sera affiché sous forme d&apos;icône.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your presentation.</source>
@@ -6029,7 +6036,7 @@ Pour un meilleur service, veuillez mettre à jour l&apos;édition d&apos;essai v
     <message>
         <source>Insert the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
         <comment>kso_sWpsInsertFromFile</comment>
-        <translation>Insérez le contenu du fichier dans vos documents afin que vous puissiez le modifier ultérieurement en utilisant l&apos;application qui a créé le fichier source.</translation>
+        <translation>Insérez le contenu du fichier dans vos documents afin que vous puissiez le modifier à l&apos;aide du programme utilisé pour le créer.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document.</source>
@@ -6044,7 +6051,7 @@ Pour un meilleur service, veuillez mettre à jour l&apos;édition d&apos;essai v
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation>Insérez une icône représentant le contenu du fichier dans votre document. Les modifications apportées au fichier source seront reflétées dans votre document.</translation>
+        <translation>Insérez une icône représentant le contenu du fichier dans votre document. Les modifications apportées au fichier auxiliaire seront reflétées dans votre document.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document and create a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
@@ -6094,7 +6101,7 @@ Pour un meilleur service, veuillez mettre à jour l&apos;édition d&apos;essai v
     <message>
         <source>Forword</source>
         <comment>kso_Nav_Forword</comment>
-        <translation>Avant-propos</translation>
+        <translation>Suivant</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -6214,7 +6221,7 @@ Utilisé pour afficher les relations des éléments principaux</translation>
 Used to show foundation-based relationships</source>
         <comment>kso_sPyramidDiagram</comment>
         <translation>Diagramme pyramidal
-Utilisé pour afficher les relations basées sur Foundation</translation>
+Utilisé pour afficher les liens relatifs à un élément principal</translation>
     </message>
     <message>
         <source>Venn diagram
@@ -6230,7 +6237,7 @@ Utilisé pour afficher les zones de chevauchement entre les
 Used to show steps toward a goal</source>
         <comment>kso_sTargetDiagram</comment>
         <translation>Diagramme cible
-Utilisé pour afficher les étapes vers un objectif</translation>
+Utilisé pour afficher les étapes menant à un objectif</translation>
     </message>
     <message>
         <source>- (Hyphen)</source>
@@ -6305,7 +6312,7 @@ Utilisé pour afficher les étapes vers un objectif</translation>
     <message>
         <source>The installation or update patches are running, %s will exit, please run %s again after the completion of installation or updating.</source>
         <comment>kso_sInstallPackageRunning</comment>
-        <translation>Les correctifs d&apos;installation ou de mise à jour sont en cours d&apos;exécution, %s va quitter. Veuillez exécuter %s de nouveau après la fin de l&apos;installation ou de la mise à jour.</translation>
+        <translation>Les packages d&apos;installation ou de mise à jour sont en cours d&apos;exécution, %s va quitter. Veuillez exécuter %s de nouveau après la fin de l&apos;installation ou de la mise à jour.</translation>
     </message>
     <message>
         <source>The file cannot be deleted, which may be occupied.</source>
@@ -6449,7 +6456,7 @@ Vérifiez vos données et assurez-vous que la référence est valide et que la f
     <message>
         <source>Please input the password of permission setting.</source>
         <comment>kso_sNoPasswordInput</comment>
-        <translation>Entrez le mot de passe du paramètres d&apos;autorisation.</translation>
+        <translation>Entrez le mot de passe du paramètre d&apos;autorisation.</translation>
     </message>
     <message>
         <source>Open in browser</source>

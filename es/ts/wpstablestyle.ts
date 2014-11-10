@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es_MX">
+<TS version="2.0" language="es">
 <context>
     <name>CWpsTableStyle</name>
     <message>
@@ -93,19 +93,19 @@
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estilo Suave</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estilo medio</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estilo nocturno</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estilo Nocturno 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
@@ -140,7 +140,7 @@
     </message>
     <message>
         <source>1-</source>
-        <translation>1-</translation>
+        <translation type="unfinished">1-</translation>
     </message>
     <message>
         <source>Styless, gridded</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Best Match</source>
-        <translation>Mejor combinación</translation>
+        <translation type="unfinished">Mejor combinación</translation>
     </message>
     <message>
         <source>Washy</source>
@@ -200,27 +200,27 @@
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estilo Suave</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo medio</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo nocturno</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estilo Nocturno 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
@@ -268,15 +268,15 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Claro</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Medio</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscuro</translation>
     </message>
 </context>
 <context>
@@ -299,7 +299,7 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Primera fila</translation>
+        <translation>Primera fila</translation>
     </message>
     <message>
         <source>First Column</source>
@@ -307,11 +307,11 @@
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Última fila</translation>
+        <translation>Última fila</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Última columna</translation>
+        <translation>Última columna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
@@ -319,7 +319,7 @@
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Columnas con bandas</translation>
+        <translation>Columnas con bandas</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
@@ -331,15 +331,15 @@
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Medio</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Oscuro</translation>
     </message>
 </context>
 <context>

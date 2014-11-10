@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sample">
+<TS version="2.0" language="ru">
 <context>
     <name>KHomepage</name>
     <message>
@@ -47,10 +47,6 @@
         <source>Online Templates</source>
         <comment>title</comment>
         <translation>Из Интернета</translation>
-    </message>
-    <message>
-        <source>docerhomepage</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

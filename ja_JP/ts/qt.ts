@@ -2,6 +2,15 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="ja">
 <context>
+    <name>CloseButton</name>
+    <message>
+        <location filename="../src/gui/widgets/qtabbar.cpp" line="+2253"/>
+        <source>Close Tab</source>
+        <translatorcomment>ToolTip</translatorcomment>
+        <translation>タブを閉じる</translation>
+    </message>
+</context>
+<context>
     <name>MAC_APPLICATION_MENU</name>
     <message>
         <location filename="../src/gui/kernel/qapplication.cpp" line="+2322"/>
@@ -37,15 +46,6 @@
         <location line="+3"/>
         <source>Show All</source>
         <translation>すべてを表示</translation>
-    </message>
-</context>
-<context>
-    <name>CloseButton</name>
-    <message>
-        <location filename="../src/gui/widgets/qtabbar.cpp" line="+2253"/>
-        <source>Close Tab</source>
-        <translatorcomment>ToolTip</translatorcomment>
-        <translation>タブを閉じる</translation>
     </message>
 </context>
 <context>
@@ -242,15 +242,6 @@ Gstreamer と libgstreamer-plugins-base が正しくインストールされて�
 <context>
     <name>Q3FileDialog</name>
     <message>
-        <location line="+296"/>
-        <source>%1
-File not found.
-Check path and filename.</source>
-        <translation>%1
-ファイルが見つかりませんでした。
-パスおよびファイル名を確認してください。</translation>
-    </message>
-    <message>
         <location filename="../src/qt3support/dialogs/q3filedialog.cpp" line="+4150"/>
         <source>&amp;Delete</source>
         <translation>削除(&amp;D)</translation>
@@ -267,7 +258,27 @@ Check path and filename.</source>
         <translation>&amp;OK</translation>
     </message>
     <message>
-        <location line="-354"/>
+        <location line="-3086"/>
+        <source>System link to file</source>
+        <translation>ファイルへのシンボリックリンク</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>System link to directory</source>
+        <translation>ディレクトリへのシンボリックリンク</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>System link to special</source>
+        <translation>スペシャルファイルへのシンボリックリンク</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>System link</source>
+        <translation>シンボリックリンク</translation>
+    </message>
+    <message>
+        <location line="+2727"/>
         <location line="+5"/>
         <location line="+355"/>
         <source>&amp;Open</source>
@@ -295,9 +306,28 @@ Check path and filename.</source>
         <translation>はい(&amp;Y)</translation>
     </message>
     <message>
-        <location line="-298"/>
+        <location filename="../src/qt3support/sql/q3datatable.cpp" line="+296"/>
+        <source>%1
+File not found.
+Check path and filename.</source>
+        <translation>%1
+ファイルが見つかりませんでした。
+パスおよびファイル名を確認してください。</translation>
+    </message>
+    <message>
+        <location filename="../src/qt3support/dialogs/q3filedialog.cpp" line="-298"/>
         <source>&lt;qt&gt;Are you sure you wish to delete %1 &quot;%2&quot;?&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;%1 &quot;%2&quot; を削除しますか?&lt;/qt&gt;</translation>
+    </message>
+    <message>
+        <location filename="../src/qt3support/dialogs/q3filedialog_win.cpp" line="+132"/>
+        <source>All Files (*.*)</source>
+        <translation>すべてのファイル(*.*)</translation>
+    </message>
+    <message>
+        <location line="+1536"/>
+        <source>Directory</source>
+        <translation>ディレクトリ</translation>
     </message>
     <message>
         <location filename="../src/qt3support/dialogs/q3filedialog.cpp" line="-1928"/>
@@ -308,12 +338,7 @@ Check path and filename.</source>
         <translation>すべてのファイル(*)</translation>
     </message>
     <message>
-        <location filename="../src/qt3support/dialogs/q3filedialog_win.cpp" line="+132"/>
-        <source>All Files (*.*)</source>
-        <translation>すべてのファイル(*.*)</translation>
-    </message>
-    <message>
-        <location line="-2084"/>
+        <location filename="../src/qt3support/dialogs/q3filedialog_win.cpp" line="-3620"/>
         <source>Attributes</source>
         <translation>属性</translation>
     </message>
@@ -365,12 +390,7 @@ Check path and filename.</source>
         <translation>ディレクトリ</translation>
     </message>
     <message>
-        <location line="+1551"/>
-        <source>Directory</source>
-        <translation>ディレクトリ</translation>
-    </message>
-    <message>
-        <location line="-2"/>
+        <location line="+1549"/>
         <source>Directory:</source>
         <translation>ディレクトリ:</translation>
     </message>
@@ -445,12 +465,12 @@ Check path and filename.</source>
     <message>
         <location line="+869"/>
         <location line="+2100"/>
-        <location filename="../src/qt3support/dialogs/q3filedialog_win.cpp" line="+205"/>
+        <location line="+205"/>
         <source>Open</source>
         <translation>オープン</translation>
     </message>
     <message>
-        <location filename="../src/qt3support/dialogs/q3filedialog_win.cpp" line="+170"/>
+        <location line="+170"/>
         <source>Open </source>
         <translation>オープン</translation>
     </message>
@@ -546,27 +566,22 @@ Check path and filename.</source>
         <translation>スペシャルファイルへのシンボリックリンク</translation>
     </message>
     <message>
+        <location line="-1772"/>
+        <source>the directory</source>
+        <translation>ディレクトリ</translation>
+    </message>
+    <message>
+        <location line="-2"/>
+        <source>the file</source>
+        <translation>ファイル</translation>
+    </message>
+    <message>
         <location line="+4"/>
-        <source>System link</source>
+        <source>the symlink</source>
         <translation>シンボリックリンク</translation>
     </message>
     <message>
-        <location line="-4"/>
-        <source>System link to directory</source>
-        <translation>ディレクトリへのシンボリックリンク</translation>
-    </message>
-    <message>
-        <location line="-1"/>
-        <source>System link to file</source>
-        <translation>ファイルへのシンボリックリンク</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>System link to special</source>
-        <translation>スペシャルファイルへのシンボリックリンク</translation>
-    </message>
-    <message>
-        <location line="-1808"/>
+        <location line="-37"/>
         <source>Type</source>
         <translation>タイプ</translation>
     </message>
@@ -580,21 +595,6 @@ Check path and filename.</source>
         <location line="+30"/>
         <source>Write: %1</source>
         <translation>書き込み: %1</translation>
-    </message>
-    <message>
-        <location line="+1551"/>
-        <source>the directory</source>
-        <translation>ディレクトリ</translation>
-    </message>
-    <message>
-        <location line="-2"/>
-        <source>the file</source>
-        <translation>ファイル</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>the symlink</source>
-        <translation>シンボリックリンク</translation>
     </message>
 </context>
 <context>
@@ -651,17 +651,17 @@ to
 <context>
     <name>Q3MainWindow</name>
     <message>
-        <location filename="../src/qt3support/widgets/q3mainwindow.cpp" line="+2053"/>
-        <source>Custom...</source>
-        <translation>カスタマイズ...</translation>
-    </message>
-    <message>
-        <location filename="../src/qt3support/widgets/q3mainwindow.cpp" line="+2053"/>
+        <location filename="../src/qt3support/widgets/q3mainwindow.cpp" line="+4106"/>
         <source>Customize...</source>
         <translation>カスタマイズ...</translation>
     </message>
     <message>
-        <location line="-2"/>
+        <location line="-2053"/>
+        <source>Custom...</source>
+        <translation>カスタマイズ...</translation>
+    </message>
+    <message>
+        <location line="+2051"/>
         <source>Line up</source>
         <translation>整列</translation>
     </message>
@@ -669,13 +669,13 @@ to
 <context>
     <name>Q3NetworkProtocol</name>
     <message>
-        <location filename="../src/qt3support/network/q3networkprotocol.cpp" line="+854"/>
-        <source>Operation is stopped by user</source>
+        <location filename="../src/qt3support/network/q3networkprotocol.cpp" line="+1708"/>
+        <source>Operation stopped by the user</source>
         <translation>操作がユーザによって停止されました</translation>
     </message>
     <message>
-        <location filename="../src/qt3support/network/q3networkprotocol.cpp" line="+854"/>
-        <source>Operation stopped by the user</source>
+        <location line="-854"/>
+        <source>Operation is stopped by user</source>
         <translation>操作がユーザによって停止されました</translation>
     </message>
 </context>
@@ -794,7 +794,12 @@ to
         <translation>最小化</translation>
     </message>
     <message>
-        <location line="+28"/>
+        <location line="+23"/>
+        <source>Puts a minimized window back to normal</source>
+        <translation>最小化されたウィンドウを元のサイズに戻します</translation>
+    </message>
+    <message>
+        <location line="+5"/>
         <source>Moves the window out of the way</source>
         <translation>ウィンドウを隠します</translation>
     </message>
@@ -809,12 +814,7 @@ to
         <translation>最小化されたウィンドウを元のサイズに戻します</translation>
     </message>
     <message>
-        <location line="-4"/>
-        <source>Puts a minimized window back to normal</source>
-        <translation>最小化されたウィンドウを元のサイズに戻します</translation>
-    </message>
-    <message>
-        <location line="-24"/>
+        <location line="-28"/>
         <source>Restore down</source>
         <translation>元に戻す</translation>
     </message>
@@ -840,13 +840,7 @@ to
 <context>
     <name>Q3UrlOperator</name>
     <message>
-        <location filename="../src/qt3support/network/q3urloperator.cpp" line="+889"/>
-        <location line="+1"/>
-        <source>(Unknown)</source>
-        <translation>(不明)</translation>
-    </message>
-    <message>
-        <location filename="../src/qt3support/network/q3urloperator.cpp" line="+889"/>
+        <location filename="../src/qt3support/network/q3urloperator.cpp" line="+1779"/>
         <location line="+1"/>
         <source>(unknown)</source>
         <translation>(不明)</translation>
@@ -868,7 +862,13 @@ to
         <translation>プロトコル &apos;%1&apos; はファイルの取得をサポートしていません</translation>
     </message>
     <message>
-        <location line="-12"/>
+        <location line="-403"/>
+        <location line="+1"/>
+        <source>(Unknown)</source>
+        <translation>(不明)</translation>
+    </message>
+    <message>
+        <location line="+390"/>
         <source>The protocol `%1&apos; does not support listing directories</source>
         <translation>プロトコル &apos;%1&apos; はディレクトリのリスティングをサポートしていません</translation>
     </message>
@@ -1122,13 +1122,13 @@ to
         <translation type="obsolete">OK</translation>
     </message>
     <message>
+        <source>Select color</source>
+        <translation type="obsolete">カラーの選択</translation>
+    </message>
+    <message>
         <location line="+107"/>
         <source>Select Color</source>
         <translation>色</translation>
-    </message>
-    <message>
-        <source>Select color</source>
-        <translation type="obsolete">カラーの選択</translation>
     </message>
 </context>
 <context>
@@ -1236,24 +1236,24 @@ to
 <context>
     <name>QDateTimeEdit</name>
     <message>
-        <location line="+0"/>
-        <source>AM</source>
-        <translation>AM</translation>
-    </message>
-    <message>
-        <location line="+0"/>
-        <source>PM</source>
-        <translation>PM</translation>
-    </message>
-    <message>
         <location filename="../src/gui/widgets/qdatetimeedit.cpp" line="+2295"/>
         <source>am</source>
         <translation>am</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location filename="../src/sql/drivers/db2/qsql_db2.cpp" line="+0"/>
+        <source>AM</source>
+        <translation>AM</translation>
+    </message>
+    <message>
+        <location filename="../src/gui/widgets/qdatetimeedit.cpp" line="+2"/>
         <source>pm</source>
         <translation>pm</translation>
+    </message>
+    <message>
+        <location filename="../src/sql/drivers/db2/qsql_db2.cpp" line="+0"/>
+        <source>PM</source>
+        <translation>PM</translation>
     </message>
 </context>
 <context>
@@ -1420,12 +1420,7 @@ to
         <translation>更新日</translation>
     </message>
     <message>
-        <location filename="../src/gui/itemviews/qdirmodel.cpp" line="+466"/>
-        <source>Date is modified</source>
-        <translation>更新日</translation>
-    </message>
-    <message>
-        <location line="-8"/>
+        <location line="+458"/>
         <source>Kind</source>
         <comment>Match OS X Finder</comment>
         <translation>種類</translation>
@@ -1445,6 +1440,11 @@ to
         <source>Type</source>
         <comment>All other platforms</comment>
         <translation>タイプ</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Date is modified</source>
+        <translation>更新日</translation>
     </message>
 </context>
 <context>
@@ -1551,33 +1551,14 @@ Please verify the correct file name was given</source>
 正しいファイル名が入力されたかどうか確認してください</translation>
     </message>
     <message>
-        <location line="+748"/>
-        <location line="+861"/>
-        <source>%1
-Directory not found.
-Please verify the correct directory name was given.</source>
-        <translation>%1
-ディレクトリが見つかりません。
-正しいディレクトリ名が入力されたかどうか確認してください。</translation>
+        <location filename="../src/gui/dialogs/qfiledialog.cpp" line="+2621"/>
+        <source>&apos;%1&apos; is write protected.
+Do you want to delete it anyway?</source>
+        <translation>&apos;%1&apos; は書き込みが禁止されています。
+本当に削除しますか?</translation>
     </message>
     <message>
-        <location line="-807"/>
-        <source>%1
-File not found.
-Please verify the correct file name was given.</source>
-        <translation>%1
-ファイルが見つかりません。
-正しいファイル名が入力されたかどうか確認してください。</translation>
-    </message>
-    <message>
-        <location line="-20"/>
-        <source>%1 already exists.
-Do you want to replace it?</source>
-        <translation>%1 はすでに存在します。
-置き換えますか?</translation>
-    </message>
-    <message>
-        <location line="-1431"/>
+        <location filename="../src/corelib/io/qfile.cpp" line="-649"/>
         <location line="+38"/>
         <source>&amp;Choose</source>
         <translation>選択(&amp;C)</translation>
@@ -1620,11 +1601,30 @@ Do you want to replace it?</source>
         <translation type="obsolete">ソート解除(&amp;U)</translation>
     </message>
     <message>
-        <location filename="../src/gui/dialogs/qfiledialog.cpp" line="+2621"/>
-        <source>&apos;%1&apos; is write protected.
-Do you want to delete it anyway?</source>
-        <translation>&apos;%1&apos; は書き込みが禁止されています。
-本当に削除しますか?</translation>
+        <location line="+1357"/>
+        <location line="+861"/>
+        <source>%1
+Directory not found.
+Please verify the correct directory name was given.</source>
+        <translation>%1
+ディレクトリが見つかりません。
+正しいディレクトリ名が入力されたかどうか確認してください。</translation>
+    </message>
+    <message>
+        <location line="-807"/>
+        <source>%1
+File not found.
+Please verify the correct file name was given.</source>
+        <translation>%1
+ファイルが見つかりません。
+正しいファイル名が入力されたかどうか確認してください。</translation>
+    </message>
+    <message>
+        <location line="-20"/>
+        <source>%1 already exists.
+Do you want to replace it?</source>
+        <translation>%1 はすでに存在します。
+置き換えますか?</translation>
     </message>
     <message>
         <location filename="../src/gui/itemviews/qfileiconprovider.cpp" line="+431"/>
@@ -1633,18 +1633,18 @@ Do you want to delete it anyway?</source>
         <translation>エイリアス</translation>
     </message>
     <message>
+        <location filename="../src/gui/dialogs/qfiledialog_win.cpp" line="+160"/>
+        <source>All Files (*.*)</source>
+        <translation>すべてのファイル(*.*)</translation>
+    </message>
+    <message>
         <location filename="../src/gui/dialogs/qfiledialog.cpp" line="-1498"/>
         <location line="+447"/>
         <source>All Files (*)</source>
         <translation>すべてのファイル(*)</translation>
     </message>
     <message>
-        <location filename="../src/gui/dialogs/qfiledialog_win.cpp" line="+160"/>
-        <source>All Files (*.*)</source>
-        <translation>すべてのファイル(*.*)</translation>
-    </message>
-    <message>
-        <location line="+1665"/>
+        <location filename="../src/gui/dialogs/qfiledialog_win.cpp" line="+1665"/>
         <source>Are sure you want to delete &apos;%1&apos;?</source>
         <translation>&apos;%1&apos; を本当に削除しますか?</translation>
     </message>
@@ -1741,7 +1741,7 @@ Do you want to delete it anyway?</source>
         <translation>検索する場所:</translation>
     </message>
     <message>
-        <location filename="../src/gui/itemviews/qdirmodel.cpp" line="+408"/>
+        <location filename="../src/gui/itemviews/qdirmodel.cpp" line="+402"/>
         <source>My Computer</source>
         <translation>マイ コンピュータ</translation>
     </message>
@@ -1829,8 +1829,14 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QFileSystemModel</name>
     <message>
-        <location line="-5"/>
-        <location filename="../src/gui/itemviews/qdirmodel.cpp" line="-5"/>
+        <location filename="../src/gui/dialogs/qfilesystemmodel.cpp" line="+751"/>
+        <location filename="../src/gui/itemviews/qdirmodel.cpp" line="+471"/>
+        <source>%1 bytes</source>
+        <translation>%1 バイト</translation>
+    </message>
+    <message>
+        <location filename="../src/gui/itemviews/qfileiconprovider.cpp" line="-5"/>
+        <location filename="../src/gui/itemviews/qdirmodel.cpp" line="-476"/>
         <source>%1 GB</source>
         <translation>%1 GB</translation>
     </message>
@@ -1853,13 +1859,7 @@ Do you want to delete it anyway?</source>
         <translation>%1 TB</translation>
     </message>
     <message>
-        <location filename="../src/gui/dialogs/qfilesystemmodel.cpp" line="+751"/>
-        <location filename="../src/gui/itemviews/qdirmodel.cpp" line="+478"/>
-        <source>%1 bytes</source>
-        <translation>%1 バイト</translation>
-    </message>
-    <message>
-        <location line="+85"/>
+        <location filename="../src/gui/dialogs/qfilesystemmodel.cpp" line="+85"/>
         <source>&lt;b&gt;The name &quot;%1&quot; can not be used.&lt;/b&gt;&lt;p&gt;Try using another name, with fewer characters or no punctuations marks.</source>
         <translation>&lt;b&gt;ファイル名 &quot;%1&quot; は使用できません。&lt;/b&gt;&lt;p&gt;名前を短くしたり、アクセント記号などを削除して再度試してください。</translation>
     </message>
@@ -1874,12 +1874,7 @@ Do you want to delete it anyway?</source>
         <translation>更新日</translation>
     </message>
     <message>
-        <location filename="../src/gui/dialogs/qfilesystemmodel.cpp" line="+78"/>
-        <source>Date is modified</source>
-        <translation>更新日</translation>
-    </message>
-    <message>
-        <location line="-79"/>
+        <location line="-1"/>
         <source>Invalid filename</source>
         <translation>無効なファイル名</translation>
     </message>
@@ -1909,6 +1904,11 @@ Do you want to delete it anyway?</source>
         <source>Type</source>
         <comment>All other platforms</comment>
         <translation>タイプ</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Date is modified</source>
+        <translation>更新日</translation>
     </message>
 </context>
 <context>
@@ -2412,26 +2412,13 @@ Do you want to delete it anyway?</source>
         <translation>デバイスへの書き込み時にエラーが発生しました</translation>
     </message>
     <message>
-        <location filename="../src/network/access/qhttp.cpp" line="+20"/>
-        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-6"/>
-        <location line="+19"/>
-        <location filename="../src/qt3support/network/q3http.cpp" line="-464"/>
-        <source>HTTP request failed</source>
-        <translation>HTTP要求に失敗しました</translation>
-    </message>
-    <message>
-        <location line="-2286"/>
-        <source>HTTPS connection requested but SSL support not compiled in</source>
-        <translation>HTTPSによる接続が要求されましたが、SSLのサポートがコンパイル時に組み込まれていないため、接続できません</translation>
-    </message>
-    <message>
-        <location filename="../src/qt3support/network/q3http.cpp" line="-6"/>
+        <location filename="../src/qt3support/network/q3http.cpp" line="-470"/>
         <source>Host %1 found</source>
         <translation>ホスト %1 が見つかりました</translation>
     </message>
     <message>
-        <location filename="../src/network/access/qhttp.cpp" line="-304"/>
-        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-19"/>
+        <location filename="../src/network/access/qhttp.cpp" line="-2570"/>
+        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-6"/>
         <location filename="../src/qt3support/network/q3http.cpp" line="-453"/>
         <source>Host %1 not found</source>
         <translation>ホスト %1 が見つかりませんでした</translation>
@@ -2447,9 +2434,22 @@ Do you want to delete it anyway?</source>
         <translation>ホストの認証が必要です</translation>
     </message>
     <message>
-        <location line="+2484"/>
+        <location filename="../src/network/access/qhttp.cpp" line="+2590"/>
+        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-16"/>
+        <location line="+19"/>
+        <location filename="../src/qt3support/network/q3http.cpp" line="-8"/>
+        <source>HTTP request failed</source>
+        <translation>HTTP要求に失敗しました</translation>
+    </message>
+    <message>
+        <location line="-2286"/>
+        <source>HTTPS connection requested but SSL support not compiled in</source>
+        <translation>HTTPSによる接続が要求されましたが、SSLのサポートがコンパイル時に組み込まれていないため、接続できません</translation>
+    </message>
+    <message>
+        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="+2481"/>
         <location line="+48"/>
-        <location filename="../src/qt3support/network/q3http.cpp" line="+109"/>
+        <location filename="../src/qt3support/network/q3http.cpp" line="+117"/>
         <location line="+47"/>
         <source>Invalid HTTP chunked body</source>
         <translation>無効なHTTPチャンクドボディです</translation>
@@ -2472,26 +2472,26 @@ Do you want to delete it anyway?</source>
         <translation>プロキシーの認証が必要です</translation>
     </message>
     <message>
-        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-16"/>
+        <location line="-16"/>
         <source>Proxy requires authentication</source>
         <translation>プロキシーの認証が必要です</translation>
     </message>
     <message>
-        <location filename="../src/network/access/qhttp.cpp" line="-936"/>
+        <location filename="../src/network/access/qhttp.cpp" line="-1240"/>
         <location filename="../src/qt3support/network/q3http.cpp" line="-381"/>
         <source>Request aborted</source>
         <translation>要求が中止されました</translation>
     </message>
     <message>
-        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="+12"/>
-        <source>SSL handshake failed</source>
-        <translation>SSLのハンドシェークに失敗しました</translation>
-    </message>
-    <message>
-        <location line="+747"/>
+        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="+759"/>
         <location filename="../src/qt3support/network/q3http.cpp" line="+441"/>
         <source>Server closed connection unexpectedly</source>
         <translation>サーバの接続が予期せず閉じられました</translation>
+    </message>
+    <message>
+        <location line="-747"/>
+        <source>SSL handshake failed</source>
+        <translation>SSLのハンドシェークに失敗しました</translation>
     </message>
     <message>
         <location filename="../src/network/access/qhttp.cpp" line="+179"/>
@@ -2507,7 +2507,7 @@ Do you want to delete it anyway?</source>
         <translation>不明なエラー</translation>
     </message>
     <message>
-        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="-3"/>
+        <location filename="../src/network/access/qhttpnetworkconnection.cpp" line="+744"/>
         <source>Unknown protocol specified</source>
         <translation>未対応のプロトコルです</translation>
     </message>
@@ -2759,12 +2759,7 @@ Do you want to delete it anyway?</source>
         <translation>ライブラリ %1 を解放することができません: %2</translation>
     </message>
     <message>
-        <location filename="../src/corelib/plugin/qlibrary.cpp" line="+378"/>
-        <source>Could not map &apos;%1&apos;: %2</source>
-        <translation>&apos;%1&apos; をメモリにマッピングできませんでした: %2</translation>
-    </message>
-    <message>
-        <location filename="../src/corelib/plugin/qlibrary.cpp" line="+378"/>
+        <location filename="../src/corelib/plugin/qlibrary.cpp" line="+756"/>
         <source>Could not mmap &apos;%1&apos;: %2</source>
         <translation>&apos;%1&apos; をメモリにマッピングできませんでした: %2</translation>
     </message>
@@ -2811,7 +2806,12 @@ Do you want to delete it anyway?</source>
         <translation>プラグイン &apos;%1&apos; は、互換性のない Qt ライブラリを使用しています。ビルドキー　&quot;%2&quot;　が必要ですが、&quot;%3&quot; しかありません </translation>
     </message>
     <message>
-        <location line="-37"/>
+        <location line="-728"/>
+        <source>Could not map &apos;%1&apos;: %2</source>
+        <translation>&apos;%1&apos; をメモリにマッピングできませんでした: %2</translation>
+    </message>
+    <message>
+        <location line="+691"/>
         <location filename="../src/corelib/plugin/qpluginloader.cpp" line="+280"/>
         <source>The shared library was not found.</source>
         <translation>共有ライブラリがみつかりません。</translation>
@@ -2973,17 +2973,17 @@ Do you want to delete it anyway?</source>
         <translation>接続できません</translation>
     </message>
     <message>
-        <location line="-7"/>
-        <source>Unable to open database</source>
-        <translation>データベースをオープンできません &apos;</translation>
-    </message>
-    <message>
-        <location line="-7"/>
+        <location line="-14"/>
         <source>Unable to open database &apos;</source>
         <translation>データベースをオープンできません &apos;</translation>
     </message>
     <message>
-        <location line="+168"/>
+        <location line="+7"/>
+        <source>Unable to open database</source>
+        <translation>データベースをオープンできません &apos;</translation>
+    </message>
+    <message>
+        <location line="+161"/>
         <source>Unable to rollback transaction</source>
         <translation>トランザクションをロールバックできません</translation>
     </message>
@@ -3059,12 +3059,12 @@ Do you want to delete it anyway?</source>
 <context>
     <name>QMdiSubWindow</name>
     <message>
-        <location line="-778"/>
-        <source>%1 - [%2]</source>
-        <translation>%1 - [%2]</translation>
+        <location filename="../src/gui/widgets/qmdisubwindow.cpp" line="+279"/>
+        <source>- [%1]</source>
+        <translation>- [%1]</translation>
     </message>
     <message>
-        <location line="+787"/>
+        <location filename="../src/gui/widgets/qmdiarea.cpp" line="+9"/>
         <source>&amp;Close</source>
         <translation>閉じる(&amp;C)</translation>
     </message>
@@ -3084,12 +3084,12 @@ Do you want to delete it anyway?</source>
         <translation>サイズ(&amp;S)</translation>
     </message>
     <message>
-        <location filename="../src/gui/widgets/qmdisubwindow.cpp" line="+279"/>
-        <source>- [%1]</source>
-        <translation>- [%1]</translation>
+        <location line="-779"/>
+        <source>%1 - [%2]</source>
+        <translation>%1 - [%2]</translation>
     </message>
     <message>
-        <location line="+72"/>
+        <location filename="../src/gui/widgets/qmdisubwindow.cpp" line="+72"/>
         <source>Close</source>
         <translation>閉じる</translation>
     </message>
@@ -3126,7 +3126,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location line="+15"/>
         <source>Restore</source>
-        <translation>元に戻す</translation>
+        <translation>元のサイズに戻す</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -3775,7 +3775,7 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
     <name>QPageSetupWidget</name>
     <message>
         <location filename="../src/gui/dialogs/qpagesetupwidget.ui"/>
-        <source>Bottom margin</source>
+        <source>bottom margin</source>
         <translation>下端余白</translation>
     </message>
     <message>
@@ -3805,7 +3805,7 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
     </message>
     <message>
         <location/>
-        <source>Left margin</source>
+        <source>left margin</source>
         <translation>左端余白</translation>
     </message>
     <message>
@@ -3860,12 +3860,12 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
     </message>
     <message>
         <location/>
-        <source>Right margin</source>
+        <source>right margin</source>
         <translation>右端余白</translation>
     </message>
     <message>
         <location/>
-        <source>Top margin</source>
+        <source>top margin</source>
         <translation>上端余白</translation>
     </message>
     <message>
@@ -3874,23 +3874,23 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>幅:</translation>
     </message>
     <message>
-        <location filename="../src/gui/dialogs/qpagesetupwidget.ui"/>
-        <source>bottom margin</source>
+        <location/>
+        <source>Bottom margin</source>
         <translation>下端余白</translation>
     </message>
     <message>
         <location/>
-        <source>left margin</source>
+        <source>Left margin</source>
         <translation>左端余白</translation>
     </message>
     <message>
         <location/>
-        <source>right margin</source>
+        <source>Right margin</source>
         <translation>右端余白</translation>
     </message>
     <message>
         <location/>
-        <source>top margin</source>
+        <source>Top margin</source>
         <translation>上端余白</translation>
     </message>
 </context>
@@ -3954,11 +3954,6 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>%1 はサポートされていないエンコーディングです。</translation>
     </message>
     <message>
-        <location filename="../src/xmlpatterns/functions/qassemblestringfns.cpp" line="+88"/>
-        <source>%1 is not a valid XML 1.0 character.</source>
-        <translation>%1 は XML 1.0 において有効な文字ではありません。</translation>
-    </message>
-    <message>
         <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-129"/>
         <source>%1 is not a valid name for a processing-instruction.</source>
         <translation>処理指定において、&apos;%1&apos; は無効です。</translation>
@@ -3977,6 +3972,11 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <location filename="../src/xmlpatterns/data/qanyuri_p.h" line="+132"/>
         <source>%1 is not a valid value of type %2.</source>
         <translation>%1 は、%2 の型に対して有効な値ではありません。</translation>
+    </message>
+    <message>
+        <location filename="../src/xmlpatterns/functions/qassemblestringfns.cpp" line="+88"/>
+        <source>%1 is not a valid XML 1.0 character.</source>
+        <translation>%1 は XML 1.0 において有効な文字ではありません。</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qtimezonefns.cpp" line="+99"/>
@@ -4294,6 +4294,16 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>エレメント %1 には、%2 属性またはsequence constructorがなければなりません。</translation>
     </message>
     <message>
+        <location filename="../src/xmlpatterns/type/qcardinality.cpp" line="+55"/>
+        <source>empty</source>
+        <translation>空</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>exactly one</source>
+        <translation>厳密に一つ</translation>
+    </message>
+    <message>
         <location filename="../src/xmlpatterns/expr/qcastingplatform.cpp" line="+31"/>
         <source>Failure when casting from %1 to %2: %3</source>
         <translation>%1 を %2 に型変換することができません: %3</translation>
@@ -4498,6 +4508,11 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>pragma 構文はサポートされていません。fallback 構文でなければなりません</translation>
     </message>
     <message>
+        <location filename="../src/xmlpatterns/type/qcardinality.cpp" line="+2"/>
+        <source>one or more</source>
+        <translation>一つまたは複数</translation>
+    </message>
+    <message>
         <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-5296"/>
         <source>Only one %1 declaration can occur in the query prolog.</source>
         <translation>クェリーのプロローグでは、%1 は一回のみ宣言できます。</translation>
@@ -4508,14 +4523,14 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>%1 エレメントは一つのみ存在しなければなりません。</translation>
     </message>
     <message>
-        <location filename="../src/xmlpatterns/utils/qxpathhelper_p.h" line="+120"/>
-        <source>Only the Unicode Codepoint Collation is supported(%1). %2 is unsupported.</source>
-        <translation>UNICODE Codepoint Collection のみ使用できます(%1)。 %2 はサポートされていません。</translation>
-    </message>
-    <message>
         <location filename="../src/xmlpatterns/expr/qcomputednamespaceconstructor.cpp" line="+35"/>
         <source>Only the prefix %1 can be bound to %2 and vice versa.</source>
         <translation>プレフィックス %1 は、%2 にのみバウンドできます。逆も同じです。</translation>
+    </message>
+    <message>
+        <location filename="../src/xmlpatterns/utils/qxpathhelper_p.h" line="+120"/>
+        <source>Only the Unicode Codepoint Collation is supported(%1). %2 is unsupported.</source>
+        <translation>UNICODE Codepoint Collection のみ使用できます(%1)。 %2 はサポートされていません。</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/expr/qarithmeticexpression.cpp" line="+224"/>
@@ -4588,21 +4603,6 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>XQuery において、%1 axis はサポートされていません</translation>
     </message>
     <message>
-        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="+278"/>
-        <source>The Schema Import feature is not supported, and therefore %1 declarations cannot occur.</source>
-        <translation>このスキーマのインポート機能は使用できません。また、&apos;%1&apos; 宣言も使用できません。</translation>
-    </message>
-    <message>
-        <location line="+1507"/>
-        <source>The Schema Validation Feature is not supported. Hence, %1-expressions may not be used.</source>
-        <translation>スキーマの検証機能はサポートされていません。よって、&apos;%1&apos; 構文は使用できません。</translation>
-    </message>
-    <message>
-        <location filename="../src/xmlpatterns/functions/qunparsedtextfn.cpp" line="+65"/>
-        <source>The URI cannot have a fragment</source>
-        <translation>この URI はフラグメントをもつことはできません</translation>
-    </message>
-    <message>
         <location filename="../src/xmlpatterns/parser/qxslttokenizer.cpp" line="+2035"/>
         <source>The attribute %1 can only appear on the first %2 element.</source>
         <translation>属性 %1 は、最初の %2 エレメントにのみ指定できます。</translation>
@@ -4639,7 +4639,7 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>ローカル名 %1 のエレメントは、XSLTに存在しません。</translation>
     </message>
     <message>
-        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-2584"/>
+        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-799"/>
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
         <translation>エンコーディング &apos;%1&apos; は無効です。ラテン文字 (空白を除く) からなるもので、正規表現 &apos;%2&apos; にマッチするもののみ使用できます。</translation>
     </message>
@@ -4725,7 +4725,17 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>名前空間 &apos;%1&apos; は予約済です。ユーザ定義の関数では使用することはできません。プレフィックス &apos;%2&apos; が使用できます。</translation>
     </message>
     <message>
-        <location line="+2131"/>
+        <location line="+2254"/>
+        <source>The namespace for a user defined function cannot be empty (try the predefined prefix %1 which exists for cases like this)</source>
+        <translation>ユーザ定義の関数の名前空間は、空であってはなりません。(すでに定義されているプレフィックス &apos;%1&apos; が使用できます)</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>The namespace of a user defined function in a library module must be equivalent to the module namespace. In other words, it should be %1 instead of %2</source>
+        <translation>ライブラリモジュールで使用されている名前空間は、モジュールの名前空間と同一でなければなりません。つまり、&apos;%2&apos; ではなく、&apos;%1&apos; でなければなりません</translation>
+    </message>
+    <message>
+        <location line="-144"/>
         <source>The namespace URI cannot be the empty string when binding to a prefix, %1.</source>
         <translation>プレフィックス &apos;%1&apos; にバインディングする名前空間の URI は、空であってはなりません。</translation>
     </message>
@@ -4739,16 +4749,6 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="+132"/>
         <source>The namespace URI must be a constant and cannot use enclosed expressions.</source>
         <translation>名前空間 URI は、constantでなければなりません。式を含むことはできません。</translation>
-    </message>
-    <message>
-        <location line="-9"/>
-        <source>The namespace for a user defined function cannot be empty (try the predefined prefix %1 which exists for cases like this)</source>
-        <translation>ユーザ定義の関数の名前空間は、空であってはなりません。(すでに定義されているプレフィックス &apos;%1&apos; が使用できます)</translation>
-    </message>
-    <message>
-        <location line="+21"/>
-        <source>The namespace of a user defined function in a library module must be equivalent to the module namespace. In other words, it should be %1 instead of %2</source>
-        <translation>ライブラリモジュールで使用されている名前空間は、モジュールの名前空間と同一でなければなりません。つまり、&apos;%2&apos; ではなく、&apos;%1&apos; でなければなりません</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/functions/qstringvaluefns.cpp" line="+252"/>
@@ -4767,7 +4767,7 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>パメータ %1 が必要です。しかし、対応する %2 がありません。</translation>
     </message>
     <message>
-        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-2740"/>
+        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-2728"/>
         <source>The prefix %1 can not be bound. By default, it is already bound to the namespace %2.</source>
         <translation>プレフィックス &apos;%1&apos; はバウンドできません。デフォルトでは、それは既に名前空間 &apos;%2&apos; にバウンドされています。</translation>
     </message>
@@ -4787,6 +4787,16 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>%1 への二つ目の引数のルートノードは、ドキュメントノードでなければなりません。しかし、%2 はドキュメントノードではありません。</translation>
     </message>
     <message>
+        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="+713"/>
+        <source>The Schema Import feature is not supported, and therefore %1 declarations cannot occur.</source>
+        <translation>このスキーマのインポート機能は使用できません。また、&apos;%1&apos; 宣言も使用できません。</translation>
+    </message>
+    <message>
+        <location line="+1507"/>
+        <source>The Schema Validation Feature is not supported. Hence, %1-expressions may not be used.</source>
+        <translation>スキーマの検証機能はサポートされていません。よって、&apos;%1&apos; 構文は使用できません。</translation>
+    </message>
+    <message>
         <location filename="../src/xmlpatterns/functions/qaggregatefns.cpp" line="+91"/>
         <source>The second argument to %1 cannot be of type %2. It must be of type %3, %4, or %5.</source>
         <translation>%1 への二つ目の引数は、型 %2 であってはなりません。%3, %4, %5 のいずれかである必要があります。</translation>
@@ -4802,9 +4812,14 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>ターゲットとしている名前は、%1 であってはなりません。%2 は無効です。</translation>
     </message>
     <message>
-        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-1494"/>
+        <location filename="../src/xmlpatterns/parser/qquerytransformparser.cpp" line="-3714"/>
         <source>The target namespace of a %1 cannot be empty.</source>
         <translation>名前空間 &apos;%1&apos; は、空であってはなりません。</translation>
+    </message>
+    <message>
+        <location filename="../src/xmlpatterns/functions/qunparsedtextfn.cpp" line="+65"/>
+        <source>The URI cannot have a fragment</source>
+        <translation>この URI はフラグメントをもつことはできません</translation>
     </message>
     <message>
         <location filename="../src/xmlpatterns/parser/qxslttokenizer.cpp" line="+269"/>
@@ -4918,21 +4933,6 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
         <translation>%1 年はむこうです。%2 で始まっています。</translation>
     </message>
     <message>
-        <location filename="../src/xmlpatterns/type/qcardinality.cpp" line="+55"/>
-        <source>empty</source>
-        <translation>空</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>exactly one</source>
-        <translation>厳密に一つ</translation>
-    </message>
-    <message>
-        <location filename="../src/xmlpatterns/type/qcardinality.cpp" line="+2"/>
-        <source>one or more</source>
-        <translation>一つまたは複数</translation>
-    </message>
-    <message>
         <location filename="../src/xmlpatterns/type/qcardinality.cpp" line="+2"/>
         <source>zero or more</source>
         <translation>ゼロまたはそれ以上</translation>
@@ -4959,20 +4959,6 @@ Qt GNU General Public License バージョン 3.0 ライセンスは、GNU GPL �
 <context>
     <name>QPrintDialog</name>
     <message>
-        <location line="+527"/>
-        <source>%1 already exists.
-Do you want to overwrite it?</source>
-        <translation>%1 はすでに存在します。
-上書きしますか?</translation>
-    </message>
-    <message>
-        <location line="-8"/>
-        <source>%1 is a directory.
-Please choose a different file name.</source>
-        <translation>%1 はディレクトリです。
-ファイル名を指定してください。</translation>
-    </message>
-    <message>
         <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="-733"/>
         <source>&amp;Options &lt;&lt;</source>
         <translation>オプション(&amp;O) &lt;&lt;</translation>
@@ -4987,6 +4973,20 @@ Please choose a different file name.</source>
         <location line="-63"/>
         <source>&amp;Print</source>
         <translation>印刷(&amp;P)</translation>
+    </message>
+    <message>
+        <location filename="../src/corelib/plugin/qpluginloader.cpp" line="+527"/>
+        <source>%1 already exists.
+Do you want to overwrite it?</source>
+        <translation>%1 はすでに存在します。
+上書きしますか?</translation>
+    </message>
+    <message>
+        <location line="-8"/>
+        <source>%1 is a directory.
+Please choose a different file name.</source>
+        <translation>%1 はディレクトリです。
+ファイル名を指定してください。</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qprintdialog_qws.cpp" line="+149"/>
@@ -5098,6 +5098,12 @@ Please choose a different file name.</source>
         <location line="+225"/>
         <source>Aliases: %1</source>
         <translation>エイリアス: %1</translation>
+    </message>
+    <message>
+        <location line="+471"/>
+        <location line="+199"/>
+        <source>Unknown</source>
+        <translation>不明</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qpagesetupdialog_unix.cpp" line="+1"/>
@@ -5330,6 +5336,11 @@ Please choose a different file name.</source>
         <translation>ローカルファイル</translation>
     </message>
     <message>
+        <location filename="../src/gui/painting/qprinterinfo_unix.cpp" line="-248"/>
+        <source>locally connected</source>
+        <translation>ローカルに接続しています</translation>
+    </message>
+    <message>
         <source>Number of copies:</source>
         <translation type="obsolete">部数:</translation>
     </message>
@@ -5374,11 +5385,6 @@ Please choose a different file name.</source>
         <translation>印刷</translation>
     </message>
     <message>
-        <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="+75"/>
-        <source>Print To File ...</source>
-        <translation>ファイルへ出力...</translation>
-    </message>
-    <message>
         <location filename="../src/gui/dialogs/qprintdialog_qws.cpp" line="+19"/>
         <source>Print all</source>
         <translation>すべて印刷</translation>
@@ -5406,7 +5412,16 @@ Please choose a different file name.</source>
         <translation>選択された範囲を印刷</translation>
     </message>
     <message>
-        <location line="-123"/>
+        <source>Print to file</source>
+        <translation type="obsolete">ファイルに出力:</translation>
+    </message>
+    <message>
+        <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="+75"/>
+        <source>Print To File ...</source>
+        <translation>ファイルへ出力...</translation>
+    </message>
+    <message>
+        <location filename="../src/gui/dialogs/qprintdialog_qws.cpp" line="-123"/>
         <source>Print to File (PDF)</source>
         <translation>PDFファイルに出力</translation>
     </message>
@@ -5414,10 +5429,6 @@ Please choose a different file name.</source>
         <location line="+1"/>
         <source>Print to File (Postscript)</source>
         <translation>Postscriptファイルに出力</translation>
-    </message>
-    <message>
-        <source>Print to file</source>
-        <translation type="obsolete">ファイルに出力:</translation>
     </message>
     <message>
         <source>Printer</source>
@@ -5456,6 +5467,16 @@ Please choose a different file name.</source>
         <translation>印刷開始ページ番号は、印刷終了ページ番号より小さくなければなりません。</translation>
     </message>
     <message>
+        <source>to</source>
+        <translation type="obsolete">末尾のページ:</translation>
+    </message>
+    <message>
+        <location filename="../src/gui/painting/qprinterinfo_unix.cpp" line="+471"/>
+        <location line="+199"/>
+        <source>unknown</source>
+        <translation>不明</translation>
+    </message>
+    <message>
         <location filename="../src/gui/dialogs/qpagesetupdialog_unix.cpp" line="+1"/>
         <source>US Common #10 Envelope</source>
         <translation>US標準#10封筒</translation>
@@ -5466,30 +5487,9 @@ Please choose a different file name.</source>
         <translation>US Common #10 Envelope (105 x 241mm)</translation>
     </message>
     <message>
-        <location filename="../src/gui/painting/qprinterinfo_unix.cpp" line="+471"/>
-        <location line="+199"/>
-        <source>Unknown</source>
-        <translation>不明</translation>
-    </message>
-    <message>
         <location filename="../src/gui/dialogs/qprintdialog_unix.cpp" line="+48"/>
         <source>Write %1 file</source>
         <translation>ファイル %1 に書き込みました</translation>
-    </message>
-    <message>
-        <location filename="../src/gui/painting/qprinterinfo_unix.cpp" line="-248"/>
-        <source>locally connected</source>
-        <translation>ローカルに接続しています</translation>
-    </message>
-    <message>
-        <source>to</source>
-        <translation type="obsolete">末尾のページ:</translation>
-    </message>
-    <message>
-        <location filename="../src/gui/painting/qprinterinfo_unix.cpp" line="+471"/>
-        <location line="+199"/>
-        <source>unknown</source>
-        <translation>不明</translation>
     </message>
 </context>
 <context>
@@ -5544,14 +5544,14 @@ Please choose a different file name.</source>
         <translation>次のページ</translation>
     </message>
     <message>
-        <location filename="../src/gui/dialogs/qabstractpagesetupdialog.cpp" line="+68"/>
-        <location line="+12"/>
-        <source>Page Setup</source>
+        <location filename="../src/gui/dialogs/qabstractpagesetupdialog.cpp" line="+140"/>
+        <source>Page setup</source>
         <translation>ページの設定</translation>
     </message>
     <message>
-        <location line="+60"/>
-        <source>Page setup</source>
+        <location line="-72"/>
+        <location line="+12"/>
+        <source>Page Setup</source>
         <translation>ページの設定</translation>
     </message>
     <message>
@@ -5657,11 +5657,6 @@ Please choose a different file name.</source>
     </message>
     <message>
         <location/>
-        <source>Color mode</source>
-        <translation>色</translation>
-    </message>
-    <message>
-        <location/>
         <source>Copies</source>
         <translation>印刷部数</translation>
     </message>
@@ -5740,21 +5735,26 @@ Please choose a different file name.</source>
         <source>to</source>
         <translation>末尾のページ</translation>
     </message>
+    <message>
+        <location/>
+        <source>Color mode</source>
+        <translation>色</translation>
+    </message>
 </context>
 <context>
     <name>QPrintWidget</name>
-    <message>
-        <location/>
-        <source>&amp;Name:</source>
-        <translation>名前(&amp;N):</translation>
-    </message>
     <message>
         <location filename="../src/gui/dialogs/qprintwidget.ui"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location/>
+        <location filename="../src/gui/dialogs/qprintsettingsoutput.ui"/>
+        <source>&amp;Name:</source>
+        <translation>名前(&amp;N):</translation>
+    </message>
+    <message>
+        <location filename="../src/gui/dialogs/qprintwidget.ui"/>
         <source>Form</source>
         <translation>書式</translation>
     </message>
@@ -5879,62 +5879,27 @@ Please choose a different file name.</source>
 <context>
     <name>QRegExp</name>
     <message>
-        <location filename="../src/corelib/tools/qregexp.cpp" line="+66"/>
-        <source>Bad character class syntax</source>
-        <translation>不正なcharクラス構文</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Bad lookahead syntax</source>
-        <translation>不正なlookahead構文</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Bad repetition syntax</source>
-        <translation>不正なrepetition構文</translation>
-    </message>
-    <message>
-        <location line="-3"/>
-        <source>Disabled feature used</source>
-        <translation>無効な機能が使用されました</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>Invalid octal value</source>
-        <translation>無効な8進値</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>Met internal limit</source>
-        <translation>内部制限を満たしました</translation>
-    </message>
-    <message>
-        <location line="-2"/>
-        <source>Missing left delim</source>
-        <translation>左の区切り文字がありません</translation>
-    </message>
-    <message>
-        <location line="-6"/>
-        <source>No error occurred</source>
-        <translation>エラーは発生しませんでした</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>Unexpected end</source>
-        <translation>予期しない末尾です</translation>
-    </message>
-    <message>
-        <location filename="../src/corelib/tools/qregexp.cpp" line="+66"/>
+        <location filename="../src/corelib/tools/qregexp.cpp" line="+137"/>
         <source>bad char class syntax</source>
         <translation>不正なcharクラス構文</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-71"/>
+        <source>Bad character class syntax</source>
+        <translation>不正なcharクラス構文</translation>
+    </message>
+    <message>
+        <location line="+72"/>
         <source>bad lookahead syntax</source>
         <translation>不正なlookahead構文</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-71"/>
+        <source>Bad lookahead syntax</source>
+        <translation>不正なlookahead構文</translation>
+    </message>
+    <message>
+        <location line="+72"/>
         <source>bad repetition syntax</source>
         <translation>不正なrepetition構文</translation>
     </message>
@@ -5944,17 +5909,52 @@ Please choose a different file name.</source>
         <translation>無効な機能が使用されました</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="-72"/>
+        <source>No error occurred</source>
+        <translation>エラーは発生しませんでした</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Disabled feature used</source>
+        <translation>無効な機能が使用されました</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Bad repetition syntax</source>
+        <translation>不正なrepetition構文</translation>
+    </message>
+    <message>
+        <location line="+72"/>
         <source>invalid octal value</source>
         <translation>無効な8進値</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="-71"/>
+        <source>Invalid octal value</source>
+        <translation>無効な8進値</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Missing left delim</source>
+        <translation>左の区切り文字がありません</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unexpected end</source>
+        <translation>予期しない末尾です</translation>
+    </message>
+    <message>
+        <location line="+72"/>
         <source>met internal limit</source>
         <translation>内部制限を満たしました</translation>
     </message>
     <message>
-        <location line="-2"/>
+        <location line="-71"/>
+        <source>Met internal limit</source>
+        <translation>内部制限を満たしました</translation>
+    </message>
+    <message>
+        <location line="+69"/>
         <source>missing left delim</source>
         <translation>左の区切り文字がありません</translation>
     </message>
@@ -6160,24 +6160,13 @@ Please choose a different file name.</source>
 <context>
     <name>QSharedMemory</name>
     <message>
-        <location filename="../src/corelib/kernel/qsharedmemory_unix.cpp" line="-58"/>
-        <source>%1: Unix key file doesn&apos;t exist</source>
-        <translatorcomment>?</translatorcomment>
-        <translation>%1: UNIX key file が存在しません</translation>
-    </message>
-    <message>
-        <location filename="../src/corelib/kernel/qsharedmemory_unix.cpp" line="+81"/>
+        <location filename="../src/corelib/kernel/qsharedmemory_unix.cpp" line="+23"/>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="+65"/>
         <source>%1: already exists</source>
         <translation>%1: 既に存在します</translation>
     </message>
     <message>
-        <location filename="../src/corelib/kernel/qsharedmemory.cpp" line="+288"/>
-        <source>%1: create size is less than 0</source>
-        <translation>%1: 0より小さいサイズの共有メモリは作成できません</translation>
-    </message>
-    <message>
-        <location filename="../src/corelib/kernel/qsharedmemory.cpp" line="+288"/>
+        <location filename="../src/corelib/kernel/qsharedmemory.cpp" line="+576"/>
         <source>%1: create size is less then 0</source>
         <translation>%1: 0より小さいサイズの共有メモリは作成できません</translation>
     </message>
@@ -6255,7 +6244,12 @@ Please choose a different file name.</source>
         <translation>%1: ロックするためのキーを設定できません</translation>
     </message>
     <message>
-        <location line="+271"/>
+        <location line="-207"/>
+        <source>%1: create size is less than 0</source>
+        <translation>%1: 0より小さいサイズの共有メモリは作成できません</translation>
+    </message>
+    <message>
+        <location line="+478"/>
         <source>%1: unable to unlock</source>
         <translation>%1: アンロックできません</translation>
     </message>
@@ -6270,6 +6264,12 @@ Please choose a different file name.</source>
         <location filename="../src/corelib/kernel/qsharedmemory_win.cpp" line="-15"/>
         <source>%1: unknown error %2</source>
         <translation>%1: 未知のエラー %2</translation>
+    </message>
+    <message>
+        <location line="-95"/>
+        <source>%1: Unix key file doesn&apos;t exist</source>
+        <translatorcomment>?</translatorcomment>
+        <translation>%1: UNIX key file が存在しません</translation>
     </message>
 </context>
 <context>
@@ -6583,17 +6583,17 @@ Please choose a different file name.</source>
         <translation>Num Lock</translation>
     </message>
     <message>
-        <location line="-54"/>
-        <source>NumLock</source>
-        <translation>NumLock</translation>
-    </message>
-    <message>
-        <location line="+1"/>
+        <location line="-53"/>
         <source>Number Lock</source>
         <translation>Number Lock</translation>
     </message>
     <message>
-        <location line="+27"/>
+        <location line="-1"/>
+        <source>NumLock</source>
+        <translation>NumLock</translation>
+    </message>
+    <message>
+        <location line="+28"/>
         <source>Open URL</source>
         <translation>URLを開く</translation>
     </message>
@@ -6825,13 +6825,13 @@ Please choose a different file name.</source>
         <translation>SOCKS バージョン 5 プロトコルのエラーです</translation>
     </message>
     <message>
+        <source>Socks5 timeout error connecting to socks server</source>
+        <translation type="obsolete">Socks5 はソックスサーバ接続しようとしてタイムアウトになりました</translation>
+    </message>
+    <message>
         <location line="+43"/>
         <source>SOCKSv5 command not supported</source>
         <translation>この SOCKSv5 コマンドはサポートされていません</translation>
-    </message>
-    <message>
-        <source>Socks5 timeout error connecting to socks server</source>
-        <translation type="obsolete">Socks5 はソックスサーバ接続しようとしてタイムアウトになりました</translation>
     </message>
     <message>
         <location line="-4"/>
@@ -7203,17 +7203,17 @@ Please choose a different file name.</source>
 <context>
     <name>QWebFrame</name>
     <message>
-        <location line="-12"/>
-        <source>Cannot show URL</source>
-        <translation>URL を表示できません</translation>
-    </message>
-    <message>
         <location filename="../src/3rdparty/webkit/WebKit/qt/WebCoreSupport/FrameLoaderClientQt.cpp" line="+728"/>
         <source>Cannot show mimetype</source>
         <translation>MIME Type を表示できません</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location filename="../src/gui/text/qtextcontrol.cpp" line="-12"/>
+        <source>Cannot show URL</source>
+        <translation>URL を表示できません</translation>
+    </message>
+    <message>
+        <location filename="../src/3rdparty/webkit/WebKit/qt/WebCoreSupport/FrameLoaderClientQt.cpp" line="+18"/>
         <source>File does not exist</source>
         <translation>ファイルが存在しません</translation>
     </message>
@@ -7235,15 +7235,6 @@ Please choose a different file name.</source>
 </context>
 <context>
     <name>QWebPage</name>
-    <message numerus="yes">
-        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/FileChooserQt.cpp" line="+45"/>
-        <source>
-            </source>
-        <comment>number of chosen file</comment>
-        <translation>
-            <numerusform>%n 個のファイル</numerusform>
-        </translation>
-    </message>
     <message>
         <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="+353"/>
         <source>%1 (%2x%3 pixels)</source>
@@ -7251,8 +7242,17 @@ Please choose a different file name.</source>
         <translation>%1 (%2x%3 ピクセル)</translation>
     </message>
     <message numerus="yes">
-        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/FileChooserQt.cpp" line="+45"/>
+        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/FileChooserQt.cpp" line="+90"/>
         <source>%n file(s)</source>
+        <comment>number of chosen file</comment>
+        <translation>
+            <numerusform>%n 個のファイル</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location line="-45"/>
+        <source>
+            </source>
         <comment>number of chosen file</comment>
         <translation>
             <numerusform>%n 個のファイル</numerusform>
@@ -7431,12 +7431,6 @@ Please choose a different file name.</source>
         <translation>JavaScript 質問 - %1</translation>
     </message>
     <message>
-        <location line="+81"/>
-        <source>LTR</source>
-        <comment>Left to Right context menu item</comment>
-        <translation>左横書き</translation>
-    </message>
-    <message>
         <location filename="../src/3rdparty/webkit/WebCore/platform/qt/ScrollbarQt.cpp" line="-1"/>
         <source>Left edge</source>
         <translation>左端</translation>
@@ -7448,7 +7442,13 @@ Please choose a different file name.</source>
         <translation>辞書から探す</translation>
     </message>
     <message>
-        <location filename="../src/3rdparty/webkit/WebKit/qt/Api/qwebpage.cpp" line="+367"/>
+        <location filename="../src/3rdparty/webkit/WebKit/qt/Api/qwebpage.cpp" line="+81"/>
+        <source>LTR</source>
+        <comment>Left to Right context menu item</comment>
+        <translation>左横書き</translation>
+    </message>
+    <message>
+        <location line="+367"/>
         <source>Move the cursor to the end of the block</source>
         <translation>ブロックの末尾にカーソルを移動</translation>
     </message>
@@ -7509,19 +7509,19 @@ Please choose a different file name.</source>
         <translation>文頭にカーソルを移動</translation>
     </message>
     <message>
-        <location line="+75"/>
-        <source>No Guesses Found</source>
-        <comment>No Guesses Found context menu item</comment>
-        <translation>推測候補はありません</translation>
-    </message>
-    <message>
         <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="-176"/>
         <source>No file selected</source>
         <comment>text to display in file button used in HTML forms when no file is selected</comment>
         <translation>ファイルが選択されていません</translation>
     </message>
     <message>
-        <location line="+116"/>
+        <location filename="../src/3rdparty/webkit/WebKit/qt/Api/qwebpage.cpp" line="+75"/>
+        <source>No Guesses Found</source>
+        <comment>No Guesses Found context menu item</comment>
+        <translation>推測候補はありません</translation>
+    </message>
+    <message>
+        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="+116"/>
         <source>No recent searches</source>
         <comment>Label for only item in menu that appears when clicking on the search field image, when no searches have been performed</comment>
         <translation>検索の履歴はありません</translation>
@@ -7539,19 +7539,19 @@ Please choose a different file name.</source>
         <translation>イメージを開く</translation>
     </message>
     <message>
-        <location line="+95"/>
-        <source>Open Link</source>
-        <comment>Open Link context menu item</comment>
-        <translation>リンクを開く</translation>
-    </message>
-    <message>
-        <location line="-15"/>
+        <location line="+80"/>
         <source>Open in New Window</source>
         <comment>Open in New Window context menu item</comment>
         <translation>新しいウィンドウで開く</translation>
     </message>
     <message>
-        <location line="+56"/>
+        <location line="+15"/>
+        <source>Open Link</source>
+        <comment>Open Link context menu item</comment>
+        <translation>リンクを開く</translation>
+    </message>
+    <message>
+        <location line="+41"/>
         <source>Outline</source>
         <comment>Outline context menu item</comment>
         <translation>アウトライン</translation>
@@ -7583,13 +7583,7 @@ Please choose a different file name.</source>
         <translation>貼り付け</translation>
     </message>
     <message>
-        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="+201"/>
-        <source>RTL</source>
-        <comment>Right to Left context menu item</comment>
-        <translation>右横書き</translation>
-    </message>
-    <message>
-        <location line="+126"/>
+        <location line="+327"/>
         <source>Recent searches</source>
         <comment>label for first item in the menu that appears when clicking on the search field image, used as embedded menu title</comment>
         <translation>検索の履歴</translation>
@@ -7612,7 +7606,13 @@ Please choose a different file name.</source>
         <translation>右端</translation>
     </message>
     <message>
-        <location line="-156"/>
+        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="+90"/>
+        <source>RTL</source>
+        <comment>Right to Left context menu item</comment>
+        <translation>右横書き</translation>
+    </message>
+    <message>
+        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/ScrollbarQt.cpp" line="-156"/>
         <source>Save Image</source>
         <comment>Download Image context menu item</comment>
         <translation>画像を保存</translation>
@@ -7624,7 +7624,7 @@ Please choose a different file name.</source>
         <translation>リンク先を保存...</translation>
     </message>
     <message>
-        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/ScrollbarQt.cpp" line="+8"/>
+        <location line="+8"/>
         <source>Scroll down</source>
         <translation>下へスクロール</translation>
     </message>
@@ -7649,7 +7649,7 @@ Please choose a different file name.</source>
         <translation>上へスクロール</translation>
     </message>
     <message>
-        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="+80"/>
+        <location filename="../src/3rdparty/webkit/WebCore/platform/qt/Localizations.cpp" line="-10"/>
         <source>Search The Web</source>
         <comment>Search The Web context menu item</comment>
         <translation>Web を検索</translation>
@@ -7738,19 +7738,19 @@ Please choose a different file name.</source>
         <translation>停止</translation>
     </message>
     <message>
-        <location line="+5"/>
-        <source>Submit</source>
-        <comment>Submit (input element) alt text for &lt;input&gt; elements with no alt, title, or value</comment>
-        <translation>送信</translation>
-    </message>
-    <message>
-        <location line="-85"/>
+        <location line="-80"/>
         <source>Submit</source>
         <comment>default label for Submit buttons in forms on web pages</comment>
         <translation>送信</translation>
     </message>
     <message>
-        <location line="+191"/>
+        <location line="+85"/>
+        <source>Submit</source>
+        <comment>Submit (input element) alt text for &lt;input&gt; elements with no alt, title, or value</comment>
+        <translation>送信</translation>
+    </message>
+    <message>
+        <location line="+106"/>
         <source>Text Direction</source>
         <comment>Text direction context sub-menu item</comment>
         <translation>テキストの方向</translation>
@@ -7861,12 +7861,6 @@ Please choose a different file name.</source>
 <context>
     <name>QWorkspace</name>
     <message>
-        <location line="-274"/>
-        <location line="+60"/>
-        <source>%1 - [%2]</source>
-        <translation>%1 - [%2]</translation>
-    </message>
-    <message>
         <location filename="../src/gui/widgets/qworkspace.cpp" line="+1102"/>
         <source>&amp;Close</source>
         <translation>閉じる(&amp;C)</translation>
@@ -7892,7 +7886,13 @@ Please choose a different file name.</source>
         <translation>シェードを解除(&amp;U)</translation>
     </message>
     <message>
-        <location line="-1839"/>
+        <location filename="../src/gui/dialogs/qwizard.cpp" line="-274"/>
+        <location line="+60"/>
+        <source>%1 - [%2]</source>
+        <translation>%1 - [%2]</translation>
+    </message>
+    <message>
+        <location filename="../src/gui/widgets/qworkspace.cpp" line="-1839"/>
         <source>Close</source>
         <translation>閉じる</translation>
     </message>
@@ -7931,122 +7931,7 @@ Please choose a different file name.</source>
 <context>
     <name>QXml</name>
     <message>
-        <location filename="../src/xml/sax/qxml.cpp" line="+69"/>
-        <source>Encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation>XML宣言を読み込むにはエンコーディング宣言かスタンドアローン宣言が必要です</translation>
-    </message>
-    <message>
-        <location line="+11"/>
-        <source>Error in the text declaration of an external entity</source>
-        <translation>外部エンティティのテキスト宣言にエラーがあります</translation>
-    </message>
-    <message>
-        <location line="-7"/>
-        <source>Error occurred while parsing comment</source>
-        <translation>コメントの解析中にエラーが発生しました</translation>
-    </message>
-    <message>
-        <location line="-9"/>
-        <source>Error occurred while parsing content</source>
-        <translation>コンテンツの解析中にエラーが発生しました</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>Error occurred while parsing document type definition</source>
-        <translation>ドキュメントタイプの定義を解析中にエラーが発生しました</translation>
-    </message>
-    <message>
-        <location line="-9"/>
-        <source>Error occurred while parsing element</source>
-        <translation>要素の解析中にエラーが発生しました</translation>
-    </message>
-    <message>
-        <location line="+12"/>
-        <source>Error occurred while parsing reference</source>
-        <translation>参照の解析中にエラーが発生しました</translation>
-    </message>
-    <message>
-        <location line="-15"/>
-        <source>Error triggered by consumer</source>
-        <translation>消費者によってエラーが誘発されました</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>External parsed general entity reference not allowed in DTD</source>
-        <translation>解析された外部一般エンティティ参照はDTDで許されていません</translation>
-    </message>
-    <message>
-        <location line="+17"/>
-        <source>External parsed general entity reference not allowed in attribute value</source>
-        <translation>解析された外部一般エンティティ参照は属性値で許されていません</translation>
-    </message>
-    <message>
-        <location line="-2"/>
-        <source>Internal general entity reference not allowed in DTD</source>
-        <translation>内部一般エンティティ参照はDTDで許されていません</translation>
-    </message>
-    <message>
-        <location line="-9"/>
-        <source>Invalid name for processing instruction</source>
-        <translation>処理の指示に無効な名前です</translation>
-    </message>
-    <message>
-        <location line="+6"/>
-        <source>Letter is expected</source>
-        <translation>文字が必要です</translation>
-    </message>
-    <message>
-        <location line="-11"/>
-        <source>More than one document type definition</source>
-        <translation>ドキュメントタイプの定義が複数あります</translation>
-    </message>
-    <message>
-        <location line="-3"/>
-        <source>No error occurred</source>
-        <translation>エラーは発生しませんでした</translation>
-    </message>
-    <message>
-        <location line="+21"/>
-        <source>Recursive entities</source>
-        <translation>再帰的エンティティ</translation>
-    </message>
-    <message>
-        <location line="-9"/>
-        <source>Standalone declaration expected while reading the XML declaration</source>
-        <translation>XML宣言を読み込むにはスタンドアローン宣言が必要です</translation>
-    </message>
-    <message>
-        <location line="-7"/>
-        <source>Tag mismatch</source>
-        <translation>タグが一致しません</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Unexpected character</source>
-        <translation>予期しない文字です</translation>
-    </message>
-    <message>
-        <location line="-5"/>
-        <source>Unexpected end of file</source>
-        <translation>予期せぬファイルの終りです</translation>
-    </message>
-    <message>
-        <location line="+18"/>
-        <source>Unparsed entity reference in wrong context</source>
-        <translation>不正な文脈で解析されないエンティティ参照です</translation>
-    </message>
-    <message>
-        <location line="-11"/>
-        <source>Version expected while reading the XML declaration</source>
-        <translation>XML宣言を読み込むにはバージョンが必要です</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Wrong value for standalone declaration</source>
-        <translation>スタンドアロン宣言として正しくない値です</translation>
-    </message>
-    <message>
-        <location filename="../src/xml/sax/qxml.cpp" line="+69"/>
+        <location filename="../src/xml/sax/qxml.cpp" line="+137"/>
         <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
         <translation>XML宣言を読み込むにはエンコーディング宣言かスタンドアローン宣言が必要です</translation>
     </message>
@@ -8061,17 +7946,132 @@ Please choose a different file name.</source>
         <translation>コメントの解析中にエラーが発生しました</translation>
     </message>
     <message>
-        <location line="-9"/>
+        <location line="-83"/>
+        <source>No error occurred</source>
+        <translation>エラーは発生しませんでした</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Error triggered by consumer</source>
+        <translation>消費者によってエラーが誘発されました</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>External parsed general entity reference not allowed in DTD</source>
+        <translation>解析された外部一般エンティティ参照はDTDで許されていません</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Unexpected end of file</source>
+        <translation>予期せぬファイルの終りです</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>More than one document type definition</source>
+        <translation>ドキュメントタイプの定義が複数あります</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Error occurred while parsing element</source>
+        <translation>要素の解析中にエラーが発生しました</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tag mismatch</source>
+        <translation>タグが一致しません</translation>
+    </message>
+    <message>
+        <location line="+69"/>
         <source>error occurred while parsing content</source>
         <translation>コンテンツの解析中にエラーが発生しました</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="-68"/>
+        <source>Error occurred while parsing content</source>
+        <translation>コンテンツの解析中にエラーが発生しました</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unexpected character</source>
+        <translation>予期しない文字です</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invalid name for processing instruction</source>
+        <translation>処理の指示に無効な名前です</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Version expected while reading the XML declaration</source>
+        <translation>XML宣言を読み込むにはバージョンが必要です</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Wrong value for standalone declaration</source>
+        <translation>スタンドアロン宣言として正しくない値です</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Encoding declaration or standalone declaration expected while reading the XML declaration</source>
+        <translation>XML宣言を読み込むにはエンコーディング宣言かスタンドアローン宣言が必要です</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Standalone declaration expected while reading the XML declaration</source>
+        <translation>XML宣言を読み込むにはスタンドアローン宣言が必要です</translation>
+    </message>
+    <message>
+        <location line="+69"/>
         <source>error occurred while parsing document type definition</source>
         <translation>ドキュメントタイプの定義を解析中にエラーが発生しました</translation>
     </message>
     <message>
-        <location line="-9"/>
+        <location line="-68"/>
+        <source>Error occurred while parsing document type definition</source>
+        <translation>ドキュメントタイプの定義を解析中にエラーが発生しました</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Letter is expected</source>
+        <translation>文字が必要です</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Error occurred while parsing comment</source>
+        <translation>コメントの解析中にエラーが発生しました</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Error occurred while parsing reference</source>
+        <translation>参照の解析中にエラーが発生しました</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Internal general entity reference not allowed in DTD</source>
+        <translation>内部一般エンティティ参照はDTDで許されていません</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>External parsed general entity reference not allowed in attribute value</source>
+        <translation>解析された外部一般エンティティ参照は属性値で許されていません</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unparsed entity reference in wrong context</source>
+        <translation>不正な文脈で解析されないエンティティ参照です</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Recursive entities</source>
+        <translation>再帰的エンティティ</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Error in the text declaration of an external entity</source>
+        <translation>外部エンティティのテキスト宣言にエラーがあります</translation>
+    </message>
+    <message>
+        <location line="+50"/>
         <source>error occurred while parsing element</source>
         <translation>要素の解析中にエラーが発生しました</translation>
     </message>
@@ -8086,17 +8086,17 @@ Please choose a different file name.</source>
         <translation>消費者によってエラーが誘発されました</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <source>external parsed general entity reference not allowed in DTD</source>
-        <translation>解析された外部一般エンティティ参照はDTDで許されていません</translation>
-    </message>
-    <message>
-        <location line="+17"/>
+        <location line="+18"/>
         <source>external parsed general entity reference not allowed in attribute value</source>
         <translation>解析された外部一般エンティティ参照は属性値で許されていません</translation>
     </message>
     <message>
-        <location line="-2"/>
+        <location line="-17"/>
+        <source>external parsed general entity reference not allowed in DTD</source>
+        <translation>解析された外部一般エンティティ参照はDTDで許されていません</translation>
+    </message>
+    <message>
+        <location line="+15"/>
         <source>internal general entity reference not allowed in DTD</source>
         <translation>内部一般エンティティ参照はDTDで許されていません</translation>
     </message>
@@ -8164,12 +8164,12 @@ Please choose a different file name.</source>
 <context>
     <name>QXmlStream</name>
     <message>
-        <location line="+125"/>
-        <source>%1 is an invalid PUBLIC identifier.</source>
-        <translation>%1 は、公開 (PUBLIC) 識別子として無効です。</translation>
+        <location filename="../src/corelib/xml/qxmlstream.cpp" line="+1829"/>
+        <source>, but got &apos;</source>
+        <translation>ですが、取得した表現は以下のものでした &apos;</translation>
     </message>
     <message>
-        <location line="-94"/>
+        <location filename="../src/xml/sax/qxml.cpp" line="+31"/>
         <source>%1 is an invalid encoding name.</source>
         <translation>%1 は無効なエンコーディングの名前です。</translation>
     </message>
@@ -8180,9 +8180,9 @@ Please choose a different file name.</source>
         <translation>%1 は無効な処理指定の名前です。</translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream.cpp" line="+1829"/>
-        <source>, but got &apos;</source>
-        <translation>ですが、取得した表現は以下のものでした &apos;</translation>
+        <location filename="../src/xml/sax/qxml.cpp" line="+94"/>
+        <source>%1 is an invalid PUBLIC identifier.</source>
+        <translation>%1 は、公開 (PUBLIC) 識別子として無効です。</translation>
     </message>
     <message>
         <location filename="../src/corelib/xml/qxmlstream.cpp" line="-168"/>
@@ -8201,14 +8201,7 @@ Please choose a different file name.</source>
         <translation>正しくないエンコードの文脈に遭遇しました。</translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+708"/>
-        <location line="+61"/>
-        <location line="+40"/>
-        <source>Entity &apos;%1&apos; is not declared.</source>
-        <translation>エンティティ &apos;%1&apos; は宣言されていません。</translation>
-    </message>
-    <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+708"/>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+1517"/>
         <location line="+61"/>
         <location line="+40"/>
         <source>Entity &apos;%1&apos; not declared.</source>
@@ -8239,27 +8232,12 @@ Please choose a different file name.</source>
         <translation>無効な名前空間の指定です。</translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream.cpp" line="+107"/>
-        <source>Invalid XML character.</source>
-        <translation>無効な XML 文字です。</translation>
-    </message>
-    <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+232"/>
-        <source>Invalid XML name.</source>
-        <translation>無効な XML 名です。</translation>
-    </message>
-    <message>
-        <location filename="../src/corelib/xml/qxmlstream.cpp" line="+789"/>
-        <source>Invalid XML version string.</source>
-        <translation>無効な XML バージョン指定です。</translation>
-    </message>
-    <message>
-        <location line="+226"/>
+        <location line="+1122"/>
         <source>Invalid attribute in XML declaration.</source>
         <translation>XML 宣言に無効な属性がついています。</translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+158"/>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+390"/>
         <source>Invalid character reference.</source>
         <translation>無効な文字への参照です。</translation>
     </message>
@@ -8279,22 +8257,49 @@ Please choose a different file name.</source>
         <translation>無効な処理命令です。</translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="-277"/>
-        <source>NDATA in parameter entity declaration.</source>
-        <translation>パラメータエンティティの宣言において NDATA があります。</translation>
+        <location filename="../src/corelib/xml/qxmlstream.cpp" line="-69"/>
+        <source>Invalid XML character.</source>
+        <translation>無効な XML 文字です。</translation>
     </message>
     <message>
-        <location line="-221"/>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+217"/>
+        <source>Invalid XML name.</source>
+        <translation>無効な XML 名です。</translation>
+    </message>
+    <message>
+        <location filename="../src/corelib/xml/qxmlstream.cpp" line="+789"/>
+        <source>Invalid XML version string.</source>
+        <translation>無効な XML バージョン指定です。</translation>
+    </message>
+    <message>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="-715"/>
         <source>Namespace prefix &apos;%1&apos; not declared</source>
         <translation>名前空間のブリフィックス &apos;%1&apos; は宣言されていません</translation>
     </message>
     <message>
-        <location line="+300"/>
+        <location line="+31"/>
+        <source>XML declaration is not at start of document.</source>
+        <translation>XML 宣言がドキュメントの先頭にありません。</translation>
+    </message>
+    <message>
+        <location line="+190"/>
+        <source>NDATA in parameter entity declaration.</source>
+        <translation>パラメータエンティティの宣言において NDATA があります。</translation>
+    </message>
+    <message>
+        <location line="-504"/>
+        <location line="+61"/>
+        <location line="+40"/>
+        <source>Entity &apos;%1&apos; is not declared.</source>
+        <translation>エンティティ &apos;%1&apos; は宣言されていません。</translation>
+    </message>
+    <message>
+        <location line="+482"/>
         <source>Opening and ending tag mismatch.</source>
         <translation>開始タグと、終了タグがマッチしません。</translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream.cpp" line="+287"/>
+        <location filename="../src/corelib/xml/qxmlstream.cpp" line="-433"/>
         <source>Premature end of document.</source>
         <translation>ドキュメントが途中で終わっています。</translation>
     </message>
@@ -8351,12 +8356,7 @@ Please choose a different file name.</source>
         <translation>この XML のバージョンはサポートされていません。</translation>
     </message>
     <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+222"/>
-        <source>XML declaration is not at start of document.</source>
-        <translation>XML 宣言がドキュメントの先頭にありません。</translation>
-    </message>
-    <message>
-        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+222"/>
+        <location filename="../src/corelib/xml/qxmlstream_p.h" line="+444"/>
         <source>XML declaration not at start of document.</source>
         <translation>XML 宣言がドキュメントの先頭にありません。</translation>
     </message>

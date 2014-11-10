@@ -5,30 +5,30 @@
     <name>KRecommendButton</name>
     <message>
         <source>Install %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1インストール</translation>
     </message>
 </context>
 <context>
     <name>KWPSRecommend</name>
     <message>
         <source>Software Recommendation</source>
-        <translation type="unfinished"></translation>
+        <translation>推奨ソフト</translation>
     </message>
     <message>
         <source>Would you like to try the following popular software?</source>
-        <translation type="unfinished"></translation>
+        <translation>人気がある以下のソフトを試してみませんか？</translation>
     </message>
     <message>
         <source>Upgrade succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>アップグレードに成功しました。</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>No, thanks</source>
-        <translation type="unfinished"></translation>
+        <translation>結構です</translation>
     </message>
 </context>
 </TS>

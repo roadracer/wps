@@ -6,7 +6,7 @@
     <name>KHomepage</name>
     <message>
         <source>Failed in downloading &quot;%1&quot;.</source>
-        <translation>%1 のダウンロードに失敗しました</translation>
+        <translation>%1 のダウンロードに失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -18,7 +18,7 @@
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>オンラインテンプレートを確認</translation>
     </message>
     <message>
         <source>Create a blank document at startup</source>
@@ -56,7 +56,7 @@
     </message>
     <message>
         <source>docerhomepage</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">docerホームページ</translation>
     </message>
 </context>
 </TS>

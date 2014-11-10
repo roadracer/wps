@@ -2486,6 +2486,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>Presentation Caption</source>
         <translation>Заголовок презентации</translation>
     </message>
+    <message>
+        <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;&lt;b&gt;WPS Office определил потенциальные проблемы безопасности&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Эта презентация содержит ссылки на другие файлы .&lt;/p&gt;&lt;p&gt;&amp;bull;При обновлении ссылок WPS Presentation попытается получить новую информацию. &lt;br&gt;&amp;bull;Если ссылки не будут обновлены, WPS Presentation будет использовать предыдущую информацию.&lt;/p&gt;&lt;p&gt;Обратите внимание, что ссылки на файлы могут использоваться для доступа и обмена конфиденциальной информацией без вашего разрешения и, возможно, выполнять другие вредоносные действия. Не обновляйте ссылки, если вы не доверяете источнику данной презентации.&lt;/p&gt;</translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppdata</name>
@@ -3873,7 +3877,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Pinwheel</source>
         <comment>wpp_sAnimEnterEffectTextPinwheel</comment>
-        <translation></translation>
+        <translation>Колесо</translation>
     </message>
     <message>
         <source>Plus</source>
@@ -6045,7 +6049,7 @@ Layout</source>
     <message>
         <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
         <comment>WP_TEMPLATEFILE</comment>
-        <translation>Шаблон WPS Presentation(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Шаблон презентации Microsoft PowerPoint 97/2000/XP/2003 (*.pot)|*.pot|Презентация Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)|*.ppt</translation>
+        <translation type="obsolete">Шаблон WPS Presentation(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Шаблон презентации Microsoft PowerPoint 97/2000/XP/2003 (*.pot)|*.pot|Презентация Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)|*.ppt</translation>
     </message>
     <message>
         <source>Apply Design Template</source>
@@ -6561,6 +6565,11 @@ Check</source>
         <source>Play Background Music</source>
         <comment>WpBkSoundButton</comment>
         <translation>Воспроизвести фоновую музыку</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
+        <comment>WP_TEMPLATEFILE</comment>
+        <translation>Общие файлы(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</translation>
     </message>
 </context>
 </TS>

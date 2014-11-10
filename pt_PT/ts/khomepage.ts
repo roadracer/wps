@@ -48,9 +48,5 @@
         <comment>title</comment>
         <translation>Templates Online</translation>
     </message>
-    <message>
-        <source>docerhomepage</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 </TS>

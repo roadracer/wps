@@ -43,7 +43,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <message>
         <source>Clearing backup files completed.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean succeed</extracomment>
-        <translation>L&apos;effacement des fichiers de sauvegarde est terminé.</translation>
+        <translation>L&apos;effacement des fichiers de sauvegarde a réussi.</translation>
     </message>
     <message>
         <source>Clearing backup files completed, but some files cannot be deleted for being occupied.</source>
@@ -71,7 +71,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Completing the configuration...</source>
-        <translation>Fin de la configuration...</translation>
+        <translation>Configuration en cours...</translation>
     </message>
     <message>
         <source>Version switch will complete after restarting.</source>
@@ -90,50 +90,50 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Update Online.lnk</source>
-        <translation type="unfinished">Update Online.lnk</translation>
+        <translation>Update Online.lnk</translation>
     </message>
     <message>
         <source>WPS Writer.lnk</source>
-        <translation type="unfinished">WPS Writer.lnk</translation>
+        <translation>WPS Writer.lnk</translation>
     </message>
     <message>
         <source>WPS Presentation.lnk</source>
-        <translation type="unfinished">WPS Presentation.lnk</translation>
+        <translation>WPS Presentation.lnk</translation>
     </message>
     <message>
         <source>WPS Spreadsheets.lnk</source>
-        <translation type="unfinished">WPS Spreadsheets.lnk</translation>
+        <translation>WPS Spreadsheets.lnk</translation>
     </message>
     <message>
         <source>WPS Wenzi.lnk</source>
-        <translation type="unfinished">WPS Wenzi.lnk</translation>
+        <translation>WPS Wenzi.lnk</translation>
     </message>
     <message>
         <source>WPS Yanshi.lnk</source>
-        <translation type="unfinished">WPS Yanshi.lnk</translation>
+        <translation>WPS Yanshi.lnk</translation>
     </message>
     <message>
         <source>WPS Biaoge.lnk</source>
-        <translation type="unfinished">WPS Biaoge.lnk</translation>
+        <translation>WPS Biaoge.lnk</translation>
     </message>
     <message>
         <source>KS Wenzi.lnk</source>
-        <translation type="unfinished">KS Wenzi.lnk</translation>
+        <translation>KS Wenzi.lnk</translation>
     </message>
     <message>
         <source>KS Yanshi.lnk</source>
-        <translation type="unfinished">KS Yanshi.lnk</translation>
+        <translation>KS Yanshi.lnk</translation>
     </message>
     <message>
         <source>KS Biaoge.lnk</source>
-        <translation type="unfinished">KS Biaoge.lnk</translation>
+        <translation>KS Biaoge.lnk</translation>
     </message>
 </context>
 <context>
     <name>KHomePage</name>
     <message>
         <source>Unlock the IE homepage may have the homepage maliciously modified by Trojans. Are you sure to unlock it?</source>
-        <translation>Si elle est déverrouillée, la page d&apos;accueil IE peut être modifiée de façon malveillante par des chevaux de Troie. Voulez-vous vraiment la déverrouiller ?</translation>
+        <translation>Si vous déverrouillez la page d&apos;accueil IE, elle peut être modifiée de façon malveillante par des chevaux de Troie. Voulez-vous vraiment la déverrouiller ?</translation>
     </message>
 </context>
 <context>
@@ -164,7 +164,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <message>
         <source>The serial number is invalid. Please confirm it.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Product Management Center -&gt; add -&gt; add an invalid SN.</extracomment>
-        <translation>Le numéro de série n&apos;est pas valide. Veuillez confirmer.</translation>
+        <translation>Le numéro de série est invalide. Veuillez confirmer.</translation>
     </message>
 </context>
 <context>
@@ -245,6 +245,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
         <translation>Utiliser WPS Cloud Office pour un travail d&apos;équipe collaboré.</translation>
     </message>
+    <message>
+        <source>What&apos;s New.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View what&apos;s new file</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -313,7 +321,7 @@ Cette option vous permet de corriger les erreurs rencontrées lors de l&apos;uti
         <source>General Repair/Configuration Tools
 You can fix the errors encountered when using WPS Office or make advanced settings here.</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation>Outils de configuration et de réparation générale 
+        <translation>Outils de configuration et de réparation générale
 Cette option vous permet de corriger les erreurs rencontrées lors de l&apos;utilisation de WPS Office ou d&apos;effectuer des réglages avancés.</translation>
     </message>
     <message>
@@ -341,7 +349,7 @@ Nous ferons de notre mieux pour réparer les applications et restaurer leur éta
     <message>
         <source>E&amp;xit</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation>Q&amp;uitter</translation>
+        <translation>Quitter(&amp;X）</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
@@ -369,7 +377,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>WPS Office provides you with a platform to install plug-ins, so that you can easily install and use kinds of extended plug-ins. If this platform caused inconvenience to your work, you can choose whether to enable it.</source>
-        <translation>WPS Office offre une plateforme sur laquelle vous pouvez facilement installer et utiliser différents types de plug-ins complets. Si cette plateforme entrave votre travail, vous pouvez la désactiver.</translation>
+        <translation>WPS Office offre une plateforme sur laquelle vous pouvez facilement installer et utiliser des différents types de plug-ins complets. Si cette plateforme entrave votre travail, vous pouvez la désactiver.</translation>
     </message>
     <message>
         <source>&amp;Enable plug-in platform</source>
@@ -411,7 +419,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>The clearing operation may not affect your original files. But please make sure there are no files need to be recovered before clearing them. Please check the check boxes that you need to clear separately and then click Start Clearing button.</source>
-        <translation>Il se peut que l&apos;effacement n&apos;affecte pas vos fichiers originaux. Assurez-vous qu&apos;aucun fichier ne doit être récupéré avant de procéder à l&apos;effacement. Cochez les cases à effacer séparément, puis cliquez sur le bouton Démarrer l&apos;effacement.</translation>
+        <translation>L&apos;effacement n&apos;affectera pas vos fichiers originaux. Mais avant l&apos;effacement, veuillez assurer qu&apos;aucun fichier ne nécessite une récupération. Cochez les cases pour choisir les fichiers à effacer séparément, puis cliquez sur le bouton Démarrer l&apos;effacement.</translation>
     </message>
     <message>
         <source>Click here to browse backup files</source>
@@ -462,11 +470,11 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>You are using the latest version of WPS Office which has greatly improved and enhanced in functionality and performance. We recommend that you use the new version. However, you can according to your need to return to the pre-upgrade version.</source>
-        <translation>Vous utilisez la dernière version de WPS Office qui a été sensiblement améliorée et enrichie de fonctionnalités et de performances. Nous vous recommandons d&apos;utiliser la nouvelle version. Cependant, vous pouvez revenir à la version précédente en fonction de vos besoins.</translation>
+        <translation>Vous utilisez la dernière version de WPS Office qui a été améliorée et enrichie de fonctionnalités et de performances. Nous vous recommandons de l&apos;utiliser. Cependant, vous pouvez revenir à la version précédente en fonction de vos besoins.</translation>
     </message>
     <message>
         <source>Click the button below to switch to the old version, you must restart WPS Office for the action to take effect.</source>
-        <translation>Cliquez sur le bouton ci-dessous pour revenir à l&apos;ancienne version. Vous devez redémarrer WPS Office pour que cette action soit prise en compte.</translation>
+        <translation>Cliquez sur le bouton ci-dessous pour revenir à l&apos;ancienne version. Vous devez redémarrer WPS Office pour activer cette action.</translation>
     </message>
     <message>
         <source>Switch to old version(&amp;R)</source>
@@ -482,7 +490,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Click the button below to switch to the new version, you must restart WPS Office for the action to take effect.</source>
-        <translation>Cliquez sur le bouton ci-dessous pour passer à la nouvelle version. Vous devez redémarrer WPS Office pour que cette action soit prise en compte.</translation>
+        <translation>Cliquez sur le bouton ci-dessous pour passer à la nouvelle version. Vous devez redémarrer WPS Office pour activer cette action.</translation>
     </message>
     <message>
         <source>You are using an older version of WPS Office. The new version has greatly improved and enhanced in functionality and performance. We recommend that you use the new version.</source>
@@ -514,16 +522,16 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>Here you can set WPS Office Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. 
 These operations can be undone. </source>
-        <translation>Cette option vous permet de définir les applications Office WPS comme applications par défaut pour ouvrir les fichiers communs. Vous pouvez également restaurer les associations de fichiers originaux ou enregistrer les fichiers dans un format normal. Après le réglage, cliquez sur OK pour confirmer l&apos;association de fichier. 
+        <translation>Cette option vous permet de définir les applications Office WPS comme applications par défaut pour ouvrir les fichiers. Vous pouvez également restaurer les associations de fichiers originaux ou enregistrer les fichiers dans un format normal. Après le réglage, cliquez sur OK pour confirmer l&apos;association de fichier. 
 Ces opérations peuvent être annulées. </translation>
     </message>
     <message>
         <source>If you choose the options below, document objects embedded will be opened by WPS Office which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation>Si vous choisissez les options ci-dessous, les objets de document intégrés seront ouverts par WPS Office, qui peut également être intégré aux logiciels tiers ou à un système tel que le navigateur IE et OA.</translation>
+        <translation>Si vous choisissez les options ci-dessous, les objets intégrés de fichier seront ouverts par WPS Office, qui peut également être intégré aux logiciels tiers ou à un système tel que le navigateur IE et OA.</translation>
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by WPS Office Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
-        <translation>Cochez les cases ci-dessous. Les fichiers spécifiés seront ouverts par les applications WPS Office. Sinon, ils seront ouverts par les applications d&apos;origine associées.</translation>
+        <translation>Cochez les cases ci-dessous, les fichiers spécifiés seront ouverts par les applications WPS Office. Sinon, ils seront ouverts par les applications d&apos;origine associées.</translation>
     </message>
     <message>
         <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
@@ -539,19 +547,19 @@ Ces opérations peuvent être annulées. </translation>
     </message>
     <message>
         <source>WPS Office will save related documents in the following selected formats. Other documents will be saved in WPS Office formats.</source>
-        <translation>WPS Office enregistre les documents associés dans les formats sélectionnés suivants. Les autres documents seront enregistrés dans les formats WPS Office.</translation>
+        <translation>WPS Office enregistrera les fichiers associés dans les formats sélectionnés suivants. Les autres documents seront enregistrés dans les formats WPS Office.</translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation>Nouveaux documents WPS Writer enregistrés au format *.&amp;doc par défaut</translation>
+        <translation>WPS Writer Nouveaux documents enregistrés au format *.&amp;doc par défaut</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation>Nouveaux documents WPS Spreadsheets enregistrés au format *.&amp;xls par défaut</translation>
+        <translation>WPS Spreadsheets Nouveaux documents enregistrés au format *.&amp;xls par défaut</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation>Nouveaux documents WPS Presentation enregistrés au format *.pp&amp;t par défaut</translation>
+        <translation>WPS Presentation Nouveaux documents enregistrés au format *.pp&amp;t par défaut</translation>
     </message>
     <message>
         <source>File Associations</source>
@@ -565,6 +573,14 @@ Ces opérations peuvent être annulées. </translation>
     <message>
         <source>&amp;Compatible with third-party software</source>
         <translation>&amp;Compatible avec les logiciels tiers</translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2003</source>
+        <translation>Compatible avec Microsoft Office 2003(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2007</source>
+        <translation>Compatible avec Microsoft Office 2007(&amp;R)</translation>
     </message>
     <message>
         <source>The option &quot;Compatible with third-party software&quot;
@@ -582,8 +598,7 @@ soit prise en compte.</translation>
         <source>The option &quot;Compatible with third-party software&quot;
 needs restarting Windows to take effect.</source>
         <extracomment>ksomisc -&gt; Advanced -&gt; File Asso -&gt; Check/Uncheck compat with mso.</extracomment>
-        <translation>Vous devez redémarrer Windows pour que l&apos;option &quot;Compatible avec les logiciels tiers&quot; 
-soit prise en compte.</translation>
+        <translation>Vous devez redémarrer Windows pour que l&apos;option &quot;Compatible avec les logiciels tiers&quot; prenne effet.</translation>
     </message>
 </context>
 <context>
@@ -602,7 +617,7 @@ soit prise en compte.</translation>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation>La page d&apos;accueil IE peut être déverrouillée. Note : si la page est déverrouillée, elle risque d&apos;être exposée à des virus et vos comptes sont susceptibles d&apos;être piratés.</translation>
+        <translation>La page d&apos;accueil IE peut être déverrouillée. Note : si la page est déverrouillée, vous risquez d&apos;être exposée à des virus et vos comptes sont susceptibles d&apos;être piratés.</translation>
     </message>
 </context>
 <context>
@@ -617,7 +632,7 @@ soit prise en compte.</translation>
     </message>
     <message>
         <source>If toolbar buttons are mixed up, please close all WPS Office applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
-        <translation>Si les boutons de la barre d&apos;outils sont mélangés, fermez toutes les applications WPS Office et cliquez sur le bouton ci-dessous pour restaurer l&apos;état d&apos;origine des barres d&apos;outils. Les réparations seront prises en compte après le redémarrage de votre ordinateur.</translation>
+        <translation>Si les boutons de la barre d&apos;outils sont mélangés, fermez toutes les applications WPS Office et cliquez sur le bouton ci-dessous pour restaurer l&apos;état d&apos;origine des barres d&apos;outils. Les réparations prendre effet après le redémarrage de votre ordinateur.</translation>
     </message>
     <message>
         <source>Reset &amp;Toolbars</source>
@@ -724,7 +739,7 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     </message>
     <message>
         <source>The loss of components in the system registry may cause errors to occur when using WPS Office, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
-        <translation>La perte de composants dans le registre du système peut provoquer des erreurs lors de l&apos;utilisation de WPS Office (vous pouvez, par exemple, ne pas être en mesure de lancer d&apos;autres applications). Cliquez sur le bouton ci-dessous pour essayer de réparer. La réparation sera prise en compte après le redémarrage.</translation>
+        <translation>La perte de composants dans le registre du système peut provoquer des erreurs lors de l&apos;utilisation de WPS Office (comme démarrage impossible). Cliquez sur le bouton ci-dessous pour essayer de les réparer. La réparation prendra effet après le redémarrage.</translation>
     </message>
     <message>
         <source>Register components</source>
@@ -834,7 +849,7 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     </message>
     <message>
         <source>If repair fails, and the errors still exist after you have tried the repair operations above, you may need to repair currently damaged system files.</source>
-        <translation>Si, après avoir essayé les méthodes de réparation indiquées ci-dessus, la réparation échoue et les erreurs persistent, il se peut que vous deviez réparer les fichiers système actuellement endommagés.</translation>
+        <translation>Si vous avez  essayé les méthodes de réparation indiquées ci-dessus et les erreurs existent encore, il se peut que vous deviez réparer les fichiers système actuellement endommagés.</translation>
     </message>
     <message>
         <source>Please backup files you are working on properly and close all WPS Office applications, then click the Repair Install below to reinstall.</source>
@@ -842,7 +857,7 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     </message>
     <message>
         <source>We are sure this operation will not destroy any files you have created.</source>
-        <translation>Aucun des fichiers que vous avez créés ne sera détruit.</translation>
+        <translation>Aucun fichiers que vous avez créés ne sera endommagé.</translation>
     </message>
     <message>
         <source>&amp;Repair Install</source>
@@ -850,7 +865,7 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     </message>
     <message>
         <source>Note: After clicking the button above, the message will be closed automatically. If you have other requirements, please reopen the tab after the Repair Installation is completed.</source>
-        <translation>Note : après avoir cliqué sur le bouton ci-dessus, le message sera automatiquement fermé. Si vous avez besoin d&apos;effectuer d&apos;autres opérations, rouvrez l&apos;onglet après la réparation de l&apos;installation.</translation>
+        <translation>Note : après avoir cliqué sur le bouton ci-dessus, cette boîte de dialogue sera fermé automatiquement. Si vous avez besoin d&apos;effectuer d&apos;autres opérations, rouvrez l&apos;onglet après la réparation de l&apos;installation.</translation>
     </message>
 </context>
 <context>
@@ -863,15 +878,15 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>WPS Office offers multiple sets of interface schemes with different themes.
 The button icon, command group and task window position of each scheme are different. If you want a novel interface, you can choose the Modern Theme (WPS Office 2012 theme and WPS Office 2013 theme); if you are used to Office product, you can choose the Classic Theme.</source>
         <translation>WPS Office propose plusieurs ensembles de modèles d&apos;interface avec différents thèmes. 
-La position de l&apos;icône bouton, du groupe de commandes et de la fenêtre des tâches n&apos;est pas la même sur chaque modèle. Si vous voulez une interface innovante, vous pouvez choisir le thème moderne (inclus dans WPS Office 2012 et WPS Office 2013), mais si vous êtes habitué au produit Office, vous pouvez choisir le thème classique.</translation>
+Chaque modèle a son style unique . Si vous voulez une interface innovante, vous pouvez choisir le thème moderne (inclus dans WPS Office 2012 et WPS Office 2013), mais si vous êtes habitué au produit Office, vous pouvez choisir le thème classique.</translation>
     </message>
     <message>
         <source>Please select interface schemes:</source>
-        <translation>Sélectionnez les modèles d&apos;interface :</translation>
+        <translation>Sélectionnez les thèmes d&apos;interface :</translation>
     </message>
     <message>
         <source>&amp;Change Scheme</source>
-        <translation>&amp;Modifier le modèle</translation>
+        <translation>&amp;Modifier le thème</translation>
     </message>
     <message>
         <source>Modern Theme</source>
@@ -909,7 +924,7 @@ La position de l&apos;icône bouton, du groupe de commandes et de la fenêtre de
     </message>
     <message>
         <source>Caution:After clicking the Change Scheme button, changes may take effect after restarting WPS Office.</source>
-        <translation>Attention : après avoir cliqué sur le bouton Modifier le modèle, il se peut que les modifications ne soient prises en compte qu&apos;après le redémarrage de WPS Office.</translation>
+        <translation>Attention : après avoir modifié le thème, vous devez redémarrer WPS Office pour que la modification prenne effet.</translation>
     </message>
     <message>
         <source>Theme successfully changed.</source>
@@ -927,6 +942,317 @@ La position de l&apos;icône bouton, du groupe de commandes et de la fenêtre de
     <message>
         <source>WPS Office Configuration Tools</source>
         <translation>Outils de configuration de WPS Office</translation>
+    </message>
+</context>
+<context>
+    <name>KRegistrarScriptResource</name>
+    <message>
+        <source>WPS Spreadsheets Chart</source>
+        <translation>WPS Spreadsheets Graphique</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>Graphique</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>&amp;Edit</source>
+        <translation>Modifier(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation>Ouvrir(&amp;O)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Workbook</source>
+        <translation>WPS Spreadsheets Classeur</translation>
+    </message>
+    <message>
+        <source>&amp;New</source>
+        <translation>Nouveau(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation>Imprimer(&amp;P)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Template</source>
+        <translation>WPS Spreadsheets Modèle</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Application</source>
+        <translation>Microsoft Office Excel Application</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Sheet</source>
+        <translation>Microsoft Excel Feuil</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Workbook</source>
+        <translation>Microsoft Office Excel 2007 Classeur</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Chart</source>
+        <translation>Microsoft Excel Graphique</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Macro-Enabled Workbook</source>
+        <translation>Microsoft Office Excel 2007 Classeur prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Binary Workbook</source>
+        <translation>Microsoft Office Excel 2007 Classeur binaire</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Add-In</source>
+        <translation>Microsoft Excel Macro complémentaire</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Chart</source>
+        <translation>Microsoft Office Excel Graphique</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel SLK File</source>
+        <translation>Microsoft Excel SLK Fichier</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel CSV Text</source>
+        <translation>Microsoft Office Excel  Fichier de valeurs séparées par des virgules</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Sheet</source>
+        <translation>Microsoft Office Excel Feuil</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Template</source>
+        <translation>Microsoft Excel Modèle</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Application</source>
+        <translation>Microsoft Word Application</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Template</source>
+        <translation>Microsoft Excel Modèle prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>Macro-Enabled Sheet</source>
+        <translation>Feuil de calcul prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Template</source>
+        <translation>Microsoft Office Excel Modèle</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Add-In</source>
+        <translation>Microsoft Office Excel Macro complémentaire</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Web Query File</source>
+        <translation>Microsoft Office Excel Web Fichier requête</translation>
+    </message>
+    <message>
+        <source>&amp;Open in WPS Spreadsheets</source>
+        <translation>Ouvrir avec WPS Spreadsheets(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook</source>
+        <translation>Microsoft Excel Feuil</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Slide</source>
+        <translation>Microsoft PowerPoint Diapositive</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Template</source>
+        <translation>Microsoft PowerPoint Modèle</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Slide</source>
+        <translation>Microsoft PowerPoint 2007 Diapositive</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Macro-Enabled Slide</source>
+        <translation>Microsoft PowerPoint 2007 Diapositive prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Template</source>
+        <translation>Microsoft PowerPoint 2007 Modèle</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation</source>
+        <translation>Microsoft PowerPoint Présentation</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Slide Show	</source>
+        <translation type="obsolete">Microsoft PowerPoint Diaporama</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Application</source>
+        <translation>Microsoft PowerPoint Application</translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation>Présentation</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation</source>
+        <translation>Microsoft PowerPoint 97-2003 Présentation</translation>
+    </message>
+    <message>
+        <source>PowerPoint Presentation</source>
+        <translation>PowerPoint Présentation</translation>
+    </message>
+    <message>
+        <source>S&amp;how</source>
+        <translation>Afficher(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Slide</source>
+        <translation>Diapositive</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Slide</source>
+        <translation>Microsoft PowerPoint 97-2003 Diapositive</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Presentation</source>
+        <translation>Microsoft Office PowerPoint 2007 Présentation</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Presentation</source>
+        <translation>Microsoft Office PowerPoint 2007 Présentation prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Slide</source>
+        <translation>Microsoft Office PowerPoint 2007 Diapositive</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Show</source>
+        <translation>Microsoft Office PowerPoint 2007 Diaporama  prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Show</source>
+        <translation>Microsoft Office PowerPoint 2007 Diaporama</translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Slide</source>
+        <translation>Microsoft Office PowerPoint 2007 Diapositive prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 07 Template</source>
+        <translation>Microsoft PowerPoint 07 Modèle</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word Application</source>
+        <translation>Microsoft Office Word Application</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Document</source>
+        <translation>Microsoft Word Document</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word 2007 Document</source>
+        <translation>Microsoft Office Word 2007 Document</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Document</source>
+        <translation>Microsoft Word Document prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Picture</source>
+        <translation>Microsoft Word Image</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 6.0 - 7.0 Document</source>
+        <translation>Microsoft Word 6.0 - 7.0 Document</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 6.0 - 7.0 Picture</source>
+        <translation>Microsoft Word 6.0 - 7.0 Image</translation>
+    </message>
+    <message>
+        <source>RTF Format</source>
+        <translation>Format RTF</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Template</source>
+        <translation>Microsoft Word Modèle</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word 2007 Macro-Enabled Document</source>
+        <translation>Microsoft Office Word 2007 Document prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Template</source>
+        <translation>Microsoft Word Modèle prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>Macro-Enabled Template</source>
+        <translation>Modèle prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>RTF Text</source>
+        <translation>RTF Fichier</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007 Template</source>
+        <translation>Microsoft Word 2007 Modèle</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007 Macro-Enabled Template</source>
+        <translation>Microsoft Word 2007 Modèle prenant en charge les macros</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Document</source>
+        <translation>WPS Presentation Document</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template</source>
+        <translation>WPS Presentation modèle</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer Document</source>
+        <translation>WPS Writer Document</translation>
+    </message>
+    <message>
+        <source>WPS Writer Template	</source>
+        <translation type="obsolete">WPS Writer Modèle</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Slide Show</source>
+        <translation>Microsoft PowerPoint Diaporama</translation>
+    </message>
+    <message>
+        <source>WPS Writer Template</source>
+        <translation>WPS Writer Modèle</translation>
+    </message>
+    <message>
+        <source>&amp;Edit,0,2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open,0,2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Equation 3.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -968,7 +1294,7 @@ La position de l&apos;icône bouton, du groupe de commandes et de la fenêtre de
     </message>
     <message>
         <source>The following settings provide timely updates for your product, ensuring that you receive the latest patches. You may have to restart the applications for the settings to take effect.</source>
-        <translation>Les paramètres suivants fournissent des mises à jour en temps réel de votre produit pour vous assurer que vous recevez les derniers correctifs. Il se peut que vous deviez redémarrer les applications pour que les paramètres soient pris en compte.</translation>
+        <translation>Les paramètres suivants fournissent des mises à jour en temps réel de votre produit pour vous assurer que vous recevez les derniers correctifs. Il se peut que vous deviez redémarrer les applications pour que les paramètres prenne effet.</translation>
     </message>
     <message>
         <source>Update Mode:</source>
@@ -980,7 +1306,7 @@ La position de l&apos;icône bouton, du groupe de commandes et de la fenêtre de
     </message>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation>&amp;Télécharger des mises à jour mais me laisser choisir s&apos;il convient de les installer</translation>
+        <translation>&amp;Télécharger des mises à jour mais me laisser choisir le temps d&apos;installation.</translation>
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
@@ -1057,7 +1383,7 @@ La position de l&apos;icône bouton, du groupe de commandes et de la fenêtre de
     </message>
     <message>
         <source>WPS Office is running, please reopen configuration tools after closing the program.</source>
-        <translation>WPS Office est en cours d&apos;exécution. Rouvrez les outils de configuration après la fermeture du programme.</translation>
+        <translation>WPS Office est en cours d&apos;exécution. Veulliez rouvrez les outils de configuration après la fermeture du programme.</translation>
     </message>
 </context>
 <context>
