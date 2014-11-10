@@ -4051,7 +4051,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Skin Management</source>
-        <translation>Управление стилями интерфейсов</translation>
+        <translation>Управление стилями интерфейса</translation>
     </message>
 </context>
 <context>

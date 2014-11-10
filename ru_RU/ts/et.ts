@@ -10289,7 +10289,7 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Print object</source>
-        <translation>&amp;Печать объекта</translation>
+        <translation>&amp;Выводить объект на печать</translation>
     </message>
 </context>
 <context>
