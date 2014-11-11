@@ -17,6 +17,7 @@ Instalacja w Gentoo:
 	$ sudo emerge dev-qt/qtcore dev-qt/linguist
 	
 Instalacja w Fedora:
+
 	$ sudo yum install qt-devel
 
 Instrukcja instalacji Windows
