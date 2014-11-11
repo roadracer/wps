@@ -52,6 +52,7 @@
     </message>
     <message>
         <source>Notes:</source>
+        <translatorcomment>Notatki:</translatorcomment>
         <translation>Uwagi:</translation>
     </message>
     <message>
@@ -64,7 +65,7 @@
     </message>
     <message>
         <source>The most number of caption is 5.</source>
-        <translation>Największą liczbą tytułów jest 5.</translation>
+        <translation>Największa liczba podpisów wynosi 5.</translation>
     </message>
 </context>
 <context>

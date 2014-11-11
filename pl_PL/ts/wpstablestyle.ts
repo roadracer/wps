@@ -83,43 +83,43 @@
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak stylu, bez siatki</translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl motywu</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak stylu, z siatką</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl jasny</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl pośredni</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl ciemny</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl ciemny 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl ciemny 2-Wyróżnienie 1/Wyróżnienie 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</translation>
     </message>
 </context>
 <context>
@@ -199,87 +199,87 @@
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak stylu, bez siatki</translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl motywu</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak stylu, z siatką</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl jasny</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl pośredni</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl ciemny</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl ciemny 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl ciemny 2-Wyróżnienie 1/Wyróżnienie 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Pierwszy wiersz</translation>
+        <translation>Pierwszy wiersz</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Pierwsza kolumna</translation>
+        <translation>Pierwsza kolumna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Ostatni wiersz</translation>
+        <translation>Ostatni wiersz</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Ostatnia kolumna</translation>
+        <translation>Ostatnia kolumna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">Wiersze naprzemienne</translation>
+        <translation>Wiersze naprzemienne</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Kolumny naprzemienne</translation>
+        <translation>Kolumny naprzemienne</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwszy wiersz i pierwsza kolumna</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwszy wiersz i ostatni wiersz</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasny</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Pośredni</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny</translation>
     </message>
 </context>
 <context>
@@ -302,47 +302,47 @@
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished">Pierwszy wiersz</translation>
+        <translation>Pierwszy wiersz</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished">Pierwsza kolumna</translation>
+        <translation>Pierwsza kolumna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished">Ostatni wiersz</translation>
+        <translation>Ostatni wiersz</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished">Ostatnia kolumna</translation>
+        <translation>Ostatnia kolumna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished">Wiersze naprzemienne</translation>
+        <translation>Wiersze naprzemienne</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished">Kolumny naprzemienne</translation>
+        <translation>Kolumny naprzemienne</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwszy wiersz i pierwsza kolumna</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwszy wiersz i ostatni wiersz</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasny</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Pośredni</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny</translation>
     </message>
 </context>
 <context>
