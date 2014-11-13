@@ -5921,7 +5921,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Show &amp;spelling errors ignored in this document</source>
-        <translation>Показать &amp;орфографические ошибки пропущенные в этом документе</translation>
+        <translation>Показать &amp;орфографические ошибки, пропущенные в этом документе</translation>
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
@@ -13544,7 +13544,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message utf8="true">
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Примечание: следующие параметры быть защищены от изменений другими пользователями только при установленном пароле.</translation>
+        <translation>Примечание: следующие параметры могут быть защищены от изменений другими пользователями только при установленном пароле.</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>

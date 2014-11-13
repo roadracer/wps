@@ -5531,7 +5531,7 @@ Picture</source>
         <source>Compress
 Pictures</source>
         <translation>Сжать
-изображения</translation>
+изображение</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -21324,7 +21324,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Сжать изображения</translation>
+        <translation>Сжать изображение</translation>
     </message>
     <message>
         <source>Connector</source>

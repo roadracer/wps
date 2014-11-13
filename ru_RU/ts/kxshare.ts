@@ -5388,7 +5388,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;All pictures in document</source>
-        <translation>Ко &amp;всем изображениям документа</translation>
+        <translation>ко &amp;всем изображениям документа</translation>
     </message>
     <message>
         <source>Change resolution</source>
@@ -5396,7 +5396,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Web/Screen</source>
-        <translation>для &amp;Интернета и экрана</translation>
+        <translation>Для &amp;Интернета и экрана</translation>
     </message>
     <message>
         <source>&amp;Print</source>
