@@ -3381,7 +3381,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Enter + and - to move relative to the current location. Example:+4 will move forward four items</source>
-        <translation type="obsolete">Введите + и - для перемещения относительно текущего места. Прим.: +4 соответствует перемещению вперед четыре пункта</translation>
+        <translation type="obsolete">Введите + и - для перемещения относительно текущего места. Пример: +4 соответствует перемещению вперед на четыре элемента (например, страницы).</translation>
     </message>
     <message>
         <source>&amp;Enter Bookmark Name:</source>
@@ -3587,7 +3587,7 @@ If unnecessary, please click Cancel.</source>
         <source>Enter + and - to move relative to the current location. 
 Example: +4 will move forward four items:</source>
         <translation>Введите + и - для перемещения относительно текущего места. 
-Прим.: +4 соответствует перемещению вперед четыре пункта</translation>
+Пример: +4 соответствует перемещению вперёд на четыре элемента (например, страницы).</translation>
     </message>
     <message>
         <source>&amp;Enter section number:</source>
@@ -4110,7 +4110,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation>&amp;Используйте правила азиатских языков для управления первым и последним символами</translation>
+        <translation>&amp;Использовать правила азиатских языков для управления первым и последним символами</translation>
     </message>
     <message>
         <source>Allow ha&amp;nging punctuation</source>

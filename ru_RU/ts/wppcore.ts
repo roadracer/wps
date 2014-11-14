@@ -6059,7 +6059,7 @@ Layout</source>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>WpPROMPTTOSAVE</comment>
-        <translation>Сохранить внесённые изменения в %s?</translation>
+        <translation>Сохранить изменения в %s?</translation>
     </message>
     <message utf8="true">
         <source>Failed to save. Please try one of the following: 
@@ -6342,7 +6342,7 @@ Layout</source>
     <message>
         <source>Windows Media Audio File(wma) (*.wma;*.waw)</source>
         <comment>DgDesc_WindowsMediaAudioFile</comment>
-        <translation>Файл Windows Media Audio (WMA)) (*.wma;*.waw)</translation>
+        <translation>Файл Windows Media Audio (WMA) (*.wma;*.waw)</translation>
     </message>
     <message>
         <source>*.wma;*.waw</source>
