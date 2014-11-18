@@ -1841,7 +1841,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Embed fon&amp;ts in the file</source>
-        <translation>Внедрить &amp;шрифты в файл</translation>
+        <translation>Внедрить &amp;шрифты</translation>
     </message>
     <message>
         <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
