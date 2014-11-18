@@ -3383,7 +3383,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Evaluates to error &amp;value</source>
-        <translation>Вычисление вызывает &amp;ошибку</translation>
+        <translation>Вычисление формулы вызывает &amp;ошибку</translation>
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
@@ -3391,7 +3391,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ignore words with num&amp;bers</source>
-        <translation>Пропускат&amp;ь слова с цифрами</translation>
+        <translation>&amp;Пропускать слова с цифрами</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3479,7 +3479,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Set decimal symbol to ,</source>
-        <translation>Установите разделитель дробной части в ,</translation>
+        <translation>Установить разделителем целой и дробной части запятую (,)</translation>
     </message>
     <message>
         <source>ch</source>
@@ -3563,15 +3563,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cells containing &amp;years represented as 2 digits</source>
-        <translation>Ячейки, содержащие &amp;года, представленные 2-мя цифрами</translation>
+        <translation>Ячейки, которые содержат &amp;годы, представленные 2 цифрами</translation>
     </message>
     <message>
         <source>Formulas inco&amp;nsistent with other formulas in the region</source>
-        <translation>Формулы не со&amp;гласуются с другими формулами в диапазоне</translation>
+        <translation>Формулы, не&amp;согласованные с остальными формулами в области</translation>
     </message>
     <message>
         <source>Formulas which &amp;omit cells in a region</source>
-        <translation>Формулы, &amp;пропускающие ячейки в диапазоне</translation>
+        <translation>Формулы, не &amp;охватывающие смежные ячейки</translation>
     </message>
     <message>
         <source>Unloc&amp;ked cells containing formulas</source>
