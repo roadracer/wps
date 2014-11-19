@@ -9184,7 +9184,7 @@ COM</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>Столбцы</translation>
+        <translation>Колонки</translation>
     </message>
     <message>
         <source>Columns to the Left</source>
