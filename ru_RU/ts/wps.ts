@@ -5665,15 +5665,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Show au&amp;thor:</source>
-        <translation>Показать &amp;автора:</translation>
+        <translation>Показывать &amp;автора:</translation>
     </message>
     <message>
         <source>Show initials</source>
-        <translation>Показать инициалы</translation>
+        <translation>Показывать инициалы</translation>
     </message>
     <message>
         <source>Show full name</source>
-        <translation>Показать полное имя</translation>
+        <translation>Показывать полное имя</translation>
     </message>
     <message>
         <source>Do not show</source>
@@ -6141,7 +6141,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Insert/paste pictures as(&amp;Z):</source>
-        <translation>Вставлять рисунки как(&amp;Z):</translation>
+        <translation>Вставлять рисунки:</translation>
     </message>
     <message>
         <source>Recent documents</source>
