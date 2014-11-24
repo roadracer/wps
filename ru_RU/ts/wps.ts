@@ -468,7 +468,7 @@
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation>Абсолютное &amp;положение</translation>
+        <translation>&amp;Положение</translation>
     </message>
     <message>
         <source>pt, 2, -1596, 1596, 1</source>
@@ -4378,7 +4378,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Insert location:</source>
-        <translation>Вставить положение:</translation>
+        <translation>Вставить расположение:</translation>
     </message>
     <message>
         <source>&amp;Below selection Row</source>
@@ -7496,7 +7496,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation>&amp;положение</translation>
+        <translation>&amp;Расположение</translation>
     </message>
     <message>
         <source>pt, -2, -1584, 1584, 1</source>
@@ -7544,7 +7544,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Absolute po&amp;sition</source>
-        <translation>&amp;Положение</translation>
+        <translation>Рас&amp;положение</translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
