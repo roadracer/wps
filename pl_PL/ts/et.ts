@@ -8534,19 +8534,19 @@ t</source>
     <name>KxWidgetNumber</name>
     <message>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykład</translation>
     </message>
     <message>
         <source>&amp;Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kategoria:</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogólny</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Liczba</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -8566,19 +8566,19 @@ t</source>
     </message>
     <message>
         <source>Percentage</source>
-        <translation type="unfinished"></translation>
+        <translation>Procentowy</translation>
     </message>
     <message>
         <source>Fraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Ułamek</translation>
     </message>
     <message>
         <source>Scientific</source>
-        <translation type="unfinished"></translation>
+        <translation>Naukowy</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Special</source>
@@ -8602,11 +8602,11 @@ t</source>
     </message>
     <message>
         <source>&amp;Decimal places:</source>
-        <translation type="unfinished"></translation>
+        <translation>Miejsca &amp;dziesiętne:</translation>
     </message>
     <message>
         <source>&amp;Symbol:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Symbol:</translation>
     </message>
     <message>
         <source>&amp;Negative numbers:</source>
@@ -8645,114 +8645,114 @@ t</source>
     <name>KxWidgetPatterns</name>
     <message>
         <source>Cell shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Odcień komórki</translation>
     </message>
     <message>
         <source>Background color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor tła:</translation>
     </message>
     <message>
         <source>No Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez wypełnienia</translation>
     </message>
     <message>
         <source>Pattern &amp;style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Styl wzoru:</translation>
     </message>
     <message>
         <source>&amp;Pattern color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor &amp;wzoru:</translation>
     </message>
     <message>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykład</translation>
     </message>
     <message>
         <source>Clea&amp;r</source>
-        <translation type="unfinished">Wy&amp;czyść</translation>
+        <translation>Wy&amp;czyść</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetProtection</name>
     <message>
         <source>&amp;Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Zab&amp;lokuj</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ukryj</translation>
     </message>
     <message>
         <source>Locking cells or hiding formulas has no effect until you protect the worksheet (Review tab, Protect Sheet button).</source>
-        <translation type="unfinished"></translation>
+        <translation>Zablokowanie komórek lub ukrycie formuł zadziała po włączeniu ochrony arkusza (Recenzja -&gt; Chroń arkusz).</translation>
     </message>
 </context>
 <context>
     <name>KxZoomViewDlg</name>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation type="unfinished">Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiątkowa.</translation>
+        <translation>Nie można użyć wprowadzonego tekstu. Może być wymagana liczba całkowita lub dziesiętna.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liczba musi zawierać się w przedziale od 10 do 400. Spróbuj ponwnie podać liczbę z tego zakresu.</translation>
     </message>
     <message>
         <source>200</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>100</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>75</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>50</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>25</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>400</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>OpenFileDialog</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Otwórz</translation>
+        <translation>Otwórz</translation>
     </message>
 </context>
 <context>
     <name>PreviewPage</name>
     <message>
         <source>Alt+R</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>PreviewPageUi</name>
     <message>
         <source>The fourth step: Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Czwarty krok: Podgląd</translation>
     </message>
     <message>
         <source>Import operation &amp;result:</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuj &amp;rezultat operacji:</translation>
     </message>
     <message>
         <source>Import data &amp;preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuj &amp;podgląd danych:</translation>
     </message>
     <message>
         <source>Display only top 50(&amp;H)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl tylko 50 pierwszych (&amp;H)</translation>
     </message>
 </context>
 <context>
@@ -8763,7 +8763,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pauza</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
@@ -8771,11 +8771,11 @@ t</source>
     </message>
     <message>
         <source>No Number Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez formatowania liczb</translation>
     </message>
     <message>
         <source>You are not allowed to add the default style name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie możesz dodać domyślnej nazwy stylu.</translation>
     </message>
     <message>
         <source>@ET_Style?</source>
@@ -8783,7 +8783,7 @@ t</source>
     </message>
     <message>
         <source>No Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez wyrównania</translation>
     </message>
     <message>
         <source>Shrink To fit</source>
@@ -8807,11 +8807,11 @@ t</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -8863,7 +8863,7 @@ t</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnij</translation>
     </message>
     <message>
         <source>Horizontal Distributed</source>
@@ -9567,11 +9567,11 @@ t</source>
     <name>ReadOnlyFile</name>
     <message>
         <source>%s is locked for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>%s jest zablokowany do edycji.</translation>
     </message>
     <message>
         <source>&quot;Another user&quot; is editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Inny użytkownik&quot; edytuje.</translation>
     </message>
     <message>
         <source>Click Notify to open a read-only copy of the document and receive notification when the document is no longer in use.</source>
@@ -9579,7 +9579,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Read-Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Tylko do &amp;odczytu</translation>
     </message>
     <message>
         <source>&amp;Notify</source>
@@ -9637,7 +9637,7 @@ t</source>
     <name>SelectTableFromDbUI</name>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz tabelę</translation>
     </message>
 </context>
 <context>
@@ -9929,11 +9929,11 @@ t</source>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Źródło</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>&amp;Update Values</source>
@@ -9953,11 +9953,11 @@ t</source>
     </message>
     <message>
         <source>&amp;Check Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sprawdź status</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalizacja:</translation>
     </message>
     <message>
         <source>Startup Prompt</source>
@@ -9981,7 +9981,7 @@ t</source>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknij</translation>
     </message>
     <message>
         <source>When this workbook is opened, WPS Spreadsheets will ask whether or not to update links to other workbooks.</source>
@@ -10016,7 +10016,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknij</translation>
     </message>
 </context>
 <context>
@@ -10062,7 +10062,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pauza</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -10564,16 +10564,16 @@ Do you want to change to Manual Recalculation?</source>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkusze</translation>
     </message>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik który otwierasz zmienia opcję z Automatycznie na Ręcznie, spowoduje to że bieżący plik i inne pliki nie będą wyświetlały właściwych wyników na bieżąco podczas edycji. Chcesz przełączyć na ręczne przeliczanie?</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Ręcznie</translation>
     </message>
     <message>
         <source>Automatic(Recommend)</source>
