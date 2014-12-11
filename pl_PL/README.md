@@ -6,7 +6,7 @@ Tłumaczenie tworzone przez: Paweł Smok (Armstrong), Andrzej Kamiński (Crazygo
 Oprogramowanie
 --------------------------------------------------------------------------------
 W celu kompilacji pakietu językowego KSO/WPS potrzebne jest rcc i lrelease.
-Lingist jest potrzebny do tłumaczenia KSO/WPS.
+Linguist jest potrzebny do tłumaczenia KSO/WPS.
 
 Instalacja w Ubuntu:
 
@@ -19,6 +19,16 @@ Instalacja w Gentoo:
 Instalacja w Fedora:
 
 	$ sudo yum install qt-devel
+
+Instalacja w Porteus:
+
+        Wystarczy pobrać moduły 003-kde.xzm oraz 05-devel.xzm, aktywować i uruchomić linguist.
+
+
+Korzystanie z Git'a i GitHub'a
+Git to program (do zainstalowania na komputerze) ułatwiający współpracę poprzez łączenie zmian i treści dodanych przez wiele osób. GitHub to witryna, która ułatwia tą współpracę.
+Aby móc dokonywać zmiany w danym projekcie powinieneś utworzyć kopię-rozgałęzienie (ang. fork) tego projektu/repozytorium na swoim koncie w GitHub. Jeśli chcesz aby wprowadzone przez Ciebie zmiany trafiły do głównego repozytorium to musisz poprosić o zaciągnięcie zmian klikając w Pull Request. Natomiast jeżeli chcesz zaktualizować swój fork zaciągając zmiany z głównej gałęzi lub innej to  kliknij Compare, dalej Edit, jako base fork wybierz swoje repozytorium, a jako head fork wybierz to, z którego chcesz pobrać zmiany.   
+
 
 Instrukcja instalacji Windows
 --------------------------------------------------------------------------------

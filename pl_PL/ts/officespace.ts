@@ -16,7 +16,7 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etykieta tekstowa</translation>
     </message>
     <message>
         <source>webHomeLink</source>
@@ -24,11 +24,11 @@
     </message>
     <message>
         <source>Introduction</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstęp</translation>
     </message>
     <message>
         <source>Homepage link of WPS Office Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odnośnik do WPS Office Cloud</translation>
     </message>
     <message>
         <source>Help link of WPS Office Cloud</source>
@@ -70,11 +70,11 @@
     <name>KCloudFileStatePanel</name>
     <message>
         <source>status</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>odśwież</translation>
     </message>
     <message>
         <source>Windows dialog title</source>
@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa pliku</translation>
     </message>
     <message>
         <source>Light address</source>
