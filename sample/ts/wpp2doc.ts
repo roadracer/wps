@@ -4,32 +4,7 @@
 <context>
     <name>KTranslator</name>
     <message>
-        <source>Slide %1
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Note;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Being converted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Still Need:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source> Minute</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Second</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ready to convert, please wait</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -37,22 +12,39 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Being converted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ready to convert, please wait</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide %1
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Start converting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Still Need:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ProcessDialog</name>
     <message>
-        <source>Translate to WPS Writer Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ready to convert</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Still Need: being calculated</source>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -60,70 +52,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
+        <source>Ready to convert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Still Need: being calculated</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>changeAsWpsDialog</name>
     <message>
-        <source>Translate to WPS Writer Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All(&amp;A)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Current Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Selection(&amp;S)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slides(&amp;P):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Converted Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>According to original layout(&amp;O)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add notes to slide:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Right(&amp;R)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Below(&amp;B)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Below(&amp;N)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Right(&amp;H)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add blank line to slide:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Slide per page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -143,11 +87,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number slides in the document</source>
+        <source>According to original layout(&amp;O)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preview</source>
+        <source>Add blank line to slide:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add notes to slide:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All(&amp;A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below(&amp;B)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below(&amp;N)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -155,7 +115,39 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text(&amp;T)</source>
+        <source>Converted Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number slides in the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture(&amp;I)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right(&amp;H)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right(&amp;R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection(&amp;S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slides(&amp;P):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -163,16 +155,20 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Picture(&amp;I)</source>
+        <source>Text(&amp;T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate to WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide per page</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kxProgressdlg</name>
-    <message>
-        <source>The conversion is completed.</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Close</source>
         <translation type="unfinished"></translation>
@@ -181,11 +177,35 @@
         <source>Converting to WPS Writer document encountered an error.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The conversion is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kxwpptodocdlg</name>
     <message>
+        <source>&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Input slide number or slide range. For example, 1,3,5-9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file &quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number must be 1 or 2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -203,27 +223,7 @@ For example, 1,3,5-9.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The number must be 1 or 2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Writer Document(*.wps)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file &quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

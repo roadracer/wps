@@ -62,10 +62,6 @@
         <source>Upload failed because the account was logged off. Please login again.</source>
         <translation>Falha de Upload devido à conta não estar conectada. Por favor, efetuar login novamente.</translation>
     </message>
-    <message>
-        <source>Check failed because the account was logged off. Please login again.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KCloudFileStatePanel</name>
@@ -83,7 +79,7 @@
     </message>
     <message>
         <source>Light address</source>
-        <translation>Endereço luz</translation>
+        <translation type="obsolete">Endereço luz</translation>
     </message>
     <message>
         <source>refresh</source>
@@ -147,7 +143,7 @@
     </message>
     <message>
         <source>New version is available</source>
-        <translation>Uma nova versão está disponível</translation>
+        <translation type="obsolete">Uma nova versão está disponível</translation>
     </message>
     <message>
         <source>Uploading to File Roaming</source>
@@ -172,6 +168,14 @@
     <message>
         <source>Checked %1 minutes ago</source>
         <translation>Verificado há %1 minutos</translation>
+    </message>
+    <message>
+        <source>New version is available, Please Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available, Please Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -215,7 +219,7 @@
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation type="obsolete">http://www.kingsoftstore.com/support/pc-office</translation>
+        <translation type="unfinished">http://www.kingsoftstore.com/support/pc-office</translation>
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
@@ -932,6 +936,10 @@ caminho:%3</translation>
         <source>Clear Invalid Records</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished">Arquivo de Compartilhamento Remoto</translation>
+    </message>
 </context>
 <context>
     <name>KRoamingFilePageFixedButton</name>
@@ -1193,6 +1201,17 @@ caminho:%3</translation>
     <message>
         <source>Prompt</source>
         <translation>Prompt</translation>
+    </message>
+</context>
+<context>
+    <name>KWebviewDialogImpl</name>
+    <message>
+        <source>Open Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2110,6 +2129,17 @@ After expiration, some features will not work properly. Please renew now. </sour
     <message>
         <source>Prompt</source>
         <translation>Prompt</translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSUserGiftMenuCommand</name>
+    <message>
+        <source>New messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

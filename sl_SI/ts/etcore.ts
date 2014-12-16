@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sl_SI">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>et_app</name>
     <message>
@@ -267,7 +268,7 @@
         <source>Cannot enter a formula in a data form.</source>
         <translation type="obsolete">Vnos formule v podatkovni obrazec ni mogoč.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Kingsoft Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
 
 ·If you want the first row of the selection or list used as labels and not as data, click OK.
@@ -975,7 +976,7 @@ Vrednost: </translation>
         <comment>TX_Workbook_SaveFailureLocked</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
@@ -985,7 +986,7 @@ Please try one of the following.
         <comment>TX_Workbook_OpenFailure</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
@@ -994,7 +995,7 @@ Please try one of the following.
         <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
 •The current version of WPS Spreadsheets does not support this file&apos;s permission control level, please update to the latest version.
@@ -1084,7 +1085,7 @@ Please try one of the following.
         <comment>TX_Cannot_Write_Unknown_File_Format</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
 •Undo the previous operations and save it. 
 •Save it as text file. 
@@ -1211,16 +1212,6 @@ To open the second document with the same name, you can close the document that 
         <comment>TX_OpenFile_ReadOnly</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
-        <source>There are links to other data sources in this workbook.
-
-•If you update the links, WPS Spreadsheets will try to get the latest data.
-•If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
-
-Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
-        <comment>TX_NeedToUpdateExternalDataLink</comment>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
         <comment>TX_PrinterError</comment>
@@ -1246,18 +1237,18 @@ Note that data links can be used to access and share confidential information wi
         <comment>TX_RenameSheet_Error</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name you entered does not exceed 31 characters.</source>
         <comment>TX_Confirm_Max_Length_SheetName</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name does not contain any of the following characters: : / ?\ * [ ]
 • The first or last character cannot be single quotes.</source>
         <comment>TX_Confirm_Invalid_Char_In_SheetName</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the worksheet name is not blank.</source>
         <comment>TX_Confirm_Zero_Length_SheetName</comment>
         <translation type="unfinished"></translation>
@@ -1267,17 +1258,17 @@ Note that data links can be used to access and share confidential information wi
         <comment>TX_RenameSheet_Error2</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
         <comment>TX_Confirm_Max_Length_BookName</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; |.</source>
         <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the workbook name is not blank.</source>
         <comment>TX_Confirm_Zero_Length_BookName</comment>
         <translation type="unfinished"></translation>
@@ -1397,14 +1388,14 @@ Note that data links can be used to access and share confidential information wi
         <comment>TX_ERROR_MERGECELLINSORT</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
 • Click a single cell, and then paste.
 • Select a rectangle that&apos;s the same size and shape, and then paste.</source>
         <comment>TX_ERROR_INVALIDPASTERG</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The selection is invalid.
 There are several possible reasons:
 
@@ -1588,7 +1579,7 @@ If you are trying to open the file from your recently used file list on the File
         <comment>TX_Open_File_UnkCustomFunction_In_File</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Function(s) %s is/are used in %s 
 </source>
         <comment>TX_Format_UnkFunctionInfo</comment>
@@ -1749,7 +1740,7 @@ Please specify the right files.</source>
         <comment>TX_SMART_TIPS_CONFIRM</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>This file may contain these special features below, and they may be lost if you save it as other formats.
 
 • Extended formatting rule and style.
@@ -1885,7 +1876,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
         <comment>TX_ShareWorkbook_MsgDisconnected</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>This operation will remove the workbook from shared use. The revision record will be deleted, and other users who are editing this workbook will not be able to save their changes, even if you share this workbook again.
 
 Remove the workbook from shared use?
@@ -1947,7 +1938,7 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
         <comment>TX_ShareWorkbook_MsgFileEncrypted</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your modifications cannot be saved to “%s” owing to the share conflict. Please try to save it as another file.</source>
         <comment>TX_ShareWorkbook_ShareConflict</comment>
         <translation type="unfinished"></translation>
@@ -1958,7 +1949,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <comment>TX_ShareWorkbook_WarnningTimedUpdate</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
         <comment>TX_ShareWorkbook_TransformFailed</comment>
         <translation type="unfinished"></translation>
@@ -2053,7 +2044,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <comment>TX_ETDataFrom_ArraryFormula</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
 
 ·If you want the first row of the selection or list used as labels and not as data, click OK.
@@ -2082,7 +2073,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <comment>TX_ETCalculateInfo_BeBreak</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>“Filter”Mode</source>
         <comment>TX_FILTER_MODE</comment>
         <translation type="unfinished"></translation>
@@ -2808,7 +2799,7 @@ Continue without Undo?</source>
         <comment>TX_ERRORCHECK_REPAIR_TraceEmptyCell</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
 • To save it on the Clipboard so that you can paste it later, click Yes.
 • To delete it from the Clipboard and free memory, click No.</source>
@@ -3084,6 +3075,45 @@ Continue without Undo?</source>
         <comment>TX_ChangeAutoOutline</comment>
         <translation type="unfinished">Ali želite spremeniti obstoječi oris?</translation>
     </message>
+    <message>
+        <source>The data not within the worksheet will be lost.
+If you want to continue importing the data can be accommodated, click &quot;OK&quot;</source>
+        <comment>TX_ImportText_Overflowed_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too much data returned by the query, can not be contained in a worksheet.
+
+To continue operating, and show as much data, click &quot;OK&quot;.
+To cancel the query, click &quot;Cancel&quot;.</source>
+        <comment>TX_ImportOtherData_Overflowed_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>macrosheet can not be save as xml, prn, dbf fileformat. please choose another format.</source>
+        <comment>TX_MacroSheet_CannotSave_As</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The query does not return data columns that can be used in WPS Spreadsheets.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Since the last one column contains data, WPS Spreadsheets can not insert columns. You will not get any data.</source>
+        <comment>TX_No_Available_Sheet_Columns</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
+        <comment>TX_BookReferencingByOther</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -3322,7 +3352,7 @@ Continue without Undo?</source>
         <comment>TX_Revision_Desc_ModifyDefinedName</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>（Showing all）</source>
         <comment>TX_Show_All_DateItems</comment>
         <translation type="unfinished"></translation>
@@ -3357,7 +3387,7 @@ Continue without Undo?</source>
         <comment>TX_AutoFilter_And</comment>
         <translation type="unfinished">In</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>（Blank）</source>
         <comment>TX_AutoFilter_Blank</comment>
         <translation type="unfinished"></translation>
@@ -3470,7 +3500,7 @@ Vrednost: </translation>
         <comment>TX_DESC_NORMAL_STYLE_NAME</comment>
         <translation type="unfinished">Navadno</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
 
 ·Reference cells outside of the row and column limit of an earlier of WPS Spreadsheets
@@ -4111,11 +4141,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
-        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Connection</source>
         <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
         <translation type="unfinished"></translation>
@@ -4143,6 +4168,26 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Running background query...(Click here to cancel)</source>
+        <comment>TX_ETDBE_STR_BACKGROUND_QUERY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This action will cancel a pending Refresh Data command. Continue?</source>
+        <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:Getting Data ...</source>
+        <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5153,7 +5198,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>GAMMALN_SYNTAX</comment>
         <translation type="unfinished">GAMMALN(x)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns the natural logarithm of the gamma function,Γ(x).</source>
         <comment>GAMMALN_DESCRIPTION</comment>
         <translation type="unfinished">Vrne naravni logaritem gama funkcije.</translation>
@@ -5416,7 +5461,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the rank of a number in a list of numbers.</source>
         <comment>RANK_REMARK</comment>
-        <translation type="unfinished">Vrne rang števila na seznamu števil.</translation>
+        <translation type="obsolete">Vrne rang števila na seznamu števil.</translation>
     </message>
     <message>
         <source>PROB(x_range,prob_range,lower_limit,upper_limit)</source>
@@ -5688,7 +5733,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>WEIBULL_DESCRIPTION</comment>
         <translation type="unfinished">Vrne Weibullovo porazdelitev.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>ZTEST(array,μ0,sigma)</source>
         <comment>ZTEST_SYNTAX</comment>
         <translation type="unfinished">ZTEST(matrika,μ0,sigma)</translation>
@@ -6643,7 +6688,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>GESTEP_GRAMMER</comment>
         <translation type="unfinished">GESTEP(število,korak)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns 1 if number ≥ step and 0 (zero) otherwise. </source>
         <comment>GESTEP_REMARK</comment>
         <translation type="unfinished">Preskusi, ali je število večje od mejne vrednosti.</translation>
@@ -6693,7 +6738,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>IMARGUMENT_GRAMMER</comment>
         <translation type="unfinished">IMARGUMENT(ištevilo)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns the argument θ(theta), which is an angle expressed in radians.</source>
         <comment>IMARGUMENT_REMARK</comment>
         <translation type="unfinished">Vrne argument q, kot, izražen v radianih.</translation>
@@ -7288,7 +7333,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>SUMIFS_DESCRIPTION</comment>
         <translation type="unfinished">Doda celice, ki jih navaja dani niz pogojev ali kriterijev.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2],…)</source>
         <comment>COUNTIFS_SYNTAX</comment>
         <translation type="unfinished">COUNTIFS(obseg_pogojev1, pogoji1, [obseg_pogojev2, pogoji2],…)</translation>
@@ -7308,7 +7353,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>AVERAGEIF_DESCRIPTION</comment>
         <translation type="unfinished">Najde povprečje (aritmetično povprečno vrednost) za celice, navedene z danim pogojem ali kriterijem.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
         <comment>AVERAGEIFS_SYNTAX</comment>
         <translation type="unfinished">AVERAGEIFS(obseg_za_povprečje,obseg_pogojev1,pogoji1,obseg_pogojev2,pogoji2,…)</translation>
@@ -7343,7 +7388,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>PRICE_DESCRIPTION</comment>
         <translation type="unfinished">Vrne ceno vrednostnega papirja na €100 imenske vrednosti, ki izplača periodične obresti.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>GETPIVOTDATA(data_field, pivot_table, field, item,…)</source>
         <comment>GETPIVOTDATA_SYNTAX</comment>
         <translation type="unfinished"></translation>
@@ -7902,6 +7947,46 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>CALL_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list.</source>
+        <comment>RANK_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RANK.AVG(number,ref,order)</source>
+        <comment>RANKAVG_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
+        <comment>RANKAVG_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RANK.EQ(number,ref,order)</source>
+        <comment>RANKEQ_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
+        <comment>RANKEQ_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
+        <comment>VOLATILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the yields of regular payment securities.</source>
+        <comment>VOLATILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILES(directory_text)</source>
+        <comment>FILES_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_persist</name>
@@ -7928,11 +8013,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>WPS Spreadsheets Files(*.et; *.ett)</source>
         <comment>TX_ssDesc_AllET_</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx)</source>
-        <comment>TX_ssDesc_Normal_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7985,7 +8065,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_ssDesc_Utf_</comment>
         <translation type="unfinished">Unicode besedilo(*.txt)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The selected file type does not support workbooks that contain multiple sheets.
 
 ·To save only the active sheet, click OK. 
@@ -7993,7 +8073,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Save_Txt_Wanging</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The file you are trying to save may contain features that are not compatible with current file format. Do you want to keep the workbook in this format?
 
 ·To keep this format, which leaves out any incompatible features, click Yes. 
@@ -8059,7 +8139,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Save_Xml_Warning_2</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · AutoShapes, other objects or charts
 </source>
         <comment>TX_Save_Xml_Warning_Shape</comment>
@@ -8075,7 +8155,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Save_Xml_Warning_SheetProt</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Refer to external sheet
 </source>
         <comment>TX_Save_Xml_Warning_Supbook</comment>
@@ -8104,7 +8184,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Save_Html_Warning_SheetProt</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · File Encryption
 </source>
         <comment>TX_Save_Html_Warning_Password</comment>
@@ -8115,28 +8195,28 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Save_Html_Warning_UserRange</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Macro
 </source>
         <comment>TX_Save_Html_Warning_VBA</comment>
         <translation type="unfinished">   Makro
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · PivotTable
 </source>
         <comment>TX_Save_Html_Warning_Pivot</comment>
         <translation type="unfinished"> · vrtilna tabela
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Import Data
 </source>
         <comment>TX_Save_Html_Warning_QueryTable</comment>
         <translation type="unfinished">   Uvoz podatkov
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Multiple Windows
 </source>
         <comment>TX_Save_Html_Warning_MultiWindow</comment>
@@ -8148,20 +8228,20 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Save_Html_Warning_FileNameTooLong</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Comment
 </source>
         <comment>TX_Save_Html_Warning_Comment</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Protect Workbook
 </source>
         <comment>TX_Save_Html_Warning_BookProtOperate</comment>
         <translation type="unfinished">   Zaščiti delovni zvezek
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Protect Worksheet
 </source>
         <comment>TX_Save_Html_Warning_SheetProtOperate</comment>
@@ -8180,14 +8260,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The following features cannot be saved in macro-disabled workbooks:
- VB project 
-.To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
-.To continue saving as a macro-disabled workbook, click Yes.</source>
-        <comment>TX_Save_Xlsx_Warning_Macro</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Microsoft Excel 2007/2010 Macro-Enabled Workbook(*.xlsm)</source>
         <comment>TX_ssDesc_Beta_Xlsm_</comment>
         <translation type="unfinished"></translation>
@@ -8197,7 +8269,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_ssDesc_Xlsx_Open</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>A formula or sheet you want to move or copy contains the name &apos;%s&apos;,which already exists on the destination worksheet.Do you want to use this version of the name?
 
 ·To use the name as defined in the destination sheet,click Yes.
@@ -8205,7 +8277,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Name_Conflict_Exist</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>A formula you want to move or copy contains the name %s which conflicts with a valid range reference or a name used internally by WPS Spreadsheets,and must be modified.
 
 ·To use the name %s,click Yes.
@@ -8213,7 +8285,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Name_Conflict_Range</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code:0x%08X). Please contact the provider of this anti-virus program. 
 Do you still want to open this file?
 
@@ -8275,6 +8347,52 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <comment>TX_ssDesc_DataSrcFile_</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-disabled workbooks:
+</source>
+        <comment>TX_Save_Xlsx_Warning_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-disabled workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> · VB project
+</source>
+        <comment>TX_Save_Xlsx_Warning_VBA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> · Excel 4.0 function stored in defined names.
+</source>
+        <comment>TX_Save_Xlsx_Warning_MacroNames</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> · Excel 4.0 Macro Sheets(these will be converted to normal worksheets)
+</source>
+        <comment>TX_Save_Xlsx_Warning_MacroSheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Query Files(*.iqy)</source>
+        <comment>TX_ssDesc_Iqy_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>TX_Persist_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_render</name>
@@ -8293,7 +8411,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <comment>TX_PDFCOMMENT_TITLE</comment>
         <translation type="unfinished">Pripomba</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</source>
         <comment>TX_ROTARCHAR</comment>
         <translation type="unfinished"></translation>
@@ -8495,7 +8613,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The selection is invalid.
 There are several possible reasons:
 
@@ -8551,7 +8669,7 @@ There are several possible reasons:
         <comment>TX_ZoomBox_Value_Invalid_ET</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The formula you typed contains errors. WPS Spreadsheets will automatically correct it as: 
 &apos;%s
 •If you want to accept the correction, click OK.
@@ -8566,7 +8684,7 @@ If you do not wish to use a formula, insert a single quotation mark before your 
         <comment>TX_InputFormula_Error2</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
 &apos;%s
 • To accept the correction, click Yes.
@@ -9007,7 +9125,7 @@ Ali želite nadaljevati?</translation>
         <comment>TX_SETCELLSCAPTION</comment>
         <translation type="unfinished">Celice</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
 
 •If you do not want to  create the circular reference, click OK, and correct the formula.
@@ -9705,7 +9823,7 @@ Ali želite nadaljevati?</translation>
         <comment>TX_ParaInfo_135</comment>
         <translation type="unfinished">Standardni odklon vzorca</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>μ0</source>
         <comment>TX_ParaInfo_136</comment>
         <translation type="unfinished"></translation>
@@ -10473,11 +10591,6 @@ Check</source>
         <translation type="unfinished">je besedilo za določanje imena delovnega lista, ki se uporabi kot zunanji sklic.</translation>
     </message>
     <message>
-        <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
-        <comment>TX_ParaDesc_009</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is a reference to a cell or range of cells and can refer to multiple areas.</source>
         <comment>TX_ParaDesc_010</comment>
         <translation type="unfinished">je sklic na celico ali obseg celic in se lahko sklicuje na več področij.</translation>
@@ -10516,21 +10629,6 @@ Check</source>
         <source>is any real number between -1 and 1 excluding -1 and 1.</source>
         <comment>TX_ParaDesc_017</comment>
         <translation type="unfinished">je katero koli realno število med -1 in 1 brez -1 in 1.</translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
-        <comment>TX_ParaDesc_018</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
-        <comment>TX_ParaDesc_019</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
-        <comment>TX_ParaDesc_020</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>the numbers you want to convert.</source>
@@ -10648,11 +10746,6 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
-        <comment>TX_ParaDesc_044</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is any worksheet information from which you want to remove nonprintable characters.</source>
         <comment>TX_ParaDesc_045</comment>
         <translation type="unfinished">je kateri koli delovni list, s katerega želimo odstraniti znake, ki se ne tiskajo.</translation>
@@ -10681,11 +10774,6 @@ Check</source>
         <source>is the number of items in each combination.</source>
         <comment>TX_ParaDesc_050</comment>
         <translation type="unfinished">je število predmetov v vsaki kombinaciji.</translation>
-    </message>
-    <message>
-        <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
-        <comment>TX_ParaDesc_051</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>is the significance level used to compute the confidence level, a number greater than 0 and less than 10.</source>
@@ -10721,16 +10809,6 @@ Check</source>
         <source>is any real number.</source>
         <comment>TX_ParaDesc_058</comment>
         <translation type="unfinished">je katero koli realno število.</translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
-        <comment>TX_ParaDesc_059</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1, value2,... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
-        <comment>TX_ParaDesc_060</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>is the range from which you want to count the empty cells.</source>
@@ -10896,11 +10974,6 @@ Check</source>
         <source>is the angle in radians that you want to convert.</source>
         <comment>TX_ParaDesc_093</comment>
         <translation type="unfinished">je kot v radianih, ki ga želite pretvoriti.</translation>
-    </message>
-    <message>
-        <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
-        <comment>TX_ParaDesc_094</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
@@ -11123,11 +11196,6 @@ Check</source>
         <translation type="unfinished">je druga matrika ali obseg podatkov, ki so lahko števila ali imena, matrike ali sklici, ki vsebujejo števila (presledki se prezrejo).</translation>
     </message>
     <message>
-        <source>is the interest rate per period. For example, use 6%4 for quarterly payment at 6% APR.</source>
-        <comment>TX_ParaDesc_139</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is the total number of payment periods in the investment.</source>
         <comment>TX_ParaDesc_140</comment>
         <translation type="unfinished">!je skupno število plačilnih obdobij na naložbo.</translation>
@@ -11188,16 +11256,6 @@ Check</source>
         <translation type="unfinished">je vrednost, za katero želite izračunati pozitivno število GAMMALN.</translation>
     </message>
     <message>
-        <source>number1,number2,...are 1 to 30 values.</source>
-        <comment>TX_ParaDesc_152</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
-        <comment>TX_ParaDesc_153</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is the set of y-values you already know in the relationship y=b*m^x, an array or range of positive numbers.</source>
         <comment>TX_ParaDesc_154</comment>
         <translation type="unfinished">je nabor y-vrednosti, ki jih že poznate v odnosu y = b*m^x, in je matrika ali obseg pozitivnih števil.</translation>
@@ -11226,11 +11284,6 @@ Check</source>
         <source>is a logical value: the constant b is calculated normally if Const = TRUE; b is set equal to 1 if Const = FALSE or omitted.</source>
         <comment>TX_ParaDesc_159</comment>
         <translation type="unfinished">je logična vrednost: konstanta b se izračuna normalno, če je konstanta enaka TRUE; b je 1, če je konstanta enaka FALSE ali vrednost ni določena.</translation>
-    </message>
-    <message>
-        <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
-        <comment>TX_ParaDesc_160</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>is the value to be found in the first row of the table and can be a value, a reference, or a text string.</source>
@@ -11443,19 +11496,9 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
-        <comment>TX_ParaDesc_203</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is the array or range of data for which you want to determine the k-th largest value.</source>
         <comment>TX_ParaDesc_204</comment>
         <translation type="unfinished">je matrika ali obseg podatkov, za katero želite določiti k-to največjo vrednost.</translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 255 values for which you want the least common multiple.</source>
-        <comment>TX_ParaDesc_205</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>is the text string containing the characters you want to extract.</source>
@@ -11598,24 +11641,9 @@ Check</source>
         <translation type="unfinished">je število 1, 0, ali -1, ki označuje, katera vrednost naj se vrne.</translation>
     </message>
     <message>
-        <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
-        <comment>TX_ParaDesc_234</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
-        <comment>TX_ParaDesc_235</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is a numeric array with an equal number of rows and columns, either a cell range or an array constant.</source>
         <comment>TX_ParaDesc_236</comment>
         <translation type="unfinished">je številska matrika z enakim številom vrstic in stolpcev, obseg celic ali matrična konstanta.</translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
-        <comment>TX_ParaDesc_237</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>is the text string from which you want to extract the characters.</source>
@@ -11645,16 +11673,6 @@ Check</source>
     <message>
         <source>is the length of the text string that contains the characters you want to extract.</source>
         <comment>TX_ParaDesc_243</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
-        <comment>TX_ParaDesc_244</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
-        <comment>TX_ParaDesc_245</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11696,11 +11714,6 @@ Check</source>
         <source>is the number by which you want to divide Number.</source>
         <comment>TX_ParaDesc_253</comment>
         <translation type="unfinished">je število, s katerim želite deliti število.</translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
-        <comment>TX_ParaDesc_254</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>is number in the date-time code used by WPS Spreadsheets.</source>
@@ -11798,11 +11811,6 @@ Check</source>
         <translation type="unfinished">je diskontna stopnja v enem obdobju.</translation>
     </message>
     <message>
-        <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
-        <comment>TX_ParaDesc_274</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is the value to round.</source>
         <comment>TX_ParaDesc_275</comment>
         <translation type="unfinished">je vrednost, ki se zaokroži.</translation>
@@ -11831,11 +11839,6 @@ Check</source>
         <source>is the width, in number of columns, that you want the result to be, the same width as Reference if omitted.</source>
         <comment>TX_ParaDesc_280</comment>
         <translation type="unfinished">je širina v številu stolpcev, ki jo želite za rezultat. Če to opustite, bo širina enaka, kot je določeno v polju Reference.</translation>
-    </message>
-    <message>
-        <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
-        <comment>TX_ParaDesc_281</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>is a set of independent values.</source>
@@ -11960,11 +11963,6 @@ Check</source>
     <message>
         <source>is the optional upper bound on the value. If omitted, PROB returns the probability that X_range values are equal to Lower_limit.</source>
         <comment>TX_ParaDesc_306</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
-        <comment>TX_ParaDesc_307</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12183,11 +12181,6 @@ Check</source>
         <translation type="unfinished">ime zapišite v narekovajih.!je ime strežnika, v katerem naj se bi dodatek izvajal. Navedite ime v narekovajih. Če se dodatek izvaja lokalno, uporabite prazen niz.</translation>
     </message>
     <message>
-        <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
-        <comment>TX_ParaDesc_351</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is the text you want to find. You can use the ? and * wildcard characters; use ~? and ~* to find the ? and * characters.</source>
         <comment>TX_ParaDesc_352</comment>
         <translation type="unfinished">je besedilo, ki ga želite poiskati. Uporabite lahko nadomestna znaka »?« in »*«. Če želite iskati znaka »?« in »*«, uporabite »~?« in »~*«.</translation>
@@ -12225,11 +12218,6 @@ Check</source>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_359</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number 1,number 2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
-        <comment>TX_ParaDesc_360</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12288,26 +12276,6 @@ Check</source>
         <translation type="unfinished">je standardni odklon porazdelitve in je pozitivno število.</translation>
     </message>
     <message>
-        <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
-        <comment>TX_ParaDesc_372</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
-        <comment>TX_ParaDesc_373</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
-        <comment>TX_ParaDesc_374</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
-        <comment>TX_ParaDesc_375</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is the text or the reference to a cell containing text in which you want to substitute characters.</source>
         <comment>TX_ParaDesc_376</comment>
         <translation type="unfinished"></translation>
@@ -12333,16 +12301,6 @@ Check</source>
         <translation type="unfinished">je število med 1 do 11, ki navaja, katera funkcija se uporabi za izračun delnih vsot na seznamu.</translation>
     </message>
     <message>
-        <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
-        <comment>TX_ParaDesc_381</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
-        <comment>TX_ParaDesc_382</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is the range of cells you want evaluated.</source>
         <comment>TX_ParaDesc_383</comment>
         <translation type="unfinished">je obseg celic, katere želite ovrednotiti za določen pogoj.</translation>
@@ -12355,16 +12313,6 @@ Check</source>
     <message>
         <source>is the actual cells to sum.</source>
         <comment>TX_ParaDesc_385</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
-        <comment>TX_ParaDesc_386</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
-        <comment>TX_ParaDesc_387</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12541,26 +12489,6 @@ Check</source>
         <source>is the text enclosed in quotation marks or a reference to a cell containing the text you want to convert.</source>
         <comment>TX_ParaDesc_422</comment>
         <translation type="unfinished">je besedilo v narekovajih ali sklic na celice z besedilom, ki ga želite pretvoriti.</translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_423</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_424</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
-        <comment>TX_ParaDesc_425</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
-        <comment>TX_ParaDesc_426</comment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>is the starting period for which you want to calculate the depreciation. Period must use the same units as life.</source>
@@ -12878,11 +12806,6 @@ Check</source>
         <translation type="unfinished">je vrednost za preskus.</translation>
     </message>
     <message>
-        <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
-        <comment>TX_ParaDesc_476</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is the smallest integer RANDBETWEEN will return.</source>
         <comment>TX_ParaDesc_477</comment>
         <translation type="unfinished">je najmanjše celo število, ki ga vrne funkcija RANDBETWEEN.</translation>
@@ -13186,11 +13109,6 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The power of plural form</source>
         <comment>TX_ParaDesc_521</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
-        <comment>TX_ParaDesc_522</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13757,11 +13675,6 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
-        <comment>TX_ParaInfo_548</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Message_text</source>
         <comment>TX_ParaInfo_280</comment>
         <translation type="unfinished"></translation>
@@ -14119,12 +14032,232 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaInfo_546</comment>
-        <translation type="unfinished">je ime »ID_programa« za registrirani dodatek COM za avtomatizacijo. Ime zapišite v narekovajih.</translation>
+        <translation type="obsolete">je ime »ID_programa« za registrirani dodatek COM za avtomatizacijo. Ime zapišite v narekovajih.</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaInfo_547</comment>
+        <translation type="obsolete">ime zapišite v narekovajih.!je ime strežnika, v katerem naj se bi dodatek izvajal. Navedite ime v narekovajih. Če se dodatek izvaja lokalno, uporabite prazen niz.</translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
+        <comment>TX_ParaDesc_009</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
+        <comment>TX_ParaDesc_018</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_019</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_020</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
+        <comment>TX_ParaDesc_044</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
+        <comment>TX_ParaDesc_051</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
+        <comment>TX_ParaDesc_059</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1 value2%1... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
+        <comment>TX_ParaDesc_060</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
+        <comment>TX_ParaDesc_094</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
+        <comment>TX_ParaDesc_139</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 values.</source>
+        <comment>TX_ParaDesc_152</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
+        <comment>TX_ParaDesc_153</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
+        <comment>TX_ParaDesc_160</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
+        <comment>TX_ParaDesc_203</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 255 values for which you want the least common multiple.</source>
+        <comment>TX_ParaDesc_205</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_234</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_235</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
+        <comment>TX_ParaDesc_237</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_244</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_245</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
+        <comment>TX_ParaDesc_254</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
+        <comment>TX_ParaDesc_274</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
+        <comment>TX_ParaDesc_281</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
+        <comment>TX_ParaDesc_307</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_351</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
+        <comment>TX_ParaDesc_360</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_372</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
+        <comment>TX_ParaDesc_373</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_374</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
+        <comment>TX_ParaDesc_375</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
+        <comment>TX_ParaDesc_381</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
+        <comment>TX_ParaDesc_382</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
+        <comment>TX_ParaDesc_386</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
+        <comment>TX_ParaDesc_387</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_424</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_425</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_426</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
+        <comment>TX_ParaDesc_476</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value 1%1value 2%1...1 to 30 of plural numbers, used to calculate the product.</source>
+        <comment>TX_ParaDesc_522</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaDesc_546</comment>
+        <translation type="unfinished">je ime »ID_programa« za registrirani dodatek COM za avtomatizacijo. Ime zapišite v narekovajih.</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaDesc_547</comment>
         <translation type="unfinished">ime zapišite v narekovajih.!je ime strežnika, v katerem naj se bi dodatek izvajal. Navedite ime v narekovajih. Če se dodatek izvaja lokalno, uporabite prazen niz.</translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_548</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directory_text</source>
+        <comment>TX_ParaInfo_351</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16456,7 +16589,7 @@ the category you want, and then choose the other options.</source>
         <comment>et_sGraphic</comment>
         <translation type="unfinished">Slika</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Only one picture can be inserted in each section of the %s.
 
 ·To replace existing picture, click OK.
@@ -17422,7 +17555,7 @@ tically, only keep one row.
         <source>GAMMALN(x)</source>
         <translation type="obsolete">GAMMALN(x)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns the natural logarithm of the gamma function,Γ(x).</source>
         <translation type="obsolete">Vrne naravni logaritem gama funkcije.</translation>
     </message>
@@ -17838,7 +17971,7 @@ tically, only keep one row.
         <source>Returns the Weibull distribution. Use this function in reliability analysis, such as calculating a device&apos;s mean time to failure.</source>
         <translation type="obsolete">Vrne Weibullovo porazdelitev.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>ZTEST(array,μ0,sigma)</source>
         <translation type="obsolete">ZTEST(matrika,μ0,sigma)</translation>
     </message>
@@ -18574,7 +18707,7 @@ tically, only keep one row.
         <source>GESTEP(number,step)</source>
         <translation type="obsolete">GESTEP(število,korak)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns 1 if number ≥ step and 0 (zero) otherwise. </source>
         <translation type="obsolete">Preskusi, ali je število večje od mejne vrednosti.</translation>
     </message>
@@ -18614,7 +18747,7 @@ tically, only keep one row.
         <source>IMARGUMENT(inumber)</source>
         <translation type="obsolete">IMARGUMENT(ištevilo)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns the argument θ(theta), which is an angle expressed in radians.</source>
         <translation type="obsolete">Vrne argument q, kot, izražen v radianih.</translation>
     </message>
@@ -19042,7 +19175,7 @@ tically, only keep one row.
         <source>Adds the cells specified by a given set of conditions or criteria.</source>
         <translation type="obsolete">Doda celice, ki jih navaja dani niz pogojev ali kriterijev.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2],…)</source>
         <translation type="obsolete">COUNTIFS(obseg_pogojev1, pogoji1, [obseg_pogojev2, pogoji2],…)</translation>
     </message>
@@ -19058,7 +19191,7 @@ tically, only keep one row.
         <source>Finds average (arithmetic mean) for the cells specified by a given condition or criteria.</source>
         <translation type="obsolete">Najde povprečje (aritmetično povprečno vrednost) za celice, navedene z danim pogojem ali kriterijem.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
         <translation type="obsolete">AVERAGEIFS(obseg_za_povprečje,obseg_pogojev1,pogoji1,obseg_pogojev2,pogoji2,…)</translation>
     </message>
@@ -19134,7 +19267,7 @@ tically, only keep one row.
 Do you want to continue saving as an XML Spreadsheet?</source>
         <translation type="obsolete">Ali želite nadaljevati shranjevanje v preglednico XML?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · AutoShapes, other objects, or charts
 </source>
         <translation type="obsolete">   Samooblike, drugi predmeti ali grafikoni
@@ -19144,25 +19277,25 @@ Do you want to continue saving as an XML Spreadsheet?</source>
         <source>A sheet in the workbook you are trying to save is password protected. Password protected sheets cannot be saved in an XML Spreadsheet. To save this file as an XML Spreadsheet, you must first remove the password.</source>
         <translation type="obsolete">A sheet in the workbook you are trying to save is password protected. Password protected sheets cannot be saved in an XML Spreadsheet. To save this file as an XML Spreadsheet, you must first remove the password.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Range-based user permissions
 </source>
         <translation type="obsolete">   Uporabniška dovoljenja na osnovi obsega
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Macro
 </source>
         <translation type="obsolete">   Makro
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · PivotTable
 </source>
         <translation type="obsolete"> · vrtilna tabela
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Import Data
 </source>
         <translation type="obsolete">   Uvoz podatkov
@@ -19174,19 +19307,19 @@ Do you want to continue saving as an XML Spreadsheet?</source>
         <translation type="obsolete">Pot je predolga. Poskusite s krajšim imenom.
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Comments
 </source>
         <translation type="obsolete">   Pripombe
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Protect Workbook
 </source>
         <translation type="obsolete">   Zaščiti delovni zvezek
 </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Protect Sheet
 </source>
         <translation type="obsolete">   Zaščiti list

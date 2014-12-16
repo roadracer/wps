@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sk">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>AdvQueryDlgUi</name>
     <message>
@@ -490,10 +491,6 @@ condition is true:</source>
 <context>
     <name>KValuesWidget</name>
     <message>
-        <source>Top 10...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Above Average</source>
         <translation type="unfinished"></translation>
     </message>
@@ -789,6 +786,10 @@ condition is true:</source>
         <source>Filter by Color</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Top 10</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
@@ -906,25 +907,6 @@ condition is true:</source>
     </message>
 </context>
 <context>
-    <name>KxAlignmentWidget</name>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtHori_0.png</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_0.png</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_1.png</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_2.png</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxApplication</name>
     <message>
         <source>Save As</source>
@@ -947,6 +929,44 @@ condition is true:</source>
     </message>
     <message>
         <source>&amp;Password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxBackgroundQueryMonitorUI</name>
+    <message>
+        <source>External Data Refresh Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Queries currently being excuted in the background:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxBackgroundQuery_monitor</name>
+    <message>
+        <source>&amp;Stop Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elapsed time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetching data...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of rows fetched:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please close this dialog to continue fetching data</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1006,6 +1026,189 @@ condition is true:</source>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxConditionHighLightDlg</name>
+    <message>
+        <source>HighLight - Numerial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_Equal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_NoEqual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_Large</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LargeEqual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_Less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LessEqual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_BetweenMidfix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_BetweenSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_NoBetween</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_TopCountPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_TopCountSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LowCountPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LowCountSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_TopPercentPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_TopPercentSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LowPercentPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LowPercentSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_AvgSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_AvgAbove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_AvgBelow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HighLight - Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text_Contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text_NoContain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text_BeginWith</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text_EndWith</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HighLight - Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Prefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Yesterday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_LateSeven</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_LastWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_NextWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_LastMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_NextMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HighLight - Special</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special_Empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special_Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A required input value is missing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>required range values is not enough</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1573,6 +1776,57 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>&amp;Delete...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgConditionHighLight</name>
+    <message>
+        <source>Condition HighLight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cells with following condition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>original setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>inside</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>spinPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>spinSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>directPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>directSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>123</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>show following effect</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2799,7 +3053,7 @@ cursor in the edit box and press the Format Picture button.</source>
         <source>lblRecord6</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -3601,6 +3855,22 @@ p, li { white-space: pre-wrap; }
         <source>Create &amp;backup files on first save</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -4157,15 +4427,15 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Entire Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Acti&amp;ve sheet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entire Wor&amp;kbook</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5509,6 +5779,10 @@ If this is correct, choose Next, or choose the data type that best describes you
         <source>Connection string or SQL has errors. WPS Spreadsheets can not import the data.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit Query</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxEt3DColorModel</name>
@@ -5807,6 +6081,25 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtLineColorModel</name>
     <message>
         <source>No Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtMacroErrorDlg</name>
+    <message>
+        <source>Macro Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>H&amp;alt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Goto</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6926,6 +7219,18 @@ on iteration #%2.</source>
         <source>Options</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
@@ -7958,6 +8263,30 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     <name>KxUnprotectSheetDlg</name>
     <message>
         <source>The password you supplied is not correct. Verify that the CAPS LOCK key is off and be sure to use the correct capitalization.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxUpdateExternalLinkDlg</name>
+    <message>
+        <source>SpreadSheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are links to other data sources in this workbook.
+
+•If you update the links, WPS Spreadsheets will try to get the latest data.
+•If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
+
+Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Don&apos;t Update</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

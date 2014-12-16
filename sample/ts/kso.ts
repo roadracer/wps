@@ -206,11 +206,6 @@ Please check your system settings and ensure the temporary directory under the c
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The contents of the clipboard will be inserted as a JPG picture.</source>
-        <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Formatted Text (RTF)</source>
         <comment>TX_KSO_CF_RTF_DISPNAME</comment>
         <translation type="unfinished"></translation>
@@ -268,6 +263,11 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Picture(PNG)</source>
         <comment>TX_KSO_MSO_CF_PIC_PNG_DISPNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as a JPG picture.</source>
+        <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -541,11 +541,6 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Change Points</source>
         <comment>DgUil_KSO_Cmd_EditPoints</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change to Autoshape</source>
-        <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1059,11 +1054,6 @@ Please check your system settings and ensure the temporary directory under the c
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>AutoShape</source>
-        <comment>DgUil_KSO_Cmd_DynamicShape</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Edit Text</source>
         <comment>DgUil_KSO_Cmd_EditText</comment>
         <translation type="unfinished"></translation>
@@ -1302,6 +1292,16 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
         <comment>DgUil_KSO_MediaFilePathIncorrect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change to Autoshape</source>
+        <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoShape</source>
+        <comment>DgUil_KSO_Cmd_DynamicShape</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1928,7 +1928,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flowchart: Sequential Access Storage</source>
+        <source>Flowchart: Seqential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2290,11 +2290,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPSHAPE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CD Drive</source>
-        <comment>DRAWINGSTR_CDDRIVE</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2828,11 +2823,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Object</source>
-        <comment>DRAWINGSTR_OLECONTROL_OBJECT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change Picture</source>
         <comment>DRAWINGSTR_CHANGE_PICTURE</comment>
         <translation type="unfinished"></translation>
@@ -2938,13 +2928,23 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Black Gradient</source>
-        <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
+        <source>FreeForm</source>
+        <comment>DRAWINGSTR_FREEFORM</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>FreeForm</source>
-        <comment>DRAWINGSTR_FREEFORM</comment>
+        <source>CD Drive</source>
+        <comment>DRAWINGSTR_CDDRIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <comment>DRAWINGSTR_OLECONTROL_OBJECT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Black Gradient</source>
+        <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3099,6 +3099,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You have no permission to save files. Please check your permission information.</source>
+        <comment>TxKRM_Msg_SaveFileDenied</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Restrict Permission...</source>
         <comment>TxKRM_Menu_Rights</comment>
         <translation type="unfinished"></translation>
@@ -3106,11 +3111,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>The number of copies is out of range. Do you want to cut the number of copies or cancel this print task?</source>
         <comment>TxKRM_Msg_PrintCopiesDenied</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have no permission to save files. Please check your permission information.</source>
-        <comment>TxKRM_Msg_SaveFileDenied</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3309,11 +3309,6 @@ File: %s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send out successfully</source>
-        <comment>_kso_ErrorRep_MessageBox_CompleteSend_Title</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Data transfer completed, thanks for your support.</source>
         <comment>_kso_ErrorRep_MessageBox_CompleteSend_Content</comment>
         <translation type="unfinished"></translation>
@@ -3326,12 +3321,6 @@ File: %s
     <message>
         <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
         <comment>_kso_ErrorRep_MessageBox_TerminateSend_Content</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The password is incorrect, please reenter.
-You can choose Read-only button to open it as read-only.</source>
-        <comment>_kso_Prompt_ModifyPassword</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3936,11 +3925,6 @@ You can click the button to recover files you work on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Document Image Files</source>
-        <comment>_kso_filesearch_DocumentImagingFiles</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Visio Files</source>
         <comment>_kso_filesearch_VisioFiles</comment>
         <translation type="unfinished"></translation>
@@ -3948,11 +3932,6 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>WebPages</source>
         <comment>_kso_filesearch_WebPages</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File Name</source>
-        <comment>_kso_filesearch_FileName</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3990,16 +3969,30 @@ You can click the button to recover files you work on.</source>
         <comment>_kso_WarmingRep_MediaPlay_wpp</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Send out successfully</source>
+        <comment>_kso_ErrorRep_MessageBox_CompleteSend_Title</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password is incorrect, please reenter.
+You can choose Read-only button to open it as read-only.</source>
+        <comment>_kso_Prompt_ModifyPassword</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Image Files</source>
+        <comment>_kso_filesearch_DocumentImagingFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <comment>_kso_filesearch_FileName</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_print</name>
-    <message>
-        <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
-You can add the customized paper %dmm x %dmm in printer properties and print it again.
-Do you want to continue?</source>
-        <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>WPS Office has not found any installed printers.</source>
         <comment>_ksoErr_Print_NoPrinter</comment>
@@ -4034,6 +4027,13 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>All Files(*.*)|*.*|Printer Files(*.prn)|*.prn</source>
         <comment>_kso_Print_OutputFileDialog_Filter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
+You can add the customized paper %dmm�%dmm in printer properties and print it again.
+Do you want to continue?</source>
+        <comment>_ksoErr_Print_PaperNoSupport</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4325,26 +4325,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear backup files automatically before closing application.</source>
-        <comment>kso_sClearBackup</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear clipboard automatically before closing application.</source>
-        <comment>kso_sClearClipboard</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Recent File Lists automatically before closing application.</source>
-        <comment>kso_sClearRecents</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear temporary files automatically before closing application.</source>
-        <comment>kso_sClearTemp</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_Caption</comment>
         <translation type="unfinished"></translation>
@@ -4367,11 +4347,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Failed to modify the Add-In settings</source>
         <comment>kso_sCOMAddinApplied</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Load on Demand (already loaded)</source>
-        <comment>kso_sConnectFirstTime</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4540,11 +4515,6 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <comment>kso_sErrMsg_HideAllItems</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The key length must be a multiple of 8 between %d and %d.</source>
         <comment>kso_sErrorKeylength</comment>
         <translation type="unfinished"></translation>
@@ -4560,23 +4530,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The position you chose to place the PivotTable is not valid. 
-Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
-        <comment>kso_sErrorWhenCreateTable_SheetPosErr</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot modify the PivotTable with these data.
-Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <comment>kso_sErrorWhenModifyTable</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4702,11 +4660,6 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>&lt;&lt;Selection in Document&gt;&gt;</source>
         <comment>kso_sHyperlinkDisplayTextCannotModify</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred while importing this file %s.</source>
-        <comment>kso_sImportPictureError</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4947,11 +4900,6 @@ If you are changing the name of a PivotTable field, you must type a new name for
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ice Blue</source>
-        <comment>kso_sKclIceBlue</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Indigo</source>
         <comment>kso_sKclIndigo</comment>
         <translation type="unfinished"></translation>
@@ -4994,11 +4942,6 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Lime</source>
         <comment>kso_sKclLime</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ocean Blue</source>
-        <comment>kso_sKclOceanBlue</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5169,16 +5112,6 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Square Dot</source>
         <comment>kso_sLineSquareDot</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading DLL failed</source>
-        <comment>kso_sLoadLibFailAndFatal_Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading %s failed. Application will terminate. Please check and try again.</source>
-        <comment>kso_sLoadLibFailAndFatal_Text</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5442,18 +5375,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Automatically check file security troubles before closing application.</source>
-        <comment>kso_sSecurityOptionClose</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please select one &amp;folder:</source>
         <comment>kso_sSelectPathDescript</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatically check file security troubles before sending e-mail.</source>
-        <comment>kso_sSendMail</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5632,23 +5555,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>More Buttons</source>
-        <comment>kso_sTBChevronItemMoreButtonsHint</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Template</source>
         <comment>kso_sTemplate</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>What you entered is invalid.</source>
-        <comment>kso_sTextDeclined_FloatWarning</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is not a valid integer.</source>
-        <comment>kso_sTextDeclined_IntWarning</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5659,11 +5567,6 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Select Texture</source>
         <comment>kso_sTextureOpenDialogCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D Style %d</source>
-        <comment>kso_sThreeDStyleFormat</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6107,11 +6010,6 @@ For better service, please update the trial edition to standard edition by:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zigzag</source>
-        <comment>kso_sZigZag</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%s Properties</source>
         <comment>kso_sDlgPropertyCaption</comment>
         <translation type="unfinished"></translation>
@@ -6139,16 +6037,6 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; command?</source>
         <comment>kso_sResetCommand</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
-        <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input the password of permission setting.</source>
-        <comment>kso_sNoPasswordInput</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6184,11 +6072,6 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Open</source>
         <comment>kso_Nav_Open</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open in browser</source>
-        <comment>kso_Nav_OpenBroser</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6370,11 +6253,6 @@ Used to show steps toward a goal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
-        <comment>kso_sFailToSendMail</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The installation or update patches are running, %s will exit, please run %s again after the completion of installation or updating.</source>
         <comment>kso_sInstallPackageRunning</comment>
         <translation type="unfinished"></translation>
@@ -6407,6 +6285,128 @@ Used to show steps toward a goal</source>
     <message>
         <source>Custom CommandBar %ld</source>
         <comment>kso_Custom_CommandBar_Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear backup files automatically before closing application.</source>
+        <comment>kso_sClearBackup</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear clipboard automatically before closing application.</source>
+        <comment>kso_sClearClipboard</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Recent File Lists automatically before closing application.</source>
+        <comment>kso_sClearRecents</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear temporary files automatically before closing application.</source>
+        <comment>kso_sClearTemp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load on Demand (already loaded)</source>
+        <comment>kso_sConnectFirstTime</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
+        <comment>kso_sErrMsg_HideAllItems</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The position you chose to place the PivotTable is not valid. 
+Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
+        <comment>kso_sErrorWhenCreateTable_SheetPosErr</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot modify the PivotTable with these data.
+Please check your data and make sure that the reference is valid and the worksheet exists.</source>
+        <comment>kso_sErrorWhenModifyTable</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred while importing this file %s.</source>
+        <comment>kso_sImportPictureError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ice Blue</source>
+        <comment>kso_sKclIceBlue</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ocean Blue</source>
+        <comment>kso_sKclOceanBlue</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading DLL failed</source>
+        <comment>kso_sLoadLibFailAndFatal_Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading %s failed. Application will terminate. Please check and try again.</source>
+        <comment>kso_sLoadLibFailAndFatal_Text</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically check file security troubles before closing application.</source>
+        <comment>kso_sSecurityOptionClose</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically check file security troubles before sending e-mail.</source>
+        <comment>kso_sSendMail</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Buttons</source>
+        <comment>kso_sTBChevronItemMoreButtonsHint</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What you entered is invalid.</source>
+        <comment>kso_sTextDeclined_FloatWarning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <comment>kso_sTextDeclined_IntWarning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D Style %d</source>
+        <comment>kso_sThreeDStyleFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zigzag</source>
+        <comment>kso_sZigZag</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
+        <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the password of permission setting.</source>
+        <comment>kso_sNoPasswordInput</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <comment>kso_Nav_OpenBroser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
+        <comment>kso_sFailToSendMail</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

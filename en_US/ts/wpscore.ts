@@ -108,15 +108,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer encountered an error when trying to update source file.
-Try one or more of the following:
-1、Check whether the source file has been opened or occupied by other programs.
-2、Check whether the source file is protected.
-3、Ensure that the source file is in the appropriate directory.</source>
-        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error! Unknown switch argument.</source>
         <comment>TX_FIELD_ERR_UNKNOWN_SWITCH_ARGUMENT</comment>
         <translation type="unfinished"></translation>
@@ -129,6 +120,15 @@ Try one or more of the following:
     <message>
         <source>Error! Picture string contains unmatched quotes.</source>
         <comment>TX_FIELD_ERR_PICTURE_STRING_CONTAINS_UNMATCHED_QUOTES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1381,46 +1381,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer</source>
-        <comment>_TxApp_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot open the Data Source.</source>
-        <comment>_TxMailMerge_OpenDataSourceErr</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer document data</source>
-        <comment>_TxClipboardDesc_Xml</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the document.</source>
-        <comment>_TxFind_FinishSearchingDoc</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the document.</source>
-        <comment>_TxFind_FinishSearchingDoc2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the selection.</source>
-        <comment>_TxFind_FinishSearchingSelection</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has reached the beginning of the document.</source>
-        <comment>_TxFind_ReachBeginningOfDoc</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has reached the end of the document.</source>
-        <comment>_TxFind_ReachEndOfDoc</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left</source>
         <comment>TxRevision_Bop_Left</comment>
         <translation type="unfinished"></translation>
@@ -2155,8 +2115,38 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Writer has reached the beginning of the document.</source>
+        <comment>_TxFind_ReachBeginningOfDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer has reached the end of the document.</source>
+        <comment>_TxFind_ReachEndOfDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document.</source>
+        <comment>_TxFind_FinishSearchingDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document.</source>
+        <comment>_TxFind_FinishSearchingDoc2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the selection.</source>
+        <comment>_TxFind_FinishSearchingSelection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%s is not a valid special character for the Replace With box.</source>
         <comment>_TxFind_NoValidReplacementStr</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer document data</source>
+        <comment>_TxClipboardDesc_Xml</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2172,6 +2162,11 @@ Do you want to replace it?</source>
     <message>
         <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_NoRecordExecute</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open the Data Source.</source>
+        <comment>_TxMailMerge_OpenDataSourceErr</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2205,6 +2200,11 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Writer</source>
+        <comment>_TxApp_Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The Replace With text contains a group number which is out of range.</source>
         <comment>_TxFind_MoreReplacementGroups</comment>
         <translation type="unfinished"></translation>
@@ -2220,12 +2220,12 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
-        <comment>_TxSaveMHTHTMLWarning</comment>
+        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
+        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
+        <comment>_TxSaveMHTHTMLWarning</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2249,6 +2249,31 @@ Do you want to replace it?</source>
     <message>
         <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
         <comment>TxReload_ConfirmDropChanges</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recorded %d too much data fields.</source>
+        <comment>_TxMailMerge_FieldsTooMuch</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recorded %d too few data fields.</source>
+        <comment>_TxMailMerge_FieldsTooFew</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recorded %d is empty.</source>
+        <comment>_TxMailMerge_FieldsEmpty</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2392,14 +2417,6 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%s may contain some features that are not compatible with %s format. Do you want to keep the document in this format?
-
-•If you want to keep this format, click Yes.
-•If you want to preserve the features, click No. Then save a copy as the latest WPS Writer format.</source>
-        <comment>_TxDocument_FormatNotCompatible</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>*.*</source>
         <comment>TxExts_All</comment>
         <translation type="unfinished"></translation>
@@ -2446,14 +2463,6 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Errors occur when WPS Writer is opening this file.
-Please try one of the following.
-•Make sure you are permitted to access this file or drive.
-•Make sure there is enough memory and disk space.</source>
-        <comment>_TxDocument_OpenFailure</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Graphic objects cannot be placed in a text box, label annotations, footnotes or endnotes.</source>
         <comment>_TxDocument_PlaceDrawingWarning</comment>
         <translation type="unfinished"></translation>
@@ -2466,31 +2475,6 @@ Please try one of the following.
     <message>
         <source>ICBC Preparatory Documents(*.ic1)</source>
         <comment>TxDesc_IC1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot give a document the same name as an open document.
-Type a different name for the document you want to save.
-(%s)</source>
-        <comment>_TxDocument_SaveFailureShared</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot open this file, because the password is not correct.
-</source>
-        <comment>_TxDocument_OpenPasswordFailure2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot open this file, because the password is not correct.
-(%s)</source>
-        <comment>_TxDocument_OpenPasswordFailure</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot save this file due to a file permission error.
-(%s)</source>
-        <comment>_TxDocument_SaveFailurePermission</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2519,11 +2503,6 @@ Data from your database will be placed in the document. Do you want to continue?
     <message>
         <source>Permission for &quot;%s&quot; is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
         <comment>_TxDocument_CannotInsertKRMFile</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
-        <comment>_TxDocument_KRM_RightsWillLost</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2612,18 +2591,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
-Do you still want to open this file?
-
-•Click Yes, WPS Writer will continue to open this file.
-•Click No, WPS Writer will stop opening this file.
-
-Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
-(%s)</source>
-        <comment>_TxDocument_AVFailed</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
         <translation type="unfinished"></translation>
@@ -2631,6 +2598,25 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>templates</source>
         <comment>_TxDocument_TemplatesDirectory</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
+        <comment>TxExts_AllWPS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when WPS Writer is opening this file.
+Please try one of the following.
+•Make sure you are permitted to access this file or drive.
+•Make sure there is enough memory and disk space.</source>
+        <comment>_TxDocument_OpenFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open this file, because the password is not correct.
+(%s)</source>
+        <comment>_TxDocument_OpenPasswordFailure</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2644,6 +2630,37 @@ If you are trying to open the file from your recently used file list on the File
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>_TxDocument_SaveFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save this file due to a file permission error.
+(%s)</source>
+        <comment>_TxDocument_SaveFailurePermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s may contain some features that are not compatible with %s format. Do you want to keep the document in this format?
+
+•If you want to keep this format, click Yes.
+•If you want to preserve the features, click No. Then save a copy as the latest WPS Writer format.</source>
+        <comment>_TxDocument_FormatNotCompatible</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
+Do you still want to open this file?
+
+•Click Yes, WPS Writer will continue to open this file.
+•Click No, WPS Writer will stop opening this file.
+
+Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
+(%s)</source>
+        <comment>_TxDocument_AVFailed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
+        <comment>_TxDocument_KRM_RightsWillLost</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2661,8 +2678,16 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
-        <comment>TxExts_AllWPS</comment>
+        <source>WPS Writer cannot give a document the same name as an open document.
+Type a different name for the document you want to save.
+(%s)</source>
+        <comment>_TxDocument_SaveFailureShared</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open this file, because the password is not correct.
+</source>
+        <comment>_TxDocument_OpenPasswordFailure2</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2673,6 +2698,12 @@ Please try one of the following.
     <message>
         <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
         <comment>TxExts_AllWPSEx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>_TxDocument_MsgBackupToDef</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3472,41 +3503,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer cannot replace the found item with text containing a break.</source>
-        <comment>wps_sCantReplaceBreak</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer could not determine the destination.</source>
-        <comment>wps_sNotDetermine</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
-        <comment>wps_sHasCheckedSelection</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the document and made %d replacements.</source>
-        <comment>wps_sReplaceAllWithCount</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the document.</source>
-        <comment>wps_sFinishedSearch</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has finished searching the document. The search item was not found.</source>
-        <comment>wps_sFinishedNoItem</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
-        <comment>wps_sHint</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Last Name</source>
         <comment>wps_sLastName</comment>
         <translation type="unfinished"></translation>
@@ -3824,11 +3820,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Redo %d Action(s)</source>
         <comment>wps_sRedoListCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <comment>wps_sRemoveDefaultDict</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4342,8 +4333,18 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Writer cannot replace the found item with text containing a break.</source>
+        <comment>wps_sCantReplaceBreak</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Incorrect dictionary. You cannot modify.</source>
         <comment>wps_sDictError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Final Show Markup,Final,Original Show Markup,Original</source>
+        <comment>wps_sDisplayForReview</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4372,6 +4373,26 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Writer has finished searching the document. The search item was not found.</source>
+        <comment>wps_sFinishedNoItem</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document.</source>
+        <comment>wps_sFinishedSearch</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
+        <comment>wps_sHasCheckedSelection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
+        <comment>wps_sHint</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The %s margins are too large for the page %s in some sections.</source>
         <comment>wps_sMarginsLarge</comment>
         <translation type="unfinished"></translation>
@@ -4379,6 +4400,11 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Permission Password and Document Open Password must be different.</source>
         <comment>wps_sMasterAndUserPasswordIsSame</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer could not determine the destination.</source>
+        <comment>wps_sNotDetermine</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4394,6 +4420,16 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Incorrect password.</source>
         <comment>wps_sPasswordError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phonetic Guide for Last Name</source>
+        <comment>wps_sPhoneticGuideforlastName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document and made %d replacements.</source>
+        <comment>wps_sReplaceAllWithCount</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4424,6 +4460,11 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <comment>wps_sRemoveDefaultDict</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4491,16 +4532,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>For &amp;which caption:</source>
         <comment>wps_sCrossRef_WitchCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Final Show Markup,Final,Original Show Markup,Original</source>
-        <comment>wps_sDisplayForReview</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Phonetic Guide for Last Name</source>
-        <comment>wps_sPhoneticGuideforlastName</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4678,11 +4709,6 @@ To follow this link, please hold down Ctrl and click.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
-        <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All Files(*.*) | *.*; |</source>
         <comment>TxDesc_DataSource_All</comment>
         <translation type="unfinished"></translation>
@@ -4690,11 +4716,6 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>All Web Pages(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</source>
         <comment>TxDesc_DataSource_htm</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All Word Documents(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</source>
-        <comment>TxDesc_DataSource_alldoc</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5251,21 +5272,6 @@ Protection</source>
     <message>
         <source>Italic</source>
         <comment>TxVersion_Italic</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office has finished searching the document</source>
-        <comment>TxMessage_FinishedSearchException</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Files(*.et) | *.et; |</source>
-        <comment>TxDesc_DataSource_et</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer 2007/2010 File(*.wpsx)</source>
-        <comment>TxDesc_DataSource_wpsx</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5869,11 +5875,6 @@ Protection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This function is provided in WPS Office Professional.</source>
-        <comment>TxMessage_ProVerOnly</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This is an invalid selection.</source>
         <comment>TxVersion_RClickMove_InvalidSel</comment>
         <translation type="unfinished"></translation>
@@ -5970,11 +5971,6 @@ Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Word Documents(*.doc) | *.doc; |</source>
-        <comment>TxDesc_DataSource_doc</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>[Disabled]</source>
         <comment>TxVersion_shieldedFunction</comment>
         <translation type="unfinished"></translation>
@@ -6000,13 +5996,8 @@ Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stop Recording</source>
-        <comment>TXWps_RecordMacro_Stop</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Record Macro</source>
-        <comment>TXWps_RecordMacro_Start</comment>
+        <source>WPS Spreadsheets Files(*.et) | *.et; |</source>
+        <comment>TxDesc_DataSource_et</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6036,6 +6027,11 @@ To add another text box to your document, click Text Box on the Insert menu and 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This function is provided in WPS Office Professional.</source>
+        <comment>TxMessage_ProVerOnly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Remove Cell Partition</source>
         <comment>TxVersion_EraserCells</comment>
         <translation type="unfinished"></translation>
@@ -6057,8 +6053,23 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date/Time</source>
-        <comment>TxVersion_InsDateTime</comment>
+        <source>WPS Office has finished searching the document</source>
+        <comment>TxMessage_FinishedSearchException</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Recording</source>
+        <comment>TXWps_RecordMacro_Stop</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record Macro</source>
+        <comment>TXWps_RecordMacro_Start</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 File(*.wpsx)</source>
+        <comment>TxDesc_DataSource_wpsx</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6287,8 +6298,528 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Date/Time</source>
+        <comment>TxVersion_InsDateTime</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WPS Writer 2007/2010 Template(*.wptx)</source>
         <comment>TxDesc_DataSource_wptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading</source>
+        <comment>TxTableStyle_LightShading</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List</source>
+        <comment>TxTableStyle_LightList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid</source>
+        <comment>TxTableStyle_LightGrid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1</source>
+        <comment>TxTableStyle_MediumShading1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2</source>
+        <comment>TxTableStyle_MediumShading2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1</source>
+        <comment>TxTableStyle_MediumList1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2</source>
+        <comment>TxTableStyle_MediumList2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1</source>
+        <comment>TxTableStyle_MediumGrid1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2</source>
+        <comment>TxTableStyle_MediumGrid2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3</source>
+        <comment>TxTableStyle_MediumGrid3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List</source>
+        <comment>TxTableStyle_DarkList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading</source>
+        <comment>TxTableStyle_ColorfulShading</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List</source>
+        <comment>TxTableStyle_ColorfulList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid</source>
+        <comment>TxTableStyle_ColorfulGrid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 1</source>
+        <comment>TxTableStyle_LightShadingAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 1</source>
+        <comment>TxTableStyle_LightListAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 1</source>
+        <comment>TxTableStyle_LightGridAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 1</source>
+        <comment>TxTableStyle_MediumShading1Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 1</source>
+        <comment>TxTableStyle_MediumShading2Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 1</source>
+        <comment>TxTableStyle_MediumList1Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 1</source>
+        <comment>TxTableStyle_MediumList2Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid1Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid2Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid3Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 1</source>
+        <comment>TxTableStyle_DarkListAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 1</source>
+        <comment>TxTableStyle_ColorfulShadingAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 1</source>
+        <comment>TxTableStyle_ColorfulListAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 1</source>
+        <comment>TxTableStyle_ColorfulGridAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 2</source>
+        <comment>TxTableStyle_LightShadingAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 2</source>
+        <comment>TxTableStyle_LightListAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 2</source>
+        <comment>TxTableStyle_LightGridAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 2</source>
+        <comment>TxTableStyle_MediumShading1Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 2</source>
+        <comment>TxTableStyle_MediumShading2Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 2</source>
+        <comment>TxTableStyle_MediumList1Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 2</source>
+        <comment>TxTableStyle_MediumList2Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid1Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid2Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid3Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 2</source>
+        <comment>TxTableStyle_DarkListAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 2</source>
+        <comment>TxTableStyle_ColorfulShadingAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 2</source>
+        <comment>TxTableStyle_ColorfulListAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 2</source>
+        <comment>TxTableStyle_ColorfulGridAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 3</source>
+        <comment>TxTableStyle_LightShadingAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 3</source>
+        <comment>TxTableStyle_LightListAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 3</source>
+        <comment>TxTableStyle_LightGridAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 3</source>
+        <comment>TxTableStyle_MediumShading1Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 3</source>
+        <comment>TxTableStyle_MediumShading2Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 3</source>
+        <comment>TxTableStyle_MediumList1Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 3</source>
+        <comment>TxTableStyle_MediumList2Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid1Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid2Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid3Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 3</source>
+        <comment>TxTableStyle_DarkListAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 3</source>
+        <comment>TxTableStyle_ColorfulShadingAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 3</source>
+        <comment>TxTableStyle_ColorfulListAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 3</source>
+        <comment>TxTableStyle_ColorfulGridAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 4</source>
+        <comment>TxTableStyle_LightShadingAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 4</source>
+        <comment>TxTableStyle_LightListAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 4</source>
+        <comment>TxTableStyle_LightGridAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 4</source>
+        <comment>TxTableStyle_MediumShading1Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 4</source>
+        <comment>TxTableStyle_MediumShading2Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 4</source>
+        <comment>TxTableStyle_MediumList1Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 4</source>
+        <comment>TxTableStyle_MediumList2Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid1Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid2Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid3Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 4</source>
+        <comment>TxTableStyle_DarkListAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 4</source>
+        <comment>TxTableStyle_ColorfulShadingAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 4</source>
+        <comment>TxTableStyle_ColorfulListAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 4</source>
+        <comment>TxTableStyle_ColorfulGridAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 5</source>
+        <comment>TxTableStyle_LightShadingAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 5</source>
+        <comment>TxTableStyle_LightListAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 5</source>
+        <comment>TxTableStyle_LightGridAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 5</source>
+        <comment>TxTableStyle_MediumShading1Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 5</source>
+        <comment>TxTableStyle_MediumShading2Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 5</source>
+        <comment>TxTableStyle_MediumList1Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 5</source>
+        <comment>TxTableStyle_MediumList2Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid1Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid2Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid3Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 5</source>
+        <comment>TxTableStyle_DarkListAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 5</source>
+        <comment>TxTableStyle_ColorfulShadingAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 5</source>
+        <comment>TxTableStyle_ColorfulListAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 5</source>
+        <comment>TxTableStyle_ColorfulGridAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 6</source>
+        <comment>TxTableStyle_LightShadingAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 6</source>
+        <comment>TxTableStyle_LightListAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 6</source>
+        <comment>TxTableStyle_LightGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 6</source>
+        <comment>TxTableStyle_MediumShading1Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 6</source>
+        <comment>TxTableStyle_MediumShading2Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 6</source>
+        <comment>TxTableStyle_MediumList1Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 6</source>
+        <comment>TxTableStyle_MediumList2Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid1Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid2Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid3Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 6</source>
+        <comment>TxTableStyle_DarkListAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 6</source>
+        <comment>TxTableStyle_ColorfulShadingAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 6</source>
+        <comment>TxTableStyle_ColorfulListAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 6</source>
+        <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoFit to Content</source>
+        <comment>TxVersion_AutoFitContent</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
+        <comment>TxDesc_DataSource_AllDataSource</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word Documents(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</source>
+        <comment>TxDesc_DataSource_doc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Word Documents(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</source>
+        <comment>TxDesc_DataSource_alldoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
+        <comment>TxDesc_DataSource_allwps</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

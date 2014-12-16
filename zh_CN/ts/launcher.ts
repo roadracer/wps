@@ -6,7 +6,7 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>Welcome to the WPS Office</source>
-        <translation type="unfinished">欢迎使用WPS Office</translation>
+        <translation type="obsolete">欢迎使用WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -22,11 +22,19 @@
     </message>
     <message>
         <source>Create shortcuts to desktop</source>
-        <translation type="unfinished">创建桌面快捷方式</translation>
+        <translation type="obsolete">创建桌面快捷方式</translation>
     </message>
     <message>
         <source>KLauncherWidget</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Welcome to WPS Office</source>
+        <translation type="unfinished">欢迎使用WPS Office</translation>
+    </message>
+    <message>
+        <source>Create desktop shortcuts</source>
+        <translation type="unfinished">创建桌面快捷方式</translation>
     </message>
 </context>
 <context>

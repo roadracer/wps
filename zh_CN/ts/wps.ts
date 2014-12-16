@@ -1011,7 +1011,7 @@
     </message>
     <message>
         <source>No content</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3019,7 +3019,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Full Path</source>
-        <translation type="unfinished">路径</translation>
+        <translation>路径</translation>
     </message>
 </context>
 <context>
@@ -3283,7 +3283,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>ch, 2, 0.01, 150.85, 0.5</source>
-        <translation type="unfinished">ch, 2, 0.01, 150.85, 0.5</translation>
+        <translation>ch, 2, 0.01, 150.85, 0.5</translation>
     </message>
     <message>
         <source>line, 2, 0.01, 109.24, 0.5</source>
@@ -3295,7 +3295,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 1, 0, 1584, 1</source>
-        <translation type="unfinished">pt, 1, 0, 1584, 1</translation>
+        <translation>pt, 1, 0, 1584, 1</translation>
     </message>
     <message>
         <source>pt, 2, 0.05, 1584</source>
@@ -3303,7 +3303,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, 0.05, 1584, 1</source>
-        <translation type="unfinished">pt, 2, 0.05, 1584, 1</translation>
+        <translation>pt, 2, 0.05, 1584, 1</translation>
     </message>
     <message>
         <source>Object snapping</source>
@@ -3417,11 +3417,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>bnDown</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>bnUp</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cmbMarcroEntry</source>
@@ -3494,7 +3494,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">对话框</translation>
+        <translation>对话框</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
@@ -3502,7 +3502,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>提示</translation>
     </message>
     <message>
         <source>The document has applied online font. If your document needs to be circulated, we recommend that you save the font in document. 
@@ -3964,7 +3964,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Format Label</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Format options:</source>
@@ -4072,11 +4072,11 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>find options</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>find result</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>highlight the &amp;result</source>
@@ -4084,7 +4084,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>replace options</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Format:</source>
@@ -4182,7 +4182,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>find text</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Find Style</source>
@@ -4915,7 +4915,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>pt, 2, -2.14748e+09, 2.14748e+09, 10</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>pt, 2, -2147483647, 2147483647, 10</source>
@@ -4989,7 +4989,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>buttonGroup_mode</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>millimeter</source>
@@ -5818,27 +5818,27 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>buttonBoxn</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbxAddToTemplaten</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbxStyleBaseOn</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbxStyleFollow</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbxStyleType</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>edStyleName</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>groupBox</source>
@@ -5846,47 +5846,47 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>groupBox_2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>label</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>label_2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>label_3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>label_4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>lbFontName_3n</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>lbFontNamen</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>lbLineSpacen</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>lbMoven</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>pmbFormatn</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>scPreview</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6328,12 +6328,12 @@ Example: +4 will move forward four items:</source>
         <translation>文件位置</translation>
     </message>
     <message>
-        <source>File encryption options for this document</source>
-        <translation>此文档的文件加密选项</translation>
+        <source>File encryption options for this document:</source>
+        <translation>打开权限:</translation>
     </message>
     <message>
-        <source>File sharing options for this document</source>
-        <translation>此文档的文件共享选项</translation>
+        <source>File sharing options for this document:</source>
+        <translation>编辑权限:</translation>
     </message>
     <message>
         <source>First and last characters</source>
@@ -6849,7 +6849,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
-        <translation type="unfinished">ch, 0, 0, 100, 1</translation>
+        <translation>ch, 0, 0, 100, 1</translation>
     </message>
     <message>
         <source>ch, 0, 0, 120</source>
@@ -6857,7 +6857,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>ch, 0, 0, 120, 1</source>
-        <translation type="unfinished">ch, 0, 0, 120, 1</translation>
+        <translation>ch, 0, 0, 120, 1</translation>
     </message>
     <message>
         <source>ch, 0, 5, 10</source>
@@ -6873,7 +6873,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>pt, 0, 0, 898.75, 1</source>
-        <translation type="unfinished">pt, 0, 0, 898.75, 1</translation>
+        <translation>pt, 0, 0, 898.75, 1</translation>
     </message>
     <message>
         <source>pt, 2, 0, 898.75</source>
@@ -6945,7 +6945,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Smart Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>智能备份</translation>
     </message>
     <message>
         <source>Embed &amp;TrueType</source>
@@ -6972,9 +6972,8 @@ Example: +4 will move forward four items:</source>
         <translation>打印(包括批注框)</translation>
     </message>
     <message>
-        <source>Enter a password below to protect this document.
-The Advanced button allows you to choose from different encryption types.</source>
-        <translation>在下面的密码框中输入的密码会保护您的文档，点击“高级”按钮选择不同的加密类型，可以为您的文档设置不同级别的加密保护。</translation>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation>点击“高级”按钮选择不同的加密类型，可以为您的文档设置不同级别的加密保护。</translation>
     </message>
     <message>
         <source>Privacy options</source>
@@ -7030,11 +7029,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>隐私</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -7059,15 +7058,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>220 ppi</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>150 ppi</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>96 ppi</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
@@ -7095,11 +7094,27 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished">最近使用的文档</translation>
+        <translation>最近使用的文档</translation>
     </message>
     <message>
         <source>Reminder for embedding &amp;cloud fonts in the file</source>
         <translation>提醒我是否将云字体嵌入文件中(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation>在任务栏中显示所有窗口(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation>密码保护</translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation>自动恢复文件位置(&amp;R):</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>浏览(&amp;B)...</translation>
     </message>
 </context>
 <context>
@@ -7920,7 +7935,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>ch, 2, 0, 316.8, 0.5</source>
-        <translation type="unfinished">ch, 2, 0, 316.8, 0.5</translation>
+        <translation>ch, 2, 0, 316.8, 0.5</translation>
     </message>
     <message>
         <source>line, 2, 0, 316.8, 0.5</source>
@@ -7936,11 +7951,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
-        <translation type="unfinished">pt, 2, 0, 1584, 1</translation>
+        <translation>pt, 2, 0, 1584, 1</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 6</source>
-        <translation type="unfinished">pt, 2, 0, 1584, 6</translation>
+        <translation>pt, 2, 0, 1584, 6</translation>
     </message>
     <message>
         <source>Right-to-le&amp;ft</source>
@@ -7995,11 +8010,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>0-1-0</source>
-        <translation type="unfinished">0-1-0</translation>
+        <translation>0-1-0</translation>
     </message>
     <message>
         <source>1-2-1</source>
-        <translation type="unfinished">1-2-1</translation>
+        <translation>1-2-1</translation>
     </message>
     <message>
         <source>A&amp;lignment:</source>
@@ -8715,7 +8730,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>ch, 2, -150.86, 150.86, 0.5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>ch, 2, 0, 150.86</source>
@@ -8723,15 +8738,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>ch, 2, 0, 150.86, 0.5</source>
-        <translation type="unfinished">ch, 2, 0, 150.86, 0.5</translation>
+        <translation>ch, 2, 0, 150.86, 0.5</translation>
     </message>
     <message>
         <source>ch, pt, 10.5, 0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>pt, 2, -1538, 1584, 1</source>
-        <translation type="unfinished">pt, 1, -1538, 1584, 1 {2,?}</translation>
+        <translation>pt, 1, -1538, 1584, 1 {2,?}</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1538</source>
@@ -8739,7 +8754,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, 2, 0, 1538, 1</source>
-        <translation type="unfinished">pt, 2, 0, 1538, 1</translation>
+        <translation>pt, 2, 0, 1538, 1</translation>
     </message>
     <message>
         <source>·······</source>
@@ -8922,6 +8937,153 @@ Do you want to:</source>
     </message>
 </context>
 <context>
+    <name>KxDlgWpsFieldNameDelimiter</name>
+    <message>
+        <source>Field name record delimiter</source>
+        <translation>域名记录定界符</translation>
+    </message>
+    <message>
+        <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
+        <translation>数据域之间须用字符(称为“定界符”)相互分隔；同样，数据记录之间也须用记录定界符分隔。请用下面的列表选择相应的定界符。</translation>
+    </message>
+    <message>
+        <source>Field delimiter:</source>
+        <translation>域定界符:(&amp;F)</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation>(无)</translation>
+    </message>
+    <message>
+        <source>(Paragraph mark)</source>
+        <translation>(段落标记)</translation>
+    </message>
+    <message>
+        <source>(Tabs)</source>
+        <translation>(制表符)</translation>
+    </message>
+    <message>
+        <source>,</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>!</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>#</source>
+        <translation>#</translation>
+    </message>
+    <message>
+        <source>$</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>*</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>+</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>-</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&lt;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>=</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&gt;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>@</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>[</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>]</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>^</source>
+        <translation>^</translation>
+    </message>
+    <message>
+        <source>_</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>`</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>{</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>}</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>|</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>~</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Record delimiter:</source>
+        <translation>记录定界符:(&amp;R)</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgWpsPrintSetup</name>
     <message>
         <source>Print Setup</source>
@@ -9035,7 +9197,7 @@ Do you want to:</source>
     </message>
     <message>
         <source>&amp;Smart Backup</source>
-        <translation type="unfinished">智能备份(&amp;S)</translation>
+        <translation>智能备份(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -10199,7 +10361,7 @@ Do you want to:</source>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished">中文字体(&amp;T):</translation>
+        <translation>中文字体(&amp;T):</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -10221,7 +10383,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation type="unfinished">西文字体(&amp;X):</translation>
+        <translation>西文字体(&amp;X):</translation>
     </message>
     <message>
         <source>Measured value must be between %1 pt and %2 pt</source>
@@ -10318,7 +10480,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>(&amp;A)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -10820,7 +10982,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must not be nil</source>
-        <translation type="unfinished">数值不能为空</translation>
+        <translation>数值不能为空</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -10886,7 +11048,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The value must not be blank.</source>
-        <translation type="unfinished">数值不能为空</translation>
+        <translation>数值不能为空</translation>
     </message>
 </context>
 <context>
@@ -11153,7 +11315,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>This caption label is not valid.</source>
-        <translation type="unfinished">题注标签无效</translation>
+        <translation>题注标签无效</translation>
     </message>
 </context>
 <context>
@@ -11280,7 +11442,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Dispersion</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
@@ -11326,7 +11488,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>LeftAndRight</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Line spacing: 1.5 lines, </source>
@@ -11405,7 +11567,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Renew</source>
-        <translation type="unfinished">立即续费</translation>
+        <translation type="obsolete">立即续费</translation>
     </message>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
@@ -11413,11 +11575,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Cannot connect to this service. Check your network connection please.</source>
-        <translation type="unfinished">无法连接到服务器,请检查您的网络连接。</translation>
+        <translation type="obsolete">无法连接到服务器,请检查您的网络连接。</translation>
     </message>
     <message>
         <source>Your VIP %1 expires now.  Please renew for more discount.</source>
-        <translation type="unfinished">您的%1会员已过期，立即续费享用云字体特权及更多优惠！</translation>
+        <translation type="obsolete">您的%1会员已过期，立即续费享用云字体特权及更多优惠！</translation>
     </message>
 </context>
 <context>
@@ -11481,6 +11643,14 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
         <translation>撤销/恢复步数必须介于 %1 次 和 %2 次 之间</translation>
+    </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation>目录 &quot;%1&quot; 无效。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation>您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
     </message>
 </context>
 <context>
@@ -11714,43 +11884,43 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>①</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>②</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>③</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>④</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>⑤</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>⑥</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>⑦</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>⑧</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>⑨</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>⑩</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -11869,7 +12039,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must be between %1 and %1.</source>
-        <translation type="unfinished">数字必须介于 %1 和 %2 之间。</translation>
+        <translation>数字必须介于 %1 和 %2 之间。</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -12636,6 +12806,13 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>No Line Fill</source>
         <translation type="obsolete">自动</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsApplication</name>
+    <message>
+        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
+        <translation>您插入的图片显示不完整，是否根据图片大小自动调整行距？</translation>
     </message>
 </context>
 <context>
@@ -13591,6 +13768,13 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsFieldNameDelimiterDlg</name>
+    <message>
+        <source>Field delimiter and record delimiter cannot be same.</source>
+        <translation>域定界符不得与记录定界符相同。</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsFillColorModel</name>
     <message>
         <source>Fill Effect</source>
@@ -13681,18 +13865,18 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished">插入页码</translation>
+        <translation>插入页码</translation>
     </message>
     <message>
         <source>Set Page Number</source>
-        <translation type="unfinished">设置页码</translation>
+        <translation>设置页码</translation>
     </message>
 </context>
 <context>
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
         <source>Show Header Line</source>
-        <translation type="unfinished">显示页眉横线</translation>
+        <translation>显示页眉横线</translation>
     </message>
     <message>
         <source>Show header line</source>
@@ -13732,7 +13916,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
-        <translation>您插入的图片显示不完整，是否根据图片大小自动调整行距？</translation>
+        <translation type="obsolete">您插入的图片显示不完整，是否根据图片大小自动调整行距？</translation>
     </message>
 </context>
 <context>
@@ -14338,12 +14522,48 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
         <translation>名为“%1”的宏已经存在，是否替换已有的宏</translation>
     </message>
+    <message>
+        <source>You cannot record a macro to a locked file</source>
+        <translatorcomment>无法将宏录制到锁定文件</translatorcomment>
+        <translation>无法将宏录制到锁定文件</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsRestartPageNumCommand</name>
     <message>
         <source>Restart Page Number</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewPane</name>
+    <message>
+        <source>REVIEWPANE</source>
+        <translation type="unfinished">审阅窗格</translation>
+    </message>
+    <message>
+        <source> Part</source>
+        <translation type="unfinished"> 处</translation>
+    </message>
+    <message>
+        <source>Insert: </source>
+        <translation type="unfinished">插入： </translation>
+    </message>
+    <message>
+        <source>Delete: </source>
+        <translation type="unfinished">删除： </translation>
+    </message>
+    <message>
+        <source>Format: </source>
+        <translation type="unfinished">格式： </translation>
+    </message>
+    <message>
+        <source>Comment: </source>
+        <translation type="unfinished">批注： </translation>
+    </message>
+    <message>
+        <source>Revision: </source>
+        <translation type="unfinished">修订： 共 </translation>
     </message>
 </context>
 <context>
@@ -14423,7 +14643,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsSmartPageNumDeletePane</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Cancle</source>
@@ -14439,7 +14659,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Delete all page numbers</source>
-        <translation type="unfinished">删除全部页码</translation>
+        <translation>删除全部页码</translation>
     </message>
     <message>
         <source>Delete below pages page numbers</source>
@@ -14479,26 +14699,26 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Delete current page&apos;s page number</source>
-        <translation type="unfinished">仅删除本页页码</translation>
+        <translation>仅删除本页页码</translation>
     </message>
     <message>
         <source>Delete below pages&apos; page numbers</source>
-        <translation type="unfinished">删除本页及之后的页码</translation>
+        <translation>删除本页及之后的页码</translation>
     </message>
     <message>
         <source>Delete current section&apos;s page numbers</source>
-        <translation type="unfinished">删除本节页码</translation>
+        <translation>删除本节页码</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSmartPageNumInsertPane</name>
     <message>
         <source>0;57;1</source>
-        <translation type="unfinished">0;57;1</translation>
+        <translation>0;57;1</translation>
     </message>
     <message>
         <source>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</source>
-        <translation type="unfinished">37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</translation>
+        <translation>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</translation>
     </message>
     <message>
         <source>All pages</source>
@@ -14510,7 +14730,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Current page</source>
@@ -15035,6 +15255,17 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Edit Watermark</source>
         <translation>编辑水印</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWrapTextWidget</name>
+    <message>
+        <source>close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>title</source>
+        <translation>布局选项</translation>
     </message>
 </context>
 <context>

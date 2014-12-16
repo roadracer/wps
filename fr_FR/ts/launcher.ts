@@ -6,7 +6,7 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>Welcome to the WPS Office</source>
-        <translation type="unfinished">test</translation>
+        <translation type="obsolete">test</translation>
     </message>
     <message>
         <source>KLauncherWidget</source>
@@ -25,7 +25,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create shortcuts to desktop</source>
+        <source>Welcome to WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create desktop shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

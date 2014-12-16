@@ -444,6 +444,29 @@
     </message>
 </context>
 <context>
+    <name>DlgKxInvolvedTemplate</name>
+    <message>
+        <source>Involved Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Involved Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DlgKxSetupShow</name>
     <message>
         <source>&amp;All</source>
@@ -1603,6 +1626,27 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
 </context>
 <context>
+    <name>KxDlgEmbedPrivateFonts</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application documents online font, if your document needs circulated others, 
+we recommend that you saved earlier document fonts. 
+If necessary, click Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember this operation, do not remind anymore</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgFont</name>
     <message>
         <source>&amp;Color:</source>
@@ -2081,6 +2125,10 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation>垂直尺規(&amp;V)</translation>
     </message>
     <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -2327,7 +2375,7 @@ the presentation file directly.You can put it with the presentation file in the 
     <message>
         <source>Enter a password below to protect this document.
 The Advanced button allows you to choose from different encryption types.</source>
-        <translation>在下面的密碼方塊中輸入的密碼會保護您的文件，按一下 [進階] 按鈕選擇不同的加密類型，可以為您的文件設定不同層級的加密保護。</translation>
+        <translation type="obsolete">在下面的密碼方塊中輸入的密碼會保護您的文件，按一下 [進階] 按鈕選擇不同的加密類型，可以為您的文件設定不同層級的加密保護。</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
@@ -2451,6 +2499,26 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation>自動恢複文件位置(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>瀏覽(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>Remind &amp;Me When Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3745,6 +3813,20 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxInvolvedTemplateDlg</name>
+    <message>
+        <source>Blank Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxInvolvedTemplateView</name>
+    <message>
+        <source>Use Blank Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Best Match</source>
@@ -3835,6 +3917,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>The reentered password erro?</source>
         <translation type="obsolete">密碼確認不符。</translation>
+    </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation>目錄 &quot;%1&quot; 無效。</translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
+        <translation>選擇文件夾</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation>您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
     </message>
 </context>
 <context>

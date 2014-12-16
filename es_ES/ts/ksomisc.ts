@@ -226,6 +226,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>View what&apos;s new file</source>
         <translation>Ver archivo de novedades</translation>
     </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Launch WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -284,6 +292,10 @@ Puede corregir los errores encontrados al usar WPS Office o jacer configuracione
         <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
         <extracomment>ksomisc main dialog</extracomment>
         <translation>Si no puede corregir los errores usando el butón de Iniciar Reparación, o necesita configurar otras configuraciones avanzadas, haga clic en butón de Avanzado debajo, y configure las configuraciones en la fichas correpondientes. </translation>
+    </message>
+    <message>
+        <source>You are not using an administrator account. Some features are not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1013,6 +1025,58 @@ El iconi de botón, grupo de comando y posición de ventana de tarea de cada tem
         <source>Equation</source>
         <translation>Ecuación</translation>
     </message>
+    <message>
+        <source>OpenAsReadOnly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Data Interchange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Document</source>
+        <translation type="unfinished">Documento de Microsoft Word 6.0 - 7.0 {97 ?} {2003 ?}</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 SlideShow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Template</source>
+        <translation type="unfinished">Plantilla de Microsoft PowerPoint 07 {97-2003 ?}</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1123,6 +1187,18 @@ El iconi de botón, grupo de comando y posición de ventana de tarea de cada tem
     <message>
         <source>Know more details about Experience Improvement Activity</source>
         <translation>Más información sobre Actividad de mejorar experiencia</translation>
+    </message>
+    <message>
+        <source>Software recommend：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The port must be a number between 1 and 65535.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

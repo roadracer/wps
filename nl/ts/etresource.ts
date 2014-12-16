@@ -856,10 +856,6 @@ OLE DB Query</source>
 <context>
     <name>classics.formatting</name>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Align Left</source>
         <translation>Links Uitlijnen</translation>
     </message>
@@ -872,8 +868,16 @@ OLE DB Query</source>
         <translation>Randen</translation>
     </message>
     <message>
+        <source>Cancel Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Center</source>
         <translation>Centreren</translation>
+    </message>
+    <message>
+        <source>Columns Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -918,6 +922,11 @@ OLE DB Query</source>
     <message>
         <source>Increase Indent</source>
         <translation>Vergroot Inspringing</translation>
+    </message>
+    <message>
+        <source>Join and
+Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Merge Across</source>
@@ -1346,6 +1355,10 @@ Center</source>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Schuif Schaduw Omhoog</translation>
     </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.standard</name>
@@ -1371,6 +1384,138 @@ Center</source>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateLastMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateLastWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateLateSeven</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateNextMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateNextWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateToday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateTomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateWeekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateYesterday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialAvgAbove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialAvgBelow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialBetween</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialEqual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLarge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLess</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLowCount</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLowPercent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialTopCount</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialTopPercent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionSpecial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionSpecialEmpty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionSpecialError</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextBeginWith</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextContain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextEndWith</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextNoContain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionalClear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionalSelf</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1404,6 +1549,10 @@ Center</source>
     <message>
         <source>Google Docs</source>
         <translation type="obsolete">Google Docs</translation>
+    </message>
+    <message>
+        <source>HighLight</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -1455,6 +1604,10 @@ Center</source>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2016,6 +2169,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Data Table</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2025,6 +2182,10 @@ Center</source>
     </message>
     <message>
         <source>Display Units Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2244,7 +2405,15 @@ Center</source>
         <translation>Normaal</translation>
     </message>
     <message>
+        <source>Note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>OLE Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Office Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2365,6 +2534,11 @@ Directly</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <comment>Menu</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Select</source>
         <translation type="obsolete">Selecteren</translation>
     </message>
@@ -2460,6 +2634,10 @@ Window</source>
     <message>
         <source>Visual Basic Editor</source>
         <translation>Visual Basic Editor</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -3844,6 +4022,10 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Document Beveiliging en Eigenschappen</translation>
     </message>
@@ -4217,11 +4399,6 @@ Used</source>
 <context>
     <name>ongmani.ct_home</name>
     <message>
-        <source>Across 
-Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Across Sheets</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4298,6 +4475,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Cancel Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cells</source>
         <translation>Cellen</translation>
     </message>
@@ -4322,6 +4503,10 @@ Center</source>
         <translation type="obsolete">Kolommen</translation>
     </message>
     <message>
+        <source>Columns Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Comma Style</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4330,7 +4515,139 @@ Center</source>
         <translation>Opmerkingen</translation>
     </message>
     <message>
+        <source>ConditionDate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateLastMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateLastWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateLateSeven</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateNextMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateNextWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateToday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateTomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateWeekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateYesterday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialAvgAbove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialAvgBelow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialBetween</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialEqual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLarge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLess</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLowCount</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLowPercent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialTopCount</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialTopPercent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionSpecial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionSpecialEmpty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionSpecialError</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextBeginWith</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextContain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextEndWith</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextNoContain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Conditional Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionalClear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionalSelf</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4443,6 +4760,10 @@ Replace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Find and Replace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Find/Replace</source>
         <translation type="obsolete">Zoeken/Vervangen</translation>
     </message>
@@ -4504,6 +4825,10 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>HighLight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Decimal</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4548,6 +4873,11 @@ Painter</source>
         <translation>Cursief</translation>
     </message>
     <message>
+        <source>Join and
+Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation>Links</translation>
     </message>
@@ -4578,11 +4908,6 @@ Painter</source>
     <message>
         <source>Merge Cells</source>
         <translation>Cellen Samenvoegen</translation>
-    </message>
-    <message>
-        <source>Merge and 
-Center</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -6358,6 +6683,10 @@ Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reading
 Layout</source>
         <translation type="unfinished"></translation>
@@ -7235,14 +7564,6 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ExportToPDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>File Backup</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7264,26 +7585,6 @@ Shape</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Change Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Logout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7311,11 +7612,11 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Pictures</source>
+        <source>Open from Cloud Docs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open from Cloud Docs</source>
+        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7343,10 +7644,6 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sign in</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7359,16 +7656,48 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Permit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WorkSpace_Backup</source>
         <translation type="obsolete">Werkruimte_Backup</translation>
     </message>
 </context>
 <context>
     <name>popupmenu</name>
+    <message>
+        <source>0.25 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>About WPS Spreadsheets</source>
         <translation type="unfinished"></translation>
@@ -7410,11 +7739,91 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Allow User to Edit Ranges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7450,6 +7859,14 @@ Shape</source>
         <translation>Backupbeheer</translation>
     </message>
     <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Double Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bring Forward</source>
         <translation>Naar Voren</translation>
     </message>
@@ -7462,6 +7879,10 @@ Shape</source>
         <translation>Naar Voorkant</translation>
     </message>
     <message>
+        <source>Buttom Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>COM 
 Add-Ins</source>
         <translation type="unfinished"></translation>
@@ -7471,12 +7892,20 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Cancel Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cascade</source>
         <translation>Waterval</translation>
     </message>
     <message>
         <source>Cells</source>
         <translation>Cellen</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Account</source>
@@ -7587,6 +8016,14 @@ Add-Ins</source>
         <translation>Kolommen</translation>
     </message>
     <message>
+        <source>Columns Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comma Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Comments</source>
         <translation>Opmerkingen</translation>
     </message>
@@ -7647,6 +8084,22 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crop By Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crop By Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Curved Connector</source>
         <translation>Gebogen Aansluiting</translation>
     </message>
@@ -7657,6 +8110,30 @@ Add-Ins</source>
     <message>
         <source>Cut</source>
         <translation>Knippen</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Decimal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Define Name</source>
@@ -7688,6 +8165,14 @@ Add-Ins</source>
     </message>
     <message>
         <source>Disable AutoBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7739,6 +8224,18 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Formule</translation>
     </message>
@@ -7783,6 +8280,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Fill Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fill Days</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7817,6 +8318,22 @@ Add-Ins</source>
     </message>
     <message>
         <source>Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7908,6 +8425,10 @@ Add-Ins</source>
         <translation>Objectopmaak</translation>
     </message>
     <message>
+        <source>Format Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Plot Area</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7936,6 +8457,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Free Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Freeze</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7957,6 +8482,14 @@ Add-Ins</source>
     </message>
     <message>
         <source>Goal Seek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grab Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8016,6 +8549,14 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Increase Decimal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert</source>
         <translation>Invoegen</translation>
     </message>
@@ -8048,6 +8589,23 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join and
+Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join and Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Kingsoft Office Community</source>
         <translation type="obsolete">Kingsoft Office Community</translation>
     </message>
@@ -8064,12 +8622,32 @@ Add-Ins</source>
         <translation>Links</translation>
     </message>
     <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Linear Trend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
         <translation type="obsolete">Inloggen</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Macro</source>
@@ -8084,6 +8662,18 @@ Add-Ins</source>
         <translation>Max</translation>
     </message>
     <message>
+        <source>Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge and Center Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Min</source>
         <translation>Min</translation>
     </message>
@@ -8092,11 +8682,27 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>More Arrows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Historical Records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8110,6 +8716,10 @@ Add-Ins</source>
     <message>
         <source>New Window</source>
         <translation>Nieuw Venster</translation>
+    </message>
+    <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>None</source>
@@ -8168,6 +8778,14 @@ Add-Ins</source>
         <translation>Sorteer</translation>
     </message>
     <message>
+        <source>Other Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Break</source>
         <translation>Pagina-Einde</translation>
     </message>
@@ -8192,11 +8810,23 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percent Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pick from Drop-down List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Format Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8226,6 +8856,10 @@ Add-Ins</source>
     <message>
         <source>Protect</source>
         <translation>Beschermen</translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Protect Sheet</source>
@@ -8288,6 +8922,26 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Row Height</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8314,10 +8968,6 @@ Add-Ins</source>
     <message>
         <source>Save to Klive</source>
         <translation type="obsolete">Sla Op naar Klive</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Security</source>
@@ -8393,6 +9043,18 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Shape Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Format Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Share Workbook</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8406,6 +9068,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Show Detail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8425,6 +9091,18 @@ Add-Ins</source>
         <translation>Boogpunt</translation>
     </message>
     <message>
+        <source>Snap to Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solver</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8434,6 +9112,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8501,7 +9183,35 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Texture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thick Bottom Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thick Box Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Thousand Separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top and Bottom Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top and Dlouble Bottom Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top and Thick Bottom Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8510,6 +9220,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>UnSplit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8526,6 +9240,10 @@ Add-Ins</source>
     </message>
     <message>
         <source>Unhide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unmerge Cells</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8595,6 +9313,10 @@ Add-Ins</source>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -9388,6 +10110,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Document Protection and Properties</source>
         <translation>Document Beveiliging en Eigenschappen</translation>
     </message>
@@ -9840,6 +10566,10 @@ Trig</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Cancel Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cells</source>
         <translation>Cellen</translation>
     </message>
@@ -9872,7 +10602,139 @@ Trig</source>
         <translation>Opmerkingen</translation>
     </message>
     <message>
+        <source>ConditionDate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateLastMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateLastWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateLateSeven</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateNextMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateNextWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateToday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateTomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateWeekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionDateYesterday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialAvgAbove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialAvgBelow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialBetween</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialEqual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLarge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLess</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLowCount</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialLowPercent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialTopCount</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionNumerialTopPercent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionSpecial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionSpecialEmpty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionSpecialError</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextBeginWith</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextContain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextEndWith</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionTextNoContain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Conditional Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionalClear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ConditionalSelf</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10037,6 +10899,10 @@ Trig</source>
     </message>
     <message>
         <source>Hide and Unhide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HighLight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11676,6 +12542,10 @@ Andere Vensters</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reading Layout</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12466,10 +13336,6 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>File Backup</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12490,27 +13356,11 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Change Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Hire</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Logout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KOS Recharge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS User Data Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Laboratory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12530,11 +13380,11 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Pictures</source>
+        <source>Open from Cloud Docs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open from Cloud Docs</source>
+        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12562,14 +13412,6 @@ Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sign in</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>User Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12583,10 +13425,6 @@ Color</source>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Permit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14603,10 +15441,6 @@ Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS Open Cloud File</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14623,7 +15457,7 @@ Klik op de pijl om uit meerdere omlijningsstijlen te kiezen.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online Pictures</source>
+        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

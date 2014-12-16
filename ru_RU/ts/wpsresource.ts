@@ -89,6 +89,10 @@
         <translation>Пластик</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Surface</source>
         <translation>Поверхность</translation>
     </message>
@@ -1088,6 +1092,10 @@
         <translation>Другие цвета шрифта</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Styles</source>
         <translation>Стили</translation>
     </message>
@@ -1649,6 +1657,10 @@ Merged Data</source>
         <translation>Отклонить выделенное примечание</translation>
     </message>
     <message>
+        <source>ReviewPane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reviewers</source>
         <translation>Проверяющие</translation>
     </message>
@@ -1661,12 +1673,24 @@ Merged Data</source>
         <translation>Показать все исправления встроенными в текст</translation>
     </message>
     <message>
+        <source>Show Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Revisions in Balloons</source>
         <translation>Показать все исправления в выносках</translation>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
         <translation>Показать данные рецензента в выносках</translation>
+    </message>
+    <message>
+        <source>Show Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show the Revisor Information in the Balloon</source>
@@ -1730,6 +1754,10 @@ Merged Data</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Сдвинуть тень вверх</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1855,6 +1883,10 @@ Merged Data</source>
         <translation type="obsolete">Специальная вставка</translation>
     </message>
     <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Purchase Serial Number</source>
         <translation>Приобрести серийный номер</translation>
     </message>
@@ -1915,6 +1947,10 @@ Merged Data</source>
     <message>
         <source>AutoFit Window</source>
         <translation>Автоподгонка диалогового изображения</translation>
+    </message>
+    <message>
+        <source>AutoFit to Content</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Average</source>
@@ -2048,6 +2084,10 @@ Merged Data</source>
     <message>
         <source>Shading</source>
         <translation>Заливка</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -3330,6 +3370,10 @@ Direction</source>
     <message>
         <source>Data Recovery</source>
         <translation>Восстановление данных</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -5104,6 +5148,10 @@ Break</source>
         <translation>Размер</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Square</source>
         <translation>В квадрате</translation>
     </message>
@@ -5359,6 +5407,10 @@ Direction</source>
     <message>
         <source>Snap to Grid</source>
         <translation>Привязка к сетке</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Style</source>
@@ -5979,6 +6031,10 @@ On/Off</source>
         <translation type="obsolete">Сдвинуть тень вверх</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Сплошной</translation>
     </message>
@@ -6389,6 +6445,10 @@ Comment</source>
         <translation>Ограничить редактирование</translation>
     </message>
     <message>
+        <source>ReviewPane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reviewers</source>
         <translation>Проверяющие</translation>
     </message>
@@ -6401,6 +6461,14 @@ Comment</source>
         <translation>Показать все исправления встроенными в текст</translation>
     </message>
     <message>
+        <source>Show Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Reviewer Information in the Balloon</source>
         <translation type="obsolete">Показать данные рецензента в выносках</translation>
     </message>
@@ -6411,6 +6479,10 @@ Comment</source>
     <message>
         <source>Show Revisor Information in Balloons</source>
         <translation>Показать данные рецензента в выносках</translation>
+    </message>
+    <message>
+        <source>Show Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -6442,6 +6514,14 @@ Count</source>
     <message>
         <source>Word Count</source>
         <translation type="obsolete">Статистика</translation>
+    </message>
+    <message>
+        <source>horzReviewPane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>vertReviewPane</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7045,6 +7125,10 @@ Effects</source>
         <translation type="obsolete">Сдвинуть тень вверх</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Surface</source>
         <translation>Поверхность</translation>
     </message>
@@ -7122,6 +7206,10 @@ Effects</source>
     <message>
         <source>AutoFit</source>
         <translation>Автоподбор</translation>
+    </message>
+    <message>
+        <source>AutoFit to Content</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
@@ -7318,6 +7406,10 @@ Effects</source>
     <message>
         <source>Select Table with Dashed Borders</source>
         <translation>Выделить таблицу штриховыми границами</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split
@@ -7550,6 +7642,10 @@ Layout</source>
     <message>
         <source>Print Layout</source>
         <translation type="obsolete">Разметка страницы</translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -7999,6 +8095,10 @@ Effects</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Сдвинуть тень вверх</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -8715,7 +8815,7 @@ Shape</source>
     </message>
     <message>
         <source>Change Accout</source>
-        <translation>Поменять учётную запись</translation>
+        <translation type="obsolete">Поменять учётную запись</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -8751,7 +8851,7 @@ Shape</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Режим защиты глаз</translation>
+        <translation type="obsolete">Режим защиты глаз</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -8779,11 +8879,11 @@ Shape</source>
     </message>
     <message>
         <source>Hire</source>
-        <translation>Вакансии</translation>
+        <translation type="obsolete">Вакансии</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Вставить изображение из Интернета</translation>
+        <translation type="obsolete">Вставить изображение из Интернета</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
@@ -8823,7 +8923,7 @@ Shape</source>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Выход</translation>
+        <translation type="obsolete">Выход</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -8843,7 +8943,7 @@ Shape</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Изображения из Интернета</translation>
+        <translation type="obsolete">Изображения из Интернета</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
@@ -8854,8 +8954,12 @@ Shape</source>
         <translation>Открыть из облачного сервиса</translation>
     </message>
     <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Recharge</source>
-        <translation>Перезарядка</translation>
+        <translation type="obsolete">Перезарядка</translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
@@ -8875,7 +8979,7 @@ Shape</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Войти</translation>
+        <translation type="obsolete">Войти</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -8911,7 +9015,7 @@ Shape</source>
     </message>
     <message>
         <source>WPS Permit</source>
-        <translation>Разрешение WPS</translation>
+        <translation type="obsolete">Разрешение WPS</translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
@@ -8940,6 +9044,66 @@ Shape</source>
 </context>
 <context>
     <name>popupmenu</name>
+    <message>
+        <source>0.25 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>About Kingsoft Writer</source>
         <translation type="obsolete">О программе Kingsoft Writer</translation>
@@ -8989,6 +9153,86 @@ Shape</source>
         <translation>Надстройки</translation>
     </message>
     <message>
+        <source>Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Asian Layout</source>
         <translation>Макет страницы азиатского языка</translation>
     </message>
@@ -9003,6 +9247,10 @@ Shape</source>
     <message>
         <source>AutoFit</source>
         <translation>Автоподбор</translation>
+    </message>
+    <message>
+        <source>AutoFit to Content</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
@@ -9025,12 +9273,28 @@ Shape</source>
         <translation>Резервное копирование</translation>
     </message>
     <message>
+        <source>Behind Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Blank Page</source>
         <translation>Пустая страница</translation>
     </message>
     <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Border and shading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Borders and Shading</source>
         <translation>Границы и заливка</translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Break</source>
@@ -9055,6 +9319,10 @@ Shape</source>
     <message>
         <source>Bring to Front</source>
         <translation>Поместить на передний план</translation>
+    </message>
+    <message>
+        <source>Bullets</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
@@ -9097,6 +9365,10 @@ COM</translation>
     <message>
         <source>Center Tab</source>
         <translation>Центральная метка табуляции</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Account</source>
@@ -9275,6 +9547,22 @@ COM</translation>
         <translation>Создать связь с текстовым полем</translation>
     </message>
     <message>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crop By Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crop By Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cross Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cross-reference</source>
         <translation>Перекрёстная ссылка</translation>
     </message>
@@ -9285,6 +9573,18 @@ COM</translation>
     <message>
         <source>Curved Segment</source>
         <translation>Сегмент кривой</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data Chart</source>
@@ -9343,8 +9643,16 @@ COM</translation>
         <translation>Выровнять ширину столбцов</translation>
     </message>
     <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Distribute Rows Evenly</source>
         <translation>Выровнять высоту строк</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
@@ -9421,6 +9729,18 @@ Diagonal Line in Cell</source>
         <translation>Ввести код активации</translation>
     </message>
     <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Формула</translation>
     </message>
@@ -9493,6 +9813,34 @@ Diagonal Line in Cell</source>
         <translation>Отступ первой строки</translation>
     </message>
     <message>
+        <source>FixedText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FollowText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Footer Center</source>
         <translation>Нижний колонтитул по центру</translation>
     </message>
@@ -9529,8 +9877,17 @@ Diagonal Line in Cell</source>
         <translation>Параметры поля формы</translation>
     </message>
     <message>
+        <source>Format
+Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Object</source>
         <translation>Объект форматирования</translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Formats</source>
@@ -9543,6 +9900,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Formula</source>
         <translation>Формула</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>From File</source>
@@ -9578,7 +9939,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="obsolete">Градиент</translation>
+        <translation type="unfinished">Градиент</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -9587,6 +9948,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Graphics</source>
         <translation type="obsolete">Графика</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -9604,6 +9969,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Grouping</source>
         <translation>Группировать</translation>
+    </message>
+    <message>
+        <source>Grow Font</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hanging Indent</source>
@@ -9642,12 +10011,20 @@ Diagonal Line in Cell</source>
         <translation>Скрыть разметку абзаца</translation>
     </message>
     <message>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Horizontal</source>
         <translation>Горизонтально</translation>
     </message>
     <message>
         <source>Horizontal Arrange</source>
         <translation type="obsolete">Расположить по горизонтали</translation>
+    </message>
+    <message>
+        <source>Horizontal Middle Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -9658,12 +10035,36 @@ Diagonal Line in Cell</source>
         <translation>Пропустить</translation>
     </message>
     <message>
+        <source>In Front of Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In Line With Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InlineWrapText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert</source>
         <translation>Вставить</translation>
     </message>
     <message>
+        <source>Insert Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Clip Art</source>
         <translation>Вставить клип</translation>
+    </message>
+    <message>
+        <source>Insert Left</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
@@ -9672,6 +10073,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Insert Online Pictures</source>
         <translation>Вставить изображение из Интернета</translation>
+    </message>
+    <message>
+        <source>Insert Right</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -9688,6 +10093,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Invisible</source>
         <translation>Не показывать</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
@@ -9722,8 +10131,16 @@ Diagonal Line in Cell</source>
         <translation type="obsolete">Справка Kingsoft Writer</translation>
     </message>
     <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left Tab</source>
         <translation>Левая метка табуляции</translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Number</source>
@@ -9738,12 +10155,32 @@ Diagonal Line in Cell</source>
         <translation>Номера строк</translation>
     </message>
     <message>
+        <source>Line Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Login</source>
         <translation type="obsolete">Регистрация</translation>
     </message>
     <message>
         <source>Logout</source>
         <translation type="obsolete">Выход</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Macros</source>
@@ -9782,8 +10219,24 @@ Diagonal Line in Cell</source>
         <translation>Маркетинговая вебстраница</translation>
     </message>
     <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Fill Colors</source>
         <translation>Другие цвета заливки</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Historical Records</source>
@@ -9792,6 +10245,26 @@ Diagonal Line in Cell</source>
     <message>
         <source>More Histories</source>
         <translation type="obsolete">Другие архивы</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More UnderLine Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Underlines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Wrap</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move Here</source>
@@ -9812,6 +10285,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Next Text Box</source>
         <translation>Следующее текстовое поле</translation>
+    </message>
+    <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>None</source>
@@ -9890,6 +10367,14 @@ Diagonal Line in Cell</source>
         <translation>Упорядочивание</translation>
     </message>
     <message>
+        <source>Outside Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Over Type</source>
         <translation>Режим замены</translation>
     </message>
@@ -9946,6 +10431,10 @@ Diagonal Line in Cell</source>
         <translation>Изображение</translation>
     </message>
     <message>
+        <source>Picture Format Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Place on Left</source>
         <translation>Разместить слева</translation>
     </message>
@@ -9972,6 +10461,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Properties</source>
         <translation>Свойства</translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -10008,6 +10501,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Reject Insertion</source>
         <translation>Отклонить вставку</translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reload</source>
@@ -10050,8 +10547,32 @@ Diagonal Line in Cell</source>
         <translation>Ограничить редактирование</translation>
     </message>
     <message>
+        <source>ReviewPane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Right Tab</source>
         <translation>Правая метка табуляции</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Row</source>
@@ -10146,6 +10667,22 @@ Diagonal Line in Cell</source>
         <translation>По умолчанию для автофигур </translation>
     </message>
     <message>
+        <source>Shading Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Format Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Share to Microblog</source>
         <translation>Разместить в микроблоге</translation>
     </message>
@@ -10178,6 +10715,10 @@ Diagonal Line in Cell</source>
         <translation>Показать или скрыть разделитель сносок</translation>
     </message>
     <message>
+        <source>Shrink Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sign in</source>
         <translation>Войти</translation>
     </message>
@@ -10188,6 +10729,14 @@ Diagonal Line in Cell</source>
     <message>
         <source>Smooth Point</source>
         <translation>Гладкая точка</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -10204,6 +10753,14 @@ Diagonal Line in Cell</source>
     <message>
         <source>Split Table</source>
         <translation>Разделить таблицу</translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -10232,6 +10789,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>StudyOnline</source>
         <translation type="obsolete">Обучение в Интернете</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
@@ -10286,12 +10847,36 @@ Diagonal Line in Cell</source>
         <translation>Текстура</translation>
     </message>
     <message>
+        <source>Through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Track</source>
         <translation>Отслеживание</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
         <translation>Две линии в одной</translation>
+    </message>
+    <message>
+        <source>UnderLine Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unformatted Text</source>
@@ -10320,6 +10905,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Vertical Arrange</source>
         <translation type="obsolete">Расположить по вертикали</translation>
+    </message>
+    <message>
+        <source>Vertical Middle Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Code</source>
@@ -10402,6 +10991,10 @@ Diagonal Line in Cell</source>
         <translation>Фигурный текст</translation>
     </message>
     <message>
+        <source>WrapText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Zoom</source>
         <translation>Масштаб</translation>
     </message>
@@ -10414,12 +11007,52 @@ Diagonal Line in Cell</source>
         <translation>Ползунок масштабирования</translation>
     </message>
     <message>
+        <source>bullets_0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bullets_1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bullets_2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bullets_3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bullets_4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bullets_5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bullets_6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>horzReviewPane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>login</source>
         <translation type="obsolete">login</translation>
     </message>
     <message>
+        <source>numbering_0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>openwebweibo</source>
         <translation type="obsolete">openwebweibo</translation>
+    </message>
+    <message>
+        <source>vertReviewPane</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
@@ -10464,6 +11097,49 @@ Diagonal Line in Cell</source>
     <message>
         <source>Switch Language</source>
         <translation>Поменять язык</translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu.Num</name>
+    <message>
+        <source>More Numbering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>numbering_0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>numbering_1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>numbering_2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>numbering_3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>numbering_4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>numbering_5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>numbering_6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>numbering_7</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10584,6 +11260,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Shading Color</source>
         <translation>Цвет заливки</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Border</source>
@@ -11150,6 +11830,10 @@ Diagonal Line in Cell</source>
         <translation>Уменьшить размер</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Сплошной</translation>
     </message>
@@ -11272,6 +11956,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Data Recovery</source>
         <translation>Восстановление данных</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -12026,6 +12714,10 @@ Header and Footer</source>
     <message>
         <source>Shrink Font</source>
         <translation>Уменьшить шрифт</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -13670,6 +14362,10 @@ Text</source>
         <translation type="obsolete">Сдвинуть тень вверх</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Сплошной</translation>
     </message>
@@ -14081,6 +14777,10 @@ and Endnote</source>
         <translation>Ограничить редактирование</translation>
     </message>
     <message>
+        <source>ReviewPane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reviewers</source>
         <translation>Проверяющие</translation>
     </message>
@@ -14093,6 +14793,14 @@ and Endnote</source>
         <translation>Показать все исправления встроенными в текст</translation>
     </message>
     <message>
+        <source>Show Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Reviewer Information in the Balloon</source>
         <translation type="obsolete">Показать данные рецензента в выносках</translation>
     </message>
@@ -14103,6 +14811,10 @@ and Endnote</source>
     <message>
         <source>Show Revisor Information in Balloons</source>
         <translation>Показать данные рецензента в выносках</translation>
+    </message>
+    <message>
+        <source>Show Time</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -14123,6 +14835,14 @@ and Endnote</source>
     <message>
         <source>Word Count</source>
         <translation>Статистика</translation>
+    </message>
+    <message>
+        <source>horzReviewPane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>vertReviewPane</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14635,6 +15355,10 @@ and Endnote</source>
         <translation type="obsolete">Сдвинуть тень вверх</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Surface</source>
         <translation>Поверхность</translation>
     </message>
@@ -14704,6 +15428,10 @@ and Endnote</source>
     <message>
         <source>Alignment</source>
         <translation>Выравнивание</translation>
+    </message>
+    <message>
+        <source>AutoFit to Content</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
@@ -14991,6 +15719,10 @@ Other Windows</source>
     <message>
         <source>Print Layout</source>
         <translation>Разметка страницы</translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -15408,6 +16140,10 @@ Effects</source>
     <message>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">Сдвинуть тень вверх</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -15889,6 +16625,10 @@ Effects</source>
         <translation>Наклон вверх</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Сплошной</translation>
     </message>
@@ -16061,7 +16801,7 @@ Effects</source>
     </message>
     <message>
         <source>Change Accout</source>
-        <translation>Поменять учётную запись</translation>
+        <translation type="obsolete">Поменять учётную запись</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -16097,7 +16837,7 @@ Effects</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Режим защиты глаз</translation>
+        <translation type="obsolete">Режим защиты глаз</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -16125,11 +16865,11 @@ Effects</source>
     </message>
     <message>
         <source>Hire</source>
-        <translation>Вакансии</translation>
+        <translation type="obsolete">Вакансии</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Вставить изображение из Интернета</translation>
+        <translation type="obsolete">Вставить изображение из Интернета</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
@@ -16153,7 +16893,7 @@ Effects</source>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Выход</translation>
+        <translation type="obsolete">Выход</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -16173,7 +16913,7 @@ Effects</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Изображения из Интернета</translation>
+        <translation type="obsolete">Изображения из Интернета</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
@@ -16184,8 +16924,12 @@ Effects</source>
         <translation>Открыть из облачного сервиса</translation>
     </message>
     <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Recharge</source>
-        <translation>Перезарядка</translation>
+        <translation type="obsolete">Перезарядка</translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
@@ -16205,7 +16949,7 @@ Effects</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Войти</translation>
+        <translation type="obsolete">Войти</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -16217,7 +16961,7 @@ Effects</source>
     </message>
     <message>
         <source>Text Tools</source>
-        <translation>Инструменты работы с текстом</translation>
+        <translation type="obsolete">Инструменты работы с текстом</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -16241,7 +16985,11 @@ Effects</source>
     </message>
     <message>
         <source>WPS Permit</source>
-        <translation>Разрешение WPS</translation>
+        <translation type="obsolete">Разрешение WPS</translation>
+    </message>
+    <message>
+        <source>Word Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WorkSpace_Backup</source>
@@ -20923,7 +21671,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Вставить изображение из Интернета</translation>
+        <translation type="obsolete">Вставить изображение из Интернета</translation>
     </message>
     <message>
         <source>KOS Create Cloud Link</source>
@@ -20955,7 +21703,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Изображения из Интернета</translation>
+        <translation type="obsolete">Изображения из Интернета</translation>
     </message>
     <message>
         <source>Open from Cloud</source>
@@ -20964,6 +21712,10 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>Открыть из облачного сервиса</translation>
+    </message>
+    <message>
+        <source>Protect Eyes Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -21359,6 +22111,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>Настраиваемая строка состояния</translation>
     </message>
     <message>
+        <source>Custom Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cut</source>
         <translation>Вырезать</translation>
     </message>
@@ -21381,6 +22137,10 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Distributed</source>
         <translation>Распределённый равномерно</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Collaboration</source>
@@ -21740,6 +22500,11 @@ Directly</source>
     <message>
         <source>Screen Grab</source>
         <translation>Снимок экрана</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <comment>Menu</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select</source>
@@ -22258,13 +23023,12 @@ Directly</source>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Switch UI</source>
-        <translation>Поменять стиль интерфейса</translation>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <comment>Personal Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>true</source>
@@ -22543,8 +23307,12 @@ Directly</source>
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
+        <source>Professional Switch UI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Switch UI</source>
-        <translation>Поменять стиль интерфейса</translation>
+        <translation type="obsolete">Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Switch UI</source>

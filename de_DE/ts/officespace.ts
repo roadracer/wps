@@ -63,10 +63,6 @@
 <context>
     <name>KCloudFileStateItem</name>
     <message>
-        <source>Check failed because the account was logged off. Please login again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Upload failed because the account was logged off. Please login again.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -102,10 +98,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Light address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>From the current device</source>
         <translation type="unfinished"></translation>
     </message>
@@ -115,10 +107,6 @@
     </message>
     <message>
         <source>Manually stopped uploading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New version is available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -189,6 +177,14 @@
         <source>File name</source>
         <translation type="obsolete">Dateiname</translation>
     </message>
+    <message>
+        <source>New version is available, Please Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available, Please Check</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCloudNewVersionTip</name>
@@ -235,7 +231,7 @@
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation type="obsolete">http://www.kingsoftstore.com/support/pc-office</translation>
+        <translation type="unfinished">http://www.kingsoftstore.com/support/pc-office</translation>
     </message>
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
@@ -1254,6 +1250,10 @@ path:%3</source>
         <source>Open File Location</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KRoamingFilePageFixedButton</name>
@@ -1511,6 +1511,17 @@ path:%3</source>
     <message>
         <source>Prompt</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWebviewDialogImpl</name>
+    <message>
+        <source>Open Cloud</source>
+        <translation type="unfinished">Cloud öffnen</translation>
+    </message>
+    <message>
+        <source>Save to Cloud</source>
+        <translation type="unfinished">In der Cloud speichern</translation>
     </message>
 </context>
 <context>
@@ -2606,6 +2617,17 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSUserGiftMenuCommand</name>
+    <message>
+        <source>New messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

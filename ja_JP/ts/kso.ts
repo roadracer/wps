@@ -340,6 +340,11 @@ Please check your system settings and ensure the temporary directory under the c
         <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
         <translation>クリップボードの内容をJPG形式の図として挿入します。</translation>
     </message>
+    <message>
+        <source>Unicode Text</source>
+        <comment>TX_KSO_CF_UNICODE_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_dguil</name>
@@ -3241,6 +3246,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>_KsoPrompt_SaveError</comment>
         <translation>ファイルを保存中にエラーが発生しました、再保存または技術サポートに連絡してください</translation>
     </message>
+    <message>
+        <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
+        <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_krm</name>
@@ -3337,7 +3347,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation>%s定時バックアップ時にエラーが発生しました！次の操作を試してください。
+        <translation type="obsolete">%s定時バックアップ時にエラーが発生しました！次の操作を試してください。
 ·この操作の前の状態に[元に戻す]。そして[上書き保存]。
 ·内容を新しいファイルに[コピー/貼り付け]。
 ·ファイルへの変更を元に戻す。
@@ -3351,7 +3361,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation>%s 定時バックアップ時にエラーが発生しました！次の操作を行ってください。
+        <translation type="obsolete">%s 定時バックアップ時にエラーが発生しました！次の操作を行ってください。
 ·この操作の前の状態に[元に戻す]。そして[上書き保存]。
 ·テキスト形式（*.txt）として[名前を付けて保存]。
 ·内容を新しいファイルに[コピー/貼り付け]。
@@ -4517,6 +4527,32 @@ You can click the button to recover files you work on.</source>
         <source>File Name</source>
         <comment>_kso_filesearch_FileName</comment>
         <translation>ファイル名前</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
+        <comment>_kso_FileFormatNotSupport</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -954,8 +954,8 @@ condition is true:</source>
         <translation>最大 %1 百分比</translation>
     </message>
     <message>
-        <source>Top 10...</source>
-        <translation>前十项...</translation>
+        <source>Top 10</source>
+        <translation>前十项</translation>
     </message>
     <message>
         <source>Yesterday</source>
@@ -1043,7 +1043,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Filter by Color</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色筛选</translation>
     </message>
 </context>
 <context>
@@ -1205,7 +1205,7 @@ condition is true:</source>
     </message>
     <message>
         <source>is an invalid add-ins.</source>
-        <translation type="unfinished">为无效的加载宏。</translation>
+        <translation>为无效的加载宏。</translation>
     </message>
 </context>
 <context>
@@ -1243,25 +1243,6 @@ condition is true:</source>
     <message>
         <source>Value should be between %1 and %2.</source>
         <translation>输入的值应该介于 %1 和 %2 之间。</translation>
-    </message>
-</context>
-<context>
-    <name>KxAlignmentWidget</name>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtHori_0.png</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_0.png</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_1.png</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_2.png</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1326,6 +1307,44 @@ condition is true:</source>
     <message>
         <source>All Files</source>
         <translation type="obsolete">所有文件</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackgroundQueryMonitorUI</name>
+    <message>
+        <source>External Data Refresh Status</source>
+        <translation>外部数据刷新状态</translation>
+    </message>
+    <message>
+        <source>Queries currently being excuted in the background:</source>
+        <translation>当前在后台执行的查询：</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>状态</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackgroundQuery_monitor</name>
+    <message>
+        <source>&amp;Stop Refresh</source>
+        <translation>停止刷新(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Elapsed time:</source>
+        <translation>运行时间：</translation>
+    </message>
+    <message>
+        <source>Fetching data...</source>
+        <translation>正在接收数据...</translation>
+    </message>
+    <message>
+        <source>Number of rows fetched:</source>
+        <translation>已接收的行数：</translation>
+    </message>
+    <message>
+        <source>Please close this dialog to continue fetching data</source>
+        <translation>请关闭此对话框以继续执行数据接收操作</translation>
     </message>
 </context>
 <context>
@@ -1412,6 +1431,189 @@ condition is true:</source>
     <message>
         <source>You must specify criteria for all conditional formats.</source>
         <translation>所有的条件化格式中都必须指定准则。</translation>
+    </message>
+</context>
+<context>
+    <name>KxConditionHighLightDlg</name>
+    <message>
+        <source>Numerial_Equal</source>
+        <translation>等于</translation>
+    </message>
+    <message>
+        <source>Numerial_NoEqual</source>
+        <translation>不等于</translation>
+    </message>
+    <message>
+        <source>Numerial_Large</source>
+        <translation>大于</translation>
+    </message>
+    <message>
+        <source>Numerial_LargeEqual</source>
+        <translation>大于等于</translation>
+    </message>
+    <message>
+        <source>Numerial_Less</source>
+        <translation>小于</translation>
+    </message>
+    <message>
+        <source>Numerial_LessEqual</source>
+        <translation>小于等于</translation>
+    </message>
+    <message>
+        <source>Numerial_Between</source>
+        <translation>介于</translation>
+    </message>
+    <message>
+        <source>Numerial_BetweenSuffix</source>
+        <translation>之间</translation>
+    </message>
+    <message>
+        <source>Numerial_NoBetween</source>
+        <translation>未介于</translation>
+    </message>
+    <message>
+        <source>Numerial_TopCountPrefix</source>
+        <translation>最大的</translation>
+    </message>
+    <message>
+        <source>Numerial_TopCountSuffix</source>
+        <translation>个值</translation>
+    </message>
+    <message>
+        <source>Numerial_LowCountPrefix</source>
+        <translation>最小的</translation>
+    </message>
+    <message>
+        <source>Numerial_LowCountSuffix</source>
+        <translation>个值</translation>
+    </message>
+    <message>
+        <source>Numerial_TopPercentPrefix</source>
+        <translation>前</translation>
+    </message>
+    <message>
+        <source>Numerial_TopPercentSuffix</source>
+        <translation>%的最大值</translation>
+    </message>
+    <message>
+        <source>Numerial_LowPercentPrefix</source>
+        <translation>后</translation>
+    </message>
+    <message>
+        <source>Numerial_LowPercentSuffix</source>
+        <translation>%的最小值</translation>
+    </message>
+    <message>
+        <source>Numerial_AvgAbove</source>
+        <translation>高于</translation>
+    </message>
+    <message>
+        <source>Numerial_AvgBelow</source>
+        <translation>低于</translation>
+    </message>
+    <message>
+        <source>Text_Contain</source>
+        <translation>包含</translation>
+    </message>
+    <message>
+        <source>Text_NoContain</source>
+        <translation>不包含</translation>
+    </message>
+    <message>
+        <source>Text_BeginWith</source>
+        <translation>开头是</translation>
+    </message>
+    <message>
+        <source>Text_EndWith</source>
+        <translation>结尾是</translation>
+    </message>
+    <message>
+        <source>Date_Prefix</source>
+        <translation>日期是</translation>
+    </message>
+    <message>
+        <source>Date_Yesterday</source>
+        <translation>昨天</translation>
+    </message>
+    <message>
+        <source>Date_Today</source>
+        <translation>今天</translation>
+    </message>
+    <message>
+        <source>Date_Tomorrow</source>
+        <translation>明天</translation>
+    </message>
+    <message>
+        <source>Date_LateSeven</source>
+        <translation>最近7天</translation>
+    </message>
+    <message>
+        <source>Date_LastWeek</source>
+        <translation>上周</translation>
+    </message>
+    <message>
+        <source>Date_Week</source>
+        <translation>本周</translation>
+    </message>
+    <message>
+        <source>Date_NextWeek</source>
+        <translation>下周</translation>
+    </message>
+    <message>
+        <source>Date_LastMonth</source>
+        <translation>上个月</translation>
+    </message>
+    <message>
+        <source>Date_Month</source>
+        <translation>本月</translation>
+    </message>
+    <message>
+        <source>Date_NextMonth</source>
+        <translation>下个月</translation>
+    </message>
+    <message>
+        <source>Date_Weekend</source>
+        <translation>周末</translation>
+    </message>
+    <message>
+        <source>Special_Empty</source>
+        <translation>空单元格</translation>
+    </message>
+    <message>
+        <source>Special_Error</source>
+        <translation>错误值</translation>
+    </message>
+    <message>
+        <source>Numerial_BetweenMidfix</source>
+        <translation>和</translation>
+    </message>
+    <message>
+        <source>Numerial_AvgSuffix</source>
+        <translation>平均值</translation>
+    </message>
+    <message>
+        <source>HighLight - Numerial</source>
+        <translation>突出显示 - 数值</translation>
+    </message>
+    <message>
+        <source>HighLight - Text</source>
+        <translation>突出显示 - 文本</translation>
+    </message>
+    <message>
+        <source>HighLight - Date</source>
+        <translation>突出显示 - 日期</translation>
+    </message>
+    <message>
+        <source>HighLight - Special</source>
+        <translation>突出显示 - 特殊值</translation>
+    </message>
+    <message>
+        <source>A required input value is missing</source>
+        <translation>缺少输入值</translation>
+    </message>
+    <message>
+        <source>required range values is not enough</source>
+        <translation>所需的范围值不足</translation>
     </message>
 </context>
 <context>
@@ -1603,7 +1805,7 @@ condition is true:</source>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="unfinished">所选的连接类型不能用于创建数据透视表</translation>
+        <translation>所选的连接类型不能用于创建数据透视表</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -2134,6 +2336,57 @@ To keep existing picture, press Cancel.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgConditionHighLight</name>
+    <message>
+        <source>original setting</source>
+        <translation>保留单元格原有设置</translation>
+    </message>
+    <message>
+        <source>show following effect</source>
+        <translation>将显示以下效果</translation>
+    </message>
+    <message>
+        <source>123</source>
+        <translation>123</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation>与</translation>
+    </message>
+    <message>
+        <source>inside</source>
+        <translation>之间</translation>
+    </message>
+    <message>
+        <source>spinPrefix</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>spinSuffix</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>directPrefix</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>directSuffix</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Condition HighLight</source>
+        <translation>条件格式高亮</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>自定义</translation>
+    </message>
+    <message>
+        <source>cells with following condition</source>
+        <translation>符合以下条件的单元格</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgConfirmPasswordOfRange</name>
     <message>
         <source>&amp;Reenter password to proceed.</source>
@@ -2272,11 +2525,11 @@ place.(Remember that passwords are case-sensitive.)</source>
     </message>
     <message>
         <source>asd</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>asdf</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbxFunction</source>
@@ -2284,11 +2537,11 @@ place.(Remember that passwords are case-sensitive.)</source>
     </message>
     <message>
         <source>df</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>fas</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>lbx All References</source>
@@ -2734,7 +2987,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Cell ? Error</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Edit in &amp;FormulaBar</source>
@@ -2746,15 +2999,15 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ErrorType</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>FixItem1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>FixItem2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -2766,7 +3019,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished">提示信息</translation>
+        <translation>提示信息</translation>
     </message>
     <message>
         <source>Edit in &amp;Formula Bar</source>
@@ -2890,7 +3143,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Alt+M</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Auto</source>
@@ -2966,7 +3219,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>For&amp;mat...</source>
-        <translation type="unfinished">格式(&amp;M)...</translation>
+        <translation>格式(&amp;M)...</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -3054,7 +3307,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Find Pre&amp;vious</source>
-        <translation type="unfinished">查找上一个(&amp;V)</translation>
+        <translation>查找上一个(&amp;V)</translation>
     </message>
     <message>
         <source>&amp;Search for a function:</source>
@@ -4035,7 +4288,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished">48</translation>
+        <translation>48</translation>
     </message>
     <message>
         <source>6</source>
@@ -4203,11 +4456,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>File encryption options for this workbook</source>
-        <translation>此文档的文件加密选项</translation>
+        <translation>打开权限:</translation>
     </message>
     <message>
         <source>File sharing options for this workbook</source>
-        <translation>此文档的文件共享选项</translation>
+        <translation>编辑权限:</translation>
     </message>
     <message>
         <source>Fixed ta&amp;b width</source>
@@ -4478,6 +4731,10 @@ p, li { white-space: pre-wrap; }
         <translation>启动任务窗格(&amp;U)</translation>
     </message>
     <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation>在任务栏中显示所有窗口(&amp;W)</translation>
+    </message>
+    <message>
         <source>&amp;Row and column h&amp;eadings</source>
         <translation>行号列标(&amp;E)</translation>
     </message>
@@ -4519,7 +4776,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>The password will protect your workbook.</source>
-        <translation>在下面的密码框中输入的密码会保护您的文档。</translation>
+        <translation>密码保护</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
@@ -4590,9 +4847,8 @@ p, li { white-space: pre-wrap; }
         <translation type="obsolete">自定义词典</translation>
     </message>
     <message>
-        <source>Enter a password below to protect this document. 
-The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="obsolete">在下面的密码框中输入的密码会保护您的文档。</translation>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation>点击“高级”按钮选择不同的加密类型，可以为您的文档设置不同级别的加密保护。</translation>
     </message>
     <message>
         <source>Form&amp;ulas Referencing Blank Cells</source>
@@ -4601,6 +4857,14 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Create &amp;backup files on first save</source>
         <translation>第一次保存时生成备份文件(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation>自动恢复文件位置(&amp;R):</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>浏览(&amp;B)...</translation>
     </message>
 </context>
 <context>
@@ -5009,11 +5273,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>buttonGroup</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>buttonGroup_2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Summarize Values By</source>
@@ -5114,10 +5378,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation>并打时绘制分割线(&amp;D)</translation>
     </message>
     <message>
-        <source>&amp;Entire Workbook</source>
-        <translation>整个工作簿(&amp;E)</translation>
-    </message>
-    <message>
         <source>&amp;From:</source>
         <translation>从(&amp;F):</translation>
     </message>
@@ -5172,6 +5432,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Copies</source>
         <translation>副本</translation>
+    </message>
+    <message>
+        <source>Entire Wor&amp;kbook</source>
+        <translation>整个工作簿(&amp;K)</translation>
     </message>
     <message>
         <source>From le&amp;ft to right</source>
@@ -6563,11 +6827,11 @@ protected.</source>
     </message>
     <message>
         <source>ll3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>ll4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>not between</source>
@@ -6590,23 +6854,23 @@ protected.</source>
     <name>KxDlgZoomView</name>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;100%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;25%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;50%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;75%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Custom:</source>
@@ -6701,6 +6965,10 @@ protected.</source>
         <source>Connection string or SQL is error. WPS Spreadsheets can not import the data.</source>
         <translation type="obsolete">连接字符串或者SQL有误，ET 无法导入数据。</translation>
     </message>
+    <message>
+        <source>Edit Query</source>
+        <translation>编辑查询</translation>
+    </message>
 </context>
 <context>
     <name>KxErrorCheckDlg</name>
@@ -6774,11 +7042,11 @@ protected.</source>
     </message>
     <message>
         <source>Filter by cell color:</source>
-        <translation type="unfinished">按单元格背景颜色筛选:</translation>
+        <translation>按单元格背景颜色筛选:</translation>
     </message>
     <message>
         <source>Filter by font color:</source>
-        <translation type="unfinished">按文字颜色筛选:</translation>
+        <translation>按文字颜色筛选:</translation>
     </message>
     <message>
         <source>No fill</source>
@@ -6786,7 +7054,7 @@ protected.</source>
     </message>
     <message>
         <source>Only one color</source>
-        <translation type="unfinished">本列仅包含一种颜色</translation>
+        <translation>本列仅包含一种颜色</translation>
     </message>
     <message>
         <source>No Fill</source>
@@ -7019,7 +7287,7 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <name>KxEtDlgRefEdit</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7189,6 +7457,25 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <message>
         <source>other line color</source>
         <translation type="obsolete">其他线条颜色</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtMacroErrorDlg</name>
+    <message>
+        <source>Macro Error</source>
+        <translation>宏错误</translation>
+    </message>
+    <message>
+        <source>H&amp;alt</source>
+        <translation>异常终止(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation>继续(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Goto</source>
+        <translation>定位(&amp;G)</translation>
     </message>
 </context>
 <context>
@@ -7635,7 +7922,7 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
-        <translation type="unfinished">你指定的路径不存在，请键入一个合法的路径。</translation>
+        <translation>你指定的路径不存在，请键入一个合法的路径。</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
@@ -7804,7 +8091,7 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     </message>
     <message>
         <source>F&amp;ill Color</source>
-        <translation type="unfinished">背景颜色(&amp;I)</translation>
+        <translation>背景颜色(&amp;I)</translation>
     </message>
     <message>
         <source>Find</source>
@@ -7820,11 +8107,11 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     </message>
     <message>
         <source>Fon&amp;t Color</source>
-        <translation type="unfinished">字体颜色(&amp;T)</translation>
+        <translation>字体颜色(&amp;T)</translation>
     </message>
     <message>
         <source>Font &amp;And Fill Color</source>
-        <translation type="unfinished">背景与字体颜色(&amp;A)</translation>
+        <translation>背景与字体颜色(&amp;A)</translation>
     </message>
     <message>
         <source>For&amp;mat...</source>
@@ -7956,7 +8243,7 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     </message>
     <message>
         <source>All Formats(&amp;C)</source>
-        <translation type="unfinished">全部格式(&amp;C)</translation>
+        <translation>全部格式(&amp;C)</translation>
     </message>
     <message>
         <source>For&amp;mat</source>
@@ -7972,10 +8259,6 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="obsolete">定位(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Go to</source>
         <translation type="obsolete">定位(&amp;G)</translation>
     </message>
     <message>
@@ -8259,7 +8542,7 @@ printer and your screen.</source>
     <name>KxFrameEmbedInMenuItem</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished">自动</translation>
+        <translation>自动</translation>
     </message>
 </context>
 <context>
@@ -8356,7 +8639,7 @@ To make changes, click Unprotect Sheet in the Review tab (You might need a passw
     <name>KxGoalSeekStatusDlg</name>
     <message>
         <source>FALSE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Goal Seeking with Cell %1 
@@ -8378,7 +8661,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>TRUE</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Goal Seeking with Cell %1 still can not find a solution.</source>
@@ -8475,7 +8758,7 @@ on iteration #%2.</source>
     <name>KxInsertCellsDlg</name>
     <message>
         <source>Auto</source>
-        <translation type="unfinished">自动</translation>
+        <translation>自动</translation>
     </message>
 </context>
 <context>
@@ -8578,7 +8861,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The default Workbook name %1 is not valid, can&apos;t include %2.</source>
-        <translation type="unfinished">默认的工作薄名称“%1”无效，不可包含“%2”字符。</translation>
+        <translation>默认的工作薄名称“%1”无效，不可包含“%2”字符。</translation>
     </message>
 </context>
 <context>
@@ -8678,7 +8961,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>&amp;Use 1000 separator ( %1)</source>
-        <translation type="unfinished">使用千位分隔符( %1 )(&amp;U)</translation>
+        <translation>使用千位分隔符( %1 )(&amp;U)</translation>
     </message>
 </context>
 <context>
@@ -8816,7 +9099,7 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">打开</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <source>Please select a dictionary first.</source>
@@ -8904,7 +9187,7 @@ file, then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>The word contains unallowable characters. Cannot process it.</source>
-        <translation type="unfinished">单词中有非法字符，无法处理！</translation>
+        <translation>单词中有非法字符，无法处理！</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)|*.dic</source>
@@ -8997,6 +9280,18 @@ file, then %2switch%3the file to ET shared workbook.</source>
     <message>
         <source>The cells with overly complex strings will be ignored.</source>
         <translation type="obsolete">将忽略数字、空格等不符合条件的单元格</translation>
+    </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation>目录 &quot;%1&quot; 无效。</translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
+        <translation>选择文件夹</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation>您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
     </message>
 </context>
 <context>
@@ -9565,7 +9860,7 @@ Only %2 unique value can be keep after delete.</source>
     </message>
     <message>
         <source>(%1) %2</source>
-        <translation type="unfinished">(%1) %2</translation>
+        <translation>(%1) %2</translation>
     </message>
 </context>
 <context>
@@ -9661,19 +9956,19 @@ system will remind checking the correctness of the contents.
     <name>KxSelectTableFromDbDlg</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">所有者</translation>
+        <translation>所有者</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished">选择表格</translation>
+        <translation>选择表格</translation>
     </message>
     <message>
         <source>The data source contains no visible form</source>
@@ -9681,7 +9976,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>This data source contains no visible tables.</source>
-        <translation type="unfinished">数据源中没有包含可见的表格.</translation>
+        <translation>数据源中没有包含可见的表格。</translation>
     </message>
 </context>
 <context>
@@ -10027,11 +10322,11 @@ system will remind checking the correctness of the contents.
     <name>KxStyleDlg</name>
     <message>
         <source> </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>, </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>@ET_Style?</source>
@@ -10288,31 +10583,31 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>DMY</source>
-        <translation type="unfinished">DMY</translation>
+        <translation>DMY</translation>
     </message>
     <message>
         <source>DYM</source>
-        <translation type="unfinished">DYM</translation>
+        <translation>DYM</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">常规</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>MDY</source>
-        <translation type="unfinished">MDY</translation>
+        <translation>MDY</translation>
     </message>
     <message>
         <source>MYD</source>
-        <translation type="unfinished">MYD</translation>
+        <translation>MYD</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">忽略列</translation>
+        <translation>忽略列</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
     <message>
         <source>Text Import Wizard - Step %1 of 3</source>
@@ -10328,11 +10623,11 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>YDM</source>
-        <translation type="unfinished">YDM</translation>
+        <translation>YDM</translation>
     </message>
     <message>
         <source>YMD</source>
-        <translation type="unfinished">YMD</translation>
+        <translation>YMD</translation>
     </message>
 </context>
 <context>
@@ -10466,6 +10761,35 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     </message>
 </context>
 <context>
+    <name>KxUpdateExternalLinkDlg</name>
+    <message>
+        <source>SpreadSheets</source>
+        <translation>WPS 表格</translation>
+    </message>
+    <message>
+        <source>There are links to other data sources in this workbook.
+
+•If you update the links, WPS Spreadsheets will try to get the latest data.
+•If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
+
+Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
+        <translation>此工作簿包含到其他数据源的链接。是否更新这些链接？
+
+· 如果更新这些链接，WPS表格 将会试图检索最新数据。
+· 如果不更新链接，WPS表格 将使用以前的信息。
+
+注意，数据链接可用于访问和共享机密信息而不需要您的权限，并且可能执行其他有害操作。如果您不信任该工作簿的源，请不要更新该链接。</translation>
+    </message>
+    <message>
+        <source>&amp;Update</source>
+        <translation>更新(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Don&apos;t Update</source>
+        <translation>不更新(&amp;N)</translation>
+    </message>
+</context>
+<context>
     <name>KxUrlParameterPrompt</name>
     <message>
         <source>Enter Parameter Value</source>
@@ -10473,7 +10797,7 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     </message>
     <message>
         <source>To Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>提示</translation>
     </message>
     <message>
         <source>Use this value/reference for &amp;future refreshes</source>
@@ -10510,7 +10834,7 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     </message>
     <message>
         <source>Bad parameter type. WPS Spreadsheets is expecting a different kind of value than what was provided.</source>
-        <translation type="unfinished">参数类型不对。WPS表格需要的值不是所提供的这种类型。</translation>
+        <translation>参数类型不对。WPS表格需要的值不是所提供的这种类型。</translation>
     </message>
     <message>
         <source>To refresh an external data range automatically when the parameter value changes, you must select a single cell to supply the parameter.
@@ -11145,7 +11469,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished">继续(&amp;C)</translation>
+        <translation>继续(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
@@ -11157,7 +11481,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Pause</source>
-        <translation type="unfinished">暂停(&amp;P)</translation>
+        <translation>暂停(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
@@ -12160,7 +12484,7 @@ and cannot generate reports.</source>
     <name>SelectTableFromDbUI</name>
     <message>
         <source>Select Table</source>
-        <translation type="unfinished">选择表格</translation>
+        <translation>选择表格</translation>
     </message>
 </context>
 <context>
@@ -12556,7 +12880,7 @@ and cannot generate reports.</source>
     <name>dialogstestClass</name>
     <message>
         <source>dialogstest</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -12927,7 +13251,7 @@ and cannot generate reports.</source>
     </message>
     <message>
         <source>Printing Permission</source>
-        <translation type="unfinished">打印权限</translation>
+        <translation>打印权限</translation>
     </message>
     <message>
         <source>Free printing</source>
@@ -13080,7 +13404,7 @@ or Web Page</source>
     <name>kxUiHyperlinket</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Select a pla&amp;ce in this document:</source>
@@ -13430,7 +13754,7 @@ Do you want to change to  Manual Recalculation? </source>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation type="unfinished">您打开的文件，正在将程序从‘自动重算’改成‘手动重算’；这会导致该文件以及其他文件在编辑的过程中无法及时得到正确的计算结果。
+        <translation>您打开的文件，正在将程序从‘自动重算’改成‘手动重算’；这会导致该文件以及其他文件在编辑的过程中无法及时得到正确的计算结果。
 
 请您确认：是否要改成‘手动重算’？</translation>
     </message>

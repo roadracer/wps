@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es_PE">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KApplication</name>
     <message>

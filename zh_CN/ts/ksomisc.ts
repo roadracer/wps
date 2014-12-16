@@ -238,6 +238,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
         <translation>使用WPS轻办公，轻松进行团队协作。</translation>
     </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Launch WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -304,6 +312,10 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <source>WPS Office General Repair/Configuration Tools</source>
         <extracomment>ksomisc main dialog</extracomment>
         <translation>WPS Office 综合修复/配置工具</translation>
+    </message>
+    <message>
+        <source>You are not using an administrator account. Some features are not available.</source>
+        <translation>您当前使用的是非管理员账号。部分功能将不能够使用。</translation>
     </message>
 </context>
 <context>
@@ -816,6 +828,10 @@ The button icon, command group and task window position of each scheme are diffe
         <translation>打印(&amp;P)</translation>
     </message>
     <message>
+        <source>OpenAsReadOnly</source>
+        <translation>以只读方式打开</translation>
+    </message>
+    <message>
         <source>WPS Spreadsheets Template</source>
         <translation>WPS表格 模板</translation>
     </message>
@@ -826,6 +842,14 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>Microsoft Excel Sheet</source>
         <translation>Microsoft Excel 工作表</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Worksheet</source>
+        <translation>Microsoft Excel 97-2003 工作表</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Worksheet</source>
+        <translation>Microsoft Excel 启用宏的工作表</translation>
     </message>
     <message>
         <source>Microsoft Office Excel 2007 Workbook</source>
@@ -925,7 +949,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft PowerPoint Slide Show	</source>
-        <translation type="obsolete">Microsoft PowerPoint 幻灯片放映</translation>
+        <translation type="obsolete">Microsoft PowerPoint 演示文稿</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Application</source>
@@ -938,6 +962,18 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation>Microsoft PowerPoint 97-2003 演示文稿</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 SlideShow</source>
+        <translation>Microsoft PowerPoint 97-2003 幻灯片放映</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Template</source>
+        <translation>Microsoft PowerPoint 97-2003 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Slide</source>
+        <translation>Microsoft PowerPoint 启用宏的幻灯片</translation>
     </message>
     <message>
         <source>PowerPoint Presentation</source>
@@ -990,6 +1026,18 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>Microsoft Word Document</source>
         <translation>Microsoft Word 文档</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Document</source>
+        <translation>Microsoft Word 97 - 2003 文档</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Template</source>
+        <translation>Microsoft Word 97 - 2003 模板</translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word Template</source>
+        <translation type="obsolete">Microsoft Office Word 模板</translation>
     </message>
     <message>
         <source>Microsoft Office Word 2007 Document</source>
@@ -1069,7 +1117,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft PowerPoint Slide Show</source>
-        <translation>Microsoft PowerPoint 幻灯片放映</translation>
+        <translation>Microsoft PowerPoint 演示文稿</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
@@ -1077,7 +1125,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Office Excel Data Interchange Format</source>
-        <translation type="obsolete">Microsoft Office Excel 数据交换格式</translation>
+        <translation>Microsoft Office Excel 数据交换格式</translation>
     </message>
     <message>
         <source>&amp;Edit,0,2</source>
@@ -1094,6 +1142,22 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>Equation</source>
         <translation>公式</translation>
+    </message>
+    <message>
+        <source>Workbook</source>
+        <translation>工作表</translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation>文档</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>图片</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
+        <translation>Microsoft PowerPoint 启用宏的演示文稿</translation>
     </message>
 </context>
 <context>
@@ -1217,6 +1281,18 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>User name:</source>
         <translation>用户名：</translation>
+    </message>
+    <message>
+        <source>Software recommend：</source>
+        <translation>软件推荐：</translation>
+    </message>
+    <message>
+        <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
+        <translation>升级完成后推荐精选软件(&amp;T)</translation>
+    </message>
+    <message>
+        <source>The port must be a number between 1 and 65535.</source>
+        <translation>端口号必须是介于1到65535之间的数字。</translation>
     </message>
 </context>
 <context>

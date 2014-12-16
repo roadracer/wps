@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ru_RU">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KActiveDialogAtStartup</name>
     <message>
@@ -63,7 +64,7 @@
     </message>
     <message>
         <source>Check failed because the account was logged off. Please login again.</source>
-        <translation>Ошибка проверки, так как пользователь вышел из системы. Выполните вход повторно.</translation>
+        <translation type="obsolete">Ошибка проверки, так как пользователь вышел из системы. Выполните вход повторно.</translation>
     </message>
 </context>
 <context>
@@ -90,7 +91,7 @@
     </message>
     <message>
         <source>Light address</source>
-        <translation>Адрес</translation>
+        <translation type="obsolete">Адрес</translation>
     </message>
     <message>
         <source>From the current device</source>
@@ -106,7 +107,7 @@
     </message>
     <message>
         <source>New version is available</source>
-        <translation>Доступна новая версия</translation>
+        <translation type="obsolete">Доступна новая версия</translation>
     </message>
     <message>
         <source>Checking updates in the cloud</source>
@@ -171,6 +172,14 @@
     <message>
         <source>Refresh</source>
         <translation>Обновить</translation>
+    </message>
+    <message>
+        <source>New version is available, Please Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available, Please Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -295,6 +304,10 @@
     <message>
         <source>netbackup rollback failed.</source>
         <translation>Ошибка возврата к предыдущему состоянию netbackup.</translation>
+    </message>
+    <message>
+        <source>http://www.kingsoftstore.com/support/pc-office</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -923,6 +936,10 @@ path:%3</source>
         <source>Clear Invalid Records</source>
         <translation>Удалить неверные записи</translation>
     </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished">Роуминг файлов</translation>
+    </message>
 </context>
 <context>
     <name>KRoamingFilePageFixedButton</name>
@@ -1180,6 +1197,17 @@ path:%3</source>
     <message>
         <source>Prompt</source>
         <translation>Запрос на ввод</translation>
+    </message>
+</context>
+<context>
+    <name>KWebviewDialogImpl</name>
+    <message>
+        <source>Open Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2218,6 +2246,17 @@ After expiration, some features will not work properly. Please renew now. </sour
     <message>
         <source>Prompt</source>
         <translation>Запрос на ввод</translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSUserGiftMenuCommand</name>
+    <message>
+        <source>New messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -56,7 +56,7 @@
     <name>KCloudFileStateItem</name>
     <message>
         <source>Check failed because the account was logged off. Please login again.</source>
-        <translation type="unfinished">La vérification a échoué parce que le compte a été déconnecté. Veuillez vous connecter à nouveau</translation>
+        <translation type="obsolete">La vérification a échoué parce que le compte a été déconnecté. Veuillez vous connecter à nouveau</translation>
     </message>
     <message>
         <source>Upload failed because the account was logged off. Please login again.</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>New version is available</source>
-        <translation>Une nouvelle version est disponible sur le Cloud. Veuillez l&apos;actualiser</translation>
+        <translation type="obsolete">Une nouvelle version est disponible sur le Cloud. Veuillez l&apos;actualiser</translation>
     </message>
     <message>
         <source>Checking updates in the cloud</source>
@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>Light address</source>
-        <translation>Adresse Cloud</translation>
+        <translation type="obsolete">Adresse Cloud</translation>
     </message>
     <message>
         <source>Uploaded %1 minutes ago</source>
@@ -180,6 +180,14 @@
     <message>
         <source>File name:</source>
         <translation>Nom du fichier</translation>
+    </message>
+    <message>
+        <source>New version is available, Please Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available, Please Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -312,6 +320,10 @@
     <message>
         <source>netbackup rollback failed.</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>http://www.kingsoftstore.com/support/pc-office</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -904,7 +916,7 @@ Etes-vous sûr de vouloir la modifier?</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="obsolete">File Roaming</translation>
+        <translation type="unfinished">File Roaming</translation>
     </message>
     <message>
         <source>From %1</source>
@@ -1221,6 +1233,17 @@ Chemin:%3</translation>
     <message>
         <source>Prompt</source>
         <translation>Prompt</translation>
+    </message>
+</context>
+<context>
+    <name>KWebviewDialogImpl</name>
+    <message>
+        <source>Open Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2149,6 +2172,17 @@ After expiration, some features will not work properly. Please renew now. </sour
     <message>
         <source>Prompt</source>
         <translation>Prompt</translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSUserGiftMenuCommand</name>
+    <message>
+        <source>New messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

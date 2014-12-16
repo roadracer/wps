@@ -62,10 +62,6 @@
         <source>Upload failed because the account was logged off. Please login again.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Check failed because the account was logged off. Please login again.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KCloudFileStatePanel</name>
@@ -79,10 +75,6 @@
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Light address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -146,10 +138,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New version is available</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Uploading to File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
@@ -171,6 +159,14 @@
     </message>
     <message>
         <source>Checked %1 minutes ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available, Please Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available, Please Check</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -295,6 +291,10 @@
     </message>
     <message>
         <source>netbackup rollback failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>http://www.kingsoftstore.com/support/pc-office</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -908,6 +908,10 @@ path:%3</source>
         <source>Clear Invalid Records</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KRoamingFilePageFixedButton</name>
@@ -1168,6 +1172,17 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KWebviewDialogImpl</name>
+    <message>
+        <source>Open Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxCheckUploadDlg</name>
     <message>
         <source>Documents saving to the cloud failed. Please check the internet and retry</source>
@@ -1223,11 +1238,11 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
+        <source>Buy/Renew Now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Buy/Renew Now</source>
+        <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1662,11 +1677,7 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Office Activation Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter your activation code here:</source>
+        <source>Unknown error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1690,7 +1701,11 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unknown error</source>
+        <source>WPS Office Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter your activation code here:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1786,6 +1801,14 @@ After expiration, some features will not work properly. Renew now and you can ge
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Verification Failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Subscription will expire today</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1796,14 +1819,6 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Some features will not work properly. &lt;br/&gt;Please renew now.  %1View details%2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verification Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1899,10 +1914,6 @@ After expiration, some features will not work properly. Please renew now. </sour
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your subscription does not include VBA. Macro in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Macros depend on VBA support to function correctly.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1920,6 +1931,10 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Your subscription does not include VBA so that macros in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your subscription does not include VBA. Macro in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2028,6 +2043,17 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSUserGiftMenuCommand</name>
+    <message>
+        <source>New messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

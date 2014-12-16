@@ -442,6 +442,29 @@
     </message>
 </context>
 <context>
+    <name>DlgKxInvolvedTemplate</name>
+    <message>
+        <source>Involved Template</source>
+        <translation>本文模板</translation>
+    </message>
+    <message>
+        <source>Select Involved Template</source>
+        <translation>选择本文模板</translation>
+    </message>
+    <message>
+        <source>Apply Current</source>
+        <translation>应用当前页</translation>
+    </message>
+    <message>
+        <source>Apply All</source>
+        <translation>应用全部页</translation>
+    </message>
+    <message>
+        <source>Apply Master</source>
+        <translation>替换当前母版</translation>
+    </message>
+</context>
+<context>
     <name>DlgKxSetupShow</name>
     <message>
         <source>&amp;All</source>
@@ -1104,7 +1127,7 @@
     <name>KWppZoomSlider</name>
     <message id="0">
         <source>Fit slide to current window</source>
-        <translation type="unfinished">最佳显示比例</translation>
+        <translation>最佳显示比例</translation>
     </message>
     <message>
         <source>Slide Zoom Fit</source>
@@ -1115,7 +1138,7 @@
     <name>KxApplication</name>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished">WPS 演示</translation>
+        <translation>WPS 演示</translation>
     </message>
 </context>
 <context>
@@ -1343,7 +1366,7 @@
     </message>
     <message>
         <source>(%1) </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
@@ -1692,6 +1715,29 @@ the presentation file directly.You can put it with the presentation file in the 
     <message>
         <source>Dialog</source>
         <translation type="obsolete">对话框</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEmbedPrivateFonts</name>
+    <message>
+        <source>Dialog</source>
+        <translation>对话框</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Application documents online font, if your document needs circulated others, 
+we recommend that you saved earlier document fonts. 
+If necessary, click Cancel</source>
+        <translation>文档中应用了“云字体”，若您的文档需要传阅他人，
+我们建议您将字体保存到文档中。
+是否将云字体保存到文档中？</translation>
+    </message>
+    <message>
+        <source>Remember this operation, do not remind anymore</source>
+        <translation>记住此操作，不再提醒</translation>
     </message>
 </context>
 <context>
@@ -2247,6 +2293,10 @@ be recovered.</source>
         <translation>垂直标尺(&amp;V)</translation>
     </message>
     <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation>在任务栏中显示所有窗口(&amp;W)</translation>
+    </message>
+    <message>
         <source>...</source>
         <translation>…</translation>
     </message>
@@ -2308,11 +2358,11 @@ be recovered.</source>
     </message>
     <message>
         <source>File encryption options for this document</source>
-        <translation>此文档的文件加密选项</translation>
+        <translation>打开权限:</translation>
     </message>
     <message>
         <source>File sharing options for this document</source>
-        <translation>此文档的文件共享选项</translation>
+        <translation>编辑权限:</translation>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
@@ -2519,6 +2569,14 @@ be recovered.</source>
         <translation type="obsolete">嵌入所有字符(适于其他人编辑)(&amp;C)</translation>
     </message>
     <message>
+        <source>Remember &amp;My Choice</source>
+        <translation type="obsolete">提醒我是否将云字体嵌入文件(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Remind &amp;Me When Save</source>
+        <translation>提醒我是否将云字体嵌入文件(&amp;M)</translation>
+    </message>
+    <message>
         <source>Start&amp;up task window</source>
         <translation>启动任务窗格(&amp;U)</translation>
     </message>
@@ -2567,9 +2625,8 @@ be recovered.</source>
         <translation>纯黑白</translation>
     </message>
     <message>
-        <source>Enter a password below to protect this document.
-The Advanced button allows you to choose from different encryption types.</source>
-        <translation>在下面的密码框中输入的密码会保护您的文档，点击“高级”按钮选择不同的加密类型，可以为您的文档设置不同级别的加密保护。</translation>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation>点击“高级”按钮选择不同的加密类型，可以为您的文档设置不同级别的加密保护。</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
@@ -2589,11 +2646,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>隐私</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助我们改进WPS Office</translation>
     </message>
     <message>
         <source>&amp;Entries</source>
@@ -2618,6 +2675,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Embed all &amp;characters (best for editing by other people)</source>
         <translation>嵌入所有字符(适于其他人编辑)(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation>密码保护</translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation>自动恢复文件位置(&amp;R):</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>浏览(&amp;B)...</translation>
     </message>
 </context>
 <context>
@@ -2900,7 +2969,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished">WPS 演示</translation>
+        <translation>WPS 演示</translation>
     </message>
     <message>
         <source>!NO_TRANS!WPS Presentation</source>
@@ -3131,11 +3200,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>cbMute</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>tbVolume</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4008,6 +4077,20 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxInvolvedTemplateDlg</name>
+    <message>
+        <source>Blank Design</source>
+        <translation>空白设计模板</translation>
+    </message>
+</context>
+<context>
+    <name>KxInvolvedTemplateView</name>
+    <message>
+        <source>Use Blank Template</source>
+        <translation>套用空白模板</translation>
+    </message>
+</context>
+<context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Best Match</source>
@@ -4116,7 +4199,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxOptionsDlg</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">打开</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -4142,6 +4225,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>&amp;Open</source>
         <translation type="obsolete">打开</translation>
     </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation>目录 &quot;%1&quot; 无效。</translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
+        <translation>选择文件夹</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation>您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
 </context>
 <context>
     <name>KxPackageBaseCommand</name>
@@ -4155,7 +4250,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>The file was not saved. Please save the file before the packaging operation.</source>
-        <translation type="unfinished">文件未保存，请先保存文件，然后重新进行打包操作。</translation>
+        <translation>文件未保存，请先保存文件，然后重新进行打包操作。</translation>
     </message>
 </context>
 <context>
@@ -4168,7 +4263,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  folder, in order to play this file on another computer.</source>
-        <translation type="unfinished">将演示文件及相关的媒体项目，如视频、音频等，一起拷贝到指定的文
+        <translation>将演示文件及相关的媒体项目，如视频、音频等，一起拷贝到指定的文
 件夹中，以便在其他电脑上播放此文件。</translation>
     </message>
 </context>
@@ -4241,7 +4336,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  Zip folder, in order to play this file on another computer.</source>
-        <translation type="unfinished">将演示文件及相关的媒体项目，如视频、音频等，一起拷贝到指定的压
+        <translation>将演示文件及相关的媒体项目，如视频、音频等，一起拷贝到指定的压
 缩文件夹中，以便在其他电脑上播放此文件。</translation>
     </message>
 </context>
@@ -4728,7 +4823,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished">缩放</translation>
+        <translation>缩放</translation>
     </message>
     <message>
         <source>loop play, to the next voice began</source>
@@ -4819,7 +4914,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished">缩放</translation>
+        <translation>缩放</translation>
     </message>
     <message>
         <source>pt, 2, -169077, 169077, 1</source>
@@ -5679,7 +5774,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>All slides among this range are marked as hidden!</source>
-        <translation type="unfinished">在此范围内所有的幻灯片已标记为隐藏！</translation>
+        <translation>在此范围内所有的幻灯片已标记为隐藏！</translation>
     </message>
     <message>
         <source>All slides in current presentation are marked as hidden. Either ensure that the slides are no longer hidden, or choose to print hidden slides.</source>
@@ -6029,7 +6124,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>In the %1 Show</source>
-        <translation type="unfinished">在 %1 中的 演示文稿</translation>
+        <translation>在 %1 中的 演示文稿</translation>
     </message>
     <message>
         <source>In the %1 Slide</source>
@@ -6551,7 +6646,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>dialogstestClass</name>
     <message>
         <source>Dialogstest</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7009,7 +7104,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Border Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>边框预览</translation>
     </message>
     <message>
         <source>Borders</source>
@@ -7073,67 +7168,67 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>btnBorderBackSlash</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>btnBorderLeft</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>btnBorderMidHor</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>btnBorderMidVer</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>btnBorderRight</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>btnBorderSlash</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>btnBorderUnder</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>btnBorderUp</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbFillColor</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbOrientation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbSemitransparent</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cbTextAlign</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cmbBorderColor</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cmbBorderWidth</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>cmbFillColor</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>lwLineStyle</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Format Table</source>
@@ -7276,7 +7371,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished">WPS 演示</translation>
+        <translation>WPS 演示</translation>
     </message>
 </context>
 <context>

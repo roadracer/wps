@@ -20,6 +20,41 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Convert XX to 19XX</source>
+        <comment>TX_ERRORCHECK_REPAIR_ConvertTo19xx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Convert to Number</source>
+        <comment>TX_ERRORCHECK_REPAIR_ConvertToNumber</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Ignore Error</source>
+        <comment>TX_ERRORCHECK_REPAIR_IgnoreError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lock Cell</source>
+        <comment>TX_ERRORCHECK_REPAIR_LockCell</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Trace Empty Cell</source>
+        <comment>TX_ERRORCHECK_REPAIR_TraceEmptyCell</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Trace Error</source>
+        <comment>TX_ERRORCHECK_REPAIR_TraceError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Update Formula to include Cells</source>
+        <comment>TX_ERRORCHECK_REPAIR_UpdateFmla</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>(Exclusive)</source>
         <comment>TX_ShareWorkbook_SuffixExclusion</comment>
         <translation type="unfinished"></translation>
@@ -81,8 +116,13 @@ To open the second document with the same name, you can close the document that 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All WPS Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
-        <comment>TxDesc_AllETFiles</comment>
+        <source>A value is not available to the formula or function.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_NA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A value used in the formula is of the wrong data type.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_VALUE</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -297,13 +337,8 @@ Please specify the right files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Common Files(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
-        <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
-        <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
+        <source>Con&amp;vert XX to 20XX</source>
+        <comment>TX_ERRORCHECK_REPAIR_ConvertTo20xx</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -339,6 +374,11 @@ Please specify the right files.</source>
     <message>
         <source>Convergence</source>
         <comment>TX_SOLVER_CONVERGENCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Formula from &amp;Above</source>
+        <comment>TX_ERRORCHECK_REPAIR_CopyFromUp</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -407,6 +447,11 @@ Please specify the right files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Divide by Zero Error</source>
+        <comment>TX_ERRORCHECK_ERR_DIV</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Do you want to replace the existing definition of &quot;%s&quot;?</source>
         <comment>TX_ERROR_DefinedNameExists</comment>
         <translation type="unfinished"></translation>
@@ -444,32 +489,33 @@ Please specify the right files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Edit in &amp;Formula Bar</source>
+        <comment>TX_ERRORCHECK_REPAIR_EditinFmlaBar</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Engine</source>
         <comment>TX_SOLVER_ENGINE</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Errors occur when WPS Spreadsheets opening this file.
-Please try one of the following.
-•Make sure you are permitted to access this file or drive.
-•Make sure there is enough memory and disk space.	
-•Make sure this file is recognizable format.
-(%s)</source>
-        <comment>TX_Workbook_OpenFailure</comment>
+        <source>Error Checking &amp;Options...</source>
+        <comment>TX_ERRORCHECK_REPAIR_ErrorCheckOption</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Errors occur when WPS Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
-•Undo the previous operations and save it. 
-•Save it as text file. 
-•Copy/paste the contents to a new document. 
-•Give up the changes to this file.</source>
-        <comment>TX_Cannot_Write_File_Unknown_Error</comment>
+        <source>Error in Value</source>
+        <comment>TX_ERRORCHECK_ERR_VALUE</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
         <comment>TX_ShareWorkbook_TransformFailed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File not loaded completely.</source>
+        <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -508,6 +554,16 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Formula Omits Adjacent Cells</source>
+        <comment>TX_ERRORCHECK_ERR_OmittedCells</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula Refers to Empty Cells</source>
+        <comment>TX_ERRORCHECK_ERR_EmptyCellReferences</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Formula is too long.</source>
         <comment>TX_ERROR_FOUMULA_TOO_LONG</comment>
         <translation type="unfinished"></translation>
@@ -543,6 +599,11 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Inconsistent Formula</source>
+        <comment>TX_ERRORCHECK_ERR_InconsistentFormula</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase</source>
         <comment>TX_SOLVER_INCREASE</comment>
         <translation type="unfinished"></translation>
@@ -555,6 +616,16 @@ Please try one of the following.
     <message>
         <source>Integer Tolerance</source>
         <comment>TX_SOLVER_INTEGER_TOLERANCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invaild Cell Reference Error</source>
+        <comment>TX_ERRORCHECK_ERR_REF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Name Error</source>
+        <comment>TX_ERRORCHECK_ERR_NAME</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -585,62 +656,6 @@ Please try one of the following.
     <message>
         <source>Iterations</source>
         <comment>TX_SOLVER_ITERATIONS_TIMES</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>TX_DESC_APP_NAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the Copy and Paste commands to insert the data into the other worksheets of the workbook.</source>
-        <comment>TX_SheetCopyRemoveInvalid</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
-
-·If you want the first row of the selection or list used as labels and not as data, click OK.
-·If you selected a subset of cells in error, select a single cell, and try the command again.
-·To create column labels, click Cancel, and enter a text label at the top of each column of data.</source>
-        <comment>TX_ETDataForm_RemindUser</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot finish this operation due to insufficient memory.</source>
-        <comment>TX_MASS_CELLS_OPERATION_OUTOF_MEM</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
-Please try one of the following.
-•Switch to another user account.
-•Ask its creator to change the permissions control level of this file.
-(%s)</source>
-        <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot open this file, because the password is not correct.
-(%s)</source>
-        <comment>TX_Workbook_OpenPasswordFailure</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
-(%s)</source>
-        <comment>TX_Workbook_SaveFailure</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot save this file due to a file permission error.
-(%s)</source>
-        <comment>TX_Workbook_SaveFailurePermission</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets finds nothing to print.</source>
-        <comment>TX_PrintPreview_No_data</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -734,6 +749,11 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Moving or deleting cells caused an invalid cell reference, or function is returning reference error.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_REF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Multiplier</source>
         <comment>TX_SOLVER_MULTIPLIER</comment>
         <translation type="unfinished"></translation>
@@ -778,6 +798,21 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     <message>
         <source>Not Binding</source>
         <comment>TX_SOLVER_NOTBINDING</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Null Error</source>
+        <comment>TX_ERRORCHECK_ERR_NULL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number Error</source>
+        <comment>TX_ERRORCHECK_ERR_NUM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number Stored as Text</source>
+        <comment>TX_ERRORCHECK_ERR_NumberAsText</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -976,6 +1011,11 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show &amp;Calculation Steps...</source>
+        <comment>TX_ERRORCHECK_REPAIR_ShowCalcStep</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Iteration Results</source>
         <comment>TX_SOLVER_SHOW_ITERATION_RESULTS</comment>
         <translation type="unfinished"></translation>
@@ -1008,18 +1048,6 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     <message>
         <source>Solver Options</source>
         <comment>TX_SOLVER_SOLVER_OPTIONS</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some formulas or names of this file contain the built-in functions which WPS Spreadsheets does not support, and recalculation of these formulas or names may cause incorrect results.
-</source>
-        <comment>TX_Open_File_UnkBuildInFunction_In_File</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some formulas or names of this file contain the user-defined functions which WPS Spreadsheets does not support, and recalcation of these formulas or names may cause incorrect results.
-</source>
-        <comment>TX_Open_File_UnkCustomFunction_In_File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1154,13 +1182,33 @@ Select a single range and click the command again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The formula contains unrecognized text.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_NAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula in this cell differs from the formulas in this aera of the spreadsheet.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_InconsistentFormula</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula in this cell refers to a range that has additional numbers adjacent to it.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_OmittedCells</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula in this cell refers to cells that are currently empty.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_EmptyCellReferences</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The formula is too long to finish all the replacements.</source>
         <comment>TX_ERROR_Replace_TooLong</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The function you are using is invalid in WPS Spreadsheets.</source>
-        <comment>TX_FunctionInvalid</comment>
+        <source>The formula or function used is dividing by zero or empty cells.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_DIV</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1184,6 +1232,11 @@ Select a single range and click the command again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The number in this cells is formatted as text or preceded by an apostrophe.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_NumberAsText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The operation will effect a large number of cells and it may take several minutes to complete. Do you want to continue?</source>
         <comment>TX_FillTooMuchDataWarning</comment>
         <translation type="unfinished"></translation>
@@ -1192,6 +1245,11 @@ Select a single range and click the command again.</source>
         <source>The query did not run, or the database table could not be opened.
 Check the database server or contact your database administrator. Make sure the external database is available and hasn&apos;t been moved or reorganized, then try the operation again.</source>
         <comment>TX_ERROR_DBConnect_Fail</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The ranges in the formula do not intersect.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_NULL</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1245,18 +1303,18 @@ There are several possible reasons:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>There are links to other data sources in this workbook.
-
-•If you update the links, WPS Spreadsheets will try to get the latest data.
-•If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
-
-Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
-        <comment>TX_NeedToUpdateExternalDataLink</comment>
+        <source>There is a problem with a number used in the formula.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_NUM</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>There are too many blank cells in WPS Spreadsheets and part of them have been deleted.</source>
-        <comment>TX_LosePartBlankCells</comment>
+        <source>This cell contains a date string represented with only 2 digits for the year.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_TextDate</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This cell contains a formula and is not locked to protect it from being changed inadvertently.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_UnlockedFormulaCells</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1363,15 +1421,6 @@ To fix the links, select a single sheet and click Edit Links.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To prevent possible losing data, WPS Spreadsheets cannot shove nonblank cells off the worksheet.
-
-Delete or clear all cells between the end of your data and the last cell. You can locate the last nonblank cell by pressing Ctrl+End and select the area to be deleted, then perform delete or clear.
-
-Or, you can move the last nonblank cells to a new location and try again.</source>
-        <comment>TX_InsertRange_LoseData</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Too many fields in the data form.</source>
         <comment>TX_ETDataForm_TooManyField</comment>
         <translation type="unfinished"></translation>
@@ -1413,6 +1462,11 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unprotected Formula</source>
+        <comment>TX_ERRORCHECK_ERR_UnlockedFormulaCells</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>TX_Workbook_OpenProvALGVerFailure</comment>
@@ -1436,6 +1490,11 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
     <message>
         <source>Value</source>
         <comment>TX_SOLVER_VALUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value Not Available Error</source>
+        <comment>TX_ERRORCHECK_ERR_NA</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1506,12 +1565,6 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You are opening a shared Excel workbook that updates at intervals. WPS Spreadsheets does not support this format.
-Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and then try to open it with WPS Spreadsheets.</source>
-        <comment>TX_ShareWorkbook_WarnningTimedUpdate</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_ETDataForm_ArraryFormula</comment>
         <translation type="unfinished"></translation>
@@ -1519,11 +1572,6 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_ETDataFrom_ArraryFormula</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot open the shared workbook with WPS Spreadsheets and you can only open it with Read-only mode.</source>
-        <comment>TX_ShareWorkbook_Xlsx</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1610,283 +1658,6 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Null Error</source>
-        <comment>TX_ERRORCHECK_ERR_NULL</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Divide by Zero Error</source>
-        <comment>TX_ERRORCHECK_ERR_DIV</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error in Value</source>
-        <comment>TX_ERRORCHECK_ERR_VALUE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invaild Cell Reference Error</source>
-        <comment>TX_ERRORCHECK_ERR_REF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid Name Error</source>
-        <comment>TX_ERRORCHECK_ERR_NAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number Error</source>
-        <comment>TX_ERRORCHECK_ERR_NUM</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Value Not Available Error</source>
-        <comment>TX_ERRORCHECK_ERR_NA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number Stored as Text</source>
-        <comment>TX_ERRORCHECK_ERR_NumberAsText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inconsistent Formula</source>
-        <comment>TX_ERRORCHECK_ERR_InconsistentFormula</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Formula Omits Adjacent Cells</source>
-        <comment>TX_ERRORCHECK_ERR_OmittedCells</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unprotected Formula</source>
-        <comment>TX_ERRORCHECK_ERR_UnlockedFormulaCells</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Formula Refers to Empty Cells</source>
-        <comment>TX_ERRORCHECK_ERR_EmptyCellReferences</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The ranges in the formula do not intersect.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_NULL</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The formula or function used is dividing by zero or empty cells.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_DIV</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A value used in the formula is of the wrong data type.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_VALUE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Moving or deleting cells caused an invalid cell reference, or function is returning reference error.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_REF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The formula contains unrecognized text.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_NAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is a problem with a number used in the formula.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_NUM</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A value is not available to the formula or function.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_NA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This cell contains a date string represented with only 2 digits for the year.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_TextDate</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The number in this cells is formatted as text or preceded by an apostrophe.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_NumberAsText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The formula in this cell differs from the formulas in this aera of the spreadsheet.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_InconsistentFormula</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The formula in this cell refers to a range that has additional numbers adjacent to it.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_OmittedCells</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This cell contains a formula and is not locked to protect it from being changed inadvertently.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_UnlockedFormulaCells</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The formula in this cell refers to cells that are currently empty.</source>
-        <comment>TX_ERRORCHECK_ERRDESC_EmptyCellReferences</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Ignore Error</source>
-        <comment>TX_ERRORCHECK_REPAIR_IgnoreError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit in &amp;Formula Bar</source>
-        <comment>TX_ERRORCHECK_REPAIR_EditinFmlaBar</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error Checking &amp;Options...</source>
-        <comment>TX_ERRORCHECK_REPAIR_ErrorCheckOption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Trace Error</source>
-        <comment>TX_ERRORCHECK_REPAIR_TraceError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show &amp;Calculation Steps...</source>
-        <comment>TX_ERRORCHECK_REPAIR_ShowCalcStep</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Convert XX to 19XX</source>
-        <comment>TX_ERRORCHECK_REPAIR_ConvertTo19xx</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Con&amp;vert XX to 20XX</source>
-        <comment>TX_ERRORCHECK_REPAIR_ConvertTo20xx</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Convert to Number</source>
-        <comment>TX_ERRORCHECK_REPAIR_ConvertToNumber</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy Formula from &amp;Above</source>
-        <comment>TX_ERRORCHECK_REPAIR_CopyFromUp</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Update Formula to include Cells</source>
-        <comment>TX_ERRORCHECK_REPAIR_UpdateFmla</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Lock Cell</source>
-        <comment>TX_ERRORCHECK_REPAIR_LockCell</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Trace Empty Cell</source>
-        <comment>TX_ERRORCHECK_REPAIR_TraceEmptyCell</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A workbook must contain at least one visible worksheet. 
-
-To hide, delete, or move the selected sheet(s), you must first insert a new sheet or unhide a sheet that is already hidden.</source>
-        <comment>TX_Sheet_DEL_OneSheet_ET</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot rename a sheet to the same name as another sheet, a referenced object library or a workbook referenced by Visual Basic.</source>
-        <comment>TX_RenameSheet_Error2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
-• Click a single cell, and then paste.
-• Select a rectangle that&apos;s the same size and shape, and then paste.</source>
-        <comment>TX_ERROR_INVALIDPASTERG</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
-If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
-        <comment>TX_Open_File_Isnot_Exist</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The data not within the worksheet will be lost.</source>
-        <comment>TX_TextToColumns_Tip2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
-• To save it on the Clipboard so that you can paste it later, click Yes.
-• To delete it from the Clipboard and free memory, click No.</source>
-        <comment>TX_WARNING_Large_Clipboard</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The date you entered is not a valid date. Please try again.</source>
-        <comment>TX_ShareWorkbook_MsgInvalidDate</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot complete this task with available resources.
-Choose less data or close other applications.
-
-Continue without Undo?</source>
-        <comment>TX_OPERATION_INADEQUATE_RESOURCES</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text date with 2 digit years</source>
-        <comment>TX_ERRORCHECK_ERR_TextDate</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy Formul&amp;a from Left</source>
-        <comment>TX_ERRORCHECK_REPAIR_CopyFromLeft</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Errors occur when WPS Spreadsheets opening this file.
-Please try one of the following.
-•The current version of WPS Spreadsheets does not support this file&apos;s permission control level, please update to the latest version.
-•Ask its creator to change the permission control level as full control level.
-(%s)</source>
-        <comment>TX_Workbook_OpenFailure_Unsuport_KRM_Right</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
-        <comment>TX_Cannot_Write_Readonly_File</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Due to the following reasons, macros codes in this file will be lost. Do you still want to save it?
-
-1.Changes you made to this file cause the macros to be re-organized.
-2.You didn&apos;t install the necessary environment to run macros.</source>
-        <comment>TX_Macro_Lost_On_NoneKDE_Env</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The destination cells may contain some data values which will be lost when continue, do you want to continue?</source>
-        <comment>TX_TextToColumns_Tip1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File not loaded completely.</source>
-        <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%s on %s</source>
         <comment>TX_ACTIVE_PRINTER</comment>
         <translation type="unfinished"></translation>
@@ -1894,6 +1665,111 @@ Please try one of the following.
     <message>
         <source>unknown printer (check your Control Panel)</source>
         <comment>TX_UNKNOWN_PRINTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0_);($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_05</comment>
+        <translation type="unfinished">\$#,##0_);(\$#,##0)</translation>
+    </message>
+    <message>
+        <source>$#,##0_);[Red]($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_06</comment>
+        <translation type="unfinished">\$#,##0_);[Red](\$#,##0)</translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_07</comment>
+        <translation type="unfinished">\$#,##0.00_);(\$#,##0.00)</translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);[Red]($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_08</comment>
+        <translation type="unfinished">\$#,##0_);[Red](\$#,##0) {0.00_?} {0.00)?}</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_14</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy h:mm</source>
+        <comment>TX_NUMFMTApi_BuildIn_22</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$#,##0_);($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_23</comment>
+        <translation type="obsolete">\$#,##0_);(\$#,##0)</translation>
+    </message>
+    <message>
+        <source>$#,##0_);[Red]($#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_24</comment>
+        <translation type="obsolete">\$#,##0_);[Red](\$#,##0)</translation>
+    </message>
+    <message>
+        <source>$#,##0.00_);($#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_25</comment>
+        <translation type="obsolete">\$#,##0.00_);(\$#,##0.00)</translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_30</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_31</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0_);(#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_37</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0_);[Red](#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_38</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);(#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_39</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#,##0.00_);[Red](#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_40</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_55</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_56</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_57</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>m/d/yyyy</source>
+        <comment>TX_NUMFMTApi_BuildIn_58</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1917,26 +1793,6 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>$#,##0_);($#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_05</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>$#,##0_);[Red]($#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_06</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>$#,##0.00_);($#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_07</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>$#,##0.00_);[Red]($#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_08</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>0.00%</source>
         <comment>TX_NUMFMTApi_BuildIn_10</comment>
         <translation type="unfinished"></translation>
@@ -1944,11 +1800,6 @@ Please try one of the following.
     <message>
         <source>0.00E+00</source>
         <comment>TX_NUMFMTApi_BuildIn_11</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_14</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1972,11 +1823,6 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m/d/yyyy h:mm</source>
-        <comment>TX_NUMFMTApi_BuildIn_22</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>\$#,##0_);(\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_23</comment>
         <translation type="unfinished"></translation>
@@ -1994,61 +1840,6 @@ Please try one of the following.
     <message>
         <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_26</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>h:mm:ss</source>
-        <comment>TX_NUMFMTApi_BuildIn_32</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>h:mm:ss</source>
-        <comment>TX_NUMFMTApi_BuildIn_33</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>h:mm:ss</source>
-        <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>h:mm:ss</source>
-        <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#,##0_);(#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_37</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#,##0_);[Red](#,##0)</source>
-        <comment>TX_NUMFMTApi_BuildIn_38</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#,##0.00_);(#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_39</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#,##0.00_);[Red](#,##0.00)</source>
-        <comment>TX_NUMFMTApi_BuildIn_40</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2082,23 +1873,241 @@ Please try one of the following.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_55</comment>
+        <source>WPS Spreadsheets</source>
+        <comment>TX_DESC_APP_NAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when WPS Spreadsheets opening this file.
+Please try one of the following.
+•Make sure you are permitted to access this file or drive.
+•Make sure there is enough memory and disk space.	
+•Make sure this file is recognizable format.
+(%s)</source>
+        <comment>TX_Workbook_OpenFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
+Please try one of the following.
+•Switch to another user account.
+•Ask its creator to change the permissions control level of this file.
+(%s)</source>
+        <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when WPS Spreadsheets opening this file.
+Please try one of the following.
+•The current version of WPS Spreadsheets does not support this file&apos;s permission control level, please update to the latest version.
+•Ask its creator to change the permission control level as full control level.
+(%s)</source>
+        <comment>TX_Workbook_OpenFailure_Unsuport_KRM_Right</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot open this file, because the password is not correct.
+(%s)</source>
+        <comment>TX_Workbook_OpenPasswordFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
+(%s)</source>
+        <comment>TX_Workbook_SaveFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot save this file due to a file permission error.
+(%s)</source>
+        <comment>TX_Workbook_SaveFailurePermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All WPS Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
+        <comment>TxDesc_AllETFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
+        <comment>TX_Cannot_Write_Readonly_File</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when WPS Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
+•Undo the previous operations and save it. 
+•Save it as text file. 
+•Copy/paste the contents to a new document. 
+•Give up the changes to this file.</source>
+        <comment>TX_Cannot_Write_File_Unknown_Error</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To prevent possible losing data, WPS Spreadsheets cannot shove nonblank cells off the worksheet.
+
+Delete or clear all cells between the end of your data and the last cell. You can locate the last nonblank cell by pressing Ctrl+End and select the area to be deleted, then perform delete or clear.
+
+Or, you can move the last nonblank cells to a new location and try again.</source>
+        <comment>TX_InsertRange_LoseData</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A workbook must contain at least one visible worksheet. 
+
+To hide, delete, or move the selected sheet(s), you must first insert a new sheet or unhide a sheet that is already hidden.</source>
+        <comment>TX_Sheet_DEL_OneSheet_ET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets finds nothing to print.</source>
+        <comment>TX_PrintPreview_No_data</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot rename a sheet to the same name as another sheet, a referenced object library or a workbook referenced by Visual Basic.</source>
+        <comment>TX_RenameSheet_Error2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot finish this operation due to insufficient memory.</source>
+        <comment>TX_MASS_CELLS_OPERATION_OUTOF_MEM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
+• Click a single cell, and then paste.
+• Select a rectangle that&apos;s the same size and shape, and then paste.</source>
+        <comment>TX_ERROR_INVALIDPASTERG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
+If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
+        <comment>TX_Open_File_Isnot_Exist</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some formulas or names of this file contain the built-in functions which WPS Spreadsheets does not support, and recalculation of these formulas or names may cause incorrect results.
+</source>
+        <comment>TX_Open_File_UnkBuildInFunction_In_File</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some formulas or names of this file contain the user-defined functions which WPS Spreadsheets does not support, and recalcation of these formulas or names may cause incorrect results.
+</source>
+        <comment>TX_Open_File_UnkCustomFunction_In_File</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Due to the following reasons, macros codes in this file will be lost. Do you still want to save it?
+
+1.Changes you made to this file cause the macros to be re-organized.
+2.You didn&apos;t install the necessary environment to run macros.</source>
+        <comment>TX_Macro_Lost_On_NoneKDE_Env</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The destination cells may contain some data values which will be lost when continue, do you want to continue?</source>
+        <comment>TX_TextToColumns_Tip1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The data not within the worksheet will be lost.</source>
+        <comment>TX_TextToColumns_Tip2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
+• To save it on the Clipboard so that you can paste it later, click Yes.
+• To delete it from the Clipboard and free memory, click No.</source>
+        <comment>TX_WARNING_Large_Clipboard</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are too many blank cells in WPS Spreadsheets and part of them have been deleted.</source>
+        <comment>TX_LosePartBlankCells</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The date you entered is not a valid date. Please try again.</source>
+        <comment>TX_ShareWorkbook_MsgInvalidDate</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are opening a shared Excel workbook that updates at intervals. WPS Spreadsheets does not support this format.
+Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and then try to open it with WPS Spreadsheets.</source>
+        <comment>TX_ShareWorkbook_WarnningTimedUpdate</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The function you are using is invalid in WPS Spreadsheets.</source>
+        <comment>TX_FunctionInvalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot open the shared workbook with WPS Spreadsheets and you can only open it with Read-only mode.</source>
+        <comment>TX_ShareWorkbook_Xlsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
+
+·If you want the first row of the selection or list used as labels and not as data, click OK.
+·If you selected a subset of cells in error, select a single cell, and try the command again.
+·To create column labels, click Cancel, and enter a text label at the top of each column of data.</source>
+        <comment>TX_ETDataForm_RemindUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the Copy and Paste commands to insert the data into the other worksheets of the workbook.</source>
+        <comment>TX_SheetCopyRemoveInvalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot complete this task with available resources.
+Choose less data or close other applications.
+
+Continue without Undo?</source>
+        <comment>TX_OPERATION_INADEQUATE_RESOURCES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text date with 2 digit years</source>
+        <comment>TX_ERRORCHECK_ERR_TextDate</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Formul&amp;a from Left</source>
+        <comment>TX_ERRORCHECK_REPAIR_CopyFromLeft</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_56</comment>
+        <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_57</comment>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>m/d/yyyy</source>
-        <comment>TX_NUMFMTApi_BuildIn_58</comment>
+        <source>h:mm:ss</source>
+        <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2119,10 +2128,6 @@ Please try one of the following.
     <message>
         <source>m/dd/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2148,6 +2153,45 @@ Please try one of the following.
     <message>
         <source>Modify existing outline?</source>
         <comment>TX_ChangeAutoOutline</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The data not within the worksheet will be lost.
+If you want to continue importing the data can be accommodated, click &quot;OK&quot;</source>
+        <comment>TX_ImportText_Overflowed_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too much data returned by the query, can not be contained in a worksheet.
+
+To continue operating, and show as much data, click &quot;OK&quot;.
+To cancel the query, click &quot;Cancel&quot;.</source>
+        <comment>TX_ImportOtherData_Overflowed_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>macrosheet can not be save as xml, prn, dbf fileformat. please choose another format.</source>
+        <comment>TX_MacroSheet_CannotSave_As</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The query does not return data columns that can be used in WPS Spreadsheets.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Since the last one column contains data, WPS Spreadsheets can not insert columns. You will not get any data.</source>
+        <comment>TX_No_Available_Sheet_Columns</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
+        <comment>TX_BookReferencingByOther</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2536,17 +2580,6 @@ Value: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
-
-·Reference cells outside of the row and column limit of an earlier of WPS Spreadsheets
-·Include functions that are not supported in an earlier version of WPS Spreadsheets
-·Use formula limits that are not supported in an earlier version of WPS Spreadsheets (such as greater than 7 levels of nesting)
-
-Do you want WPS Spreadsheets to recalculate all formulas when this workbook is opened?</source>
-        <comment>TX_RECALC_ALL_QUESTION</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The real-time data server &apos;%s&apos; is not responding. Would you like %s to attempt to restart the server?</source>
         <comment>TX_RTD_SERVER_NO_RESPONSE</comment>
         <translation type="unfinished"></translation>
@@ -2559,6 +2592,17 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Macro error at cell: </source>
         <comment>TX_MSF_RUN_ERR_ERROR_IN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
+
+·Reference cells outside of the row and column limit of an earlier of WPS Spreadsheets
+·Include functions that are not supported in an earlier version of WPS Spreadsheets
+·Use formula limits that are not supported in an earlier version of WPS Spreadsheets (such as greater than 7 levels of nesting)
+
+Do you want WPS Spreadsheets to recalculate all formulas when this workbook is opened?</source>
+        <comment>TX_RECALC_ALL_QUESTION</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2926,6 +2970,16 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Continue to refresh all?</source>
+        <comment>TX_ETDBE_STR_REFRESHFAIL_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not obtain parameter from reference(Bad name or workbook not open). Proceed to prompt for value?</source>
+        <comment>TX_ETDBE_STR_RANGENOTVALID</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Descending</source>
         <comment>TX_ETDBE_FLTR_ORDER_DESC</comment>
         <translation type="unfinished"></translation>
@@ -3069,8 +3123,23 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The following data range failed to refresh:</source>
+        <comment>TX_ETDBE_STR_REFRESHFAIL_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The process cannot access the file because it is being used by another process.</source>
+        <comment>TX_ETDBE_STR_XMLFILEINUSE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The range you deleted is associated with a query that retrieves data from an external source. Do you want to delete the query in addition to the range? If you click No, the query will retrieve new data to the worksheet the next time the query is refreshed.</source>
         <comment>TX_ETDBE_STR_DELETEQT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This Web query returned no data.</source>
+        <comment>TX_ETDBE_STR_WEBQUERY_EMPTY</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3146,43 +3215,13 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Could not obtain parameter from reference(Bad name or workbook not open). Proceed to prompt for value?</source>
-        <comment>TX_ETDBE_STR_RANGENOTVALID</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This Web query returned no data.</source>
-        <comment>TX_ETDBE_STR_WEBQUERY_EMPTY</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The process cannot access the file because it is being used by another process.</source>
-        <comment>TX_ETDBE_STR_XMLFILEINUSE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The following data range failed to refresh:</source>
-        <comment>TX_ETDBE_STR_REFRESHFAIL_1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue to refresh all?</source>
-        <comment>TX_ETDBE_STR_REFRESHFAIL_2</comment>
+        <source>Connection</source>
+        <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
         <comment>TX_ETDBE_QUERYINVALIDERROR</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
-        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Connection</source>
-        <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3208,6 +3247,26 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Running background query...(Click here to cancel)</source>
+        <comment>TX_ETDBE_STR_BACKGROUND_QUERY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This action will cancel a pending Refresh Data command. Continue?</source>
+        <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:Getting Data ...</source>
+        <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3684,11 +3743,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Converts a date in the form of text to a number that represents the date in WPS Spreadsheets date-time code.</source>
-        <comment>DATEVALUE_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Converts a decimal number to binary.</source>
         <comment>DEC2BIN_REMARK</comment>
         <translation type="unfinished"></translation>
@@ -3729,11 +3783,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Converts a text time to an WPS Spreadsheets serial number for a time.</source>
-        <comment>TIMEVALUE_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Converts an Arabic numeral to Roman, as text.</source>
         <comment>ROMAN_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
@@ -3761,11 +3810,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Converts full-width (double-byte) characters to half-width (single-byte) characters. Use with double-byte character sets (DBCS).</source>
         <comment>ASC_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Converts hours, minutes, and seconds given as numbers to a WPS Spreadsheets serial number, formatted with a time format.</source>
-        <comment>TIME_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5839,11 +5883,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Returns the number that represents the date in WPS Spreadsheets date-time code.</source>
-        <comment>DATE_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Returns the numeric value of a text string.</source>
         <comment>VALUE_REMARK</comment>
         <translation type="unfinished"></translation>
@@ -5906,11 +5945,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the quartile of a data set.</source>
         <comment>QUARTILE_REMARK</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Returns the rank of a number in a list of numbers.</source>
-        <comment>RANK_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6569,36 +6603,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SMALL_NUMBERSTR</source>
-        <comment>SMALL_NUMBERSTR</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BIG_NUMBERSTR</source>
-        <comment>BIG_NUMBERSTR</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SMALLUNIT_NUMBERSTR</source>
-        <comment>SMALL_UNIT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BIGUNIT_NUMBERSTR</source>
-        <comment>BIG_UNIT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>IMSUB(inumber1,inumber2)</source>
-        <comment>IMSUB_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FIXED(number,decimals,no_commas)</source>
-        <comment>FIXED_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>RTD(progID, server, topic1, [topic2], ...)</source>
         <comment>RTD_GRAMMER</comment>
         <translation type="unfinished"></translation>
@@ -6913,11 +6917,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PASTE.SPECIAL(paste_num, operation_num, skip_blanks, transpose)</source>
-        <comment>PASTESPECIAL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>FORMULA(formula_text, reference)</source>
         <comment>FORMULA_SYNTAX</comment>
         <translation type="unfinished"></translation>
@@ -6935,6 +6934,61 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</source>
         <comment>COLUMNWIDTH_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the number that represents the date in WPS Spreadsheets date-time code.</source>
+        <comment>DATE_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converts a date in the form of text to a number that represents the date in WPS Spreadsheets date-time code.</source>
+        <comment>DATEVALUE_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converts hours, minutes, and seconds given as numbers to a WPS Spreadsheets serial number, formatted with a time format.</source>
+        <comment>TIME_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converts a text time to an WPS Spreadsheets serial number for a time.</source>
+        <comment>TIMEVALUE_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IMSUB(inumber1,inumber2)</source>
+        <comment>IMSUB_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FIXED(number,decimals,no_commas)</source>
+        <comment>FIXED_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SMALL_NUMBERSTR</source>
+        <comment>SMALL_NUMBERSTR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BIG_NUMBERSTR</source>
+        <comment>BIG_NUMBERSTR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SMALLUNIT_NUMBERSTR</source>
+        <comment>SMALL_UNIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BIGUNIT_NUMBERSTR</source>
+        <comment>BIG_UNIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PASTE.SPECIAL(paste_num, operation_num, skip_blanks, transpose)</source>
+        <comment>PASTESPECIAL_SYNTAX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6965,6 +7019,46 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Calls a procedure in a dynamic link library or code resource.</source>
         <comment>CALL_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list.</source>
+        <comment>RANK_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RANK.AVG(number,ref,order)</source>
+        <comment>RANKAVG_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
+        <comment>RANKAVG_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RANK.EQ(number,ref,order)</source>
+        <comment>RANKEQ_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
+        <comment>RANKEQ_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILES(directory_text)</source>
+        <comment>FILES_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
+        <comment>VOLATILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the yields of regular payment securities.</source>
+        <comment>VOLATILE_SYNTAX</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7063,11 +7157,8 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A formula you want to move or copy contains the name %s which conflicts with a valid range reference or a name used internally by WPS Spreadsheets,and must be modified.
-
-·To use the name %s,click Yes.
-·To choose a different name,click No and enter a new name in the Name Conflict dialog box.</source>
-        <comment>TX_Name_Conflict_Range</comment>
+        <source>Access Databases(*.mdb;*.accdb)</source>
+        <comment>TX_ssDesc_ACCESS</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7097,38 +7188,13 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx)</source>
-        <comment>TX_ssDesc_Normal_</comment>
-        <translation type="unfinished"></translation>
+        <source>DIF (Data Interchange File)(*.dif)</source>
+        <comment>TX_ssDesc_Dif_Exp_</comment>
+        <translation type="obsolete">DIF (Data Interchange File)(*.dif)</translation>
     </message>
     <message>
         <source>Field</source>
         <comment>TX_Range_Value_Field</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Files(*.et)</source>
-        <comment>TX_ssDesc_ET_</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Files(*.et)</source>
-        <comment>TX_ssDesc_ET_Save</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Files(*.et; *.ett)</source>
-        <comment>TX_ssDesc_AllET_</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Files(*.et; *.ett)</source>
-        <comment>TX_ssDesc_ET2003_</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets Template(*.ett)</source>
-        <comment>TX_ssDesc_ETTemp_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7254,38 +7320,43 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your virus scanning program encounters errors when scanning this file(Error code:0x%08X). Please contact the provider of this anti-virus program. 
-Do you still want to open this file?
-
-• Click Yes, WPS Spreadsheets will continue to open this file.
-• Click No, WPS Spreadsheets will stop opening this file.
-
-Note: some files may contain macro viruses and execution of them may cause damages. If you don&apos;t trust this file, please don&apos;t open it.
-(%s)</source>
-        <comment>TX_AV_Scan_Failed</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>dBase File(*.dbf)</source>
         <comment>TX_ssDesc_Dbf_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Access Databases(*.mdb;*.accdb)</source>
-        <comment>TX_ssDesc_ACCESS</comment>
+        <source>Query Files(*.iqy; *.dqy)</source>
+        <comment>TX_ssDesc_Qy_</comment>
+        <translation type="unfinished">Query Files(*.iqy; *.dqy)</translation>
+    </message>
+    <message>
+        <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
+        <comment>TX_ssDesc_DataSrcFile_</comment>
+        <translation type="obsolete">All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+    </message>
+    <message>
+        <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
+        <comment>TX_UPDATE_OLD_FORMAT_TO_NEW_FORTMAT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>.Range-based user permissions</source>
-        <comment>TX_Save_Html_Warning_UserRange</comment>
+        <source>WPS Spreadsheets Files(*.et; *.ett)</source>
+        <comment>TX_ssDesc_AllET_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The following features cannot be saved in macro-disabled workbooks:
- VB project 
-.To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
-.To continue saving as a macro-disabled workbook, click Yes.</source>
-        <comment>TX_Save_Xlsx_Warning_Macro</comment>
+        <source>WPS Spreadsheets Files(*.et; *.ett)</source>
+        <comment>TX_ssDesc_ET2003_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files(*.et)</source>
+        <comment>TX_ssDesc_ET_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Template(*.ett)</source>
+        <comment>TX_ssDesc_ETTemp_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7302,18 +7373,38 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
-        <comment>TX_UPDATE_OLD_FORMAT_TO_NEW_FORTMAT</comment>
+        <source>WPS Spreadsheets Files(*.et)</source>
+        <comment>TX_ssDesc_ET_Save</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>.Range-based user permissions</source>
+        <comment>TX_Save_Html_Warning_UserRange</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A formula you want to move or copy contains the name %s which conflicts with a valid range reference or a name used internally by WPS Spreadsheets,and must be modified.
+
+·To use the name %s,click Yes.
+·To choose a different name,click No and enter a new name in the Name Conflict dialog box.</source>
+        <comment>TX_Name_Conflict_Range</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your virus scanning program encounters errors when scanning this file(Error code:0x%08X). Please contact the provider of this anti-virus program. 
+Do you still want to open this file?
+
+• Click Yes, WPS Spreadsheets will continue to open this file.
+• Click No, WPS Spreadsheets will stop opening this file.
+
+Note: some files may contain macro viruses and execution of them may cause damages. If you don&apos;t trust this file, please don&apos;t open it.
+(%s)</source>
+        <comment>TX_AV_Scan_Failed</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
         <comment>TX_ssDesc_Etx</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Query Files(*.iqy; *.dqy)</source>
-        <comment>TX_ssDesc_Qy_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7334,6 +7425,52 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>TX_Persist_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-disabled workbooks:
+</source>
+        <comment>TX_Save_Xlsx_Warning_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-disabled workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> · VB project
+</source>
+        <comment>TX_Save_Xlsx_Warning_VBA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> · Excel 4.0 function stored in defined names.
+</source>
+        <comment>TX_Save_Xlsx_Warning_MacroNames</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> · Excel 4.0 Macro Sheets(these will be converted to normal worksheets)
+</source>
+        <comment>TX_Save_Xlsx_Warning_MacroSheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Query Files(*.iqy)</source>
+        <comment>TX_ssDesc_Iqy_</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7374,6 +7511,11 @@ Note: some files may contain macro viruses and execution of them may cause damag
     </message>
     <message>
         <source>No Format Set</source>
+        <comment>TX_UNDEF_FINDFMT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Format Set</source>
         <comment>TX_UNDEF_FMT</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -7385,11 +7527,6 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</source>
         <comment>TX_ROTARCHAR</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No Format Set</source>
-        <comment>TX_UNDEF_FINDFMT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8393,45 +8530,6 @@ Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
-
-•If you do not want to  create the circular reference, click OK, and correct the formula.
-•If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
-        <comment>TX_FORMULA_RECURSION</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot create a chart on the selected regions. 
-Please make sure the selected regions are continuous cells.</source>
-        <comment>TX_Chart_Cannot_Create</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot find a default custom dictionary. Please select one from Settings and perform the command again.</source>
-        <comment>TX_CHECKSPELLING_NODICTIONARY</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot remove grouping. To start an outline, select the detail rows or columns and group them.</source>
-        <comment>TX_Data_Cannot_Ungroup</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets do not support the normal shared workbook. Please save the workbook as &quot;*.xls&quot; or &quot;*.et&quot; format, and then set as the shared workbook after opening it.</source>
-        <comment>TX_InCompatible_ShareBook</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets has finished checking spelling in your selection. Do you want to check spelling in the entire sheet?</source>
-        <comment>TX_CHECKSPELLING_SHEETYESNO</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets only can convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
-        <comment>TX_DS_MULCOLS</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Known_x&apos;s</source>
         <comment>TX_ParaInfo_030</comment>
         <translation type="unfinished"></translation>
@@ -9304,15 +9402,6 @@ Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
-&apos;%s
-• To accept the correction, click Yes.
-• To close this message and correct the formula by yourself, click Cancel.
-• If you are not typing a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
-        <comment>TX_InputFormulaStringTooLong_Error</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The content you enter is duplicated with content in other cells in the range.</source>
         <comment>TX_RepeatWordDeny_Text</comment>
         <translation type="unfinished"></translation>
@@ -9355,6 +9444,10 @@ The values which can be typed here is restricted by other users.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>The error check is complete for the entire sheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The first number</source>
         <comment>TX_ParaDesc_503</comment>
         <translation type="unfinished"></translation>
@@ -9368,15 +9461,6 @@ The values which can be typed here is restricted by other users.</source>
         <source>The formula you entered contains errors. 
 If you do not wish to use a formula, insert a single quotation mark before your text.</source>
         <comment>TX_InputFormula_Error2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The formula you typed contains errors. WPS Spreadsheets will automatically correct it as: 
-&apos;%s
-•If you want to accept the correction, click OK.
-•If you want to close this message and correct the formula by yourself, click Cancel.
-• If you are not typing a formula, please avoid using a equal sign(=), plus sign(+) or minus sign(-) at the beginning.</source>
-        <comment>TX_InputFormula_Error</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9528,11 +9612,6 @@ There are several possible reasons:
     <message>
         <source>This command cannot be used on multiple selections. Select a single region and then perform this command again.</source>
         <comment>TX_DS_MULSEL</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This function is provided in WPS Office 2009 Professional Edition.</source>
-        <comment>TX_FUNCTION_PROHIBIT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9706,11 +9785,6 @@ Workbook</source>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_116</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
-        <comment>TX_ParaDesc_522</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9924,11 +9998,6 @@ Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
-        <comment>TX_ParaDesc_386</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>binary number</source>
         <comment>TX_ParaInfo_187</comment>
         <translation type="unfinished"></translation>
@@ -10134,26 +10203,6 @@ Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
-        <comment>TX_ParaDesc_246</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:23 or 4:48:47 PM.</source>
-        <comment>TX_ParaDesc_358</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is a number in the date-time code used by WPS Spreadsheets, or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
-        <comment>TX_ParaDesc_165</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is a number in the date-time code used by WPS Spreadsheets.</source>
-        <comment>TX_ParaDesc_076</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is a number specifies the precision of the truncation, 0(zero) if omitted.</source>
         <comment>TX_ParaDesc_415</comment>
         <translation type="unfinished"></translation>
@@ -10341,11 +10390,6 @@ Workbook</source>
     <message>
         <source>is a table of text, number, or logical values in which data is looked up. Table_array can be a reference to a range or a range name.</source>
         <comment>TX_ParaDesc_430</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is a text string that gives a time in any one of the WPS Spreadsheets time formats (date information in the string is ignored).</source>
-        <comment>TX_ParaDesc_404</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10544,16 +10588,6 @@ Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is number in the date-time code used by WPS Spreadsheets.</source>
-        <comment>TX_ParaDesc_255</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is number in the date-time code used by WPS Spreadsheets.</source>
-        <comment>TX_ParaDesc_445</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>is probability associated with the F cumulative distribution, a number between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_122</comment>
         <translation type="unfinished"></translation>
@@ -10586,11 +10620,6 @@ Workbook</source>
     <message>
         <source>is text specifying what type of information you want returned.</source>
         <comment>TX_ParaDesc_543</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is text that represents a date in a WPS Spreadsheets date format, between 1/1/1900 (Windows) or 1/1/1904 (Macintosh) and 12/31/9999.</source>
-        <comment>TX_ParaDesc_072</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10891,11 +10920,6 @@ Workbook</source>
     <message>
         <source>is the input value to the power series.</source>
         <comment>TX_ParaDesc_482</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the interest rate per period. For example, use 6%4 for quarterly payment at 6% APR.</source>
-        <comment>TX_ParaDesc_139</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11989,16 +12013,6 @@ Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
-        <comment>TX_ParaDesc_281</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
-        <comment>TX_ParaDesc_009</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>lump sum amount that series of future payments is right now.</source>
         <comment>TX_ParaDesc_190</comment>
         <translation type="unfinished"></translation>
@@ -12019,16 +12033,6 @@ Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
-        <comment>TX_ParaDesc_307</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number 1,number 2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
-        <comment>TX_ParaDesc_360</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>number of payment periods in an investment.</source>
         <comment>TX_ParaDesc_189</comment>
         <translation type="unfinished"></translation>
@@ -12039,106 +12043,6 @@ Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
-        <comment>TX_ParaDesc_094</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
-        <comment>TX_ParaDesc_160</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
-        <comment>TX_ParaDesc_203</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
-        <comment>TX_ParaDesc_153</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 255 values for which you want the least common multiple.</source>
-        <comment>TX_ParaDesc_205</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
-        <comment>TX_ParaDesc_372</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
-        <comment>TX_ParaDesc_382</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
-        <comment>TX_ParaDesc_234</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
-        <comment>TX_ParaDesc_254</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
-        <comment>TX_ParaDesc_019</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
-        <comment>TX_ParaDesc_476</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
-        <comment>TX_ParaDesc_018</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
-        <comment>TX_ParaDesc_374</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
-        <comment>TX_ParaDesc_237</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
-        <comment>TX_ParaDesc_387</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
-        <comment>TX_ParaDesc_244</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_423</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
-        <comment>TX_ParaDesc_425</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
-        <comment>TX_ParaDesc_426</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1,number2,...are 1 to 30 values.</source>
-        <comment>TX_ParaDesc_152</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>period for which you want to find interest.</source>
         <comment>TX_ParaDesc_188</comment>
         <translation type="unfinished"></translation>
@@ -12146,11 +12050,6 @@ Workbook</source>
     <message>
         <source>period for which you want to find interest.</source>
         <comment>TX_ParaDesc_200</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
-        <comment>TX_ParaDesc_381</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12259,68 +12158,8 @@ Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
-        <comment>TX_ParaDesc_051</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>the numbers you want to convert.</source>
         <comment>TX_ParaDesc_021</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
-        <comment>TX_ParaDesc_351</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
-        <comment>TX_ParaDesc_044</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
-        <comment>TX_ParaDesc_274</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1, value2,... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
-        <comment>TX_ParaDesc_060</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
-        <comment>TX_ParaDesc_059</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
-        <comment>TX_ParaDesc_235</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_424</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
-        <comment>TX_ParaDesc_373</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
-        <comment>TX_ParaDesc_020</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
-        <comment>TX_ParaDesc_245</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
-        <comment>TX_ParaDesc_375</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12334,206 +12173,23 @@ Workbook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The error check is complete for the entire sheet.</source>
+        <source>ProgID</source>
+        <comment>TX_ParaInfo_217</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is the security&apos;s settlement date, expressed as a serial date number.</source>
-        <comment>TX_ParaDesc_488</comment>
+        <source>Server</source>
+        <comment>TX_ParaInfo_218</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is the security&apos;s maturity date, expressed as a serial date number.</source>
-        <comment>TX_ParaDesc_489</comment>
+        <source>Topic</source>
+        <comment>TX_ParaInfo_219</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>is the security&apos;s annual coupon rate.</source>
-        <comment>TX_ParaDesc_490</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the security&apos;s annual yield.</source>
-        <comment>TX_ParaDesc_491</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the security&apos;s redemption value per $100 face value.</source>
-        <comment>TX_ParaDesc_492</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the number of coupon payments per year. If pay by year, frequency = 1; by six months, frequency = 2; by quarter, frequency = 4</source>
-        <comment>TX_ParaDesc_493</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stop Recording</source>
-        <comment>TX_RecordMacro_Stop</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Record Macro</source>
-        <comment>TX_RecordMacro_Start</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
-
-.Click a single cell, and then paste. 
-.Select a rectangle that&apos;s the same size and shape, and then paste.</source>
-        <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format Text box</source>
-        <comment>TX_SETEDITTEXTBOXCAPTION</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spell 
-Check</source>
-        <comment>TX_SpellCheck_Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Not force the coefficient to be 0</source>
-        <comment>TX_ParaInfo_196</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the text string containing the characters you want to extract.</source>
-        <comment>TX_ParaDesc_206</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the length of the text string that contains the characters you want to extract.</source>
-        <comment>TX_ParaDesc_209</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the length of the text string that contains the characters you want to extract.</source>
-        <comment>TX_ParaDesc_243</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the text string containing the characters you want to extract.</source>
-        <comment>TX_ParaDesc_332</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the text containing part characters you want to extract.</source>
-        <comment>TX_ParaDesc_334</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The cell or chart that you are trying to change is protected and therefore read-only. 
-To modify a protected cell or chart, first remove protection using the Unprotect Sheet command. You may be prompted for a password.</source>
-        <comment>TX_Warning_Try_To_Modify_Protection_Cells_Or_Chart</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&quot;%s&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen?</source>
-        <comment>TX_ReopenIsForgoModify</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A document with the name &quot;%s&quot; is already open. You cannot open two documents with the same name, even if the documents are in different folders. To open the second document, either close the document that&apos;s currently open, or rename one of the documents.</source>
-        <comment>TX_SameNameFileIsOpenCanAgainNotOpen</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Maximum must be a whole number, numeric expression, or reference to a cell containing numeric values.</source>
-        <comment>TX_DV_WholeNumber2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is a range or array of x-values you already know in the relationship y=mx + b.</source>
-        <comment>TX_ParaDesc_134</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is a logical value: payment at the beginning of the period = 1: payment at the end of the period = 0 or omitted.</source>
-        <comment>TX_ParaDesc_143</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot begin synchronizing changes or display the Error Checking dialog box if you are already in the process of synchronizing changes or checking errors.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the character number in Within_text, counting from the left, at which you want to start searching. If omitted, 1 is used.</source>
-        <comment>TX_ParaDesc_354</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is an optional set of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
-        <comment>TX_ParaDesc_460</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is an optional array of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
-        <comment>TX_ParaDesc_467</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>specifies the reference type: absolute = 1; absolute row/relative column = 2; relative row/absolute column = 4.</source>
-        <comment>TX_ParaDesc_006</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is a probability associated with the chi-squared distribution, a value between 0 and 1 inclusive.</source>
-        <comment>TX_ParaDesc_040</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>specifies which value argument is selected. Index_num must be between 1 and 29, or a formula or a reference to a number between 1 to 29.</source>
-        <comment>TX_ParaDesc_043</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the value at which to evaluate the function, a nonnegative number.</source>
-        <comment>TX_ParaDesc_113</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is a probability associated with the lognormal distribution, a number between 0 and 1, inclusive.</source>
-        <comment>TX_ParaDesc_221</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the mean of ln(x).</source>
-        <comment>TX_ParaDesc_222</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the number for which you want to find the remainder after the division is performed.</source>
-        <comment>TX_ParaDesc_252</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is a probability corresponding to the normal distribution, a number between 0 and 1 inclusive.</source>
-        <comment>TX_ParaDesc_263</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the optional upper bound on the value. If omitted, PROB returns the probability that X_range values are equal to Lower_limit.</source>
-        <comment>TX_ParaDesc_306</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the text or the reference to a cell containing text in which you want to substitute characters.</source>
-        <comment>TX_ParaDesc_376</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>specifies which occurrence of Old_text you want to replace. If omitted, every instance of Old_text is replaced.</source>
-        <comment>TX_ParaDesc_379</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the probability associated with the two-tailed Student&apos;s t-distribution, a number between 0 and 1 inclusive.</source>
-        <comment>TX_ParaDesc_405</comment>
+        <source>Topic</source>
+        <comment>TX_ParaInfo_220</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12832,31 +12488,6 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ProgID</source>
-        <comment>TX_ParaInfo_217</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Server</source>
-        <comment>TX_ParaInfo_218</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Topic</source>
-        <comment>TX_ParaInfo_219</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Topic</source>
-        <comment>TX_ParaInfo_220</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
-        <comment>TX_ParaInfo_548</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Message_text</source>
         <comment>TX_ParaInfo_280</comment>
         <translation type="unfinished"></translation>
@@ -12949,26 +12580,6 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>From_reference</source>
         <comment>TX_ParaInfo_298</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste_num</source>
-        <comment>TX_ParaInfo_299</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Operation_num</source>
-        <comment>TX_ParaInfo_300</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Skip_blanks</source>
-        <comment>TX_ParaInfo_301</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transpose</source>
-        <comment>TX_ParaInfo_302</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13074,6 +12685,327 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>To_reference</source>
         <comment>TX_ParaInfo_323</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
+
+.Click a single cell, and then paste. 
+.Select a rectangle that&apos;s the same size and shape, and then paste.</source>
+        <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot remove grouping. To start an outline, select the detail rows or columns and group them.</source>
+        <comment>TX_Data_Cannot_Ungroup</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula you typed contains errors. WPS Spreadsheets will automatically correct it as: 
+&apos;%s
+•If you want to accept the correction, click OK.
+•If you want to close this message and correct the formula by yourself, click Cancel.
+• If you are not typing a formula, please avoid using a equal sign(=), plus sign(+) or minus sign(-) at the beginning.</source>
+        <comment>TX_InputFormula_Error</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
+&apos;%s
+• To accept the correction, click Yes.
+• To close this message and correct the formula by yourself, click Cancel.
+• If you are not typing a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormulaStringTooLong_Error</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot create a chart on the selected regions. 
+Please make sure the selected regions are continuous cells.</source>
+        <comment>TX_Chart_Cannot_Create</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Maximum must be a whole number, numeric expression, or reference to a cell containing numeric values.</source>
+        <comment>TX_DV_WholeNumber2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Text box</source>
+        <comment>TX_SETEDITTEXTBOXCAPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
+
+•If you do not want to  create the circular reference, click OK, and correct the formula.
+•If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
+        <comment>TX_FORMULA_RECURSION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets only can convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
+        <comment>TX_DS_MULCOLS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot find a default custom dictionary. Please select one from Settings and perform the command again.</source>
+        <comment>TX_CHECKSPELLING_NODICTIONARY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This function is provided in WPS Office 2009 Professional Edition.</source>
+        <comment>TX_FUNCTION_PROHIBIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has finished checking spelling in your selection. Do you want to check spelling in the entire sheet?</source>
+        <comment>TX_CHECKSPELLING_SHEETYESNO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell 
+Check</source>
+        <comment>TX_SpellCheck_Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not force the coefficient to be 0</source>
+        <comment>TX_ParaInfo_196</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>specifies the reference type: absolute = 1; absolute row/relative column = 2; relative row/absolute column = 4.</source>
+        <comment>TX_ParaDesc_006</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a probability associated with the chi-squared distribution, a value between 0 and 1 inclusive.</source>
+        <comment>TX_ParaDesc_040</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>specifies which value argument is selected. Index_num must be between 1 and 29, or a formula or a reference to a number between 1 to 29.</source>
+        <comment>TX_ParaDesc_043</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is text that represents a date in a WPS Spreadsheets date format, between 1/1/1900 (Windows) or 1/1/1904 (Macintosh) and 12/31/9999.</source>
+        <comment>TX_ParaDesc_072</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a number in the date-time code used by WPS Spreadsheets.</source>
+        <comment>TX_ParaDesc_076</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the value at which to evaluate the function, a nonnegative number.</source>
+        <comment>TX_ParaDesc_113</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a range or array of x-values you already know in the relationship y=mx + b.</source>
+        <comment>TX_ParaDesc_134</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a logical value: payment at the beginning of the period = 1: payment at the end of the period = 0 or omitted.</source>
+        <comment>TX_ParaDesc_143</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a number in the date-time code used by WPS Spreadsheets, or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
+        <comment>TX_ParaDesc_165</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the text string containing the characters you want to extract.</source>
+        <comment>TX_ParaDesc_206</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the length of the text string that contains the characters you want to extract.</source>
+        <comment>TX_ParaDesc_209</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a probability associated with the lognormal distribution, a number between 0 and 1, inclusive.</source>
+        <comment>TX_ParaDesc_221</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the mean of ln(x).</source>
+        <comment>TX_ParaDesc_222</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the length of the text string that contains the characters you want to extract.</source>
+        <comment>TX_ParaDesc_243</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
+        <comment>TX_ParaDesc_246</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the number for which you want to find the remainder after the division is performed.</source>
+        <comment>TX_ParaDesc_252</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is number in the date-time code used by WPS Spreadsheets.</source>
+        <comment>TX_ParaDesc_255</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a probability corresponding to the normal distribution, a number between 0 and 1 inclusive.</source>
+        <comment>TX_ParaDesc_263</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the optional upper bound on the value. If omitted, PROB returns the probability that X_range values are equal to Lower_limit.</source>
+        <comment>TX_ParaDesc_306</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the text string containing the characters you want to extract.</source>
+        <comment>TX_ParaDesc_332</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the text containing part characters you want to extract.</source>
+        <comment>TX_ParaDesc_334</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the character number in Within_text, counting from the left, at which you want to start searching. If omitted, 1 is used.</source>
+        <comment>TX_ParaDesc_354</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:23 or 4:48:47 PM.</source>
+        <comment>TX_ParaDesc_358</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the text or the reference to a cell containing text in which you want to substitute characters.</source>
+        <comment>TX_ParaDesc_376</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>specifies which occurrence of Old_text you want to replace. If omitted, every instance of Old_text is replaced.</source>
+        <comment>TX_ParaDesc_379</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a text string that gives a time in any one of the WPS Spreadsheets time formats (date information in the string is ignored).</source>
+        <comment>TX_ParaDesc_404</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the probability associated with the two-tailed Student&apos;s t-distribution, a number between 0 and 1 inclusive.</source>
+        <comment>TX_ParaDesc_405</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is number in the date-time code used by WPS Spreadsheets.</source>
+        <comment>TX_ParaDesc_445</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an optional set of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
+        <comment>TX_ParaDesc_460</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an optional array of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
+        <comment>TX_ParaDesc_467</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the security&apos;s settlement date, expressed as a serial date number.</source>
+        <comment>TX_ParaDesc_488</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the security&apos;s maturity date, expressed as a serial date number.</source>
+        <comment>TX_ParaDesc_489</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the security&apos;s annual coupon rate.</source>
+        <comment>TX_ParaDesc_490</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the security&apos;s annual yield.</source>
+        <comment>TX_ParaDesc_491</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the security&apos;s redemption value per $100 face value.</source>
+        <comment>TX_ParaDesc_492</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the number of coupon payments per year. If pay by year, frequency = 1; by six months, frequency = 2; by quarter, frequency = 4</source>
+        <comment>TX_ParaDesc_493</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cell or chart that you are trying to change is protected and therefore read-only. 
+To modify a protected cell or chart, first remove protection using the Unprotect Sheet command. You may be prompted for a password.</source>
+        <comment>TX_Warning_Try_To_Modify_Protection_Cells_Or_Chart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%s&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen?</source>
+        <comment>TX_ReopenIsForgoModify</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A document with the name &quot;%s&quot; is already open. You cannot open two documents with the same name, even if the documents are in different folders. To open the second document, either close the document that&apos;s currently open, or rename one of the documents.</source>
+        <comment>TX_SameNameFileIsOpenCanAgainNotOpen</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets do not support the normal shared workbook. Please save the workbook as &quot;*.xls&quot; or &quot;*.et&quot; format, and then set as the shared workbook after opening it.</source>
+        <comment>TX_InCompatible_ShareBook</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop Recording</source>
+        <comment>TX_RecordMacro_Stop</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record Macro</source>
+        <comment>TX_RecordMacro_Start</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot begin synchronizing changes or display the Error Checking dialog box if you are already in the process of synchronizing changes or checking errors.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste_num</source>
+        <comment>TX_ParaInfo_299</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operation_num</source>
+        <comment>TX_ParaInfo_300</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip_blanks</source>
+        <comment>TX_ParaInfo_301</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transpose</source>
+        <comment>TX_ParaInfo_302</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13212,13 +13144,223 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Directory_text</source>
+        <comment>TX_ParaInfo_351</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
+        <comment>TX_ParaDesc_009</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
+        <comment>TX_ParaDesc_018</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_019</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_020</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
+        <comment>TX_ParaDesc_044</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
+        <comment>TX_ParaDesc_051</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
+        <comment>TX_ParaDesc_059</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1 value2%1... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
+        <comment>TX_ParaDesc_060</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
+        <comment>TX_ParaDesc_094</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 values.</source>
+        <comment>TX_ParaDesc_152</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
+        <comment>TX_ParaDesc_153</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
+        <comment>TX_ParaDesc_160</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
+        <comment>TX_ParaDesc_203</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 255 values for which you want the least common multiple.</source>
+        <comment>TX_ParaDesc_205</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_234</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_235</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
+        <comment>TX_ParaDesc_237</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_244</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_245</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
+        <comment>TX_ParaDesc_254</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
+        <comment>TX_ParaDesc_274</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
+        <comment>TX_ParaDesc_281</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
+        <comment>TX_ParaDesc_307</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_351</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
+        <comment>TX_ParaDesc_360</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_372</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
+        <comment>TX_ParaDesc_373</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_374</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
+        <comment>TX_ParaDesc_375</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
+        <comment>TX_ParaDesc_381</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
+        <comment>TX_ParaDesc_382</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
+        <comment>TX_ParaDesc_386</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
+        <comment>TX_ParaDesc_387</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_424</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_425</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_426</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
+        <comment>TX_ParaDesc_476</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value 1%1value 2%1...1 to 30 of plural numbers, used to calculate the product.</source>
+        <comment>TX_ParaDesc_522</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
-        <comment>TX_ParaInfo_546</comment>
+        <comment>TX_ParaDesc_546</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaInfo_547</comment>
+        <comment>TX_ParaDesc_547</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_548</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
+        <comment>TX_ParaDesc_139</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14351,11 +14493,6 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Connection string or SQL is error. WPS Spreadsheets cannot import the data.</source>
-        <comment>et_sConnectionStrError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Context Reading Order</source>
         <comment>et_sContextReadOrdering</comment>
         <translation type="unfinished"></translation>
@@ -14735,53 +14872,6 @@ tically, only keep one row.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Spreadsheets</source>
-        <comment>et_LocalString</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot find a match.</source>
-        <comment>et_sReplace_NotFind</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot find any data to replace. Check if your search formatting and criteria are defined correctly. If you are sure that matching data exists in this workbook, it may be on a protected sheet. WPS Spreadsheets cannot replace data on a protected worksheet.</source>
-        <comment>et_sFindReplace_CannotReplace</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
-        <comment>et_sFindReplace_NotFind</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
-        <comment>et_sCannotGoto</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets cannot use the number format you entered.
-Try using one of the built-in number formats. On the Format menu, click Cells, and then click the Number tab. Select
-the category you want, and then choose the other options.</source>
-        <comment>et_sInvalidNumberFormat</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
-        <comment>et_sExportPDFError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
-        <comment>et_sHint</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets has completed its search and has made %d replacements.</source>
-        <comment>et_sFound</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left</source>
         <comment>et_sLeft</comment>
         <translation type="unfinished"></translation>
@@ -15060,11 +15150,6 @@ the category you want, and then choose the other options.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <comment>et_sRemoveDefaultDict</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Right</source>
         <comment>et_sRight</comment>
         <translation type="unfinished"></translation>
@@ -15318,11 +15403,6 @@ Select a single range and click the command again.</source>
     <message>
         <source>The password you supplied is not correct. Verify that the CAPS LOCK key is off and be sure to use the correct capitalization.</source>
         <comment>et_sBadUnprotectPassword</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The range is not in active sheet. WPS Spreadsheets cannot import data.</source>
-        <comment>et_sRangeNotInActiveSheet</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15692,6 +15772,11 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Spreadsheets</source>
+        <comment>et_LocalString</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error occurred when deleting the items.</source>
         <comment>et_sDeleteNameError</comment>
         <translation type="unfinished"></translation>
@@ -15702,8 +15787,40 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
+        <comment>et_sExportPDFError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Find/Replace...</source>
         <comment>et_sFindMenuCaption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot find any data to replace. Check if your search formatting and criteria are defined correctly. If you are sure that matching data exists in this workbook, it may be on a protected sheet. WPS Spreadsheets cannot replace data on a protected worksheet.</source>
+        <comment>et_sFindReplace_CannotReplace</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
+        <comment>et_sFindReplace_NotFind</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has completed its search and has made %d replacements.</source>
+        <comment>et_sFound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
+        <comment>et_sHint</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot use the number format you entered.
+Try using one of the built-in number formats. On the Format menu, click Cells, and then click the Number tab. Select
+the category you want, and then choose the other options.</source>
+        <comment>et_sInvalidNumberFormat</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15722,8 +15839,33 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <comment>et_sRemoveDefaultDict</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot find a match.</source>
+        <comment>et_sReplace_NotFind</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shrink to Fit</source>
         <comment>et_sShrinkToFit</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
+        <comment>et_sCannotGoto</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connection string or SQL is error. WPS Spreadsheets cannot import the data.</source>
+        <comment>et_sConnectionStrError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The range is not in active sheet. WPS Spreadsheets cannot import data.</source>
+        <comment>et_sRangeNotInActiveSheet</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sl_SI">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KActiveDialogAtStartup</name>
     <message>
@@ -69,10 +70,6 @@
         <source>This file does not belong to the current user. Please change the account</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Check failed because the account was logged off. Please login again.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KCloudFileStatePanel</name>
@@ -97,10 +94,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Light address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>From the current device</source>
         <translation type="unfinished"></translation>
     </message>
@@ -110,10 +103,6 @@
     </message>
     <message>
         <source>Manually stopped uploading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New version is available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -180,6 +169,14 @@
         <source>Refresh</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>New version is available, Please Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available, Please Check</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCloudNewVersionTip</name>
@@ -222,7 +219,7 @@
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation type="obsolete">http://www.kingsoftstore.com/support/pc-office</translation>
+        <translation type="unfinished">http://www.kingsoftstore.com/support/pc-office</translation>
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
@@ -1024,6 +1021,10 @@ path:%3</source>
         <source>Clear Invalid Records</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KRoamingFilePageFixedButton</name>
@@ -1281,6 +1282,17 @@ path:%3</source>
     <message>
         <source>Prompt</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWebviewDialogImpl</name>
+    <message>
+        <source>Open Cloud</source>
+        <translation type="unfinished">Odpri oblak</translation>
+    </message>
+    <message>
+        <source>Save to Cloud</source>
+        <translation type="unfinished">Shrani v oblak</translation>
     </message>
 </context>
 <context>
@@ -2250,6 +2262,17 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSUserGiftMenuCommand</name>
+    <message>
+        <source>New messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

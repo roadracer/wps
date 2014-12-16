@@ -348,6 +348,11 @@ Please check your system settings and ensure the temporary directory under the c
         <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
         <translation>以“JPG格式”插入图片。</translation>
     </message>
+    <message>
+        <source>Unicode Text</source>
+        <comment>TX_KSO_CF_UNICODE_TEXT</comment>
+        <translation>Unicode 文本</translation>
+    </message>
 </context>
 <context>
     <name>kso_dguil</name>
@@ -3249,6 +3254,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>_KsoPrompt_SaveError</comment>
         <translation>保存文件遇到错误，请重试或联系客服</translation>
     </message>
+    <message>
+        <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
+        <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translation>作者希望您以只读方式打开此文件，除非您需要进行更改。是否以只读方式打开?</translation>
+    </message>
 </context>
 <context>
     <name>kso_krm</name>
@@ -3337,34 +3347,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source> Professional</source>
         <comment>_kso_versionType_PRO</comment>
         <translation> 专业版</translation>
-    </message>
-    <message>
-        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
-•[Undo] the previous operations and [Save] it; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation>%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
-·[撤消]之前的操作，然后执行[保存]；
-·将内容[复制/粘贴]到新文件；
-·放弃对文件的修改。
-(%s)</translation>
-    </message>
-    <message>
-        <source>%s Errors occur when regular backup is running! Please try the following operations: 
-•[Undo] the previous operations and [Save] it; 
-•[Save As...] text files（*.txt）; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation>%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
-·[撤消]之前的操作，然后执行[保存]；
-·[另存为...]文本文件（*.txt）；
-·将内容[复制/粘贴]到新文件；
-·放弃对文件的修改。
-(%s)</translation>
     </message>
     <message>
         <source>(Can use %d days)</source>
@@ -4548,6 +4530,43 @@ You can click the button to recover files you work on.</source>
         <comment>_kso_filesearch_FileName</comment>
         <translation>文件名</translation>
     </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation>%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
+·检查备份目录的是否具有可写权限，或尝试更改备份目录；
+·[撤消]之前的操作，然后执行[保存]；
+·[另存为...]文本文件（*.txt）；
+·将内容[复制/粘贴]到新文件；
+·放弃对文件的修改。</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation>%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
+·检查备份目录的是否具有可写权限，或尝试更改备份目录；
+·[撤消]之前的操作，然后执行[保存]；
+·将内容[复制/粘贴]到新文件；
+·放弃对文件的修改。</translation>
+    </message>
+    <message>
+        <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
+        <comment>_kso_FileFormatNotSupport</comment>
+        <translation>当前文档保存的格式并非为WPS文档格式，这可能与您所在
+的组织要求不符，您确定要以此格式继续保存吗？
+</translation>
+    </message>
 </context>
 <context>
     <name>kso_print</name>
@@ -4623,7 +4642,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
 You can add the customized paper %dmm x %dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="unfinished">打印机对当前的纸型不支持！继续打印，效果可能不理想。
+        <translation>打印机对当前的纸型不支持！继续打印，效果可能不理想。
 您可以在打印机属性中，添加大小为%dmm×%dmm的自定义纸张后再打印。
 是否继续打印？</translation>
     </message>

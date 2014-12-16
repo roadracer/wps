@@ -9,10 +9,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Welcome to the WPS Office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Writer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -25,7 +21,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create shortcuts to desktop</source>
+        <source>Welcome to WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create desktop shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

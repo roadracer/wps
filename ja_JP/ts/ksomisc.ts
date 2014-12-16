@@ -234,6 +234,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
         <translation></translation>
     </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Launch WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -302,6 +310,10 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <source>WPS Office General Repair/Configuration Tools</source>
         <extracomment>ksomisc main dialog</extracomment>
         <translation>Kingsoft Office  詳細設定</translation>
+    </message>
+    <message>
+        <source>You are not using an administrator account. Some features are not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1071,6 +1083,58 @@ The button icon, command group and task window position of each scheme are diffe
         <source>Equation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OpenAsReadOnly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Data Interchange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Document</source>
+        <translation type="unfinished">Microsoft Word 6.0 - 7.0 文書 {97 ?} {2003 ?}</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 SlideShow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Template</source>
+        <translation type="unfinished">Microsoft PowerPoint 07 テンプレート {97-2003 ?}</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1193,6 +1257,18 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>User name:</source>
         <translation>ユーザー:</translation>
+    </message>
+    <message>
+        <source>Software recommend：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The port must be a number between 1 and 65535.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

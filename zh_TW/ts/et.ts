@@ -887,7 +887,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Top 10...</source>
-        <translation>前10項...</translation>
+        <translation type="obsolete">前10項...</translation>
     </message>
     <message>
         <source>Yesterday</source>
@@ -1055,6 +1055,10 @@ condition is true: </source>
     </message>
     <message>
         <source>Filter by Color</source>
+        <translation>依色彩篩選</translation>
+    </message>
+    <message>
+        <source>Top 10</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1226,25 +1230,6 @@ condition is true: </source>
     </message>
 </context>
 <context>
-    <name>KxAlignmentWidget</name>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtHori_0.png</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_0.png</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_1.png</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_2.png</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>KxApplication</name>
     <message>
         <source>Save As</source>
@@ -1284,6 +1269,44 @@ condition is true: </source>
     <message>
         <source>You need to have the right to access the database：</source>
         <translation type="obsolete">您所訪問的資料庫需要有正確的用戶和密碼才能訪問：</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackgroundQueryMonitorUI</name>
+    <message>
+        <source>External Data Refresh Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Queries currently being excuted in the background:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">狀態</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackgroundQuery_monitor</name>
+    <message>
+        <source>&amp;Stop Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elapsed time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetching data...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of rows fetched:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please close this dialog to continue fetching data</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1362,6 +1385,189 @@ condition is true: </source>
     <message>
         <source>You must specify criteria for all conditional formats.</source>
         <translation>所有設定格式化的條件都必須指定規則。</translation>
+    </message>
+</context>
+<context>
+    <name>KxConditionHighLightDlg</name>
+    <message>
+        <source>HighLight - Numerial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_Equal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_NoEqual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_Large</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LargeEqual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_Less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LessEqual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_BetweenMidfix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_BetweenSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_NoBetween</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_TopCountPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_TopCountSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LowCountPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LowCountSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_TopPercentPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_TopPercentSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LowPercentPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_LowPercentSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_AvgSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_AvgAbove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Numerial_AvgBelow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HighLight - Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text_Contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text_NoContain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text_BeginWith</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text_EndWith</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HighLight - Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Prefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Yesterday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_LateSeven</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_LastWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_NextWeek</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_LastMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_NextMonth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date_Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HighLight - Special</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special_Empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special_Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A required input value is missing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>required range values is not enough</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2053,6 +2259,57 @@ To keep existing picture, click Cancel button.</source>
     <message>
         <source>Conditional Formatting</source>
         <translation>設定格式化的條件</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgConditionHighLight</name>
+    <message>
+        <source>Condition HighLight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cells with following condition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>original setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation type="unfinished">且</translation>
+    </message>
+    <message>
+        <source>inside</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>spinPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>spinSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>directPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>directSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>123</source>
+        <translation type="unfinished">123</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">自訂</translation>
+    </message>
+    <message>
+        <source>show following effect</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4292,6 +4549,10 @@ p, li { white-space: pre-wrap; }
         <translation>啟動工作窗格(&amp;U)</translation>
     </message>
     <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Row and column h&amp;eadings</source>
         <translation>列與欄標題(&amp;E)</translation>
     </message>
@@ -4494,6 +4755,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Create &amp;backup files on first save</source>
         <translation>第一次儲存時建立備份檔案(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation>自動恢複文件位置(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>瀏覽(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5020,7 +5293,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Entire Workbook</source>
-        <translation>整本活頁簿(&amp;W)</translation>
+        <translation type="obsolete">整本活頁簿(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;From:</source>
@@ -5177,6 +5450,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Multipage output and Zoom</source>
         <translation type="obsolete">并打與縮放</translation>
+    </message>
+    <message>
+        <source>Entire Wor&amp;kbook</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6632,6 +6909,10 @@ protected.</source>
         <source>Connection string or SQL is error, ET can not import the data.</source>
         <translation type="obsolete">連接字元串或者 SQL 有誤，Kingsoft Spreadsheets 無法匯入資料。</translation>
     </message>
+    <message>
+        <source>Edit Query</source>
+        <translation>編輯查詢</translation>
+    </message>
 </context>
 <context>
     <name>KxEt3DColorModel</name>
@@ -7034,6 +7315,25 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>No Line</source>
         <translation>無線條顏色</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtMacroErrorDlg</name>
+    <message>
+        <source>Macro Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>H&amp;alt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation type="unfinished">繼續(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Goto</source>
+        <translation type="unfinished">到(&amp;G)</translation>
     </message>
 </context>
 <context>
@@ -8612,6 +8912,18 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <source>dictionary file(*.dic)|*.dic</source>
         <translation type="obsolete">字典文件(*.dic)|*.dic</translation>
     </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation>目錄 &quot;%1&quot; 無效。</translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
+        <translation>選擇文件夾</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation>您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
@@ -9910,6 +10222,35 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     <message>
         <source>The password you supplied is not correct. Verify that the CAPS LOCK key is off and be sure to use the correct capitalization.</source>
         <translation>密碼不符。密碼是有大小寫之分的 (注意 CAPS LOCK 燈是開啟或是關閉的狀態)。</translation>
+    </message>
+</context>
+<context>
+    <name>KxUpdateExternalLinkDlg</name>
+    <message>
+        <source>SpreadSheets</source>
+        <translation>WPS 表格</translation>
+    </message>
+    <message>
+        <source>There are links to other data sources in this workbook.
+
+•If you update the links, WPS Spreadsheets will try to get the latest data.
+•If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
+
+Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
+        <translation>此活頁簿包含與其他資料來源的連結。是否更新?
+
+. 若更新連結，WPS Spreadsheets 將會嘗試擷取最新的資料。
+· 若不要更新連結，WPS Spreadsheets 將採用先前的資訊。
+
+請注意，資料連結可在未得到您的許可下，被用於存取及共用機密資料，可能會被用於執行其他有害動作。如果您並不信任此活頁簿的來源，請不要更新連結。</translation>
+    </message>
+    <message>
+        <source>&amp;Update</source>
+        <translation>更新(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Don&apos;t Update</source>
+        <translation>不更新(&amp;N)</translation>
     </message>
 </context>
 <context>

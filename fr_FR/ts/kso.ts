@@ -275,6 +275,11 @@ Veuillez vérifier vos paramètres système et assurez-vous que le répertoire t
         <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
         <translation>Le contenu du Presse-papier sera inséré comme une image JPG.</translation>
     </message>
+    <message>
+        <source>Unicode Text</source>
+        <comment>TX_KSO_CF_UNICODE_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_dguil</name>
@@ -3101,6 +3106,11 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
         <comment>_KsoDesc_MSWORD12DOTM</comment>
         <translation>Modèle Microsoft Word 2007/2010 prenant en charge les macros</translation>
     </message>
+    <message>
+        <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
+        <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_krm</name>
@@ -3173,7 +3183,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation>%s Des erreurs sont survenus lors de l&apos;exécution d&apos;une sauvegarde régulière ! Essayez les opérations suivantes : 
+        <translation type="obsolete">%s Des erreurs sont survenus lors de l&apos;exécution d&apos;une sauvegarde régulière ! Essayez les opérations suivantes : 
 •[Annuler] les opérations précédentes et [Enregistrer] le; 
 •[Enregistrer sous...] fichiers texte（*.txt）; 
 •[Copier/Coller] le contenu dans le nouveau fichier ; 
@@ -3187,7 +3197,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation>%s Des erreurs sont survenus lors de l&apos;exécution d&apos;une sauvegarde régulière ! Essayez les opérations suivantes : 
+        <translation type="obsolete">%s Des erreurs sont survenus lors de l&apos;exécution d&apos;une sauvegarde régulière ! Essayez les opérations suivantes : 
 •[Annuler] les opérations précédentes et [Enregistrer] le ; 
 •[Copier/Coller] le contenu dans le nouveau fichier ; 
 •Abandonner la révision du fichier. 
@@ -4016,6 +4026,32 @@ Vous pouvez choisir le bouton Lecture seule pour l&apos;ouvrir en lecture seule.
         <source>File Name</source>
         <comment>_kso_filesearch_FileName</comment>
         <translation>Nom du fichier</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
+        <comment>_kso_FileFormatNotSupport</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

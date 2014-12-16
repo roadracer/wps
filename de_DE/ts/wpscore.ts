@@ -2947,6 +2947,31 @@ Do you want to replace it?</source>
         <comment>TxLanguage_NoProofing</comment>
         <translation>Keine Dokumentprüfung</translation>
     </message>
+    <message>
+        <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recorded %d too much data fields.</source>
+        <comment>_TxMailMerge_FieldsTooMuch</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recorded %d too few data fields.</source>
+        <comment>_TxMailMerge_FieldsTooFew</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recorded %d is empty.</source>
+        <comment>_TxMailMerge_FieldsEmpty</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_err</name>
@@ -3399,6 +3424,12 @@ Geben Sie einen anderen Namen für das Dokument ein.
         <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
         <comment>TxExts_AllWPSEx</comment>
         <translation>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>_TxDocument_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5483,7 +5514,7 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
         <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation>Alle Datenquellen (*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
+        <translation type="obsolete">Alle Datenquellen (*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
@@ -5498,7 +5529,7 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>All Word Documents(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</source>
         <comment>TxDesc_DataSource_alldoc</comment>
-        <translation>Alle Word-Dokumente(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</translation>
+        <translation type="obsolete">Alle Word-Dokumente(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</translation>
     </message>
     <message>
         <source>Apply Style</source>
@@ -6790,7 +6821,7 @@ Changes</source>
     <message>
         <source>Word Documents(*.doc) | *.doc; |</source>
         <comment>TxDesc_DataSource_doc</comment>
-        <translation>Word-Dokumente(*.doc) | *.doc; |</translation>
+        <translation type="obsolete">Word-Dokumente(*.doc) | *.doc; |</translation>
     </message>
     <message>
         <source>[Disabled]</source>
@@ -7138,6 +7169,521 @@ Check</source>
         <source>WPS Writer 2007/2010 Template(*.wptx)</source>
         <comment>TxDesc_DataSource_wptx</comment>
         <translation>Vorlagendatei von Kingsoft Writer 2007/2010 (*.wptx) </translation>
+    </message>
+    <message>
+        <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
+        <comment>TxDesc_DataSource_AllDataSource</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word Documents(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</source>
+        <comment>TxDesc_DataSource_doc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Word Documents(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</source>
+        <comment>TxDesc_DataSource_alldoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
+        <comment>TxDesc_DataSource_allwps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoFit to Content</source>
+        <comment>TxVersion_AutoFitContent</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading</source>
+        <comment>TxTableStyle_LightShading</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List</source>
+        <comment>TxTableStyle_LightList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid</source>
+        <comment>TxTableStyle_LightGrid</comment>
+        <translation type="unfinished">Heller Raster</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1</source>
+        <comment>TxTableStyle_MediumShading1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2</source>
+        <comment>TxTableStyle_MediumShading2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1</source>
+        <comment>TxTableStyle_MediumList1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2</source>
+        <comment>TxTableStyle_MediumList2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1</source>
+        <comment>TxTableStyle_MediumGrid1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2</source>
+        <comment>TxTableStyle_MediumGrid2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3</source>
+        <comment>TxTableStyle_MediumGrid3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List</source>
+        <comment>TxTableStyle_DarkList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading</source>
+        <comment>TxTableStyle_ColorfulShading</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List</source>
+        <comment>TxTableStyle_ColorfulList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid</source>
+        <comment>TxTableStyle_ColorfulGrid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 1</source>
+        <comment>TxTableStyle_LightShadingAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 1</source>
+        <comment>TxTableStyle_LightListAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 1</source>
+        <comment>TxTableStyle_LightGridAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 1</source>
+        <comment>TxTableStyle_MediumShading1Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 1</source>
+        <comment>TxTableStyle_MediumShading2Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 1</source>
+        <comment>TxTableStyle_MediumList1Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 1</source>
+        <comment>TxTableStyle_MediumList2Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid1Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid2Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid3Accent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 1</source>
+        <comment>TxTableStyle_DarkListAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 1</source>
+        <comment>TxTableStyle_ColorfulShadingAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 1</source>
+        <comment>TxTableStyle_ColorfulListAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 1</source>
+        <comment>TxTableStyle_ColorfulGridAccent1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 2</source>
+        <comment>TxTableStyle_LightShadingAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 2</source>
+        <comment>TxTableStyle_LightListAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 2</source>
+        <comment>TxTableStyle_LightGridAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 2</source>
+        <comment>TxTableStyle_MediumShading1Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 2</source>
+        <comment>TxTableStyle_MediumShading2Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 2</source>
+        <comment>TxTableStyle_MediumList1Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 2</source>
+        <comment>TxTableStyle_MediumList2Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid1Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid2Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid3Accent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 2</source>
+        <comment>TxTableStyle_DarkListAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 2</source>
+        <comment>TxTableStyle_ColorfulShadingAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 2</source>
+        <comment>TxTableStyle_ColorfulListAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 2</source>
+        <comment>TxTableStyle_ColorfulGridAccent2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 3</source>
+        <comment>TxTableStyle_LightShadingAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 3</source>
+        <comment>TxTableStyle_LightListAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 3</source>
+        <comment>TxTableStyle_LightGridAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 3</source>
+        <comment>TxTableStyle_MediumShading1Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 3</source>
+        <comment>TxTableStyle_MediumShading2Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 3</source>
+        <comment>TxTableStyle_MediumList1Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 3</source>
+        <comment>TxTableStyle_MediumList2Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid1Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid2Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid3Accent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 3</source>
+        <comment>TxTableStyle_DarkListAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 3</source>
+        <comment>TxTableStyle_ColorfulShadingAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 3</source>
+        <comment>TxTableStyle_ColorfulListAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 3</source>
+        <comment>TxTableStyle_ColorfulGridAccent3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 4</source>
+        <comment>TxTableStyle_LightShadingAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 4</source>
+        <comment>TxTableStyle_LightListAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 4</source>
+        <comment>TxTableStyle_LightGridAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 4</source>
+        <comment>TxTableStyle_MediumShading1Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 4</source>
+        <comment>TxTableStyle_MediumShading2Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 4</source>
+        <comment>TxTableStyle_MediumList1Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 4</source>
+        <comment>TxTableStyle_MediumList2Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid1Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid2Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid3Accent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 4</source>
+        <comment>TxTableStyle_DarkListAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 4</source>
+        <comment>TxTableStyle_ColorfulShadingAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 4</source>
+        <comment>TxTableStyle_ColorfulListAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 4</source>
+        <comment>TxTableStyle_ColorfulGridAccent4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 5</source>
+        <comment>TxTableStyle_LightShadingAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 5</source>
+        <comment>TxTableStyle_LightListAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 5</source>
+        <comment>TxTableStyle_LightGridAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 5</source>
+        <comment>TxTableStyle_MediumShading1Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 5</source>
+        <comment>TxTableStyle_MediumShading2Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 5</source>
+        <comment>TxTableStyle_MediumList1Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 5</source>
+        <comment>TxTableStyle_MediumList2Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid1Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid2Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid3Accent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 5</source>
+        <comment>TxTableStyle_DarkListAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 5</source>
+        <comment>TxTableStyle_ColorfulShadingAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 5</source>
+        <comment>TxTableStyle_ColorfulListAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 5</source>
+        <comment>TxTableStyle_ColorfulGridAccent5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 6</source>
+        <comment>TxTableStyle_LightShadingAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light List Accent 6</source>
+        <comment>TxTableStyle_LightListAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 6</source>
+        <comment>TxTableStyle_LightGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 6</source>
+        <comment>TxTableStyle_MediumShading1Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 6</source>
+        <comment>TxTableStyle_MediumShading2Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 6</source>
+        <comment>TxTableStyle_MediumList1Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 6</source>
+        <comment>TxTableStyle_MediumList2Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid1Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid2Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid3Accent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark List Accent 6</source>
+        <comment>TxTableStyle_DarkListAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 6</source>
+        <comment>TxTableStyle_ColorfulShadingAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 6</source>
+        <comment>TxTableStyle_ColorfulListAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 6</source>
+        <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

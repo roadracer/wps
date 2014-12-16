@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="pt_BR">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KAffirmDialog</name>
@@ -216,6 +218,22 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
         <translation>Usando WPS Office Nuvem para um trabalho em equipe colaborativo .</translation>
     </message>
+    <message>
+        <source>What&apos;s New.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View what&apos;s new file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Launch WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -274,6 +292,10 @@ You can fix the errors encountered when using WPS Office or make advanced settin
         <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
         <extracomment>ksomisc main dialog</extracomment>
         <translation>Se você não pode corrigir os erros utilizando o botão Iniciar e Reparação, ou você precisa configurar outras configurações avançadas, clique no botão Avançado abaixo , em seguida, definir as configurações nas guias correspondentes.</translation>
+    </message>
+    <message>
+        <source>You are not using an administrator account. Some features are not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -469,6 +491,14 @@ needs restarting Windows to take effect.</source>
         <extracomment>ksomisc -&gt; Advanced -&gt; File Asso -&gt; Check/Uncheck compat with mso.</extracomment>
         <translation>A opção &quot;Compatível com software de terceiros &quot;
         precisa reiniciar o Windows para fazer efeito.</translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2003</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2007</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -703,6 +733,361 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
 </context>
 <context>
+    <name>KRegistrarScriptResource</name>
+    <message>
+        <source>WPS Spreadsheets Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenAsReadOnly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Macro-Enabled Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel 2007 Binary Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Add-In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel SLK File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel CSV Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro-Enabled Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Add-In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Web Query File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open in WPS Spreadsheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Macro-Enabled Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Slide Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PowerPoint Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;how</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office PowerPoint 2007 Macro-Enabled Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 07 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word 2007 Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 6.0 - 7.0 Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 6.0 - 7.0 Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RTF Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Word 2007 Macro-Enabled Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro-Enabled Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RTF Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007 Macro-Enabled Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Edit,0,2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open,0,2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Equation 3.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Data Interchange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 SlideShow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KSNManagerDlg</name>
     <message>
         <source>Product Management Center</source>
@@ -811,6 +1196,18 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>Know more details about Experience Improvement Activity</source>
         <translation>Conheça mais detalhes sobre Experience Improvement Atividade</translation>
+    </message>
+    <message>
+        <source>Software recommend：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The port must be a number between 1 and 65535.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

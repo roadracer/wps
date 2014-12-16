@@ -3878,6 +3878,11 @@ Please check your system settings and ensure the temporary directory under the c
         <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
         <translation type="obsolete">Inhalte der Zwischenablage werden als JPEG-Bild eingefügt.</translation>
     </message>
+    <message>
+        <source>Unicode Text</source>
+        <comment>TX_KSO_CF_UNICODE_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_dguil</name>
@@ -6724,6 +6729,11 @@ Komprimieren von Bildern kann die Bildqualität beeinträchtigen. Möchten Sie d
         <comment>_KsoDesc_MSWORD12DOTM</comment>
         <translation>Microsoft Word 2007/2010 Vorlage mit Makros</translation>
     </message>
+    <message>
+        <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
+        <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_krm</name>
@@ -6806,7 +6816,7 @@ Komprimieren von Bildern kann die Bildqualität beeinträchtigen. Möchten Sie d
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation>Fehler wurden beim regelmäßigen Sicherungsvorgang gefunden! Versuchen Sie folgende Operatioen:
+        <translation type="obsolete">Fehler wurden beim regelmäßigen Sicherungsvorgang gefunden! Versuchen Sie folgende Operatioen:
 Die vorherigen Operationen mit [Rückgängig] widerrufen und [Speichern];
 Die Inhalte [Kopieren] und auf neue Datei [Einfügen];
 
@@ -6820,7 +6830,7 @@ Die Änderung der Datei aufgeben
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation>Fehler wurden beim regelmäßigen Sicherungsvorgang gefunden! Versuchen Sie folgende Operatioen:
+        <translation type="obsolete">Fehler wurden beim regelmäßigen Sicherungsvorgang gefunden! Versuchen Sie folgende Operatioen:
 Die vorherigen Operationen mit [Rückgängig] widerrufen und [Speichern];
 Die Inhalte [Kopieren] und auf neue Datei [Einfügen];
 
@@ -7655,6 +7665,32 @@ Sie können auf die Schaltfläche klicken, um die früher bearbeiteten Dateien w
         <source>Send out success</source>
         <comment>_kso_ErrorRep_MessageBox_CompleteSend_Title</comment>
         <translation type="obsolete">Versand erfolgreich</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
+        <comment>_kso_FileFormatNotSupport</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -273,6 +273,11 @@ Por favor revise su configuración de sistema y asegure que el directorio tempor
         <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
         <translation>Los contenidos del portapapeles van a ser insertados como una imagen de JPG.</translation>
     </message>
+    <message>
+        <source>Unicode Text</source>
+        <comment>TX_KSO_CF_UNICODE_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_dguil</name>
@@ -3099,6 +3104,11 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
         <comment>_KsoDesc_Xml</comment>
         <translation>Archivos XML</translation>
     </message>
+    <message>
+        <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
+        <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_krm</name>
@@ -3185,7 +3195,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation>¡%s errores ocurren cuando el regular copia de seguridad está trabajando! Intente las siguientes operaciones:
+        <translation type="obsolete">¡%s errores ocurren cuando el regular copia de seguridad está trabajando! Intente las siguientes operaciones:
  [Deshacer] las opercaciones previas y lo [Guardar]; 
  [Copiar/Pegar] los contenidos al archivo nuevo; 
  Abandonar la revisión del archivo. 
@@ -3199,7 +3209,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation>¡%s errores ocurren cuando el regular copia de seguridad está trabajando! Intente las siguientes operaciones:
+        <translation type="obsolete">¡%s errores ocurren cuando el regular copia de seguridad está trabajando! Intente las siguientes operaciones:
  [Deshacer] las opercaciones previas y lo [Guardar]; 
  [Guardar como...] archivos de texto（*.txt); 
  [Copiar/Pegar]los contenidos al archivo nuevo; 
@@ -4014,6 +4024,32 @@ Puede seleccionar botón de Lectura solo para abrirlo como lectura solo.</transl
         <source>File Name</source>
         <comment>_kso_filesearch_FileName</comment>
         <translation>Nombre de archivo</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
+        <comment>_kso_FileFormatNotSupport</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

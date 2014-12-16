@@ -78,7 +78,7 @@
     </message>
     <message>
         <source>WPS Writer cannot update Index.</source>
-        <translation>wps无法更新索引!</translation>
+        <translation>WPS文字 无法更新索引!</translation>
     </message>
 </context>
 <context>
@@ -2539,6 +2539,31 @@ Do you want to replace it?</source>
         <comment>TxLanguage_NoProofing</comment>
         <translation>(不作校对)</translation>
     </message>
+    <message>
+        <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation>WPS文字无法用数据源合并主文档，因为数据记录为空或没有匹配查询选项的数据记录。</translation>
+    </message>
+    <message>
+        <source>Recorded %d too much data fields.</source>
+        <comment>_TxMailMerge_FieldsTooMuch</comment>
+        <translation>记录 %d 的数据域太多。</translation>
+    </message>
+    <message>
+        <source>Recorded %d too few data fields.</source>
+        <comment>_TxMailMerge_FieldsTooFew</comment>
+        <translation>记录 %d 的数据域太少。</translation>
+    </message>
+    <message>
+        <source>Recorded %d is empty.</source>
+        <comment>_TxMailMerge_FieldsEmpty</comment>
+        <translation>记录 %d 是空记录。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation>WPS文字无法将 %s 作为数据或域名源打开，因为它是处于活动状态的邮件合并主文档。</translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_err</name>
@@ -2602,7 +2627,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation>The mesurement must between -1584 pt and 1584 pt.</translation>
+        <translation>度量值必须介于 -1584磅和1584磅之间。</translation>
     </message>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
@@ -3172,6 +3197,13 @@ Please try one of the following.
         <source>*.wps;*.wpt;*.wpsx;*.doc;*.dot;*.rtf; *.docx</source>
         <comment>TxExts_AllWPSEx</comment>
         <translation type="obsolete">*.wps;*.wpt;*.wpsx;*.doc;*.dot;*.rtf; *.docx</translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>_TxDocument_MsgBackupToDef</comment>
+        <translation>在进行文件备份时发生错误！可能是由于您设置的备份目录没有写权限，请尝试更改备份目录。
+此次备份将保存到(%s)。</translation>
     </message>
 </context>
 <context>
@@ -5434,9 +5466,9 @@ A bird in Egyptian mythology that lived in the desert for 500 years and then con
         <translation>右对齐</translation>
     </message>
     <message>
-        <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
+        <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
         <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation>所有数据源(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
+        <translation>所有数据源(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
@@ -5449,9 +5481,9 @@ A bird in Egyptian mythology that lived in the desert for 500 years and then con
         <translation>网页(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</translation>
     </message>
     <message>
-        <source>All Word Documents(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</source>
+        <source>All Word Documents(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</source>
         <comment>TxDesc_DataSource_alldoc</comment>
-        <translation>所有 Word 文档(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</translation>
+        <translation>所有 Word 文档(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</translation>
     </message>
     <message>
         <source>Apply Style</source>
@@ -5597,7 +5629,7 @@ Spelling</source>
     <message>
         <source>Clean Paragraph Space And Indent</source>
         <comment>TxTooltip_CleanParaSpaceAndIndent</comment>
-        <translation>Clean Paragraph Space And Indent</translation>
+        <translation>清除段落间距和缩进。</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -6783,9 +6815,9 @@ Changes</source>
         <translation>整页</translation>
     </message>
     <message>
-        <source>Word Documents(*.doc) | *.doc; |</source>
+        <source>Word Documents(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</source>
         <comment>TxDesc_DataSource_doc</comment>
-        <translation>Word 文档(*.doc) | *.doc; |</translation>
+        <translation>Word 文档(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</translation>
     </message>
     <message>
         <source>[Disabled]</source>
@@ -7133,6 +7165,506 @@ Check</source>
         <source>WPS Writer 2007/2010 Template(*.wptx)</source>
         <comment>TxDesc_DataSource_wptx</comment>
         <translation>WPS文字 2007/2010 模板文件(*.wptx)</translation>
+    </message>
+    <message>
+        <source>Light Shading</source>
+        <comment>TxTableStyle_LightShading</comment>
+        <translation>浅色底纹</translation>
+    </message>
+    <message>
+        <source>Light List</source>
+        <comment>TxTableStyle_LightList</comment>
+        <translation type="unfinished">浅色列表</translation>
+    </message>
+    <message>
+        <source>Light Grid</source>
+        <comment>TxTableStyle_LightGrid</comment>
+        <translation>浅色网格</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1</source>
+        <comment>TxTableStyle_MediumShading1</comment>
+        <translation>中等深浅底纹 1</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2</source>
+        <comment>TxTableStyle_MediumShading2</comment>
+        <translation>中等深浅底纹 2</translation>
+    </message>
+    <message>
+        <source>Medium List 1</source>
+        <comment>TxTableStyle_MediumList1</comment>
+        <translation>中等深浅列表 1</translation>
+    </message>
+    <message>
+        <source>Medium List 2</source>
+        <comment>TxTableStyle_MediumList2</comment>
+        <translation>中等深浅列表 2</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1</source>
+        <comment>TxTableStyle_MediumGrid1</comment>
+        <translation>中等深浅网格 1</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2</source>
+        <comment>TxTableStyle_MediumGrid2</comment>
+        <translation>中等深浅网格 2</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3</source>
+        <comment>TxTableStyle_MediumGrid3</comment>
+        <translation>中等深浅网格 3</translation>
+    </message>
+    <message>
+        <source>Dark List</source>
+        <comment>TxTableStyle_DarkList</comment>
+        <translation>深色列表</translation>
+    </message>
+    <message>
+        <source>Colorful Shading</source>
+        <comment>TxTableStyle_ColorfulShading</comment>
+        <translation>彩色底纹</translation>
+    </message>
+    <message>
+        <source>Colorful List</source>
+        <comment>TxTableStyle_ColorfulList</comment>
+        <translation>彩色列表</translation>
+    </message>
+    <message>
+        <source>Colorful Grid</source>
+        <comment>TxTableStyle_ColorfulGrid</comment>
+        <translation>彩色网格</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 1</source>
+        <comment>TxTableStyle_LightShadingAccent1</comment>
+        <translation>浅色底纹 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Light List Accent 1</source>
+        <comment>TxTableStyle_LightListAccent1</comment>
+        <translation>浅色列表 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 1</source>
+        <comment>TxTableStyle_LightGridAccent1</comment>
+        <translation>浅色网格 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 1</source>
+        <comment>TxTableStyle_MediumShading1Accent1</comment>
+        <translation>中等深浅底纹 1 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 1</source>
+        <comment>TxTableStyle_MediumShading2Accent1</comment>
+        <translation>中等深浅底纹 2 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 1</source>
+        <comment>TxTableStyle_MediumList1Accent1</comment>
+        <translation>中等深浅列表 1 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 1</source>
+        <comment>TxTableStyle_MediumList2Accent1</comment>
+        <translation>中等深浅列表 2 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid1Accent1</comment>
+        <translation>中等深浅网格 1 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid2Accent1</comment>
+        <translation>中等深浅网格 2 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid3Accent1</comment>
+        <translation>中等深浅网格 3 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 1</source>
+        <comment>TxTableStyle_DarkListAccent1</comment>
+        <translation>深色列表 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 1</source>
+        <comment>TxTableStyle_ColorfulShadingAccent1</comment>
+        <translation>彩色底纹 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 1</source>
+        <comment>TxTableStyle_ColorfulListAccent1</comment>
+        <translation>彩色列表 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 1</source>
+        <comment>TxTableStyle_ColorfulGridAccent1</comment>
+        <translation>彩色网格 - 强调文字颜色 1</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 2</source>
+        <comment>TxTableStyle_LightShadingAccent2</comment>
+        <translation>浅色底纹 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Light List Accent 2</source>
+        <comment>TxTableStyle_LightListAccent2</comment>
+        <translation>浅色列表 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 2</source>
+        <comment>TxTableStyle_LightGridAccent2</comment>
+        <translation>浅色网格 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 2</source>
+        <comment>TxTableStyle_MediumShading1Accent2</comment>
+        <translation>中等深浅底纹 1 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 2</source>
+        <comment>TxTableStyle_MediumShading2Accent2</comment>
+        <translation>中等深浅底纹 2 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 2</source>
+        <comment>TxTableStyle_MediumList1Accent2</comment>
+        <translation>中等深浅列表 1 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 2</source>
+        <comment>TxTableStyle_MediumList2Accent2</comment>
+        <translation>中等深浅列表 2 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid1Accent2</comment>
+        <translation>中等深浅网格 1 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid2Accent2</comment>
+        <translation>中等深浅网格 2 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid3Accent2</comment>
+        <translation>中等深浅网格 3 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 2</source>
+        <comment>TxTableStyle_DarkListAccent2</comment>
+        <translation>深色列表 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 2</source>
+        <comment>TxTableStyle_ColorfulShadingAccent2</comment>
+        <translation>彩色底纹 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 2</source>
+        <comment>TxTableStyle_ColorfulListAccent2</comment>
+        <translation>彩色列表 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 2</source>
+        <comment>TxTableStyle_ColorfulGridAccent2</comment>
+        <translation>彩色网格 - 强调文字颜色 2</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 3</source>
+        <comment>TxTableStyle_LightShadingAccent3</comment>
+        <translation>浅色底纹 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Light List Accent 3</source>
+        <comment>TxTableStyle_LightListAccent3</comment>
+        <translation>浅色列表 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 3</source>
+        <comment>TxTableStyle_LightGridAccent3</comment>
+        <translation>浅色网格 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 3</source>
+        <comment>TxTableStyle_MediumShading1Accent3</comment>
+        <translation>中等深浅底纹 1 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 3</source>
+        <comment>TxTableStyle_MediumShading2Accent3</comment>
+        <translation>中等深浅底纹 2 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 3</source>
+        <comment>TxTableStyle_MediumList1Accent3</comment>
+        <translation>中等深浅列表 1 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 3</source>
+        <comment>TxTableStyle_MediumList2Accent3</comment>
+        <translation>中等深浅列表 2 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid1Accent3</comment>
+        <translation>中等深浅网格 1 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid2Accent3</comment>
+        <translation>中等深浅网格 2 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid3Accent3</comment>
+        <translation>中等深浅网格 3 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 3</source>
+        <comment>TxTableStyle_DarkListAccent3</comment>
+        <translation>深色列表 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 3</source>
+        <comment>TxTableStyle_ColorfulShadingAccent3</comment>
+        <translation>彩色底纹 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 3</source>
+        <comment>TxTableStyle_ColorfulListAccent3</comment>
+        <translation>彩色列表 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 3</source>
+        <comment>TxTableStyle_ColorfulGridAccent3</comment>
+        <translation>彩色网格 - 强调文字颜色 3</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 4</source>
+        <comment>TxTableStyle_LightShadingAccent4</comment>
+        <translation>浅色底纹 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Light List Accent 4</source>
+        <comment>TxTableStyle_LightListAccent4</comment>
+        <translation>浅色列表 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 4</source>
+        <comment>TxTableStyle_LightGridAccent4</comment>
+        <translation>浅色网格 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 4</source>
+        <comment>TxTableStyle_MediumShading1Accent4</comment>
+        <translation>中等深浅底纹 1 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 4</source>
+        <comment>TxTableStyle_MediumShading2Accent4</comment>
+        <translation>中等深浅底纹 2 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 4</source>
+        <comment>TxTableStyle_MediumList1Accent4</comment>
+        <translation>中等深浅列表 1 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 4</source>
+        <comment>TxTableStyle_MediumList2Accent4</comment>
+        <translation>中等深浅列表 2 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid1Accent4</comment>
+        <translation>中等深浅网格 1 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid2Accent4</comment>
+        <translation>中等深浅网格 2 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid3Accent4</comment>
+        <translation>中等深浅网格 3 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 4</source>
+        <comment>TxTableStyle_DarkListAccent4</comment>
+        <translation>深色列表 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 4</source>
+        <comment>TxTableStyle_ColorfulShadingAccent4</comment>
+        <translation>彩色底纹 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 4</source>
+        <comment>TxTableStyle_ColorfulListAccent4</comment>
+        <translation>彩色列表 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 4</source>
+        <comment>TxTableStyle_ColorfulGridAccent4</comment>
+        <translation>彩色网格 - 强调文字颜色 4</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 5</source>
+        <comment>TxTableStyle_LightShadingAccent5</comment>
+        <translation>浅色底纹 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Light List Accent 5</source>
+        <comment>TxTableStyle_LightListAccent5</comment>
+        <translation>浅色列表 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 5</source>
+        <comment>TxTableStyle_LightGridAccent5</comment>
+        <translation>浅色网格 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 5</source>
+        <comment>TxTableStyle_MediumShading1Accent5</comment>
+        <translation>中等深浅底纹 1 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 5</source>
+        <comment>TxTableStyle_MediumShading2Accent5</comment>
+        <translation>中等深浅底纹 2 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 5</source>
+        <comment>TxTableStyle_MediumList1Accent5</comment>
+        <translation>中等深浅列表 1 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 5</source>
+        <comment>TxTableStyle_MediumList2Accent5</comment>
+        <translation>中等深浅列表 2 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid1Accent5</comment>
+        <translation>中等深浅网格 1 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid2Accent5</comment>
+        <translation>中等深浅网格 2 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid3Accent5</comment>
+        <translation>中等深浅网格 3 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 5</source>
+        <comment>TxTableStyle_DarkListAccent5</comment>
+        <translation>深色列表 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 5</source>
+        <comment>TxTableStyle_ColorfulShadingAccent5</comment>
+        <translation>彩色底纹 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 5</source>
+        <comment>TxTableStyle_ColorfulListAccent5</comment>
+        <translation>彩色列表 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 5</source>
+        <comment>TxTableStyle_ColorfulGridAccent5</comment>
+        <translation>彩色网格 - 强调文字颜色 5</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 6</source>
+        <comment>TxTableStyle_LightShadingAccent6</comment>
+        <translation>浅色底纹 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Light List Accent 6</source>
+        <comment>TxTableStyle_LightListAccent6</comment>
+        <translation>浅色列表 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 6</source>
+        <comment>TxTableStyle_LightGridAccent6</comment>
+        <translation>浅色网格 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 6</source>
+        <comment>TxTableStyle_MediumShading1Accent6</comment>
+        <translation>中等深浅底纹 1 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 6</source>
+        <comment>TxTableStyle_MediumShading2Accent6</comment>
+        <translation>中等深浅底纹 2 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 6</source>
+        <comment>TxTableStyle_MediumList1Accent6</comment>
+        <translation>中等深浅列表 1 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 6</source>
+        <comment>TxTableStyle_MediumList2Accent6</comment>
+        <translation>中等深浅列表 2 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid1Accent6</comment>
+        <translation>中等深浅网格 1 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid2Accent6</comment>
+        <translation>中等深浅网格 2 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid3Accent6</comment>
+        <translation>中等深浅网格 3 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 6</source>
+        <comment>TxTableStyle_DarkListAccent6</comment>
+        <translation>深色列表 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 6</source>
+        <comment>TxTableStyle_ColorfulShadingAccent6</comment>
+        <translation>彩色底纹 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 6</source>
+        <comment>TxTableStyle_ColorfulListAccent6</comment>
+        <translation>彩色列表 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 6</source>
+        <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation>彩色网格 - 强调文字颜色 6</translation>
+    </message>
+    <message>
+        <source>AutoFit to Content</source>
+        <comment>TxVersion_AutoFitContent</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
+        <comment>TxDesc_DataSource_allwps</comment>
+        <translation>所有 WPS文字 文档(*.wps; *.wpt) | *.wps; *.wpt |</translation>
     </message>
 </context>
 </TS>

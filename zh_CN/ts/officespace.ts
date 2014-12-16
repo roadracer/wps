@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>webHomeLink</source>
-        <translation></translation>
+        <translation>网页端</translation>
     </message>
     <message>
         <source>Introduction</source>
@@ -116,7 +116,7 @@
     </message>
     <message>
         <source>Check failed because the account was logged off. Please login again.</source>
-        <translation type="unfinished">帐号被注销导致检查失败，请重新登录</translation>
+        <translation type="obsolete">帐号被注销导致检查失败，请重新登录</translation>
     </message>
     <message>
         <source>Upload failed because the account was logged off. Please login again.</source>
@@ -128,7 +128,7 @@
     </message>
     <message>
         <source>Check failed because account was logged off. Please login again</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">帐号被注销导致检查失败，请重新登录</translation>
     </message>
 </context>
 <context>
@@ -242,10 +242,6 @@
         <translation>文件名</translation>
     </message>
     <message>
-        <source>Light address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>From the current device</source>
         <translation>来自 当前设备</translation>
     </message>
@@ -259,7 +255,7 @@
     </message>
     <message>
         <source>New version is available</source>
-        <translation>云端有新版本，请刷新</translation>
+        <translation type="obsolete">云端有新版本，请刷新</translation>
     </message>
     <message>
         <source>Checking updates in the cloud</source>
@@ -271,7 +267,7 @@
     </message>
     <message>
         <source>Uploaded %1 minutes ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1分钟前已将文档上传到文档漫游</translation>
     </message>
     <message>
         <source>Uploaded to File Roaming</source>
@@ -328,6 +324,14 @@
     <message>
         <source>Uploaded %1 minutes agoo</source>
         <translation type="obsolete">%1分钟前已将文档上传到文档漫游</translation>
+    </message>
+    <message>
+        <source>New version is available, Please Refresh</source>
+        <translation>云端有新版本，请刷新</translation>
+    </message>
+    <message>
+        <source>New version is available, Please Check</source>
+        <translation>云端有新版本，请查看</translation>
     </message>
 </context>
 <context>
@@ -402,11 +406,11 @@
     </message>
     <message>
         <source>Explore Versions</source>
-        <translation></translation>
+        <translation>查看历史备份</translation>
     </message>
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
-        <translation></translation>
+        <translation>【重要】这里是WPS文件保险箱目录，请不要删除.txt</translation>
     </message>
     <message>
         <source>KOS_personal_Logout tip</source>
@@ -414,63 +418,63 @@
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
-        <translation></translation>
+        <translation>WPS自动备份</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
-        <translation></translation>
+        <translation>手动备份前，请先登录您的文件保险箱。</translation>
     </message>
     <message>
         <source>Login klive before activating auto backup.</source>
-        <translation></translation>
+        <translation>开启自动备份前，请先登录您的文件保险箱。</translation>
     </message>
     <message>
         <source>Login klive before auto backup.</source>
-        <translation></translation>
+        <translation>正在执行自动备份，需要您先登录文件保险箱。</translation>
     </message>
     <message>
         <source>Login klive before canceling auto backup.</source>
-        <translation></translation>
+        <translation>开启自动备份前，请先登录您的文件保险箱。</translation>
     </message>
     <message>
         <source>Login klive before deleting files.</source>
-        <translation></translation>
+        <translation>删除备份文件前，请先登录您的文件保险箱。</translation>
     </message>
     <message>
         <source>Login klive before explor backup dir.</source>
-        <translation></translation>
+        <translation>查看文件保险箱前，请先登录您的文件保险箱。</translation>
     </message>
     <message>
         <source>Login klive before explore versions.</source>
-        <translation></translation>
+        <translation>查看历史备份前，请先登录您的文件保险箱。</translation>
     </message>
     <message>
         <source>Login klive before opening files.</source>
-        <translation></translation>
+        <translation>打开备份的文件前，请先登录您的文件保险箱。</translation>
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation></translation>
+        <translation>手动备份</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation></translation>
+        <translation>大小</translation>
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation></translation>
+        <translation>备份目录下未找到任何备份文件。&lt;br /&gt;可能是因为：&lt;br /&gt;1、还未在当前电脑上执行过备份操作。&lt;br /&gt;2、备份文件曾经被手工清除了。</translation>
     </message>
     <message>
         <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation></translation>
+        <translation>备份目录下未发现本文件的备份。可能是因为：&lt;br /&gt;1、本文件还未在当前电脑上执行过自动备份等操作。&lt;br /&gt;2、备份文件曾经被手工清除了。</translation>
     </message>
     <message>
         <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation></translation>
+        <translation>本文件未开启自动备份，无法查看其备份文件。</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation></translation>
+        <translation>保存类型(&amp;T):</translation>
     </message>
     <message>
         <source>View User Info</source>
@@ -482,19 +486,19 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation></translation>
+        <translation>本文件已经启动了【自动备份】,&lt;br /&gt;每次关闭时将自动生成备份文件保存&lt;br /&gt;到您的办公空间。&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&apos;http://bbs.wps.cn/thread-22272827-1-1.html&apos;&gt;如何关闭&gt;&gt;&gt;&lt;/a&gt;</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
-        <translation></translation>
+        <translation>自动备份</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation></translation>
+        <translation>数据文件</translation>
     </message>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation></translation>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>\Kingsoft Office\Office Space\Desktop.ini name.</source>
@@ -507,23 +511,23 @@
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
         <translatorcomment>办公空间用户反馈链接</translatorcomment>
-        <translation type="obsolete">http://bbs.wps.cn/forum-wpswindows-1.html</translation>
+        <translation>http://bbs.wps.cn/forum-wpswindows-1.html</translation>
     </message>
     <message>
         <source>link</source>
-        <translation></translation>
+        <translation>快捷方式</translation>
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation></translation>
+        <translation>修改日期：</translation>
     </message>
     <message>
         <source>netbackup recover file</source>
-        <translation></translation>
+        <translation>恢复文件</translation>
     </message>
     <message>
         <source>netbackup rollback failed.</source>
-        <translation></translation>
+        <translation>无法将文件恢复到之前状态；将重新打开原文件。&lt;br /&gt;&amp;nbsp;&amp;nbsp;可能导致操作失败的原因，包括：&lt;br /&gt;&amp;nbsp;&amp;nbsp;1、原文件正被其他应用程序打开、锁定；&lt;br /&gt;&amp;nbsp;&amp;nbsp;2、原文件所在目录有操作权限限制。</translation>
     </message>
 </context>
 <context>
@@ -863,7 +867,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Click here to send feedback</source>
@@ -1040,7 +1044,7 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>Select all the files!</source>
-        <translation></translation>
+        <translation>选择所有文件</translation>
     </message>
     <message>
         <source>Select&amp;All</source>
@@ -1157,7 +1161,7 @@ or the file path character number longer than 255 </source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>前进</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -1221,7 +1225,7 @@ or the file path character number longer than 255 </source>
     </message>
     <message>
         <source>D&amp;irecDelete</source>
-        <translation></translation>
+        <translation>永久删除(&amp;I)</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
@@ -1454,7 +1458,7 @@ or the file path character number longer than 255 </source>
     <name>KLoginUserCenterCommand</name>
     <message>
         <source>You have signed in WPS Office. Click here for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你已经登录WPS Office，点击这里可以访问个人中心。</translation>
     </message>
 </context>
 <context>
@@ -1682,7 +1686,7 @@ path:%3</source>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="obsolete">文档漫游</translation>
+        <translation type="unfinished">文档漫游</translation>
     </message>
     <message>
         <source>Clear Invalid Records</source>
@@ -1695,6 +1699,10 @@ path:%3</source>
     <message>
         <source>Open File Location</source>
         <translation>打开文件所在文件夹</translation>
+    </message>
+    <message>
+        <source>Delete From The Listing</source>
+        <translation type="obsolete">从列表中移除</translation>
     </message>
 </context>
 <context>
@@ -1712,11 +1720,11 @@ path:%3</source>
     <name>KRoamingFloatingWidget</name>
     <message>
         <source>document be deleted</source>
-        <translation></translation>
+        <translation>文档被删除</translation>
     </message>
     <message>
         <source>Cacel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -1804,6 +1812,10 @@ path:%3</source>
     <message>
         <source>Open File Location</source>
         <translation>打开文件所在文件夹</translation>
+    </message>
+    <message>
+        <source>Delete From The Listing</source>
+        <translation type="obsolete">从列表中移除</translation>
     </message>
 </context>
 <context>
@@ -2139,6 +2151,17 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KWebviewDialogImpl</name>
+    <message>
+        <source>Open Cloud</source>
+        <translation>从云文档打开</translation>
+    </message>
+    <message>
+        <source>Save to Cloud</source>
+        <translation>保存到云文档</translation>
+    </message>
+</context>
+<context>
     <name>KxCheckUploadDlg</name>
     <message>
         <source>Checking upload, Please wait..</source>
@@ -2218,11 +2241,11 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
+        <source>Buy/Renew Now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Buy/Renew Now</source>
+        <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2261,7 +2284,7 @@ path:%3</source>
     <name>KxDlgSyncProcess</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Conti&amp;nue</source>
@@ -2503,7 +2526,7 @@ path:%3</source>
     <message>
         <source>Normal Group</source>
         <comment>FolderType</comment>
-        <translation type="unfinished"></translation>
+        <translation>圈子</translation>
     </message>
     <message>
         <source>Office Space/Online Documents</source>
@@ -2834,7 +2857,7 @@ path:%3</source>
     </message>
     <message>
         <source>The same file or folder already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>相同文件或文件夹已存在!</translation>
     </message>
     <message>
         <source>Error creating new folder: %1</source>
@@ -2976,6 +2999,14 @@ After expiration, some features will not work properly. Renew now and you can ge
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Verification Failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Subscription will expire today</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2986,14 +3017,6 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Some features will not work properly. &lt;br/&gt;Please renew now.  %1View details%2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verification Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3162,12 +3185,16 @@ After expiration, some features will not work properly. Please renew now. </sour
         <translation type="unfinished">宏的运行需VBA环境的支持。</translation>
     </message>
     <message>
-        <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
-        <translation type="unfinished"></translation>
+        <source>This version of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
+        <translation type="obsolete">目前 WPS Office 试用版本／家庭版本／免费版本不提供VBA环境，文档中的宏将不能正常使用。</translation>
     </message>
     <message>
         <source>OK</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
+        <translation type="unfinished">目前 WPS Office 试用版本/家庭版本/免费版本不提供VBA环境，文档中的宏将不能正常使用。</translation>
     </message>
 </context>
 <context>
@@ -3347,6 +3374,17 @@ Are you make sure to change?</source>
     </message>
 </context>
 <context>
+    <name>kxKOSUserGiftMenuCommand</name>
+    <message>
+        <source>New messages</source>
+        <translation>新消息</translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired</source>
+        <translation>您的会员即将到期</translation>
+    </message>
+</context>
+<context>
     <name>kxUserGuidWin</name>
     <message>
         <source>kosLoginWin</source>
@@ -3369,11 +3407,11 @@ Are you make sure to change?</source>
     </message>
     <message>
         <source>Data Recovery Title</source>
-        <translation></translation>
+        <translation>金山数据恢复大师</translation>
     </message>
     <message>
         <source>Data Recovery Content</source>
-        <translation></translation>
+        <translation>帮您找回因为磁盘损坏或误删除丢失的文件。</translation>
     </message>
 </context>
 </TS>

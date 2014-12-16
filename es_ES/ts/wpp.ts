@@ -272,6 +272,29 @@
     </message>
 </context>
 <context>
+    <name>DlgKxInvolvedTemplate</name>
+    <message>
+        <source>Involved Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Involved Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DlgKxSetupShow</name>
     <message>
         <source>&amp;All</source>
@@ -1215,6 +1238,27 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
 </context>
 <context>
+    <name>KxDlgEmbedPrivateFonts</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application documents online font, if your document needs circulated others, 
+we recommend that you saved earlier document fonts. 
+If necessary, click Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember this operation, do not remind anymore</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgFont</name>
     <message>
         <source>&amp;Color:</source>
@@ -1740,7 +1784,7 @@ The Advanced button allows you to choose from different encryption types.</trans
     <message>
         <source>Enter a password below to protect this document.
 The Advanced button allows you to choose from different encryption types.</source>
-        <translation>Enter a password below to protect this document.
+        <translation type="obsolete">Enter a password below to protect this document.
 The Advanced button allows you to choose from different encryption types.</translation>
     </message>
     <message>
@@ -1982,6 +2026,30 @@ The Advanced button allows you to choose from different encryption types.</trans
     <message>
         <source>Embed all &amp;characters (best for editing)</source>
         <translation type="obsolete">Incrustar todos los &amp;caracteres (recomendado para modificaciones de otros usuarios)</translation>
+    </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remind &amp;Me When Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3125,6 +3193,20 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
 </context>
 <context>
+    <name>KxInvolvedTemplateDlg</name>
+    <message>
+        <source>Blank Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxInvolvedTemplateView</name>
+    <message>
+        <source>Use Blank Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Banded Columns</source>
@@ -3207,6 +3289,18 @@ The Advanced button allows you to choose from different encryption types.</trans
     <message>
         <source>The reentered password erro?</source>
         <translation type="obsolete">Comfirmation password does not match.</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

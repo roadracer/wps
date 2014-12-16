@@ -60,7 +60,7 @@
     <name>KCloudFileStateItem</name>
     <message>
         <source>Check failed because the account was logged off. Please login again.</source>
-        <translation>アカウントがログアウトされたため、チェックできませんでした。再度ログインしてください。</translation>
+        <translation type="obsolete">アカウントがログアウトされたため、チェックできませんでした。再度ログインしてください。</translation>
     </message>
     <message>
         <source>Upload failed because the account was logged off. Please login again.</source>
@@ -98,10 +98,6 @@
         <translation>ファイル名</translation>
     </message>
     <message>
-        <source>Light address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>From the current device</source>
         <translation>このデバイス から</translation>
     </message>
@@ -115,7 +111,7 @@
     </message>
     <message>
         <source>New version is available</source>
-        <translation>クラウド側が新しいバージョンがあります。更新してください。</translation>
+        <translation type="obsolete">クラウド側が新しいバージョンがあります。更新してください。</translation>
     </message>
     <message>
         <source>Checking updates in the cloud</source>
@@ -180,6 +176,14 @@
     <message>
         <source>Refresh</source>
         <translation>更新</translation>
+    </message>
+    <message>
+        <source>New version is available, Please Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available, Please Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -303,7 +307,7 @@
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation type="obsolete">オフィス・スペースの改善要望リンク</translation>
+        <translation type="unfinished">オフィス・スペースの改善要望リンク</translation>
     </message>
     <message>
         <source>link</source>
@@ -1134,7 +1138,7 @@ path:%3</source>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="obsolete">ローミング</translation>
+        <translation type="unfinished">ローミング</translation>
     </message>
     <message>
         <source>Clear Invalid Records</source>
@@ -1415,6 +1419,17 @@ path:%3</source>
     <message>
         <source>Prompt</source>
         <translation>ヒント</translation>
+    </message>
+</context>
+<context>
+    <name>KWebviewDialogImpl</name>
+    <message>
+        <source>Open Cloud</source>
+        <translation type="unfinished">クラウドから開く</translation>
+    </message>
+    <message>
+        <source>Save to Cloud</source>
+        <translation type="unfinished">クラウドに保存</translation>
     </message>
 </context>
 <context>
@@ -2460,6 +2475,17 @@ After expiration, some features will not work properly. Please renew now. </sour
     <message>
         <source>Prompt</source>
         <translation>ヒント</translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSUserGiftMenuCommand</name>
+    <message>
+        <source>New messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

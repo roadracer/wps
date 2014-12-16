@@ -253,6 +253,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>View what&apos;s new file</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Launch WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -367,6 +375,10 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <source>Repair completed!</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <translation>Réparation terminée !</translation>
+    </message>
+    <message>
+        <source>You are not using an administrator account. Some features are not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1254,6 +1266,58 @@ Chaque modèle a son style unique . Si vous voulez une interface innovante, vous
         <source>Equation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OpenAsReadOnly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Data Interchange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Document</source>
+        <translation type="unfinished">Microsoft Word 6.0 - 7.0 Document {97 ?} {2003 ?}</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 SlideShow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Template</source>
+        <translation type="unfinished">Microsoft PowerPoint 07 Modèle {97-2003 ?}</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1369,6 +1433,18 @@ Chaque modèle a son style unique . Si vous voulez une interface innovante, vous
         <source>IP Address is not valid!</source>
         <extracomment>ksomisc -&gt; advance -&gt; Update Settings -&gt; custom proxy -&gt; input a invalid ip addr</extracomment>
         <translation>L&apos;adresse IP n&apos;est pas valide.</translation>
+    </message>
+    <message>
+        <source>Software recommend：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The port must be a number between 1 and 65535.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -2603,6 +2603,15 @@ Please try one of the following.
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;WPS Office 已确认了一个潜在的安全问题。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;此演示文稿包含到其它文件的链接。&lt;/p&gt;&lt;p&gt;&amp;bull;如果您更新该链接， WPS演示将试图检索最新的信息。&lt;br&gt;&amp;bull;如果您不更新该链接， WPS演示将使用以前的信息。&lt;/p&gt;&lt;p&gt;注意，文件链接可用于访问和共享机密信息而不需要您的权限，并且可能执行其它有害操作。如果您不信任该演示文稿的源，请不要更新该链接。&lt;/p&gt;</translation>
     </message>
+    <message>
+        <source>WPS Presentation cannot save or create this file.
+Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
+(%s)</source>
+        <comment>WP_SAVE_PPT_FAILURE</comment>
+        <translation type="unfinished">WPS演示 无法保存或创建此文件。
+请确认：文件是否可写，是否正被其他用户编辑；磁盘未满或未被破坏。
+(%s)</translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppdata</name>
@@ -6722,6 +6731,11 @@ Layout</source>
         <translation type="obsolete">新建幻灯片母版</translation>
     </message>
     <message>
+        <source>Involved Template</source>
+        <comment>WpINVOLVEDTEMPLATE</comment>
+        <translation>本文模版</translation>
+    </message>
+    <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
         <comment>WP_TEMPLATEFILE</comment>
         <translation>常用文件(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</translation>
@@ -6761,6 +6775,13 @@ Check</source>
         <source>WPS Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
         <comment>WP_Cannot_InsertMovie</comment>
         <translation>金山演示无法从所选文件插入影片。请检查文件是否已损坏、路径和文件名是否正确，然后再试。</translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>WpMsgBackupToDef</comment>
+        <translation>在进行文件备份时发生错误！可能是由于您设置的备份目录没有写权限，请尝试更改备份目录。
+此次备份将保存到(%s)。</translation>
     </message>
 </context>
 </TS>

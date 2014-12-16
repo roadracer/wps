@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ru_RU">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>et_app</name>
     <message>
@@ -31,7 +32,7 @@
         <translation type="obsolete">Документ был заблокирован другим приложением.Хотите открыть его только для чтения?
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
@@ -45,7 +46,7 @@ Please try one of the following.
 • убедитесь, что файл имеет формат, поддерживаемый программой.
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
@@ -57,7 +58,7 @@ Please try one of the following.
 • запросите у создателя файла изменение уровня разрешений для доступа к файлу.
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
 •The current version of WPS Spreadsheets does not support this file&apos;s permission contorl level, please update to the latest version.
@@ -133,7 +134,7 @@ Please try one of the following.
         <source>The file &quot;%s&quot; you specified is unsupported format. Please click OK and specify another file type in the Save As dialog box.</source>
         <translation type="obsolete">Данный формат файла &quot;%s не поддерживается. Нажмите кнопку &quot;ОК&quot;, и выберите другой тип файла в диалоговом окне &quot;Сохранить как&quot;.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
 •Undo the previous operations and save it. 
 •Save it as text file. 
@@ -244,7 +245,7 @@ To open the second document with the same name, you can close the document that 
         <translation type="obsolete">Документ был заблокирован другим приложением.Хотите открыть его только для чтения?
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>There are links to other data sources in this workbook.
 
 •If you update the links, WPS Spreadsheets will try to get the latest data.
@@ -278,17 +279,17 @@ Note that data links can be used to access and share confidential information wi
         <source>The name you entered is invalid. When renaming a sheet, try one of the following:</source>
         <translation type="obsolete">Введено неверное имя. При переименовании листа попробуйте одно из следующих действий:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name you entered does not exceed 31 characters.</source>
         <translation type="obsolete">• Убедитесь, что введенное имя не превышает 31 символ.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name does not contain any of the following characters: : / ?\ * [ ]
 • The first or last character cannot be single quotes.</source>
         <translation type="obsolete">• Убедитесь, что имя не содержит любой из следующих символов: : / ?\ * [ ]
 • Первый или последний символ не может быть одинарными кавычками.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the worksheet name is not blank.</source>
         <translation type="obsolete">• Убедитесь, что имя листа не пустое.</translation>
     </message>
@@ -296,15 +297,15 @@ Note that data links can be used to access and share confidential information wi
         <source>The name you specified cannot be the same with that of  another sheet, a referenced object library or a workbook referenced by Visual Basic.</source>
         <translation type="obsolete">Нельзя присвоить листу имя, совпадающее с именем другого листа, библиотеки объектов или книги, на которую ссылается Visual Basic.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
         <translation type="obsolete">• Убедитесь, что введенное имя не превышает 218 символов.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; |.</source>
         <translation type="obsolete">• Убедитесь, что имя не содержит любой из следующих символов: \ * / : ? &quot;&lt; &gt; |.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the workbook name is not blank.</source>
         <translation type="obsolete">• Убедитесь, что имя книги не пустое.</translation>
     </message>
@@ -388,7 +389,7 @@ Note that data links can be used to access and share confidential information wi
         <source>No source references specified for consolidation.</source>
         <translation type="obsolete">Отсутствует источник ссылок, указанных для консолидации.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
 
 •Click a single cell, and then paste.
@@ -398,7 +399,7 @@ Note that data links can be used to access and share confidential information wi
 • щёлкните одну ячейку,и затем вставьте данные;
 • выделите прямоугольную область того же размера и формы, и затем вставьте данные.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The selection is invalid.
 There are several possible reasons:
 
@@ -550,7 +551,7 @@ Select a single region and then perform this command again.</source>
 </source>
         <translation type="obsolete">Некоторые формулы или имена в файле содержат пользовательские функции, которые не поддерживаются в WPS Spreadsheets, и пересчёт данных формул или имён может привести к неверным результатам.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Function(s) %s is/are used in %s 
 </source>
         <translation type="obsolete">• Функция(и) %s используется(ются) в %s</translation>
@@ -673,7 +674,7 @@ Please specify the right files.</source>
         <source>? (Press F8 to confirm.)</source>
         <translation type="obsolete">? (Нажмите F8 для подтверждения.)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>This file may contain these special features below, and they may be lost if you save it as other formats.
 
 • Extended formatting rule and style.
@@ -685,7 +686,7 @@ Please specify the right files.</source>
 • расширенный формат числа;
 • расширенный вложенный уровень формулы.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>There is a large amount of information in the Clipboard. Do you want to keep the information so as to paste it to other applications later?
 ·Press Yes to keep the information.
 ·Press No to delete the information so as to set free space.</source>
@@ -789,7 +790,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
 
 Чтобы сохранить изменения, нажмите кнопку &apos;&apos;ОК&apos;&apos;, и сохраните общую книгу с другим именем. Вы затем можете повторно открыть общую книгу и добавить изменения из копии книги, которую вы сохранили.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>This operation will remove the workbook from shared use. The revision record will be deleted, and other users who are editing this workbook will not be able to save their changes, even if you share this workbook again.
 
 Remove the workbook from shared use?
@@ -847,7 +848,7 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
         <source>Caution: You are attempting to save a shared workbook that is also protected with a password. Portions of the file that include the revision record will be encrypted. To ensure the security of the file, unshare the workbook or delete the revision record from the document. Do you want to save the file?</source>
         <translation type="obsolete">Внимание: вы пытаетесь сохранить общую книгу, защищённую паролем. Части файла, включающие запись исправлений, будут зашифрованы. Для обеспечения безопасности файла отмените общий доступ к книге или удалите запись исправлений из документа. Сохранить файл?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your modifications cannot be saved to “%s” owing to the share conflict. Please try to save it as another file.</source>
         <translation type="obsolete">Ваши изменения не могут быть сохранены в &quot;%s&quot; из-за противоречий общего доступа. Попробуйте сохранить файл с другим именем.</translation>
     </message>
@@ -856,7 +857,7 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
 Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and then try to open it with WPS Spreadsheets.</source>
         <translation type="obsolete">Вы пытаетесь открыть общую книгу Excel, которая периодически обновляется. WPS Spreadsheets не поддерживает этот формат. Пожалуйста, откройте файл в Microsoft Excel, выполните &quot;Сохранить&quot;, и попробуйте снова открыть его в WPS Spreadsheets.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
         <translation type="obsolete">Не удалось преобразовать &quot;%s&quot;, файл доступен только для чтения.</translation>
     </message>
@@ -916,7 +917,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <source>You cannot change part of an array.</source>
         <translation type="obsolete">Невозможно изменение части массива.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
 
 ·If you want the first row of the selection or list used as labels and not as data, click OK.
@@ -1539,7 +1540,7 @@ Value: </source>
         <source>Normal</source>
         <translation type="obsolete">Обычный</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Defined names or formulas in this workbook may display differrent values when they are recalculated in an earlier version of ET if they:
 
 ·Reference cells outside of the row and column limit of an earlier of Excel
@@ -1922,7 +1923,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>Документ был заблокирован другим приложением.Хотите открыть его только для чтения?
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
@@ -1937,7 +1938,7 @@ Please try one of the following.
 • убедитесь, что файл имеет формат, поддерживаемый программой.
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Spreadsheets cannot open this file, because the current user doesn&apos;t have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
@@ -1950,7 +1951,7 @@ Please try one of the following.
 • запросите у создателя файла изменение уровня разрешений для доступа к файлу.
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
 Please try one of the following.
 •The current version of WPS Spreadsheets does not support this file&apos;s permission control level, please update to the latest version.
@@ -2050,7 +2051,7 @@ Please try one of the following.
         <comment>TX_Cannot_Write_Unknown_File_Format</comment>
         <translation>Данный формат файла &quot;%s не поддерживается. Нажмите кнопку &quot;ОК&quot;, и выберите другой тип файла в диалоговом окне &quot;Сохранить как&quot;.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
 •Undo the previous operations and save it. 
 •Save it as text file. 
@@ -2192,7 +2193,7 @@ To open the second document with the same name, you can close the document that 
         <translation>Документ был заблокирован другим приложением.Хотите открыть его только для чтения?
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>There are links to other data sources in this workbook.
 
 •If you update the links, WPS Spreadsheets will try to get the latest data.
@@ -2200,7 +2201,7 @@ To open the second document with the same name, you can close the document that 
 
 Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
         <comment>TX_NeedToUpdateExternalDataLink</comment>
-        <translation>В этой книге есть ссылки на другие источники данных.
+        <translation type="obsolete">В этой книге есть ссылки на другие источники данных.
 
 • При обновлении ссылок WPS Spreadsheets будет пытаться получить самые последние данные.
 • Если вы не обновите ссылки, то WPS Spreadsheets будет использовать имеющиеся данные.
@@ -2232,19 +2233,19 @@ Note that data links can be used to access and share confidential information wi
         <comment>TX_RenameSheet_Error</comment>
         <translation>Введено неверное имя. При переименовании листа попробуйте одно из следующих действий:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name you entered does not exceed 31 characters.</source>
         <comment>TX_Confirm_Max_Length_SheetName</comment>
         <translation>• Убедитесь, что введенное имя не превышает 31 символ.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name does not contain any of the following characters: : / ?\ * [ ]
 • The first or last character cannot be single quotes.</source>
         <comment>TX_Confirm_Invalid_Char_In_SheetName</comment>
         <translation>• Убедитесь, что имя не содержит любой из следующих символов: : / ?\ * [ ]
 • Первый или последний символ не может быть одинарными кавычками.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the worksheet name is not blank.</source>
         <comment>TX_Confirm_Zero_Length_SheetName</comment>
         <translation>• Убедитесь, что имя листа не пустое.</translation>
@@ -2254,17 +2255,17 @@ Note that data links can be used to access and share confidential information wi
         <comment>TX_RenameSheet_Error2</comment>
         <translation>Нельзя присвоить листу имя, совпадающее с именем другого листа, библиотеки объектов или книги, на которую ссылается Visual Basic.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
         <comment>TX_Confirm_Max_Length_BookName</comment>
         <translation>• Убедитесь, что введенное имя не превышает 218 символов.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; |.</source>
         <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
         <translation>• Убедитесь, что имя не содержит любой из следующих символов: \ * / : ? &quot;&lt; &gt; |.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Make sure the workbook name is not blank.</source>
         <comment>TX_Confirm_Zero_Length_BookName</comment>
         <translation>• Убедитесь, что имя книги не пустое.</translation>
@@ -2384,7 +2385,7 @@ Note that data links can be used to access and share confidential information wi
         <comment>TX_ERROR_MERGECELLINSORT</comment>
         <translation>Объединённые ячейки не могут быть отсортированы.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
 • Click a single cell, and then paste.
 • Select a rectangle that&apos;s the same size and shape, and then paste.</source>
@@ -2393,7 +2394,7 @@ Note that data links can be used to access and share confidential information wi
 • щёлкните одну ячейку,и затем вставьте данные;
 • выделите прямоугольную область того же размера и формы, и затем вставьте данные.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The selection is invalid.
 There are several possible reasons:
 
@@ -2584,7 +2585,7 @@ If you are trying to open the file from your recently used file list on the File
         <comment>TX_Open_File_UnkCustomFunction_In_File</comment>
         <translation>Некоторые формулы или имена в файле содержат пользовательские функции, которые не поддерживаются в WPS Spreadsheets, и пересчёт данных формул или имён может привести к неверным результатам.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>• Function(s) %s is/are used in %s 
 </source>
         <comment>TX_Format_UnkFunctionInfo</comment>
@@ -2750,7 +2751,7 @@ Please specify the right files.</source>
         <comment>TX_SMART_TIPS_CONFIRM</comment>
         <translation>? (Нажмите F8 для подтверждения.)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>This file may contain these special features below, and they may be lost if you save it as other formats.
 
 • Extended formatting rule and style.
@@ -2901,7 +2902,7 @@ To preserve the unsaved work, click OK, and save the shared workbook with a diff
 
 Чтобы сохранить изменения, нажмите кнопку &apos;&apos;ОК&apos;&apos;, и сохраните общую книгу с другим именем. Вы затем можете повторно открыть общую книгу и добавить изменения из копии книги, которую вы сохранили.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>This operation will remove the workbook from shared use. The revision record will be deleted, and other users who are editing this workbook will not be able to save their changes, even if you share this workbook again.
 
 Remove the workbook from shared use?
@@ -2970,7 +2971,7 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
         <comment>TX_ShareWorkbook_MsgFileEncrypted</comment>
         <translation>Внимание: вы пытаетесь сохранить общую книгу, защищённую паролем. Части файла, включающие запись исправлений, будут зашифрованы. Для обеспечения безопасности файла отмените общий доступ к книге или удалите запись исправлений из документа. Сохранить файл?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your modifications cannot be saved to “%s” owing to the share conflict. Please try to save it as another file.</source>
         <comment>TX_ShareWorkbook_ShareConflict</comment>
         <translation>Ваши изменения не могут быть сохранены в &quot;%s&quot; из-за противоречий общего доступа. Попробуйте сохранить файл с другим именем.</translation>
@@ -2981,7 +2982,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <comment>TX_ShareWorkbook_WarnningTimedUpdate</comment>
         <translation>Вы пытаетесь открыть общую книгу Excel, которая периодически обновляется. WPS Spreadsheets не поддерживает этот формат. Пожалуйста, откройте файл в Microsoft Excel, выполните &quot;Сохранить&quot;, и попробуйте снова открыть его в WPS Spreadsheets.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
         <comment>TX_ShareWorkbook_TransformFailed</comment>
         <translation>Не удалось преобразовать &quot;%s&quot;, файл доступен только для чтения.</translation>
@@ -3076,7 +3077,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <comment>TX_ETDataFrom_ArraryFormula</comment>
         <translation>Невозможно изменение части массива.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
 
 ·If you want the first row of the selection or list used as labels and not as data, click OK.
@@ -3109,7 +3110,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <comment>TX_ETCalculateInfo_BeBreak</comment>
         <translation>Вычисление не завершено</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>“Filter”Mode</source>
         <comment>TX_FILTER_MODE</comment>
         <translation>Режим &quot;фильтрования&quot;</translation>
@@ -3841,7 +3842,7 @@ Continue without Undo?</source>
         <comment>TX_ERRORCHECK_REPAIR_TraceEmptyCell</comment>
         <translation>&amp;Трассировка пустых ячеек</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
 • To save it on the Clipboard so that you can paste it later, click Yes.
 • To delete it from the Clipboard and free memory, click No.</source>
@@ -4119,6 +4120,45 @@ Continue without Undo?</source>
         <comment>TX_ChangeAutoOutline</comment>
         <translation>Изменить существующую структуру документа?</translation>
     </message>
+    <message>
+        <source>The data not within the worksheet will be lost.
+If you want to continue importing the data can be accommodated, click &quot;OK&quot;</source>
+        <comment>TX_ImportText_Overflowed_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too much data returned by the query, can not be contained in a worksheet.
+
+To continue operating, and show as much data, click &quot;OK&quot;.
+To cancel the query, click &quot;Cancel&quot;.</source>
+        <comment>TX_ImportOtherData_Overflowed_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>macrosheet can not be save as xml, prn, dbf fileformat. please choose another format.</source>
+        <comment>TX_MacroSheet_CannotSave_As</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The query does not return data columns that can be used in WPS Spreadsheets.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Since the last one column contains data, WPS Spreadsheets can not insert columns. You will not get any data.</source>
+        <comment>TX_No_Available_Sheet_Columns</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
+        <comment>TX_BookReferencingByOther</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -4357,7 +4397,7 @@ Continue without Undo?</source>
         <comment>TX_Revision_Desc_ModifyDefinedName</comment>
         <translation>Переименован &apos;%s&apos;из&apos;%s&apos; в &apos;%s&apos;</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>（Showing all）</source>
         <comment>TX_Show_All_DateItems</comment>
         <translation>(показать все)</translation>
@@ -4392,7 +4432,7 @@ Continue without Undo?</source>
         <comment>TX_AutoFilter_And</comment>
         <translation>И</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>（Blank）</source>
         <comment>TX_AutoFilter_Blank</comment>
         <translation>(Пусто)</translation>
@@ -4510,7 +4550,7 @@ Value: </source>
         <comment>TX_DESC_NORMAL_STYLE_NAME</comment>
         <translation>Обычный</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
 
 ·Reference cells outside of the row and column limit of an earlier of WPS Spreadsheets
@@ -5192,7 +5232,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation>Все файлы(*.*)|*.*|Все источники данных(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Базы данных Access(*.mdb,*.accdb)|*.mdb;*.accdb|База данных FoxPro(*.dbc)|*.dbc|Файлы DBase(*.dbf)|*.dbf|Файлы Excel(*.xls)|*.xls|Файлы WPS Spreadsheets(*.et)|*.et|Файлы CSV(*.csv)|*.csv|Текстовые файлы(*.txt)|*.txt|Соединения базы данных Office(*.odc)|*.odc|Ссылки Microsoft Data(*.udl)|*.udl|Файлы DSN для файлов ODBC(*.dsn)|*.dsn|Файл запросов(*.dqy)|*.dqy||</translation>
+        <translation type="obsolete">Все файлы(*.*)|*.*|Все источники данных(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Базы данных Access(*.mdb,*.accdb)|*.mdb;*.accdb|База данных FoxPro(*.dbc)|*.dbc|Файлы DBase(*.dbf)|*.dbf|Файлы Excel(*.xls)|*.xls|Файлы WPS Spreadsheets(*.et)|*.et|Файлы CSV(*.csv)|*.csv|Текстовые файлы(*.txt)|*.txt|Соединения базы данных Office(*.odc)|*.odc|Ссылки Microsoft Data(*.udl)|*.udl|Файлы DSN для файлов ODBC(*.dsn)|*.dsn|Файл запросов(*.dqy)|*.dqy||</translation>
     </message>
     <message>
         <source>Connection</source>
@@ -5223,6 +5263,26 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
         <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
         <translation>Не удается открыть файл, так как указан слишком длинный путь к файлу. Переименуйте файл так, чтобы путь к нему стал короче 256 знаков.</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Running background query...(Click here to cancel)</source>
+        <comment>TX_ETDBE_STR_BACKGROUND_QUERY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This action will cancel a pending Refresh Data command. Continue?</source>
+        <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:Getting Data ...</source>
+        <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6235,7 +6295,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>GAMMALN_SYNTAX</comment>
         <translation>ГАММАНЛОГ(x)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns the natural logarithm of the gamma function,Γ(x).</source>
         <comment>GAMMALN_DESCRIPTION</comment>
         <translation>Возвращает натуральный логарифм гамма-функции - G(x).</translation>
@@ -6500,7 +6560,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the rank of a number in a list of numbers.</source>
         <comment>RANK_REMARK</comment>
-        <translation>Возвращает ранг числа в списке чисел. Ранг числа — это его величина относительно других значений в списке. (Если нужно отсортировать список, то ранг числа будет его позицией.)</translation>
+        <translation type="obsolete">Возвращает ранг числа в списке чисел. Ранг числа — это его величина относительно других значений в списке. (Если нужно отсортировать список, то ранг числа будет его позицией.)</translation>
     </message>
     <message>
         <source>PROB(x_range,prob_range,lower_limit,upper_limit)</source>
@@ -6772,7 +6832,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>WEIBULL_DESCRIPTION</comment>
         <translation>Возвращает распределение Вейбулла. Это распределение используется при анализе надежности, например для вычисления среднего времени наработки на отказ какого-либо устройства.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>ZTEST(array,μ0,sigma)</source>
         <comment>ZTEST_SYNTAX</comment>
         <translation>ZТЕСТ(массив,µ0,сигма)</translation>
@@ -7739,7 +7799,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>GESTEP_GRAMMER</comment>
         <translation>ПОРОГ(число,порог)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns 1 if number ≥ step and 0 (zero) otherwise. </source>
         <comment>GESTEP_REMARK</comment>
         <translation>Возвращает значение 1, если аргумент число больше или равен значению порога; в противном случае возвращает 0. Эта функция используется для фильтрации набора значений. </translation>
@@ -7789,7 +7849,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>IMARGUMENT_GRAMMER</comment>
         <translation>МНИМ.АРГУМЕНТ(компл_число)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns the argument θ(theta), which is an angle expressed in radians.</source>
         <comment>IMARGUMENT_REMARK</comment>
         <translation>Возвращает аргумент  (тета), т. е. угол, выраженный в радианах.</translation>
@@ -8392,7 +8452,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>SUMIFS_DESCRIPTION</comment>
         <translation>Суммирует ячейки в диапазоне, удовлетворяющие нескольким условиям.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2],…)</source>
         <comment>COUNTIFS_SYNTAX</comment>
         <translation>СЧЁТЕСЛИМН(диапазон1,условие1,
@@ -8414,7 +8474,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>AVERAGEIF_DESCRIPTION</comment>
         <translation>Возвращает среднее значение (среднее арифметическое) всех ячеек в диапазоне, удовлетворяющих заданному условию.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
         <comment>AVERAGEIFS_SYNTAX</comment>
         <translation>СРЗНАЧЕСЛИМН(диап_усреднения,диап_условия1,
@@ -8452,7 +8512,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>PRICE_DESCRIPTION</comment>
         <translation>Возвращает цену за 100 рублей номинальной стоимости ценных бумаг, по которым выплачивается периодический процент.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>GETPIVOTDATA(data_field, pivot_table, field, item,…)</source>
         <comment>GETPIVOTDATA_SYNTAX</comment>
         <translation>ПОЛУЧИТЬ.ДАННЫЕ.СВОДНОЙ.ТАБЛИЦЫ
@@ -9045,6 +9105,46 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>CALL_DESCRIPTION</comment>
         <translation>Вызывает процедуру из библиотеки динамической компоновки (DLL) или кодового ресурса.</translation>
     </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list.</source>
+        <comment>RANK_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RANK.AVG(number,ref,order)</source>
+        <comment>RANKAVG_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
+        <comment>RANKAVG_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RANK.EQ(number,ref,order)</source>
+        <comment>RANKEQ_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
+        <comment>RANKEQ_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
+        <comment>VOLATILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the yields of regular payment securities.</source>
+        <comment>VOLATILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILES(directory_text)</source>
+        <comment>FILES_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_persist</name>
@@ -9076,7 +9176,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx)</source>
         <comment>TX_ssDesc_Normal_</comment>
-        <translation>Общие файлы(*.et; *.ett; *.xls; *.xlt; *.xlsx)</translation>
+        <translation type="obsolete">Общие файлы(*.et; *.ett; *.xls; *.xlt; *.xlsx)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et; *.ett)</source>
@@ -9128,7 +9228,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_ssDesc_Utf_</comment>
         <translation>Текст в кодировке Unicode(*.txt)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The selected file type does not support workbooks that contain multiple sheets.
 
 ·To save only the active sheet, click OK. 
@@ -9139,7 +9239,7 @@ Notice: if the second operand queries the number as text, single quotes should b
 • если вы хотите сохранить только выделенный лист, нажмите кнопку &quot;ОК&quot;;
 • если вы хотите сохранить все листы, сохраните их по отдельности, присвоив им разные имена, или выберите тип файла, который поддерживает книги, содержащие несколько листов.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The file you are trying to save may contain features that are not compatible with current file format. Do you want to keep the workbook in this format?
 
 ·To keep this format, which leaves out any incompatible features, click Yes. 
@@ -9216,7 +9316,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation>
 Продолжить сохранение в виде электронной таблицы XML?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · AutoShapes, other objects or charts
 </source>
         <comment>TX_Save_Xml_Warning_Shape</comment>
@@ -9232,7 +9332,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Save_Xml_Warning_SheetProt</comment>
         <translation>Лист в книге, которую вы пытаетесь сохранить, защищён паролем. Листы, защищённые паролем, не могут быть сохранены в таблице XML. Чтобы сохранить файл как таблицу XML, необходимо сначала удалить пароль.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Refer to external sheet
 </source>
         <comment>TX_Save_Xml_Warning_Supbook</comment>
@@ -9264,7 +9364,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Save_Html_Warning_SheetProt</comment>
         <translation>Лист в книге, которую вы пытаетесь сохранить, защищён паролем. Листы, защищённые паролем, не могут быть сохранены в таблице HTML. Чтобы сохранить файл как таблицу HTML, необходимо сначала удалить пароль.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · File Encryption
 </source>
         <comment>TX_Save_Html_Warning_Password</comment>
@@ -9275,25 +9375,25 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Save_Html_Warning_UserRange</comment>
         <translation>.Разрешения на уровне диапазонов</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Macro
 </source>
         <comment>TX_Save_Html_Warning_VBA</comment>
         <translation> · Макрос</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · PivotTable
 </source>
         <comment>TX_Save_Html_Warning_Pivot</comment>
         <translation> · Сводная таблица</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Import Data
 </source>
         <comment>TX_Save_Html_Warning_QueryTable</comment>
         <translation> · Импорт данных</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Multiple Windows
 </source>
         <comment>TX_Save_Html_Warning_MultiWindow</comment>
@@ -9305,19 +9405,19 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_Save_Html_Warning_FileNameTooLong</comment>
         <translation>Проверьте имя файла, которое с расширением и именем пути не должно быть длиннее 186 символов.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Comment
 </source>
         <comment>TX_Save_Html_Warning_Comment</comment>
         <translation> · Примечание</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Protect Workbook
 </source>
         <comment>TX_Save_Html_Warning_BookProtOperate</comment>
         <translation> · Защитить книгу</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Protect Worksheet
 </source>
         <comment>TX_Save_Html_Warning_SheetProtOperate</comment>
@@ -9341,7 +9441,7 @@ Notice: if the second operand queries the number as text, single quotes should b
 .To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 .To continue saving as a macro-disabled workbook, click Yes.</source>
         <comment>TX_Save_Xlsx_Warning_Macro</comment>
-        <translation>Невозможно сохранить следующие функции в книге с запретом макросов: 
+        <translation type="obsolete">Невозможно сохранить следующие функции в книге с запретом макросов: 
  проект Visual Basic.
  Если вы хотите сохранить файл с его характеристиками, нажмите &quot;Нет&quot;, и выберите тип с поддержкой макросов в списке &quot;Типы файлов&quot;;
  Если хотите сохранить его в формате книги без поддержки макросов, нажмите &quot;OK&quot;.</translation>
@@ -9356,7 +9456,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_ssDesc_Xlsx_Open</comment>
         <translation>Файлы Microsoft Excel 2007/2010(*.xlsx)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>A formula or sheet you want to move or copy contains the name &apos;%s&apos;,which already exists on the destination worksheet.Do you want to use this version of the name?
 
 ·To use the name as defined in the destination sheet,click Yes.
@@ -9367,7 +9467,7 @@ Notice: if the second operand queries the number as text, single quotes should b
  Чтобы использовать это имя, нажмите кнопку &apos;&apos;Да&apos;&apos;.
  Чтобы переименовать диапазон, на который ссылается формула или лист, нажмите кнопку &apos;&apos;Нет&apos;&apos; и введите новое имя в диалоговом окне &apos;&apos;Конфликт имен&apos;&apos;.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>A formula you want to move or copy contains the name %s which conflicts with a valid range reference or a name used internally by WPS Spreadsheets,and must be modified.
 
 ·To use the name %s,click Yes.
@@ -9378,7 +9478,7 @@ Notice: if the second operand queries the number as text, single quotes should b
  Чтобы воспользоваться именем %s, нажмите кнопку &quot;Да&quot;.
  Чтобы выбрать другое имя, нажмите кнопку &quot;Нет&quot;, а затем введите новое имя в диалоговом окне &quot;Конфликт имен&quot;.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code:0x%08X). Please contact the provider of this anti-virus program. 
 Do you still want to open this file?
 
@@ -9415,7 +9515,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Query Files(*.iqy)</source>
         <comment>TX_ssDesc_Iqy_</comment>
-        <translation type="obsolete">Файлы запросов(*.iqy)</translation>
+        <translation type="unfinished">Файлы запросов(*.iqy)</translation>
     </message>
     <message>
         <source>Access Databases(*.mdb;*.accdb)</source>
@@ -9457,6 +9557,47 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <comment>TX_ssDesc_DataSrcFile_</comment>
         <translation>Все источники данных(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
     </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-disabled workbooks:
+</source>
+        <comment>TX_Save_Xlsx_Warning_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-disabled workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> · VB project
+</source>
+        <comment>TX_Save_Xlsx_Warning_VBA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> · Excel 4.0 function stored in defined names.
+</source>
+        <comment>TX_Save_Xlsx_Warning_MacroNames</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> · Excel 4.0 Macro Sheets(these will be converted to normal worksheets)
+</source>
+        <comment>TX_Save_Xlsx_Warning_MacroSheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>TX_Persist_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_render</name>
@@ -9475,7 +9616,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <comment>TX_PDFCOMMENT_TITLE</comment>
         <translation>Примечание</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</source>
         <comment>TX_ROTARCHAR</comment>
         <translation></translation>
@@ -9681,7 +9822,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
 • щёлкните одну ячейку,и затем вставьте данные;
 • выделите прямоугольную область того же размера и формы, и затем вставьте данные.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The selection is invalid.
 There are several possible reasons:
 
@@ -9742,7 +9883,7 @@ There are several possible reasons:
         <comment>TX_ZoomBox_Value_Invalid_ET</comment>
         <translation>Число должно быть в диапазоне между 10 и 400. Введите число в пределах этого диапазона и повторите попытку.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The formula you typed contains errors. WPS Spreadsheets will automatically correct it as: 
 &apos;%s
 •If you want to accept the correction, click OK.
@@ -9762,7 +9903,7 @@ If you do not wish to use a formula, insert a single quotation mark before your 
         <translation>Введена ошибочная формула. 
 Если вы не хотите использовать формулу, добавьте одинарную кавычку перед текстом.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
 &apos;%s
 • To accept the correction, click Yes.
@@ -10215,7 +10356,7 @@ Continue ?</source>
         <comment>TX_SETCELLSCAPTION</comment>
         <translation>Ячейки</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
 
 •If you do not want to  create the circular reference, click OK, and correct the formula.
@@ -10916,7 +11057,7 @@ Continue ?</source>
         <comment>TX_ParaInfo_135</comment>
         <translation>Известное стандартное отклонение</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>μ0</source>
         <comment>TX_ParaInfo_136</comment>
         <translation></translation>
@@ -11688,7 +11829,7 @@ Check</source>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
-        <translation>логич_значение1, логич_значение2, ...- от 1 до 30 условий, которые вы хотите проверить, которые могут принимать значения ИСТИНА или ЛОЖЬ и могут быть логическими значениями, массивами или ссылками.</translation>
+        <translation type="obsolete">логич_значение1, логич_значение2, ...- от 1 до 30 условий, которые вы хотите проверить, которые могут принимать значения ИСТИНА или ЛОЖЬ и могут быть логическими значениями, массивами или ссылками.</translation>
     </message>
     <message>
         <source>is a reference to a cell or range of cells and can refer to multiple areas.</source>
@@ -11733,17 +11874,17 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation>число1, число2, ... - от 1 до 30 числовых аргументов, для которых вычисляется среднее абсолютных отклонений.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 числовых аргументов, для которых вычисляется среднее абсолютных отклонений.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation>число1, число2, ... - от 1 до 30 числовых аргументов, для которых вычисляется среднее.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 числовых аргументов, для которых вычисляется среднее.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
-        <translation>значение1, значение2, ... - от 1 до 30 аргументов, для которых вычисляется среднее.</translation>
+        <translation type="obsolete">значение1, значение2, ... - от 1 до 30 аргументов, для которых вычисляется среднее.</translation>
     </message>
     <message>
         <source>the numbers you want to convert.</source>
@@ -11863,7 +12004,7 @@ Check</source>
     <message>
         <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
-        <translation>значение 1, значение 2, ... - числа от 1 до 29, ссылки на ячейки, определенные имена, формулы, функции или текстовые аргументы, выделенные функцией ВЫБРАТЬ.</translation>
+        <translation type="obsolete">значение 1, значение 2, ... - числа от 1 до 29, ссылки на ячейки, определенные имена, формулы, функции или текстовые аргументы, выделенные функцией ВЫБРАТЬ.</translation>
     </message>
     <message>
         <source>is any worksheet information from which you want to remove nonprintable characters.</source>
@@ -11898,7 +12039,7 @@ Check</source>
     <message>
         <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
-        <translation>текст1, текст2, ...  - от 1 до 30 строк текста, соединяемых в одну текстовую строку, и могут быть текстовыми строками, числами или ссылками на одиночные ячейки.</translation>
+        <translation type="obsolete">текст1, текст2, ...  - от 1 до 30 строк текста, соединяемых в одну текстовую строку, и могут быть текстовыми строками, числами или ссылками на одиночные ячейки.</translation>
     </message>
     <message>
         <source>is the significance level used to compute the confidence level, a number greater than 0 and less than 10.</source>
@@ -11938,12 +12079,12 @@ Check</source>
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
-        <translation>значение1, значение2, ... - от 1 до 30 аргументов, которые могут содержать или ссылаться на различные типы данных, но с учётом только чисел.</translation>
+        <translation type="obsolete">значение1, значение2, ... - от 1 до 30 аргументов, которые могут содержать или ссылаться на различные типы данных, но с учётом только чисел.</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
-        <translation>значение1,значение2,..от 1 до 30 аргументов любого типа, количество которых требуется определить.</translation>
+        <translation type="obsolete">значение1,значение2,..от 1 до 30 аргументов любого типа, количество которых требуется определить.</translation>
     </message>
     <message>
         <source>is the range from which you want to count the empty cells.</source>
@@ -12113,7 +12254,7 @@ Check</source>
     <message>
         <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
-        <translation>число1, число2, ... - от 1 до 30 числовых аргументов, массивов или ссылок на массивы, для которых вычисляется сумма квадратов отклонений.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 числовых аргументов, массивов или ссылок на массивы, для которых вычисляется сумма квадратов отклонений.</translation>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
@@ -12338,7 +12479,7 @@ Check</source>
     <message>
         <source>is the interest rate per period. For example, use 6%4 for quarterly payment at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
-        <translation>процентная ставка за период. Например, при годовой процентной ставке в 6% используйте для квартальной процентной ставки значение 6%/4.</translation>
+        <translation type="obsolete">процентная ставка за период. Например, при годовой процентной ставке в 6% используйте для квартальной процентной ставки значение 6%/4.</translation>
     </message>
     <message>
         <source>is the total number of payment periods in the investment.</source>
@@ -12403,12 +12544,12 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 values.</source>
         <comment>TX_ParaDesc_152</comment>
-        <translation>число1, число2, ... - от 1 до 30 значений.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 значений.</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется среднее.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется среднее.</translation>
     </message>
     <message>
         <source>is the set of y-values you already know in the relationship y=b*m^x, an array or range of positive numbers.</source>
@@ -12443,7 +12584,7 @@ Check</source>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется среднее гармоническое.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется среднее гармоническое.</translation>
     </message>
     <message>
         <source>is the value to be found in the first row of the table and can be a value, a reference, or a text string.</source>
@@ -12658,7 +12799,7 @@ Check</source>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется эксцесс.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется эксцесс.</translation>
     </message>
     <message>
         <source>is the array or range of data for which you want to determine the k-th largest value.</source>
@@ -12668,7 +12809,7 @@ Check</source>
     <message>
         <source>number1,number2,... are 1 to 255 values for which you want the least common multiple.</source>
         <comment>TX_ParaDesc_205</comment>
-        <translation>число1, число2, ... - от 1 до 255 значений, для которых определяется наименьшее общее кратное.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 255 значений, для которых определяется наименьшее общее кратное.</translation>
     </message>
     <message>
         <source>is the text string containing the characters you want to extract.</source>
@@ -12813,12 +12954,12 @@ Check</source>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется максимальное.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется максимальное.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
-        <translation>значение1, значение2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется максимальное.</translation>
+        <translation type="obsolete">значение1, значение2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется максимальное.</translation>
     </message>
     <message>
         <source>is a numeric array with an equal number of rows and columns, either a cell range or an array constant.</source>
@@ -12828,7 +12969,7 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых определяется медиана.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых определяется медиана.</translation>
     </message>
     <message>
         <source>is the text string from which you want to extract the characters.</source>
@@ -12863,12 +13004,12 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется наименьшее.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется наименьшее.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
-        <translation>значение1, значение2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется наименьшее.</translation>
+        <translation type="obsolete">значение1, значение2, ... - от 1 до 30 чисел, пустых ячеек, логических или текстовых значений, среди которых определяется наименьшее.</translation>
     </message>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
@@ -12913,7 +13054,7 @@ Check</source>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется моду.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется моду.</translation>
     </message>
     <message>
         <source>is number in the date-time code used by WPS Spreadsheets.</source>
@@ -13013,7 +13154,7 @@ Check</source>
     <message>
         <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
         <comment>TX_ParaDesc_274</comment>
-        <translation>значение 1, значение 2, ... от 1 до 29 платежей и доходов, равномерно распределенных во времени и производимых в конце каждого периода.</translation>
+        <translation type="obsolete">значение 1, значение 2, ... от 1 до 29 платежей и доходов, равномерно распределенных во времени и производимых в конце каждого периода.</translation>
     </message>
     <message>
         <source>is the value to round.</source>
@@ -13048,7 +13189,7 @@ Check</source>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
         <comment>TX_ParaDesc_281</comment>
-        <translation>логич_значение1, логич_значение2, ...- от 1 до 30 условий, которые вы хотите проверить, которые могут принимать значения ИСТИНА или ЛОЖЬ.</translation>
+        <translation type="obsolete">логич_значение1, логич_значение2, ...- от 1 до 30 условий, которые вы хотите проверить, которые могут принимать значения ИСТИНА или ЛОЖЬ.</translation>
     </message>
     <message>
         <source>is a set of independent values.</source>
@@ -13178,7 +13319,7 @@ Check</source>
     <message>
         <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, логических или текстовых значений, которые надо перемножить.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, логических или текстовых значений, которые надо перемножить.</translation>
     </message>
     <message>
         <source>is text enclosed in quotation marks, a formula that returns text, or a reference to a cell containing text to partially capitalize.</source>
@@ -13398,7 +13539,7 @@ Check</source>
     <message>
         <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
-        <translation>элемент1, элемент2, ... от 1 до 28 параметров, которые определяют часть данных.</translation>
+        <translation type="obsolete">элемент1, элемент2, ... от 1 до 28 параметров, которые определяют часть данных.</translation>
     </message>
     <message>
         <source>is the text you want to find. You can use the ? and * wildcard characters; use ~? and ~* to find the ? and * characters.</source>
@@ -13443,7 +13584,7 @@ Check</source>
     <message>
         <source>number 1,number 2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется асимметричность.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется асимметричность.</translation>
     </message>
     <message>
         <source>is a logical value: payment at the beginning of the period =1; payment at the end of the period =0 or omitted.</source>
@@ -13503,22 +13644,22 @@ Check</source>
     <message>
         <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
-        <translation>число1, число2, ...  - от 1 до 30 чисел, составляющих выборку из генеральной совокупности; допускаются числовые значения и ссылки на числовые значения.</translation>
+        <translation type="obsolete">число1, число2, ...  - от 1 до 30 чисел, составляющих выборку из генеральной совокупности; допускаются числовые значения и ссылки на числовые значения.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
-        <translation>значение1, значение2, ...  - от 1 до 30 значений, составляющих выборку из генеральной совокупности; допускаются числовые значения и ссылки на числовые значения.</translation>
+        <translation type="obsolete">значение1, значение2, ...  - от 1 до 30 значений, составляющих выборку из генеральной совокупности; допускаются числовые значения и ссылки на числовые значения.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
-        <translation>число1, число2, ...  - от 1 до 30 чисел, составляющих генеральную совокупность; допускаются числовые значения и ссылки на числовые значения.</translation>
+        <translation type="obsolete">число1, число2, ...  - от 1 до 30 чисел, составляющих генеральную совокупность; допускаются числовые значения и ссылки на числовые значения.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
-        <translation>значение1, значение2,...  - от 1 до 30 значений, составляющих генеральную совокупность; допускаются числовые значения и ссылки на числовые значения.</translation>
+        <translation type="obsolete">значение1, значение2,...  - от 1 до 30 значений, составляющих генеральную совокупность; допускаются числовые значения и ссылки на числовые значения.</translation>
     </message>
     <message>
         <source>is the text or the reference to a cell containing text in which you want to substitute characters.</source>
@@ -13548,12 +13689,12 @@ Check</source>
     <message>
         <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
-        <translation>ссылка 1, ссылка 2, ... от 1 до 29 диапазонов или ссылок, для которых требуется вычислить промежуточные итоги.</translation>
+        <translation type="obsolete">ссылка 1, ссылка 2, ... от 1 до 29 диапазонов или ссылок, для которых требуется вычислить промежуточные итоги.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
         <comment>TX_ParaDesc_382</comment>
-        <translation>число1, число2, ... от 1 до 30 аргументов, которые суммируются. Логические значения и текст в ячейках пропускаются.</translation>
+        <translation type="obsolete">число1, число2, ... от 1 до 30 аргументов, которые суммируются. Логические значения и текст в ячейках пропускаются.</translation>
     </message>
     <message>
         <source>is the range of cells you want evaluated.</source>
@@ -13573,12 +13714,12 @@ Check</source>
     <message>
         <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
         <comment>TX_ParaDesc_386</comment>
-        <translation>массив1,массив2,... - от 1 до 30 массивов, соответствующие компоненты которых нужно сначала перемножить, а затем сложить полученные произведения. Все массивы должны иметь одинаковую размерность.</translation>
+        <translation type="obsolete">массив1,массив2,... - от 1 до 30 массивов, соответствующие компоненты которых нужно сначала перемножить, а затем сложить полученные произведения. Все массивы должны иметь одинаковую размерность.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
-        <translation>число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется сумма квадратов.</translation>
+        <translation type="obsolete">число1, число2, ... - от 1 до 30 чисел, имен, массивов или ссылок, содержащих числа, для которых вычисляется сумма квадратов.</translation>
     </message>
     <message>
         <source>is the first range or array of numbers and be a number or name, array, or reference that contains numbers.</source>
@@ -13758,22 +13899,22 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_423</comment>
-        <translation>число1, число2, ...  - от 1 до 30 чисел, составляющих выборку генеральной совокупности.</translation>
+        <translation type="obsolete">число1, число2, ...  - от 1 до 30 чисел, составляющих выборку генеральной совокупности.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
-        <translation>значение1, значение2, ...  - от 1 до 30 значений аргументов, составляющих выборку генеральной совокупности.</translation>
+        <translation type="obsolete">значение1, значение2, ...  - от 1 до 30 значений аргументов, составляющих выборку генеральной совокупности.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
-        <translation>число1, число2, ...  - от 1 до 30 численных аргументов, составляющих генеральную совокупность.</translation>
+        <translation type="obsolete">число1, число2, ...  - от 1 до 30 численных аргументов, составляющих генеральную совокупность.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
-        <translation>число1, число2, ...  - от 1 до 30 численных аргументов, составляющих генеральную совокупность.</translation>
+        <translation type="obsolete">число1, число2, ...  - от 1 до 30 численных аргументов, составляющих генеральную совокупность.</translation>
     </message>
     <message>
         <source>is the starting period for which you want to calculate the depreciation. Period must use the same units as life.</source>
@@ -14093,7 +14234,7 @@ Check</source>
     <message>
         <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
-        <translation>число1, число2, ... от 1 до 255 значений, для которых определяется отношение факториала суммы значений к произведению факториалов.</translation>
+        <translation type="obsolete">число1, число2, ... от 1 до 255 значений, для которых определяется отношение факториала суммы значений к произведению факториалов.</translation>
     </message>
     <message>
         <source>is the smallest integer RANDBETWEEN will return.</source>
@@ -14405,7 +14546,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
-        <translation>значение 1, значение 2, ... от 1 до 30 из множественных чисел, используемых для вычисления произведения.</translation>
+        <translation type="obsolete">значение 1, значение 2, ... от 1 до 30 из множественных чисел, используемых для вычисления произведения.</translation>
     </message>
     <message>
         <source>Calculate the plural of its real coefficient</source>
@@ -14958,7 +15099,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaInfo_546</comment>
-        <translation>имя (ProgID) зарегистрированной надстройки автоматизации COM. Заключите имя в кавычки.</translation>
+        <translation type="obsolete">имя (ProgID) зарегистрированной надстройки автоматизации COM. Заключите имя в кавычки.</translation>
     </message>
     <message>
         <source>Server</source>
@@ -14968,7 +15109,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaInfo_547</comment>
-        <translation>имя сервера, на котором должна быть запущена надстройка (Add-In). Заключите имя в кавычки. Если надстройка запускается локально, укажите пустую строку.</translation>
+        <translation type="obsolete">имя сервера, на котором должна быть запущена надстройка (Add-In). Заключите имя в кавычки. Если надстройка запускается локально, укажите пустую строку.</translation>
     </message>
     <message>
         <source>Topic</source>
@@ -14983,7 +15124,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaInfo_548</comment>
-        <translation>элемент1, элемент2, ... от 1 до 38 параметров, которые определяют часть данных.</translation>
+        <translation type="obsolete">элемент1, элемент2, ... от 1 до 38 параметров, которые определяют часть данных.</translation>
     </message>
     <message>
         <source>Message_text</source>
@@ -15339,6 +15480,226 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <source>Argument</source>
         <comment>TX_ParaInfo_350</comment>
         <translation>Аргумент</translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
+        <comment>TX_ParaDesc_009</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
+        <comment>TX_ParaDesc_018</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_019</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_020</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
+        <comment>TX_ParaDesc_044</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
+        <comment>TX_ParaDesc_051</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
+        <comment>TX_ParaDesc_059</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1 value2%1... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
+        <comment>TX_ParaDesc_060</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
+        <comment>TX_ParaDesc_094</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
+        <comment>TX_ParaDesc_139</comment>
+        <translation type="unfinished">процентная ставка за период. Например, при годовой процентной ставке в 6% используйте для квартальной процентной ставки значение 6%/4. {6%/4 ?} {6%?}</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 values.</source>
+        <comment>TX_ParaDesc_152</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
+        <comment>TX_ParaDesc_153</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
+        <comment>TX_ParaDesc_160</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
+        <comment>TX_ParaDesc_203</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 255 values for which you want the least common multiple.</source>
+        <comment>TX_ParaDesc_205</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_234</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_235</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
+        <comment>TX_ParaDesc_237</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_244</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_245</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
+        <comment>TX_ParaDesc_254</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
+        <comment>TX_ParaDesc_274</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
+        <comment>TX_ParaDesc_281</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
+        <comment>TX_ParaDesc_307</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_351</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
+        <comment>TX_ParaDesc_360</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_372</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
+        <comment>TX_ParaDesc_373</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_374</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
+        <comment>TX_ParaDesc_375</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
+        <comment>TX_ParaDesc_381</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
+        <comment>TX_ParaDesc_382</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
+        <comment>TX_ParaDesc_386</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
+        <comment>TX_ParaDesc_387</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_424</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_425</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_426</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
+        <comment>TX_ParaDesc_476</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value 1%1value 2%1...1 to 30 of plural numbers, used to calculate the product.</source>
+        <comment>TX_ParaDesc_522</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaDesc_546</comment>
+        <translation type="unfinished">имя (ProgID) зарегистрированной надстройки автоматизации COM. Заключите имя в кавычки.</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaDesc_547</comment>
+        <translation type="unfinished">имя сервера, на котором должна быть запущена надстройка (Add-In). Заключите имя в кавычки. Если надстройка запускается локально, укажите пустую строку.</translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_548</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directory_text</source>
+        <comment>TX_ParaInfo_351</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17678,7 +18039,7 @@ the category you want, and then choose the other options.</source>
         <comment>et_sGraphic</comment>
         <translation>Изображение</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Only one picture can be inserted in each section of the %s.
 
 ·To replace existing picture, click OK.
@@ -18674,7 +19035,7 @@ tically, only keep one row.
         <source>GAMMALN(x)</source>
         <translation type="obsolete">ГАММАНЛОГ(x)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns the natural logarithm of the gamma function,Γ(x).</source>
         <translation type="obsolete">Возвращает натуральный логарифм гамма-функции - G(x).</translation>
     </message>
@@ -19092,7 +19453,7 @@ tically, only keep one row.
         <source>Returns the Weibull distribution. Use this function in reliability analysis, such as calculating a device&apos;s mean time to failure.</source>
         <translation type="obsolete">Возвращает распределение Вейбулла. Это распределение используется при анализе надежности, например для вычисления среднего времени наработки на отказ какого-либо устройства.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>ZTEST(array,μ0,sigma)</source>
         <translation type="obsolete">ZТЕСТ(массив,µ0,сигма)</translation>
     </message>
@@ -19876,7 +20237,7 @@ tically, only keep one row.
         <source>GESTEP(number,step)</source>
         <translation type="obsolete">ПОРОГ(число,порог)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns 1 if number ≥ step and 0 (zero) otherwise. </source>
         <translation type="obsolete">Возвращает значение 1, если аргумент число больше или равен значению порога; в противном случае возвращает 0. Эта функция используется для фильтрации набора значений. </translation>
     </message>
@@ -19916,7 +20277,7 @@ tically, only keep one row.
         <source>IMARGUMENT(inumber)</source>
         <translation type="obsolete">МНИМ.АРГУМЕНТ(компл_число)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Returns the argument θ(theta), which is an angle expressed in radians.</source>
         <translation type="obsolete">Возвращает аргумент  (тета), т. е. угол, выраженный в радианах.</translation>
     </message>
@@ -20400,7 +20761,7 @@ tically, only keep one row.
         <source>Adds the cells specified by a given set of conditions or criteria.</source>
         <translation type="obsolete">Суммирует ячейки в диапазоне, удовлетворяющие нескольким условиям.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2],…)</source>
         <translation type="obsolete">СЧЁТЕСЛИМН(диапазон1,условие1,
 диапазон2,условие2,...)</translation>
@@ -20418,7 +20779,7 @@ tically, only keep one row.
         <source>Finds average (arithmetic mean) for the cells specified by a given condition or criteria.</source>
         <translation type="obsolete">Возвращает среднее значение (среднее арифметическое) всех ячеек в диапазоне, удовлетворяющих заданному условию.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
         <translation type="obsolete">СРЗНАЧЕСЛИМН(диап_усреднения,диап_условия1,
 условие1,диап_условия2,условие2,…)</translation>
@@ -20520,7 +20881,7 @@ tically, only keep one row.
         <source>Unicode Text(*.txt)</source>
         <translation type="obsolete">Текст в кодировке Unicode(*.txt)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The file type you selected does not support workbooks that contain multiple worksheets.
 
 •If you only want to save the active sheet, click OK.
@@ -20530,7 +20891,7 @@ tically, only keep one row.
 • если вы хотите сохранить только выделенный лист, нажмите кнопку &quot;ОК&quot;;
 • если вы хотите сохранить все листы, сохраните их по отдельности, присвоив им разные имена, или выберите тип файла, который поддерживает книги, содержащие несколько листов.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The file type you specified may not support some features of this file. Do you want to keep the workbook in this format?
 
 •If you want to keep this format, and give up the incompatible features, click Yes.
@@ -20595,7 +20956,7 @@ Do you want to continue saving as an XML Spreadsheet?</source>
         <translation type="obsolete">
 Продолжить сохранение в виде электронной таблицы XML?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · AutoShapes, other objects, or charts
 </source>
         <translation type="obsolete">· Автофигуры, другие объекты, или диаграмма</translation>
@@ -20608,7 +20969,7 @@ Do you want to continue saving as an XML Spreadsheet?</source>
         <source>A sheet in the workbook you are trying to save is command protected. Command protected sheets cannot be saved in an XML Spreadsheet. To save this file as an XML Spreadsheet, you must first remove the command.</source>
         <translation type="obsolete">Лист в книге, которую вы пытаетесь сохранить, защищён командой. Листы, защищённые командой, не могут быть сохранены в таблице XML. Чтобы сохранить файл как таблицу XML, необходимо сначала удалить команду.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · External sheet reference
 </source>
         <translation type="obsolete"> · Ссылка на внешний лист</translation>
@@ -20635,32 +20996,32 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
         <source>A sheet in the workbook you are trying to save is command protected. Command protected sheets cannot be saved in a HTML Spreadsheet. To save this file as a HTML Spreadsheet, you must first remove the command.</source>
         <translation type="obsolete">Лист в книге, которую вы пытаетесь сохранить, защищён командой. Листы, защищённые командой, не могут быть сохранены в таблице HTML. Чтобы сохранить файл как таблицу HTML, необходимо сначала удалить команду.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · File encryption
 </source>
         <translation type="obsolete"> · Шифрование файла</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Range-based user permissions
 </source>
         <translation type="obsolete"> · Разрешения на уровне диапазонов</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Macro
 </source>
         <translation type="obsolete"> · Макрос</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · PivotTable
 </source>
         <translation type="obsolete"> · Сводная таблица</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Import Data
 </source>
         <translation type="obsolete"> · Импорт данных</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Multiple windows
 </source>
         <translation type="obsolete"> · Многооконный</translation>
@@ -20670,17 +21031,17 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
 </source>
         <translation type="obsolete">Слишком длинный путь. Попробуйте более короткое имя.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Comments
 </source>
         <translation type="obsolete"> · Примечания</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Protect Workbook
 </source>
         <translation type="obsolete"> · Защитить книгу</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source> · Protect Sheet
 </source>
         <translation type="obsolete"> · Защитить лист</translation>
@@ -20714,7 +21075,7 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
         <source>Microsoft Excel 2007/2010 File(*.xlsx,*.xlsm)</source>
         <translation type="obsolete">Файл Microsoft Excel 2007/2010(*.xlsx,*.xlsm)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>A formula or sheet you want to move or copy contains the name &apos;%s&apos;,which already exists on the destination worksheet.Do you want to use this version of the name?
 
 ·To use the name as defined in the destination sheet,click Yes.
@@ -20724,7 +21085,7 @@ Do you want to continue saving as an HTML Spreadsheet?</source>
  Чтобы использовать это имя, нажмите кнопку &apos;&apos;Да&apos;&apos;.
  Чтобы переименовать диапазон, на который ссылается формула или лист, нажмите кнопку &apos;&apos;Нет&apos;&apos; и введите новое имя в диалоговом окне &apos;&apos;Конфликт имен&apos;&apos;.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>A formula you want to move or copy contains the name %s which conflicts with a valid range reference or a name used internally by ET,and must be modified.
 
 ·To use the name %s,click Yes.
@@ -20862,7 +21223,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <source>This command cannot be used on multiple selections.</source>
         <translation type="obsolete">Данная команда неприменима для несвязных диапазонов.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Spreadsheets cannot paste the information, because the size and shape of the paste area are different from the copy area. To continue pasting, please try one of the following:
 
 •Click a single cell, and then paste.
@@ -20872,7 +21233,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
 •щёлкните одну ячейку, и затем вставьте; 
 •выберите прямоугольную область того же размера и формы, и затем вставьте.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The selection is invalid.
 There are several possible reasons:
 
@@ -20919,7 +21280,7 @@ There are several possible reasons:
         <source>The number must be between 10 and 400. Please enter a number within this range and try again.</source>
         <translation type="obsolete">Число должно быть в диапазоне между 10 и 400. Введите число в пределах этого диапазона и повторите попытку.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The formula you typed contains errors. WPS Spreadsheets will automatically correct it as: 
 &apos;%s
 •If you want to accept the correction, click OK.
@@ -20937,7 +21298,7 @@ If you do not wish to use a formula, insert a single quotation mark before your 
         <translation type="obsolete">Введена ошибочная формула. 
 Если вы не хотите использовать формулу, добавьте одинарную кавычку перед текстом.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
 &apos;%s
 • To accept the correction, click Yes.
@@ -21263,7 +21624,7 @@ Please make sure the selected regions are continuous cells.</source>
         <source>Cells</source>
         <translation type="obsolete">Ячейки</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
 
 •If you do not want to  create the circular reference, click OK, and correct the formula.
@@ -26020,7 +26381,7 @@ the category you want, and then choose the other options.</source>
 %s две одинаковые ссылки сортировки. 
 %s ссылка сортировки, не находится в текущем выделении.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Only one picture can be inserted in each section of the %s.
 
 ·To replace existing picture, click OK.

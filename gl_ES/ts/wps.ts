@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="gl_ES">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>BordersAndShadingWidget</name>
     <message>
@@ -863,11 +864,11 @@
         <source>: (Colon)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>— (Em dash)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>– (En dash)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2408,7 +2409,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 3.6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 2, -1584, 1584, 3.6</translation>
     </message>
     <message>
         <source>ch, 2, -10, 10, 1</source>
@@ -2466,7 +2467,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 2, 0.05, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 2, 0.05, 1584, 1</translation>
     </message>
     <message>
         <source>ch, 2, 0.01, 150.85, 0.5</source>
@@ -2482,7 +2483,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>pt, 1, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 1, 0, 1584, 1</translation>
     </message>
     <message>
         <source>Ver&amp;tical every:</source>
@@ -2746,21 +2747,21 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>21</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">21</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>一</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>壹</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>印</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3089,7 +3090,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Taboa</translation>
     </message>
     <message>
         <source>Graphic</source>
@@ -5040,7 +5041,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Cor:</translation>
     </message>
     <message>
         <source>&amp;Deletions:</source>
@@ -5160,7 +5161,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>pt, 0, 0, 898.75, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 0, 0, 898.75, 1</translation>
     </message>
     <message>
         <source>Use the recommended width(&amp;F)</source>
@@ -5251,24 +5252,11 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File encryption options for this document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter a password below to protect this document.
-The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Document passw&amp;ord:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reenter &amp;password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File sharing options for this document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5590,6 +5578,34 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>96 ppi</source>
         <translation>96 ppi</translation>
+    </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File encryption options for this document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File sharing options for this document:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6118,7 +6134,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 2, -1584, 1584, 1 {2,?}</translation>
     </message>
     <message>
         <source>ch, 2, -316.8, 316.8, 0.5</source>
@@ -6150,7 +6166,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 2, 0, 1584, 1</translation>
     </message>
     <message>
         <source>ch, 2, 0, 316.8, 0.5</source>
@@ -6170,7 +6186,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, 2, 0, 1584, 6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 2, 0, 1584, 6</translation>
     </message>
     <message>
         <source>line, 2, 0, 316.8, 0.5</source>
@@ -6381,11 +6397,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>0-1-0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0-1-0</translation>
     </message>
     <message>
         <source>1-2-1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1-2-1</translation>
     </message>
     <message>
         <source>Left</source>
@@ -6405,7 +6421,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -6655,7 +6671,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, -1, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, -1, 0, 1584, 1</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -6778,7 +6794,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, -2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, -2, 0, 1584, 1</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -6829,7 +6845,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, 1, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 1, 0, 1584, 1</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -6845,7 +6861,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, 1, -1080, 1080, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 2, -1080, 1080, 1 {1,?}</translation>
     </message>
     <message>
         <source>&amp;Center</source>
@@ -6893,7 +6909,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, 1, 1, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 1, 1, 1584, 1</translation>
     </message>
     <message>
         <source>Row height &amp;is:</source>
@@ -6937,7 +6953,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, 1, 4.5, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 1, 4.5, 1584, 1</translation>
     </message>
     <message>
         <source>&amp;Previous Column</source>
@@ -6985,7 +7001,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, 2, 0, 1538, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 2, 0, 1538, 1</translation>
     </message>
     <message>
         <source>ch, 2, 0, 150.86, 0.5</source>
@@ -6997,7 +7013,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>pt, 2, -1538, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto, 2, -1538, 1584, 1 {2,?}</translation>
     </message>
     <message>
         <source>ch, 2, -150.86, 150.86, 0.5</source>
@@ -7049,7 +7065,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;200% {5?}</translation>
     </message>
     <message>
         <source>&amp;Set</source>
@@ -7211,6 +7227,153 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>View &amp;endnote area</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsFieldNameDelimiter</name>
+    <message>
+        <source>Field name record delimiter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field delimiter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Paragraph mark)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Tabs)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation type="unfinished">%</translation>
+    </message>
+    <message>
+        <source>&amp;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>@</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>^</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>`</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>{</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>|</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>~</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record delimiter:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8679,7 +8842,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0#</translation>
     </message>
     <message>
         <source>0-#</source>
@@ -8687,7 +8850,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>1#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1#</translation>
     </message>
     <message>
         <source>1-#</source>
@@ -8695,7 +8858,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2#</translation>
     </message>
     <message>
         <source>2-#</source>
@@ -8703,7 +8866,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>3#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3#</translation>
     </message>
     <message>
         <source>3-#</source>
@@ -8711,7 +8874,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>4#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4#</translation>
     </message>
     <message>
         <source>4-#</source>
@@ -8719,7 +8882,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>5#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5#</translation>
     </message>
     <message>
         <source>5-#</source>
@@ -8727,15 +8890,15 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>6#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8#</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -8910,7 +9073,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0#</translation>
     </message>
     <message>
         <source>0-#</source>
@@ -8918,7 +9081,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>1#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1#</translation>
     </message>
     <message>
         <source>1-#</source>
@@ -8926,7 +9089,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>2#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2#</translation>
     </message>
     <message>
         <source>2-#</source>
@@ -8934,7 +9097,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>3#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3#</translation>
     </message>
     <message>
         <source>3-#</source>
@@ -8942,7 +9105,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>4#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4#</translation>
     </message>
     <message>
         <source>4-#</source>
@@ -8950,7 +9113,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>5#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5#</translation>
     </message>
     <message>
         <source>5-#</source>
@@ -8958,15 +9121,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>6#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8#</translation>
     </message>
     <message>
         <source>Left alignment</source>
@@ -9067,21 +9230,6 @@ Cancel:	Return to the dialog.</source>
     </message>
 </context>
 <context>
-    <name>KxOnlineFontTipDlg</name>
-    <message>
-        <source>Cannot connect to this service. Check your network connection please.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Renew</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>By author</source>
@@ -9123,6 +9271,14 @@ Cancel:	Return to the dialog.</source>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOutlineNumberDlg</name>
@@ -9144,7 +9300,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -9249,43 +9405,43 @@ Cancel:	Return to the dialog.</source>
         <source>The measurement must be between 1 and 12.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>①</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>②</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>③</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>④</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⑤</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⑥</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⑦</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⑧</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⑨</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⑩</source>
         <translation></translation>
     </message>
@@ -9343,7 +9499,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pto</translation>
     </message>
     <message>
         <source>mm</source>
@@ -9996,6 +10152,13 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsApplication</name>
+    <message>
+        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10781,6 +10944,13 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsFieldNameDelimiterDlg</name>
+    <message>
+        <source>Field delimiter and record delimiter cannot be same.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsFillColorModel</name>
     <message>
         <source>No Fill</source>
@@ -10860,13 +11030,6 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Close</source>
         <translation>Pechar</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsInsertPictureCommand</name>
-    <message>
-        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11282,11 +11445,46 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You cannot record a macro to a locked file</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsRestartPageNumCommand</name>
     <message>
         <source>Restart Page Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewPane</name>
+    <message>
+        <source>REVIEWPANE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Part</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Revision: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11464,7 +11662,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>0;57;1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0;57;1</translation>
     </message>
     <message>
         <source>Page 1</source>
@@ -11666,15 +11864,15 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Vertical from Left to Right</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate All Text 90°</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate All Text 270°</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate Asian Character 270°</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11709,6 +11907,17 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Delete Watermark</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWrapTextWidget</name>
+    <message>
+        <source>close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11878,7 +12087,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Con&amp;firm:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12001,7 +12210,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%</translation>
     </message>
     <message>
         <source>Conten&amp;t:</source>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sl_SI">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>api_err</name>
     <message>
@@ -277,11 +278,11 @@
         <source>Free Rotate</source>
         <translation type="obsolete">Prosto vrtenje</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate Left 90º</source>
         <translation type="obsolete">Vrtenje v levo za 90°</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate Right 90º</source>
         <translation type="obsolete">Vrtenje v desno za 90°</translation>
     </message>
@@ -2210,6 +2211,11 @@ Please check your system settings and ensure the temporary directory under the c
         <comment>TX_KSO_MSO_CF_PIC_PNG_DISPNAME</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Unicode Text</source>
+        <comment>TX_KSO_CF_UNICODE_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_dguil</name>
@@ -2453,12 +2459,12 @@ Please check your system settings and ensure the temporary directory under the c
         <comment>DgUil_KSO_Cmd_FreeRotate</comment>
         <translation type="unfinished">Prosto vrtenje</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate Left 90º</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value0</comment>
         <translation type="unfinished">Vrtenje v levo za 90°</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate Right 90º</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value1</comment>
         <translation type="unfinished">Vrtenje v desno za 90°</translation>
@@ -5032,6 +5038,11 @@ Upoštevajte, da stiskanje slike, lahko zmanjša kvaliteto vaših slik.
         <comment>_KsoDesc_MSWORD12DOTM</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
+        <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_krm</name>
@@ -5094,25 +5105,6 @@ Upoštevajte, da stiskanje slike, lahko zmanjša kvaliteto vaših slik.
     <message>
         <source>Backuping the file, please wait...</source>
         <comment>_kso_BusyTip_Prompt_Doucment_AutoBackup</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message utf8="true">
-        <source>%s Errors occur when regular backup is running! Please try the following operations: 
-•[Undo] the previous operations and [Save] it; 
-•[Save As...] text files（*.txt）; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message utf8="true">
-        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
-•[Undo] the previous operations and [Save] it; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5930,6 +5922,32 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Your system is missing the required codec that supports this media format</source>
         <comment>_kso_WarmingRep_MediaPlay_wpp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
+        <comment>_kso_FileFormatNotSupport</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8257,12 +8275,12 @@ Used to show steps toward a goal</source>
         <comment>kso_sSeparatorColon</comment>
         <translation type="unfinished">: (Dvopičje)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>— (EmDash)</source>
         <comment>kso_sSeparatorEmDash</comment>
         <translation type="unfinished">— (Dolgi pomišljaj)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>– (EnDash)</source>
         <comment>kso_sSeparatorEnDash</comment>
         <translation type="unfinished">– (Pomišljaj)</translation>
@@ -9912,11 +9930,11 @@ Used to show steps toward a goal</source>
         <source>: (Colon)</source>
         <translation type="obsolete">: (Dvopičje)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>— (EmDash)</source>
         <translation type="obsolete">— (Dolgi pomišljaj)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>– (EnDash)</source>
         <translation type="obsolete">– (Pomišljaj)</translation>
     </message>

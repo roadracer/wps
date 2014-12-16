@@ -348,6 +348,11 @@ Please check your system settings and ensure the temporary directory under the c
         <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
         <translation>將剪貼簿之內容以 [JPG 格式] 貼上。</translation>
     </message>
+    <message>
+        <source>Unicode Text</source>
+        <comment>TX_KSO_CF_UNICODE_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_dguil</name>
@@ -3249,6 +3254,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>_KsoPrompt_SaveError</comment>
         <translation>儲存檔案遇到錯誤，請重試或聯絡客服。</translation>
     </message>
+    <message>
+        <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
+        <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_krm</name>
@@ -3337,34 +3347,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source> Professional</source>
         <comment>_kso_versionType_PRO</comment>
         <translation type="unfinished"> 專業版</translation>
-    </message>
-    <message>
-        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
-•[Undo] the previous operations and [Save] it; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation>%s 在進行定時備份動作時，發生錯誤! 您可以嘗試以下動作:
-·[復原]之前的動作，然後執行[儲存]；
-·將內容[複製/貼上]到新檔案；
-·放棄對檔案的修改。
-(%s)</translation>
-    </message>
-    <message>
-        <source>%s Errors occur when regular backup is running! Please try the following operations: 
-•[Undo] the previous operations and [Save] it; 
-•[Save As...] text files（*.txt）; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation>%s 在進行定時備份動作時，發生錯誤! 您可以嘗試以下動作:
-·[復原]之前的動作，然後執行[儲存]；
-·[另存新檔...]文字檔案（*.txt）；
-·將內容[複製/貼上]到新檔案；
-·放棄對檔案的修改。
-(%s)</translation>
     </message>
     <message>
         <source>(Can use %d days)</source>
@@ -4532,6 +4514,43 @@ You can click the button to recover files you work on.</source>
         <source>File Name</source>
         <comment>_kso_filesearch_FileName</comment>
         <translation>文件名</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation>%s 在進行定時備份動作時，發生錯誤! 您可以嘗試以下動作:
+·檢查備份目錄的是否具有可寫權限，或嘗試更改備份目錄；
+·[復原]之前的動作，然後執行[儲存]；
+·[另存新檔...]文字檔案（*.txt）；
+·將內容[複製/貼上]到新檔案；
+·放棄對檔案的修改。
+(%s)</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory is writable permissions, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation>%s 在進行定時備份動作時，發生錯誤! 您可以嘗試以下動作:
+·檢查備份目錄的是否具有可寫權限，或嘗試更改備份目錄；
+·[復原]之前的動作，然後執行[儲存]；
+·將內容[複製/貼上]到新檔案；
+·放棄對檔案的修改。
+(%s)</translation>
+    </message>
+    <message>
+        <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
+        <comment>_kso_FileFormatNotSupport</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

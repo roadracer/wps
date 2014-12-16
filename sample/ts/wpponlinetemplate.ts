@@ -30,11 +30,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>My Favorite</source>
+        <source>Local Templates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Local Templates</source>
+        <source>My Favorite</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

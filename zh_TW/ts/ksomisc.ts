@@ -238,6 +238,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
         <translation>使用 WPS Office 輕辦公，輕鬆進行團隊協作。</translation>
     </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Launch WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -306,6 +314,10 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <source>WPS Office General Repair/Configuration Tools</source>
         <extracomment>ksomisc main dialog</extracomment>
         <translation>WPS Office 综合修復/配定工具</translation>
+    </message>
+    <message>
+        <source>You are not using an administrator account. Some features are not available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -810,6 +822,10 @@ The button icon, command group and task window position of each scheme are diffe
         <translation>列印(&amp;P)</translation>
     </message>
     <message>
+        <source>OpenAsReadOnly</source>
+        <translation>以只讀方式打開</translation>
+    </message>
+    <message>
         <source>WPS Spreadsheets Template</source>
         <translation>WPS Spreadsheets 範本</translation>
     </message>
@@ -822,8 +838,16 @@ The button icon, command group and task window position of each scheme are diffe
         <translation type="unfinished">Microsoft Excel 工作表</translation>
     </message>
     <message>
+        <source>Microsoft Excel 97-2003 Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft Office Excel 2007 Workbook</source>
-        <translation>Microsoft Office Excel 2007 工作簿</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Excel Chart</source>
@@ -930,6 +954,18 @@ The button icon, command group and task window position of each scheme are diffe
         <translation type="unfinished">Microsoft PowerPoint 97-2003 簡報</translation>
     </message>
     <message>
+        <source>Microsoft PowerPoint 97-2003 SlideShow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PowerPoint Presentation</source>
         <translation type="unfinished">PowerPoint 簡報</translation>
     </message>
@@ -980,6 +1016,14 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>Microsoft Word Document</source>
         <translation type="unfinished">Microsoft Word 文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97 - 2003 Template</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Office Word 2007 Document</source>
@@ -1079,6 +1123,26 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Equation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Office Excel Data Interchange Format</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1203,6 +1267,18 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>User name:</source>
         <translation>使用者名稱：</translation>
+    </message>
+    <message>
+        <source>The port must be a number between 1 and 65535.</source>
+        <translation>連接埠號碼必須是介於1到65535之間的數字。</translation>
+    </message>
+    <message>
+        <source>Software recommend：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

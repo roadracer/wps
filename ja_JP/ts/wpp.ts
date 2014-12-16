@@ -360,6 +360,29 @@
     </message>
 </context>
 <context>
+    <name>DlgKxInvolvedTemplate</name>
+    <message>
+        <source>Involved Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Involved Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DlgKxSetupShow</name>
     <message>
         <source>&amp;All</source>
@@ -1372,6 +1395,27 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
 </context>
 <context>
+    <name>KxDlgEmbedPrivateFonts</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">ダイアログ</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application documents online font, if your document needs circulated others, 
+we recommend that you saved earlier document fonts. 
+If necessary, click Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember this operation, do not remind anymore</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgFont</name>
     <message>
         <source>&amp;Color:</source>
@@ -2116,7 +2160,7 @@ the presentation file directly.You can put it with the presentation file in the 
     <message>
         <source>Enter a password below to protect this document.
 The Advanced button allows you to choose from different encryption types.</source>
-        <translation>「詳細設定」ボタンをクリックし、「暗号化の種類」のボックスからパスワードの種類を選択すると、ファイルをより高いレベルで暗号化できます。下のボックスに入力されたパスワードにてファイルを保護できます。</translation>
+        <translation type="obsolete">「詳細設定」ボタンをクリックし、「暗号化の種類」のボックスからパスワードの種類を選択すると、ファイルをより高いレベルで暗号化できます。下のボックスに入力されたパスワードにてファイルを保護できます。</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
@@ -2164,6 +2208,30 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remind &amp;Me When Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3336,6 +3404,20 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
 </context>
 <context>
+    <name>KxInvolvedTemplateDlg</name>
+    <message>
+        <source>Blank Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxInvolvedTemplateView</name>
+    <message>
+        <source>Use Blank Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Best Match</source>
@@ -3418,6 +3500,18 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>&amp;Open</source>
         <translation type="obsolete">開く</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

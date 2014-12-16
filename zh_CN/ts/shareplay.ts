@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation>手机一秒变遥控器</translation>
+        <translation>&#x0020;&#x0020;手机一秒变遥控器&#x000A;（现只支持iphone）</translation>
     </message>
 </context>
 <context>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation>手机一秒变遥控器</translation>
+        <translation>&#x0020;&#x0020;手机一秒变遥控器&#x000A;（现只支持iphone）</translation>
     </message>
 	<message>
         <source>Not show again.</source>
@@ -111,7 +111,7 @@
     <name>KsSlideWindowShowMsgHandler</name>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation>手机一秒变遥控器</translation>
+        <translation>&#x0020;&#x0020;手机一秒变遥控器&#x000A;（现只支持iphone）</translation>
     </message>
 	<message>
         <source>Disconnected.</source>

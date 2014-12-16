@@ -2852,6 +2852,13 @@ Notez que les images compressées peuvent réduire la qualité de vos images. Vo
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>WPS Presentation cannot save or create this file.
+Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
+(%s)</source>
+        <comment>WP_SAVE_PPT_FAILURE</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppdata</name>
@@ -7308,6 +7315,17 @@ l&apos;orthographe</translation>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
         <comment>WP_TEMPLATEFILE</comment>
         <translation>Modèle WPS Presentation(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Modèle de présentation Microsoft PowerPoint 97/2000/XP/2003(*.pot)|*.pot|Présentation Microsoft PowerPoint 97/2000/XP/2003(*.ppt)|*.ppt</translation>
+    </message>
+    <message>
+        <source>Involved Template</source>
+        <comment>WpINVOLVEDTEMPLATE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>WpMsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

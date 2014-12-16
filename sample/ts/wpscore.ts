@@ -2,53 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="sample">
 <context>
-    <name>field_parser_index</name>
-    <message>
-        <source>Error. No index entries found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error. Switch argument not specified.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error. Not a valid bookmark in entry on page .</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Alphanumeric</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Symbol</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error. Unknown switch argument.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stroke</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error. Not a valid range of characters.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot update Index.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>wps_comment</name>
     <message>
         <source>Comment</source>
@@ -87,23 +40,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error! Unknown switch argument.</source>
-        <comment>TX_FIELD_ERR_UNKNOWN_SWITCH_ARGUMENT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! Switch argument not specified.</source>
-        <comment>TX_FIELD_ERR_SWITCH_ARGUMENT_NOT_SPECIFIED</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error! Picture switch must be the first formatting switch.</source>
         <comment>TX_FIELD_ERR_PICTURE_FORMAT_NOT_FIRST</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! Picture string contains unmatched quotes.</source>
-        <comment>TX_FIELD_ERR_PICTURE_STRING_CONTAINS_UNMATCHED_QUOTES</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -130,6 +68,21 @@ Try one or more of the following:
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Error! Unknown switch argument.</source>
+        <comment>TX_FIELD_ERR_UNKNOWN_SWITCH_ARGUMENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! Switch argument not specified.</source>
+        <comment>TX_FIELD_ERR_SWITCH_ARGUMENT_NOT_SPECIFIED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! Picture string contains unmatched quotes.</source>
+        <comment>TX_FIELD_ERR_PICTURE_STRING_CONTAINS_UNMATCHED_QUOTES</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_field_parser_common</name>
@@ -146,11 +99,6 @@ Try one or more of the following:
     <message>
         <source>Error! Bookmark not defined.</source>
         <comment>TX_FIELD_ERR_BOOKMARK_NOT_DEFINED</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Main Document Only.</source>
-        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -181,21 +129,6 @@ Try one or more of the following:
     <message>
         <source>_Top</source>
         <comment>TX_FILED_LINK_DOCUMENTTOP</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error. Missing test condition.</source>
-        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error. Unknown op code for conditional.</source>
-        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error. Missing second part of test condition.</source>
-        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -326,11 +259,6 @@ Try one or more of the following:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>!Syntax errors</source>
-        <comment>TX_FIELD_ERR_COMPILE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>!Abnormal formula end</source>
         <comment>TX_FIELD_ERR_COMPILE_UNEXPECTED_END</comment>
         <translation type="unfinished"></translation>
@@ -348,6 +276,11 @@ Try one or more of the following:
     <message>
         <source>!Number is too big to set a format</source>
         <comment>TX_FIELD_ERR_FMT_NUM_TOO_LARGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>!Syntax errors</source>
+        <comment>TX_FIELD_ERR_COMPILE_SYNTAX</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -644,6 +577,36 @@ Try one or more of the following:
 <context>
     <name>wps_wpscore</name>
     <message>
+        <source>Project</source>
+        <comment>_KdeDesc_Project</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TemplateProject</source>
+        <comment>_KdeDesc_TemplateProject</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <comment>_KdeDesc_NormalTemplateProject</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ThisDocument</source>
+        <comment>_KdeDesc_ThisDocument</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <comment>_KdeDesc_Macro</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Module</source>
+        <comment>_KdeDesc_CodeModule</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <comment>_TxBuiltInCaptionLabelEquation</comment>
         <translation type="unfinished"></translation>
@@ -656,11 +619,6 @@ Try one or more of the following:
     <message>
         <source>Table</source>
         <comment>_TxBuiltInCaptionLabelTable</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image</source>
-        <comment>_TxBuiltInCaptionLabelImage</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -734,7 +692,7 @@ Try one or more of the following:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Make office work easier</source>
+        <source>AaBbCc</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -794,11 +752,6 @@ Try one or more of the following:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%s is not a valid special character for the Replace With box.</source>
-        <comment>_TxFind_NoValidReplacementStr</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(Print Preview)</source>
         <comment>TxDesc_PrintPreview</comment>
         <translation type="unfinished"></translation>
@@ -826,21 +779,6 @@ Try one or more of the following:
     <message>
         <source>WPS Writer document data</source>
         <comment>_TxClipboardDesc_Xml</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid e-mail address, sending failed.</source>
-        <comment>_TxMailMerge_ErrAddress</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure sending mail.</source>
-        <comment>_TxMailMerge_SendMailFailed</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
-        <comment>_TxMailMerge_NoRecordExecute</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -880,21 +818,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Spell Check: On</source>
-        <comment>_TxSpellingCheck_On</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spell Check: Off</source>
-        <comment>_TxSpellingCheck_Off</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
-        <comment>_TxSaveMHTHTMLWarning</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please select the base text for the Phonetic Guide.</source>
         <comment>_TxPhoneticGuideTip</comment>
         <translation type="unfinished"></translation>
@@ -902,11 +825,6 @@ Do you want to replace it?</source>
     <message>
         <source>&amp;Tools</source>
         <comment>_TxMenuBarOption_Tool</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text tools(&amp;F)</source>
-        <comment>_TxMenuBarOption_TextTool</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1050,11 +968,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wavy Heavy Line</source>
-        <comment>TxRevision_Chp_WaveHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Wave double underline</source>
         <comment>TxRevision_Chp_WaveDoubleUnderline</comment>
         <translation type="unfinished"></translation>
@@ -1165,11 +1078,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Expanded by/Condensed by</source>
-        <comment>TxRevision_Chp_ExpandedByCondensedBy</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Raised by </source>
         <comment>TxRevision_Chp_RaisedBy</comment>
         <translation type="unfinished"></translation>
@@ -1177,11 +1085,6 @@ Do you want to replace it?</source>
     <message>
         <source>Lowered by </source>
         <comment>TxRevision_Chp_LoweredBy</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Raised by/Lowered by</source>
-        <comment>TxRevision_Chp_RaisedByLoweredBy</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2205,6 +2108,75 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Link Update</source>
+        <comment>TxVersion_IncludePictureLink_Update</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <comment>_TxBuiltInCaptionLabelImage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s is not a valid special character for the Replace With box.</source>
+        <comment>_TxFind_NoValidReplacementStr</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid e-mail address, sending failed.</source>
+        <comment>_TxMailMerge_ErrAddress</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failure sending mail.</source>
+        <comment>_TxMailMerge_SendMailFailed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_NoRecordExecute</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check: On</source>
+        <comment>_TxSpellingCheck_On</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spell Check: Off</source>
+        <comment>_TxSpellingCheck_Off</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!?, ?#?, ?%20?, ?%23? or ?%25?, etc. Do you want to continue?</source>
+        <comment>_TxSaveMHTHTMLWarning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text tools(&amp;F)</source>
+        <comment>_TxMenuBarOption_TextTool</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wavy Heavy Line</source>
+        <comment>TxRevision_Chp_WaveHeavyUnderline</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expanded by/Condensed by</source>
+        <comment>TxRevision_Chp_ExpandedByCondensedBy</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Raised by/Lowered by</source>
+        <comment>TxRevision_Chp_RaisedByLoweredBy</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The Replace With text contains a group number which is out of range.</source>
         <comment>_TxFind_MoreReplacementGroups</comment>
         <translation type="unfinished"></translation>
@@ -2217,37 +2189,6 @@ Do you want to replace it?</source>
     <message>
         <source>Cannot Load this Add-In.</source>
         <comment>_TxAddin_CannotLoadAddIn</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Link Update</source>
-        <comment>TxVersion_IncludePictureLink_Update</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot merge these documents because document protection is in effect.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Writer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(no proofing)</source>
-        <comment>TxLanguage_NoProofing</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
-        <comment>TxReload_ConfirmDropChanges</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2299,11 +2240,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Based On style name does not exist or is of an incorrect type.</source>
-        <comment>_TxErr_SetBaseStyleError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Failed to open.</source>
         <comment>_TxErr_DocumentOpenFatalError</comment>
         <translation type="unfinished"></translation>
@@ -2349,11 +2285,6 @@ Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
-        <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Some of the regions you can edit overlap, and it is not possible to show them at the same time.
 Use the &apos;Find Next Region I Can Edit&apos; button to show each region individually.</source>
         <comment>_TxErr_SelectAllExceptions</comment>
@@ -2362,6 +2293,16 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>You cannot put drawing objects into a text box, callout, comment, footnote, or endnote.</source>
         <comment>_TxErr_InvalidAnchorPosition</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Based On style name does not exist or is of an incorrect type.</source>
+        <comment>_TxErr_SetBaseStyleError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
+        <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2398,7 +2339,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
+        <source>*.wps;*.wpt;*.doc;*.dot; *.docx</source>
         <comment>TxExts_AllWPS</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2476,19 +2417,6 @@ Please try one of the following.
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>_TxDocument_OpenProvALGVerFailure</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
-If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
-        <comment>_TxDocument_Open_File_Isnot_Exist</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot save or create this file.
-Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
-(%s)</source>
-        <comment>_TxDocument_SaveFailure</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2571,14 +2499,6 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <comment>_TxDocument_KRM_RightsWillLost</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
-        <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
-Please try one of the following.
-•Switch to another user account.
-•Ask its creator to change the permissions control level of this file.</source>
-        <comment>_TxDocument_KRM_RightsInsufficient</comment>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Opening this document will execute the SQL command below:
  %s 
@@ -2605,7 +2525,7 @@ Do you want to continue?</source>
     </message>
     <message utf8="true">
         <source>
-• Multi-Diagonal cell</source>
+• Multidiagonal cell</source>
         <comment>_TxDocument_FormatNotCompatible_MultiDiagonalCell</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2665,13 +2585,34 @@ To continue saving as a macro-free workbook, click Yes.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</source>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPSEx</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
+        <source>*.wps;*.wpt;*.wpsx;*.doc;*.dot; *.docx</source>
         <comment>TxExts_AllWPSEx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
+If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
+        <comment>_TxDocument_Open_File_Isnot_Exist</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
+(%s)</source>
+        <comment>_TxDocument_SaveFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
+Please try one of the following.
+?Switch to another user account.
+?Ask its creator to change the permissions control level of this file.</source>
+        <comment>_TxDocument_KRM_RightsInsufficient</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2924,12 +2865,7 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Incorrect dictionary. You cannot modify.</source>
-        <comment>wps_sDictError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Final Show Markup,Final,Original Show Markup,Original</source>
+        <source>Final Showing Markup,Final,Original Showing Markup,Original</source>
         <comment>wps_sDisplayForReview</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2979,11 +2915,6 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Enter bookmark name:</source>
-        <comment>wps_sEnterbookmarkNumber</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Enter page number:</source>
         <comment>wps_sEnterPageNumber</comment>
         <translation type="unfinished"></translation>
@@ -3014,23 +2945,8 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer encountered an error while trying exporting to PDF.</source>
-        <comment>wps_sExportPDFError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
         <comment>wps_sFH_NotInstall</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <comment>wps_sFH_TrueType</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert the value of the document variable named NAME</source>
-        <comment>wps_sFieldInfoDocVariable</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3091,11 +3007,6 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>&amp;Find All</source>
         <comment>wps_sFindAll</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Find/Replace...</source>
-        <comment>wps_sFindMenuCaption</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3264,18 +3175,8 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The %s margins are too large for the page %s in some sections.</source>
-        <comment>wps_sMarginsLarge</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
         <comment>wps_sMarginsOrColumenSpacingLarge</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission Password and Document Open Password must be different.</source>
-        <comment>wps_sMasterAndUserPasswordIsSame</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3479,23 +3380,8 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Encountered an error when opening PDF file.</source>
-        <comment>wps_sOpenPDFFileError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The selected paper is too small, Genko is invalid.</source>
-        <comment>wps_sPaperIsTooSmall</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Paragraph</source>
         <comment>wps_sParagraph</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Incorrect password.</source>
-        <comment>wps_sPasswordError</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3654,7 +3540,7 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Phonetic Guide for Last Name</source>
+        <source>Phonetic Guide for last Name</source>
         <comment>wps_sPhoneticGuideforlastName</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -3874,16 +3760,6 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Styles and Formatting</source>
-        <comment>wps_StylesAndFormatting_Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Styles and Formatting</source>
-        <comment>wps_StylesAndFormatting_DisplayName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Type</source>
         <comment>wps_sTypeName</comment>
         <translation type="unfinished"></translation>
@@ -3909,11 +3785,6 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unpro&amp;tect Document</source>
-        <comment>wps_sUnProtectDocument</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(Use Asian text font)</source>
         <comment>wps_sUseAsianfont</comment>
         <translation type="unfinished"></translation>
@@ -3929,23 +3800,8 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The value must not be blank.</source>
-        <comment>wps_sValEmpty</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number invalid.</source>
-        <comment>wps_sValidNumber</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The number must be between 1 and %d.</source>
         <comment>wps_sValueOutofRange</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
-        <comment>wps_sVBAMacroSecurityError</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4009,22 +3865,12 @@ This change will affect all new documents based on the %s template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you overwrite the shortcut of [%s]?</source>
-        <comment>wps_sStyleOverwhite</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unlimited</source>
         <comment>wps_sUnlimited</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>What you print has errors with Format.</source>
-        <comment>wps_sFormatError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The number must be between %d and %d.</source>
+        <source>The number must be %d and %d.</source>
         <comment>wps_sValidValue</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -4081,11 +3927,6 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>You can have no more than 25 items in your drop-down list box.</source>
         <comment>wps_sMaxItems</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The %d Drop-down item is not allow to be empty.</source>
-        <comment>wps_sValidItem</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4185,13 +4026,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Heading1...........................1
-  Heading2.........................33
-    Heading3.......................5</source>
-        <comment>wps_sPreviewToc</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK &quot;C:\\KingSoft.wps&quot;</source>
         <comment>wps_sHyperLinkExample</comment>
         <translation type="unfinished"></translation>
@@ -4287,16 +4121,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Find What text contains a Pattern Match expression which is not valid.</source>
-        <comment>wps_sFindBadPattern</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
-        <comment>wps_sFinishHighlightAllNotFound</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Numbered item</source>
         <comment>TxCrossRefType_NumberedItem</comment>
         <translation type="unfinished"></translation>
@@ -4347,11 +4171,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Paragraph number(no context)</source>
-        <comment>wps_sCrossRef_ParagrapNumNoContext</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Paragraph number(full context)</source>
         <comment>wps_sCrossRef_ParagraphNumFullContext</comment>
         <translation type="unfinished"></translation>
@@ -4359,11 +4178,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Paragraph text</source>
         <comment>wps_sCrossRef_ParagraphText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Above/below</source>
-        <comment>wps_sCrossRef_AboveBelow</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4427,36 +4241,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>For &amp;which numbered item:</source>
-        <comment>wps_sCrossRef_WitchNum</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For &amp;which heading:</source>
-        <comment>wps_sCrossRef_WitchHeading</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For &amp;which bookmark:</source>
-        <comment>wps_sCrossRef_WitchBook</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For &amp;which footnote:</source>
-        <comment>wps_sCrossRef_WitchFootnote</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For &amp;which endnote:</source>
-        <comment>wps_sCrossRef_WitchEndnote</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For &amp;which caption:</source>
-        <comment>wps_sCrossRef_WitchCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The referred contents are blank.</source>
         <comment>wps_sCrossRef_Empty</comment>
         <translation type="unfinished"></translation>
@@ -4510,6 +4294,168 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>You are not allowed to edit this selection because it is protected.</source>
         <comment>wps_sSelectionProtected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incorrect dictionary. You cannot modify.</source>
+        <comment>wps_sDictError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter bookmark name:</source>
+        <comment>wps_sEnterbookmarkNumber</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to PDF.</source>
+        <comment>wps_sExportPDFError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
+        <comment>wps_sFH_TrueType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert the value of the document variable named NAME</source>
+        <comment>wps_sFieldInfoDocVariable</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Find/Replace...</source>
+        <comment>wps_sFindMenuCaption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The %s margins are too large for the page %s in some sections.</source>
+        <comment>wps_sMarginsLarge</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <comment>wps_sMasterAndUserPasswordIsSame</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening PDF file.</source>
+        <comment>wps_sOpenPDFFileError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected paper is too small, Genko is invalid.</source>
+        <comment>wps_sPaperIsTooSmall</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incorrect password.</source>
+        <comment>wps_sPasswordError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <comment>wps_StylesAndFormatting_Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <comment>wps_StylesAndFormatting_DisplayName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpro&amp;tect Document</source>
+        <comment>wps_sUnProtectDocument</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The value must not be blank.</source>
+        <comment>wps_sValEmpty</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> </source>
+        <comment>wps_sValidEMail</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number invalid.</source>
+        <comment>wps_sValidNumber</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you overwrite the shortcut of [%s]?</source>
+        <comment>wps_sStyleOverwhite</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What you print has errors with Format.</source>
+        <comment>wps_sFormatError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The %d Drop-down item is not allow to be empty.</source>
+        <comment>wps_sValidItem</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................33
+    Heading3.......................5</source>
+        <comment>wps_sPreviewToc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Find What text contains a Pattern Match expression which is not valid.</source>
+        <comment>wps_sFindBadPattern</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Has finished searching ?%s?. The search item was not found.</source>
+        <comment>wps_sFinishHighlightAllNotFound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraph number(no context)</source>
+        <comment>wps_sCrossRef_ParagrapNumNoContext</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Above/below</source>
+        <comment>wps_sCrossRef_AboveBelow</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which numbered item:</source>
+        <comment>wps_sCrossRef_WitchNum</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which heading:</source>
+        <comment>wps_sCrossRef_WitchHeading</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which bookmark:</source>
+        <comment>wps_sCrossRef_WitchBook</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which footnote:</source>
+        <comment>wps_sCrossRef_WitchFootnote</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which endnote:</source>
+        <comment>wps_sCrossRef_WitchEndnote</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For &amp;which caption:</source>
+        <comment>wps_sCrossRef_WitchCaption</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5081,11 +5027,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bullets/Numbering</source>
-        <comment>TxVersion_BulletAndAutoNumber</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Format AutoShape</source>
         <comment>TxVersion_AutoShapeFormat</comment>
         <translation type="unfinished"></translation>
@@ -5111,7 +5052,7 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date/Time</source>
+        <source>Data/Time</source>
         <comment>TxVersion_InsDateTime</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -5128,11 +5069,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Caption</source>
         <comment>TxVersion_InsCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Index</source>
-        <comment>TxVersion_InsIndexAndTables</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5326,11 +5262,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unlink Fields</source>
-        <comment>TxVersion_FieldToText</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Lock Field</source>
         <comment>TxVersion_LockField</comment>
         <translation type="unfinished"></translation>
@@ -5346,12 +5277,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To create a link, click an empty text box.
-To add another text box to your document, click Text Box on the Insert menu and choose a text box. Select the original text box and click Create Link again.</source>
-        <comment>TxMessage_CreateTextboxLinkError1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The text box you selected cannot be linked because a link has already existed in the text box , or you have linked the text box to itself.</source>
         <comment>TxMessage_CreateTextboxLinkError2</comment>
         <translation type="unfinished"></translation>
@@ -5359,11 +5284,6 @@ To add another text box to your document, click Text Box on the Insert menu and 
     <message>
         <source>Cannot link, because the target text box is not empty. You can only link to an empty text box.</source>
         <comment>TxMessage_CreateTextboxLinkError3</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This text box has a different text flow from the previous text box. Do you want to change the text flow of this text box to match the previous text box?</source>
-        <comment>TxMessage_CreateTextboxLinkError4</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5549,11 +5469,6 @@ Protection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove Cell Partition</source>
-        <comment>TxVersion_EraserCells</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add Vertical Border</source>
         <comment>TxVersion_AddVertBorder</comment>
         <translation type="unfinished"></translation>
@@ -5705,12 +5620,6 @@ Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Spell 
-Check</source>
-        <comment>TXShell_CheckSpelling_Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Formatted</source>
         <comment>TxMessage_ToolTip_Suffix_NumFormat</comment>
         <translation type="unfinished"></translation>
@@ -5833,11 +5742,6 @@ Check</source>
     <message>
         <source>Cannot go to TOC. TOC may not exist!</source>
         <comment>TxVersion_CannotGotoTOC</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot update TOC. TOC may not exist.</source>
-        <comment>TxVersion_CannotUpdateTOC</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5996,11 +5900,6 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Formatted</source>
-        <comment>TxMessage_ToolTip_Suffix_Formatting</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Formatted Table</source>
         <comment>TxBalloon_RevisionFormattedTable</comment>
         <translation type="unfinished"></translation>
@@ -6046,6 +5945,11 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS Writer 2007/2010 File(*.wpsx)</source>
+        <comment>TxDesc_DataSource_wpsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stop Recording</source>
         <comment>TXWps_RecordMacro_Stop</comment>
         <translation type="unfinished"></translation>
@@ -6056,238 +5960,50 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer 2007/2010 File(*.wpsx)</source>
-        <comment>TxDesc_DataSource_wpsx</comment>
+        <source>Bullets/Numbering</source>
+        <comment>TxVersion_BulletAndAutoNumber</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
-        <comment>TxDesc_DataSource_wptx</comment>
+        <source>Insert Index</source>
+        <comment>TxVersion_InsIndexAndTables</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Table Normal</source>
-        <comment>TxTableStyle_TableNormal</comment>
+        <source>Unlink Fields</source>
+        <comment>TxVersion_FieldToText</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Table Simple 1</source>
-        <comment>TxTableStyle_TableSimple1</comment>
+        <source>To create a link, click an empty text box.
+To add another text box to your document, click Text Box on the Insert menu and choose a text box. Select the original text box and click Create Link again.</source>
+        <comment>TxMessage_CreateTextboxLinkError1</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Table Simple 2</source>
-        <comment>TxTableStyle_TableSimple2</comment>
+        <source>This text box has a different text flow from the previous text box. Do you want to change the text flow of this text box to match the previous text box?</source>
+        <comment>TxMessage_CreateTextboxLinkError4</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Table Simple 3</source>
-        <comment>TxTableStyle_TableSimple3</comment>
+        <source>Remove Cell Partition</source>
+        <comment>TxVersion_EraserCells</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Table Classic 1</source>
-        <comment>TxTableStyle_TableClassic1</comment>
+        <source>Spell 
+Check</source>
+        <comment>TXShell_CheckSpelling_Caption</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Table Classic 2</source>
-        <comment>TxTableStyle_TableClassic2</comment>
+        <source>Cannot update TOC. TOC may not exist.</source>
+        <comment>TxVersion_CannotUpdateTOC</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Table Classic 3</source>
-        <comment>TxTableStyle_TableClassic3</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Classic 4</source>
-        <comment>TxTableStyle_TableClassic4</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Colorful 1</source>
-        <comment>TxTableStyle_TableColorful1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Colorful 2</source>
-        <comment>TxTableStyle_TableColorful2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Colorful 3</source>
-        <comment>TxTableStyle_TableColorful3</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Columns 1</source>
-        <comment>TxTableStyle_TableColumns1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Columns 2</source>
-        <comment>TxTableStyle_TableColumns2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Columns 3</source>
-        <comment>TxTableStyle_TableColumns3</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Columns 4</source>
-        <comment>TxTableStyle_TableColumns4</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Columns 5</source>
-        <comment>TxTableStyle_TableColumns5</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Grid 1</source>
-        <comment>TxTableStyle_TableGrid1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Grid 2</source>
-        <comment>TxTableStyle_TableGrid2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Grid 3</source>
-        <comment>TxTableStyle_TableGrid3</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Grid 4</source>
-        <comment>TxTableStyle_TableGrid4</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Grid 5</source>
-        <comment>TxTableStyle_TableGrid5</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Grid 6</source>
-        <comment>TxTableStyle_TableGrid6</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Grid 7</source>
-        <comment>TxTableStyle_TableGrid7</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Grid 8</source>
-        <comment>TxTableStyle_TableGrid8</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table List 1</source>
-        <comment>TxTableStyle_TableList1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table List 2</source>
-        <comment>TxTableStyle_TableList2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table List 3</source>
-        <comment>TxTableStyle_TableList3</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table List 4</source>
-        <comment>TxTableStyle_TableList4</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table List 5</source>
-        <comment>TxTableStyle_TableList5</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table List 6</source>
-        <comment>TxTableStyle_TableList6</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table List 7</source>
-        <comment>TxTableStyle_TableList7</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table List 8</source>
-        <comment>TxTableStyle_TableList8</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table 3D effects 1</source>
-        <comment>TxTableStyle_Table3dfx1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table 3D effects 2</source>
-        <comment>TxTableStyle_Table3dfx2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table 3D effects 3</source>
-        <comment>TxTableStyle_Table3dfx3</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Contemporary</source>
-        <comment>TxTableStyle_TableContemporary</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Elegant</source>
-        <comment>TxTableStyle_TableElegant</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Professional</source>
-        <comment>TxTableStyle_TableProfessional</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Subtle1</source>
-        <comment>TxTableStyle_TableSubtle1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Subtle2</source>
-        <comment>TxTableStyle_TableSubtle2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Web 1</source>
-        <comment>TxTableStyle_TableWeb1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Web 2</source>
-        <comment>TxTableStyle_TableWeb2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Web 3</source>
-        <comment>TxTableStyle_TableWeb3</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Grid</source>
-        <comment>TxTableStyle_TableGrid</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Table Theme</source>
-        <comment>TxTableStyle_TabelTheme</comment>
+        <source>Formatted</source>
+        <comment>TxMessage_ToolTip_Suffix_Formatting</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

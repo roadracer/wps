@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ru_RU">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>wpp_aeobean</name>
     <message>
@@ -291,12 +292,12 @@ Esc					Завершение показа слайдов</translation>
         <comment>WpInvalidateProgram</comment>
         <translation>WPS Presentation не удалось найти или запустить %s. </translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Custom Shows“</source>
         <comment>WpInvalidateNameSlideShowBegin</comment>
         <translation>Произвольный показ“</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>”does not exist.</source>
         <comment>WpInvalidateNameSlideShowEnd</comment>
         <translation>”не существует.</translation>
@@ -336,7 +337,7 @@ Esc					Завершение показа слайдов</translation>
         <comment>WpRehearseNewTimings</comment>
         <translation>Настройка времени</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
         <comment>WpWPSOffice2007</comment>
         <translation>Инновации Исследования Клиент Результат Честность WPS Office 2010</translation>
@@ -1574,7 +1575,7 @@ Body: Thread</source>
         <translation>Документ заблокирован другим приложением. Открыть файл только для чтения?
 (%s)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Errors occur when WPS Presentation is opening this file.
 Please try one of the following.
 •Make sure you are permitted to access this file or drive.
@@ -1724,7 +1725,7 @@ Fifth level</source>
         <comment>WP_START_PLAYING</comment>
         <translation>Начать показ слайдов...</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
 Do you still want to open this file?
 
@@ -1763,7 +1764,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <comment>WPPKRMSAVEPROMPT</comment>
         <translation>Доступ к этому файлу в данный момент ограничен. Только формат файлов WPS Presentation может сохранить эти настройки. Если сохранить в выбранном формате, все настройки разрешений будут утеряны. Продолжить?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>WPS Presentation cannot open this file, because the current user does not have enough permission to access.
 Please try one of the following.
 •Switch to another user account.
@@ -1977,7 +1978,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>WP_PromptCompressPicture</comment>
         <translation>Обратите внимание, сжатие рисунков может снизить их качество. Вы хотите сжать их?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The file contains some special properties as following. If you save it as other file types, they may be lost.
 • Background Music
 • Paper Size
@@ -2047,7 +2048,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>WP_SECURITY_VBACode</comment>
         <translation>Код VBA</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
         <comment>WP_CannotPlaySoundFile</comment>
         <translation>%s не может воспроизвести звуковой файл &quot;%s&quot;. Убедитесь, что звуковой файл в формате .wav и, что аудиосистема компьютера работает без ошибок.</translation>
@@ -2452,7 +2453,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>WP_TCSCS2TConvert</comment>
         <translation>Преобразование упрощенного китайского в традиционный китайский...</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>The specified file “%s” is not the supported file type. Please click OK and then respecify a file type for saving  in the Save As dialogue box.</source>
         <comment>WP_SAVE_PPT12_FAILURE</comment>
         <translation>Тип выбранного файла “%s” не поддерживается. Нажмите кнопку &quot;OK&quot; и укажите правильный тип файла для сохранения.</translation>
@@ -2489,6 +2490,13 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;WPS Office определил потенциальные проблемы безопасности&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Эта презентация содержит ссылки на другие файлы .&lt;/p&gt;&lt;p&gt;&amp;bull;При обновлении ссылок WPS Presentation попытается получить новую информацию. &lt;br&gt;&amp;bull;Если ссылки не будут обновлены, WPS Presentation будет использовать предыдущую информацию.&lt;/p&gt;&lt;p&gt;Обратите внимание, что ссылки на файлы могут использоваться для доступа и обмена конфиденциальной информацией без вашего разрешения и, возможно, выполнять другие вредоносные действия. Не обновляйте ссылки, если вы не доверяете источнику данной презентации.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot save or create this file.
+Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
+(%s)</source>
+        <comment>WP_SAVE_PPT_FAILURE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2704,7 +2712,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <comment>wpp_sAddOperation</comment>
         <translation>Добавить</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Cannot add word“%s”.</source>
         <comment>wpp_sAddWordFailed</comment>
         <translation>Не удалось добавить слово “%s”.</translation>
@@ -6061,7 +6069,7 @@ Layout</source>
         <comment>WpPROMPTTOSAVE</comment>
         <translation>Сохранить изменения в %s?</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Failed to save. Please try one of the following: 
 •[Undo] the previous operations, then [Save] again.
 •Please copy the contents and paste them into a new file.
@@ -6570,6 +6578,17 @@ Check</source>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
         <comment>WP_TEMPLATEFILE</comment>
         <translation>Общие файлы(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</translation>
+    </message>
+    <message>
+        <source>Involved Template</source>
+        <comment>WpINVOLVEDTEMPLATE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>WpMsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

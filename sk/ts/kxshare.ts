@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sk">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>BackFilePanel</name>
     <message>
@@ -216,6 +217,14 @@
         <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>DownLoad Online Fonts &quot;%1&quot; Successful(Restart to take effect)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online font downloading,click font list see more detail.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCompressPicturesDlg</name>
@@ -355,6 +364,10 @@
     <name>KFileSaveDialog</name>
     <message>
         <source>&amp;Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileName or PathName is longger than 218 chars!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -528,6 +541,21 @@
     </message>
     <message>
         <source>Your input is incorrect and the program will exit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRepeatableInputPasswordDlg</name>
+    <message>
+        <source>Enter password to open file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password error, try again</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1244,6 +1272,32 @@
     </message>
 </context>
 <context>
+    <name>KxCroppingScalesGalleryModel</name>
+    <message>
+        <source>CroppingScale_Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CroppingScale_Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CroppingScale_Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CroppingScale_Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCroppingScalesGalleryModelItem</name>
+    <message>
+        <source>CroppingScale_Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>Full path: </source>
@@ -1705,7 +1759,7 @@
         <source>&amp;Text:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -1726,6 +1780,21 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Choose &amp;key length:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFileFmtSupport</name>
+    <message>
+        <source>WPS FileFormat Confirm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2019,6 +2088,29 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgHttpAuthentication</name>
+    <message>
+        <source>Http authentication required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connect to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please supply a Username and a Password!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2754,6 +2846,29 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
 </context>
 <context>
+    <name>KxFontsGalleryRecommendTip</name>
+    <message>
+        <source>See details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has used cloud fonts &quot;%1&quot;. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has used cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxFormatShapeDlg</name>
     <message>
         <source>Colors and Lines</source>
@@ -2773,6 +2888,13 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryRecommendFontItem</name>
+    <message>
+        <source>(Pay)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3247,6 +3369,36 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
 </context>
 <context>
+    <name>KxOnlineFontController</name>
+    <message>
+        <source>Cloud font reserves to the upper (%1), please go to the &quot;management of cloud font&quot; page for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFontRecommendDlg</name>
+    <message>
+        <source>Tip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxOnlineFontTipDlg</name>
     <message>
         <source>Renew</source>
@@ -3265,19 +3417,19 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cannot connect to this service. Check your network connection please.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You still not a senior member?upgrade to enjoy more cloud fonts now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vip %1 has expired, please renew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS members enjoy more than 300 cloud font, monthly not regularly updated new font, let your document colorful!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to connect to server, please check your network connection.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3301,10 +3453,6 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More online fonts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3350,10 +3498,6 @@ Click the icon to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Downloading fonts, please wait?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All cloud fonts installed.  Please looking forward to more.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3363,6 +3507,18 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Restart to take effect).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3887,6 +4043,10 @@ but the included system package is reserved.</source>
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
         <source>upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(custom)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4762,7 +4922,7 @@ This file may be renamed , deleted or moved the location.</source>
         <source>&amp;Word wrap text in autoshape</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotat&amp;e text within autoshape by 90°</source>
         <translation type="unfinished"></translation>
     </message>

@@ -51,10 +51,6 @@
 <context>
     <name>KCloudFileStateItem</name>
     <message>
-        <source>Check failed because the account was logged off. Please login again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Upload failed because the account was logged off. Please login again.</source>
         <translation type="unfinished">帳號已登出導致上傳失敗，請重新登入</translation>
     </message>
@@ -91,7 +87,7 @@
     </message>
     <message>
         <source>Light address</source>
-        <translation>輕地址</translation>
+        <translation type="obsolete">輕地址</translation>
     </message>
     <message>
         <source>From the current device</source>
@@ -107,7 +103,7 @@
     </message>
     <message>
         <source>New version is available</source>
-        <translation type="unfinished">雲端有新版本，請刷新</translation>
+        <translation type="obsolete">雲端有新版本，請刷新</translation>
     </message>
     <message>
         <source>Checking updates in the cloud</source>
@@ -172,6 +168,14 @@
     <message>
         <source>Refresh</source>
         <translation type="unfinished">更新</translation>
+    </message>
+    <message>
+        <source>New version is available, Please Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available, Please Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -295,6 +299,10 @@
     </message>
     <message>
         <source>netbackup rollback failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>http://www.kingsoftstore.com/support/pc-office</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -935,6 +943,10 @@ path:%3</source>
         <source>Open File Location</source>
         <translation type="unfinished">開啟資料夾</translation>
     </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KRoamingFilePageFixedButton</name>
@@ -1205,6 +1217,17 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KWebviewDialogImpl</name>
+    <message>
+        <source>Open Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxCheckUploadDlg</name>
     <message>
         <source>Documents saving to the cloud failed. Please check the internet and retry</source>
@@ -1260,11 +1283,11 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
+        <source>Buy/Renew Now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Buy/Renew Now</source>
+        <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1840,6 +1863,14 @@ After expiration, some features will not work properly. Renew now and you can ge
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Verification Failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Subscription will expire today</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1850,14 +1881,6 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Some features will not work properly. &lt;br/&gt;Please renew now.  %1View details%2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verification Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2115,6 +2138,17 @@ After expiration, some features will not work properly. Please renew now. </sour
     <message>
         <source>Prompt</source>
         <translation type="unfinished">提示</translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSUserGiftMenuCommand</name>
+    <message>
+        <source>New messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
