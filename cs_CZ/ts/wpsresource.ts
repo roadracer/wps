@@ -15883,7 +15883,7 @@ Effects</source>
     </message>
     <message>
         <source>Inline Picture</source>
-        <translation>Vložit obrázek</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert</source>
