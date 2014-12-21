@@ -1593,7 +1593,7 @@
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do PDF</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -1986,7 +1986,7 @@
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit text</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -2948,7 +2948,7 @@ textu</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do PDF</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -3502,7 +3502,7 @@ formát</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstavec</translation>
     </message>
     <message>
         <source>Paragraph Tools</source>
@@ -4286,7 +4286,7 @@ stránky</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstavec</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -4527,7 +4527,7 @@ textu</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstavec</translation>
     </message>
     <message>
         <source>Promote TOC Level</source>
@@ -7013,7 +7013,7 @@ Spacing</source>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit text</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -7362,11 +7362,11 @@ Shape</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat jako obrázek</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do PDF</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -7886,7 +7886,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Copy Hyperlink</source>
-        <translation>Kopírovat hypertextový odkaz</translation>
+        <translation>Kopírovat hypertextový odkaz </translation>
     </message>
     <message>
         <source>Corner Point</source>
@@ -8031,7 +8031,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit komentář</translation>
     </message>
     <message>
         <source>Edit Field</source>
@@ -8039,7 +8039,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit hypertextový odkaz</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -8047,7 +8047,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit text</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
@@ -8099,11 +8099,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat jako obrázek</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do PDF</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -8629,7 +8629,7 @@ Painter</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstavec </translation>
     </message>
     <message>
         <source>Paste Column</source>
@@ -8733,7 +8733,7 @@ Painter</source>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat hypertextový odkaz</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
@@ -8845,7 +8845,7 @@ Painter</source>
     </message>
     <message>
         <source>Select Hyperlink</source>
-        <translation>Vybrat hypertextový odkaz</translation>
+        <translation>Vybrat hypertextový odkaz </translation>
     </message>
     <message>
         <source>Select Table</source>
@@ -10037,7 +10037,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do PDF</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -10560,7 +10560,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstavec</translation>
     </message>
     <message>
         <source>Paragraph Tools</source>
@@ -11366,7 +11366,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstavec</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -11534,7 +11534,7 @@ Text</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstavec</translation>
     </message>
     <message>
         <source>Promote TOC Level</source>
@@ -13846,7 +13846,7 @@ Effects</source>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit text</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -14197,11 +14197,11 @@ Effects</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat jako obrázek</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do PDF</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -15428,11 +15428,11 @@ Effects</source>
     </message>
     <message>
         <source>Export as Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat jako obrázek</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do PDF</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -15809,7 +15809,7 @@ Effects</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit </translation>
     </message>
     <message>
         <source>Endnote</source>
@@ -15817,7 +15817,7 @@ Effects</source>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukončit </translation>
     </message>
     <message>
         <source>Expand</source>
@@ -16345,7 +16345,7 @@ Directly</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do PDF</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -16573,7 +16573,7 @@ Directly</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat do PDF</translation>
     </message>
     <message>
         <source>Formats</source>
