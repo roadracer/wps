@@ -1238,7 +1238,7 @@
     </message>
     <message>
         <source>Update TOC</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat obsah</translation>
     </message>
 </context>
 <context>
@@ -4067,7 +4067,7 @@ pole</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat obsah</translation>
     </message>
 </context>
 <context>
@@ -5165,11 +5165,11 @@ pod čarou</translation>
     </message>
     <message>
         <source>Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddělovač vysvětlivky / poznámky pod čarou</translation>
     </message>
     <message>
         <source>Footnotes and Endnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznámky pod čarou a vysvětlivky</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
@@ -5183,7 +5183,8 @@ pod čarou</translation>
     </message>
     <message>
         <source>Insert TOC</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložit
+obsah</translation>
     </message>
     <message>
         <source>Level 1</source>
@@ -5253,7 +5254,7 @@ pod čarou</translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit nebo skrýt oddělovač vysvětlivky / poznámky pod čarou</translation>
     </message>
     <message>
         <source>TOC Level</source>
@@ -5261,11 +5262,12 @@ pod čarou</translation>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsah</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat
+obsah</translation>
     </message>
 </context>
 <context>
@@ -5342,7 +5344,8 @@ Comment</source>
     <message>
         <source>New
 Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový
+komentář</translation>
     </message>
     <message>
         <source>Next</source>
@@ -6339,7 +6342,8 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nové
+okno</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -8513,7 +8517,7 @@ Painter</source>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nové okno</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
@@ -8897,7 +8901,7 @@ Painter</source>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit oddělovač vysvětlivky / poznámky pod čarou</translation>
     </message>
     <message>
         <source>Show Ignored Words</source>
@@ -8913,7 +8917,7 @@ Painter</source>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit nebo skrýt oddělovač vysvětlivky / poznámky pod čarou</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -11147,7 +11151,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat obsah</translation>
     </message>
 </context>
 <context>
@@ -12212,11 +12216,11 @@ Text</source>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit oddělovač vysvětlivky / poznámky pod čarou</translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit nebo skrýt oddělovač vysvětlivky / poznámky pod čarou</translation>
     </message>
     <message>
         <source>TOC Level</source>
@@ -12224,11 +12228,11 @@ Text</source>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsah</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat obsah</translation>
     </message>
 </context>
 <context>
@@ -12312,7 +12316,7 @@ Text</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový komentář</translation>
     </message>
     <message>
         <source>Next</source>
@@ -13193,7 +13197,7 @@ Other Windows</source>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nové okno</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -16385,7 +16389,7 @@ Directly</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový prázdný dokument</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
@@ -16433,7 +16437,7 @@ Directly</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslední dokumenty</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -16649,7 +16653,7 @@ Directly</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslední dokumenty</translation>
     </message>
     <message>
         <source>Recharge</source>
