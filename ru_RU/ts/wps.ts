@@ -8436,7 +8436,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing one?</source>
-        <translation type="obsolete">Указанный файл уже существует. Зменить существующий файл?</translation>
+        <translation type="obsolete">Указанный файл уже существует. Заменить существующий файл?</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
@@ -8448,7 +8448,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing file?</source>
-        <translation>Указанный файл уже существует. Зменить существующий файл?</translation>
+        <translation>Указанный файл уже существует. Заменить существующий файл?</translation>
     </message>
     <message>
         <source>Save PDF File As</source>
@@ -9117,7 +9117,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>WPS Writer has completed its search of %1.</source>
-        <translation>WPS завершил поиск %1.</translation>
+        <translation>WPS завершил поиск в %1.</translation>
     </message>
     <message>
         <source>The Find What text contains a Pattern Match expression which is not valid.</source>
