@@ -11308,11 +11308,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsPageOrientationModel</name>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Na výšku</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Na šířku</translation>
     </message>
 </context>
 <context>

@@ -1016,7 +1016,7 @@
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Styly a formátování</translation>
     </message>
 </context>
 <context>
@@ -1392,15 +1392,15 @@
     </message>
     <message>
         <source>Close Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavřít náhled</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedna stránka</translation>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvě stránky</translation>
     </message>
     <message>
         <source>View Ruler</source>
@@ -1431,7 +1431,7 @@
     </message>
     <message>
         <source>Delete All Comments in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit všechny komentáře v dokumentu</translation>
     </message>
     <message>
         <source>Display for Review</source>
@@ -1451,11 +1451,11 @@
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložit komentář</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Další</translation>
     </message>
     <message>
         <source>Original</source>
@@ -1463,7 +1463,7 @@
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Předchozí</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
@@ -1515,7 +1515,7 @@
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovat změny</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -3418,11 +3418,11 @@ formát</translation>
     </message>
     <message>
         <source>Go to</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejít na</translation>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvětšit písmo</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -3582,15 +3582,15 @@ formát</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Styly a formátování</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolní index</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Horní index</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -3598,7 +3598,7 @@ formát</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva písma</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -4559,7 +4559,7 @@ textu</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Styly a formátování</translation>
     </message>
     <message>
         <source>TOC Level</source>
@@ -5302,7 +5302,7 @@ obsah</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Komentáře</translation>
     </message>
     <message>
         <source>Compare</source>
@@ -5318,16 +5318,16 @@ obsah</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Delete 
 Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit komentář</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit všechny komentáře v dokumentu</translation>
     </message>
     <message>
         <source>Display for Review</source>
@@ -5349,19 +5349,19 @@ komentář</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Další</translation>
     </message>
     <message>
         <source>Next Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Další změna</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Předchozí</translation>
     </message>
     <message>
         <source>Previous Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Předchozí změna</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -5430,7 +5430,8 @@ komentář</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovat
+změny</translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -7838,7 +7839,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Komentář</translation>
     </message>
     <message>
         <source>Compared Side by Side</source>
@@ -7962,11 +7963,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit komentář</translation>
     </message>
     <message>
         <source>Delete Page Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit čísla stránek</translation>
     </message>
     <message>
         <source>Delete Point</source>
@@ -8625,7 +8626,7 @@ Painter</source>
     </message>
     <message>
         <source>Page Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Čísla stránek </translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -8993,7 +8994,7 @@ Painter</source>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Styly a formátování</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -10476,7 +10477,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Go to</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejít na</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -10726,11 +10727,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Komentář</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Komentáře</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -12271,7 +12272,7 @@ Text</source>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Komentáře</translation>
     </message>
     <message>
         <source>Compare</source>
@@ -12287,16 +12288,16 @@ Text</source>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit všechny komentáře v dokumentu</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit komentář</translation>
     </message>
     <message>
         <source>Delete Comment</source>
         <comment>Review-&gt;Delete-&gt;Delete Comment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit komentář</translation>
     </message>
     <message>
         <source>Display for Review</source>
@@ -12328,19 +12329,19 @@ Text</source>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Další komentář</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Předchozí</translation>
     </message>
     <message>
         <source>Previous Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Předchozí změna</translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Předchozí komentář</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -12408,7 +12409,7 @@ Text</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovat změny</translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -15869,7 +15870,7 @@ Effects</source>
     </message>
     <message>
         <source>Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejít na </translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -16240,7 +16241,7 @@ Directly</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovat změny</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -16260,7 +16261,7 @@ Directly</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit </translation>
     </message>
     <message>
         <source>View Field Codes</source>
@@ -16417,7 +16418,7 @@ Directly</source>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozložení stránky</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
@@ -16429,7 +16430,7 @@ Directly</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhled tisku</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -16453,7 +16454,7 @@ Directly</source>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Revize</translation>
     </message>
     <message>
         <source>Section</source>
@@ -16497,7 +16498,7 @@ Directly</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -16633,7 +16634,7 @@ Directly</source>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozložení stránky</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
@@ -16645,7 +16646,7 @@ Directly</source>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhled tisku</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -16669,7 +16670,7 @@ Directly</source>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Revize</translation>
     </message>
     <message>
         <source>Section</source>
@@ -16713,7 +16714,7 @@ Directly</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
