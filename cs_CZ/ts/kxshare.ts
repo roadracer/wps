@@ -4382,7 +4382,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový prázdný dokument</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -4438,19 +4438,19 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový</translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít... (Ctrl + O)</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít...</translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový prázdný dokument</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -5543,7 +5543,7 @@ or Web Page</source>
     </message>
     <message>
         <source>Set Spell Check Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit jazyk kontroly pravopisu</translation>
     </message>
     <message>
         <source>Available Languages:</source>

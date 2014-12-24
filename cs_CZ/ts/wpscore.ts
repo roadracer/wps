@@ -5709,7 +5709,8 @@ Protection</source>
         <source>Track 
 Changes</source>
         <comment>TXShell_TrackChanges_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sledovat 
+změny </translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
@@ -5720,7 +5721,8 @@ Changes</source>
         <source>Spell 
 Check</source>
         <comment>TXShell_CheckSpelling_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola 
+pravopisu</translation>
     </message>
     <message>
         <source>Formatted</source>

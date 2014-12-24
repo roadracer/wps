@@ -854,7 +854,7 @@
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
 </context>
 <context>
@@ -1381,7 +1381,7 @@
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
 </context>
 <context>
@@ -2030,7 +2030,7 @@
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložit WordArt</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -2156,7 +2156,7 @@
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
 </context>
 <context>
@@ -2901,7 +2901,8 @@ textu</translation>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání
+textu</translation>
     </message>
 </context>
 <context>
@@ -2940,7 +2941,7 @@ textu</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Zašifrování </translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
@@ -2992,15 +2993,15 @@ textu</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z on-line šablon</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z jiných šablon </translation>
     </message>
     <message>
         <source>Open</source>
@@ -4400,7 +4401,8 @@ textu</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání
+textu</translation>
     </message>
 </context>
 <context>
@@ -4411,11 +4413,11 @@ textu</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnat vlevo</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnat vpravo</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -5104,12 +5106,13 @@ On/Off</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání
+textu</translation>
     </message>
 </context>
 <context>
@@ -5120,11 +5123,11 @@ On/Off</source>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedna stránka</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Tisk</translation>
     </message>
     <message>
         <source>Show</source>
@@ -5132,7 +5135,7 @@ On/Off</source>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvě stránky</translation>
     </message>
     <message>
         <source>View Ruler</source>
@@ -5274,15 +5277,15 @@ obsah</translation>
     <name>ongmani.ct_review</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijmout</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijmout všechny změny v dokumentu</translation>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijmout změnu </translation>
     </message>
     <message>
         <source>Accept Selected Change</source>
@@ -5294,11 +5297,11 @@ obsah</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Změnit možnosti sledování...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
-        <translation type="unfinished"></translation>
+        <translation>Změnit uživatelské jméno...</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -5306,7 +5309,7 @@ obsah</translation>
     </message>
     <message>
         <source>Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>Porovnat</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -5373,15 +5376,15 @@ komentář</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"></translation>
+        <translation>Odmítnout</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Odmítnout všechny změny v dokumentu</translation>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Odmítnout změnu </translation>
     </message>
     <message>
         <source>Restrict Editing</source>
@@ -5397,7 +5400,7 @@ komentář</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
@@ -5425,7 +5428,7 @@ komentář</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola pravopisu</translation>
     </message>
     <message>
         <source>Track
@@ -5444,7 +5447,8 @@ změny</translation>
     <message>
         <source>Word
 Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet
+slov</translation>
     </message>
     <message>
         <source>horzReviewPane</source>
@@ -7339,12 +7343,13 @@ Shape</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání
+textu</translation>
     </message>
 </context>
 <context>
@@ -8064,7 +8069,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Zašifrování </translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
@@ -8490,7 +8495,7 @@ Painter</source>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation type="unfinished"></translation>
+        <translation>Další historické záznamy </translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -8522,7 +8527,7 @@ Painter</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z jiných šablon</translation>
     </message>
     <message>
         <source>Next Page Section Break</source>
@@ -8946,7 +8951,7 @@ Painter</source>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola pravopisu</translation>
     </message>
     <message>
         <source>Spelling Suggestions</source>
@@ -9154,7 +9159,7 @@ Painter</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet slov</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -9166,7 +9171,7 @@ Painter</source>
     </message>
     <message>
         <source>WrapText</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -9982,19 +9987,19 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
     <message>
         <source>About WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>O aplikaci WPS Writer</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -10030,7 +10035,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Zašifrování</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
@@ -10082,15 +10087,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z on-line šablon</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z jiných šablon</translation>
     </message>
     <message>
         <source>Open</source>
@@ -11476,7 +11481,8 @@ Merged Data</source>
     <message>
         <source>Wrap
 Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání
+textu</translation>
     </message>
 </context>
 <context>
@@ -12082,12 +12088,12 @@ Text</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
 </context>
 <context>
@@ -12098,11 +12104,11 @@ Text</source>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedna stránka</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Tisk</translation>
     </message>
     <message>
         <source>Show</source>
@@ -12110,7 +12116,7 @@ Text</source>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvě stránky</translation>
     </message>
     <message>
         <source>View Ruler</source>
@@ -12260,11 +12266,11 @@ Text</source>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Změnit možnosti sledování...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
-        <translation type="unfinished"></translation>
+        <translation>Změnit uživatelské jméno...</translation>
     </message>
     <message>
         <source>Chinese Transition</source>
@@ -12276,7 +12282,7 @@ Text</source>
     </message>
     <message>
         <source>Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>Porovnat</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -12405,7 +12411,7 @@ Text</source>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola pravopisu</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -12421,7 +12427,7 @@ Text</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet slov</translation>
     </message>
     <message>
         <source>horzReviewPane</source>
@@ -14174,12 +14180,12 @@ Effects</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obtékání textu</translation>
     </message>
 </context>
 <context>
@@ -15974,7 +15980,7 @@ Effects</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New from More Templates</source>
@@ -15982,11 +15988,11 @@ Effects</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z on-line šablon</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z jiných šablon </translation>
     </message>
     <message>
         <source>Note</source>
@@ -16121,7 +16127,7 @@ Directly</source>
     </message>
     <message>
         <source>Set Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit jazyk </translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -16145,7 +16151,7 @@ Directly</source>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola pravopisu</translation>
     </message>
     <message>
         <source>Split Horizontally</source>
@@ -16293,7 +16299,7 @@ Directly</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet slov</translation>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
@@ -16394,7 +16400,7 @@ Directly</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z jiných šablon</translation>
     </message>
     <message>
         <source>Office Space</source>
@@ -16406,11 +16412,11 @@ Directly</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Outline</source>
