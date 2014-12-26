@@ -4382,7 +4382,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation>Nový prázdný dokument</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -4434,7 +4434,7 @@ This file may be renamed , deleted or moved the location.</source>
     <name>KxTpRNNewDoc</name>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslední dokumenty</translation>
     </message>
     <message>
         <source>New</source>
@@ -4454,11 +4454,11 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z jiných šablon...</translation>
     </message>
     <message>
         <source>From Design Templates</source>
@@ -4474,7 +4474,7 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový z on-line šablon</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.

@@ -4660,7 +4660,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxCaption_NewFromDefaultTemplate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nový z výchozí šablony </translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -5320,7 +5320,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Can&apos;t Undo</source>
         <comment>TxVersion_CannotUndo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nelze vrátit zpět </translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
@@ -5330,12 +5330,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Undo</source>
         <comment>TxVersion_Undo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zpět</translation>
     </message>
     <message>
         <source>Redo</source>
         <comment>TxVersion_Redo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Znovu</translation>
     </message>
     <message>
         <source>Unlink Fields</source>
