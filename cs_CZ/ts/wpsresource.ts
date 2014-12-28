@@ -11569,7 +11569,7 @@ textu</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Styly a formátování</translation>
     </message>
     <message>
         <source>TOC Level</source>
@@ -16191,7 +16191,7 @@ Directly</source>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Styly a formátování</translation>
     </message>
     <message>
         <source>Subscript</source>
