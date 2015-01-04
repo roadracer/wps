@@ -7470,7 +7470,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation>&amp;Верх:</translation>
+        <translation>По &amp;верхнему краю:</translation>
     </message>
     <message>
         <source>Allow &amp;spacing between cells</source>
