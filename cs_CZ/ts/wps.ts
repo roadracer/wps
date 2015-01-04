@@ -9974,15 +9974,15 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxTpStyeFormat</name>
     <message>
         <source>New Style...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový styl...</translation>
     </message>
     <message>
         <source>Clear Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat formát</translation>
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit:</translation>
     </message>
     <message>
         <source>From</source>
@@ -9990,7 +9990,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Formatting of selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>Formátování vybraného textu</translation>
     </message>
     <message>
         <source>Pick formatting to apply</source>

@@ -1415,11 +1415,11 @@
     <name>classics.reviewing</name>
     <message>
         <source>Accept All Changes in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijmout všechny změny v dokumentu</translation>
     </message>
     <message>
         <source>Accept Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijmout změnu</translation>
     </message>
     <message>
         <source>Accept Selected Change</source>
@@ -3009,7 +3009,7 @@ textu</translation>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Jiné formáty</translation>
     </message>
     <message>
         <source>Print</source>
@@ -3089,11 +3089,11 @@ textu</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Šablona WPS Writer</translation>
     </message>
 </context>
 <context>
@@ -3333,15 +3333,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Clear Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat formátování</translation>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat styl </translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Schránka</translation>
     </message>
     <message>
         <source>Combine Characters</source>
@@ -3849,7 +3849,7 @@ stránky</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat vodoznak</translation>
     </message>
     <message>
         <source>Reset Form Fields</source>
@@ -4437,7 +4437,7 @@ textu</translation>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat styl</translation>
     </message>
     <message>
         <source>Close</source>
@@ -7800,7 +7800,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Schránka</translation>
     </message>
     <message>
         <source>Close All</source>
@@ -8093,7 +8093,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -8206,7 +8206,7 @@ Painter</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formátování</translation>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -8743,7 +8743,7 @@ Painter</source>
     </message>
     <message>
         <source>Remove Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat vodoznak</translation>
     </message>
     <message>
         <source>Repeat Header Rows</source>
@@ -10103,7 +10103,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Jiné formáty</translation>
     </message>
     <message>
         <source>Print</source>
@@ -10410,15 +10410,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Clear Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat formátování</translation>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat styl</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Schránka</translation>
     </message>
     <message>
         <source>Combine Characters</source>
@@ -10906,7 +10906,7 @@ Break</source>
     </message>
     <message>
         <source>Remove Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat vodoznak</translation>
     </message>
     <message>
         <source>Reset Form Fields</source>
@@ -11497,7 +11497,7 @@ textu</translation>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat styl</translation>
     </message>
     <message>
         <source>Close</source>
@@ -11569,7 +11569,7 @@ textu</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Styly a formátování</translation>
     </message>
     <message>
         <source>TOC Level</source>
@@ -15720,7 +15720,7 @@ Effects</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Schránka</translation>
     </message>
     <message>
         <source>Close</source>
@@ -15752,7 +15752,7 @@ Effects</source>
     </message>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsah </translation>
     </message>
     <message>
         <source>Copy</source>
@@ -16191,7 +16191,7 @@ Directly</source>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Styly a formátování</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -16299,7 +16299,7 @@ Directly</source>
     </message>
     <message>
         <source>Word Count</source>
-        <translation>Počet slov</translation>
+        <translation>Počet slov </translation>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
@@ -16356,7 +16356,7 @@ Directly</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formátování</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -16584,7 +16584,7 @@ Directly</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formátování</translation>
     </message>
     <message>
         <source>Header and Footer</source>
