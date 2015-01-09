@@ -2178,7 +2178,7 @@
     <name>ongmani.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechna ohraničení</translation>
     </message>
     <message>
         <source>Border</source>
@@ -2194,7 +2194,7 @@
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolní ohraničení</translation>
     </message>
     <message>
         <source>Clear
@@ -2215,19 +2215,19 @@ Table Style</source>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní ohraničení</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní vodorovné ohraničení</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní svislé ohraničení</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Levé ohraničení</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -2247,15 +2247,15 @@ Table Style</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez ohraničení</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnější ohraničení</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravé ohraničení</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -2271,7 +2271,7 @@ Table Style</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Horní ohraničení</translation>
     </message>
 </context>
 <context>
@@ -3289,7 +3289,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechna ohraničení</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -3305,7 +3305,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolní ohraničení </translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -3435,15 +3435,15 @@ formát</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní ohraničení</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní vodorovné ohraničení</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní svislé ohraničení</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -3455,7 +3455,7 @@ formát</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Levé ohraničení</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3495,11 +3495,11 @@ formát</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez ohraničení</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnější ohraničení </translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3527,7 +3527,7 @@ formát</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravé ohraničení</translation>
     </message>
     <message>
         <source>Select</source>
@@ -3551,11 +3551,11 @@ formát</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit výchozí způsob vkládání</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <source>Shading</source>
@@ -3603,7 +3603,7 @@ formát</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Horní ohraničení </translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -7587,7 +7587,7 @@ textu</translation>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechna ohraničení</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -7691,7 +7691,7 @@ textu</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolní ohraničení</translation>
     </message>
     <message>
         <source>Break Forward Link</source>
@@ -8395,7 +8395,7 @@ Painter</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Levé ohraničení</translation>
     </message>
     <message>
         <source>Left Tab</source>
@@ -8539,7 +8539,7 @@ Painter</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez ohraničení</translation>
     </message>
     <message>
         <source>None</source>
@@ -8611,7 +8611,7 @@ Painter</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnější ohraničení</translation>
     </message>
     <message>
         <source>Over Type</source>
@@ -8775,7 +8775,7 @@ Painter</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravé ohraničení</translation>
     </message>
     <message>
         <source>Right Tab</source>
@@ -9055,7 +9055,7 @@ Painter</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Horní ohraničení</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -9328,7 +9328,7 @@ Painter</source>
     <name>rainbow.ct_design</name>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechna ohraničení</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -9340,7 +9340,7 @@ Painter</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolní ohraničení</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -9365,19 +9365,19 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní ohraničení</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní vodorovné ohraničení</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní svislé ohraničení</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Levé ohraničení</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -9397,15 +9397,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez ohraničení</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnější ohraničení</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravé ohraničení</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -9429,7 +9429,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Horní ohraničení</translation>
     </message>
 </context>
 <context>
@@ -10366,7 +10366,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechna ohraničení</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -10382,7 +10382,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolní ohraničení</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -10498,15 +10498,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní ohraničení</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní vodorovné ohraničení</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnitřní svislé ohraničení</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -10518,7 +10518,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Levé ohraničení</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -10558,11 +10558,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez ohraničení</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnější ohraničení</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -10586,7 +10586,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravé ohraničení</translation>
     </message>
     <message>
         <source>Select</source>
@@ -10610,11 +10610,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit výchozí způsob vkládání</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -10662,7 +10662,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Horní ohraničení</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -11360,7 +11360,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Page Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohraničení stránky</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -11368,7 +11368,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení stránky</translation>
     </message>
     <message>
         <source>Paragraph</source>
