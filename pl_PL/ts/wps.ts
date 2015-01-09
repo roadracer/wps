@@ -122,8 +122,10 @@
     </message>
     <message>
         <source>Aqua</source>
-        <translatorcomment>Niebieskozielony</translatorcomment>
-        <translation>Akwamaryna</translation>
+        <translation variants="yes">
+            <lengthvariant>Akwamaryna</lengthvariant>
+            <lengthvariant>Niebieskozielony</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pink</source>
@@ -294,8 +296,10 @@
     </message>
     <message>
         <source>Change Case</source>
-        <translatorcomment>Zmienianie wielkości liter</translatorcomment>
-        <translation>Zmień wielkość liter</translation>
+        <translation variants="yes">
+            <lengthvariant>Zmień wielkość liter</lengthvariant>
+            <lengthvariant>Zmienianie wielkości liter</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -379,7 +383,10 @@
     </message>
     <message>
         <source>Centered</source>
-        <translation>Wyśrodkowane</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkowany</lengthvariant>
+            <lengthvariant>Wyśrodkowane</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Right</source>
@@ -643,8 +650,10 @@
     </message>
     <message>
         <source>&amp;Start at:</source>
-        <translatorcomment>&amp;Początek w:</translatorcomment>
-        <translation>&amp;Rozpocznij w:</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Rozpocznij w:</lengthvariant>
+            <lengthvariant>&amp;Początek w:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Previous level number:</source>
@@ -672,7 +681,10 @@
     </message>
     <message>
         <source>Centered</source>
-        <translation>Wyśrodkowany</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkowany</lengthvariant>
+            <lengthvariant>Wyśrodkowane</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Right</source>
@@ -716,8 +728,10 @@
     </message>
     <message>
         <source>Nothing</source>
-        <translatorcomment>Nie dołączaj</translatorcomment>
-        <translation>Nic</translation>
+        <translation variants="yes">
+            <lengthvariant>Nic</lengthvariant>
+            <lengthvariant>Nie dołączaj</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Restart numbering after:</source>
@@ -847,8 +861,10 @@
     </message>
     <message>
         <source>Writer</source>
-        <translatorcomment>Autor tekstów</translatorcomment>
-        <translation>Scenarzysta</translation>
+        <translation variants="yes">
+            <lengthvariant>Scenarzysta</lengthvariant>
+            <lengthvariant>Autor tekstów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Table</source>
@@ -856,8 +872,10 @@
     </message>
     <message>
         <source>No content</source>
-        <translatorcomment>Bez treści</translatorcomment>
-        <translation>Bez zawartości</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez zawartości</lengthvariant>
+            <lengthvariant>Bez treści</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -934,7 +952,7 @@
     </message>
     <message>
         <source>Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
-        <translation>Writer zakończył sprawdzanie zaznaczonego obszaru. Czy chcesz kontynuować sprawdzanie reszty dokumentu?</translation>
+        <translation>Program Writer zakończył sprawdzanie zaznaczonego obszaru. Czy chcesz kontynuować sprawdzanie reszty dokumentu?</translation>
     </message>
     <message>
         <source>Cannot check spelling on original revision status</source>
@@ -1254,8 +1272,10 @@
     </message>
     <message>
         <source>Create Custom Dictionary</source>
-        <translatorcomment>Tworzenie słownika niestandardowego</translatorcomment>
-        <translation>Utwórz słownik niestandardowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Utwórz słownik niestandardowy</lengthvariant>
+            <lengthvariant>Tworzenie słownika niestandardowego</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
@@ -1389,8 +1409,10 @@
     </message>
     <message>
         <source>B&amp;orders</source>
-        <translatorcomment>Obramowania</translatorcomment>
-        <translation>K&amp;rawędzie</translation>
+        <translation variants="yes">
+            <lengthvariant>Ob&amp;ramowania</lengthvariant>
+            <lengthvariant>K&amp;rawędzie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Setting:</source>
@@ -2134,8 +2156,10 @@ użyj odpowiedniego przycisku</translation>
     <name>KxDlgConvertNotes</name>
     <message>
         <source>Convert Notes</source>
-        <translatorcomment>Konwertuj przypisy</translatorcomment>
-        <translation>Konwertowanie przypisów</translation>
+        <translation variants="yes">
+            <lengthvariant>Konwertowanie przypisów</lengthvariant>
+            <lengthvariant>Konwertuj przypisy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Convert all &amp;footnotes to endnotes</source>
@@ -2476,8 +2500,10 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
-        <translatorcomment>&amp;Początek w:</translatorcomment>
-        <translation>&amp;Rozpocznij w:</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Rozpocznij w:</lengthvariant>
+            <lengthvariant>&amp;Początek w:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Preview</source>
@@ -2685,7 +2711,7 @@ użyj odpowiedniego przycisku</translation>
     <message>
         <source>bnUp</source>
         <translation variants="yes">
-            <lengthvariant>bnW górę</lengthvariant>
+            <lengthvariant>bnWgórę</lengthvariant>
             <lengthvariant>bnUp</lengthvariant>
         </translation>
     </message>
@@ -2696,7 +2722,7 @@ użyj odpowiedniego przycisku</translation>
     <message>
         <source>bnDown</source>
         <translation variants="yes">
-            <lengthvariant>bnW dół</lengthvariant>
+            <lengthvariant>bnWdół</lengthvariant>
             <lengthvariant>bnDown</lengthvariant>
         </translation>
     </message>
@@ -2826,8 +2852,10 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translatorcomment>Pamiętam tą operację, nie przypominaj mi ponownie</translatorcomment>
-        <translation>Zapamiętaj tą operację, nie przypominaj mi ponownie</translation>
+        <translation variants="yes">
+            <lengthvariant>Zapamiętaj tą operację, nie przypominaj mi ponownie</lengthvariant>
+            <lengthvariant>Pamiętam tą operację, nie przypominaj mi ponownie</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -3203,7 +3231,10 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Sp&amp;ecial</source>
-        <translation>Sp&amp;ecjalne</translation>
+        <translation variants="yes">
+            <lengthvariant>Sp&amp;ecjalne</lengthvariant>
+            <lengthvariant>Sp&amp;ecjalny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Match half/full for&amp;ms</source>
@@ -3250,8 +3281,10 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Line</source>
-        <translatorcomment>Wiersz</translatorcomment>
-        <translation>Linia</translation>
+        <translation variants="yes">
+            <lengthvariant>Linia</lengthvariant>
+            <lengthvariant>Wiersz</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Comment</source>
@@ -3445,8 +3478,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>S&amp;mall caps</source>
-        <translatorcomment>&amp;Małe litery</translatorcomment>
-        <translation>K&amp;apitaliki</translation>
+        <translation variants="yes">
+            <lengthvariant>K&amp;apitaliki</lengthvariant>
+            <lengthvariant>&amp;Małe litery</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Double strikethrou&amp;gh</source>
@@ -3466,8 +3501,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translatorcomment>&amp;Ukryte</translatorcomment>
-        <translation>&amp;Ukryty</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Ukryty</lengthvariant>
+            <lengthvariant>&amp;Ukryte</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
@@ -3640,8 +3677,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
-        <translatorcomment>&amp;Początek w:</translatorcomment>
-        <translation>&amp;Rozpocznij w:</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Rozpocznij w:</lengthvariant>
+            <lengthvariant>&amp;Początek w:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Nu&amp;mbering:</source>
@@ -3679,12 +3718,17 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Show(&amp;D):</source>
-        <translation>Pokaż(&amp;D):</translation>
+        <translation variants="yes">
+            <lengthvariant>Pokaż(&amp;D):</lengthvariant>
+            <lengthvariant>Pokaz(&amp;D):</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Styles are currently allowed(&amp;P):</source>
-        <translatorcomment>Zaznaczone style są obecnie dozwolone(&amp;P):</translatorcomment>
-        <translation>Style są obecnie dozwolone(&amp;P):</translation>
+        <translation variants="yes">
+            <lengthvariant>Style są obecnie dozwolone(&amp;P):</lengthvariant>
+            <lengthvariant>Zaznaczone style są obecnie dozwolone(&amp;P):</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>R&amp;estrictions on the styles:</source>
@@ -3753,8 +3797,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Border</source>
-        <translatorcomment>Krawędź</translatorcomment>
-        <translation>Obramowanie</translation>
+        <translation variants="yes">
+            <lengthvariant>Obramowanie</lengthvariant>
+            <lengthvariant>Krawędź</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Grid &amp;color:</source>
@@ -3922,8 +3968,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translatorcomment>&amp;Automatyczna aktualizacja</translatorcomment>
-        <translation>&amp;Aktualizuj automatycznie</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Aktualizuj automatycznie</lengthvariant>
+            <lengthvariant>&amp;Automatyczna aktualizacja</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Default...</source>
@@ -3994,8 +4042,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgInsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translatorcomment>Wstawianie tabeli</translatorcomment>
-        <translation>Wstaw tabelę</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw tabelę</lengthvariant>
+            <lengthvariant>Wstawianie tabeli</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Table size</source>
@@ -4065,8 +4115,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>buttonGroup_mode</source>
-        <translatorcomment>buttonGroup_mode</translatorcomment>
-        <translation>przycisk trybu_Grupa</translation>
+        <translation variants="yes">
+            <lengthvariant>przyciskTrybu_Grupa</lengthvariant>
+            <lengthvariant>buttonGroup_mode</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Add &amp;line numbering</source>
@@ -4078,12 +4130,14 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Start &amp;at:</source>
-        <translatorcomment>&amp;Początek w:</translatorcomment>
-        <translation>&amp;Rozpocznij w:</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Rozpocznij w:</lengthvariant>
+            <lengthvariant>&amp;Początek w:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>mm</source>
-        <translation></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>Numbering:</source>
@@ -4299,87 +4353,93 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMergeCompare</name>
     <message>
         <source>&amp;Original document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oryginalny dokument</translation>
     </message>
     <message>
         <source>&amp;Revised document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skorygowany dokument</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">TAK</translation>
+        <translation variants="yes">
+            <lengthvariant>TAK</lengthvariant>
+            <lengthvariant>OK</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Comparison settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia porównywania</translation>
     </message>
     <message>
         <source>Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstawienia i usunięcia</translation>
     </message>
     <message>
         <source>T&amp;ables</source>
-        <translation type="unfinished"></translation>
+        <translation>T&amp;abele</translation>
     </message>
     <message>
         <source>Comme&amp;nts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kome&amp;ntarze</translation>
     </message>
     <message>
         <source>Footnotes and en&amp;dnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Przypisy dolne i przypisy &amp;końcowe</translation>
     </message>
     <message>
         <source>Te&amp;xtboxes</source>
-        <translation type="unfinished"></translation>
+        <translation>Pola &amp;tekstowe</translation>
     </message>
     <message>
         <source>Case chan&amp;ges</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmiany wielkoś&amp;ci liter</translation>
     </message>
     <message>
         <source>Field&amp;s</source>
-        <translation type="unfinished"></translation>
+        <translation>Po&amp;la</translation>
     </message>
     <message>
         <source>White s&amp;pace</source>
-        <translation type="unfinished"></translation>
+        <translation>Biały z&amp;nak</translation>
     </message>
     <message>
         <source>Show changes</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Pokazywanie zmian</lengthvariant>
+            <lengthvariant>Pokaż zmiany</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Show changes at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż zmiany na:</translation>
     </message>
     <message>
         <source>Show changes in:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż zmiany w:</translation>
     </message>
     <message>
         <source>&amp;Character level</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziom zn&amp;aku</translation>
     </message>
     <message>
         <source>Original documen&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Oryginalny dokumen&amp;t</translation>
     </message>
     <message>
         <source>&amp;Word level</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziom wy&amp;razu</translation>
     </message>
     <message>
         <source>Rev&amp;ised document</source>
-        <translation type="unfinished"></translation>
+        <translation>Sko&amp;rygowany dokument</translation>
     </message>
     <message>
         <source>New doc&amp;ument</source>
-        <translation type="unfinished"></translation>
+        <translation>Now&amp;y dokument</translation>
     </message>
 </context>
 <context>
@@ -4441,8 +4501,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMergeToEmail</name>
     <message>
         <source>Merge to E-mail</source>
-        <translatorcomment>Scalanie do poczty e-mail</translatorcomment>
-        <translation>Scal do poczty e-mail</translation>
+        <translation variants="yes">
+            <lengthvariant>Scal do poczty e-mail</lengthvariant>
+            <lengthvariant>Scalanie do poczty e-mail</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Message options</source>
@@ -4514,7 +4576,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <message>
         <source>rbFromto</source>
         <translation variants="yes">
-            <lengthvariant>rbOddo</lengthvariant>
+            <lengthvariant>rbOdDo</lengthvariant>
             <lengthvariant>rbFromto</lengthvariant>
         </translation>
     </message>
@@ -4549,8 +4611,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMergeToNewDocOrPrinter</name>
     <message>
         <source>Merge records</source>
-        <translatorcomment>Scalanie rekordów</translatorcomment>
-        <translation>Scal rekordy</translation>
+        <translation variants="yes">
+            <lengthvariant>Scal rekordy</lengthvariant>
+            <lengthvariant>Scalanie rekordów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;All</source>
@@ -4660,7 +4724,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <message>
         <source>groupBox</source>
         <translation variants="yes">
-            <lengthvariant>Polegrupy</lengthvariant>
+            <lengthvariant>PoleGrupy</lengthvariant>
             <lengthvariant>groupBox</lengthvariant>
         </translation>
     </message>
@@ -4836,7 +4900,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Pokaż</translation>
+        <translation variants="yes">
+            <lengthvariant>Pokaż</lengthvariant>
+            <lengthvariant>Pokaz</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Sta&amp;rtup task window</source>
@@ -5121,7 +5188,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Start With</source>
-        <translation>Początek</translation>
+        <translation variants="yes">
+            <lengthvariant>Rozpocznij od</lengthvariant>
+            <lengthvariant>Początek od</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Start With:</source>
@@ -5193,8 +5263,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Track Changes</source>
-        <translatorcomment>Śledzenie zmian</translatorcomment>
-        <translation>Śledź zmiany</translation>
+        <translation variants="yes">
+            <lengthvariant>Śledź zmiany</lengthvariant>
+            <lengthvariant>Śledzenie zmian</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Markup</source>
@@ -5387,8 +5459,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Standard</source>
-        <translatorcomment>&amp;Standardowy</translatorcomment>
-        <translation>&amp;Standardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Standardowy</lengthvariant>
+            <lengthvariant>&amp;Standardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Custo&amp;m</source>
@@ -5656,8 +5730,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Autofit the tab width</source>
-        <translatorcomment>&amp;Automatycznie dopasuj szerokość zakładki</translatorcomment>
-        <translation>&amp;Autodopasowanie szerokości karty</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Autodopasowanie szerokości karty</lengthvariant>
+            <lengthvariant>&amp;Automatycznie dopasuj szerokość zakładki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>, 5, 5.93628e+175, 1.26297e-306, 2.64983e+180</source>
@@ -5772,12 +5848,14 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Embed &amp;TrueType</source>
-        <translatorcomment>Osadzanie czcionek &amp;TrueType</translatorcomment>
-        <translation>Osadź czcionki &amp;TrueType</translation>
+        <translation variants="yes">
+            <lengthvariant>Osadź czcionki &amp;TrueType</lengthvariant>
+            <lengthvariant>Osadzanie czcionek &amp;TrueType</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Just embed characters used in the document (best for reducing file size)</source>
-        <translation>Osadź &amp;tylko znaki używane w dokumencie (najlepszy spos&amp;ób zmniejszenia rozmiaru pliku)</translation>
+        <translation>Osadź &amp;tylko znaki używane w dokumencie (najlepszy sposób zmniejszenia rozmiaru pliku)</translation>
     </message>
     <message>
         <source>&amp;Do not embed common system fonts</source>
@@ -5856,8 +5934,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
-        <translatorcomment>Kliknij dwukrotnie w przestrzeni, aby utworzyć &amp;nowy dokument</translatorcomment>
-        <translation>Kliknij dwukrotnie w obszarze, aby utworzyć &amp;nowy dokument</translation>
+        <translation variants="yes">
+            <lengthvariant>Kliknij dwukrotnie w obszarze, aby utworzyć &amp;nowy dokument</lengthvariant>
+            <lengthvariant>Kliknij dwukrotnie w przestrzeni, aby utworzyć &amp;nowy dokument</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
@@ -5873,71 +5953,87 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Pokaż &amp;okna na pasku zadań</lengthvariant>
+            <lengthvariant>Pokaż &amp;okna w pasku zadań</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Pole podglądu czci&amp;onek</translation>
     </message>
     <message>
         <source>AutoNumber</source>
-        <translation type="unfinished"></translation>
+        <translation>Autonumerowanie</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Create &amp;backup files on first save</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Utwórz &amp;kopię zapasową plików przy pierwszym zapisie</lengthvariant>
+            <lengthvariant>Utwórz &amp;kopię zapasową plików podczas pierwszego zapisu</lengthvariant>
+            <lengthvariant>Tworzenie &amp;kopii zapasowej plików podczas pierwszego zapisu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalizacja pliku Au&amp;toodzyskiwania:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Przeglądaj...</translation>
+        <translation>&amp;Przeglądaj...</translation>
     </message>
     <message>
         <source>Reminder for embedding &amp;cloud fonts in the file</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Przypomnienie dla osadzania czcionek usługi &amp;Chmura w pliku</lengthvariant>
+            <lengthvariant>Przypomnienie dla osadzania czcionek &amp;Chmury w pliku</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Do &amp;not compress images in file</source>
-        <translation type="unfinished"></translation>
+        <translation>N&amp;ie kompresuj obrazów w pliku</translation>
     </message>
     <message>
         <source>Set default target out&amp;put to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw domy&amp;ślną rozdzielczość docelową na:</translation>
     </message>
     <message>
         <source>220 ppi</source>
-        <translation type="unfinished"></translation>
+        <translation>220 ppi</translation>
     </message>
     <message>
         <source>150 ppi</source>
-        <translation type="unfinished"></translation>
+        <translation>150 ppi</translation>
     </message>
     <message>
         <source>96 ppi</source>
-        <translation type="unfinished"></translation>
+        <translation>96 ppi</translation>
     </message>
     <message>
         <source>Password protect</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Chroń hasłem</lengthvariant>
+            <lengthvariant>Hasło ochrony</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Przycisk Zaawansowane pozwala wybrać spośród różnych typów szyfrowania.</lengthvariant>
+            <lengthvariant>Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>File encryption options for this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje szyfrowania plików dla tego dokumentu:</translation>
     </message>
     <message>
         <source>File sharing options for this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje udostępniania plików dla tego dokumentu:</translation>
     </message>
 </context>
 <context>
@@ -5971,8 +6067,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Middle</source>
-        <translatorcomment>Środek</translatorcomment>
-        <translation>Do środka</translation>
+        <translation variants="yes">
+            <lengthvariant>Do środka</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Right</source>
@@ -6012,8 +6110,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Start &amp;at:</source>
-        <translatorcomment>&amp;Początek w:</translatorcomment>
-        <translation>&amp;Rozpocznij w:</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Rozpocznij w:</lengthvariant>
+            <lengthvariant>&amp;Początek w:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
@@ -6267,8 +6367,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Borders....</source>
-        <translatorcomment>&amp;Obramowania....</translatorcomment>
-        <translation>&amp;Krawędzie....</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Obramowania....</lengthvariant>
+            <lengthvariant>&amp;Krawędzie....</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Document Grid</source>
@@ -6324,8 +6426,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Lines</source>
-        <translatorcomment>Linie</translatorcomment>
-        <translation>Wiersze</translation>
+        <translation variants="yes">
+            <lengthvariant>Wiersze</lengthvariant>
+            <lengthvariant>Linie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pe&amp;r page:</source>
@@ -6441,7 +6545,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Centered</source>
-        <translation>Wyśrodkowane</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkowany</lengthvariant>
+            <lengthvariant>Wyśrodkowane</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Right</source>
@@ -6477,7 +6584,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Special:</source>
-        <translation>&amp;Specjalne:</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Specjalne:</lengthvariant>
+            <lengthvariant>&amp;Specjalny:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>B&amp;y:</source>
@@ -6739,7 +6849,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Centered</source>
-        <translation>Wyśrodkowane</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkowany</lengthvariant>
+            <lengthvariant>Wyśrodkowane</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Left</source>
@@ -6858,8 +6971,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>From top to &amp;bottom</source>
-        <translatorcomment>Z góry do &amp;dołu</translatorcomment>
-        <translation>Od góry do &amp;dołu</translation>
+        <translation variants="yes">
+            <lengthvariant>Od góry do &amp;dołu</lengthvariant>
+            <lengthvariant>Z góry do &amp;dołu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Repeat</source>
@@ -7479,7 +7594,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Fill-in e&amp;nabled</source>
-        <translation>ypełnia&amp;nie włączone</translation>
+        <translation>Wypełnia&amp;nie włączone</translation>
     </message>
     <message>
         <source>&amp;Show text input tip:</source>
@@ -7612,147 +7727,150 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Field name record delimiter</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Ograniczniki rekordu Nazwa pola</lengthvariant>
+            <lengthvariant>Ograniczniki rekordu nagłówka</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pola danych muszą użyć znaków (o nazwie &quot;ogranicznik&quot;), aby oddzielić każde od siebie; Podobnie rekordy danych muszą być oddzielone znakiem ogranicznika rekordu. Proszę użyj poniższej listy, aby wybrać odpowiedni ogranicznik.</translation>
     </message>
     <message>
         <source>Field delimiter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogranicznik pola:</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished">(Brak)</translation>
+        <translation>(Brak)</translation>
     </message>
     <message>
         <source>(Paragraph mark)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Znacznik akapitu)</translation>
     </message>
     <message>
         <source>(Tabs)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Tabulatory)</translation>
     </message>
     <message>
         <source>,</source>
-        <translation type="unfinished"></translation>
+        <translation>,</translation>
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation>.</translation>
     </message>
     <message>
         <source>!</source>
-        <translation type="unfinished">!</translation>
+        <translation>!</translation>
     </message>
     <message>
         <source>#</source>
-        <translation type="unfinished">#</translation>
+        <translation>#</translation>
     </message>
     <message>
         <source>$</source>
-        <translation type="unfinished"></translation>
+        <translation>$</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>&amp;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <source>(</source>
-        <translation type="unfinished"></translation>
+        <translation>(</translation>
     </message>
     <message>
         <source>)</source>
-        <translation type="unfinished"></translation>
+        <translation>)</translation>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation>*</translation>
     </message>
     <message>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation>+</translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished">-</translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>:</source>
-        <translation type="unfinished"></translation>
+        <translation>:</translation>
     </message>
     <message>
         <source>;</source>
-        <translation type="unfinished"></translation>
+        <translation>;</translation>
     </message>
     <message>
         <source>&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <source>=</source>
-        <translation type="unfinished"></translation>
+        <translation>=</translation>
     </message>
     <message>
         <source>&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <source>?</source>
-        <translation type="unfinished">?</translation>
+        <translation>?</translation>
     </message>
     <message>
         <source>@</source>
-        <translation type="unfinished"></translation>
+        <translation>@</translation>
     </message>
     <message>
         <source>[</source>
-        <translation type="unfinished"></translation>
+        <translation>[</translation>
     </message>
     <message>
         <source>]</source>
-        <translation type="unfinished"></translation>
+        <translation>]</translation>
     </message>
     <message>
         <source>^</source>
-        <translation type="unfinished">^</translation>
+        <translation>^</translation>
     </message>
     <message>
         <source>_</source>
-        <translation type="unfinished"></translation>
+        <translation>_</translation>
     </message>
     <message>
         <source>`</source>
-        <translation type="unfinished"></translation>
+        <translation>`</translation>
     </message>
     <message>
         <source>{</source>
-        <translation type="unfinished"></translation>
+        <translation>{</translation>
     </message>
     <message>
         <source>}</source>
-        <translation type="unfinished"></translation>
+        <translation>}</translation>
     </message>
     <message>
         <source>|</source>
-        <translation type="unfinished"></translation>
+        <translation>|</translation>
     </message>
     <message>
         <source>~</source>
-        <translation type="unfinished"></translation>
+        <translation>~</translation>
     </message>
     <message>
         <source>Record delimiter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogranicznik rekordu:</translation>
     </message>
 </context>
 <context>
@@ -7814,7 +7932,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Zoom to</source>
-        <translation>Powiększenie do</translation>
+        <translation variants="yes">
+            <lengthvariant>Powiększenie do</lengthvariant>
+            <lengthvariant>Powiększ do</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;100%</source>
@@ -7865,7 +7986,6 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>in</source>
-        <translatorcomment>w</translatorcomment>
         <translation>cal</translation>
     </message>
     <message>
@@ -7955,7 +8075,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Remove All Editing Permissions For This User</source>
-        <translation>&amp;Remove All Editing Permissions For This User</translation>
+        <translation>&amp;Usuń wszystkie uprawnienia tego użytkownika do edycji</translation>
     </message>
 </context>
 <context>
@@ -8005,7 +8125,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Save PDF File As</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz plik Adobe PDF jako</translation>
     </message>
 </context>
 <context>
@@ -8691,8 +8811,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Find Font</source>
-        <translatorcomment>Znajdowanie czcionki</translatorcomment>
-        <translation>Znajdź czcionkę</translation>
+        <translation variants="yes">
+            <lengthvariant>Znajdź czcionkę</lengthvariant>
+            <lengthvariant>Znajdowanie czcionki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Replace Font</source>
@@ -9218,67 +9340,78 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <name>KxMatchFieldsDlg</name>
     <message>
         <source>(Not matched)</source>
-        <translatorcomment>Nie dopasowano</translatorcomment>
-        <translation>(Niepasujący)</translation>
+        <translation variants="yes">
+            <lengthvariant>(Niepasujący)</lengthvariant>
+            <lengthvariant>(Nie dopasowano)</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
     <name>KxMergeCompareDlg</name>
     <message>
         <source>Compare Documents</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Porównaj dokumenty</lengthvariant>
+            <lengthvariant>Porównywanie dokumentów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Lab&amp;el changes with</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;znacz zmiany etykietami</translation>
     </message>
     <message>
         <source>La&amp;bel changes with</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oznacz zmiany etykietami</translation>
     </message>
     <message>
         <source>Merge Documents</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Scal dokumenty</lengthvariant>
+            <lengthvariant>Scalanie dokumentów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Lab&amp;el unmarked changes with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadaj n&amp;ieoznaczonym zmianom etykiety:</translation>
     </message>
     <message>
         <source>La&amp;bel unmarked changes with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadaj &amp;nieoznaczonym zmianom etykiety:</translation>
     </message>
     <message>
         <source>&amp;More&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Więcej&gt;&gt;</translation>
     </message>
     <message>
         <source>browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>przeglądaj...</translation>
     </message>
     <message>
         <source>&lt;&lt; &amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt; &amp;Mniej</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Otwórz</translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <source>WPS Writer found no differences between the two documents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Writer nie odnalazł żadnych różnic między dwoma dokumentami.</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Cannot compare the unsaved read-only document.</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Nie można porównywać niezapisanego dokumentu w trybie tylko do odczytu.</lengthvariant>
+            <lengthvariant>Nie można porównać niezapisanego dokumentu w trybie tylko do odczytu.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrzebujesz zapisać zmiany w &quot;%1&quot; przed porównywaniem dokumentów, proszę zapisać dokument.</translation>
     </message>
 </context>
 <context>
@@ -9324,8 +9457,10 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <name>KxMergeToNewDocOrPrinterDlg</name>
     <message>
         <source>Merge to New Document</source>
-        <translatorcomment>Scalanie z nowym dokumentem</translatorcomment>
-        <translation>Scal z nowym dokumentem</translation>
+        <translation variants="yes">
+            <lengthvariant>Scal z nowym dokumentem</lengthvariant>
+            <lengthvariant>Scalanie z nowym dokumentem</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Merge to Printer</source>
@@ -9350,7 +9485,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>The value must not be blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość nie może być pusta.</translation>
     </message>
 </context>
 <context>
@@ -9504,7 +9639,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Justify alignment</source>
-        <translation>Wyjustuj</translation>
+        <translation>Wyrównaj i wyjustuj</translation>
     </message>
     <message>
         <source>Single line spacing</source>
@@ -9621,7 +9756,10 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>Wyśrodkowane</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkowany</lengthvariant>
+            <lengthvariant>Wyśrodkowane</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Right</source>
@@ -9717,7 +9855,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Justify alignment</source>
-        <translation>Wyjustuj</translation>
+        <translation>Wyrównaj i wyjustuj</translation>
     </message>
     <message>
         <source>Single line spacing</source>
@@ -9864,11 +10002,18 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</lengthvariant>
+            <lengthvariant>Nie masz uprawnień do zapisu plików kopii zapasowej w &quot;%1&quot;.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Katalog &quot;%1&quot; jest nieprawidłowy.</lengthvariant>
+            <lengthvariant>Katalog &quot;%1&quot; nie jest poprawny.</lengthvariant>
+            <lengthvariant>Katalog &quot;%1&quot; nie jest prawidłowy.</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -10002,43 +10147,43 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>①</source>
-        <translation type="unfinished"></translation>
+        <translation>①</translation>
     </message>
     <message>
         <source>②</source>
-        <translation type="unfinished"></translation>
+        <translation>②</translation>
     </message>
     <message>
         <source>③</source>
-        <translation type="unfinished"></translation>
+        <translation>②</translation>
     </message>
     <message>
         <source>④</source>
-        <translation type="unfinished"></translation>
+        <translation>④</translation>
     </message>
     <message>
         <source>⑤</source>
-        <translation type="unfinished"></translation>
+        <translation>⑤</translation>
     </message>
     <message>
         <source>⑥</source>
-        <translation type="unfinished"></translation>
+        <translation>⑥</translation>
     </message>
     <message>
         <source>⑦</source>
-        <translation type="unfinished"></translation>
+        <translation>⑦</translation>
     </message>
     <message>
         <source>⑧</source>
-        <translation type="unfinished"></translation>
+        <translation>⑧</translation>
     </message>
     <message>
         <source>⑨</source>
-        <translation type="unfinished"></translation>
+        <translation>⑨</translation>
     </message>
     <message>
         <source>⑩</source>
-        <translation type="unfinished"></translation>
+        <translation>⑩</translation>
     </message>
 </context>
 <context>
@@ -10130,7 +10275,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished" variants="yes">
+        <translation variants="yes">
             <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
         </translation>
@@ -10808,7 +10953,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsApplication</name>
     <message>
         <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
-        <translation type="unfinished">Wstawiony obraz jest wyświetlany niekompletnie. Czy chcesz automatycznie dostosować odstępy między wierszami w zależności od wielkości obrazu?</translation>
+        <translation>Wstawiony obraz jest wyświetlany niekompletnie. Czy chcesz automatycznie dostosować odstępy między wierszami w zależności od wielkości obrazu?</translation>
     </message>
 </context>
 <context>
@@ -11058,8 +11203,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Insert Custom Contents</source>
-        <translatorcomment>Wstawianie niestandardowej zawartości</translatorcomment>
-        <translation>Wstaw niestandardową zawartość</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw niestandardową zawartość</lengthvariant>
+            <lengthvariant>Wstawianie niestandardowej zawartości</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert Contents</source>
@@ -11188,7 +11335,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Centered</source>
-        <translation>Wyśrodkowane</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkowany</lengthvariant>
+            <lengthvariant>Wyśrodkowane</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Right</source>
@@ -11415,8 +11565,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Header or footer link to previous</source>
-        <translatorcomment>Nagłówek lub stopka łącze do poprzedniego</translatorcomment>
-        <translation>Łącze do poprzedniego nagłówka lub stopki</translation>
+        <translation variants="yes">
+            <lengthvariant>Łącze do poprzedniego nagłówka lub stopki</lengthvariant>
+            <lengthvariant>Nagłówek lub stopka - łącze do poprzedniego</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Alt+E</source>
@@ -11514,42 +11666,42 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
         <source>Odd h&amp;eader link to previous</source>
         <translation variants="yes">
             <lengthvariant>Łącze do poprzedniego nieparzystego n&amp;agłówka</lengthvariant>
-            <lengthvariant>Nieparzysty n&amp;agłówek łącze do poprzedniego</lengthvariant>
+            <lengthvariant>Nieparzysty n&amp;agłówek - łącze do poprzedniego</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Even header link to previous(&amp;G)</source>
         <translation variants="yes">
             <lengthvariant>Łącze do poprzedniego parzystego nagłówka (&amp;G)</lengthvariant>
-            <lengthvariant>Parzysty nagłówek łącze do poprzedniego (&amp;G)</lengthvariant>
+            <lengthvariant>Parzysty nagłówek - łącze do poprzedniego (&amp;G)</lengthvariant>
         </translation>
     </message>
     <message>
         <source>F&amp;irst header link to previous</source>
         <translation variants="yes">
             <lengthvariant>Łącze do p&amp;ierwszego nagłówka</lengthvariant>
-            <lengthvariant>P&amp;ierwszy nagłówek łącze do poprzedniego</lengthvariant>
+            <lengthvariant>P&amp;ierwszy nagłówek - łącze do poprzedniego</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Odd footer link to previous(&amp;J)</source>
         <translation variants="yes">
             <lengthvariant>Łącze do poprzedniej nieparzystej stopki (&amp;J)</lengthvariant>
-            <lengthvariant>Nieparzysta stopka łącze do poprzedniej (&amp;J)</lengthvariant>
+            <lengthvariant>Nieparzysta stopka - łącze do poprzedniej (&amp;J)</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Even footer lin&amp;k to previous</source>
         <translation variants="yes">
             <lengthvariant>Łąc&amp;ze do poprzedniej parzystej stopki</lengthvariant>
-            <lengthvariant>Parzysta stopka łąc&amp;ze do poprzedniej</lengthvariant>
+            <lengthvariant>Parzysta stopka - łąc&amp;ze do poprzedniej</lengthvariant>
         </translation>
     </message>
     <message>
         <source>First footer &amp;link to previous</source>
         <translation variants="yes">
             <lengthvariant>Łącze do p&amp;ierwszej stopki</lengthvariant>
-            <lengthvariant>P&amp;ierwsza stopka łącze do poprzedniej</lengthvariant>
+            <lengthvariant>P&amp;ierwsza stopka - łącze do poprzedniej</lengthvariant>
         </translation>
     </message>
     <message>
@@ -11627,7 +11779,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>Field delimiter and record delimiter cannot be same.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogranicznik pola i ogranicznika rekordu nie mogą być takie same.</translation>
     </message>
 </context>
 <context>
@@ -11655,15 +11807,17 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsGalleryFontComboBox</name>
     <message>
         <source>Simsun</source>
-        <translation type="unfinished"></translation>
+        <translation>SimSun</translation>
     </message>
 </context>
 <context>
     <name>KxWpsHFLinkToPreviousCommand</name>
     <message>
         <source>Header and Footer Link to Previous</source>
-        <translatorcomment>Nagłówek i stopka łącze do poprzedniego</translatorcomment>
-        <translation>Łącze do poprzedniego nagłówka i stopki</translation>
+        <translation variants="yes">
+            <lengthvariant>Łącze do poprzedniego nagłówka i stopki</lengthvariant>
+            <lengthvariant>Nagłówek i stopka - łącze do poprzedniego</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -11689,7 +11843,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż wiersz nagłówka</translation>
     </message>
 </context>
 <context>
@@ -11845,15 +11999,15 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsMainWindow</name>
     <message>
         <source>Command name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa polecenia</translation>
     </message>
     <message>
         <source>Editing tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Narzędzia do edycji</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Klawisz</translation>
     </message>
 </context>
 <context>
@@ -11910,7 +12064,11 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Narrow</source>
-        <translation>Wąskie</translation>
+        <translation variants="yes">
+            <lengthvariant>Wąskie</lengthvariant>
+            <lengthvariant>Wąski</lengthvariant>
+            <lengthvariant>Zwęź</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Moderate</source>
@@ -12184,7 +12342,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>You cannot record a macro to a locked file</source>
-        <translation type="unfinished"></translation>
+        <translation>W zablokowanym pliku nie można zarejestrować makra</translation>
     </message>
 </context>
 <context>
@@ -12198,31 +12356,34 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsReviewPane</name>
     <message>
         <source>REVIEWPANE</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Okienko recenzowania</lengthvariant>
+            <lengthvariant>Okienko przeglądu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source> Part</source>
-        <translation type="unfinished"></translation>
+        <translation> Utwór</translation>
     </message>
     <message>
         <source>Insert: </source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw: </translation>
     </message>
     <message>
         <source>Delete: </source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń: </translation>
     </message>
     <message>
         <source>Format: </source>
-        <translation type="unfinished"></translation>
+        <translation>Format: </translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="unfinished"></translation>
+        <translation>Komentarz: </translation>
     </message>
     <message>
         <source>Revision: </source>
-        <translation type="unfinished"></translation>
+        <translation>Poprawka: </translation>
     </message>
 </context>
 <context>
@@ -12275,8 +12436,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>OK</source>
-        <translatorcomment>OK</translatorcomment>
-        <translation>TAK</translation>
+        <translation variants="yes">
+            <lengthvariant>TAK</lengthvariant>
+            <lengthvariant>OK</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Delete all page numbers</source>
@@ -12362,7 +12525,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>OK</source>
-        <translation>TAK</translation>
+        <translation variants="yes">
+            <lengthvariant>TAK</lengthvariant>
+            <lengthvariant>OK</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert page number</source>
@@ -12433,7 +12599,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsSpecialPopupWidget</name>
     <message>
         <source>OK</source>
-        <translation>TAK</translation>
+        <translation variants="yes">
+            <lengthvariant>TAK</lengthvariant>
+            <lengthvariant>OK</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -12537,7 +12706,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsTemplateAndAddinDlg</name>
     <message>
         <source>OK</source>
-        <translation>TAK</translation>
+        <translation variants="yes">
+            <lengthvariant>TAK</lengthvariant>
+            <lengthvariant>OK</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12633,7 +12805,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsWaterMarkGalleryModel</name>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -12659,11 +12834,11 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsWrapTextWidget</name>
     <message>
         <source>close</source>
-        <translation type="unfinished"></translation>
+        <translation>zamknij</translation>
     </message>
     <message>
         <source>title</source>
-        <translation type="unfinished"></translation>
+        <translation>tytuł</translation>
     </message>
 </context>
 <context>
@@ -12726,7 +12901,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Szablon Kingsoft Writer 2007/2010(*.wptx)</translation>
     </message>
 </context>
 <context>
@@ -12862,7 +13037,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation>Zezwalaj na &amp;dodawanie komentarzy</translation>
+        <translation variants="yes">
+            <lengthvariant>Zezwalaj na &amp;dodawanie komentarzy</lengthvariant>
+            <lengthvariant>Dozwolone dodawanie ko&amp;mentarzy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Printing not allowed</source>
@@ -12935,7 +13113,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Export PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj plik Adobe PDF</translation>
     </message>
 </context>
 <context>
@@ -12958,7 +13136,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj do pliku Adobe PDF</translation>
     </message>
 </context>
 <context>

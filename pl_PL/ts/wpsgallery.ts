@@ -44,7 +44,10 @@
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation variants="yes">
+            <lengthvariant>TAK</lengthvariant>
+            <lengthvariant>OK</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Directory:</source>
@@ -52,8 +55,10 @@
     </message>
     <message>
         <source>Notes:</source>
-        <translatorcomment>Notatki:</translatorcomment>
-        <translation>Uwagi:</translation>
+        <translation variants="yes">
+            <lengthvariant>Notatki:</lengthvariant>
+            <lengthvariant>Uwagi:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Less:</source>

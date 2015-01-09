@@ -14,8 +14,10 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translatorcomment>Uwydatnienie</translatorcomment>
-        <translation>Wyróżnienie</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyróżnienie</lengthvariant>
+            <lengthvariant>Uwydatnienie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>1-</source>
@@ -112,15 +114,24 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Styl ciemny 2-Wyróżnienie 1/Wyróżnienie 2</translation>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 1/Wyróżnienie 2</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 1/Uwydatnienie 2</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</translation>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 3/Uwydatnienie 4</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</translation>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 5/Uwydatnienie 6</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -139,7 +150,10 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Wyróżnienie</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyróżnienie</lengthvariant>
+            <lengthvariant>Uwydatnienie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>1-</source>
@@ -228,15 +242,24 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Styl ciemny 2-Wyróżnienie 1/Wyróżnienie 2</translation>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 1/Wyróżnienie 2</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 1/Uwydatnienie 2</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</translation>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 3/Uwydatnienie 4</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</translation>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 5/Uwydatnienie 6</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>First Row</source>
