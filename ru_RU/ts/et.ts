@@ -3071,7 +3071,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>D&amp;irection:</source>
-        <translation>На&amp;правление:</translation>
+        <translation>на&amp;правление:</translation>
     </message>
     <message>
         <source>Down</source>
@@ -3095,7 +3095,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Places:</source>
-        <translation>&amp;Места:</translation>
+        <translation>&amp;разрядов:</translation>
     </message>
     <message>
         <source>Enable Auto&amp;Complete for cell values</source>
