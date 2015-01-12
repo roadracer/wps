@@ -11210,7 +11210,7 @@ Continue ?</source>
     <message>
         <source>Places</source>
         <comment>TX_ParaInfo_166</comment>
-        <translation>Места</translation>
+        <translation>разрядов</translation>
     </message>
     <message>
         <source>Real_num</source>
@@ -22156,7 +22156,7 @@ Please make sure the selected regions are continuous cells.</source>
     </message>
     <message>
         <source>Places</source>
-        <translation type="obsolete">Места</translation>
+        <translation type="obsolete">разрядов</translation>
     </message>
     <message>
         <source>Real_num</source>
