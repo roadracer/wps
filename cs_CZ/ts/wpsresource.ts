@@ -630,7 +630,7 @@
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev písma</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -1004,7 +1004,7 @@
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev písma</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -1281,7 +1281,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -2725,7 +2725,7 @@ On</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev písma</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -3479,11 +3479,11 @@ formát</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev písma</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev podtržení</translation>
     </message>
     <message>
         <source>More Underlines</source>
@@ -4513,11 +4513,11 @@ textu</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev písma</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev podtržení</translation>
     </message>
     <message>
         <source>More Underlines</source>
@@ -4667,7 +4667,7 @@ textu</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -6170,11 +6170,11 @@ Effects</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev písma</translation>
     </message>
     <message>
         <source>More UnderLine Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev podtržení</translation>
     </message>
     <message>
         <source>More Underlines</source>
@@ -8491,7 +8491,7 @@ Painter</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev písma</translation>
     </message>
     <message>
         <source>More Historical Records</source>
@@ -9823,7 +9823,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev písma</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -10542,11 +10542,11 @@ Header and Footer</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev písma</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Více barev podtržení</translation>
     </message>
     <message>
         <source>More Underlines</source>
@@ -11656,7 +11656,7 @@ textu</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
     <message>
         <source>Behind Text</source>
@@ -15948,7 +15948,7 @@ Effects</source>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation>Více barev podtržení</translation>
+        <translation>Více barev podtržení </translation>
     </message>
     <message>
         <source>More Underlines</source>

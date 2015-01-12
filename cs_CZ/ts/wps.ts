@@ -772,7 +772,7 @@
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
 </context>
 <context>
@@ -5057,7 +5057,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
     <message>
         <source>Preserve</source>
@@ -6071,7 +6071,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
 </context>
 <context>
@@ -6354,7 +6354,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
     <message>
         <source>&amp;Tabs...</source>
@@ -9237,7 +9237,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
     <message>
         <source>User templates</source>
@@ -10152,7 +10152,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
 </context>
 <context>
@@ -10968,7 +10968,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
 </context>
 <context>
@@ -11011,7 +11011,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsHeaderLineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
 </context>
 <context>
@@ -11778,7 +11778,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
 </context>
 <context>
@@ -11881,7 +11881,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická</translation>
     </message>
 </context>
 <context>
