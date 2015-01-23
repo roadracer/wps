@@ -3325,7 +3325,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit</source>
-        <translation>Изменить</translation>
+        <translation>Изменение настроек</translation>
     </message>
     <message>
         <source>Edit settings</source>
