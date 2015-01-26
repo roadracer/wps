@@ -6,314 +6,314 @@
     <name>KApplication</name>
     <message>
         <source>Trial Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiune de încercare</translation>
     </message>
 </context>
 <context>
     <name>KBorderPickCtrl</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
 </context>
 <context>
     <name>KColorCtrl</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără culoare</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Efecte de umplere...</translation>
     </message>
     <message>
         <source>&amp;Background</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fundal</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Linii modelate...</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Negru</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Maro</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde oliv</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde închis</translation>
     </message>
     <message>
         <source>Dark Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vernil închis</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Albastru închis</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Indigo</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-80%</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Roșu închis</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Portocaliu</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Galben închis</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vernil</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Albastru</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Albastru-gri</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-50%</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Roșu</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Portocaliu deschis</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Lămâie</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde ocean</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>Apa</translation>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Albastru deschis</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Violet</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-40%</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Roz</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Auriu</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Galben</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde luminos</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turcoaz</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Cer albastru</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Prună</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-25%</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Trandafir</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation type="unfinished"></translation>
+        <translation>Cafeniu roșiatic</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Galben deschis</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde deschis</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turcoaz deschis</translation>
     </message>
     <message>
         <source>Pale Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Blu pal</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Levănțică</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Alb</translation>
     </message>
     <message>
         <source>&amp;More Colors...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mai multe culori...</translation>
     </message>
 </context>
 <context>
     <name>KCommand</name>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedefinit</translation>
     </message>
     <message>
         <source>Undefined Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Control nedefinit</translation>
     </message>
 </context>
 <context>
     <name>KDocTabbarEx</name>
     <message>
         <source>Customize Quick Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizare acces rapid</translation>
     </message>
     <message>
         <source>Add to</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă la</translation>
     </message>
     <message>
         <source>&amp;Hide Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ascunde bara de unelte acces rapid</translation>
     </message>
 </context>
 <context>
     <name>KDocTabbarStickerCommand</name>
     <message>
         <source>Lock tabbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Blochează bara de file</translation>
     </message>
     <message>
         <source>UnLock tabbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Deblochează bara de file</translation>
     </message>
 </context>
 <context>
     <name>KFilePageCloseButton</name>
     <message>
         <source>Clear Record from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță înregistrarea din listă</translation>
     </message>
 </context>
 <context>
     <name>KFilePageFixedButton</name>
     <message>
         <source>unfixed from list</source>
-        <translation type="unfinished"></translation>
+        <translation>nefixat din listă</translation>
     </message>
     <message>
         <source>fixed to list</source>
-        <translation type="unfinished"></translation>
+        <translation>fixat în listă</translation>
     </message>
 </context>
 <context>
     <name>KMDICloseCommand</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
 </context>
 <context>
     <name>KMDIMaximizeCommand</name>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximizează</translation>
     </message>
 </context>
 <context>
     <name>KMDIMinimizeCommand</name>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimizează</translation>
     </message>
 </context>
 <context>
     <name>KMDINextCommand</name>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Următor</translation>
     </message>
 </context>
 <context>
     <name>KMDIRestoreCommand</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurează</translation>
     </message>
 </context>
 <context>
     <name>KMainWindow</name>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&amp;ximizează</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restaurează</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Mi&amp;nimizează</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ieșire</translation>
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizează bara de &amp;Titlu a sistemului</translation>
     </message>
 </context>
 <context>
@@ -321,107 +321,108 @@
     <message>
         <source>Bronze</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bronze</translation>
     </message>
     <message>
         <source>Plate with silver</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Farfurie cu argint</translation>
     </message>
     <message>
         <source>Silver</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Argint</translation>
     </message>
     <message>
         <source>Gold</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aur</translation>
     </message>
     <message>
         <source>Platina</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Platină</translation>
     </message>
 </context>
 <context>
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
-        <translation type="unfinished"></translation>
+        <translation>InsertCellsInPopup</translation>
     </message>
 </context>
 <context>
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
-        <translation type="unfinished"></translation>
+        <translation>Text </translation>
     </message>
 </context>
 <context>
     <name>KPwdLineEdit</name>
     <message>
         <source>Not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu este permis.</translation>
     </message>
     <message>
         <source>Caps Lock on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock pornit.</translation>
     </message>
     <message>
         <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Având Caps Lock pornit poate cauza introducerea parolei incorect.</translation>
     </message>
     <message>
         <source>You should press Caps Lock to turn it off before entering your password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să apăsați Caps Lock pentru a-l închide înainte să introduceți parola.</translation>
     </message>
     <message>
         <source>You cannot copy text from a password field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți copia textul din câmpul parolei.</translation>
     </message>
 </context>
 <context>
     <name>KRbQuickToolbar</name>
     <message>
         <source>&amp;Remove from Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimină de pe bara de unelte acces rapid</translation>
     </message>
     <message>
         <source>More commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai multe comenzi</translation>
     </message>
     <message>
         <source>&amp;Show Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Arată bara de unelte acces rapid</translation>
     </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
         <source>Recent Documents: </source>
-        <translation type="unfinished"></translation>
+        <translation>Documente recente: </translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță tot</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide dosar</translation>
     </message>
     <message>
         <source>Clear Invalid File</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță fișierele nevalide</translation>
     </message>
     <message>
         <source>Can not find the file &quot;%1&quot;.
 the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate găsi fișierul &quot;%1&quot;.
+fișierul este posibil să fie redenumit, șters sau mutat.</translation>
     </message>
     <message>
         <source>Unpinned from List</source>
@@ -443,42 +444,46 @@ the file may be renamed,deleted or moved the location.</source>
         <source>
 
 modify time: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+data modificării: </translation>
     </message>
     <message>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Această înregistrare este nevalidă, fișierul poate a fost redenumit, șters sau mutat</translation>
     </message>
 </context>
 <context>
     <name>KSystemMenuCommand</name>
     <message>
         <source>System Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Meniu sistem</translation>
     </message>
 </context>
 <context>
     <name>KToolTipWidget</name>
     <message>
         <source>KToolTipWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>KToolTipWidget</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Infotip</translation>
     </message>
 </context>
 <context>
     <name>KUnderLineCtrl</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nimic)</translation>
     </message>
     <message>
         <source>Words Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Numai cuvinte</translation>
     </message>
 </context>
 <context>
@@ -508,125 +513,149 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
-        <translation type="unfinished"></translation>
+        <translation>[Dispozitiv]
+pt=pt;p
+in=inch;i
+cm=cm;c
+mm=mm;m
+
+[Procentaj]
+%=%
+
+[Caracter]
+ch=char
+
+[Grad]
+grad=grad
+
+[Rând]
+linie=linie
+
+[Auto]
+auto=auto
+
+[Multiplu]
+multiplu=multiplu
+</translation>
     </message>
 </context>
 <context>
     <name>KWPSCloudSetup</name>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Some components are not installed correctly,
 please reinstall WPS Office!</source>
-        <translation type="unfinished"></translation>
+        <translation>Unele componente nu sunt instalate corect,
+reinstalați WPS Office!</translation>
     </message>
 </context>
 <context>
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea de intrare trebuie să fie între %1 and %2.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceasta nu este un număr întreg valid.</translation>
     </message>
 </context>
 <context>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea de intrare trebuie să fie între %1 și %2.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceasta nu este un număr întreg valid.</translation>
     </message>
 </context>
 <context>
     <name>QLineEdit</name>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lipește</translation>
     </message>
 </context>
 <context>
     <name>QMainWindow</name>
     <message>
         <source>Previous Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentul anterior</translation>
     </message>
     <message>
         <source>Next Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentul următor</translation>
     </message>
     <message>
         <source>Document List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista document</translation>
     </message>
 </context>
 <context>
     <name>QMdiSubWindow</name>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurează</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimizează</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximizează</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>NumLock</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock</translation>
     </message>
     <message>
         <source>NumLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock: Pornit</translation>
     </message>
     <message>
         <source>NumLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock: Oprit</translation>
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>CapsLock: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock: Pornit</translation>
     </message>
     <message>
         <source>CapsLock: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps Lock: Oprit</translation>
     </message>
     <message>
         <source>Overtype</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprascrie</translation>
     </message>
     <message>
         <source>Delete from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge din listă</translation>
     </message>
 </context>
 </TS>

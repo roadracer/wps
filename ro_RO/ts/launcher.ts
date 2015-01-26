@@ -6,27 +6,27 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>KLauncherWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>KLauncherWidget</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Bine ați venit la WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Procesor de text</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Prezentare</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Foaie de calcul</translation>
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Crează scurtătură pe birou</translation>
     </message>
 </context>
 <context>
@@ -34,16 +34,16 @@
     <message>
         <source>Usage: %1 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizare: %1 </translation>
     </message>
     <message>
         <source>    or %1 &lt;wps|wpp|et&gt; [document_path]
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    sau %1&lt;wps|wpp|et&gt; [cale_document]</translation>
     </message>
     <message>
         <source>:/qm/%1.qm</source>
-        <translation type="unfinished"></translation>
+        <translation>:/qm/%1.qm</translation>
     </message>
 </context>
 </TS>

@@ -6,7 +6,7 @@
     <name>KHomepage</name>
     <message>
         <source>Failed in downloading &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat descărcarea &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -17,33 +17,33 @@
     </message>
     <message>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiunea curentă:</translation>
     </message>
     <message>
         <source>This is the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceasta este ultima versiune.</translation>
     </message>
     <message>
         <source>Version is too old.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiunea este prea veche.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Utilizați versiunea nouă&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Restart to use newer version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reporniți pentru a utiliza versiunea nouă.</translation>
     </message>
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Consultați șabloanele online</translation>
     </message>
     <message>
         <source>Online Templates</source>
         <comment>title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șabloane online</translation>
     </message>
 </context>
 </TS>
