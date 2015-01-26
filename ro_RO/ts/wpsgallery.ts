@@ -5,91 +5,91 @@
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>galerie</translation>
     </message>
     <message>
         <source>shape</source>
-        <translation type="unfinished"></translation>
+        <translation>formă</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditGallery</name>
     <message>
         <source>EditGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Editaregaleria</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>De la:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>Legendă:</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetă:</translation>
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul maxim de legende este 5.</translation>
     </message>
     <message>
         <source>More:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mult:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Director:</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificări:</translation>
     </message>
     <message>
         <source>Less:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai puțin:</translation>
     </message>
 </context>
 <context>
     <name>KxEditGalleryDlg</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mult</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai puțin</translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\Kingsoft Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\Kingsoft Office\AppData\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</translation>
     </message>
 </context>
 <context>
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>GalerieWPS</translation>
     </message>
 </context>
 </TS>

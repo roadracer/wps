@@ -6,53 +6,53 @@
     <name>KxItemWebView</name>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deblochează acest element din listă.</translation>
     </message>
     <message>
         <source>Reached the maximum number of items locked.</source>
-        <translation type="unfinished"></translation>
+        <translation>S-a ains numărul maxim de elemente blocate.</translation>
     </message>
     <message>
         <source>Lock this item to the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Blochează acest element în listă.</translation>
     </message>
     <message>
         <source>Click to enlarge preview item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați pentru a lărgi previzualizarea elementului.</translation>
     </message>
     <message>
         <source>Click to show additional options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați pentru a arăta opțiuni suplimentare.</translation>
     </message>
 </context>
 <context>
     <name>KxTpClipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Memorie temporară</translation>
     </message>
     <message>
         <source>Click to Paste:</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați pentru lipit:</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurare</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță tot</translation>
     </message>
 </context>
 <context>
     <name>KxTpClipboardPanel</name>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lipește</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Șterge</translation>
     </message>
     <message>
         <source>Show Clipboard &amp;Automatically When Copying</source>
@@ -68,11 +68,11 @@
     </message>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deblochează acest element din listă.</translation>
     </message>
     <message>
         <source>Lock this item to the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Blochează acest element în listă.</translation>
     </message>
 </context>
 </TS>

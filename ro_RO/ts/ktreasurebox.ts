@@ -6,23 +6,23 @@
     <name>KCommand</name>
     <message>
         <source>Treasure Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Cutia comorilor</translation>
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mulți oameni utilizează această mare unealtă. Doriți să o încercați?</translation>
     </message>
     <message>
         <source>All right</source>
-        <translation type="unfinished"></translation>
+        <translation>În regulă</translation>
     </message>
     <message>
         <source>No thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu, mulțumesc.</translation>
     </message>
     <message>
         <source>WPS Office Recommendation</source>
-        <translation type="unfinished"></translation>
+        <translation>Recomandare WPS Office</translation>
     </message>
 </context>
 </TS>
