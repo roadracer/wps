@@ -426,19 +426,19 @@ fișierul este posibil să fie redenumit, șters sau mutat.</translation>
     </message>
     <message>
         <source>Unpinned from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Desprinde din listă</translation>
     </message>
     <message>
         <source>Clear Pinned Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță fișierele atașate</translation>
     </message>
     <message>
         <source>Pin to List</source>
-        <translation type="unfinished"></translation>
+        <translation>Atașează la listă</translation>
     </message>
     <message>
         <source>Clear Unpinned Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță fișierele ne-atașate</translation>
     </message>
     <message>
         <source>

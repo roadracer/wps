@@ -6,220 +6,221 @@
     <name>DlgBatchSetFont</name>
     <message>
         <source>Batch Set Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurare font în serie</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>Replace Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește regiunea</translation>
     </message>
     <message>
         <source>All Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate diapozitivele</translation>
     </message>
     <message>
         <source>Seleted Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitivul selectat</translation>
     </message>
     <message>
         <source>Assign Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Atribuie diapozitiv</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagină</translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>Select Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează ținta</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titlu</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Conținut</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Formă automată</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>Font Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil font</translation>
     </message>
     <message>
         <source>ChineseFont</source>
-        <translation type="unfinished"></translation>
+        <translation>Font chinezesc</translation>
     </message>
     <message>
         <source>WesternFont</source>
-        <translation type="unfinished"></translation>
+        <translation>WesternFont</translation>
     </message>
     <message>
         <source>Font Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format font</translation>
     </message>
     <message>
         <source>|</source>
-        <translation type="unfinished"></translation>
+        <translation>|</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
     <name>DlgKxCustomTextFormat</name>
     <message>
         <source>Custom Text Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format text personalizat</translation>
     </message>
     <message>
         <source>Select textbox bellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați caseta de text de mai jos</translation>
     </message>
     <message>
         <source>Content Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titlu conținut</translation>
     </message>
     <message>
         <source>·Content and textbox</source>
-        <translation type="unfinished"></translation>
+        <translation> Conținut și caseta de text</translation>
     </message>
     <message>
         <source>Set text format</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurați formatul textului</translation>
     </message>
     <message>
         <source>|</source>
-        <translation type="unfinished"></translation>
+        <translation>|</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulare</translation>
     </message>
 </context>
 <context>
     <name>KxDlglineSpacing</name>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Spațiul dintre linii</translation>
     </message>
     <message>
         <source>&amp;Line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Spațiul dintre &amp;Linii</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linii</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Puncte</translation>
     </message>
     <message>
         <source>&amp;Before paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Înaintea paragrafului</translation>
     </message>
     <message>
         <source>&amp;After paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;După paragraf</translation>
     </message>
 </context>
 <context>
     <name>KxInsertPicturesToMultiSlide</name>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Format imagine neidentificabil.</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Poza pe care ați inserat-o este prea mare. Comprimați-o pentru a salva spațiul pe disk.
+Rețineți dacă se comprimă pozele se poate reduce calitatea pozelor. Doriți să le comprimați?</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate pozele(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
         <comment>DgUil_EnhancedMetaFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Windows Enhanced Metafile(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Metafile(*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable Network Graphics(*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Bitmap(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
-        <translation type="unfinished"></translation>
+        <translation>Graphics Interchange Format(*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
-        <translation type="unfinished"></translation>
+        <translation>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
 </context>
 <context>
     <name>LineSpacingComboBox</name>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mult...</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>There is no %1 font on your system,the text will be shown in a substitute font, do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu există fontul %1 în sistem,textul va fi arătat într-un alt font, doriți să-l utilizați oricum?</translation>
     </message>
     <message>
         <source>All Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate fonturile</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonturi recente</translation>
     </message>
 </context>
 </TS>

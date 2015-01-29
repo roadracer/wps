@@ -10,18 +10,18 @@
     </message>
     <message>
         <source>The backup files below will be deleted. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierele de rezervă vor fi șterse. Doriți să continuați?</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier</translation>
     </message>
     <message>
         <source>Clear backup</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean succeed
 ----------
 ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such as, one of file locked)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță fișierul de rezervă</translation>
     </message>
     <message>
         <source>Clearing backup files completed.</source>
@@ -38,78 +38,78 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <name>KChangeVersionImpl</name>
     <message>
         <source>Registering components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se înregistrează componentele...</translation>
     </message>
     <message>
         <source>Initializing configuration...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se inițiază configurația...</translation>
     </message>
     <message>
         <source>Registering file association...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se înregistrează asocierea fișierelor...</translation>
     </message>
     <message>
         <source>Refreshing quick link...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se reâmprospătează legăturile rapide...</translation>
     </message>
     <message>
         <source>Completing the configuration...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se finalizează configurarea...</translation>
     </message>
     <message>
         <source>Version switch will complete after restarting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comutarea versiunii se va termina după repornire.</translation>
     </message>
     <message>
         <source>Switching version is not successful and is in the recovery...</source>
-        <translation type="unfinished"></translation>
+        <translation>Comutarea wersiunii nu a reușit cu succes și este în recuperare...</translation>
     </message>
 </context>
 <context>
     <name>KFastLink</name>
     <message>
         <source>WPS Office Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Unelte WPS Office</translation>
     </message>
     <message>
         <source>Update Online.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizare online.ink</translation>
     </message>
     <message>
         <source>WPS Writer.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Document WPS.ink</translation>
     </message>
     <message>
         <source>WPS Presentation.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentare WPS.ink</translation>
     </message>
     <message>
         <source>WPS Spreadsheets.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Foi de calcul WPS.ink</translation>
     </message>
     <message>
         <source>WPS Wenzi.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Wenzi.lnk</translation>
     </message>
     <message>
         <source>WPS Yanshi.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Yanshi.lnk</translation>
     </message>
     <message>
         <source>WPS Biaoge.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Biaoge.lnk</translation>
     </message>
     <message>
         <source>KS Wenzi.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>KS Wenzi.lnk</translation>
     </message>
     <message>
         <source>KS Yanshi.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>KS Yanshi.lnk</translation>
     </message>
     <message>
         <source>KS Biaoge.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>KS Biaoge.lnk</translation>
     </message>
 </context>
 <context>
@@ -123,21 +123,21 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <name>KInputSNDlg</name>
     <message>
         <source>Serial Number Entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare număr serial</translation>
     </message>
     <message>
         <source>Please enter the serial number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți numărul serial:</translation>
     </message>
     <message>
         <source>The serial number you entered already exists.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Product Management Center -&gt; add -&gt; add an already existed SN.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul serial pe care l-ați introdus deja există.</translation>
     </message>
     <message>
         <source>The serial number is invalid. Please confirm it.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Product Management Center -&gt; add -&gt; add an invalid SN.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul serial este nevalid. Confirmați-l.</translation>
     </message>
 </context>
 <context>
@@ -267,12 +267,12 @@ We will do our utmost to repair the applications and restore them to the default
     <message>
         <source>&amp;Advanced...</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Avansat...</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;eșire</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
@@ -289,7 +289,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>Repair completed!</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Reparația s-a terminat!</translation>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
@@ -419,7 +419,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfat</translation>
     </message>
 </context>
 <context>
@@ -659,7 +659,7 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     <name>KPageTheme</name>
     <message>
         <source>Change Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă tematica</translation>
     </message>
     <message>
         <source>WPS Office offers multiple sets of interface schemes with different themes.
@@ -672,7 +672,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>&amp;Change Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;chimbă schema</translation>
     </message>
     <message>
         <source>Caution:After clicking the Change Scheme button, changes may take effect after restarting WPS Office.</source>
@@ -717,7 +717,7 @@ The button icon, command group and task window position of each scheme are diffe
     <name>KPropertiesDlg</name>
     <message>
         <source>WPS Office Configuration Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Unelte de configurare WPS Office</translation>
     </message>
 </context>
 <context>
@@ -736,11 +736,11 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Editare</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Deschide</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Workbook</source>
@@ -748,15 +748,15 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nou</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Ti&amp;părește</translation>
     </message>
     <message>
         <source>OpenAsReadOnly</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschidedoarcitire</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Template</source>
@@ -888,11 +888,11 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>S&amp;how</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;rată</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Slide</source>
@@ -1024,7 +1024,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecuație</translation>
     </message>
     <message>
         <source>Workbook</source>
@@ -1032,11 +1032,11 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Poză</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
@@ -1083,27 +1083,27 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <source>Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr serial</translation>
     </message>
     <message>
         <source>Programs that can be actiavted</source>
-        <translation type="unfinished"></translation>
+        <translation>Programe care se pot activa</translation>
     </message>
     <message>
         <source>Subtotal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotal:</translation>
     </message>
     <message>
         <source>Are you sure to delete the serial number?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigur ștergeți numărul serial?</translation>
     </message>
 </context>
 <context>
@@ -1138,15 +1138,15 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>&amp;Show information bar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Arată bara de informații</translation>
     </message>
     <message>
         <source>Internet Connection:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexiune internă:</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu utilizați proxy</translation>
     </message>
     <message>
         <source>Automatically detect proxy settings in IE</source>
@@ -1154,23 +1154,23 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>HTTP</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP</translation>
     </message>
     <message>
         <source>:</source>
-        <translation type="unfinished"></translation>
+        <translation>:</translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume utilizator:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parolă:</translation>
     </message>
     <message>
         <source>Software recommend：</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicații recomandate :</translation>
     </message>
     <message>
         <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
@@ -1182,7 +1182,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Update Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornește actualizarea</translation>
     </message>
     <message>
         <source>Know more details about Experience Improvement Activity</source>
@@ -1191,26 +1191,26 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>IP Address is not valid!</source>
         <extracomment>ksomisc -&gt; advance -&gt; Update Settings -&gt; custom proxy -&gt; input a invalid ip addr</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Adresa IP nu este validă!</translation>
     </message>
     <message>
         <source>The port must be a number between 1 and 65535.</source>
-        <translation type="unfinished"></translation>
+        <translation>Portul nu poate fi un număr între 1 și 65535.</translation>
     </message>
 </context>
 <context>
     <name>Ksomisc_Funcs</name>
     <message>
         <source>Configuration Tool Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informație unealtă de configurare</translation>
     </message>
     <message>
         <source>Failed to scan procedure. </source>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat scanarea procedurii. </translation>
     </message>
     <message>
         <source>WPS Office is running, please reopen configuration tools after closing the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office rulează, redeschideți uneltele de configurare după ce închideți programul.</translation>
     </message>
 </context>
 </TS>

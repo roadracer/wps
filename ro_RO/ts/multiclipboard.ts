@@ -56,15 +56,15 @@
     </message>
     <message>
         <source>Show Clipboard &amp;Automatically When Copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată memoria temporară &amp;Automat când se copiază</translation>
     </message>
     <message>
         <source>Press Ctrl+C Twice to Show Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați Ctrl+C de două ori pentru a vedea memoria temporară</translation>
     </message>
     <message>
         <source>&amp;Collect Data Without Showing Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Colectează date fără să arăți memoria temporară</translation>
     </message>
     <message>
         <source>Unlock this item from the list.</source>
