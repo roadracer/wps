@@ -116,7 +116,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <name>KHomePage</name>
     <message>
         <source>Unlock the IE homepage may have the homepage maliciously modified by Trojans. Are you sure to unlock it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Deblocând pagina principală IE puteți avea o pagină principală rău intenționată modificată de troieni. Sunteți sigur că o deblocați?</translation>
     </message>
 </context>
 <context>
@@ -152,7 +152,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Presentation.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation.lnk</translation>
     </message>
     <message>
         <source>Use WPS Presentation to edit and play presentations.</source>
@@ -160,7 +160,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Spreadsheets.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets.lnk</translation>
     </message>
     <message>
         <source>Use WPS Spreadsheets to analyze and manage data.</source>
@@ -168,11 +168,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Configuration Tools.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Unelte de configurare.ink</translation>
     </message>
     <message>
         <source>Configure WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurare WPS Office</translation>
     </message>
     <message>
         <source>Product Management Center.lnk</source>
@@ -184,7 +184,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Check for Updates.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifică pentru actualizări.ink</translation>
     </message>
     <message>
         <source>Link to network to update WPS Office</source>
@@ -192,35 +192,35 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Repair.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Repară.ink</translation>
     </message>
     <message>
         <source>Repair WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Repară WPS Office</translation>
     </message>
     <message>
         <source>Uninstall.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezinstalare.ink</translation>
     </message>
     <message>
         <source>Uninstall WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezinstalează WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Unelte WPS Office</translation>
     </message>
     <message>
         <source>What&apos;s New.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce este nou.ink</translation>
     </message>
     <message>
         <source>View what&apos;s new file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare fișier ce este nou</translation>
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Cloud.lnk</translation>
     </message>
     <message>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
@@ -228,11 +228,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Office.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office.lnk</translation>
     </message>
     <message>
         <source>Launch WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lansează WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -279,7 +279,7 @@ We will do our utmost to repair the applications and restore them to the default
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed
 ----------
 ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Unelte de configurare WPS Office</translation>
     </message>
     <message>
         <source>An error occured when repairing, please retry.</source>
@@ -293,14 +293,14 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu utilizați un cont de administrator. Unele funcții nu sunt disponibile.</translation>
     </message>
 </context>
 <context>
     <name>KPageAddinMgr</name>
     <message>
         <source>Plug-in Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Platformă extensii</translation>
     </message>
     <message>
         <source>WPS Office provides you with a platform to install plug-ins, so that you can easily install and use kinds of extended plug-ins. If this platform caused inconvenience to your work, you can choose whether to enable it.</source>
@@ -308,7 +308,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>&amp;Enable plug-in platform</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Activează platforma extensiilor</translation>
     </message>
     <message>
         <source>Note: When you enable or disable the plug-in platform, you must restart WPS Office for the action to take effect.</source>
@@ -383,7 +383,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <name>KPageChangeVersion</name>
     <message>
         <source>Switch Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Comută versiunea</translation>
     </message>
     <message>
         <source>You are using the latest version of WPS Office which has greatly improved and enhanced in functionality and performance. We recommend that you use the new version. However, you can according to your need to return to the pre-upgrade version.</source>
@@ -395,15 +395,15 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Switch to old ve&amp;rsion</source>
-        <translation type="unfinished"></translation>
+        <translation>Comută la vechea ve&amp;rsiune</translation>
     </message>
     <message>
         <source>Initializing configuration...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se inițiază configurația...</translation>
     </message>
     <message>
         <source>Switch to the new ve&amp;rsion</source>
-        <translation type="unfinished"></translation>
+        <translation>Comută la ve&amp;rsiunea nouă</translation>
     </message>
     <message>
         <source>Click the button below to switch to the new version, you must restart WPS Office for the action to take effect.</source>
@@ -443,11 +443,11 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2003</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Compatibil cu Microsoft Office 2003</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2007</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Compatibil cu Microsoft Office 2007</translation>
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by WPS Office Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
@@ -455,15 +455,15 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx fișiere) și documente RTF</translation>
     </message>
     <message>
         <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx fișiere)</translation>
     </message>
     <message>
         <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx fișiere)</translation>
     </message>
     <message>
         <source>WPS Office will save related documents in the following selected formats. Other documents will be saved in WPS Office formats.</source>
@@ -483,12 +483,12 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>File Associations</source>
-        <translation type="unfinished"></translation>
+        <translation>Asocieri fișiere</translation>
     </message>
     <message>
         <source>Tip</source>
         <extracomment>ksomisc -&gt; Advanced -&gt; File Asso -&gt; Check/Uncheck compat with mso.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sfat</translation>
     </message>
     <message>
         <source>The option &quot;Compatible with third-party software&quot;
@@ -513,7 +513,7 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>Unlock completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Deblocare finalizată</translation>
     </message>
 </context>
 <context>
@@ -732,7 +732,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -744,7 +744,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Spreadsheets Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets Workbook</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -1110,7 +1110,7 @@ The button icon, command group and task window position of each scheme are diffe
     <name>KUpDate</name>
     <message>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări actualizare</translation>
     </message>
     <message>
         <source>The following settings provide timely updates for your product, ensuring that you receive the latest patches. You may have to restart the applications for the settings to take effect.</source>
@@ -1118,7 +1118,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Update Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod actualizare:</translation>
     </message>
     <message>
         <source>Download updates and install t&amp;hem automatically</source>
