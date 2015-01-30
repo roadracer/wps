@@ -600,7 +600,7 @@
     </message>
     <message>
         <source>Both &amp;sides</source>
-        <translation>Обе &amp;стороны</translation>
+        <translation>С обеих &amp;сторон</translation>
     </message>
     <message>
         <source>&amp;Left only</source>
@@ -612,7 +612,7 @@
     </message>
     <message>
         <source>L&amp;argest only</source>
-        <translation>Только наи&amp;больший</translation>
+        <translation>Самый к&amp;рупный</translation>
     </message>
     <message>
         <source>Distance from text</source>
