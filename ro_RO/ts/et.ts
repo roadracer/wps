@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation>Apăsați Salvează că pentru a salva modificările la un fișier diferit și deschide ultima versiune.</translation>
+        <translation>Apăsați Salvează ca pentru a salva modificările la un fișier diferit și deschide ultima versiune.</translation>
     </message>
     <message>
         <source>&amp;Discard</source>
@@ -346,7 +346,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>The Conditional formatting contains number format, and the settings would be lost opened by the earlier version of Excel or WPS Spreadsheets.</source>
-        <translation>Formatarea condițională conține formatarea numerelor, iar configurările vor fi pierdute la deschiderea de către o versiune mai veche de EXcel sau Foi de calcul WPS.</translation>
+        <translation>Formatarea condițională conține formatarea numerelor, iar configurările vor fi pierdute la deschiderea de către o versiune mai veche de EXcel sau WPS Spreadsheets.</translation>
     </message>
 </context>
 <context>
@@ -400,7 +400,7 @@ condiția este adevărată:</translation>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation>IM&amp;plicit pentru obiectele noi</translation>
+        <translation>Im&amp;plicit pentru obiectele noi</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -1125,95 +1125,95 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>HighLight - Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat - Text</translation>
     </message>
     <message>
         <source>Text_Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Text_conține</translation>
     </message>
     <message>
         <source>Text_NoContain</source>
-        <translation type="unfinished"></translation>
+        <translation>Text_nuconține</translation>
     </message>
     <message>
         <source>Text_BeginWith</source>
-        <translation type="unfinished"></translation>
+        <translation>Text_începecu</translation>
     </message>
     <message>
         <source>Text_EndWith</source>
-        <translation type="unfinished"></translation>
+        <translation>Text_seterminăcu</translation>
     </message>
     <message>
         <source>HighLight - Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat - Dată</translation>
     </message>
     <message>
         <source>Date_Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată_Prefix</translation>
     </message>
     <message>
         <source>Date_Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată_Ieri</translation>
     </message>
     <message>
         <source>Date_Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată-Azi</translation>
     </message>
     <message>
         <source>Date_Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată_Mâine</translation>
     </message>
     <message>
         <source>Date_LateSeven</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată_Ultimele7zile</translation>
     </message>
     <message>
         <source>Date_LastWeek</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată_Ultimasăptămână</translation>
     </message>
     <message>
         <source>Date_Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată_Săptămână</translation>
     </message>
     <message>
         <source>Date_NextWeek</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată_Săptămânaurmătoare</translation>
     </message>
     <message>
         <source>Date_LastMonth</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată_Ultimalună</translation>
     </message>
     <message>
         <source>Date_Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată_Lună</translation>
     </message>
     <message>
         <source>Date_NextMonth</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată_Lunaviitoare</translation>
     </message>
     <message>
         <source>Date_Weekend</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată_Weekend</translation>
     </message>
     <message>
         <source>HighLight - Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat - Special</translation>
     </message>
     <message>
         <source>Special_Empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Special_Gol</translation>
     </message>
     <message>
         <source>Special_Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Special_Eroare</translation>
     </message>
     <message>
         <source>A required input value is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>O valoare de intrare necesară lipsește</translation>
     </message>
     <message>
         <source>required range values is not enough</source>
-        <translation type="unfinished"></translation>
+        <translation>limita valorilor necesare nu este suficientă</translation>
     </message>
 </context>
 <context>
@@ -1228,7 +1228,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcul</translation>
     </message>
     <message>
         <source>Average</source>
@@ -1260,7 +1260,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Varp</source>
-        <translation type="unfinished"></translation>
+        <translation>Varp</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -1272,7 +1272,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Count Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcul numere</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -1291,15 +1291,15 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Constraint must be a number, simple reference, or formula with a numeric value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Constrângerea trebuie să fie un număr, referință simplă, sau formulă cu o valoare numerică.</translation>
     </message>
     <message>
         <source>Unequal number of cells in Cell Reference and Constraint.</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr de celule inegal în Referința celulei și Constrângere.</translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreg</translation>
     </message>
     <message>
         <source>Binary</source>
@@ -1307,7 +1307,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Cell Reference box is empty or contents are not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caseta referinței celulei este goală sau conținutul nu este valid.</translation>
     </message>
 </context>
 <context>
@@ -1506,31 +1506,31 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <name>KxDisplayResultDlg</name>
     <message>
         <source>The maximum iteration limit was reached; continue anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Limita maximă de repetare a fost atinsă; se continuă oricum?</translation>
     </message>
     <message>
         <source>The maximum time limit was reached; continue anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Limita maximă de timp a fost atinsă; se continuă oricum?</translation>
     </message>
     <message>
         <source>The maximum number of integer solutions was reached; continue anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul maxim de soluții întregi a fost atins; se continuă oricum?</translation>
     </message>
     <message>
         <source>The maximum number of integer subproblems was reached; continue anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul maxim de subprobleme întregi a fost atins; se continuă oricum?</translation>
     </message>
     <message>
         <source>Solver paused, current solution values displayed on worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezolvare pauzată, valoarea soluțiilor curente sunt afișate pe foaia de lucru.</translation>
     </message>
     <message>
         <source>Stop generating report will cause unexpected value on reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprirea generării raportului va genera valori neașteptate în rapoarte.</translation>
     </message>
     <message>
         <source>The maximum time limit was reached. Stop generating report by pressing Esc key; continue anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Limita maximă de timp a fost atinsă. Opriți generarea raportului apăsând tasta Esc; Se continuă oricum?</translation>
     </message>
 </context>
 <context>
@@ -1545,19 +1545,19 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>&amp;Filter the list, in-place</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Filtrează lista, în loc</translation>
     </message>
     <message>
         <source>C&amp;opy to another location</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;opiază în altă locație</translation>
     </message>
     <message>
         <source>&amp;List range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite &amp;listă:</translation>
     </message>
     <message>
         <source>&amp;Criteria range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite &amp;criteriu:</translation>
     </message>
     <message>
         <source>Copy &amp;to:</source>
@@ -1565,7 +1565,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Unique &amp;records only</source>
-        <translation type="unfinished"></translation>
+        <translation>Numai în&amp;registrări unice</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1577,7 +1577,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Extending range may co&amp;ver the original data</source>
-        <translation type="unfinished"></translation>
+        <translation>Limitele extinse pot ac&amp;operi datele originale</translation>
     </message>
 </context>
 <context>
@@ -1631,7 +1631,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Refer to cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Consultați celulele</translation>
     </message>
     <message>
         <source>Specify who may edit the range without a password:</source>
@@ -1677,7 +1677,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>All e&amp;xcept borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Tot e&amp;xceptând granițele</translation>
     </message>
     <message>
         <source>&amp;Formulas</source>
@@ -1693,15 +1693,15 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Fo&amp;rmulas and number formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Fo&amp;rmule și formate numerice</translation>
     </message>
     <message>
         <source>Forma&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma&amp;te</translation>
     </message>
     <message>
         <source>Val&amp;ues and number formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Val&amp;ori și formate numerice</translation>
     </message>
     <message>
         <source>Operation</source>
@@ -1733,7 +1733,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Transpos&amp;e</source>
-        <translation type="unfinished"></translation>
+        <translation>Transpun&amp;e</translation>
     </message>
     <message>
         <source>&amp;Comment</source>
@@ -1810,19 +1810,19 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>spinPrefix</source>
-        <translation type="unfinished"></translation>
+        <translation>spinPrefix</translation>
     </message>
     <message>
         <source>spinSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation>spinSuffix</translation>
     </message>
     <message>
         <source>directPrefix</source>
-        <translation type="unfinished"></translation>
+        <translation>directPrefix</translation>
     </message>
     <message>
         <source>directSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation>directSuffix</translation>
     </message>
     <message>
         <source>123</source>
@@ -1841,7 +1841,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <name>KxDlgConfirmPasswordOfRange</name>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place. (Remember that passwords are case-sensitive.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenție: Dacă ați pierdut sau uitat parola, nu se poate recupera. Este recomandabil să păstrați o listă de parole și corespondentul lor pentru registrul de lucru și numele foilor într-un loc sigur. (Nu uitați că aceste parole sunt sensibile la majuscule.)</translation>
     </message>
     <message>
         <source>Repeat Password</source>
@@ -1864,74 +1864,74 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place.(Remember that passwords are case-sensitive.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenție: Dacă ați pierdut sau uitat parola, nu se poate recupera. Este recomandabil să păstrați o listă de parole și corespondentul lor pentru registrul de lucru și numele foilor într-un loc sigur. (Nu uitați că aceste parole sunt sensibile la majuscule.)</translation>
     </message>
 </context>
 <context>
     <name>KxDlgConsolidate</name>
     <message>
         <source>Consolidate</source>
-        <translation type="unfinished"></translation>
+        <translation>Consolidare</translation>
     </message>
     <message>
         <source>&amp;Function:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Funcție:</translation>
     </message>
     <message>
         <source>cbxFunction</source>
-        <translation type="unfinished"></translation>
+        <translation>Funcție cbx</translation>
     </message>
     <message>
         <source>&amp;Reference:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Referință:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Navighează...</translation>
     </message>
     <message>
         <source>All r&amp;eferences:</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate re&amp;ferințele:</translation>
     </message>
     <message>
         <source>lbx All References</source>
-        <translation type="unfinished"></translation>
+        <translation>lbx Toate referințele</translation>
     </message>
     <message>
         <source>asdf</source>
-        <translation type="unfinished"></translation>
+        <translation>asdf</translation>
     </message>
     <message>
         <source>asd</source>
-        <translation type="unfinished"></translation>
+        <translation>asd</translation>
     </message>
     <message>
         <source>fas</source>
-        <translation type="unfinished"></translation>
+        <translation>fas</translation>
     </message>
     <message>
         <source>df</source>
-        <translation type="unfinished"></translation>
+        <translation>df</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adaugă</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Șterge</translation>
     </message>
     <message>
         <source>Use labels in</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizează etichete în</translation>
     </message>
     <message>
         <source>&amp;Top row</source>
-        <translation type="unfinished"></translation>
+        <translation>Rândul de &amp;sus</translation>
     </message>
     <message>
         <source>&amp;Left column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloana &amp;stângă</translation>
     </message>
 </context>
 <context>
@@ -1953,34 +1953,34 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <name>KxDlgCreateNames</name>
     <message>
         <source>Create Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Crează nume</translation>
     </message>
     <message>
         <source>Create names in</source>
-        <translation type="unfinished"></translation>
+        <translation>Crează nume în</translation>
     </message>
     <message>
         <source>&amp;Top row</source>
-        <translation type="unfinished"></translation>
+        <translation>Rândul de &amp;sus</translation>
     </message>
     <message>
         <source>&amp;Left column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloana &amp;stângă</translation>
     </message>
     <message>
         <source>&amp;Bottom row</source>
-        <translation type="unfinished"></translation>
+        <translation>Rândul de &amp;jos</translation>
     </message>
     <message>
         <source>&amp;Right column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloana &amp;dreaptă</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCreatePivotTable</name>
     <message>
         <source>&amp;Select a range:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Selectați o limită:</translation>
     </message>
     <message>
         <source>Create PivotTable</source>
@@ -1988,15 +1988,15 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Choose the data that you want to analyze</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți datele pe care doriți să le analizați</translation>
     </message>
     <message>
         <source>&amp;Use an external data source</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Utilizează o sursă de date externă</translation>
     </message>
     <message>
         <source>Choose &amp;Connection...</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți &amp;Conexiunea...</translation>
     </message>
     <message>
         <source>Use another &amp;pivotTable:</source>
@@ -2008,11 +2008,11 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>&amp;New worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Foaie de lucru &amp;nouă</translation>
     </message>
     <message>
         <source>&amp;Existing worksheet:</source>
-        <translation type="unfinished"></translation>
+        <translation>Foi de lucru &amp;existente:</translation>
     </message>
 </context>
 <context>
@@ -2020,119 +2020,121 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
 box, then choose the appropriate button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru a insera un număr de pagină, dată, oră, nume fișier: poziționați punctul de inserare în caseta de editare,
+apoi alegeți butonul corespunzător.</translation>
     </message>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru a insera o poză: apăsați butonul Inserare poză. Pentru a formata poza, plasați cursorul
+în caseta editare și apăsați butonul Formatare poză.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Font</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Oră</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserare poză</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetare poză</translation>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea &amp;stângă:</translation>
     </message>
     <message>
         <source>&amp;Center section:</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea &amp;centrală:</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea &amp;dreaptă:</translation>
     </message>
     <message>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>intrare</translation>
     </message>
     <message>
         <source>To format text: select the text, then click the font button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru formatarea textului: selectați textul, apoi apăsați butonul font.</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr pagină</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr de pagini</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume foaie</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDefineName</name>
     <message>
         <source>Define Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Definire nume</translation>
     </message>
     <message>
         <source>Names in &amp;workbook:</source>
-        <translation type="unfinished"></translation>
+        <translation>Denumiri în &amp;registru de lucru:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adaugă</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Șterge</translation>
     </message>
     <message>
         <source>&amp;Refer to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Referire la:</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>&amp;Function</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Funcție</translation>
     </message>
     <message>
         <source>&amp;Command</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Comandă</translation>
     </message>
     <message>
         <source>Non&amp;e</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimi&amp;c</translation>
     </message>
     <message>
         <source>Sor&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Sor&amp;tează</translation>
     </message>
 </context>
 <context>
@@ -2143,11 +2145,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Shift cells &amp;left</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă celulele la &amp;stânga</translation>
     </message>
     <message>
         <source>Shift cells &amp;up</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă celulele &amp;sus</translation>
     </message>
     <message>
         <source>Entire &amp;row</source>
@@ -2197,11 +2199,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Adjust column width</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ajustare lățime coloană</translation>
     </message>
     <message>
         <source>Pre&amp;serve formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Pă&amp;strează formatarea</translation>
     </message>
     <message>
         <source>If the number of rows in the data range changes upon refresh:</source>
@@ -2209,65 +2211,65 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Insert &amp;cells for new data, delete unused cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserează &amp;Celule pentru date noi, șterge celulele neutilizate</translation>
     </message>
     <message>
         <source>Insert entire ro&amp;ws for new data, clear unused cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserează râ&amp;nduri întregi pentru date noi, curăță celulele neutilizate</translation>
     </message>
     <message>
         <source>&amp;Overwrite existing cells with new data, clear unused cells</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Suprascrie celulele existente cu date noi, curăță celulele neutilizate</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditOLEDBQuery</name>
     <message>
         <source>Edit OLE DB Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare interogare OLE DB</translation>
     </message>
     <message>
         <source>&amp;Connection:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Conexiune:</translation>
     </message>
     <message>
         <source>SQL</source>
-        <translation type="unfinished"></translation>
+        <translation>SQL</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Implicit</translation>
     </message>
     <message>
         <source>Command &amp;type:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tip comandă:</translation>
     </message>
     <message>
         <source>Command t&amp;ext:</source>
-        <translation type="unfinished"></translation>
+        <translation>T&amp;ext comandă:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgErrorCheck</name>
     <message>
         <source>Error Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificare erori</translation>
     </message>
     <message>
         <source>Cell ? Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Celulă ? eroare</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Infotip</translation>
     </message>
     <message>
         <source>ErrorType</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiperoare</translation>
     </message>
     <message>
         <source>FixItem1</source>
@@ -2279,7 +2281,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Ignore Error</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ignoră eroarea</translation>
     </message>
     <message>
         <source>Edit in &amp;Formula Bar</source>
@@ -2287,15 +2289,15 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Option...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opțiune...</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anterior</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Următor</translation>
     </message>
 </context>
 <context>
@@ -2317,61 +2319,61 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgEtRecordMacro</name>
     <message>
         <source>Record Macro</source>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrare macrocomandă</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume &amp;macrocomandă:</translation>
     </message>
     <message>
         <source>Shortcut &amp;key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Scurtătură &amp;tastă:</translation>
     </message>
     <message>
         <source>Ctrl+</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+</translation>
     </message>
     <message>
         <source>&amp;Store macro in:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Depozitează macrocomenzile în:</translation>
     </message>
     <message>
         <source>&amp;Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Descriere:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFillAcross</name>
     <message>
         <source>Fill Across Worksheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Completați peste foile de lucru</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Umple</translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tot</translation>
     </message>
     <message>
         <source>&amp;Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Conținuturi</translation>
     </message>
     <message>
         <source>Forma&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma&amp;tări</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFindReplace</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Găsește</translation>
     </message>
     <message>
         <source>Fin&amp;d</source>
-        <translation type="unfinished"></translation>
+        <translation>Găs&amp;ește</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
@@ -2383,11 +2385,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Foaie</translation>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Registru de lucru</translation>
     </message>
     <message>
         <source>Match &amp;case</source>
@@ -2395,35 +2397,35 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>By rows</source>
-        <translation type="unfinished"></translation>
+        <translation>În rânduri</translation>
     </message>
     <message>
         <source>By columns</source>
-        <translation type="unfinished"></translation>
+        <translation>În coloane</translation>
     </message>
     <message>
         <source>Match entire cell c&amp;ontents</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește întreg c&amp;onținutul celulei</translation>
     </message>
     <message>
         <source>&amp;Look in:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Caută în:</translation>
     </message>
     <message>
         <source>Smart</source>
-        <translation type="unfinished"></translation>
+        <translation>Inteligent</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Valori</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarii</translation>
     </message>
     <message>
         <source>Match &amp;byte</source>
@@ -2431,246 +2433,246 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Op&amp;țiuni &lt;&lt;</translation>
     </message>
     <message>
         <source>Re&amp;place</source>
-        <translation type="unfinished"></translation>
+        <translation>În&amp;locuiește</translation>
     </message>
     <message>
         <source>R&amp;eplace with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocui&amp;ește cu:</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectare</translation>
     </message>
     <message>
         <source>D&amp;ata</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;ată</translation>
     </message>
     <message>
         <source>Hyperl&amp;ink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperl&amp;ink</translation>
     </message>
     <message>
         <source>C&amp;onstants</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;onstante</translation>
     </message>
     <message>
         <source>Fo&amp;rmulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Fo&amp;rmule</translation>
     </message>
     <message>
         <source>Data type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip date:</translation>
     </message>
     <message>
         <source>N&amp;umbers</source>
-        <translation type="unfinished"></translation>
+        <translation>N&amp;umere</translation>
     </message>
     <message>
         <source>Te&amp;xt</source>
-        <translation type="unfinished"></translation>
+        <translation>Te&amp;xt</translation>
     </message>
     <message>
         <source>&amp;Logicals</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Logice</translation>
     </message>
     <message>
         <source>&amp;Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Erori</translation>
     </message>
     <message>
         <source>&amp;Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Comentarii</translation>
     </message>
     <message>
         <source>Blan&amp;ks</source>
-        <translation type="unfinished"></translation>
+        <translation>Goa&amp;le</translation>
     </message>
     <message>
         <source>Visible cells onl&amp;y</source>
-        <translation type="unfinished"></translation>
+        <translation>Numa&amp;i celulele vizibile</translation>
     </message>
     <message>
         <source>La&amp;st cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Ul&amp;tima celulă</translation>
     </message>
     <message>
         <source>Curre&amp;nt data area</source>
-        <translation type="unfinished"></translation>
+        <translation>Zona datei cure&amp;nte</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește &amp;tot</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Înlocuiește</translation>
     </message>
     <message>
         <source>F&amp;ind All</source>
-        <translation type="unfinished"></translation>
+        <translation>G&amp;ăsește tot</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Găsește următorul</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Celulă</translation>
     </message>
     <message>
         <source>For&amp;mat...</source>
-        <translation type="unfinished"></translation>
+        <translation>For&amp;matare...</translation>
     </message>
     <message>
         <source>Alt+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+M</translation>
     </message>
     <message>
         <source>&amp;Search for a function:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Caută pentru o funcție:</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mergi la</translation>
     </message>
     <message>
         <source>O&amp;bjects</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;biecte</translation>
     </message>
     <message>
         <source>Find Pre&amp;vious</source>
-        <translation type="unfinished"></translation>
+        <translation>Găsește ant&amp;eriorul</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFont</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Font</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Font:</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil f&amp;ont:</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursiv</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldin</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldin cursiv</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimen&amp;siune:</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished"></translation>
+        <translation>11</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation>12</translation>
     </message>
     <message>
         <source>14</source>
-        <translation type="unfinished"></translation>
+        <translation>14</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished"></translation>
+        <translation>16</translation>
     </message>
     <message>
         <source>18</source>
-        <translation type="unfinished"></translation>
+        <translation>18</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation>20</translation>
     </message>
     <message>
         <source>22</source>
-        <translation type="unfinished"></translation>
+        <translation>22</translation>
     </message>
     <message>
         <source>24</source>
-        <translation type="unfinished"></translation>
+        <translation>24</translation>
     </message>
     <message>
         <source>26</source>
-        <translation type="unfinished"></translation>
+        <translation>26</translation>
     </message>
     <message>
         <source>28</source>
-        <translation type="unfinished"></translation>
+        <translation>28</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation>36</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation>48</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation>72</translation>
     </message>
     <message>
         <source>&amp;Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;ubliniat:</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Singur</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efecte</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
@@ -2686,11 +2688,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesta este un font TrueType. Acest font va fi utilizat atât pentru imprimantă cât și pentru ecran.</translation>
     </message>
 </context>
 <context>
@@ -2704,19 +2706,19 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgFormatGraphic</name>
     <message>
         <source>Format Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>Format grafic</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <source>Size and rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiune și rotație</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Înălțim&amp;e:</translation>
     </message>
     <message>
         <source>ucShapeHeight</source>
@@ -2724,11 +2726,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>pt, 2, -10, 1e+08, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>pt, 2, -10, 1e+08, 1</translation>
     </message>
     <message>
         <source>Wi&amp;dth:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lă&amp;țime:</translation>
     </message>
     <message>
         <source>ucShapeWidth</source>
@@ -2736,7 +2738,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rotire:</translation>
     </message>
     <message>
         <source>ucRotation</source>
@@ -2744,15 +2746,15 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>degree, 0, -360000, 360000, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>grade, 0, -360000, 360000, 1</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Scală</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Înălțime:</translation>
     </message>
     <message>
         <source>ucScaleHeight</source>
@@ -2760,11 +2762,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>%, 0, -10, 999999, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>%, 0, -10, 999999, 1</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lățime:</translation>
     </message>
     <message>
         <source>ucScaleWidth</source>
@@ -2772,31 +2774,31 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Blochează &amp;proporția aspectului</translation>
     </message>
     <message>
         <source>Original Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiune originală</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Înălțime:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lățime:</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Poză</translation>
     </message>
     <message>
         <source>Crop from</source>
-        <translation type="unfinished"></translation>
+        <translation>Decupează de la</translation>
     </message>
     <message>
         <source>ucCropLeft</source>
@@ -2804,11 +2806,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>pt, 2, -1e+08, 1e+08, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>pt, 2, -1e+08, 1e+08, 1</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sus:</translation>
     </message>
     <message>
         <source>ucCropTop</source>
@@ -2816,7 +2818,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;reapta:</translation>
     </message>
     <message>
         <source>ucCropRight</source>
@@ -2824,7 +2826,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dedesu&amp;bt:</translation>
     </message>
     <message>
         <source>ucCropBottom</source>
@@ -2832,11 +2834,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Image Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control imagine</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Culoare:</translation>
     </message>
     <message>
         <source>cbDropDownList</source>
@@ -2844,15 +2846,15 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Scală de gri</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>Alb și negru</translation>
     </message>
     <message>
         <source>Washout</source>
@@ -2860,7 +2862,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumi&amp;nozitate:</translation>
     </message>
     <message>
         <source>ucBrightness</source>
@@ -2868,11 +2870,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>%, 1, -10, 999999, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>%, 1, -10, 999999, 1</translation>
     </message>
     <message>
         <source>Co&amp;ntrast:</source>
-        <translation type="unfinished"></translation>
+        <translation>Co&amp;ntrast:</translation>
     </message>
     <message>
         <source>ucContrast</source>
@@ -2884,26 +2886,26 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Re&amp;set</source>
-        <translation type="unfinished"></translation>
+        <translation>Re&amp;set</translation>
     </message>
     <message>
         <source>Relative to original picture size</source>
-        <translation type="unfinished"></translation>
+        <translation>Aproximativ la dimensiunea originală a pozei</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stânga:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgGroupOutlineSettings</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direcție</translation>
     </message>
     <message>
         <source>Summary rows &amp;below detail</source>
@@ -2918,147 +2920,147 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgImportCustomList</name>
     <message>
         <source>Import Custom Lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Importă liste personalizate</translation>
     </message>
     <message>
         <source>Custom lists from</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste personalizate de la</translation>
     </message>
     <message>
         <source>&amp;Row</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rând</translation>
     </message>
     <message>
         <source>&amp;Column</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Coloană</translation>
     </message>
 </context>
 <context>
     <name>KxDlgImportData</name>
     <message>
         <source>Import Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Import date</translation>
     </message>
     <message>
         <source>P&amp;roperties...</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;roprietăți...</translation>
     </message>
     <message>
         <source>&amp;Destination area:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zona de &amp;destinație:</translation>
     </message>
     <message>
         <source>Edit &amp;Query...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare &amp;interogare...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInsertCells</name>
     <message>
         <source>Insert</source>
-        <translation type="unfinished">Inserează</translation>
+        <translation>Inserează</translation>
     </message>
     <message>
         <source>Shift cells r&amp;ight</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă celulele la d&amp;reapta</translation>
     </message>
     <message>
         <source>Shift cells &amp;down</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă celulele în &amp;jos</translation>
     </message>
     <message>
         <source>Entire &amp;row</source>
-        <translation type="unfinished"></translation>
+        <translation>Întregul &amp;rând</translation>
     </message>
     <message>
         <source>Entire &amp;column</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreaga &amp;coloană</translation>
     </message>
     <message>
         <source>Rows:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rânduri:</translation>
     </message>
     <message>
         <source>Columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloane:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInsertComment</name>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentariu</translation>
     </message>
     <message>
         <source>&amp;Author:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Autor:</translation>
     </message>
     <message>
         <source>&amp;Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Comentariu:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInsertFunction</name>
     <message>
         <source>Insert Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserează funcția</translation>
     </message>
     <message>
         <source>All Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate funcțiile</translation>
     </message>
     <message>
         <source>&amp;Goto</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mergi la</translation>
     </message>
     <message>
         <source>Select a functio&amp;n:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează o fu&amp;ncție:</translation>
     </message>
     <message>
         <source>Function Prototype Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetă prototip funcție</translation>
     </message>
     <message>
         <source>Function Description Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetă descriere funcție</translation>
     </message>
     <message>
         <source>Common Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulă comună</translation>
     </message>
     <message>
         <source>Formula List:</source>
-        <translation type="unfinished"></translation>
+        <translation>Listă formule:</translation>
     </message>
     <message>
         <source>Parameter Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare parametru</translation>
     </message>
     <message>
         <source>lblRecord1</source>
-        <translation type="unfinished"></translation>
+        <translation>lblRecord1</translation>
     </message>
     <message>
         <source>lblRecord2</source>
-        <translation type="unfinished"></translation>
+        <translation>lblRecord2</translation>
     </message>
     <message>
         <source>lblRecord3</source>
-        <translation type="unfinished"></translation>
+        <translation>lblRecord3</translation>
     </message>
     <message>
         <source>lblRecord4</source>
-        <translation type="unfinished"></translation>
+        <translation>lblRecord4</translation>
     </message>
     <message>
         <source>lblRecord5</source>
-        <translation type="unfinished"></translation>
+        <translation>lblRecord5</translation>
     </message>
     <message>
         <source>lblRecord6</source>
-        <translation type="unfinished"></translation>
+        <translation>lblRecord6</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -3066,15 +3068,19 @@ cursor in the edit box and press the Format Picture button.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;宋体&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#0046eb;&quot;&gt;comment&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;宋体&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#0046eb;&quot;&gt;comment&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Search for a function:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;caută pentru o funcție:</translation>
     </message>
     <message>
         <source>Or select a &amp;category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sau selectați o &amp;categorie:</translation>
     </message>
 </context>
 <context>
@@ -3089,115 +3095,115 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;After current sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;după foaia curentă</translation>
     </message>
     <message>
         <source>&amp;Before current sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Înaintea foii curente</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Modele</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserează foaie</translation>
     </message>
 </context>
 <context>
     <name>KxDlgMoveOrCopySheet</name>
     <message>
         <source>Move selected sheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută foile selectate</translation>
     </message>
     <message>
         <source>&amp;Before sheet:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restaurare foaie:</translation>
     </message>
     <message>
         <source>&amp;Create a copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Crează o copie</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută sau copiază foaia</translation>
     </message>
     <message>
         <source>&amp;To workbook:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;La registrul de lucru:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgNameOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni</translation>
     </message>
     <message>
         <source>eg:&quot;Sheet&quot;: Sheet1, Sheet2...</source>
-        <translation type="unfinished"></translation>
+        <translation>ex:&quot;Foaie&quot;: Foaia1, Foaia2...</translation>
     </message>
     <message>
         <source>Default book name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume carte implicit</translation>
     </message>
     <message>
         <source>eg:&quot;Workbook&quot;: Workbook1, Workbook2...</source>
-        <translation type="unfinished"></translation>
+        <translation>ex:&quot;Workbook&quot;: Workbook1, Workbook2...</translation>
     </message>
     <message>
         <source>Default sheet name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume foaie implicit</translation>
     </message>
 </context>
 <context>
     <name>KxDlgNewOrModifyAllowUserEditRange</name>
     <message>
         <source>New Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Limită nouă</translation>
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Titlu:</translation>
     </message>
     <message>
         <source>Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Limită</translation>
     </message>
     <message>
         <source>Range &amp;password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Limită și &amp;parolă:</translation>
     </message>
     <message>
         <source>&amp;Password...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Parolă...</translation>
     </message>
     <message>
         <source>Modify Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifică limita</translation>
     </message>
     <message>
         <source>&amp;Refer to cells:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Referitor la celule:</translation>
     </message>
     <message>
         <source>P&amp;ermissions...</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;ermisiuni...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgOpenSharedWorkbook</name>
     <message>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume utilizator</translation>
     </message>
     <message>
         <source>Datetime</source>
-        <translation type="unfinished"></translation>
+        <translation>Datăoră</translation>
     </message>
     <message>
         <source>Open Excel Shared Workbook</source>
@@ -3205,7 +3211,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Read-only</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Doar-citire</translation>
     </message>
     <message>
         <source>&amp;Switch to WPS Spreadsheets Shared Workbook</source>
@@ -3216,27 +3222,27 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgOptions</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată</translation>
     </message>
     <message>
         <source>&amp;Formula bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bara &amp;formulelor</translation>
     </message>
     <message>
         <source>&amp;Status bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bara de &amp;stare</translation>
     </message>
     <message>
         <source>Window options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni fereastră</translation>
     </message>
     <message>
         <source>Page brea&amp;ks</source>
@@ -3256,15 +3262,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Zero values</source>
-        <translation type="unfinished"></translation>
+        <translation>Valori &amp;zero</translation>
     </message>
     <message>
         <source>Document switch mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Comutare mod document</translation>
     </message>
     <message>
         <source>&amp;Document tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Fereastra &amp;document</translation>
     </message>
     <message>
         <source>Taskb&amp;ar</source>
@@ -3276,19 +3282,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Calculation</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculare</translation>
     </message>
     <message>
         <source>&amp;Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Automat</translation>
     </message>
     <message>
         <source>&amp;Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Manual</translation>
     </message>
     <message>
         <source>&amp;Iteration</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Repetare</translation>
     </message>
     <message>
         <source>Maximum it&amp;erations:</source>
@@ -3300,7 +3306,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Workbook options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni registru de lucru</translation>
     </message>
     <message>
         <source>&amp;Precision as displayed</source>
@@ -3308,31 +3314,31 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare</translation>
     </message>
     <message>
         <source>Edit settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare configurări</translation>
     </message>
     <message>
         <source>D&amp;irection:</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;irecție:</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Sus</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga</translation>
     </message>
     <message>
         <source>Fi&amp;xed decimal</source>
@@ -3340,7 +3346,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Places:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Locuri:</translation>
     </message>
     <message>
         <source>Enable Auto&amp;Complete for cell values</source>
@@ -3364,55 +3370,55 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show names</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Arată numele</translation>
     </message>
     <message>
         <source>S&amp;how values</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;rată valorile</translation>
     </message>
     <message>
         <source>General and Save</source>
-        <translation type="unfinished"></translation>
+        <translation>General și salvează</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări</translation>
     </message>
     <message>
         <source>R1&amp;C1 reference style</source>
-        <translation type="unfinished"></translation>
+        <translation>Referință stil R1&amp;C1</translation>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Listă fișiere &amp;recent utilizate:</translation>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>ch, 0, 0, 100, 1</translation>
     </message>
     <message>
         <source>en&amp;tries</source>
-        <translation type="unfinished"></translation>
+        <translation>in&amp;trări</translation>
     </message>
     <message>
         <source>&amp;Multidiagonal Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Celulă &amp;multidiagonală</translation>
     </message>
     <message>
         <source>Recover options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni recuperare</translation>
     </message>
     <message>
         <source>character</source>
-        <translation type="unfinished"></translation>
+        <translation>caracter</translation>
     </message>
     <message>
         <source>ch, 0, 0, 120, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>ch, 0, 0, 120, 1</translation>
     </message>
     <message>
         <source>&amp;minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;minute</translation>
     </message>
     <message>
         <source>&amp;Sheets in new workbook:</source>
@@ -3420,151 +3426,151 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava&amp;nsat...</translation>
     </message>
     <message>
         <source>St&amp;andard font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Font st&amp;andard:</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished"></translation>
+        <translation>11</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation>12</translation>
     </message>
     <message>
         <source>14</source>
-        <translation type="unfinished"></translation>
+        <translation>14</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished"></translation>
+        <translation>16</translation>
     </message>
     <message>
         <source>18</source>
-        <translation type="unfinished"></translation>
+        <translation>18</translation>
     </message>
     <message>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation>20</translation>
     </message>
     <message>
         <source>22</source>
-        <translation type="unfinished"></translation>
+        <translation>22</translation>
     </message>
     <message>
         <source>24</source>
-        <translation type="unfinished"></translation>
+        <translation>24</translation>
     </message>
     <message>
         <source>26</source>
-        <translation type="unfinished"></translation>
+        <translation>26</translation>
     </message>
     <message>
         <source>28</source>
-        <translation type="unfinished"></translation>
+        <translation>28</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation>36</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation>48</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation>72</translation>
     </message>
     <message>
         <source>&amp;Default file location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Locație &amp;implicită fișier:</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>User &amp;name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nume utilizator:</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează</translation>
     </message>
     <message>
         <source>Default document &amp;format to save:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Format implicit document de salvat:</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Workbook (*.xlsx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 2007/2010 Workbook (*.xlsx)</translation>
     </message>
     <message>
         <source>Start With</source>
-        <translation type="unfinished"></translation>
+        <translation>Începe cu</translation>
     </message>
     <message>
         <source>Start With:</source>
-        <translation type="unfinished"></translation>
+        <translation>Începe cu:</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
-        <translation type="unfinished"></translation>
+        <translation>Pa&amp;gina principală</translation>
     </message>
     <message>
         <source>New Doc&amp;ument</source>
-        <translation type="unfinished"></translation>
+        <translation>Doc&amp;ument nou</translation>
     </message>
     <message>
         <source>Custom Lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Listă personalizată</translation>
     </message>
     <message>
         <source>Custom &amp;lists:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Listă personalizată:</translation>
     </message>
     <message>
         <source>List &amp;entries:</source>
-        <translation type="unfinished"></translation>
+        <translation>Listă &amp;intrări:</translation>
     </message>
     <message>
         <source>I&amp;mport</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;mport</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adaugă</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Șterge</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare</translation>
     </message>
     <message>
         <source>Standard colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Culori standard:</translation>
     </message>
     <message>
         <source>Chart fills:</source>
@@ -3576,15 +3582,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modificare...</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reset</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Securitate</translation>
     </message>
     <message>
         <source>File encryption options for this workbook</source>
@@ -3592,11 +3598,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Avansat...</translation>
     </message>
     <message>
         <source>Reenter &amp;password to open:</source>
-        <translation type="unfinished"></translation>
+        <translation>Reintroduceți &amp;parola pentru deschidere:</translation>
     </message>
     <message>
         <source>File sharing options for this workbook</source>
@@ -3604,15 +3610,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Password to &amp;modify:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parolă de &amp;modificat:</translation>
     </message>
     <message>
         <source>&amp;Reenter password to modify:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reintroduceți parola de modificat:</translation>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare verificare</translation>
     </message>
     <message>
         <source>Enable &amp;background error checking</source>
@@ -3620,7 +3626,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Rigle</translation>
     </message>
     <message>
         <source>Evaluates to error &amp;value</source>
@@ -3628,35 +3634,35 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"></translation>
+        <translation>Î&amp;ntotdeauna sugerează corecturi</translation>
     </message>
     <message>
         <source>Ignore words with num&amp;bers</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoră cuvintele cu num&amp;ere</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Implicit</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modifică</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nou...</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adaugă...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimină</translation>
     </message>
     <message>
         <source>GroupBox</source>
@@ -3664,19 +3670,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ne&amp;w word:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt no&amp;u:</translation>
     </message>
     <message>
         <source>A&amp;dd</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;daugă</translation>
     </message>
     <message>
         <source>Words &amp;in current dictionary:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuvinte &amp;în dicționarul curent:</translation>
     </message>
     <message>
         <source>D&amp;elete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ș&amp;terge</translation>
     </message>
     <message>
         <source>Re&amp;turn</source>
@@ -3684,7 +3690,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tab style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil filă</translation>
     </message>
     <message>
         <source>&amp;Autofit the tab width</source>
@@ -3704,11 +3710,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Alte opțiuni</translation>
     </message>
     <message>
         <source>Display the &amp;Close button in the active tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează butonul în&amp;chide în fila activă</translation>
     </message>
     <message>
         <source>&amp;Double-click the tab to close a document</source>
@@ -3736,7 +3742,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documente recente</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -3756,19 +3762,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>ch</source>
-        <translation type="unfinished"></translation>
+        <translation>ch</translation>
     </message>
     <message>
         <source>Siz&amp;e:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiun&amp;e:</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Workbook (*.et)</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets Workbook (*.et)</translation>
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Workbook (*.xls)</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 97/2000/XP/2003 Workbook (*.xls)</translation>
     </message>
     <message>
         <source>&amp;Import list from cells:</source>
@@ -3780,7 +3786,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
-        <translation type="unfinished"></translation>
+        <translation>Par&amp;olă document:</translation>
     </message>
     <message>
         <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered. Remember that passwords are case-sensitive.</source>
@@ -3820,7 +3826,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificare scriere</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
@@ -3828,7 +3834,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicționar personalizat</translation>
     </message>
     <message>
         <source>Path(Double-click to open the folder)</source>
@@ -3836,15 +3842,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Set as Default</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Configurează ca implicit</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Intimitate</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajutați-ne să îmbunătățim WPS Office</translation>
     </message>
     <message>
         <source>Display the tab bar at the bottom of doc&amp;ument</source>
@@ -3872,50 +3878,50 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Navighează...</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Butonul avansat vă permite să alegeți dintre tipuri diferite de criptare.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurare pagină</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagină</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientare</translation>
     </message>
     <message>
         <source>Por&amp;trait</source>
-        <translation type="unfinished"></translation>
+        <translation>Por&amp;tret</translation>
     </message>
     <message>
         <source>&amp;Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Peisaj</translation>
     </message>
     <message>
         <source>Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Scalare</translation>
     </message>
     <message>
         <source>&amp;Adjust to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ajustează la:</translation>
     </message>
     <message>
         <source>% normal size</source>
-        <translation type="unfinished"></translation>
+        <translation>% dimensiune normală</translation>
     </message>
     <message>
         <source>&amp;Fit to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Potrivește la:</translation>
     </message>
     <message>
         <source>tall</source>
@@ -3923,71 +3929,71 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Paper si&amp;ze:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiu&amp;ne hârtie:</translation>
     </message>
     <message>
         <source>Print &amp;quality:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Calitate tipărire:</translation>
     </message>
     <message>
         <source>72 dpi</source>
-        <translation type="unfinished"></translation>
+        <translation>72 dpi</translation>
     </message>
     <message>
         <source>144 dpi</source>
-        <translation type="unfinished"></translation>
+        <translation>144 dpi</translation>
     </message>
     <message>
         <source>300 dpi</source>
-        <translation type="unfinished"></translation>
+        <translation>300 dpi</translation>
     </message>
     <message>
         <source>600 dpi</source>
-        <translation type="unfinished"></translation>
+        <translation>600 dpi</translation>
     </message>
     <message>
         <source>1200 dpi</source>
-        <translation type="unfinished"></translation>
+        <translation>1200 dpi</translation>
     </message>
     <message>
         <source>2400 dpi</source>
-        <translation type="unfinished"></translation>
+        <translation>2400 dpi</translation>
     </message>
     <message>
         <source>3600 dpi</source>
-        <translation type="unfinished"></translation>
+        <translation>3600 dpi</translation>
     </message>
     <message>
         <source>4000 dpi</source>
-        <translation type="unfinished"></translation>
+        <translation>4000 dpi</translation>
     </message>
     <message>
         <source>Fi&amp;rst page number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr p&amp;rima pagină:</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Margini</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sus:</translation>
     </message>
     <message>
         <source>He&amp;ader:</source>
-        <translation type="unfinished"></translation>
+        <translation>AN&amp;tet:</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stânga:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dreapta:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dedesubt:</translation>
     </message>
     <message>
         <source>&amp;Footer:</source>
@@ -3995,35 +4001,35 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Unit: Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Unități: Centimetri</translation>
     </message>
     <message>
         <source>Center on page</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrat pe pagină</translation>
     </message>
     <message>
         <source>Hori&amp;zontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Ori&amp;zontal</translation>
     </message>
     <message>
         <source>&amp;Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vertical</translation>
     </message>
     <message>
         <source>(none)</source>
-        <translation type="unfinished"></translation>
+        <translation>(nimic)</translation>
     </message>
     <message>
         <source>Page 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina 1</translation>
     </message>
     <message>
         <source>Page 1 of ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina 1 din ?</translation>
     </message>
     <message>
         <source>Sheet1</source>
-        <translation type="unfinished"></translation>
+        <translation>Foaia1</translation>
     </message>
     <message>
         <source>Page 1 Sheet1</source>
@@ -4031,7 +4037,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Custom Header...</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet &amp;personalizat...</translation>
     </message>
     <message>
         <source>C&amp;ustom Footer...</source>
@@ -4039,15 +4045,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Foaie</translation>
     </message>
     <message>
         <source>Print &amp;area:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zona de tipărit:</translation>
     </message>
     <message>
         <source>Print titles</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipărește titlurile</translation>
     </message>
     <message>
         <source>&amp;Rows to repeat at top:</source>
@@ -4059,7 +4065,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipărește</translation>
     </message>
     <message>
         <source>&amp;Gridlines</source>
@@ -4067,7 +4073,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alb și negru</translation>
     </message>
     <message>
         <source>Row and co&amp;lumn headings</source>
@@ -4079,7 +4085,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Displayed</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișate</translation>
     </message>
     <message>
         <source>&lt;Blank&gt;</source>
@@ -4087,11 +4093,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>--</source>
-        <translation type="unfinished"></translation>
+        <translation>--</translation>
     </message>
     <message>
         <source>#N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>#N/A</translation>
     </message>
     <message>
         <source>Page order</source>
@@ -4107,27 +4113,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opțiuni...</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ti&amp;părește...</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește foaia pe o pagină</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește toate coloanele pe o pagină</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește toate rândurile pe o pagină</translation>
     </message>
     <message>
         <source>Others...</source>
-        <translation type="unfinished"></translation>
+        <translation>Altele...</translation>
     </message>
     <message>
         <source>page(s) wide by </source>
@@ -4161,11 +4167,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Source field:</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp sursă:</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu&amp;me:</translation>
     </message>
     <message>
         <source>&amp;Summarize value field by</source>
@@ -4173,19 +4179,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Subtotals</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotaluri</translation>
     </message>
     <message>
         <source>Au&amp;tomatic</source>
-        <translation type="unfinished"></translation>
+        <translation>AU&amp;tomatic</translation>
     </message>
     <message>
         <source>C&amp;ustom</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;ersonalizat</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nimic</translation>
     </message>
     <message>
         <source>Base &amp;field:</source>
@@ -4197,19 +4203,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișaj</translation>
     </message>
     <message>
         <source>&amp;Show items:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Arată elemente:</translation>
     </message>
     <message>
         <source>S&amp;how items with no data</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;Rată elementele fără date</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspect</translation>
     </message>
     <message>
         <source>Show items in &amp;tabular form</source>
@@ -4233,7 +4239,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
-        <translation type="unfinished"></translation>
+        <translation>AV&amp;ansat...</translation>
     </message>
     <message>
         <source>Summarize Values By</source>
@@ -4245,31 +4251,31 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>buttonGroup</source>
-        <translation type="unfinished"></translation>
+        <translation>butonGrup</translation>
     </message>
     <message>
         <source>Show Values As</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată valorile ca</translation>
     </message>
     <message>
         <source>Show v&amp;alues as</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată v&amp;alorile ca</translation>
     </message>
     <message>
         <source>Display options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni afișare</translation>
     </message>
     <message>
         <source>buttonGroup_2</source>
-        <translation type="unfinished"></translation>
+        <translation>butonGrup_2</translation>
     </message>
     <message>
         <source>Print option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni tipărire</translation>
     </message>
     <message>
         <source>Num&amp;ber Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format num&amp;ăr</translation>
     </message>
 </context>
 <context>
@@ -4280,7 +4286,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;NUme:</translation>
     </message>
     <message>
         <source>&amp;Grand totals for columns</source>
@@ -4312,7 +4318,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>For empty c&amp;ells, show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru c&amp;elulele goale, arată:</translation>
     </message>
     <message>
         <source>Down, then over</source>
@@ -4327,15 +4333,15 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgPrint</name>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipărește</translation>
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"></translation>
+        <translation>Copii</translation>
     </message>
     <message>
         <source>Number of &amp;copies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr de &amp;copii:</translation>
     </message>
     <message>
         <source>C&amp;ollate</source>
@@ -4343,23 +4349,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Page range</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tot</translation>
     </message>
     <message>
         <source>Pa&amp;ges</source>
-        <translation type="unfinished"></translation>
+        <translation>Pa&amp;gini</translation>
     </message>
     <message>
         <source>&amp;From:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;De la:</translation>
     </message>
     <message>
         <source>&amp;To:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;La:</translation>
     </message>
     <message>
         <source>Print what</source>
@@ -4367,19 +4373,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Selectio&amp;n</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecți&amp;e</translation>
     </message>
     <message>
         <source>From le&amp;ft to right</source>
-        <translation type="unfinished"></translation>
+        <translation>De la st&amp;ânga la dreapta</translation>
     </message>
     <message>
         <source>From top to &amp;bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>De sus în &amp;jos</translation>
     </message>
     <message>
         <source>&amp;Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Repetă</translation>
     </message>
     <message>
         <source>Multipage output and zoom</source>
@@ -4387,55 +4393,55 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Pages per s&amp;heet:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagini pe f&amp;oaie:</translation>
     </message>
     <message>
         <source>1 Page</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pagină</translation>
     </message>
     <message>
         <source>2 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>2 pagini</translation>
     </message>
     <message>
         <source>4 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>4 pagini</translation>
     </message>
     <message>
         <source>6 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pagini</translation>
     </message>
     <message>
         <source>8 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>8 pagini</translation>
     </message>
     <message>
         <source>9 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>9 pagini</translation>
     </message>
     <message>
         <source>16 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>16 pagini</translation>
     </message>
     <message>
         <source>32 Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>32 pagini</translation>
     </message>
     <message>
         <source>Scale to paper si&amp;ze:</source>
-        <translation type="unfinished"></translation>
+        <translation>Scalează la di&amp;mensiunea hârtiei:</translation>
     </message>
     <message>
         <source>&amp;Draw line between pages </source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Trasează linii între pagini</translation>
     </message>
     <message>
         <source>Pre&amp;view</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre&amp;vizualizare</translation>
     </message>
     <message>
         <source>Acti&amp;ve sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Foaia acti&amp;vă</translation>
     </message>
     <message>
         <source>Order</source>
@@ -4468,7 +4474,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>&amp;Password(optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Parolă(facultativ):</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
@@ -4479,7 +4485,7 @@ prior to sharing the workbook.</source>
     <name>KxDlgProtectBook</name>
     <message>
         <source>Protect Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Protejază registrul de lucru</translation>
     </message>
     <message>
         <source>&amp;Password(optional):</source>
@@ -4494,67 +4500,67 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>&amp;Allow all users of this worksheet to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Permite tuturor utilizatorilor ai acestei foi de lucru să:</translation>
     </message>
     <message>
         <source>Select locked cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectare celule blocate</translation>
     </message>
     <message>
         <source>Select unlocked cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectare celule ne-blocate</translation>
     </message>
     <message>
         <source>Format cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatare celule</translation>
     </message>
     <message>
         <source>Format columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatare coloane</translation>
     </message>
     <message>
         <source>Format rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatare rânduri</translation>
     </message>
     <message>
         <source>Insert columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserează coloane</translation>
     </message>
     <message>
         <source>Insert rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserează rânduri</translation>
     </message>
     <message>
         <source>Insert hyperlinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserare hyperlink-uri</translation>
     </message>
     <message>
         <source>Delete columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge coloane</translation>
     </message>
     <message>
         <source>Delete rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge rânduri</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished">Sortează</translation>
+        <translation>Sortează</translation>
     </message>
     <message>
         <source>Use AutoFilter</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați filtrarea automată</translation>
     </message>
     <message>
         <source>Edit objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare obiecte</translation>
     </message>
     <message>
         <source>Edit scenarios</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare scenarii</translation>
     </message>
     <message>
         <source>&amp;Password(optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Parolă(facultativ):</translation>
     </message>
     <message>
         <source>Use PivotTable reports</source>
@@ -4600,19 +4606,19 @@ prior to sharing the workbook.</source>
     <name>KxDlgRemoveDuplicates</name>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimină duplicatele</translation>
     </message>
     <message>
         <source>Please select one or more columns that contain duplicates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați una sau mai multe coloane care conțin duplicate.</translation>
     </message>
     <message>
         <source>&amp;My data has headers</source>
-        <translation type="unfinished"></translation>
+        <translation>Datele &amp;mele au antete</translation>
     </message>
     <message>
         <source>row</source>
-        <translation type="unfinished"></translation>
+        <translation>rând</translation>
     </message>
     <message>
         <source>%d duplicates are found;
@@ -4621,14 +4627,14 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>&amp;Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimină duplicatele</translation>
     </message>
 </context>
 <context>
     <name>KxDlgRemoveDuplicatesWarning</name>
     <message>
         <source>Remove Duplicates Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimină avertizările duplicate</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets found data next to your selection. Because you have not select this data, it will not be removed.</source>
@@ -4636,95 +4642,95 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>What do you want to do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce doriți să faceți?</translation>
     </message>
     <message>
         <source>&amp;Expand the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Expandează selecția</translation>
     </message>
     <message>
         <source>&amp;Continue with the current selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Continuă cu selecția curentă</translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimină duplicatele...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgRepeatWord</name>
     <message>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>intrare</translation>
     </message>
     <message>
         <source>It compares the contents by rows after clicking OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Compară conținuturile rândurilor după apăsarea pe OK.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgResolveConflicts</name>
     <message>
         <source>Resolve Conflicts</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezolvare conflicte</translation>
     </message>
     <message>
         <source>YourChange</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificările dumneavoastră</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Accept the User</source>
-        <translation type="unfinished"></translation>
+        <translation>Accept utilizatorul</translation>
     </message>
     <message>
         <source>Other Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Alte modificări</translation>
     </message>
     <message>
         <source>Accept Other Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Accept alt utilizator</translation>
     </message>
     <message>
         <source>Accept All for Current User</source>
-        <translation type="unfinished"></translation>
+        <translation>Accept tot pentru utilizatorul curent</translation>
     </message>
     <message>
         <source>Accept All Other Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Accept toți ceilalți utilizatori</translation>
     </message>
 </context>
 <context>
     <name>KxDlgRevisionAlert</name>
     <message>
         <source>Unsupported action</source>
-        <translation type="unfinished"></translation>
+        <translation>Acțiune nesuportată</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Continuă</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Salvează ca</translation>
+        <translation>Salvează ca</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Other users may have committed some changes which cannot be identified by WPS Spreadsheets. Click Continue will save the file and discard the changes, while click Save As will save a copy of the current file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alți utilizatori poate au comis unele modificări care nu pot fi identificate de WPS Spreadsheets. Apăsând continuă se va salva fișierul și renunțați la modificări, iar dacă apăsați Salvează ca se va salva o copie a fișierului curent.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgRevisionHighlightChanges</name>
     <message>
         <source>Highlight Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Subliniază modificările</translation>
     </message>
     <message>
         <source>&amp;Show track changes description.</source>
@@ -4736,7 +4742,7 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>When:</source>
-        <translation type="unfinished"></translation>
+        <translation>Când:</translation>
     </message>
     <message>
         <source>Since I last saved</source>
@@ -4744,11 +4750,11 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tot</translation>
     </message>
     <message>
         <source>Not yet reviewed</source>
-        <translation type="unfinished"></translation>
+        <translation>Încă ne-revizuite</translation>
     </message>
     <message>
         <source>Since date...</source>
@@ -4756,11 +4762,11 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>Who:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cine:</translation>
     </message>
     <message>
         <source>Where:</source>
-        <translation type="unfinished"></translation>
+        <translation>Unde:</translation>
     </message>
 </context>
 <context>
@@ -4782,7 +4788,7 @@ Only %d unique value can be keep after delete.</source>
     <name>KxDlgSeries</name>
     <message>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Serii</translation>
     </message>
     <message>
         <source>Series in</source>
@@ -4790,11 +4796,11 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>&amp;Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rânduri</translation>
     </message>
     <message>
         <source>&amp;Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Coloane</translation>
     </message>
     <message>
         <source>&amp;Trend</source>
@@ -4802,7 +4808,7 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip</translation>
     </message>
     <message>
         <source>&amp;Linear</source>
@@ -4814,7 +4820,7 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>&amp;Date</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dată</translation>
     </message>
     <message>
         <source>Auto&amp;Fill</source>
@@ -4826,27 +4832,27 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>D&amp;ay</source>
-        <translation type="unfinished"></translation>
+        <translation>Z&amp;i</translation>
     </message>
     <message>
         <source>&amp;Weekday</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zilele săptămânii</translation>
     </message>
     <message>
         <source>&amp;Month</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lună</translation>
     </message>
     <message>
         <source>&amp;Year</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;An</translation>
     </message>
     <message>
         <source>&amp;Step value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare pa&amp;s:</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>St&amp;op value:</source>
@@ -4883,11 +4889,11 @@ Only %d unique value can be keep after delete.</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare</translation>
     </message>
     <message>
         <source>&amp;Remove User</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimină utilizator</translation>
     </message>
     <message>
         <source>&amp;Allow changes by more than one user at the same time.
@@ -4923,11 +4929,11 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>As&amp;cending</source>
-        <translation type="unfinished"></translation>
+        <translation>As&amp;cendent</translation>
     </message>
     <message>
         <source>Desce&amp;nding</source>
-        <translation type="unfinished"></translation>
+        <translation>Desc&amp;endent</translation>
     </message>
     <message>
         <source>Then by </source>
@@ -4935,11 +4941,11 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Ascend&amp;ing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascend&amp;ent</translation>
     </message>
     <message>
         <source>Descendin&amp;g</source>
-        <translation type="unfinished"></translation>
+        <translation>Descenden&amp;t</translation>
     </message>
     <message>
         <source>My data range has</source>
@@ -4947,11 +4953,11 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Header &amp;row</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet &amp;rând</translation>
     </message>
     <message>
         <source>No header ro&amp;w</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără antet râ&amp;nd</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -4962,7 +4968,7 @@ This also allows workbook merging.</source>
     <name>KxDlgSortOptions</name>
     <message>
         <source>Sort Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni sortare</translation>
     </message>
     <message>
         <source>C&amp;ustom sort order</source>
@@ -4974,7 +4980,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientare</translation>
     </message>
     <message>
         <source>Sort &amp;top to bottom</source>
@@ -4986,7 +4992,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Method</source>
-        <translation type="unfinished"></translation>
+        <translation>Metodă</translation>
     </message>
     <message>
         <source>&amp;Sort by alphabet</source>
@@ -5001,7 +5007,7 @@ This also allows workbook merging.</source>
     <name>KxDlgSpellCheck</name>
     <message>
         <source>Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Limită</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
@@ -5009,7 +5015,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Suggestio&amp;ns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sugest&amp;ii:</translation>
     </message>
     <message>
         <source>&amp;Change</source>
@@ -5029,19 +5035,19 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adaugă la dicționar</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Șterge</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opțiuni</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -5064,11 +5070,11 @@ This also allows workbook merging.</source>
     <name>KxDlgStyle</name>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>&amp;Style name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume &amp;Stil:</translation>
     </message>
     <message>
         <source>Style includes</source>
@@ -5076,15 +5082,15 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr:</translation>
     </message>
     <message>
         <source>Alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniament:</translation>
     </message>
     <message>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Font:</translation>
     </message>
     <message>
         <source>Border:</source>
@@ -5092,61 +5098,61 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Patterns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modele:</translation>
     </message>
     <message>
         <source>Protection:</source>
-        <translation type="unfinished"></translation>
+        <translation>Protecție:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modifică...</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adaugă</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Șterge</translation>
     </message>
     <message>
         <source>M&amp;erge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Î&amp;mbină...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgStylesMerge</name>
     <message>
         <source>Merge Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Îmbină stiluri</translation>
     </message>
     <message>
         <source>&amp;Merge styles from:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Îmbină stiluri de la:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSubTotal</name>
     <message>
         <source>Subtotal</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtotal</translation>
     </message>
     <message>
         <source>&amp;At each change in:</source>
@@ -5166,27 +5172,27 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxim</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Minim</translation>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished"></translation>
+        <translation>Produs</translation>
     </message>
     <message>
         <source>StdDev</source>
-        <translation type="unfinished"></translation>
+        <translation>StdDev</translation>
     </message>
     <message>
         <source>StdDevp</source>
-        <translation type="unfinished"></translation>
+        <translation>StdDevp</translation>
     </message>
     <message>
         <source>Var</source>
-        <translation type="unfinished"></translation>
+        <translation>Var</translation>
     </message>
     <message>
         <source>Varp</source>
@@ -5198,7 +5204,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished">Sortează</translation>
+        <translation>Sortează</translation>
     </message>
     <message>
         <source>Replace &amp;current subtotals</source>
@@ -5222,7 +5228,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Remove All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimină tot</translation>
     </message>
     <message>
         <source>&amp;Use function:</source>
@@ -5393,7 +5399,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
@@ -5490,11 +5496,11 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>&amp;Enter the password to change this cell:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Introduceți parola pentru modificarea acestei celule:</translation>
     </message>
     <message>
         <source>A cell you are trying to change is password protected.</source>
-        <translation type="unfinished"></translation>
+        <translation>O celulă pe care încercați să o modificați este protejată cu parolă.</translation>
     </message>
 </context>
 <context>
@@ -5528,7 +5534,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Any value</source>
-        <translation type="unfinished"></translation>
+        <translation>Orice valoare</translation>
     </message>
     <message>
         <source>Whole number</source>
@@ -5536,19 +5542,19 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Zecimal</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>Listă</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Oră</translation>
     </message>
     <message>
         <source>Text length</source>
@@ -5564,27 +5570,27 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>between</source>
-        <translation type="unfinished"></translation>
+        <translation>între</translation>
     </message>
     <message>
         <source>not between</source>
-        <translation type="unfinished"></translation>
+        <translation>nu între</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>egal cu</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>nu este egal cu</translation>
     </message>
     <message>
         <source>greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>mai mare ca</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation type="unfinished"></translation>
+        <translation>mai mic ca</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
@@ -5600,11 +5606,11 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>&amp;Minimum:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Minim:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&amp;xim:</translation>
     </message>
     <message>
         <source>Ap&amp;ply these changes to all other cells with the same settings</source>
@@ -5624,19 +5630,19 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Titlu:</translation>
     </message>
     <message>
         <source>ll3</source>
-        <translation type="unfinished"></translation>
+        <translation>ll3</translation>
     </message>
     <message>
         <source>ll4</source>
-        <translation type="unfinished"></translation>
+        <translation>ll4</translation>
     </message>
     <message>
         <source>Error Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Alertă eroare</translation>
     </message>
     <message>
         <source>&amp;Show error alert after invalid data is entered</source>
@@ -5656,11 +5662,11 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenție</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informație</translation>
     </message>
     <message>
         <source>&amp;Error message:</source>
@@ -5672,7 +5678,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizat</translation>
     </message>
     <message>
         <source>&amp;Input:</source>
@@ -5730,7 +5736,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>A query with this name already exist on this worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>O interogare cu acest nume deja există pe această foaie de lucru.</translation>
     </message>
 </context>
 <context>
@@ -5757,11 +5763,11 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Error: Worksheet not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare: Foaia de lucru nu s-a găsit</translation>
     </message>
     <message>
         <source>Error: Undefined or non-rectangular name</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare: Nume nedefinit sau ne-dreptunghiular</translation>
     </message>
     <message>
         <source>Error: Status indeterminate</source>
@@ -5816,23 +5822,23 @@ If this is correct, choose Next, or choose the data type that best describes you
     <name>KxEtAutoFilterColorMenu</name>
     <message>
         <source>Filter by cell color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrează după culoarea celulei:</translation>
     </message>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără umplere</translation>
     </message>
     <message>
         <source>Filter by font color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrează după culoarea fontului:</translation>
     </message>
     <message>
         <source>Auto Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare automată</translation>
     </message>
     <message>
         <source>Only one color</source>
-        <translation type="unfinished"></translation>
+        <translation>Numai o singură culoare</translation>
     </message>
 </context>
 <context>
@@ -6023,35 +6029,35 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtFormatShapeDlg</name>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Font</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniament</translation>
     </message>
     <message>
         <source>Colors and Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Culori și linii</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Poză</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Casetă text</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprietăți</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Margini</translation>
     </message>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control</translation>
     </message>
 </context>
 <context>
@@ -6065,15 +6071,15 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtInputBoxDlg</name>
     <message>
         <source>Invalid number</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr nevalid</translation>
     </message>
     <message>
         <source>Text is not valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Textul nu este valid</translation>
     </message>
     <message>
         <source>Logical value is not valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea locală nu este validă</translation>
     </message>
     <message>
         <source>Error value is not valid</source>
@@ -6192,11 +6198,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtSmartLabelAutoFill</name>
     <message>
         <source>Auto Fill Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Completare automată opțiuni</translation>
     </message>
     <message>
         <source>&amp;Copy Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Copiază celule</translation>
     </message>
     <message>
         <source>&amp;Fill Formatting Only</source>
@@ -6322,11 +6328,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxExportPDFDlg</name>
     <message>
         <source>PDF File(*.pdf)|*.pdf</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier PDF(*.pdf)|*.pdf</translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmarea parolei nu este identică.</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
@@ -6334,7 +6340,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Save PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează fișier PDF</translation>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
@@ -6346,14 +6352,14 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți parola pentru configurare permisiuni!</translation>
     </message>
 </context>
 <context>
     <name>KxExportToPDFProgressDlg</name>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pregătește exportul fișierului PDf...</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -6361,31 +6367,31 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Exporting page </source>
-        <translation type="unfinished"></translation>
+        <translation>Se exportă pagina</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se exportă etichetele...</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Este finalizat exportul fișierului PDF...</translation>
     </message>
     <message>
         <source>Encountered an error when opening PDF file!</source>
-        <translation type="unfinished"></translation>
+        <translation>A intervenit o eroare la deschiderea fișierului PDF!</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportul fișierului PDF s-a terminat.</translation>
     </message>
     <message>
         <source>PDF Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
@@ -6393,7 +6399,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets a întâmpinat o eroare în timpul încercării exportării la PDF.</translation>
     </message>
 </context>
 <context>
@@ -6407,11 +6413,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxFindReplaceDlg</name>
     <message>
         <source>Op&amp;tions &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Op&amp;țiuni &gt;&gt;</translation>
     </message>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Op&amp;țiuni &lt;&lt;</translation>
     </message>
     <message>
         <source>Check if your search formatting and criteria are defined correctly.</source>
@@ -6431,19 +6437,19 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Smart</source>
-        <translation type="unfinished"></translation>
+        <translation>Inteligent</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Valori</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarii</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
@@ -6451,11 +6457,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Găsește</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește</translation>
     </message>
     <message>
         <source>Find Pre&amp;vious</source>
@@ -6463,7 +6469,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>0 cell found</source>
-        <translation type="unfinished"></translation>
+        <translation>s-au găsit 0 celule</translation>
     </message>
     <message>
         <source>%1 cell(s) found</source>
@@ -6471,11 +6477,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets nu poate găsi datele pe care le căutați. Verificați opțiunile de căutare.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>You have interrupted the Find All command. Do you want to continue searching?</source>
@@ -6487,11 +6493,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>WPS Spreadsheets cannot find any data to replace.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets nu poate găsi nici o dată de înlocuit.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot replace data on protected sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets nu poate înlocui date în foile protejate.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has completed its search and has made %1 replacements.</source>
@@ -6503,35 +6509,35 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>No objects found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au găsit obiecte.</translation>
     </message>
     <message>
         <source>Go &amp;To</source>
-        <translation type="unfinished"></translation>
+        <translation>Mergi &amp;la</translation>
     </message>
     <message>
         <source>Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>Mergi la</translation>
     </message>
     <message>
         <source>&amp;Format</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formatare</translation>
     </message>
     <message>
         <source>Choose Format From Cell:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți formatarea din celulă:</translation>
     </message>
     <message>
         <source>F&amp;ill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>U&amp;mple cu culoare</translation>
     </message>
     <message>
         <source>Fon&amp;t Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare fon&amp;t</translation>
     </message>
     <message>
         <source>Font &amp;And Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Font &amp;și umplere cu culoare</translation>
     </message>
     <message>
         <source>All Formats(&amp;C)</source>
@@ -6573,11 +6579,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea fontului trebuie să fie între %1 și %2 puncte.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
@@ -6593,26 +6599,26 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilul fontului nu este disponibil.</translation>
     </message>
 </context>
 <context>
     <name>KxFontWidget</name>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursiv</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldin</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldin cursiv</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
@@ -6620,7 +6626,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -6628,7 +6634,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea fontului trebuie să fie între %1 și %2 puncte.</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
@@ -6640,11 +6646,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest stil font nu este disponibil.</translation>
     </message>
 </context>
 <context>
@@ -6678,23 +6684,23 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxFormatCellsFontWidget</name>
     <message>
         <source>Regular</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursiv</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldin</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldin cursiv</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -6702,7 +6708,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea fontului trebuie să fie între %1 și %2 puncte.</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
@@ -6718,34 +6724,34 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest stil al fontului nu este disponibil.</translation>
     </message>
 </context>
 <context>
     <name>KxFormatGraphicDlg</name>
     <message>
         <source>Value should be between %1 %3 and %2 %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea ar trebui să fie între %1 %3 și %2 %3.</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished"></translation>
+        <translation>inch</translation>
     </message>
 </context>
 <context>
@@ -6782,15 +6788,15 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxGoalSeekDlg</name>
     <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Referința nu este validă.</translation>
     </message>
     <message>
         <source>Cell must contain a formula.</source>
-        <translation type="unfinished"></translation>
+        <translation>Celula trebuie să conțină o formulă.</translation>
     </message>
     <message>
         <source>Reference must be to a single cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Referința trebuie să fie la o singură celulă.</translation>
     </message>
     <message>
         <source>Formula in cell must result in a number.</source>
@@ -6798,7 +6804,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Cell must contain a value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Celula trebuie să conțină o valoare.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -6806,7 +6812,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Set Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurare celulă</translation>
     </message>
     <message>
         <source>By Changing Cell</source>
@@ -6878,11 +6884,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Home Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina principală</translation>
     </message>
     <message>
         <source>Browse File</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigare fișier</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -6890,11 +6896,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide fișier</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele (*.*)</translation>
     </message>
 </context>
 <context>
@@ -6995,7 +7001,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmarea parolei nu este identică.</translation>
     </message>
     <message>
         <source>The reference you typed is not valid, or you did not provide a reference where one was required.</source>
@@ -7069,30 +7075,30 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>This file is currently being edited by %1 user:</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest fișier este actualmente editat de %1 utilizator:</translation>
     </message>
     <message>
         <source>This file is currently being edited by %1 users:</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest fișier este actualmente editat de %1 utilizatori:</translation>
     </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați un &amp;dosar:</translation>
     </message>
     <message>
         <source>Document tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Fila documentului</translation>
     </message>
     <message>
         <source>List will be permanently deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista va fi ștearsă permanent.</translation>
     </message>
     <message>
         <source>Failed to open the dictionary file you selected, make sure it is a valid dictionary file.</source>
@@ -7104,19 +7110,19 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>New Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicționar personalizat nou</translation>
     </message>
     <message>
         <source>Please select a dictionary first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Întâi selectați un dicționar.</translation>
     </message>
     <message>
         <source>Number must be above 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul trebuie să fie mai mare ca 0.</translation>
     </message>
     <message>
         <source>Font size must be between 1 and 409 points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea fontului trebuie să fie între 1 și 409 puncte.</translation>
     </message>
     <message>
         <source>Data will permanently lose accuracy.</source>
@@ -7124,15 +7130,15 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>New list</source>
-        <translation type="unfinished"></translation>
+        <translation>Listă nouă</translation>
     </message>
     <message>
         <source>Custom Lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste personalizate</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni</translation>
     </message>
     <message>
         <source>Ignore cells that contain numbers, blanks, and other mismatch conditions.</source>
@@ -7148,19 +7154,19 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Dictionary File(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier dicționar(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Dictionary File (*.dic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier dicționar (*.dic)</translation>
     </message>
     <message>
         <source>Add Dictionary File</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă fișier dicționar</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele(*.*)</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. This file already exists.</source>
@@ -7176,15 +7182,15 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Delete from &amp;List</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge din &amp;listă</translation>
     </message>
     <message>
         <source>Delete from &amp;Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge de pe &amp;disk</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultimul dicționar nu poate fi șters!</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
@@ -7200,7 +7206,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmarea parolei nu se potrivește.</translation>
     </message>
     <message>
         <source>The encryption algorithm you selected requires the password within 15 characters.</source>
@@ -7216,7 +7222,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Cannot find directory %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate găsi directorul %1.</translation>
     </message>
     <message>
         <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart WPS Spreadsheets.</source>
@@ -7232,11 +7238,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorul &quot;%1&quot; nu este valid.</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectare dosar:</translation>
     </message>
 </context>
 <context>
@@ -7275,19 +7281,19 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Oră</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Poză</translation>
     </message>
     <message>
         <source>&amp;[Picture]</source>
@@ -7307,11 +7313,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr pagină</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr de pagini</translation>
     </message>
     <message>
         <source>The measurement must be between 7.2 pt and 1584 pt.</source>
@@ -7465,11 +7471,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Sus</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Dedesubt</translation>
     </message>
     <message>
         <source>&amp;Using field:</source>
@@ -7477,11 +7483,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Page Field Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni câmp pagină</translation>
     </message>
     <message>
         <source>Page field options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni câmp pagină</translation>
     </message>
     <message>
         <source>Di&amp;sable pivoting of this field (recommended)</source>
@@ -7593,7 +7599,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
@@ -7605,7 +7611,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -7620,21 +7626,21 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxProtectAndShareWorkbookDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation>Parola de confirmare nu este identică.</translation>
+        <translation>Confirmarea parolei nu este identică.</translation>
     </message>
 </context>
 <context>
     <name>KxProtectBookDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation>Parola de confirmare nu este identică.</translation>
+        <translation>Confirmarea parolei nu este identică.</translation>
     </message>
 </context>
 <context>
     <name>KxProtectSheetDlg</name>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation>Parola de confirmare nu este identică.</translation>
+        <translation>Confirmarea parolei nu este identică.</translation>
     </message>
 </context>
 <context>
@@ -7648,18 +7654,18 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxReadOnlyFileDlg</name>
     <message>
         <source>File in use</source>
-        <translation>Fișier în uz</translation>
+        <translation>Fișier în utilizare</translation>
     </message>
 </context>
 <context>
     <name>KxRecordFormDlg</name>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>New Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrare nouă</translation>
     </message>
     <message>
         <source>&amp;Form</source>
@@ -7667,34 +7673,34 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Curăță</translation>
     </message>
     <message>
         <source>Criteria</source>
-        <translation type="unfinished"></translation>
+        <translation>Criteriu</translation>
     </message>
     <message>
         <source>&amp;Criteria</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Criteriu</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Șterge</translation>
     </message>
 </context>
 <context>
     <name>KxRemoveDuplicatesDlg</name>
     <message>
         <source>( Select All )</source>
-        <translation type="unfinished"></translation>
+        <translation>( Selectează tot )</translation>
     </message>
     <message>
         <source>column </source>
-        <translation type="unfinished"></translation>
+        <translation>coloană</translation>
     </message>
     <message>
         <source>(%1) %2</source>
-        <translation type="unfinished"></translation>
+        <translation>(%1) %2</translation>
     </message>
     <message>
         <source>%1 duplicates are found;
@@ -7725,7 +7731,7 @@ automatically, and only one row can be kept.
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimină duplicatele</translation>
     </message>
     <message>
         <source>If there are repeated contents in cells in the following range,
@@ -7757,15 +7763,15 @@ system will remind checking the correctness of the contents.
     <name>KxSelectSheetDlg</name>
     <message>
         <source>Old Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Sursa veche</translation>
     </message>
     <message>
         <source>New Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Sursa nouă</translation>
     </message>
     <message>
         <source>*No Assign*</source>
-        <translation type="unfinished"></translation>
+        <translation>*Nu Atribuie*</translation>
     </message>
 </context>
 <context>
@@ -8210,7 +8216,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>&amp;Move</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mută</translation>
     </message>
     <message>
         <source>Move to &amp;Page Area</source>
@@ -8230,7 +8236,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>&amp;Remove Field</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimină câmpul</translation>
     </message>
     <message>
         <source>&amp;Clear Area</source>
@@ -8238,7 +8244,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>&amp;Subtotal</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Subtotal</translation>
     </message>
     <message>
         <source>&amp;Field Settings...</source>
@@ -8250,11 +8256,11 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>(Show all)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Arată tot)</translation>
     </message>
     <message>
         <source>(All)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Tot)</translation>
     </message>
     <message>
         <source>Sor&amp;t and Top 10...</source>
@@ -8270,14 +8276,14 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     <name>KxUnprotectSheetDlg</name>
     <message>
         <source>The password you supplied is not correct. Verify that the CAPS LOCK key is off and be sure to use the correct capitalization.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parola pe care ați furnizat-o nu este corectă. Verificați dacă tasta CAPS LOCK este închisă și asigurați-vă că utilizați capitalizarea corectă.</translation>
     </message>
 </context>
 <context>
     <name>KxUpdateExternalLinkDlg</name>
     <message>
         <source>SpreadSheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Foi de calcul</translation>
     </message>
     <message>
         <source>There are links to other data sources in this workbook.
@@ -8290,11 +8296,11 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>&amp;Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Act&amp;ualizează</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Update</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nu actualiza</translation>
     </message>
 </context>
 <context>
@@ -8539,11 +8545,11 @@ t</source>
     <name>KxWidgetBorder</name>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Preconfigurare</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nimic</translation>
     </message>
     <message>
         <source>&amp;Outline</source>
@@ -8555,43 +8561,43 @@ t</source>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stil:</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Culoare:</translation>
     </message>
     <message>
         <source>Border</source>
@@ -8603,50 +8609,50 @@ t</source>
     </message>
     <message>
         <source>Clea&amp;r</source>
-        <translation type="unfinished"></translation>
+        <translation>Cu&amp;răță</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetFont</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Font:</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil f&amp;ont:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dimensiune:</translation>
     </message>
     <message>
         <source>&amp;Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;ubliniat:</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Singur</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Dublu</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Culoare:</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efecte</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
@@ -8662,11 +8668,11 @@ t</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare</translation>
     </message>
     <message>
         <source>Clea&amp;r</source>
-        <translation type="unfinished"></translation>
+        <translation>Cu&amp;răță</translation>
     </message>
 </context>
 <context>
@@ -8784,31 +8790,31 @@ t</source>
     <name>KxWidgetPatterns</name>
     <message>
         <source>Cell shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbrire celulă</translation>
     </message>
     <message>
         <source>Background color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare fundal:</translation>
     </message>
     <message>
         <source>No Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără model</translation>
     </message>
     <message>
         <source>Pattern &amp;style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stil model:</translation>
     </message>
     <message>
         <source>&amp;Pattern color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare &amp;model:</translation>
     </message>
     <message>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon</translation>
     </message>
     <message>
         <source>Clea&amp;r</source>
-        <translation type="unfinished"></translation>
+        <translation>Cu&amp;răță</translation>
     </message>
 </context>
 <context>
@@ -8986,11 +8992,11 @@ t</source>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -8998,11 +9004,11 @@ t</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Umple</translation>
     </message>
     <message>
         <source>Horizontal Distributed</source>
@@ -9014,15 +9020,15 @@ t</source>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centru</translation>
     </message>
     <message>
         <source>No Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără font</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -9042,7 +9048,7 @@ t</source>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Singur</translation>
     </message>
     <message>
         <source>Double Accounting</source>
@@ -9050,27 +9056,27 @@ t</source>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Dublu</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Subliniat</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursiv</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldin</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Font</translation>
     </message>
     <message>
         <source>No Borders</source>
@@ -9090,15 +9096,15 @@ t</source>
     </message>
     <message>
         <source>No Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără protecție</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocat</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Dedesubt</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -9106,67 +9112,67 @@ t</source>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Negru</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Alb</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Roșu</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde strălucitor</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Albastru5</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Galben</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Roz</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turcoaz</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Roșu închis</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Albastru închis</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Galben închis</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Violet</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vernil</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-25%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-50%</translation>
     </message>
     <message>
         <source>Periwinkle</source>
@@ -9182,7 +9188,7 @@ t</source>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Turcoaz strălucitor</translation>
     </message>
     <message>
         <source>Dark Purple</source>
@@ -9198,11 +9204,11 @@ t</source>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde deschis</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Galben deschis</translation>
     </message>
     <message>
         <source>Pale Blue</source>
@@ -9222,7 +9228,7 @@ t</source>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Albastru deschis</translation>
     </message>
     <message>
         <source>Aqua</source>
@@ -9234,15 +9240,15 @@ t</source>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Auriu</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Portocaliu deschis</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Portocaliu</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
@@ -9250,7 +9256,7 @@ t</source>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-40%</translation>
     </message>
     <message>
         <source>Dark Teal</source>
@@ -9258,11 +9264,11 @@ t</source>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde ocean</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde închis</translation>
     </message>
     <message>
         <source>Olive Green</source>
@@ -9270,99 +9276,99 @@ t</source>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Maro</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Indigo</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-80%</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-5%</translation>
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-12.5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-20%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-37.5%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-45%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-75%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-95%</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma&amp;xim:</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sursă:</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
@@ -9382,43 +9388,43 @@ t</source>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formulă:</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Valoare:</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oră:</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
-        <translation type="unfinished"></translation>
+        <translation>Da&amp;tă:</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un Maxim și un Minim.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o valoare.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un Minim.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un Maxim.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o Sursă.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o Dată.</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
@@ -9438,19 +9444,19 @@ t</source>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o Oră.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un timp de pornire.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un timp de oprire.</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o Formulă.</translation>
     </message>
     <message>
         <source>%1 is read-only.  If you want to save a copy,  Click OK,  then give a new name for this workbook in the Save As dialog box.</source>
@@ -9458,7 +9464,7 @@ t</source>
     </message>
     <message>
         <source>The file %1 cannot be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul %1 nu poate fi găsit.</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -9466,19 +9472,19 @@ t</source>
     </message>
     <message>
         <source>To Start</source>
-        <translation type="unfinished"></translation>
+        <translation>La început</translation>
     </message>
     <message>
         <source>To End</source>
-        <translation type="unfinished"></translation>
+        <translation>La sfârșit</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Înapoi</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Înainte</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot complete this task with available resources. Choose less data or close other applications.</source>
@@ -9486,7 +9492,7 @@ t</source>
     </message>
     <message>
         <source>Style name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele stilului nu este valid.</translation>
     </message>
     <message>
         <source>Right-to-Left</source>
@@ -9510,7 +9516,7 @@ t</source>
     </message>
     <message>
         <source>Sea</source>
-        <translation type="unfinished"></translation>
+        <translation>Mare</translation>
     </message>
     <message>
         <source>Ice Blue</source>
@@ -9534,15 +9540,15 @@ t</source>
     </message>
     <message>
         <source>Answer</source>
-        <translation type="unfinished"></translation>
+        <translation>Răspuns</translation>
     </message>
     <message>
         <source>Sensitivity</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensibilitate</translation>
     </message>
     <message>
         <source>Limits</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite</translation>
     </message>
     <message>
         <source>Keep Solver Solution</source>
@@ -9562,7 +9568,7 @@ t</source>
     </message>
     <message>
         <source>Reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapoarte</translation>
     </message>
     <message>
         <source>Create the type of report that you specify, and place each report on a separate sheet in the workbook.</source>
@@ -9682,7 +9688,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Minimum:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Minim:</translation>
     </message>
 </context>
 <context>
@@ -9885,7 +9891,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Value Of:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Valoare de:</translation>
     </message>
     <message>
         <source>&amp;By Changing Variable Cells:</source>
@@ -9897,19 +9903,19 @@ t</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adaugă</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modifică</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Șterge</translation>
     </message>
     <message>
         <source>&amp;Reset All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Resetează tot</translation>
     </message>
     <message>
         <source>&amp;Make Unconstrained Variables Non-Negative</source>
@@ -9921,7 +9927,7 @@ t</source>
     </message>
     <message>
         <source>O&amp;ptions</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;pțiuni</translation>
     </message>
     <message>
         <source>Solving Method</source>
@@ -9937,7 +9943,7 @@ t</source>
     </message>
     <message>
         <source>Cl&amp;ose</source>
-        <translation type="unfinished"></translation>
+        <translation>În&amp;chide</translation>
     </message>
 </context>
 <context>
@@ -9991,7 +9997,7 @@ t</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
@@ -10079,7 +10085,7 @@ t</source>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Locație:</translation>
     </message>
     <message>
         <source>Startup Prompt</source>
@@ -10103,7 +10109,7 @@ t</source>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation type="unfinished"></translation>
+        <translation>Î&amp;nchide</translation>
     </message>
     <message>
         <source>When this workbook is opened, WPS Spreadsheets will ask whether or not to update links to other workbooks.</source>
@@ -10114,7 +10120,7 @@ t</source>
     <name>evaluateFormula</name>
     <message>
         <source>Evaluate Formula</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluare formulă</translation>
     </message>
     <message>
         <source>&amp;Reference:</source>
@@ -10153,7 +10159,7 @@ t</source>
     </message>
     <message>
         <source>To &amp;value:</source>
-        <translation type="unfinished"></translation>
+        <translation>La &amp;valoarea:</translation>
     </message>
     <message>
         <source>By &amp;changing cell:</source>
@@ -10184,18 +10190,18 @@ t</source>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>Infotip</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează &amp;la</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -10215,7 +10221,7 @@ t</source>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished"></translation>
+        <translation>Export opțiuni</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
@@ -10227,7 +10233,7 @@ t</source>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished"></translation>
+        <translation>Par&amp;olă:</translation>
     </message>
     <message>
         <source>C&amp;onfirm:</source>
@@ -10243,23 +10249,23 @@ t</source>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite de &amp;adăugat comentarii</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipărirea nu este permisă</translation>
     </message>
     <message>
         <source>File password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier parolă:</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parol&amp;ă:</translation>
     </message>
     <message>
         <source>Confir&amp;m:</source>
-        <translation type="unfinished"></translation>
+        <translation>Confir&amp;mare:</translation>
     </message>
     <message>
         <source>Close w&amp;hen export completes</source>
@@ -10267,19 +10273,19 @@ t</source>
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă în fișier PDF</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Comentariu nou</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări permisiuni</translation>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Parolă pentru protejarea configurărilor permisiunilor</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
@@ -10346,15 +10352,15 @@ Document</source>
     </message>
     <message>
         <source>Email Buttion</source>
-        <translation type="unfinished"></translation>
+        <translation>Buton email</translation>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresă e&amp;mail</translation>
     </message>
     <message>
         <source>&amp;Remove Link</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimină link</translation>
     </message>
     <message>
         <source>Up One Folder</source>
@@ -10362,32 +10368,33 @@ Document</source>
     </message>
     <message>
         <source>Home Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina principală</translation>
     </message>
     <message>
         <source>Addr&amp;ess:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adr&amp;esă:</translation>
     </message>
     <message>
         <source>&amp;E-mail address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresă &amp;email:</translation>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;ubiect:</translation>
     </message>
     <message>
         <source>E&amp;xisting File
 or Web Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier e&amp;xistent
+sau pagină web</translation>
     </message>
     <message>
         <source>Browse for File</source>
-        <translation type="unfinished"></translation>
+        <translation>Navighează după fișier</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adrese email re&amp;cent utilizate:</translation>
     </message>
 </context>
 <context>
@@ -10615,11 +10622,11 @@ or Web Page</source>
     <name>selectSheetDlg</name>
     <message>
         <source>Reassign Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Reatribuie foaia de lucru</translation>
     </message>
     <message>
         <source>The worksheet specified was not found in the linked source file. Please re-specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Foaia de lucru specificată nu a fost găsită în fișierul sursă indicat. Specificați din nou.</translation>
     </message>
 </context>
 <context>
@@ -10650,7 +10657,7 @@ or Web Page</source>
     </message>
     <message>
         <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
-        <translation>Foi de calcul WPS a găsit date lângă selecția dumneavoastră. Fiindcă nu ați selectat aceste date, nu vor fi sortate.</translation>
+        <translation>WPS Spreadsheets a găsit date lângă selecția dumneavoastră. Fiindcă nu ați selectat aceste date, nu vor fi sortate.</translation>
     </message>
 </context>
 <context>

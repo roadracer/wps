@@ -6,7 +6,7 @@
     <name>KActiveDialogAtStartup</name>
     <message>
         <source>https://vip.wps.cn/api/card/activate</source>
-        <translation type="unfinished"></translation>
+        <translation>https://vip.wps.cn/api/card/activate</translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Introduction</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducere</translation>
     </message>
     <message>
         <source>Homepage link of WPS Office Cloud</source>
@@ -41,11 +41,11 @@
     <message>
         <source>This document is updated. Go and check the updates.</source>
         <comment>allow with %1 for modifier</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acest document este actualizat. Mergi și verifică actualizările.</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare</translation>
     </message>
 </context>
 <context>
@@ -175,20 +175,20 @@
     <message>
         <source>This document is updated. Go and check the updates.</source>
         <comment>allow with %1 for modifier</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acest document este actualizat. Mergi și verifică actualizările.</translation>
     </message>
     <message>
         <source>This document is updated. Click Refresh and check.</source>
         <comment>allow with %1 for modifier</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acest document este actualizat. Apăsați Reâmprospătează și verifică.</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Reâmprospătare</translation>
     </message>
 </context>
 <context>
@@ -338,7 +338,7 @@
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -346,22 +346,22 @@
     <message>
         <source>Create new folder</source>
         <comment>create new folder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Creează un dosar nou</translation>
     </message>
 </context>
 <context>
     <name>KFileListView</name>
     <message>
         <source>Delete file</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge fișierul</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the file &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Șigur doriți să ștergeți fișierul &apos;%1&apos;?</translation>
     </message>
     <message>
         <source>Delete multiple items</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge mai multe elemente</translation>
     </message>
 </context>
 <context>
@@ -378,11 +378,11 @@
     <message>
         <source>The file name cannot be empty.</source>
         <comment>The file name cannot been empty!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numele fișierului nu poate fi gol.</translation>
     </message>
     <message>
         <source>The file name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele fișierului deja există.</translation>
     </message>
     <message>
         <source>If you change the filename extension, the file can become unusable. Do you want to continue?</source>
@@ -390,7 +390,7 @@
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Redenumește</translation>
     </message>
 </context>
 <context>
@@ -1157,7 +1157,7 @@ path:%3</source>
     <name>KUserCenterCommand</name>
     <message>
         <source>You have logged in WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunteți autentificat în WPS Office</translation>
     </message>
 </context>
 <context>
@@ -1643,7 +1643,7 @@ path:%3</source>
     <name>KxMovieButton</name>
     <message>
         <source>Synchronizing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se sincronizează...</translation>
     </message>
     <message>
         <source>Refresh document list</source>
@@ -2003,7 +2003,7 @@ After expiration, some features will not work properly. Please renew now. </sour
     <name>kGuidBubble</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formular</translation>
     </message>
 </context>
 <context>
@@ -2032,14 +2032,14 @@ After expiration, some features will not work properly. Please renew now. </sour
     <name>kxKOSLoginCommand</name>
     <message>
         <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă ați achiziționat abonamentul,  autentificați-vă pentru a vă bucura de serviciu.</translation>
     </message>
 </context>
 <context>
     <name>kxKOSLogoutCommand</name>
     <message>
         <source>Close the currently opened document before sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Închideți documentul deschis curent înaintea deautentificării</translation>
     </message>
     <message>
         <source>Prompt</source>
@@ -2050,22 +2050,22 @@ After expiration, some features will not work properly. Please renew now. </sour
     <name>kxKOSUserGiftMenuCommand</name>
     <message>
         <source>New messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesaje noi</translation>
     </message>
     <message>
         <source>VIP soon to be expired</source>
-        <translation type="unfinished"></translation>
+        <translation>VIP va expira în curând</translation>
     </message>
 </context>
 <context>
     <name>tips.DataRecover</name>
     <message>
         <source>Data Recovery Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titlu recuperare date</translation>
     </message>
     <message>
         <source>Data Recovery Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Conținut recuperare date</translation>
     </message>
 </context>
 </TS>
