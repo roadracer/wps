@@ -1618,7 +1618,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Показать окончательную разметку; Окончательный; Показать оригинал разметки; Оригинал</translation>
+        <translation>Окончательный документ: показать исправления; Окончательный документ; Исходный документ: показать исправления; Исходный документ</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -2314,7 +2314,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Loose</source>
-        <translation>Разреженный</translation>
+        <translation>Широкий</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -2375,20 +2375,20 @@ Merged Data</source>
     <message>
         <source>Tight</source>
         <comment>Spacing</comment>
-        <translation>Плотный</translation>
+        <translation>Узкий</translation>
     </message>
     <message>
         <source>Tight</source>
         <comment>Wrapping</comment>
-        <translation>Плотный</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Tight@Spacing</source>
-        <translation type="obsolete">Плотный по интервалу</translation>
+        <translation type="obsolete">Узкий интервал</translation>
     </message>
     <message>
         <source>Tight@Wrapping</source>
-        <translation type="obsolete">Плотный по обтеканию</translation>
+        <translation type="obsolete">Обтекание по контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -2404,11 +2404,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation>Очень разреженный</translation>
+        <translation>Очень широкий</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Очень плотный</translation>
+        <translation>Очень узкий</translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -5338,11 +5338,11 @@ Direction</source>
     </message>
     <message>
         <source>Loose</source>
-        <translation>Разреженный</translation>
+        <translation>Широкий</translation>
     </message>
     <message>
         <source>Loose Line Spacing</source>
-        <translation type="obsolete">Разреженный междустрочный интервал</translation>
+        <translation type="obsolete">Широкий междустрочный интервал</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -6381,7 +6381,7 @@ Comment</source>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Показать окончательную разметку; Окончательный; Показать оригинал разметки; Оригинал</translation>
+        <translation>Окончательный документ: показать исправления; Окончательный документ; Исходный документ: показать исправления; Исходный документ</translation>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -8509,7 +8509,7 @@ Spacing</source>
     </message>
     <message>
         <source>Loose</source>
-        <translation>Разреженный</translation>
+        <translation>Широкий</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -8657,25 +8657,25 @@ Spacing</source>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="obsolete">Плотный</translation>
+        <translation type="obsolete">По контуру</translation>
     </message>
     <message>
         <source>Tight</source>
         <comment>Spacing</comment>
-        <translation>Плотный</translation>
+        <translation>Узкий</translation>
     </message>
     <message>
         <source>Tight</source>
         <comment>Wrapping</comment>
-        <translation>Плотный</translation>
+        <translation>По контуру</translation>
     </message>
     <message>
         <source>Tight@Spacing</source>
-        <translation type="obsolete">Плотный по интервалу</translation>
+        <translation type="obsolete">Узкий интервал</translation>
     </message>
     <message>
         <source>Tight@Wrapping</source>
-        <translation type="obsolete">Плотный по обтеканию</translation>
+        <translation type="obsolete">Обтекание по контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -8699,11 +8699,11 @@ Spacing</source>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation>Очень разреженный</translation>
+        <translation>Очень широкий</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Очень плотный</translation>
+        <translation>Очень узкий</translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -13756,11 +13756,11 @@ Text</source>
     </message>
     <message>
         <source>Loose</source>
-        <translation>Разреженный</translation>
+        <translation>Широкий</translation>
     </message>
     <message>
         <source>Loose Line Spacing</source>
-        <translation type="obsolete">Разреженный междустрочный интервал</translation>
+        <translation type="obsolete">Широкий междустрочный интервал</translation>
     </message>
     <message>
         <source>New Style</source>
@@ -14714,7 +14714,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Показать окончательную разметку; Окончательный; Показать оригинал разметки; Оригинал</translation>
+        <translation>Окончательный документ: показать исправления; Окончательный документ; Исходный документ: показать исправления; Исходный документ</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -16522,7 +16522,7 @@ Effects</source>
     </message>
     <message>
         <source>Loose</source>
-        <translation>Разреженный</translation>
+        <translation>Широкий</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -16667,7 +16667,7 @@ Effects</source>
     <message>
         <source>Tight</source>
         <comment>Spacing</comment>
-        <translation>Плотный</translation>
+        <translation>Узкий</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -16676,11 +16676,11 @@ Effects</source>
     </message>
     <message>
         <source>Tight@Spacing</source>
-        <translation type="obsolete">Плотный по интервалу</translation>
+        <translation type="obsolete">Узкий интервал</translation>
     </message>
     <message>
         <source>Tight@Wrapping</source>
-        <translation type="obsolete">Плотный по обтеканию</translation>
+        <translation type="obsolete">Обтекание по контуру</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
@@ -16700,11 +16700,11 @@ Effects</source>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation>Очень разреженный</translation>
+        <translation>Очень широкий</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Очень плотный</translation>
+        <translation>Очень узкий</translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -19405,7 +19405,7 @@ To enable this feature, turn on &quot;View Side by Side&quot;.</source>
     <name>tips.LooseLineSpacing</name>
     <message>
         <source>Loose Line Spacing</source>
-        <translation type="obsolete">Разреженный междустрочный интервал</translation>
+        <translation type="obsolete">Широкий междустрочный интервал</translation>
     </message>
     <message>
         <source>Set 1.5 line spacing to the selected paragraph with snap to grid selected.</source>
