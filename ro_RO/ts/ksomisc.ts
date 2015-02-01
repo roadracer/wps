@@ -6,7 +6,7 @@
     <name>KAffirmDialog</name>
     <message>
         <source>WPS Office Clear Backup Files Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmare curățare fișiere backup WPS Office</translation>
     </message>
     <message>
         <source>The backup files below will be deleted. Do you want to continue?</source>
@@ -26,12 +26,12 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <message>
         <source>Clearing backup files completed.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean succeed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Curățarea fișierelor de backup s-a finalizat.</translation>
     </message>
     <message>
         <source>Clearing backup files completed, but some files cannot be deleted for being occupied.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such as, one of file locked)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Curățarea fișierelor de backup s-a finalizat, dar unele fișiere nu pot fi șterse pentru a fi ocupate.</translation>
     </message>
 </context>
 <context>
@@ -144,11 +144,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <name>KLinkInfoList</name>
     <message>
         <source>WPS Writer.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer.lnk</translation>
     </message>
     <message>
         <source>Use WPS Writer to write reports and make up articles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați WPS Writer pentru a scrie rapoarte și a crea articole.</translation>
     </message>
     <message>
         <source>WPS Presentation.lnk</source>
@@ -156,7 +156,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Use WPS Presentation to edit and play presentations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați WPS Presentation pentru editarea și redarea prezentărilor.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets.lnk</source>
@@ -164,7 +164,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Use WPS Spreadsheets to analyze and manage data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați WPS Spreadsheets pentru analizarea și administrarea datelor.</translation>
     </message>
     <message>
         <source>Configuration Tools.lnk</source>
@@ -176,11 +176,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Product Management Center.lnk</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrul administrare produs.lnk</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrul administrare produs</translation>
     </message>
     <message>
         <source>Check for Updates.lnk</source>
@@ -188,7 +188,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Link to network to update WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Link la rețea pentru actualizarea WPS Office</translation>
     </message>
     <message>
         <source>Repair.lnk</source>
@@ -224,7 +224,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați WPS Office Cloud pentru lucrul în echipă.</translation>
     </message>
     <message>
         <source>WPS Office.lnk</source>
@@ -240,7 +240,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <message>
         <source>WPS Office General Repair/Configuration Tools</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Unelte generale pentru reparare/configurare WPS Office</translation>
     </message>
     <message>
         <source>General Repair/Configuration Tools
@@ -257,7 +257,7 @@ We will do our utmost to repair the applications and restore them to the default
     <message>
         <source>Start &amp;Repairing</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pornește &amp;repararea</translation>
     </message>
     <message>
         <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
@@ -284,7 +284,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>An error occured when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A intervenit o eroare când se repara, reâncercați.</translation>
     </message>
     <message>
         <source>Repair completed!</source>
@@ -319,19 +319,19 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <name>KPageApiCompKDEType</name>
     <message>
         <source>Secondary Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezvoltare secundară</translation>
     </message>
     <message>
         <source>Please choose the VBA interface you want to use:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți interfața VBA pe care doriți să o utilizați:</translation>
     </message>
     <message>
         <source>Compatible with WPS Office 2012 and earlier version of API</source>
-        <translation type="unfinished"></translation>
+        <translation>Compatibil cu WPS Office 2012 și versiunile API anterioare</translation>
     </message>
     <message>
         <source>Compatible with WPS Office 2013 of API</source>
-        <translation type="unfinished"></translation>
+        <translation>Compatibil cu API WPS Office 2013</translation>
     </message>
 </context>
 <context>
@@ -371,12 +371,12 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>No backup files to be cleared.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; Start Clearing(Twice)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nu sunt fișiere de backup de curățat.</translation>
     </message>
     <message>
         <source>Please choose the type of backup files to be cleared.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; uncheck all options -&gt; Start Clearing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți tipul fișierelor de backup de curățat.</translation>
     </message>
 </context>
 <context>
@@ -439,7 +439,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>&amp;Compatible with third-party software</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Compatibil cu aplicație de la terți</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2003</source>
@@ -543,29 +543,29 @@ needs restarting Windows to take effect.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Reset Repair -&gt; Register Components Again
 ----------
 ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrare componente</translation>
     </message>
     <message>
         <source>Components successfully registered.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Reset Repair -&gt; Register Components Again</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Componentele s-au înregistrat cu succes.</translation>
     </message>
     <message>
         <source>Reset toolbars</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; succeed
 ----------
 ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is locked)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Resetare bări de unelte</translation>
     </message>
     <message>
         <source>Resetting toolbars completed.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; succeed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Resetarea bărilor de unelte s-a terminat.</translation>
     </message>
     <message>
         <source>Failed to reset toolbars, please reinstall WPS Office.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is locked)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat resetarea bărilor de unelte, reinstalați WPS Office.</translation>
     </message>
     <message>
         <source>Errors occur when registering components: 
@@ -680,37 +680,37 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Modern Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematica modernă</translation>
     </message>
     <message>
         <source>Classic Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematica clasică</translation>
     </message>
     <message>
         <source>New Silver Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematica nouă argintie</translation>
     </message>
     <message>
         <source>New Blue Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematica nouă albastră</translation>
     </message>
     <message>
         <source>New Black Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematica nouă neagră</translation>
     </message>
     <message>
         <source>Dream Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis albastru</translation>
     </message>
     <message>
         <source>Theme successfully changed.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Change Theme -&gt; Change Scheme -&gt; succeed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tematica s-a schimbat cu succes.</translation>
     </message>
     <message>
         <source>Failed to change theme.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Change Theme -&gt; Change Scheme -&gt; failed (seeming impossible)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat schimbarea tematicii.</translation>
     </message>
 </context>
 <context>
@@ -768,15 +768,15 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Excel Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel Sheet</translation>
     </message>
     <message>
         <source>Microsoft Office Excel 2007 Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel Sheet</translation>
     </message>
     <message>
         <source>Microsoft Excel Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel Chart</translation>
     </message>
     <message>
         <source>Microsoft Office Excel 2007 Macro-Enabled Workbook</source>
@@ -788,15 +788,15 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Excel Add-In</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel Add-In</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel Chart</translation>
     </message>
     <message>
         <source>Microsoft Excel SLK File</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel fișier SLK</translation>
     </message>
     <message>
         <source>Microsoft Office Excel CSV Text</source>
@@ -932,7 +932,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Word Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document Microsoft Word</translation>
     </message>
     <message>
         <source>Microsoft Office Word 2007 Document</source>
@@ -956,7 +956,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>RTF Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format RTF</translation>
     </message>
     <message>
         <source>Microsoft Word Template</source>
@@ -976,7 +976,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>RTF Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text RTF</translation>
     </message>
     <message>
         <source>Microsoft Word 2007 Template</source>
@@ -988,11 +988,11 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation Template</source>
@@ -1000,7 +1000,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -1020,7 +1020,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Equation 3.0</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Equation 3.0</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -1079,7 +1079,7 @@ The button icon, command group and task window position of each scheme are diffe
     <name>KSNManagerDlg</name>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrul administrare produs</translation>
     </message>
     <message>
         <source>Add</source>
@@ -1122,15 +1122,15 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Download updates and install t&amp;hem automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarcă actualizări și instalează-l&amp;e automat</translation>
     </message>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Descarcă actualizări dar lasă-mă să aleg când să le instalez</translation>
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu verifica după actualizări automat (nu este recomandat)</translation>
     </message>
     <message>
         <source>Get the latest product news during updates(&amp;K)</source>
@@ -1150,7 +1150,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Automatically detect proxy settings in IE</source>
-        <translation type="unfinished"></translation>
+        <translation>Detectează automat configurările proxy în IE</translation>
     </message>
     <message>
         <source>HTTP</source>
