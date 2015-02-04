@@ -246,13 +246,15 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>General Repair/Configuration Tools
 You can fix the errors encountered when using WPS Office or make advanced settings here.</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Unelte generale de reparat/configurat
+Puteți repara erorile întâmpinate când utilizați WPS Office sau puteți efectua aici configurări avansate.</translation>
     </message>
     <message>
         <source>If you encounter any errors when using WPS Office, such as program running or toolbar errors, please close all WPS Office applications and click the Start Repairing button below.
 We will do our utmost to repair the applications and restore them to the default state.</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>dacă ați întâmpinat orice fel de erori când utilizați WPS Office, de exemplu rularea programului sau erorile bărilor de unelte, închideți toate aplicațiile WPS Office și apăsațibutonul Pornește Repararea de mai jos.
+Vom face tot posibilul să reparăm aplicațiile și să le restaurăm la starea implicită.</translation>
     </message>
     <message>
         <source>Start &amp;Repairing</source>
@@ -262,7 +264,7 @@ We will do our utmost to repair the applications and restore them to the default
     <message>
         <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dacă nu puteți repara erorile utilizând butonul Pornește Repararea, sau aveți nevoie să configurați alte configurări avansate, apăsați butonul Avansat de mai jos, apoi configurați configurările în fila corespunzătoare.</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
@@ -304,7 +306,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>WPS Office provides you with a platform to install plug-ins, so that you can easily install and use kinds of extended plug-ins. If this platform caused inconvenience to your work, you can choose whether to enable it.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office vă oferă o platformă de instalat extensii, astfel puteți ușor instala și utiliza tipuri de extensii. Dacă această platformă vă cauzează inconveniente lucrării, puteți alege dacă o activați sau nu.</translation>
     </message>
     <message>
         <source>&amp;Enable plug-in platform</source>
@@ -312,7 +314,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Note: When you enable or disable the plug-in platform, you must restart WPS Office for the action to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificare: Atunci când activați sau dezactivați platforma extensiilor, trebuie să reporniți WPS Office pentru ca acțiunea să aibă efect.</translation>
     </message>
 </context>
 <context>
@@ -338,35 +340,35 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <name>KPageBackUpClr</name>
     <message>
         <source>Clear Backup Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță fișierele de rezervă</translation>
     </message>
     <message>
         <source>To protect document security, WPS Office has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru a proteja securitatea documentului, WPS Office a creat suficiente fișiere de rezervă ale fișierelor originale. Puteți șterge aici fișierele de rezervă pentru a elibera spațiul pe disk.</translation>
     </message>
     <message>
         <source>The clearing operation may not affect your original files. But please make sure there are no files need to be recovered before clearing them. Please check the check boxes that you need to clear separately and then click Start Clearing button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operația de curățare poate să nu afecteze fișierele originale. Dar asigurați-vă că nu sunt fișiere care este nevoie să fie recuperate înaintea curățării lor. Bifați casetele de validare pe care vreți să le curățați separat și apoi apăsați butonul Pornește Curățarea.</translation>
     </message>
     <message>
         <source>WPS &amp;Writer Backup Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere de rezervă WPS &amp;Writer</translation>
     </message>
     <message>
         <source>Click here to browse backup files</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați aici pentru a naviga după fișiere de rezervă</translation>
     </message>
     <message>
         <source>WPS &amp;Presentation Backup Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere de rezervă WPS &amp;Presentation</translation>
     </message>
     <message>
         <source>WPS &amp;Spreadsheets Backup Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere de rezervă WPS &amp;Spreadsheets</translation>
     </message>
     <message>
         <source>Start &amp;Clearing</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornește &amp;curățarea</translation>
     </message>
     <message>
         <source>No backup files to be cleared.</source>
@@ -387,11 +389,11 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>You are using the latest version of WPS Office which has greatly improved and enhanced in functionality and performance. We recommend that you use the new version. However, you can according to your need to return to the pre-upgrade version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați ultima versiune a WPS Office care are multe îmbunătățiri și consolidări în funcționalitate și performanță. Vă recomandăm să utilizați versiunea nouă. Oricum, o puteți adapta nevoilor dumneavoastră și vă puteți întoarce la versiunea anterioară actualizării.</translation>
     </message>
     <message>
         <source>Click the button below to switch to the old version, you must restart WPS Office for the action to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați pe butonul de mai jos pentru a comuta la vechea versiune, trebuie să reporniți WPS Office pentru ca acțiunea să aibă efect.</translation>
     </message>
     <message>
         <source>Switch to old ve&amp;rsion</source>
@@ -407,15 +409,15 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Click the button below to switch to the new version, you must restart WPS Office for the action to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați butonul de mai jos pentru a comuta la versiunea nouă, trebuie să reporniți WPS Office pentru ca acțiunea să aibă efect.</translation>
     </message>
     <message>
         <source>You are using an older version of WPS Office. The new version has greatly improved and enhanced in functionality and performance. We recommend that you use the new version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați o versiune veche de WPS Office. Noua versiune are multe îmbunătățiri și consolidări în funcționalitate și performanță. Vă recomandăm să utilizați noua versiune.</translation>
     </message>
     <message>
         <source>Version switch will complete after restarting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comutarea versiunilor se efectuează după repornire.</translation>
     </message>
     <message>
         <source>Tip</source>
@@ -426,16 +428,16 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <name>KPageFileAsso</name>
     <message>
         <source>Compat Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări compatibilitate</translation>
     </message>
     <message>
         <source>Here you can set WPS Office Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. 
 These operations can be undone. </source>
-        <translation type="unfinished"></translation>
+        <translation>Aici puteți configura aplicațiile WPS Office ca unele implicite pentru deschiderea fișierelor comune, sau puteți restaura asocierea cu fișierele originale. Sau salvați fișierele în formatul normal. După configurări, apăsați OK pentru a efectua asocierea fișierelor. Aceste operații nu pot fi refăcute. </translation>
     </message>
     <message>
         <source>If you choose the options below, document objects embedded will be opened by WPS Office which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă alegeți opțiunile de mai jos, obiectele document vor fi deschise de WPS Office care poate fi implementată în aplicații de la terți sau de sistem precum navigatorul IE și OA.</translation>
     </message>
     <message>
         <source>&amp;Compatible with third-party software</source>
@@ -451,7 +453,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by WPS Office Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifând caseta de validare de mai jos, fișierele specificate vor fi deschise de aplicațiile WPS Office. Altfel, fișierele specificate vor fi deschise de către aplicațiile originale asociate.</translation>
     </message>
     <message>
         <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
@@ -467,19 +469,19 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>WPS Office will save related documents in the following selected formats. Other documents will be saved in WPS Office formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office va salva următoarele documente asociate în următoarele formate selectate. Alte documente vor fi salvate în formatele WPS Office.</translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentele noi WPS Writer salvate ca implicit în format *.&amp;doc</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentele noi WPS Spreadsheets salvate ca implicit în format *.&amp;xls</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentele noi WPS Presentation salvate ca implicit în format *.pp&amp;t</translation>
     </message>
     <message>
         <source>File Associations</source>
@@ -494,22 +496,23 @@ These operations can be undone. </source>
         <source>The option &quot;Compatible with third-party software&quot;
 needs restarting Windows to take effect.</source>
         <extracomment>ksomisc -&gt; Advanced -&gt; File Asso -&gt; Check/Uncheck compat with mso.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Opțiunea&quot;Compatibil cu aplicații de la terți&quot;
+are nevoie să reporniți Windows pentru a avea efect.</translation>
     </message>
 </context>
 <context>
     <name>KPageHomePage</name>
     <message>
         <source>Website Navigation Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagină navigare web</translation>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puteți debloca pagina implicită IE dacă nu vă place. Notificare: deblocarea paginii implicite poate să vă infecteze cu viruși iar conturile dumneavoastră piratate.</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
-        <translation type="unfinished"></translation>
+        <translation>Deblocați pagina de navigare pe web(&amp;R)</translation>
     </message>
     <message>
         <source>Unlock completed</source>
@@ -520,23 +523,23 @@ needs restarting Windows to take effect.</source>
     <name>KPageRebuild</name>
     <message>
         <source>Reset Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetare reparație</translation>
     </message>
     <message>
         <source>The loss of components in the system registry may cause errors to occur when using WPS Office, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierderea de componente în regiștrii sistemului poate cauza apariția erorilor când se utilizează WPS Office, cum ar fi imposibilitatea pornirii altor aplicații, etc. Apăsați butonul de mai jos pentru a reâncerca repararea, iar repararea va avea efect după repornire.</translation>
     </message>
     <message>
         <source>&amp;Register Components Again</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reînregistrare componente</translation>
     </message>
     <message>
         <source>If toolbar buttons are mixed up, please close all WPS Office applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă butoanele bării de unelte sunt amestecate, închideți toate aplicațiile WPS Office și apăsați butonul de mai jos pentru a restaura bările de unelte la starea lor originală. Reparația va avea efect după ce reporniți computerul.</translation>
     </message>
     <message>
         <source>Reset &amp;Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetare bări de unel&amp;te</translation>
     </message>
     <message>
         <source>Register components</source>
@@ -571,88 +574,93 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>Errors occur when registering components: 
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Au intervenit erori la înregistrarea componentelor: </translation>
     </message>
     <message>
         <source>·Registering kso.dll failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> A eșuat înregistrarea kso.dll
+</translation>
     </message>
     <message>
         <source>·Failed to register WPS Writer
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> A eșuat înregistrarea WPS Writer</translation>
     </message>
     <message>
         <source>·Failed to register WPS Presentation
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> A eșuat înregistrarea WPS Presentation
+</translation>
     </message>
     <message>
         <source>·Failed to register WPS Spreadsheets
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> A eșuat înregistrarea WPS Spreadsheets
+</translation>
     </message>
     <message>
         <source>·Registering WPS Equation Editor failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> A eșuat înregistrarea WPS Equation Editor
+</translation>
     </message>
     <message>
         <source>·WPS Writer not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>·WPS Writer nu a fost găsit</translation>
     </message>
     <message>
         <source>·WPS Presentation not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>·WPS Presentation nu a fost găsit
+</translation>
     </message>
     <message>
         <source>·WPS Spreadsheets not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>·WPS Spreadsheets nu a fost găsit</translation>
     </message>
     <message>
         <source>To solve the above problems, you need to reinstall WPS Office. 
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pentru a rezolva problema de mai sus, trebuie să reinstalați WPS Office. </translation>
     </message>
 </context>
 <context>
     <name>KPageRepair</name>
     <message>
         <source>Repair Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Repară instalarea</translation>
     </message>
     <message>
         <source>If repair fails, and the errors still exist after you have tried the repair operations above, you may need to repair currently damaged system files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă reparația eșuează, iar erorile încă există după ce ați încercat operațiile de reparare de mai sus, trebuie să reparați fișierele de sistem actualmente deteriorate.</translation>
     </message>
     <message>
         <source>Please backup files you are working on properly and close all WPS Office applications, then click the Repair Install below to reinstall.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faceți o copie de rezervă în mod corespunzător a fișierelor la care lucrați și închideți toate aplicațiile WPS Office, apoi apăsați Repară Instalarea de mai jos pentru a reinstala.</translation>
     </message>
     <message>
         <source>We are sure this operation will not destroy any files you have created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Suntem siguri că această operație nu va distruge nici un fișier pe care l-ați creat.</translation>
     </message>
     <message>
         <source>&amp;Repair Install</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Repară instalarea</translation>
     </message>
     <message>
         <source>Note: After clicking the button above, the message will be closed automatically. If you have other requirements, please reopen the tab after the Repair Installation is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificare: După ce apăsați butonul de mai sus, mesajul va fi închis automat. Dacă aveți alte solicitări, redeschideți fila după ce Reparația Instalării este finalizată.</translation>
     </message>
 </context>
 <context>
@@ -664,11 +672,12 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
     <message>
         <source>WPS Office offers multiple sets of interface schemes with different themes.
 The button icon, command group and task window position of each scheme are different. If you want a novel interface, you can choose the Modern Theme (WPS Office 2012 theme and WPS Office 2013 theme); if you are used to Office product, you can choose the Classic Theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office oferă multiple seturi de scheme interfață cu diferite tematici.
+Pictograma butonului, comanda grupează și poziția ferestrei de sarcini ale fiecărei scheme sunt diferite. Dacă doriți o interfață nouă, puteți alege Tematicile Moderne (tematicile WPS Office 2012 și tematicile WPS Office 2013); dacă utilizați pentru producția de birou, puteți alege Tema Clasică.</translation>
     </message>
     <message>
         <source>Please select interface schemes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați o schemele interfeței:</translation>
     </message>
     <message>
         <source>&amp;Change Scheme</source>
@@ -676,7 +685,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Caution:After clicking the Change Scheme button, changes may take effect after restarting WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenționare:După ce ați apăsat butonul Schimbă schema, modificările vor avea efect după repornirea WPS Office.</translation>
     </message>
     <message>
         <source>Modern Theme</source>
@@ -724,11 +733,11 @@ The button icon, command group and task window position of each scheme are diffe
     <name>KRegistrarScriptResource</name>
     <message>
         <source>WPS Spreadsheets Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -760,11 +769,11 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Spreadsheets Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicație Microsoft Office Excel</translation>
     </message>
     <message>
         <source>Microsoft Excel Sheet</source>
@@ -780,15 +789,15 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Office Excel 2007 Macro-Enabled Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel 2007 Macro-Enabled Workbook</translation>
     </message>
     <message>
         <source>Microsoft Office Excel 2007 Binary Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel 2007 Binary Workbook</translation>
     </message>
     <message>
         <source>Microsoft Excel Add-In</source>
-        <translation>Microsoft Excel Add-In</translation>
+        <translation>Add-In Microsoft Excel</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Chart</source>
@@ -796,95 +805,95 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Excel SLK File</source>
-        <translation>Microsoft Excel fișier SLK</translation>
+        <translation>Fișier SLK Microsoft Excel</translation>
     </message>
     <message>
         <source>Microsoft Office Excel CSV Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text CSV Microsoft Office Excel</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Foaie Microsoft Office Excel</translation>
     </message>
     <message>
         <source>Microsoft Excel Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon Microsoft Excel</translation>
     </message>
     <message>
         <source>Microsoft Word Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicație Microsoft Word</translation>
     </message>
     <message>
         <source>Microsoft Excel Macro-Enabled Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel Macro-Enabled Template</translation>
     </message>
     <message>
         <source>Macro-Enabled Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Macro-Enabled Sheet</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon Microsoft Office Excel</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Add-In</source>
-        <translation type="unfinished"></translation>
+        <translation>Add-In Microsoft Office Excel</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Web Query File</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel Web Query File</translation>
     </message>
     <message>
         <source>&amp;Open in WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Deschide în WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Microsoft Excel Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel Workbook</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv Microsoft PowerPoint</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon Microsoft PowerPoint</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv Microsoft PowerPoint 2007</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007 Macro-Enabled Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 2007 Macro-Enabled Slide</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon Microsoft PowerPoint 2007</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentare Microsoft PowerPoint</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Slide Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentare diapozitiv Microsoft PowerPoint</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicație Microsoft PowerPoint</translation>
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentare</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentare Microsoft PowerPoint 97-2003</translation>
     </message>
     <message>
         <source>PowerPoint Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentare PowerPoint</translation>
     </message>
     <message>
         <source>S&amp;how</source>
@@ -896,39 +905,39 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv Microsoft PowerPoint 97-2003</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentare Microsoft Office PowerPoint 2007</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Macro-Enabled Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office PowerPoint 2007 Macro-Enabled Presentation</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Diapozitiv Microsoft Office PowerPoint 2007</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Macro-Enabled Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office PowerPoint 2007 Macro-Enabled Show</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentare diapozitiv Microsoft Office PowerPoint 2007</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Macro-Enabled Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office PowerPoint 2007 Macro-Enabled Slide</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 07 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon Microsoft PowerPoint 07</translation>
     </message>
     <message>
         <source>Microsoft Office Word Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicație Microsoft Office Word</translation>
     </message>
     <message>
         <source>Microsoft Word Document</source>
@@ -936,23 +945,23 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Office Word 2007 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document Microsoft Office Word 2007</translation>
     </message>
     <message>
         <source>Microsoft Word Macro-Enabled Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word Macro-Enabled Document</translation>
     </message>
     <message>
         <source>Microsoft Word Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Poză Microsoft Word</translation>
     </message>
     <message>
         <source>Microsoft Word 6.0 - 7.0 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document Microsoft Word 6.0 - 7.0</translation>
     </message>
     <message>
         <source>Microsoft Word 6.0 - 7.0 Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Poză Microsoft Word 6.0 - 7.0</translation>
     </message>
     <message>
         <source>RTF Format</source>
@@ -960,19 +969,20 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Word Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon Microsoft Word</translation>
     </message>
     <message>
         <source>Microsoft Office Word 2007 Macro-Enabled Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Word 2007 Macro-Enabled Document</translation>
     </message>
     <message>
         <source>Microsoft Word Macro-Enabled Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word Macro-Enabled Template</translation>
     </message>
     <message>
         <source>Macro-Enabled Template</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Se păstrează definiția completă în engleză a termenilor derivați din funcția Macro-Enabled care definesc noul tip de fișiere Microsoft Office.</translatorcomment>
+        <translation>Macro-Enabled Template</translation>
     </message>
     <message>
         <source>RTF Text</source>
@@ -980,11 +990,11 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Word 2007 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon Microsoft Word 2007</translation>
     </message>
     <message>
         <source>Microsoft Word 2007 Macro-Enabled Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Word 2007 Macro-Enabled Template</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -996,7 +1006,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Presentation Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -1004,19 +1014,19 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Writer Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon WPS Writer</translation>
     </message>
     <message>
         <source>&amp;Edit,0,2</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Editare,0,2</translation>
     </message>
     <message>
         <source>&amp;Open,0,2</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Deschide,0,2</translation>
     </message>
     <message>
         <source>WPS Equation 3.0</source>
@@ -1028,7 +1038,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Workbook</translation>
     </message>
     <message>
         <source>Document</source>
@@ -1040,39 +1050,39 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint Macro-Enabled Presentation</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Data Interchange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Office Excel Data Interchange Format</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 97-2003 Worksheet</translation>
     </message>
     <message>
         <source>Microsoft Excel Macro-Enabled Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel Macro-Enabled Worksheet</translation>
     </message>
     <message>
         <source>Microsoft Word 97 - 2003 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document Microsoft Word 97 - 2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97 - 2003 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon Microsoft Word 97 - 2003</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 SlideShow</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentare diapozitive Microsoft PowerPoint 97-2003</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon Microsoft PowerPoint 97-2003</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro-Enabled Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint Macro-Enabled Slide</translation>
     </message>
 </context>
 <context>
@@ -1114,7 +1124,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>The following settings provide timely updates for your product, ensuring that you receive the latest patches. You may have to restart the applications for the settings to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarele configurări asigură actualizări oportune pentru produs, asigurând că primiți ultimele petice. Va trebui să reporniți aplicațiile pentru ca aceste configurări să aibă efect.</translation>
     </message>
     <message>
         <source>Update Mode:</source>
@@ -1134,7 +1144,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Get the latest product news during updates(&amp;K)</source>
-        <translation type="unfinished"></translation>
+        <translation>Obțineți ultimele știri despre produs în timpul actualizării(&amp;K)</translation>
     </message>
     <message>
         <source>&amp;Show information bar</source>
@@ -1174,11 +1184,11 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apl&amp;icații recomandate după ce actualizarea este terminată.</translation>
     </message>
     <message>
         <source>To improve the quality, reliability, and capability of WPS Office and its service, you are invited to participate in User Experience Improvement Activity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru a îmbunătății calitatea, siguranța și capabilitatea WPS Office și a serviciilor sale, sunteți invitat să participați la Activitatea de Îmbunătățire a Experienței.</translation>
     </message>
     <message>
         <source>Update Start</source>
@@ -1186,7 +1196,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Know more details about Experience Improvement Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Cunoașteți mai multe detalii despre Activitatea de Îmbunătățire a Experianței</translation>
     </message>
     <message>
         <source>IP Address is not valid!</source>
