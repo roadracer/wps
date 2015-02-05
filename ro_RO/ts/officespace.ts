@@ -255,11 +255,11 @@
     </message>
     <message>
         <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentul nu are activat backup automat, astfel fișierul de rezervă nu este disponibil.</translation>
     </message>
     <message>
         <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu sunt fișiere de rezervă pentru acest fișier în directorul de backup.&lt;br /&gt;Aceasta se datorează:&lt;br /&gt;1. Nu s-au creat fișiere de rezervă pentru acest fișier în computerul curent.&lt;br /&gt;2. Fișierele de rezervă sunt curățate manual.</translation>
     </message>
     <message>
         <source>Login klive before canceling auto backup.</source>
@@ -316,18 +316,18 @@
     <name>KDataRecoverButton</name>
     <message>
         <source>Data Recovery Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Data Recovery Master</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Data Recovery Master</translation>
     </message>
 </context>
 <context>
     <name>KDataRecoverDownloadTip</name>
     <message>
         <source>Loading the Data Recovery Master. Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se încarcă Data Recovery Master. Așteptați...</translation>
     </message>
 </context>
 <context>
@@ -406,7 +406,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -1426,7 +1426,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Allow multiple people to work in a workbook at the same time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite multor oameni să lucreze într-un registru de lucru în același timp.</translation>
     </message>
     <message>
         <source>Save as docx format</source>
@@ -1760,12 +1760,14 @@ cale:%3</translation>
     <message>
         <source>To purchase WPS Office, click here to visit the purchase page for more information. 
 You need to sign in before you buy. </source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru a achiziționa WPS Office, apăsați aici pentru a vizita pagina de achiziționare pentru mai multe informații. 
+Trebuie să fiți autentificat înaintea cumpărării. </translation>
     </message>
     <message>
         <source>After the trial expires, some features will not work properly. 
 Please purchase to continue using WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>După ce perioada de încercare expiră, unele funcții nu vor funcționa corespunzător. 
+Achiziționați pentru a continua utilizarea WPS Office.</translation>
     </message>
     <message>
         <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>
@@ -1774,7 +1776,8 @@ Please purchase to continue using WPS Office.</source>
     <message>
         <source>Your WPS Office is about to expire. 
 After expiration, some features will not work properly. Renew now and you can get a discount. </source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office este pe cale să expire. 
+După expirare, unele funcții nu vor funcționa coresunzător. Reânnoiți acum și puteți obține o reducere. </translation>
     </message>
     <message>
         <source>Your %1-day trial expires</source>
