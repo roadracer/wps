@@ -7,12 +7,12 @@
     <message>
         <source>WPS Spreadsheets</source>
         <comment>TX_DESC_APP_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>VBAProject</source>
         <comment>TX_DESC_KDE_PROJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation>ProiectVBA</translation>
     </message>
     <message>
         <source>ThisWorkbook</source>
@@ -22,12 +22,12 @@
     <message>
         <source>Macro</source>
         <comment>TX_DESC_KDE_MACRO_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Macrocomandă</translation>
     </message>
     <message>
         <source>Module</source>
         <comment>TX_DESC_KDE_CODEMODULE_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modul</translation>
     </message>
     <message>
         <source>The document will be saved as &quot;%s&quot; format, do you want to continue?
@@ -91,13 +91,15 @@ Please try one of the following.
         <source>WPS Spreadsheets cannot save this file due to a file permission error.
 (%s)</source>
         <comment>TX_Workbook_SaveFailurePermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets nu poate salva acest fișier datorită unei erori permisiune fișier.
+(%s)</translation>
     </message>
     <message>
         <source>Try to save again?
 (%s)</source>
         <comment>TX_Workbook_SaveRetry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se încearcă salvarea din nou?
+(%s)</translation>
     </message>
     <message>
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
@@ -108,37 +110,37 @@ Please try one of the following.
     <message>
         <source>All WPS Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
         <comment>TxDesc_AllETFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele WPS Spreadsheets(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
     </message>
     <message>
         <source>Xls</source>
         <comment>TX_Workbook_DefaultSaveName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Xls</translation>
     </message>
     <message>
         <source>XML Files</source>
         <comment>TX_Desc_Default</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere XML</translation>
     </message>
     <message>
         <source>Save As</source>
         <comment>TX_SaveAs_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Salvează ca</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
         <comment>TX_Save_Modified_Book</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doriți să salvați modificările efectuate la &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>(Read-only)</source>
         <comment>TX_ReadOnly_Sufix</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Doar-citire)</translation>
     </message>
     <message>
         <source>*</source>
         <comment>TX_Modified_Sufix</comment>
-        <translation type="unfinished"></translation>
+        <translation>*</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
@@ -167,7 +169,7 @@ Please try one of the following.
     <message>
         <source>Cannot save the file due to the full disk.</source>
         <comment>TX_Medium_Full</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate salva fișierul datorită lipsei spațiului pe disk.</translation>
     </message>
     <message>
         <source>Cannot save the file, because the file location you want to save is write protected.</source>
@@ -177,12 +179,12 @@ Please try one of the following.
     <message>
         <source>Opening the file, please wait...</source>
         <comment>TX_Document_BusyTip_Prompt_Open</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se deschide fișierul, așteptați...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
         <comment>TX_Document_BusyTip_Prompt_Save</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se salvează fișierul, așteptați...</translation>
     </message>
     <message>
         <source>To prevent possible losing data, WPS Spreadsheets cannot shove nonblank cells off the worksheet.
@@ -206,12 +208,12 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
     <message>
         <source>Book</source>
         <comment>TX_New_Book_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Carte</translation>
     </message>
     <message>
         <source>Sheet</source>
         <comment>TX_New_Sheet_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Foaie</translation>
     </message>
     <message>
         <source>%s is an invalid workbook name.</source>
@@ -233,12 +235,12 @@ To hide, delete, or move the selected sheet(s), you must first insert a new shee
     <message>
         <source>0.001f</source>
         <comment>TX_ApplicationOptions_MaxChange</comment>
-        <translation type="unfinished"></translation>
+        <translation>0.001f</translation>
     </message>
     <message>
         <source>Unknown User</source>
         <comment>TX_ApplicationOptions_UserName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Utilizator necunoscut</translation>
     </message>
     <message>
         <source>Courier</source>
@@ -300,7 +302,7 @@ To open the second document with the same name, you can close the document that 
     <message>
         <source>The name you entered is invalid. When renaming a sheet, try one of the following:</source>
         <comment>TX_RenameSheet_Error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numele pe care l-ați introdus nu este valid. Când redenumiți o foaie, încercați una dintre următoarele:</translation>
     </message>
     <message>
         <source>• Make sure the name you entered does not exceed 31 characters.</source>
@@ -341,12 +343,12 @@ To open the second document with the same name, you can close the document that 
     <message>
         <source>Reference is invalid.</source>
         <comment>TX_Hyperlink_Cannot_OpenRef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Referința nu este validă.</translation>
     </message>
     <message>
         <source>Cannot open the specified file.</source>
         <comment>TX_Hyperlink_Cannot_OpenFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide fișierul specificat.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot finish this operation due to insufficient memory.</source>
@@ -436,12 +438,12 @@ To open the second document with the same name, you can close the document that 
     <message>
         <source>Formula is too long.</source>
         <comment>TX_ERROR_FOUMULA_TOO_LONG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formula este prea lungă.</translation>
     </message>
     <message>
         <source>Content in cell is too long.</source>
         <comment>TX_ERROR_CELLTEXT_TOO_LONG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul din celulă este prea lung.</translation>
     </message>
     <message>
         <source>No source references specified for consolidation.</source>
@@ -564,7 +566,7 @@ Select a single region and then perform this command again.</source>
     <message>
         <source>Average</source>
         <comment>TX_SUBTOTAL_AVERAGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medie</translation>
     </message>
     <message>
         <source>Count</source>
@@ -579,27 +581,27 @@ Select a single region and then perform this command again.</source>
     <message>
         <source>Max</source>
         <comment>TX_SUBTOTAL_MAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maxim</translation>
     </message>
     <message>
         <source>Min</source>
         <comment>TX_SUBTOTAL_MIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minim</translation>
     </message>
     <message>
         <source>Product</source>
         <comment>TX_SUBTOTAL_PRODUCT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Produs</translation>
     </message>
     <message>
         <source>StdDev</source>
         <comment>TX_SUBTOTAL_STDEV</comment>
-        <translation type="unfinished"></translation>
+        <translation>StdDev</translation>
     </message>
     <message>
         <source>StdDevp</source>
         <comment>TX_SUBTOTAL_STDEVP</comment>
-        <translation type="unfinished"></translation>
+        <translation>StdDevp</translation>
     </message>
     <message>
         <source>Var</source>
@@ -614,7 +616,7 @@ Select a single region and then perform this command again.</source>
     <message>
         <source>Total</source>
         <comment>TX_SUBTOTAL_SUM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Total</translation>
     </message>
     <message>
         <source>Grand Total</source>
@@ -624,7 +626,7 @@ Select a single region and then perform this command again.</source>
     <message>
         <source>Total </source>
         <comment>TX_SUBTOTAL_PREFIX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Total </translation>
     </message>
     <message>
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
@@ -722,7 +724,7 @@ Please specify the right files.</source>
     <message>
         <source>8.1</source>
         <comment>TX_APP_VERSION</comment>
-        <translation type="unfinished"></translation>
+        <translation>8.1</translation>
     </message>
     <message>
         <source>[%s]%s:
@@ -763,7 +765,7 @@ Please specify the right files.</source>
     <message>
         <source>Chart</source>
         <comment>TX_OnSetHostNames_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă</translation>
     </message>
     <message>
         <source>Workbook in %s</source>
@@ -803,7 +805,7 @@ Please specify the right files.</source>
     <message>
         <source>? (Press F8 to confirm.)</source>
         <comment>TX_SMART_TIPS_CONFIRM</comment>
-        <translation type="unfinished"></translation>
+        <translation>? (Apăsați F8 pentru a confirma.)</translation>
     </message>
     <message>
         <source>This file may contain these special features below, and they may be lost if you save it as other formats.
@@ -844,7 +846,7 @@ Please specify the right files.</source>
     <message>
         <source>Label</source>
         <comment>TX_FormControl_Label</comment>
-        <translation type="unfinished"></translation>
+        <translation>Etichetă</translation>
     </message>
     <message>
         <source>Group Box</source>
@@ -854,12 +856,12 @@ Please specify the right files.</source>
     <message>
         <source>Button</source>
         <comment>TX_FormControl_Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Buton</translation>
     </message>
     <message>
         <source>Check Box</source>
         <comment>TX_FormControl_CheckBox</comment>
-        <translation type="unfinished"></translation>
+        <translation>Casetă validare</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -869,12 +871,12 @@ Please specify the right files.</source>
     <message>
         <source>Tahoma</source>
         <comment>TX_FormControl_DefaultFontName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tahoma</translation>
     </message>
     <message>
         <source>8</source>
         <comment>TX_FormControl_DefaultFontSize</comment>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>Some text formats in the file may be modified, because it exceeds the number of utmost permitted formats.</source>
@@ -1029,7 +1031,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>BAK_</source>
         <comment>TX_ShareWorkbook_ExcelSharedDocBakPrefix</comment>
-        <translation type="unfinished"></translation>
+        <translation>BAK_</translation>
     </message>
     <message>
         <source>The file is locked by %s. You can change the file lock, or continue with ignoring it. If you continue without changing the file lock, you cannot save this file, but you can use Save As to save to a different file. Do you want to change the file lock?</source>
@@ -1044,22 +1046,22 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>hundred millions</source>
         <comment>TX_SmartTip_yi</comment>
-        <translation type="unfinished"></translation>
+        <translation>o sută de milioane</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TX_SmartTip_dian</comment>
-        <translation type="unfinished"></translation>
+        <translation>.</translation>
     </message>
     <message>
         <source>ten thousand</source>
         <comment>TX_SmartTip_wan</comment>
-        <translation type="unfinished"></translation>
+        <translation>zece mi</translation>
     </message>
     <message>
         <source>The function you are using is invalid in WPS Spreadsheets.</source>
         <comment>TX_FunctionInvalid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Funcția pe care o utilizați nu este validă în WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>You cannot open the shared workbook with WPS Spreadsheets and you can only open it with Read-only mode.</source>
@@ -1133,12 +1135,12 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>Calculating</source>
         <comment>TX_ETCalculateInfo_Calculating</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se calculează</translation>
     </message>
     <message>
         <source>Processor(s)</source>
         <comment>TX_ETCalculateInfo_Processors</comment>
-        <translation type="unfinished"></translation>
+        <translation>Procesor(are)</translation>
     </message>
     <message>
         <source>The calculation is not complete</source>
@@ -1180,12 +1182,12 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Max</source>
         <comment>TX_SOLVER_MAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maxim</translation>
     </message>
     <message>
         <source>Min</source>
         <comment>TX_SOLVER_MIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minim</translation>
     </message>
     <message>
         <source>Value Of</source>
@@ -1200,27 +1202,27 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>NONE</source>
         <comment>TX_SOLVER_NONE</comment>
-        <translation type="unfinished"></translation>
+        <translation>NIMIC</translation>
     </message>
     <message>
         <source>Cell</source>
         <comment>TX_SOLVER_CELL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Celulă</translation>
     </message>
     <message>
         <source>Name</source>
         <comment>TX_SOLVER_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <source>Original Value</source>
         <comment>TX_SOLVER_ORIGINALVALUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoare originală</translation>
     </message>
     <message>
         <source>Final Value</source>
         <comment>TX_SOLVER_FINALVALUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoare finală</translation>
     </message>
     <message>
         <source>Variable Cells</source>
@@ -1235,12 +1237,12 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Formula</source>
         <comment>TX_SOLVER_FORMULA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formulă</translation>
     </message>
     <message>
         <source>Status</source>
         <comment>TX_SOLVER_STATUS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stare</translation>
     </message>
     <message>
         <source>Slack</source>
@@ -1260,12 +1262,12 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Final</source>
         <comment>TX_SOLVER_FINAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Final</translation>
     </message>
     <message>
         <source>Value</source>
         <comment>TX_SOLVER_VALUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoare</translation>
     </message>
     <message>
         <source>Integer</source>
@@ -1310,7 +1312,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Precision</source>
         <comment>TX_SOLVER_PRECISION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Precizie</translation>
     </message>
     <message>
         <source>Use Automatic Scaling</source>
@@ -1345,7 +1347,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Reports</source>
         <comment>TX_SOLVER_REPORT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rapoarte</translation>
     </message>
     <message>
         <source>Sensitivity Report</source>
@@ -1355,7 +1357,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Unlimited</source>
         <comment>TX_SOLVER_UNLIMITED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nelimitat</translation>
     </message>
     <message>
         <source>Assume NonNegative</source>
@@ -1365,7 +1367,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Cell Value</source>
         <comment>TX_SOLVER_CELLVALUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoare celulă</translation>
     </message>
     <message>
         <source>Objective Cell Section</source>
@@ -1385,7 +1387,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Limit</source>
         <comment>TX_SOLVER_LIMIT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Limită</translation>
     </message>
     <message>
         <source>Subproblem</source>
@@ -1395,7 +1397,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Variables</source>
         <comment>TX_SOLVER_VARIABLES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Variabile</translation>
     </message>
     <message>
         <source>Report Created</source>
@@ -1410,7 +1412,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Result</source>
         <comment>TX_SOLVER_RESULT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rezultat</translation>
     </message>
     <message>
         <source>Solver Engine</source>
@@ -1430,7 +1432,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Seconds</source>
         <comment>TX_SOLVER_SECONDS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Secunde</translation>
     </message>
     <message>
         <source>Solution Time</source>
@@ -1440,7 +1442,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Engine</source>
         <comment>TX_SOLVER_ENGINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Motor</translation>
     </message>
     <message>
         <source>Simplex LP</source>
@@ -1465,37 +1467,37 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Lower</source>
         <comment>TX_SOLVER_LOWER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Micșorat</translation>
     </message>
     <message>
         <source>Upper</source>
         <comment>TX_SOLVER_UPPER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ridicat</translation>
     </message>
     <message>
         <source>Reduced</source>
         <comment>TX_SOLVER_REDUCED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redus</translation>
     </message>
     <message>
         <source>Coefficient</source>
         <comment>TX_SOLVER_COEFFICIENT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coeficient</translation>
     </message>
     <message>
         <source>Allowable</source>
         <comment>TX_SOLVER_ALLOWABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permisibil</translation>
     </message>
     <message>
         <source>Increase</source>
         <comment>TX_SOLVER_INCREASE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Crește</translation>
     </message>
     <message>
         <source>Decrease</source>
         <comment>TX_SOLVER_DECREASE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Descrește</translation>
     </message>
     <message>
         <source>R.H. Side</source>
@@ -1505,17 +1507,17 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Price</source>
         <comment>TX_SOLVER_PRICE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preț</translation>
     </message>
     <message>
         <source>Cost</source>
         <comment>TX_SOLVER_COST</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cost</translation>
     </message>
     <message>
         <source>Shadow</source>
         <comment>TX_SOLVER_SHADOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umbră</translation>
     </message>
     <message>
         <source>Constraint</source>
@@ -1550,7 +1552,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Lagrange</source>
         <comment>TX_SOLVER_LAGRANGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lagrange</translation>
     </message>
     <message>
         <source>Multiplier</source>
@@ -1595,7 +1597,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>No cells were found.</source>
         <comment>TX_NO_CELL_FOUND</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu au fost găsite celule.</translation>
     </message>
     <message>
         <source>Cannot run the macro &quot;%s&quot;. The macro may not be available in this workbook or all macros may be disabled.</source>
@@ -1610,17 +1612,17 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>(Press ESC to cancel)</source>
         <comment>TX_PROGRESS_DISCONTINUE_BYESC</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Apăsați ESC pentru anulare)</translation>
     </message>
     <message>
         <source>Row</source>
         <comment>TX_SORT_ROW_STRING</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rând</translation>
     </message>
     <message>
         <source>Column</source>
         <comment>TX_SORT_COLUMN_STRING</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coloană</translation>
     </message>
     <message>
         <source>The command you chose cannot be performed with multiple selection.
@@ -1652,7 +1654,7 @@ Check the database server or contact your database administrator. Make sure the 
     <message>
         <source>Selection is too large</source>
         <comment>TX_ERROR_SELECTION_RANGE_TOO_LARGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selecția este prea lungă</translation>
     </message>
     <message>
         <source>Invalid reference. This file version cannot contain formulas that reference cells beyond a worksheet size of 256 columns (column IW or higher) or 65536 rows.</source>
@@ -1689,7 +1691,7 @@ Continue without Undo?</source>
     <message>
         <source>Error in Value</source>
         <comment>TX_ERRORCHECK_ERR_VALUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare în valoare</translation>
     </message>
     <message>
         <source>Invaild Cell Reference Error</source>
@@ -1699,12 +1701,12 @@ Continue without Undo?</source>
     <message>
         <source>Invalid Name Error</source>
         <comment>TX_ERRORCHECK_ERR_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nume eroare nevalid</translation>
     </message>
     <message>
         <source>Number Error</source>
         <comment>TX_ERRORCHECK_ERR_NUM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr eroare</translation>
     </message>
     <message>
         <source>Value Not Available Error</source>
@@ -1734,7 +1736,7 @@ Continue without Undo?</source>
     <message>
         <source>Unprotected Formula</source>
         <comment>TX_ERRORCHECK_ERR_UnlockedFormulaCells</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formulă neprotejată</translation>
     </message>
     <message>
         <source>Formula Refers to Empty Cells</source>
@@ -1764,12 +1766,12 @@ Continue without Undo?</source>
     <message>
         <source>The formula contains unrecognized text.</source>
         <comment>TX_ERRORCHECK_ERRDESC_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formula conține text nerecunoscut.</translation>
     </message>
     <message>
         <source>There is a problem with a number used in the formula.</source>
         <comment>TX_ERRORCHECK_ERRDESC_NUM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Este o problemă cu un număr utilizat în formulă.</translation>
     </message>
     <message>
         <source>A value is not available to the formula or function.</source>
@@ -1879,37 +1881,37 @@ Continue without Undo?</source>
     <message>
         <source>%s on %s</source>
         <comment>TX_ACTIVE_PRINTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s pe %s</translation>
     </message>
     <message>
         <source>unknown printer (check your Control Panel)</source>
         <comment>TX_UNKNOWN_PRINTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>imprimantă necunoscută (verificați Panoul de control)</translation>
     </message>
     <message>
         <source>General</source>
         <comment>TX_NUMFMTApi_BuildIn_00</comment>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_02</comment>
-        <translation type="unfinished"></translation>
+        <translation>0.00</translation>
     </message>
     <message>
         <source>#,##0</source>
         <comment>TX_NUMFMTApi_BuildIn_03</comment>
-        <translation type="unfinished"></translation>
+        <translation>#,##0</translation>
     </message>
     <message>
         <source>#,##0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_04</comment>
-        <translation type="unfinished"></translation>
+        <translation>#,##0.00</translation>
     </message>
     <message>
         <source>$#,##0_);($#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_05</comment>
-        <translation type="unfinished"></translation>
+        <translation>$#,##0_);($#,##0)</translation>
     </message>
     <message>
         <source>$#,##0_);[Red]($#,##0)</source>
@@ -1919,7 +1921,7 @@ Continue without Undo?</source>
     <message>
         <source>$#,##0.00_);($#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_07</comment>
-        <translation type="unfinished"></translation>
+        <translation>$#,##0.00_);($#,##0.00)</translation>
     </message>
     <message>
         <source>$#,##0.00_);[Red]($#,##0.00)</source>
@@ -1929,12 +1931,12 @@ Continue without Undo?</source>
     <message>
         <source>0.00%</source>
         <comment>TX_NUMFMTApi_BuildIn_10</comment>
-        <translation type="unfinished"></translation>
+        <translation>0.00%</translation>
     </message>
     <message>
         <source>0.00E+00</source>
         <comment>TX_NUMFMTApi_BuildIn_11</comment>
-        <translation type="unfinished"></translation>
+        <translation>0.00E+00</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
@@ -1954,12 +1956,12 @@ Continue without Undo?</source>
     <message>
         <source>h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_20</comment>
-        <translation type="unfinished"></translation>
+        <translation>o:mm</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_21</comment>
-        <translation type="unfinished"></translation>
+        <translation>o:mm:ss</translation>
     </message>
     <message>
         <source>m/d/yyyy h:mm</source>
@@ -1969,7 +1971,7 @@ Continue without Undo?</source>
     <message>
         <source>\$#,##0_);(\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_23</comment>
-        <translation type="unfinished"></translation>
+        <translation>\$#,##0_);(\$#,##0)</translation>
     </message>
     <message>
         <source>\$#,##0_);[Red](\$#,##0)</source>
@@ -1979,7 +1981,7 @@ Continue without Undo?</source>
     <message>
         <source>\$#,##0.00_);(\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_25</comment>
-        <translation type="unfinished"></translation>
+        <translation>\$#,##0.00_);(\$#,##0.00)</translation>
     </message>
     <message>
         <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
@@ -2024,7 +2026,7 @@ Continue without Undo?</source>
     <message>
         <source>#,##0_);(#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_37</comment>
-        <translation type="unfinished"></translation>
+        <translation>#,##0_);(#,##0)</translation>
     </message>
     <message>
         <source>#,##0_);[Red](#,##0)</source>
@@ -2034,7 +2036,7 @@ Continue without Undo?</source>
     <message>
         <source>#,##0.00_);(#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_39</comment>
-        <translation type="unfinished"></translation>
+        <translation>#,##0.00_);(#,##0.00)</translation>
     </message>
     <message>
         <source>#,##0.00_);[Red](#,##0.00)</source>
@@ -2044,22 +2046,22 @@ Continue without Undo?</source>
     <message>
         <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_41</comment>
-        <translation type="unfinished"></translation>
+        <translation>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</translation>
     </message>
     <message>
         <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_42</comment>
-        <translation type="unfinished"></translation>
+        <translation>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</translation>
     </message>
     <message>
         <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_43</comment>
-        <translation type="unfinished"></translation>
+        <translation>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</translation>
     </message>
     <message>
         <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_44</comment>
-        <translation type="unfinished"></translation>
+        <translation>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</translation>
     </message>
     <message>
         <source>mm:ss.0</source>
@@ -2118,12 +2120,12 @@ Continue without Undo?</source>
     <message>
         <source>All Files(*.*)| *.*</source>
         <comment>TX_App_GetSaveAsFileName_FileFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele(*.*)| *.*</translation>
     </message>
     <message>
         <source>Dialog Title</source>
         <comment>Dialog Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu dialog</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
@@ -2195,22 +2197,22 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Insert Column</source>
         <comment>TX_RevisionTypeInsertCol</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu coloană</translation>
     </message>
     <message>
         <source>Insert Row</source>
         <comment>TX_RevisionTypeInsertRow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu rând</translation>
     </message>
     <message>
         <source>Delete Column</source>
         <comment>TX_RevisionTypeDeleteCol</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge coloană</translation>
     </message>
     <message>
         <source>Delete Row</source>
         <comment>TX_RevisionTypeDeleteRow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge rând</translation>
     </message>
     <message>
         <source>Insert Worksheet</source>
@@ -2225,32 +2227,32 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Insert the %s row</source>
         <comment>TX_RevisionDescInsertRow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu rândul %s</translation>
     </message>
     <message>
         <source>Insert the %s column</source>
         <comment>TX_RevisionDescInsertCol</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu coloana %s</translation>
     </message>
     <message>
         <source>Delete the %s row</source>
         <comment>TX_RevisionDescDeleteRow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge rândul %s</translation>
     </message>
     <message>
         <source>Delete the %s column</source>
         <comment>TX_RevisionDescDeleteCol</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge coloana %s</translation>
     </message>
     <message>
         <source>Move the cell %s to the cell %s</source>
         <comment>TX_RevisionDescCellMove</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mută celula %s la celula %s</translation>
     </message>
     <message>
         <source>Change the cell %s from &quot;%s&quot; to &quot;%s&quot;</source>
         <comment>TX_RevisionDescCellChange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă celula %s de la &quot;%s&quot; la &quot;%s&quot;</translation>
     </message>
     <message>
         <source>&lt;Empty&gt;</source>
@@ -2270,12 +2272,12 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Everyone</source>
         <comment>TX_ShareWorkbook_AuthorEveryone</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oricine</translation>
     </message>
     <message>
         <source>Everyone but Me</source>
         <comment>TX_ShareWorkbook_AuthorEveryoneButMe</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nimeni doar eu</translation>
     </message>
     <message>
         <source>Result of rejected action</source>
@@ -2290,37 +2292,37 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>cell %s</source>
         <comment>TX_Revision_Desc_Cell</comment>
-        <translation type="unfinished"></translation>
+        <translation>celulă %s</translation>
     </message>
     <message>
         <source>cells %s</source>
         <comment>TX_Revision_Desc_Cells</comment>
-        <translation type="unfinished"></translation>
+        <translation>celule %s</translation>
     </message>
     <message>
         <source>row %s</source>
         <comment>TX_Revision_Desc_Row</comment>
-        <translation type="unfinished"></translation>
+        <translation>rând %s</translation>
     </message>
     <message>
         <source>rows %s</source>
         <comment>TX_Revision_Desc_Rows</comment>
-        <translation type="unfinished"></translation>
+        <translation>rânduri %s</translation>
     </message>
     <message>
         <source>column %s</source>
         <comment>TX_Revision_Desc_Column</comment>
-        <translation type="unfinished"></translation>
+        <translation>coloană %s</translation>
     </message>
     <message>
         <source>columns %s</source>
         <comment>TX_Revision_Desc_Columns</comment>
-        <translation type="unfinished"></translation>
+        <translation>coloane %s</translation>
     </message>
     <message>
         <source>Cell Change</source>
         <comment>TX_Revision_Type_CellChange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modificare celulă</translation>
     </message>
     <message>
         <source>Range Move</source>
@@ -2330,22 +2332,22 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Row Insert</source>
         <comment>TX_Revision_Type_InsertRow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rând introdus</translation>
     </message>
     <message>
         <source>Column Insert</source>
         <comment>TX_Revision_Type_InsertColumn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coloană introdusă</translation>
     </message>
     <message>
         <source>Row Delete</source>
         <comment>TX_Revision_Type_DeleteRow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rând șters</translation>
     </message>
     <message>
         <source>Column Delete</source>
         <comment>TX_Revision_Type_DeleteColumn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coloană ștearsă</translation>
     </message>
     <message>
         <source>Worksheet Insert</source>
@@ -2360,12 +2362,12 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Name Change</source>
         <comment>TX_Revision_Type_DefinedName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nume schimbat</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TX_Revision_Desc_FullStop</comment>
-        <translation type="unfinished"></translation>
+        <translation>.</translation>
     </message>
     <message>
         <source> (Result of rejected action)</source>
@@ -2375,17 +2377,17 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Inserted %s</source>
         <comment>TX_Revision_Desc_Insert</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdus %s</translation>
     </message>
     <message>
         <source>Deleted %s</source>
         <comment>TX_Revision_Desc_Delete</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șters %s</translation>
     </message>
     <message>
         <source>Moved %s to %s</source>
         <comment>TX_Revision_Desc_Move</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mutat %s la %s</translation>
     </message>
     <message>
         <source>Changed cell %s from &apos;%s&apos; to &apos;%s&apos;</source>
@@ -2405,7 +2407,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Changed the name &apos;%s&apos; to &apos;%s&apos;</source>
         <comment>TX_Revision_Desc_DefinedName</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a schimbat numele &apos;%s&apos; în &apos;%s&apos;</translation>
     </message>
     <message>
         <source>&lt;blank&gt;</source>
@@ -2415,12 +2417,12 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Changed name &apos;%s&apos; from &apos;%s&apos; to &apos;%s&apos;</source>
         <comment>TX_Revision_Desc_ModifyDefinedName</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a schimbat numele &apos;%s&apos; de la &apos;%s&apos; în &apos;%s&apos;</translation>
     </message>
     <message>
         <source>（Showing all）</source>
         <comment>TX_Show_All_DateItems</comment>
-        <translation type="unfinished"></translation>
+        <translation>（Arată tot）</translation>
     </message>
     <message>
         <source>Top %s items</source>
@@ -2445,12 +2447,12 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Or</source>
         <comment>TX_AutoFilter_Or</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sau</translation>
     </message>
     <message>
         <source>And</source>
         <comment>TX_AutoFilter_And</comment>
-        <translation type="unfinished"></translation>
+        <translation>Și</translation>
     </message>
     <message>
         <source>（Blank）</source>
@@ -2460,7 +2462,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Column %s</source>
         <comment>TX_AutoFilter_Col_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coloană %s</translation>
     </message>
     <message>
         <source>%s items meet the requirement of the active column in %d records</source>
@@ -2515,17 +2517,17 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Reference is not valid.</source>
         <comment>TX_RepeatWord_InvalidReference</comment>
-        <translation type="unfinished"></translation>
+        <translation>Referința nu este validă.</translation>
     </message>
     <message>
         <source>&lt;Unknown Sheet&gt;</source>
         <comment>TX_Revision_Desc_UnknownSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Foaie necunoscută&gt;</translation>
     </message>
     <message>
         <source>Table_</source>
         <comment>TX_ListObject_NamePrefix</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabel_</translation>
     </message>
     <message>
         <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
@@ -2535,7 +2537,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>No Column has been selected.</source>
         <comment>TX_RepeatWord_No_Column</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu a fost selectată nici o coloană.</translation>
     </message>
 </context>
 <context>
@@ -2544,17 +2546,18 @@ To cancel the query, click &quot;Cancel&quot;.</source>
         <source>
 Value: </source>
         <comment>TX_DESC_DataPointValue_CHART</comment>
-        <translation type="unfinished"></translation>
+        <translation>
+Valoare: </translation>
     </message>
     <message>
         <source>Charts</source>
         <comment>TX_DESC_CharObjectDefaultName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagrame</translation>
     </message>
     <message>
         <source>Chart</source>
         <comment>TX_DESC_CHARTOBJECT_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă</translation>
     </message>
 </context>
 <context>
@@ -2562,7 +2565,7 @@ Value: </source>
     <message>
         <source>Normal</source>
         <comment>TX_DESC_NORMAL_STYLE_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
@@ -2583,17 +2586,17 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Macro Error</source>
         <comment>TX_MSF_RUN_ERR_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare macrocomandă</translation>
     </message>
     <message>
         <source>Macro error at cell: </source>
         <comment>TX_MSF_RUN_ERR_ERROR_IN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare macrocomandă la celula: </translation>
     </message>
     <message>
         <source>Macro interrupted at cell:</source>
         <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Macrocomandă întreruptă la celula:</translation>
     </message>
     <message>
         <source>Missing NEXT function for loop.</source>
@@ -2608,7 +2611,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Missing IF.</source>
         <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lipsește IF.</translation>
     </message>
     <message>
         <source>Missing an END.IF function.</source>
@@ -2646,17 +2649,17 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Max of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Max</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maxim de </translation>
     </message>
     <message>
         <source>Min of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Min</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minim de </translation>
     </message>
     <message>
         <source>Product of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Product</comment>
-        <translation type="unfinished"></translation>
+        <translation>Produs de </translation>
     </message>
     <message>
         <source>StdDev of </source>
@@ -2741,17 +2744,17 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Total</source>
         <comment>TX_DAP_Total</comment>
-        <translation type="unfinished"></translation>
+        <translation>Total</translation>
     </message>
     <message>
         <source>(All)</source>
         <comment>TX_DAP_SelectAll</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Tot)</translation>
     </message>
     <message>
         <source>(Multiple Items)</source>
         <comment>TX_DAP_MultiSelect</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Mai multe elemente)</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -2823,7 +2826,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Average</source>
         <comment>TX_DAP_FunctionItem_Average</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medie</translation>
     </message>
     <message>
         <source>Count</source>
@@ -2838,27 +2841,27 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Max</source>
         <comment>TX_DAP_FunctionItem_Max</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maxim</translation>
     </message>
     <message>
         <source>Min</source>
         <comment>TX_DAP_FunctionItem_Min</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minim</translation>
     </message>
     <message>
         <source>Product</source>
         <comment>TX_DAP_FunctionItem_Product</comment>
-        <translation type="unfinished"></translation>
+        <translation>Produs</translation>
     </message>
     <message>
         <source>StDev</source>
         <comment>TX_DAP_FunctionItem_StDev</comment>
-        <translation type="unfinished"></translation>
+        <translation>StDev</translation>
     </message>
     <message>
         <source>StdDevp</source>
         <comment>TX_DAP_FunctionItem_StDevp</comment>
-        <translation type="unfinished"></translation>
+        <translation>StdDevp</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -2871,7 +2874,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Error</source>
         <comment>TX_ETDBE_ERRCAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source.The connection string is blank.The string you typed is not corret.The generated connection failed.</source>
@@ -2908,17 +2911,17 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Sort by</source>
         <comment>TX_ETDBE_FLTR_ORDER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sortează după</translation>
     </message>
     <message>
         <source>Ascending</source>
         <comment>TX_ETDBE_FLTR_ORDER_ASC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Crescător</translation>
     </message>
     <message>
         <source>Descending</source>
         <comment>TX_ETDBE_FLTR_ORDER_DESC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Descrescător</translation>
     </message>
     <message>
         <source>Second operand</source>
@@ -2933,32 +2936,32 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>greater than</source>
         <comment>TX_ETDBE_OPR_LARGER</comment>
-        <translation type="unfinished"></translation>
+        <translation>mai mare decât</translation>
     </message>
     <message>
         <source>less than</source>
         <comment>TX_ETDBE_OPR_SMALLER</comment>
-        <translation type="unfinished"></translation>
+        <translation>mai puțin decât</translation>
     </message>
     <message>
         <source>equal to</source>
         <comment>TX_ETDBE_OPR_EQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>egal cu</translation>
     </message>
     <message>
         <source>not equal to</source>
         <comment>TX_ETDBE_OPR_NOTEQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>nu egal cu</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
         <comment>TX_ETDBE_OPR_LARGEREQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>mai mare decât sau egal cu</translation>
     </message>
     <message>
         <source>less than or equal to</source>
         <comment>TX_ETDBE_OPR_SMALLEREQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>mai mic decât sau egal cu</translation>
     </message>
     <message>
         <source>like</source>
@@ -2978,12 +2981,12 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>And</source>
         <comment>TX_ETDBE_RELATION_AND</comment>
-        <translation type="unfinished"></translation>
+        <translation>Și</translation>
     </message>
     <message>
         <source>Or</source>
         <comment>TX_ETDBE_RELATION_OR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sau</translation>
     </message>
     <message>
         <source>Connect string:</source>
@@ -2998,13 +3001,14 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Error password or user name!</source>
         <comment>TX_ETDBE_INVALIDAUTHINFO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare parolă sau nume de utilizator!</translation>
     </message>
     <message>
         <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
 </source>
         <comment>TX_ETDBE_INVALIDFIELDWORDS</comment>
-        <translation type="unfinished"></translation>
+        <translation> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
+</translation>
     </message>
     <message>
         <source>Operation condition</source>
@@ -3014,32 +3018,32 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source> &gt;,</source>
         <comment>TX_ETDBE_STR_OPR_LARGER</comment>
-        <translation type="unfinished"></translation>
+        <translation> &gt;,</translation>
     </message>
     <message>
         <source> &lt;,</source>
         <comment>TX_ETDBE_STR_OPR_SMALLER</comment>
-        <translation type="unfinished"></translation>
+        <translation> &lt;,</translation>
     </message>
     <message>
         <source> =,</source>
         <comment>TX_ETDBE_STR_OPR_EQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation> =,</translation>
     </message>
     <message>
         <source> !=,</source>
         <comment>TX_ETDBE_STR_OPR_NOTEQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation> !=,</translation>
     </message>
     <message>
         <source> &gt;=,</source>
         <comment>TX_ETDBE_STR_OPR_LARGEREQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation> &gt;=,</translation>
     </message>
     <message>
         <source> &lt;=,</source>
         <comment>TX_ETDBE_STR_OPR_SMALLEREQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation> &lt;=,</translation>
     </message>
     <message>
         <source> LIKE,</source>
@@ -3054,12 +3058,12 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Filter</source>
         <comment>TX_ETDBE_STR_FILTER2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Filtru</translation>
     </message>
     <message>
         <source>Sort by</source>
         <comment>TX_ETDBE_STR_ORDR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sortează după</translation>
     </message>
     <message>
         <source>Field names</source>
@@ -3069,27 +3073,27 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Ascending</source>
         <comment>TX_ETDBE_STR_ORDR_ASC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Crescător</translation>
     </message>
     <message>
         <source>Descending</source>
         <comment>TX_ETDBE_STR_ORDR_DESC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Descrescător</translation>
     </message>
     <message>
         <source>Relation</source>
         <comment>TX_ETDBE_STR_RELATION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Relație</translation>
     </message>
     <message>
         <source> AND,</source>
         <comment>TX_ETDBE_STR_RELATION_AND</comment>
-        <translation type="unfinished"></translation>
+        <translation> ȘI,</translation>
     </message>
     <message>
         <source> OR,</source>
         <comment>TX_ETDBE_STR_RELATION_OR</comment>
-        <translation type="unfinished"></translation>
+        <translation> SAU,</translation>
     </message>
     <message>
         <source>Query failed!</source>
@@ -3129,12 +3133,12 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Connections:</source>
         <comment>TX_ETDBE_STR_CONNECT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conexiuni:</translation>
     </message>
     <message>
         <source>Query</source>
         <comment>TX_ETDBE_STR_QUERY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interogare</translation>
     </message>
     <message>
         <source>Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Text Files(*.txt)|*.txt|All Files(*.*)|*.*||</source>
@@ -3160,7 +3164,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Initialization Error!</source>
         <comment>TX_ETDBE_STR_INIT_ERROR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare inițializare!</translation>
     </message>
     <message>
         <source>Select fields from the left list, then click &quot;Add to the list&quot;.
@@ -3207,17 +3211,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Connection</source>
         <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conexiune</translation>
     </message>
     <message>
         <source>Parameter</source>
         <comment>TX_ETDBE_STR_PARAMDEFAULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Parametru</translation>
     </message>
     <message>
         <source>Unable to open %s. Cannot download the information you requested.</source>
         <comment>TX_ETDBE_STR_WEBDOWNLOADERROR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide %s. Nu se poare descărca înformația pe care ați solicitat-o.</translation>
     </message>
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
@@ -3260,22 +3264,22 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Recently Used</source>
         <comment>FuncCatName01</comment>
-        <translation type="unfinished"></translation>
+        <translation>Utilizate recent</translation>
     </message>
     <message>
         <source>All</source>
         <comment>FuncCatName02</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tot</translation>
     </message>
     <message>
         <source>Financial</source>
         <comment>FuncCatName03</comment>
-        <translation type="unfinished"></translation>
+        <translation>Financiar</translation>
     </message>
     <message>
         <source>Date and Time</source>
         <comment>FuncCatName04</comment>
-        <translation type="unfinished"></translation>
+        <translation>Data și ora</translation>
     </message>
     <message>
         <source>Math and Trig</source>
@@ -3285,7 +3289,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Statistical</source>
         <comment>FuncCatName06</comment>
-        <translation type="unfinished"></translation>
+        <translation>Statistic</translation>
     </message>
     <message>
         <source>Lookup and Reference</source>
@@ -3295,12 +3299,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Database</source>
         <comment>FuncCatName08</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bază de date</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>FuncCatName09</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Logical</source>
@@ -3310,12 +3314,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Information</source>
         <comment>FuncCatName11</comment>
-        <translation type="unfinished"></translation>
+        <translation>Informație</translation>
     </message>
     <message>
         <source>User Defined</source>
         <comment>FuncCatName12</comment>
-        <translation type="unfinished"></translation>
+        <translation>Definit de utilizator</translation>
     </message>
     <message>
         <source>Engineering</source>
@@ -3390,7 +3394,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>NOW()</source>
         <comment>NOW_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>ACUM()</translation>
     </message>
     <message>
         <source>Returns the current date and time formatted as a date and time.</source>
@@ -3430,7 +3434,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>TODAY()</source>
         <comment>TODAY_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>AZI()</translation>
     </message>
     <message>
         <source>Returns the current date formatted as a date.</source>
@@ -3550,7 +3554,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DEGREES(angle)</source>
         <comment>DEGREES_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>GRADE(unghi)</translation>
     </message>
     <message>
         <source>Converts radians to degrees.</source>
@@ -6615,22 +6619,22 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Manual</source>
         <comment>INFO_MANULAMODE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <source>Auto</source>
         <comment>INFO_AUTOMODE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
     <message>
         <source>11.0</source>
         <comment>INFO_MSORELEASE</comment>
-        <translation type="unfinished"></translation>
+        <translation>11.0</translation>
     </message>
     <message>
         <source>See Help for help on this function and its arguments.</source>
         <comment>SEE_HELP_FORMORE_DESC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Consultați Ajutor pentru ajutor cu această funcție și argumentele sale.</translation>
     </message>
     <message>
         <source>ARGUMENT(name_text, data_type_num, reference)</source>
@@ -6934,7 +6938,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>QUIT()</source>
         <comment>QUIT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>TERMINĂ()</translation>
     </message>
     <message>
         <source>SELECT(selection, active_cell)</source>
@@ -7052,27 +7056,27 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Microsoft Excel Workbook(*.xls; *.xlt)</source>
         <comment>TX_ssDesc_AllXls_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel Workbook(*.xls; *.xlt)</translation>
     </message>
     <message>
         <source>Text Files(*.prn; *.txt; *.csv)</source>
         <comment>TX_ssDesc_AllTxt_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere text(*.prn; *.txt; *.csv)</translation>
     </message>
     <message>
         <source>XML Files(*.xml)</source>
         <comment>TX_ssDesc_AllXml_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere XML(*.xml)</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>TX_ssDesc_All_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele(*.*)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et; *.ett)</source>
         <comment>TX_ssDesc_AllET_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere WPS Spreadsheets(*.et; *.ett)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et; *.ett)</source>
@@ -7102,7 +7106,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>XML SpreadSheet(*.xml)</source>
         <comment>TX_ssDesc_Xml_</comment>
-        <translation type="unfinished"></translation>
+        <translation>XML SpreadSheet(*.xml)</translation>
     </message>
     <message>
         <source>XML SpreadSheet Template(*.xmt)</source>
@@ -7122,7 +7126,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Unicode Text(*.txt)</source>
         <comment>TX_ssDesc_Utf_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text unicod(*.txt)</translation>
     </message>
     <message>
         <source>The selected file type does not support workbooks that contain multiple sheets.
@@ -7163,7 +7167,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Workbook(*.xls)</source>
         <comment>TX_ssDesc_Xls_Save</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 97/2000/XP/2003 Workbook(*.xls)</translation>
     </message>
     <message>
         <source>dBase File(*.dbf)</source>
@@ -7173,17 +7177,17 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Microsoft Excel 2007/2010 Workbook(*.xlsx)</source>
         <comment>TX_ssDesc_Beta_Xlsx_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 2007/2010 Workbook(*.xlsx)</translation>
     </message>
     <message>
         <source>PRN(Fixed Width)(*.prn)</source>
         <comment>TX_ssDesc_Prn_</comment>
-        <translation type="unfinished"></translation>
+        <translation>PRN(Lățime fixă)(*.prn)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
         <comment>TX_ssDesc_Uof_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format document Office chinezesc(*.uof)</translation>
     </message>
     <message>
         <source>Single Web Page Files(*.mht; *.mhtml)</source>
@@ -7263,7 +7267,8 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source> · Macro
 </source>
         <comment>TX_Save_Html_Warning_VBA</comment>
-        <translation type="unfinished"></translation>
+        <translation>   Macrocomandă
+</translation>
     </message>
     <message>
         <source> · PivotTable
@@ -7293,7 +7298,8 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source> · Comment
 </source>
         <comment>TX_Save_Html_Warning_Comment</comment>
-        <translation type="unfinished"></translation>
+        <translation>   Comentariu
+</translation>
     </message>
     <message>
         <source> · Protect Workbook
@@ -7322,12 +7328,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Microsoft Excel 2007/2010 Macro-Enabled Workbook(*.xlsm)</source>
         <comment>TX_ssDesc_Beta_Xlsm_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 2007/2010 Macro-Enabled Workbook(*.xlsm)</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Workbook(*.xlsx; *.xlsm)</source>
         <comment>TX_ssDesc_Xlsx_Open</comment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Excel 2007/2010 Workbook(*.xlsx; *.xlsm)</translation>
     </message>
     <message>
         <source>A formula or sheet you want to move or copy contains the name &apos;%s&apos;,which already exists on the destination worksheet.Do you want to use this version of the name?
@@ -7365,12 +7371,12 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Field</source>
         <comment>TX_Range_Value_Field</comment>
-        <translation type="unfinished"></translation>
+        <translation>Câmp</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
         <comment>TX_ssDesc_Etx</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere WPS Spreadsheets 2007/2010(*.etx)</translation>
     </message>
     <message>
         <source>Query Files(*.iqy; *.dqy)</source>
@@ -7459,17 +7465,17 @@ This backup will be saved to(%s)</source>
     <message>
         <source>AaBbCcYyZz</source>
         <comment>TX_DEFAULT_FMT</comment>
-        <translation type="unfinished"></translation>
+        <translation>AaBbCcYyZz</translation>
     </message>
     <message>
         <source>Comment</source>
         <comment>TX_PDFCOMMENT_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comentariu</translation>
     </message>
     <message>
         <source>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</source>
         <comment>TX_ROTARCHAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</translation>
     </message>
     <message>
         <source>
@@ -7477,27 +7483,29 @@ This backup will be saved to(%s)</source>
 [Cell Comments]
 </source>
         <comment>TX_RevisionCmtBoxCmtHeader</comment>
-        <translation type="unfinished"></translation>
+        <translation>
+
+[Comentarii celulă]</translation>
     </message>
     <message>
         <source>Cell:</source>
         <comment>TX_PrintComment_Cell</comment>
-        <translation type="unfinished"></translation>
+        <translation>Celulă:</translation>
     </message>
     <message>
         <source>Comment:</source>
         <comment>TX_PrintComment_Comment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comentariu:</translation>
     </message>
     <message>
         <source>/</source>
         <comment>TX_DateSeparator</comment>
-        <translation type="unfinished"></translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>Preview</source>
         <comment>TX_Preview_Format</comment>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare</translation>
     </message>
     <message>
         <source>No Format Set</source>
@@ -7510,37 +7518,37 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Normal</source>
         <comment>TX_StyleName_Normal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Comma</source>
         <comment>TX_StyleName_COMMA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Virgulă</translation>
     </message>
     <message>
         <source>Currency</source>
         <comment>TX_StyleName_CURRENCY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Monedă</translation>
     </message>
     <message>
         <source>Percent</source>
         <comment>TX_StyleName_PERCENT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Procent</translation>
     </message>
     <message>
         <source>Comma[0]</source>
         <comment>TX_StyleName_COMMA0</comment>
-        <translation type="unfinished"></translation>
+        <translation>Virgulă[0]</translation>
     </message>
     <message>
         <source>Currency[0]</source>
         <comment>TX_StyleName_CURRENCY0</comment>
-        <translation type="unfinished"></translation>
+        <translation>Monedă[0]</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>TX_StyleName_HYPERLINK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Followed Hyperlink</source>
@@ -7550,107 +7558,107 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Bold</source>
         <comment>TX_FontName_Bold1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldin</translation>
     </message>
     <message>
         <source>Bold</source>
         <comment>TX_FontName_Bold2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldin</translation>
     </message>
     <message>
         <source>Bold</source>
         <comment>TX_FontName_Bold3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldin</translation>
     </message>
     <message>
         <source>bold</source>
         <comment>TX_FontName_Bold4</comment>
-        <translation type="unfinished"></translation>
+        <translation>aldin</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>TX_FontName_Italic1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cursiv</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>TX_FontName_Italic2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cursiv</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>TX_FontName_Italic3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cursiv</translation>
     </message>
     <message>
         <source>italic</source>
         <comment>TX_FontName_Italic4</comment>
-        <translation type="unfinished"></translation>
+        <translation>cursiv</translation>
     </message>
     <message>
         <source>Bold Italic</source>
         <comment>TX_FontName_BoldItalic_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldin cursiv</translation>
     </message>
     <message>
         <source>Bold Italic</source>
         <comment>TX_FontName_BoldItalic</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldin cursiv</translation>
     </message>
     <message>
         <source>Bold Italic</source>
         <comment>TX_FontName_BoldItalic2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldin cursiv</translation>
     </message>
     <message>
         <source>Regular</source>
         <comment>TX_FontName_Regular1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obișnuit</translation>
     </message>
     <message>
         <source>Regular</source>
         <comment>TX_FontName_Regular2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obișnuit</translation>
     </message>
     <message>
         <source>regular</source>
         <comment>TX_FontName_Regular3</comment>
-        <translation type="unfinished"></translation>
+        <translation>obișnuit</translation>
     </message>
     <message>
         <source>Page %d</source>
         <comment>TX_PageNumberString1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagina %d</translation>
     </message>
     <message>
         <source>Page %d</source>
         <comment>TX_PageNumberString1_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagina %d</translation>
     </message>
     <message>
         <source>Page %d of %d</source>
         <comment>TX_PageNumberString2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagina %d de %d</translation>
     </message>
     <message>
         <source>Page %d of %d</source>
         <comment>TX_PageNumberString2_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagina %d de %d</translation>
     </message>
     <message>
         <source>Normal</source>
         <comment>TX_FontName_Regular4</comment>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Bold Italic</source>
         <comment>TX_FontName_BoldItalic3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldin cursiv</translation>
     </message>
     <message>
         <source>Bold</source>
         <comment>TX_FontName_Bold5</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldin</translation>
     </message>
 </context>
 <context>
@@ -7761,7 +7769,7 @@ If you do not wish to use a formula, insert a single quotation mark before your 
     <message>
         <source>Do you want to replace the contents of the destination cells?</source>
         <comment>TX_ERROR_CutPasteRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doriți să înlocuiți conținutul celulelor destinație?</translation>
     </message>
     <message>
         <source>Please exit editing cell or formula first before closing the window.</source>
@@ -7792,17 +7800,17 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
         <comment>TX_Help_NoHelpFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișierele de Ajutor nu s-au găsit, sau fișierele de Ajutor au întâmpinat o eroare.</translation>
     </message>
     <message>
         <source>Enter</source>
         <comment>TX_Editing_Input</comment>
-        <translation type="unfinished"></translation>
+        <translation>Enter</translation>
     </message>
     <message>
         <source> Edit</source>
         <comment>TX_Editing_Edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Editare</translation>
     </message>
     <message>
         <source>Selecting Range</source>
@@ -7812,7 +7820,7 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>OVR</source>
         <comment>TX_Editing_Repalce</comment>
-        <translation type="unfinished"></translation>
+        <translation>OVR</translation>
     </message>
     <message>
         <source>Click to follow the link.</source>
@@ -7822,7 +7830,7 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Width</source>
         <comment>TX_SizeTip_Col</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lățime</translation>
     </message>
     <message>
         <source>Height</source>
@@ -7916,7 +7924,9 @@ The values which can be typed here is restricted by other users.</source>
 
 Continue ?</source>
         <comment>TX_Continue</comment>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Se continuă?</translation>
     </message>
     <message>
         <source>Parameter error in Data Validation.</source>
@@ -7931,17 +7941,17 @@ Continue ?</source>
     <message>
         <source>The Value contains an error now. Do you want to continue?</source>
         <comment>TX_DV_WholeNumberErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea conține acum o eroare. Doriți să continuați?</translation>
     </message>
     <message>
         <source>The Minumum contains an error now. Do you want to continue?</source>
         <comment>TX_DV_WholeNumberErr1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minimul conține acum o eroare. Doriți să continuați?</translation>
     </message>
     <message>
         <source>The Maximum contains an error now. Do you want to continue?</source>
         <comment>TX_DV_WholeNumberErr2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maximul conține acum o eroare. Doriți să continuați?</translation>
     </message>
     <message>
         <source>The Value must be a integer, numeric expression, or reference to a cell containing  numeric values.</source>
@@ -7966,17 +7976,17 @@ Continue ?</source>
     <message>
         <source>You must enter a Value.</source>
         <comment>TX_DV_EmptyWholeNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o valoare.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
         <comment>TX_DV_EmptyWholeNumber1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un minim.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
         <comment>TX_DV_EmptyWholeNumber2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un maxim.</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
@@ -7986,7 +7996,7 @@ Continue ?</source>
     <message>
         <source>The Maximum must be greater than or equal to the Minimum.</source>
         <comment>TX_DV_WholeNumberValueErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maximul trebuie să fie mai mare decât sau egal cu minimul.</translation>
     </message>
     <message>
         <source>Cannot find the named range you specified.</source>
@@ -8001,12 +8011,12 @@ Continue ?</source>
     <message>
         <source>You must enter a Source.</source>
         <comment>TX_DV_EmptyList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o sursă.</translation>
     </message>
     <message>
         <source>The Date contains an error now. Do you want to continue?</source>
         <comment>TX_DV_DateErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Data conține acum o eroare. Doriți să continuați?</translation>
     </message>
     <message>
         <source>The Start Date contains an error now. Do you want to continue?</source>
@@ -8036,7 +8046,7 @@ Continue ?</source>
     <message>
         <source>You must enter a Date.</source>
         <comment>TX_DV_EmptyDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o dată.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
@@ -8061,7 +8071,7 @@ Continue ?</source>
     <message>
         <source>The Time contains an error now. Do you want to continue?</source>
         <comment>TX_DV_TimeErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ora conține acum o eroare. Doriți să continuați?</translation>
     </message>
     <message>
         <source>The Start Time contains an error now. Do you want to continue?</source>
@@ -8091,7 +8101,7 @@ Continue ?</source>
     <message>
         <source>You must enter a Time.</source>
         <comment>TX_DV_EmptyTime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o oră.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
@@ -8116,7 +8126,7 @@ Continue ?</source>
     <message>
         <source>The Text length contains an error now. Do you want to continue?</source>
         <comment>TX_DV_TextLengthErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lungimea textului conține acum o eroare. Doriți să continuați?</translation>
     </message>
     <message>
         <source>The Text length must be a integer, numeric expression, or reference to a cell contains numeric values.</source>
@@ -8131,17 +8141,17 @@ Continue ?</source>
     <message>
         <source>You must enter a Text length.</source>
         <comment>TX_DV_EmptyTextLength</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o lungime text.</translation>
     </message>
     <message>
         <source>You must enter a formula.</source>
         <comment>TX_DV_EmptyFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o formulă.</translation>
     </message>
     <message>
         <source>The Formula contains an error now. Do you want to continue?</source>
         <comment>TX_DV_FormulaErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formula conține acum o eroare. Doriți să continuați?</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
@@ -8176,7 +8186,7 @@ Continue ?</source>
     <message>
         <source>Cells</source>
         <comment>TX_SETCELLSCAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Celule</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
@@ -8189,17 +8199,17 @@ Continue ?</source>
     <message>
         <source>Enter</source>
         <comment>TX_FORMULAEDIT_ENTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Enter</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>TX_FORMULAEDIT_CANCEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Open File</source>
         <comment>TX_OPENFILE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deschide fișier</translation>
     </message>
     <message>
         <source>Al</source>
@@ -8214,7 +8224,7 @@ Continue ?</source>
     <message>
         <source>Angle</source>
         <comment>TX_ParaInfo_003</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unghi</translation>
     </message>
     <message>
         <source>Array</source>
@@ -8244,7 +8254,7 @@ Continue ?</source>
     <message>
         <source>Bottom</source>
         <comment>TX_ParaInfo_009</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dedesubt</translation>
     </message>
     <message>
         <source>Col_index_num</source>
@@ -8269,7 +8279,7 @@ Continue ?</source>
     <message>
         <source>Criteria</source>
         <comment>TX_ParaInfo_014</comment>
-        <translation type="unfinished"></translation>
+        <translation>Criteriu</translation>
     </message>
     <message>
         <source>Date_text</source>
@@ -8279,7 +8289,7 @@ Continue ?</source>
     <message>
         <source>Day</source>
         <comment>TX_ParaInfo_016</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zi</translation>
     </message>
     <message>
         <source>Dividend</source>
@@ -8319,17 +8329,17 @@ Continue ?</source>
     <message>
         <source>Height</source>
         <comment>TX_ParaInfo_024</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înălțime</translation>
     </message>
     <message>
         <source>Holidays</source>
         <comment>TX_ParaInfo_025</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vacanțe</translation>
     </message>
     <message>
         <source>Hour</source>
         <comment>TX_ParaInfo_026</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oră</translation>
     </message>
     <message>
         <source>Index_num</source>
@@ -8344,7 +8354,7 @@ Continue ?</source>
     <message>
         <source>K</source>
         <comment>TX_ParaInfo_029</comment>
-        <translation type="unfinished"></translation>
+        <translation>K</translation>
     </message>
     <message>
         <source>Known_x&apos;s</source>
@@ -8399,12 +8409,12 @@ Continue ?</source>
     <message>
         <source>Minute</source>
         <comment>TX_ParaInfo_040</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minut</translation>
     </message>
     <message>
         <source>Month</source>
         <comment>TX_ParaInfo_041</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lună</translation>
     </message>
     <message>
         <source>New_text</source>
@@ -8424,7 +8434,7 @@ Continue ?</source>
     <message>
         <source>Number</source>
         <comment>TX_ParaInfo_045</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr</translation>
     </message>
     <message>
         <source>Number_times</source>
@@ -8434,12 +8444,12 @@ Continue ?</source>
     <message>
         <source>Number</source>
         <comment>TX_ParaInfo_047</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr</translation>
     </message>
     <message>
         <source>Number</source>
         <comment>TX_ParaInfo_048</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr</translation>
     </message>
     <message>
         <source>Old_text</source>
@@ -9349,7 +9359,7 @@ Continue ?</source>
     <message>
         <source>Chart </source>
         <comment>TX_CHECKSPELLING_FROMCHART</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă </translation>
     </message>
     <message>
         <source>This function is provided in WPS Office 2009 Professional Edition.</source>
@@ -9374,7 +9384,7 @@ Continue ?</source>
     <message>
         <source>Sheet</source>
         <comment>TXShell_ProtectSheet_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Foaie</translation>
     </message>
     <message>
         <source>[Disabled]</source>
@@ -9395,23 +9405,24 @@ Data</source>
     <message>
         <source>Validation</source>
         <comment>TXShell_Validation_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Validare</translation>
     </message>
     <message>
         <source>Assign Macro</source>
         <comment>TXShell_AssignMacro_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Atribuie macrocomandă</translation>
     </message>
     <message>
         <source>Spell 
 Check</source>
         <comment>TX_SpellCheck_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verificare 
+ortografie</translation>
     </message>
     <message>
         <source>It&apos;s not allowed to open the file when editing the cell.</source>
         <comment>TX_CannotOpenFile_Edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu este permisă deschiderea fișierului când se editează celula.</translation>
     </message>
     <message>
         <source>Accept or Reject Changes</source>
@@ -9446,7 +9457,7 @@ Check</source>
     <message>
         <source>Search</source>
         <comment>ET_Search_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Caută</translation>
     </message>
     <message>
         <source>The number in the cell is a text value, or has an apostrophe ahead of the value.</source>
@@ -9461,7 +9472,7 @@ Check</source>
     <message>
         <source>Label</source>
         <comment>TX_FCItemName_Label</comment>
-        <translation type="unfinished"></translation>
+        <translation>Etichetă</translation>
     </message>
     <message>
         <source>Group Box</source>
@@ -9471,12 +9482,12 @@ Check</source>
     <message>
         <source>Botton</source>
         <comment>TX_FCItemName_Button</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dedesubt</translation>
     </message>
     <message>
         <source>Check Box</source>
         <comment>TX_FCItemName_CheckBox</comment>
-        <translation type="unfinished"></translation>
+        <translation>Casetă validare</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -9616,7 +9627,7 @@ Check</source>
     <message>
         <source>is any real number equal to or greater than 1</source>
         <comment>TX_ParaDesc_003</comment>
-        <translation type="unfinished"></translation>
+        <translation>este un număr real egal cu sau mai mare decât 1</translation>
     </message>
     <message>
         <source>is the row number to use in the cell reference: Row_number =1 for row</source>
@@ -12222,12 +12233,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Plural 1</source>
         <comment>TX_ParaInfo_206</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plural 1</translation>
     </message>
     <message>
         <source>Plural 2</source>
         <comment>TX_ParaInfo_207</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plural 2</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen?</source>
@@ -12302,17 +12313,17 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Field Name</source>
         <comment>TX_ParaInfo_210</comment>
-        <translation type="unfinished"></translation>
+        <translation>Câmp nume</translation>
     </message>
     <message>
         <source>Field Value</source>
         <comment>TX_ParaInfo_211</comment>
-        <translation type="unfinished"></translation>
+        <translation>Câmp valoare</translation>
     </message>
     <message>
         <source>Import Text File</source>
         <comment>TX_IMPORT_TEXTFILE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Importă fișier text</translation>
     </message>
     <message>
         <source>All Files(*.*),*.*,Text File(*.prn;*.txt;*.csv),*.prn;*.txt;*.csv</source>
@@ -12397,12 +12408,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Stop Recording</source>
         <comment>TX_RecordMacro_Stop</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oprește macrocomanda</translation>
     </message>
     <message>
         <source>Record Macro</source>
         <comment>TX_RecordMacro_Start</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrare macrocomandă</translation>
     </message>
     <message>
         <source>You cannot begin synchronizing changes or display the Error Checking dialog box if you are already in the process of synchronizing changes or checking errors.</source>
@@ -12410,7 +12421,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>The error check is complete for the entire sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificarea erorilor este terminată pentru întreaga foaie.</translation>
     </message>
     <message>
         <source>Logical_test</source>
@@ -12460,12 +12471,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_226</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoare</translation>
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_227</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nume_text</translation>
     </message>
     <message>
         <source>Data_type_num</source>
@@ -12475,7 +12486,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_229</comment>
-        <translation type="unfinished"></translation>
+        <translation>Referință</translation>
     </message>
     <message>
         <source>Cancel_close</source>
@@ -12485,7 +12496,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_231</comment>
-        <translation type="unfinished"></translation>
+        <translation>Referință</translation>
     </message>
     <message>
         <source>No_tool</source>
@@ -12960,12 +12971,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_326</comment>
-        <translation type="unfinished"></translation>
+        <translation>Referință</translation>
     </message>
     <message>
         <source>Step</source>
         <comment>TX_ParaInfo_327</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pas</translation>
     </message>
     <message>
         <source>Save_logical</source>
@@ -12985,12 +12996,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>From</source>
         <comment>TX_ParaInfo_331</comment>
-        <translation type="unfinished"></translation>
+        <translation>De la</translation>
     </message>
     <message>
         <source>To</source>
         <comment>TX_ParaInfo_332</comment>
-        <translation type="unfinished"></translation>
+        <translation>La</translation>
     </message>
     <message>
         <source>Copies</source>
@@ -13005,7 +13016,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Preview</source>
         <comment>TX_ParaInfo_335</comment>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare</translation>
     </message>
     <message>
         <source>Print_what</source>
@@ -13015,7 +13026,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Color</source>
         <comment>TX_ParaInfo_337</comment>
-        <translation type="unfinished"></translation>
+        <translation>Culoare</translation>
     </message>
     <message>
         <source>Feed</source>
@@ -13025,7 +13036,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Quality</source>
         <comment>TX_ParaInfo_339</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calitate</translation>
     </message>
     <message>
         <source>Y_resolution</source>
@@ -13035,7 +13046,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Selection</source>
         <comment>TX_ParaInfo_341</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selecție</translation>
     </message>
     <message>
         <source>Printer_text</source>
@@ -13045,7 +13056,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Print_to_file</source>
         <comment>TX_ParaInfo_343</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipărește_în_fișier</translation>
     </message>
     <message>
         <source>Collate</source>
@@ -13055,7 +13066,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Filename</source>
         <comment>TX_ParaInfo_345</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nume fișier</translation>
     </message>
     <message>
         <source>Ignore_print_area</source>
@@ -13313,12 +13324,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>&amp;Undo</source>
         <comment>TX_Undo_Undo</comment>
-        <translation type="unfinished"></translation>
+        <translation>An&amp;ulează</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
         <comment>TX_Undo_Redo</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Refă</translation>
     </message>
     <message>
         <source>Typing %s in &quot;%s&quot;</source>
@@ -13328,62 +13339,62 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Can&apos;t &amp;Undo </source>
         <comment>TX_Undo_CannotUndo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate an&amp;ula</translation>
     </message>
     <message>
         <source>Can&apos;t &amp;Redo</source>
         <comment>TX_Undo_CannotRedo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate &amp;Reface</translation>
     </message>
     <message>
         <source>&amp;Undo %s </source>
         <comment>TX_Undo_UndoPrefix</comment>
-        <translation type="unfinished"></translation>
+        <translation>An&amp;ulează %s </translation>
     </message>
     <message>
         <source>&amp;Redo %s </source>
         <comment>TX_Undo_RedoPrefix</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Refă %s </translation>
     </message>
     <message>
         <source>Paste Special</source>
         <comment>TX_Undo_PasteSpecial</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lipește special</translation>
     </message>
     <message>
         <source>Replace</source>
         <comment>TX_Undo_Replace</comment>
-        <translation type="unfinished">Înlocuieşte</translation>
+        <translation>Înlocuieşte</translation>
     </message>
     <message>
         <source>Copy Cells</source>
         <comment>TX_Undo_CopyCells</comment>
-        <translation type="unfinished">Copiază celule</translation>
+        <translation>Copiază celule</translation>
     </message>
     <message>
         <source>Series</source>
         <comment>TX_Undo_FillSeries</comment>
-        <translation type="unfinished">Serie</translation>
+        <translation>Serie</translation>
     </message>
     <message>
         <source>Down</source>
         <comment>TX_Undo_FillDown</comment>
-        <translation type="unfinished">Jos</translation>
+        <translation>Jos</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TX_Undo_FillRight</comment>
-        <translation type="unfinished">Dreapta</translation>
+        <translation>Dreapta</translation>
     </message>
     <message>
         <source>Up</source>
         <comment>TX_Undo_FillUp</comment>
-        <translation type="unfinished">Sus</translation>
+        <translation>Sus</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TX_Undo_FillLeft</comment>
-        <translation type="unfinished">Stânga</translation>
+        <translation>Stânga</translation>
     </message>
     <message>
         <source>Across Worksheets</source>
@@ -13393,32 +13404,32 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Clear</source>
         <comment>TX_Undo_ClearFormats</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță</translation>
     </message>
     <message>
         <source>Delete Comments</source>
         <comment>TX_Undo_ClearComments</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge comentariile</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>TX_Undo_ClearContents</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>TX_Undo_ClearAll</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță</translation>
     </message>
     <message>
         <source>Delete</source>
         <comment>TX_Undo_Delete</comment>
-        <translation type="unfinished">Şterge</translation>
+        <translation>Şterge</translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>TX_Undo_Paste</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lipește</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
@@ -13428,37 +13439,37 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Insert Cells</source>
         <comment>TX_Undo_InsertCells</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu celule</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
         <comment>TX_Undo_InsertCopiedCells</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu celulele copiate</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
         <comment>TX_Undo_InsertCutCells</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu celulele tăiate</translation>
     </message>
     <message>
         <source>Insert Columns</source>
         <comment>TX_Undo_InsertColumns</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu coloane</translation>
     </message>
     <message>
         <source>Insert Rows</source>
         <comment>TX_Undo_InsertRows</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu rânduri</translation>
     </message>
     <message>
         <source>Define Name</source>
         <comment>TX_Undo_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Definește numele</translation>
     </message>
     <message>
         <source>Insert Function</source>
         <comment>TX_Undo_Function</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu funcție</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -13473,12 +13484,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Add Legend</source>
         <comment>TX_Undo_ChartShowLegend</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă legendă</translation>
     </message>
     <message>
         <source>Delete Legend</source>
         <comment>TX_Undo_ChartHideLegend</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge legenda</translation>
     </message>
     <message>
         <source>Series in Rows</source>
@@ -13518,62 +13529,62 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Comment</source>
         <comment>TX_Undo_Comment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comentariu</translation>
     </message>
     <message>
         <source>Create Name</source>
         <comment>TX_Undo_NameCreate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Creează nume</translation>
     </message>
     <message>
         <source>Style</source>
         <comment>TX_Undo_FormatStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>Format Cells</source>
         <comment>TX_Undo_FormatCells</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formatează celulele</translation>
     </message>
     <message>
         <source>Height</source>
         <comment>TX_Undo_RowHeight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înălțime</translation>
     </message>
     <message>
         <source>Width</source>
         <comment>TX_Undo_ColumnWidth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lățime</translation>
     </message>
     <message>
         <source>Standard Width</source>
         <comment>TX_Undo_StandardWidth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lățime standard</translation>
     </message>
     <message>
         <source>Hide Sheet</source>
         <comment>TX_Undo_HideSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde foaia</translation>
     </message>
     <message>
         <source>Unhide Sheets</source>
         <comment>TX_Undo_UnhideSheets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arată foaia</translation>
     </message>
     <message>
         <source>Rename Sheet</source>
         <comment>TX_Undo_RenameSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redenumește foaia</translation>
     </message>
     <message>
         <source>Background</source>
         <comment>TX_Undo_Background</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fundal</translation>
     </message>
     <message>
         <source>Tab Color</source>
         <comment>TX_Undo_TabColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Culoare filă</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
@@ -13583,22 +13594,22 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Hide Row</source>
         <comment>TX_Undo_HideRow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde rândul</translation>
     </message>
     <message>
         <source>Hide Column</source>
         <comment>TX_Undo_HideColumn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde coloana</translation>
     </message>
     <message>
         <source>Unhide Rows</source>
         <comment>TX_Undo_UnhideRows</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arată rândul</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
         <comment>TX_Undo_UnhideColumns</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arată coloana</translation>
     </message>
     <message>
         <source>AutoFit</source>
@@ -13613,7 +13624,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Sort</source>
         <comment>TX_Undo_DataSort</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sortează</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -13623,7 +13634,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Show All</source>
         <comment>TX_Undo_ShowAll</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arată tot</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -13643,22 +13654,22 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Group</source>
         <comment>TX_Undo_DataGroup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grupează</translation>
     </message>
     <message>
         <source>Ungroup</source>
         <comment>TX_Undo_DataUngroup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Degrupează</translation>
     </message>
     <message>
         <source>Hide Detail</source>
         <comment>TX_Undo_HideDetail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde detaliul</translation>
     </message>
     <message>
         <source>Show Detail</source>
         <comment>TX_Undo_ShowDetail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arată detaliul</translation>
     </message>
     <message>
         <source>Clear Outline</source>
@@ -13683,7 +13694,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Average</source>
         <comment>TX_Undo_Average</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medie</translation>
     </message>
     <message>
         <source>Count</source>
@@ -13693,12 +13704,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Max</source>
         <comment>TX_Undo_Max</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maxim</translation>
     </message>
     <message>
         <source>Min</source>
         <comment>TX_Undo_Min</comment>
-        <translation type="unfinished"></translation>
+        <translation>Maxim</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -13718,37 +13729,37 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Font</source>
         <comment>TX_Undo_Font</comment>
-        <translation type="unfinished"></translation>
+        <translation>Font</translation>
     </message>
     <message>
         <source>Bold</source>
         <comment>TX_Undo_Bold</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldin</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>TX_Undo_Italic</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cursiv</translation>
     </message>
     <message>
         <source>Underline</source>
         <comment>TX_Undo_Underline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subliniat</translation>
     </message>
     <message>
         <source>Font Color</source>
         <comment>TX_Undo_FontColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Culoare font</translation>
     </message>
     <message>
         <source>Horizontal Alignment</source>
         <comment>TX_Undo_AlignmentHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aliniament orizontal</translation>
     </message>
     <message>
         <source>Alignment</source>
         <comment>TX_Undo_Alignment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aliniament</translation>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -13758,7 +13769,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Currency</source>
         <comment>TX_Undo_Currency</comment>
-        <translation type="unfinished"></translation>
+        <translation>Monedă</translation>
     </message>
     <message>
         <source>Percent Style</source>
@@ -13773,42 +13784,42 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Increase Decimal</source>
         <comment>TX_Undo_IncreaseDecimal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Crește zecimal</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
         <comment>TX_Undo_DecreaseDecimal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Descrește zecimal</translation>
     </message>
     <message>
         <source>Format Cells</source>
         <comment>TX_Undo_IncreaseIndent</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formatare celule</translation>
     </message>
     <message>
         <source>Zoom</source>
         <comment>TX_Undo_ZoomCombo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Fill Color</source>
         <comment>TX_Undo_FillColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umple culoarea</translation>
     </message>
     <message>
         <source>Line Color</source>
         <comment>TX_Undo_LineColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Culoare linie</translation>
     </message>
     <message>
         <source>Shadow</source>
         <comment>TX_Undo_ShadowColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umbră</translation>
     </message>
     <message>
         <source>3-D Color</source>
         <comment>TX_Undo_ThreeDColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Culoare 3-D</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
@@ -13828,27 +13839,27 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Recent Font Color</source>
         <comment>TX_Undo_RecentFontColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Culoare font recentă</translation>
     </message>
     <message>
         <source>Name Box</source>
         <comment>TX_Undo_FormulaBarNameBox</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nume casetă</translation>
     </message>
     <message>
         <source>Enter</source>
         <comment>TX_Undo_FormulaBarEnter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Enter</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>TX_Undo_FormulaBarCancel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Insert Function</source>
         <comment>TX_Undo_FormulaBarInsertFunction</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu funcție</translation>
     </message>
     <message>
         <source>Recent Borders</source>
@@ -13863,7 +13874,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Insert Symbol</source>
         <comment>TX_Undo_InsertSymbol</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu simbol</translation>
     </message>
     <message>
         <source>Auto Fill</source>
@@ -13913,27 +13924,27 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Print Preview Zoom</source>
         <comment>TX_Undo_PrintPreviewZoomCombo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zoom previzualizare tipărire</translation>
     </message>
     <message>
         <source>Import Data</source>
         <comment>TX_Undo_DBE_ImportData</comment>
-        <translation type="unfinished"></translation>
+        <translation>Importă data</translation>
     </message>
     <message>
         <source>Refresh Data</source>
         <comment>TX_Undo_DBE_RefreshData</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reâmprospătează data</translation>
     </message>
     <message>
         <source>Import Text File</source>
         <comment>TX_Undo_DBE_ImportTextFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Importă fișier text</translation>
     </message>
     <message>
         <source>Text to Number</source>
         <comment>TX_Undo_TextToNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text la număr</translation>
     </message>
     <message>
         <source>Move Chart Item</source>
@@ -13953,17 +13964,17 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Adjust Chart Settings</source>
         <comment>TX_Undo_ChartOptions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajustează configurările diagramei</translation>
     </message>
     <message>
         <source>Bring to Front</source>
         <comment>TX_Undo_ChartBringToFront</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adu în față</translation>
     </message>
     <message>
         <source>Send to Back</source>
         <comment>TX_Undo_ChartSendToBack</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trimite în spate</translation>
     </message>
     <message>
         <source>Clear Chart Item</source>
@@ -13973,7 +13984,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Cut</source>
         <comment>TX_Undo_Cut</comment>
-        <translation type="unfinished"></translation>
+        <translation>Taie</translation>
     </message>
     <message>
         <source>Expand/Fold</source>
@@ -13983,17 +13994,17 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Show Levels</source>
         <comment>TX_Undo_GroupDisplayLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arată nivelurile</translation>
     </message>
     <message>
         <source>Validation</source>
         <comment>TX_Undo_Validation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Validare</translation>
     </message>
     <message>
         <source>Recalculate</source>
         <comment>TX_Undo_RecalculateBook</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recalculează</translation>
     </message>
     <message>
         <source>Datasheet</source>
@@ -14003,7 +14014,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Insert Picture</source>
         <comment>TX_Undo_DlgPictureTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu poză</translation>
     </message>
     <message>
         <source>Add Trendline</source>
@@ -14018,12 +14029,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Remove duplicates</source>
         <comment>TX_Undo_RepeatWord_Delete</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elimină duplicatele</translation>
     </message>
     <message>
         <source>Highlight duplicates</source>
         <comment>TX_Undo_RepeatWordRemind</comment>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiază duplicatele</translation>
     </message>
 </context>
 <context>
@@ -14031,62 +14042,62 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Blank Template</source>
         <comment>et_BlackTemplate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șablon gol</translation>
     </message>
     <message>
         <source>AaBbCc</source>
         <comment>et_EnglishString</comment>
-        <translation type="unfinished"></translation>
+        <translation>AaBbCc</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>et_LocalString</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Accepted changes</source>
         <comment>et_sAccept</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modificări acceptate</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
         <comment>et_sAddDict</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă dicționar personalizat</translation>
     </message>
     <message>
         <source>Op&amp;tions &lt;&lt;</source>
         <comment>et_sAdvancedModeCap</comment>
-        <translation type="unfinished"></translation>
+        <translation>Op&amp;țiuni &lt;&lt;</translation>
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
         <comment>et_sAdvanceName</comment>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;vansat...</translation>
     </message>
     <message>
         <source>(All)</source>
         <comment>et_sAll</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Tot)</translation>
     </message>
     <message>
         <source>Any value</source>
         <comment>et_sAny</comment>
-        <translation type="unfinished">Orice valuare</translation>
+        <translation>Orice valuare</translation>
     </message>
     <message>
         <source>Apply</source>
         <comment>et_sApply</comment>
-        <translation type="unfinished">Aplică</translation>
+        <translation>Aplică</translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
         <comment>et_sBadConfirmationPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation>Confirmarea parolei nu este identică.</translation>
     </message>
     <message>
         <source>Error in filter conditions.</source>
         <comment>et_sBadFilterCondition</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare în condiționările filtrului.</translation>
     </message>
     <message>
         <source>The password you supplied is not correct. Verify that the CAPS LOCK key is off and be sure to use the correct capitalization.</source>
@@ -14106,7 +14117,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>between</source>
         <comment>et_sBetween</comment>
-        <translation type="unfinished"></translation>
+        <translation>între</translation>
     </message>
     <message>
         <source>(Blank)</source>
@@ -14121,7 +14132,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Bold</source>
         <comment>et_sBold</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aldin</translation>
     </message>
     <message>
         <source>Border</source>
@@ -14131,47 +14142,47 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Text</source>
         <comment>et_sBorderText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Bottom</source>
         <comment>et_sBottom</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dedesubt</translation>
     </message>
     <message>
         <source>Bottom Aligned</source>
         <comment>et_sBottomAligned</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aliniat dedesubt</translation>
     </message>
     <message>
         <source>(Custom...)</source>
         <comment>et_sBracketCustom</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Personalizat...)</translation>
     </message>
     <message>
         <source>*.*</source>
         <comment>et_sBrowseDefaultExt</comment>
-        <translation type="unfinished"></translation>
+        <translation>*.*</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>et_sBrowseFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele(*.*)</translation>
     </message>
     <message>
         <source>$00000304</source>
         <comment>et_sBrowseOption</comment>
-        <translation type="unfinished"></translation>
+        <translation>$00000304</translation>
     </message>
     <message>
         <source>Browse</source>
         <comment>et_sBrowseTitile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Navighează</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>et_sCancel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Cannot show the properties dialog box because the printer encountered an error.</source>
@@ -14204,17 +14215,17 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>&amp;Advanced</source>
         <comment>et_sCaptionMore</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Avansat</translation>
     </message>
     <message>
         <source>&amp;Normal</source>
         <comment>et_sCaptionNoMore</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Normal</translation>
     </message>
     <message>
         <source> - Reference:</source>
         <comment>et_sCaptionReference</comment>
-        <translation type="unfinished"></translation>
+        <translation> - Referință:</translation>
     </message>
     <message>
         <source>Text Import Wizard - Step %d of 3</source>
@@ -14224,7 +14235,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Center</source>
         <comment>et_sCenter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Centru</translation>
     </message>
     <message>
         <source>Across Center</source>
@@ -14254,12 +14265,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Close</source>
         <comment>et_sClose</comment>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>et_sCloseDialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>Drop Column Fields Here</source>
@@ -14274,32 +14285,32 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Col %s</source>
         <comment>et_sColField</comment>
-        <translation type="unfinished"></translation>
+        <translation>Col %s</translation>
     </message>
     <message>
         <source>(Col %s) %s</source>
         <comment>et_sColField2</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Col %s) %s</translation>
     </message>
     <message>
         <source>Color</source>
         <comment>et_sColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Culoare</translation>
     </message>
     <message>
         <source>Column %s</source>
         <comment>et_sCOLUMN_FORMAT_STRING</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coloană %s</translation>
     </message>
     <message>
         <source>Comma</source>
         <comment>et_sComma</comment>
-        <translation type="unfinished"></translation>
+        <translation>Virgulă</translation>
     </message>
     <message>
         <source>Comma[0]</source>
         <comment>et_sComma0</comment>
-        <translation type="unfinished"></translation>
+        <translation>Virgulă[0]</translation>
     </message>
     <message>
         <source>Condition &amp;1</source>
@@ -14319,7 +14330,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Confirmation password is not identical.</source>
         <comment>et_sConfirmError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Confirmarea parolei nu este identică.</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
@@ -14329,7 +14340,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>New Custom Dictionary</source>
         <comment>et_sCreateDict</comment>
-        <translation type="unfinished"></translation>
+        <translation>Următorul dicționar personalizat</translation>
     </message>
     <message>
         <source>Press Alt+Enter to insert a new line in Formula Showing Bar.</source>
@@ -14339,22 +14350,22 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Currency</source>
         <comment>et_sCurrency</comment>
-        <translation type="unfinished"></translation>
+        <translation>Monedă</translation>
     </message>
     <message>
         <source>Currency[0]</source>
         <comment>et_sCurrency0</comment>
-        <translation type="unfinished"></translation>
+        <translation>Monedă[0]</translation>
     </message>
     <message>
         <source>Customize</source>
         <comment>et_sCustom</comment>
-        <translation type="unfinished"></translation>
+        <translation>Personalizează</translation>
     </message>
     <message>
         <source>Custom Color</source>
         <comment>et_sCustomColorName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Culoare personalizată</translation>
     </message>
     <message>
         <source>Drop Data Items Here</source>
@@ -14369,7 +14380,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Date</source>
         <comment>et_sDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
@@ -14379,7 +14390,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Decimal</source>
         <comment>et_sDecimal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zecimal</translation>
     </message>
     <message>
         <source>Default book name &quot;%s&quot; is not valid, can&apos;t include &quot;%s&quot;.</source>
@@ -14389,27 +14400,27 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Color Scheme</source>
         <comment>et_sDefaultColorName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schemă culoare</translation>
     </message>
     <message>
         <source>You are not allowed to add the default style name.</source>
         <comment>et_sDefaultStyleName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu aveți permisiunea să adăugați numele implicit al stilului.</translation>
     </message>
     <message>
         <source>Degrees</source>
         <comment>et_sDegrees</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grade</translation>
     </message>
     <message>
         <source>List will be permanently deleted.</source>
         <comment>et_sDeleteList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lista va fi ștearsă permanent.</translation>
     </message>
     <message>
         <source>Error occurred when deleting the items.</source>
         <comment>et_sDeleteNameError</comment>
-        <translation type="unfinished"></translation>
+        <translation>A intervenit o eroare la ștergerea elementului.</translation>
     </message>
     <message>
         <source>Diagonal Down</source>
@@ -14429,77 +14440,77 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Horizontal Distributed</source>
         <comment>et_sDistributed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distribuit orizontal</translation>
     </message>
     <message>
         <source>Vertically Distributed</source>
         <comment>et_sDistributedAligned</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distribuit vertical</translation>
     </message>
     <message>
         <source>begins with</source>
         <comment>et_sDlgCustomAutoFilter_BeginsWith</comment>
-        <translation type="unfinished"></translation>
+        <translation>începe cu</translation>
     </message>
     <message>
         <source>contains</source>
         <comment>et_sDlgCustomAutoFilter_Contains</comment>
-        <translation type="unfinished"></translation>
+        <translation>conține</translation>
     </message>
     <message>
         <source>does not begin with</source>
         <comment>et_sDlgCustomAutoFilter_DoesNotBeginWith</comment>
-        <translation type="unfinished"></translation>
+        <translation>nu începe cu</translation>
     </message>
     <message>
         <source>does not contain</source>
         <comment>et_sDlgCustomAutoFilter_DoesNotContain</comment>
-        <translation type="unfinished"></translation>
+        <translation>nu conține</translation>
     </message>
     <message>
         <source>does not end with</source>
         <comment>et_sDlgCustomAutoFilter_DoesNotEndWith</comment>
-        <translation type="unfinished"></translation>
+        <translation>nu se termină cu</translation>
     </message>
     <message>
         <source>not equal to</source>
         <comment>et_sDlgCustomAutoFilter_DoesNotEqual</comment>
-        <translation type="unfinished"></translation>
+        <translation>nu egal cu</translation>
     </message>
     <message>
         <source>ends with</source>
         <comment>et_sDlgCustomAutoFilter_EndsWith</comment>
-        <translation type="unfinished"></translation>
+        <translation>se termină cu</translation>
     </message>
     <message>
         <source>equals</source>
         <comment>et_sDlgCustomAutoFilter_Equals</comment>
-        <translation type="unfinished"></translation>
+        <translation>egali</translation>
     </message>
     <message>
         <source>is greater than</source>
         <comment>et_sDlgCustomAutoFilter_IsGreaterThan</comment>
-        <translation type="unfinished"></translation>
+        <translation>este mai mare decât</translation>
     </message>
     <message>
         <source>is greater than or equal to</source>
         <comment>et_sDlgCustomAutoFilter_IsGreaterThanOrEqualTo</comment>
-        <translation type="unfinished"></translation>
+        <translation>este mai mare decât sau egal cu</translation>
     </message>
     <message>
         <source>is less than</source>
         <comment>et_sDlgCustomAutoFilter_IsLessThan</comment>
-        <translation type="unfinished"></translation>
+        <translation>este mai mic decât</translation>
     </message>
     <message>
         <source>is less than or equal to</source>
         <comment>et_sDlgCustomAutoFilter_IsLessThanOrEqualTo</comment>
-        <translation type="unfinished"></translation>
+        <translation>este mai mic decât sau egal cu</translation>
     </message>
     <message>
         <source>Double</source>
         <comment>et_sDouble</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dublu</translation>
     </message>
     <message>
         <source>Double Accounting</source>
@@ -14514,107 +14525,107 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Edit</source>
         <comment>et_sEditToolbarCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Editare</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
         <comment>et_sEmptyentry</comment>
-        <translation type="unfinished"></translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
         <comment>et_sEndDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dată termi&amp;nare:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
         <comment>et_sEndTime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Timp termi&amp;nare:</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
         <comment>et_sEnterDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o dată de terminare și o dată de pornire.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
         <comment>et_sEnterDateS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o dată.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
         <comment>et_sEnterEDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o dată de terminare.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
         <comment>et_sEnterETime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un timp de terminare.</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
         <comment>et_sEnterFor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o formulă.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
         <comment>et_sEnterMax</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un maxim.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
         <comment>et_sEnterMin</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un minim.</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
         <comment>et_sEnterNum</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un Maxim și un Minim.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
         <comment>et_sEnterSDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o dată de pornire.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
         <comment>et_sEnterSrs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o sursă.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
         <comment>et_sEnterSTime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un timp de pornire.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
         <comment>et_sEnterTime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un timp de terminare și un timp de pornire.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
         <comment>et_sEnterTimeS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o oră.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
         <comment>et_sEnterValue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o valoare.</translation>
     </message>
     <message>
         <source>equal to</source>
         <comment>et_sEqualTo</comment>
-        <translation type="unfinished"></translation>
+        <translation>egal cu</translation>
     </message>
     <message>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
         <comment>et_sErrorBadRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul trebuie să fie între 1 și 32767. Încercați din nou introducând un număr în această gamă.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
         <comment>et_sErrorBadZoom</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul trebuie să fie între 10 și 400. Încercați din nou introducând un număr în această gamă.</translation>
     </message>
     <message>
         <source>Integer is not valid.</source>
@@ -14624,17 +14635,17 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Everyone</source>
         <comment>et_sEveryone</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oricine</translation>
     </message>
     <message>
         <source>Everyone but Me</source>
         <comment>et_sEveryonebutme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nimănui doar mie</translation>
     </message>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
         <comment>et_sExportPDFError</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets a întâmpinat o eroare în timpul încercării de exportare ca PDF.</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
@@ -14664,17 +14675,17 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
         <comment>et_sFileExist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul deja există. Doriți să înlocuiți fișierul existent?</translation>
     </message>
     <message>
         <source>Fill</source>
         <comment>et_sFill</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umple</translation>
     </message>
     <message>
         <source>&amp;Find/Replace...</source>
         <comment>et_sFindMenuCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Găsește/Înlocuiește...</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find any data to replace. Check if your search formatting and criteria are defined correctly. If you are sure that matching data exists in this workbook, it may be on a protected sheet. WPS Spreadsheets cannot replace data on a protected worksheet.</source>
@@ -14704,7 +14715,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Font size must be between %d and %d points.</source>
         <comment>et_sFontSizeOutofRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea fontului trebuie să fie între %d și %d puncte.</translation>
     </message>
     <message>
         <source>Footer</source>
@@ -14714,7 +14725,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>&amp;[%s]</source>
         <comment>et_sFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;[%s]</translation>
     </message>
     <message>
         <source>&amp;Format...</source>
@@ -14734,7 +14745,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>&amp;Formula:</source>
         <comment>et_sFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formulă:</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has completed its search and has made %d replacements.</source>
@@ -14744,22 +14755,22 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>General</source>
         <comment>et_sGeneral</comment>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
         <comment>et_sGorE</comment>
-        <translation type="unfinished"></translation>
+        <translation>mai mare decât sau egal cu</translation>
     </message>
     <message>
         <source>greater than</source>
         <comment>et_sGreater</comment>
-        <translation type="unfinished"></translation>
+        <translation>mai mare decât</translation>
     </message>
     <message>
         <source>Header</source>
         <comment>et_sHeader</comment>
-        <translation type="unfinished"></translation>
+        <translation>Antet</translation>
     </message>
     <message>
         <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
@@ -14769,12 +14780,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Horizontal</source>
         <comment>et_sHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Orizontal</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>et_sHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Indents</source>
@@ -14784,7 +14795,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Information</source>
         <comment>et_sInfomation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Informație</translation>
     </message>
     <message>
         <source>Integer is not valid.</source>
@@ -14794,7 +14805,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Input error, the value must be an Integer between 1 and 10000.</source>
         <comment>et_sIntegerRequest</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare intrare, valoarea trebuie să fie un număr întreg între 1 și 10000.</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
@@ -14821,7 +14832,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Italic</source>
         <comment>et_sItalic</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cursiv</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -14836,12 +14847,12 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Unit: Centimeters</source>
         <comment>et_slbUnit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unitatea: Centimetri</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>et_sLeft</comment>
-        <translation type="unfinished">Stânga</translation>
+        <translation>Stânga</translation>
     </message>
     <message>
         <source>Left-to-Right Reading Order</source>
@@ -14851,42 +14862,42 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>less than</source>
         <comment>et_sLess</comment>
-        <translation type="unfinished"></translation>
+        <translation>mai mic decât</translation>
     </message>
     <message>
         <source>List</source>
         <comment>et_sList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Listă</translation>
     </message>
     <message>
         <source>Locked</source>
         <comment>et_sLocked</comment>
-        <translation type="unfinished"></translation>
+        <translation>Blocat</translation>
     </message>
     <message>
         <source>Comments</source>
         <comment>et_sLookinComments</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comentarii</translation>
     </message>
     <message>
         <source>Formulas</source>
         <comment>et_sLookinFormulas</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Values</source>
         <comment>et_sLookinValues</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valori</translation>
     </message>
     <message>
         <source>less than or equal to</source>
         <comment>et_sLorE</comment>
-        <translation type="unfinished"></translation>
+        <translation>maimic decât sau egal cu</translation>
     </message>
     <message>
         <source>The measurement must be between %d cm and %f cm.</source>
         <comment>et_sMarginError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între %d cm și %f cm.</translation>
     </message>
     <message>
         <source>Margins do not fit page size.</source>
@@ -14896,12 +14907,12 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Ma&amp;ximum:</source>
         <comment>et_sMax</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ma&amp;xim:</translation>
     </message>
     <message>
         <source>&amp;Minimum:</source>
         <comment>et_sMin</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Minim:</translation>
     </message>
     <message>
         <source>Failed to modify the dictionary file you selected, make sure the file exists and is not read-only.</source>
@@ -14916,7 +14927,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>(Move to end)</source>
         <comment>et_sMoveToEnd</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Mută la final)</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
@@ -14926,12 +14937,12 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>You must input Permission Password.</source>
         <comment>et_sMustHaveMain</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți parola pentru permisiuni.</translation>
     </message>
     <message>
         <source>Font</source>
         <comment>et_sName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Font</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -14941,7 +14952,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>NEW LIST</source>
         <comment>et_sNewList</comment>
-        <translation type="unfinished"></translation>
+        <translation>LISTĂ NOUĂ</translation>
     </message>
     <message>
         <source>(New book)</source>
@@ -14996,7 +15007,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>No Alignment</source>
         <comment>et_sNoAlignment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fără aliniament</translation>
     </message>
     <message>
         <source>No Borders</source>
@@ -15006,7 +15017,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>No Font</source>
         <comment>et_sNoFont</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nici un font</translation>
     </message>
     <message>
         <source>(No Blanks)</source>
@@ -15016,7 +15027,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>(none)</source>
         <comment>et_sNONE_STRING</comment>
-        <translation type="unfinished"></translation>
+        <translation>(nimic)</translation>
     </message>
     <message>
         <source>No Number Format</source>
@@ -15026,57 +15037,57 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>No Protection</source>
         <comment>et_sNoProtection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nici o protecție</translation>
     </message>
     <message>
         <source>Normal</source>
         <comment>et_sNormal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Op&amp;tions &gt;&gt;</source>
         <comment>et_sNormalModeCap</comment>
-        <translation type="unfinished"></translation>
+        <translation>Op&amp;țiuni &gt;&gt;</translation>
     </message>
     <message>
         <source>No scaling</source>
         <comment>et_sNoScaling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fără scalare</translation>
     </message>
     <message>
         <source>No Shading</source>
         <comment>et_sNoShading</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fără umbrire</translation>
     </message>
     <message>
         <source>(No Suggestions)</source>
         <comment>et_sNoSuggestion</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Fără sugestii)</translation>
     </message>
     <message>
         <source>not between</source>
         <comment>et_sNotBetween</comment>
-        <translation type="unfinished"></translation>
+        <translation>nu între</translation>
     </message>
     <message>
         <source>not equal to</source>
         <comment>et_sNotEqual</comment>
-        <translation type="unfinished"></translation>
+        <translation>nu egal cu</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
         <comment>et_sNotMatchPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation>Confirmarea parolei nu se potrivește.</translation>
     </message>
     <message>
         <source>Number is not valid.</source>
         <comment>et_sNotValidNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul nu este valid.</translation>
     </message>
     <message>
         <source>Number must be above 0.</source>
         <comment>et_sNumberMustAbove0</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul trebuie să fie peste 0.</translation>
     </message>
     <message>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
@@ -15091,7 +15102,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Incorrect input.The value must be a Number.</source>
         <comment>et_sNumberRequest</comment>
-        <translation type="unfinished"></translation>
+        <translation>Intrare incorectă. Valoarea trebuie să fie un Număr.</translation>
     </message>
     <message>
         <source>Failed to open the dictionary file you selected, make sure it is a valid dictionary file.</source>
@@ -15101,27 +15112,27 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Encountered an error when opening PDF file!</source>
         <comment>et_sOpenPDFFileError</comment>
-        <translation type="unfinished"></translation>
+        <translation>A intervenit o eroare la deschiderea fișierului PDF!</translation>
     </message>
     <message>
         <source>Orientation</source>
         <comment>et_sOrientation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Orientare</translation>
     </message>
     <message>
         <source>Value must be between %d and %d.</source>
         <comment>et_SOutOfRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea trebuie să fie între %d și %d.</translation>
     </message>
     <message>
         <source>Page</source>
         <comment>et_sPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagină</translation>
     </message>
     <message>
         <source>&amp;A</source>
         <comment>et_sPageA</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;A</translation>
     </message>
     <message>
         <source>Drop Page Fields Here</source>
@@ -15136,22 +15147,22 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Page &amp;P</source>
         <comment>et_sPageP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagina &amp;P</translation>
     </message>
     <message>
         <source>Page &amp;P &amp;A</source>
         <comment>et_sPagePA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagina &amp;P &amp;A</translation>
     </message>
     <message>
         <source>Page &amp;P of &amp;N</source>
         <comment>et_sPagePofN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagina &amp;P de &amp;N</translation>
     </message>
     <message>
         <source>Pages</source>
         <comment>et_sPages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagini</translation>
     </message>
     <message>
         <source>Click here to fold or unfold the panel.</source>
@@ -15171,17 +15182,17 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Exporting page %d...</source>
         <comment>et_spdfExportPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se exportă pagina %d...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
         <comment>et_spdfLabels</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se exportă etichetele...</translation>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
         <comment>et_spdfPrepare</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se pregătește exportul fișierului PDF...</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -15191,7 +15202,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Percent</source>
         <comment>et_sPercent</comment>
-        <translation type="unfinished"></translation>
+        <translation>Procent</translation>
     </message>
     <message>
         <source>Solid, &quot;75% Gray&quot;, &quot;50% Gray&quot;, &quot;25% Gray&quot;, &quot;12.5% Gray&quot;, &quot;6.5% Gray&quot;, &quot;Horizontal stripe&quot;, &quot;Vertical stripe&quot;, &quot;Reverse Diagonal stripe&quot;, &quot;Diagonal stripe&quot;, &quot;Diagonal crosshatch&quot;, &quot;Thick Diagonal crosshatch&quot;, &quot;Thin Horizontal stripe&quot;, &quot;Thin Vertical stripe&quot;, &quot;Thin Reverse Diagonal stripe&quot;, &quot;Thin Diagonal stripe&quot;, &quot;Thin Horizontal crosshatch&quot;, &quot;Thin Diagonal crosshatch&quot;</source>
@@ -15261,12 +15272,12 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Right</source>
         <comment>et_sRight</comment>
-        <translation type="unfinished">Dreapta</translation>
+        <translation>Dreapta</translation>
     </message>
     <message>
         <source>Right-to-Left Reading Order</source>
         <comment>et_sRightToLeftReadingOrder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ordinea de citire dreapta la stânga</translation>
     </message>
     <message>
         <source>Rotated down %d Degrees</source>
@@ -15281,7 +15292,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Row %s</source>
         <comment>et_sROW_FORMAT_STRING</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rând %s</translation>
     </message>
     <message>
         <source>Drop Row Fields Here</source>
@@ -15296,22 +15307,22 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Row %d</source>
         <comment>et_sRowField</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rând %d</translation>
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
         <comment>et_sSaveAsPDFFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Salvează fișierul PDF Adobe ca</translation>
     </message>
     <message>
         <source>Please select a dictionary first.</source>
         <comment>et_sSelectDictPrompt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Întâi selectați un dicționar.</translation>
     </message>
     <message>
         <source>Please specify a file name first.</source>
         <comment>et_sSelectFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Întâi specificați un nume fișier.</translation>
     </message>
     <message>
         <source>Select an Item of %s:</source>
@@ -15336,7 +15347,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Show items:</source>
         <comment>et_sShowItemsText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arată elemente:</translation>
     </message>
     <message>
         <source>Shrink to Fit</source>
@@ -15356,22 +15367,22 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Size</source>
         <comment>et_sSize</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <source>Sort and Display</source>
         <comment>et_sSortAndDisplayCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sortează și afișează</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
         <comment>et_sSortAscending</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sortează crescător</translation>
     </message>
     <message>
         <source>Sort Descending</source>
         <comment>et_sSortDeascending</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sortează descrescător</translation>
     </message>
     <message>
         <source>The sort reference is invalid due to one the possible reasons below: 
@@ -15400,7 +15411,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Stop</source>
         <comment>et_sStop</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oprire</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -15415,7 +15426,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Normal</source>
         <comment>et_sStyleNormal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -15430,22 +15441,22 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>  (None)</source>
         <comment>et_sSymbolNone</comment>
-        <translation type="unfinished"></translation>
+        <translation>  (Nimic)</translation>
     </message>
     <message>
         <source>Text length</source>
         <comment>et_sTextLen</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lungime text</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>et_sTime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oră</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
         <comment>et_sTimeS</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oră:</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
@@ -15455,17 +15466,17 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Top</source>
         <comment>et_sTop</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sus</translation>
     </message>
     <message>
         <source>(Top 10...)</source>
         <comment>et_sTop10</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Top 10...)</translation>
     </message>
     <message>
         <source>Top Aligned</source>
         <comment>et_sTopAligned</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aliniat sus</translation>
     </message>
     <message>
         <source>Select %d record(s), accept changes %d record(s), reject changes %d record(s)</source>
@@ -15475,7 +15486,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Underline</source>
         <comment>et_sUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subliniat</translation>
     </message>
     <message>
         <source>Undo %d Action(s)</source>
@@ -15485,12 +15496,12 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Style Name Not Valid</source>
         <comment>et_sValidStyleName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numele stilului nu este valid</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
         <comment>et_sValue</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Valoare:</translation>
     </message>
     <message>
         <source>&apos;%s&apos; is an invalid integer.</source>
@@ -15500,7 +15511,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>The name is invalid or the formula contains an error.</source>
         <comment>et_sValueInvalidName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numele nu este valid sau formula conține o eroare.</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -15510,7 +15521,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Warning</source>
         <comment>et_sWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Atenție</translation>
     </message>
     <message>
         <source>Whole number</source>
@@ -15540,7 +15551,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>No cells were found.</source>
         <comment>et_sLocate_NotFind</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu au fost găsite celule.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
@@ -15560,7 +15571,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Recommend</source>
         <comment>et_sCommend</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recomand</translation>
     </message>
     <message>
         <source>Enter the name or description of the function you want to look for.</source>
@@ -15575,7 +15586,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Reference is not valid.</source>
         <comment>et_sInvalidQuote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Referința nu este validă.</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
@@ -15600,12 +15611,12 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
         <comment>et_sOperation_Protected_Sheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această comandă nu se poate utiliza pe o foaie protejată.</translation>
     </message>
     <message>
         <source>Cannot find object.</source>
         <comment>et_sLocate_NotFindObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate găsi obiectul.</translation>
     </message>
     <message>
         <source>Set display area</source>
@@ -15625,12 +15636,12 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>User Feedback</source>
         <comment>et_sFeedbackMailTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opinia utilizatorului</translation>
     </message>
     <message>
         <source>Picture</source>
         <comment>et_sGraphic</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poză</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %s.
@@ -15643,7 +15654,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Other Sheets...</source>
         <comment>et_sOtherSheetsCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alte foi...</translation>
     </message>
     <message>
         <source>The command you choose cannot be performed with multiple selections.
@@ -15671,7 +15682,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>The name is invalid for the query.</source>
         <comment>et_sNameInvalidForQuery</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numele nu este valid pentru interogare.</translation>
     </message>
     <message>
         <source>A query with this name already exist on this worksheet.</source>
@@ -15696,17 +15707,17 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>%d users are editing this file:</source>
         <comment>et_sWorkBookEditingUserCount</comment>
-        <translation type="unfinished"></translation>
+        <translation>%d utilizatori editează acest fișier:</translation>
     </message>
     <message>
         <source>&amp;Standard column width:</source>
         <comment>et_sStandardColumnWidth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lățime coloană &amp;standard:</translation>
     </message>
     <message>
         <source>Standard Width</source>
         <comment>et_sStandardColumnWidthCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lățime standard</translation>
     </message>
     <message>
         <source>The cells with overly complex strings will be ignored.</source>
@@ -15716,12 +15727,12 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>Print</source>
         <comment>et_sRecentPrint_Print</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipărește</translation>
     </message>
     <message>
         <source>Print directly</source>
         <comment>et_sRecentPrint_PrintDirect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tipărește direct</translation>
     </message>
     <message>
         <source>%d user is editing this file:</source>
@@ -15741,12 +15752,12 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>Delete(&amp;D)</source>
         <comment>et_sRecordFormDelete</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge(&amp;D)</translation>
     </message>
     <message>
         <source>Clear(&amp;C)</source>
         <comment>et_sRecordFormClear</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță(&amp;C)</translation>
     </message>
     <message>
         <source>Form(&amp;F)</source>
@@ -15761,12 +15772,12 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>New Record</source>
         <comment>et_sRecordFormNew</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrare nouă</translation>
     </message>
     <message>
         <source>Criteria</source>
         <comment>et_sRecordFormCriteriaCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Criteriu</translation>
     </message>
     <message>
         <source>If there are repeated contents in cells in the following range,
@@ -15795,7 +15806,7 @@ tically, only keep one row.
     <message>
         <source>Highlight Duplicates</source>
         <comment>et_sRepeatWordRemindCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiază duplicatele</translation>
     </message>
     <message>
         <source>Reject Input Duplicates</source>
@@ -15805,7 +15816,7 @@ tically, only keep one row.
     <message>
         <source>Remove Duplicates</source>
         <comment>et_sRepeatWordDeleteCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elimină duplicatele</translation>
     </message>
 </context>
 <context>
