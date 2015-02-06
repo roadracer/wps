@@ -18,11 +18,11 @@
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D Color</translation>
+        <translation>Culoare 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3-D Pornit/Oprit</translation>
+        <translation>3 D pornit/oprit</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -34,7 +34,7 @@
     </message>
     <message>
         <source>Bright</source>
-        <translation>Strălucire</translation>
+        <translation>Strălucitor</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -306,83 +306,83 @@
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation>Stil 3 D 1</translation>
+        <translation>3-D stil 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation>Stil 3 D 10</translation>
+        <translation>3-D stil 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation>Stil 3 D 11</translation>
+        <translation>3-D stil 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation>Stil 3 D 12</translation>
+        <translation>3-D stil 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation>Stil 3 D 13</translation>
+        <translation>3-D stil 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation>Stil 3 D 14</translation>
+        <translation>3-D stil 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation>Stil 3 D 15</translation>
+        <translation>3-D stil 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation>Stil 3 D 16</translation>
+        <translation>3-D stil 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation>Stil 3 D 17</translation>
+        <translation>3-D stil 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation>Stil 3 D 18</translation>
+        <translation>3-D stil 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation>Stil 3 D 19</translation>
+        <translation>3-D stil 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation>Stil 3 D 2</translation>
+        <translation>3-D stil 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation>Stil 3 D 20</translation>
+        <translation>3-D stil 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation>Stil 3 D 3</translation>
+        <translation>3-D stil 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation>Stil 3 D 4</translation>
+        <translation>3-D stil 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation>Stil 3 D 5</translation>
+        <translation>3-D stil 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation>Stil 3 D 6</translation>
+        <translation>3-D stil 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation>Stil 3 D 7</translation>
+        <translation>3-D stil 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation>Stil 3 D 8</translation>
+        <translation>3-D stil 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation>Stil 3 D 9</translation>
+        <translation>3-D stil 9</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -1625,7 +1625,7 @@
     </message>
     <message>
         <source>Insert Table</source>
-        <translation>Introduceți tabel</translation>
+        <translation>Introdu tabel</translation>
     </message>
     <message>
         <source>Insert Vertical Blank Page</source>
@@ -1784,7 +1784,7 @@
     </message>
     <message>
         <source>Insert Table</source>
-        <translation>Introduceți tabel</translation>
+        <translation>Introdu tabel</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -3733,15 +3733,15 @@ Painter</source>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni câmp formular</translation>
     </message>
     <message>
         <source>Form Field Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbrire câmp formular</translation>
     </message>
     <message>
         <source>Forms</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulare</translation>
     </message>
     <message>
         <source>From File</source>
@@ -3749,7 +3749,7 @@ Painter</source>
     </message>
     <message>
         <source>From Scanner</source>
-        <translation type="unfinished"></translation>
+        <translation>De la scaner</translation>
     </message>
     <message>
         <source>Header and 
@@ -3762,11 +3762,11 @@ Footer</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilustrații</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -3782,7 +3782,7 @@ Footer</source>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation>Introduceți tabel</translation>
+        <translation>Introdu tabel</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
@@ -5642,135 +5642,139 @@ selecția</translation>
     <name>ongmani.ct_shadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0 pct</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>144 pct</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>288 pct</translation>
     </message>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare
+3-D</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efecte
+3-D</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D
+pornit/oprit</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efecte
+3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 9</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>36 pct</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>72 pct</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Strălucitor</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizat</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Adâncime</translation>
     </message>
     <message>
         <source>Dim</source>
@@ -6495,83 +6499,83 @@ pornit/oprit</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 9</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -6583,7 +6587,7 @@ pornit/oprit</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Strălucitor</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -6619,7 +6623,7 @@ pornit/oprit</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Mai multe culori 3 D</translation>
+        <translation>Mai multe culori 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -8317,7 +8321,7 @@ Painter</source>
     </message>
     <message>
         <source>Hide Paragraph Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde aspectul paragrafului</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -8369,7 +8373,7 @@ Painter</source>
     </message>
     <message>
         <source>Insert Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu la stânga</translation>
     </message>
     <message>
         <source>Insert Multiple Rows</source>
@@ -8381,11 +8385,11 @@ Painter</source>
     </message>
     <message>
         <source>Insert Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu la dreapta</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation>Introduceți tabel</translation>
+        <translation>Introdu tabel</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
@@ -10842,7 +10846,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation>Introduceți tabel</translation>
+        <translation>Introdu tabel</translation>
     </message>
     <message>
         <source>Insert Text from File</source>
@@ -10866,7 +10870,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai multe simboluri</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
@@ -10919,7 +10923,7 @@ Break</source>
     </message>
     <message>
         <source>Reset Form Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimină din câmpuri</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -12624,11 +12628,12 @@ Text</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D Color</translation>
+        <translation>Culoare
+3-D</translation>
     </message>
     <message>
         <source>3-D Effects</source>
-        <translation>3-D Efecte</translation>
+        <translation>Efecte 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
@@ -12640,83 +12645,83 @@ Text</source>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 9</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -12764,7 +12769,7 @@ Text</source>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Mai multe culori 3 D</translation>
+        <translation>Mai multe culori 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -13340,95 +13345,95 @@ Effects</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>3 D pornit/oprit</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări 3 D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>3-D stil 9</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -13440,7 +13445,7 @@ Effects</source>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Strălucitor</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -13476,7 +13481,7 @@ Effects</source>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Mai multe culori 3 D</translation>
+        <translation>Mai multe culori 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
