@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Only Line Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Numai linii întrerupte</translation>
     </message>
     <message>
         <source>Newline/Enter</source>
@@ -634,7 +634,7 @@
     </message>
     <message>
         <source>Ellipsis</source>
-        <translation type="unfinished"></translation>
+        <translation>Elipse</translation>
     </message>
     <message>
         <source>Single Opening Quote</source>
@@ -1034,7 +1034,7 @@
     </message>
     <message>
         <source>Part of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Parte a %1</translation>
     </message>
     <message>
         <source>%1(%2)</source>
@@ -1066,7 +1066,7 @@
     </message>
     <message>
         <source>Part of %1 activation version</source>
-        <translation type="unfinished"></translation>
+        <translation>Parte a %1 activare versiune</translation>
     </message>
 </context>
 <context>
@@ -1081,7 +1081,7 @@
     </message>
     <message>
         <source>This method %1 is not implemented. If the default value is used, then may bring risk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această metodă %1 nu este implementată. Dacă valoarea implicită este utilizată, atunci poate aduce riscuri.</translation>
     </message>
 </context>
 <context>
@@ -1571,7 +1571,7 @@
     </message>
     <message>
         <source>Target Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă țintă</translation>
     </message>
     <message>
         <source>Used to show hierarchical relationships</source>
@@ -1745,7 +1745,7 @@
     <name>KxDlgEditWordArtText</name>
     <message>
         <source>Edit WordArt Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare text cuvânt stilizat</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -1765,7 +1765,11 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;宋体&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;宋体&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1776,11 +1780,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Choose encryption type:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alegeți tipul codificării:</translation>
     </message>
     <message>
         <source>Choose &amp;key length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți lungimea &amp;cheiei:</translation>
     </message>
 </context>
 <context>
@@ -1958,7 +1962,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Spring</source>
-        <translation type="unfinished"></translation>
+        <translation>Primăvara</translation>
     </message>
     <message>
         <source>Green</source>
@@ -2014,7 +2018,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Other Texture...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Altă textură...</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -2042,7 +2046,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Se&amp;lect Picture...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se&amp;lectează poza...</translation>
     </message>
     <message>
         <source>Lock &amp;picture aspect ratio</source>
@@ -2208,15 +2212,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taste scurtătură:</translation>
     </message>
     <message>
         <source>Shortcut &amp;keys:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Taste scurtătură:</translation>
     </message>
     <message>
         <source>Specify S&amp;hortcut keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Specificați tastele s&amp;curtătură</translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
@@ -2573,7 +2577,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați codificarea care vă face documentul citibil.</translation>
     </message>
 </context>
 <context>
@@ -3492,11 +3496,11 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizați la VIP pentru a vă bucura de fonturile VIP.</translation>
     </message>
     <message>
         <source>Click to install free cloud fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați să instalați fonturi gratuite de pe nor</translation>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
@@ -3612,7 +3616,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un logo va fi adăugat documentului când se tipărește. Vă recomandăm să apăsați previzualizare tipărire pentru a vedea efectele înaintea tipăririi.</translation>
     </message>
     <message>
         <source>&amp;Print</source>
@@ -3635,7 +3639,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. </source>
-        <translation type="unfinished"></translation>
+        <translation>Un logo va fi adăugat documentului când se tipărește. </translation>
     </message>
     <message>
         <source>Don&apos;t show again.</source>
@@ -3861,7 +3865,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>%L1 byte</source>
-        <translation type="unfinished"></translation>
+        <translation>%L1 octet</translation>
     </message>
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
@@ -4293,7 +4297,7 @@ but the included system package is reserved.</source>
     <name>KxTpAutoShape</name>
     <message>
         <source>Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizează:</translation>
     </message>
     <message>
         <source>Change AutoShape</source>
@@ -4442,7 +4446,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Open file location</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide locația fișierului</translation>
     </message>
 </context>
 <context>
@@ -4499,7 +4503,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Open file location</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide locația fișierului</translation>
     </message>
 </context>
 <context>
@@ -4916,7 +4920,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margine internă</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
@@ -5415,7 +5419,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>&amp;No change</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fără modificare</translation>
     </message>
     <message>
         <source>Options</source>
@@ -5512,7 +5516,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <message>
         <source>Pl&amp;ace in this
 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Pl&amp;asează în acest
+document</translation>
     </message>
     <message>
         <source>Email Button</source>
@@ -5643,7 +5648,7 @@ sau pagina web</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Locație:</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -5715,7 +5720,7 @@ sau pagina web</translation>
     </message>
     <message>
         <source>&amp;Manager:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Responsabil:</translation>
     </message>
     <message>
         <source>&amp;Author:</source>
@@ -5873,11 +5878,11 @@ sau pagina web</translation>
     <name>wordartdlg</name>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerie cuvânt stilizat</translation>
     </message>
     <message>
         <source>Select a &amp;WordArt style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați un stil cu&amp;vânt stilizat:</translation>
     </message>
     <message>
         <source>&amp;Preview</source>

@@ -1065,11 +1065,11 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Numerial_BetweenMidfix</source>
-        <translation type="unfinished"></translation>
+        <translation>Numeric_Întremijloc</translation>
     </message>
     <message>
         <source>Numerial_BetweenSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation>Numeric_întresufix</translation>
     </message>
     <message>
         <source>Numerial_Between</source>
@@ -1283,11 +1283,11 @@ condiția este adevărată:</translation>
     <name>KxConstraintDlg</name>
     <message>
         <source>Integer Constraint Cell Reference must include only Variable Cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Constrângere număr întreg referință celulă trebuie să includă numai celule variabile.</translation>
     </message>
     <message>
         <source>Binary Constraint Cell Reference must include only Variable Cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Constrângere binară referință celulă trebuie să includă numai celule variabile.</translation>
     </message>
     <message>
         <source>Constraint must be a number, simple reference, or formula with a numeric value.</source>
@@ -1337,42 +1337,45 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifică tabel pivot</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți creea un tabel pivot cu aceste date. Verificați dacă datele pe care doriți să le analizați îndeplinesc următoarele condiții:
+1.Asigurați-vă că referința există. dacă este un nume, trebuie să fie o limită validă;
+2.Asigurați-vă că referința este o singură limită și că trebuie să conțină cel puțin două rânduri;
+3.Asigurați-vă că primul rând al limitei de referință nu conține nici o celulă goală, erori valoare,iar fiecare celulă nu conține mai mult de 255 caractere.</translation>
     </message>
     <message>
         <source>No data fields have been retrieved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nici o dată a câmpurilor nu au fost preluată.</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because current workbook is in protection. Please select an existing sheet or unprotect this workbook.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelul pivot nu se poate crea pe o foaie nouă, fiindcă registrul de lucru curent este în protecție. Selectați o foaie existentă sau eliminați protecția acestui registru de lucru.</translation>
     </message>
     <message>
         <source>Data fields have been retrieved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datele câmpurilor au fost preluate.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziția pe care ați ales-o să plasați tabelul pivot nu este validă. Asigurați-vă că limitele referinței sunt valide și nu într-o foaie ascunsă.</translation>
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți modifica tabelul pivot cu aceste date. Verificați dacă limitele referinței sunt valide și dacă foaia de lucru specificat există.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți creea un tabel pivot cu aceste date. Verificați dacă limitele referinței sunt valide și dacă foaia de lucru există.</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipul conexiunii selectate nu poate fi utilizat pentru creearea unui tabel pivot.</translation>
     </message>
 </context>
 <context>
@@ -1984,7 +1987,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Create PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Creează tabel pivot</translation>
     </message>
     <message>
         <source>Choose the data that you want to analyze</source>
@@ -2000,11 +2003,11 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Use another &amp;pivotTable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizați un alt tabel &amp;pivot:</translation>
     </message>
     <message>
         <source>Choose where you want the pivotTable to be placed</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți unde doriți să fie plasat tabelul pivot</translation>
     </message>
     <message>
         <source>&amp;New worksheet</source>
@@ -2393,7 +2396,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Match &amp;case</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește &amp;cazul</translation>
     </message>
     <message>
         <source>By rows</source>
@@ -2909,11 +2912,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Summary rows &amp;below detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezumatul rândurilor &amp;sub detaliu</translation>
     </message>
     <message>
         <source>Summary columns to &amp;right of detail</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezumatul coloanelor la d&amp;reapta detaliului</translation>
     </message>
 </context>
 <context>
@@ -3246,7 +3249,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Page brea&amp;ks</source>
-        <translation type="unfinished"></translation>
+        <translation>Întrerup&amp;eri pagină</translation>
     </message>
     <message>
         <source>Sheet ta&amp;bs</source>
@@ -3422,7 +3425,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Sheets in new workbook:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Foi în registrul de lucru nou:</translation>
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
@@ -3594,7 +3597,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>File encryption options for this workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni criptare fișier pentru acest registru de lucru</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
@@ -3606,7 +3609,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>File sharing options for this workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni partajare fișier pentru acest registru de lucru</translation>
     </message>
     <message>
         <source>Password to &amp;modify:</source>
@@ -3718,7 +3721,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Double-click the tab to close a document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dublu-click pe filă pentru a ânchide documentul</translation>
     </message>
     <message>
         <source>&amp;Warn me when closing all tabs</source>
@@ -3730,7 +3733,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Row and column h&amp;eadings</source>
-        <translation type="unfinished"></translation>
+        <translation>R&amp;ubrici &amp;rând și coloană</translation>
     </message>
     <message>
         <source>After pressing Enter, &amp;move selection</source>
@@ -3810,11 +3813,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Formulas inco&amp;nsistent with other formulas in the region</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule inco&amp;mpatibile cu alte formule în regiune</translation>
     </message>
     <message>
         <source>Formulas which &amp;omit cells in a region</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule care &amp;omit celule într-o regiune</translation>
     </message>
     <message>
         <source>Unloc&amp;ked cells containing formulas</source>
@@ -3822,7 +3825,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Form&amp;ulas referring to empty cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Form&amp;ule referitoare la celule goale</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -3874,7 +3877,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Recuperare automată locație fișier:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -4077,7 +4080,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Row and co&amp;lumn headings</source>
-        <translation type="unfinished"></translation>
+        <translation>Rubrici rând și co&amp;loană</translation>
     </message>
     <message>
         <source>Cell &amp;error as:</source>
@@ -4163,7 +4166,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgPivotTableFieldFmt</name>
     <message>
         <source>PivotTable Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp tabel pivot</translation>
     </message>
     <message>
         <source>Source field:</source>
@@ -4235,7 +4238,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert &amp;page break after each item</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu întreruperea &amp;paginii după fiecare element</translation>
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
@@ -4282,7 +4285,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgPivotTableOptions</name>
     <message>
         <source>PivotTable Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni tabel pivot</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -4449,14 +4452,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Entire Wor&amp;kbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreg regis&amp;trul de lucru</translation>
     </message>
 </context>
 <context>
     <name>KxDlgProtectAndShareWorkbook</name>
     <message>
         <source>Protect workbook for</source>
-        <translation type="unfinished"></translation>
+        <translation>Protejează registrul de lucru pentru</translation>
     </message>
     <message>
         <source>Sharing with track changes.</source>
@@ -4478,7 +4481,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Protejează și partajează registrul de lucru</translation>
     </message>
 </context>
 <context>
@@ -4564,7 +4567,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Use PivotTable reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizează rapoarte tabel pivot</translation>
     </message>
 </context>
 <context>
@@ -6783,7 +6786,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>No futher information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără alte informații.</translation>
     </message>
 </context>
 <context>
@@ -6859,7 +6862,7 @@ on iteration #%2.</source>
     <name>KxHyperlinkEtPage</name>
     <message>
         <source>&lt;&lt;Selection in document&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt;Selecție în document&gt;&gt;</translation>
     </message>
     <message>
         <source>Cell Reference</source>
@@ -6878,11 +6881,11 @@ on iteration #%2.</source>
     <name>KxHyperlinlkETDlg</name>
     <message>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <source>Up one folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Sus un dosar</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -6894,7 +6897,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare Hyperlink</translation>
     </message>
     <message>
         <source>Open File</source>
@@ -6966,14 +6969,14 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>(New workbook)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Registru de lucru nou)</translation>
     </message>
 </context>
 <context>
     <name>KxNameConflictDlg</name>
     <message>
         <source>Name already exists on destination sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele deja există pe foaia destinație.</translation>
     </message>
     <message>
         <source>Name cannot resemble a reference.</source>
@@ -6992,7 +6995,7 @@ on iteration #%2.</source>
     <name>KxNameOptionsDlg</name>
     <message>
         <source>The default Workbook name %1 is not valid, can&apos;t include %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele registrului de lucru implicit %1 nu este valid, nu poate include %2.</translation>
     </message>
 </context>
 <context>
@@ -7061,7 +7064,7 @@ on iteration #%2.</source>
     <name>KxOpenSharedWorkbookDlg</name>
     <message>
         <source>You are opening an Excel shared workbook &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ați deschis un registru de lucru partajat Excel &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others is no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
@@ -7307,7 +7310,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Margins do not fit page size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginile nu se potrivesc cu dimensiunea paginii.</translation>
     </message>
     <message>
         <source>The input is not a valid number.</source>
@@ -7323,19 +7326,19 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The measurement must be between 7.2 pt and 1584 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 7.2 pct și 1584 pct.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.1 inch and 22 inch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 0.1 inch și 22 inch.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.3 cm and 55.8 cm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 0.3 cm și 55.8 cm.</translation>
     </message>
     <message>
         <source>The measurement must be between 2.6 mm and 558.8 mm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 2.6 mm și 558.8 mm.</translation>
     </message>
     <message>
         <source>There is no Active Printer available at the moment.</source>
@@ -7343,7 +7346,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Cannot show the properties dialog box because the printer encountered an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate arăta caseta de dialog proprietăți fiindcă imprimanta a întâmpinat o eroare.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
@@ -7437,7 +7440,7 @@ on iteration #%2.</source>
     <name>KxPivotTableAdvOptionsDlg</name>
     <message>
         <source>PivotTable Field Advanced Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni avansate câmp tabel pivot</translation>
     </message>
     <message>
         <source>AutoSort options</source>
@@ -7453,7 +7456,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Usin&amp;g field:</source>
-        <translation type="unfinished"></translation>
+        <translation>Util&amp;izând câmpul:</translation>
     </message>
     <message>
         <source>Top 10 AutoShow</source>
@@ -7481,7 +7484,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>&amp;Using field:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Utilizând câmpul:</translation>
     </message>
     <message>
         <source>Page Field Options</source>
@@ -7493,7 +7496,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Di&amp;sable pivoting of this field (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>De&amp;zactivează pivotarea acestui câmp (recomandat)</translation>
     </message>
     <message>
         <source>AutoSort</source>
@@ -7567,7 +7570,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>PivotTable field name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele câmpului tabelului pivot există deja.</translation>
     </message>
     <message>
         <source>Count Numbers</source>
@@ -7575,26 +7578,26 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cel puțin un element trebuie să fie arătat. Dacă nu doriți să arătați câmpul deloc, anulați operația curentă, iar apoi trageți câmpul afară din raport.</translation>
     </message>
 </context>
 <context>
     <name>KxPivotTableOptionsDlg</name>
     <message>
         <source>&amp;Fields per column:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Câmpuri pe coloană:</translation>
     </message>
     <message>
         <source>&amp;Fields per row:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Câmpuri pe rând:</translation>
     </message>
     <message>
         <source>PivotTable name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele tabelului pivot nu este valid.</translation>
     </message>
     <message>
         <source>A PivotTable report with that name already exists on the destination sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un raport tabel pivot cu acest nume deja există pe foaia destinație.</translation>
     </message>
 </context>
 <context>
@@ -7796,7 +7799,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>This data source contains no visible tables.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această sursă date conține tabele ascunse.</translation>
     </message>
 </context>
 <context>
@@ -7892,7 +7895,7 @@ system will remind checking the correctness of the contents.
     <name>KxSolverOptionsDlg</name>
     <message>
         <source>Precision must be a small positive number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Precizia trebuie să fie un număr pozitiv mic.</translation>
     </message>
     <message>
         <source>Integer Tolerance must be a small positive number.</source>
@@ -8170,11 +8173,11 @@ system will remind checking the correctness of the contents.
     <name>KxTpEtPivotTable</name>
     <message>
         <source>Drag items to the pivotTable areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Trageți elemente în zona tabelului pivot</translation>
     </message>
     <message>
         <source>Drag fields between areas below</source>
-        <translation type="unfinished"></translation>
+        <translation>Trageți câmpurile între zonele de mai jos</translation>
     </message>
     <message>
         <source>Immediate apply</source>
@@ -8182,19 +8185,19 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Add to &amp;Page Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă la zona &amp;pagină</translation>
     </message>
     <message>
         <source>Add to &amp;Row Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă la zona &amp;rând</translation>
     </message>
     <message>
         <source>Add to &amp;Column Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă la zona &amp;coloană</translation>
     </message>
     <message>
         <source>Add to &amp;Data Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă la zona &amp;date</translation>
     </message>
     <message>
         <source>Ord&amp;er</source>
@@ -8222,19 +8225,19 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Move to &amp;Page Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută la zona &amp;pagină</translation>
     </message>
     <message>
         <source>Move to &amp;Row Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută la zona &amp;rând</translation>
     </message>
     <message>
         <source>Move to &amp;Column Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută la zona &amp;coloană</translation>
     </message>
     <message>
         <source>Move to &amp;Data Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută la zona &amp;date</translation>
     </message>
     <message>
         <source>&amp;Remove Field</source>
@@ -8242,7 +8245,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>&amp;Clear Area</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Curăță zona</translation>
     </message>
     <message>
         <source>&amp;Subtotal</source>
@@ -8254,7 +8257,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>PivotTable &amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opțiuni tabel pivot...</translation>
     </message>
     <message>
         <source>(Show all)</source>
@@ -8271,7 +8274,8 @@ system will remind checking the correctness of the contents.
     <message>
         <source>At least one item must be showing. 
 If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cel puțin un element trebuie să fie arătat. 
+Dacă nu doriți să arătați câmpul deloc, anulați operația curentă, iar apoi trageți câmpul afară din raport.</translation>
     </message>
 </context>
 <context>
@@ -8325,7 +8329,7 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>Empty value for parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare goală pentru parametru.</translation>
     </message>
     <message>
         <source>Bad parameter type. WPS Spreadsheets is expecting a different kind of value than what was provided.</source>
@@ -8333,7 +8337,7 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>Invalid data value for parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare date nevalide pentru parametru.</translation>
     </message>
     <message>
         <source>Selection can be a single row or single column only.</source>
@@ -8925,7 +8929,7 @@ t</translation>
     </message>
     <message>
         <source>You are not allowed to add the default style name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu aveți permisiunea să adăugați numele stilului implicit.</translation>
     </message>
     <message>
         <source>@ET_Style?</source>
@@ -10353,7 +10357,8 @@ t</translation>
     <message>
         <source>Pl&amp;ace in this
 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Pl&amp;asează în acest
+document</translation>
     </message>
     <message>
         <source>Email Buttion</source>
@@ -10508,7 +10513,7 @@ sau pagină web</translation>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margine internă</translation>
     </message>
     <message>
         <source>&amp;Automatic</source>

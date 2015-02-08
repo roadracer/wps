@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește proiectele &amp;Selectate</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
@@ -120,7 +120,7 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă &amp;proiect</translation>
     </message>
 </context>
 <context>
@@ -158,7 +158,7 @@
     <name>DlgFindReplace</name>
     <message>
         <source>FindReplaceDlg</source>
-        <translation type="unfinished"></translation>
+        <translation>FindReplaceDlg</translation>
     </message>
     <message>
         <source>Match &amp;case</source>
@@ -267,11 +267,11 @@
     <name>DlgKxInvolvedTemplate</name>
     <message>
         <source>Involved Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon implicat</translation>
     </message>
     <message>
         <source>Select Involved Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează șablonul implicat</translation>
     </message>
     <message>
         <source>Apply Current</source>
@@ -318,7 +318,7 @@
     </message>
     <message>
         <source>P&amp;en color:</source>
-        <translation>Culoare penel:</translation>
+        <translation>Culoare p&amp;enel:</translation>
     </message>
     <message>
         <source>&amp;Show Without Animation</source>
@@ -370,7 +370,7 @@
     </message>
     <message>
         <source>Sho&amp;w presenter view</source>
-        <translation type="unfinished"></translation>
+        <translation>Ara&amp;tă vizualizare prezentator</translation>
     </message>
     <message>
         <source>Set Up Show</source>
@@ -440,15 +440,15 @@
     </message>
     <message>
         <source>S&amp;mooth Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Început l&amp;in</translation>
     </message>
     <message>
         <source>Smooth E&amp;nd</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;fârșit lin</translation>
     </message>
     <message>
         <source>A&amp;uto-reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;uto-reverse</translation>
     </message>
     <message>
         <source>Start Playing</source>
@@ -540,7 +540,7 @@
     </message>
     <message>
         <source>&amp;Delay:</source>
-        <translation>&amp;Întârziere</translation>
+        <translation>&amp;Întârziere:</translation>
     </message>
     <message>
         <source>&amp;Sp&amp;eed:</source>
@@ -1282,15 +1282,15 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Snap to</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustează la</translation>
     </message>
     <message>
         <source>Snap objects to &amp;grid         </source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustează obiectele la &amp;grilă </translation>
     </message>
     <message>
         <source>&amp;Snap objects to other objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Aju&amp;stează obiectele la alte obiecte</translation>
     </message>
     <message>
         <source>Grid settings</source>
@@ -1409,7 +1409,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Appl&amp;y to All</source>
-        <translation>Aplică la tot</translation>
+        <translation>Aplic&amp;ă la tot</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -1479,7 +1479,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation>Număr de &amp;coloane</translation>
+        <translation>Număr de &amp;coloane:</translation>
     </message>
 </context>
 <context>
@@ -1505,7 +1505,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Placeholders</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuitori</translation>
     </message>
     <message>
         <source>&amp;Title</source>
@@ -1595,11 +1595,11 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>&amp;Vertical ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Riglă &amp;verticală</translation>
     </message>
     <message>
         <source>Thumbnail and outline position</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziție miniatură și contur</translation>
     </message>
     <message>
         <source>Le&amp;ft of slide</source>
@@ -1755,7 +1755,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Apply Auto&amp;Layout to new objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplică &amp;aspect automat noilor obiecte.</translation>
     </message>
     <message>
         <source>Security</source>
@@ -1859,7 +1859,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Caution: please keep your password properly. File will never be recovered if you lose or forget the password.(Remember that passwords are case-sensitive.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenționare: păstrați parola corespunzător. Fișierul nu va fi recuperat niciodată dacă pierdeți sau uitați parola.(Rețineți că parolele sunt sensibile la majuscule.)</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -1879,15 +1879,15 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Embed fon&amp;ts in the file</source>
-        <translation>Fon&amp;turi incluse în fișier</translation>
+        <translation>Include fon&amp;turile în fișier</translation>
     </message>
     <message>
         <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Include &amp;numai caracterele utilizate în document (cel mai bine pentru reducerea dimensiunii)</translation>
     </message>
     <message>
         <source>Embed all &amp;characters (best for editing by other people)</source>
-        <translation type="unfinished"></translation>
+        <translation>Include toate &amp;caracterele (cel mai bine pentru editarea de către alte persoane)</translation>
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
@@ -1895,7 +1895,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Locație fișier &amp;recuperat automat:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -1907,7 +1907,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Password protect</source>
-        <translation type="unfinished"></translation>
+        <translation>Protejat cu parolă</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
@@ -2005,7 +2005,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>&amp;Paper size</source>
-        <translation>Dimensiune &amp;hârtie:</translation>
+        <translation>Dimensiune &amp;hârtie</translation>
     </message>
     <message>
         <source>W&amp;idth:</source>
@@ -2161,11 +2161,11 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Left click, space, &apos;N&apos;, right or down arrow enter, or page down</source>
-        <translation type="unfinished"></translation>
+        <translation>Click stânga, spațiu, &apos;N&apos;, săgeată la dreapta sau sus, enter, sau page down</translation>
     </message>
     <message>
         <source>Backspace, &apos;P&apos;, left or up arrow, or page up</source>
-        <translation type="unfinished"></translation>
+        <translation>Backspace, &apos;P&apos;, săgeată la stânga sau sus, sau page up</translation>
     </message>
     <message>
         <source>Press Esc</source>
@@ -2384,7 +2384,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Other WPS Presentation file...</source>
-        <translation>Alt fișier WPS Presentation</translation>
+        <translation>Alt fișier WPS Presentation...</translation>
     </message>
 </context>
 <context>
@@ -2407,7 +2407,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source> Change C&amp;olor... </source>
-        <translation> Modifică culoarea... </translation>
+        <translation> Modifică cul&amp;oarea... </translation>
     </message>
     <message>
         <source>&amp;Preview</source>
@@ -2457,7 +2457,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation>Prezentări diapozitiv personalizate:</translation>
+        <translation>P&amp;rezentări diapozitiv personalizate:</translation>
     </message>
     <message>
         <source>&amp;Show and return</source>
@@ -2499,7 +2499,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Cust&amp;om show:</source>
-        <translation>Prezentare personalizată:</translation>
+        <translation>Prezentare pers&amp;onalizată:</translation>
     </message>
     <message>
         <source>Sli&amp;des:</source>
@@ -2713,7 +2713,7 @@ continuați?</translation>
     </message>
     <message>
         <source>Exporting No.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se exportă.</translation>
     </message>
     <message>
         <source> Page...</source>
@@ -3535,7 +3535,7 @@ PDF!</translation>
     </message>
     <message>
         <source>&amp;Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Intrare</translation>
     </message>
     <message>
         <source>&amp;More Effects ...</source>
@@ -3659,15 +3659,15 @@ PDF!</translation>
     </message>
     <message>
         <source>&amp;Reverse Path Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inversează direcția căii</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>Mă&amp;rește</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Micș&amp;orează</translation>
     </message>
     <message>
         <source>&amp;Hide Advanced Timeline</source>
@@ -3796,7 +3796,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Fade and Dissolve</source>
-        <translation type="unfinished"></translation>
+        <translation>Estompează și dizolvă</translation>
     </message>
     <message>
         <source>Wipe</source>
@@ -3804,7 +3804,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Push and Cover</source>
-        <translation type="unfinished"></translation>
+        <translation>Împinge și acoperă</translation>
     </message>
     <message>
         <source>Stripe and Cross</source>
@@ -3986,11 +3986,11 @@ PDF!</translation>
     </message>
     <message>
         <source>Fade Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Estompare lină</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"></translation>
+        <translation>Estompează</translation>
     </message>
     <message>
         <source>News</source>
