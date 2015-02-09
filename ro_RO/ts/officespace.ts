@@ -1386,7 +1386,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabel pivot</translation>
     </message>
     <message>
         <source>Make it easy to arrange and summarize complicated data and drill down on details.</source>
@@ -1422,7 +1422,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Partajează registru de lucru</translation>
     </message>
     <message>
         <source>Allow multiple people to work in a workbook at the same time.</source>
@@ -1893,7 +1893,7 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation>Dacă deja aveți un cod de activare, utilizați-l să activați WPS Office.</translation>
+        <translation>Dacă aveți deja un cod de activare, utilizați-l pentru activarea WPS Office.</translation>
     </message>
     <message>
         <source>Start your free %1-day trial.</source>
