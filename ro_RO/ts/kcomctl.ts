@@ -446,7 +446,7 @@ fișierul este posibil să fie redenumit, șters sau mutat.</translation>
 modify time: </source>
         <translation>
 
-data modificării: </translation>
+timpul modificării: </translation>
     </message>
     <message>
         <source>

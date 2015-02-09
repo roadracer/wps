@@ -187,14 +187,14 @@
     <name>kxwpptodocdlg</name>
     <message>
         <source>Input slide number or slide range. For example, 1,3,5-9</source>
-        <translation>Introduceți numărul diapozitivului sau gama de diapozitive. De exemplu, 1,3,5-9</translation>
+        <translation>Introduceți numărul diapozitivului sau intervalul de diapozitive. De exemplu, 1,3,5-9</translation>
     </message>
     <message>
         <source>This is a valid number.
 Please input slide number or slide range. 
 For example, 1,3,5-9.</source>
         <translation>Acesta este un număr valid.
-Introduceți numărul diapozitivului sau gama de diapozitive. 
+Introduceți numărul diapozitivului sau intervalul de diapozitive. 
 De exemplu, 1,3,5-9.</translation>
     </message>
     <message>

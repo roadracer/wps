@@ -1345,9 +1345,9 @@ condiția este adevărată:</translation>
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
         <translation>Nu puteți creea un tabel pivot cu aceste date. Verificați dacă datele pe care doriți să le analizați îndeplinesc următoarele condiții:
-1.Asigurați-vă că referința există. dacă este un nume, trebuie să fie o limită validă;
-2.Asigurați-vă că referința este o singură limită și că trebuie să conțină cel puțin două rânduri;
-3.Asigurați-vă că primul rând al limitei de referință nu conține nici o celulă goală, erori valoare,iar fiecare celulă nu conține mai mult de 255 caractere.</translation>
+1.Asigurați-vă că referința există. dacă este un nume, trebuie să fie un interval valid;
+2.Asigurați-vă că referința este un singur interval și că trebuie să conțină cel puțin două rânduri;
+3.Asigurați-vă că primul rând al intervalului de referință nu conține nici o celulă goală, erori valoare,iar fiecare celulă nu conține mai mult de 255 caractere.</translation>
     </message>
     <message>
         <source>No data fields have been retrieved.</source>
@@ -1363,15 +1363,15 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
-        <translation>Poziția pe care ați ales-o să plasați tabelul pivot nu este validă. Asigurați-vă că limitele referinței sunt valide și nu într-o foaie ascunsă.</translation>
+        <translation>Poziția pe care ați ales-o să plasați tabelul pivot nu este validă. Asigurați-vă că intervalul referinței este valid și nu într-o foaie ascunsă.</translation>
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation>Nu puteți modifica tabelul pivot cu aceste date. Verificați dacă limitele referinței sunt valide și dacă foaia de lucru specificat există.</translation>
+        <translation>Nu puteți modifica tabelul pivot cu aceste date. Verificați dacă intervalul referinței este valid și dacă foaia de lucru specificată există.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation>Nu puteți creea un tabel pivot cu aceste date. Verificați dacă limitele referinței sunt valide și dacă foaia de lucru există.</translation>
+        <translation>Nu puteți creea un tabel pivot cu aceste date. Verificați dacă intervalul referinței este valid și dacă foaia de lucru există.</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
@@ -2288,7 +2288,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Edit in &amp;Formula Bar</source>
-        <translation>Editează în bara &amp;formulă</translation>
+        <translation>Editează în bara &amp;formulelor</translation>
     </message>
     <message>
         <source>&amp;Option...</source>
@@ -3345,7 +3345,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Fi&amp;xed decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Zecimal fi&amp;xat</translation>
     </message>
     <message>
         <source>&amp;Places:</source>
@@ -3701,7 +3701,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Fixed ta&amp;b width</source>
-        <translation type="unfinished"></translation>
+        <translation>Lățime fi&amp;lă fixată</translation>
     </message>
     <message>
         <source>Tab display position</source>
@@ -4473,7 +4473,8 @@ change tracking from being removed.</source>
     <message>
         <source>If desired, a password must be chosen now, 
 prior to sharing the workbook.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă doriți, o parolă trebuie aleasă acum, 
+înaintea partajării registrului de lucru.</translation>
     </message>
     <message>
         <source>&amp;Password(optional):</source>
@@ -4750,7 +4751,7 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>Since I last saved</source>
-        <translation type="unfinished"></translation>
+        <translation>De la ultima salvare</translation>
     </message>
     <message>
         <source>All</source>
@@ -4762,7 +4763,7 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>Since date...</source>
-        <translation type="unfinished"></translation>
+        <translation>De la data...</translation>
     </message>
     <message>
         <source>Who:</source>
@@ -5248,11 +5249,11 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     <name>KxDlgTextToColumns</name>
     <message>
         <source>Original data type </source>
-        <translation type="unfinished"></translation>
+        <translation>Tip date original</translation>
     </message>
     <message>
         <source>Choose the file type that best describes your data:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți tipul de fișier care vă descrie cel mai bine datele:</translation>
     </message>
     <message>
         <source>&amp;Delimited</source>
@@ -5260,7 +5261,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>- Characters such as commas or tabs separate each field.</source>
-        <translation type="unfinished"></translation>
+        <translation>- Caractere precum virgule sau file separate fiecare câmp.</translation>
     </message>
     <message>
         <source>Fixed &amp;width</source>
@@ -5340,15 +5341,15 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>To CREATE a break line, click at the desired position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru a crea o linie ÎNTRERUPTĂ, apăsați la poziția dorită.</translation>
     </message>
     <message>
         <source>To DELETE a break line, double click on the line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru a ȘTERGE o linie întreruptă, efectuați click-dublu pe linie.</translation>
     </message>
     <message>
         <source>To MOVE a break line, click and drag it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru a MUTA o linie întreruptă, apăsați și trageți-o.</translation>
     </message>
     <message>
         <source>This screen lets you select each column and set the Data Format.</source>
@@ -5356,7 +5357,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>Column data format </source>
-        <translation type="unfinished"></translation>
+        <translation>Format date coloană </translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -5436,7 +5437,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Data Type Identification</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificare tip date</translation>
     </message>
     <message>
         <source>General</source>
@@ -5956,7 +5957,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     <name>KxEtDialogSheetDlg</name>
     <message>
         <source>Integer is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul întreg nu este valid.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -5983,7 +5984,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Format formă automată</translation>
     </message>
 </context>
 <context>
@@ -6020,7 +6021,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Edit in &amp;Formula Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Editează în bara &amp;formulelor</translation>
     </message>
 </context>
 <context>
@@ -6069,7 +6070,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtFormulaBar</name>
     <message>
         <source>Formula Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bara formulelor</translation>
     </message>
 </context>
 <context>
@@ -7002,7 +7003,7 @@ on iteration #%2.</source>
     <name>KxNewOrModifyAllowUserEditRangeDlg</name>
     <message>
         <source>The title &quot;%1&quot; contains illegal characters. Range titles may only contain letters, characters, numbers, and spaces, and must begin with a letter or a character.</source>
-        <translation type="unfinished"></translation>
+        <translation>Titlul &quot;%1&quot; conține caractere nepermise. Intervalul titlurilor poate conține numai litere, caractere, numere și spații libere și trebuie să înceapă cu o literă sau un caracter.</translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
@@ -7068,7 +7069,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others is no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Dacă aveți nevoie să editați acest fișier în WPS Spreadsheets, asigutați-vă că numeni nu îl editează, și transformați fișierul %2 într-un registru de lucru partajat %3 al WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>%1 If you only need to view content, please select %2 Read-only %3.</source>
@@ -7215,11 +7216,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The encryption algorithm you selected requires the password within 15 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritmul de criptare pe care l-ați selectat solicită o parolă de până la 15 caractere.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 32767. Try again by entering a number in this range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 1 și 32767. Încercați din nou introducând un număr în acest interval.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -7235,7 +7236,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificările fontului standard și dimensiunile fontului nu vor avea efect până ce nu veți crea un registru de lucru nou.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
@@ -7306,7 +7307,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Integer is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul întreg nu este valid.</translation>
     </message>
     <message>
         <source>Margins do not fit page size.</source>
@@ -7389,19 +7390,19 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Horizontal stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Dungă orizontală</translation>
     </message>
     <message>
         <source>Vertical stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Dungă verticală</translation>
     </message>
     <message>
         <source>Reverse Diagonal stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Dungă diagonală subțire</translation>
     </message>
     <message>
         <source>Diagonal stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Dungă diagonală</translation>
     </message>
     <message>
         <source>Diagonal crosshatch</source>
@@ -7413,19 +7414,19 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Thin Horizontal stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Dungă orizontală subțire</translation>
     </message>
     <message>
         <source>Thin Vertical stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Dungă verticală subțire</translation>
     </message>
     <message>
         <source>Thin Reverse Diagonal stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Dungă diagonală inversă subțire</translation>
     </message>
     <message>
         <source>Thin Diagonal stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Dungă diagonală subțire</translation>
     </message>
     <message>
         <source>Thin Horizontal crosshatch</source>
@@ -7566,7 +7567,9 @@ on iteration #%2.</source>
         <source>The PivotTable field name is not valid. 
 To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele câmpului tabelului pivot nu este valid. 
+Pentru a crea un raport tabel pivot, trebuie să utilizați datele care sunt organizate ca o listă cu coloane etichetate. 
+Dacă schimbați numele unui câmp tabel pivot, trebuie să introduceți un nou nume pentru câmp.</translation>
     </message>
     <message>
         <source>PivotTable field name already exists.</source>
@@ -7721,18 +7724,20 @@ Only %2 unique value can be keep after delete.</source>
     <name>KxRepeatWordDlg</name>
     <message>
         <source>Highlight Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiază duplicatele</translation>
     </message>
     <message>
         <source>Reject Duplicates Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge intrările duplicate</translation>
     </message>
     <message>
         <source>After clicking OK, the duplicated rows will be deleted 
 automatically, and only one row can be kept.
 
 (Note: The function only supports single range)</source>
-        <translation type="unfinished"></translation>
+        <translation>După ce apăsați OK, rândurile duplicate vor fi șterse 
+automat și doar numai un rând poate fi păstrat.
+(Notificare: Funcția suportă numai un singur interval)</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -7903,7 +7908,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Max Time must be a positive integer number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Timpul maxim trebuie să fie un număr întreg pozitiv.</translation>
     </message>
     <message>
         <source>Iterations must be a positive integer.</source>
@@ -7911,7 +7916,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Convergence must be a small positive number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Convergența trebuie să fie un număr mic pozitiv.</translation>
     </message>
     <message>
         <source>Sample Size must be a positive integer number.</source>
@@ -7974,7 +7979,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Too many Variable Cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prea multe celule variabile.</translation>
     </message>
     <message>
         <source>Objective Cell contents must be a formula.</source>

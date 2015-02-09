@@ -222,7 +222,7 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
     <message>
         <source>The number format you entered is invalid.</source>
         <comment>TX_INVALID_NFSTRING</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formatul numărului pe care l-ați introdus nu este valid.</translation>
     </message>
     <message>
         <source>Book</source>
@@ -517,7 +517,7 @@ There are several possible reasons:
     <message>
         <source>Do you want to replace the existing definition of &quot;%s&quot;?</source>
         <comment>TX_ERROR_DefinedNameExists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doriți să modificați definiția existentă pentru &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>Print titles must be contiguous regions and entire rows or columns.</source>
@@ -584,7 +584,7 @@ Selectați o singură regiune și apoi efectuați comanda din nou.</translation>
     <message>
         <source>Sum=</source>
         <comment>TX_SMART_TIPS_SUM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sum=</translation>
     </message>
     <message>
         <source>Average</source>
@@ -1001,12 +1001,12 @@ Remove the workbook from shared use?
     <message>
         <source>Your changes on sheet &apos;%s&apos;:</source>
         <comment>TX_ShareWorkbook_ConflictWhere</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modificările dumneavoastră pe foaia &apos;%s&apos;:</translation>
     </message>
     <message>
         <source>The changes to %s - %s encounter conflicts:</source>
         <comment>TX_ShareWorkbook_ConflictWhoWhen</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modificările la %s - %s au întâmpinat conflicte:</translation>
     </message>
     <message>
         <source>New styles cannot be added in shared workbooks.</source>
@@ -1099,7 +1099,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>You cannot use this command on a list or range that contains merged cells.</source>
         <comment>TX_ETDataForm_MergeRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți utiliza această comandă pe o listă sau interval care conține celule combinate.</translation>
     </message>
     <message>
         <source>The command you choose cannot be performed with multiple selections. Select a single range and click the command again.</source>
@@ -1134,12 +1134,12 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_ETDataForm_ArraryFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți schimba partea unei zone.</translation>
     </message>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_ETDataFrom_ArraryFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți schimba partea unei zone.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
@@ -2210,12 +2210,12 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Changes of Cell</source>
         <comment>TX_RevisionTypeCellChange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modificările celulei</translation>
     </message>
     <message>
         <source>Move range</source>
         <comment>TX_RevisionTypeCellMove</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mută interval</translation>
     </message>
     <message>
         <source>Insert Column</source>
@@ -2240,12 +2240,12 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Insert Worksheet</source>
         <comment>TX_RevisionTypeInsertSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu foaie de lucru</translation>
     </message>
     <message>
         <source>Rename Worksheet</source>
         <comment>TX_RevisionTypeRenameSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redenumește foaia de lucru</translation>
     </message>
     <message>
         <source>Insert the %s row</source>
@@ -2285,12 +2285,12 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Rename the %s  worksheet to %s</source>
         <comment>TX_RevisionDescRenameSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redenumește foaia de lucru %s la %s</translation>
     </message>
     <message>
         <source>Insert the %s worksheet</source>
         <comment>TX_RevisionDescInsertSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu foaia de lucru %s</translation>
     </message>
     <message>
         <source>Everyone</source>
@@ -2350,7 +2350,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Range Move</source>
         <comment>TX_Revision_Type_Move</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interval mutat</translation>
     </message>
     <message>
         <source>Row Insert</source>
@@ -2375,12 +2375,12 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Worksheet Insert</source>
         <comment>TX_Revision_Type_InsertSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Foaie de lucru introdusă</translation>
     </message>
     <message>
         <source>Worksheet Rename</source>
         <comment>TX_Revision_Type_RenameSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Foaie de lucru redenumită</translation>
     </message>
     <message>
         <source>Name Change</source>
@@ -2415,12 +2415,12 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Changed cell %s from &apos;%s&apos; to &apos;%s&apos;</source>
         <comment>TX_Revision_Desc_CellChange</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a schimbat celula %s de &apos;%s&apos; to &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Renamed sheet from &apos;%s&apos; to &apos;%s&apos;</source>
         <comment>TX_Revision_Desc_RenameSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a redenumit foaia de la &apos;%s&apos; to &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Inserted sheet &apos;%s&apos;</source>
@@ -2510,7 +2510,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Cannot execute the command on the selected range, please select another valid range.</source>
         <comment>TX_RepeatWord_Invalid_Range</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate executa comanda pe intervalul selectat, selectați un alt interval valid.</translation>
     </message>
     <message>
         <source>This operation requires the merged cells to be identically sized.</source>
@@ -2520,7 +2520,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_RepeatWord_ArrayFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți schimba partea unei zone.</translation>
     </message>
     <message>
         <source>Duplicates do not support reference to other workbooks or worksheets.</source>
@@ -2530,7 +2530,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>The selected range contains pivotTable.</source>
         <comment>TX_RepeatWord_PivotTable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Intervalul selectat conține tabel pivot.</translation>
     </message>
     <message>
         <source>Please select a single row or column to operate.</source>
@@ -4187,7 +4187,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COUNTBLANK(range)</source>
         <comment>COUNTBLANK_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>COUNTBLANK(interval)</translation>
     </message>
     <message>
         <source>Counts the number of empty cells in a specified range of cells.</source>
@@ -7753,7 +7753,7 @@ There are several possible reasons:
     <message>
         <source>The number must be between 10 and 400. Please enter a number within this range and try again.</source>
         <comment>TX_ZoomBox_Value_Invalid_ET</comment>
-        <translation>Numărul trebuie să fie între 10 și 400. Încercați din nou introducând un număr în această limită.</translation>
+        <translation>Numărul trebuie să fie între 10 și 400. Încercați din nou introducând un număr în acest interval.</translation>
     </message>
     <message>
         <source>The formula you typed contains errors. WPS Spreadsheets will automatically correct it as: 
@@ -7838,7 +7838,7 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Selecting Range</source>
         <comment>TX_Editing_SelectingRange</comment>
-        <translation>Limite selectate</translation>
+        <translation>Interval selectat</translation>
     </message>
     <message>
         <source>OVR</source>
@@ -8014,7 +8014,7 @@ Se continuă?</translation>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
         <comment>TX_DV_EmptyWholeNumberBoth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un Maxim și un Minim.</translation>
     </message>
     <message>
         <source>The Maximum must be greater than or equal to the Minimum.</source>
@@ -8024,7 +8024,7 @@ Se continuă?</translation>
     <message>
         <source>Cannot find the named range you specified.</source>
         <comment>TX_DV_List</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate găsi numele intervalului specificat.</translation>
     </message>
     <message>
         <source>The List Source must be a delimited data list, or a reference to a single row or column.</source>
@@ -8129,17 +8129,17 @@ Se continuă?</translation>
     <message>
         <source>You must enter a Start Time.</source>
         <comment>TX_DV_EmptyTime1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un timp de pornire.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
         <comment>TX_DV_EmptyTime2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un timp de terminare.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
         <comment>TX_DV_EmptyTimeBoth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un timp de terminare și un timp de pornire.</translation>
     </message>
     <message>
         <source>The End Time must be greater than or equal to the Start Time.</source>
@@ -8442,7 +8442,7 @@ Se continuă?</translation>
     <message>
         <source>New_text</source>
         <comment>TX_ParaInfo_042</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text_nou</translation>
     </message>
     <message>
         <source>Num_chars</source>
@@ -8477,7 +8477,7 @@ Se continuă?</translation>
     <message>
         <source>Old_text</source>
         <comment>TX_ParaInfo_049</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text_vechi</translation>
     </message>
     <message>
         <source>Order</source>
@@ -8492,7 +8492,7 @@ Se continuă?</translation>
     <message>
         <source>Range</source>
         <comment>TX_ParaInfo_052</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interval</translation>
     </message>
     <message>
         <source>Range_lookup</source>
@@ -8557,12 +8557,12 @@ Se continuă?</translation>
     <message>
         <source>Serial_number</source>
         <comment>TX_ParaInfo_065</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr_serial</translation>
     </message>
     <message>
         <source>Serial_number</source>
         <comment>TX_ParaInfo_066</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr_serial</translation>
     </message>
     <message>
         <source>Sheet_text</source>
@@ -9127,17 +9127,17 @@ Se continuă?</translation>
     <message>
         <source>Number of months</source>
         <comment>TX_ParaInfo_179</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr de luni</translation>
     </message>
     <message>
         <source>Number of days</source>
         <comment>TX_ParaInfo_180</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr de zile</translation>
     </message>
     <message>
         <source>Database range</source>
         <comment>TX_ParaInfo_181</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interval bază de date</translation>
     </message>
     <message>
         <source>Operation field</source>
@@ -9540,17 +9540,17 @@ ortografie</translation>
     <message>
         <source>Hyperlink position</source>
         <comment>TX_ParaInfo_190</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poziție Hyperlink</translation>
     </message>
     <message>
         <source>Display text</source>
         <comment>TX_ParaInfo_191</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afișează text</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
         <comment>TX_ShareWorkbook_MenuProtectAndShare</comment>
-        <translation type="unfinished"></translation>
+        <translation>Protejează și partajează registrul de lucru</translation>
     </message>
     <message>
         <source>Protect Shared Workbook</source>
@@ -9565,7 +9565,7 @@ ortografie</translation>
     <message>
         <source>Unprotect Sharing</source>
         <comment>TX_ShareWorkbook_DlgUnprotectSharingTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Partajare neprotejată</translation>
     </message>
     <message>
         <source>Value Date</source>
@@ -9680,7 +9680,7 @@ ortografie</translation>
     <message>
         <source>is a reference to a cell or range of cells and can refer to multiple areas.</source>
         <comment>TX_ParaDesc_010</comment>
-        <translation type="unfinished"></translation>
+        <translation>este o referință la o celulă sau un interval de celule și se poate referii la zone multiple.</translation>
     </message>
     <message>
         <source>is the text you want to convert to single-byte, or reference to text cell.</source>
@@ -9755,12 +9755,12 @@ ortografie</translation>
     <message>
         <source>is the number of successes in trials.</source>
         <comment>TX_ParaDesc_028</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul de succese în încercări.</translation>
     </message>
     <message>
         <source>is the number of independent trials.</source>
         <comment>TX_ParaDesc_029</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul de încercări independente.</translation>
     </message>
     <message>
         <source>is the probability of success on each trial.</source>
@@ -9855,12 +9855,12 @@ ortografie</translation>
     <message>
         <source>is the total number of items.</source>
         <comment>TX_ParaDesc_049</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul total de elemente.</translation>
     </message>
     <message>
         <source>is the number of items in each combination.</source>
         <comment>TX_ParaDesc_050</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul de elemente în fiecare combinație.</translation>
     </message>
     <message>
         <source>is the significance level used to compute the confidence level, a number greater than 0 and less than 10.</source>
@@ -9925,7 +9925,7 @@ ortografie</translation>
     <message>
         <source>is the number of Bernoulli trials.</source>
         <comment>TX_ParaDesc_066</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul de încercări Bernoulli.</translation>
     </message>
     <message>
         <source>is the probability of success on each trial, a number between 0 and 1 inclusive.</source>
@@ -10120,12 +10120,12 @@ ortografie</translation>
     <message>
         <source>is the first text string.</source>
         <comment>TX_ParaDesc_106</comment>
-        <translation type="unfinished"></translation>
+        <translation>este primul șir text.</translation>
     </message>
     <message>
         <source>is the second text string.</source>
         <comment>TX_ParaDesc_107</comment>
-        <translation type="unfinished"></translation>
+        <translation>este al doilea șir text.</translation>
     </message>
     <message>
         <source>is the exponent applied to the base e. The constant e equals 2.71828182845904, the base of the natural logarithm.</source>
@@ -10135,12 +10135,12 @@ ortografie</translation>
     <message>
         <source>is the value of the function, a nonnegative number.</source>
         <comment>TX_ParaDesc_109</comment>
-        <translation type="unfinished"></translation>
+        <translation>este valoarea funcției, un număr care nu este negativ.</translation>
     </message>
     <message>
         <source>is the parameter value, a positive number.</source>
         <comment>TX_ParaDesc_110</comment>
-        <translation type="unfinished"></translation>
+        <translation>este valoarea parametrului, un număr pozitiv.</translation>
     </message>
     <message>
         <source>is a logical value for the function to return; the cumulative distribution function = TRUE; the probability density function = FALSE.</source>
@@ -10190,7 +10190,7 @@ ortografie</translation>
     <message>
         <source>is the text containing the text you want to find.</source>
         <comment>TX_ParaDesc_120</comment>
-        <translation type="unfinished"></translation>
+        <translation>este textul care conține textul pe care ați dorit să-l găsiți.</translation>
     </message>
     <message>
         <source>specifies the character at which to start the search.</source>
@@ -10285,7 +10285,7 @@ ortografie</translation>
     <message>
         <source>is the total number of payment periods in the investment.</source>
         <comment>TX_ParaDesc_140</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul total de termene de plată în investiție.</translation>
     </message>
     <message>
         <source>is the payment made each period and cannot change over the life of the investment.</source>
@@ -10410,17 +10410,17 @@ ortografie</translation>
     <message>
         <source>is the number of successes in the sample.</source>
         <comment>TX_ParaDesc_168</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul de succese în eșantion.</translation>
     </message>
     <message>
         <source>is the size of the sample.</source>
         <comment>TX_ParaDesc_169</comment>
-        <translation type="unfinished"></translation>
+        <translation>este dimensiunea eșantionului.</translation>
     </message>
     <message>
         <source>is the number of successes in the population.</source>
         <comment>TX_ParaDesc_170</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul de succese în populație.</translation>
     </message>
     <message>
         <source>is the population size.</source>
@@ -10515,7 +10515,7 @@ ortografie</translation>
     <message>
         <source>number of payment periods in an investment.</source>
         <comment>TX_ParaDesc_189</comment>
-        <translation type="unfinished"></translation>
+        <translation>numărul de perioade de plată într-o investiție.</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
@@ -10575,7 +10575,7 @@ ortografie</translation>
     <message>
         <source>number of payment periods in an investment.</source>
         <comment>TX_ParaDesc_201</comment>
-        <translation type="unfinished"></translation>
+        <translation>numărul de perioade de plată într-o investiție.</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
@@ -10615,7 +10615,7 @@ ortografie</translation>
     <message>
         <source>is the text whose number of characters you want to find.</source>
         <comment>TX_ParaDesc_211</comment>
-        <translation type="unfinished"></translation>
+        <translation>este textul al cărui număr de caractere ați dorit să-l găsiți.</translation>
     </message>
     <message>
         <source>is a logical value: the constant b is calculated normally if Const = TRUE or omitted; b is set equal to 1 if Const = FALSE.</source>
@@ -10970,7 +10970,7 @@ ortografie</translation>
     <message>
         <source>in the number of objects in each permutation.</source>
         <comment>TX_ParaDesc_290</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul de obiecte în fiecare permutare.</translation>
     </message>
     <message>
         <source>is a reference to a cell containing a phonetic string.</source>
@@ -10980,7 +10980,7 @@ ortografie</translation>
     <message>
         <source>is the total number of payment periods for the loan or investment.</source>
         <comment>TX_ParaDesc_292</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul total de termene de plată pentru împrumut sau investiție.</translation>
     </message>
     <message>
         <source>is the present value: the total amount that a series of future payments is worth now.</source>
@@ -11060,7 +11060,7 @@ ortografie</translation>
     <message>
         <source>is the total number of payment periods in the investment.</source>
         <comment>TX_ParaDesc_309</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul total de termene de plată în investiție.</translation>
     </message>
     <message>
         <source>is the payment made each period; it cannot change over the life of the investment.</source>
@@ -11105,7 +11105,7 @@ ortografie</translation>
     <message>
         <source>is the total number of payment periods for the loan or investment.</source>
         <comment>TX_ParaDesc_318</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul total de termene de plată pentru împrumut sau investiție.</translation>
     </message>
     <message>
         <source>is the payment made each period and cannot change over the life of the loan or investment.</source>
@@ -11390,7 +11390,7 @@ ortografie</translation>
     <message>
         <source>is the range of cells you want evaluated.</source>
         <comment>TX_ParaDesc_383</comment>
-        <translation type="unfinished"></translation>
+        <translation>este intervalul de celule pe care doriți să le evaluați.</translation>
     </message>
     <message>
         <source>is the condition or criteria in the form of a number, experession, or text that defines which cells will be used to find the average.</source>
@@ -11695,12 +11695,12 @@ ortografie</translation>
     <message>
         <source>is the number of characters to use.</source>
         <comment>TX_ParaDesc_449</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul de caractere de utilizat.</translation>
     </message>
     <message>
         <source>is the number of characters to use.</source>
         <comment>TX_ParaDesc_450</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul de caractere de utilizat.</translation>
     </message>
     <message>
         <source>number</source>
@@ -11995,7 +11995,7 @@ ortografie</translation>
     <message>
         <source>is the range of cells you want evaluated for the particular condition.</source>
         <comment>TX_ParaDesc_485</comment>
-        <translation type="unfinished"></translation>
+        <translation>este intervalul de celule pe care doriți să le evaluați pentru condiția particulară.</translation>
     </message>
     <message>
         <source>Rate</source>
@@ -12301,7 +12301,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Edit range without a password</source>
         <comment>TX_SecurityDecriptorNotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Editează intervalul fără o parolă</translation>
     </message>
     <message>
         <source>is the name of the data field to extract data from</source>
@@ -12416,7 +12416,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the cell or range that you want information about.</source>
         <comment>TX_ParaDesc_544</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">este celula sau intervalul despre care doriți informații.</translation>
     </message>
     <message>
         <source>Dates</source>
@@ -13907,12 +13907,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Copy Range </source>
         <comment>TX_Undo_Range_Copy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Copiazî interval </translation>
     </message>
     <message>
         <source>Cut Range</source>
         <comment>TX_Undo_Range_Cut</comment>
-        <translation type="unfinished"></translation>
+        <translation>Taie interval</translation>
     </message>
     <message>
         <source>Copy Format</source>
@@ -14047,7 +14047,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Data Range Properties</source>
         <comment>TX_Undo_DataRangeProperties</comment>
-        <translation type="unfinished"></translation>
+        <translation>Proprietăți interval date</translation>
     </message>
     <message>
         <source>Remove duplicates</source>
@@ -14135,7 +14135,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
         <comment>et_sBadZoomValue</comment>
-        <translation>Numărul trebuie să fie între 10 și 400. Încercați din nou introducând un număr în această limită.</translation>
+        <translation>Numărul trebuie să fie între 10 și 400. Încercați din nou introducând un număr în acest interval.</translation>
     </message>
     <message>
         <source>between</source>
@@ -14643,12 +14643,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
         <comment>et_sErrorBadRange</comment>
-        <translation>Numărul trebuie să fie între 1 și 32767. Încercați din nou introducând un număr în această gamă.</translation>
+        <translation>Numărul trebuie să fie între 1 și 32767. Încercați din nou introducând un număr în acest interval.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
         <comment>et_sErrorBadZoom</comment>
-        <translation>Numărul trebuie să fie între 10 și 400. Încercați din nou introducând un număr în această gamă.</translation>
+        <translation>Numărul trebuie să fie între 10 și 400. Încercați din nou introducând un număr în acest interval.</translation>
     </message>
     <message>
         <source>Integer is not valid.</source>
@@ -15115,7 +15115,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
         <comment>et_sNumberOutof1and32767</comment>
-        <translation>Numărul trebuie să fie între 1 și 32767. Încercați din nou introducând un număr în aceste limite.</translation>
+        <translation>Numărul trebuie să fie între 1 și 32767. Încercați din nou introducând un număr în acest interval.</translation>
     </message>
     <message>
         <source>The measurement must be between %d and %d.</source>
@@ -15619,17 +15619,17 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Data range is not valid.</source>
         <comment>et_sInvalidListRange</comment>
-        <translation>Limitele datelor nu sunt valide.</translation>
+        <translation>Intervalul datelor nu este valid.</translation>
     </message>
     <message>
         <source>Criteria range is not valid.</source>
         <comment>et_sInvalidCriteriaRange</comment>
-        <translation>Limita criteriului nu este validă.</translation>
+        <translation>Intervalul criteriului nu este valid.</translation>
     </message>
     <message>
         <source>Extract range is not valid.</source>
         <comment>et_sInvalidExtractRange</comment>
-        <translation>Limita extrasă nu este validă.</translation>
+        <translation>Intervalul extras nu este valid.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>

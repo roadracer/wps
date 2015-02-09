@@ -17,7 +17,7 @@
     <message>
         <source>Value Out Of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation>Valoarea este în afara limitelor</translation>
+        <translation>Valoarea este în afara intervalului</translation>
     </message>
     <message>
         <source>Invalid Parameter</source>
@@ -73,7 +73,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
         <comment>TX_KSO_CF_TEXT_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca text fără nici o formatare.</translation>
     </message>
     <message>
         <source>Data of WPS Writer</source>
@@ -83,7 +83,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Writer.</source>
         <comment>TX_KSO_CF_WPS_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca date WPS Writer.</translation>
     </message>
     <message>
         <source>Data of WPS Spreadsheets</source>
@@ -93,7 +93,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Spreadsheets.</source>
         <comment>TX_KSO_CF_ET_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca date WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>Data of WPS Presentation</source>
@@ -103,7 +103,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Presentation.</source>
         <comment>TX_KSO_CF_WPP_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca date WPS Presentation.</translation>
     </message>
     <message>
         <source>Data of WPS Mail</source>
@@ -113,7 +113,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Mail.</source>
         <comment>TX_KSO_CF_MAIL_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca date WPS Mail.</translation>
     </message>
     <message>
         <source>Data of WPS Drawing</source>
@@ -123,7 +123,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca date WPS Drawing.</translation>
     </message>
     <message>
         <source>%s Object</source>
@@ -133,7 +133,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
         <comment>TX_KSO_CF_EMBEDDEDOBJECT_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca un obiect OLE.</translation>
     </message>
     <message>
         <source>Picture (Windows Metafile)</source>
@@ -143,7 +143,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as Picture (Windows Metafile).</source>
         <comment>TX_KSO_CF_PIC_METAFILEPICT_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca poză (Windows Metafile).</translation>
     </message>
     <message>
         <source>Picture (Enhanced Metafile)</source>
@@ -153,7 +153,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as an Enhanced Metafile.</source>
         <comment>TX_KSO_CF_PIC_ENHMETAFILEPICT_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca un Enhanced Metafile.</translation>
     </message>
     <message>
         <source>Picture (PNG)</source>
@@ -163,7 +163,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
         <comment>TX_KSO_CF_PIC_PNG_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca o poză PNG.</translation>
     </message>
     <message>
         <source>Picture (JFIF)</source>
@@ -173,7 +173,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as a JFIF picture.</source>
         <comment>TX_KSO_CF_PIC_JFIF_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca o poză JFIF.</translation>
     </message>
     <message>
         <source>Picture (GIF)</source>
@@ -183,7 +183,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as a GIF picture.</source>
         <comment>TX_KSO_CF_PIC_GIF_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca o poză GIF.</translation>
     </message>
     <message>
         <source>Bitmap</source>
@@ -193,7 +193,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
         <comment>TX_KSO_CF_PIC_BITMAP_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca o poză Bitmap.</translation>
     </message>
     <message>
         <source>Device Independent Bitmap</source>
@@ -203,7 +203,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as a Device Independent Bitmap picture.</source>
         <comment>TX_KSO_CF_PIC_DIB_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca poză dispozitiv independent Bitmap.</translation>
     </message>
     <message>
         <source>Picture (JPG)</source>
@@ -213,7 +213,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as a JPG picture.</source>
         <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca o poză JPG.</translation>
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
@@ -223,7 +223,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as Text with Font and Table Formatting.</source>
         <comment>TX_KSO_CF_RTF_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca text cu font și tabel formatat.</translation>
     </message>
     <message>
         <source>HTML Format</source>
@@ -233,7 +233,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
         <comment>TX_KSO_CF_HTML_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca format HTML.</translation>
     </message>
     <message>
         <source>MS Office Drawing Object</source>
@@ -243,7 +243,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as an Office Drawing.</source>
         <comment>TX_KSO_CF_ESCHER_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca un Office Drawing.</translation>
     </message>
     <message>
         <source>FILES</source>
@@ -253,7 +253,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>The contents of the clipboard will be inserted as FILES Format.</source>
         <comment>TX_KSO_CF_HDROP_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul memoriei temporare va fi introdus ca format fișiere.</translation>
     </message>
     <message>
         <source>%s Object</source>
@@ -331,7 +331,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Insert AutoShape</source>
         <comment>DgUil_InsertShape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu formă automată</translation>
     </message>
     <message>
         <source>Insert Connector</source>
@@ -556,7 +556,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Change to Autoshape</source>
         <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă la formă automată</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
@@ -616,22 +616,22 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_DashStylePalette</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format formă</translation>
     </message>
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_ArrowStylePalette</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format formă</translation>
     </message>
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_MoreArrows</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format formă</translation>
     </message>
     <message>
         <source>No Shadow</source>
         <comment>DgUil_KSO_Cmd_NoShadow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fără umbră</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -831,12 +831,12 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Straight Segment</source>
         <comment>DgUil_KSO_Cmd_SegmentType_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation>Segment dreaptă</translation>
     </message>
     <message>
         <source>Curved Segment</source>
         <comment>DgUil_KSO_Cmd_SegmentType_Value1</comment>
-        <translation>Segment curbat</translation>
+        <translation>Segment curbă</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
@@ -1061,12 +1061,12 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Insert OLE Object</source>
         <comment>DgUil_KSO_Cmd_InsertOle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu obiect OLE</translation>
     </message>
     <message>
         <source>Edit OLE Object</source>
         <comment>DgUil_KSO_Cmd_EditOle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Editare obiect OLE</translation>
     </message>
     <message>
         <source>AutoShape</source>
@@ -1227,7 +1227,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Unidentifiable picture format.</source>
         <comment>DgUil_KSO_Invalid_Picture</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format poză neidentificabil.</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -1435,42 +1435,42 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WordArt: Simple Text</source>
         <comment>DRAWINGSTR_TEXTSIMPLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Text simplu</translation>
     </message>
     <message>
         <source>WordArt: Hexagon</source>
         <comment>DRAWINGSTR_TEXTOCTAGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Hexagon</translation>
     </message>
     <message>
         <source>WordArt: Pentagon</source>
         <comment>DRAWINGSTR_TEXTHEXAGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Pentagon</translation>
     </message>
     <message>
         <source>WordArt: Curve</source>
         <comment>DRAWINGSTR_TEXTCURVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Curbă</translation>
     </message>
     <message>
         <source>WordArt: Wave</source>
         <comment>DRAWINGSTR_TEXTWAVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Val</translation>
     </message>
     <message>
         <source>WordArt: Donought</source>
         <comment>DRAWINGSTR_TEXTRING</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Gogoașă</translation>
     </message>
     <message>
         <source>WordArt: Curve2</source>
         <comment>DRAWINGSTR_TEXTONCURVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Curbă2</translation>
     </message>
     <message>
         <source>WordArt: Circle</source>
         <comment>DRAWINGSTR_TEXTONRING</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Cerc</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -1605,7 +1605,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Wave</source>
         <comment>DRAWINGSTR_WAVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Val</translation>
     </message>
     <message>
         <source>Folded Corner</source>
@@ -1630,22 +1630,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Left-Right Arrow</source>
         <comment>DRAWINGSTR_LEFTRIGHTARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată stânga-dreapta</translation>
     </message>
     <message>
         <source>Up-Down Arrow</source>
         <comment>DRAWINGSTR_UPDOWNARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată sus-jos</translation>
     </message>
     <message>
         <source>Explosion 1</source>
         <comment>DRAWINGSTR_IRREGULARSEAL1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Explozie 1</translation>
     </message>
     <message>
         <source>Explosion 2</source>
         <comment>DRAWINGSTR_IRREGULARSEAL2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Explozie 2</translation>
     </message>
     <message>
         <source>Lightning Bolt</source>
@@ -1795,22 +1795,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Curved Left Arrow</source>
         <comment>DRAWINGSTR_CURVEDRIGHTARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată curbată la stânga</translation>
     </message>
     <message>
         <source>Curved Right Arrow</source>
         <comment>DRAWINGSTR_CURVEDLEFTARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată curbată la dreapta</translation>
     </message>
     <message>
         <source>Curved Down Arrow</source>
         <comment>DRAWINGSTR_CURVEDUPARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată curbată în jos</translation>
     </message>
     <message>
         <source>Curved Up Arrow</source>
         <comment>DRAWINGSTR_CURVEDDOWNARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată curbată în sus</translation>
     </message>
     <message>
         <source>Cloud Callout</source>
@@ -2000,17 +2000,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WordArt: Arch Up Curve</source>
         <comment>DRAWINGSTR_TEXTARCHUPCURVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Arc de cerc în sus</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Curve</source>
         <comment>DRAWINGSTR_TEXTARCHDOWNCURVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Arc de cerc în jos</translation>
     </message>
     <message>
         <source>WordArt: Circle Curve</source>
         <comment>DRAWINGSTR_TEXTCIRCLECURVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Arc de cerc</translation>
     </message>
     <message>
         <source>WordArt: Button Curve</source>
@@ -2120,22 +2120,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WordArt: Fade Right</source>
         <comment>DRAWINGSTR_TEXTFADERIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Estompat dreapta</translation>
     </message>
     <message>
         <source>WordArt: Fade Left</source>
         <comment>DRAWINGSTR_TEXTFADELEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Estompat stânga</translation>
     </message>
     <message>
         <source>WordArt: Fade Up</source>
         <comment>DRAWINGSTR_TEXTFADEUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Estompat sus</translation>
     </message>
     <message>
         <source>WordArt: Fade Down</source>
         <comment>DRAWINGSTR_TEXTFADEDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt: Estompat jos</translation>
     </message>
     <message>
         <source>WordArt: Slant Up</source>
@@ -2245,12 +2245,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Action Button: Forward or Next</source>
         <comment>DRAWINGSTR_ACTIONBUTTONFORWARDNEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Action Button: Înainte sau următor</translation>
     </message>
     <message>
         <source>Action Button: Back or Previous</source>
         <comment>DRAWINGSTR_ACTIONBUTTONBACKPREVIOUS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Action Button: Înapoi sau anterior</translation>
     </message>
     <message>
         <source>Action Button: End</source>
@@ -2305,17 +2305,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Chair</source>
         <comment>DRAWINGSTR_CHAIR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scaun</translation>
     </message>
     <message>
         <source>Chair</source>
         <comment>DRAWINGSTR_CHAIR1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scaun</translation>
     </message>
     <message>
         <source>Guest Chair</source>
         <comment>DRAWINGSTR_CHAIR3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scaun oaspete</translation>
     </message>
     <message>
         <source>Cloud</source>
@@ -2345,12 +2345,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Two-seater</source>
         <comment>DRAWINGSTR_COUCH1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Două locuri</translation>
     </message>
     <message>
         <source>Three-seater</source>
         <comment>DRAWINGSTR_COUCH2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trei locuri</translation>
     </message>
     <message>
         <source>Curved Ribbon3</source>
@@ -2440,7 +2440,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Infopage</source>
         <comment>DRAWINGSTR_INFOPAGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Infopage</translation>
     </message>
     <message>
         <source>Laptop</source>
@@ -2535,7 +2535,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Pub L</source>
         <comment>DRAWINGSTR_PUBL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pub L</translation>
     </message>
     <message>
         <source>Pub Oval Callout</source>
@@ -2715,17 +2715,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Crossband</source>
         <comment>DRAWINGSTR_TRANSFER_CROSSBAND</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bandă încrucișată</translation>
     </message>
     <message>
         <source>Leather</source>
         <comment>DRAWINGSTR_TRANSFER_ANIMAL_SKIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Piele</translation>
     </message>
     <message>
         <source>Coarse Cloth</source>
         <comment>DRAWINGSTR_TRANSFER_COARSE_CLOTH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pânză aspră</translation>
     </message>
     <message>
         <source>Kingsoft</source>
@@ -2825,12 +2825,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Invalid request. To select a shape, its view must be activated.</source>
         <comment>DRAWINGSTR_ERR_NOACTIVEVIEW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Solicitare nevalidă. Pentru a selecta o formă, vizualizarea sa trebuie să fie activată.</translation>
     </message>
     <message>
         <source>The value specified is beyond the range.</source>
         <comment>DRAWINGSTR_ERR_VALUEINVALIDRANGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea specificată este în afara intervalului.</translation>
     </message>
     <message>
         <source>Object</source>
@@ -2978,7 +2978,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>The document is created by Microsoft Office 95 or earlier version, please convert it to Microsoft Office 97 or later version and try again.</source>
         <comment>_KsoPrompt_FormatVersionNotOffice97OrLater</comment>
-        <translation type="unfinished"></translation>
+        <translation>Documentul este creat cu Microsoft Office 95 sau o versiune anterioară, covertiți-l la Microsoft Office 97 sau o versiune ulterioară și încercați din nou.</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document</source>
@@ -3093,7 +3093,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WPS Office encountered an error when saving the file. Please try again or contact customer service.</source>
         <comment>_KsoPrompt_SaveError</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office a întâmpinat o eroare la salvarea fișierului. Încercați din nou sau contactați centrul service pentru clienți.</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Template</source>
@@ -3103,7 +3103,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acest fișier ar trebui deschis ca doar-citire cu excepția cazului încare modificările aduse trebuie salvate. Se deschide doar pentru citire?</translation>
     </message>
 </context>
 <context>
@@ -3121,12 +3121,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>The number of copies is out of range. Do you want to cut the number of copies or cancel this print task?</source>
         <comment>TxKRM_Msg_PrintCopiesDenied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de copii sunt în afara intervalului. Doriți să tăiați numărul de copii sau să anulați această sarcină de tipărire?</translation>
     </message>
     <message>
         <source>You have no permission to save files. Please check your permission information.</source>
         <comment>TxKRM_Msg_SaveFileDenied</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu aveți permisiunea să salvați fișiere. Verificați informația permisiunii.</translation>
     </message>
 </context>
 <context>
@@ -3177,7 +3177,11 @@ Description: %s
 File: %s
 </source>
         <comment>_kso_Addins_AVScan_Failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Următorul addin nu a trecut examinarea antivirus. Pentru a asigura securitatea, %s va refuza încărcarea acestuia. 
+
+Nume: %s
+Descriere: %s
+Fișier: %s</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -3212,7 +3216,7 @@ File: %s
     <message>
         <source>WPS Writer has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_wps</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer a întâmpinat o problemă și trebuie să fie închisă.</translation>
     </message>
     <message>
         <source>WPS Presentation has encountered a problem and needs to close.</source>
@@ -3232,22 +3236,22 @@ File: %s
     <message>
         <source>WPS Writer Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_wps</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajutor recuperare eroare WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_wpp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajutor recuperare eroare WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_et</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajutor recuperare eroare WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Simulation Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_test</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajutor recuperare eroare WPS Simulation</translation>
     </message>
     <message>
         <source>The file is loading, please wait.</source>
@@ -3312,23 +3316,24 @@ File: %s
     <message>
         <source>Data transfer completed, thanks for your support.</source>
         <comment>_kso_ErrorRep_MessageBox_CompleteSend_Content</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a terminat transferul datelor, vă mulțumim pentru suport.</translation>
     </message>
     <message>
         <source>Terminate sending</source>
         <comment>_kso_ErrorRep_MessageBox_TerminateSend_Title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Termină trimiterea</translation>
     </message>
     <message>
         <source>Sending report is not completed yet. Are you sure to terminate sending?</source>
         <comment>_kso_ErrorRep_MessageBox_TerminateSend_Content</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trimiterea raportului nu este încă gata. Sunteți sigur că terminați trimiterea?</translation>
     </message>
     <message>
         <source>The password is incorrect, please reenter.
 You can choose Read-only button to open it as read-only.</source>
         <comment>_kso_Prompt_ModifyPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation>Parola este incorectă, reintroduceți-o. 
+Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -3763,7 +3768,7 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>New Workbook.xls</source>
         <comment>_kso_etSaveToFileName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Registru de lucru nou.xls</translation>
     </message>
     <message>
         <source>New Document.doc</source>
@@ -3793,18 +3798,19 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office Crashing Information</source>
         <comment>_kso_crashdlg_caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Informație prăbușire WPS Office</translation>
     </message>
     <message>
         <source>Sorry, WPS Office crashes.
 You can click the button to recover files you work on.</source>
         <comment>_kso_crashdlg_warmtext</comment>
-        <translation type="unfinished"></translation>
+        <translation>Regretăm, WPS Office s-a prăbușit.
+Puteți apăsa butonul pentru recuperarea fișierelor la care lucrați.</translation>
     </message>
     <message>
         <source>&lt;a normal=&apos;cbsend&apos;&gt;Send &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;the error report&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; to help us improve our products.&lt;/a&gt;</source>
         <comment>_kso_crashdlg_sendcheck</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a normal=&apos;cbsend&apos;&gt;Trimite &lt;/a&gt;&lt;a msg=&apos;clicknotify:112&apos;&gt;reportul de eroare&lt;/a&gt;&lt;a normal=&apos;cbsend&apos;&gt; pentru a ne ajuta să îmbunătățim produsele noastre.&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -4020,7 +4026,9 @@ You can click the button to recover files you work on.</source>
 You can add the customized paper %dmm x %dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="unfinished"></translation>
+        <translation>Imprimanta nu suportă dimensiunea curentă a hârtiei, Continuând tipărirea, calitatea poate fi nesatisfăcătoare.
+Puteți adăuga hârtia personalizată %dmm x %dmm în proprietățile imprimantei și tipăriți din nou.
+Doriți să continuați?</translation>
     </message>
     <message>
         <source>WPS Office has not found any installed printers.</source>
@@ -4035,7 +4043,7 @@ Do you want to continue?</source>
     <message>
         <source>Please remove the paper with one side printed from output tray and place it back in the input bin, then press OK to continue printing.</source>
         <comment>_kso_Print_Msg</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eliminați hârtia tipărită pr o parte din tava de ieșire și puneți-o înapoi în cutia de intrare, apoi apăsați OK pentru a continua tipărirea.</translation>
     </message>
     <message>
         <source>Use printer settings</source>
@@ -4069,7 +4077,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Symbol(DEC)</source>
         <comment>kso_acsnDecSymbol</comment>
-        <translation type="unfinished"></translation>
+        <translation>Simbol(DEC)</translation>
     </message>
     <message>
         <source>ASCII(HEX)</source>
@@ -4084,7 +4092,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Symbol(HEX)</source>
         <comment>kso_acsnHexSymbol</comment>
-        <translation type="unfinished"></translation>
+        <translation>Simbol(HEX)</translation>
     </message>
     <message>
         <source>Unicode(HEX)</source>
@@ -4094,12 +4102,12 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Backup Management</source>
         <comment>kso_BackupFile_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Administrare backup</translation>
     </message>
     <message>
         <source>Backup Management</source>
         <comment>kso_BackupFile_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Administrare backup</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -4124,12 +4132,12 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>New Workbook</source>
         <comment>kso_NewWorkbook_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Registru de lucru nou</translation>
     </message>
     <message>
         <source>New Workbook</source>
         <comment>kso_NewWorkbook_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Registru de lucru nou</translation>
     </message>
     <message>
         <source>Recent documents</source>
@@ -4144,7 +4152,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Recent workbooks</source>
         <comment>kso_Recent_WorkBook</comment>
-        <translation type="unfinished"></translation>
+        <translation>Registre de lucru recente</translation>
     </message>
     <message>
         <source>10%</source>
@@ -4224,17 +4232,17 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Error happens when application initializes. Error code: 0x%8.8x.</source>
         <comment>kso_sAppInitializeError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Au intervenit erori când aplicația se inițializa. Cod eroare:0x%8.8x. </translation>
     </message>
     <message>
         <source>Error happens when application trys to register. Error code: 0x%8.8x.</source>
         <comment>kso_sAppRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Au intervenit erori când aplicația încerca să se înregistreze. Cod eroare: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Error happens when application trys to logout. Error code: 0x%8.8x.</source>
         <comment>kso_sAppUnRegisterError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Au intervenit erori când aplicația încerca să se deautentifice. Cod eroare: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Arrow Style %d</source>
@@ -4249,12 +4257,12 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>AutoShapes</source>
         <comment>kso_sAutoShapes_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Forme automate</translation>
     </message>
     <message>
         <source>AutoShapes</source>
         <comment>kso_sAutoShapes_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Forme automate</translation>
     </message>
     <message>
         <source>The name already exists. Please enter another one.</source>
@@ -4294,7 +4302,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>(Build %s)</source>
         <comment>kso_sBuildNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Versiune %s)</translation>
     </message>
     <message>
         <source>Byte</source>
@@ -4309,7 +4317,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close the dialog box to try again.</source>
         <comment>kso_sCannotExecuteWhileModal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comanda nu poate fi executată fiindcă o casetă dialog este deschisă. Apăsați OK, iar apoi închideți caseta de dialog pentru a încerca din nou.</translation>
     </message>
     <message>
         <source>Cannot create a link to the file &quot;%s&quot;.</source>
@@ -4349,17 +4357,17 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Clear backup files automatically before closing application.</source>
         <comment>kso_sClearBackup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță automat fișierele de rezervă înaintea închiderii aplicației.</translation>
     </message>
     <message>
         <source>Clear clipboard automatically before closing application.</source>
         <comment>kso_sClearClipboard</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță automat memoria temporară înaintea închiderii aplicației.</translation>
     </message>
     <message>
         <source>Clear Recent File Lists automatically before closing application.</source>
         <comment>kso_sClearRecents</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță automat listele de fișiere recente înaintea închiderii aplicației.</translation>
     </message>
     <message>
         <source>Clear temporary files automatically before closing application.</source>
@@ -4389,12 +4397,12 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Failed to modify the Add-In settings</source>
         <comment>kso_sCOMAddinApplied</comment>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat configurarea add-in</translation>
     </message>
     <message>
         <source>Load on Demand (already loaded)</source>
         <comment>kso_sConnectFirstTime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Încarcă la cerere (deja încărcat)</translation>
     </message>
     <message>
         <source>Copy to</source>
@@ -4434,12 +4442,12 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Custom Shows</source>
         <comment>kso_sCustomShows</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prezentări personalizate</translation>
     </message>
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
         <comment>kso_sCustomTypeValueError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea introdusă nu se potrivește cu tipul specificat. Valoarea va fi depozitată ca text.</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
@@ -4494,7 +4502,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Defined Names</source>
         <comment>kso_sDefinedNames</comment>
-        <translation type="unfinished"></translation>
+        <translation>Denumiri definite</translation>
     </message>
     <message>
         <source>Failed to unintall Add-In</source>
@@ -4504,7 +4512,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Are you sure you want to delete the &apos;%s&apos; toolbar?</source>
         <comment>kso_SDeleteToolbar</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să ștergeți bara de unelte &apos;%s&apos;?</translation>
     </message>
     <message>
         <source>Diagonal brick</source>
@@ -4549,7 +4557,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>The items with &quot;*&quot; must be inputted.</source>
         <comment>kso_sEmptyUserInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elementele cu &quot;*&quot; trebuie introduse.</translation>
     </message>
     <message>
         <source>Office Standard</source>
@@ -4569,7 +4577,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>The key length must be a multiple of 8 between %d and %d.</source>
         <comment>kso_sErrorKeylength</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lungimea cheii trebuie să fie un multiplu de 8 între %d și %d.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -4579,7 +4587,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <comment>kso_sErrorWhenCreateTable_General</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți crea un tabel pivot cu aceste date. Verificați datele și asigurați-vă că referința este validă iar foaia de lucru există.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. 
@@ -4593,7 +4601,10 @@ Please make sure it is a valid reference range, and not a range of a hidden shee
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți crea un tabel pivot cu aceste date. Verificați dacă datele pe care doriți să le analizați îndeplinesc următoarele condiții: 
+1.Asigurați-vă că referința există. Dacă este un nume, trebuie să fie un interval valid;
+2.Asigurați-vă că referința este un singur interval și că aceasta conține cel puțin două rânduri;
+3.Asigurați-vă că primul rând al intervalului referinței nu conține celule goale, valori eronate, iar fiecare celulă nu conține mai mult de 255 caractere.</translation>
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data.
@@ -4619,7 +4630,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>WPS Spreadsheets cannot access %s, the file name is invalid.</source>
         <comment>kso_sEtFileNameNoEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets nu poate accesa %s, numele fișierului nu este valid.</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document.</source>
@@ -4634,12 +4645,12 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Insert a new %s object into your document.</source>
         <comment>kso_sEtInsertObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nou %s obiect în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document as an icon.</source>
         <comment>kso_sEtInsertObjectIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nou %s obiect în documentul dumneavoastră ca o pictogramă.</translation>
     </message>
     <message>
         <source>Insert an icon that represent the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
@@ -4654,7 +4665,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Failed to save the serial number. Please check whether you have the administrator permissions or not.</source>
         <comment>kso_sFailedToSaveSN</comment>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat salvarea numărului serial. Verificați dacă aveți sau nu permisiuni de administrator.</translation>
     </message>
     <message>
         <source>PivotTable field name already exists.</source>
@@ -4734,7 +4745,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Please input &amp;toolbar&apos;s name:</source>
         <comment>kso_SInputToolbarName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți numele barei de ins&amp;trumente:</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -4771,7 +4782,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>The serial number you typed is invalid. Please check the input format, the supported version of it and the valid date.</source>
         <comment>kso_sInvalidSN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul serial pe care l-ați introdus nu este valid. Verificați formatul de intrare, versiunea suportată de acesta și validitatea datei.</translation>
     </message>
     <message>
         <source>KB</source>
@@ -4781,7 +4792,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Aqua</source>
         <comment>kso_sKclAqua</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aqua</translation>
     </message>
     <message>
         <source>Black</source>
@@ -4796,7 +4807,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Blue-Gray</source>
         <comment>kso_sKclBlueGray</comment>
-        <translation type="unfinished"></translation>
+        <translation>Albastru-gri</translation>
     </message>
     <message>
         <source>Bright Green</source>
@@ -4826,7 +4837,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Dark Purple</source>
         <comment>kso_sKclDarkPurple</comment>
-        <translation type="unfinished"></translation>
+        <translation>Violet închis</translation>
     </message>
     <message>
         <source>Dark Red</source>
@@ -5051,7 +5062,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Plum</source>
         <comment>kso_sKclPlum</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prună</translation>
     </message>
     <message>
         <source>Red</source>
@@ -5181,7 +5192,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Round Dot</source>
         <comment>kso_sLineRoundDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punct rotund</translation>
     </message>
     <message>
         <source>Soild</source>
@@ -5201,7 +5212,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Loading %s failed. Application will terminate. Please check and try again.</source>
         <comment>kso_sLoadLibFailAndFatal_Text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Încărcarea %s a eșuat. Aplicația se va închide acum. Verificați și încercați din nou.</translation>
     </message>
     <message>
         <source>Load on Demand</source>
@@ -5316,7 +5327,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>The number must be between %d and %d. Try again by entering a number in this range.</source>
         <comment>kso_sNumberRangeErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul trebuie să fie între %d și %d. Încercați din nou introducând un număr în acest interval.</translation>
     </message>
     <message>
         <source>Number</source>
@@ -5351,17 +5362,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Part of %s</source>
         <comment>kso_sPartOf</comment>
-        <translation type="unfinished"></translation>
+        <translation>Parte de %s</translation>
     </message>
     <message>
         <source>Part of %s trial version</source>
         <comment>kso_sPartOfTrial</comment>
-        <translation type="unfinished"></translation>
+        <translation>Parte a versiunii de încercare %s</translation>
     </message>
     <message>
         <source>The key length of the file encryption must not be longer than %d characters.</source>
         <comment>kso_sPasswordTooLong</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lungimea cheii de criptare a fișierului nu trebuie să fie mai lungă decât %d caractere.</translation>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
@@ -5436,7 +5447,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>&amp;Sat:</source>
         <comment>kso_sSat</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sat:</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -5456,7 +5467,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>---Search Selection---</source>
         <comment>kso_sSearchSelectiveContents</comment>
-        <translation type="unfinished"></translation>
+        <translation>---Secțiunea căutare---</translation>
     </message>
     <message>
         <source>sec</source>
@@ -5526,7 +5537,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Small grid</source>
         <comment>kso_sSmallGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grilă mică</translation>
     </message>
     <message>
         <source>Solid diamond</source>
@@ -5651,7 +5662,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Task Window</source>
         <comment>kso_sTaskpane</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fereastră sarcini</translation>
     </message>
     <message>
         <source>More Buttons</source>
@@ -5671,7 +5682,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>This is not a valid integer.</source>
         <comment>kso_sTextDeclined_IntWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acesta nu este un număr întreg valid.</translation>
     </message>
     <message>
         <source>Text</source>
@@ -5691,7 +5702,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Top of the Document</source>
         <comment>kso_sTopOfDoc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Partea de sus a documentului</translation>
     </message>
     <message>
         <source>Trellis</source>
@@ -5731,7 +5742,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>&lt;Dynamic List&gt;</source>
         <comment>kso_sTTBXMRUListItemCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Listă dinamică&gt;</translation>
     </message>
     <message>
         <source>Basic Latin;Latin-1 Supplement;Latin Extended-A;Latin Extended-B;IPA Extensions;Spacing Modifier Letters;Combining Diacritical Marks;Basic Greek;Cyrillic;Armenian;Basic Hebrew;Basic Arabic;Devanagari;</source>
@@ -5816,7 +5827,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>The &quot;%s&quot; you entered is not valid.</source>
         <comment>kso_sValueTextDeclined_IntWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; pe care ați introdus-o nu este validă.</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
@@ -5896,7 +5907,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Curve Up</source>
         <comment>kso_sWASCurveUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curbă în sus</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
@@ -5926,32 +5937,32 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Double Wave 1</source>
         <comment>kso_sWASDoubleWave1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Val dublu 1</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
         <comment>kso_sWASDoubleWave2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Val dublu 2</translation>
     </message>
     <message>
         <source>Fade Down</source>
         <comment>kso_sWASFadeDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Estompează în jos</translation>
     </message>
     <message>
         <source>Fade Left</source>
         <comment>kso_sWASFadeLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Estompează la stânga</translation>
     </message>
     <message>
         <source>Fade Right</source>
         <comment>kso_sWASFadeRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Estompează la dreapta</translation>
     </message>
     <message>
         <source>Fade Up</source>
         <comment>kso_sWASFadeUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Estompează în sus</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -5971,7 +5982,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Plain Text</source>
         <comment>kso_sWASPlainText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Text simplu</translation>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -6001,27 +6012,27 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Triangle Up</source>
         <comment>kso_sWASTriangle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Triunghi în sus</translation>
     </message>
     <message>
         <source>Triangle Down</source>
         <comment>kso_sWASTriangleDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Triunghi în jos</translation>
     </message>
     <message>
         <source>Wave 1</source>
         <comment>kso_sWASWave1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Val 1</translation>
     </message>
     <message>
         <source>Wave 2</source>
         <comment>kso_sWASWave2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Val 2</translation>
     </message>
     <message>
         <source>Wave</source>
         <comment>kso_sWave</comment>
-        <translation type="unfinished"></translation>
+        <translation>Val</translation>
     </message>
     <message>
         <source>Weave</source>
@@ -6046,7 +6057,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>All Files(*.*)|*.*|Presentations and Shows(*.dps;*.ppt)|*.dps;*.ppt</source>
         <comment>kso_sWppFileFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele(*.*)|*.*|Prezentări(*.dps;*.ppt)|*.dps;*.ppt</translation>
     </message>
     <message>
         <source>WPS Presentation cannot access %s, the file name is invalid.</source>
@@ -6066,7 +6077,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert a new %s object into your presentation.</source>
         <comment>kso_sWppInsertObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nou %s obiect în prezentarea dumneavoastră.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your presentation. It will be displayed as an icon.</source>
@@ -6101,7 +6112,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert an icon that represents the contents of the file into your document.</source>
         <comment>kso_sWpsInsertAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți o pictogramă care reprezintă conținutul fișierului în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
@@ -6111,12 +6122,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert a new %s object into your document.</source>
         <comment>kso_sWpsInsertObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nou %s obiect în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document as an icon.</source>
         <comment>kso_sWpsInsertObjectIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nou %s obiect în documentul dumneavoastră ca o pictogramă.</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
@@ -6151,17 +6162,17 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Unknown picture file extension (.%s)</source>
         <comment>kso_SUnknownExtension</comment>
-        <translation type="unfinished"></translation>
+        <translation>Extensie necunoscută fișier poză (.%s)</translation>
     </message>
     <message>
         <source>The size of the custom dictionary cannot be bigger than 10M.</source>
         <comment>kso_sDictBiggerError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea dicționarului personalizat nu poate fi mai mare decât 10M.</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; command?</source>
         <comment>kso_sResetCommand</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să resetați comanda &apos;%s&apos;?</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
@@ -6171,12 +6182,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Please input the password of permission setting.</source>
         <comment>kso_sNoPasswordInput</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți parola configurării permisiunilor.</translation>
     </message>
     <message>
         <source>---Translate Selection---</source>
         <comment>kso_sTranslateSelectiveContents</comment>
-        <translation type="unfinished"></translation>
+        <translation>---Secțiunea traducere---</translation>
     </message>
     <message>
         <source>Back</source>
@@ -6216,7 +6227,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>There is no %s font on your system, the text will be shown in a substitute font. Do you want to use it anyway?</source>
         <comment>kso_sFontNotExists</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu există fontul %s în sistem, textul va fi arătat într-un font înlocuitor. Doriți să-l utilizați oricum?</translation>
     </message>
     <message>
         <source>Embed in File</source>
@@ -6266,7 +6277,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>All Picture(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</source>
         <comment>kso_sInsertPictureDlgFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation>All Picture(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</translation>
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
@@ -6349,22 +6360,22 @@ Used to show steps toward a goal</source>
     <message>
         <source>You will close %d tabs, are you sure you want to continue?</source>
         <comment>kso_BeforCloseWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Veți închide %d file, sigur doriți să continuați?</translation>
     </message>
     <message>
         <source>The previous tab</source>
         <comment>kso_sBackwardHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fila anterioară</translation>
     </message>
     <message>
         <source>The next tab</source>
         <comment>kso_sForwardHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fila următoare</translation>
     </message>
     <message>
         <source>Tab list</source>
         <comment>kso_sTabListHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Listă file</translation>
     </message>
     <message>
         <source>New document</source>
@@ -6379,17 +6390,17 @@ Used to show steps toward a goal</source>
     <message>
         <source>%s is the current default office software.</source>
         <comment>kso_sWpsIsDefaultOfficeSoftware</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s este aplicația birou implicită curentă.</translation>
     </message>
     <message>
         <source>%s is not the current default office software. Are you sure you want to set %s as the default office software?</source>
         <comment>kso_sWpsIsNotDefaultOfficeSoftware</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s nu este aplicația birou implicită. Sigur doriți să configurați %s ca aplicația birou implicită?</translation>
     </message>
     <message>
         <source>Verifying the serial number, please wait...</source>
         <comment>kso_sVerifyOnline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se verifică numărul serial, așteptați...</translation>
     </message>
     <message>
         <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
@@ -6404,12 +6415,12 @@ Used to show steps toward a goal</source>
     <message>
         <source>The file cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul nu poate fi șters, care poate fi ocupat.</translation>
     </message>
     <message>
         <source>Some files cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unele fișiere nu pot fi șterse, care pot fi ocupate.</translation>
     </message>
     <message>
         <source>Viewer Mode</source>
@@ -6419,12 +6430,12 @@ Used to show steps toward a goal</source>
     <message>
         <source>WPS Office updates have been downloaded, do you want to install them now?</source>
         <comment>sHaveNewUpdatePatchTip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Actualizările WPS Office au fost descărcate, doriți să le instalați acum?</translation>
     </message>
     <message>
         <source>Part of %s</source>
         <comment>kso_sActivePartOf</comment>
-        <translation type="unfinished"></translation>
+        <translation>Parte a %s</translation>
     </message>
     <message>
         <source>Custom CommandBar %ld</source>
