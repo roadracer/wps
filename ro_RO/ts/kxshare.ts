@@ -5066,7 +5066,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Laurel Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde laur</translation>
     </message>
     <message>
         <source>White</source>
@@ -5122,7 +5122,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Lime Green </source>
-        <translation type="unfinished"></translation>
+        <translation>Verde lămâie </translation>
     </message>
     <message>
         <source>Dark Yellow</source>
@@ -5130,7 +5130,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde măsliniu</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -5226,7 +5226,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>AutoBackup</source>
-        <translation type="unfinished"></translation>
+        <translation>Backup automat</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
@@ -5269,11 +5269,11 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Trandafir</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Prună</translation>
     </message>
     <message>
         <source>Do not show this message again.</source>
@@ -5306,7 +5306,8 @@ Mereu fă această acțiune.</translation>
     <message>
         <source>WPS Office Free only supports classic style interface.
 You can download WPS Office Professional to enjoy the 2012 style interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiunea WPS Office gratuită suportă numai stilul implicit al interfeței.
+Puteți descărca WPS Office profesional pentru a vă bucura de stilul interfaței 2012.</translation>
     </message>
     <message>
         <source>

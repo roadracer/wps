@@ -624,7 +624,7 @@
     </message>
     <message>
         <source>Total Playing Time:</source>
-        <translation>Durată totală redare:</translation>
+        <translation>Timp total de redare:</translation>
     </message>
     <message>
         <source>File:</source>
@@ -679,7 +679,7 @@
     </message>
     <message>
         <source>Line-breaking characters currently customized for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie întrerupere caractere personalizată actualmente pentru:</translation>
     </message>
 </context>
 <context>
@@ -777,7 +777,7 @@
     </message>
     <message>
         <source>bgMagic tooltip</source>
-        <translation type="unfinished"></translation>
+        <translation>bgSfat magic</translation>
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
@@ -1362,7 +1362,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>&amp;Objects follow with guides       </source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Obiecte urmate de ghiduri </translation>
     </message>
     <message>
         <source>Set as Default(&amp;C)</source>
@@ -1831,7 +1831,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Păstrează &amp;fidelitatea când se partajează acest document:</translation>
     </message>
     <message>
         <source>Start with</source>
@@ -2208,7 +2208,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Total Playing Time:</source>
-        <translation>Timp total redare:</translation>
+        <translation>Timp total de redare:</translation>
     </message>
 </context>
 <context>
@@ -2690,7 +2690,7 @@ continuați?</translation>
     </message>
     <message>
         <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fie vă asigurați că diapozitivele nu mai sunt ascunse, fie alegeți să exportați diapozitive ascunse.</translation>
     </message>
 </context>
 <context>
@@ -2828,7 +2828,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmează accentul și Hyperlink-ul schemei de culoare urmat</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -4182,11 +4182,11 @@ PDF!</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation>Urmează accentul și hyperlink-ul schemei de culoare</translation>
+        <translation>Urmează accentul și Hyperlink-ul schemei de culoare</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmează accentul și Hyperlink-ul schemei de culoare urmat</translation>
     </message>
     <message>
         <source>Default</source>

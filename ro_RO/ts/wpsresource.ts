@@ -1096,7 +1096,7 @@
     </message>
     <message>
         <source>Insert Time</source>
-        <translation>Introduceți ora</translation>
+        <translation>Introduceți timpul</translation>
     </message>
     <message>
         <source>Link to Previous</source>
@@ -1479,7 +1479,7 @@
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou recenzie</translation>
     </message>
     <message>
         <source>Reviewers</source>
@@ -1511,7 +1511,7 @@
     </message>
     <message>
         <source>Show Time</source>
-        <translation>Arată ora</translation>
+        <translation>Arată timpul</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -3660,7 +3660,7 @@ Painter</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauze</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -4113,7 +4113,7 @@ Break</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauze</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -4141,7 +4141,7 @@ Break</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuu</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -5288,7 +5288,7 @@ Pornit/Oprit</translation>
     </message>
     <message>
         <source>All Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>Toți comentatorii</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
@@ -5296,7 +5296,7 @@ Pornit/Oprit</translation>
     </message>
     <message>
         <source>Change User Name...</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă numele de utilizator...</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -5304,7 +5304,7 @@ Pornit/Oprit</translation>
     </message>
     <message>
         <source>Compare</source>
-        <translation type="unfinished"></translation>
+        <translation>Compară</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -5372,27 +5372,27 @@ nou</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge toate modificările în document</translation>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge modificarea</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Restricționează editarea</translation>
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou recenzie</translation>
     </message>
     <message>
         <source>Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentatori</translation>
     </message>
     <message>
         <source>Show</source>
@@ -5412,7 +5412,7 @@ nou</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată revizuirile în baloane</translation>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
@@ -5420,7 +5420,7 @@ nou</translation>
     </message>
     <message>
         <source>Show Time</source>
-        <translation>Arată ora</translation>
+        <translation>Arată timpul</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -5446,11 +5446,11 @@ Count</source>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation type="unfinished"></translation>
+        <translation>orizPanou recenzie</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation type="unfinished"></translation>
+        <translation>vertPanou recenzie</translation>
     </message>
 </context>
 <context>
@@ -5531,11 +5531,11 @@ Footer</source>
     </message>
     <message>
         <source>Locate Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizează secțiunea</translation>
     </message>
     <message>
         <source>Locate to Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizează la secțiune</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -5604,11 +5604,12 @@ Format</translation>
     <message>
         <source>Section
 Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea
+de navigare</translation>
     </message>
     <message>
         <source>Section Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea de administrare</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -5626,7 +5627,7 @@ linia antetului</translation>
     </message>
     <message>
         <source>Show/Hide Section Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată/ascunde secțiunea navigare</translation>
     </message>
     <message>
         <source>Split
@@ -5636,11 +5637,11 @@ selecția</translation>
     </message>
     <message>
         <source>Three</source>
-        <translation type="unfinished"></translation>
+        <translation>Trei</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation type="unfinished"></translation>
+        <translation>Doi</translation>
     </message>
 </context>
 <context>
@@ -6296,7 +6297,8 @@ celulele</translation>
     <message>
         <source>Arrange
 All</source>
-        <translation type="unfinished"></translation>
+        <translation>Aranjează
+tot</translation>
     </message>
     <message>
         <source>COM
@@ -7721,7 +7723,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauze</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -8606,7 +8608,7 @@ Painter</source>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide Hyperlink</translation>
     </message>
     <message>
         <source>Open Path</source>
@@ -8706,7 +8708,7 @@ Painter</source>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrul administrare produs</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -8722,7 +8724,7 @@ Painter</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Reâncarcă</translation>
     </message>
     <message>
         <source>Reconvert</source>
@@ -8738,19 +8740,19 @@ Painter</source>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge modificarea</translation>
     </message>
     <message>
         <source>Reject Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge ștergerea</translation>
     </message>
     <message>
         <source>Reject Formating Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge modificările formatărilor</translation>
     </message>
     <message>
         <source>Reject Insertion</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge inserția</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -8790,11 +8792,11 @@ Painter</source>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Restricționează editarea</translation>
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou recenzie</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -9174,7 +9176,7 @@ Painter</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>Centru producție WPS Office</translation>
+        <translation>Centrul de producție WPS Office</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -9202,7 +9204,7 @@ Painter</source>
     </message>
     <message>
         <source>Zoom Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporție zoom</translation>
     </message>
     <message>
         <source>Zoom Slider</source>
@@ -9238,7 +9240,7 @@ Painter</source>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation type="unfinished"></translation>
+        <translation>orizPanou recenzie</translation>
     </message>
     <message>
         <source>numbering_0</source>
@@ -9246,7 +9248,7 @@ Painter</source>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation type="unfinished"></translation>
+        <translation>vertPanou recenzie</translation>
     </message>
 </context>
 <context>
@@ -10202,7 +10204,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrul de producție WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -10735,7 +10737,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauze</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -11229,7 +11231,7 @@ Date combinate</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauze</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -11257,7 +11259,7 @@ Date combinate</translation>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuu</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -12286,7 +12288,7 @@ Text</source>
     </message>
     <message>
         <source>All Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>Toți comentatorii</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
@@ -12331,7 +12333,7 @@ Text</source>
     </message>
     <message>
         <source>Display for Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează pentru revizuire</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
@@ -12383,27 +12385,27 @@ Text</source>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge toate modificările în document</translation>
     </message>
     <message>
         <source>Reject Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge modificarea</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Restricționează editarea</translation>
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou recenzie</translation>
     </message>
     <message>
         <source>Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentatori</translation>
     </message>
     <message>
         <source>Show</source>
@@ -12423,15 +12425,15 @@ Text</source>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată revizuirile în baloane</translation>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată informația revizuirii în baloane</translation>
     </message>
     <message>
         <source>Show Time</source>
-        <translation>Arată ora</translation>
+        <translation>Arată timpul</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -12455,11 +12457,11 @@ Text</source>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation type="unfinished"></translation>
+        <translation>orizPanou recenzie</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation type="unfinished"></translation>
+        <translation>vertPanou recenzie</translation>
     </message>
 </context>
 <context>
@@ -12526,11 +12528,11 @@ Text</source>
     </message>
     <message>
         <source>Locate Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizează secțiunea</translation>
     </message>
     <message>
         <source>Locate to Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizează la secțiune</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -12590,11 +12592,11 @@ Text</source>
     </message>
     <message>
         <source>Section Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea de administrare</translation>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea de navigare</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -12606,7 +12608,7 @@ Text</source>
     </message>
     <message>
         <source>Show/Hide Section Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată/ascunde secțiunea navigare</translation>
     </message>
     <message>
         <source>Split Section</source>
@@ -14410,7 +14412,7 @@ umbră</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Reâncarcă</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -14512,7 +14514,7 @@ umbră</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spațiu birou</translation>
     </message>
     <message>
         <source>Outlining</source>
@@ -14651,7 +14653,7 @@ umbră</translation>
     </message>
     <message>
         <source>Click to turn on/off AutoBackup</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați pentru a porni/opri backup-ul automat</translation>
     </message>
     <message>
         <source>Click to turn on/off OverType Statusbar</source>
@@ -15355,7 +15357,7 @@ Directly</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spațiu birou</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -15391,7 +15393,7 @@ Directly</source>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bară de unelte acces rapid</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -15399,7 +15401,7 @@ Directly</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Reâncarcă</translation>
     </message>
     <message>
         <source>References</source>
@@ -15419,7 +15421,7 @@ Directly</source>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea de navigare</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -15575,7 +15577,7 @@ Directly</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spațiu birou</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -15615,7 +15617,7 @@ Directly</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation type="unfinished"></translation>
+        <translation>Reâncarcă</translation>
     </message>
     <message>
         <source>References</source>
@@ -15627,7 +15629,7 @@ Directly</source>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Recenzie</translation>
     </message>
     <message>
         <source>Section</source>
@@ -15635,7 +15637,7 @@ Directly</source>
     </message>
     <message>
         <source>Section Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea de navigare</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>

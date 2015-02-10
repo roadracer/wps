@@ -207,7 +207,7 @@
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation>orămodificare:</translation>
+        <translation>timpmodificare:</translation>
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
@@ -683,7 +683,7 @@
     </message>
     <message>
         <source>Time:</source>
-        <translation>Oră:</translation>
+        <translation>Timp:</translation>
     </message>
     <message>
         <source>Not file found</source>
@@ -1398,7 +1398,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Combine values from multiple ranges into one new range.</source>
-        <translation>Combină valorile pentru game multiple într-o gamă nouă.</translation>
+        <translation>Combină valorile pentru intervale multiple într-un interval nou.</translation>
     </message>
     <message>
         <source>Text to Columns</source>
@@ -1426,7 +1426,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Allow multiple people to work in a workbook at the same time.</source>
-        <translation>Permite multor oameni să lucreze într-un registru de lucru în același timp.</translation>
+        <translation>Permite mai multor oameni să lucreze într-un registru de lucru în același timp.</translation>
     </message>
     <message>
         <source>Save as docx format</source>
