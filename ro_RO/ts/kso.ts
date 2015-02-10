@@ -1202,7 +1202,8 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
         <comment>DgUil_PromptCompressPicture</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poza pe care ați introdus-o este prea mare. Comprimați-o pentru a salva spațiul pe disc.
+Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriți să o comprimați?</translation>
     </message>
     <message>
         <source>Your Text Here</source>
@@ -1242,7 +1243,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>The server application, source file, or item cannot be found, or returned an unknown error. You may need to reinstall the server application</source>
         <comment>DgUil_Prompt_DoVerbREGDB_E_CLASSNOTREG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aplicația server, fișierul sursă, sau elementul nu poate fi găsit, sau a întors o eroare necunoscută. Este posibil să aveți nevoie să reinstalați aplicația server</translation>
     </message>
     <message>
         <source>Save as Picture</source>
@@ -1282,12 +1283,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>You are about to activate an embedded object, which may contain viruses or damage your computer. Please make sure it is safe before continuing. Do you want to continue?</source>
         <comment>DgUil_KSO_ActivatPackageObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sunteți pe cale să activați un obiect inclus, care poate conține viruși sau poate distruge computerul. Asigurați-vă că este sigur înainte să continuați. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Cannot create the object, please make sure the object has been registered in the Registry.</source>
         <comment>DgUil_KSO_OLEObjectCreateFailed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate crea obiectul, asigurați-vă că obiectul a fost înregistrat în Regiștri.</translation>
     </message>
     <message>
         <source>This object is damaged or cannot be used anymore.</source>
@@ -1297,17 +1298,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Cannot create the object, this file may be in use. Please close the file and try to insert the object again.</source>
         <comment>DgUil_Kso_FailedCreateFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu s epoat ecrea obiectul, acest fișier poate fi în uz. Închideți fișierul și încercați să introduceți obiectul din nou.</translation>
     </message>
     <message>
         <source>WPS Office cannot start the source application of the object.</source>
         <comment>DgUil_KSO_NotStartUpProcess</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office nu poate porni aplicația sursă a obiectului.</translation>
     </message>
     <message>
         <source>Cannot play the specified file on the specified device. The file may be damaged, or not in the correct format, or no file handler available for this format.</source>
         <comment>DgUil_KSO_MediaFileDamaged</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate reda fișierul specificat pe dispozitivul specificat. Fișierul poate fi deteriorat, sau nu în formatul corect, sau nu este un manipulator de fișiere disponibil pentru acest format.</translation>
     </message>
     <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
@@ -1420,7 +1421,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Plaque</source>
         <comment>DRAWINGSTR_PLAQUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Placă</translation>
     </message>
     <message>
         <source>Can</source>
@@ -3311,7 +3312,7 @@ Fișier: %s</translation>
     <message>
         <source>Send out successfully</source>
         <comment>_kso_ErrorRep_MessageBox_CompleteSend_Title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trimis cu succes</translation>
     </message>
     <message>
         <source>Data transfer completed, thanks for your support.</source>
@@ -3433,12 +3434,12 @@ Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</transl
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
         <comment>_kso_ksoThanksTo_for_linux_version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Fondatorul fonturilor, și obținerea autorizării gratuite conform clauzelor de autorizare oficială a fondatorului.</translation>
     </message>
     <message>
         <source>WPS Office (Beta)</source>
@@ -3493,52 +3494,52 @@ Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</transl
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_Debug</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_EDU_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>WPS Writer (Beta)</source>
@@ -3698,7 +3699,7 @@ Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</transl
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -3723,7 +3724,7 @@ Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</transl
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PER_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -3758,12 +3759,12 @@ Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</transl
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Home</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Standard</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>New Workbook.xls</source>
@@ -4016,7 +4017,7 @@ Puteți apăsa butonul pentru recuperarea fișierelor la care lucrați.</transla
     <message>
         <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
         <comment>_kso_FileFormatNotSupport</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formatul fișierului pe care l-ați selectat nu este format fișier WPS, aceasta poate să nu fie conform organizației dumneavoastră, veți confirma salvarea cu formatul fișierului?</translation>
     </message>
 </context>
 <context>
@@ -4054,7 +4055,8 @@ Doriți să continuați?</translation>
         <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
         <comment>_ksoErr_Print_InvalidPrinter</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office nu poate tipări. Verificați dacă imprimanta este pornită sau conectată.
+Dacă problema încă persistă, puteți imprima o pagină de test executând click-dreapta pe pictograma imprimantei în Windows și apoi alegând Proprietăți din meniul scurtături pentru a verifica dacă imprimantă a fost instalată corect.</translation>
     </message>
     <message>
         <source>Save Print Output As</source>
@@ -4593,7 +4595,8 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <source>The position you chose to place the PivotTable is not valid. 
 Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
         <comment>kso_sErrorWhenCreateTable_SheetPosErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poziția pe care ați ales-o să plasați tabelul pivot nu este validă. 
+Asigurați-vă că aceasta este un interval referință valid și nu un interval al unei foi ascunse.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -4610,7 +4613,8 @@ Please make sure it is a valid reference range, and not a range of a hidden shee
         <source>You cannot modify the PivotTable with these data.
 Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <comment>kso_sErrorWhenModifyTable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți modifica Tabelul pivot cu aceste date.
+Verificați datele și asigurați-vă că referința este validă iar foaia de lucru există.</translation>
     </message>
     <message>
         <source>Unkown Format Source.</source>
@@ -4635,7 +4639,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Insert an icon that represents the contents of the file into your document.</source>
         <comment>kso_sEtInsertAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți o pictogramă care reprezintă conținutul fișierului în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document so that you can edit it later using the program which created the source file.</source>
@@ -4655,12 +4659,12 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Insert an icon that represent the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sEtLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți o pictogramă care reprezintă conținutul fișierului în documentul dumneavoastră. Modificările fișierului sursă vor fi reflectate în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document and create a link to the source file. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sEtLinkFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului în documentul dumneavoastră și creați un link la fișierul sursă. Modificările fișierului sursă vor fi reflectate în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Failed to save the serial number. Please check whether you have the administrator permissions or not.</source>
@@ -4822,7 +4826,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Coral</source>
         <comment>kso_sKclCoral</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coral</translation>
     </message>
     <message>
         <source>Dark Blue</source>
@@ -4982,7 +4986,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Ice Blue</source>
         <comment>kso_sKclIceBlue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gheață albastră</translation>
     </message>
     <message>
         <source>Indigo</source>
@@ -4992,7 +4996,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Ivory</source>
         <comment>kso_sKclIvory</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fildeș</translation>
     </message>
     <message>
         <source>Lavender</source>
@@ -5027,7 +5031,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Lime</source>
         <comment>kso_sKclLime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lămâie</translation>
     </message>
     <message>
         <source>Ocean Blue</source>
@@ -5052,7 +5056,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Periwinkle</source>
         <comment>kso_sKclPeriwinkle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brebenoc</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -5352,7 +5356,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Outlined diamond</source>
         <comment>kso_sOutlinedDiamond</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diamant conturat</translation>
     </message>
     <message>
         <source>OVR</source>
@@ -5387,7 +5391,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Plaid</source>
         <comment>kso_sPlaid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Carou</translation>
     </message>
     <message>
         <source>pt</source>

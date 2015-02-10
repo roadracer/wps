@@ -1799,7 +1799,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation type="unfinished"></translation>
+        <translation>Porni&amp;re fereastră sarcini</translation>
     </message>
     <message>
         <source>Show menu on right mouse click(&amp;P)</source>
@@ -2045,7 +2045,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Overhead</source>
-        <translation type="unfinished"></translation>
+        <translation>Deasupra</translation>
     </message>
     <message>
         <source>Fullscreen(16:9)</source>
