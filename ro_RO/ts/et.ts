@@ -2380,7 +2380,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce se gă&amp;sește:</translation>
     </message>
     <message>
         <source>Wit&amp;hin:</source>
@@ -3729,7 +3729,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation type="unfinished"></translation>
+        <translation>Porni&amp;re fereastră de sarcini</translation>
     </message>
     <message>
         <source>&amp;Row and column h&amp;eadings</source>
@@ -3749,7 +3749,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Activează &amp;sincronizarea backup</translation>
     </message>
     <message>
         <source>&amp;Smart Backup</source>
@@ -3928,7 +3928,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>tall</source>
-        <translation type="unfinished"></translation>
+        <translation>înalt</translation>
     </message>
     <message>
         <source>Paper si&amp;ze:</source>
@@ -6093,7 +6093,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Array value is not valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea dispunerii nu este validă</translation>
     </message>
 </context>
 <context>
@@ -6431,7 +6431,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>If you are sure that matching data exists in this workbook, it may be in a protected sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă sunteți sigur că datele care se potrivesc sunt în acest registru de lucru, este posibil să fie într-o foaie protejată.</translation>
     </message>
     <message>
         <source>Find the matches, but fail to replace. The contents replaced may be invalid formulas.</source>
@@ -7655,7 +7655,7 @@ Dacă schimbați numele unui câmp tabel pivot, trebuie să introduceți un nou 
     <name>KxProtectionWidget</name>
     <message>
         <source>Locking cells or hiding formulas has no effect until you protect the worksheet(Review tab, Protect Sheet button.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocarea celulelor sau ascunderea formulelor nu va avea efect până când nu veți proteja foaia de lucru(fila revizuire, buton protejare foaie.)</translation>
     </message>
 </context>
 <context>
@@ -8843,7 +8843,7 @@ t</translation>
     </message>
     <message>
         <source>Locking cells or hiding formulas has no effect until you protect the worksheet (Review tab, Protect Sheet button).</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocarea celulelor sau ascunderea formulelor nu va avea efect până când nu veți proteja foaia de lucru(fila revizuire, buton protejare foaie).</translation>
     </message>
 </context>
 <context>
@@ -9442,19 +9442,19 @@ t</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o dată de oprire cât și o dată de pornire.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o dată de oprire.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o dată de pornire.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți un timp de oprire cât și un timp de pornire.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
@@ -9474,7 +9474,7 @@ t</translation>
     </message>
     <message>
         <source>%1 is read-only.  If you want to save a copy,  Click OK,  then give a new name for this workbook in the Save As dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 este doar-citire.  Dacă doriți să salvați o copie,  apăsați OK,  apoi dați un nume nou pentru acest registru de lucru în caseta de dialog Salvează ca.</translation>
     </message>
     <message>
         <source>The file %1 cannot be found.</source>
@@ -9502,7 +9502,7 @@ t</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot complete this task with available resources. Choose less data or close other applications.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets nu poate termina această sarcină cu resursele disponibile. Alegeți mai puține date sau închideți alte aplicații.</translation>
     </message>
     <message>
         <source>Style name is not valid.</source>
@@ -9522,11 +9522,11 @@ t</translation>
     </message>
     <message>
         <source>Diagonal Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal în sus</translation>
     </message>
     <message>
         <source>Diagonal Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal în jos</translation>
     </message>
     <message>
         <source>Sea</source>
@@ -9534,7 +9534,7 @@ t</translation>
     </message>
     <message>
         <source>Ice Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Gheață albastră</translation>
     </message>
     <message>
         <source>integer</source>
@@ -9578,7 +9578,7 @@ t</translation>
     </message>
     <message>
         <source>Click to restore the original values in the adjustable cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați pentru a restaura valoarea în celulele ajustabile.</translation>
     </message>
     <message>
         <source>Reports</source>
@@ -9586,7 +9586,7 @@ t</translation>
     </message>
     <message>
         <source>Create the type of report that you specify, and place each report on a separate sheet in the workbook.</source>
-        <translation type="unfinished"></translation>
+        <translation>Creați tipul de raport pe care l-ați specificat și plasați fiecare raport pe o foaie separată în registrul de lucru.</translation>
     </message>
     <message>
         <source>Solver found a solution. All constraints and optimality conditions are satisfied.</source>
@@ -9678,15 +9678,15 @@ t</translation>
     </message>
     <message>
         <source>The workbook is protected, and cannot generate reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrul de lucru este protejat și nu poate genera rapoarte.</translation>
     </message>
     <message>
         <source>The specified file %1 is unsupported. Please click OK and specify another file type in the Save As dialog box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul specificat %1 este nesuportat. Apăsați OK și specificați un alt tip de fișier în caseta de dialog Salvează ca.</translation>
     </message>
     <message>
         <source>You cannot save this workbook %1 with the same name as another open workbook. Choose a different name, or close the other workbook before saving.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți salva acest registru de lucru %1 cu același nume cu un alt registru de lucru deschis. Alegeți un nume diferit, sau închideți celălalt registru de lucru înaintea salvării.</translation>
     </message>
     <message>
         <source>Switch Sheet</source>
@@ -10083,7 +10083,7 @@ t</translation>
     </message>
     <message>
         <source>Cha&amp;nge Source...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sch&amp;imbă sursa...</translation>
     </message>
     <message>
         <source>&amp;Open Source</source>
@@ -10095,7 +10095,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Check Status</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Verifică starea</translation>
     </message>
     <message>
         <source>Location:</source>
@@ -10127,7 +10127,7 @@ t</translation>
     </message>
     <message>
         <source>When this workbook is opened, WPS Spreadsheets will ask whether or not to update links to other workbooks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Când acest registru de lucru este deschis, WPS Spreadsheets vă va întreba dacă actualizează sau nu link-urile către alte registre de lucru.</translation>
     </message>
 </context>
 <context>

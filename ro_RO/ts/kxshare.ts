@@ -52,11 +52,11 @@
     </message>
     <message>
         <source>Enter/Newline</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare/linienouă</translation>
     </message>
     <message>
         <source>Only Enter</source>
-        <translation type="unfinished"></translation>
+        <translation>Numai intrare</translation>
     </message>
     <message>
         <source>Only Line Breaks</source>
@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>Newline/Enter</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie nouă/intrare</translation>
     </message>
     <message>
         <source>Pre&amp;view:</source>
@@ -676,7 +676,7 @@
     </message>
     <message>
         <source>Never modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu modifica niciodată</translation>
     </message>
 </context>
 <context>
@@ -899,7 +899,7 @@
     </message>
     <message>
         <source>Surrogates</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuitori</translation>
     </message>
     <message>
         <source>CJK Unified Ideographs</source>
@@ -1123,7 +1123,7 @@
     </message>
     <message>
         <source>Action Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Butoane de acțiune</translation>
     </message>
     <message>
         <source>Basic Shapes</source>
@@ -1559,7 +1559,7 @@
     </message>
     <message>
         <source>Radial Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă radială</translation>
     </message>
     <message>
         <source>Pyramid diagram</source>
@@ -2069,7 +2069,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Format formă automată</translation>
     </message>
 </context>
 <context>
@@ -2298,7 +2298,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>WPS Office operating process not smoothly</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesul de operare WPS Office nu este fără probleme</translation>
     </message>
     <message>
         <source>Problems of secondly development</source>
@@ -2413,7 +2413,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgRecentFileManage</name>
     <message>
         <source>Recent File Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrare fișiere recente</translation>
     </message>
     <message>
         <source>ID</source>

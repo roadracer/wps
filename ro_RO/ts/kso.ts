@@ -1213,12 +1213,12 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Design Mode</source>
         <comment>DgUil_OLEControl_DesignMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mod proiectare</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
         <comment>DgUil_OLEControl_ExitDesignMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ieșire mod proiectare</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -2221,7 +2221,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Double Wave</source>
         <comment>DRAWINGSTR_DOUBLEWAVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Val dublu</translation>
     </message>
     <message>
         <source>Action Button: Custom</source>
@@ -2286,7 +2286,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Host Control</source>
         <comment>DRAWINGSTR_HOSTCONTROL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Control gazdă</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -2501,12 +2501,12 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Photo</source>
         <comment>DRAWINGSTR_PHOTO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poză</translation>
     </message>
     <message>
         <source>Plant</source>
         <comment>DRAWINGSTR_PLANT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plantă</translation>
     </message>
     <message>
         <source>Printer</source>
@@ -2691,7 +2691,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Mixed texture</source>
         <comment>DRAWINGSTR_TRANSFER_KSOPRESETTEXTUREMIXED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Textură mixată</translation>
     </message>
     <message>
         <source>Pane1</source>
@@ -2751,7 +2751,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Old Cotton Fabric</source>
         <comment>DRAWINGSTR_TRANSFER_OLD_COTTONFABRIC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vechea fabrică de bumbac</translation>
     </message>
     <message>
         <source>Starry Sky</source>
@@ -2926,7 +2926,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Square Shadows</source>
         <comment>DRAWINGSTR_DGMSTYLE_SQUARE_SHADOWS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umbre pătrate</translation>
     </message>
     <message>
         <source>Wire Frame</source>
@@ -3168,7 +3168,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Backuping the file, please wait...</source>
         <comment>_kso_BusyTip_Prompt_Doucment_AutoBackup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se execută backup-ul fișierului, așteptați...</translation>
     </message>
     <message>
         <source>The following addin has not passed the antivirus examination. To assure security, %s will refuse to load it. 
@@ -3826,17 +3826,17 @@ Puteți apăsa butonul pentru recuperarea fișierelor la care lucrați.</transla
     <message>
         <source>mail feedback</source>
         <comment>_kso_crashdlg_mailfeedback</comment>
-        <translation type="unfinished"></translation>
+        <translation>opinie poștă</translation>
     </message>
     <message>
         <source>bbs feedback</source>
         <comment>_kso_crashdlg_bbsfeedback</comment>
-        <translation type="unfinished"></translation>
+        <translation>opinie bbs</translation>
     </message>
     <message>
         <source>microblog feedback</source>
         <comment>_kso_crashdlg_microblogfeedback</comment>
-        <translation type="unfinished"></translation>
+        <translation>opinie microblog</translation>
     </message>
     <message>
         <source>WPS Office Business Version</source>
@@ -4459,7 +4459,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dark horizontal</source>
         <comment>kso_sDarkHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Întunecat orizontal</translation>
     </message>
     <message>
         <source>Dark upward diagonal</source>
@@ -4469,7 +4469,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dark vertical</source>
         <comment>kso_sDarkVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Întunecat vertical</translation>
     </message>
     <message>
         <source>Dashed downward diagonal</source>
@@ -4479,7 +4479,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dashed horizontal</source>
         <comment>kso_sDashedHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Liniat întrerupt orizontal</translation>
     </message>
     <message>
         <source>Dashed upward diagonal</source>
@@ -4489,7 +4489,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dashed vertical</source>
         <comment>kso_sDashedVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Liniat întrerupt vertival</translation>
     </message>
     <message>
         <source>Date</source>
@@ -4539,12 +4539,12 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dotted diamond</source>
         <comment>kso_sDottedDiamond</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diamant punctat</translation>
     </message>
     <message>
         <source>Dotted grid</source>
         <comment>kso_sDottedGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grilă punctată</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -4574,7 +4574,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
         <comment>kso_sErrMsg_HideAllItems</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cel puțin un element trebuie afișat. Dacă nu doriți să arătați câmpul deloc, anulați operația curentă, iar apoi trageți câmpul afară din raport.</translation>
     </message>
     <message>
         <source>The key length must be a multiple of 8 between %d and %d.</source>
@@ -4644,7 +4644,7 @@ Verificați datele și asigurați-vă că referința este validă iar foaia de l
     <message>
         <source>Insert the contents of the file into your document so that you can edit it later using the program which created the source file.</source>
         <comment>kso_sEtInsertFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului în documentul dumneavoastră astfel îl puteți edita mai târziu utilizând programul care a creat fișierul sursă.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document.</source>
@@ -4719,7 +4719,7 @@ Verificați datele și asigurați-vă că referința este validă iar foaia de l
     <message>
         <source>Headings</source>
         <comment>kso_sHeadings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rubrici</translation>
     </message>
     <message>
         <source>Help file does not exist or occurs an error!</source>
@@ -4771,7 +4771,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>&apos;%s&apos; is not a valid integer value</source>
         <comment>kso_SInvalidInteger</comment>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%s&apos; nu este o valoare număr întreg validă</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -5126,12 +5126,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Large confetti</source>
         <comment>kso_sLargeConfetti</comment>
-        <translation type="unfinished"></translation>
+        <translation>Confetti mari</translation>
     </message>
     <message>
         <source>Large grid</source>
         <comment>kso_sLargeGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grilă mare</translation>
     </message>
     <message>
         <source>Last saved</source>
@@ -5166,17 +5166,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Dash</source>
         <comment>kso_sLineDash</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
         <comment>kso_sLineDashDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie-punct</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
         <comment>kso_sLineDashDotDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie-punct-punct</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -5186,12 +5186,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Long Dash</source>
         <comment>kso_sLineLongDash</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
         <comment>kso_sLineLongDashDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă-punct</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -5436,17 +5436,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Are you sure you have saved these files you need?</source>
         <comment>kso_sRemoveAllWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sigur ați salvat aceste fișiere care vă trebuie?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
         <comment>kso_sResetSymbolbar</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să resetați bara de unelte simbol?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; toolbar?</source>
         <comment>kso_sResetToolbar</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să resetați bara de unelte &apos;%s&apos;?</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
@@ -5461,7 +5461,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
         <comment>kso_sSaveTxtWaring</comment>
-        <translation type="unfinished"></translation>
+        <translation>Atenție: Salvarea ca un fișier text va provoca tuturor formatărilor, pozelor și obiectelor din fișier să fie pierdute.</translation>
     </message>
     <message>
         <source>SCRL</source>
@@ -5481,7 +5481,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Automatically check file security troubles before closing application.</source>
         <comment>kso_sSecurityOptionClose</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verifică automat problemele de securitate ale fișierului înaintea închiderii aplicației.</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -5511,7 +5511,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>[Restricted]</source>
         <comment>kso_sSheildedFunction</comment>
-        <translation type="unfinished"></translation>
+        <translation>[Restricționat]</translation>
     </message>
     <message>
         <source>Shingle</source>
@@ -5536,7 +5536,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Small confetti</source>
         <comment>kso_sSmallConfetti</comment>
-        <translation type="unfinished"></translation>
+        <translation>Confetti mici</translation>
     </message>
     <message>
         <source>Small grid</source>
@@ -5561,7 +5561,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>DoorOpen</source>
         <comment>kso_sStatusDoorOpen</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ușă deschisă</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -5591,17 +5591,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Double Closing Quote</source>
         <comment>kso_sSymbolDoubleClosingQuote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dublu citat de închidere</translation>
     </message>
     <message>
         <source>Double Opening Quote</source>
         <comment>kso_sSymbolDoubleOpeningQuote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dublu citat de deschidere</translation>
     </message>
     <message>
         <source>Ellipsis</source>
         <comment>kso_sSymbolEllipsis</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elipsă</translation>
     </message>
     <message>
         <source>Em Dash</source>
@@ -5696,7 +5696,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Select Texture</source>
         <comment>kso_sTextureOpenDialogCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selectare textură</translation>
     </message>
     <message>
         <source>3-D Style %d</source>
@@ -5731,7 +5731,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>&lt;List of Toolbars&gt;</source>
         <comment>kso_sTTBControlItemCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Listă bări de unelte&gt;</translation>
     </message>
     <message>
         <source>&lt;More Control&gt;</source>
@@ -5906,7 +5906,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Curve Down</source>
         <comment>kso_sWASCurveDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curbă în jos</translation>
     </message>
     <message>
         <source>Curve Up</source>
@@ -5991,12 +5991,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Ring Inside</source>
         <comment>kso_sWASRingInside</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inel interior</translation>
     </message>
     <message>
         <source>Ring Outside</source>
         <comment>kso_sWASRingOutside</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inel exterior</translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -6071,12 +6071,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
         <comment>kso_sWppInsertAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului ca un obiect în prezentarea dumneavoastră astfel îl puteți activa utilizând aplicația care l-a creat. Va fi afișat ca o pictogramă.</translation>
     </message>
     <message>
         <source>Insert the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
         <comment>kso_sWppInsertFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului ca un obiect în prezentarea dumneavoastră astfel îl puteți activa utilizând aplicația care l-a creat.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your presentation.</source>
@@ -6086,17 +6086,17 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert a new %s object into your presentation. It will be displayed as an icon.</source>
         <comment>kso_sWppInsertObjectIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nou %s obiect în prezentarea dumneavoastră. Acesta va fi afișat ca o pictogramă.</translation>
     </message>
     <message>
         <source>Insert an icon into your presentation which represents the file. The icon will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
         <comment>kso_sWppLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți o pictogramă în prezentarea dumneavoastră care va reprezenta fișierul. Pictograma va fi o scurtătură la fișier astfel modificările fișierului se vor reflecta în prezentare.</translation>
     </message>
     <message>
         <source>Insert a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
         <comment>kso_sWppLinkFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un fișier poză în prezentarea dumneavoastră. Poza va fi o scurtătură la fișier astfel că modificările aduse fișierului vor fi reflectate în prezentare.</translation>
     </message>
     <message>
         <source>Blank Document</source>
@@ -6121,7 +6121,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
         <comment>kso_sWpsInsertFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului în documentul dumneavoastră astfel îl puteți edita mai târziu utilizând programul care a creat fișierul sursă.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document.</source>
@@ -6136,12 +6136,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți o pictogramă care reprezintă conținutul fișierului în documentul dumneavoastră. Modificările fișierului sursă vor fi reflectate în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document and create a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sWpsLinkFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului în documentul dumneavoastră și creați o scurtătură la fișierul sursă. Modificările fișierului sursă vor fi reflectate în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Zigzag</source>
@@ -6181,7 +6181,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabelul pivot nu poate fi creat pe o foaie nouă, fiindcă această carte este protejată. Selectați o foaie existentă sau anulați protecția acestei cărți.</translation>
     </message>
     <message>
         <source>Please input the password of permission setting.</source>
@@ -6286,7 +6286,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>The picture is too big to be used as a pattern.</source>
         <comment>kso_sPictureToLargeAndCannotUseasTexture</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poza este prea mare ca să fie utilizată ca un model.</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
@@ -6328,7 +6328,9 @@ Used to show foundation-based relationships</source>
 Used to show areas of overlap between 
 elements</source>
         <comment>kso_VennDiagram</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama Venn
+Utilizată pentru a arăta zonele de suprapunere dintre 
+elemente</translation>
     </message>
     <message>
         <source>Target Diagram
@@ -6339,7 +6341,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>- (Hyphen)</source>
         <comment>kso_sSeparatorHyphen</comment>
-        <translation type="unfinished"></translation>
+        <translation>- (Cratimă)</translation>
     </message>
     <message>
         <source>. (Period)</source>
@@ -6349,17 +6351,17 @@ Used to show steps toward a goal</source>
     <message>
         <source>: (Colon)</source>
         <comment>kso_sSeparatorColon</comment>
-        <translation type="unfinished"></translation>
+        <translation>: (Două puncte)</translation>
     </message>
     <message>
         <source>— (EmDash)</source>
         <comment>kso_sSeparatorEmDash</comment>
-        <translation type="unfinished"></translation>
+        <translation>— (EmDash)</translation>
     </message>
     <message>
         <source>– (EnDash)</source>
         <comment>kso_sSeparatorEnDash</comment>
-        <translation type="unfinished"></translation>
+        <translation>– (EnDash)</translation>
     </message>
     <message>
         <source>You will close %d tabs, are you sure you want to continue?</source>
@@ -6389,7 +6391,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>Document tab</source>
         <comment>kso_sDocumentTab</comment>
-        <translation type="unfinished"></translation>
+        <translation>Filă document</translation>
     </message>
     <message>
         <source>%s is the current default office software.</source>
@@ -6414,7 +6416,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>The installation or update patches are running, %s will exit, please run %s again after the completion of installation or updating.</source>
         <comment>kso_sInstallPackageRunning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalarea sau actualizarea peticelor rulează, %s va ieși, rulați %s din nou după terminarea instalării sau actualizării.</translation>
     </message>
     <message>
         <source>The file cannot be deleted, which may be occupied.</source>
@@ -6444,7 +6446,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>Custom CommandBar %ld</source>
         <comment>kso_Custom_CommandBar_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bară de comandă personalizată %ld</translation>
     </message>
     <message>
         <source>%1 is running into problems with the %2 add-in. If this keeps happening, disable this add-in and check for available updates. Do you want to disable it now?</source>

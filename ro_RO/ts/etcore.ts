@@ -318,7 +318,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_Corrupt_FormulaArray</comment>
-        <translation>Partea unei zone nu poate fi schimbată.</translation>
+        <translation>Partea unei dispuneri nu poate fi schimbată.</translation>
     </message>
     <message>
         <source>The name you entered is invalid. When renaming a sheet, try one of the following:</source>
@@ -340,7 +340,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>• Make sure the worksheet name is not blank.</source>
         <comment>TX_Confirm_Zero_Length_SheetName</comment>
-        <translation>• Asigurați-vă că numele registrului de lucru nu este gol.</translation>
+        <translation>• Asigurați-vă că numele foii de lucru nu este gol.</translation>
     </message>
     <message>
         <source>Cannot rename a sheet to the same name as another sheet, a referenced object library or a workbook referenced by Visual Basic.</source>
@@ -380,7 +380,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Parts of formats are lost due to insufficient resources.</source>
         <comment>TX_MASS_CELLS_OPERATION_OUTOF_MEM_WARNING</comment>
-        <translation type="unfinished"></translation>
+        <translation>Părți de formate sunt pierdute datorită resurselor insuficiente.</translation>
     </message>
     <message>
         <source>The merged cells cannot be sorted.</source>
@@ -390,7 +390,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_ERROR_ArrayFormula</comment>
-        <translation>Partea unei zone nu poate fi schimbată.</translation>
+        <translation>Partea unei dispuneri nu poate fi schimbată.</translation>
     </message>
     <message>
         <source>Part of merged cell cannot be changed.</source>
@@ -400,7 +400,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Array formulas in merged cells are not valid.</source>
         <comment>TX_ERROR_MergeCell_FORMULA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formulele dispuse în celule combinate nu sunt valide.</translation>
     </message>
     <message>
         <source>This command cannot be used on overlapping selections.</source>
@@ -415,7 +415,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_ERROR_Array_PartChange</comment>
-        <translation>Partea unei zone nu poate fi schimbată.</translation>
+        <translation>Partea unei dispuneri nu poate fi schimbată.</translation>
     </message>
     <message>
         <source>Source reference area overlaps with target area.</source>
@@ -758,7 +758,7 @@ Please specify the right files.</source>
     <message>
         <source>Worksheet &quot;%s&quot; is protected. Please remove protection before using this command.</source>
         <comment>TX_CanNotModifyStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Foaia de lucru &quot;%s&quot; este protejată. Eliminați protecția înaintea utilizării acestei comenzi.</translation>
     </message>
     <message>
         <source>References to other worksheets or workbooks cannot be used for Conditional Format.</source>
@@ -808,7 +808,7 @@ Please specify the right files.</source>
     <message>
         <source>The data not within the worksheet will be lost.</source>
         <comment>TX_TextToColumns_Tip2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Datele care nu sunt în interiorul foii de lucru vor fi pierdute.</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
@@ -864,7 +864,7 @@ Please specify the right files.</source>
     <message>
         <source>The formula is too long to finish all the replacements.</source>
         <comment>TX_ERROR_Replace_TooLong</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formula este prea lungă pentru a termina toate înlocuirile.</translation>
     </message>
     <message>
         <source>Label</source>
@@ -924,12 +924,12 @@ Please specify the right files.</source>
     <message>
         <source>The date you entered is not a valid date. Please try again.</source>
         <comment>TX_ShareWorkbook_MsgInvalidDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Data pe care ați introdus-o nu este o dată validă. Încercați din nou.</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>TX_ShareWorkbook_MsgInvalidRef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Textul pe care l-ați introdus nu este o referință validă sau nume definit.</translation>
     </message>
     <message>
         <source>This command is not available in a shared workbook.</source>
@@ -939,17 +939,17 @@ Please specify the right files.</source>
     <message>
         <source>Cannot modify or delete array formulas in shared workbooks.</source>
         <comment>TX_ShareWorkbook_MsgModifyArrays</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate modifica sau șterge formulele dispuse în registrele de lucru partajate.</translation>
     </message>
     <message>
         <source>Cannot copy or move array formulas in a shared workbook.</source>
         <comment>TX_ShareWorkbook_MsgCopyMoveArrays</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate copia sau muta formulele dispuse într-un registru de lucru partajat.</translation>
     </message>
     <message>
         <source>This operation will results in the document saving. Do you want to continue?</source>
         <comment>TX_ShareWorkbook_MsgResultInSaving</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această operație va avea ca rezultat salvarea documentului. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Document is not saved.</source>
@@ -964,7 +964,7 @@ Please specify the right files.</source>
     <message>
         <source>The workbook has been updated with changes saved by other users.</source>
         <comment>TX_ShareWorkbook_MsgBookUpdated</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acest registru de lucru a fost actualizat cu modificările salvate de alți utilizatori.</translation>
     </message>
     <message>
         <source>You are no longer connected to this file. Another user may have removed you from the user list, or replaced it.
@@ -1021,7 +1021,7 @@ Remove the workbook from shared use?
     <message>
         <source>The workbook is created by %s in exclusive mode.</source>
         <comment>TX_ShareWorkbook_MsgMadeExclusive</comment>
-        <translation type="unfinished"></translation>
+        <translation>Registrul de lucru este creat de %s în mod exclusiv.</translation>
     </message>
     <message>
         <source>No track changes were found with the specified properties.
@@ -1173,7 +1173,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>“Filter”Mode</source>
         <comment>TX_FILTER_MODE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mod “Filtru”</translation>
     </message>
     <message>
         <source>This workbook contains one or more links that cannot be updated.
@@ -1190,7 +1190,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>[Compatibility Mode]</source>
         <comment>TX_CompatibilityMode_Sufix</comment>
-        <translation type="unfinished"></translation>
+        <translation>[Mod compatibil]</translation>
     </message>
     <message>
         <source>WPS Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the Copy and Paste commands to insert the data into the other worksheets of the workbook.</source>
@@ -1215,12 +1215,12 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Value Of</source>
         <comment>TX_SOLVER_VALUEOF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoare de</translation>
     </message>
     <message>
         <source>Objective Cell</source>
         <comment>TX_SOLVER_OBJECTIVECELL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Celulă obiectiv</translation>
     </message>
     <message>
         <source>NONE</source>
@@ -1250,7 +1250,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Variable Cells</source>
         <comment>TX_SOLVER_VARIABLECELLS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Celule variabile</translation>
     </message>
     <message>
         <source>Constraints</source>
@@ -1320,12 +1320,12 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Objective</source>
         <comment>TX_SOLVER_OBJECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obiectiv</translation>
     </message>
     <message>
         <source>Max Time</source>
         <comment>TX_SOLVER_MAXTIME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Timp maxim</translation>
     </message>
     <message>
         <source>Iterations</source>
@@ -1340,7 +1340,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Use Automatic Scaling</source>
         <comment>TX_SOLVER_USEAUTOMATIC_SCALING</comment>
-        <translation type="unfinished"></translation>
+        <translation>Utilizează scalarea automată</translation>
     </message>
     <message>
         <source>Show Iteration Results</source>
@@ -1425,12 +1425,12 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Report Created</source>
         <comment>TX_SOLVER_REPORT_CREATED</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a creat raportul</translation>
     </message>
     <message>
         <source>Worksheet</source>
         <comment>TX_SOLVER_WORKSHEET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Foaie de lucru</translation>
     </message>
     <message>
         <source>Result</source>
@@ -1460,7 +1460,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Solution Time</source>
         <comment>TX_SOLVER_SOLUTION_TIME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Timp soluție</translation>
     </message>
     <message>
         <source>Engine</source>
@@ -1470,12 +1470,12 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Simplex LP</source>
         <comment>TX_SOLVER_SIMPLEX_LP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Simplex LP</translation>
     </message>
     <message>
         <source>Answer Report</source>
         <comment>TX_SOLVER_ANSWER_REPORT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Raport răspuns</translation>
     </message>
     <message>
         <source>Iterations</source>
@@ -1550,7 +1550,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Trail Solution</source>
         <comment>TX_SOLVER_TRIAL_SOLUTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Soluție de încercare</translation>
     </message>
     <message>
         <source>Setting Up Problem...</source>
@@ -1580,7 +1580,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Multiplier</source>
         <comment>TX_SOLVER_MULTIPLIER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Multiplicator</translation>
     </message>
     <message>
         <source>Population Size</source>
@@ -1672,7 +1672,7 @@ Check the database server or contact your database administrator. Make sure the 
     <message>
         <source>Duplicate%s</source>
         <comment>TX_DUPLICATE_PROFIX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Duplicare %s</translation>
     </message>
     <message>
         <source>Selection is too large</source>
@@ -1691,7 +1691,7 @@ Check the database server or contact your database administrator. Make sure the 
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot complete this task with available resources.
@@ -1704,7 +1704,7 @@ Continue without Undo?</source>
     <message>
         <source>Null Error</source>
         <comment>TX_ERRORCHECK_ERR_NULL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare nulă</translation>
     </message>
     <message>
         <source>Divide by Zero Error</source>
@@ -1799,7 +1799,7 @@ Continue without Undo?</source>
     <message>
         <source>A value is not available to the formula or function.</source>
         <comment>TX_ERRORCHECK_ERRDESC_NA</comment>
-        <translation type="unfinished"></translation>
+        <translation>O valoare nu este disponibilă la formulă sau funcție.</translation>
     </message>
     <message>
         <source>This cell contains a date string represented with only 2 digits for the year.</source>
@@ -1829,7 +1829,7 @@ Continue without Undo?</source>
     <message>
         <source>The formula in this cell refers to cells that are currently empty.</source>
         <comment>TX_ERRORCHECK_ERRDESC_EmptyCellReferences</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formula în această celulă se referă la celule care actualmente sunt goale.</translation>
     </message>
     <message>
         <source>&amp;Ignore Error</source>
@@ -1874,12 +1874,12 @@ Continue without Undo?</source>
     <message>
         <source>Copy Formul&amp;a from Left</source>
         <comment>TX_ERRORCHECK_REPAIR_CopyFromLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Copiază formul&amp;a de la stânga</translation>
     </message>
     <message>
         <source>Copy Formula from &amp;Above</source>
         <comment>TX_ERRORCHECK_REPAIR_CopyFromUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Copiază formula de &amp;mai sus</translation>
     </message>
     <message>
         <source>&amp;Update Formula to include Cells</source>
@@ -1889,7 +1889,7 @@ Continue without Undo?</source>
     <message>
         <source>&amp;Lock Cell</source>
         <comment>TX_ERRORCHECK_REPAIR_LockCell</comment>
-        <translation type="unfinished"></translation>
+        <translation>B&amp;lochează celula</translation>
     </message>
     <message>
         <source>&amp;Trace Empty Cell</source>
@@ -2014,37 +2014,37 @@ Continue without Undo?</source>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation type="unfinished"></translation>
+        <translation>l/z/aaaa</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation type="unfinished"></translation>
+        <translation>l/z/aaaa</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32</comment>
-        <translation type="unfinished"></translation>
+        <translation>o:mm:ss</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33</comment>
-        <translation type="unfinished"></translation>
+        <translation>o:mm:ss</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>l/z/aaaa</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>o:mm:ss</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>o:mm:ss</translation>
     </message>
     <message>
         <source>#,##0_);(#,##0)</source>
@@ -2138,7 +2138,7 @@ Continue without Undo?</source>
     </message>
     <message>
         <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Foaia de lucru a dumneavoastră conține mai mult de 255 celule nevalide. Numai primele 255 de celule vor fi marcate.</translation>
     </message>
     <message>
         <source>All Files(*.*)| *.*</source>
@@ -2305,7 +2305,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Result of rejected action</source>
         <comment>TX_ShareWorkbook_ActionTypeRejection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rezultatul acțiunii respinse</translation>
     </message>
     <message>
         <source>Won</source>
@@ -2515,17 +2515,17 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>This operation requires the merged cells to be identically sized.</source>
         <comment>TX_RepeatWord_Merge_Range</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această operație are nevoie ca celulele combinate să fie de dimensiune identică.</translation>
     </message>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_RepeatWord_ArrayFormula</comment>
-        <translation>Nu puteți schimba partea unei zone.</translation>
+        <translation>Nu puteți schimba partea unei dispuneri.</translation>
     </message>
     <message>
         <source>Duplicates do not support reference to other workbooks or worksheets.</source>
         <comment>TX_RepeatWord_Cross_Sheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Duplicatele nu suportă referința la alte registre de lucru sau foi de lucru.</translation>
     </message>
     <message>
         <source>The selected range contains pivotTable.</source>
@@ -2782,7 +2782,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>PivotTable</source>
         <comment>TX_DAP_PivotName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabel pivot</translation>
     </message>
     <message>
         <source>Call Fail</source>
@@ -2792,12 +2792,12 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>The PivotTable will not fit on the sheet. Do you want to show as much as possible?</source>
         <comment>TX_DAP_DlgInfo_PTResultOverSheetBound</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabelul pivot nu se potrivește pe foaie. Doriți să fie arătat cât de mult se poate?</translation>
     </message>
     <message>
         <source>A PivotTable cannot overlap another PivotTable.</source>
         <comment>TX_DAP_DlgInfo_PTCannotOverloadOtherPT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Un tabel pivot nu se poate suprapune peste un alt tabel pivot.</translation>
     </message>
     <message>
         <source>Do you want to replace the contents of the destination cells in %s?</source>
@@ -2831,7 +2831,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Cannot open PivotTable source file.</source>
         <comment>TX_DAP_DlgInfo_CannotOpenSourceFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide fișierul sursă al tabelului pivot.</translation>
     </message>
     <message>
         <source>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
@@ -2844,7 +2844,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Cannot hide all the items of &apos;%s&apos; field in the  PivotTable report.</source>
         <comment>TX_DAP_DlgInfo_CannotHideAllFieldItems</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate ascunde toate elementele a câmpului &apos;%s&apos; în raportul  tabelului pivot.</translation>
     </message>
     <message>
         <source>Average</source>
@@ -6492,7 +6492,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Extract data stored in a PivotTable</source>
         <comment>GETPIVOTDATA_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Extrage datele depozitate într-un tabel pivot</translation>
     </message>
     <message>
         <source>GET.CELL(type_num, reference)</source>
@@ -7279,7 +7279,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source> · File Encryption
 </source>
         <comment>TX_Save_Html_Warning_Password</comment>
-        <translation type="unfinished"></translation>
+        <translation>   Criptare fișier</translation>
     </message>
     <message>
         <source>.Range-based user permissions</source>
@@ -7297,7 +7297,7 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source> · PivotTable
 </source>
         <comment>TX_Save_Html_Warning_Pivot</comment>
-        <translation type="unfinished"></translation>
+        <translation>   Tabel pivot</translation>
     </message>
     <message>
         <source> · Import Data
@@ -7328,13 +7328,13 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source> · Protect Workbook
 </source>
         <comment>TX_Save_Html_Warning_BookProtOperate</comment>
-        <translation type="unfinished"></translation>
+        <translation>   Protejează registrul de lucru</translation>
     </message>
     <message>
         <source> · Protect Worksheet
 </source>
         <comment>TX_Save_Html_Warning_SheetProtOperate</comment>
-        <translation type="unfinished"></translation>
+        <translation>   Protejează foaia de lucru</translation>
     </message>
     <message>
         <source>.Outline Information
@@ -8252,22 +8252,22 @@ Se continuă?</translation>
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_004</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dispunere</translation>
     </message>
     <message>
         <source>Array1</source>
         <comment>TX_ParaInfo_005</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dispunerea1</translation>
     </message>
     <message>
         <source>Array2</source>
         <comment>TX_ParaInfo_006</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dispunerea2</translation>
     </message>
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_007</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dispunere</translation>
     </message>
     <message>
         <source>Base</source>
@@ -8932,7 +8932,7 @@ Se continuă?</translation>
     <message>
         <source>Number_chosen</source>
         <comment>TX_ParaInfo_140</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nnumăr_ales</translation>
     </message>
     <message>
         <source>Data_array</source>
@@ -11935,7 +11935,7 @@ ortografie</translation>
     <message>
         <source>Reject Input Duplicates</source>
         <comment>TX_RepeatWordDeny_Title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Respinge intrarea duplicatelor</translation>
     </message>
     <message>
         <source>The content you enter is duplicated with content in other cells in the range.</source>
@@ -11950,7 +11950,7 @@ ortografie</translation>
     <message>
         <source>No duplicates are found.</source>
         <comment>TX_RepeatWord_No_Result</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au găsit duplicate.</translation>
     </message>
     <message>
         <source>The range is not in the active sheets and you can not execute the command.</source>
@@ -11960,7 +11960,7 @@ ortografie</translation>
     <message>
         <source>Duplicates do not support reference to multiple worksheets.</source>
         <comment>TX_RepeatWord_Multy_Sheets</comment>
-        <translation type="unfinished"></translation>
+        <translation>Duplicatele nu suportă referința la foi de lucru multiple.</translation>
     </message>
     <message>
         <source>There are data validation in the range. The data validation will be modified if continuing.</source>
@@ -12286,12 +12286,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
         <comment>TX_FontNameNotExisitSecondHalf</comment>
-        <translation type="unfinished"></translation>
+        <translation>&apos; nu este disponibil în sistem. Doriți să utilizați acest font oricum?</translation>
     </message>
     <message>
         <source>Active document is not a worksheet or in unprotected state.</source>
         <comment>TX_NotWorksheetOrSheetProtection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Documentul activ nu este o foaie de lucru activă sau în stare neprotejată.</translation>
     </message>
     <message>
         <source>Cannot execute this command in Group Edit mode.</source>
@@ -12326,12 +12326,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Data Field</source>
         <comment>TX_ParaInfo_208</comment>
-        <translation type="unfinished"></translation>
+        <translation>Câmp date</translation>
     </message>
     <message>
         <source>PivotTable area</source>
         <comment>TX_ParaInfo_209</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zonă tabel pivot</translation>
     </message>
     <message>
         <source>Field Name</source>
@@ -13357,7 +13357,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Typing %s in &quot;%s&quot;</source>
         <comment>TX_Undo_SetCellValue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tastați %s în &quot;%s&quot;</translation>
     </message>
     <message>
         <source>Can&apos;t &amp;Undo </source>
@@ -13457,7 +13457,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Drag and Drop</source>
         <comment>TX_Undo_CutPaste</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trage și plasează</translation>
     </message>
     <message>
         <source>Insert Cells</source>
@@ -13517,12 +13517,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Series in Rows</source>
         <comment>TX_Undo_ChartSeriesInRows</comment>
-        <translation type="unfinished"></translation>
+        <translation>Serii în rânduri</translation>
     </message>
     <message>
         <source>Series in Columns</source>
         <comment>TX_Undo_ChartSeriesInCols</comment>
-        <translation type="unfinished"></translation>
+        <translation>Serii în coloane</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -13547,7 +13547,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Set Print Area</source>
         <comment>TX_Undo_SetPrintAreas</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurați zona de tipărit</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -13637,12 +13637,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>AutoFit</source>
         <comment>TX_Undo_AutoFit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Potrivire automată</translation>
     </message>
     <message>
         <source>AutoFit Selection</source>
         <comment>TX_Undo_AutoFitSelection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Potrivire automată selecție</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -13652,7 +13652,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>AutoFilter</source>
         <comment>TX_Undo_AutoFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Filtru automat</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -13902,7 +13902,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Auto Fill</source>
         <comment>TX_Undo_AutoFill</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umplere automată</translation>
     </message>
     <message>
         <source>Copy Range </source>
@@ -13917,7 +13917,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Copy Format</source>
         <comment>TX_Undo_CopyFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Copiază format</translation>
     </message>
     <message>
         <source>Set Print Area</source>
@@ -14125,7 +14125,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The password you supplied is not correct. Verify that the CAPS LOCK key is off and be sure to use the correct capitalization.</source>
         <comment>et_sBadUnprotectPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation>Parola furnizată nu este corectă. Verificați dacă tasta CAPS LOCK este închisă și asigurați-vă că utilizați capitalizarea corectă.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -14223,7 +14223,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>PivotTable</source>
         <comment>et_sCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabel pivot</translation>
     </message>
     <message>
         <source>Convert Text to Columns Wizard - Step %d of 3</source>
@@ -14233,7 +14233,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source> - Fill in</source>
         <comment>et_sCaptionFillin</comment>
-        <translation type="unfinished"></translation>
+        <translation> - Umple în</translation>
     </message>
     <message>
         <source>&amp;Advanced</source>
@@ -14273,7 +14273,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>A required minimum or maximum value is missing.</source>
         <comment>et_sCFMinMaxValueMiss</comment>
-        <translation type="unfinished"></translation>
+        <translation>O valoare minimă sau maximă solicitată lipsește.</translation>
     </message>
     <message>
         <source>You must specify criteria for all conditional formats.</source>
@@ -14283,7 +14283,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Change &amp;to:</source>
         <comment>et_sChangeTo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă &amp;la:</translation>
     </message>
     <message>
         <source>Close</source>
@@ -14298,12 +14298,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Drop Column Fields Here</source>
         <comment>et_sColAreaHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plasează câmpurile coloanei aici</translation>
     </message>
     <message>
         <source>Column Area</source>
         <comment>et_sColAreaText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zona coloanei</translation>
     </message>
     <message>
         <source>Col %s</source>
@@ -14393,7 +14393,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Drop Data Items Here</source>
         <comment>et_sDataAreaHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plasați elementele datei aici</translation>
     </message>
     <message>
         <source>Data Area</source>
@@ -14408,7 +14408,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Da&amp;te:</source>
         <comment>et_sDateS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Da&amp;tă:</translation>
     </message>
     <message>
         <source>Decimal</source>
@@ -14448,12 +14448,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Diagonal Down</source>
         <comment>et_sDiagonalDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal în jos</translation>
     </message>
     <message>
         <source>Diagonal Up</source>
         <comment>et_sDiagonalUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal în sus</translation>
     </message>
     <message>
         <source>Can&apos;t find directory &quot;%s&quot;.</source>
@@ -14653,7 +14653,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Integer is not valid.</source>
         <comment>et_sErrorFirstPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul întreg nu est evalid.</translation>
     </message>
     <message>
         <source>Everyone</source>
@@ -14728,7 +14728,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Followed Hyperlink</source>
         <comment>et_sFollowedHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hyperlink urmat</translation>
     </message>
     <message>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
@@ -14773,7 +14773,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>WPS Spreadsheets has completed its search and has made %d replacements.</source>
         <comment>et_sFound</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets a terminat căutarea și a făcut %d înlocuiri.</translation>
     </message>
     <message>
         <source>General</source>
@@ -14823,7 +14823,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Integer is not valid.</source>
         <comment>et_sIntegerNotValid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul întreg nu est evalid.</translation>
     </message>
     <message>
         <source>Input error, the value must be an Integer between 1 and 10000.</source>
@@ -14838,7 +14838,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>et_sInvalidName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Textul pe care l-ați introdus nu este o referință validă sau nume definit.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot use the number format you entered.
@@ -14860,7 +14860,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Justify</source>
         <comment>et_sJustify</comment>
-        <translation type="unfinished"></translation>
+        <translation>Justifică</translation>
     </message>
     <message>
         <source>Vertical Justify Aligned</source>
