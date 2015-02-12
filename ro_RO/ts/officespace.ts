@@ -287,7 +287,7 @@
     </message>
     <message>
         <source>netbackup recover file</source>
-        <translation type="unfinished"></translation>
+        <translation>recuperare fișier backup rețea</translation>
     </message>
     <message>
         <source>netbackup rollback failed.</source>

@@ -52,11 +52,11 @@
     </message>
     <message>
         <source>Enter/Newline</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare/linienouă</translation>
     </message>
     <message>
         <source>Only Enter</source>
-        <translation type="unfinished"></translation>
+        <translation>Numai intrare</translation>
     </message>
     <message>
         <source>Only Line Breaks</source>
@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>Newline/Enter</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie nouă/intrare</translation>
     </message>
     <message>
         <source>Pre&amp;view:</source>
@@ -86,7 +86,7 @@
     <name>KApplication</name>
     <message>
         <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acum rulează instalarea sau actualizarea peticelor. %1 va ieși. Rulați %2 din nou după ce instalarea sau actualizarea s-a terminat.</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
@@ -575,11 +575,11 @@
     </message>
     <message>
         <source>Side by Side Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fereastră una lângă alta</translation>
     </message>
     <message>
         <source>Compare Side by Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Compară una lângă alta</translation>
     </message>
     <message>
         <source>Switch window to:</source>
@@ -676,7 +676,7 @@
     </message>
     <message>
         <source>Never modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu modifica niciodată</translation>
     </message>
 </context>
 <context>
@@ -687,7 +687,7 @@
     </message>
     <message>
         <source>Latin-1 Supplement</source>
-        <translation type="unfinished"></translation>
+        <translation>Latin-1 Supliment</translation>
     </message>
     <message>
         <source>Latin Extended-A</source>
@@ -791,7 +791,7 @@
     </message>
     <message>
         <source>General Punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Semne de punctuație generale</translation>
     </message>
     <message>
         <source>Subscripts and Superscripts</source>
@@ -827,7 +827,7 @@
     </message>
     <message>
         <source>Control Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Control poze</translation>
     </message>
     <message>
         <source>Optical Character Recognition</source>
@@ -835,7 +835,7 @@
     </message>
     <message>
         <source>Enclosed Alphanumerics</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfanumerice incluse</translation>
     </message>
     <message>
         <source>Box Drawing</source>
@@ -859,7 +859,7 @@
     </message>
     <message>
         <source>CJK Symbols and Punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Simboluri CJK și punctuație</translation>
     </message>
     <message>
         <source>Hiragana</source>
@@ -899,15 +899,15 @@
     </message>
     <message>
         <source>Surrogates</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuitori</translation>
     </message>
     <message>
         <source>CJK Unified Ideographs</source>
-        <translation type="unfinished"></translation>
+        <translation>Ideograme CJK unificate</translation>
     </message>
     <message>
         <source>CJK Radicals Supplement</source>
-        <translation type="unfinished"></translation>
+        <translation>Supliment radicali CJK</translation>
     </message>
     <message>
         <source>Kangxi Radicals</source>
@@ -915,11 +915,11 @@
     </message>
     <message>
         <source>Ideographic description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descriere ideografică</translation>
     </message>
     <message>
         <source>CJK Unified Ideograph Extension A</source>
-        <translation type="unfinished"></translation>
+        <translation>Ideograme CJK unificate extensia A</translation>
     </message>
     <message>
         <source>Private Use Area</source>
@@ -927,7 +927,7 @@
     </message>
     <message>
         <source>CJK Compatibility Ideographs</source>
-        <translation type="unfinished"></translation>
+        <translation>Compatibilitate ideograme CJK</translation>
     </message>
     <message>
         <source>Alphabetic Presentation Forms</source>
@@ -1107,7 +1107,7 @@
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Săgeți bloc</translation>
     </message>
     <message>
         <source>Flowchart</source>
@@ -1115,7 +1115,7 @@
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation type="unfinished"></translation>
+        <translation>Stele și dungi</translation>
     </message>
     <message>
         <source>Callouts</source>
@@ -1123,7 +1123,7 @@
     </message>
     <message>
         <source>Action Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Butoane de acțiune</translation>
     </message>
     <message>
         <source>Basic Shapes</source>
@@ -1223,7 +1223,7 @@
     </message>
     <message>
         <source>&amp;Straight</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Drept</translation>
     </message>
     <message>
         <source>&amp;Elbow</source>
@@ -1275,26 +1275,26 @@
     <name>KxCroppingScalesGalleryModel</name>
     <message>
         <source>CroppingScale_Free</source>
-        <translation type="unfinished"></translation>
+        <translation>CroppingScale_liber</translation>
     </message>
     <message>
         <source>CroppingScale_Square</source>
-        <translation type="unfinished"></translation>
+        <translation>CroppingScale_Pătrat</translation>
     </message>
     <message>
         <source>CroppingScale_Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>CroppingScale_Orizontal</translation>
     </message>
     <message>
         <source>CroppingScale_Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>CroppingScale_Vertical</translation>
     </message>
 </context>
 <context>
     <name>KxCroppingScalesGalleryModelItem</name>
     <message>
         <source>CroppingScale_Free</source>
-        <translation type="unfinished"></translation>
+        <translation>CroppingScale_liber</translation>
     </message>
 </context>
 <context>
@@ -1448,7 +1448,7 @@
     </message>
     <message>
         <source>Command &amp;Bars:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bare comandă:</translation>
     </message>
     <message>
         <source>Comman&amp;ds:</source>
@@ -1555,15 +1555,15 @@
     <name>KxDiagramGalleryDlg</name>
     <message>
         <source>Cycle Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă cerc</translation>
     </message>
     <message>
         <source>Radial Diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă radială</translation>
     </message>
     <message>
         <source>Pyramid diagram</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă piramidă</translation>
     </message>
     <message>
         <source>Venn diagram</source>
@@ -1579,7 +1579,7 @@
     </message>
     <message>
         <source>Used to show a process with a continuous cycle</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizat pentru a arăta un proces cu un ciclu continuu</translation>
     </message>
     <message>
         <source>Used to show relationships of core elements</source>
@@ -1866,7 +1866,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Early Sunset</source>
-        <translation type="unfinished"></translation>
+        <translation>Apus de soare timpuriu</translation>
     </message>
     <message>
         <source>Late Sunset</source>
@@ -1878,7 +1878,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Daybreak</source>
-        <translation type="unfinished"></translation>
+        <translation>Zori</translation>
     </message>
     <message>
         <source>Horizon</source>
@@ -1906,23 +1906,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Moss</source>
-        <translation type="unfinished"></translation>
+        <translation>Mușchi</translation>
     </message>
     <message>
         <source>Peacock</source>
-        <translation type="unfinished"></translation>
+        <translation>Păun</translation>
     </message>
     <message>
         <source>Wheat</source>
-        <translation type="unfinished"></translation>
+        <translation>Grâu</translation>
     </message>
     <message>
         <source>Parchment</source>
-        <translation type="unfinished"></translation>
+        <translation>Pergament</translation>
     </message>
     <message>
         <source>Mahogany</source>
-        <translation type="unfinished"></translation>
+        <translation>Mahon</translation>
     </message>
     <message>
         <source>Rainbow</source>
@@ -1942,7 +1942,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Brass</source>
-        <translation type="unfinished"></translation>
+        <translation>Alamă</translation>
     </message>
     <message>
         <source>Chrome</source>
@@ -1994,11 +1994,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Diagonal &amp;up</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală în s&amp;us</translation>
     </message>
     <message>
         <source>Diagonal &amp;down</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală în &amp;jos</translation>
     </message>
     <message>
         <source>&amp;From corner</source>
@@ -2050,7 +2050,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Lock &amp;picture aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Blochează proporția aspectului &amp;pozei</translation>
     </message>
     <message>
         <source>Sample:</source>
@@ -2062,14 +2062,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Curtain of Night</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortina de noapte</translation>
     </message>
 </context>
 <context>
     <name>KxDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Format formă automată</translation>
     </message>
 </context>
 <context>
@@ -2236,11 +2236,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>R&amp;eset Symbol Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>R&amp;esetare bară de unelte simbol</translation>
     </message>
     <message>
         <source>Insert to Custom S&amp;ymbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu la s&amp;imboluri personalizate</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
@@ -2282,7 +2282,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Problem types:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipuri de probleme:</translation>
     </message>
     <message>
         <source>Cannot find functions</source>
@@ -2298,7 +2298,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>WPS Office operating process not smoothly</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesul de operare WPS Office nu este fără probleme</translation>
     </message>
     <message>
         <source>Problems of secondly development</source>
@@ -2314,7 +2314,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Files to reproduce the problem (Files will be properly kept.) </source>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere de reprodus problema (Fișierele vor fi păstrate corespunzător.) </translation>
     </message>
     <message>
         <source>Add Attachment</source>
@@ -2413,7 +2413,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgRecentFileManage</name>
     <message>
         <source>Recent File Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrare fișiere recente</translation>
     </message>
     <message>
         <source>ID</source>
@@ -2430,7 +2430,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați înregistrările pe care doriți să le eliminați din lista de fișiere recente, apoi apăsați butonul Șterge pentru executare. Aceasta nu va șterge fișierele doar va elimina înregistrările.
+Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. Aceasta va curăța elementele selectate.</translation>
     </message>
 </context>
 <context>
@@ -2441,7 +2442,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Screen&amp;Tip text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Text &amp;sfat pe ecran:</translation>
     </message>
 </context>
 <context>
@@ -2486,7 +2487,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuvântul conține caractere nepermisibile. Nu le putem manipula.</translation>
     </message>
 </context>
 <context>
@@ -2497,7 +2498,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu există fontul %1 în sistem. Textul va fi afișat într-un font înlocuitor. Doriți să-l utilizați oricum?</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
@@ -2551,7 +2552,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisește EULA, aceasta înseamnă că utilizați un produs incomplet.&lt;br/&gt;Obțineți unul nou de la &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;wbsite oficial&lt;/a&gt;, și nu îl modificați.</translation>
     </message>
 </context>
 <context>
@@ -2573,7 +2574,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atenție: Salvând ca fișier text toată formatarea, pozele și obiectele din fișier vor fi pierdute.</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
@@ -2675,11 +2676,11 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Small confetti</source>
-        <translation type="unfinished"></translation>
+        <translation>Confetti mici</translation>
     </message>
     <message>
         <source>Large confetti</source>
-        <translation type="unfinished"></translation>
+        <translation>Confetti mari</translation>
     </message>
     <message>
         <source>Zig zag</source>
@@ -2703,7 +2704,7 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Plaid</source>
-        <translation type="unfinished"></translation>
+        <translation>Caro</translation>
     </message>
     <message>
         <source>Divot</source>
@@ -2727,15 +2728,15 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>Sferă</translation>
     </message>
     <message>
         <source>Small grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Grilă mică</translation>
     </message>
     <message>
         <source>Large grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Grilă mare</translation>
     </message>
     <message>
         <source>Small checkerboard</source>
@@ -2747,11 +2748,11 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Outlined diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamant conturat</translation>
     </message>
     <message>
         <source>Solid diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamant solid</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -2843,7 +2844,7 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>An error occurred while importing this file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>O eroare a intervenit la importul acestui fișier %1.</translation>
     </message>
 </context>
 <context>
@@ -2910,11 +2911,11 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     <name>KxHideorShowButton</name>
     <message>
         <source>Show Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată fereastra sarcini</translation>
     </message>
     <message>
         <source>Hide Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde fereastra sarcini</translation>
     </message>
 </context>
 <context>
@@ -2970,19 +2971,19 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     <name>KxInsertOLEObjectDlg</name>
     <message>
         <source>Inserts a new %1 object into your presentation. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nou %1 obiect în prezentarea dumneavoastră. Va fi afișat ca o pictogramă.</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your document as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nou %1 obiect în documentul dumneavoastră ca pictogramă.</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your presentation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nou %1 obiect în prezentarea dumneavoastră.</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nou %1 obiect în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Inserts an icon into your presentation which represents the file.The icon will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
@@ -3010,7 +3011,7 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți o pictogramă care reprezintă conținutul fișierului în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
@@ -3069,7 +3070,7 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Are you sure to reset the Symbol toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigur resetați bara de unelte simboluri?</translation>
     </message>
 </context>
 <context>
@@ -3335,7 +3336,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Shortcut &amp;key</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tastă scurtătură</translation>
     </message>
     <message>
         <source>&amp;Open from File...</source>
@@ -3450,7 +3451,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Pause. Click to continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauzat. Apăsați pentru continuare</translation>
     </message>
     <message>
         <source>Fold online fonts</source>
@@ -3467,12 +3468,14 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.
 Click here to sign in now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizați la VIP pentru a vă bucura de fonturile VIP.
+Apăsați aici pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Sign in to use cloud fonts.
 Click the icon to sign in now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificați-vă pentru a utiliza fonturile din nor.
+Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
@@ -3488,11 +3491,11 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>VIP cloud fonts installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonturile nor VIP sunt instalate</translation>
     </message>
     <message>
         <source>Cloud fonts installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonturile nor sunt instalate</translation>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
@@ -3508,15 +3511,15 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>All cloud fonts installed.  Please looking forward to more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate fonturile nor sunt instalate. Așteptați pentru mai multe. </translation>
     </message>
     <message>
         <source>Click to keep cloud fonts on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați ca să păstrați fonturile nor în partea de sus</translation>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați pentru amestecarea fonturilor nor</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait…</source>
@@ -3765,11 +3768,11 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Work Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grup de lucru</translation>
     </message>
     <message>
         <source>Record Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrare date</translation>
     </message>
     <message>
         <source>Recorder</source>
@@ -3833,7 +3836,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Forward to</source>
-        <translation type="unfinished"></translation>
+        <translation>Înainte la</translation>
     </message>
     <message>
         <source>State</source>
@@ -4037,7 +4040,7 @@ fișierul este posibil să fie redenumit,șters sau mutat.</translation>
     </message>
     <message>
         <source>The installation is failed, for the language of the package is being used.</source>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat instalarea, pentru limba pachetului care va fi utilizat.</translation>
     </message>
     <message>
         <source>The language of Spell Check already exists. Do you want to continue installing it ?</source>
@@ -4050,7 +4053,8 @@ fișierul este posibil să fie redenumit,șters sau mutat.</translation>
     <message>
         <source>The installed user package has been removed, 
 but the included system package is reserved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pachetul instalat de utilizator a fost eliminat, 
+dar pachetul de sistem instalat este rezervat.</translation>
     </message>
 </context>
 <context>
@@ -4128,7 +4132,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Current locale cannot apply this skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizarea curentă nu se poate aplica acestei decorații a aplicației.</translation>
     </message>
 </context>
 <context>
@@ -4158,7 +4162,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>System DPI is asymmetric. WPS Office may have display issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem DPI este asimetric. WPS Office poate avea probleme de afișare.</translation>
     </message>
 </context>
 <context>
@@ -4224,11 +4228,11 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Hide Custom Button in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde butonul personalizat în fereastra sarcinilor</translation>
     </message>
     <message>
         <source>Show Custom Button in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată butonul personalizat în fereastra sarcinilor</translation>
     </message>
 </context>
 <context>
@@ -4290,7 +4294,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Regretăm! O eroare a intervenit chiar acum. După eforturile de reparare făcute, a fost acum restaurat.</translation>
     </message>
 </context>
 <context>
@@ -4301,7 +4305,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Change AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă forma automată</translation>
     </message>
     <message>
         <source>Show Large Preview</source>
@@ -4309,7 +4313,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>AutoShapes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forme automate:</translation>
     </message>
 </context>
 <context>
@@ -4336,7 +4340,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>Buton apăsare</translation>
     </message>
 </context>
 <context>
@@ -4588,7 +4592,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>ccFillColor</source>
-        <translation type="unfinished"></translation>
+        <translation>ccUmple cu culoare</translation>
     </message>
     <message>
         <source>&amp;Transparency:</source>
@@ -4778,7 +4782,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>ucShapeHeight</source>
-        <translation type="unfinished"></translation>
+        <translation>ucÎnălțime formă</translation>
     </message>
     <message>
         <source>Wi&amp;dth:</source>
@@ -4786,7 +4790,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>ucShapeWidth</source>
-        <translation type="unfinished"></translation>
+        <translation>ucLățime formă</translation>
     </message>
     <message>
         <source>ucRotation</source>
@@ -4806,7 +4810,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>ucScaleHeight</source>
-        <translation type="unfinished"></translation>
+        <translation>ucÎnălțime scală</translation>
     </message>
     <message>
         <source>%, 0, 0, 10675, 1</source>
@@ -4818,7 +4822,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>ucScaleWidth</source>
-        <translation type="unfinished"></translation>
+        <translation>ucLățime scală</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -5298,7 +5302,7 @@ Mereu fă această acțiune.</translation>
     <name>SelPictureWidgetBase</name>
     <message>
         <source>Current locale cannot apply this skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizarea curentă nu se poate aplica acestei decorații a aplicației.</translation>
     </message>
 </context>
 <context>
@@ -5789,7 +5793,7 @@ sau pagina web</translation>
     </message>
     <message>
         <source>Forward to</source>
-        <translation type="unfinished"></translation>
+        <translation>Înainte la</translation>
     </message>
     <message>
         <source>Matter</source>

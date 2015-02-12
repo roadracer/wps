@@ -1202,7 +1202,8 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
         <comment>DgUil_PromptCompressPicture</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poza pe care ați introdus-o este prea mare. Comprimați-o pentru a salva spațiul pe disc.
+Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriți să o comprimați?</translation>
     </message>
     <message>
         <source>Your Text Here</source>
@@ -1212,12 +1213,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Design Mode</source>
         <comment>DgUil_OLEControl_DesignMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mod proiectare</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
         <comment>DgUil_OLEControl_ExitDesignMode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ieșire mod proiectare</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -1242,7 +1243,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>The server application, source file, or item cannot be found, or returned an unknown error. You may need to reinstall the server application</source>
         <comment>DgUil_Prompt_DoVerbREGDB_E_CLASSNOTREG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aplicația server, fișierul sursă, sau elementul nu poate fi găsit, sau a întors o eroare necunoscută. Este posibil să aveți nevoie să reinstalați aplicația server</translation>
     </message>
     <message>
         <source>Save as Picture</source>
@@ -1282,12 +1283,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>You are about to activate an embedded object, which may contain viruses or damage your computer. Please make sure it is safe before continuing. Do you want to continue?</source>
         <comment>DgUil_KSO_ActivatPackageObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sunteți pe cale să activați un obiect inclus, care poate conține viruși sau poate distruge computerul. Asigurați-vă că este sigur înainte să continuați. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Cannot create the object, please make sure the object has been registered in the Registry.</source>
         <comment>DgUil_KSO_OLEObjectCreateFailed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate crea obiectul, asigurați-vă că obiectul a fost înregistrat în Regiștri.</translation>
     </message>
     <message>
         <source>This object is damaged or cannot be used anymore.</source>
@@ -1297,17 +1298,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Cannot create the object, this file may be in use. Please close the file and try to insert the object again.</source>
         <comment>DgUil_Kso_FailedCreateFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu s epoat ecrea obiectul, acest fișier poate fi în uz. Închideți fișierul și încercați să introduceți obiectul din nou.</translation>
     </message>
     <message>
         <source>WPS Office cannot start the source application of the object.</source>
         <comment>DgUil_KSO_NotStartUpProcess</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office nu poate porni aplicația sursă a obiectului.</translation>
     </message>
     <message>
         <source>Cannot play the specified file on the specified device. The file may be damaged, or not in the correct format, or no file handler available for this format.</source>
         <comment>DgUil_KSO_MediaFileDamaged</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate reda fișierul specificat pe dispozitivul specificat. Fișierul poate fi deteriorat, sau nu în formatul corect, sau nu este un manipulator de fișiere disponibil pentru acest format.</translation>
     </message>
     <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
@@ -1420,7 +1421,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Plaque</source>
         <comment>DRAWINGSTR_PLAQUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Placă</translation>
     </message>
     <message>
         <source>Can</source>
@@ -2220,7 +2221,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Double Wave</source>
         <comment>DRAWINGSTR_DOUBLEWAVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Val dublu</translation>
     </message>
     <message>
         <source>Action Button: Custom</source>
@@ -2285,7 +2286,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Host Control</source>
         <comment>DRAWINGSTR_HOSTCONTROL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Control gazdă</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -2500,12 +2501,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Photo</source>
         <comment>DRAWINGSTR_PHOTO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poză</translation>
     </message>
     <message>
         <source>Plant</source>
         <comment>DRAWINGSTR_PLANT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plantă</translation>
     </message>
     <message>
         <source>Printer</source>
@@ -2690,7 +2691,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Mixed texture</source>
         <comment>DRAWINGSTR_TRANSFER_KSOPRESETTEXTUREMIXED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Textură mixată</translation>
     </message>
     <message>
         <source>Pane1</source>
@@ -2750,7 +2751,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Old Cotton Fabric</source>
         <comment>DRAWINGSTR_TRANSFER_OLD_COTTONFABRIC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vechea fabrică de bumbac</translation>
     </message>
     <message>
         <source>Starry Sky</source>
@@ -2925,7 +2926,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Square Shadows</source>
         <comment>DRAWINGSTR_DGMSTYLE_SQUARE_SHADOWS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umbre pătrate</translation>
     </message>
     <message>
         <source>Wire Frame</source>
@@ -3167,7 +3168,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Backuping the file, please wait...</source>
         <comment>_kso_BusyTip_Prompt_Doucment_AutoBackup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se execută backup-ul fișierului, așteptați...</translation>
     </message>
     <message>
         <source>The following addin has not passed the antivirus examination. To assure security, %s will refuse to load it. 
@@ -3311,7 +3312,7 @@ Fișier: %s</translation>
     <message>
         <source>Send out successfully</source>
         <comment>_kso_ErrorRep_MessageBox_CompleteSend_Title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trimis cu succes</translation>
     </message>
     <message>
         <source>Data transfer completed, thanks for your support.</source>
@@ -3433,12 +3434,12 @@ Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</transl
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
         <comment>_kso_ksoThanksTo_for_linux_version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Fondatorul fonturilor, și obținerea autorizării gratuite conform clauzelor de autorizare oficială a fondatorului.</translation>
     </message>
     <message>
         <source>WPS Office (Beta)</source>
@@ -3493,52 +3494,52 @@ Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</transl
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_Debug</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_EDU_CHN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_USA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, codul sursă în Hunspell este aplicabil pentru codul sursă în Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>WPS Writer (Beta)</source>
@@ -3698,7 +3699,7 @@ Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</transl
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -3723,7 +3724,7 @@ Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</transl
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PER_VN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -3758,12 +3759,12 @@ Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</transl
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Home</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Standard</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această aplicație include: Proiectul Free Type, și obținerea autorizării gratuite conform clauzelor Licenței Free Type; Chinese Word Segment, Chinese Phonetic Annotations, cât și tehnologia pentru conversia între Chineza simplificată și Chineza tradițională furnizată de Retrieval Center, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>New Workbook.xls</source>
@@ -3825,17 +3826,17 @@ Puteți apăsa butonul pentru recuperarea fișierelor la care lucrați.</transla
     <message>
         <source>mail feedback</source>
         <comment>_kso_crashdlg_mailfeedback</comment>
-        <translation type="unfinished"></translation>
+        <translation>opinie poștă</translation>
     </message>
     <message>
         <source>bbs feedback</source>
         <comment>_kso_crashdlg_bbsfeedback</comment>
-        <translation type="unfinished"></translation>
+        <translation>opinie bbs</translation>
     </message>
     <message>
         <source>microblog feedback</source>
         <comment>_kso_crashdlg_microblogfeedback</comment>
-        <translation type="unfinished"></translation>
+        <translation>opinie microblog</translation>
     </message>
     <message>
         <source>WPS Office Business Version</source>
@@ -4016,7 +4017,7 @@ Puteți apăsa butonul pentru recuperarea fișierelor la care lucrați.</transla
     <message>
         <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
         <comment>_kso_FileFormatNotSupport</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formatul fișierului pe care l-ați selectat nu este format fișier WPS, aceasta poate să nu fie conform organizației dumneavoastră, veți confirma salvarea cu formatul fișierului?</translation>
     </message>
 </context>
 <context>
@@ -4054,7 +4055,8 @@ Doriți să continuați?</translation>
         <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
         <comment>_ksoErr_Print_InvalidPrinter</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office nu poate tipări. Verificați dacă imprimanta este pornită sau conectată.
+Dacă problema încă persistă, puteți imprima o pagină de test executând click-dreapta pe pictograma imprimantei în Windows și apoi alegând Proprietăți din meniul scurtături pentru a verifica dacă imprimantă a fost instalată corect.</translation>
     </message>
     <message>
         <source>Save Print Output As</source>
@@ -4457,7 +4459,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Dark horizontal</source>
         <comment>kso_sDarkHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Întunecat orizontal</translation>
     </message>
     <message>
         <source>Dark upward diagonal</source>
@@ -4467,7 +4469,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Dark vertical</source>
         <comment>kso_sDarkVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Întunecat vertical</translation>
     </message>
     <message>
         <source>Dashed downward diagonal</source>
@@ -4477,7 +4479,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Dashed horizontal</source>
         <comment>kso_sDashedHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Liniat întrerupt orizontal</translation>
     </message>
     <message>
         <source>Dashed upward diagonal</source>
@@ -4487,7 +4489,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Dashed vertical</source>
         <comment>kso_sDashedVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Liniat întrerupt vertival</translation>
     </message>
     <message>
         <source>Date</source>
@@ -4537,12 +4539,12 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Dotted diamond</source>
         <comment>kso_sDottedDiamond</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diamant punctat</translation>
     </message>
     <message>
         <source>Dotted grid</source>
         <comment>kso_sDottedGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grilă punctată</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -4572,7 +4574,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
         <comment>kso_sErrMsg_HideAllItems</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cel puțin un element trebuie afișat. Dacă nu doriți să arătați câmpul deloc, anulați operația curentă, iar apoi trageți câmpul afară din raport.</translation>
     </message>
     <message>
         <source>The key length must be a multiple of 8 between %d and %d.</source>
@@ -4593,7 +4595,8 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <source>The position you chose to place the PivotTable is not valid. 
 Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
         <comment>kso_sErrorWhenCreateTable_SheetPosErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poziția pe care ați ales-o să plasați tabelul pivot nu este validă. 
+Asigurați-vă că aceasta este un interval referință valid și nu un interval al unei foi ascunse.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -4610,7 +4613,8 @@ Please make sure it is a valid reference range, and not a range of a hidden shee
         <source>You cannot modify the PivotTable with these data.
 Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <comment>kso_sErrorWhenModifyTable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți modifica Tabelul pivot cu aceste date.
+Verificați datele și asigurați-vă că referința este validă iar foaia de lucru există.</translation>
     </message>
     <message>
         <source>Unkown Format Source.</source>
@@ -4635,12 +4639,12 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Insert an icon that represents the contents of the file into your document.</source>
         <comment>kso_sEtInsertAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți o pictogramă care reprezintă conținutul fișierului în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document so that you can edit it later using the program which created the source file.</source>
         <comment>kso_sEtInsertFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului în documentul dumneavoastră astfel îl puteți edita mai târziu utilizând programul care a creat fișierul sursă.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document.</source>
@@ -4655,12 +4659,12 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Insert an icon that represent the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sEtLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți o pictogramă care reprezintă conținutul fișierului în documentul dumneavoastră. Modificările fișierului sursă vor fi reflectate în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document and create a link to the source file. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sEtLinkFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului în documentul dumneavoastră și creați un link la fișierul sursă. Modificările fișierului sursă vor fi reflectate în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Failed to save the serial number. Please check whether you have the administrator permissions or not.</source>
@@ -4715,7 +4719,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Headings</source>
         <comment>kso_sHeadings</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rubrici</translation>
     </message>
     <message>
         <source>Help file does not exist or occurs an error!</source>
@@ -4767,7 +4771,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>&apos;%s&apos; is not a valid integer value</source>
         <comment>kso_SInvalidInteger</comment>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%s&apos; nu este o valoare număr întreg validă</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -4822,7 +4826,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Coral</source>
         <comment>kso_sKclCoral</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coral</translation>
     </message>
     <message>
         <source>Dark Blue</source>
@@ -4982,7 +4986,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Ice Blue</source>
         <comment>kso_sKclIceBlue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gheață albastră</translation>
     </message>
     <message>
         <source>Indigo</source>
@@ -4992,7 +4996,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Ivory</source>
         <comment>kso_sKclIvory</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fildeș</translation>
     </message>
     <message>
         <source>Lavender</source>
@@ -5027,7 +5031,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Lime</source>
         <comment>kso_sKclLime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lămâie</translation>
     </message>
     <message>
         <source>Ocean Blue</source>
@@ -5052,7 +5056,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Periwinkle</source>
         <comment>kso_sKclPeriwinkle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brebenoc</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -5122,12 +5126,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Large confetti</source>
         <comment>kso_sLargeConfetti</comment>
-        <translation type="unfinished"></translation>
+        <translation>Confetti mari</translation>
     </message>
     <message>
         <source>Large grid</source>
         <comment>kso_sLargeGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grilă mare</translation>
     </message>
     <message>
         <source>Last saved</source>
@@ -5162,17 +5166,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Dash</source>
         <comment>kso_sLineDash</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
         <comment>kso_sLineDashDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie-punct</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
         <comment>kso_sLineDashDotDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie-punct-punct</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -5182,12 +5186,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Long Dash</source>
         <comment>kso_sLineLongDash</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
         <comment>kso_sLineLongDashDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă-punct</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -5352,7 +5356,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Outlined diamond</source>
         <comment>kso_sOutlinedDiamond</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diamant conturat</translation>
     </message>
     <message>
         <source>OVR</source>
@@ -5387,7 +5391,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Plaid</source>
         <comment>kso_sPlaid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Carou</translation>
     </message>
     <message>
         <source>pt</source>
@@ -5432,17 +5436,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Are you sure you have saved these files you need?</source>
         <comment>kso_sRemoveAllWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sigur ați salvat aceste fișiere care vă trebuie?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Symbol toolbar?</source>
         <comment>kso_sResetSymbolbar</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să resetați bara de unelte simbol?</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the &apos;%s&apos; toolbar?</source>
         <comment>kso_sResetToolbar</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să resetați bara de unelte &apos;%s&apos;?</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
@@ -5457,7 +5461,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
         <comment>kso_sSaveTxtWaring</comment>
-        <translation type="unfinished"></translation>
+        <translation>Atenție: Salvarea ca un fișier text va provoca tuturor formatărilor, pozelor și obiectelor din fișier să fie pierdute.</translation>
     </message>
     <message>
         <source>SCRL</source>
@@ -5477,7 +5481,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Automatically check file security troubles before closing application.</source>
         <comment>kso_sSecurityOptionClose</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verifică automat problemele de securitate ale fișierului înaintea închiderii aplicației.</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -5507,7 +5511,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>[Restricted]</source>
         <comment>kso_sSheildedFunction</comment>
-        <translation type="unfinished"></translation>
+        <translation>[Restricționat]</translation>
     </message>
     <message>
         <source>Shingle</source>
@@ -5532,7 +5536,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Small confetti</source>
         <comment>kso_sSmallConfetti</comment>
-        <translation type="unfinished"></translation>
+        <translation>Confetti mici</translation>
     </message>
     <message>
         <source>Small grid</source>
@@ -5557,7 +5561,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>DoorOpen</source>
         <comment>kso_sStatusDoorOpen</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ușă deschisă</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -5587,17 +5591,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Double Closing Quote</source>
         <comment>kso_sSymbolDoubleClosingQuote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dublu citat de închidere</translation>
     </message>
     <message>
         <source>Double Opening Quote</source>
         <comment>kso_sSymbolDoubleOpeningQuote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dublu citat de deschidere</translation>
     </message>
     <message>
         <source>Ellipsis</source>
         <comment>kso_sSymbolEllipsis</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elipsă</translation>
     </message>
     <message>
         <source>Em Dash</source>
@@ -5692,7 +5696,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Select Texture</source>
         <comment>kso_sTextureOpenDialogCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selectare textură</translation>
     </message>
     <message>
         <source>3-D Style %d</source>
@@ -5727,7 +5731,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>&lt;List of Toolbars&gt;</source>
         <comment>kso_sTTBControlItemCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Listă bări de unelte&gt;</translation>
     </message>
     <message>
         <source>&lt;More Control&gt;</source>
@@ -5902,7 +5906,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Curve Down</source>
         <comment>kso_sWASCurveDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curbă în jos</translation>
     </message>
     <message>
         <source>Curve Up</source>
@@ -5987,12 +5991,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Ring Inside</source>
         <comment>kso_sWASRingInside</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inel interior</translation>
     </message>
     <message>
         <source>Ring Outside</source>
         <comment>kso_sWASRingOutside</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inel exterior</translation>
     </message>
     <message>
         <source>Slant Down</source>
@@ -6067,12 +6071,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
         <comment>kso_sWppInsertAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului ca un obiect în prezentarea dumneavoastră astfel îl puteți activa utilizând aplicația care l-a creat. Va fi afișat ca o pictogramă.</translation>
     </message>
     <message>
         <source>Insert the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
         <comment>kso_sWppInsertFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului ca un obiect în prezentarea dumneavoastră astfel îl puteți activa utilizând aplicația care l-a creat.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your presentation.</source>
@@ -6082,17 +6086,17 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert a new %s object into your presentation. It will be displayed as an icon.</source>
         <comment>kso_sWppInsertObjectIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nou %s obiect în prezentarea dumneavoastră. Acesta va fi afișat ca o pictogramă.</translation>
     </message>
     <message>
         <source>Insert an icon into your presentation which represents the file. The icon will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
         <comment>kso_sWppLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți o pictogramă în prezentarea dumneavoastră care va reprezenta fișierul. Pictograma va fi o scurtătură la fișier astfel modificările fișierului se vor reflecta în prezentare.</translation>
     </message>
     <message>
         <source>Insert a picture file into your presentation. The picture will be a shortcut to the file so that changes to the file will be reflected in your presentation.</source>
         <comment>kso_sWppLinkFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un fișier poză în prezentarea dumneavoastră. Poza va fi o scurtătură la fișier astfel că modificările aduse fișierului vor fi reflectate în prezentare.</translation>
     </message>
     <message>
         <source>Blank Document</source>
@@ -6117,7 +6121,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
         <comment>kso_sWpsInsertFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului în documentul dumneavoastră astfel îl puteți edita mai târziu utilizând programul care a creat fișierul sursă.</translation>
     </message>
     <message>
         <source>Insert a new %s object into your document.</source>
@@ -6132,12 +6136,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți o pictogramă care reprezintă conținutul fișierului în documentul dumneavoastră. Modificările fișierului sursă vor fi reflectate în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Insert the contents of the file into your document and create a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sWpsLinkFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului în documentul dumneavoastră și creați o scurtătură la fișierul sursă. Modificările fișierului sursă vor fi reflectate în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Zigzag</source>
@@ -6177,7 +6181,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabelul pivot nu poate fi creat pe o foaie nouă, fiindcă această carte este protejată. Selectați o foaie existentă sau anulați protecția acestei cărți.</translation>
     </message>
     <message>
         <source>Please input the password of permission setting.</source>
@@ -6282,7 +6286,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>The picture is too big to be used as a pattern.</source>
         <comment>kso_sPictureToLargeAndCannotUseasTexture</comment>
-        <translation type="unfinished"></translation>
+        <translation>Poza este prea mare ca să fie utilizată ca un model.</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
@@ -6324,7 +6328,9 @@ Used to show foundation-based relationships</source>
 Used to show areas of overlap between 
 elements</source>
         <comment>kso_VennDiagram</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama Venn
+Utilizată pentru a arăta zonele de suprapunere dintre 
+elemente</translation>
     </message>
     <message>
         <source>Target Diagram
@@ -6335,7 +6341,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>- (Hyphen)</source>
         <comment>kso_sSeparatorHyphen</comment>
-        <translation type="unfinished"></translation>
+        <translation>- (Cratimă)</translation>
     </message>
     <message>
         <source>. (Period)</source>
@@ -6345,17 +6351,17 @@ Used to show steps toward a goal</source>
     <message>
         <source>: (Colon)</source>
         <comment>kso_sSeparatorColon</comment>
-        <translation type="unfinished"></translation>
+        <translation>: (Două puncte)</translation>
     </message>
     <message>
         <source>— (EmDash)</source>
         <comment>kso_sSeparatorEmDash</comment>
-        <translation type="unfinished"></translation>
+        <translation>— (EmDash)</translation>
     </message>
     <message>
         <source>– (EnDash)</source>
         <comment>kso_sSeparatorEnDash</comment>
-        <translation type="unfinished"></translation>
+        <translation>– (EnDash)</translation>
     </message>
     <message>
         <source>You will close %d tabs, are you sure you want to continue?</source>
@@ -6385,7 +6391,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>Document tab</source>
         <comment>kso_sDocumentTab</comment>
-        <translation type="unfinished"></translation>
+        <translation>Filă document</translation>
     </message>
     <message>
         <source>%s is the current default office software.</source>
@@ -6410,7 +6416,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>The installation or update patches are running, %s will exit, please run %s again after the completion of installation or updating.</source>
         <comment>kso_sInstallPackageRunning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalarea sau actualizarea peticelor rulează, %s va ieși, rulați %s din nou după terminarea instalării sau actualizării.</translation>
     </message>
     <message>
         <source>The file cannot be deleted, which may be occupied.</source>
@@ -6440,7 +6446,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>Custom CommandBar %ld</source>
         <comment>kso_Custom_CommandBar_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bară de comandă personalizată %ld</translation>
     </message>
     <message>
         <source>%1 is running into problems with the %2 add-in. If this keeps happening, disable this add-in and check for available updates. Do you want to disable it now?</source>

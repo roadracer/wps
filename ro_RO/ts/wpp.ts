@@ -194,7 +194,7 @@
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce se gă&amp;sește:</translation>
     </message>
 </context>
 <context>
@@ -358,7 +358,7 @@
     </message>
     <message>
         <source>&amp;Using timings, if present</source>
-        <translation>&amp;Utilizează temporizările, dacă sunt prezente</translation>
+        <translation>&amp;Utilizează sincronizările, dacă sunt prezente</translation>
     </message>
     <message>
         <source>Multiple monitors</source>
@@ -520,7 +520,7 @@
     </message>
     <message>
         <source>Timing</source>
-        <translation>Temporizare</translation>
+        <translation>Sincronizare</translation>
     </message>
     <message>
         <source>&amp;Start:</source>
@@ -568,7 +568,7 @@
     </message>
     <message>
         <source>&amp;Animate as part of click sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Animează ca parte a secvenței de apăsare</translation>
     </message>
     <message>
         <source>Start Effects on &amp;Click of:</source>
@@ -1425,7 +1425,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Notes and Handouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Note și fișe</translation>
     </message>
     <message>
         <source>Include on page</source>
@@ -1695,7 +1695,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Print &amp;what:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ce se tipărește:</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -1703,15 +1703,15 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișe(2 diapozitive pe pagină)</translation>
     </message>
     <message>
         <source>Handouts(3 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișe(4 diapozitive pe pagină)</translation>
     </message>
     <message>
         <source>Handouts(6 slides per page)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișe(6 diapozitive pe pagină)</translation>
     </message>
     <message>
         <source>Notes pages</source>
@@ -1743,11 +1743,11 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>&amp;Adjust title text by placeholder automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ajustează automat textul titlului prin înlocuitor</translation>
     </message>
     <message>
         <source>Adj&amp;ust normal text by placeholder automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Aju&amp;stează automat textul normal prin înlocuitor</translation>
     </message>
     <message>
         <source>Apply when working</source>
@@ -1799,7 +1799,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation type="unfinished"></translation>
+        <translation>Porni&amp;re fereastră sarcini</translation>
     </message>
     <message>
         <source>Show menu on right mouse click(&amp;P)</source>
@@ -1811,7 +1811,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Activează &amp;sincronizarea backup</translation>
     </message>
     <message>
         <source>&amp;Smart Backup</source>
@@ -2045,7 +2045,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Overhead</source>
-        <translation type="unfinished"></translation>
+        <translation>Deasupra</translation>
     </message>
     <message>
         <source>Fullscreen(16:9)</source>
@@ -2061,7 +2061,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Notes, handouts and outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Note, fișe și contur</translation>
     </message>
 </context>
 <context>
@@ -2519,7 +2519,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Print &amp;what:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ce se tipărește:</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -2527,7 +2527,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișe</translation>
     </message>
     <message>
         <source>Notes pages</source>
@@ -2617,7 +2617,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișe</translation>
     </message>
     <message>
         <source>Notes</source>
@@ -3627,7 +3627,7 @@ PDF!</translation>
     </message>
     <message>
         <source>&amp;Timing...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sincronizare...</translation>
     </message>
     <message>
         <source>&amp;Show Advanced Timeline</source>
@@ -3749,7 +3749,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișe</translation>
     </message>
     <message>
         <source>Notes</source>
@@ -4390,7 +4390,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Export &amp;what:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ce se exportă:</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -4398,7 +4398,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișe</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4728,7 +4728,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Format Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Format tabel</translation>
     </message>
     <message>
         <source>Top Center</source>
