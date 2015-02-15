@@ -668,7 +668,7 @@
     <name>KTemplateItemModel</name>
     <message>
         <source>File Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier Dosar</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -795,7 +795,7 @@
     </message>
     <message>
         <source>Subscripts and Superscripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Indici și exponenți</translation>
     </message>
     <message>
         <source>Currency Symbols</source>
@@ -839,7 +839,7 @@
     </message>
     <message>
         <source>Box Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenare casetă</translation>
     </message>
     <message>
         <source>Block Elements</source>
@@ -887,7 +887,7 @@
     </message>
     <message>
         <source>Enclosed CJK Letters and Months</source>
-        <translation type="unfinished"></translation>
+        <translation>Litere și luni CJK incluse</translation>
     </message>
     <message>
         <source>CJK Compatibility</source>
@@ -923,7 +923,7 @@
     </message>
     <message>
         <source>Private Use Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Zonă de utilizare personală</translation>
     </message>
     <message>
         <source>CJK Compatibility Ideographs</source>
@@ -1111,7 +1111,7 @@
     </message>
     <message>
         <source>Flowchart</source>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
@@ -1119,7 +1119,7 @@
     </message>
     <message>
         <source>Callouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Legende</translation>
     </message>
     <message>
         <source>Action Buttons</source>
@@ -1227,7 +1227,7 @@
     </message>
     <message>
         <source>&amp;Elbow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Îndoit</translation>
     </message>
     <message>
         <source>&amp;Curved</source>
@@ -1261,7 +1261,7 @@
     <message>
         <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru a lucra cu caseta de unelte Control, achiziționați WPS Office Professional.</translation>
     </message>
 </context>
 <context>
@@ -1428,7 +1428,7 @@
     </message>
     <message>
         <source>Begin &amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Începe &amp;gruparea</translation>
     </message>
     <message>
         <source>Copy P&amp;icture</source>
@@ -1575,7 +1575,7 @@
     </message>
     <message>
         <source>Used to show hierarchical relationships</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizată pentru a arăta relațiile ierahice</translation>
     </message>
     <message>
         <source>Used to show a process with a continuous cycle</source>
@@ -1595,11 +1595,11 @@
     </message>
     <message>
         <source>Used to show steps toward a goal</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizată pentru a arăta pașii spre un scop</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafic organizație</translation>
     </message>
 </context>
 <context>
@@ -2022,11 +2022,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Model</translation>
     </message>
     <message>
         <source>Pa&amp;ttern:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mo&amp;del:</translation>
     </message>
     <message>
         <source>&amp;Foreground:</source>
@@ -2712,11 +2712,11 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Dotted grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Grilă punctată</translation>
     </message>
     <message>
         <source>Dotted diamond</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamant punctat</translation>
     </message>
     <message>
         <source>Shingle</source>
@@ -2740,11 +2740,11 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Small checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablă de șah mică</translation>
     </message>
     <message>
         <source>Large checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablă de șah mare</translation>
     </message>
     <message>
         <source>Outlined diamond</source>
@@ -4324,7 +4324,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se utilizează lista de fișiere următoare pentru recuperarea stării de lucru înaintea ieșirii neașteptate.</translation>
     </message>
     <message>
         <source>Open Backup Folder</source>
@@ -4332,7 +4332,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;View more help for restore &gt;&gt;&gt;&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Vizualizare mai mult ajutor pentru restaurare &gt;&gt;&gt;&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Clear Backup Files</source>
@@ -4538,7 +4538,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Re-order</source>
-        <translation type="unfinished"></translation>
+        <translation>Rearanjează</translation>
     </message>
 </context>
 <context>

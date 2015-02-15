@@ -68,7 +68,7 @@
     </message>
     <message>
         <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare. Indexul nu este permis în notă de subsol, notă de final, subsol sau comentariu.</translation>
     </message>
     <message>
         <source>WPS Writer cannot update Index.</source>
@@ -155,7 +155,11 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer a întâmpinat o eroare la încercarea de actualizare a fișierului sursă.
+Încercați una sau mai multe dintre următoarele:
+1、Verificați dacă fișierul sursă a fost deschis sau ocupat de alte programe.
+2、Verificați dacă fișierul sursă este protejat.
+3、Asigurați-vă că fișierul sursă este în directorul corespunzător.</translation>
     </message>
 </context>
 <context>
@@ -274,7 +278,7 @@ Try one or more of the following:
     <message>
         <source>Error! Table of contents not allowed in footnote, endnote, header, footer, comment, or text box.</source>
         <comment>TX_FIELD_ERR_NO_TOC_ALLOWED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare! Cuprinsul nu este permis în notă de subsol, notă de final, subsol, comentariu sau casetă text.</translation>
     </message>
     <message>
         <source>Error! No table of contents entries found.</source>
@@ -314,7 +318,7 @@ Try one or more of the following:
     <message>
         <source>Error! Include may not refer to itself.</source>
         <comment>TX_FIELD_ERR_CANNOT_INCLUDE_ITSELF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare! Includerea nu se poate referi la ea însăși.</translation>
     </message>
     <message>
         <source>Fields are nested too deeply.</source>
@@ -360,7 +364,7 @@ Try one or more of the following:
     <message>
         <source>!Abnormal formula end</source>
         <comment>TX_FIELD_ERR_COMPILE_UNEXPECTED_END</comment>
-        <translation type="unfinished"></translation>
+        <translation>!Sfârșit anormal de formulă</translation>
     </message>
     <message>
         <source>!Divisor is zero</source>
@@ -403,7 +407,7 @@ Try one or more of the following:
     <message>
         <source> Footer </source>
         <comment>TxPropmpt_Footer</comment>
-        <translation type="unfinished"></translation>
+        <translation> Subsol </translation>
     </message>
     <message>
         <source> - Section %d - </source>
@@ -718,7 +722,7 @@ Try one or more of the following:
     <message>
         <source>Pica</source>
         <comment>_TxUnit_Picas</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pica</translation>
     </message>
     <message>
         <source> Page Number: %s   Page: %d/%d   Sec: %d/%d</source>
@@ -818,7 +822,7 @@ Try one or more of the following:
     <message>
         <source>%s is not a valid special character for the Replace With box.</source>
         <comment>_TxFind_NoValidReplacementStr</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s nu este un caracter special valid pentru caseta Înlocuiește cu.</translation>
     </message>
     <message>
         <source>(Print Preview)</source>
@@ -863,7 +867,7 @@ Try one or more of the following:
     <message>
         <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_NoRecordExecute</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer nu poate combina documentul principal cu sursa datei fiindcă datele înregistrate sunt goale sau nu sunt înregistrări de date care se potrivesc opțiunilor de interogare.</translation>
     </message>
     <message>
         <source>WPS Writer cannot open the Data Source.</source>
@@ -885,7 +889,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>The data source does not contain any visible table.</source>
         <comment>_TxMailMerge_NoTable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Datele sursei nu conțin nici un tabel vizibil.</translation>
     </message>
     <message>
         <source>This operation is invalid for the end of a row.</source>
@@ -915,7 +919,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
         <comment>_TxSaveMHTHTMLWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unele navigatoare web este posibil să nu poată afișa fișierele arhivă web dacă sunt incluse în cale aceste caractere &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Please select the base text for the Phonetic Guide.</source>
@@ -960,7 +964,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>The full-text search is finished, %d results were found. Only the first %d results were selected owing to too many results found.</source>
         <comment>_TxFind_TooMuchResult</comment>
-        <translation type="unfinished"></translation>
+        <translation>Căutarea după textul întreg s-a terminat, %d rezultate au fost găsite. Numai primele %d rezultate au fost selectate datorită debitului prea mare de rezultate găsite.</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1015,7 +1019,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Thick underline</source>
         <comment>TxRevision_Chp_ThickUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subliniere groasă</translation>
     </message>
     <message>
         <source>Dotted underline</source>
@@ -1025,7 +1029,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Dotted heavy underline</source>
         <comment>TxRevision_Chp_DottedHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subliniere cu puncte grele</translation>
     </message>
     <message>
         <source>Dashed underline</source>
@@ -1035,7 +1039,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Dashed heavy underline</source>
         <comment>TxRevision_Chp_DashedHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subliniere cu linii grele</translation>
     </message>
     <message>
         <source>Dashed long underline</source>
@@ -1105,27 +1109,27 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Strikethrough</source>
         <comment>TxRevision_Chp_Strikethrough</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie pe mijloc</translation>
     </message>
     <message>
         <source>Double strikethrough</source>
         <comment>TxRevision_Chp_DoubleStrikethrough</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie pe mijloc dublă</translation>
     </message>
     <message>
         <source>Superscript</source>
         <comment>TxRevision_Chp_Superscript</comment>
-        <translation type="unfinished"></translation>
+        <translation>Exponent</translation>
     </message>
     <message>
         <source>Subscript</source>
         <comment>TxRevision_Chp_Subscript</comment>
-        <translation type="unfinished"></translation>
+        <translation>Indice</translation>
     </message>
     <message>
         <source>Superscript/Subscript</source>
         <comment>TxRevision_Chp_SuperscriptSubscript</comment>
-        <translation type="unfinished"></translation>
+        <translation>Exponent/indice</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -1150,12 +1154,12 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Emboss</source>
         <comment>TxRevision_Chp_Emboss</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reliefare</translation>
     </message>
     <message>
         <source>Engrave</source>
         <comment>TxRevision_Chp_Engrave</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gravare</translation>
     </message>
     <message>
         <source>Not </source>
@@ -1165,12 +1169,12 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Small caps</source>
         <comment>TxRevision_Chp_SmallCaps</comment>
-        <translation type="unfinished"></translation>
+        <translation>Litere mari de dimensiune mică</translation>
     </message>
     <message>
         <source>All caps</source>
         <comment>TxRevision_Chp_AllCaps</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toate literele mari</translation>
     </message>
     <message>
         <source>Character scale</source>
@@ -1205,22 +1209,22 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Raised by/Lowered by</source>
         <comment>TxRevision_Chp_RaisedByLoweredBy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Crescut cu/Scăzut cu</translation>
     </message>
     <message>
         <source>Kern at </source>
         <comment>TxRevision_Chp_KernAt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kern la</translation>
     </message>
     <message>
         <source>Snap to grid</source>
         <comment>TxRevision_Chp_SnapToGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aliniază la grilă</translation>
     </message>
     <message>
         <source>Don&apos;t snap to grid</source>
         <comment>TxRevision_Chp_DontSnapToGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu alinia la grilă</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -1250,7 +1254,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Footer</source>
         <comment>TxRevision_Chp_Footer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subsol</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -1260,7 +1264,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Pattern</source>
         <comment>TxRevision_Chp_Pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Model</translation>
     </message>
     <message>
         <source>Left</source>
@@ -1315,7 +1319,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Hanging</source>
         <comment>TxRevision_Pap_Hanging</comment>
-        <translation type="unfinished"></translation>
+        <translation>Agățare</translation>
     </message>
     <message>
         <source>Space </source>
@@ -1335,7 +1339,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Line spacing</source>
         <comment>TxRevision_Pap_LineSpacing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distanța dintre linii</translation>
     </message>
     <message>
         <source>single</source>
@@ -1370,42 +1374,42 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Widow/Orphan control</source>
         <comment>TxRevision_Pap_WidowOrphanControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>Control Fereastră/Orfan</translation>
     </message>
     <message>
         <source>No widow/orphan control</source>
         <comment>TxRevision_Pap_NoWidowOrphanControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fără control Fereastră/Orfan</translation>
     </message>
     <message>
         <source>Keep with next</source>
         <comment>TxRevision_Pap_KeepWithNext</comment>
-        <translation type="unfinished"></translation>
+        <translation>Păstrează cu următorul</translation>
     </message>
     <message>
         <source>Don&apos;t keep with next</source>
         <comment>TxRevision_Pap_DontKeepWithNext</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu păstra cu următorul</translation>
     </message>
     <message>
         <source>Keep lines together</source>
         <comment>TxRevision_Pap_KeepLinesTogether</comment>
-        <translation type="unfinished"></translation>
+        <translation>Păstrează liniile împreună</translation>
     </message>
     <message>
         <source>Don&apos;t Keep lines together</source>
         <comment>TxRevision_Pap_DontKeepLinesTogether</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu păstra liniile împreună</translation>
     </message>
     <message>
         <source>Page break before</source>
         <comment>TxRevision_Pap_PageBreakBefore</comment>
-        <translation type="unfinished"></translation>
+        <translation>Întrerupe pagina înainte</translation>
     </message>
     <message>
         <source>No Page break before</source>
         <comment>TxRevision_Pap_NoPageBreakBefore</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu întrerupe pagina înainte</translation>
     </message>
     <message>
         <source>Use Asian rules to control first and last character</source>
@@ -1420,22 +1424,22 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Allow text to wrap in the middle of a word</source>
         <comment>TxRevision_Pap_AllowTextToWrapInTheMiddleOfAWord</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permite textului să se încadreze în mijlocul unui cuvânt</translation>
     </message>
     <message>
         <source>Don&apos;t allow text to wrap in the middle of a word</source>
         <comment>TxRevision_Pap_DontAllowTextToWrapInTheMiddleOfAWord</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu permite textului să se încadreze în mijlocul unui cuvânt</translation>
     </message>
     <message>
         <source>Allow hanging punctuation</source>
         <comment>TxRevision_Pap_AllowHangingPunctuation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permite agățarea punctuației</translation>
     </message>
     <message>
         <source>Don&apos;t allow hanging punctuation</source>
         <comment>TxRevision_Pap_DontAllowHangingPunctuation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu permite agățarea punctuației</translation>
     </message>
     <message>
         <source>Compress initial punctuation</source>
@@ -1520,7 +1524,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>leader</source>
         <comment>TxRevision_Pap_Leader</comment>
-        <translation type="unfinished"></translation>
+        <translation>articol principal</translation>
     </message>
     <message>
         <source>Bulleted</source>
@@ -1590,7 +1594,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Gutter</source>
         <comment>TxRevision_Sep_Gutter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gutter</translation>
     </message>
     <message>
         <source>Width</source>
@@ -1605,7 +1609,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Section start</source>
         <comment>TxRevision_Sep_SectionStart</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pornire secțiune</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -1630,17 +1634,17 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Different first page header and footer</source>
         <comment>TxRevision_Sep_DifferentFirstPageHeaderAndFooter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Antet și subsol diferit pe prima pagină</translation>
     </message>
     <message>
         <source>Header distance from edge</source>
         <comment>TxRevision_Sep_HeaderDistanceFromEdge</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distanță antet de la margine</translation>
     </message>
     <message>
         <source>Footer distance from edge</source>
         <comment>TxRevision_Sep_FooterDistanceFromEdge</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distanță subsol de la margine</translation>
     </message>
     <message>
         <source>No grid</source>
@@ -1650,17 +1654,17 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Specify line grid</source>
         <comment>TxRevision_Sep_SpecifyLineGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Specificați linia grilei</translation>
     </message>
     <message>
         <source>Specify line and character grid</source>
         <comment>TxRevision_Sep_SpecifyLineAndCharacterGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Specificați linia și caracterul grilei</translation>
     </message>
     <message>
         <source>Text snaps to character grid</source>
         <comment>TxRevision_Sep_TextSnapsToCharacterGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Textul se aliniază la caracterul grilei</translation>
     </message>
     <message>
         <source>Number of columns</source>
@@ -1695,7 +1699,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Single solid line</source>
         <comment>TxRevision_Bop_SingleSolidLine</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie singură solidă</translation>
     </message>
     <message>
         <source>Dotted</source>
@@ -1715,12 +1719,12 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Dash dot</source>
         <comment>TxRevision_Bop_DashDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie punct</translation>
     </message>
     <message>
         <source>Dash dot dot</source>
         <comment>TxRevision_Bop_DashDotDot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie punct punct</translation>
     </message>
     <message>
         <source>Double solid lines</source>
@@ -1795,12 +1799,12 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Emboss 3D</source>
         <comment>TxRevision_Bop_Emboss3D</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reliefare 3-D</translation>
     </message>
     <message>
         <source>Engrave 3D</source>
         <comment>TxRevision_Bop_Engrave3D</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gravare 3-D</translation>
     </message>
     <message>
         <source>Outset</source>
@@ -1865,12 +1869,12 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</source>
         <comment>TxRevision_Color_ColorNameReplacedList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Negru;Vernil închis;Albastru închis;Indigo;Albastru deschis;Albastru-gri;Levănțică;Gri-80%;Vernil;Apă;Cer albastru;Albastru pal;Turcoaz deschis;Roz;Trandafiriu;Gri-50%;Verde mare;Turcoaz;Verde deschis;Alb;Galben deschis;Cafeniu;Violet;Gri-40%;Verde închis;Verde deschis;Galben;Auriu;Portocaliu deschis;Roșu;Prună;Gri-25%;Lămâie;Galben închis;Verde măsliniu;Portocaliu;Maro;Roșu închis:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000</translation>
     </message>
     <message>
         <source>Pattern</source>
         <comment>TxRevision_Shp_Pattern</comment>
-        <translation type="unfinished"></translation>
+        <translation>Model</translation>
     </message>
     <message>
         <source> Foreground</source>
@@ -1895,22 +1899,22 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Chinese(Hong Kong S.A.R);Chinese(Macao S.A.R);Chinese(Simplified);Chinese(Singapore);Chinese(Traditional);English(Australia);English(Belize);English(Canada);English(Caribbean);English(Ireland);English(Jamaica);English(New Zealand);English(Philippines);English(South Africa);English(Special Trinidad and Tobago);English(UK);English(United States);English(Zimbabwe);English(Indonesia);French(Belgium);French(Cameroon);French(Canada);French(Ivory Coast);French(France);French(Luxembourg);French(Mali);French(Monaco);French(Reunion Island);French(Senegal);French(Morocco);French(Haiti);French(Switzerland);French(West Indies);French(Democratic Republic);German(Austria);German(Germany);German(Liechtenstein);German(Luxembourg);German(Switzerland);Japanese;Portuguese(Brazil);Portuguese(Portugal);Russian(Moldova);Russian;Belarusian Language;Vietnamese;Korean;Thai;Italian(Italy);Italian(Switzerland);Greece:3076;5124;2052;4100;1028;3081;10249;4105;9225;6153;8201;5129;13321;7177;11273;2057;1033;12297;14345;2060;11276;3084;12300;1036;5132;13324;6156;8204;10252;14348;15372;4108;7180;9228;3079;1031;5127;4103;2055;1041;1046;2070;2073;1049;1059;1066;1042;1054;1040;2064;1032</source>
         <comment>TxRevision_Chp_LangIDReplacedList1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chinese(Hong Kong S.A.R);Chinese(Macao S.A.R);Chinese(Simplified);Chinese(Singapore);Chinese(Traditional);English(Australia);English(Belize);English(Canada);English(Caribbean);English(Ireland);English(Jamaica);English(New Zealand);English(Philippines);English(South Africa);English(Special Trinidad and Tobago);English(UK);English(United States);English(Zimbabwe);English(Indonesia);French(Belgium);French(Cameroon);French(Canada);French(Ivory Coast);French(France);French(Luxembourg);French(Mali);French(Monaco);French(Reunion Island);French(Senegal);French(Morocco);French(Haiti);French(Switzerland);French(West Indies);French(Democratic Republic);German(Austria);German(Germany);German(Liechtenstein);German(Luxembourg);German(Switzerland);Japanese;Portuguese(Brazil);Portuguese(Portugal);Russian(Moldova);Russian;Belarusian Language;Vietnamese;Korean;Thai;Italian(Italy);Italian(Switzerland);Greece:3076;5124;2052;4100;1028;3081;10249;4105;9225;6153;8201;5129;13321;7177;11273;2057;1033;12297;14345;2060;11276;3084;12300;1036;5132;13324;6156;8204;10252;14348;15372;4108;7180;9228;3079;1031;5127;4103;2055;1041;1046;2070;2073;1049;1059;1066;1042;1054;1040;2064;1032</translation>
     </message>
     <message>
         <source>Arabic(Algeria);Arabic(Bahrain);Arabic(Egypt);Arabic(Iraq);Arabic(Jordan);Arabic(Kuwait);Arabic(Lebanon);Arabic(Libya);Arabic(Morocco);Arabic(Oman);Arabic(Qatar);Arabic(Saudi Arabia);Arabic(Syria);Arabic(Tunisia);Arabic(United Arab Emirates);Arabic(Yemen);Spanish(Argentina);Spanish(Bolivia);Spanish(Chile);Spanish(Colombia);Spanish(Costa Rica);Spanish(Dominican Republic);Spanish(Ecuador);Spanish(El Salvador);Spain Language(Guatemala);Spanish(Honduras);Spanish(Mexico);Spanish(Nicaragua);Spanish(Panama);Spanish(Paraguay);Spanish(Peru);Spanish(Puerto Rico);Spanish(International Style);Spanish(Traditional Language);Spanish(Uruguay);Spanish(Venezuela);Bulgarian;The Burmese;Danish;Dutch(Belgium);Dutch(Netherlands);Irish Bengali(Bangladesh):5121;15361;3073;2049;11265;13313;12289;4097;6145;8193;16385;1025;10241;7169;14337;9217;11274;16394;13322;9226;5130;7178;12298;17418;4106;18442;2058;19466;6154;15370;10250;20490;3082;1034;14346;8202;1093;1026;1109;1030;2067;1043;2108</source>
         <comment>TxRevision_Chp_LangIDReplacedList2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arabic(Algeria);Arabic(Bahrain);Arabic(Egypt);Arabic(Iraq);Arabic(Jordan);Arabic(Kuwait);Arabic(Lebanon);Arabic(Libya);Arabic(Morocco);Arabic(Oman);Arabic(Qatar);Arabic(Saudi Arabia);Arabic(Syria);Arabic(Tunisia);Arabic(United Arab Emirates);Arabic(Yemen);Spanish(Argentina);Spanish(Bolivia);Spanish(Chile);Spanish(Colombia);Spanish(Costa Rica);Spanish(Dominican Republic);Spanish(Ecuador);Spanish(El Salvador);Spain Language(Guatemala);Spanish(Honduras);Spanish(Mexico);Spanish(Nicaragua);Spanish(Panama);Spanish(Paraguay);Spanish(Peru);Spanish(Puerto Rico);Spanish(International Style);Spanish(Traditional Language);Spanish(Uruguay);Spanish(Venezuela);Bulgarian;The Burmese;Danish;Dutch(Belgium);Dutch(Netherlands);Irish Bengali(Bangladesh):5121;15361;3073;2049;11265;13313;12289;4097;6145;8193;16385;1025;10241;7169;14337;9217;11274;16394;13322;9226;5130;7178;12298;17418;4106;18442;2058;19466;6154;15370;10250;20490;3082;1034;14346;8202;1093;1026;1109;1030;2067;1043;2108</translation>
     </message>
     <message>
         <source>Georgian;Hawaiian Language;Hebrew;Hindi;Hungarian;Icelandic;Indonesian;Laotian;Latin;Lithuanian;Mongolian(Traditional Mongolian China);Nepali;Norwegian(Bokmal Language);Norwegian(Nynorsk);Oriya;Oromo;Polish;Punjabi;Romansh;Romanian(Moldova);Romanian;Sanskrit;Serbian(Cyrillic Serbia);Serbian(Latin Serbia);Slovak;Slovenian;Somali;Swahili;Swedish(Finland);Swedish;Tibetan(China);Turkish;Turkmen;Ukrainian;Urdu Language;Uzbek(Cyrillic);Uzbek(Latin);Venda;Welsh;Yi(China);The Yoruba;Zulu;Maldives Language;Berber Language(Latin Algeria);Galician;Scottish Gaelic(United Kingdom);Czech;Persian;Filipino;Finnish:1079;1141;1037;1081;1038;1039;1057;1108;1142;1063;1104;1121;1044;2068;1096;1138;1045;1094;1047;2072;1048;1103;3098;2074;1051;1060;1143;1089;2077;1053;1105;1055;1090;1058;1056;2115;1091;1075;1106;1144;1130;1077;1125;2143;1110;1084;1029;1065;1124;1035</source>
         <comment>TxRevision_Chp_LangIDReplacedList3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Georgian;Hawaiian Language;Hebrew;Hindi;Hungarian;Icelandic;Indonesian;Laotian;Latin;Lithuanian;Mongolian(Traditional Mongolian China);Nepali;Norwegian(Bokmal Language);Norwegian(Nynorsk);Oriya;Oromo;Polish;Punjabi;Romansh;Romanian(Moldova);Romanian;Sanskrit;Serbian(Cyrillic Serbia);Serbian(Latin Serbia);Slovak;Slovenian;Somali;Swahili;Swedish(Finland);Swedish;Tibetan(China);Turkish;Turkmen;Ukrainian;Urdu Language;Uzbek(Cyrillic);Uzbek(Latin);Venda;Welsh;Yi(China);The Yoruba;Zulu;Maldives Language;Berber Language(Latin Algeria);Galician;Scottish Gaelic(United Kingdom);Czech;Persian;Filipino;Finnish:1079;1141;1037;1081;1038;1039;1057;1108;1142;1063;1104;1121;1044;2068;1096;1138;1045;1094;1047;2072;1048;1103;3098;2074;1051;1060;1143;1089;2077;1053;1105;1055;1090;1058;1056;2115;1091;1075;1106;1144;1130;1077;1125;2143;1110;1084;1029;1065;1124;1035</translation>
     </message>
     <message>
         <source>Afrikaans;Albanian;Amharic;Armenian;Assamese;Azerbaijan(Cyrillic);Azeri(Latin);Basque;Catalan;Cherokee Language;Croatian(Croatia);Estonian;Faroese;Guarani Language;Gujarati;Hausa;Frisian;Igbo;Ibibio(Nigeria);Inuit Language(Syllables);Kannada;Kanuri;Kashmiri;Kazakh;Khmer;Kirghiz;Konkani;Latvian;Macedonian(FYROM);Malay(Malaysia);Malay(Brunei Darussalam);Himalayan Ram Language;Maltese;Manipuri Language;Marathi;Sinhala;Sindhi(Sanskrit);Sindhi(Arabic);Syrian;Tajik;Tamil;Tatar;Telugu;Tigrinya(Ethiopia);Tigrinya(Eritrea Province);Yiddish;The Kwacha Language(Egypt people say the Kwa language);Foulbe Language;Pashto;Berber Language(Arabic Morocco);Dzongkha;Sami(Lapp);Sotho;Tsonga;Tswana;Xhosa;Sorbian:1078;1052;1118;1067;1101;2092;1068;1069;1027;1116;1050;1061;1080;1140;1095;1128;1122;1136;1129;1117;1099;1137;1120;1087;1107;1088;1111;1062;1071;1086;2110;1100;1082;1112;1102;1115;1113;2137;1114;1064;1097;1092;1098;1139;2163;1085;1126;1127;1123;1119;2129;1083;1072;1073;1074;1076;1070</source>
         <comment>TxRevision_Chp_LangIDReplacedList4</comment>
-        <translation type="unfinished"></translation>
+        <translation>Afrikaans;Albanian;Amharic;Armenian;Assamese;Azerbaijan(Cyrillic);Azeri(Latin);Basque;Catalan;Cherokee Language;Croatian(Croatia);Estonian;Faroese;Guarani Language;Gujarati;Hausa;Frisian;Igbo;Ibibio(Nigeria);Inuit Language(Syllables);Kannada;Kanuri;Kashmiri;Kazakh;Khmer;Kirghiz;Konkani;Latvian;Macedonian(FYROM);Malay(Malaysia);Malay(Brunei Darussalam);Himalayan Ram Language;Maltese;Manipuri Language;Marathi;Sinhala;Sindhi(Sanskrit);Sindhi(Arabic);Syrian;Tajik;Tamil;Tatar;Telugu;Tigrinya(Ethiopia);Tigrinya(Eritrea Province);Yiddish;The Kwacha Language(Egypt people say the Kwa language);Foulbe Language;Pashto;Berber Language(Arabic Morocco);Dzongkha;Sami(Lapp);Sotho;Tsonga;Tswana;Xhosa;Sorbian:1078;1052;1118;1067;1101;2092;1068;1069;1027;1116;1050;1061;1080;1140;1095;1128;1122;1136;1129;1117;1099;1137;1120;1087;1107;1088;1111;1062;1071;1086;2110;1100;1082;1112;1102;1115;1113;2137;1114;1064;1097;1092;1098;1139;2163;1085;1126;1127;1123;1119;2129;1083;1072;1073;1074;1076;1070</translation>
     </message>
     <message>
         <source>Left</source>
@@ -1950,17 +1954,17 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Snap to grid</source>
         <comment>TxRevision_Pap_SnapToGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aliniază la grilă</translation>
     </message>
     <message>
         <source>Don&apos;t snap to grid</source>
         <comment>TxRevision_Pap_DontSnapToGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu alinia la grilă</translation>
     </message>
     <message>
         <source>Bar</source>
         <comment>TxRevision_Pap_TabStopsBar</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bară</translation>
     </message>
     <message>
         <source>Not at</source>
@@ -1970,7 +1974,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Border spacing</source>
         <comment>TxRevision_Bop_BorderSpacing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distanța dintre chenar</translation>
     </message>
     <message>
         <source>From text</source>
@@ -1985,12 +1989,12 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Border</source>
         <comment>TxRevision_Bop_Border</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chenar</translation>
     </message>
     <message>
         <source>No border</source>
         <comment>TxRevision_Bop_NoBorder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fără chenar</translation>
     </message>
     <message>
         <source>Top</source>
@@ -2025,12 +2029,12 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Automatically adjust right indent when grid is defined</source>
         <comment>TxRevision_Pap_AdjustRightIndent</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajustează automat indentarea la dreapta când grila este definită</translation>
     </message>
     <message>
         <source>Don&apos;t adjust right indent when grid is defined</source>
         <comment>TxRevision_Pap_DontAdjustRightIndent</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu ajusta indentarea la dreapta când grila este definită</translation>
     </message>
     <message>
         <source>None</source>
@@ -2045,7 +2049,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Margin</source>
         <comment>TxRevision_Bop_Margin</comment>
-        <translation type="unfinished"></translation>
+        <translation>Margine</translation>
     </message>
     <message>
         <source>Not </source>
@@ -2095,7 +2099,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Complex Script Font</source>
         <comment>TxRevision_Chp_ComplexScriptFont</comment>
-        <translation type="unfinished"></translation>
+        <translation>Font script complex</translation>
     </message>
     <message>
         <source>(Complex)</source>
@@ -2165,32 +2169,32 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Reached the beginning of the endnote.</source>
         <comment>_TxFind_ReachBeginningOfEndnotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a atins începutul notei de final.</translation>
     </message>
     <message>
         <source>Reached the end of the endnote.</source>
         <comment>_TxFind_ReachEndOfEndnotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a atin sfârșitul notei de final.</translation>
     </message>
     <message>
         <source>Reached the beginning of the footnote.</source>
         <comment>_TxFind_ReachBeginningOfFootnotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a atins începutul notei de subsol.</translation>
     </message>
     <message>
         <source>Reached the end of the footnote.</source>
         <comment>_TxFind_ReachEndOfFootnotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a atins sfârșitul notei de subsol.</translation>
     </message>
     <message>
         <source>Reached the beginning of the headers and footers.</source>
         <comment>_TxFind_ReachBeginningOfHeaderFooters</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a atins începutul antetelor și subsolurilor.</translation>
     </message>
     <message>
         <source>Reached the end of the headers and footers.</source>
         <comment>_TxFind_ReachEndOfHeaderFooters</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-a atins sfârșitul antetelor și subsolurilor.</translation>
     </message>
     <message>
         <source>Reached the beginning of the text box.</source>
@@ -2215,7 +2219,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Made %d replacements.</source>
         <comment>_TxFind_ReplaceItemCount</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-au făcut %d înlocuiri.</translation>
     </message>
     <message>
         <source>Based On:</source>
@@ -2258,11 +2262,11 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Make office work easier</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation type="unfinished"></translation>
+        <translation>Face munca la birou ușoară</translation>
     </message>
     <message>
         <source>You cannot merge these documents because document protection is in effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți combina aceste documente fiindcă protecția documentului este activă.</translation>
     </message>
     <message>
         <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
@@ -2281,7 +2285,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer nu poate combina documentul principal cu sursa datei fiindcă datele înregistrate sunt goale sau nu sunt înregistrări de date care se potrivesc opțiunilor de interogare.</translation>
     </message>
     <message>
         <source>Recorded %d too much data fields.</source>
@@ -2319,7 +2323,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Cannot set or get column spacing at the end of text.</source>
         <comment>_TxErr_FailSetColumSpace</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate configura sau obține spațierea coloanei la sfârșitul textului.</translation>
     </message>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
@@ -2369,12 +2373,12 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>There are footnotes, endnotes, or comment references contained in this selection. When converting to a text box, the referenced text will be lost. Do you want to continue?</source>
         <comment>_TxErr_CreateTextboxWaring1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sunt note de subsol, note de final sau referințe comentariu conținute în această secțiune. Când se convertește la o casetă text, textul de referință va fi pierdut. Doriți să continuați?</translation>
     </message>
     <message>
         <source>The text box contains one or more tables which will be deleted if you convert them, because the vertical text box cannot contain any table. Do you want to continue?</source>
         <comment>_TxErr_ChangeTextboxToVerticalWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Caseta text conține unul sau mai multe tabele care vor fi șterse dacă le convertiți, fiindcă caseta text verticală nu poate conține nici un tabel. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Protect method or property is invalid due to the protected document.</source>
@@ -2415,7 +2419,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>You cannot put drawing objects into a text box, callout, comment, footnote, or endnote.</source>
         <comment>_TxErr_InvalidAnchorPosition</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți pune obiecte desenate într-o casetă text, legendă, comentariu, notă de subsol, sau notă de final.</translation>
     </message>
 </context>
 <context>
@@ -2531,7 +2535,8 @@ Please try one of the following.
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>_TxDocument_OpenProvALGVerFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format fișier criptat nesuportat. Contactați creatorul fișierului.
+(%s)</translation>
     </message>
     <message>
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
@@ -2544,13 +2549,16 @@ If you are trying to open the file from your recently used file list on the File
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>_TxDocument_SaveFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer nu poate salva sau creea acest fișier.
+Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țintă nu este plin sau deteriorat.
+(%s)</translation>
     </message>
     <message>
         <source>WPS Writer cannot save this file due to a file permission error.
 (%s)</source>
         <comment>_TxDocument_SaveFailurePermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer nu a putut salva acest fișier datorită unei erori de permisiune a fișierului.
+(%s)</translation>
     </message>
     <message>
         <source>Try to save again? 
@@ -2570,13 +2578,15 @@ Please make sure the file is not locked by another user, or the target disk is n
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>_TxDocument_SaveFailureLocked</comment>
-        <translation type="unfinished"></translation>
+        <translation>Documentul a fost blocat de o altă aplicație. Doriți să-l deschideți doar pentru citire?
+(%s)</translation>
     </message>
     <message>
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
 (%s)</source>
         <comment>_TxDocument_SaveReadOnlyAgain</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acest fișier a fost deschis înainte doar pentru citire. Doriți încă să fie deschis doar pentru citire ?
+(%s)</translation>
     </message>
     <message>
         <source>%s (Read-Only)</source>
@@ -2611,7 +2621,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
         <comment>_TxDocument_DrawingWillLost</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obiectele conținutului lipit vor fi pierdute când se lipește într-o casetă text, casetă comentariu, notă de subsol și notă de final.</translation>
     </message>
     <message>
         <source>Cannot paste table to a vertical text box.</source>
@@ -2642,12 +2652,14 @@ Please try one of the following.
 Data from your database will be placed in the document. Do you want to continue?
 </source>
         <comment>_TxMailMerge_OpenDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deschizând acest document se va executa comanda SQL de mai jos:
+ %s 
+Date din baza de date a dumneavoastră vor fi plasate în document. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Permission for &quot;%s&quot; is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
         <comment>_TxDocument_CannotInsertKRMFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permisiunea pentru &quot;%s&quot; este actualmente restricționată. Fișierele cu permisiuni restricționate nu se pot introduce în acest document.</translation>
     </message>
     <message>
         <source>This file contains Enhanced Textbox property. Saving it as other formats, may cause loss of the specific property. 
@@ -2658,7 +2670,7 @@ Do you want to continue?</source>
     <message>
         <source>This file contains some special properties below. Saving it as other formats may cause the loss of:</source>
         <comment>_TxDocument_FormatNotCompatible_Word97</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul conține unele proprietăți speciale de mai jos. Salvarea acestuia ca alte formate poate cauza pierderea acestora:</translation>
     </message>
     <message>
         <source>
@@ -2710,12 +2722,12 @@ Introduceți un nume diferit pentru documentul pe care doriți să-l salvați.
     <message>
         <source>The specified file “%s” is not the supported file type, please click OK and then specify a type in the Save As dialogue box.</source>
         <comment>_TxDocument_FormatNotCompatible_OOXML</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul specificat “%s” nu este un tip de fișier suportat, apăsați OK iar apoi specificați un tip în caseta de dialog Salvează ca.</translation>
     </message>
     <message>
         <source>Graphic objects cannot be placed in a text box, label annotations, footnotes or endnotes.</source>
         <comment>_TxDocument_PlaceDrawingWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obiectele grafice nu pot fi plasate într-o casetă text, adnotări etichete, note de subsol sau note de final.</translation>
     </message>
     <message>
         <source>The following features cannot be saved in macro-free workbooks:
@@ -2888,7 +2900,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>WPS Writer cannot replace the found item with text containing a break.</source>
         <comment>wps_sCantReplaceBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer nu poate înlocuii elementul găsit cu text care conține o întrerupere.</translation>
     </message>
     <message>
         <source>Cell</source>
@@ -3009,17 +3021,17 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Dark Grid</source>
         <comment>wps_sDkGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grilă întunecată</translation>
     </message>
     <message>
         <source>Dark Horizontal</source>
         <comment>wps_sDkHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Orizontal întunecat</translation>
     </message>
     <message>
         <source>Dark Trellis</source>
         <comment>wps_sDkTrellis</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trellis întunecat</translation>
     </message>
     <message>
         <source>Dark Up Diagonal</source>
@@ -3029,7 +3041,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Dark Vertical</source>
         <comment>wps_sDkVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertical întunecat</translation>
     </message>
     <message>
         <source>Documents                  %s</source>
@@ -3074,7 +3086,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Start at must be between %d and %d for this format.</source>
         <comment>wps_sErrorStart</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pornire la trebuie să fie între %d și %d pentru acest format.</translation>
     </message>
     <message>
         <source>Errors occurred while opening Font dialog box!</source>
@@ -3099,7 +3111,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Insert the value of the document variable named NAME</source>
         <comment>wps_sFieldInfoDocVariable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu valoarea variabilei documentului denumită NUME</translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
@@ -3294,12 +3306,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Line spacing: 1.5 lines, </source>
         <comment>wps_sLineSpace1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distanța dintre linii: 1.5 linii, </translation>
     </message>
     <message>
         <source>Line spacing: Double, </source>
         <comment>wps_sLineSpace2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distanța dintre linii: Dublă, </translation>
     </message>
     <message>
         <source>Light Down Diagonal</source>
@@ -3309,17 +3321,17 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Light Grid</source>
         <comment>wps_sLtGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grilă luminoasă</translation>
     </message>
     <message>
         <source>Light Horizontal</source>
         <comment>wps_sLtHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Orixontal luminos</translation>
     </message>
     <message>
         <source>Light Trellis</source>
         <comment>wps_sLtTrellis</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trellis luminos</translation>
     </message>
     <message>
         <source>Light Up Diagonal</source>
@@ -3329,12 +3341,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Light Vertical</source>
         <comment>wps_sLtVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertical luminos</translation>
     </message>
     <message>
         <source>The %s margins are too large for the page %s in some sections.</source>
         <comment>wps_sMarginsLarge</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marginile %s sunt prea largi pentru pagina %s în unele secțiuni.</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
@@ -3519,7 +3531,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>This caption label is not valid.</source>
         <comment>wps_sNotValid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acest motto etichetă nu este valid.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -3764,7 +3776,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Orientation setting does not work for some reasons, such as too little column width. Please adjust your settings.</source>
         <comment>wps_sPutOrientationError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurările de orientare nu funcționează din anumite motive, cum ar fi o lățime prea mică a coloanei. Ajustați configurările.</translation>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
@@ -3879,7 +3891,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Start at must be between %d and %d for this format.</source>
         <comment>wps_sStartAtError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pornire la trebuie să fie între %d și %d pentru acest format.</translation>
     </message>
     <message>
         <source>State</source>
@@ -4059,17 +4071,17 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Inside</source>
         <comment>wps_sInsideCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înăuntru</translation>
     </message>
     <message>
         <source>&amp;Inside</source>
         <comment>wps_sInside</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Înăuntru</translation>
     </message>
     <message>
         <source>&amp;Outside</source>
         <comment>wps_sOutside</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Afară</translation>
     </message>
     <message>
         <source>Section %d</source>
@@ -4260,7 +4272,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK &quot;C:\\KingSoft.wps&quot;</source>
         <comment>wps_sHyperLinkExample</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se presupune că KingSoft.wps este în partiția C. Cod câmp:HYPERLINK &quot;C:\\KingSoft.wps&quot;</translation>
     </message>
     <message>
         <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
@@ -4380,12 +4392,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Footnote</source>
         <comment>TxCrossRefType_Footnote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Notă de subsol</translation>
     </message>
     <message>
         <source>Endnote</source>
         <comment>TxCrossRefType_Endnote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nota de final</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -4460,27 +4472,27 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Footnote number</source>
         <comment>wps_sCrossRef_FootnoteNum</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr notă de subsol</translation>
     </message>
     <message>
         <source>Footnote number(formatted)</source>
         <comment>wps_sCrossRef_FootnoteNumFmt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr notă de subsol(formatat)</translation>
     </message>
     <message>
         <source>Endnote number</source>
         <comment>wps_sCrossRef_EndnoteNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr notă de final</translation>
     </message>
     <message>
         <source>Endnote number(formatted)</source>
         <comment>wps_sCrossRefEndnoteNumFmt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr notă de final(formatat)</translation>
     </message>
     <message>
         <source>Entire caption</source>
         <comment>wps_sCrossRef_EntireCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Întrg mottoul</translation>
     </message>
     <message>
         <source>Only label and number</source>
@@ -4490,7 +4502,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Only caption text</source>
         <comment>wps_sCrossRef_OnlyCaptionText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numai motto text</translation>
     </message>
     <message>
         <source>For &amp;which numbered item:</source>
@@ -4510,17 +4522,17 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>For &amp;which footnote:</source>
         <comment>wps_sCrossRef_WitchFootnote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pentru &amp;care notă de subsol:</translation>
     </message>
     <message>
         <source>For &amp;which endnote:</source>
         <comment>wps_sCrossRef_WitchEndnote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pentru &amp;care notă de final:</translation>
     </message>
     <message>
         <source>For &amp;which caption:</source>
         <comment>wps_sCrossRef_WitchCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pentru &amp;care motto:</translation>
     </message>
     <message>
         <source>The referred contents are blank.</source>
@@ -4567,12 +4579,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Unit: %s</source>
         <comment>wps_StatusBar_Units</comment>
-        <translation type="unfinished"></translation>
+        <translation>Unitate: %s</translation>
     </message>
     <message>
         <source>The default document path of USB version cannot be changed!</source>
         <comment>wps_sUSBVersionDirCannotModify</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calea implicită a documentului a versiunii USB nu se poate modifica!</translation>
     </message>
     <message>
         <source>You are not allowed to edit this selection because it is protected.</source>
@@ -4760,7 +4772,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Character Border</source>
         <comment>TxVersion_CharBorder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chenar caracter</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -4825,7 +4837,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Line Spacing</source>
         <comment>TxVersion_LineSpace</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distanța dintre linii</translation>
     </message>
     <message>
         <source>Numbering</source>
@@ -4845,17 +4857,17 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Shrink Font</source>
         <comment>TxVersion_ShrinkFonts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Micșorează font</translation>
     </message>
     <message>
         <source>Superscript</source>
         <comment>TxVersion_SuperScript</comment>
-        <translation type="unfinished"></translation>
+        <translation>Exponent</translation>
     </message>
     <message>
         <source>Subscript</source>
         <comment>TxVersion_SubScript</comment>
-        <translation type="unfinished"></translation>
+        <translation>Indice</translation>
     </message>
     <message>
         <source>Font</source>
@@ -4905,7 +4917,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Text Box Link</source>
         <comment>TxVersion_CreateTextboxLink</comment>
-        <translation type="unfinished"></translation>
+        <translation>Link casetă text</translation>
     </message>
     <message>
         <source>Emphasis mark</source>
@@ -4915,7 +4927,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Double Strikethrough</source>
         <comment>TxVersion_DoubleStrikethought</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie pe mijloc dublă</translation>
     </message>
     <message>
         <source>Page Numbers</source>
@@ -4945,7 +4957,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Switch Header/Footer Link</source>
         <comment>TxVersion_LinktoPreviousHeader</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comută link antet/subsol</translation>
     </message>
     <message>
         <source>Insert AutoText</source>
@@ -4955,7 +4967,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Add Header/Footer</source>
         <comment>TxVersion_HeaderFooter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă antet/subsol</translation>
     </message>
     <message>
         <source>Show/Hide Formatting Marks</source>
@@ -4975,12 +4987,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Text Wrapping</source>
         <comment>TxVersion_TextWawpping</comment>
-        <translation type="unfinished"></translation>
+        <translation>Încadrare text</translation>
     </message>
     <message>
         <source>Order</source>
         <comment>TxVersion_DrawingOrder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comandă</translation>
     </message>
     <message>
         <source>Page Width</source>
@@ -5115,7 +5127,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Borders and Shading</source>
         <comment>TxVersion_SetBorderShap</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chenare și umbrire</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
@@ -5145,12 +5157,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Format AutoShape</source>
         <comment>TxVersion_AutoShapeFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format formă automată</translation>
     </message>
     <message>
         <source>Auto Format</source>
         <comment>TxVersion_AutoFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format automat</translation>
     </message>
     <message>
         <source>Genko Setting</source>
@@ -5160,7 +5172,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert Break</source>
         <comment>TxVersion_InsBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu întrerupere</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -5180,12 +5192,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Footnote</source>
         <comment>TxVersion_FootNote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Notă de subsol</translation>
     </message>
     <message>
         <source>Caption</source>
         <comment>TxVersion_InsCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Motto</translation>
     </message>
     <message>
         <source>Insert Index</source>
@@ -5295,7 +5307,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Outside Border</source>
         <comment>TxVersion_TableOutsideBorder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chenar exterior</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -5305,7 +5317,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Snap to Grid</source>
         <comment>TxVersion_DrawingGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aliniază la grilă</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -5355,12 +5367,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Convert to Endnotes</source>
         <comment>TxVersion_ConvertToEndnotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Convertește la note de final</translation>
     </message>
     <message>
         <source>Convert to Footnotes</source>
         <comment>TxVersion_ConvertToFootnotes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Convertește la note de subsol</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
@@ -5400,7 +5412,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert Chart</source>
         <comment>TxVersion_InsertChart</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu grafic</translation>
     </message>
     <message>
         <source>To create a link, click an empty text box.
@@ -5481,7 +5493,7 @@ To add another text box to your document, click Text Box on the Insert menu and 
     <message>
         <source>Do you want to delete the header and footer, and connect to the previous section?</source>
         <comment>TxMessge_DelHeaderFooter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doriți să ștergeți antetul și subsolul și să vă conectați la secțiunea anterioară?</translation>
     </message>
     <message>
         <source>The font &apos;</source>
@@ -5496,7 +5508,7 @@ To add another text box to your document, click Text Box on the Insert menu and 
     <message>
         <source>This document contains no comments or tracked changes.</source>
         <comment>TxMessge_NoComment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acest document nu conține comentarii sau modificări urmărite.</translation>
     </message>
     <message>
         <source>
@@ -5615,12 +5627,12 @@ document</translation>
     <message>
         <source>Add Vertical Border</source>
         <comment>TxVersion_AddVertBorder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă chenar vertical</translation>
     </message>
     <message>
         <source>Add Horizontal Border</source>
         <comment>TxVersion_AddHorzBorder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă chenar orizontal</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -5630,7 +5642,7 @@ document</translation>
     <message>
         <source>Set Border Properties</source>
         <comment>TxVersion_SetBorderProp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurează proprietățile chenarului</translation>
     </message>
     <message>
         <source>Move Table</source>
@@ -5655,12 +5667,12 @@ document</translation>
     <message>
         <source>Hide White Space</source>
         <comment>TxMessage_ToolTip_HideBlank</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde spațiul alb</translation>
     </message>
     <message>
         <source>Show White Space</source>
         <comment>TxMessage_ToolTip_DisplayBlank</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arată spațiul alb</translation>
     </message>
     <message>
         <source>Mail Merge Insert Fields</source>
@@ -5756,7 +5768,8 @@ document</translation>
         <source>Track 
 Changes</source>
         <comment>TXShell_TrackChanges_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Urmărire 
+modificări</translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
@@ -5783,12 +5796,12 @@ ortografică</translation>
     <message>
         <source>Accept Formatted Changes</source>
         <comment>TxCaption_AcceptFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acceptă modificările formatate</translation>
     </message>
     <message>
         <source>Reject Formatted Changes</source>
         <comment>TxCaption_RejectFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Respinge modificările formatate</translation>
     </message>
     <message>
         <source>The checkbox or drop-down form field in vertical text is ignored, so it cannot be shown.</source>
@@ -5808,7 +5821,7 @@ ortografică</translation>
     <message>
         <source>Form Field Options</source>
         <comment>TxVersion_FormFieldOption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni câmp formular</translation>
     </message>
     <message>
         <source>Help</source>
@@ -5873,7 +5886,7 @@ ortografică</translation>
     <message>
         <source>Auto Adjust WordWrap</source>
         <comment>TxVersion_AutoAdjustWordWrap</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajustează automat încadrare cuvânt</translation>
     </message>
     <message>
         <source>(no spelling suggestions)</source>
@@ -5933,7 +5946,7 @@ ortografică</translation>
     <message>
         <source>Strikethrough</source>
         <comment>TxVersion_Strikethought</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie pe mijloc</translation>
     </message>
     <message>
         <source>Add rows and columns</source>
@@ -6008,17 +6021,17 @@ ortografică</translation>
     <message>
         <source>Before Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaMarginBefore</comment>
-        <translation>Înainte de spațiere: %.2f Linii</translation>
+        <translation>Înainte de distanțare: %.2f Linii</translation>
     </message>
     <message>
         <source>After Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaMarginAfter</comment>
-        <translation>După spațiere: %.2f Linii</translation>
+        <translation>După distanțare: %.2f Linii</translation>
     </message>
     <message>
         <source>Line Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaLineSpacing</comment>
-        <translation>Linie spațiere: %.2f Linii</translation>
+        <translation>Distanța dintre linii: %.2f Linii</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>

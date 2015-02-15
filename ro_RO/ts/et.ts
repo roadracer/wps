@@ -1402,7 +1402,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol</translation>
     </message>
     <message>
         <source>&amp;[%1]</source>
@@ -1446,7 +1446,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antetul sau subsolul (totalul secțiunilor din stânga, centru și dreapta) nu pot fi mai lungi de 255 caractere. Ștergeți ceva text, sau faceți formatarea mai puțin complexă.</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -1680,7 +1680,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>All e&amp;xcept borders</source>
-        <translation>Tot e&amp;xceptând granițele</translation>
+        <translation>Tot e&amp;xceptând chenarele</translation>
     </message>
     <message>
         <source>&amp;Formulas</source>
@@ -2679,7 +2679,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie pe mi&amp;jloc</translation>
     </message>
     <message>
         <source>Sup&amp;erscript</source>
@@ -3249,7 +3249,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Page brea&amp;ks</source>
-        <translation>Întrerup&amp;eri pagină</translation>
+        <translation>Întrerup&amp;eri de pagină</translation>
     </message>
     <message>
         <source>Sheet ta&amp;bs</source>
@@ -4000,7 +4000,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Footer:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Subsol:</translation>
     </message>
     <message>
         <source>Unit: Centimeters</source>
@@ -4044,7 +4044,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>C&amp;ustom Footer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol p&amp;ersonalizat...</translation>
     </message>
     <message>
         <source>Sheet</source>
@@ -4140,11 +4140,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>page(s) wide by </source>
-        <translation type="unfinished"></translation>
+        <translation>pagină(e) largă cu </translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet sau subsol</translation>
     </message>
 </context>
 <context>
@@ -4238,7 +4238,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert &amp;page break after each item</source>
-        <translation>Introdu întreruperea &amp;paginii după fiecare element</translation>
+        <translation>Introdu întreruperea de &amp;pagină după fiecare element</translation>
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
@@ -4448,7 +4448,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Comandă</translation>
     </message>
     <message>
         <source>Entire Wor&amp;kbook</source>
@@ -4463,12 +4463,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sharing with track changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Partajează cu urmărirea modificărilor.</translation>
     </message>
     <message>
         <source>This shares your workbook and then prevents 
 change tracking from being removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceasta partajează registrul de lucru și apoi previne 
+ca modificarea urmăririi să fie eliminată.</translation>
     </message>
     <message>
         <source>If desired, a password must be chosen now, 
@@ -4739,7 +4740,7 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>&amp;Show track changes description.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Arată descrierea urmăririi modificărilor.</translation>
     </message>
     <message>
         <source>Highlight which changes</source>
@@ -5100,7 +5101,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>Border:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chenar:</translation>
     </message>
     <message>
         <source>Patterns:</source>
@@ -5218,7 +5219,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>&amp;Page break between groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Întrerupere de &amp;pagină între grupuri</translation>
     </message>
     <message>
         <source>&amp;Summary below data</source>
@@ -5333,7 +5334,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>This screen lets you set field widths (column breaks).</source>
-        <translation>Acest ecran vă permite să configurați lățimile câmpului (întreruperi coloană).</translation>
+        <translation>Acest ecran vă permite să configurați lățimile câmpului (întreruperi de coloană).</translation>
     </message>
     <message>
         <source>Lines with arrows signify a column break.</source>
@@ -5341,7 +5342,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>To CREATE a break line, click at the desired position.</source>
-        <translation>Pentru a crea o linie ÎNTRERUPTĂ, apăsați la poziția dorită.</translation>
+        <translation>Pentru a CREEA o linie întreruptă, apăsați la poziția dorită.</translation>
     </message>
     <message>
         <source>To DELETE a break line, double click on the line.</source>
@@ -6675,7 +6676,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Chenar</translation>
     </message>
     <message>
         <source>Patterns</source>
@@ -8206,7 +8207,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Ord&amp;er</source>
-        <translation type="unfinished"></translation>
+        <translation>Com&amp;andă</translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
@@ -8397,7 +8398,7 @@ t</translation>
     </message>
     <message>
         <source>Text control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control text</translation>
     </message>
     <message>
         <source>&amp;Wrap text</source>
@@ -8441,7 +8442,7 @@ t</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justifică</translation>
     </message>
     <message>
         <source>Distributed(Indent)</source>
@@ -8504,7 +8505,7 @@ t</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justifică</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -8567,11 +8568,11 @@ t</translation>
     </message>
     <message>
         <source>&amp;Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;ontur</translation>
     </message>
     <message>
         <source>&amp;Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Interior</translation>
     </message>
     <message>
         <source>Line</source>
@@ -8615,11 +8616,11 @@ t</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Chenar</translation>
     </message>
     <message>
         <source>The selected border style can be applied by clicking the presets, preview diagram or the buttons above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilul chenar selectat se poate aplica apăsând pe preconfigurări, previzualizare diagramă sau pe butoanele de mai sus.</translation>
     </message>
     <message>
         <source>Clea&amp;r</source>
@@ -8670,7 +8671,7 @@ t</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie pe mi&amp;jloc</translation>
     </message>
     <message>
         <source>Sup&amp;erscript</source>
@@ -8930,7 +8931,7 @@ t</translation>
     </message>
     <message>
         <source>No Number Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără formatare număr</translation>
     </message>
     <message>
         <source>You are not allowed to add the default style name.</source>
@@ -8990,15 +8991,15 @@ t</translation>
     </message>
     <message>
         <source>Vertical Justify Aligned</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniat justificat vertical</translation>
     </message>
     <message>
         <source>Vertical Distributed Aligned</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniat distribuit vertical</translation>
     </message>
     <message>
         <source>Vertical Center Aligned</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniat centru vertical</translation>
     </message>
     <message>
         <source>Bottom Aligned</source>
@@ -9014,7 +9015,7 @@ t</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>Justifică</translation>
     </message>
     <message>
         <source>General</source>
@@ -9054,7 +9055,7 @@ t</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie pe mijloc</translation>
     </message>
     <message>
         <source>Single Accounting</source>
@@ -9094,11 +9095,11 @@ t</translation>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără chenare</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Chenar</translation>
     </message>
     <message>
         <source>Shaded</source>
@@ -9482,7 +9483,7 @@ t</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără chenar</translation>
     </message>
     <message>
         <source>To Start</source>
@@ -10007,7 +10008,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Break Links</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Întrerupere link-uri</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10087,11 +10088,11 @@ t</translation>
     </message>
     <message>
         <source>&amp;Open Source</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Open Source</translation>
     </message>
     <message>
         <source>&amp;Break Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Link &amp;întrerupt</translation>
     </message>
     <message>
         <source>&amp;Check Status</source>

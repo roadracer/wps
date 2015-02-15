@@ -889,7 +889,7 @@ Please specify the right files.</source>
     <message>
         <source>Option Button</source>
         <comment>TX_FormControl_OptionButton</comment>
-        <translation type="unfinished"></translation>
+        <translation>Buton opțiune</translation>
     </message>
     <message>
         <source>Tahoma</source>
@@ -1124,7 +1124,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>Cannot extend list or database.</source>
         <comment>TX_ETDataForm_NotDataBase</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate extinde lista sau baza de date.</translation>
     </message>
     <message>
         <source>Cannot enter a formula in a data form.</source>
@@ -1168,7 +1168,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>The calculation is not complete</source>
         <comment>TX_ETCalculateInfo_BeBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calcularea nu este terminată</translation>
     </message>
     <message>
         <source>“Filter”Mode</source>
@@ -6577,37 +6577,37 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Commands</source>
         <comment>FuncCatName14</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comenzi</translation>
     </message>
     <message>
         <source>Customizing</source>
         <comment>FuncCatName15</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se personalizează</translation>
     </message>
     <message>
         <source>Macro Control</source>
         <comment>FuncCatName16</comment>
-        <translation type="unfinished"></translation>
+        <translation>Control macrocomandă</translation>
     </message>
     <message>
         <source>DDE/External</source>
         <comment>FuncCatName17</comment>
-        <translation type="unfinished"></translation>
+        <translation>DDE/Extern</translation>
     </message>
     <message>
         <source>User Defined</source>
         <comment>FuncCatName18</comment>
-        <translation type="unfinished"></translation>
+        <translation>Definit de utilizator</translation>
     </message>
     <message>
         <source>Cube</source>
         <comment>FuncCatName19</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cub</translation>
     </message>
     <message>
         <source>Compatibility</source>
         <comment>FuncCatName20</comment>
-        <translation type="unfinished"></translation>
+        <translation>Compatibilitate</translation>
     </message>
     <message>
         <source>COUPDAYSNC(settlement, maturity, frequency, [basis])</source>
@@ -6667,7 +6667,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>BREAK()</source>
         <comment>BREAK_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ÎNTRERUPERE()</translation>
     </message>
     <message>
         <source>ELSE()</source>
@@ -6727,7 +6727,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>NEXT()</source>
         <comment>NEXT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>URMĂTOR()</translation>
     </message>
     <message>
         <source>PAUSE(no_tool)</source>
@@ -6762,7 +6762,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>STEP()</source>
         <comment>STEP_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>PAS()</translation>
     </message>
     <message>
         <source>VOLATILE(logical)</source>
@@ -7215,7 +7215,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Single Web Page Files(*.mht; *.mhtml)</source>
         <comment>TX_ssdesc_AllMht</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere arhivă pagină web(*.mht; *.mhtml)</translation>
     </message>
     <message>
         <source>The following features of your workbook are not going to be saved in XML Spreadsheets:
@@ -8482,7 +8482,7 @@ Se continuă?</translation>
     <message>
         <source>Order</source>
         <comment>TX_ParaInfo_050</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comandă</translation>
     </message>
     <message>
         <source>Power</source>
@@ -9177,47 +9177,47 @@ Se continuă?</translation>
     <message>
         <source>Up to one digit (%s)</source>
         <comment>TX_FRACTION_STYLE_01</comment>
-        <translation type="unfinished"></translation>
+        <translation>Până la un digit (%s)</translation>
     </message>
     <message>
         <source>Up to two digits (%s)</source>
         <comment>TX_FRACTION_STYLE_02</comment>
-        <translation type="unfinished"></translation>
+        <translation>Până la doi digiți (%s)</translation>
     </message>
     <message>
         <source>Up to three digits (%s)</source>
         <comment>TX_FRACTION_STYLE_03</comment>
-        <translation type="unfinished"></translation>
+        <translation>Până la trei digiți (%s)</translation>
     </message>
     <message>
         <source>As halves (%s)</source>
         <comment>TX_FRACTION_STYLE_04</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ca jumătățile (%s)</translation>
     </message>
     <message>
         <source>As quarters (%s)</source>
         <comment>TX_FRACTION_STYLE_05</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ca sferturile (%s)</translation>
     </message>
     <message>
         <source>As eighths (%s)</source>
         <comment>TX_FRACTION_STYLE_06</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ca optimile (%s)</translation>
     </message>
     <message>
         <source>As sixteenths (%s)</source>
         <comment>TX_FRACTION_STYLE_07</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ca șaișpezecimile (%s)</translation>
     </message>
     <message>
         <source>As tenths (%s)</source>
         <comment>TX_FRACTION_STYLE_08</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ca zecile (%s)</translation>
     </message>
     <message>
         <source>As hundredths (%s)</source>
         <comment>TX_FRACTION_STYLE_09</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ca sutele (%s)</translation>
     </message>
     <message>
         <source>Zip code</source>
@@ -9247,7 +9247,7 @@ Se continuă?</translation>
     <message>
         <source>Set Text box Format</source>
         <comment>TX_SETDLGCAPTION_TEXTBOX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurează format casetă text</translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -9287,7 +9287,7 @@ Se continuă?</translation>
     <message>
         <source>Footer</source>
         <comment>TX_FOOTER_POS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subsol</translation>
     </message>
     <message>
         <source>Width</source>
@@ -9515,7 +9515,7 @@ ortografie</translation>
     <message>
         <source>Option Button</source>
         <comment>TX_FCItemName_OptionButton</comment>
-        <translation type="unfinished"></translation>
+        <translation>Buton opțiune</translation>
     </message>
     <message>
         <source>List Box</source>
@@ -9555,12 +9555,12 @@ ortografie</translation>
     <message>
         <source>Protect Shared Workbook</source>
         <comment>TX_ShareWorkbook_MenuProtectSharing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Protejează registrul de lucru partajat</translation>
     </message>
     <message>
         <source>Unprotect Shared Workbook</source>
         <comment>TX_ShareWorkbook_MenuUnprotectSharing</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu proteja registru de lucru partajat</translation>
     </message>
     <message>
         <source>Unprotect Sharing</source>
@@ -9575,7 +9575,7 @@ ortografie</translation>
     <message>
         <source>Transaction Date</source>
         <comment>TX_ParaInfo_193</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dată tranzacție</translation>
     </message>
     <message>
         <source>Number of paying interest annually</source>
@@ -9585,7 +9585,7 @@ ortografie</translation>
     <message>
         <source>Cross-book reference cannot refer to this file.</source>
         <comment>TX_SupBook_RefThis</comment>
-        <translation type="unfinished"></translation>
+        <translation>Referința încrucișată carte nu se poate referi la acest fișier.</translation>
     </message>
     <message>
         <source>Press Alt and click the mouse to trace the link</source>
@@ -9605,7 +9605,7 @@ ortografie</translation>
     <message>
         <source>Chinese Conversion</source>
         <comment>TX_ChineseTranslation_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conversie în chineză</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -9625,12 +9625,12 @@ ortografie</translation>
     <message>
         <source>Draw Grid</source>
         <comment>TX_DrawBorderGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desenează grilă</translation>
     </message>
     <message>
         <source>Draw Border</source>
         <comment>TX_DrawBorder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desenează chenar</translation>
     </message>
     <message>
         <source>Info_type</source>
@@ -9640,12 +9640,12 @@ ortografie</translation>
     <message>
         <source>is the real number for which you want the absolute value.</source>
         <comment>TX_ParaDesc_001</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul real pentru care doriți valoarea absolută.</translation>
     </message>
     <message>
         <source>is the cosine of the angle you want and must be from -1 to 1.</source>
         <comment>TX_ParaDesc_002</comment>
-        <translation type="unfinished"></translation>
+        <translation>este cosinusul unghiului dorit și trebuie să fie de la -1 la 1.</translation>
     </message>
     <message>
         <source>is any real number equal to or greater than 1</source>
@@ -9690,37 +9690,37 @@ ortografie</translation>
     <message>
         <source>is the sine of the angle you want and must be from -1 to 1.</source>
         <comment>TX_ParaDesc_012</comment>
-        <translation type="unfinished"></translation>
+        <translation>este sinusul unghiului dorit și trebuie să fie de la -1 la 1.</translation>
     </message>
     <message>
         <source>is any real number equal or greater than 1.</source>
         <comment>TX_ParaDesc_013</comment>
-        <translation type="unfinished"></translation>
+        <translation>este un număr real egal sau mai mare decât 1.</translation>
     </message>
     <message>
         <source>is the tangent of the angle you want.</source>
         <comment>TX_ParaDesc_014</comment>
-        <translation type="unfinished"></translation>
+        <translation>este tangenta unghiului dorit.</translation>
     </message>
     <message>
         <source>is the x-coordinate of the point.</source>
         <comment>TX_ParaDesc_015</comment>
-        <translation type="unfinished"></translation>
+        <translation>este coordonata x a punctului.</translation>
     </message>
     <message>
         <source>is the y-coordinate of the point.</source>
         <comment>TX_ParaDesc_016</comment>
-        <translation type="unfinished"></translation>
+        <translation>este coordonata y a punctului.</translation>
     </message>
     <message>
         <source>is any real number between -1 and 1 excluding -1 and 1.</source>
         <comment>TX_ParaDesc_017</comment>
-        <translation type="unfinished"></translation>
+        <translation>este orice număr real între -1 și 1 excluzând -1 și 1.</translation>
     </message>
     <message>
         <source>the numbers you want to convert.</source>
         <comment>TX_ParaDesc_021</comment>
-        <translation type="unfinished"></translation>
+        <translation>numerele pe care doriți să le convertiți.</translation>
     </message>
     <message>
         <source>is the value between A and B at which to evaluate the function.</source>
@@ -9740,7 +9740,7 @@ ortografie</translation>
     <message>
         <source>is probability associated with the beta distribution.</source>
         <comment>TX_ParaDesc_025</comment>
-        <translation type="unfinished"></translation>
+        <translation>este probabil asociat cu distribuția beta.</translation>
     </message>
     <message>
         <source>is a parameter to the distribution and must be greater than 0.</source>
@@ -9770,17 +9770,17 @@ ortografie</translation>
     <message>
         <source>is the value you want to round.</source>
         <comment>TX_ParaDesc_031</comment>
-        <translation type="unfinished"></translation>
+        <translation>este valoarea pe care doriți să o rotunjiți.</translation>
     </message>
     <message>
         <source>is the value you want to round.</source>
         <comment>TX_ParaDesc_032</comment>
-        <translation type="unfinished"></translation>
+        <translation>este valoarea pe care doriți să o rotunjiți.</translation>
     </message>
     <message>
         <source>is the multiple to which you want to round.</source>
         <comment>TX_ParaDesc_033</comment>
-        <translation type="unfinished"></translation>
+        <translation>este multiplul la care doriți să rotunjiți.</translation>
     </message>
     <message>
         <source>is a text value that specifies what type of cell information you want.</source>
@@ -9795,12 +9795,12 @@ ortografie</translation>
     <message>
         <source>is the cell that you want information about.</source>
         <comment>TX_ParaDesc_036</comment>
-        <translation type="unfinished"></translation>
+        <translation>este celule despre care doriți informații.</translation>
     </message>
     <message>
         <source>is a number between 1 and 255 specifying which character you want.</source>
         <comment>TX_ParaDesc_037</comment>
-        <translation type="unfinished"></translation>
+        <translation>este un număr între 1 și 255 specificând ce caracter doriți.</translation>
     </message>
     <message>
         <source>is the value at which you want to evaluate the distribution, a nonnegative number.</source>
@@ -9890,12 +9890,12 @@ ortografie</translation>
     <message>
         <source>is the angle in radians for which you want the cosine.</source>
         <comment>TX_ParaDesc_057</comment>
-        <translation type="unfinished"></translation>
+        <translation>este unghiul în radiani pentru care doriți cosinusul.</translation>
     </message>
     <message>
         <source>is any real number.</source>
         <comment>TX_ParaDesc_058</comment>
-        <translation type="unfinished"></translation>
+        <translation>este un număr real.</translation>
     </message>
     <message>
         <source>is the range from which you want to count the empty cells.</source>
@@ -10115,7 +10115,7 @@ ortografie</translation>
     <message>
         <source>is the value to round.</source>
         <comment>TX_ParaDesc_105</comment>
-        <translation type="unfinished"></translation>
+        <translation>este valoarea de rotunjit.</translation>
     </message>
     <message>
         <source>is the first text string.</source>
@@ -10175,7 +10175,7 @@ ortografie</translation>
     <message>
         <source>is the text containing the text you want to find.</source>
         <comment>TX_ParaDesc_117</comment>
-        <translation type="unfinished"></translation>
+        <translation>este textul care conține textul pe care doriți să-l găsiți.</translation>
     </message>
     <message>
         <source>specifies the character at which to start the search. The first character in Within_text is character number 1. If omitted, Start_num = 1.</source>
@@ -10190,12 +10190,12 @@ ortografie</translation>
     <message>
         <source>is the text containing the text you want to find.</source>
         <comment>TX_ParaDesc_120</comment>
-        <translation>este textul care conține textul pe care ați dorit să-l găsiți.</translation>
+        <translation>este textul care conține textul pe care doriți să-l găsiți.</translation>
     </message>
     <message>
         <source>specifies the character at which to start the search.</source>
         <comment>TX_ParaDesc_121</comment>
-        <translation type="unfinished"></translation>
+        <translation>specifică un caracter de la care porniți căutarea.</translation>
     </message>
     <message>
         <source>is probability associated with the F cumulative distribution, a number between 0 and 1 inclusive.</source>
@@ -10225,7 +10225,7 @@ ortografie</translation>
     <message>
         <source>is the number you want to round and convert to text.</source>
         <comment>TX_ParaDesc_127</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul pe care doriți să-l rotunjiți și apoi să-l convertiți la text.</translation>
     </message>
     <message>
         <source>is the number of digits to the right of the decimal point. If omitted, Decimals = 2.</source>
@@ -10240,7 +10240,7 @@ ortografie</translation>
     <message>
         <source>is the numeric value you want to round.</source>
         <comment>TX_ParaDesc_130</comment>
-        <translation type="unfinished"></translation>
+        <translation>este valoarea numerică pe care doriți să o rotunjiți.</translation>
     </message>
     <message>
         <source>is the multiple to which you want to round. Number and Significance must either both be positive or both be negative.</source>
@@ -10800,7 +10800,7 @@ ortografie</translation>
     <message>
         <source>is the number by which you want to divide Number.</source>
         <comment>TX_ParaDesc_253</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul cu care doriți să divizați Numărul.</translation>
     </message>
     <message>
         <source>is number in the date-time code used by WPS Spreadsheets.</source>
@@ -10900,7 +10900,7 @@ ortografie</translation>
     <message>
         <source>is the value to round.</source>
         <comment>TX_ParaDesc_275</comment>
-        <translation type="unfinished"></translation>
+        <translation>este valoarea de rotunjit.</translation>
     </message>
     <message>
         <source>is the reference from which you want to base the offset, a reference to a cell or range of adjacent cells.</source>
@@ -10930,12 +10930,12 @@ ortografie</translation>
     <message>
         <source>is a set of independent values.</source>
         <comment>TX_ParaDesc_282</comment>
-        <translation type="unfinished"></translation>
+        <translation>este o pereche de valori independente.</translation>
     </message>
     <message>
         <source>is a set of dependent values.</source>
         <comment>TX_ParaDesc_283</comment>
-        <translation type="unfinished"></translation>
+        <translation>este o pereche de valori dependente.</translation>
     </message>
     <message>
         <source>is the array or range of data that defines relative standing.</source>
@@ -11015,7 +11015,7 @@ ortografie</translation>
     <message>
         <source>is the base number, any real number.</source>
         <comment>TX_ParaDesc_299</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul de bază, orice număr real.</translation>
     </message>
     <message>
         <source>is the exponent, to which the base number is raised.</source>
@@ -11085,7 +11085,7 @@ ortografie</translation>
     <message>
         <source>is an angle in degrees that you want to convert.</source>
         <comment>TX_ParaDesc_314</comment>
-        <translation type="unfinished"></translation>
+        <translation>este unghiul în grade pe care doriți să-l convertiți.</translation>
     </message>
     <message>
         <source>is the number for which you want to find the rank.</source>
@@ -11125,7 +11125,7 @@ ortografie</translation>
     <message>
         <source>is text in which you want to replace some characters.</source>
         <comment>TX_ParaDesc_322</comment>
-        <translation type="unfinished"></translation>
+        <translation>este textul în care doriți să înlocuiți unele caractere.</translation>
     </message>
     <message>
         <source>is the position of the character in Old_text that you want to replace with New_text.</source>
@@ -11145,7 +11145,7 @@ ortografie</translation>
     <message>
         <source>is the text in which you want to replace.</source>
         <comment>TX_ParaDesc_326</comment>
-        <translation>este textul pe care doriți să-l înlocuiți.</translation>
+        <translation>este textul în care doriți să înlocuiți.</translation>
     </message>
     <message>
         <source>is the position of the character in Old_text that you want to replace with New_text.</source>
@@ -11160,7 +11160,7 @@ ortografie</translation>
     <message>
         <source>is the text in which you want to replace.</source>
         <comment>TX_ParaDesc_329</comment>
-        <translation type="unfinished"></translation>
+        <translation>este textul în care doriți să înlocuiți.</translation>
     </message>
     <message>
         <source>is the text you want to repeat.</source>
@@ -11215,7 +11215,7 @@ ortografie</translation>
     <message>
         <source>is the number you want to round.</source>
         <comment>TX_ParaDesc_340</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul pe care doriți să-l rotunjiți.</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero to the nearst integer.</source>
@@ -11290,7 +11290,7 @@ ortografie</translation>
     <message>
         <source>is the text containing the text you want to find.</source>
         <comment>TX_ParaDesc_356</comment>
-        <translation type="unfinished"></translation>
+        <translation>este textul care conține textul pe care doriți să-l găsiți.</translation>
     </message>
     <message>
         <source>specifies the character at which to start the search.</source>
@@ -11350,7 +11350,7 @@ ortografie</translation>
     <message>
         <source>is the value you want to normalize.</source>
         <comment>TX_ParaDesc_369</comment>
-        <translation type="unfinished"></translation>
+        <translation>este valoarea pe care doriți să o normalizați.</translation>
     </message>
     <message>
         <source>is the arithmetic mean of the distribution.</source>
@@ -11445,12 +11445,12 @@ ortografie</translation>
     <message>
         <source>is the numeric value at which to evaluate the distribution.</source>
         <comment>TX_ParaDesc_396</comment>
-        <translation type="unfinished"></translation>
+        <translation>este valoarea numerică la care evaluați distribuția.</translation>
     </message>
     <message>
         <source>degrees of freedom</source>
         <comment>TX_ParaDesc_397</comment>
-        <translation type="unfinished"></translation>
+        <translation>grade de libertate</translation>
     </message>
     <message>
         <source>specifies the number of distribution tails to return: ont-tailed distribution = 1; tow-tailed distribution = 2.</source>
@@ -11470,17 +11470,17 @@ ortografie</translation>
     <message>
         <source>is a number from 0 to 23 representing the hour.</source>
         <comment>TX_ParaDesc_401</comment>
-        <translation type="unfinished"></translation>
+        <translation>este un număr de la 0 la 23 reprezentând orele.</translation>
     </message>
     <message>
         <source>is a number from 0 to 59 representing the minute.</source>
         <comment>TX_ParaDesc_402</comment>
-        <translation type="unfinished"></translation>
+        <translation>este un număr de la 0 la 59 reprezentând minutele.</translation>
     </message>
     <message>
         <source>is a number from 0 to 59 representing the second.</source>
         <comment>TX_ParaDesc_403</comment>
-        <translation type="unfinished"></translation>
+        <translation>este un număr de la 0 la 59 reprezentând secundele.</translation>
     </message>
     <message>
         <source>is a text string that gives a time in any one of the WPS Spreadsheets time formats (date information in the string is ignored).</source>
@@ -11610,7 +11610,7 @@ ortografie</translation>
     <message>
         <source>is the number that represents a date.</source>
         <comment>TX_ParaDesc_433</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul care reprezintî o dată.</translation>
     </message>
     <message>
         <source>is a number: for Sunday = 1 through Saturday = 7, use 1; for Monday = 1 through Sunday = 7, use 2; for Monday = 0 through Sunday = 6, use 3.</source>
@@ -11690,7 +11690,7 @@ ortografie</translation>
     <message>
         <source>is the multiple to which you want to round number.</source>
         <comment>TX_ParaDesc_448</comment>
-        <translation type="unfinished"></translation>
+        <translation>este multiplul la care doriți să rotunjiți numărul.</translation>
     </message>
     <message>
         <source>is the number of characters to use.</source>
@@ -11790,12 +11790,12 @@ ortografie</translation>
     <message>
         <source>is the value to round.</source>
         <comment>TX_ParaDesc_462</comment>
-        <translation type="unfinished"></translation>
+        <translation>este valoarea de rotunjit.</translation>
     </message>
     <message>
         <source>is the binary number you want to convert.</source>
         <comment>TX_ParaDesc_463</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul binar pe care doriți să-l convertiți.</translation>
     </message>
     <message>
         <source>is the decimal integer you want to convert.</source>
@@ -12126,7 +12126,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The value of step-by-step test</source>
         <comment>TX_ParaDesc_507</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea testului pas cu pas</translation>
     </message>
     <message>
         <source>Threshold</source>
@@ -12156,7 +12156,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Calculate the plural of its cosine</source>
         <comment>TX_ParaDesc_513</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calculează pluralul cosinusului său</translation>
     </message>
     <message>
         <source>The plural form of molecules or dividend</source>
@@ -12231,7 +12231,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The octal number to convert</source>
         <comment>TX_ParaDesc_529</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul octal de convertit</translation>
     </message>
     <message>
         <source>By default, the character number from the octal number conversion, is accordant with the character number in least.</source>
@@ -12246,7 +12246,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Computing method</source>
         <comment>TX_ParaInfo_204</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metodă de calcul</translation>
     </message>
     <message>
         <source>Octal number</source>
@@ -12416,7 +12416,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the cell or range that you want information about.</source>
         <comment>TX_ParaDesc_544</comment>
-        <translation type="unfinished">este celula sau intervalul despre care doriți informații.</translation>
+        <translation>este celula sau intervalul despre care doriți informații.</translation>
     </message>
     <message>
         <source>Dates</source>
@@ -12489,7 +12489,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Logical_test</source>
         <comment>TX_ParaInfo_225</comment>
-        <translation type="unfinished"></translation>
+        <translation>Test_logic</translation>
     </message>
     <message>
         <source>Value</source>
@@ -12674,12 +12674,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>From_a1</source>
         <comment>TX_ParaInfo_262</comment>
-        <translation type="unfinished"></translation>
+        <translation>De la_a1</translation>
     </message>
     <message>
         <source>To_a1</source>
         <comment>TX_ParaInfo_263</comment>
-        <translation type="unfinished"></translation>
+        <translation>La_a1</translation>
     </message>
     <message>
         <source>To_ref_type</source>
@@ -13537,12 +13537,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Insert Page Break</source>
         <comment>TX_Undo_PageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu întrerupere de pagină</translation>
     </message>
     <message>
         <source>Remove Page Break</source>
         <comment>TX_Undo_RemovePageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elimină întreruperea de pagină</translation>
     </message>
     <message>
         <source>Set Print Area</source>
@@ -13697,12 +13697,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Clear Outline</source>
         <comment>TX_Undo_ClearOutline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță_chenar</translation>
     </message>
     <message>
         <source>Freeze Panes</source>
         <comment>TX_Undo_FreezePanes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Îngheață panouri</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -13747,7 +13747,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Format Painter</source>
         <comment>TX_Undo_FormatPainter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pictor formatare</translation>
     </message>
     <message>
         <source>Font</source>
@@ -13797,12 +13797,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Percent Style</source>
         <comment>TX_Undo_PercentStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stil procent</translation>
     </message>
     <message>
         <source>Comma Style</source>
         <comment>TX_Undo_CommaStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stil virgulă</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -13887,12 +13887,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Recent Borders</source>
         <comment>TX_Undo_RecentBorders</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chenare recente</translation>
     </message>
     <message>
         <source>Borders</source>
         <comment>TX_Undo_BordersPalette</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chenare</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -13927,17 +13927,17 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Insert Page Break</source>
         <comment>TX_Undo_InsertPageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu întrerupere de pagină</translation>
     </message>
     <message>
         <source>Move Page Break</source>
         <comment>TX_Undo_MovePageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mută întreruperea de pagină</translation>
     </message>
     <message>
         <source>Remove Page Break</source>
         <comment>TX_Undo_DeletePageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elimină întreruperea de pagină</translation>
     </message>
     <message>
         <source>Unfold/Fold</source>
@@ -14160,7 +14160,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Border</source>
         <comment>et_sBorder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chenar</translation>
     </message>
     <message>
         <source>Text</source>
@@ -14228,7 +14228,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Convert Text to Columns Wizard - Step %d of 3</source>
         <comment>et_sCaptionConv</comment>
-        <translation type="unfinished"></translation>
+        <translation>Asistent conversie text la coloană - Pas %d din 3</translation>
     </message>
     <message>
         <source> - Fill in</source>
@@ -14253,7 +14253,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Text Import Wizard - Step %d of 3</source>
         <comment>et_sCaptionText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Asistent import text - Pas %d din 3</translation>
     </message>
     <message>
         <source>Center</source>
@@ -14268,7 +14268,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Vertical Center Aligned</source>
         <comment>et_sCenterAligned</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aliniat centru vertical</translation>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
@@ -14418,7 +14418,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Default book name &quot;%s&quot; is not valid, can&apos;t include &quot;%s&quot;.</source>
         <comment>et_sDefaultBookNameNotValid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numele implicit al cărții &quot;%s&quot; nu este valid, nu poate include &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>Color Scheme</source>
@@ -14743,7 +14743,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Footer</source>
         <comment>et_sFooter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subsol</translation>
     </message>
     <message>
         <source>&amp;[%s]</source>
@@ -14753,17 +14753,17 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>&amp;Format...</source>
         <comment>et_sFormat1Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Format...</translation>
     </message>
     <message>
         <source>F&amp;ormat...</source>
         <comment>et_sFormat2Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;ormat...</translation>
     </message>
     <message>
         <source>Fo&amp;rmat...</source>
         <comment>et_sFormat3Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fo&amp;rmat...</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
@@ -14813,7 +14813,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Indents</source>
         <comment>et_sIndents</comment>
-        <translation type="unfinished"></translation>
+        <translation>Indentări</translation>
     </message>
     <message>
         <source>Information</source>
@@ -14865,7 +14865,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Vertical Justify Aligned</source>
         <comment>et_sJustifyAligned</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aliniat justificat vertical</translation>
     </message>
     <message>
         <source>Unit: Centimeters</source>
@@ -14945,7 +14945,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Modify existing outline?</source>
         <comment>et_sModifyExistingOutline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se modifică conturul existent?</translation>
     </message>
     <message>
         <source>(Move to end)</source>
@@ -15035,7 +15035,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>No Borders</source>
         <comment>et_sNoBorders</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fără chenare</translation>
     </message>
     <message>
         <source>No Font</source>
@@ -15255,7 +15255,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Rejected changes</source>
         <comment>et_sReject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modificări respinse</translation>
     </message>
     <message>
         <source>Related Acceptances</source>
@@ -15355,7 +15355,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Shaded</source>
         <comment>et_sShaded</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umbrit</translation>
     </message>
     <message>
         <source>Tab</source>
@@ -15380,7 +15380,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Single</source>
         <comment>et_sSingle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Singur</translation>
     </message>
     <message>
         <source>Single Accounting</source>
@@ -15424,12 +15424,12 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>&amp;Start date:</source>
         <comment>et_sStartDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dată &amp;pornire:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
         <comment>et_sStartTime</comment>
-        <translation type="unfinished"></translation>
+        <translation>Timp &amp;pornire:</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -15439,7 +15439,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Strikethrough</source>
         <comment>et_sStrikethrough</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linie pe mijloc</translation>
     </message>
     <message>
         <source>@ET_Style?</source>
@@ -15484,7 +15484,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
         <comment>et_sTooLong</comment>
-        <translation type="unfinished"></translation>
+        <translation>Antetul sau subsolul (totalsecțiuni din stânga,centru și dreapta) nu pot fi mai lungi de 255 caractere. Ștergeți ceva text, sau faceți formatarea mai puțin complexă.</translation>
     </message>
     <message>
         <source>Top</source>
@@ -15644,7 +15644,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Set display area</source>
         <comment>et_sOleSelection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurează zona de afișat</translation>
     </message>
     <message>
         <source>The Ole selection area cannot be objects, please select again.</source>
@@ -15834,7 +15834,7 @@ tically, only keep one row.
     <message>
         <source>Reject Input Duplicates</source>
         <comment>et_sRepeatWordInputDenyCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Respinge intrarea duplicatelor</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
