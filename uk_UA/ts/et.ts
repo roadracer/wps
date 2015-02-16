@@ -6,127 +6,127 @@
     <name>AdvQueryDlgUi</name>
     <message>
         <source>Advanced Query</source>
-        <translation type="unfinished"></translation>
+        <translation type="Розширений запит"></translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="Сортувати"></translation>
     </message>
     <message>
         <source>&amp;Add to the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="Додати до листа"></translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="Видалит з листа"></translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="Цідило"></translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Образ"></translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation type="Підказка"></translation>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation type="unfinished"></translation>
+        <translation type="Додати до списку"></translation>
     </message>
     <message>
         <source>D&amp;elete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="Стерти з списку"></translation>
     </message>
 </context>
 <context>
     <name>ChangeFileAccess</name>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ви внесли зміни в &quot;%s&quot;."></translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation type="Інший користувач також вніс зміни. Ваші дії?"></translation>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Клацніть &quot;Відмінити&quot; для відміни змін та редагування останньої версії."></translation>
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Клацніть &quot;Зберегти як..&quot; для збереження змін в інший файл та відкриття останньої версії."></translation>
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
+        <translation type="Відмінити"></translation>
     </message>
     <message>
         <source>&amp;Save as</source>
-        <translation type="unfinished"></translation>
+        <translation type="Зберегти як..."></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="Відміна"></translation>
     </message>
 </context>
 <context>
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation type="unfinished"></translation>
+        <translation type="вибір ширини стовпця"></translation>
     </message>
 </context>
 <context>
     <name>ConnectPage</name>
     <message>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation type=></translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation type=></translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type=></translation>
     </message>
     <message>
         <source>Alt+W</source>
-        <translation type="unfinished"></translation>
+        <translation type=></translation>
     </message>
 </context>
 <context>
     <name>ConnectPageUi</name>
     <message>
         <source>Step 1 : Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation type="Крок 1: Вибір джерела даних"></translation>
     </message>
     <message>
         <source>Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation type="Вибір джерела даних"></translation>
     </message>
     <message>
         <source>&amp;Open data file directly</source>
-        <translation type="unfinished"></translation>
+        <translation type="Вибір файлу даних"></translation>
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation type="unfinished"></translation>
+        <translation type="Використати ODBC настанову по з’єданню з джерелом даних"></translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Вибір джерела даних..."></translation>
     </message>
     <message>
         <source>Input &amp;connection string manually</source>
-        <translation type="unfinished"></translation>
+        <translation type="Введення &amp;стрічки під’єданння вручну"></translation>
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation type="Пояснення"></translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
