@@ -737,7 +737,7 @@ Pictograma butonului, comanda grupează și poziția ferestrei de sarcini ale fi
     </message>
     <message>
         <source>Chart</source>
-        <translation>Diagramă</translation>
+        <translation>Grafic</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -1038,7 +1038,7 @@ Pictograma butonului, comanda grupează și poziția ferestrei de sarcini ale fi
     </message>
     <message>
         <source>Workbook</source>
-        <translation>Workbook</translation>
+        <translation>Registru de lucru</translation>
     </message>
     <message>
         <source>Document</source>

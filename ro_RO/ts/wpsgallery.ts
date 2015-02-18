@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Caption:</source>
-        <translation>Legendă:</translation>
+        <translation>Motto:</translation>
     </message>
     <message>
         <source>Label:</source>

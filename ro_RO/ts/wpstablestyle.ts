@@ -6,7 +6,7 @@
     <name>CWpsTableStyle</name>
     <message>
         <source>Emphasize</source>
-        <translation>Accentuat</translation>
+        <translation>Accentuează</translation>
     </message>
     <message>
         <source>1-</source>
@@ -70,26 +70,26 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Stil întunecat 2-Accentuat 1/Accentuat 2</translation>
+        <translation>Stil întunecat 2-Accentuează 1/Accentuează 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Stil întunecat 2-Accentuat 3/Accentuat 4</translation>
+        <translation>Stil întunecat 2-Accentuează 3/Accentuează 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Stil întunecat 2-Accentuat 5/Accentuat 6</translation>
+        <translation>Stil întunecat 2-Accentuează 5/Accentuează 6</translation>
     </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Built-in</source>
-        <translation>Încorporat</translation>
+        <translation>Inclus</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Accentuat</translation>
+        <translation>Accentuează</translation>
     </message>
     <message>
         <source>1-</source>
@@ -109,7 +109,7 @@
     </message>
     <message>
         <source>Theme Style</source>
-        <translation>Stilul temei</translation>
+        <translation>Stilul tematicii</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
@@ -133,15 +133,15 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Stil întunecat 2-Accentuat 1/Accentuat 2</translation>
+        <translation>Stil întunecat 2-Accentuează 1/Accentuează 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Stil întunecat 2-Accentuat 3/Accentuat 4</translation>
+        <translation>Stil întunecat 2-Accentuează 3/Accentuează 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Stil întunecat 2-Accentuat5/Accentuat 6</translation>
+        <translation>Stil întunecat 2-Accentuează 5/Accentuează 6</translation>
     </message>
     <message>
         <source>First Row</source>

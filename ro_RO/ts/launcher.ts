@@ -14,15 +14,15 @@
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>WPS Procesor de text</translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>WPS Prezentare</translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation>WPS Foaie de calcul</translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Create desktop shortcuts</source>

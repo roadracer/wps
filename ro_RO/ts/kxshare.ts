@@ -364,7 +364,7 @@
     <name>KFileSaveDialog</name>
     <message>
         <source>&amp;Encryption</source>
-        <translation>&amp;Codificare</translation>
+        <translation>&amp;Criptare</translation>
     </message>
     <message>
         <source>FileName or PathName is longger than 218 chars!</source>
@@ -610,7 +610,7 @@
     </message>
     <message>
         <source>Nonbreaking Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spațiu neântrerupt</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -634,23 +634,23 @@
     </message>
     <message>
         <source>Ellipsis</source>
-        <translation>Elipse</translation>
+        <translation>Elipsă</translation>
     </message>
     <message>
         <source>Single Opening Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Un singur citat de deschidere</translation>
     </message>
     <message>
         <source>Single Closing Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Un singur citat de închidere</translation>
     </message>
     <message>
         <source>Double Opening Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Dublu citat de deschidere</translation>
     </message>
     <message>
         <source>Double Closing Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Dublu citat de închidere</translation>
     </message>
 </context>
 <context>
@@ -1142,7 +1142,7 @@
     </message>
     <message>
         <source>Invalid</source>
-        <translation>Ne valid</translation>
+        <translation>Nevalid</translation>
     </message>
     <message>
         <source>Add Item</source>
@@ -1661,7 +1661,7 @@
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation>&amp;Legendă:</translation>
+        <translation>&amp;Motto:</translation>
     </message>
 </context>
 <context>
@@ -1934,7 +1934,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Gold</source>
-        <translation>Aur</translation>
+        <translation>Auriu</translation>
     </message>
     <message>
         <source>GoldII</source>
@@ -1962,7 +1962,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Spring</source>
-        <translation>Primăvara</translation>
+        <translation>Primăvară</translation>
     </message>
     <message>
         <source>Green</source>
@@ -1994,11 +1994,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Diagonal &amp;up</source>
-        <translation>Diagonală în s&amp;us</translation>
+        <translation>Diagonal în s&amp;us</translation>
     </message>
     <message>
         <source>Diagonal &amp;down</source>
-        <translation>Diagonală în &amp;jos</translation>
+        <translation>Diagonal în &amp;jos</translation>
     </message>
     <message>
         <source>&amp;From corner</source>
@@ -2006,7 +2006,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Fro&amp;m center</source>
-        <translation>De l&amp;a centru</translation>
+        <translation>Di&amp;n centru</translation>
     </message>
     <message>
         <source>Texture</source>
@@ -2302,7 +2302,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Problems of secondly development</source>
-        <translation type="unfinished"></translation>
+        <translation>Probleme de dezvoltare viitoare</translation>
     </message>
     <message>
         <source>Other problems</source>
@@ -2457,7 +2457,7 @@ Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. A
     </message>
     <message>
         <source>Enter Viewer Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare mod vizualizator</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -2574,7 +2574,7 @@ Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. A
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
-        <translation>Atenție: Salvând ca fișier text toată formatarea, pozele și obiectele din fișier vor fi pierdute.</translation>
+        <translation>Atenție: Salvarea ca un fișier text va provoca tuturor formatărilor, pozelor și obiectelor din fișier să fie pierdute.</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
@@ -2586,7 +2586,7 @@ Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. A
     <message>
         <source>&amp;Encryption...</source>
         <comment>Encrypt button tab in filedialog</comment>
-        <translation>&amp;Codificare...</translation>
+        <translation>&amp;Criptare...</translation>
     </message>
 </context>
 <context>
@@ -2636,11 +2636,11 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Light vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Luminat vertical</translation>
     </message>
     <message>
         <source>Light horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Luminat orizontal</translation>
     </message>
     <message>
         <source>Narrow vertical</source>
@@ -2652,11 +2652,11 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Dark vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Întunecat vertical</translation>
     </message>
     <message>
         <source>Dark horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Întunecat orizontal</translation>
     </message>
     <message>
         <source>Dashed downward diagonal</source>
@@ -2668,11 +2668,11 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Dashed horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Liniat întrerupt orizontal</translation>
     </message>
     <message>
         <source>Dashed vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Liniat întrerupt vertival</translation>
     </message>
     <message>
         <source>Small confetti</source>
@@ -2688,23 +2688,23 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Val 1</translation>
     </message>
     <message>
         <source>Diagonal brick</source>
-        <translation type="unfinished"></translation>
+        <translation>Cărămidă diagonală</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
-        <translation type="unfinished"></translation>
+        <translation>Cărămidă orizontală</translation>
     </message>
     <message>
         <source>Weave</source>
-        <translation type="unfinished"></translation>
+        <translation>Țesătură</translation>
     </message>
     <message>
         <source>Plaid</source>
-        <translation>Caro</translation>
+        <translation>Carou</translation>
     </message>
     <message>
         <source>Divot</source>
@@ -2756,39 +2756,39 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Linii modelate</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmează schema culoare de fundal</translation>
     </message>
     <message>
         <source>Follow Text and Lines Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmează schema culoare text și linii</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmează schema culoare umbre</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmează schema culoare text titlu</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmează schema culoare umplere</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmează schema culoare accent</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmează schema culoare accent și hyperlink</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmează accentul și schema de culoare hyperlink urmată</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
@@ -2836,11 +2836,11 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poza este prea mare pentru a fi utilizată ca un model.</translation>
     </message>
     <message>
         <source>Select Picture</source>
-        <translation>Selectați poza</translation>
+        <translation>Selectează poza</translation>
     </message>
     <message>
         <source>An error occurred while importing this file %1.</source>
@@ -2926,15 +2926,15 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Up one folder</source>
-        <translation>Sus un dosar</translation>
+        <translation>Urcă un dosar</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>Pagina de start</translation>
+        <translation>Pagina principală</translation>
     </message>
     <message>
         <source>Browse File</source>
-        <translation>Navighează fișier</translation>
+        <translation>Navigare fișier</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -3084,7 +3084,7 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     <name>KxMacroCommand</name>
     <message>
         <source>Download</source>
-        <translation>Descarcă</translation>
+        <translation>Descărcare</translation>
     </message>
     <message>
         <source>No</source>
@@ -3232,7 +3232,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>&amp;Caption:</source>
-        <translation>&amp;Legendă:</translation>
+        <translation>&amp;Motto:</translation>
     </message>
     <message>
         <source>Image:</source>
@@ -3268,7 +3268,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>&amp;Select</source>
-        <translation>&amp;Selectează</translation>
+        <translation>&amp;Selectare</translation>
     </message>
     <message>
         <source>Con&amp;trol</source>
@@ -3300,7 +3300,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Select picture</source>
-        <translation>Selectare poză</translation>
+        <translation>Selectează poza</translation>
     </message>
     <message>
         <source>&amp;Open File...</source>
@@ -3308,7 +3308,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>&amp;Insert Picture...</source>
-        <translation>&amp;Introdu poza...</translation>
+        <translation>&amp;Introduceți poză...</translation>
     </message>
     <message>
         <source>All files(*.*)</source>
@@ -3375,7 +3375,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation>Descarcă</translation>
+        <translation>Descărcare</translation>
     </message>
 </context>
 <context>
@@ -3397,7 +3397,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation>Descarcă</translation>
+        <translation>Descărcare</translation>
     </message>
     <message>
         <source>Cancle</source>
@@ -3455,7 +3455,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Fold online fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Extinde fonturile online</translation>
     </message>
     <message>
         <source>Show Online Fonts</source>
@@ -3542,7 +3542,7 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Enter Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare vizualizator</translation>
     </message>
     <message>
         <source>Disable Print</source>
@@ -3661,7 +3661,7 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Manual duple&amp;x</source>
-        <translation type="unfinished"></translation>
+        <translation>Duple&amp;x manual</translation>
     </message>
     <message>
         <source>Print to fi&amp;le</source>
@@ -3689,7 +3689,7 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Page &amp;source:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sursă pagină:</translation>
     </message>
     <message>
         <source>Status:</source>
@@ -3721,7 +3721,7 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>&amp;Inverse output</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inversează ieșirea</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3748,7 +3748,7 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation>Department</translation>
+        <translation>Departament</translation>
     </message>
     <message>
         <source>Reference</source>
@@ -3840,7 +3840,7 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Stare</translation>
     </message>
     <message>
         <source>Property</source>
@@ -3899,7 +3899,7 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Chenar</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -3996,7 +3996,7 @@ fișierul este posibil să fie redenumit,șters sau mutat.</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation type="unfinished"></translation>
+        <translation>deschide fișier dosar</translation>
     </message>
 </context>
 <context>
@@ -4154,7 +4154,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Some formula symbols might not be displayed correctly due to missing fonts %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unele simboluri ale formulei este posibil să nu fie afișate corect datorită lipsei fontului %1.</translation>
     </message>
     <message>
         <source>Missing Cups libraries. Cannot access the printer.</source>
@@ -4362,7 +4362,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatură artistică</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -4373,7 +4373,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     <name>KxTpNativeWrapperContainer</name>
     <message>
         <source>Selection Pane</source>
-        <translation>Panou de selectare</translation>
+        <translation>Panoul de selecție</translation>
     </message>
     <message>
         <source>Custom animation:</source>
@@ -4400,7 +4400,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation>Document gol nou</translation>
+        <translation>Document nou gol</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -4420,11 +4420,11 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți caseta de dialog administrare fișiere recente și eliminați unele sau toate fișierele recente.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Nou din șabloanele online</translation>
+        <translation>Nou din șabloane online</translation>
     </message>
     <message>
         <source>
@@ -4473,7 +4473,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation>Document gol nou</translation>
+        <translation>Document nou gol</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -4493,11 +4493,11 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți caseta de dialog administrare fișiere recente și eliminați unele sau toate fișierele recente.</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Nou din șabloanele online</translation>
+        <translation>Nou din șabloane online</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
@@ -4552,7 +4552,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     <name>KxWidgetColorAndLines</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Format formă automată</translation>
     </message>
     <message>
         <source>C&amp;olor:</source>
@@ -4691,7 +4691,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>Spălare</translation>
     </message>
     <message>
         <source>Co&amp;ntrast:</source>
@@ -4794,7 +4794,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>ucRotation</source>
-        <translation>ucRotație</translation>
+        <translation>ucRotire</translation>
     </message>
     <message>
         <source>degree, 0, -3600, 3600, 1</source>
@@ -4834,11 +4834,11 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>&amp;Best scale for slide show</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cea mai bună scalare pentru prezentarea diapozitiv</translation>
     </message>
     <message>
         <source>Ro&amp;tation:</source>
-        <translation>Ro&amp;tație:</translation>
+        <translation>Ro&amp;tire:</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
@@ -4952,7 +4952,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Allow text to be wrapped by &amp;external object</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite textului să fie încadrat de obiecte &amp;externe</translation>
     </message>
     <message>
         <source>T&amp;op:</source>
@@ -4960,7 +4960,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Resize autoshape to fit &amp;text</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionează forma automată pentru a se potrivi cu &amp;textul</translation>
     </message>
     <message>
         <source>Allow text to rotate with object(&amp;F)</source>
@@ -5062,7 +5062,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation>Mare verde</translation>
+        <translation>Verde marin</translation>
     </message>
     <message>
         <source>Cyan Green</source>
@@ -5273,7 +5273,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation>Trandafir</translation>
+        <translation>Trandafiriu</translation>
     </message>
     <message>
         <source>Plum</source>
@@ -5295,7 +5295,7 @@ Mereu fă această acțiune.</translation>
     </message>
     <message>
         <source>Blue Gray</source>
-        <translation>Gri albastru</translation>
+        <translation>Albastru-gri</translation>
     </message>
 </context>
 <context>
@@ -5331,7 +5331,7 @@ Configurările vor avea efect după repornirea WPS Office.</translation>
     <name>TreeViewTemp</name>
     <message>
         <source>File Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier dosar</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -5400,7 +5400,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <name>compressPictures</name>
     <message>
         <source>Compress Pictures</source>
-        <translation>Comprimă poze</translation>
+        <translation>Comprimă pozele</translation>
     </message>
     <message>
         <source>Apply to</source>
@@ -5432,7 +5432,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>&amp;Compress pictures</source>
-        <translation>&amp;Comprimă poze</translation>
+        <translation>&amp;Comprimă pozele</translation>
     </message>
     <message>
         <source>D&amp;elete cropped areas of pictures</source>
@@ -5497,7 +5497,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation>Conversie la chineză</translation>
+        <translation>Conversie în chineză</translation>
     </message>
 </context>
 <context>
@@ -5516,7 +5516,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sf&amp;at pe ecran...</translation>
     </message>
     <message>
         <source>Pl&amp;ace in this
@@ -5551,8 +5551,8 @@ document</translation>
     <message>
         <source>E&amp;xisting File
 or Web Page</source>
-        <translation>Fișierul e&amp;xistent
-sau pagina web</translation>
+        <translation>Fișier e&amp;xistent
+sau pagină web</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
@@ -5749,7 +5749,7 @@ sau pagina web</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation>Department</translation>
+        <translation>Departament</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -5761,7 +5761,7 @@ sau pagina web</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Group</translation>
+        <translation>Grupează</translation>
     </message>
     <message>
         <source>Language</source>
@@ -5861,7 +5861,7 @@ sau pagina web</translation>
     </message>
     <message>
         <source>Completion date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data finalizării</translation>
     </message>
 </context>
 <context>

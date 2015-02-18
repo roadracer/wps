@@ -261,7 +261,7 @@
     <message>
         <source>Slide Show Help</source>
         <comment>WpSlideShowHelp_Caption</comment>
-        <translation>Ajutor prezentare diapăozitiv</translation>
+        <translation>Ajutor prezentare diapozitiv</translation>
     </message>
     <message>
         <source>During the slide show:
@@ -273,7 +273,15 @@ or Page Up
 Number followed by Enter			Go to that slide	
 Esc					End of the slide show</source>
         <comment>WpSlideShowHelp_Text</comment>
-        <translation type="unfinished"></translation>
+        <translation>În timpul prezentării diapozitivului:
+
+Click-stânga, spațiu, &apos;N&apos;, Săgeată la dreapta sau în jos 	Avansare la diapozitivul următor	
+Enter, sau page-down
+Backspace, &apos;P&apos;, săgeată în sus sau la stînga, 	Revenire la diapozitivul anterio	
+sau page up
+Număr urmat de enter			Mergi la diapoziti	
+Esc					Sfârșit prezentare diapozitiv
+</translation>
     </message>
     <message>
         <source>The file you specified cannot be open.</source>
@@ -349,7 +357,12 @@ It is important to be certain that this file is from a trustworthy source.
 Would you like to open this file?
 </source>
         <comment>WpActionRunProgramMessage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se deschide %s
+
+Unele fișiere pot conține viruși sau altceva dăunător computerului.
+Este important să fiți sigur că acest fișier este de la o sursă de încredere.
+
+Doriți să deschideți acest fișier?</translation>
     </message>
 </context>
 <context>
@@ -427,7 +440,7 @@ Would you like to open this file?
     <message>
         <source>Baseline Offset</source>
         <comment>TXTRANS_SPAN_FONT_BASELINEOFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Decalaj linie de bază</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -487,12 +500,12 @@ Would you like to open this file?
     <message>
         <source>Upholding Fixed</source>
         <comment>TXTRANS_PARA_TEXTALIGN_UPHOLDINGFIXED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Susținerea fixată</translation>
     </message>
     <message>
         <source>Format Object</source>
         <comment>TXTRANS_FORMAT_OBJECT</comment>
-        <translation>Format Object</translation>
+        <translation>Format obiect</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
@@ -502,7 +515,7 @@ Would you like to open this file?
     <message>
         <source>Date and Time</source>
         <comment>TXTRANS_DATA_AND_TIME</comment>
-        <translation>Dată și oră</translation>
+        <translation>Data și ora</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -720,12 +733,12 @@ Would you like to open this file?
     <message>
         <source>Comb Horizontal</source>
         <comment>WP_EFFECT_COMBHORIZONTAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Combină orizontal</translation>
     </message>
     <message>
         <source>Comb Vertical</source>
         <comment>WP_EFFECT_COMBVERTICAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Combină vertical</translation>
     </message>
     <message>
         <source>Cover Down</source>
@@ -805,7 +818,7 @@ Would you like to open this file?
     <message>
         <source>Push Left</source>
         <comment>WP_EFFECT_PUSHLEFT</comment>
-        <translation>Împinge în sus</translation>
+        <translation>Împinge la stânga</translation>
     </message>
     <message>
         <source>Push Right</source>
@@ -815,7 +828,7 @@ Would you like to open this file?
     <message>
         <source>Push Up</source>
         <comment>WP_EFFECT_PUSHUP</comment>
-        <translation>Împinge la stânga</translation>
+        <translation>Împinge în sus</translation>
     </message>
     <message>
         <source>Random Bars Horizontal</source>
@@ -840,7 +853,7 @@ Would you like to open this file?
     <message>
         <source>Shape Plus</source>
         <comment>WP_EFFECT_PLUSOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Forma plus</translation>
     </message>
     <message>
         <source>Split Horizontal In</source>
@@ -930,47 +943,47 @@ Would you like to open this file?
     <message>
         <source>Wheel Clockwise, 1 Spoke</source>
         <comment>WP_EFFECT_WHEEL1SPOKE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Roata acelor de ceasornic, 1 spiță</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 2 Spokes</source>
         <comment>WP_EFFECT_WHEEL2SPOKES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Roata acelor de ceasornic, 2 spițe</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 3 Spokes</source>
         <comment>WP_EFFECT_WHEEL3SPOKES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Roata acelor de ceasornic, 3 spițe</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 4 Spokes</source>
         <comment>WP_EFFECT_WHEEL4SPOKES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Roata acelor de ceasornic, 4 spițe</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 8 Spokes</source>
         <comment>WP_EFFECT_WHEEL8SPOKES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Roata acelor de ceasornic, 8 spițe</translation>
     </message>
     <message>
         <source>Wipe Down</source>
         <comment>WP_EFFECT_WIPEDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță în jos</translation>
     </message>
     <message>
         <source>Wipe Left</source>
         <comment>WP_EFFECT_WIPELEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță la stânga</translation>
     </message>
     <message>
         <source>Wipe Right</source>
         <comment>WP_EFFECT_WIPERIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță la dreapta</translation>
     </message>
     <message>
         <source>Wipe Up</source>
         <comment>WP_EFFECT_WIPEUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curăță în sus</translation>
     </message>
     <message>
         <source>Random Transition</source>
@@ -1170,7 +1183,7 @@ Would you like to open this file?
     <message>
         <source>Faded Wipe</source>
         <comment>WP_ANIMATIONTYPE_FADEDWIPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge estompat</translation>
     </message>
     <message>
         <source>Faded Zoom</source>
@@ -1180,7 +1193,7 @@ Would you like to open this file?
     <message>
         <source>Brush On Underline</source>
         <comment>WP_ANIMATIONTYPE_BRUSHONUNDERLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pensulă pe subliniere</translation>
     </message>
     <message>
         <source>Dissolve In</source>
@@ -1190,7 +1203,7 @@ Would you like to open this file?
     <message>
         <source>Flash Bulb</source>
         <comment>WP_ANIMATIONTYPE_FLASHBULB</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bec electric</translation>
     </message>
     <message>
         <source>Highlights</source>
@@ -1205,7 +1218,7 @@ Would you like to open this file?
     <message>
         <source>Wipe</source>
         <comment>WP_ANIMATIONTYPE_WIPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <source>Ascend</source>
@@ -1285,12 +1298,12 @@ Would you like to open this file?
     <message>
         <source>Pinwheel</source>
         <comment>WP_ANIMATIONTYPE_PINWHEEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Morișcă</translation>
     </message>
     <message>
         <source>Title Arc</source>
         <comment>WP_ANIMATIONTYPE_TITLEARC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu arc</translation>
     </message>
     <message>
         <source>Boomerang And Exit</source>
@@ -1300,12 +1313,12 @@ Would you like to open this file?
     <message>
         <source>Grow And Exit</source>
         <comment>WP_ANIMATIONTYPE_GROWANDEXIT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Crește și ieși</translation>
     </message>
     <message>
         <source>Thread And Exit</source>
         <comment>WP_ANIMATIONTYPE_THREADANDEXIT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fir și ieșire</translation>
     </message>
     <message>
         <source>No Animation</source>
@@ -1315,12 +1328,12 @@ Would you like to open this file?
     <message>
         <source>Body: Appear</source>
         <comment>WP_ANIMATIONTYPE_APPEAR_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Corp: Apare</translation>
     </message>
     <message>
         <source>Body: Appear</source>
         <comment>WP_ANIMATIONTYPE_APPEARANDDIM_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Corp: Apare</translation>
     </message>
     <message>
         <source>Slide Transition: No Transiton
@@ -1335,68 +1348,75 @@ Corp: Estompare</translation>
         <source>Title: Fade
 Body: Fade</source>
         <comment>WP_ANIMATIONTYPE_FADEINONEBYONE_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Estompare
+Corp: Estompare</translation>
     </message>
     <message>
         <source>Title: Fade
 Body: Fade</source>
         <comment>WP_ANIMATIONTYPE_FADEDWIPE_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Estompare
+Corp: Estompare</translation>
     </message>
     <message>
         <source>Title: Fade
 Body: Fade</source>
         <comment>WP_ANIMATIONTYPE_FADEINANDDIM_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Estompare
+Corp: Estompare</translation>
     </message>
     <message>
         <source>Title: Faded Zoom
 Body: Fade</source>
         <comment>WP_ANIMATIONTYPE_FADEDZOOM_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Zoom estompat
+Corp: Estompare</translation>
     </message>
     <message>
         <source>Title: Brush On Underline</source>
         <comment>WP_ANIMATIONTYPE_BRUSHONUNDERLINE_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Pensulă pe subliniere</translation>
     </message>
     <message>
         <source>Title: Dissolve In
 Body: Dissolve In</source>
         <comment>WP_ANIMATIONTYPE_DISSOLVEIN_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Dizolvare intrare
+Corp: Dizolvare intrare</translation>
     </message>
     <message>
         <source>Title: Flash Bulb</source>
         <comment>WP_ANIMATIONTYPE_FLASHBULB_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Bec electric</translation>
     </message>
     <message>
         <source>Body: Transparency</source>
         <comment>WP_ANIMATIONTYPE_HIGHLIGHTS_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Corp: Transparență</translation>
     </message>
     <message>
         <source>Title: Random Bars
 Body: Random Bars</source>
         <comment>WP_ANIMATIONTYPE_RANDOMBARS_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Bare aleatoare
+Corp: Bare aleatoare</translation>
     </message>
     <message>
         <source>Title: Fade
 Body: Wipe</source>
         <comment>WP_ANIMATIONTYPE_WIPE_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Estompare
+Corp: Șterge</translation>
     </message>
     <message>
         <source>Body: Ascend</source>
         <comment>WP_ANIMATIONTYPE_ASCEND_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Corp: Urcă</translation>
     </message>
     <message>
         <source>Body: Descend</source>
         <comment>WP_ANIMATIONTYPE_DESCEND_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Corp: Coboară</translation>
     </message>
     <message>
         <source>Slide Transition: Split Vertical In
@@ -1429,7 +1449,8 @@ Body: Fly In</source>
         <source>Title: Spinner
 Body: Spinner</source>
         <comment>WP_ANIMATIONTYPE_SPIN_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Rotativ
+Corp: Rotativ</translation>
     </message>
     <message>
         <source>Slide Transition: Push Right
@@ -1442,7 +1463,8 @@ Body: Unfold</source>
         <source>Title: Zoom
 Body: Zoom</source>
         <comment>WP_ANIMATIONTYPE_ZOOM_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Zoom
+Corp: Zoom</translation>
     </message>
     <message>
         <source>Slide Transition: Wedge
@@ -1462,7 +1484,8 @@ Body: Unfold</source>
         <source>Title: Credits
 Body: Credits</source>
         <comment>WP_ANIMATIONTYPE_CREDITS_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu: Credite
+Corp: Credite</translation>
     </message>
     <message>
         <source>Slide Transition: Strips Right-Down
@@ -1523,7 +1546,8 @@ Body: Thread</source>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>WP_SaveFailureLocked</comment>
-        <translation type="unfinished"></translation>
+        <translation>Documentul a fost blocat de o altă aplicație. Doriți să-l deschideți doar pentru citire?
+(%s)</translation>
     </message>
     <message>
         <source>Errors occur when WPS Presentation is opening this file.
@@ -1533,7 +1557,12 @@ Please try one of the following.
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>WP_OpenFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Au intervenit erori când WPS Presentation deschide acest fișier.
+Încercați una dintre următoarele.
+•Asigurați-vă că aveți permisiunea de a accesa acest fișier sau partiție.
+•Asigurați-vă că este memorie suficientă și spațiu pe disk.	
+•Asigurați-vă că acest fișier este de un format recognoscibil.
+(%s)</translation>
     </message>
     <message>
         <source>WPS Presentation cannot open this file, because the password is not correct.
@@ -1546,7 +1575,7 @@ Please try one of the following.
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>WP_OpenProvALGVerFailure</comment>
-        <translation>Format fișier criptat nesuportat. Contactați creatorul.
+        <translation>Format fișier criptat nesuportat. Contactați creatorul fișierului.
 (%s)</translation>
     </message>
     <message>
@@ -1559,7 +1588,7 @@ Please try one of the following.
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
         <comment>WP_PrintError</comment>
-        <translation>Nu se poate tipării, asigurați-vă că imprimanta a fost instalată corespunzător.</translation>
+        <translation>Nu se poate tipări, asigurați-vă că imprimanta a fost instalată corespunzător.</translation>
     </message>
     <message>
         <source>Click to edit Master title style</source>
@@ -1573,7 +1602,11 @@ Third level
 Fourth level
 Fifth level</source>
         <comment>WP_TEXT_OF_BODY_IN_MASTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați pentru editarea stilurilor text Master
+Al doilea nivel
+Al treilea nivel
+Al patrulea nivel
+Al cincilea nivel</translation>
     </message>
     <message>
         <source>Click to edit Master title style</source>
@@ -1583,7 +1616,7 @@ Fifth level</source>
     <message>
         <source>Click to edit Master subtitle Style</source>
         <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați pentru a edita stil subtitrare Master</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1613,7 +1646,7 @@ Fifth level</source>
     <message>
         <source>Format Painter</source>
         <comment>WP_FORMATPAINT</comment>
-        <translation>Pictor format</translation>
+        <translation>Pictor formatare</translation>
     </message>
     <message>
         <source>Drag-and-Drop</source>
@@ -1704,7 +1737,11 @@ Please try one of the following.
 •Ask its creator to change the permission control level of this file.
 (%s)</source>
         <comment>WPPKRMOPENNOOWNER</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation nu poate deschide acest fișier, fiindcă utilizatorul curent nu are suficiente permisiuni de acces.
+Încercați una dintre următoarele.
+•Schimbați la alt cont de utilizator.
+•Cereți creatorului să modifice nivelul de control al permisiunilor acestui fișier.
+(%s)</translation>
     </message>
     <message>
         <source>Text Layouts</source>
@@ -1921,7 +1958,7 @@ Rețineți că se reduce calitatea pozei când o comprimați. Doriți să o comp
     <message>
         <source>Move Object</source>
         <comment>WP_SHAPE_MOVE</comment>
-        <translation>Mută obiect</translation>
+        <translation>Mută obiectul</translation>
     </message>
     <message>
         <source>Hide Slide</source>
@@ -2361,7 +2398,7 @@ Rețineți că se reduce calitatea pozei când o comprimați. Doriți să o comp
     <message>
         <source>Light</source>
         <comment>WP_TBLSTYLEGROUP2</comment>
-        <translation>Lumină</translation>
+        <translation>Luminos</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -2415,7 +2452,7 @@ Rețineți că se reduce calitatea pozei când o comprimați. Doriți să o comp
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Motto prezentare</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
@@ -2481,17 +2518,17 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Title Area for AutoLayouts</source>
         <comment>WpPLACEHOLDER_MST_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titlu zonă pentru aspecte automate</translation>
     </message>
     <message>
         <source>Object Area for AutoLayouts</source>
         <comment>WpPLACEHOLDER_MST_OBJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obiect zonă pentru aspecte automate</translation>
     </message>
     <message>
         <source>Subtitle Area for AutoLayouts</source>
         <comment>WpPLACEHOLDER_MST_SUBTITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subtitrare zonă pentru aspecte automate</translation>
     </message>
     <message>
         <source>Number Area</source>
@@ -2542,22 +2579,22 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Slide Design</source>
         <comment>wpp_AnimationSchemes_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Proiectare diapozitiv</translation>
     </message>
     <message>
         <source>Slide Design - Animation Schemes</source>
         <comment>wpp_AnimationSchemes_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Proiectare diapozitiv - Scheme animație</translation>
     </message>
     <message>
         <source>Slide Design</source>
         <comment>wpp_ColorSchemes_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Proiectare diapozitiv</translation>
     </message>
     <message>
         <source>Slide Design - Color Schemes</source>
         <comment>wpp_ColorSchemes_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Proiectare diapozitiv - Scheme culoare</translation>
     </message>
     <message>
         <source>Custom Animation</source>
@@ -2727,22 +2764,22 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>&amp;Full Spin</source>
         <comment>wpp_sAnimCircleFullSpin2</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rotire completă</translation>
     </message>
     <message>
         <source>&amp;Half Spin</source>
         <comment>wpp_sAnimCircleHalfSpin2</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rotire jumătate</translation>
     </message>
     <message>
         <source>&amp;Quarter Spin</source>
         <comment>wpp_sAnimCircleQuarterSpin2</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rotire un sfert</translation>
     </message>
     <message>
         <source>&amp;Two Spin</source>
         <comment>wpp_sAnimCircleTwoSpins2</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Două rotiri</translation>
     </message>
     <message>
         <source>C&amp;ustom(&amp;U): </source>
@@ -2907,22 +2944,22 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Split Horizontal In</source>
         <comment>wpp_sAnimDirectionHorizontalIn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desparte orizontal întrare</translation>
     </message>
     <message>
         <source>Split &amp;Horizontal In</source>
         <comment>wpp_sAnimDirectionHorizontalIn2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desparte &amp;orizontal intrare</translation>
     </message>
     <message>
         <source>Split Horizontal Out</source>
         <comment>wpp_sAnimDirectionHorizontalOut</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desparte orizontal ieșire</translation>
     </message>
     <message>
         <source>Split H&amp;orizontal Out</source>
         <comment>wpp_sAnimDirectionHorizontalOut2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desparte &amp;orizontal ieșire</translation>
     </message>
     <message>
         <source>In</source>
@@ -3017,12 +3054,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>In To Screen Center</source>
         <comment>wpp_sAnimDirectionOutToScreenCenter</comment>
-        <translation>În centrul ecranului</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>In To Screen &amp;Center</source>
         <comment>wpp_sAnimDirectionOutToScreenCenter2</comment>
-        <translation>În &amp;centrul ecranului</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Down</source>
@@ -3127,12 +3164,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Up</source>
         <comment>wpp_sAnimDirectionUp</comment>
-        <translation>Urcă</translation>
+        <translation>Sus</translation>
     </message>
     <message>
         <source>&amp;Up</source>
         <comment>wpp_sAnimDirectionUp2</comment>
-        <translation>&amp;Urcă</translation>
+        <translation>S&amp;us</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -3147,22 +3184,22 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Split Vertical In</source>
         <comment>wpp_sAnimDirectionVerticalIn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desparte vertical intrare</translation>
     </message>
     <message>
         <source>Split &amp;Vertical In</source>
         <comment>wpp_sAnimDirectionVerticalIn2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desparte &amp;vertical intrare</translation>
     </message>
     <message>
         <source>Split Vertical Out</source>
         <comment>wpp_sAnimDirectionVerticalOut</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desparte vertical ieșire</translation>
     </message>
     <message>
         <source>Split V&amp;ertical Out</source>
         <comment>wpp_sAnimDirectionVerticalOut2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desparte v&amp;ertical ieșire</translation>
     </message>
     <message>
         <source>Blast</source>
@@ -3182,12 +3219,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Brush On Color</source>
         <comment>wpp_sAnimEffectBrushOnColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pensulă pe culoare</translation>
     </message>
     <message>
         <source>Brush On Underline</source>
         <comment>wpp_sAnimEffectBrushOnUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pensulă pe subliniere</translation>
     </message>
     <message>
         <source>Change Fill Color</source>
@@ -3302,12 +3339,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>4 Point Star</source>
         <comment>wpp_sAnimEffectPath4PointStar</comment>
-        <translation>Stea în 4 colțuri</translation>
+        <translation>Stea cu 4-colțuri</translation>
     </message>
     <message>
         <source>5 Point Star</source>
         <comment>wpp_sAnimEffectPath5PointStar</comment>
-        <translation>Stea în 5 colțuri</translation>
+        <translation>Stea cu 5 colțuri</translation>
     </message>
     <message>
         <source>6 Point Star</source>
@@ -3317,7 +3354,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>8 Point Star</source>
         <comment>wpp_sAnimEffectPath8PointStar</comment>
-        <translation>Stea în 8 colțuri</translation>
+        <translation>Stea cu 8 colțuri</translation>
     </message>
     <message>
         <source>Arc Down</source>
@@ -3347,12 +3384,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Bounce Left</source>
         <comment>wpp_sAnimEffectPathBounceLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săritură la stânga</translation>
     </message>
     <message>
         <source>Bounce Right</source>
         <comment>wpp_sAnimEffectPathBounceRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săritură la dreapta</translation>
     </message>
     <message>
         <source>Buzz Saw</source>
@@ -3367,7 +3404,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Crescent Moon</source>
         <comment>wpp_sAnimEffectPathCrescentMoon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lună nouă</translation>
     </message>
     <message>
         <source>Curved Square</source>
@@ -3402,17 +3439,17 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Decaying Wave</source>
         <comment>wpp_sAnimEffectPathDecayingWave</comment>
-        <translation type="unfinished"></translation>
+        <translation>Descompunere val</translation>
     </message>
     <message>
         <source>Diagonal Down Right</source>
         <comment>wpp_sAnimEffectPathDiagonalDownRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal jos dreapta</translation>
     </message>
     <message>
         <source>Diagonal Up Right</source>
         <comment>wpp_sAnimEffectPathDiagonalUpRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal sus dreapta</translation>
     </message>
     <message>
         <source>Diamond</source>
@@ -3432,7 +3469,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Figure 8 Four</source>
         <comment>wpp_sAnimEffectPathFigure8Four</comment>
-        <translation type="unfinished"></translation>
+        <translation>Figură 8 patru</translation>
     </message>
     <message>
         <source>Football</source>
@@ -3532,12 +3569,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>S Curve 1</source>
         <comment>wpp_sAnimEffectPathSCurve1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curbă S 1</translation>
     </message>
     <message>
         <source>S Curve 2</source>
         <comment>wpp_sAnimEffectPathSCurve2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curbă S 2</translation>
     </message>
     <message>
         <source>Sine Wave</source>
@@ -3572,7 +3609,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Swoosh</source>
         <comment>wpp_sAnimEffectPathSwoosh</comment>
-        <translation type="unfinished"></translation>
+        <translation>Swoosh</translation>
     </message>
     <message>
         <source>Teardrop</source>
@@ -3627,7 +3664,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Spin</source>
         <comment>wpp_sAnimEffectSpin</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rotire</translation>
     </message>
     <message>
         <source>Style Emphasis</source>
@@ -3717,7 +3754,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Crawl In</source>
         <comment>wpp_sAnimEnterEffectTextCrawl</comment>
-        <translation type="unfinished"></translation>
+        <translation>Târât înăuntru</translation>
     </message>
     <message>
         <source>Credits</source>
@@ -3747,12 +3784,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Ease In</source>
         <comment>wpp_sAnimEnterEffectTextEaseIn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ușor înăuntru</translation>
     </message>
     <message>
         <source>Expand</source>
         <comment>wpp_sAnimEnterEffectTextExpand</comment>
-        <translation>Expandează</translation>
+        <translation>Extinde</translation>
     </message>
     <message>
         <source>Fade</source>
@@ -3762,7 +3799,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Faded Swivel</source>
         <comment>wpp_sAnimEnterEffectTextFadedSwivel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pivotare estompată</translation>
     </message>
     <message>
         <source>Faded Zoom</source>
@@ -3817,7 +3854,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Pinwheel</source>
         <comment>wpp_sAnimEnterEffectTextPinwheel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Morișcă</translation>
     </message>
     <message>
         <source>Plus</source>
@@ -3847,17 +3884,17 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Sling</source>
         <comment>wpp_sAnimEnterEffectTextSling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Praștie</translation>
     </message>
     <message>
         <source>Spinner</source>
         <comment>wpp_sAnimEnterEffectTextSpinner</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rotativ</translation>
     </message>
     <message>
         <source>Spiral In</source>
         <comment>wpp_sAnimEnterEffectTextSpiral</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spirală înăuntru</translation>
     </message>
     <message>
         <source>Split</source>
@@ -3877,22 +3914,22 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Strips</source>
         <comment>wpp_sAnimEnterEffectTextStrips</comment>
-        <translation type="unfinished"></translation>
+        <translation>Benzi</translation>
     </message>
     <message>
         <source>Swish</source>
         <comment>wpp_sAnimEnterEffectTextSwish</comment>
-        <translation type="unfinished"></translation>
+        <translation>Foșnet</translation>
     </message>
     <message>
         <source>Swivel</source>
         <comment>wpp_sAnimEnterEffectTextSwivel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pivotant</translation>
     </message>
     <message>
         <source>Thread</source>
         <comment>wpp_sAnimEnterEffectTextThinLine</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fir</translation>
     </message>
     <message>
         <source>Unfold</source>
@@ -3912,12 +3949,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Whip</source>
         <comment>wpp_sAnimEnterEffectTextWhip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bici</translation>
     </message>
     <message>
         <source>Wipe</source>
         <comment>wpp_sAnimEnterEffectTextWipe</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <source>Magnify</source>
@@ -3987,7 +4024,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Crawl Out</source>
         <comment>wpp_sAnimExitEffectTextCrawl</comment>
-        <translation type="unfinished"></translation>
+        <translation>Târât în afară</translation>
     </message>
     <message>
         <source>Credits</source>
@@ -4017,7 +4054,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Ease Out</source>
         <comment>wpp_sAnimExitEffectTextEaseIn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ușor în afară</translation>
     </message>
     <message>
         <source>Contract</source>
@@ -4032,7 +4069,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Faded Swivel</source>
         <comment>wpp_sAnimExitEffectTextFadedSwivel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pivotare estompată</translation>
     </message>
     <message>
         <source>Faded Zoom</source>
@@ -4057,7 +4094,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Fly Out</source>
         <comment>wpp_sAnimExitEffectTextFly</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zboară</translation>
     </message>
     <message>
         <source>Fold</source>
@@ -4087,7 +4124,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Pinwheel</source>
         <comment>wpp_sAnimExitEffectTextPinwheel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Morișcă</translation>
     </message>
     <message>
         <source>Plus</source>
@@ -4117,7 +4154,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Sling</source>
         <comment>wpp_sAnimExitEffectTextSling</comment>
-        <translation type="unfinished"></translation>
+        <translation>Praștie</translation>
     </message>
     <message>
         <source>Spinner</source>
@@ -4137,32 +4174,32 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Collapse</source>
         <comment>wpp_sAnimExitEffectTextStretch</comment>
-        <translation type="unfinished"></translation>
+        <translation>Restrânge</translation>
     </message>
     <message>
         <source>Stretchy</source>
         <comment>wpp_sAnimExitEffectTextStretchy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elastic</translation>
     </message>
     <message>
         <source>Strips</source>
         <comment>wpp_sAnimExitEffectTextStrips</comment>
-        <translation type="unfinished"></translation>
+        <translation>Benzi</translation>
     </message>
     <message>
         <source>Swish</source>
         <comment>wpp_sAnimExitEffectTextSwish</comment>
-        <translation type="unfinished"></translation>
+        <translation>Foșnet</translation>
     </message>
     <message>
         <source>Swivel</source>
         <comment>wpp_sAnimExitEffectTextSwivel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pivotant</translation>
     </message>
     <message>
         <source>Thread</source>
         <comment>wpp_sAnimExitEffectTextThinLine</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fir</translation>
     </message>
     <message>
         <source>Unfold</source>
@@ -4182,12 +4219,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Whip</source>
         <comment>wpp_sAnimExitEffectTextWhip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bici</translation>
     </message>
     <message>
         <source>Wipe</source>
         <comment>wpp_sAnimExitEffectTextWipe</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <source>Magnify</source>
@@ -4387,7 +4424,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>The spelling check is complete.</source>
         <comment>wpp_sCheckSpellingOver</comment>
-        <translation>Verificarea ortografică s-a terminat.</translation>
+        <translation>Verificarea ortografică este terminată.</translation>
     </message>
     <message>
         <source>Chinese(PRC)</source>
@@ -4457,7 +4494,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Set up Show</source>
         <comment>wpp_sCustomSlideShowAndKey</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurează prezentarea</translation>
     </message>
     <message>
         <source> (Default)</source>
@@ -4522,7 +4559,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Elbow</source>
         <comment>wpp_sElbow</comment>
-        <translation>Curbat</translation>
+        <translation>Îndoit</translation>
     </message>
     <message>
         <source>Emphasis Effect</source>
@@ -4547,7 +4584,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Either ensure that the slides are no longer hidden, or choose to export hidden slides.</source>
         <comment>wpp_sExportHideSlide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Asigurați-vă că diapozitivele nu mai sunt ascunse, sau alegeți să exportați diapozitive ascunse.</translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF.</source>
@@ -4557,7 +4594,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
         <comment>wpp_sFileExist</comment>
-        <translation>Fișierul specificat deja există. Doriți să fie înlocuit și să continuați?</translation>
+        <translation>Fișierul pe care l-ați specificat există deja. Doriți să îl înlocuiți și să continuați?</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the presentation.</source>
@@ -4627,7 +4664,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Next slide</source>
         <comment>wpp_sHintNextPage</comment>
-        <translation>Diapozitiv următor</translation>
+        <translation>Diapozitivul următor</translation>
     </message>
     <message>
         <source>On Click</source>
@@ -4647,12 +4684,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Input permission password.</source>
         <comment>wpp_sInputMasterPassword</comment>
-        <translation>Parolă permisiuni intrare.</translation>
+        <translation>Parolă intrare permisiuni.</translation>
     </message>
     <message>
         <source>This font size is not available. </source>
         <comment>wpp_sInValidFontSize</comment>
-        <translation>Această dimensiune font nu este disponibilă. </translation>
+        <translation>Dimensiunea acestui font nu este disponibilă.</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
@@ -4667,12 +4704,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Slide Design</source>
         <comment>wpp_SlideDesign_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Proiectare diapozitiv</translation>
     </message>
     <message>
         <source>Slide Design - Design Templates</source>
         <comment>wpp_SlideDesign_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Proiectare diapozitiv - Șabloane proiectare</translation>
     </message>
     <message>
         <source>Slide Layout</source>
@@ -4712,17 +4749,17 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Slide Master View</source>
         <comment>wpp_sMasterHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare diapozitiv Master</translation>
     </message>
     <message>
         <source>Master: Body</source>
         <comment>wpp_sMasterText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Master: Corp</translation>
     </message>
     <message>
         <source>Master: Title</source>
         <comment>wpp_sMasterTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Master: Titlu</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -4877,7 +4914,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>How do you want the movie to start in the slide show?</source>
         <comment>wpp_sMovieText</comment>
-        <translation>Cum doriți să pornească filmul în prezentarea diapozitiv?</translation>
+        <translation>Cum doriți să pornească filmul în prezentarea diapozitivului?</translation>
     </message>
     <message>
         <source>The name &quot;%s&quot; is already in use. Please modify the name by changing at least 1 of the first 20 characters of &quot;%s&quot;.</source>
@@ -4897,7 +4934,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>(No Suggestions)</source>
         <comment>wpp_sNoSuggestion</comment>
-        <translation>(Fără sugesti)</translation>
+        <translation>(Fără sugestii)</translation>
     </message>
     <message>
         <source>Notes</source>
@@ -4947,7 +4984,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Exporting PDF file is completing...</source>
         <comment>wpp_spdfComplete</comment>
-        <translation>Exportul fișierului PDF este finalizat...</translation>
+        <translation>Exportul fișierului PDF se finalizează...</translation>
     </message>
     <message>
         <source>Exporting %d page...</source>
@@ -4957,7 +4994,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Exporting PDF file is completed.</source>
         <comment>wpp_spdfFinished</comment>
-        <translation>S-a terminat exportul fișierului PDF.</translation>
+        <translation>Exportul fișierului PDF s-a terminat.</translation>
     </message>
     <message>
         <source>Exporting Labels...</source>
@@ -4972,17 +5009,17 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Exporting summary information...</source>
         <comment>wpp_spdfSummaryInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se exportă rezumatul informației...</translation>
     </message>
     <message>
         <source>Primary Monitor</source>
         <comment>wpp_sPrimaryMoniter</comment>
-        <translation>Monitor primar</translation>
+        <translation>Monitor principal</translation>
     </message>
     <message>
         <source>Either ensure that the slides are no longer hidden, or choose to print hidden slides.</source>
         <comment>wpp_sPrintHideSlide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Asigurați-vă că diapozitivele nu mai sunt ascunse, sau alegeți să tipăriți diapozitive ascunse.</translation>
     </message>
     <message>
         <source>The slide you selected to print does not exist. Please select another one.</source>
@@ -5047,7 +5084,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Follow Shadows Scheme Color</source>
         <comment>wpp_sSchemeColorHint3</comment>
-        <translation>Urmează schema culoare umbră</translation>
+        <translation>Urmează schema culoare umbre</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
@@ -5152,7 +5189,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>You cannot have two custom shows with the same name. Please enter a new name.</source>
         <comment>wpp_sSlideNameDuplicated</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți avea două prezentări personalizate cu același nume. Introduceți un nume nou.</translation>
     </message>
     <message>
         <source>Slide %d .. %d</source>
@@ -5162,7 +5199,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Slide Show from current slide(Shift+F5)</source>
         <comment>wpp_sSlideShow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prezentare diapozitiv de la diapozitivul curent(Shift+F5)</translation>
     </message>
     <message>
         <source>35mm Slides</source>
@@ -5202,7 +5239,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Ledger Paper(11x17 in)</source>
         <comment>wpp_sSlideSizeLedgerPaper</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hârtie Ledger(11x17 in)</translation>
     </message>
     <message>
         <source>Letter Paper(8.5x11 in)</source>
@@ -5222,7 +5259,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Slide Sorter View</source>
         <comment>wpp_sSlideSorter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare sortare diapozitiv</translation>
     </message>
     <message>
         <source>Slide %d</source>
@@ -5307,7 +5344,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Permission password and document open password must be different.</source>
         <comment>wpp_sTwoPasswordIsEqual</comment>
-        <translation>Parola pentru permisiune și parola deschidere document trebuie să fie diferite.</translation>
+        <translation>Parola permisiuni și parola deschidere document trebuie să fie diferite.</translation>
     </message>
     <message>
         <source>Undo %d Action(s)</source>
@@ -5362,7 +5399,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <comment>wpp_sRemoveDefaultDict</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eliminarea dicționarului personalizat poate afecta dicționarul personalizat utilizat de alte aplicații WPS Office. Doriți să continuați?</translation>
     </message>
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
@@ -5392,7 +5429,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>The file %s has not been saved, so you cannot restore it back to the list. Are you sure to remove it from the list?</source>
         <comment>wpp_sNotSavedFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul %s nu a fost salvat încă, astfel nu îl puteți restaura înapoi în listă. Sigur îl eliminați din listă?</translation>
     </message>
     <message>
         <source>Presentation Collection</source>
@@ -5407,12 +5444,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Failed to package! The reason maybe the selected folder cannot be written to or there is insufficient disk space.</source>
         <comment>wpp_sPackFailed</comment>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat împachetarea! Motivul poate fi că dosarul selectat nu poate fi scris sau nu este suficient spațiu pe disc.</translation>
     </message>
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide dosarul %s poate fi într-o cale nedisponibilă, sau este protejat de parolă, sau calea dosarului nu există sau calea dosarului este prea lungă.</translation>
     </message>
     <message>
         <source>Folder name cannot contain the characters bellow:
@@ -5420,14 +5457,19 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
 
 Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?</source>
         <comment>wpp_sReplacedSomeChar</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numele dosarului nu poate conține caracterele de mai jos:
+    \ / : * ? | &lt; &gt;
+
+Doriți să modificați numele dosarului de la &quot;%s&quot;  în &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>The length of the folder path bellow is %d, but it cannot be longer than 255. Please modify it.
 
 %s</source>
         <comment>wpp_sNewPathIsTooLong</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lungimea căii dosarului de mai jos este %d, dar nu poate fi mai lungă decât 255. Modificați-o.
+
+%s</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -5437,7 +5479,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Triggers: </source>
         <comment>wpp_sTriggerPrefix</comment>
-        <translation type="unfinished"></translation>
+        <translation>Declanșatoare: </translation>
     </message>
     <message>
         <source>Add Entrance Effect</source>
@@ -5501,12 +5543,12 @@ Layout</source>
     <message>
         <source>Notes Master Layout</source>
         <comment>WpNOTESMASTERLAYOUT_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aspect notificări Master</translation>
     </message>
     <message>
         <source>Handout Master Layout</source>
         <comment>WpHANDOUTMASTERLAYOUT_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aspect fișă Master</translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -5526,7 +5568,7 @@ Layout</source>
     <message>
         <source>Normal (Restore Panes)</source>
         <comment>WpNORMALRESTORETHUMB_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Normal (restaurează panouri)</translation>
     </message>
     <message>
         <source>400 %</source>
@@ -5581,12 +5623,12 @@ Layout</source>
     <message>
         <source>Fit</source>
         <comment>WpZOOM_FIT</comment>
-        <translation>Potrivire</translation>
+        <translation>Potrivește</translation>
     </message>
     <message>
         <source>Fit, -1</source>
         <comment>WpZoomFitValue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Potrivire, -1</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -5596,37 +5638,37 @@ Layout</source>
     <message>
         <source>Handouts (1 slide per page)</source>
         <comment>WpPrintWhat_1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișe (1 diapozitiv pe pagină)</translation>
     </message>
     <message>
         <source>Handouts (2 slides per page)</source>
         <comment>WpPrintWhat_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișe (2 diapozitive pe pagină)</translation>
     </message>
     <message>
         <source>Handouts (3 slides per page)</source>
         <comment>WpPrintWhat_3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișe (3 diapozitive pe pagină)</translation>
     </message>
     <message>
         <source>Handouts (4 slides per page)</source>
         <comment>WpPrintWhat_4</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișe (4 diapozitive pe pagină)</translation>
     </message>
     <message>
         <source>Handouts (6 slides per page)</source>
         <comment>WpPrintWhat_6</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișe (6 diapozitive pe pagină)</translation>
     </message>
     <message>
         <source>Handouts (9 slides per page)</source>
         <comment>WpPrintWhat_9</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișe (9 diapozitive pe pagină)</translation>
     </message>
     <message>
         <source>Notes Pages</source>
         <comment>WpPrintWhat_NotesPages</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagini notificări</translation>
     </message>
     <message>
         <source>Outline View</source>
@@ -5636,12 +5678,12 @@ Layout</source>
     <message>
         <source>Notes Pages (1 slide per page)</source>
         <comment>WpPrintWhat_1Notes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagini notificări (1 diapozitiv pe pagină)</translation>
     </message>
     <message>
         <source>Notes Pages (3 slides per page)</source>
         <comment>WpPrintWhat_3Notes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagini notificări (3 diapozitive pe pagină)</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -5706,7 +5748,7 @@ Layout</source>
     <message>
         <source>Preserve Master</source>
         <comment>WpPRESERVEMASTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Păstrează Master</translation>
     </message>
     <message>
         <source>Rename Master</source>
@@ -5731,7 +5773,7 @@ Layout</source>
     <message>
         <source>Date and Time</source>
         <comment>WpDATETIME</comment>
-        <translation>Dată și oră</translation>
+        <translation>Data și ora</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -5781,7 +5823,7 @@ Layout</source>
     <message>
         <source>Change Case</source>
         <comment>WpCHANGECASE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă majuscula</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -5812,12 +5854,12 @@ Layout</source>
     <message>
         <source>Notes Master Layout</source>
         <comment>WpNOTESMASTERLAYOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aspect notificări Master</translation>
     </message>
     <message>
         <source>Handout Master Layout</source>
         <comment>WpHANDOUTMASTERLAYOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aspect fișă Master</translation>
     </message>
     <message>
         <source>Background</source>
@@ -5827,17 +5869,17 @@ Layout</source>
     <message>
         <source>Format Object</source>
         <comment>WpFORMATOBJECT</comment>
-        <translation>Format Object</translation>
+        <translation>Format obiect</translation>
     </message>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
         <comment>WpNoHelpFile</comment>
-        <translation>Fișierele ajutor nu a u fost găsite, sau fișierele de ajutor au întâmpinat o eroare.</translation>
+        <translation>Fișierele de ajutor nu s-au găsit, sau fișierele de ajutor au întâmpinat o eroare.</translation>
     </message>
     <message>
         <source>Set Up Show</source>
         <comment>WpSETUPSHOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurează prezentarea</translation>
     </message>
     <message>
         <source>Action Settings</source>
@@ -5957,7 +5999,7 @@ Layout</source>
     <message>
         <source>Design Template</source>
         <comment>WpDESIGNTEMPLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șablon proiectare</translation>
     </message>
     <message>
         <source>Drag-and-Drop</source>
@@ -5972,12 +6014,12 @@ Layout</source>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele(*.*)|*.*|Fișiere comune(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Fișiere prezentare(*.dps)|*.dps|Șabloane WPS Presentation(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
     </message>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
         <comment>WP_SAVEFILE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișier WPS Presentation(*.dps)|*.dps|Șablon WPS Presentation(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
@@ -5987,12 +6029,12 @@ Layout</source>
     <message>
         <source>Apply Design Template</source>
         <comment>WP_APPLYTEMPLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aplică șablon proiectare</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>WpPROMPTTOSAVE</comment>
-        <translation>Doriți să salvați modificările efectuate la %s?</translation>
+        <translation>Doriți să salvați modificările aduse la %s?</translation>
     </message>
     <message>
         <source>Failed to save. Please try one of the following: 
@@ -6000,7 +6042,10 @@ Layout</source>
 •Please copy the contents and paste them into a new file.
 •Give up the changes to this file.</source>
         <comment>WpSAVEFILEFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat salvarea. Încercați una dintre următoarele: 
+•[Anulează] operațiile anterioare, apoi [Salvează] din nou.
+•Copiați conținutul și lipiți-l într-un fișier nou.
+•Renunțați la modificările acestui fișier.</translation>
     </message>
     <message>
         <source>Failed to open.</source>
@@ -6032,7 +6077,7 @@ Layout</source>
     <message>
         <source>Insert Picture</source>
         <comment>WpBITMAP</comment>
-        <translation>Introdu poză</translation>
+        <translation>Introduceți poză</translation>
     </message>
     <message>
         <source>Insert Media</source>
@@ -6087,7 +6132,7 @@ Layout</source>
     <message>
         <source>Gallery Library</source>
         <comment>WpINSERTGALLERY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Galerie bibliotecă</translation>
     </message>
     <message>
         <source>Animation Scheme</source>
@@ -6107,12 +6152,12 @@ Layout</source>
     <message>
         <source>Distribute Rows Evenly</source>
         <comment>WpTAbleDISTRIBUTEROWS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distribuie rânduri uniform</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
         <comment>WpTABLEDISTRIBUTECOLUMNS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distribuie coloane uniform</translation>
     </message>
     <message>
         <source>WPS Office has not found any installed printers.</source>
@@ -6122,7 +6167,7 @@ Layout</source>
     <message>
         <source>The masters you do not want to preserve are never used by any slide. Do you want to delete them?</source>
         <comment>WpMessage_DeletePreservedMaster</comment>
-        <translation type="unfinished"></translation>
+        <translation>Master-ele pe care nu doriți să le păstrați nu sunt utilizate de nici un diapozitiv. Doriți să le ștergeți?</translation>
     </message>
     <message>
         <source>Save as Picture</source>
@@ -6137,7 +6182,7 @@ Layout</source>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Windows Enhanced Metafile(*.emf)|*.emf</source>
         <comment>WpPICTUREFILE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Windows Enhanced Metafile(*.emf)|*.emf</translation>
     </message>
     <message>
         <source>Add Text</source>
@@ -6464,7 +6509,7 @@ ortografică</translation>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fiecare diapozitiv în prezentare a fost salvat ca un fișier separat în dosarul %s .</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -6499,7 +6544,7 @@ ortografică</translation>
     <message>
         <source>Involved Template</source>
         <comment>WpINVOLVEDTEMPLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șablon implicat</translation>
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.

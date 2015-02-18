@@ -39,7 +39,7 @@
     </message>
     <message>
         <source>Note;</source>
-        <translation>Notă;</translation>
+        <translation>Notificare;</translation>
     </message>
 </context>
 <context>
@@ -223,7 +223,7 @@ De exemplu, 1,3,5-9.</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>Prezentare WPS</translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Writer Document(*.wps)</source>

@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>All&amp;ow hanging punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Per&amp;mite agățarea punctuației</translation>
     </message>
     <message>
         <source>&amp;Typography...</source>
@@ -476,7 +476,7 @@
     </message>
     <message>
         <source>On clic&amp;k</source>
-        <translation>La clic&amp;k</translation>
+        <translation>La apăs&amp;are</translation>
     </message>
     <message>
         <source>After &amp;Current Slide</source>
@@ -528,7 +528,7 @@
     </message>
     <message>
         <source>On Click</source>
-        <translation>La click</translation>
+        <translation>La apăsare</translation>
     </message>
     <message>
         <source>With Previous</source>
@@ -560,7 +560,7 @@
     </message>
     <message>
         <source>Until End of Slide</source>
-        <translation>Până la finalul diapozitivului</translation>
+        <translation>Până la sfârșitul diapozitivului</translation>
     </message>
     <message>
         <source>&amp;Triggers</source>
@@ -938,11 +938,11 @@
     </message>
     <message>
         <source>You must name your custom show.</source>
-        <translation>Trebuie să denumiți prezentarea personalizată.</translation>
+        <translation>Trebuie să denumiți prezentarea dumneavoastră personalizată.</translation>
     </message>
     <message>
         <source>You cannot have two custom shows with the same name. Please enter a new name.</source>
-        <translation>Nu puteți avea două prezentări personașizate cu același nume. Introduceți un nume nou.</translation>
+        <translation>Nu puteți avea două prezentări personalizate cu același nume. Introduceți un nume nou.</translation>
     </message>
 </context>
 <context>
@@ -1080,7 +1080,7 @@ dosar de redat.</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
-        <translation>Acest cuvânt nu este în dicționar</translation>
+        <translation>Cuvântul nu este în dicționar</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
@@ -1128,7 +1128,7 @@ dosar de redat.</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Verificare ortografie</translation>
+        <translation>Verificare ortografică</translation>
     </message>
     <message>
         <source>&amp;Set Language</source>
@@ -1250,11 +1250,11 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Offse&amp;t:</source>
-        <translation type="unfinished"></translation>
+        <translation>Compensar&amp;e:</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gravare</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
@@ -1278,7 +1278,7 @@ imprimantă cât și pentru ecran.</translation>
     <name>KxDlgGridAndGuids</name>
     <message>
         <source>Grid and Guides</source>
-        <translation>Grilă și linii de ghidare</translation>
+        <translation>Grilă și ghidaje</translation>
     </message>
     <message>
         <source>Snap to</source>
@@ -1486,7 +1486,7 @@ imprimantă cât și pentru ecran.</translation>
     <name>KxDlgLecturerRemark</name>
     <message>
         <source>Speaker Notes</source>
-        <translation>Notificările comentatorului</translation>
+        <translation>Notificări comentator</translation>
     </message>
     <message>
         <source>&amp;Slide:</source>
@@ -1667,7 +1667,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>&amp;Default file location:</source>
-        <translation>Locația &amp;implicită a fișierului:</translation>
+        <translation>Locație &amp;implicită fișier:</translation>
     </message>
     <message>
         <source>...</source>
@@ -1707,7 +1707,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Handouts(3 slides per page)</source>
-        <translation>Fișe(4 diapozitive pe pagină)</translation>
+        <translation>Fișe(3 diapozitive pe pagină)</translation>
     </message>
     <message>
         <source>Handouts(6 slides per page)</source>
@@ -1715,7 +1715,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Notes pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagini notificări</translation>
     </message>
     <message>
         <source>Outline view</source>
@@ -1799,7 +1799,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation>Porni&amp;re fereastră sarcini</translation>
+        <translation>Porni&amp;re fereastră de sarcini</translation>
     </message>
     <message>
         <source>Show menu on right mouse click(&amp;P)</source>
@@ -1895,7 +1895,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation>Locație fișier &amp;recuperat automat:</translation>
+        <translation>&amp;Recuperare automată locație fișier:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -1957,7 +1957,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Ledger Paper(11x17 Inch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hârtie Ledger(11x17 Inch)</translation>
     </message>
     <message>
         <source>A3 Paper(297x420 mm)</source>
@@ -2079,7 +2079,7 @@ imprimantă cât și pentru ecran.</translation>
     <name>KxDlgReplaceFont</name>
     <message>
         <source>Re&amp;place:</source>
-        <translation>În&amp;șocuiește:</translation>
+        <translation>În&amp;locuiește:</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
@@ -2340,7 +2340,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>End show</source>
-        <translation>Finalul prezentării</translation>
+        <translation>Sfârșit prezentare</translation>
     </message>
     <message>
         <source>Custom show ...</source>
@@ -2515,7 +2515,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Colla&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>Cola&amp;ționare</translation>
     </message>
     <message>
         <source>Print &amp;what:</source>
@@ -2531,7 +2531,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Notes pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagini notificări</translation>
     </message>
     <message>
         <source>Outline view</source>
@@ -2625,7 +2625,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Input permission password.</source>
-        <translation>Intrare parolă permisiuni.</translation>
+        <translation>Parolă intrare permisiuni.</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
@@ -2666,7 +2666,7 @@ continuați?</translation>
     </message>
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
-        <translation>Diapozitivul pe care l-ați selectat nu există. Selectați un altul.</translation>
+        <translation>Diapozitivul selectat pentru export nu există. Selectați un altul.</translation>
     </message>
     <message>
         <source>All slides in this custom show are hidden.</source>
@@ -2738,8 +2738,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF!</source>
-        <translation>WPS Presentation a întâmpinat o eroare în timpul încercării de exportare ca 
-PDF!</translation>
+        <translation>WPS Presentation a întâmpinat o eroare la încercarea de export ca PDF.</translation>
     </message>
 </context>
 <context>
@@ -2777,7 +2776,7 @@ PDF!</translation>
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian text font)</source>
-        <translation>(Utilizează text font asiatic)</translation>
+        <translation>(Utilizează font text asiatic)</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
@@ -2793,42 +2792,42 @@ PDF!</translation>
     </message>
     <message>
         <source>This font size is not available.</source>
-        <translation>Dimensiunea fontului nu este disponibilă.</translation>
+        <translation>Dimensiunea acestui font nu este disponibilă.</translation>
     </message>
 </context>
 <context>
     <name>KxFormatTableDlg</name>
     <message>
         <source>Follow Background Scheme Color</source>
-        <translation>Urmează fundalul schemei de culoare</translation>
+        <translation>Urmează schema culoare de fundal</translation>
     </message>
     <message>
         <source>Follow Text and Lines Scheme Color</source>
-        <translation>Urmează textul și liniile schemei de culoare</translation>
+        <translation>Urmează schema culoare text și linii</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation>Urmează umbririle schemei de culoare</translation>
+        <translation>Urmează schema culoare umbre</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation>Urmează textul titlului schemei de culoare</translation>
+        <translation>Urmează schema culoare text titlu</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation>Urmează umplerea schemei de culoare</translation>
+        <translation>Urmează schema culoare umplere</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation>Urmează accentul schemei de culoare</translation>
+        <translation>Urmează schema culoare accent</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation>Urmează accentul și Hyperlink-ul schemei de culoare</translation>
+        <translation>Urmează schema culoare accent și hyperlink</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation>Urmează accentul și Hyperlink-ul schemei de culoare urmat</translation>
+        <translation>Urmează accentul și schema de culoare hyperlink urmată</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2954,7 +2953,7 @@ PDF!</translation>
     <name>KxLineWeightGroup</name>
     <message>
         <source>%1 pt</source>
-        <translation>%1 pt</translation>
+        <translation>%1 pct</translation>
     </message>
 </context>
 <context>
@@ -3378,7 +3377,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation>Curăță stil tabel</translation>
+        <translation>Curăță stilul tabelului</translation>
     </message>
 </context>
 <context>
@@ -3408,7 +3407,7 @@ PDF!</translation>
     </message>
     <message>
         <source>pt, 2, -169077, 169077, 1</source>
-        <translation>pt, 2, -169077, 169077, 1</translation>
+        <translation>pct, 2, -169077, 169077, 1</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
@@ -3520,7 +3519,7 @@ PDF!</translation>
     </message>
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
-        <translation>Ultima schemă de culoare nu poate fi ștearsă. O prezentare trebuie să conțină întotdeauna cel puțin o schemă standard de culoare.</translation>
+        <translation>Ultima schemă de culoare nu poate fi ștearsă. O prezentare trebuie mereu să conțină cel puțin o schemă standard de culoare.</translation>
     </message>
 </context>
 <context>
@@ -3575,7 +3574,7 @@ PDF!</translation>
     </message>
     <message>
         <source>&amp;Scribble</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mâzgălitură</translation>
     </message>
     <message>
         <source>&amp;More Motion Paths ...</source>
@@ -3800,7 +3799,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Wipe</source>
-        <translation>Curăță</translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <source>Push and Cover</source>
@@ -3918,11 +3917,11 @@ PDF!</translation>
     </message>
     <message>
         <source>Box In</source>
-        <translation>Cutie intrare</translation>
+        <translation>Casetă intrare</translation>
     </message>
     <message>
         <source>Box Out</source>
-        <translation>Cutie ieșire</translation>
+        <translation>Casetă ieșire</translation>
     </message>
     <message>
         <source>Chess 1</source>
@@ -3942,7 +3941,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Cover Down</source>
-        <translation>Acoperă jos</translation>
+        <translation>Acoperă în jos</translation>
     </message>
     <message>
         <source>Cover Left</source>
@@ -3954,7 +3953,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Cover Up</source>
-        <translation>Acoperă sus</translation>
+        <translation>Acoperă în sus</translation>
     </message>
     <message>
         <source>Cover 1</source>
@@ -3990,7 +3989,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation>Estompează</translation>
+        <translation>Estompare</translation>
     </message>
     <message>
         <source>News</source>
@@ -3998,7 +3997,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Push Down</source>
-        <translation>Împinge jos</translation>
+        <translation>Împinge în jos</translation>
     </message>
     <message>
         <source>Push Left</source>
@@ -4010,7 +4009,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Push Up</source>
-        <translation>Împinge sus</translation>
+        <translation>Împinge în sus</translation>
     </message>
     <message>
         <source>Random 1</source>
@@ -4296,15 +4295,15 @@ PDF!</translation>
     </message>
     <message>
         <source>On Click</source>
-        <translation>La click</translation>
+        <translation>La apăsare</translation>
     </message>
     <message>
         <source>With Previous</source>
-        <translation>Cu anterior</translation>
+        <translation>Cu anteriorul</translation>
     </message>
     <message>
         <source>After Previous</source>
-        <translation>După anterior</translation>
+        <translation>După anteriorul</translation>
     </message>
     <message>
         <source>Property:</source>
@@ -4352,14 +4351,14 @@ PDF!</translation>
     </message>
     <message>
         <source>Re-order</source>
-        <translation>Re-aranjează</translation>
+        <translation>Rearanjează</translation>
     </message>
 </context>
 <context>
     <name>dialogstestClass</name>
     <message>
         <source>Dialogstest</source>
-        <translation>Dialoguri test</translation>
+        <translation>testdialoguri</translation>
     </message>
 </context>
 <context>
@@ -4522,7 +4521,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Notes pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagini notificări</translation>
     </message>
     <message>
         <source>Outline view</source>
@@ -4542,7 +4541,7 @@ PDF!</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificare  :  numai configurarea parolei face posibil ca să aibă efect configurările de mai jos și evită să fie modificate de alții.</translation>
     </message>
     <message>
         <source>Printing permission:</source>

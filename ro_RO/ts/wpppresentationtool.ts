@@ -125,18 +125,18 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anulare</translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
     <name>KxDlglineSpacing</name>
     <message>
         <source>Line Spacing</source>
-        <translation>Spațiul dintre linii</translation>
+        <translation>Distanța dintre linii</translation>
     </message>
     <message>
         <source>&amp;Line spacing</source>
-        <translation>Spațiul dintre &amp;Linii</translation>
+        <translation>Distanța dintre &amp;linii</translation>
     </message>
     <message>
         <source>Lines</source>
@@ -159,13 +159,13 @@
     <name>KxInsertPicturesToMultiSlide</name>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation>Format imagine neidentificabil.</translation>
+        <translation>Format poză neidentificabil.</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
-        <translation>Poza pe care ați inserat-o este prea mare. Comprimați-o pentru a salva spațiul pe disk.
-Rețineți dacă se comprimă pozele se poate reduce calitatea pozelor. Doriți să le comprimați?</translation>
+        <translation>Poza pe care ați introdus-o este prea mare. Comprimați-o pentru a salva spațiul pe disc.
+Rețineți că dacă veți comprima pozele se poate reduce calitatea pozelor. Doriți să o(le) comprimați?</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
@@ -212,7 +212,7 @@ Rețineți dacă se comprimă pozele se poate reduce calitatea pozelor. Doriți 
     <name>QObject</name>
     <message>
         <source>There is no %1 font on your system,the text will be shown in a substitute font, do you want to use it anyway?</source>
-        <translation>Nu există fontul %1 în sistem,textul va fi arătat într-un alt font, doriți să-l utilizați oricum?</translation>
+        <translation>Nu există fontul %1 în sistem,textul va fi afișat într-un font înlocuitor. Doriți să-l utilizați oricum?</translation>
     </message>
     <message>
         <source>All Fonts</source>

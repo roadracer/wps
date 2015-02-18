@@ -326,7 +326,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_DlgPictureTitle</comment>
-        <translation>Introdu poză</translation>
+        <translation>Introduceți poză</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
@@ -361,7 +361,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Insert Scribble</source>
         <comment>DgUil_InsertScribble</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu bilețel</translation>
     </message>
     <message>
         <source>Change Freeform Point</source>
@@ -571,7 +571,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Select Objects</source>
         <comment>DgUil_KSO_Cmd_SelectObjects</comment>
-        <translation>Selectează obiect</translation>
+        <translation>Selectează obiectele</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
@@ -581,7 +581,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Fill Color</source>
         <comment>DgUil_KSO_Cmd_FillColor</comment>
-        <translation>Culoare umplere</translation>
+        <translation>Umple culoare</translation>
     </message>
     <message>
         <source>Fill Effects</source>
@@ -826,17 +826,17 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Delete Segment</source>
         <comment>DgUil_KSO_Cmd_DeleteSegment</comment>
-        <translation>Șterge segment</translation>
+        <translation>Șterge segmentul</translation>
     </message>
     <message>
         <source>Straight Segment</source>
         <comment>DgUil_KSO_Cmd_SegmentType_Value0</comment>
-        <translation>Segment dreaptă</translation>
+        <translation>Segment drept</translation>
     </message>
     <message>
         <source>Curved Segment</source>
         <comment>DgUil_KSO_Cmd_SegmentType_Value1</comment>
-        <translation>Segment curbă</translation>
+        <translation>Segment curbat</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
@@ -846,7 +846,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Delete Point</source>
         <comment>DgUil_KSO_Cmd_DeletePoint</comment>
-        <translation>Șterge punct</translation>
+        <translation>Șterge punctul</translation>
     </message>
     <message>
         <source>Auto Point</source>
@@ -866,7 +866,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Corner Point</source>
         <comment>DgUil_KSO_Cmd_PointType_Value3</comment>
-        <translation>Punct colț</translation>
+        <translation>Punct de colț</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -936,12 +936,12 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>WordArt Same Letter Heights</source>
         <comment>DgUil_KSO_Cmd_WordArtSameLetterHeights</comment>
-        <translation>Cuvânt stilizat cu aceeiași înălțime a literelor</translation>
+        <translation>Cuvânt stilizat aceiași înălțime litere</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
         <comment>DgUil_KSO_Cmd_WordArtVerticalText</comment>
-        <translation>Test vertical Cuvânt stilizat</translation>
+        <translation>Cuvânt stilizat text vertical</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -971,7 +971,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Stretch Justify</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value5</comment>
-        <translation>Justifică întindere</translation>
+        <translation>Întinde justificat</translation>
     </message>
     <message>
         <source>Very Tight</source>
@@ -991,12 +991,12 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Loose</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Slab</translation>
     </message>
     <message>
         <source>Very Loose</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value4</comment>
-        <translation type="unfinished"></translation>
+        <translation>Foarte slab</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1006,7 +1006,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Kern Character Pairs</source>
         <comment>DgUil_KSO_Cmd_KernCharacterPairs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perechi caractere Kern</translation>
     </message>
     <message>
         <source>More AutoShapes</source>
@@ -1056,7 +1056,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_KSO_Cmd_InsertPictureFromFile</comment>
-        <translation>Introdu poză</translation>
+        <translation>Introduceți poză</translation>
     </message>
     <message>
         <source>Insert OLE Object</source>
@@ -1151,12 +1151,12 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_PictureCrop</comment>
-        <translation>Decupează</translation>
+        <translation>Taie</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
         <comment>DgUil_KSO_Cmd_PictureSetTransparentColor</comment>
-        <translation>Configurează transparența culorii</translation>
+        <translation>Configurare transparență culoare</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -1186,7 +1186,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_CropPicture</comment>
-        <translation>Decupează</translation>
+        <translation>Taie</translation>
     </message>
     <message>
         <source>Insert Control</source>
@@ -1263,7 +1263,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Failed to save as a picture, because the file format is unsupported.</source>
         <comment>DgUil_Cmd_SaveAsPictureFailure</comment>
-        <translation>A eșuat Salvarea Ca a unei poze, fiindcă formatul fișierului nu este suportat.</translation>
+        <translation>A eșuat salvarea ca o poză, fiindcă formatul fișierului nu este suportat.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1376,7 +1376,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>5-Point Star</source>
         <comment>DRAWINGSTR_STAR</comment>
-        <translation>Stea 5-colțuri</translation>
+        <translation>Stea cu 5 colțuri</translation>
     </message>
     <message>
         <source>Right Arrow</source>
@@ -1416,7 +1416,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Line</source>
         <comment>DRAWINGSTR_LINE</comment>
-        <translation>Line</translation>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>Plaque</source>
@@ -1576,17 +1576,17 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>8-Point Star</source>
         <comment>DRAWINGSTR_SEAL8</comment>
-        <translation>Stea 8-colțuri</translation>
+        <translation>Stea cu 8 colțuri</translation>
     </message>
     <message>
         <source>16-Point Star</source>
         <comment>DRAWINGSTR_SEAL16</comment>
-        <translation>Stea 16-colțuri</translation>
+        <translation>Stea cu 16-colțuri</translation>
     </message>
     <message>
         <source>32-Point Star</source>
         <comment>DRAWINGSTR_SEAL32</comment>
-        <translation>Stea 32-colțuri</translation>
+        <translation>Stea cu 32-colțuri</translation>
     </message>
     <message>
         <source>Rectangular Callout</source>
@@ -1601,7 +1601,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Oval Callout</source>
         <comment>DRAWINGSTR_WEDGEELLIPSECALLOUT</comment>
-        <translation>Legendă oval</translation>
+        <translation>Legendă ovală</translation>
     </message>
     <message>
         <source>Wave</source>
@@ -1746,7 +1746,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>24-Point Star</source>
         <comment>DRAWINGSTR_SEAL24</comment>
-        <translation>Stea 24-colțuri</translation>
+        <translation>Stea cu 24-de colțuri</translation>
     </message>
     <message>
         <source>Striped Right Arrow</source>
@@ -2216,7 +2216,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>4-Point Star</source>
         <comment>DRAWINGSTR_SEAL4</comment>
-        <translation>Stea 4-colțuri</translation>
+        <translation>Stea cu 4-colțuri</translation>
     </message>
     <message>
         <source>Double Wave</source>
@@ -2756,7 +2756,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Starry Sky</source>
         <comment>DRAWINGSTR_TRANSFER_STAR_SKY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cer înstelat</translation>
     </message>
     <message>
         <source>Colored Paper 1</source>
@@ -2776,7 +2776,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Weave</source>
         <comment>DRAWINGSTR_TRANSFER_WEAVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Țesătură</translation>
     </message>
     <message>
         <source>Flannelette List</source>
@@ -2816,7 +2816,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Insert Picture</source>
         <comment>DRAWINGSTR_INSERT_PICTURE</comment>
-        <translation>Introdu poză</translation>
+        <translation>Introduceți poză</translation>
     </message>
     <message>
         <source>Invalid index</source>
@@ -2876,7 +2876,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Shaded</source>
         <comment>DRAWINGSTR_DGMSTYLE_SHADED</comment>
-        <translation>Nuanțat</translation>
+        <translation>Umbrit</translation>
     </message>
     <message>
         <source>Fire</source>
@@ -2911,7 +2911,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Stripes</source>
         <comment>DRAWINGSTR_DGMSTYLE_STRIPES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dungi</translation>
     </message>
     <message>
         <source>Beveled</source>
@@ -3826,7 +3826,7 @@ Puteți apăsa butonul pentru recuperarea fișierelor la care lucrați.</transla
     <message>
         <source>mail feedback</source>
         <comment>_kso_crashdlg_mailfeedback</comment>
-        <translation>opinie poștă</translation>
+        <translation>Corespondență opinie</translation>
     </message>
     <message>
         <source>bbs feedback</source>
@@ -4449,7 +4449,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
         <comment>kso_sCustomTypeValueError</comment>
-        <translation>Valoarea introdusă nu se potrivește cu tipul specificat. Valoarea va fi depozitată ca text.</translation>
+        <translation>Valoarea introdusă nu se potrivește cu tipul specificat. Valoarea va fi înmagazinată ca text.</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
@@ -4519,7 +4519,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Diagonal brick</source>
         <comment>kso_sDiagonalBrick</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cărămidă diagonală</translation>
     </message>
     <message>
         <source>Divot</source>
@@ -4729,7 +4729,7 @@ Verificați datele și asigurați-vă că referința este validă iar foaia de l
     <message>
         <source>Horizontal brick</source>
         <comment>kso_sHorizontalBrick</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cărămidă orizontală</translation>
     </message>
     <message>
         <source>H&amp;ue:</source>
@@ -4818,7 +4818,7 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>Bright Green</source>
         <comment>kso_sKclBrightGreen</comment>
-        <translation>Verde deschis</translation>
+        <translation>Verde strălucitor</translation>
     </message>
     <message>
         <source>Brown</source>
@@ -5088,7 +5088,7 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>Sky Blue</source>
         <comment>kso_sKclSkyBlue</comment>
-        <translation>ALbastru cer</translation>
+        <translation>Cer albastru</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -5123,7 +5123,7 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>Large checkerboard</source>
         <comment>kso_sLargeCheckerBoard</comment>
-        <translation>Tablă de șah largă</translation>
+        <translation>Tablă de șah mare</translation>
     </message>
     <message>
         <source>Large confetti</source>
@@ -5153,7 +5153,7 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>Light horizontal</source>
         <comment>kso_sLightHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Luminat orizontal</translation>
     </message>
     <message>
         <source>Light upward diagonal</source>
@@ -5163,7 +5163,7 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>Light vertical</source>
         <comment>kso_sLightVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Luminat vertical</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -5263,12 +5263,12 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>Narrow horizontal</source>
         <comment>kso_sNarrowHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Orizontal îngust</translation>
     </message>
     <message>
         <source>Narrow vertical</source>
         <comment>kso_sNarrowVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertical îngust</translation>
     </message>
     <message>
         <source>Never Modify</source>
@@ -5348,12 +5348,12 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>All Files (*.*) | *.*</source>
         <comment>kso_sOpenfilter</comment>
-        <translation>Toate fișierele(*.*)|*.*</translation>
+        <translation>Toate fișierele (*.*) | *.*</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
         <comment>kso_sOpenTxtWaring</comment>
-        <translation>Selectați codarea care vă face documentul citibil.</translation>
+        <translation>Selectați codificarea care vă face documentul citibil.</translation>
     </message>
     <message>
         <source>Outlined diamond</source>
@@ -5578,7 +5578,7 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>Printing</source>
         <comment>kso_sStatusPrinting</comment>
-        <translation>Tipărire</translation>
+        <translation>Se tipărește</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -5698,7 +5698,7 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>Select Texture</source>
         <comment>kso_sTextureOpenDialogCaption</comment>
-        <translation>Selectare textură</translation>
+        <translation>Selectați textura</translation>
     </message>
     <message>
         <source>3-D Style %d</source>
@@ -5728,7 +5728,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>(Trial)</source>
         <comment>kso_sTrialVersion</comment>
-        <translation>(Trial)</translation>
+        <translation>(Încercare)</translation>
     </message>
     <message>
         <source>&lt;List of Toolbars&gt;</source>
@@ -5968,7 +5968,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Fade Up</source>
         <comment>kso_sWASFadeUp</comment>
-        <translation>Estompează în sus</translation>
+        <translation>Estompează sus</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -6043,7 +6043,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Weave</source>
         <comment>kso_sWeave</comment>
-        <translation type="unfinished"></translation>
+        <translation>Țesătură</translation>
     </message>
     <message>
         <source>Wide downward diagonal</source>
@@ -6288,12 +6288,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>The picture is too big to be used as a pattern.</source>
         <comment>kso_sPictureToLargeAndCannotUseasTexture</comment>
-        <translation>Poza este prea mare ca să fie utilizată ca un model.</translation>
+        <translation>Poza este prea mare pentru a fi utilizată ca un model.</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
         <comment>kso_s1028</comment>
-        <translation>Chinese (Taiwan)</translation>
+        <translation>Chinezesc (Taiwan)</translation>
     </message>
     <message>
         <source>Feedback</source>

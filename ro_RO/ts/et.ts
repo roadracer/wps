@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Select data source</source>
-        <translation>Selectare sursă date</translation>
+        <translation>Selectați sursa de date</translation>
     </message>
     <message>
         <source>&amp;Open data file directly</source>
@@ -320,15 +320,15 @@
     </message>
     <message>
         <source>less than</source>
-        <translation>mai mică decât</translation>
+        <translation>mai mic decât</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation>mai mare decât sau egală cu</translation>
+        <translation>mai mare decât sau egal cu</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation>maimică decât sau egală cu</translation>
+        <translation>mai mic decât sau egal cu</translation>
     </message>
     <message>
         <source>and</source>
@@ -400,7 +400,7 @@ condiția este adevărată:</translation>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation>Im&amp;plicit pentru obiectele noi</translation>
+        <translation>Im&amp;plicit pentru noile obiecte</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
@@ -595,7 +595,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Căutare</translation>
+        <translation>Caută</translation>
     </message>
     <message>
         <source>(Showing all)</source>
@@ -639,7 +639,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Greater than or equal to &quot;%1&quot;</source>
-        <translation>Mai mare sau egal cu &quot;%1&quot;</translation>
+        <translation>Mai mare decât sau egal cu &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Is before &quot;%1&quot;</source>
@@ -647,7 +647,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Less than or equal to &quot;%1&quot;</source>
-        <translation>Mai puțin sau egal cu &quot;%1&quot;</translation>
+        <translation>mai mic decât sau egal cu &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Begins with &quot;%1&quot;</source>
@@ -679,7 +679,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Less than &quot;%1&quot;</source>
-        <translation>Mai puțin decât &quot;%1&quot;</translation>
+        <translation>Mai mic decât &quot;%1&quot;</translation>
     </message>
     <message>
         <source>(Blanks)</source>
@@ -719,15 +719,15 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Greater Than Or Equal To</source>
-        <translation>Mai mare sau egal cu</translation>
+        <translation>Mai mare decât sau egal cu</translation>
     </message>
     <message>
         <source>Less Than</source>
-        <translation>Mai puțin decât</translation>
+        <translation>Mai mic decât</translation>
     </message>
     <message>
         <source>Less Than Or Equal To</source>
-        <translation>Mai puțin sau egal cu</translation>
+        <translation>Mai mic decât sau egal cu</translation>
     </message>
     <message>
         <source>Between</source>
@@ -1030,7 +1030,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
-        <translation>O valoare necesară minimă sau maximă lipsește.</translation>
+        <translation>O valoare minimă sau maximă solicitată lipsește.</translation>
     </message>
 </context>
 <context>
@@ -1236,11 +1236,11 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maxim</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minim</translation>
     </message>
     <message>
         <source>Product</source>
@@ -1264,7 +1264,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Navigare</translation>
+        <translation>Navighează</translation>
     </message>
     <message>
         <source>Cannot add duplicate source reference.</source>
@@ -1318,11 +1318,11 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
-        <translation>Textul introdus nu este o referință validă sau nume definit.</translation>
+        <translation>Textul pe care l-ați introdus nu este o referință validă sau nume definit.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>The number must be between  %1 and %2. Try again by entering a number in this range.</source>
@@ -1337,7 +1337,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation>Modifică tabel pivot</translation>
+        <translation>Modifică tabelul pivot</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -1390,7 +1390,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Oră</translation>
+        <translation>Timp</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -1446,7 +1446,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation>Antetul sau subsolul (totalul secțiunilor din stânga, centru și dreapta) nu pot fi mai lungi de 255 caractere. Ștergeți ceva text, sau faceți formatarea mai puțin complexă.</translation>
+        <translation>Antetul sau subsolul (totalsecțiuni din stânga,centru și dreapta) nu pot fi mai lungi de 255 caractere. Ștergeți ceva text, sau faceți formatarea mai puțin complexă.</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -1498,7 +1498,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>The name is invalid or the formula contains an error.</source>
-        <translation>Numele este nevalid sau formula conține o eroare.</translation>
+        <translation>Numele nu este valid sau formula conține o eroare.</translation>
     </message>
     <message>
         <source>An error occurred when deleted.</source>
@@ -1630,7 +1630,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Pr&amp;otect Sheet...</source>
-        <translation>Foaie pr&amp;otejată...</translation>
+        <translation>Pr&amp;otejează foaia...</translation>
     </message>
     <message>
         <source>Refer to cells</source>
@@ -1809,7 +1809,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>inside</source>
-        <translation>înnăuntru</translation>
+        <translation>înăuntru</translation>
     </message>
     <message>
         <source>spinPrefix</source>
@@ -1941,7 +1941,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <name>KxDlgCreateGroup</name>
     <message>
         <source>Group</source>
-        <translation>Grup</translation>
+        <translation>Grupează</translation>
     </message>
     <message>
         <source>&amp;Rows</source>
@@ -2029,7 +2029,7 @@ apoi alegeți butonul corespunzător.</translation>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation>Pentru a insera o poză: apăsați butonul Inserare poză. Pentru a formata poza, plasați cursorul
+        <translation>Pentru a introduce o poză: apăsați butonul Inserare poză. Pentru a formata poza, plasați cursorul
 în caseta editare și apăsați butonul Formatare poză.</translation>
     </message>
     <message>
@@ -2042,7 +2042,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Time</source>
-        <translation>Oră</translation>
+        <translation>Timp</translation>
     </message>
     <message>
         <source>File</source>
@@ -2050,7 +2050,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Inserează poză</translation>
+        <translation>Introduceți poză</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -2058,15 +2058,15 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation>Secțiunea &amp;stângă:</translation>
+        <translation>Secțiunea din &amp;stânga:</translation>
     </message>
     <message>
         <source>&amp;Center section:</source>
-        <translation>Secțiunea &amp;centrală:</translation>
+        <translation>Secțiunea din &amp;centru:</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
-        <translation>Secțiunea &amp;dreaptă:</translation>
+        <translation>Secțiunea din d&amp;reapta:</translation>
     </message>
     <message>
         <source>input</source>
@@ -2093,7 +2093,7 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgDefineName</name>
     <message>
         <source>Define Name</source>
-        <translation>Definire nume</translation>
+        <translation>Definește numele</translation>
     </message>
     <message>
         <source>Names in &amp;workbook:</source>
@@ -2121,7 +2121,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Macro</source>
-        <translation>Macro</translation>
+        <translation>Macrocomandă</translation>
     </message>
     <message>
         <source>&amp;Function</source>
@@ -2288,7 +2288,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Edit in &amp;Formula Bar</source>
-        <translation>Editează în bara &amp;formulelor</translation>
+        <translation>Editează în bara &amp;formulei</translation>
     </message>
     <message>
         <source>&amp;Option...</source>
@@ -2315,7 +2315,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Propertie&amp;s...</source>
-        <translation>Propi&amp;etăți...</translation>
+        <translation>Propri&amp;etăți...</translation>
     </message>
 </context>
 <context>
@@ -2330,7 +2330,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Shortcut &amp;key:</source>
-        <translation>Scurtătură &amp;tastă:</translation>
+        <translation>&amp;Tastă scurtătură:</translation>
     </message>
     <message>
         <source>Ctrl+</source>
@@ -2365,7 +2365,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Forma&amp;ts</source>
-        <translation>Forma&amp;tări</translation>
+        <translation>Forma&amp;te</translation>
     </message>
 </context>
 <context>
@@ -2683,11 +2683,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Sup&amp;erscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Expon&amp;ent</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation type="unfinished"></translation>
+        <translation>In&amp;dice</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -2717,7 +2717,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Size and rotate</source>
-        <translation>Dimensiune și rotație</translation>
+        <translation>Dimensiune și rotire</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
@@ -2725,7 +2725,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucShapeHeight</source>
-        <translation>ucÎnălțimeFormă</translation>
+        <translation>ucÎnălțime Formă</translation>
     </message>
     <message>
         <source>pt, 2, -10, 1e+08, 1</source>
@@ -2737,7 +2737,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucShapeWidth</source>
-        <translation>ucLățimeFormă</translation>
+        <translation>ucLățime Formă</translation>
     </message>
     <message>
         <source>&amp;Rotation:</source>
@@ -2745,7 +2745,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucRotation</source>
-        <translation>ucRotație</translation>
+        <translation>ucRotire</translation>
     </message>
     <message>
         <source>degree, 0, -360000, 360000, 1</source>
@@ -2761,7 +2761,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucScaleHeight</source>
-        <translation>ucÎnălțimeScală</translation>
+        <translation>ucÎnălțime Scală</translation>
     </message>
     <message>
         <source>%, 0, -10, 999999, 1</source>
@@ -2773,7 +2773,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ucScaleWidth</source>
-        <translation>ucLățimeScală</translation>
+        <translation>ucLățime Scală</translation>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
@@ -2857,11 +2857,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Black and White</source>
-        <translation>Alb și negru</translation>
+        <translation>Negru și alb</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>Spălare</translation>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
@@ -2885,7 +2885,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
-        <translation>Co&amp;mprimare...</translation>
+        <translation>Co&amp;mprimă...</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
@@ -2893,7 +2893,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Relative to original picture size</source>
-        <translation>Aproximativ la dimensiunea originală a pozei</translation>
+        <translation>Relativ la dimensiunea originală a pozei</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
@@ -2961,7 +2961,7 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgInsertCells</name>
     <message>
         <source>Insert</source>
-        <translation>Inserează</translation>
+        <translation>Introdu</translation>
     </message>
     <message>
         <source>Shift cells r&amp;ight</source>
@@ -3007,7 +3007,7 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgInsertFunction</name>
     <message>
         <source>Insert Function</source>
-        <translation>Inserează funcția</translation>
+        <translation>Introdu funcție</translation>
     </message>
     <message>
         <source>All Functions</source>
@@ -3090,11 +3090,11 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgInsertWorkSheet</name>
     <message>
         <source>Insert &amp;count:</source>
-        <translation>Inserează &amp;cont:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>Inserează</translation>
+        <translation>Introdu</translation>
     </message>
     <message>
         <source>&amp;After current sheet</source>
@@ -3237,7 +3237,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Formula bar</source>
-        <translation>Bara &amp;formulelor</translation>
+        <translation>Bara &amp;formulei</translation>
     </message>
     <message>
         <source>&amp;Status bar</source>
@@ -3273,7 +3273,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Document tab</source>
-        <translation>Fereastra &amp;document</translation>
+        <translation>Filă &amp;document</translation>
     </message>
     <message>
         <source>Taskb&amp;ar</source>
@@ -3313,7 +3313,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Precision as displayed</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Precizia cum se afișează</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -3365,11 +3365,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Trace hyperlinks with Alt key pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Urmărire Hyperlink-uri cu tasta Alt apăsată</translation>
     </message>
     <message>
         <source>Chart tips</source>
-        <translation>Sfaturi diagramă</translation>
+        <translation>Sfaturi grafic</translation>
     </message>
     <message>
         <source>&amp;Show names</source>
@@ -3393,7 +3393,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation>Listă fișiere &amp;recent utilizate:</translation>
+        <translation>Listă fișiere utilizate &amp;recent:</translation>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
@@ -3577,15 +3577,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Chart fills:</source>
-        <translation type="unfinished"></translation>
+        <translation>Umplere grafic:</translation>
     </message>
     <message>
         <source>Chart lines:</source>
-        <translation>Linii diagramă:</translation>
+        <translation>Linii grafic:</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation>&amp;Modificare...</translation>
+        <translation>&amp;Modifică...</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -3829,7 +3829,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Verificare ortografie</translation>
+        <translation>Verificare ortografică</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
@@ -4004,7 +4004,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Unit: Centimeters</source>
-        <translation>Unități: Centimetri</translation>
+        <translation>Unitate: Centimetri</translation>
     </message>
     <message>
         <source>Center on page</source>
@@ -4076,7 +4076,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Black and White</source>
-        <translation>&amp;Alb și negru</translation>
+        <translation>&amp;Negru și alb</translation>
     </message>
     <message>
         <source>Row and co&amp;lumn headings</source>
@@ -4144,7 +4144,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Antet sau subsol</translation>
+        <translation>Antet și subsol</translation>
     </message>
 </context>
 <context>
@@ -4186,7 +4186,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Au&amp;tomatic</source>
-        <translation>AU&amp;tomatic</translation>
+        <translation type="unfinished">AU&amp;tomat</translation>
     </message>
     <message>
         <source>C&amp;ustom</source>
@@ -4348,7 +4348,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>C&amp;ollate</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;olaționare</translation>
     </message>
     <message>
         <source>Page range</source>
@@ -4372,7 +4372,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Print what</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce se tipărește</translation>
     </message>
     <message>
         <source>Selectio&amp;n</source>
@@ -4392,7 +4392,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Multipage output and zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieșire pagini multiple și zoom</translation>
     </message>
     <message>
         <source>Pages per s&amp;heet:</source>
@@ -4490,7 +4490,7 @@ prior to sharing the workbook.</source>
     <name>KxDlgProtectBook</name>
     <message>
         <source>Protect Workbook</source>
-        <translation>Protejază registrul de lucru</translation>
+        <translation>Protejează registrul de lucru</translation>
     </message>
     <message>
         <source>&amp;Password(optional):</source>
@@ -4501,7 +4501,7 @@ prior to sharing the workbook.</source>
     <name>KxDlgProtectSheet</name>
     <message>
         <source>Protect Sheet</source>
-        <translation>Foaie protejată</translation>
+        <translation>Protejează foaia</translation>
     </message>
     <message>
         <source>&amp;Allow all users of this worksheet to:</source>
@@ -4529,11 +4529,11 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Insert columns</source>
-        <translation>Inserează coloane</translation>
+        <translation>Introdu coloane</translation>
     </message>
     <message>
         <source>Insert rows</source>
-        <translation>Inserează rânduri</translation>
+        <translation>Introdu rânduri</translation>
     </message>
     <message>
         <source>Insert hyperlinks</source>
@@ -4592,7 +4592,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Find &amp;Next</source>
-        <translation>Găsește &amp;Următor</translation>
+        <translation>Găsește &amp;următorul</translation>
     </message>
     <message>
         <source>&amp;Criteria</source>
@@ -4604,7 +4604,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Form</source>
-        <translation>Formulă</translation>
+        <translation>Formular</translation>
     </message>
 </context>
 <context>
@@ -4794,7 +4794,7 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     <name>KxDlgSeries</name>
     <message>
         <source>Series</source>
-        <translation>Serii</translation>
+        <translation>Serie</translation>
     </message>
     <message>
         <source>Series in</source>
@@ -4830,11 +4830,11 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>Auto&amp;Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Umplere automată</translation>
     </message>
     <message>
         <source>Date unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată unitate</translation>
     </message>
     <message>
         <source>D&amp;ay</source>
@@ -5058,7 +5058,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Verificare ortografie</translation>
+        <translation>Verificare ortografică</translation>
     </message>
     <message>
         <source>The word is not in the dictionary</source>
@@ -5066,7 +5066,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>&amp;Set Spell Check Language</source>
-        <translation>&amp;Configurează limba verificării ortografiei</translation>
+        <translation>&amp;Configurează limba corectării ortografice</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -5133,7 +5133,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>M&amp;erge...</source>
-        <translation>Î&amp;mbină...</translation>
+        <translation>C&amp;ombină...</translation>
     </message>
 </context>
 <context>
@@ -5314,7 +5314,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>T&amp;reat consecutive delimiters as one</source>
-        <translation type="unfinished"></translation>
+        <translation>T&amp;ratează delimitările consecutiva ca una singură</translation>
     </message>
     <message>
         <source>Text &amp;qualifier:</source>
@@ -5354,7 +5354,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>This screen lets you select each column and set the Data Format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest ecran vă permite selectarea fiecărei coloane și configurarea formatului datei.</translation>
     </message>
     <message>
         <source>Column data format </source>
@@ -5418,7 +5418,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation>S&amp;fârșit</translation>
+        <translation>&amp;Final</translation>
     </message>
     <message>
         <source>The Text Wizard has determined that your data is Delimited. 
@@ -5514,7 +5514,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     <name>KxDlgUnprotectSheet</name>
     <message>
         <source>Unprotect Sheet</source>
-        <translation>Foaie neprotejată</translation>
+        <translation>Nu proteja foaia</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
@@ -5545,7 +5545,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Whole number</source>
-        <translation>Întregul număr</translation>
+        <translation>Numărul întreg</translation>
     </message>
     <message>
         <source>Decimal</source>
@@ -5561,7 +5561,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Time</source>
-        <translation>Oră</translation>
+        <translation>Timp</translation>
     </message>
     <message>
         <source>Text length</source>
@@ -5593,19 +5593,19 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>greater than</source>
-        <translation>mai mare ca</translation>
+        <translation>mai mare decât</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation>mai mic ca</translation>
+        <translation>mai mic decât</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation>mai mare sau egal cu</translation>
+        <translation>mai mare decât sau egal cu</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation>mai mic sau egal cu</translation>
+        <translation>mai mic decât sau egal cu</translation>
     </message>
     <message>
         <source>&amp;In-cell dropdown</source>
@@ -5739,7 +5739,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     <name>KxEDRPropertiesDlg</name>
     <message>
         <source>The name is invalid for the query.</source>
-        <translation>Numele este nevalid pentru interogare.</translation>
+        <translation>Numele nu este valid pentru interogare.</translation>
     </message>
     <message>
         <source>A query with this name already exist on this worksheet.</source>
@@ -5880,7 +5880,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     <name>KxEtChartObjectsCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>Nu este un număr întreg valid.</translation>
+        <translation>Acesta nu este un număr întreg valid.</translation>
     </message>
 </context>
 <context>
@@ -5951,7 +5951,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Error in filter conditions.</source>
-        <translation>Eroare în filtrele de condiționare.</translation>
+        <translation>Eroare în condiționările filtrului.</translation>
     </message>
 </context>
 <context>
@@ -5962,7 +5962,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>The reference you typed is not valid, or you did not provide a reference where one was required
@@ -5978,7 +5978,8 @@ If you are not trying to enter a formula, avoid using an equal sign(=) or minus 
     <message>
         <source>The cell or chart that you are trying to change is protected and therefore read-only.
 To Modify a protected cell or chart, first remove protection using the Unprotect Sheet command.You may be prompted for a password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Celula sau graficul pe care încercați să modificați este protejată și prin urmare doar-citire.
+Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția utilizând comanda de anulare protecție foaie.Vi se poate solicita parola.</translation>
     </message>
 </context>
 <context>
@@ -6018,11 +6019,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>The error check is complete for the entire sheet.</source>
-        <translation>Verificarea erorilor s-a terminat pentru întreaga foaie.</translation>
+        <translation>Verificarea erorilor este terminată pentru întreaga foaie.</translation>
     </message>
     <message>
         <source>Edit in &amp;Formula Bar</source>
-        <translation>Editează în bara &amp;formulelor</translation>
+        <translation>Editează în bara &amp;formulei</translation>
     </message>
 </context>
 <context>
@@ -6071,7 +6072,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtFormulaBar</name>
     <message>
         <source>Formula Bar</source>
-        <translation>Bara formulelor</translation>
+        <translation>Bara formulei</translation>
     </message>
 </context>
 <context>
@@ -6127,7 +6128,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtOleSetDisplayAreaCommand</name>
     <message>
         <source>The OLE display area cannot be objects, please select again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zona de afișare OLE nu poate fi obiecte, selectați din nou.</translation>
     </message>
 </context>
 <context>
@@ -6297,18 +6298,18 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtZoomCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>Acesta nu este un număr întreg.</translation>
+        <translation>Acesta nu este un număr întreg valid.</translation>
     </message>
 </context>
 <context>
     <name>KxEvaluateFormulaDlg</name>
     <message>
         <source>The cell currently being evaluated is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Celula în curs de evaluare este goală.</translation>
     </message>
     <message>
         <source>The cell currently being evaluated contains a constant.</source>
-        <translation type="unfinished"></translation>
+        <translation>Celula în curs de evaluare conține o constantă.</translation>
     </message>
     <message>
         <source>This is a circular references and may not evaluate to a result you expect.</source>
@@ -6328,7 +6329,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>R&amp;estart</source>
-        <translation>R&amp;epornește</translation>
+        <translation>R&amp;epornire</translation>
     </message>
 </context>
 <context>
@@ -6343,7 +6344,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation>Parola deschidere fișier și parolă permisiuni trebuie să fie diferit, introduceți din nou.</translation>
+        <translation>Parola deschidere fișier și parola permisiuni trebuie să fie diferite, introduceți din nou.</translation>
     </message>
     <message>
         <source>Save PDF File</source>
@@ -6370,7 +6371,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Exporting summary information...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se exportă rezumatul informației...</translation>
     </message>
     <message>
         <source>Exporting page </source>
@@ -6386,7 +6387,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
-        <translation>Este finalizat exportul fișierului PDF...</translation>
+        <translation>Exportul fișierului PDF se finalizează...</translation>
     </message>
     <message>
         <source>Encountered an error when opening PDF file!</source>
@@ -6406,7 +6407,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
-        <translation>WPS Spreadsheets a întâmpinat o eroare în timpul încercării exportării la PDF.</translation>
+        <translation>WPS Spreadsheets a întâmpinat o eroare în timpul încercării de exportare ca PDF.</translation>
     </message>
 </context>
 <context>
@@ -6428,7 +6429,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Check if your search formatting and criteria are defined correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificați dacă formatarea de căutare și criteriile sunt definite corect.</translation>
     </message>
     <message>
         <source>If you are sure that matching data exists in this workbook, it may be in a protected sheet.</source>
@@ -6528,7 +6529,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>&amp;Format</source>
-        <translation>&amp;Formatare</translation>
+        <translation>&amp;Format</translation>
     </message>
     <message>
         <source>Choose Format From Cell:</source>
@@ -6552,7 +6553,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Clea&amp;r Find Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Cu&amp;răță formatele găsite</translation>
     </message>
     <message>
         <source>For&amp;mat</source>
@@ -6568,7 +6569,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Clear &amp;Replace Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță formatul &amp;înlocuit</translation>
     </message>
 </context>
 <context>
@@ -6582,7 +6583,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxFontDlg</name>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
@@ -6598,7 +6599,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <translation>Acesta este font TrueType. Acest font va fi utilizat pentru tipărit și pentru ecran.</translation>
+        <translation>Acesta este un font TrueType. Acest font va fi utilizat atât pentru imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>The font is designed for plotter.</source>
@@ -6606,7 +6607,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation>Stilul fontului nu este disponibil.</translation>
+        <translation>Acest stil font nu este disponibil.</translation>
     </message>
 </context>
 <context>
@@ -6637,7 +6638,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
@@ -6680,7 +6681,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>Modele</translation>
     </message>
     <message>
         <source>Protection</source>
@@ -6711,7 +6712,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
@@ -6723,7 +6724,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesta este un font TrueType. Acest font va fi utilizat atât pentru imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>The font is designed for plotter.</source>
@@ -6735,7 +6736,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation>Acest stil al fontului nu este disponibil.</translation>
+        <translation>Acest sti font nu este disponibil.</translation>
     </message>
 </context>
 <context>
@@ -6746,7 +6747,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>pt</source>
-        <translation>pt</translation>
+        <translation>pct</translation>
     </message>
     <message>
         <source>cm</source>
@@ -6815,7 +6816,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>Set Cell</source>
@@ -6887,7 +6888,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Up one folder</source>
-        <translation>Sus un dosar</translation>
+        <translation>Urcă un dosar</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -6944,11 +6945,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The function you described is not found. Please enter the function information again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Funcția descrisă nu a fost găsită. Introduceți informația funcției din nou.</translation>
     </message>
     <message>
         <source>Enter the name or the description of the function you want to look up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți numele sau descrierea funcției pe care doriți să o căutați.</translation>
     </message>
     <message>
         <source>Undefined.</source>
@@ -6960,7 +6961,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The search information is required.</source>
-        <translation>Este necesară informația de căutare.</translation>
+        <translation>Informația de căutare este necesară.</translation>
     </message>
 </context>
 <context>
@@ -7101,7 +7102,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Document tab</source>
-        <translation>Fila documentului</translation>
+        <translation>Filă document</translation>
     </message>
     <message>
         <source>List will be permanently deleted.</source>
@@ -7125,7 +7126,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Number must be above 0.</source>
-        <translation>Numărul trebuie să fie mai mare ca 0.</translation>
+        <translation>Numărul trebuie să fie peste 0.</translation>
     </message>
     <message>
         <source>Font size must be between 1 and 409 points.</source>
@@ -7157,7 +7158,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The number of custom dictionaries has reached the upper limit.</source>
-        <translation>Numărul dicționarelor personalizate a atins limita maximă.</translation>
+        <translation>Numărul dicționarelor personalizate a atins limita superioară.</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)|*.dic</source>
@@ -7181,7 +7182,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
-        <translation>A intervenit o eroare la adăugarea &quot;%1&quot;. verificați formatul fișierului.</translation>
+        <translation>A intervenit o eroare când se adăuga &quot;%1&quot;, verificați formatul fișierului.</translation>
     </message>
     <message>
         <source>Size of the selected dictionary must be less than 10MB.</source>
@@ -7205,7 +7206,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Are you sure to send the dictionary %1 to the Recycle Bin?</source>
-        <translation>Sigur trimiteți dicționarul %1 la Gunoi?</translation>
+        <translation>Sigur trimiteți dicționarul %1 la coșul de gunoi?</translation>
     </message>
     <message>
         <source>Failed to delete dictionary files from disk, please delete the files manually.</source>
@@ -7225,7 +7226,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>Cannot find directory %1.</source>
@@ -7296,7 +7297,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Time</source>
-        <translation>Oră</translation>
+        <translation>Timp</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -7344,11 +7345,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>There is no Active Printer available at the moment.</source>
-        <translation>Momentan nu este nici o imprimantă disponibilă.</translation>
+        <translation>Nu este nici o imprimantă activă disponibilă momentan.</translation>
     </message>
     <message>
         <source>Cannot show the properties dialog box because the printer encountered an error.</source>
-        <translation>Nu se poate arăta caseta de dialog proprietăți fiindcă imprimanta a întâmpinat o eroare.</translation>
+        <translation>Nu se poate afișa caseta de dialog a proprietăților fiindcă imprimanta a întâmpinat o eroare.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
@@ -7569,12 +7570,12 @@ on iteration #%2.</source>
 To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <translation>Numele câmpului tabelului pivot nu este valid. 
-Pentru a crea un raport tabel pivot, trebuie să utilizați datele care sunt organizate ca o listă cu coloane etichetate. 
-Dacă schimbați numele unui câmp tabel pivot, trebuie să introduceți un nou nume pentru câmp.</translation>
+Pentru a creea un raport tabel pivot, trebuie să utilizați datele care sunt organizate ca o listă cu coloane etichetate. 
+Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un nume nou pentru câmp.</translation>
     </message>
     <message>
         <source>PivotTable field name already exists.</source>
-        <translation>Numele câmpului tabelului pivot există deja.</translation>
+        <translation>Numele câmpului tabelului pivot deja există.</translation>
     </message>
     <message>
         <source>Count Numbers</source>
@@ -7812,7 +7813,7 @@ system will remind checking the correctness of the contents.
     <name>KxSeriesDlg</name>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
 </context>
 <context>
@@ -7839,7 +7840,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>Column width must be between 0 %1 and %2 %1.</source>
@@ -7874,7 +7875,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>Row height must be between 0 %1 and %2 %1.</source>
@@ -7921,7 +7922,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Sample Size must be a positive integer number.</source>
-        <translation>Dimensiunea eșantionului trebuie să fie un număr întreg pozitiv.</translation>
+        <translation>Dimensiunea eșanționului trebuie să fie un număr întreg pozitiv.</translation>
     </message>
     <message>
         <source>Random Seed must be a positive integer number.</source>
@@ -7956,7 +7957,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>integer</source>
-        <translation type="unfinished"></translation>
+        <translation>întreg</translation>
     </message>
     <message>
         <source>binary</source>
@@ -7972,7 +7973,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>Variable Cells must be on the active sheet.</source>
@@ -8275,12 +8276,12 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Sor&amp;t and Top 10...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sor&amp;tează și primele 10...</translation>
     </message>
     <message>
         <source>At least one item must be showing. 
 If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <translation>Cel puțin un element trebuie să fie arătat. 
+        <translation>Cel puțin un element trebuie afișat. 
 Dacă nu doriți să arătați câmpul deloc, anulați operația curentă, iar apoi trageți câmpul afară din raport.</translation>
     </message>
 </context>
@@ -8288,7 +8289,7 @@ Dacă nu doriți să arătați câmpul deloc, anulați operația curentă, iar a
     <name>KxUnprotectSheetDlg</name>
     <message>
         <source>The password you supplied is not correct. Verify that the CAPS LOCK key is off and be sure to use the correct capitalization.</source>
-        <translation>Parola pe care ați furnizat-o nu este corectă. Verificați dacă tasta CAPS LOCK este închisă și asigurați-vă că utilizați capitalizarea corectă.</translation>
+        <translation>Parola furnizată nu este corectă. Verificați dacă tasta CAPS LOCK este închisă și asigurați-vă că utilizați capitalizarea corectă.</translation>
     </message>
 </context>
 <context>
@@ -8402,7 +8403,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Wrap text</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Încadrare text</translation>
     </message>
     <message>
         <source>Shrin&amp;k to fit</source>
@@ -8426,7 +8427,7 @@ t</translation>
     </message>
     <message>
         <source>Left(Indent)</source>
-        <translation>Stânga(Alineat)</translation>
+        <translation>Stânga(Indentare)</translation>
     </message>
     <message>
         <source>Center</source>
@@ -8434,7 +8435,7 @@ t</translation>
     </message>
     <message>
         <source>Right(Indent)</source>
-        <translation>Dreapta(Alineat)</translation>
+        <translation>Dreapta(Indentare)</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -8450,7 +8451,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Indent:</source>
-        <translation>Al&amp;Ineat:</translation>
+        <translation>&amp;Indentare:</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
@@ -8529,7 +8530,7 @@ t</translation>
     </message>
     <message>
         <source>Increase In&amp;dent</source>
-        <translation>Crește al&amp;ineatul</translation>
+        <translation>Mărește in&amp;dentarea</translation>
     </message>
     <message>
         <source>Right-to-left </source>
@@ -8572,7 +8573,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Inside</source>
-        <translation>&amp;Interior</translation>
+        <translation>&amp;Înăuntru</translation>
     </message>
     <message>
         <source>Line</source>
@@ -8675,11 +8676,11 @@ t</translation>
     </message>
     <message>
         <source>Sup&amp;erscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Expon&amp;ent</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation type="unfinished"></translation>
+        <translation>In&amp;dice</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -8694,7 +8695,7 @@ t</translation>
     <name>KxWidgetNumber</name>
     <message>
         <source>Sample</source>
-        <translation>Eșantion</translation>
+        <translation>Eșanțion</translation>
     </message>
     <message>
         <source>&amp;Category:</source>
@@ -8722,7 +8723,7 @@ t</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Oră</translation>
+        <translation>Timp</translation>
     </message>
     <message>
         <source>Percentage</source>
@@ -8762,7 +8763,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Decimal places:</source>
-        <translation type="unfinished"></translation>
+        <translation>Locuri &amp;zecimală:</translation>
     </message>
     <message>
         <source>&amp;Symbol:</source>
@@ -8825,7 +8826,7 @@ t</translation>
     </message>
     <message>
         <source>Sample</source>
-        <translation>Eșantion</translation>
+        <translation>Eșanțion</translation>
     </message>
     <message>
         <source>Clea&amp;r</source>
@@ -8851,7 +8852,7 @@ t</translation>
     <name>KxZoomViewDlg</name>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>Intrarea nu poate fi utilizată. Un număr întreg sau zecimal poate fi necesar.</translation>
+        <translation>Intrarea dumneavoastră nu poate fi utilizată. Poate fi solicitat un număr întreg sau zecimal.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
@@ -8983,7 +8984,7 @@ t</translation>
     </message>
     <message>
         <source>Indents</source>
-        <translation>Alineate</translation>
+        <translation>Indentări</translation>
     </message>
     <message>
         <source>Top Aligned</source>
@@ -9039,7 +9040,7 @@ t</translation>
     </message>
     <message>
         <source>No Font</source>
-        <translation>Fără font</translation>
+        <translation>Nici un font</translation>
     </message>
     <message>
         <source>Color</source>
@@ -9047,11 +9048,11 @@ t</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Indice</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>Exponent</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -9111,7 +9112,7 @@ t</translation>
     </message>
     <message>
         <source>No Protection</source>
-        <translation>Fără protecție</translation>
+        <translation>Nici o protecție</translation>
     </message>
     <message>
         <source>Locked</source>
@@ -9191,7 +9192,7 @@ t</translation>
     </message>
     <message>
         <source>Periwinkle</source>
-        <translation type="unfinished"></translation>
+        <translation>Brebenoc</translation>
     </message>
     <message>
         <source>Plum</source>
@@ -9203,7 +9204,7 @@ t</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation>Turcoaz strălucitor</translation>
+        <translation>Turcoaz deschis</translation>
     </message>
     <message>
         <source>Dark Purple</source>
@@ -9227,7 +9228,7 @@ t</translation>
     </message>
     <message>
         <source>Pale Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Albastru pal</translation>
     </message>
     <message>
         <source>Rose</source>
@@ -9235,7 +9236,7 @@ t</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Levănțică</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -9247,11 +9248,11 @@ t</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>Aqua</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Lămâie</translation>
     </message>
     <message>
         <source>Gold</source>
@@ -9279,7 +9280,7 @@ t</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation>Verde ocean</translation>
+        <translation>Verde marin</translation>
     </message>
     <message>
         <source>Dark Green</source>
@@ -9287,7 +9288,7 @@ t</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Verde măsliniu</translation>
     </message>
     <message>
         <source>Brown</source>
@@ -9387,19 +9388,19 @@ t</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată &amp;pornire:</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată termi&amp;nare:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Timp &amp;pornire:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Timp termi&amp;nare:</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
@@ -9411,7 +9412,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation>&amp;Oră:</translation>
+        <translation>&amp;Timp:</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
@@ -9539,7 +9540,7 @@ t</translation>
     </message>
     <message>
         <source>integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Întreg</translation>
     </message>
     <message>
         <source>binary</source>
@@ -9780,7 +9781,7 @@ t</translation>
     <name>SelectTableFromDbUI</name>
     <message>
         <source>Select Table</source>
-        <translation>Selectați tabelul</translation>
+        <translation>Selectare tabel</translation>
     </message>
 </context>
 <context>
@@ -9851,7 +9852,7 @@ t</translation>
     </message>
     <message>
         <source>Derivatives</source>
-        <translation type="unfinished"></translation>
+        <translation>Derivate</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -9859,7 +9860,7 @@ t</translation>
     </message>
     <message>
         <source>Central</source>
-        <translation type="unfinished"></translation>
+        <translation>Central</translation>
     </message>
     <message>
         <source>Multistart</source>
@@ -9922,7 +9923,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation>&amp;Modifică</translation>
+        <translation>S&amp;chimbă</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -9989,7 +9990,7 @@ t</translation>
     </message>
     <message>
         <source>O&amp;utline Reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapoarte c&amp;ontur</translation>
     </message>
     <message>
         <source>Save Project</source>
@@ -10034,11 +10035,11 @@ t</translation>
     <name>customfilterdlg</name>
     <message>
         <source>Custom AutoFilter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtru automat personalizat</translation>
     </message>
     <message>
         <source>Show rows where:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată rândurile unde:</translation>
     </message>
     <message>
         <source>&amp;And</source>
@@ -10050,11 +10051,11 @@ t</translation>
     </message>
     <message>
         <source>Use ? to represent any single character</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizează ? pentru a reprezenta un singur caracter</translation>
     </message>
     <message>
         <source>Use * to represent any series of characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizează * pentru a reprezenta orice serie de caractere</translation>
     </message>
 </context>
 <context>
@@ -10252,7 +10253,7 @@ t</translation>
     </message>
     <message>
         <source>C&amp;onfirm:</source>
-        <translation>C&amp;onfirmă:</translation>
+        <translation>Confi&amp;rmare:</translation>
     </message>
     <message>
         <source>Permit to modi&amp;fy</source>
@@ -10339,7 +10340,7 @@ t</translation>
     </message>
     <message>
         <source>Preparing for exporting PDF file...</source>
-        <translation>Se pregătește pentru exportul în fișier PDF...</translation>
+        <translation>Se pregătește exportul fișierului PDF...</translation>
     </message>
 </context>
 <context>
@@ -10358,7 +10359,7 @@ t</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sf&amp;at pe ecran...</translation>
     </message>
     <message>
         <source>Pl&amp;ace in this
@@ -10410,7 +10411,7 @@ sau pagină web</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation>Adrese email re&amp;cent utilizate:</translation>
+        <translation>Adresele de email re&amp;cent utilizate:</translation>
     </message>
 </context>
 <context>
@@ -10492,7 +10493,7 @@ sau pagină web</translation>
     </message>
     <message>
         <source>&amp;Single</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Singur</translation>
     </message>
     <message>
         <source>&amp;Extend</source>
@@ -10543,7 +10544,7 @@ sau pagină web</translation>
     </message>
     <message>
         <source>(Unit: Centimeters)</source>
-        <translation>(Unitate: Centimetrii)</translation>
+        <translation>(Unitate: Centimetri)</translation>
     </message>
 </context>
 <context>
@@ -10577,7 +10578,7 @@ sau pagină web</translation>
     <name>kxettop10autofilter</name>
     <message>
         <source>Top 10 AutoFilter</source>
-        <translation type="unfinished"></translation>
+        <translation>Primele 10 filtre automate</translation>
     </message>
     <message>
         <source>Show</source>
@@ -10600,7 +10601,7 @@ sau pagină web</translation>
     </message>
     <message>
         <source>To change the source of links, or attempt to update values again, click Edit Links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru modificarea sursei link-urilor, sau încercarea de reactualizare a valorilor, apăsați Editare link-uri.</translation>
     </message>
     <message>
         <source>To leave the links as they are, click Continue.</source>
@@ -10616,7 +10617,7 @@ sau pagină web</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Foi d ecalcul</translation>
+        <translation>Foi de calcul</translation>
     </message>
 </context>
 <context>

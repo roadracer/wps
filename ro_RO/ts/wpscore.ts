@@ -88,7 +88,7 @@
     <message>
         <source>Insert Picture</source>
         <comment>TxVersion_InsertPicture</comment>
-        <translation>Introdu imagine</translation>
+        <translation>Introduceți poză</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -98,7 +98,7 @@
     <message>
         <source>Clear</source>
         <comment>TxVersion_Clear</comment>
-        <translation>Curăţă</translation>
+        <translation>Curăță</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -438,12 +438,12 @@ Try one or more of the following:
     <message>
         <source>Page Break</source>
         <comment>_TxPageBreak</comment>
-        <translation>Întrerupere pagină</translation>
+        <translation>Întrerupere de pagină</translation>
     </message>
     <message>
         <source>Column Break</source>
         <comment>_TxColumnBreak</comment>
-        <translation>Întrerupere coloană</translation>
+        <translation>Întrerupere de coloană</translation>
     </message>
     <message>
         <source>Section Break (Next Page)</source>
@@ -526,7 +526,7 @@ Try one or more of the following:
     <message>
         <source>Hanging Indent</source>
         <comment>TxToolTip_Hanging_Indent</comment>
-        <translation type="unfinished"></translation>
+        <translation>Agățare indentare</translation>
     </message>
     <message>
         <source>Left Indent</source>
@@ -541,7 +541,7 @@ Try one or more of the following:
     <message>
         <source>Left Tab</source>
         <comment>TxToolTip_Left_Tab</comment>
-        <translation>Fila stângă</translation>
+        <translation>Fila stânga</translation>
     </message>
     <message>
         <source>Center Tab</source>
@@ -551,7 +551,7 @@ Try one or more of the following:
     <message>
         <source>Right Tab</source>
         <comment>TxToolTip_Right_Tab</comment>
-        <translation>Fila dreaptă</translation>
+        <translation>Fila dreapta</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
@@ -1114,7 +1114,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Double strikethrough</source>
         <comment>TxRevision_Chp_DoubleStrikethrough</comment>
-        <translation>Linie pe mijloc dublă</translation>
+        <translation>Două linii pe mijloc</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -1554,7 +1554,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Start at</source>
         <comment>TxRevision_Pap_StartAt</comment>
-        <translation>Pornit la</translation>
+        <translation>Pornire la</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -2257,7 +2257,7 @@ Doriți să-l înlocuiți?</translation>
     </message>
     <message>
         <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest document conține link-uri care se pot referi la alte fișiere. Doriți să actualizați acest document cu datele din fișierele legate?</translation>
     </message>
     <message>
         <source>Make office work easier</source>
@@ -2845,7 +2845,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Browse by Bookmark</source>
         <comment>wps_sBrowseByBookmark</comment>
-        <translation>Navighează după semn de carte</translation>
+        <translation>Navighează după semnul de carte</translation>
     </message>
     <message>
         <source>Browse by Comment</source>
@@ -2920,7 +2920,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Clear</source>
         <comment>wps_sClear</comment>
-        <translation>Curăţă</translation>
+        <translation>Curăță</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2971,7 +2971,8 @@ This backup will be saved to(%s)</source>
         <source>Do you want to change the default settings for page setup?
 This change will affect all new documents based on the %s template.</source>
         <comment>wps_sDefaltTemplateConfirm</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doriți să modificați configurările implicite pentru configurarea paginii?
+Această modificare va afecta toate documentele noi bazate pe șablonul %s.</translation>
     </message>
     <message>
         <source>(Default)</source>
@@ -2986,7 +2987,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Are you sure to delete the default dictionary?</source>
         <comment>wps_sDeleteDefaultDict</comment>
-        <translation>Sigur doriți să ștergeți dicționarul implicit?</translation>
+        <translation>Sigur ștergeți dicționarul implicit?</translation>
     </message>
     <message>
         <source>Error occurs when deleting words.</source>
@@ -3016,7 +3017,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Dark Down Diagonal</source>
         <comment>wps_sDkDownDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală întunecată în jos</translation>
     </message>
     <message>
         <source>Dark Grid</source>
@@ -3026,7 +3027,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Dark Horizontal</source>
         <comment>wps_sDkHorizontal</comment>
-        <translation>Orizontal întunecat</translation>
+        <translation>Întunecat orizontal</translation>
     </message>
     <message>
         <source>Dark Trellis</source>
@@ -3036,12 +3037,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Dark Up Diagonal</source>
         <comment>wps_sDkUpDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală întunecată în sus</translation>
     </message>
     <message>
         <source>Dark Vertical</source>
         <comment>wps_sDkVertical</comment>
-        <translation>Vertical întunecat</translation>
+        <translation>Întunecat vertical</translation>
     </message>
     <message>
         <source>Documents                  %s</source>
@@ -3056,7 +3057,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>E-mail Address</source>
         <comment>wps_sEmailAddress</comment>
-        <translation>Adresa email</translation>
+        <translation>Adresă email:</translation>
     </message>
     <message>
         <source>&amp;Enter bookmark name:</source>
@@ -3106,7 +3107,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
         <comment>wps_sFH_TrueType</comment>
-        <translation>Aceste este un font TrueType. Acest font va fi utilizat pentru imprimantă cât și pentru ecran.</translation>
+        <translation>Acesta este un font TrueType. Acest font va fi utilizat atât pentru imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Insert the value of the document variable named NAME</source>
@@ -3316,7 +3317,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Light Down Diagonal</source>
         <comment>wps_sLtDownDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală luminoasă în jos</translation>
     </message>
     <message>
         <source>Light Grid</source>
@@ -3326,7 +3327,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Light Horizontal</source>
         <comment>wps_sLtHorizontal</comment>
-        <translation>Orixontal luminos</translation>
+        <translation>Luminat orizontal</translation>
     </message>
     <message>
         <source>Light Trellis</source>
@@ -3336,12 +3337,12 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Light Up Diagonal</source>
         <comment>wps_sLtUpDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală luminoasă în sus</translation>
     </message>
     <message>
         <source>Light Vertical</source>
         <comment>wps_sLtVertical</comment>
-        <translation>Vertical luminos</translation>
+        <translation>Luminat vertical</translation>
     </message>
     <message>
         <source>The %s margins are too large for the page %s in some sections.</source>
@@ -3366,7 +3367,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Match Case</source>
         <comment>wps_sMatchCase</comment>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește majuscula</translation>
     </message>
     <message>
         <source>Sounds Like(Japanese)</source>
@@ -3381,7 +3382,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Merge to New Document</source>
         <comment>wps_sMergeToNewDocCaption</comment>
-        <translation>Combină la noul document</translation>
+        <translation>Combină în document nou</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
@@ -3411,7 +3412,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>&amp;More Line Colors...</source>
         <comment>wps_sMoreLineColors</comment>
-        <translation>&amp;Mai multe culori linie...</translation>
+        <translation>&amp;Mai multe culori de linie...</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3436,7 +3437,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Next Comment</source>
         <comment>wps_sNextComment</comment>
-        <translation>Comentariu următor</translation>
+        <translation>Comentariul următor</translation>
     </message>
     <message>
         <source>Next Find/GoTo</source>
@@ -3581,7 +3582,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Exporting PDF file is completing...</source>
         <comment>wps_spdfComplete</comment>
-        <translation>Exportul fișierului PDF se termină...</translation>
+        <translation>Exportul fișierului PDF se finalizează...</translation>
     </message>
     <message>
         <source>Exporting PDF file is completed.</source>
@@ -3751,7 +3752,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Previous Comment</source>
         <comment>wps_sPreviousComment</comment>
-        <translation>Comentariu anterioar</translation>
+        <translation>Comentariul anterior</translation>
     </message>
     <message>
         <source>Previous Find/GoTo</source>
@@ -3826,7 +3827,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Select Folder:</source>
         <comment>wps_sSelectFolder</comment>
-        <translation>Dosar selectat:</translation>
+        <translation>Selectare dosar:</translation>
     </message>
     <message>
         <source>Selected text</source>
@@ -3996,7 +3997,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>(Use Asian text font)</source>
         <comment>wps_sUseAsianfont</comment>
-        <translation>(Utilizează fontul text asiatic)</translation>
+        <translation>(Utilizează font text asiatic)</translation>
     </message>
     <message>
         <source>User templates             %s</source>
@@ -4026,7 +4027,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer a întâmpinat o eroare când ajusta securitatea macrocomenzii. Aceasta se poate datora faptului că mediul VBA nu este instalat.</translation>
     </message>
     <message>
         <source>Web Page</source>
@@ -4046,7 +4047,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Find whole words only</source>
         <comment>wps_sWholeWords</comment>
-        <translation>Găsește numai cuvintele întregi</translation>
+        <translation>Găsește numai cuvinte întregi</translation>
     </message>
     <message>
         <source>width</source>
@@ -4061,7 +4062,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <comment>wps_sRemoveDefaultDict</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eliminarea dicționarului personalizat poate afecta dicționarul personalizat utilizat de alte aplicații WPS Office. Doriți să continuați?</translation>
     </message>
     <message>
         <source>This operation will not be only applied to this section. Do you want to continue?</source>
@@ -4397,7 +4398,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Endnote</source>
         <comment>TxCrossRefType_Endnote</comment>
-        <translation>Nota de final</translation>
+        <translation>Notă de final</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -4712,7 +4713,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxCaption_NewFromDefaultTemplate</comment>
-        <translation>Nou din șabloane implicite</translation>
+        <translation>Nou din șabloanele implicite</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -4722,7 +4723,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxCaption_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation>Nou din șabloane implicite</translation>
+        <translation>Nou din șabloanele implicite</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -4732,7 +4733,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxTooltip_NewFromDefaultTemplate</comment>
-        <translation>Nou din șabloane implicite</translation>
+        <translation>Nou din șabloanele implicite</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -4742,7 +4743,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxTooltip_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation>Nou din șabloane implicite</translation>
+        <translation>Nou din șabloanele implicite</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4757,7 +4758,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Underline</source>
         <comment>TxVersion_Underline</comment>
-        <translation>Subliniere</translation>
+        <translation>Subliniat</translation>
     </message>
     <message>
         <source>Character Shading</source>
@@ -4787,17 +4788,17 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Align Left</source>
         <comment>TxVersion_AlignLeft</comment>
-        <translation>Aliniat la stânga</translation>
+        <translation>Aliniază la stânga</translation>
     </message>
     <message>
         <source>Align Right</source>
         <comment>TxVersion_AlignRight</comment>
-        <translation>Aliniat la dreapta</translation>
+        <translation>Aliniază la dreapta</translation>
     </message>
     <message>
         <source>Align Center</source>
         <comment>TxVersion_AlignCenter</comment>
-        <translation>Aliniat la centru</translation>
+        <translation>Aliniază la centru</translation>
     </message>
     <message>
         <source>Align Distribute</source>
@@ -4817,7 +4818,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Decrease Indent</source>
         <comment>TxVersion_DecreaseIndent</comment>
-        <translation>Descrește indentarea</translation>
+        <translation>Scade indentarea</translation>
     </message>
     <message>
         <source>Typing</source>
@@ -4832,7 +4833,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Clear</source>
         <comment>TxVersion_Key_Delete</comment>
-        <translation>Curăţă</translation>
+        <translation>Curăță</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -4857,7 +4858,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Shrink Font</source>
         <comment>TxVersion_ShrinkFonts</comment>
-        <translation>Micșorează font</translation>
+        <translation>Micșorează fontul</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -4922,12 +4923,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Emphasis mark</source>
         <comment>TxVersion_EmphasisMark</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marchează accentul</translation>
     </message>
     <message>
         <source>Double Strikethrough</source>
         <comment>TxVersion_DoubleStrikethought</comment>
-        <translation>Linie pe mijloc dublă</translation>
+        <translation>Două linii pe mijloc</translation>
     </message>
     <message>
         <source>Page Numbers</source>
@@ -4947,12 +4948,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert Date</source>
         <comment>TxVersion_InsertDate</comment>
-        <translation>Introdu data</translation>
+        <translation>Introduceți data</translation>
     </message>
     <message>
         <source>Insert Time</source>
         <comment>TxVersion_InsertTime</comment>
-        <translation>Introdu ora</translation>
+        <translation>Introduceți timpul</translation>
     </message>
     <message>
         <source>Switch Header/Footer Link</source>
@@ -4962,7 +4963,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert AutoText</source>
         <comment>TxVersion_InsertAutoText</comment>
-        <translation>Introdu text automat</translation>
+        <translation>Introduceți text automat</translation>
     </message>
     <message>
         <source>Add Header/Footer</source>
@@ -4987,7 +4988,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Text Wrapping</source>
         <comment>TxVersion_TextWawpping</comment>
-        <translation>Încadrare text</translation>
+        <translation>Încadrarea textului</translation>
     </message>
     <message>
         <source>Order</source>
@@ -5042,7 +5043,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert Comment</source>
         <comment>TxVersion_InsertComment</comment>
-        <translation>Introdu comentariu</translation>
+        <translation>Introduceți comentariu</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -5062,12 +5063,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Accept Change</source>
         <comment>TxVersion_AcceptChange</comment>
-        <translation>Acceptă modificări</translation>
+        <translation>Accept modificările</translation>
     </message>
     <message>
         <source>Accept All Changes in Document</source>
         <comment>TxVersion_AcceptAllChanges</comment>
-        <translation>Acceptă toate modificările în document</translation>
+        <translation>Accept toate modificările în document</translation>
     </message>
     <message>
         <source>Accept All Changes Shown</source>
@@ -5077,7 +5078,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Reject Change</source>
         <comment>TxVersion_RejectChange</comment>
-        <translation>Respinge modificările</translation>
+        <translation>Respinge modificarea</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
@@ -5092,7 +5093,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Accept Insertion</source>
         <comment>TxCaption_AcceptInsertion</comment>
-        <translation>Acceptă inserția</translation>
+        <translation>Acceptă introducerea</translation>
     </message>
     <message>
         <source>Reject Insertion</source>
@@ -5147,7 +5148,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Change Case</source>
         <comment>TxVersion_ChangeCase</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă majuscula</translation>
     </message>
     <message>
         <source>Bullets/Numbering</source>
@@ -5167,7 +5168,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Genko Setting</source>
         <comment>TxVersion_SetGenkoSetting</comment>
-        <translation>Configurări Genko</translation>
+        <translation>Configurare Genko</translation>
     </message>
     <message>
         <source>Insert Break</source>
@@ -5222,12 +5223,12 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert Blank Field</source>
         <comment>TxVersion_InsBlankField</comment>
-        <translation>Introdu câmp gol</translation>
+        <translation>Introduceți câmp gol</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>TxVersion_InsPicture</comment>
-        <translation>Introdu imagine</translation>
+        <translation type="unfinished">Introduceți poză</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -5247,17 +5248,17 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Split Table</source>
         <comment>TxVersion_SplitTable</comment>
-        <translation>Desparte tabel</translation>
+        <translation>Desparte tabelul</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
         <comment>TxVersion_DistributeColumns</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distribuie coloane uniform</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
         <comment>TxVersion_DistributeRows</comment>
-        <translation type="unfinished"></translation>
+        <translation>Distribuie rânduri uniform</translation>
     </message>
     <message>
         <source>AutoFit to Window</source>
@@ -5277,7 +5278,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Split Cells</source>
         <comment>TxVersion_SplitCells</comment>
-        <translation>Desparte celule</translation>
+        <translation>Desparte celulele</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -5292,7 +5293,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert Multidiagonal Cell</source>
         <comment>TxVersion_InsertMutidiagonalCell</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu celulă multidiagonală</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -5747,12 +5748,12 @@ document</translation>
     <message>
         <source>Convert Table to Text</source>
         <comment>TxVersion_TableToText</comment>
-        <translation>Convertește tabel la text</translation>
+        <translation>Convertește tabelul la text</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
         <comment>TxVersion_TextToTable</comment>
-        <translation>Convertește text la tabel</translation>
+        <translation>Convertește textul la tabel</translation>
     </message>
     <message>
         <source>[Disabled]</source>
@@ -5768,8 +5769,8 @@ document</translation>
         <source>Track 
 Changes</source>
         <comment>TXShell_TrackChanges_Caption</comment>
-        <translation>Urmărire 
-modificări</translation>
+        <translation>Urmărește 
+modificările</translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
@@ -5931,7 +5932,7 @@ ortografică</translation>
     <message>
         <source>Demote to Body Text</source>
         <comment>TxVersion_DemoteToLowestLevel</comment>
-        <translation>Retrogradează la corpul textului</translation>
+        <translation>Retrogradează la corp text</translation>
     </message>
     <message>
         <source>Change Outline Level</source>

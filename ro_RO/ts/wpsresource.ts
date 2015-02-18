@@ -542,7 +542,7 @@
     </message>
     <message>
         <source>Fill Effects</source>
-        <translation>Umple cu efecte</translation>
+        <translation>Umple efecte</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -722,7 +722,7 @@
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation>Configurează forme automate implicite</translation>
+        <translation>Configurează forma automată implicită</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
@@ -1293,7 +1293,7 @@
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Modifică poza</translation>
+        <translation>Schimbă poza</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1373,7 +1373,7 @@
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>Spălare</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -1621,7 +1621,7 @@
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation>Introduceți Hyperlink</translation>
+        <translation>Introdu Hyperlink</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -1882,7 +1882,7 @@
     <name>classics.word_art</name>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arc în jos (curbat)</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
@@ -2078,7 +2078,7 @@
     </message>
     <message>
         <source>Stop</source>
-        <translation>Oprit</translation>
+        <translation>Oprire</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -2144,7 +2144,7 @@
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>Aceleași înălțimi Cuvinte stilizate</translation>
+        <translation>Cuvânt stilizat aceiași înălțime litere</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
@@ -2152,7 +2152,7 @@
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>Text vertical Cuvânt stilizat</translation>
+        <translation>Cuvânt stilizat text vertical</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -3065,7 +3065,7 @@ text</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS recuperare date Master</translation>
     </message>
     <message>
         <source>WPS Forum</source>
@@ -3196,8 +3196,8 @@ următor</translation>
     <message>
         <source>Page
 Number</source>
-        <translation>Pagină
-număr</translation>
+        <translation>Număr
+pagină</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -3546,7 +3546,7 @@ formatare</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Selectare tot</translation>
+        <translation>Selectează tot</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -3668,11 +3668,11 @@ formatare</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation>Diagramă</translation>
+        <translation>Grafic</translation>
     </message>
     <message>
         <source>Check Box Form Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Casetă validare câmp formular</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -4947,8 +4947,8 @@ poză</translation>
     <message>
         <source>Selection
 Pane</source>
-        <translation>Panou
-selecție</translation>
+        <translation>Panoul
+de selecție</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -5110,7 +5110,7 @@ Pornit/Oprit</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>Spălare</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -5437,11 +5437,12 @@ nou</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmărește
+modificările</translation>
     </message>
     <message>
         <source>Tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmărire</translation>
     </message>
     <message>
         <source>Use Balloons</source>
@@ -5450,7 +5451,8 @@ Changes</source>
     <message>
         <source>Word
 Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr
+de cuvinte</translation>
     </message>
     <message>
         <source>horzReviewPane</source>
@@ -5480,12 +5482,12 @@ pagină</translation>
     <message>
         <source>Cover
 Pages</source>
-        <translation>Acoperă
+        <translation>Copertă
 pagini</translation>
     </message>
     <message>
         <source>Cover and TOC</source>
-        <translation>Acoperă și TOC</translation>
+        <translation>Copertă și TOC</translation>
     </message>
     <message>
         <source>Delete
@@ -5582,14 +5584,14 @@ subsol</translation>
     <message>
         <source>Page
 Number</source>
-        <translation>Pagină
-număr</translation>
+        <translation>Număr
+pagină</translation>
     </message>
     <message>
         <source>Page Number
 Format</source>
-        <translation>Număr pagină
-Format</translation>
+        <translation>Format număr
+pagină</translation>
     </message>
     <message>
         <source>Page Number Start</source>
@@ -7283,7 +7285,7 @@ caractere</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Oprit</translation>
+        <translation>Oprire</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
@@ -7418,7 +7420,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Roaming fișier</translation>
     </message>
     <message>
         <source>Guide</source>
@@ -7458,7 +7460,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Salvează în norul document</translation>
+        <translation>Salvează în norul documentelor</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -7791,7 +7793,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Center Tab</source>
-        <translation>Centrare filă</translation>
+        <translation>Fila din centru</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -7819,7 +7821,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation>Diagramă</translation>
+        <translation>Grafic</translation>
     </message>
     <message>
         <source>Check Spelling As You Type</source>
@@ -7915,7 +7917,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
-        <translation>Covertește textul la tabel</translation>
+        <translation>Convertește textul la tabel</translation>
     </message>
     <message>
         <source>Convert to Endnote</source>
@@ -7991,7 +7993,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
-        <translation>Filă zecimală</translation>
+        <translation>Fila zecimalei</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -8320,7 +8322,7 @@ formatare</translation>
     </message>
     <message>
         <source>Hanging Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Agățare indentare</translation>
     </message>
     <message>
         <source>Header Center</source>
@@ -8440,7 +8442,7 @@ formatare</translation>
     </message>
     <message>
         <source>Left Tab</source>
-        <translation>Fila stângă</translation>
+        <translation>Fila stânga</translation>
     </message>
     <message>
         <source>Line Effects</source>
@@ -8480,7 +8482,7 @@ formatare</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation>Macrocomandă</translation>
+        <translation>Macrocomenzi</translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
@@ -8628,7 +8630,7 @@ formatare</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation>Deschide cale</translation>
+        <translation>Deschide calea</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
@@ -8820,7 +8822,7 @@ formatare</translation>
     </message>
     <message>
         <source>Right Tab</source>
-        <translation>Fila dreaptă</translation>
+        <translation>Fila dreapta</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -8868,7 +8870,7 @@ formatare</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Salvează în norul document</translation>
+        <translation>Salvează în norul documentelor</translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -8920,7 +8922,7 @@ formatare</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation>Configurează forme automate implicite</translation>
+        <translation>Configurează forma automată implicită</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -10197,7 +10199,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS recuperare date Master</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
@@ -10638,7 +10640,7 @@ antet și subsol</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Selectare tot</translation>
+        <translation>Selectează tot</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -10760,11 +10762,11 @@ antet și subsol</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation>Diagramă</translation>
+        <translation>Grafic</translation>
     </message>
     <message>
         <source>Check Box Form Field</source>
-        <translation>Casetă validare formă câmp</translation>
+        <translation>Casetă validare câmp formular</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -11215,11 +11217,11 @@ Date combinate</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Aliniere dedesubt</translation>
+        <translation>Aliniază dedesubt</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Aliniere la centru</translation>
+        <translation>Aliniază la centru</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -11235,7 +11237,7 @@ Date combinate</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Aliniere sus</translation>
+        <translation>Aliniază sus</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -11528,7 +11530,8 @@ Date combinate</translation>
     <message>
         <source>Wrap
 Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Încadrare
+text</translation>
     </message>
 </context>
 <context>
@@ -11738,7 +11741,7 @@ Text</source>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Comprimă poza</translation>
+        <translation>Comprimă pozele</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -12126,7 +12129,7 @@ Text</source>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>Spălare</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -12433,7 +12436,7 @@ Text</source>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată toate revizuirile în linie</translation>
     </message>
     <message>
         <source>Show Author</source>
@@ -12500,11 +12503,12 @@ Text</source>
     </message>
     <message>
         <source>Cover Pages</source>
-        <translation>Acoperă pagini</translation>
+        <translation>Copertă
+pagini</translation>
     </message>
     <message>
         <source>Cover and TOC</source>
-        <translation>Acoperă și TOC</translation>
+        <translation>Copertă și TOC</translation>
     </message>
     <message>
         <source>Delete Section</source>
@@ -13972,7 +13976,7 @@ umbră</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation>În linie cu text</translation>
+        <translation>În linie cu textul</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -14227,7 +14231,7 @@ umbră</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>Text vertical Cuvânt stilizat</translation>
+        <translation>Cuvânt stilizat text vertical</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -14267,7 +14271,7 @@ umbră</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Roaming fișier</translation>
     </message>
     <message>
         <source>Help</source>
@@ -14417,7 +14421,7 @@ umbră</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Roaming fișier</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -15094,7 +15098,7 @@ Directly</source>
     </message>
     <message>
         <source>Select All</source>
-        <translation>Selectare tot</translation>
+        <translation>Selectează tot</translation>
     </message>
     <message>
         <source>Selection Pane</source>
@@ -15102,7 +15106,7 @@ Directly</source>
     </message>
     <message>
         <source>Set Language</source>
-        <translation>Configurare limbă</translation>
+        <translation>Configurează limba</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -15206,7 +15210,7 @@ Directly</source>
     </message>
     <message>
         <source>Text Wrapping Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Întrerupere încadrare text</translation>
     </message>
     <message>
         <source>Toggle Field Codes</source>
@@ -15254,7 +15258,7 @@ Directly</source>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS recuperare date Master</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -15439,7 +15443,7 @@ Directly</source>
     </message>
     <message>
         <source>Section</source>
-        <translation>Secţiune</translation>
+        <translation>Secțiune</translation>
     </message>
     <message>
         <source>Section Navigation</source>
@@ -15655,7 +15659,7 @@ Directly</source>
     </message>
     <message>
         <source>Section</source>
-        <translation>Secţiune</translation>
+        <translation>Secțiune</translation>
     </message>
     <message>
         <source>Section Navigation</source>
