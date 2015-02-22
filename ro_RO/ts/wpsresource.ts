@@ -1812,7 +1812,7 @@
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>Mai multe culori de linie</translation>
+        <translation>Mai multe culori linie</translation>
     </message>
     <message>
         <source>Rows Above</source>
@@ -2244,7 +2244,7 @@ Stilul tabelului</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>Mai multe culori de linie</translation>
+        <translation type="unfinished">Mai multe culori linie</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -4858,7 +4858,7 @@ pozele</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>Mai multe culori de linie</translation>
+        <translation>Mai multe culori linie</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -8770,7 +8770,7 @@ formatare</translation>
     </message>
     <message>
         <source>Reject Insertion</source>
-        <translation>Respinge inserția</translation>
+        <translation>Respinge introducerea</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -9437,7 +9437,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>Mai multe culori de linie</translation>
+        <translation>Mai multe culori linie</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -10219,7 +10219,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation>WPS Office funcții noi</translation>
+        <translation>Funcții noi WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
@@ -11885,7 +11885,7 @@ text</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>Mai multe culori de linie</translation>
+        <translation>Mai multe culori linie</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -11941,7 +11941,7 @@ text</translation>
     </message>
     <message>
         <source>Picture Styles</source>
-        <translation>Stil poză</translation>
+        <translation>Stiluri poză</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -12983,7 +12983,7 @@ pagini</translation>
     <name>rainbow.ct_tabletools</name>
     <message>
         <source>Adjust</source>
-        <translation>Ajustare</translation>
+        <translation>Ajustează</translation>
     </message>
     <message>
         <source>Align Bottom Center</source>
@@ -15057,7 +15057,7 @@ Directly</source>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Anulează</translation>
+        <translation>Refă</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -15186,7 +15186,7 @@ Directly</source>
     </message>
     <message>
         <source>Table Cells</source>
-        <translation>Tabel celule</translation>
+        <translation>Celule tabel</translation>
     </message>
     <message>
         <source>Table Style</source>

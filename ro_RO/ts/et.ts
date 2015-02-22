@@ -1344,7 +1344,7 @@ condiția este adevărată:</translation>
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation>Nu puteți creea un tabel pivot cu aceste date. Verificați dacă datele pe care doriți să le analizați îndeplinesc următoarele condiții:
+        <translation>Nu puteți crea un tabel pivot cu aceste date. Verificați dacă datele pe care doriți să le analizați îndeplinesc următoarele condiții:
 1.Asigurați-vă că referința există. dacă este un nume, trebuie să fie un interval valid;
 2.Asigurați-vă că referința este un singur interval și că trebuie să conțină cel puțin două rânduri;
 3.Asigurați-vă că primul rând al intervalului de referință nu conține nici o celulă goală, erori valoare,iar fiecare celulă nu conține mai mult de 255 caractere.</translation>
@@ -1371,11 +1371,11 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation>Nu puteți creea un tabel pivot cu aceste date. Verificați dacă intervalul referinței este valid și dacă foaia de lucru există.</translation>
+        <translation>Nu puteți crea un tabel pivot cu aceste date. Verificați dacă intervalul referinței este valid și dacă foaia de lucru există.</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation>Tipul conexiunii selectate nu poate fi utilizat pentru creearea unui tabel pivot.</translation>
+        <translation>Tipul conexiunii selectate nu poate fi utilizat pentru crearea unui tabel pivot.</translation>
     </message>
 </context>
 <context>
@@ -1465,7 +1465,7 @@ condiția este adevărată:</translation>
 
 To replace existing picture, press OK.
 To keep existing picture, press Cancel.</source>
-        <translation>Numai o poză poate fi inserată în fiecare secțiune a %1.
+        <translation>Numai o poză poate fi introdusă în fiecare secțiune a %1.
 
 Pentru a înlocui poza existentă, apăsați OK.
 Pentru a păstra poza existentă, apăsați Anulează.</translation>
@@ -1956,11 +1956,11 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <name>KxDlgCreateNames</name>
     <message>
         <source>Create Names</source>
-        <translation>Crează nume</translation>
+        <translation>Creează nume</translation>
     </message>
     <message>
         <source>Create names in</source>
-        <translation>Crează nume în</translation>
+        <translation>Creează nume în</translation>
     </message>
     <message>
         <source>&amp;Top row</source>
@@ -2023,13 +2023,13 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
 box, then choose the appropriate button.</source>
-        <translation>Pentru a insera un număr de pagină, dată, oră, nume fișier: poziționați punctul de inserare în caseta de editare,
+        <translation>Pentru a introduce un număr de pagină, dată, oră, nume fișier: poziționați punctul de introducere în caseta de editare,
 apoi alegeți butonul corespunzător.</translation>
     </message>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation>Pentru a introduce o poză: apăsați butonul Inserare poză. Pentru a formata poza, plasați cursorul
+        <translation>Pentru a introduce o poză: apăsați butonul Introducere poză. Pentru a formata poza, plasați cursorul
 în caseta editare și apăsați butonul Formatare poză.</translation>
     </message>
     <message>
@@ -2214,11 +2214,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Insert &amp;cells for new data, delete unused cells</source>
-        <translation>Inserează &amp;celule pentru date noi, șterge celulele neutilizate</translation>
+        <translation>Introdu &amp;celule pentru date noi, șterge celulele neutilizate</translation>
     </message>
     <message>
         <source>Insert entire ro&amp;ws for new data, clear unused cells</source>
-        <translation>Inserează râ&amp;nduri întregi pentru date noi, curăță celulele neutilizate</translation>
+        <translation>Introdu râ&amp;nduri întregi pentru date noi, curăță celulele neutilizate</translation>
     </message>
     <message>
         <source>&amp;Overwrite existing cells with new data, clear unused cells</source>
@@ -2260,7 +2260,7 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgErrorCheck</name>
     <message>
         <source>Error Checking</source>
-        <translation>Verificare erori</translation>
+        <translation>Verificare eroare</translation>
     </message>
     <message>
         <source>Cell ? Error</source>
@@ -2349,7 +2349,7 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgFillAcross</name>
     <message>
         <source>Fill Across Worksheets</source>
-        <translation>Completați peste foile de lucru</translation>
+        <translation>Umpleți peste foile de lucru</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -3114,7 +3114,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert Sheet</source>
-        <translation>Inserează foaie</translation>
+        <translation>Introdu foaie</translation>
     </message>
 </context>
 <context>
@@ -3129,7 +3129,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Create a copy</source>
-        <translation>&amp;Crează o copie</translation>
+        <translation>&amp;Creează o copie</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
@@ -3621,11 +3621,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>Eroare verificare</translation>
+        <translation>Verificare eroare</translation>
     </message>
     <message>
         <source>Enable &amp;background error checking</source>
-        <translation>Activează verificarea erorilor în &amp;fundal</translation>
+        <translation>Activează verificare eroare în &amp;fundal</translation>
     </message>
     <message>
         <source>Rules</source>
@@ -3861,7 +3861,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
-        <translation>Click-dublu pe spațiul liber pentru a creea un document &amp;nou</translation>
+        <translation>Click-dublu pe spațiul liber pentru a crea un document &amp;nou</translation>
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
@@ -4234,7 +4234,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Insert blank line after each item</source>
-        <translation>&amp;Inserează linie goală după fiecare element</translation>
+        <translation>&amp;Introdu linie goală după fiecare element</translation>
     </message>
     <message>
         <source>Insert &amp;page break after each item</source>
@@ -4537,7 +4537,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Insert hyperlinks</source>
-        <translation>Inserează hyperlink-uri</translation>
+        <translation>Introdu hyperlink-uri</translation>
     </message>
     <message>
         <source>Delete columns</source>
@@ -4736,7 +4736,7 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     <name>KxDlgRevisionHighlightChanges</name>
     <message>
         <source>Highlight Changes</source>
-        <translation>Subliniază modificările</translation>
+        <translation>Evidențiază modificările</translation>
     </message>
     <message>
         <source>&amp;Show track changes description.</source>
@@ -4794,7 +4794,7 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     <name>KxDlgSeries</name>
     <message>
         <source>Series</source>
-        <translation>Serie</translation>
+        <translation>Serii</translation>
     </message>
     <message>
         <source>Series in</source>
@@ -5342,7 +5342,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>To CREATE a break line, click at the desired position.</source>
-        <translation>Pentru a CREEA o linie întreruptă, apăsați la poziția dorită.</translation>
+        <translation>Pentru a CREA o linie întreruptă, apăsați la poziția dorită.</translation>
     </message>
     <message>
         <source>To DELETE a break line, double click on the line.</source>
@@ -6206,7 +6206,7 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     <name>KxEtSmartLabelAutoFill</name>
     <message>
         <source>Auto Fill Options</source>
-        <translation>Completare automată opțiuni</translation>
+        <translation>Opțiuni umplere automată</translation>
     </message>
     <message>
         <source>&amp;Copy Cells</source>
@@ -7570,7 +7570,7 @@ on iteration #%2.</source>
 To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <translation>Numele câmpului tabelului pivot nu este valid. 
-Pentru a creea un raport tabel pivot, trebuie să utilizați datele care sunt organizate ca o listă cu coloane etichetate. 
+Pentru a crea un raport tabel pivot, trebuie să utilizați datele care sunt organizate ca o listă cu coloane etichetate. 
 Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un nume nou pentru câmp.</translation>
     </message>
     <message>
@@ -8411,7 +8411,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Merge cells</source>
-        <translation>&amp;Combină celule</translation>
+        <translation>&amp;Combină celulele</translation>
     </message>
     <message>
         <source>Text alignment</source>
@@ -9632,7 +9632,7 @@ t</translation>
     </message>
     <message>
         <source>Create a linearity report to see where the problem is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Creați un raport liniar pentru a vedea unde este problema.</translation>
     </message>
     <message>
         <source>The problem is too large for Solver to handle.</source>
@@ -10055,7 +10055,7 @@ t</translation>
     </message>
     <message>
         <source>Use * to represent any series of characters</source>
-        <translation>Utilizează * pentru a reprezenta orice serie de caractere</translation>
+        <translation>Utilizează * pentru a reprezenta orice serii de caractere</translation>
     </message>
 </context>
 <context>
@@ -10237,7 +10237,7 @@ t</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation>Export opțiuni</translation>
+        <translation>Opțiuni export</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>

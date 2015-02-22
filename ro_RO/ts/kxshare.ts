@@ -1806,7 +1806,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgFillEffects</name>
     <message>
         <source>Fill Effects</source>
-        <translation>Umple efecte</translation>
+        <translation>Efecte de umplere</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -1850,7 +1850,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Dar&amp;k</source>
-        <translation>Înt&amp;uneric</translation>
+        <translation>Întune&amp;cat</translation>
     </message>
     <message>
         <source>Light</source>
@@ -2133,11 +2133,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create &amp;new</source>
-        <translation>Crează &amp;nou</translation>
+        <translation>Creează &amp;nou</translation>
     </message>
     <message>
         <source>Create from &amp;file</source>
-        <translation>Crează din &amp;fișier</translation>
+        <translation>Creează din &amp;fișier</translation>
     </message>
     <message>
         <source>Object &amp;type:</source>
@@ -2776,7 +2776,7 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation>Urmează schema culoare umplere</translation>
+        <translation>Urmează umplerile schemei de culoare</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
@@ -2999,15 +2999,15 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a shortcut to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului în documentul dumneavoastră și creați o scurtătură la fișierul sursă. Modificările fișierului sursă vor fi reflectate în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a link to the source file. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului în documentul dumneavoastră și creați un link la fișierul sursă. Modificările fișierului sursă vor fi reflectate în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it. It will be displayed as an icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului ca un obiect în prezentarea dumneavoastră astfel îl puteți activa utilizând aplicația care l-a creat. Va fi afișat ca o pictogramă.</translation>
     </message>
     <message>
         <source>Inserts an icon that represents the contents of the file into your document.</source>
@@ -3015,11 +3015,11 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului ca un obiect în prezentarea dumneavoastră astfel îl puteți activa utilizând aplicația care l-a creat.</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document so that you can edit it later using the application which created the source file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți conținutul fișierului în documentul dumneavoastră astfel îl puteți edita mai târziu utilizând aplicația care a creat fișierul sursă.</translation>
     </message>
     <message>
         <source>File</source>
@@ -4404,7 +4404,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation>Nou din șabloanele implicite</translation>
+        <translation>Nou din șablon implicit</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -4412,7 +4412,7 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>From Design Templates</source>
-        <translation>Din șabloanele proiect</translation>
+        <translation>Din șabloanele proiectare</translation>
     </message>
     <message>
         <source>Management</source>
@@ -4477,7 +4477,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation>Nou din șabloanele implicite</translation>
+        <translation>Nou din șablon implicit</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -4485,7 +4485,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>From Design Templates</source>
-        <translation>Din șabloanele proiect</translation>
+        <translation>Din șabloanele proiectare</translation>
     </message>
     <message>
         <source>Management</source>
@@ -4873,7 +4873,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Create new</source>
-        <translation>Crează nou</translation>
+        <translation>Creează nou</translation>
     </message>
     <message>
         <source>Do&amp;cument</source>

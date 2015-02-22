@@ -2549,7 +2549,7 @@ If you are trying to open the file from your recently used file list on the File
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>_TxDocument_SaveFailure</comment>
-        <translation>WPS Writer nu poate salva sau creea acest fișier.
+        <translation>WPS Writer nu poate salva sau crea acest fișier.
 Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țintă nu este plin sau deteriorat.
 (%s)</translation>
     </message>
@@ -3412,7 +3412,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>&amp;More Line Colors...</source>
         <comment>wps_sMoreLineColors</comment>
-        <translation>&amp;Mai multe culori de linie...</translation>
+        <translation>&amp;Mai multe culori linie...</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3427,7 +3427,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>Nex&amp;t</source>
         <comment>wps_sNext</comment>
-        <translation>Urmă&amp;torul</translation>
+        <translation>Urmă&amp;tor</translation>
     </message>
     <message>
         <source>Next Bookmark</source>
@@ -3947,7 +3947,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>There are too many characters in the selection.</source>
         <comment>wps_sTooManyCharsInSelection</comment>
-        <translation>Sunt prea multe caractere în secțiune.</translation>
+        <translation type="unfinished">Sunt prea multe caractere în selecție.</translation>
     </message>
     <message>
         <source>top/bottom</source>
@@ -4713,7 +4713,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxCaption_NewFromDefaultTemplate</comment>
-        <translation>Nou din șabloanele implicite</translation>
+        <translation>Nou din șablon implicit</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -4723,7 +4723,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxCaption_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation>Nou din șabloanele implicite</translation>
+        <translation>Nou din șablon implicit</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -4733,7 +4733,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxTooltip_NewFromDefaultTemplate</comment>
-        <translation>Nou din șabloanele implicite</translation>
+        <translation>Nou din șablon implicit</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -4743,7 +4743,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxTooltip_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation>Nou din șabloanele implicite</translation>
+        <translation>Nou din șablon implicit</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -5228,7 +5228,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert Picture</source>
         <comment>TxVersion_InsPicture</comment>
-        <translation type="unfinished">Introduceți poză</translation>
+        <translation>Introduceți poză</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -5283,7 +5283,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Merge Cells</source>
         <comment>TxVersion_MergeCells</comment>
-        <translation>Combină celule</translation>
+        <translation>Combină celulele</translation>
     </message>
     <message>
         <source>Repeat Heading</source>

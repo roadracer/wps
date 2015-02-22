@@ -3486,7 +3486,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Introdu</translation>
     </message>
     <message>
         <source>S&amp;quare Bracket Format:</source>
@@ -3544,83 +3544,83 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgGenkoSetting</name>
     <message>
         <source>Genko Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurare Genko</translation>
     </message>
     <message>
         <source>En&amp;able Genko Grid Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Ac&amp;tivează liniile de grilă Genko</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stil:</translation>
     </message>
     <message>
         <source>10 x 20 (200 Words)</source>
-        <translation type="unfinished"></translation>
+        <translation>10 x 20 (200 Cuvinte)</translation>
     </message>
     <message>
         <source>15 x 20 (300 Words)</source>
-        <translation type="unfinished"></translation>
+        <translation>15 x 20 (300 Cuvinte)</translation>
     </message>
     <message>
         <source>20 x 20 (400 Words)</source>
-        <translation type="unfinished"></translation>
+        <translation>20 x 20 (400 Cuvinte)</translation>
     </message>
     <message>
         <source>20 x 25 (500 Words)</source>
-        <translation type="unfinished"></translation>
+        <translation>20 x 25 (500 Cuvinte)</translation>
     </message>
     <message>
         <source>&amp;Grid:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Grilă:</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Grilă</translation>
     </message>
     <message>
         <source>UnderLine</source>
-        <translation type="unfinished"></translation>
+        <translation>Subliniat</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Chenar</translation>
     </message>
     <message>
         <source>Grid &amp;color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Culoare grilă:</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagină</translation>
     </message>
     <message>
         <source>Paper si&amp;ze:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiu&amp;ne hârtie:</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientare</translation>
     </message>
     <message>
         <source>Por&amp;trait</source>
-        <translation type="unfinished"></translation>
+        <translation>Po&amp;rtret</translation>
     </message>
     <message>
         <source>&amp;Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Peisaj</translation>
     </message>
     <message>
         <source>Line break</source>
-        <translation type="unfinished"></translation>
+        <translation>Întrerupere linie</translation>
     </message>
     <message>
         <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Utilizați regulile asiatice pentru controlul primelor și ultimelor caractere</translation>
     </message>
     <message>
         <source>Allow ha&amp;nging punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite ag&amp;ățarea punctuației</translation>
     </message>
 </context>
 <context>
@@ -3631,11 +3631,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bara de &amp;stare</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nimic</translation>
     </message>
     <message>
         <source>&amp;Type your own:</source>
@@ -3643,7 +3643,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Help &amp;Key(F1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajutor &amp;tasta (F1)</translation>
     </message>
 </context>
 <context>
@@ -3698,7 +3698,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>A&amp;lways display in front</source>
-        <translation type="unfinished"></translation>
+        <translation>Î&amp;ntotdeauna afișează în față</translation>
     </message>
     <message>
         <source>Surround &amp;header</source>
@@ -3713,23 +3713,23 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgInsertCells</name>
     <message>
         <source>Insert Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu celule</translation>
     </message>
     <message>
         <source>Shift cells r&amp;ight</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă celulele la d&amp;reapta</translation>
     </message>
     <message>
         <source>Shift cells &amp;down</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă celulele în &amp;jos</translation>
     </message>
     <message>
         <source>Insert entire &amp;row</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu &amp;rândul întreg</translation>
     </message>
     <message>
         <source>Insert entire &amp;column</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu &amp;coloana întreagă</translation>
     </message>
 </context>
 <context>
@@ -3976,7 +3976,7 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgMatchFields</name>
     <message>
         <source>Match Fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește câmpurile</translation>
     </message>
     <message>
         <source>Use the drop-down lists to choose the field from your database that corresponds to the address information Mail Merge expects (listed on the left.)</source>
@@ -4000,7 +4000,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"></translation>
+        <translation>Companie</translation>
     </message>
     <message>
         <source>Address 1</source>
@@ -4008,15 +4008,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>Oraș</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Stat</translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation type="unfinished"></translation>
+        <translation>Cod poștal</translation>
     </message>
     <message>
         <source>Spouse first name</source>
@@ -4115,39 +4115,39 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgMergeCompare</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Field&amp;s</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmpur&amp;i</translation>
     </message>
     <message>
         <source>&amp;Original document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document &amp;original</translation>
     </message>
     <message>
         <source>&amp;Revised document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document &amp;revizuit</translation>
     </message>
     <message>
         <source>Comparison settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări comparare</translation>
     </message>
     <message>
         <source>Insertions and Deletions</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceri și ștergeri</translation>
     </message>
     <message>
         <source>T&amp;ables</source>
-        <translation type="unfinished"></translation>
+        <translation>T&amp;abele</translation>
     </message>
     <message>
         <source>Comme&amp;nts</source>
-        <translation type="unfinished"></translation>
+        <translation>Come&amp;ntarii</translation>
     </message>
     <message>
         <source>Footnotes and en&amp;dnotes</source>
@@ -4183,11 +4183,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Original documen&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Documen&amp;t original</translation>
     </message>
     <message>
         <source>&amp;Word level</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivel &amp;cuvânt</translation>
     </message>
     <message>
         <source>Rev&amp;ised document</source>
@@ -4195,7 +4195,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>New doc&amp;ument</source>
-        <translation type="unfinished"></translation>
+        <translation>Doc&amp;ument nou</translation>
     </message>
 </context>
 <context>
@@ -4261,11 +4261,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Message options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni mesaj</translation>
     </message>
     <message>
         <source>T&amp;o:</source>
-        <translation type="unfinished"></translation>
+        <translation>L&amp;a:</translation>
     </message>
     <message>
         <source>cbxMessageTo</source>
@@ -4273,7 +4273,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Subject line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie &amp;subiect:</translation>
     </message>
     <message>
         <source>edSubjectLine</source>
@@ -4289,11 +4289,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Pure text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text simplu</translation>
     </message>
     <message>
         <source>Send records</source>
-        <translation type="unfinished"></translation>
+        <translation>Trimite înregistrările</translation>
     </message>
     <message>
         <source>rbAll</source>
@@ -4301,7 +4301,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tot</translation>
     </message>
     <message>
         <source>rbCurrentRecord</source>
@@ -4309,7 +4309,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Curr&amp;ent record</source>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrarea cur&amp;entă</translation>
     </message>
     <message>
         <source>rbFromto</source>
@@ -4317,7 +4317,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;From:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;De la:</translation>
     </message>
     <message>
         <source>edFrom</source>
@@ -4325,7 +4325,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;To:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;La:</translation>
     </message>
     <message>
         <source>edTo</source>
@@ -4333,89 +4333,89 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Atașament</translation>
     </message>
 </context>
 <context>
     <name>KxDlgMergeToNewDocOrPrinter</name>
     <message>
         <source>Merge records</source>
-        <translation type="unfinished"></translation>
+        <translation>Combină înregistrările</translation>
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tot</translation>
     </message>
     <message>
         <source>Curr&amp;ent record</source>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrarea cur&amp;entă</translation>
     </message>
     <message>
         <source>&amp;From:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;De la:</translation>
     </message>
     <message>
         <source>&amp;to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;la:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgModifyStyle</name>
     <message>
         <source>Modify Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifică stil</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprietăți</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nume:</translation>
     </message>
     <message>
         <source>Style &amp;type:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tip stil:</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Caracter</translation>
     </message>
     <message>
         <source>Style &amp;based on:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil &amp;bazat pe:</translation>
     </message>
     <message>
         <source>&amp;Style for following paragraph:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stil pentru următorul paragraf:</translation>
     </message>
     <message>
         <source>Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatare</translation>
     </message>
     <message>
         <source>(All scripts)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Toate scripturile)</translation>
     </message>
     <message>
         <source>Latin</source>
-        <translation type="unfinished"></translation>
+        <translation>Latin</translation>
     </message>
     <message>
         <source>Asian</source>
-        <translation type="unfinished"></translation>
+        <translation>Asiatic</translation>
     </message>
     <message>
         <source>&amp;Add to template</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adaugă la șablon</translation>
     </message>
     <message>
         <source>F&amp;ormat</source>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;ormat</translation>
     </message>
 </context>
 <context>
@@ -4426,18 +4426,18 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Merge selected cells</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Combină celulele selectate</translation>
     </message>
 </context>
 <context>
     <name>KxDlgNewLabel</name>
     <message>
         <source>New Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetă nouă</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Etichetă:</translation>
     </message>
 </context>
 <context>
@@ -5363,7 +5363,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Display the tab bar at the bottom of doc&amp;ument</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Display the &amp;Close button in the active tab</source>
@@ -5383,7 +5383,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Max U&amp;ndo/Redo:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxim a&amp;nulări/refaceri:</translation>
     </message>
     <message>
         <source>Steps(Need restart program)</source>
@@ -5435,7 +5435,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Insert/paste pictures as(&amp;Z):</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu/lipește pozele ca(&amp;Z):</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -5543,11 +5543,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -5571,7 +5571,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Create &amp;backup files on first save</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Reminder for embedding &amp;cloud fonts in the file</source>
@@ -5583,11 +5583,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -5599,7 +5599,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>File encryption options for this document:</source>
@@ -6589,34 +6589,34 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgProtectDocument</name>
     <message>
         <source>Start Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornește protecția</translation>
     </message>
     <message>
         <source>Protection password</source>
-        <translation type="unfinished"></translation>
+        <translation>Parolă protecție</translation>
     </message>
     <message>
         <source>The document is not encrypted. Malicious users can edit the file and remove the password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentul nu este codificat. Utilizatorii rău intenționat pot edita fișierul și elimina parola.</translation>
     </message>
     <message>
         <source>&amp;Enter new password(optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduc&amp;eți parola nouă(facultativ):</translation>
     </message>
     <message>
         <source>Reenter &amp;password to confirm:</source>
-        <translation type="unfinished"></translation>
+        <translation>Reintroduceți &amp;parola pentru confirmare:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSectionProtect</name>
     <message>
         <source>Section Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Protecție secțiune</translation>
     </message>
     <message>
         <source>Protected &amp;Sections:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Secțiuni protejate:</translation>
     </message>
     <message>
         <source>Checked sections will be protected when the document is protected for Forms.</source>
@@ -6627,168 +6627,168 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgSpiltCells</name>
     <message>
         <source>Split Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Desparte celule</translation>
     </message>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr de &amp;coloane:</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr de &amp;rânduri:</translation>
     </message>
     <message>
         <source>&amp;Merge cells before split</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Combină celulele înaintea despărțirii</translation>
     </message>
 </context>
 <context>
     <name>KxDlgStyleShortCutBind</name>
     <message>
         <source>ShortCut Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastă scurtătură</translation>
     </message>
     <message>
         <source>Press key</source>
-        <translation type="unfinished"></translation>
+        <translation>Apasă tasta</translation>
     </message>
     <message>
         <source>ShortCut key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastă scurtătură:</translation>
     </message>
     <message>
         <source>Assign</source>
-        <translation type="unfinished"></translation>
+        <translation>Atribuie</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
 </context>
 <context>
     <name>KxDlgTableOptions</name>
     <message>
         <source>Table Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni tabel</translation>
     </message>
     <message>
         <source>pt, -1, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>pct, -1, 0, 1584, 1</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dedesubt:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sus:</translation>
     </message>
     <message>
         <source>Allow &amp;spacing between cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite di&amp;stanțarea între celule</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dreapta:</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stânga:</translation>
     </message>
     <message>
         <source>Default cell margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Margini celulă implicite</translation>
     </message>
     <message>
         <source>Default cell spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Distanță celulă implicită</translation>
     </message>
 </context>
 <context>
     <name>KxDlgTablePositioning</name>
     <message>
         <source>Table Positioning</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziționare tabel</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Orizontal</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centru</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Înăuntru</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Afară</translation>
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Poziție absolută</translation>
     </message>
     <message>
         <source>pt, -2, -1584, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>pct, -2, -1584, 1584, 1</translation>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aliniament</translation>
     </message>
     <message>
         <source>Relati&amp;ve to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Relat&amp;v la:</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margine</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagină</translation>
     </message>
     <message>
         <source>Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloană</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>R&amp;elative to:</source>
-        <translation type="unfinished"></translation>
+        <translation>R&amp;elativ la:</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Sus</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Dedesubt</translation>
     </message>
     <message>
         <source>Absolute po&amp;sition</source>
-        <translation type="unfinished"></translation>
+        <translation>Po&amp;ziție absolută</translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Al&amp;iniament</translation>
     </message>
     <message>
         <source>Distance from surrounding text</source>
@@ -6796,31 +6796,31 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>pt, -2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>pct, -2, 0, 1584, 1</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dreapta:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dedesubt:</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stânga:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sus:</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni</translation>
     </message>
     <message>
         <source>&amp;Move with text</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mută cu text</translation>
     </message>
     <message>
         <source>Allow &amp;overlap</source>
@@ -6943,7 +6943,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Next Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Rând &amp;următor</translation>
     </message>
     <message>
         <source>Col&amp;umn</source>
@@ -6963,7 +6963,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Next Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloană &amp;următoare</translation>
     </message>
     <message>
         <source>C&amp;ell</source>
@@ -6991,7 +6991,7 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgTabs</name>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>File</translation>
     </message>
     <message>
         <source>&amp;Tab stop position:</source>
@@ -6999,15 +6999,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>ch, pt, 10.5, 0</source>
-        <translation type="unfinished"></translation>
+        <translation>ch, pct, 10.5, 0</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1538, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>pct, 2, 0, 1538, 1</translation>
     </message>
     <message>
         <source>ch, 2, 0, 150.86, 0.5</source>
-        <translation type="unfinished"></translation>
+        <translation>ch, 2, 0, 150.86, 0.5</translation>
     </message>
     <message>
         <source>De&amp;fault tab stops:</source>
@@ -7015,11 +7015,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>pt, 2, -1538, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation>pct, 2, -1538, 1584, 1</translation>
     </message>
     <message>
         <source>ch, 2, -150.86, 150.86, 0.5</source>
-        <translation type="unfinished"></translation>
+        <translation>ch, 2, -150.86, 150.86, 0.5</translation>
     </message>
     <message>
         <source>Tab stops to be cleared:</source>
@@ -7027,23 +7027,23 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniament</translation>
     </message>
     <message>
         <source>&amp;Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stânga</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Centru</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dreapta</translation>
     </message>
     <message>
         <source>Leader</source>
@@ -7051,54 +7051,54 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;1 None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;1 Nimic</translation>
     </message>
     <message>
         <source>&amp;2 .....</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;2 .....</translation>
     </message>
     <message>
         <source>&amp;3 ----</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;3 ----</translation>
     </message>
     <message>
         <source>&amp;4 ____</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;4 ____</translation>
     </message>
     <message>
         <source>&amp;5</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;5</translation>
     </message>
     <message>
         <source>&amp;Set</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cl&amp;ear</source>
-        <translation type="unfinished"></translation>
+        <translation>Cu&amp;răță</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță &amp;tot</translation>
     </message>
 </context>
 <context>
     <name>KxDlgTextDirection</name>
     <message>
         <source>Text direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direcție text</translation>
     </message>
     <message>
         <source>&amp;Orientation </source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Orientare </translation>
     </message>
     <message>
         <source>Preview </source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare </translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Apl&amp;ică la:</translation>
     </message>
 </context>
 <context>
@@ -7145,7 +7145,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Field settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări câmp</translation>
     </message>
     <message>
         <source>Add Help &amp;Text...</source>
@@ -7164,15 +7164,15 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgTwoLinesInOne</name>
     <message>
         <source>Two Lines in One</source>
-        <translation type="unfinished"></translation>
+        <translation>Două linii în una</translation>
     </message>
     <message>
         <source>&amp;Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Text:</translation>
     </message>
     <message>
         <source>&amp;Enclose in brackets:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Bracket style:</source>
@@ -7180,7 +7180,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimină</translation>
     </message>
 </context>
 <context>
@@ -7556,7 +7556,7 @@ Example: +4 will move forward four items:</source>
     <name>KxExpUserListPanel</name>
     <message>
         <source>&amp;Find Next Region This User Can Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Găsește regiunea următoare Acest utilizator poate edita</translation>
     </message>
     <message>
         <source>&amp;Show All Regions This User Can Edit</source>
@@ -7685,11 +7685,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagină</translation>
     </message>
     <message>
         <source>Insert the number of the current page</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți numărul paginii curente</translation>
     </message>
     <message>
         <source>THREE</source>
@@ -7705,7 +7705,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Insert the page number containing the specified bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți numărul paginii care conține semnul de carte specificat</translation>
     </message>
     <message>
         <source>Presume there are 10 pages in the section where this field is inserted. Field code:SECTIONPAGES</source>
@@ -7717,7 +7717,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Insert the total number of pages in the section</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu numărul total de pagini în secțiune</translation>
     </message>
     <message>
         <source>The display result of the first place. Field code:SEQ KGS</source>
@@ -7753,7 +7753,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Create a table of contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Creați un cuprins</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -7844,7 +7844,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Insert a picture from a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu o poză dintr-un fișier</translation>
     </message>
     <message>
         <source>[Picture]</source>
@@ -7867,11 +7867,11 @@ Example: +4 will move forward four items:</source>
     <name>KxFindReplaceDlg</name>
     <message>
         <source>Use wildcards</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizează metacaractere</translation>
     </message>
     <message>
         <source>Nex&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmă&amp;tor</translation>
     </message>
     <message>
         <source>Go &amp;To</source>
@@ -8285,7 +8285,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>(Use Asian text font)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
@@ -8305,11 +8305,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
@@ -8654,23 +8654,23 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxMailMergeTableDlg</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descriere</translation>
     </message>
     <message>
         <source>Modified Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Timpul modificării</translation>
     </message>
     <message>
         <source>Created Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Timpul creării</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip</translation>
     </message>
 </context>
 <context>
@@ -9271,7 +9271,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pașii maximi de anulări/refaceri trebuie să fie între %1 și %2.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
@@ -9603,11 +9603,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxSectionToolboxItemTitle</name>
     <message>
         <source>Insert Section Before</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți secțiunea înainte</translation>
     </message>
     <message>
         <source>Insert Section After</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți secțiunea după</translation>
     </message>
     <message>
         <source>Merge to Previous</source>
@@ -9645,26 +9645,26 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxSmartPageNumCommand</name>
     <message>
         <source>Delete page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge număr pagină</translation>
     </message>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți număr pagină</translation>
     </message>
     <message>
         <source>Modify page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifică număr pagină</translation>
     </message>
 </context>
 <context>
     <name>KxSmartPageNumMenuItemCommand</name>
     <message>
         <source>Delete Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge număr pagină</translation>
     </message>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți număr pagină</translation>
     </message>
 </context>
 <context>
@@ -9727,85 +9727,85 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTabsDlg</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tot</translation>
     </message>
 </context>
 <context>
     <name>KxTextDirectionDlg</name>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentul întreg</translation>
     </message>
     <message>
         <source>This point forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest punct înainte</translation>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text selectat</translation>
     </message>
     <message>
         <source>This section</source>
-        <translation type="unfinished"></translation>
+        <translation>Această secțiune</translation>
     </message>
     <message>
         <source>Selected sections</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiuni selectate</translation>
     </message>
     <message>
         <source>Text direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Direcție text</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurările pe care le-ați ales pentru marginile din stânga și dreapta,distanța coloanei, sau indentarea paragrafului sunt prea largi pentru lățimea paginii în unele secțiuni.</translation>
     </message>
 </context>
 <context>
     <name>KxTextFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>D&amp;efault text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Text i&amp;mplicit:</translation>
     </message>
     <message>
         <source>D&amp;efault Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr i&amp;mplicit:</translation>
     </message>
     <message>
         <source>D&amp;efault Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Data i&amp;mplicită:</translation>
     </message>
     <message>
         <source>D&amp;efault Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora i&amp;mplicită:</translation>
     </message>
     <message>
         <source>Text &amp;format:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Format text:</translation>
     </message>
     <message>
         <source>Number &amp;format:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Format număr:</translation>
     </message>
     <message>
         <source>Date &amp;Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Format dată:</translation>
     </message>
     <message>
         <source>Time &amp;Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Format oră:</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea de intrare trebuie să fie între %1 și %2.</translation>
     </message>
     <message>
         <source>Unlimited</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelimitat</translation>
     </message>
     <message>
         <source>The maximum length value must be equal to or greater than the length of the default text,%1 characters.</source>
@@ -9813,11 +9813,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele semnului de carte nu este valid.</translation>
     </message>
     <message>
         <source>What you entered contains formatting error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce ați introdus conține erori de formatare.</translation>
     </message>
 </context>
 <context>
@@ -9828,7 +9828,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări...</translation>
     </message>
     <message>
         <source>Set the protection way in the document</source>
@@ -9836,15 +9836,15 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Read-only</source>
-        <translation type="unfinished"></translation>
+        <translation>Doar-citire</translation>
     </message>
     <message>
         <source>Tracked changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificări urmărite</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarii</translation>
     </message>
     <message>
         <source>Filling in forms</source>
@@ -9860,38 +9860,38 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Start Protection...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornește protecția...</translation>
     </message>
     <message>
         <source>This document is protected from unintentional editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest document este protejat de editarea neintenționată.</translation>
     </message>
     <message>
         <source>Highlight the regions I can edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiază regiunea pe care o pot edita</translation>
     </message>
     <message>
         <source>Find Next Region I Can Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Găsește regiunea următoare pe care o pot edita</translation>
     </message>
     <message>
         <source>Show All Regions I Can Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată toate regiunile pe care le pot edita</translation>
     </message>
     <message>
         <source>Stop Protection...</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprește protecția...</translation>
     </message>
 </context>
 <context>
     <name>KxTpDocProtectionWidget</name>
     <message>
         <source>Select sections...</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectare secțiuni...</translation>
     </message>
     <message>
         <source>More users...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mulți utilizatori...</translation>
     </message>
     <message>
         <source>If you make this change in document protection, WPS Writer will ignore all the exceptions in this document.
@@ -9901,7 +9901,7 @@ Do you want to remove the ignored exceptions?</source>
     </message>
     <message>
         <source>Section </source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiune</translation>
     </message>
     <message>
         <source>You can prevent the document from being modified in Read-only way. However, you can set the region to allow editing.
@@ -9925,7 +9925,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>You may only view this region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Doar puteți vizualiza această regiune.</translation>
     </message>
     <message>
         <source>You may edit in this region,but all changes will be tracked.</source>
@@ -9933,7 +9933,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>You may only insert comments into this region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puteți numai să introduceți comentarii în această regiune.</translation>
     </message>
     <message>
         <source>You may only fill in forms in this region.</source>
@@ -9941,42 +9941,42 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>You may freely edit in this region.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puteți edita liber această regiune.</translation>
     </message>
     <message>
         <source>You may format text only with certain styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puteți formata textul numai cu anumite stiluri.</translation>
     </message>
     <message>
         <source>Everyone</source>
-        <translation type="unfinished"></translation>
+        <translation>Oricine</translation>
     </message>
     <message>
         <source>Administrators</source>
-        <translation type="unfinished"></translation>
+        <translation>Administratori</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Contribuitori</translation>
     </message>
     <message>
         <source>Users with full control</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizatori cu control deplin</translation>
     </message>
     <message>
         <source>Users with permission to change</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizatori cu permisiunea de a modifica</translation>
     </message>
     <message>
         <source>Current user</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizatorul curent</translation>
     </message>
 </context>
 <context>
     <name>KxTpStyeFormat</name>
     <message>
         <source>New Style...</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil nou...</translation>
     </message>
     <message>
         <source>Clear Format</source>
@@ -9984,15 +9984,15 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată:</translation>
     </message>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>De la</translation>
     </message>
     <message>
         <source>Formatting of selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatarea textului selectat</translation>
     </message>
     <message>
         <source>Pick formatting to apply</source>
@@ -10003,64 +10003,64 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxTpStyleFormatWidget</name>
     <message>
         <source>Valid styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiluri valide</translation>
     </message>
     <message>
         <source>All styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate stilurile</translation>
     </message>
 </context>
 <context>
     <name>KxTwoLinesInOneDlg</name>
     <message>
         <source>There are too many characters in the selection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunt prea multe caractere în selecție.</translation>
     </message>
 </context>
 <context>
     <name>KxUnProtectDocumentDlg</name>
     <message>
         <source>The password is incorrect!</source>
-        <translation type="unfinished"></translation>
+        <translation>Parola este incorectă!</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetLayout</name>
     <message>
         <source>Drawing Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenare grilă</translation>
     </message>
     <message>
         <source>Wrapping style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil încadrare</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;În linie cu textul</translation>
     </message>
     <message>
         <source>To&amp;p and bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Deasu&amp;pra și dedesubt</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;ătrat</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;În spatele textului</translation>
     </message>
     <message>
         <source>&amp;Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Strâns</translation>
     </message>
     <message>
         <source>In &amp;front of text</source>
-        <translation type="unfinished"></translation>
+        <translation>În &amp;fața textului</translation>
     </message>
     <message>
         <source>Horizontal alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniament orizontal</translation>
     </message>
     <message>
         <source>rbHorizontalLeft</source>
@@ -10068,7 +10068,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stânga</translation>
     </message>
     <message>
         <source>rbHorizontalCenter</source>
@@ -10076,7 +10076,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Centru</translation>
     </message>
     <message>
         <source>rbHorizontalRight</source>
@@ -10084,7 +10084,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dreapta</translation>
     </message>
     <message>
         <source>rbHorizontalOther</source>
@@ -10092,69 +10092,69 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Other</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Altele</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Avansat...</translation>
     </message>
 </context>
 <context>
     <name>KxWordCountDlgClass</name>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr de cuvinte</translation>
     </message>
     <message>
         <source>Statistics:</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistici:</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagini</translation>
     </message>
     <message>
         <source>Words</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuvinte</translation>
     </message>
     <message>
         <source>Paragraphs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragrafuri</translation>
     </message>
     <message>
         <source>Non-Asian words</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuvinte ne-asiatice</translation>
     </message>
     <message>
         <source>Asian characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Caractere asiatice</translation>
     </message>
     <message>
         <source>123</source>
-        <translation type="unfinished"></translation>
+        <translation>123</translation>
     </message>
     <message>
         <source>Include &amp;footnotes and endnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>Include &amp;note de subsol și note de final</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>Characters (no spaces)</source>
-        <translation type="unfinished"></translation>
+        <translation>Caractere (fără spații)</translation>
     </message>
     <message>
         <source>Characters (with spaces)</source>
-        <translation type="unfinished"></translation>
+        <translation>Caractere (cu spații)</translation>
     </message>
 </context>
 <context>
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
 </context>
 <context>
@@ -10168,158 +10168,158 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsBookFormatDlg</name>
     <message>
         <source>Header and Footer Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări antet și subsol</translation>
     </message>
 </context>
 <context>
     <name>KxWpsBookmarkPane</name>
     <message>
         <source>Document Bookmark:</source>
-        <translation type="unfinished"></translation>
+        <translation>Semn de carte document:</translation>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortează după nume</translation>
     </message>
     <message>
         <source>Sort by Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortează după locație</translation>
     </message>
     <message>
         <source>Delete All</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge tot</translation>
     </message>
     <message>
         <source>&amp;Go to Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Mer&amp;gi la semnul de carte</translation>
     </message>
     <message>
         <source>Sort by &amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortează după &amp;nume</translation>
     </message>
     <message>
         <source>Sort by &amp;Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortează după &amp;locație</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Redenumește</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Șterge</translation>
     </message>
     <message>
         <source>Do you want to delete all bookmarks?</source>
-        <translation type="unfinished"></translation>
+        <translation>Doriți să ștergeți toate semnele de carte?</translation>
     </message>
     <message>
         <source>Show Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată semnul de carte</translation>
     </message>
     <message>
         <source>Hide Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde semnul de carte</translation>
     </message>
     <message>
         <source>The bookmark name cannot start with numbers, symbols, special characters and also cannot contain spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele semnului de carte nu poate începe cu numere, simboluri, caractere speciale și de asemenea nu poate conține spații.</translation>
     </message>
     <message>
         <source>The bookmark already exists, please change the name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Semnul de carte deja există, schimbați numele.</translation>
     </message>
 </context>
 <context>
     <name>KxWpsBorderStyleItem</name>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără chenar</translation>
     </message>
 </context>
 <context>
     <name>KxWpsBorderWidthItem</name>
     <message>
         <source>2.25</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pct</translation>
     </message>
     <message>
         <source>0.25</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25</translation>
     </message>
     <message>
         <source>0.5</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5</translation>
     </message>
     <message>
         <source>0.75</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4.5</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
 </context>
 <context>
     <name>KxWpsBrowserModel</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
     <name>KxWpsBrowserTriggerCommand</name>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina anterioară</translation>
     </message>
     <message>
         <source>Previous Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea anterioară</translation>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentariul anterior</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Semn de carte anterior</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina următoare</translation>
     </message>
     <message>
         <source>Next Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea următoare</translation>
     </message>
     <message>
         <source>Next Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentariul următor</translation>
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Semn de carte următor</translation>
     </message>
     <message>
         <source>Previous Find/Goto</source>
@@ -10327,27 +10327,27 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Previous Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelul anterior</translation>
     </message>
     <message>
         <source>Previous Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>Graficul anterior</translation>
     </message>
     <message>
         <source>Previous Heading</source>
-        <translation type="unfinished"></translation>
+        <translation>Rubrica anterioară</translation>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota de subsol anterioară</translation>
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota de final anterioară</translation>
     </message>
     <message>
         <source>Previous Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmpul anterior</translation>
     </message>
     <message>
         <source>Next Find/Goto</source>
@@ -10355,31 +10355,31 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Next Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabelul următor</translation>
     </message>
     <message>
         <source>Next Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>Graficul următor</translation>
     </message>
     <message>
         <source>Next Heading</source>
-        <translation type="unfinished"></translation>
+        <translation>Rubrica următoare</translation>
     </message>
     <message>
         <source>Next Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarea notă de subsol</translation>
     </message>
     <message>
         <source>Next Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarea notă de final</translation>
     </message>
     <message>
         <source>Next Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmpul următor</translation>
     </message>
     <message>
         <source>The search item was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementul căutat nu a fost găsit.</translation>
     </message>
     <message>
         <source>The Find What text contains an invalid Pattern Matching expression.</source>
@@ -10390,11 +10390,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsCloumnGalleryModel</name>
     <message>
         <source>Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloană</translation>
     </message>
     <message>
         <source>%1 Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 coloane</translation>
     </message>
 </context>
 <context>
@@ -10405,168 +10405,168 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Delete Contents Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge conținutul paginii</translation>
     </message>
     <message>
         <source>Insert Custom Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu conținut personalizat</translation>
     </message>
     <message>
         <source>Insert Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu conținut</translation>
     </message>
     <message>
         <source>Insert Title (level %d)</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu titlu (nivel %d)</translation>
     </message>
     <message>
         <source>Table of Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuprins</translation>
     </message>
 </context>
 <context>
     <name>KxWpsContentsModel</name>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclus</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Curent</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Implicit</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Clasic</translation>
     </message>
     <message>
         <source>Distinctive</source>
-        <translation type="unfinished"></translation>
+        <translation>Distinctiv</translation>
     </message>
     <message>
         <source>Fancy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fantezist</translation>
     </message>
     <message>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Modern</translation>
     </message>
     <message>
         <source>Formal</source>
-        <translation type="unfinished"></translation>
+        <translation>Formal</translation>
     </message>
     <message>
         <source>Simple</source>
-        <translation type="unfinished"></translation>
+        <translation>Simplu</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
 </context>
 <context>
     <name>KxWpsContentsModelItem</name>
     <message>
         <source>Insert Title (level %d)</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu titlu (nivel %d)</translation>
     </message>
 </context>
 <context>
     <name>KxWpsDefineWaterMarkDlg</name>
     <message>
         <source>inch</source>
-        <translation type="unfinished"></translation>
+        <translation>inch</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pct</translation>
     </message>
     <message>
         <source>(No picture)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Fără poză)</translation>
     </message>
     <message>
         <source>Existing picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Poza existentă</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
     <message>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation>50%</translation>
     </message>
     <message>
         <source>100%</source>
-        <translation type="unfinished"></translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>150%</source>
-        <translation type="unfinished"></translation>
+        <translation>150%</translation>
     </message>
     <message>
         <source>200%</source>
-        <translation type="unfinished"></translation>
+        <translation>200%</translation>
     </message>
     <message>
         <source>500%</source>
-        <translation type="unfinished"></translation>
+        <translation>500%</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Orizontal</translation>
     </message>
     <message>
         <source>Diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrat</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizat</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Sus</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Dedesubt</translation>
     </message>
     <message>
         <source>DO NOT COPY</source>
-        <translation type="unfinished"></translation>
+        <translation>NU COPIA</translation>
     </message>
     <message>
         <source>CONFIDENTIAL</source>
-        <translation type="unfinished"></translation>
+        <translation>CONFIDENȚIAL</translation>
     </message>
     <message>
         <source>TOP SECRET</source>
-        <translation type="unfinished"></translation>
+        <translation>ULTRA SECRET</translation>
     </message>
     <message>
         <source>DISTRIBUTE</source>
@@ -10574,91 +10574,91 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>URGENT</source>
-        <translation type="unfinished"></translation>
+        <translation>URGENT</translation>
     </message>
     <message>
         <source>SAMPLE</source>
-        <translation type="unfinished"></translation>
+        <translation>EȘANȚION</translation>
     </message>
     <message>
         <source>ORIGINAL</source>
-        <translation type="unfinished"></translation>
+        <translation>ORIGINAL</translation>
     </message>
     <message>
         <source>DRAFT</source>
-        <translation type="unfinished"></translation>
+        <translation>SCHIȚĂ</translation>
     </message>
     <message>
         <source>36</source>
-        <translation type="unfinished"></translation>
+        <translation>36</translation>
     </message>
     <message>
         <source>40</source>
-        <translation type="unfinished"></translation>
+        <translation>40</translation>
     </message>
     <message>
         <source>44</source>
-        <translation type="unfinished"></translation>
+        <translation>44</translation>
     </message>
     <message>
         <source>48</source>
-        <translation type="unfinished"></translation>
+        <translation>48</translation>
     </message>
     <message>
         <source>54</source>
-        <translation type="unfinished"></translation>
+        <translation>54</translation>
     </message>
     <message>
         <source>60</source>
-        <translation type="unfinished"></translation>
+        <translation>60</translation>
     </message>
     <message>
         <source>66</source>
-        <translation type="unfinished"></translation>
+        <translation>66</translation>
     </message>
     <message>
         <source>72</source>
-        <translation type="unfinished"></translation>
+        <translation>72</translation>
     </message>
     <message>
         <source>80</source>
-        <translation type="unfinished"></translation>
+        <translation>80</translation>
     </message>
     <message>
         <source>90</source>
-        <translation type="unfinished"></translation>
+        <translation>90</translation>
     </message>
     <message>
         <source>96</source>
-        <translation type="unfinished"></translation>
+        <translation>96</translation>
     </message>
     <message>
         <source>105</source>
-        <translation type="unfinished"></translation>
+        <translation>105</translation>
     </message>
     <message>
         <source>120</source>
-        <translation type="unfinished"></translation>
+        <translation>120</translation>
     </message>
     <message>
         <source>144</source>
-        <translation type="unfinished"></translation>
+        <translation>144</translation>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentul întreg</translation>
     </message>
     <message>
         <source>This section</source>
-        <translation type="unfinished"></translation>
+        <translation>Această secțiune</translation>
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează poza</translation>
     </message>
     <message>
         <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate pozele(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</translation>
     </message>
     <message>
         <source>(Has successfully added pictures)</source>
@@ -10670,7 +10670,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Please change a watermark name!</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbați nume logo!</translation>
     </message>
     <message>
         <source>Tooltip </source>
@@ -10678,7 +10678,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>You do not have the permission to create a new file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu aveți permisiunea să creați un fișier nou.</translation>
     </message>
     <message>
         <source>Size Tooltip</source>
@@ -10686,7 +10686,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>The number must be between 5 and 500.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul trebuie să fie între 5 și 500.</translation>
     </message>
     <message>
         <source>Scale Tooltip</source>
@@ -10694,7 +10694,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Please input the text of the watermark.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți textul logo</translation>
     </message>
     <message>
         <source>Picture Tooltip</source>
@@ -10702,29 +10702,29 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Please select a picture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați o poză.</translation>
     </message>
     <message>
         <source>The current watermark name already exists. Please replace it with another name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele logo curent deja există. Înlocuiți-l cu alt nume.</translation>
     </message>
     <message>
         <source>The current watermark name contains special characters. Please replace it with another name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele logo curent conține caractere speciale. Înlocuiți-l cu un alt nume.</translation>
     </message>
 </context>
 <context>
     <name>KxWpsDeleteSectionCommand</name>
     <message>
         <source>Delete Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge secțiunea</translation>
     </message>
 </context>
 <context>
     <name>KxWpsDlgBookFormat</name>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet și subsol</translation>
     </message>
     <message>
         <source>Page different settings</source>
@@ -10732,27 +10732,27 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>Alt+V</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+V</translation>
     </message>
     <message>
         <source>Show header line</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată linia antetului</translation>
     </message>
     <message>
         <source>Alt+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+B</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <source>Header or footer link to previous</source>
@@ -10760,79 +10760,79 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Alt+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+E</translation>
     </message>
     <message>
         <source>Alt+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <source>Alt+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+I</translation>
     </message>
     <message>
         <source>Alt+J</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+J</translation>
     </message>
     <message>
         <source>Alt+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <source>Alt+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <source>Page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr pagină</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>Header left</source>
-        <translation type="unfinished"></translation>
+        <translation>Atet la stânga</translation>
     </message>
     <message>
         <source>Header middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet la mijloc</translation>
     </message>
     <message>
         <source>Header right</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet la dreapta</translation>
     </message>
     <message>
         <source>Header inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet înăuntru</translation>
     </message>
     <message>
         <source>Header outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet în afară</translation>
     </message>
     <message>
         <source>Footer left</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol la stânga</translation>
     </message>
     <message>
         <source>Footer middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol la mijloc</translation>
     </message>
     <message>
         <source>Footer right</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol la dreapta</translation>
     </message>
     <message>
         <source>Footer inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol înăuntru</translation>
     </message>
     <message>
         <source>Footer outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol în afară</translation>
     </message>
     <message>
         <source>Different first p&amp;age</source>
-        <translation type="unfinished"></translation>
+        <translation>Prima p&amp;agină diferită</translation>
     </message>
     <message>
         <source>Different odd and &amp;even pages</source>
@@ -10887,62 +10887,62 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsDlgTemplateAndAddin</name>
     <message>
         <source>Templates and Add-ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Șabloane și add-ins</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Șabloane</translation>
     </message>
     <message>
         <source>Document &amp;template</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Șablon document</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>&amp;Attach...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Atașează...</translation>
     </message>
     <message>
         <source>&amp;Global templates and add-ins</source>
-        <translation type="unfinished"></translation>
+        <translation>Șabloane &amp;globale și add-ins</translation>
     </message>
     <message>
         <source>Checked items are currently loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementele verificate sunt actualmente încărcate.</translation>
     </message>
     <message>
         <source>A&amp;dd...</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;daugă...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimină</translation>
     </message>
     <message>
         <source> Full path: </source>
-        <translation type="unfinished"></translation>
+        <translation>Calea întreagă: </translation>
     </message>
 </context>
 <context>
     <name>KxWpsDocMapWindow</name>
     <message>
         <source>Show Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată nivelul</translation>
     </message>
     <message>
         <source>Level %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivel %1</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Hartă document</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Semn de carte</translation>
     </message>
 </context>
 <context>
@@ -10956,21 +10956,21 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsFillColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără umplere</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFillColorModel2</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără umplere</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
 </context>
 <context>
@@ -10991,165 +10991,165 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsHeaderFooterPageNumCommand</name>
     <message>
         <source>Set Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurare număr pagină</translation>
     </message>
     <message>
         <source>Delete Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge număr pagină</translation>
     </message>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți număr pagină</translation>
     </message>
 </context>
 <context>
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
         <source>Show Header Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată linia antetului</translation>
     </message>
 </context>
 <context>
     <name>KxWpsHeaderLineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
 </context>
 <context>
     <name>KxWpsHeaderLineMoreColorCommand</name>
     <message>
         <source>Show Header Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată culoare liniei antetului</translation>
     </message>
 </context>
 <context>
     <name>KxWpsInsertKeyCommand</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
 </context>
 <context>
     <name>KxWpsInsertSectionCommand</name>
     <message>
         <source>Insert Section Before</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți secțiunea înainte</translation>
     </message>
     <message>
         <source>Insert Section After</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți secțiunea după</translation>
     </message>
 </context>
 <context>
     <name>KxWpsLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără linie</translation>
     </message>
 </context>
 <context>
     <name>KxWpsLineSpacingCommand</name>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Singur</translation>
     </message>
     <message>
         <source>1.5 lines</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 linii</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Dublu</translation>
     </message>
     <message>
         <source>At Least</source>
-        <translation type="unfinished"></translation>
+        <translation>Cel puțin</translation>
     </message>
     <message>
         <source>Exactly</source>
-        <translation type="unfinished"></translation>
+        <translation>Exact</translation>
     </message>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplu</translation>
     </message>
     <message>
         <source>1 line</source>
-        <translation type="unfinished"></translation>
+        <translation>1 linie</translation>
     </message>
     <message>
         <source>2 lines</source>
-        <translation type="unfinished"></translation>
+        <translation>2 linii</translation>
     </message>
     <message>
         <source>%1 lines</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 linii</translation>
     </message>
     <message>
         <source>: %1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>: %1 pct</translation>
     </message>
 </context>
 <context>
     <name>KxWpsLocateWidget</name>
     <message>
         <source>Welcome Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Bine ați venit înapoi</translation>
     </message>
     <message>
         <source>to last editing position</source>
-        <translation type="unfinished"></translation>
+        <translation>la ultima poziție a editării</translation>
     </message>
     <message>
         <source>to previous position</source>
-        <translation type="unfinished"></translation>
+        <translation>la poziția anterioară</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuă</translation>
     </message>
     <message>
         <source>Continue editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuați editarea</translation>
     </message>
     <message>
         <source>A few seconds ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Acum câteva secunde</translation>
     </message>
     <message>
         <source>%1 minutes ago</source>
-        <translation type="unfinished"></translation>
+        <translation>acum %1 minute</translation>
     </message>
     <message>
         <source>%1 hours ago</source>
-        <translation type="unfinished"></translation>
+        <translation>acum %1 ore</translation>
     </message>
 </context>
 <context>
     <name>KxWpsMainWindow</name>
     <message>
         <source>Command name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume comandă</translation>
     </message>
     <message>
         <source>Editing tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Unelte de editare</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastă</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageDifferCommand</name>
     <message>
         <source>Different first page</source>
-        <translation type="unfinished"></translation>
+        <translation>Prima pagină diferită</translation>
     </message>
     <message>
         <source>Different odd &amp;even pages</source>
@@ -11160,455 +11160,455 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsPageMarginCommand</name>
     <message>
         <source>Page Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Margini pagină</translation>
     </message>
     <message>
         <source>The top/bottom margins are too large for the page height in some sections</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginile de sus/jos sunt prea largi pentru înălțimea paginii în unele secțiuni</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins, column spacing, or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurările pe care le-ați ales pentru marginile din stânga și dreapta,distanța coloanei, sau indentarea paragrafului sunt prea largi pentru lățimea paginii în unele secțiuni.</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageMarginModel</name>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished"></translation>
+        <translation>in</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pct</translation>
     </message>
     <message>
         <source>Last Custom Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima configurare personalizată</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Narrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Îngust</translation>
     </message>
     <message>
         <source>Moderate</source>
-        <translation type="unfinished"></translation>
+        <translation>Moderat</translation>
     </message>
     <message>
         <source>Wide</source>
-        <translation type="unfinished"></translation>
+        <translation>Larg</translation>
     </message>
     <message>
         <source>Top: %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Sus: %1 %2</translation>
     </message>
     <message>
         <source>Bottom: %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dedesubt: %1 %2</translation>
     </message>
     <message>
         <source>Left: %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Stânga: %1 %2</translation>
     </message>
     <message>
         <source>Right: %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreapta: %1 %2</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageNumFormatCommand</name>
     <message>
         <source>Set Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurare număr pagină</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageNumPositionModel</name>
     <message>
         <source>No Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără număr pagină</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet</translation>
     </message>
     <message>
         <source>Header left</source>
-        <translation type="unfinished"></translation>
+        <translation>Atet la stânga</translation>
     </message>
     <message>
         <source>Header middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet la mijloc</translation>
     </message>
     <message>
         <source>Header right</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet la dreapta</translation>
     </message>
     <message>
         <source>Header inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet înăuntru</translation>
     </message>
     <message>
         <source>Header outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Antet în afară</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol</translation>
     </message>
     <message>
         <source>Footer left</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol la stânga</translation>
     </message>
     <message>
         <source>Footer middle</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol la mijloc</translation>
     </message>
     <message>
         <source>Footer right</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol la dreapta</translation>
     </message>
     <message>
         <source>Footer inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol înăuntru</translation>
     </message>
     <message>
         <source>Footer outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol în afară</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageNumStartCommand</name>
     <message>
         <source>Page Number Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornire număr pagină</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageOrientationCommand</name>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientare</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurările pe care le-ați ales pentru marginile din stânga și dreapta,distanța coloanei, sau indentarea paragrafului sunt prea largi pentru lățimea paginii în unele secțiuni.</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageOrientationModel</name>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Peisaj</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageSizeCommand</name>
     <message>
         <source>Paper Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiune hârtie</translation>
     </message>
     <message>
         <source>The top/bottom margins are too large for the page height in some sections</source>
-        <translation type="unfinished"></translation>
+        <translation>Marginile de sus/jos sunt prea largi pentru înălțimea paginii în unele secțiuni</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins, column spacing, or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurările pe care le-ați ales pentru marginile din stânga și dreapta,distanța coloanei, sau indentarea paragrafului sunt prea largi pentru lățimea paginii în unele secțiuni.</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPageSizeModel</name>
     <message>
         <source>A3</source>
-        <translation type="unfinished"></translation>
+        <translation>A3</translation>
     </message>
     <message>
         <source>A4</source>
-        <translation type="unfinished"></translation>
+        <translation>A4</translation>
     </message>
     <message>
         <source>Executive</source>
-        <translation type="unfinished"></translation>
+        <translation>Executiv</translation>
     </message>
     <message>
         <source>Tabloid</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabloid</translation>
     </message>
     <message>
         <source>Legal_CN</source>
-        <translation type="unfinished"></translation>
+        <translation>Legal_CN</translation>
     </message>
     <message>
         <source>Letter_CN</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrisoare_CN</translation>
     </message>
     <message>
         <source>Legal</source>
-        <translation type="unfinished"></translation>
+        <translation>Legal</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrisoare</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished"></translation>
+        <translation>inch</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>point</source>
-        <translation type="unfinished"></translation>
+        <translation>punct</translation>
     </message>
     <message>
         <source>%1%2 x %3%4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1%2 x %3%4</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>In Line With Text</source>
-        <translation type="unfinished"></translation>
+        <translation>În linie cu textul</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Pătrat</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>Strâns</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>În spatele textului</translation>
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>În fața textului</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>Prin</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Deasupra și dedesubt</translation>
     </message>
 </context>
 <context>
     <name>KxWpsPrintSetupDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
 </context>
 <context>
     <name>KxWpsRecordMacroDlg</name>
     <message>
         <source>All Document(%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tot documentul(%1)</translation>
     </message>
     <message>
         <source>%1(document)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1(document)</translation>
     </message>
     <message>
         <source>Macro recorded %2 by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Macrocomandă înregistrată %2 de %1</translation>
     </message>
     <message>
         <source>The name you entered is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele pe care l-ați introdus nu este valid.</translation>
     </message>
     <message>
         <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
-        <translation type="unfinished"></translation>
+        <translation>Macrocomanda &quot;%1&quot; deja există. Doriți să înlocuiți macrocomanda existentă?</translation>
     </message>
     <message>
         <source>You cannot record a macro to a locked file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți înregistra o macrocomandă la un fișier blocat</translation>
     </message>
 </context>
 <context>
     <name>KxWpsRestartPageNumCommand</name>
     <message>
         <source>Restart Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Repornire număr pagină</translation>
     </message>
 </context>
 <context>
     <name>KxWpsReviewPane</name>
     <message>
         <source>REVIEWPANE</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou recenzie</translation>
     </message>
     <message>
         <source> Part</source>
-        <translation type="unfinished"></translation>
+        <translation> Parte</translation>
     </message>
     <message>
         <source>Insert: </source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu: </translation>
     </message>
     <message>
         <source>Delete: </source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge: </translation>
     </message>
     <message>
         <source>Format: </source>
-        <translation type="unfinished"></translation>
+        <translation>Format: </translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="unfinished"></translation>
+        <translation>Comentariu: </translation>
     </message>
     <message>
         <source>Revision: </source>
-        <translation type="unfinished"></translation>
+        <translation>Revizie: </translation>
     </message>
 </context>
 <context>
     <name>KxWpsSectNavViewItemSeperator</name>
     <message>
         <source>Insert Section Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu întrerupere secțiune</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSectionListCommand</name>
     <message>
         <source>Section %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea: %1</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSectionToolboxModel</name>
     <message>
         <source>Table of Contents (None)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuprins (Nimic)</translation>
     </message>
     <message>
         <source>Cover Page (None)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copertă pagine (Nimic)</translation>
     </message>
 </context>
 <context>
     <name>KxWpsShowFirstPageNumCommand</name>
     <message>
         <source>Show First Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată primul număr de pagină</translation>
     </message>
 </context>
 <context>
     <name>KxWpsShowHeaderLineModel</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără linie</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSmartPageNumDeletePane</name>
     <message>
         <source>Delete &amp;all page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge &amp;toate numerele paginilor</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Delete all page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate numerele paginilor</translation>
     </message>
     <message>
         <source>Delete current &amp;page&apos;s page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge numărul de pagină al &amp;paginii curente</translation>
     </message>
     <message>
         <source>Delete &amp;below pages&apos; page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge numerele de pagină ale paginilor de &amp;dedesubt</translation>
     </message>
     <message>
         <source>Delete current &amp;section&apos;s page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge numerele de pagină ale &amp;secțiunii curente</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Delete current page&apos;s page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge numărul de pagină al paginii curente</translation>
     </message>
     <message>
         <source>Delete below pages&apos; page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge numerele de pagină ale paginilor de dedesubt</translation>
     </message>
     <message>
         <source>Delete current section&apos;s page numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge numerele de pagină ale secțiunii curente</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSmartPageNumInsertPane</name>
     <message>
         <source>Page number &amp;format</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Format număr pagină</translation>
     </message>
     <message>
         <source>Page number &amp;position</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Poziție număr pagină</translation>
     </message>
     <message>
         <source>Page number &amp;restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Repornire număr pagină</translation>
     </message>
     <message>
         <source>Page Number &amp;Start</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pornire număr pagină</translation>
     </message>
     <message>
         <source>Header: </source>
-        <translation type="unfinished"></translation>
+        <translation>Antet: </translation>
     </message>
     <message>
         <source>Footer: </source>
-        <translation type="unfinished"></translation>
+        <translation>Subsol: </translation>
     </message>
     <message>
         <source>Current page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina curentă</translation>
     </message>
     <message>
         <source>Below pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Paginile de dedesubt</translation>
     </message>
     <message>
         <source>All pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate paginile</translation>
     </message>
     <message>
         <source>Current section pages</source>
@@ -11616,339 +11616,339 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Page X</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina X</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți număr pagină</translation>
     </message>
     <message>
         <source>0;57;1</source>
-        <translation type="unfinished"></translation>
+        <translation>0;57;1</translation>
     </message>
     <message>
         <source>Page 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina 1</translation>
     </message>
     <message>
         <source>Page 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina 2</translation>
     </message>
     <message>
         <source>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</source>
-        <translation type="unfinished"></translation>
+        <translation>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</translation>
     </message>
     <message>
         <source>Appl&amp;y to</source>
-        <translation type="unfinished"></translation>
+        <translation>Apl&amp;ică la</translation>
     </message>
     <message>
         <source>Align left</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniază la stânga</translation>
     </message>
     <message>
         <source>Align center</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniază la centru</translation>
     </message>
     <message>
         <source>Align right</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniază la dreapta</translation>
     </message>
     <message>
         <source>Align inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniază înăuntru</translation>
     </message>
     <message>
         <source>Align outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniază în afară</translation>
     </message>
     <message>
         <source>Page X of y</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina X din Y</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Page X of Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina X din Y</translation>
     </message>
     <message>
         <source>Page 1 of x</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina 1 din x</translation>
     </message>
     <message>
         <source>Page 2 of X</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina 2 din x</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSpecialPopupWidget</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSpellCheckCommand</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusColumnInfoCommand</name>
     <message>
         <source>Column: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloana: %1</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusPageAreaInfoCommand</name>
     <message>
         <source>Page: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagină: %1</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusPageNumberInfoCommand</name>
     <message>
         <source>Page Num: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr pagină: %1</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusRowInfoCommand</name>
     <message>
         <source>Row: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Rândul: %1</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusSectionInfoCommand</name>
     <message>
         <source>Section: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea: %1</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusTrackCommand</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusWordCountInfoCommand</name>
     <message>
         <source>Words: </source>
-        <translation type="unfinished"></translation>
+        <translation>Cuvinte: </translation>
     </message>
 </context>
 <context>
     <name>KxWpsStyleGalleryModel</name>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiluri</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStyleGalleryModelItem</name>
     <message>
         <source>Modify Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifică stil</translation>
     </message>
     <message>
         <source>Delete Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge stil</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTableFillColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără umplere</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTemplateAndAddinDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Word Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Șabloane cuvânt</translation>
     </message>
     <message>
         <source>All Word Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate documentele Word</translation>
     </message>
     <message>
         <source>Word Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documente Word</translation>
     </message>
     <message>
         <source>XML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere XML</translation>
     </message>
     <message>
         <source>All Web Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate paginile web</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele</translation>
     </message>
     <message>
         <source>Attach Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Atașează șablon</translation>
     </message>
     <message>
         <source>Add Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă șablon</translation>
     </message>
     <message>
         <source>Word Templates(*.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Șabloane Word(*.wpt);;Word Add-Ins(*.wll);;Toate fișierele(*.*)</translation>
     </message>
     <message>
         <source>Common Template Normal.WPT has opened to load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablonul comun Normal.WPT a fost deschis pentru încărcat.</translation>
     </message>
     <message>
         <source>Full path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea întreagă:</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTextDirectionCommand</name>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurările pe care le-ați ales pentru marginile din stânga și dreapta,distanța coloanei, sau indentarea paragrafului sunt prea largi pentru lățimea paginii în unele secțiuni.</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTextOrientationModel</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Orizontal</translation>
     </message>
     <message>
         <source>Vertical from Right to Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical de la dreapta la stânga</translation>
     </message>
     <message>
         <source>Vertical from Left to Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical de la stânga la dreapta</translation>
     </message>
     <message>
         <source>Rotate All Text 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotește tot textul cu 90°</translation>
     </message>
     <message>
         <source>Rotate All Text 270°</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotește tot textul cu 270°</translation>
     </message>
     <message>
         <source>Rotate Asian Character 270°</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotește caracterele asiatice cu 270°</translation>
     </message>
 </context>
 <context>
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
 </context>
 <context>
     <name>KxWpsWaterMarkGalleryModel</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizat</translation>
     </message>
 </context>
 <context>
     <name>KxWpsWaterMarkGalleryModelItem</name>
     <message>
         <source>Apply to Whole Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplică la întregul document</translation>
     </message>
     <message>
         <source>Apply to This Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplică la această secțiune</translation>
     </message>
     <message>
         <source>Edit Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare logo</translation>
     </message>
     <message>
         <source>Delete Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge logo</translation>
     </message>
 </context>
 <context>
     <name>KxWpsWrapTextWidget</name>
     <message>
         <source>close</source>
-        <translation type="unfinished"></translation>
+        <translation>închide</translation>
     </message>
     <message>
         <source>title</source>
-        <translation type="unfinished"></translation>
+        <translation>titlu</translation>
     </message>
 </context>
 <context>
     <name>KxWpsZoomCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceasta nu este o măsurătoare validă.</translation>
     </message>
 </context>
 <context>
     <name>KxZoomDlg</name>
     <message>
         <source>The measurement must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între %1 și %2.</translation>
     </message>
 </context>
 <context>
     <name>MultSpinbox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>You must type a character for the custom separator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să tastați un caracter pentru separatorul personalizat.</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -11960,90 +11960,90 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>The number input must be between 1 and 63.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de intrare trebuie să fie între 1 și 63.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is already opened. Reopening will cause changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; este deja deschis. Redeschiderea va face ca modificările pe care e-ați efectuat să fie înlăturate. Doriți să redeschideți &quot;%2&quot;?</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 File(*.wpsx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier WPS Writer 2007-2010(*.wpsx)</translation>
     </message>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon Kingsoft Writer 2007/2010(*.wptx)</translation>
     </message>
     <message>
         <source>A macro is currently recording. Click to stop recording.</source>
-        <translation type="unfinished"></translation>
+        <translation>O macrocomandă se înregistrează acum. Apăsați pentru a opri înregistrarea.</translation>
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nici o macrocomandă nu se înregistrează acum. Apăsați pentru a începe înregistrarea unei noi macrocomenzi.</translation>
     </message>
 </context>
 <context>
     <name>SelectedFormatPanel</name>
     <message>
         <source>&amp;Clear Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Curăță formatarea</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nou...</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modifică...</translation>
     </message>
 </context>
 <context>
     <name>StyleFormatPanel</name>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modifică...</translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Șterge...</translation>
     </message>
 </context>
 <context>
     <name>TextFormFieldSpinBox</name>
     <message>
         <source>Unlimited</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelimitat</translation>
     </message>
 </context>
 <context>
     <name>dialogstestClass</name>
     <message>
         <source>dialogstest</source>
-        <translation type="unfinished"></translation>
+        <translation>testdialoguri</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează &amp;la</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Navighează...</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hyperlink</translation>
     </message>
     <message>
         <source>Boo&amp;kmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Semn &amp;de carte</translation>
     </message>
     <message>
         <source>Con&amp;vert title styles to bookmarks</source>
@@ -12059,51 +12059,51 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurări permisiuni</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Parolă:</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished"></translation>
+        <translation>Con&amp;firmare:</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite să modi&amp;fice</translation>
     </message>
     <message>
         <source>Permit to c&amp;opy</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite să cop&amp;ieze</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Permite să &amp;adauge comentarii</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipărirea nu este permisă</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parol&amp;ă:</translation>
     </message>
     <message>
         <source>Conf&amp;irm:</source>
-        <translation type="unfinished"></translation>
+        <translation>Con&amp;firmare:</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide când e&amp;xportul s-a terminat</translation>
     </message>
     <message>
         <source>Export PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă fișier PDF</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni export</translation>
     </message>
     <message>
         <source>Summar&amp;y information</source>
@@ -12111,7 +12111,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Comentariu nou</translation>
     </message>
     <message>
         <source>Li&amp;nks of footnotes and endnotes</source>
@@ -12119,128 +12119,128 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Parolă pentru protejarea configurărilor permisiunilor</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificare  :  numai configurarea parolei face posibil ca să aibă efect configurările de mai jos și evită să fie modificate de alții.</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisiuni ti&amp;părire:</translation>
     </message>
     <message>
         <source>Printing Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisiuni tipărire</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipărire calitate redusă</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipărire liberă</translation>
     </message>
     <message>
         <source>File open password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parolă deschidere fișier:</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Deschide fișier</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă în fișier PDF</translation>
     </message>
 </context>
 <context>
     <name>kxdlgHyperlinkWps</name>
     <message>
         <source>Select a pla&amp;ce in this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați un lo&amp;c în acest document:</translation>
     </message>
 </context>
 <context>
     <name>waterMarkDlg</name>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Logo</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Watermark setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurare logo</translation>
     </message>
     <message>
         <source>P&amp;icture watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;oză logo</translation>
     </message>
     <message>
         <source>Select &amp;Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează &amp;poza</translation>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Orizontal:</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vertical:</translation>
     </message>
     <message>
         <source>F&amp;ormat:</source>
-        <translation type="unfinished"></translation>
+        <translation>For&amp;mat:</translation>
     </message>
     <message>
         <source>&amp;Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zoom:</translation>
     </message>
     <message>
         <source>&amp;Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Spălare</translation>
     </message>
     <message>
         <source>Te&amp;xt watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Te&amp;xt logo</translation>
     </message>
     <message>
         <source>Conten&amp;t:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conținu&amp;t:</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Font:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dimensiune:</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Culoare:</translation>
     </message>
     <message>
         <source>T&amp;ransparency:</source>
-        <translation type="unfinished"></translation>
+        <translation>T&amp;ransparență:</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Apl&amp;ică la:</translation>
     </message>
 </context>
 </TS>

@@ -102,7 +102,7 @@ Please try one of the following.
         <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
 (%s)</source>
         <comment>TX_Workbook_SaveFailure</comment>
-        <translation>WPS Spreadsheets nu poate salva sau creea acest fișier. Asigurați-vă că discul țintă nu este plin sau deteriorat.
+        <translation>WPS Spreadsheets nu poate salva sau crea acest fișier. Asigurați-vă că discul țintă nu este plin sau deteriorat.
 (%s)</translation>
     </message>
     <message>
@@ -512,7 +512,7 @@ There are several possible reasons:
     <message>
         <source>Cannot create a name according to selected regions and specified conditions.</source>
         <comment>TX_ERROR_CreateNameFailed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate crea un nume în conformitate cu regiunile selectate și condițiile specificate.</translation>
     </message>
     <message>
         <source>Do you want to replace the existing definition of &quot;%s&quot;?</source>
@@ -1079,7 +1079,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>ten thousand</source>
         <comment>TX_SmartTip_wan</comment>
-        <translation>zece mi</translation>
+        <translation>zece mii</translation>
     </message>
     <message>
         <source>The function you are using is invalid in WPS Spreadsheets.</source>
@@ -1844,7 +1844,7 @@ Continue without Undo?</source>
     <message>
         <source>Error Checking &amp;Options...</source>
         <comment>TX_ERRORCHECK_REPAIR_ErrorCheckOption</comment>
-        <translation>Eroare verificare &amp;opțiuni...</translation>
+        <translation>&amp;Opțiuni verificare eroare...</translation>
     </message>
     <message>
         <source>&amp;Trace Error</source>
@@ -4037,7 +4037,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SERIESSUM(x,n,m,coefficients)</source>
         <comment>SERIESSUM_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>SERIESSUM(x,n,m,coeficienți)</translation>
     </message>
     <message>
         <source>Returns the sum of a power series.</source>
@@ -6727,7 +6727,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>NEXT()</source>
         <comment>NEXT_SYNTAX</comment>
-        <translation>URMĂTOR()</translation>
+        <translation>NEXT()</translation>
     </message>
     <message>
         <source>PAUSE(no_tool)</source>
@@ -7814,7 +7814,7 @@ If you do not wish to use a formula, insert a single quotation mark before your 
         <source>WPS Spreadsheets cannot create a chart on the selected regions. 
 Please make sure the selected regions are continuous cells.</source>
         <comment>TX_Chart_Cannot_Create</comment>
-        <translation>WPS Spreadsheets nu poate creea un grafic în regiunile selectate. 
+        <translation>WPS Spreadsheets nu poate crea un grafic în regiunile selectate. 
 Asigurați-vă că regiunile selectate sunt celule continue.</translation>
     </message>
     <message>
@@ -12797,7 +12797,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Xy_series</source>
         <comment>TX_ParaInfo_285</comment>
-        <translation type="unfinished"></translation>
+        <translation>serii_XY</translation>
     </message>
     <message>
         <source>Add_logical</source>
@@ -13405,7 +13405,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Series</source>
         <comment>TX_Undo_FillSeries</comment>
-        <translation>Serie</translation>
+        <translation>Serii</translation>
     </message>
     <message>
         <source>Down</source>
@@ -13555,7 +13555,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Set Print Area</source>
         <comment>TX_Undo_SetPrintAreas</comment>
-        <translation>Configurați zona de tipărit</translation>
+        <translation>Configurează zona de tipărit</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -13635,12 +13635,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Unhide Rows</source>
         <comment>TX_Undo_UnhideRows</comment>
-        <translation>Arată rândul</translation>
+        <translation>Arată rândurile</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
         <comment>TX_Undo_UnhideColumns</comment>
-        <translation>Arată coloana</translation>
+        <translation>Arată coloanele</translation>
     </message>
     <message>
         <source>AutoFit</source>
@@ -13680,7 +13680,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Consolidate</source>
         <comment>TX_Undo_Consolidate</comment>
-        <translation>Consolidează</translation>
+        <translation>Consolidare</translation>
     </message>
     <message>
         <source>Group</source>
@@ -13995,7 +13995,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Adjust Chart Settings</source>
         <comment>TX_Undo_ChartOptions</comment>
-        <translation>Ajustează configurările diagramei</translation>
+        <translation>Ajustează configurările graficului</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -14741,7 +14741,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
         <comment>et_sFontChanged</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modificările fontului standard și dimensiunii fontului vor avea efect doar după ce veți crea un registru de lucru nou.</translation>
     </message>
     <message>
         <source>Font size must be between %d and %d points.</source>

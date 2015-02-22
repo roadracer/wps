@@ -2395,7 +2395,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>&amp;Color schemes</source>
-        <translation>Schemă &amp;culoare</translation>
+        <translation>Scheme &amp;culoare</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2419,7 +2419,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Edit Color Schemes</source>
-        <translation>Editează culoarea schemelor</translation>
+        <translation>Editează scheme culoare</translation>
     </message>
     <message>
         <source> De&amp;lete Color Scheme </source>
@@ -2815,7 +2815,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation>Urmează schema culoare umplere</translation>
+        <translation>Urmează umplerile schemei de culoare</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
@@ -3213,7 +3213,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <name>KxTpAnimationSchemeWidget</name>
     <message>
         <source>Design Templates</source>
-        <translation>Șabloane proiect</translation>
+        <translation>Șabloane proiectare</translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -3224,7 +3224,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <name>KxTpColorScheme</name>
     <message>
         <source>Color Schemes</source>
-        <translation>Scheme de culoare</translation>
+        <translation>Scheme culoare</translation>
     </message>
     <message>
         <source>Apply a color scheme:</source>
@@ -3239,7 +3239,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Design Templates</source>
-        <translation>Șabloane proiect</translation>
+        <translation>Șabloane proiectare</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
@@ -3254,7 +3254,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <name>KxTpSlideDesign</name>
     <message>
         <source>Design Templates</source>
-        <translation>Șabloane proiect</translation>
+        <translation>Șabloane proiectare</translation>
     </message>
     <message>
         <source>Apply a design template:</source>
@@ -4335,7 +4335,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation>Redă</translation>
+        <translation>Redare</translation>
     </message>
     <message>
         <source>Slide Show</source>

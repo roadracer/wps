@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation>Crează scurtătură pe birou</translation>
+        <translation>Creează scurtătură pe birou</translation>
     </message>
 </context>
 <context>

@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Documentul dumneavoastră are activat acum backup-ul automat!&lt;br /&gt;Fișierul de rezervă va fi creat în Spațiul Office ori de câte ori documentul este închis.</translation>
+        <translation>Documentul dumneavoastră are activat acum backup-ul automat!&lt;br /&gt;Fișierul de rezervă va fi creat în spațiul de birou ori de câte ori documentul este închis.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
@@ -834,7 +834,7 @@
     </message>
     <message>
         <source>Folder cannot be created in the current location</source>
-        <translation>Dosarul nu poate fi creeat în locația curentă</translation>
+        <translation>Dosarul nu poate fi creat în locația curentă</translation>
     </message>
     <message>
         <source>A file with this name already exists</source>
@@ -1265,7 +1265,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>Crează</translation>
+        <translation>Creează</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -1394,7 +1394,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation>Consolidează</translation>
+        <translation>Consolidare</translation>
     </message>
     <message>
         <source>Combine values from multiple ranges into one new range.</source>

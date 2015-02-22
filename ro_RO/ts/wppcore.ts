@@ -168,7 +168,7 @@
     <message>
         <source>Fill Effects</source>
         <comment>ObjTable_BordersFillEffects</comment>
-        <translation>Umple efecte</translation>
+        <translation>Efecte de umplere</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
@@ -183,7 +183,7 @@
     <message>
         <source>Merge Cells</source>
         <comment>ObjTable_MergeCells</comment>
-        <translation>Combină celule</translation>
+        <translation>Combină celulele</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
@@ -2408,7 +2408,7 @@ Rețineți că se reduce calitatea pozei când o comprimați. Doriți să o comp
     <message>
         <source>Dark</source>
         <comment>WP_TBLSTYLEGROUP4</comment>
-        <translation>Întuneric</translation>
+        <translation>Întunecat</translation>
     </message>
     <message>
         <source>Traditional Chinese to Simplified Chinese, converting...</source>
@@ -2463,7 +2463,7 @@ Rețineți că se reduce calitatea pozei când o comprimați. Doriți să o comp
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
-        <translation>WPS Presentation nu poate salva sau creea acest fișier.
+        <translation>WPS Presentation nu poate salva sau crea acest fișier.
 Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țintă nu este plin sau deteriorat.
 (%s)</translation>
     </message>
@@ -2669,7 +2669,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Play</source>
         <comment>wpp_sActionVerbPlayText</comment>
-        <translation>Redă</translation>
+        <translation>Redare</translation>
     </message>
     <message>
         <source>Add Effect</source>
@@ -4404,7 +4404,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Play</source>
         <comment>wpp_sCaptionPlay</comment>
-        <translation>Redă</translation>
+        <translation>Redare</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -5094,7 +5094,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Follow Fills Scheme Color</source>
         <comment>wpp_sSchemeColorHint5</comment>
-        <translation>Urmează schema culoare umplere</translation>
+        <translation>Urmează umplerile schemei de culoare</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
@@ -6055,7 +6055,7 @@ Layout</source>
     <message>
         <source>Failed to create a new file.</source>
         <comment>WpNEWFILEFAIL</comment>
-        <translation>A eșuat creearea unui nou fișier.</translation>
+        <translation type="unfinished">A eșuat crearea unui nou fișier.</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.
@@ -6137,7 +6137,7 @@ Layout</source>
     <message>
         <source>Animation Scheme</source>
         <comment>WpSELANIMATIONSCHEMES</comment>
-        <translation>Scheme animație</translation>
+        <translation>Schemă animație</translation>
     </message>
     <message>
         <source>Typography</source>
@@ -6432,12 +6432,12 @@ Layout</source>
     <message>
         <source>New from Default Template</source>
         <comment>WP_NewFileFromDefaultTemplateCaption</comment>
-        <translation>Nou din șabloanele implicite</translation>
+        <translation>Nou din șablon implicit</translation>
     </message>
     <message>
         <source>New From Default Template</source>
         <comment>WP_NewFileFromDefaultTemplateHint</comment>
-        <translation>Nou din șabloanele implicite</translation>
+        <translation>Nou din șablon implicit</translation>
     </message>
     <message>
         <source>Spell 

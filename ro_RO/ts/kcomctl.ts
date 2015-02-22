@@ -348,7 +348,7 @@
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
-        <translation>InsertCellsInPopup</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

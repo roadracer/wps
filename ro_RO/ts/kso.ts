@@ -49,7 +49,7 @@
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_NotExist</comment>
-        <translation>Directorul temporar nu există sau a eșuat creearea directorului temporar.
+        <translation>Directorul temporar nu există sau a eșuat crearea directorului temporar.
 
 Verificați configurările de sistem și asigurați-vă că directorul temporar sub utilizatorul curent este disponibil, iar apoi reporniți WPS Office.</translation>
     </message>
@@ -586,7 +586,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Fill Effects</source>
         <comment>DgUil_KSO_Cmd_FillEffects</comment>
-        <translation>Umple efecte</translation>
+        <translation>Efecte de umplere</translation>
     </message>
     <message>
         <source>Recent Line Color</source>
@@ -1298,7 +1298,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Cannot create the object, this file may be in use. Please close the file and try to insert the object again.</source>
         <comment>DgUil_Kso_FailedCreateFromFile</comment>
-        <translation>Nu s epoat ecrea obiectul, acest fișier poate fi în uz. Închideți fișierul și încercați să introduceți obiectul din nou.</translation>
+        <translation>Nu se poate crea obiectul, acest fișier poate fi în uz. Închideți fișierul și încercați să introduceți obiectul din nou.</translation>
     </message>
     <message>
         <source>WPS Office cannot start the source application of the object.</source>
@@ -4324,7 +4324,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Cannot create a link to the file &quot;%s&quot;.</source>
         <comment>kso_sCannotInsertFile</comment>
-        <translation>Nu se poate creea un link la fișier &quot;%s&quot;.</translation>
+        <translation>Nu se poate crea un link la fișier &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>An error occurred on printer &quot;%s&quot; !</source>
@@ -4767,7 +4767,7 @@ To create a PivotTable report, you must use data that is organized as a list wit
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <comment>kso_sInvalidFieldName</comment>
         <translation>Numele câmpului tabelului pivot nu este valid. 
-Pentru a creea un raport tabel pivot, trebuie să utilizați datele care sunt organizate ca o listă cu coloane etichetate. 
+Pentru a crea un raport tabel pivot, trebuie să utilizați datele care sunt organizate ca o listă cu coloane etichetate. 
 Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un nume nou pentru câmp.</translation>
     </message>
     <message>
