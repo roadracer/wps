@@ -217,7 +217,7 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
     <message>
         <source>Fill failed due to there is an array in source area.</source>
         <comment>TX_VALUE_INVALID</comment>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat umplerea fiindcă acolo este o matrice în zona sursei.</translation>
     </message>
     <message>
         <source>The number format you entered is invalid.</source>
@@ -249,7 +249,9 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
 
 To hide, delete, or move the selected sheet(s), you must first insert a new sheet or unhide a sheet that is already hidden.</source>
         <comment>TX_Sheet_DEL_OneSheet_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Un registru de lucru trebuie să conțină cel puțin o foaie de lucru vizibilă. 
+
+Pentru a ascunde, șterge, sau muta foaia(ile) selectată, trebuie să introduceți întâi o nouă foaie sau să anulați ascunderea unei foi care este deja ascunsă.</translation>
     </message>
     <message>
         <source>0.001f</source>
@@ -279,7 +281,7 @@ To hide, delete, or move the selected sheet(s), you must first insert a new shee
     <message>
         <source>The selection contains multiple data values. Only the data in the upper-left corner will be kept when merging into one cell.</source>
         <comment>TX_MergeCells_LoseData</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selecția conține multiple valori de date. Numai datele în colțul superior stâng vor fi păstrate când se combină într-o singură celulă.</translation>
     </message>
     <message>
         <source>Cannot merge overlapping ranges.</source>
@@ -313,12 +315,12 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Subtotal failed. Cannot insert information due to an array.</source>
         <comment>TX_Subtotal_Failed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subtotalul a eșuat. Nu se poate introduce informația datorită unei matrice.</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_Corrupt_FormulaArray</comment>
-        <translation>Partea unei dispuneri nu poate fi schimbată.</translation>
+        <translation>Partea unei matrice nu poate fi schimbată.</translation>
     </message>
     <message>
         <source>The name you entered is invalid. When renaming a sheet, try one of the following:</source>
@@ -390,7 +392,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_ERROR_ArrayFormula</comment>
-        <translation>Partea unei dispuneri nu poate fi schimbată.</translation>
+        <translation>Partea unei matrice nu poate fi schimbată.</translation>
     </message>
     <message>
         <source>Part of merged cell cannot be changed.</source>
@@ -400,7 +402,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Array formulas in merged cells are not valid.</source>
         <comment>TX_ERROR_MergeCell_FORMULA</comment>
-        <translation>Formulele dispuse în celule combinate nu sunt valide.</translation>
+        <translation>Formulele matricei în celulele combinate nu sunt valide.</translation>
     </message>
     <message>
         <source>This command cannot be used on overlapping selections.</source>
@@ -415,7 +417,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_ERROR_Array_PartChange</comment>
-        <translation>Partea unei dispuneri nu poate fi schimbată.</translation>
+        <translation>Partea unei matrice nu poate fi schimbată.</translation>
     </message>
     <message>
         <source>Source reference area overlaps with target area.</source>
@@ -435,7 +437,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Bracket doesn&apos;t match.</source>
         <comment>TX_ERROR_BRACKET_NO_PAIR</comment>
-        <translation>Paranteza nu se potrivește</translation>
+        <translation>Paranteza nu se potrivește.</translation>
     </message>
     <message>
         <source>Operand needs to be followed by a right bracket.</source>
@@ -450,7 +452,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Constant array error.</source>
         <comment>TX_ERROR_CONST_ARRAY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare constantă matrice.</translation>
     </message>
     <message>
         <source>Invalid row/column information.</source>
@@ -547,7 +549,7 @@ There are several possible reasons:
     <message>
         <source>Formula or value in conditional formatting is invalid.</source>
         <comment>TX_CONDFMT_INPUT_ERR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formula sau valoarea în formatarea condițională nu este validă.</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections. 
@@ -564,7 +566,7 @@ Selectați o singură regiune și apoi efectuați comanda din nou.</translation>
     <message>
         <source>Count=</source>
         <comment>TX_SMART_TIPS_COUNT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calcul=</translation>
     </message>
     <message>
         <source>Count Nums=</source>
@@ -594,7 +596,7 @@ Selectați o singură regiune și apoi efectuați comanda din nou.</translation>
     <message>
         <source>Count</source>
         <comment>TX_SUBTOTAL_COUNT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calcul</translation>
     </message>
     <message>
         <source>Count Nums</source>
@@ -763,12 +765,12 @@ Please specify the right files.</source>
     <message>
         <source>References to other worksheets or workbooks cannot be used for Conditional Format.</source>
         <comment>TX_CF_CrossSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Referințele la alte foi de lucru sau registre de lucru nu pot fi utilizate pentru formatarea condițională.</translation>
     </message>
     <message>
         <source>Array constants cannot be used under conditional formatting.</source>
         <comment>TX_CF_Array</comment>
-        <translation type="unfinished"></translation>
+        <translation>Constantele matricei nu se pot utiliza sub formatarea condițională.</translation>
     </message>
     <message>
         <source>%s of %d records found</source>
@@ -813,7 +815,7 @@ Please specify the right files.</source>
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_TextToColumns_Tip3</comment>
-        <translation>Partea unei zone nu poate fi schimbată.</translation>
+        <translation>Partea unei matrice nu poate fi schimbată.</translation>
     </message>
     <message>
         <source>The destination region is invalid for reference.</source>
@@ -939,7 +941,7 @@ Please specify the right files.</source>
     <message>
         <source>Cannot modify or delete array formulas in shared workbooks.</source>
         <comment>TX_ShareWorkbook_MsgModifyArrays</comment>
-        <translation>Nu se poate modifica sau șterge formulele dispuse în registrele de lucru partajate.</translation>
+        <translation>Nu se pot modifica sau șterge formulele matricei în registre de lucru partajate.</translation>
     </message>
     <message>
         <source>Cannot copy or move array formulas in a shared workbook.</source>
@@ -1119,7 +1121,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
         <comment>TX_ETDataForm_NotRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comanda nu poate fi finalizată utilizând intervalul specificat. Selectați o singură celulă în interval și încercați comanda din nou.</translation>
     </message>
     <message>
         <source>Cannot extend list or database.</source>
@@ -1134,12 +1136,12 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_ETDataForm_ArraryFormula</comment>
-        <translation>Nu puteți schimba partea unei zone.</translation>
+        <translation>Nu puteți schimba partea unei matrice.</translation>
     </message>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_ETDataFrom_ArraryFormula</comment>
-        <translation>Nu puteți schimba partea unei zone.</translation>
+        <translation>Nu puteți schimba partea unei matrice.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
@@ -2054,7 +2056,7 @@ Continue without Undo?</source>
     <message>
         <source>#,##0_);[Red](#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_38</comment>
-        <translation type="unfinished"></translation>
+        <translation>#,##0_);[Red](#,##0)</translation>
     </message>
     <message>
         <source>#,##0.00_);(#,##0.00)</source>
@@ -2064,7 +2066,7 @@ Continue without Undo?</source>
     <message>
         <source>#,##0.00_);[Red](#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_40</comment>
-        <translation type="unfinished"></translation>
+        <translation>#,##0.00_);[Red](#,##0.00)</translation>
     </message>
     <message>
         <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
@@ -2520,7 +2522,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_RepeatWord_ArrayFormula</comment>
-        <translation>Nu puteți schimba partea unei dispuneri.</translation>
+        <translation>Nu puteți schimba partea unei matrice.</translation>
     </message>
     <message>
         <source>Duplicates do not support reference to other workbooks or worksheets.</source>
@@ -2732,7 +2734,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>#VALUE!</source>
         <comment>TX_DAP_ErrCode_VALUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>#VALUE!</translation>
     </message>
     <message>
         <source>#REF!</source>
@@ -2742,7 +2744,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>#NAME?</source>
         <comment>TX_DAP_ErrCode_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>#NAME?</translation>
     </message>
     <message>
         <source>#NUM!</source>
@@ -2854,7 +2856,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Count</source>
         <comment>TX_DAP_FunctionItem_Count</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calcul</translation>
     </message>
     <message>
         <source>Count Nums</source>
@@ -3582,7 +3584,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Converts radians to degrees.</source>
         <comment>DEGREES_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Convertește radiani la grade.</translation>
     </message>
     <message>
         <source>DIV(dividend,divisor)</source>
@@ -3717,12 +3719,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>PI()</source>
         <comment>PI_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>PI()</translation>
     </message>
     <message>
         <source>Returns the value of Pi, 3.14159265358979, accurate to 15 digits.</source>
         <comment>PI_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Întoarce valoarea lui Pi, 3.14159265358979, cu o precizie de 15 cifre.</translation>
     </message>
     <message>
         <source>POWER(number,power)</source>
@@ -3747,7 +3749,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>QUARTILE(array,quart)</source>
         <comment>QUARTILE_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>QUARTILE(array,quart)</translation>
     </message>
     <message>
         <source>Returns the quartile of a data set.</source>
@@ -3762,7 +3764,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Converts degrees to radians.</source>
         <comment>RADIANS_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Convertește grade la radiani.</translation>
     </message>
     <message>
         <source>RAND()</source>
@@ -3907,7 +3909,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUMPRODUCT(array1,array2,array3, ...)</source>
         <comment>SUMPRODUCT_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SUMPRODUCT(matricea1,matricea2,matricea3, ...)</translation>
     </message>
     <message>
         <source>Multiplies the corresponding data in the given arrays and then returns the sum of the products.</source>
@@ -4007,7 +4009,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COVAR(array1,array2)</source>
         <comment>COVAR_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>COVAR(matricea1,matricea2)</translation>
     </message>
     <message>
         <source>Returns covariance, the average of the products of deviations for each data point pair. Use covariance to determine the relationship between two data sets.</source>
@@ -4047,7 +4049,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUMX2MY2(array_x,array_y)</source>
         <comment>SUMX2MY2_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SUMX2MY2(matricea_x,matricea_y)</translation>
     </message>
     <message>
         <source>Returns the sum of the differences of squares of corresponding values in two arrays.</source>
@@ -4057,7 +4059,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUMX2PY2(array_x,array_y)</source>
         <comment>SUMX2PY2_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SUMX2PY2(matricea_x,matricea_y)</translation>
     </message>
     <message>
         <source>Returns the sum of the sum squares of corresponding values in two arrays.</source>
@@ -4067,7 +4069,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUMXMY2(array_x,array_y)</source>
         <comment>SUMXMY2_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SUMXMY2(matricea_x,matricea_y)</translation>
     </message>
     <message>
         <source>Returns the sum of squares of differences of corresponding values in two arrays.</source>
@@ -4157,7 +4159,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>CORREL(array1,array2)</source>
         <comment>CORREL_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>CORREL(matricea1,matricea2)</translation>
     </message>
     <message>
         <source>Returns the correlation coefficient between two data sets.</source>
@@ -4257,7 +4259,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>FTEST(array1,array2)</source>
         <comment>FTEST_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>FTEST(matricea1,matricea2)</translation>
     </message>
     <message>
         <source>Returns the result of an F-test, the one-tailed probability that the variances in Array1 and Array2 are not significantly different.</source>
@@ -4527,7 +4529,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>PEARSON(array1,array2)</source>
         <comment>PEARSON_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>PEARSON(matricea1,matricea2)</translation>
     </message>
     <message>
         <source>Returns the Pearson product moment correlation coefficient, r, a dimensionless index that ranges from -1.0 to 1.0 inclusive.</source>
@@ -4962,12 +4964,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ROWS(array)</source>
         <comment>ROWS_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>ROWS(matrice)</translation>
     </message>
     <message>
         <source>Returns the number of rows in a reference or array.</source>
         <comment>ROWS_REMARK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Întoarce numărul de rânduri într-o referință sau matrice.</translation>
     </message>
     <message>
         <source>VLOOKUP(lookup_value,table_array,col_index_num,range_lookup)</source>
@@ -6182,7 +6184,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>TRANSPOSE(array)</source>
         <comment>TRANSPOSE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>TRANSPOSE(matrice)</translation>
     </message>
     <message>
         <source>Returns a horizontal range of cells as a vertical range, or vice versa. TRANSPOSE must be entered as an array formula in the range that has the same numbers of rows or columns respectively with those of an array. Use TRANSPOSE to shift the vertical or horizontal orientation of an array in the worksheet.</source>
@@ -6192,7 +6194,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>MMULT(array1,array2)</source>
         <comment>MMULT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>MMULT(matricea1,matricea2)</translation>
     </message>
     <message>
         <source>Returns the matrix product of two arrays. The result is that the array has the same number of rows with array 1 and the same number of columns with array 2.</source>
@@ -6202,12 +6204,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>MINVERSE(array)</source>
         <comment>MINVERSE_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>MINVERSE(matrice)</translation>
     </message>
     <message>
         <source>MDETERM(array)</source>
         <comment>MDETERM_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>MDETERM(matrice)</translation>
     </message>
     <message>
         <source>Returns a matrix determinant of an array.</source>
@@ -6572,7 +6574,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Extract the phonetic character of the text string.</source>
         <comment>PHONETIC_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Extrage caracterul fonetic din șirul text.</translation>
     </message>
     <message>
         <source>Commands</source>
@@ -6821,7 +6823,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ACTIVE.CELL()</source>
         <comment>ACTIVECELL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>ACTIVE.CELL()</translation>
     </message>
     <message>
         <source>DOCUMENTS(type_num, match_text)</source>
@@ -6896,7 +6898,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>CALLER()</source>
         <comment>CALLER_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>CALLER()</translation>
     </message>
     <message>
         <source>ECHO(logical)</source>
@@ -6961,7 +6963,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>QUIT()</source>
         <comment>QUIT_SYNTAX</comment>
-        <translation>TERMINĂ()</translation>
+        <translation>QUIT()</translation>
     </message>
     <message>
         <source>SELECT(selection, active_cell)</source>
@@ -6971,7 +6973,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SELECT.LAST.CELL()</source>
         <comment>SELECTLASTCELL_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>SELECT.LAST.CELL()</translation>
     </message>
     <message>
         <source>COPY(from_reference, to_reference)</source>
@@ -7405,7 +7407,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Query Files(*.iqy; *.dqy)</source>
         <comment>TX_ssDesc_Qy_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere interogare(*.iqy; *.dqy)</translation>
     </message>
     <message>
         <source>Access Databases(*.mdb;*.accdb)</source>
@@ -7415,7 +7417,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
         <comment>TX_ssDesc_EtxTemp_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șablon WPS Spreadsheets 2007/2010(*.ettx)</translation>
     </message>
     <message>
         <source>Data Interchange Format (*.dif)</source>
@@ -7470,7 +7472,7 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
     <message>
         <source>Query Files(*.iqy)</source>
         <comment>TX_ssDesc_Iqy_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere interogare(*.iqy)</translation>
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
@@ -8081,22 +8083,22 @@ Se continuă?</translation>
     <message>
         <source>You must enter a Start Date.</source>
         <comment>TX_DV_EmptyDate1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o dată de pornire.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
         <comment>TX_DV_EmptyDate2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o dată de oprire.</translation>
     </message>
     <message>
         <source>You must enter both a Start Date and an End Date.</source>
         <comment>TX_DV_EmptyDateBoth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să introduceți o dată de oprire cât și o dată de pornire.</translation>
     </message>
     <message>
         <source>The End Date must be greater than or equal to the Start Date.</source>
         <comment>TX_DV_DateValueErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Data de oprire trebuie să fie mai mare sau egală cu data de pornire.</translation>
     </message>
     <message>
         <source>The Time contains an error now. Do you want to continue?</source>
@@ -8186,7 +8188,7 @@ Se continuă?</translation>
     <message>
         <source>New Blank Workbook</source>
         <comment>TX_NEWBLANKFILECAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Registru de lucru nou gol</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -8196,7 +8198,7 @@ Se continuă?</translation>
     <message>
         <source>New Blank Workbook</source>
         <comment>TX_TPNEWBLANKFILECAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Registru de lucru nou gol</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -8259,22 +8261,22 @@ Se continuă?</translation>
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_004</comment>
-        <translation>Dispunere</translation>
+        <translation>Matrice</translation>
     </message>
     <message>
         <source>Array1</source>
         <comment>TX_ParaInfo_005</comment>
-        <translation>Dispunerea1</translation>
+        <translation>Matrice1</translation>
     </message>
     <message>
         <source>Array2</source>
         <comment>TX_ParaInfo_006</comment>
-        <translation>Dispunerea2</translation>
+        <translation>Matrice2</translation>
     </message>
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_007</comment>
-        <translation>Dispunere</translation>
+        <translation>Matrice</translation>
     </message>
     <message>
         <source>Base</source>
@@ -8389,12 +8391,12 @@ Se continuă?</translation>
     <message>
         <source>Known_x&apos;s</source>
         <comment>TX_ParaInfo_030</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cunoscut_x&apos;s</translation>
     </message>
     <message>
         <source>Known_y&apos;s</source>
         <comment>TX_ParaInfo_031</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cunoscut_y&apos;s</translation>
     </message>
     <message>
         <source>Logical</source>
@@ -8604,7 +8606,7 @@ Se continuă?</translation>
     <message>
         <source>Table_array</source>
         <comment>TX_ParaInfo_073</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabel_matrice</translation>
     </message>
     <message>
         <source>Text</source>
@@ -8824,12 +8826,12 @@ Se continuă?</translation>
     <message>
         <source>Arithmetic Average</source>
         <comment>TX_ParaInfo_117</comment>
-        <translation type="unfinished"></translation>
+        <translation>Media aritmetică</translation>
     </message>
     <message>
         <source>Standard deviation</source>
         <comment>TX_ParaInfo_118</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deviația standard</translation>
     </message>
     <message>
         <source>Returns the cumulative distribution function</source>
@@ -8844,7 +8846,7 @@ Se continuă?</translation>
     <message>
         <source>Degrees of freedom</source>
         <comment>TX_ParaInfo_121</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grade de libertate</translation>
     </message>
     <message>
         <source>Alpha</source>
@@ -8914,7 +8916,7 @@ Se continuă?</translation>
     <message>
         <source>Sample Standard Deviation</source>
         <comment>TX_ParaInfo_135</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eșanțion deviație standard</translation>
     </message>
     <message>
         <source>μ0</source>
@@ -8944,7 +8946,7 @@ Se continuă?</translation>
     <message>
         <source>Data_array</source>
         <comment>TX_ParaInfo_141</comment>
-        <translation type="unfinished"></translation>
+        <translation>Date_matrice</translation>
     </message>
     <message>
         <source>Bins_array</source>
@@ -8999,12 +9001,12 @@ Se continuă?</translation>
     <message>
         <source>Degrees_freedom 1</source>
         <comment>TX_ParaInfo_152</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grade_libertate 1</translation>
     </message>
     <message>
         <source>Degrees_freedom 2</source>
         <comment>TX_ParaInfo_153</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grade_libertate 2</translation>
     </message>
     <message>
         <source>Number_s</source>
@@ -9069,7 +9071,7 @@ Se continuă?</translation>
     <message>
         <source>Places</source>
         <comment>TX_ParaInfo_166</comment>
-        <translation type="unfinished"></translation>
+        <translation>Locuri</translation>
     </message>
     <message>
         <source>Real_num</source>
@@ -9114,7 +9116,7 @@ Se continuă?</translation>
     <message>
         <source>no_commas</source>
         <comment>TX_ParaInfo_175</comment>
-        <translation type="unfinished"></translation>
+        <translation>fără_virgule</translation>
     </message>
     <message>
         <source>Bytes number</source>
@@ -9149,7 +9151,7 @@ Se continuă?</translation>
     <message>
         <source>Operation field</source>
         <comment>TX_ParaInfo_182</comment>
-        <translation type="unfinished"></translation>
+        <translation>Câmp operație</translation>
     </message>
     <message>
         <source>Date of issue</source>
@@ -9304,7 +9306,7 @@ Se continuă?</translation>
     <message>
         <source>You have not selected the data to be parsed.</source>
         <comment>TX_DS_NODATA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu ați selectat datele de analizat.</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections. Select a single region and then perform this command again.</source>
@@ -9463,7 +9465,7 @@ ortografică</translation>
     <message>
         <source>Close the Track Change is to remove all the recorded changes. Do you want to close it anyway?</source>
         <comment>TX_RevisionMsgUnTrackChanges</comment>
-        <translation type="unfinished"></translation>
+        <translation>Închiderea urmăririi modificărilor înseamnă eliminarea tuturor modificărilor înregistrate. Doriți să închideți oricum?</translation>
     </message>
     <message>
         <source>The Value must be a decimal number, numeric expression, or reference to a cell containing decimal numbers.</source>
@@ -9528,7 +9530,7 @@ ortografică</translation>
     <message>
         <source>List Box</source>
         <comment>TX_FCItemName_ListBox</comment>
-        <translation type="unfinished"></translation>
+        <translation>Casetă listă</translation>
     </message>
     <message>
         <source>Drop-down box</source>
@@ -9888,7 +9890,7 @@ ortografică</translation>
     <message>
         <source>is a cell range of values. The values should be numbers, names, arrays, or reference that contain numbers. </source>
         <comment>TX_ParaDesc_055</comment>
-        <translation type="unfinished"></translation>
+        <translation>este un interval de valori celulă. Valorile ar trebui să fie numere, denumiri, matrice, sau referință care conține numere. </translation>
     </message>
     <message>
         <source>is a second cell range of values. The values should be numbers, names, arrays, or references that contain numbers.</source>
@@ -10453,7 +10455,7 @@ ortografică</translation>
     <message>
         <source>is a range of cells or an array constant.</source>
         <comment>TX_ParaDesc_175</comment>
-        <translation type="unfinished"></translation>
+        <translation>este un interval de celule sau o constantă matrice.</translation>
     </message>
     <message>
         <source>selects the row in Array or Reference from which to return a value. If omitted, Column_num is required.</source>
@@ -10793,12 +10795,12 @@ ortografică</translation>
     <message>
         <source>is the first array of numbers to multiply and must have the same number of columns as Array2 has rows.</source>
         <comment>TX_ParaDesc_250</comment>
-        <translation type="unfinished"></translation>
+        <translation>este prima matrice de numere de multiplicat și trebuie să aibă același număr de coloane câte rânduri are Matricea2.</translation>
     </message>
     <message>
         <source>is the second array of numbers to multiply and must have the same number of columns as Array1 has rows.</source>
         <comment>TX_ParaDesc_251</comment>
-        <translation type="unfinished"></translation>
+        <translation>este a doua matrice de numere de multiplicat și trebuie să aibă același număr de coloane câte rânduri are Matricea1.</translation>
     </message>
     <message>
         <source>is the number for which you want to find the remainder after the division is performed.</source>
@@ -11103,7 +11105,7 @@ ortografică</translation>
     <message>
         <source>is an array of, or a reference to, a list of numbers. Nonnumeric values are ignored.</source>
         <comment>TX_ParaDesc_316</comment>
-        <translation type="unfinished"></translation>
+        <translation>este o matrice de, sau o referință la, o listă de numere. Valorile care nu sunt numerice sunt ignorate.</translation>
     </message>
     <message>
         <source>is a number: rank in the list sorted descending = 0 or omitted; rank in the list sorted ascending = any nonzero value.</source>
@@ -11203,7 +11205,7 @@ ortografică</translation>
     <message>
         <source>is an array, a reference to a cell with numbers, a formula which can import numbers.</source>
         <comment>TX_ParaDesc_336</comment>
-        <translation type="unfinished"></translation>
+        <translation>este o matrice, o referință la o celulă cu numere, o formulă care poate importa numere.</translation>
     </message>
     <message>
         <source>is a number, a reference to a cell containing a number, or a formula that evalueates to a number, 2 if omitted.</source>
@@ -11383,7 +11385,7 @@ ortografică</translation>
     <message>
         <source>is the text you want to replace Old_text.</source>
         <comment>TX_ParaDesc_378</comment>
-        <translation type="unfinished"></translation>
+        <translation>este textul care doriți să înlocuiască textul_vechi.</translation>
     </message>
     <message>
         <source>specifies which occurrence of Old_text you want to replace. If omitted, every instance of Old_text is replaced.</source>
@@ -11393,7 +11395,7 @@ ortografică</translation>
     <message>
         <source>is the number 1 to 11 that specifies the summary function for the subtotal.</source>
         <comment>TX_ParaDesc_380</comment>
-        <translation type="unfinished"></translation>
+        <translation>este numărul 1 la 11 care specifică rezumatul funcției pentru subtotal.</translation>
     </message>
     <message>
         <source>is the range of cells you want evaluated.</source>
@@ -11413,22 +11415,22 @@ ortografică</translation>
     <message>
         <source>is the first range or array of numbers and be a number or name, array, or reference that contains numbers.</source>
         <comment>TX_ParaDesc_388</comment>
-        <translation type="unfinished"></translation>
+        <translation>este primul interval sau matrice de numere și trebuie să fie un număr sau nume, matrice, sau referință care conține numere.</translation>
     </message>
     <message>
         <source>is the second range or array of numbers and be a number or name, array, or reference that contains numbers.</source>
         <comment>TX_ParaDesc_389</comment>
-        <translation type="unfinished"></translation>
+        <translation>este al doilea interval sau matrice de numere și trebuie să fie un număr sau nume, matrice, sau referință care conține numere.</translation>
     </message>
     <message>
         <source>is the first range or array of numbers.</source>
         <comment>TX_ParaDesc_390</comment>
-        <translation type="unfinished"></translation>
+        <translation>este primul interval sau matrice de numere.</translation>
     </message>
     <message>
         <source>is the second range or array of numbers.</source>
         <comment>TX_ParaDesc_391</comment>
-        <translation type="unfinished"></translation>
+        <translation>este al doilea interval sau matrice de numere.</translation>
     </message>
     <message>
         <source>is the salvage value at the end of the life of the asset.</source>
@@ -11438,7 +11440,7 @@ ortografică</translation>
     <message>
         <source>is the second range or array of numbers and be a number or name, array, or reference that contains numbers.</source>
         <comment>TX_ParaDesc_393</comment>
-        <translation type="unfinished"></translation>
+        <translation>Este al doilea interval sau matrice de numere și poate fi un număr sau nume, matrice, sau referință care conține numere.</translation>
     </message>
     <message>
         <source>is the value you want to test.</source>
@@ -11508,7 +11510,7 @@ ortografică</translation>
     <message>
         <source>is a range of cells on a worksheet or an array of values that you want to transpose.</source>
         <comment>TX_ParaDesc_407</comment>
-        <translation type="unfinished"></translation>
+        <translation>este un interval de celule pe o foaie de lucru sau o matrice de valori pe care doriți să o transpuneți.</translation>
     </message>
     <message>
         <source>is an optional range or array of x-values that you konw in the relationship y = mx+b, an array the same size as Know_y&apos;s.</source>
@@ -11738,7 +11740,7 @@ ortografică</translation>
     <message>
         <source>array</source>
         <comment>TX_ParaType_006</comment>
-        <translation type="unfinished"></translation>
+        <translation>matrice</translation>
     </message>
     <message>
         <source>is the type of result you want to return.(&quot;Y&quot;,&quot;M&quot;,&quot;D&quot;)</source>
@@ -12857,7 +12859,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Active_cell</source>
         <comment>TX_ParaInfo_297</comment>
-        <translation type="unfinished"></translation>
+        <translation>Celula_activă</translation>
     </message>
     <message>
         <source>From_reference</source>
@@ -12882,7 +12884,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Transpose</source>
         <comment>TX_ParaInfo_302</comment>
-        <translation type="unfinished"></translation>
+        <translation>Transpune</translation>
     </message>
     <message>
         <source>Icon_number</source>
@@ -13620,7 +13622,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Conditional Formatting</source>
         <comment>TX_Undo_ConditionalFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formatarea condițională</translation>
     </message>
     <message>
         <source>Hide Row</source>
@@ -13670,12 +13672,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Subtotals</source>
         <comment>TX_Undo_Subtotal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Subtotaluri</translation>
     </message>
     <message>
         <source>Remove Subtotals</source>
         <comment>TX_Undo_RemoveSubtotal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elimină subtotaluri</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -13730,7 +13732,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Count</source>
         <comment>TX_Undo_Count</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calcul</translation>
     </message>
     <message>
         <source>Max</source>
@@ -13990,7 +13992,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Adjust Chart Source Data</source>
         <comment>TX_Undo_ChartSourceData</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajustează sursa de date a graficului</translation>
     </message>
     <message>
         <source>Adjust Chart Settings</source>
@@ -14271,7 +14273,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Across Center</source>
         <comment>et_sCenterAcross</comment>
-        <translation type="unfinished"></translation>
+        <translation>Peste centru</translation>
     </message>
     <message>
         <source>Vertical Center Aligned</source>
@@ -14286,7 +14288,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>You must specify criteria for all conditional formats.</source>
         <comment>et_sCFMustSpecifyCriteria</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să specificați un criteriu pentru toate formatările condiționale.</translation>
     </message>
     <message>
         <source>Change &amp;to:</source>
@@ -14366,7 +14368,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Context Reading Order</source>
         <comment>et_sContextReadOrdering</comment>
-        <translation type="unfinished"></translation>
+        <translation>Context citire comandă</translation>
     </message>
     <message>
         <source>New Custom Dictionary</source>
@@ -14516,7 +14518,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>equals</source>
         <comment>et_sDlgCustomAutoFilter_Equals</comment>
-        <translation type="unfinished">egal</translation>
+        <translation>egal</translation>
     </message>
     <message>
         <source>is greater than</source>
@@ -14546,12 +14548,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Double Accounting</source>
         <comment>et_sDoubleAccounting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contabilitate dublă</translation>
     </message>
     <message>
         <source>Cannot add duplicate source reference.</source>
         <comment>et_sDuplicate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate adăuga duplicatul sursei referință.</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -14681,17 +14683,17 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
         <comment>et_sFH_NotInstall</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acest stil font este imitat pentru afișaj. Cel mai apropiat stil potrivit va fi utilizat pentru tipărire.</translation>
     </message>
     <message>
         <source>The font is designed for use with a plotter.</source>
         <comment>et_sFH_Plotter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fontul este conceput să fie utilizat cu un plotter.</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
         <comment>et_sFH_TrueType</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acesta este un font TrueType. Același font va fi utilizat atât pentru imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>The field you are dropping into the column area exceeds 256 items. Only the first 255 items will be displayed as columns. To include all of the field&apos;s data in your PivotTable, drop it into different area, such as the data area.</source>
@@ -14701,7 +14703,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Field List</source>
         <comment>et_sFieldListCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Listă câmp</translation>
     </message>
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
@@ -14726,12 +14728,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Please input the data you&apos;re searching for.</source>
         <comment>et_sFindReplace_InvalidWhat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți datele pe care le căutați.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
         <comment>et_sFindReplace_NotFind</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets nu poate găsi datele pe care le căutați. Verificați opțiunile de căutare.</translation>
     </message>
     <message>
         <source>Followed Hyperlink</source>
@@ -14806,7 +14808,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>WPS Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
         <comment>et_sHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets a găsit date lângă selecția dumneavoastră. Fiindcă nu ați selectat aceste date, nu vor fi sortate.</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -14948,7 +14950,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Failed to modify the dictionary file you selected, make sure the file exists and is not read-only.</source>
         <comment>et_sModifyDictFailed</comment>
-        <translation type="unfinished"></translation>
+        <translation>A eșuat modificarea fișierului dicționar selectat, asigurați-vă că fișierul există și că nu este doar-citire.</translation>
     </message>
     <message>
         <source>Modify existing outline?</source>
@@ -15053,7 +15055,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>(No Blanks)</source>
         <comment>et_sNonBlanks</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Nu goale)</translation>
     </message>
     <message>
         <source>(none)</source>
@@ -15063,7 +15065,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>No Number Format</source>
         <comment>et_sNoNumberFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fără formatare număr</translation>
     </message>
     <message>
         <source>No Protection</source>
@@ -15248,7 +15250,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Reading Order</source>
         <comment>et_sReadingOrder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Citire comandă</translation>
     </message>
     <message>
         <source>Failed to delete dictionary files from disk, please delete the files manually.</source>
@@ -15268,17 +15270,17 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Related Acceptances</source>
         <comment>et_sRelatedAccepts</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acceptările similare</translation>
     </message>
     <message>
         <source>Related Rejections</source>
         <comment>et_sRelatedRejects</comment>
-        <translation type="unfinished"></translation>
+        <translation>Respingerile similare</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <comment>et_sRemoveDefaultDict</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eliminarea dicționarului personalizat poate afecta dicționarul personalizat utilizat de alte aplicații WPS Office. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Are you sure to send the dictionary %1 to the Recycle Bin?</source>
@@ -15293,7 +15295,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Find the matches, but fail to replace. The contents replaced may be invalid formulas.</source>
         <comment>et_sReplace_ReplaceFailed</comment>
-        <translation type="unfinished"></translation>
+        <translation>S-au găsit potriviri, dar a eșuat înlocuirea. Conținuturile înlocuite pot fi formule nevalide.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -15383,7 +15385,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Shrink to Fit</source>
         <comment>et_sShrinkToFit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Micșorează pentru a se potrivi</translation>
     </message>
     <message>
         <source>Single</source>
@@ -15393,7 +15395,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Single Accounting</source>
         <comment>et_sSingleAccounting</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contabilitate unică</translation>
     </message>
     <message>
         <source>Size</source>
@@ -15592,7 +15594,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Data will permanently lose accuracy.</source>
         <comment>et_sPrecisionLose</comment>
-        <translation type="unfinished"></translation>
+        <translation>Datele vor pierde permanent acuratețea.</translation>
     </message>
     <message>
         <source>The function you described is not found. Please enter the function information again.</source>
@@ -15657,12 +15659,12 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>The Ole selection area cannot be objects, please select again.</source>
         <comment>et_sOleSelectionWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zona de selecție OLE nu poate fi obiecte, selectați din nou.</translation>
     </message>
     <message>
         <source>Generate pictures in the currently selected area.</source>
         <comment>et_sOleSelectionHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Generează poze în zona selectată curent.</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -15680,7 +15682,10 @@ the category you want, and then choose the other options.</source>
 ·To replace existing picture, click OK.
 ·To keep existing picture, click Cancel button.</source>
         <comment>et_sReplacePictrueEnquire</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numai o poză poate fi introdusă în fiecare secțiune a %s.
+
+ Pentru a înlocui poza existentă, apăsați OK.
+ Pentru a păstra poza existentă, apăsați butonul Anulează.</translation>
     </message>
     <message>
         <source>Other Sheets...</source>
@@ -15691,7 +15696,8 @@ the category you want, and then choose the other options.</source>
         <source>The command you choose cannot be performed with multiple selections.
 Select a single range and click the command again.</source>
         <comment>et_sCanListNameForMulSelection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comanda pe care ați ales-o nu poate fi executată cu secțiuni multiple.
+Selectați un singur interval și apăsați pe comandă din nou.</translation>
     </message>
     <message>
         <source>The reference you entered is not valid, or you did not provide a reference where one was required.
@@ -15703,7 +15709,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>A range with the title &quot;%s&quot; already exists. Please enter a new title for the range.</source>
         <comment>et_sAllowUserEditRangeNameNotUnique</comment>
-        <translation type="unfinished"></translation>
+        <translation>Un interval cu titlul &quot;%s&quot; deja există. Introduceți un nou titlu pentru interval.</translation>
     </message>
     <message>
         <source>The title &quot;%s&quot; contains illegal characters. Range titles may only contain letters, character, numbers, and spaces, and must begin with a letter or a character.</source>
@@ -15718,7 +15724,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>A query with this name already exist on this worksheet.</source>
         <comment>et_sSameNameErrorForQuery</comment>
-        <translation type="unfinished"></translation>
+        <translation>O interogare cu acest nume deja există în acest registru de lucru.</translation>
     </message>
     <message>
         <source>Connection string or SQL is error. WPS Spreadsheets cannot import the data.</source>
@@ -15728,12 +15734,12 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>The range is not in active sheet. WPS Spreadsheets cannot import data.</source>
         <comment>et_sRangeNotInActiveSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Intervalul nu este în foaia activă. WPS Spreadsheets nu poate importa date.</translation>
     </message>
     <message>
         <source>You are opening an Excel shared workbook &quot;%s&quot;.</source>
         <comment>et_sWorkbookFileNameHint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ați deschis un registru de lucru Excel partajat &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>%d users are editing this file:</source>
@@ -15778,7 +15784,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>This function takes no arguments.</source>
         <comment>et_sFuncHasNoParam</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această funcție nu are argumente.</translation>
     </message>
     <message>
         <source>Delete(&amp;D)</source>

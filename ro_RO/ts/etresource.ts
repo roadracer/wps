@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Format Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Format grafic</translation>
     </message>
     <message>
         <source>Legend</source>
@@ -789,7 +789,7 @@
     <name>classics.external_data</name>
     <message>
         <source>Data Range Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietăți interval date</translation>
     </message>
     <message>
         <source>Edit
@@ -834,7 +834,7 @@ interogare OLE DB</translation>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centu coloane</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -959,7 +959,7 @@ Center</source>
     </message>
     <message>
         <source>Toggle Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Comută grila</translation>
     </message>
 </context>
 <context>
@@ -1205,7 +1205,7 @@ Center</source>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare întrerupere de linie</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -1266,19 +1266,19 @@ Center</source>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -2299,7 +2299,7 @@ Center</source>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare întrerupere de linie</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -2307,7 +2307,7 @@ Center</source>
     </message>
     <message>
         <source>Parse</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizează</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -3035,11 +3035,11 @@ rând</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprietăți interval date</translation>
     </message>
     <message>
         <source>Data Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Unelte date</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -3047,12 +3047,13 @@ rând</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicate</translation>
     </message>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare
+interogare OLE DB</translation>
     </message>
     <message>
         <source>Edit Query</source>
@@ -4019,7 +4020,8 @@ funcții</translation>
     <message>
         <source>Name
 Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume
+administrator</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -4054,11 +4056,11 @@ recent</translation>
     <name>ongmani.ct_home</name>
     <message>
         <source>Across Sheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste foi</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtru avansat</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -4078,7 +4080,7 @@ recent</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tot</translation>
     </message>
     <message>
         <source>All Borders</source>
@@ -4094,19 +4096,19 @@ recent</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Crescător</translation>
     </message>
     <message>
         <source>AutoFilter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtru automat</translation>
     </message>
     <message>
         <source>AutoFit Column Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește automat lățimea coloanei</translation>
     </message>
     <message>
         <source>AutoFit Row Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește automat înălțimea rândului</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -4114,7 +4116,7 @@ recent</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Medie</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4122,7 +4124,7 @@ recent</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
@@ -4130,11 +4132,11 @@ recent</translation>
     </message>
     <message>
         <source>Cancel Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează combinarea</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Celule</translation>
     </message>
     <message>
         <source>Center</source>
@@ -4142,7 +4144,7 @@ recent</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -4150,19 +4152,19 @@ recent</translation>
     </message>
     <message>
         <source>Column Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Lățime coloană</translation>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centu coloane</translation>
     </message>
     <message>
         <source>Comma Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil virgulă</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarii</translation>
     </message>
     <message>
         <source>ConditionDate</source>
@@ -4302,15 +4304,15 @@ recent</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Conținut</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertește text la hyperlink</translation>
     </message>
     <message>
         <source>Convert Text to Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertește text la număr</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -4318,15 +4320,15 @@ recent</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcul</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Monedă</translation>
     </message>
     <message>
         <source>Custom Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortare personalizată</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -4346,35 +4348,35 @@ recent</translation>
     </message>
     <message>
         <source>Delete Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge celulele</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge coloanele</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge rândurile</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge foaie</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrescător</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos</translation>
     </message>
     <message>
         <source>Draw Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenează chenar</translation>
     </message>
     <message>
         <source>Draw Border Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenează chenar grilă</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -4382,7 +4384,7 @@ recent</translation>
     </message>
     <message>
         <source>Erase Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge chenar</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4403,11 +4405,11 @@ recent</translation>
     <message>
         <source>Find and 
 Replace</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Găsește și înlocuiește</translation>
     </message>
     <message>
         <source>Font</source>
@@ -4419,7 +4421,7 @@ Replace</source>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format</translation>
     </message>
     <message>
         <source>Format 
@@ -4429,39 +4431,39 @@ formatare</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formate</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Formule</translation>
     </message>
     <message>
         <source>Go to</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde coloane</translation>
     </message>
     <message>
         <source>Hide Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde rânduri</translation>
     </message>
     <message>
         <source>Hide Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde foaia</translation>
     </message>
     <message>
         <source>Hide and Unhide</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde și arată</translation>
     </message>
     <message>
         <source>HighLight</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Crește zecimal</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -4514,23 +4516,23 @@ Center</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare linie</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil linie</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Blochează celula</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxim</translation>
     </message>
     <message>
         <source>Merge Across</source>
@@ -4542,35 +4544,35 @@ Center</source>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Combină și centrează</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Minim</translation>
     </message>
     <message>
         <source>More Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai multe chenare</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai multe funcții</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută sau copiază foaia</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Număr</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Paste</source>
@@ -4578,27 +4580,27 @@ Center</source>
     </message>
     <message>
         <source>Paste as Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Lipește ca poză</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Lipește ca text neformatat</translation>
     </message>
     <message>
         <source>Percent Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil procent</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Protejează foaia</translation>
     </message>
     <message>
         <source>Reapply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicați din nou</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <source>Right</source>
@@ -4606,32 +4608,33 @@ Center</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Rotate Text Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotește textul în jos</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotește textul în sus</translation>
     </message>
     <message>
         <source>Row Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Înălțime rând</translation>
     </message>
     <message>
         <source>Rows and 
 Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Rânduri și 
+coloane</translation>
     </message>
     <message>
         <source>RowsColumn</source>
-        <translation type="unfinished"></translation>
+        <translation>Rânduricoloană</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Series</source>
@@ -4643,27 +4646,27 @@ Columns</source>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată tot</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortează</translation>
     </message>
     <message>
         <source>Standard Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Lățime standard</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Sum</translation>
     </message>
     <message>
         <source>Tab Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare filă</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -4679,11 +4682,11 @@ Columns</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Chenar deasupra și dedesubt</translation>
     </message>
     <message>
         <source>Top and Double Bottom Border</source>
@@ -4695,7 +4698,7 @@ Columns</source>
     </message>
     <message>
         <source>Transpose</source>
-        <translation type="unfinished"></translation>
+        <translation>Transpune</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -4711,15 +4714,15 @@ Columns</source>
     </message>
     <message>
         <source>Unhide Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată foaia</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Sus</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Valori</translation>
     </message>
     <message>
         <source>Vertical Center</source>
@@ -4727,15 +4730,15 @@ Columns</source>
     </message>
     <message>
         <source>Vertical Text </source>
-        <translation type="unfinished"></translation>
+        <translation>Text vertical</translation>
     </message>
     <message>
         <source>Worksheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Foaie de lucru</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Încadrare text</translation>
     </message>
 </context>
 <context>
@@ -4822,7 +4825,7 @@ control</translation>
     </message>
     <message>
         <source>Group Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Casetă grup</translation>
     </message>
     <message>
         <source>Header and 
@@ -7014,7 +7017,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Across Sheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste foi</translation>
     </message>
     <message>
         <source>Activate WPS Office</source>
@@ -7308,7 +7311,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centu coloane</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -8417,11 +8420,11 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Chenar deasupra și dedesubt</translation>
     </message>
     <message>
         <source>Top and Dlouble Bottom Border</source>
@@ -9615,11 +9618,11 @@ Trig</source>
     <name>rainbow.ct_home</name>
     <message>
         <source>Across Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste centru</translation>
     </message>
     <message>
         <source>Across Sheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste foi</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
@@ -9883,7 +9886,7 @@ Trig</source>
     </message>
     <message>
         <source>Custom Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortare personalizată</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -10237,7 +10240,7 @@ centrează</translation>
     </message>
     <message>
         <source>Transpose</source>
-        <translation type="unfinished"></translation>
+        <translation>Transpune</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -11161,7 +11164,7 @@ centrează</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare întrerupere de linie</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -11515,7 +11518,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare întrerupere de linie</translation>
     </message>
     <message>
         <source>Print Gridlines</source>

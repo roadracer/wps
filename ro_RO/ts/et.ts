@@ -3090,7 +3090,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgInsertWorkSheet</name>
     <message>
         <source>Insert &amp;count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu &amp;calcul:</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -3405,7 +3405,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Multidiagonal Cell</source>
-        <translation>Celulă &amp;multidiagonală</translation>
+        <translation>Celulă &amp;mai multe diagonale</translation>
     </message>
     <message>
         <source>Recover options</source>
@@ -3797,7 +3797,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Security threats</source>
-        <translation type="unfinished"></translation>
+        <translation>Amenințări de securitate</translation>
     </message>
     <message>
         <source>Error &amp;indicator color:</source>
@@ -3984,7 +3984,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>He&amp;ader:</source>
-        <translation>AN&amp;tet:</translation>
+        <translation>An&amp;tet:</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
@@ -4186,7 +4186,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Au&amp;tomatic</source>
-        <translation type="unfinished">AU&amp;tomat</translation>
+        <translation>Au&amp;tomat</translation>
     </message>
     <message>
         <source>C&amp;ustom</source>
@@ -4222,15 +4222,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Show items in &amp;tabular form</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată elementele în formă de &amp;tabel</translation>
     </message>
     <message>
         <source>Show items in &amp;outline form</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată elementele în formă de &amp;schiță</translation>
     </message>
     <message>
         <source>&amp;Display subtotals at top of group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Afișează subtotaluri în partea de sus a grupului</translation>
     </message>
     <message>
         <source>&amp;Insert blank line after each item</source>
@@ -4783,7 +4783,7 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>Screen&amp;Tip text:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Set Hyperlink ScreenTip</source>
@@ -4810,7 +4810,7 @@ Numai %d valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>&amp;Trend</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tendință</translation>
     </message>
     <message>
         <source>Type</source>
@@ -4924,7 +4924,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation>&amp;crescător</translation>
+        <translation>&amp;Crescător</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
@@ -4936,7 +4936,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>As&amp;cending</source>
-        <translation>As&amp;cendent</translation>
+        <translation>Cr&amp;escător</translation>
     </message>
     <message>
         <source>Desce&amp;nding</source>
@@ -4948,7 +4948,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>Ascend&amp;ing</source>
-        <translation>Ascend&amp;ent</translation>
+        <translation>Crescă&amp;tor</translation>
     </message>
     <message>
         <source>Descendin&amp;g</source>
@@ -5085,7 +5085,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>Style includes</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilul include</translation>
     </message>
     <message>
         <source>Number:</source>
@@ -5207,7 +5207,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>A&amp;dd subtotal to:</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;daugă subtotal la:</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -5215,7 +5215,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>Replace &amp;current subtotals</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește subtotalurile &amp;curente</translation>
     </message>
     <message>
         <source>&amp;Page break between groups</source>
@@ -5223,15 +5223,15 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>&amp;Summary below data</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rezumat sub date</translation>
     </message>
     <message>
         <source>C&amp;opy subtotal to new sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>C&amp;opiază subtotalul la o nouă foaie</translation>
     </message>
     <message>
         <source>&amp;Filter subtotal</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Filtrează subtotalul</translation>
     </message>
     <message>
         <source>&amp;Remove All</source>
@@ -5286,7 +5286,7 @@ Aceasta de asemenea permite combinarea registrului de lucru.</translation>
     </message>
     <message>
         <source>This screen lets you set the delimiters your data contains. You can see how your text is affected in the preview below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest ecran vă permite să configurați delimitările pe care le conțin datele. Puteți vedea în previzualizarea de mai jos cum textul este afectat.</translation>
     </message>
     <message>
         <source>Delimiters </source>
@@ -5967,13 +5967,15 @@ If this is correct, choose Next, or choose the data type that best describes you
     <message>
         <source>The reference you typed is not valid, or you did not provide a reference where one was required
 To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>The formula you typed contains an error.
 To get assistance in entering a function, click Function Wizard
 If you are not trying to enter a formula, avoid using an equal sign(=) or minus sign(-),or precede it with a single quotation mark(&apos;)&apos;).</source>
-        <translation type="unfinished"></translation>
+        <translation>Formula pe care ați introdus-o conține o eroare.
+Pentru a obține asistență pentru introducerea unei funcții, apăsați Asistent funcție
+dacă nu ați încercat să introduceți o formulă, evitați folosirea unui semn egal(=) sau semn(-),sau precedați cu un singur marcaj citat(&apos;)&apos;).</translation>
     </message>
     <message>
         <source>The cell or chart that you are trying to change is protected and therefore read-only.
@@ -6095,7 +6097,7 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>Array value is not valid</source>
-        <translation>Valoarea dispunerii nu este validă</translation>
+        <translation>Valoarea matricei nu este validă</translation>
     </message>
 </context>
 <context>
@@ -6321,7 +6323,7 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>To show the result of the underlined expression, click Evaluate. The most recent result appears italicized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru a arăta rezultatul expresiei subliniate, apăsați Evaluează. Cele mai recente rezultate apar cursiv.</translation>
     </message>
     <message>
         <source>&amp;Evaluate</source>
@@ -6437,7 +6439,7 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>Find the matches, but fail to replace. The contents replaced may be invalid formulas.</source>
-        <translation type="unfinished"></translation>
+        <translation>S-au găsit potriviri, dar a eșuat înlocuirea. Conținuturile înlocuite pot fi formule nevalide.</translation>
     </message>
     <message>
         <source>No cells were found.</source>
@@ -6595,7 +6597,7 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation>Acest stil font este limitat pentru afișaj. Cel mai asemănător stil care se potrivește va fi utilizat pentru tipărire.</translation>
+        <translation>Acest stil font este imitat pentru afișaj. Cel mai asemănător stil care se potrivește va fi utilizat pentru tipărire.</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
@@ -6603,7 +6605,7 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fontul este conceput pentru plotter.</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
@@ -6646,11 +6648,11 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation>Acest stil font este limitat pentru afișaj. Cel mai asemănător stil care se potrivește va fi utilizat pentru tipărire.</translation>
+        <translation>Acest stil font este imitat pentru afișaj. Cel mai asemănător stil care se potrivește va fi utilizat pentru tipărire.</translation>
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fontul este conceput pentru plotter.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -6720,7 +6722,7 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest stil font este imitat pentru afișaj. Cel mai asemănător stil care se potrivește va fi utilizat pentru tipărire.</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
@@ -6728,7 +6730,7 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fontul este conceput pentru plotter.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -6808,7 +6810,7 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>Formula in cell must result in a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formula în celulă trebuie să conducă la un număr.</translation>
     </message>
     <message>
         <source>Cell must contain a value.</source>
@@ -6828,12 +6830,13 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>The input text is not a valid reference or defined name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Textul de intrare nu este o referință validă sau nume definit.</translation>
     </message>
     <message>
         <source>The cell you&apos;re trying to change is on a protected sheet.
 To make changes, click Unprotect Sheet in the Review tab (You might need a password).</source>
-        <translation type="unfinished"></translation>
+        <translation>Celula pe care încercați să o modificați este pe o foaie protejată.
+Pentru a face modificări, apăsați Anulează protecție foaie în fila Revizuire (Este posibil să aveți nevoie de parolă).</translation>
     </message>
 </context>
 <context>
@@ -6983,7 +6986,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Name cannot resemble a reference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele nu poate semăna cu o referință.</translation>
     </message>
     <message>
         <source>The name that you entered is not valid.</source>
@@ -7134,7 +7137,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Data will permanently lose accuracy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datele vor pierde permanent acuratețea.</translation>
     </message>
     <message>
         <source>New list</source>
@@ -7202,7 +7205,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <translation>Eliminând dicționarul personalizat poate afecta dicționarul personalizat utilizat de alte programe WPS Office. Doriți să continuați?</translation>
+        <translation>Eliminarea dicționarului personalizat poate afecta dicționarul personalizat utilizat de alte aplicații WPS Office. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Are you sure to send the dictionary %1 to the Recycle Bin?</source>
@@ -7234,7 +7237,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>The changes to decimal symbol won&apos;t take effect until you quit and then restart WPS Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificările simbolului zecimal nu va avea efect până ce veți închide și reporni WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
@@ -7408,11 +7411,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Diagonal crosshatch</source>
-        <translation type="unfinished"></translation>
+        <translation>Hașurat diagonal</translation>
     </message>
     <message>
         <source>Thick Diagonal crosshatch</source>
-        <translation type="unfinished"></translation>
+        <translation>Hașurat diagonal gros</translation>
     </message>
     <message>
         <source>Thin Horizontal stripe</source>
@@ -7432,11 +7435,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Thin Horizontal crosshatch</source>
-        <translation type="unfinished"></translation>
+        <translation>Hașurat orizontal subțire</translation>
     </message>
     <message>
         <source>Thin Diagonal crosshatch</source>
-        <translation type="unfinished"></translation>
+        <translation>Hașurat diagonal subțire</translation>
     </message>
 </context>
 <context>
@@ -7463,7 +7466,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Top 10 AutoShow</source>
-        <translation type="unfinished"></translation>
+        <translation>Primele 10 prezentări automate</translation>
     </message>
     <message>
         <source>O&amp;ff</source>
@@ -7715,11 +7718,12 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>%1 duplicates are found;
 Only %2 unique value can be keep after delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>S-au găsit %1 duplicate;
+Numai %2 valori unice pot fi păstrate după ștergere.</translation>
     </message>
     <message>
         <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
-        <translation type="unfinished"></translation>
+        <translation>S-au găsit %1 duplicate, care au fost șterse; Numai %2 valori unice se păstrează.</translation>
     </message>
 </context>
 <context>
@@ -7906,7 +7910,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Integer Tolerance must be a small positive number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toleranța numărului întreg trebuie să fie un număr mic pozitiv.</translation>
     </message>
     <message>
         <source>Max Time must be a positive integer number.</source>
@@ -7914,7 +7918,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Iterations must be a positive integer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetările trebuie să fie un număr întreg pozitiv.</translation>
     </message>
     <message>
         <source>Convergence must be a small positive number.</source>
@@ -7969,7 +7973,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Objective Cell must be a single cell on the active sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Celula obiectiv trebuie să fie o singură celulă pe foaia activă.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -7977,7 +7981,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Variable Cells must be on the active sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Celulele variabile trebuie să fie pe foaia activă.</translation>
     </message>
     <message>
         <source>Too many Variable Cells.</source>
@@ -7985,7 +7989,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Objective Cell contents must be a formula.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conținutul celulei obiectiv trebuie să fie o formulă.</translation>
     </message>
     <message>
         <source>Reset all Solver options and cell selections?</source>
@@ -7993,11 +7997,11 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Problem to solve not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a specificat problema de rezolvat.</translation>
     </message>
     <message>
         <source>No Constraints to change.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu sunt constrângeri de modificat.</translation>
     </message>
 </context>
 <context>
@@ -8016,7 +8020,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Each variable of Binary Constraint should between 0 and 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiecare variabilă a constrângerii binare trebuie să fie între 0 și 1.</translation>
     </message>
     <message>
         <source>All variables must have both upper and lower bounds.</source>
@@ -8340,7 +8344,7 @@ Note that data links can be used to access and share confidential information wi
     </message>
     <message>
         <source>Bad parameter type. WPS Spreadsheets is expecting a different kind of value than what was provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip parametru greșit. WPS Spreadsheets așteaptă un tip diferit de valoare decât ce a fost furnizat.</translation>
     </message>
     <message>
         <source>Invalid data value for parameter.</source>
@@ -8407,7 +8411,7 @@ t</translation>
     </message>
     <message>
         <source>Shrin&amp;k to fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Micșoreaz&amp;ă pentru a se potrivi</translation>
     </message>
     <message>
         <source>&amp;Merge cells</source>
@@ -8475,7 +8479,7 @@ t</translation>
     </message>
     <message>
         <source>Center across selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrul peste selecție</translation>
     </message>
 </context>
 <context>
@@ -8715,7 +8719,7 @@ t</translation>
     </message>
     <message>
         <source>Accounting</source>
-        <translation type="unfinished"></translation>
+        <translation>Contabilitate</translation>
     </message>
     <message>
         <source>Date</source>
@@ -8948,7 +8952,7 @@ t</translation>
     </message>
     <message>
         <source>Shrink To fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Micșorează pentru a se potrivi</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
@@ -9032,7 +9036,7 @@ t</translation>
     </message>
     <message>
         <source>Center Across</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste centru</translation>
     </message>
     <message>
         <source>Center</source>
@@ -9060,7 +9064,7 @@ t</translation>
     </message>
     <message>
         <source>Single Accounting</source>
-        <translation type="unfinished"></translation>
+        <translation>Contabilitate unică</translation>
     </message>
     <message>
         <source>Single</source>
@@ -9068,7 +9072,7 @@ t</translation>
     </message>
     <message>
         <source>Double Accounting</source>
-        <translation type="unfinished"></translation>
+        <translation>Contabilitate dublă</translation>
     </message>
     <message>
         <source>Double</source>
@@ -9520,7 +9524,7 @@ t</translation>
     </message>
     <message>
         <source>Reading Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Citire comandă</translation>
     </message>
     <message>
         <source>Diagonal Up</source>
@@ -9572,7 +9576,7 @@ t</translation>
     </message>
     <message>
         <source>Click to accept the solution and place the resulting values in the adjustable cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apăsați pentru a accepta soluția și plasați valorile rezultate în celulele ajustabile.</translation>
     </message>
     <message>
         <source>Restore Original Values</source>
@@ -9664,7 +9668,7 @@ t</translation>
     </message>
     <message>
         <source>Error in model. Please verify that all cells and Constraints are valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare în model. Verificați dacă toate celulele și constrângerile sunt valide.</translation>
     </message>
     <message>
         <source>Perhaps some cells that are not Variable Cells are marked as Integer or Binary.</source>
@@ -9796,7 +9800,7 @@ t</translation>
     </message>
     <message>
         <source>Constraint Precision:</source>
-        <translation type="unfinished"></translation>
+        <translation>Precizie constrângere:</translation>
     </message>
     <message>
         <source>Use Automatic Scaling</source>
@@ -9911,7 +9915,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;By Changing Variable Cells:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prin modificarea celulelor variabile:</translation>
     </message>
     <message>
         <source>S&amp;ubject to the Constraint:</source>
@@ -9939,7 +9943,7 @@ t</translation>
     </message>
     <message>
         <source>Select a Solving M&amp;ethod:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați o m&amp;etodă de rezolvare:</translation>
     </message>
     <message>
         <source>O&amp;ptions</source>
@@ -9947,15 +9951,15 @@ t</translation>
     </message>
     <message>
         <source>Solving Method</source>
-        <translation type="unfinished"></translation>
+        <translation>Metodă rezolvare</translation>
     </message>
     <message>
         <source>Briefly</source>
-        <translation type="unfinished"></translation>
+        <translation>Pe scurt</translation>
     </message>
     <message>
         <source>&amp;Solve</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rezolvă</translation>
     </message>
     <message>
         <source>Cl&amp;ose</source>
@@ -10241,7 +10245,7 @@ t</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezumat &amp;informație</translation>
     </message>
     <message>
         <source>Hyper&amp;link</source>
@@ -10305,7 +10309,7 @@ t</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificare: numai configurând parola poate avea efect următoarele configurări și pentru a evita schimbările de către alții.</translation>
     </message>
     <message>
         <source>&amp;Printing permission:</source>
@@ -10497,7 +10501,7 @@ sau pagină web</translation>
     </message>
     <message>
         <source>&amp;Extend</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Extinde</translation>
     </message>
     <message>
         <source>&amp;Drop down lines:</source>
@@ -10686,7 +10690,7 @@ sau pagină web</translation>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul pe care l-ați deschis schimbă opțiunea de la automat la manual, ceea ce va afecta fișierul curent și alte fișiere să nu obțină rezultate corecte în timp datorită procesului de editare.Doriți să schimbați la manual?</translation>
     </message>
     <message>
         <source>Manual</source>

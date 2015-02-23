@@ -1115,7 +1115,7 @@
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation>Stele și dungi</translation>
+        <translation>Stele și bannere</translation>
     </message>
     <message>
         <source>Callouts</source>
@@ -1345,7 +1345,7 @@
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <translation>Eliminând dicționarul personalizat poate afecta dicționarul personalizat utilizat de alte programe WPS Office. Doriți să continuați?</translation>
+        <translation>Eliminarea dicționarului personalizat poate afecta dicționarul personalizat utilizat de alte aplicații WPS Office. Doriți să continuați?</translation>
     </message>
 </context>
 <context>
@@ -2612,27 +2612,27 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     <name>KxFillEffectsDlg</name>
     <message>
         <source>Light downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă luminoasă</translation>
     </message>
     <message>
         <source>Light upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă luminoasă</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă întunecată</translation>
     </message>
     <message>
         <source>Dark upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă întunecată</translation>
     </message>
     <message>
         <source>Wide downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă lată</translation>
     </message>
     <message>
         <source>Wide upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă lată</translation>
     </message>
     <message>
         <source>Light vertical</source>
@@ -2660,11 +2660,11 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Dashed downward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă din linii</translation>
     </message>
     <message>
         <source>Dashed upward diagonal</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă din linii</translation>
     </message>
     <message>
         <source>Dashed horizontal</source>
@@ -5038,7 +5038,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Aqua green</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Sky Blue</source>

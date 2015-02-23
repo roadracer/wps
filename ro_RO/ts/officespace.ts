@@ -518,7 +518,7 @@
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation>&amp;Ascendent</translation>
+        <translation>&amp;Crescător</translation>
     </message>
     <message>
         <source>&amp;Descending</source>

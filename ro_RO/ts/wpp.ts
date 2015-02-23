@@ -1981,7 +1981,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Banner</source>
-        <translation type="unfinished"></translation>
+        <translation>Banner</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2738,7 +2738,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF!</source>
-        <translation>WPS Presentation a întâmpinat o eroare la încercarea de export ca PDF.</translation>
+        <translation>WPS Presentation a întâmpinat o eroare la încercarea de export ca PDF!</translation>
     </message>
 </context>
 <context>

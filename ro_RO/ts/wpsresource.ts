@@ -2244,7 +2244,7 @@ Stilul tabelului</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished">Mai multe culori linie</translation>
+        <translation>Mai multe culori linie</translation>
     </message>
     <message>
         <source>No Border</source>

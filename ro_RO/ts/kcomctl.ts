@@ -348,7 +348,7 @@
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu celulă în desfășurare</translation>
     </message>
 </context>
 <context>

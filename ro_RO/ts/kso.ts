@@ -461,22 +461,22 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge obiect</translation>
     </message>
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge obiect</translation>
     </message>
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge obiect</translation>
     </message>
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge obiect</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -646,22 +646,22 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge umbra</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge umbra</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge umbra</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge umbra</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -1911,7 +1911,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Flowchart: Collate</source>
         <comment>DRAWINGSTR_FLOWCHARTCOLLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Colaționare</translation>
     </message>
     <message>
         <source>Flowchart: Sort</source>
@@ -2421,7 +2421,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Floor Lamp</source>
         <comment>DRAWINGSTR_FLOORLAMP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lampă de podea</translation>
     </message>
     <message>
         <source>Feedback form/order form</source>
@@ -2516,7 +2516,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Pub Banner</source>
         <comment>DRAWINGSTR_PUBBANNER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Banner publicitar</translation>
     </message>
     <message>
         <source>Pub Chord</source>
@@ -2811,7 +2811,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Twine</source>
         <comment>DRAWINGSTR_TRANSFER_TWINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sfoară</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3212,7 +3212,7 @@ Fișier: %s</translation>
     <message>
         <source>Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
         <comment>_kso_Program_Warning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Atenție: Acest program de computer este protejat de legea dreptului de autor și de tratatele internaționale. Reproducerea neautorizată sau distribuția programului, sau a oricărei porțiuni a programului, poate conduce la sancțiuni civile și penale severe și vor fi urmărite penal cât mai mult posibil în condițiile legii.</translation>
     </message>
     <message>
         <source>WPS Writer has encountered a problem and needs to close.</source>
@@ -4454,7 +4454,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dark downward diagonal</source>
         <comment>kso_sDarkDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă întunecată</translation>
     </message>
     <message>
         <source>Dark horizontal</source>
@@ -4464,7 +4464,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dark upward diagonal</source>
         <comment>kso_sDarkUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă întunecată</translation>
     </message>
     <message>
         <source>Dark vertical</source>
@@ -4474,7 +4474,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dashed downward diagonal</source>
         <comment>kso_sDashedDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă din linii</translation>
     </message>
     <message>
         <source>Dashed horizontal</source>
@@ -4484,7 +4484,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dashed upward diagonal</source>
         <comment>kso_sDashedUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă din linii</translation>
     </message>
     <message>
         <source>Dashed vertical</source>
@@ -5148,7 +5148,7 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>Light downward diagonal</source>
         <comment>kso_sLightDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă luminoasă</translation>
     </message>
     <message>
         <source>Light horizontal</source>
@@ -5158,7 +5158,7 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>Light upward diagonal</source>
         <comment>kso_sLightUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă luminoasă</translation>
     </message>
     <message>
         <source>Light vertical</source>
@@ -6048,12 +6048,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Wide downward diagonal</source>
         <comment>kso_sWideDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă lată</translation>
     </message>
     <message>
         <source>Wide upward diagonal</source>
         <comment>kso_sWideUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă lată</translation>
     </message>
     <message>
         <source>Blank Presentation</source>

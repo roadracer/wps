@@ -1723,7 +1723,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>Paste Tips</source>
         <comment>WPPPasteTip</comment>
-        <translation>Lipește sfat</translation>
+        <translation>Lipește sfaturi</translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
@@ -5229,7 +5229,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Banner</source>
         <comment>wpp_sSlideSizeBanner</comment>
-        <translation type="unfinished"></translation>
+        <translation>Banner</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -5249,7 +5249,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>On-screen Show</source>
         <comment>wpp_sSlideSizeOnScreen</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arată pe ecran</translation>
     </message>
     <message>
         <source>Overhead</source>

@@ -3097,7 +3097,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>WPS Writer encountered an error while trying exporting to PDF.</source>
         <comment>wps_sExportPDFError</comment>
-        <translation>WPS Writer a întâmpinat o eroare la încercarea de expor la PDF.</translation>
+        <translation>WPS Writer a întâmpinat o eroare la încercarea de export ca PDF.</translation>
     </message>
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
@@ -5293,7 +5293,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Insert Multidiagonal Cell</source>
         <comment>TxVersion_InsertMutidiagonalCell</comment>
-        <translation>Introdu celulă multidiagonală</translation>
+        <translation>Introdu celulă mai multe diagonale</translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -5571,7 +5571,7 @@ Pentru a urma acest link, țineți apăsat tasta Ctrl și apăsați.</translatio
     <message>
         <source>Paste by Appending Table</source>
         <comment>TxEdit_PasteAppendTable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lipește ca tabel adăugat</translation>
     </message>
     <message>
         <source>Document 
