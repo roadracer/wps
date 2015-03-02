@@ -49,7 +49,7 @@
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_NotExist</comment>
-        <translation>Directorul temporar nu există sau a eșuat creearea directorului temporar.
+        <translation>Directorul temporar nu există sau a eșuat crearea directorului temporar.
 
 Verificați configurările de sistem și asigurați-vă că directorul temporar sub utilizatorul curent este disponibil, iar apoi reporniți WPS Office.</translation>
     </message>
@@ -326,7 +326,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_DlgPictureTitle</comment>
-        <translation>Introdu poză</translation>
+        <translation>Introduceți poză</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
@@ -361,22 +361,22 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Insert Scribble</source>
         <comment>DgUil_InsertScribble</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu bilețel</translation>
     </message>
     <message>
         <source>Change Freeform Point</source>
         <comment>DgUil_ChangePoint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modifică punct formă neregulată</translation>
     </message>
     <message>
         <source>Insert Freeform Point</source>
         <comment>DgUil_InsertPoint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu punct formă neregulată</translation>
     </message>
     <message>
         <source>Delete Freeform Point</source>
         <comment>DgUil_DeletePoint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge punct formă neregulată</translation>
     </message>
     <message>
         <source>Paste Format</source>
@@ -461,22 +461,22 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge obiect</translation>
     </message>
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge obiect</translation>
     </message>
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge obiect</translation>
     </message>
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge obiect</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -561,7 +561,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Set AutoShape Defaults</source>
         <comment>DgUil_KSO_Cmd_AutoShapeDefaults</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurează forma automată implicită</translation>
     </message>
     <message>
         <source>Select Multiple Objects</source>
@@ -571,7 +571,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Select Objects</source>
         <comment>DgUil_KSO_Cmd_SelectObjects</comment>
-        <translation>Selectează obiect</translation>
+        <translation>Selectează obiectele</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
@@ -581,12 +581,12 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Fill Color</source>
         <comment>DgUil_KSO_Cmd_FillColor</comment>
-        <translation>Culoare umplere</translation>
+        <translation>Umple culoare</translation>
     </message>
     <message>
         <source>Fill Effects</source>
         <comment>DgUil_KSO_Cmd_FillEffects</comment>
-        <translation>Umple efecte</translation>
+        <translation>Efecte de umplere</translation>
     </message>
     <message>
         <source>Recent Line Color</source>
@@ -601,7 +601,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Patterned Lines</source>
         <comment>DgUil_KSO_Cmd_PatternedLines</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linii modelate</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -611,7 +611,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Format AutoShape</source>
         <comment>DgUil_KSO_Cmd_MoreLines</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format formă automată</translation>
     </message>
     <message>
         <source>Format Shape</source>
@@ -646,22 +646,22 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge umbra</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge umbra</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge umbra</translation>
     </message>
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Împinge umbra</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -826,57 +826,57 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Delete Segment</source>
         <comment>DgUil_KSO_Cmd_DeleteSegment</comment>
-        <translation>Șterge segment</translation>
+        <translation>Șterge segmentul</translation>
     </message>
     <message>
         <source>Straight Segment</source>
         <comment>DgUil_KSO_Cmd_SegmentType_Value0</comment>
-        <translation>Segment dreaptă</translation>
+        <translation>Segment drept</translation>
     </message>
     <message>
         <source>Curved Segment</source>
         <comment>DgUil_KSO_Cmd_SegmentType_Value1</comment>
-        <translation>Segment curbă</translation>
+        <translation>Segment curbat</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
         <comment>DgUil_KSO_Cmd_ExitEditPoints</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ieșire modificare puncte</translation>
     </message>
     <message>
         <source>Delete Point</source>
         <comment>DgUil_KSO_Cmd_DeletePoint</comment>
-        <translation>Șterge punct</translation>
+        <translation>Șterge punctul</translation>
     </message>
     <message>
         <source>Auto Point</source>
         <comment>DgUil_KSO_Cmd_PointType_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punct automat</translation>
     </message>
     <message>
         <source>Smooth Point</source>
         <comment>DgUil_KSO_Cmd_PointType_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punct neted</translation>
     </message>
     <message>
         <source>Straight Point</source>
         <comment>DgUil_KSO_Cmd_PointType_Value2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punct drept</translation>
     </message>
     <message>
         <source>Corner Point</source>
         <comment>DgUil_KSO_Cmd_PointType_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punct de colț</translation>
     </message>
     <message>
         <source>Straight Connector</source>
         <comment>DgUil_KSO_Cmd_ConnectorType_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conector drept</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
         <comment>DgUil_KSO_Cmd_ConnectorType_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conector îndoit</translation>
     </message>
     <message>
         <source>Curved Connector</source>
@@ -936,12 +936,12 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>WordArt Same Letter Heights</source>
         <comment>DgUil_KSO_Cmd_WordArtSameLetterHeights</comment>
-        <translation>Cuvânt stilizat cu aceeiași înălțime a literelor</translation>
+        <translation>Cuvânt stilizat aceiași înălțime litere</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
         <comment>DgUil_KSO_Cmd_WordArtVerticalText</comment>
-        <translation>Test vertical Cuvânt stilizat</translation>
+        <translation>Cuvânt stilizat text vertical</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -961,17 +961,17 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Word Justify</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Justifică cuvânt</translation>
     </message>
     <message>
         <source>Letter Justify</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value4</comment>
-        <translation type="unfinished"></translation>
+        <translation>Justifică literă</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value5</comment>
-        <translation type="unfinished"></translation>
+        <translation>Întinde justificat</translation>
     </message>
     <message>
         <source>Very Tight</source>
@@ -991,12 +991,12 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Loose</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Slab</translation>
     </message>
     <message>
         <source>Very Loose</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value4</comment>
-        <translation type="unfinished"></translation>
+        <translation>Foarte slab</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1006,7 +1006,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Kern Character Pairs</source>
         <comment>DgUil_KSO_Cmd_KernCharacterPairs</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perechi caractere Kern</translation>
     </message>
     <message>
         <source>More AutoShapes</source>
@@ -1046,17 +1046,17 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Insert Diagram or Organization Chart</source>
         <comment>DgUil_KSO_Cmd_InsertChart</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu diagramă sau grafic organizație</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
         <comment>DgUil_KSO_Cmd_InsertClipArt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu miniatură artistică</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_KSO_Cmd_InsertPictureFromFile</comment>
-        <translation>Introdu poză</translation>
+        <translation>Introduceți poză</translation>
     </message>
     <message>
         <source>Insert OLE Object</source>
@@ -1096,7 +1096,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Format Object</source>
         <comment>DgUil_KSO_Cmd_FormatObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format obiect</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -1116,7 +1116,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Format Painter</source>
         <comment>DgUil_KSO_Cmd_FormatPainter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pictor formatare</translation>
     </message>
     <message>
         <source>The value must be between -600 pt and 9600 pt.</source>
@@ -1151,12 +1151,12 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_PictureCrop</comment>
-        <translation>Decupează</translation>
+        <translation>Taie</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
         <comment>DgUil_KSO_Cmd_PictureSetTransparentColor</comment>
-        <translation>Configurează transparența culorii</translation>
+        <translation>Configurare transparență culoare</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -1186,7 +1186,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_CropPicture</comment>
-        <translation>Decupează</translation>
+        <translation>Taie</translation>
     </message>
     <message>
         <source>Insert Control</source>
@@ -1263,7 +1263,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Failed to save as a picture, because the file format is unsupported.</source>
         <comment>DgUil_Cmd_SaveAsPictureFailure</comment>
-        <translation>A eșuat Salvarea Ca a unei poze, fiindcă formatul fișierului nu este suportat.</translation>
+        <translation>A eșuat salvarea ca o poză, fiindcă formatul fișierului nu este suportat.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1298,7 +1298,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Cannot create the object, this file may be in use. Please close the file and try to insert the object again.</source>
         <comment>DgUil_Kso_FailedCreateFromFile</comment>
-        <translation>Nu s epoat ecrea obiectul, acest fișier poate fi în uz. Închideți fișierul și încercați să introduceți obiectul din nou.</translation>
+        <translation>Nu se poate crea obiectul, acest fișier poate fi în uz. Închideți fișierul și încercați să introduceți obiectul din nou.</translation>
     </message>
     <message>
         <source>WPS Office cannot start the source application of the object.</source>
@@ -1376,7 +1376,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>5-Point Star</source>
         <comment>DRAWINGSTR_STAR</comment>
-        <translation>Stea 5-colțuri</translation>
+        <translation>Stea cu 5 colțuri</translation>
     </message>
     <message>
         <source>Right Arrow</source>
@@ -1416,7 +1416,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Line</source>
         <comment>DRAWINGSTR_LINE</comment>
-        <translation>Line</translation>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>Plaque</source>
@@ -1426,7 +1426,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Can</source>
         <comment>DRAWINGSTR_CAN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bidon</translation>
     </message>
     <message>
         <source>Donut</source>
@@ -1476,12 +1476,12 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Straight Connector</source>
         <comment>DRAWINGSTR_STRAIGHTCONNECTOR1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conector drept</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
         <comment>DRAWINGSTR_BENTCONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conector îndoit</translation>
     </message>
     <message>
         <source>Curved Connector</source>
@@ -1491,77 +1491,77 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Line Callout 2 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 2 (fără chenar)</translation>
     </message>
     <message>
         <source>Line Callout 3 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 3 (fără chenar)</translation>
     </message>
     <message>
         <source>Line Callout 4 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 4 (fără chenar)</translation>
     </message>
     <message>
         <source>Line Callout 2 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 2 (chenar și bară accent)</translation>
     </message>
     <message>
         <source>Line Callout 3 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 3 (chenar și bară accent)</translation>
     </message>
     <message>
         <source>Line Callout 4 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 4 (chenar și bară accent)</translation>
     </message>
     <message>
         <source>Line Callout 2</source>
         <comment>DRAWINGSTR_BORDERCALLOUT1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 2</translation>
     </message>
     <message>
         <source>Line Callout 3</source>
         <comment>DRAWINGSTR_BORDERCALLOUT2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 3</translation>
     </message>
     <message>
         <source>Line Callout 4</source>
         <comment>DRAWINGSTR_BORDERCALLOUT3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 4</translation>
     </message>
     <message>
         <source>Line Callout 2 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 2 (bară accent)</translation>
     </message>
     <message>
         <source>Line Callout 3 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 3 (bară accent)</translation>
     </message>
     <message>
         <source>Line Callout 4 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 4 (bară accent)</translation>
     </message>
     <message>
         <source>Down Ribbon</source>
         <comment>DRAWINGSTR_RIBBON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Panglică în jos</translation>
     </message>
     <message>
         <source>Up Ribbon</source>
         <comment>DRAWINGSTR_RIBBON2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Panglică în sus</translation>
     </message>
     <message>
         <source>Chevron</source>
         <comment>DRAWINGSTR_CHEVRON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Paranteză unghiulară</translation>
     </message>
     <message>
         <source>Regular Pentagon</source>
@@ -1576,32 +1576,32 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>8-Point Star</source>
         <comment>DRAWINGSTR_SEAL8</comment>
-        <translation>Stea 8-colțuri</translation>
+        <translation>Stea cu 8 colțuri</translation>
     </message>
     <message>
         <source>16-Point Star</source>
         <comment>DRAWINGSTR_SEAL16</comment>
-        <translation>Stea 16-colțuri</translation>
+        <translation>Stea cu 16-colțuri</translation>
     </message>
     <message>
         <source>32-Point Star</source>
         <comment>DRAWINGSTR_SEAL32</comment>
-        <translation>Stea 32-colțuri</translation>
+        <translation>Stea cu 32-colțuri</translation>
     </message>
     <message>
         <source>Rectangular Callout</source>
         <comment>DRAWINGSTR_WEDGERECTCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă dreptunghi</translation>
     </message>
     <message>
         <source>Rounded Rectangular Callout</source>
         <comment>DRAWINGSTR_WEDGERRECTCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă dreptunghi rotunjit</translation>
     </message>
     <message>
         <source>Oval Callout</source>
         <comment>DRAWINGSTR_WEDGEELLIPSECALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă ovală</translation>
     </message>
     <message>
         <source>Wave</source>
@@ -1611,7 +1611,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Folded Corner</source>
         <comment>DRAWINGSTR_FOLDEDCORNER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Colț pliat</translation>
     </message>
     <message>
         <source>Left Arrow</source>
@@ -1651,7 +1651,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Lightning Bolt</source>
         <comment>DRAWINGSTR_LIGHTNINGBOLT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fulger</translation>
     </message>
     <message>
         <source>Heart</source>
@@ -1671,97 +1671,97 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Left Arrow Callout</source>
         <comment>DRAWINGSTR_LEFTARROWCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă săgeată la stânga</translation>
     </message>
     <message>
         <source>Right Arrow Callout</source>
         <comment>DRAWINGSTR_RIGHTARROWCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă săgeată la dreapta</translation>
     </message>
     <message>
         <source>Up Arrow Callout</source>
         <comment>DRAWINGSTR_UPARROWCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă săgeată în sus</translation>
     </message>
     <message>
         <source>Down Arrow Callout</source>
         <comment>DRAWINGSTR_DOWNARROWCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă săgeată în jos</translation>
     </message>
     <message>
         <source>Left-Right Arrow Callout</source>
         <comment>DRAWINGSTR_LEFTRIGHTARROWCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă săgeată stânga-dreapta</translation>
     </message>
     <message>
         <source>Up-Down Arrow Callout</source>
         <comment>DRAWINGSTR_UPDOWNARROWCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă săgeată sus-jos</translation>
     </message>
     <message>
         <source>Quad Arrow Callout</source>
         <comment>DRAWINGSTR_QUADARROWCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă patru săgeți</translation>
     </message>
     <message>
         <source>Bevel</source>
         <comment>DRAWINGSTR_BEVEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Teșit</translation>
     </message>
     <message>
         <source>Left Bracket</source>
         <comment>DRAWINGSTR_LEFTBRACKET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Paranteză dreaptă la stânga</translation>
     </message>
     <message>
         <source>Right Bracket</source>
         <comment>DRAWINGSTR_RIGHTBRACKET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Paranteză dreaptă la dreapta</translation>
     </message>
     <message>
         <source>Left Brace</source>
         <comment>DRAWINGSTR_LEFTBRACE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acoladă la stânga</translation>
     </message>
     <message>
         <source>Right Brace</source>
         <comment>DRAWINGSTR_RIGHTBRACE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acoladă la dreapta</translation>
     </message>
     <message>
         <source>Left-Up Arrow</source>
         <comment>DRAWINGSTR_LEFTUPARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată stânga-sus</translation>
     </message>
     <message>
         <source>Bent-Up Arrow</source>
         <comment>DRAWINGSTR_BENTUPARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată îndoită în sus</translation>
     </message>
     <message>
         <source>Bent Arrow</source>
         <comment>DRAWINGSTR_BENTARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată îndoită</translation>
     </message>
     <message>
         <source>24-Point Star</source>
         <comment>DRAWINGSTR_SEAL24</comment>
-        <translation>Stea 24-colțuri</translation>
+        <translation>Stea cu 24-de colțuri</translation>
     </message>
     <message>
         <source>Striped Right Arrow</source>
         <comment>DRAWINGSTR_STRIPEDRIGHTARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată dreaptă la dreapta</translation>
     </message>
     <message>
         <source>Notched Right Arrow</source>
         <comment>DRAWINGSTR_NOTCHEDRIGHTARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată dințată la dreapta</translation>
     </message>
     <message>
         <source>Block Arc</source>
         <comment>DRAWINGSTR_BLOCKARC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arc bloc</translation>
     </message>
     <message>
         <source>Smiling Face</source>
@@ -1791,7 +1791,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>U-Turn Arrow</source>
         <comment>DRAWINGSTR_UTURNARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată te întorci</translation>
     </message>
     <message>
         <source>Curved Left Arrow</source>
@@ -1816,82 +1816,82 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Cloud Callout</source>
         <comment>DRAWINGSTR_CLOUDCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă nor</translation>
     </message>
     <message>
         <source>Curved Down Ribbon</source>
         <comment>DRAWINGSTR_ELLIPSERIBBON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Panglică curbată în jos</translation>
     </message>
     <message>
         <source>Curved Up Ribbon</source>
         <comment>DRAWINGSTR_ELLIPSERIBBON2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Panglică curbată în sus</translation>
     </message>
     <message>
         <source>Flowchart: Process</source>
         <comment>DRAWINGSTR_FLOWCHARTPROCESS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Proces</translation>
     </message>
     <message>
         <source>Flowchart: Decision</source>
         <comment>DRAWINGSTR_FLOWCHARTDECISION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Decizie</translation>
     </message>
     <message>
         <source>Flowchart: Data</source>
         <comment>DRAWINGSTR_FLOWCHARTINPUTOUTPUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Dată</translation>
     </message>
     <message>
         <source>Flowchart: Predefined Process</source>
         <comment>DRAWINGSTR_FLOWCHARTPREDEFINEDPROCESS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Proces predefinit</translation>
     </message>
     <message>
         <source>Flowchart: Internal Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTINTERNALSTORAGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Depozitare internă</translation>
     </message>
     <message>
         <source>Flowchart: Document</source>
         <comment>DRAWINGSTR_FLOWCHARTDOCUMENT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Document</translation>
     </message>
     <message>
         <source>Flowchart: Multidocument</source>
         <comment>DRAWINGSTR_FLOWCHARTMULTIDOCUMENT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Document multiplu</translation>
     </message>
     <message>
         <source>Flowchart: Terminator</source>
         <comment>DRAWINGSTR_FLOWCHARTTERMINATOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Terminator</translation>
     </message>
     <message>
         <source>Flowchart: Preparation</source>
         <comment>DRAWINGSTR_FLOWCHARTPREPARATION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Pregătire</translation>
     </message>
     <message>
         <source>Flowchart: Manual Input</source>
         <comment>DRAWINGSTR_FLOWCHARTMANUALINPUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Intrare manuală</translation>
     </message>
     <message>
         <source>Flowchart: Manual Operation</source>
         <comment>DRAWINGSTR_FLOWCHARTMANUALOPERATION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Operație manuală</translation>
     </message>
     <message>
         <source>Flowchart: Connector</source>
         <comment>DRAWINGSTR_FLOWCHARTCONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Conector</translation>
     </message>
     <message>
         <source>Flowchart: Card</source>
         <comment>DRAWINGSTR_FLOWCHARTPUNCHEDCARD</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Card</translation>
     </message>
     <message>
         <source>Flowchart: Punched Tape</source>
@@ -1906,292 +1906,292 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Flowchart: Or</source>
         <comment>DRAWINGSTR_FLOWCHARTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Sau</translation>
     </message>
     <message>
         <source>Flowchart: Collate</source>
         <comment>DRAWINGSTR_FLOWCHARTCOLLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Colaționare</translation>
     </message>
     <message>
         <source>Flowchart: Sort</source>
         <comment>DRAWINGSTR_FLOWCHARTSORT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Sortare</translation>
     </message>
     <message>
         <source>Flowchart: Extract</source>
         <comment>DRAWINGSTR_FLOWCHARTEXTRACT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Extragere</translation>
     </message>
     <message>
         <source>Flowchart: Merge</source>
         <comment>DRAWINGSTR_FLOWCHARTMERGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Combinare</translation>
     </message>
     <message>
         <source>FlowChart: Offline Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTOFFLINESTORAGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Depozitare offline</translation>
     </message>
     <message>
         <source>Flowchart: Stored Data</source>
         <comment>DRAWINGSTR_FLOWCHARTONLINESTORAGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Date depozitate</translation>
     </message>
     <message>
         <source>Flowchart: Magnetic Disk</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICDISK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Disc magnetic</translation>
     </message>
     <message>
         <source>Flowchart: Direct Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICDRUM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Depozitare cu acces direct</translation>
     </message>
     <message>
         <source>Flowchart: Display</source>
         <comment>DRAWINGSTR_FLOWCHARTDISPLAY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Afișaj</translation>
     </message>
     <message>
         <source>Flowchart: Delay</source>
         <comment>DRAWINGSTR_FLOWCHARTDELAY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Întârziere</translation>
     </message>
     <message>
         <source>WordArt: Plain Text</source>
         <comment>DRAWINGSTR_TEXTPLAINTEXT</comment>
-        <translation>WordArt: Text simplu</translation>
+        <translation>Cuvânt stilizat: Text simplu</translation>
     </message>
     <message>
         <source>WordArt: Octagon</source>
         <comment>DRAWINGSTR_TEXTSTOP</comment>
-        <translation>WordArt: Octogon</translation>
+        <translation>Cuvânt stilizat: Octogon</translation>
     </message>
     <message>
         <source>WordArt: Triangle</source>
         <comment>DRAWINGSTR_TEXTTRIANGLE</comment>
-        <translation>WordArt: Triunghi</translation>
+        <translation>Cuvânt stilizat: Triunghi</translation>
     </message>
     <message>
         <source>WordArt: Triangle Inverted</source>
         <comment>DRAWINGSTR_TEXTTRIANGLEINVERTED</comment>
-        <translation>WordArt: Triunghi inversat</translation>
+        <translation>Cuvânt stilizat: Triunghi inversat</translation>
     </message>
     <message>
         <source>WordArt: Chevron</source>
         <comment>DRAWINGSTR_TEXTCHEVRON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Paranteză unghiulară</translation>
     </message>
     <message>
         <source>WordArt: Chevron Inverted</source>
         <comment>DRAWINGSTR_TEXTCHEVRONINVERTED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Paranteză unghiulară inversată</translation>
     </message>
     <message>
         <source>WordArt: Ring Inside</source>
         <comment>DRAWINGSTR_TEXTRINGINSIDE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Inel interior</translation>
     </message>
     <message>
         <source>WordArt: Ring Outside</source>
         <comment>DRAWINGSTR_TEXTRINGOUTSIDE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Inel exterior</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Curve</source>
         <comment>DRAWINGSTR_TEXTARCHUPCURVE</comment>
-        <translation>WordArt: Arc de cerc în sus</translation>
+        <translation>Cuvânt stilizat: Arc de cerc în sus</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Curve</source>
         <comment>DRAWINGSTR_TEXTARCHDOWNCURVE</comment>
-        <translation>WordArt: Arc de cerc în jos</translation>
+        <translation>Cuvânt stilizat: Arc de cerc în jos</translation>
     </message>
     <message>
         <source>WordArt: Circle Curve</source>
         <comment>DRAWINGSTR_TEXTCIRCLECURVE</comment>
-        <translation>WordArt: Arc de cerc</translation>
+        <translation>Cuvânt stilizat: Arc de cerc</translation>
     </message>
     <message>
         <source>WordArt: Button Curve</source>
         <comment>DRAWINGSTR_TEXTBUTTONCURVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Buton curbat</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Pour</source>
         <comment>DRAWINGSTR_TEXTARCHUPPOUR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Arc în sus turnat</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Pour</source>
         <comment>DRAWINGSTR_TEXTARCHDOWNPOUR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Arc în jos turnat</translation>
     </message>
     <message>
         <source>WordArt: Circle Pour</source>
         <comment>DRAWINGSTR_TEXTCIRCLEPOUR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Cerc turnat</translation>
     </message>
     <message>
         <source>WordArt: Button Pour</source>
         <comment>DRAWINGSTR_TEXTBUTTONPOUR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Buton turnat</translation>
     </message>
     <message>
         <source>WordArt: Curve Up</source>
         <comment>DRAWINGSTR_TEXTCURVEUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Curbă în sus</translation>
     </message>
     <message>
         <source>WordArt: Curve Down</source>
         <comment>DRAWINGSTR_TEXTCURVEDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Curbă în jos</translation>
     </message>
     <message>
         <source>WordArt: Cascade Up</source>
         <comment>DRAWINGSTR_TEXTCASCADEUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Cascadă în sus</translation>
     </message>
     <message>
         <source>WordArt: Cascade Down</source>
         <comment>DRAWINGSTR_TEXTCASCADEDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Cascadă în jos</translation>
     </message>
     <message>
         <source>WordArt: Wave1</source>
         <comment>DRAWINGSTR_TEXTWAVE1</comment>
-        <translation>WordArt: Val1</translation>
+        <translation>Cuvânt stilizat: Val1</translation>
     </message>
     <message>
         <source>WordArt: Wave2</source>
         <comment>DRAWINGSTR_TEXTWAVE2</comment>
-        <translation>WordArt: Val2</translation>
+        <translation>Cuvânt stilizat: Val2</translation>
     </message>
     <message>
         <source>WordArt: Wave1</source>
         <comment>DRAWINGSTR_TEXTWAVE3</comment>
-        <translation>WordArt: Val1</translation>
+        <translation>Cuvânt stilizat: Val1</translation>
     </message>
     <message>
         <source>WordArt: Wave2</source>
         <comment>DRAWINGSTR_TEXTWAVE4</comment>
-        <translation>WordArt: Val2</translation>
+        <translation>Cuvânt stilizat: Val2</translation>
     </message>
     <message>
         <source>WordArt: Inflate</source>
         <comment>DRAWINGSTR_TEXTINFLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Umflat</translation>
     </message>
     <message>
         <source>WordArt: Deflate</source>
         <comment>DRAWINGSTR_TEXTDEFLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Dezumflat</translation>
     </message>
     <message>
         <source>WordArt: Inflate Bottom</source>
         <comment>DRAWINGSTR_TEXTINFLATEBOTTOM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Umflat dedesubt</translation>
     </message>
     <message>
         <source>WordArt: Deflate Bottom</source>
         <comment>DRAWINGSTR_TEXTDEFLATEBOTTOM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Dezumflat dedesubt</translation>
     </message>
     <message>
         <source>WordArt: Inflate Top</source>
         <comment>DRAWINGSTR_TEXTINFLATETOP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Umflat sus</translation>
     </message>
     <message>
         <source>WordArt: Deflate Top</source>
         <comment>DRAWINGSTR_TEXTDEFLATETOP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Dezumflat sus</translation>
     </message>
     <message>
         <source>WordArt: Deflate-Inflate</source>
         <comment>DRAWINGSTR_TEXTDEFLATEINFLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Dezumflat umflat</translation>
     </message>
     <message>
         <source>WordArt: Deflate-Inflate-Deflate</source>
         <comment>DRAWINGSTR_TEXTDEFLATEINFLATEDEFLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Dezumflat umflat dezumflat</translation>
     </message>
     <message>
         <source>WordArt: Fade Right</source>
         <comment>DRAWINGSTR_TEXTFADERIGHT</comment>
-        <translation>WordArt: Estompat dreapta</translation>
+        <translation>Cuvânt stilizat: Estompat dreapta</translation>
     </message>
     <message>
         <source>WordArt: Fade Left</source>
         <comment>DRAWINGSTR_TEXTFADELEFT</comment>
-        <translation>WordArt: Estompat stânga</translation>
+        <translation>Cuvânt stilizat: Estompat stânga</translation>
     </message>
     <message>
         <source>WordArt: Fade Up</source>
         <comment>DRAWINGSTR_TEXTFADEUP</comment>
-        <translation>WordArt: Estompat sus</translation>
+        <translation>Cuvânt stilizat: Estompat în sus</translation>
     </message>
     <message>
         <source>WordArt: Fade Down</source>
         <comment>DRAWINGSTR_TEXTFADEDOWN</comment>
-        <translation>WordArt: Estompat jos</translation>
+        <translation>Cuvânt stilizat: Estompat în jos</translation>
     </message>
     <message>
         <source>WordArt: Slant Up</source>
         <comment>DRAWINGSTR_TEXTSLANTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Înclinat în sus</translation>
     </message>
     <message>
         <source>WordArt: Slant Down</source>
         <comment>DRAWINGSTR_TEXTSLANTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Înclinat în jos</translation>
     </message>
     <message>
         <source>WordArt: Can Up</source>
         <comment>DRAWINGSTR_TEXTCANUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Bidon sus</translation>
     </message>
     <message>
         <source>WordArt: Can Down</source>
         <comment>DRAWINGSTR_TEXTCANDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuvânt stilizat: Bidon jos</translation>
     </message>
     <message>
         <source>Flowchart: Alternate Process</source>
         <comment>DRAWINGSTR_FLOWCHARTALTERNATEPROCESS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Proces alternativ</translation>
     </message>
     <message>
         <source>Flowchart: Off-page Connector</source>
         <comment>DRAWINGSTR_FLOWCHARTOFFPAGECONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Organigramă: Conector închidere pagină</translation>
     </message>
     <message>
         <source>Line Callout 1 (No Border)</source>
         <comment>DRAWINGSTR_CALLOUT90</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 1 (fără chenar)</translation>
     </message>
     <message>
         <source>Line Callout 1 (Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTCALLOUT90</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 1 (bară accent)</translation>
     </message>
     <message>
         <source>Line Callout 1</source>
         <comment>DRAWINGSTR_BORDERCALLOUT90</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 1</translation>
     </message>
     <message>
         <source>Line Callout 1 (Border and Accent Bar)</source>
         <comment>DRAWINGSTR_ACCENTBORDERCALLOUT90</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă linie 1 (chenar și bară accent)</translation>
     </message>
     <message>
         <source>Left-Right-Up Arrow</source>
         <comment>DRAWINGSTR_LEFTRIGHTUPARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Săgeată stânga-dreapta-sus</translation>
     </message>
     <message>
         <source>Sun</source>
@@ -2206,17 +2206,17 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Double Bracket</source>
         <comment>DRAWINGSTR_BRACKETPAIR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Paranteză dublă</translation>
     </message>
     <message>
         <source>Double Brace</source>
         <comment>DRAWINGSTR_BRACEPAIR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acoladă dublă</translation>
     </message>
     <message>
         <source>4-Point Star</source>
         <comment>DRAWINGSTR_SEAL4</comment>
-        <translation>Stea 4-colțuri</translation>
+        <translation>Stea cu 4-colțuri</translation>
     </message>
     <message>
         <source>Double Wave</source>
@@ -2226,62 +2226,62 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Action Button: Custom</source>
         <comment>DRAWINGSTR_ACTIONBUTTONBLANK</comment>
-        <translation>Action Button: Personalizat</translation>
+        <translation>Buton acțiune: Personalizat</translation>
     </message>
     <message>
         <source>Action Button: Home</source>
         <comment>DRAWINGSTR_ACTIONBUTTONHOME</comment>
-        <translation>Action Button: Acasă</translation>
+        <translation>Buton acțiune: Acasă</translation>
     </message>
     <message>
         <source>Action Button: Help</source>
         <comment>DRAWINGSTR_ACTIONBUTTONHELP</comment>
-        <translation>Action Button: Ajutor</translation>
+        <translation>Buton acțiune: Ajutor</translation>
     </message>
     <message>
         <source>Action Button: Information</source>
         <comment>DRAWINGSTR_ACTIONBUTTONINFORMATION</comment>
-        <translation>Action Button: Informație</translation>
+        <translation>Buton acțiune: Informație</translation>
     </message>
     <message>
         <source>Action Button: Forward or Next</source>
         <comment>DRAWINGSTR_ACTIONBUTTONFORWARDNEXT</comment>
-        <translation>Action Button: Înainte sau următor</translation>
+        <translation>Buton acțiune: Înainte sau următor</translation>
     </message>
     <message>
         <source>Action Button: Back or Previous</source>
         <comment>DRAWINGSTR_ACTIONBUTTONBACKPREVIOUS</comment>
-        <translation>Action Button: Înapoi sau anterior</translation>
+        <translation>Buton acțiune: Înapoi sau anterior</translation>
     </message>
     <message>
         <source>Action Button: End</source>
         <comment>DRAWINGSTR_ACTIONBUTTONEND</comment>
-        <translation>Action Button: Sfârșit</translation>
+        <translation>Buton acțiune: Sfârșit</translation>
     </message>
     <message>
         <source>Action Button: Beginning</source>
         <comment>DRAWINGSTR_ACTIONBUTTONBEGINNING</comment>
-        <translation>Action Button: Început</translation>
+        <translation>Buton acțiune: Început</translation>
     </message>
     <message>
         <source>Action Button: Return</source>
         <comment>DRAWINGSTR_ACTIONBUTTONRETURN</comment>
-        <translation>Action Button: Întoarce</translation>
+        <translation>Buton acțiune: Întoarce</translation>
     </message>
     <message>
         <source>Action Button: Document</source>
         <comment>DRAWINGSTR_ACTIONBUTTONDOCUMENT</comment>
-        <translation>Action Button: Document</translation>
+        <translation>Buton acțiune: Document</translation>
     </message>
     <message>
         <source>Action Button: Sound</source>
         <comment>DRAWINGSTR_ACTIONBUTTONSOUND</comment>
-        <translation>Action Button: Sunet</translation>
+        <translation>Buton acțiune: Sunet</translation>
     </message>
     <message>
         <source>Action Button: Movie</source>
         <comment>DRAWINGSTR_ACTIONBUTTONMOVIE</comment>
-        <translation>Action Button: Film</translation>
+        <translation>Buton acțiune: Film</translation>
     </message>
     <message>
         <source>Host Control</source>
@@ -2356,7 +2356,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Curved Ribbon3</source>
         <comment>DRAWINGSTR_CURVEDRIBBON3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Panglică curbată3</translation>
     </message>
     <message>
         <source>Desk</source>
@@ -2391,7 +2391,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Down Ribbon Sharp</source>
         <comment>DRAWINGSTR_DOWNRIBBONSHARP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Panglică ascuțită în jos</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -2421,7 +2421,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Floor Lamp</source>
         <comment>DRAWINGSTR_FLOORLAMP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lampă de podea</translation>
     </message>
     <message>
         <source>Feedback form/order form</source>
@@ -2466,7 +2466,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Mainframe</source>
         <comment>DRAWINGSTR_MAINFRM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mainframe</translation>
     </message>
     <message>
         <source>Multimedia</source>
@@ -2516,7 +2516,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Pub Banner</source>
         <comment>DRAWINGSTR_PUBBANNER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Banner publicitar</translation>
     </message>
     <message>
         <source>Pub Chord</source>
@@ -2551,7 +2551,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Pub R-Rect Callout</source>
         <comment>DRAWINGSTR_PUBRRECTCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Legendă Pub R-Rect</translation>
     </message>
     <message>
         <source>Diagonal Stripe</source>
@@ -2606,12 +2606,12 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Ribbon1 Sharp</source>
         <comment>DRAWINGSTR_RIBBON1SHARP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Panglică1 ascuțită</translation>
     </message>
     <message>
         <source>Ribbon2 Sharp</source>
         <comment>DRAWINGSTR_RIBBON2SHARP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Panglică2 ascuțită</translation>
     </message>
     <message>
         <source>Scanner</source>
@@ -2661,7 +2661,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Up Ribbon Sharp</source>
         <comment>DRAWINGSTR_UPRIBBONSHARP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Panglică ascuțită în sus</translation>
     </message>
     <message>
         <source>Webpage</source>
@@ -2756,7 +2756,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Starry Sky</source>
         <comment>DRAWINGSTR_TRANSFER_STAR_SKY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cer înstelat</translation>
     </message>
     <message>
         <source>Colored Paper 1</source>
@@ -2776,7 +2776,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Weave</source>
         <comment>DRAWINGSTR_TRANSFER_WEAVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Țesătură</translation>
     </message>
     <message>
         <source>Flannelette List</source>
@@ -2811,12 +2811,12 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Twine</source>
         <comment>DRAWINGSTR_TRANSFER_TWINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sfoară</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>DRAWINGSTR_INSERT_PICTURE</comment>
-        <translation>Introdu poză</translation>
+        <translation>Introduceți poză</translation>
     </message>
     <message>
         <source>Invalid index</source>
@@ -2866,7 +2866,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Thick Outline</source>
         <comment>DRAWINGSTR_DGMSTYLE_THICK_OUTLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contur gros</translation>
     </message>
     <message>
         <source>Primary Colors</source>
@@ -2876,7 +2876,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Shaded</source>
         <comment>DRAWINGSTR_DGMSTYLE_SHADED</comment>
-        <translation>Nuanțat</translation>
+        <translation>Umbrit</translation>
     </message>
     <message>
         <source>Fire</source>
@@ -2896,12 +2896,12 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Brackets</source>
         <comment>DRAWINGSTR_DGMSTYLE_BRACKETS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Paranteze drepte</translation>
     </message>
     <message>
         <source>Braces</source>
         <comment>DRAWINGSTR_DGMSTYLE_BRACES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acolade</translation>
     </message>
     <message>
         <source>Bookend Fills</source>
@@ -2911,17 +2911,17 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Stripes</source>
         <comment>DRAWINGSTR_DGMSTYLE_STRIPES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dungi</translation>
     </message>
     <message>
         <source>Beveled</source>
         <comment>DRAWINGSTR_DGMSTYLE_BEVELED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Teșitură</translation>
     </message>
     <message>
         <source>Beveled Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BEVELED_GRADIENT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gradient teșitură</translation>
     </message>
     <message>
         <source>Square Shadows</source>
@@ -2956,7 +2956,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Flowchart: Sequential Access Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagramă: Acces depozitare secvențial</translation>
     </message>
 </context>
 <context>
@@ -3212,7 +3212,7 @@ Fișier: %s</translation>
     <message>
         <source>Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</source>
         <comment>_kso_Program_Warning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Atenție: Acest program de computer este protejat de legea dreptului de autor și de tratatele internaționale. Reproducerea neautorizată sau distribuția programului, sau a oricărei porțiuni a programului, poate conduce la sancțiuni civile și penale severe și vor fi urmărite penal cât mai mult posibil în condițiile legii.</translation>
     </message>
     <message>
         <source>WPS Writer has encountered a problem and needs to close.</source>
@@ -3292,7 +3292,7 @@ Fișier: %s</translation>
     <message>
         <source>System and Exception Information File</source>
         <comment>_kso_ErrorRep_DesString_XML</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sistem și fișier criptare informație</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3359,7 +3359,7 @@ Puteți alege butonul Doar-citire pentru a deschide numai pentru citire.</transl
     <message>
         <source>(Can use %d days)</source>
         <comment>_kso_SN_Days</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Se poate utiliza %d zile)</translation>
     </message>
     <message>
         <source>(Overdue)</source>
@@ -3826,7 +3826,7 @@ Puteți apăsa butonul pentru recuperarea fișierelor la care lucrați.</transla
     <message>
         <source>mail feedback</source>
         <comment>_kso_crashdlg_mailfeedback</comment>
-        <translation>opinie poștă</translation>
+        <translation>Corespondență opinie</translation>
     </message>
     <message>
         <source>bbs feedback</source>
@@ -4324,7 +4324,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Cannot create a link to the file &quot;%s&quot;.</source>
         <comment>kso_sCannotInsertFile</comment>
-        <translation>Nu se poate creea un link la fișier &quot;%s&quot;.</translation>
+        <translation>Nu se poate crea un link la fișier &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>An error occurred on printer &quot;%s&quot; !</source>
@@ -4379,12 +4379,12 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Miniatură artistică</translation>
     </message>
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Miniatură artistică</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4449,12 +4449,12 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
         <comment>kso_sCustomTypeValueError</comment>
-        <translation>Valoarea introdusă nu se potrivește cu tipul specificat. Valoarea va fi depozitată ca text.</translation>
+        <translation>Valoarea introdusă nu se potrivește cu tipul specificat. Valoarea va fi înmagazinată ca text.</translation>
     </message>
     <message>
         <source>Dark downward diagonal</source>
         <comment>kso_sDarkDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă întunecată</translation>
     </message>
     <message>
         <source>Dark horizontal</source>
@@ -4464,7 +4464,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dark upward diagonal</source>
         <comment>kso_sDarkUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă întunecată</translation>
     </message>
     <message>
         <source>Dark vertical</source>
@@ -4474,7 +4474,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dashed downward diagonal</source>
         <comment>kso_sDashedDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă din linii</translation>
     </message>
     <message>
         <source>Dashed horizontal</source>
@@ -4484,7 +4484,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Dashed upward diagonal</source>
         <comment>kso_sDashedUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă din linii</translation>
     </message>
     <message>
         <source>Dashed vertical</source>
@@ -4519,7 +4519,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Diagonal brick</source>
         <comment>kso_sDiagonalBrick</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cărămidă diagonală</translation>
     </message>
     <message>
         <source>Divot</source>
@@ -4729,7 +4729,7 @@ Verificați datele și asigurați-vă că referința este validă iar foaia de l
     <message>
         <source>Horizontal brick</source>
         <comment>kso_sHorizontalBrick</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cărămidă orizontală</translation>
     </message>
     <message>
         <source>H&amp;ue:</source>
@@ -4766,7 +4766,9 @@ Verificați datele și asigurați-vă că referința este validă iar foaia de l
 To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <comment>kso_sInvalidFieldName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numele câmpului tabelului pivot nu este valid. 
+Pentru a crea un raport tabel pivot, trebuie să utilizați datele care sunt organizate ca o listă cu coloane etichetate. 
+Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un nume nou pentru câmp.</translation>
     </message>
     <message>
         <source>&apos;%s&apos; is not a valid integer value</source>
@@ -4816,7 +4818,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Bright Green</source>
         <comment>kso_sKclBrightGreen</comment>
-        <translation>Verde deschis</translation>
+        <translation>Verde strălucitor</translation>
     </message>
     <message>
         <source>Brown</source>
@@ -5001,7 +5003,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Lavender</source>
         <comment>kso_sKclLavender</comment>
-        <translation type="unfinished"></translation>
+        <translation>Levănțică</translation>
     </message>
     <message>
         <source>Light Blue</source>
@@ -5041,7 +5043,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Olive Green</source>
         <comment>kso_sKclOliveGreen</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde măsliniu</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -5086,7 +5088,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Sky Blue</source>
         <comment>kso_sKclSkyBlue</comment>
-        <translation>ALbastru cer</translation>
+        <translation>Cer albastru</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -5121,7 +5123,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Large checkerboard</source>
         <comment>kso_sLargeCheckerBoard</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tablă de șah mare</translation>
     </message>
     <message>
         <source>Large confetti</source>
@@ -5146,22 +5148,22 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Light downward diagonal</source>
         <comment>kso_sLightDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă luminoasă</translation>
     </message>
     <message>
         <source>Light horizontal</source>
         <comment>kso_sLightHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Luminat orizontal</translation>
     </message>
     <message>
         <source>Light upward diagonal</source>
         <comment>kso_sLightUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă luminoasă</translation>
     </message>
     <message>
         <source>Light vertical</source>
         <comment>kso_sLightVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Luminat vertical</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -5181,7 +5183,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Patterned Lines</source>
         <comment>kso_sLineFormatCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Linii modelate</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -5261,17 +5263,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Narrow horizontal</source>
         <comment>kso_sNarrowHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Orizontal îngust</translation>
     </message>
     <message>
         <source>Narrow vertical</source>
         <comment>kso_sNarrowVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertical îngust</translation>
     </message>
     <message>
         <source>Never Modify</source>
         <comment>kso_sNeverModify</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu modifica niciodată</translation>
     </message>
     <message>
         <source>New Button</source>
@@ -5296,7 +5298,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>No Border</source>
         <comment>kso_sNoBorder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fără chenar</translation>
     </message>
     <message>
         <source>No Fill</source>
@@ -5346,12 +5348,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>All Files (*.*) | *.*</source>
         <comment>kso_sOpenfilter</comment>
-        <translation>Toate fișierele(*.*)|*.*</translation>
+        <translation>Toate fișierele (*.*) | *.*</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
         <comment>kso_sOpenTxtWaring</comment>
-        <translation>Selectați codarea care vă face documentul citibil.</translation>
+        <translation>Selectați codificarea care vă face documentul citibil.</translation>
     </message>
     <message>
         <source>Outlined diamond</source>
@@ -5381,7 +5383,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>A shortcut will be created to the source file when pasting as hyperlink. Changes to the source file will be reflected in your document.</source>
         <comment>kso_sPasteLink</comment>
-        <translation type="unfinished"></translation>
+        <translation>O scurtătură va fi creată la fișierul sursă când este lipit ca hyperlink. Modificările fișierului sursă se vor reflecta în documentul dumneavoastră.</translation>
     </message>
     <message>
         <source>Select Picture</source>
@@ -5491,7 +5493,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Automatically check file security troubles before sending e-mail.</source>
         <comment>kso_sSendMail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verifică automat problemele de securitate ale fișierului înaintea trimiterii email-ului.</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
@@ -5531,7 +5533,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Small checkerboard</source>
         <comment>kso_sSmallCheckerBoard</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tablă de șah mică</translation>
     </message>
     <message>
         <source>Small confetti</source>
@@ -5576,7 +5578,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Printing</source>
         <comment>kso_sStatusPrinting</comment>
-        <translation>Tipărire</translation>
+        <translation>Se tipărește</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -5626,7 +5628,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Nonbreaking Space</source>
         <comment>kso_sSymbolNonbreakingSpace</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spațiu neântrerupt</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -5646,12 +5648,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Single Closing Quote</source>
         <comment>kso_sSymbolSingleClosingQuote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Un singur citat de închidere</translation>
     </message>
     <message>
         <source>Single Opening Quote</source>
         <comment>kso_sSymbolSingleOpeningQuote</comment>
-        <translation type="unfinished"></translation>
+        <translation>Un singur citat de deschidere</translation>
     </message>
     <message>
         <source>Trademark</source>
@@ -5696,7 +5698,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Select Texture</source>
         <comment>kso_sTextureOpenDialogCaption</comment>
-        <translation>Selectare textură</translation>
+        <translation>Selectați textura</translation>
     </message>
     <message>
         <source>3-D Style %d</source>
@@ -5726,7 +5728,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>(Trial)</source>
         <comment>kso_sTrialVersion</comment>
-        <translation>(Trial)</translation>
+        <translation>(Încercare)</translation>
     </message>
     <message>
         <source>&lt;List of Toolbars&gt;</source>
@@ -5806,7 +5808,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>%s is illegal floating value.</source>
         <comment>kso_sValueDeclined_FloatWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s este o valoare flotantă nepermisă.</translation>
     </message>
     <message>
         <source>Value should be between %d and %d.</source>
@@ -5836,72 +5838,72 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Arch Down (Curve)</source>
         <comment>kso_sWASArchDownCurve</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arc în jos (curbat)</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
         <comment>kso_sWASArchDownPour</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arc în jos (turnat)</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
         <comment>kso_sWASArchUpCurve</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arc în sus (curbat)</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
         <comment>kso_sWASArchUpPour</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arc în sus (turnat)</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
         <comment>kso_sWASBottomCurve</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dedesubt (curbat)</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
         <comment>kso_sWASBottomPour</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dedesubt (turnat)</translation>
     </message>
     <message>
         <source>Can Down</source>
         <comment>kso_sWASCanDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bidon jos</translation>
     </message>
     <message>
         <source>Can Up</source>
         <comment>kso_sWASCanUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bidon sus</translation>
     </message>
     <message>
         <source>Cascade Down</source>
         <comment>kso_sWASCascadeDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cascadă în jos</translation>
     </message>
     <message>
         <source>Cascade Up</source>
         <comment>kso_sWASCascadeUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cascadă în sus</translation>
     </message>
     <message>
         <source>Chevron Down</source>
         <comment>kso_sWASChevronDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Paranteză unghiulară în jos</translation>
     </message>
     <message>
         <source>Chevron Up</source>
         <comment>kso_sWASChevronUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Paranteză unghiulară în sus</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
         <comment>kso_sWASCircleCurve</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cerc (curbat)</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
         <comment>kso_sWASCirclePour</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cerc (turnat)</translation>
     </message>
     <message>
         <source>Curve Down</source>
@@ -5916,27 +5918,27 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Deflate Inflate Deflate</source>
         <comment>kso_sWASDefInfDef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dezumflat umflat dezumflat</translation>
     </message>
     <message>
         <source>Deflate</source>
         <comment>kso_sWASDeflate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dezumflat</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
         <comment>kso_sWASDeflateBottom</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dezumflat dedesubt</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
         <comment>kso_sWASDeflateInflate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dezumflat umflat</translation>
     </message>
     <message>
         <source>Deflate Top</source>
         <comment>kso_sWASDeflateTop</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dezumflat sus</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
@@ -5966,22 +5968,22 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Fade Up</source>
         <comment>kso_sWASFadeUp</comment>
-        <translation>Estompează în sus</translation>
+        <translation>Estompează sus</translation>
     </message>
     <message>
         <source>Inflate</source>
         <comment>kso_sWASInflate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umflat</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
         <comment>kso_sWASInflateBottom</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umflat dedesubt</translation>
     </message>
     <message>
         <source>Inflate Top</source>
         <comment>kso_sWASInflateTop</comment>
-        <translation type="unfinished"></translation>
+        <translation>Umflat sus</translation>
     </message>
     <message>
         <source>Plain Text</source>
@@ -6001,12 +6003,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Slant Down</source>
         <comment>kso_sWASSlantDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înclinat în jos</translation>
     </message>
     <message>
         <source>Slant Up</source>
         <comment>kso_sWASSlantUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Înclinat în sus</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -6041,17 +6043,17 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Weave</source>
         <comment>kso_sWeave</comment>
-        <translation type="unfinished"></translation>
+        <translation>Țesătură</translation>
     </message>
     <message>
         <source>Wide downward diagonal</source>
         <comment>kso_sWideDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală descendentă lată</translation>
     </message>
     <message>
         <source>Wide upward diagonal</source>
         <comment>kso_sWideUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonală ascendentă lată</translation>
     </message>
     <message>
         <source>Blank Presentation</source>
@@ -6286,12 +6288,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>The picture is too big to be used as a pattern.</source>
         <comment>kso_sPictureToLargeAndCannotUseasTexture</comment>
-        <translation>Poza este prea mare ca să fie utilizată ca un model.</translation>
+        <translation>Poza este prea mare pentru a fi utilizată ca un model.</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
         <comment>kso_s1028</comment>
-        <translation>Chinese (Taiwan)</translation>
+        <translation>Chinezesc (Taiwan)</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -6302,14 +6304,17 @@ For better service, please update the trial edition to standard edition by:
         <source>Organization Chart
 Used to show hierarchical relationships</source>
         <comment>kso_sOrganizationChart</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grafic organizație
+Utilizat pentru a arăta relațiile în mod ierarhic</translation>
     </message>
     <message>
         <source>Cycle Diagram
 Used to show a process with a continuous 
 cycle</source>
         <comment>kso_sCycleDiagram</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama ciclu
+Utilizată pentru a arăta un proces cu un ciclu 
+continuu</translation>
     </message>
     <message>
         <source>Radial Diagram
@@ -6336,7 +6341,8 @@ elemente</translation>
         <source>Target Diagram
 Used to show steps toward a goal</source>
         <comment>kso_sTargetDiagram</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama țintă
+Utilizată pentru a arăta pașii spre un scop</translation>
     </message>
     <message>
         <source>- (Hyphen)</source>
@@ -6346,7 +6352,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>. (Period)</source>
         <comment>kso_sSeparatorPeriod</comment>
-        <translation type="unfinished"></translation>
+        <translation>. (Perioadă)</translation>
     </message>
     <message>
         <source>: (Colon)</source>
@@ -6431,7 +6437,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>Viewer Mode</source>
         <comment>kso_sViewerModeTag</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mod vizualizator</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded, do you want to install them now?</source>

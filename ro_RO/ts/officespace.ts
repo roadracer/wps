@@ -159,7 +159,7 @@
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Reâmprospătare</translation>
+        <translation>Reâmprospătează</translation>
     </message>
     <message>
         <source>New version is available, Please Refresh</source>
@@ -188,7 +188,7 @@
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Reâmprospătare</translation>
+        <translation>Reâmprospătează</translation>
     </message>
 </context>
 <context>
@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Documentul dumneavoastră are activat acum backup-ul automat!&lt;br /&gt;Fișierul de rezervă va fi creat în Spațiul Office ori de câte ori documentul este închis.</translation>
+        <translation>Documentul dumneavoastră are activat acum backup-ul automat!&lt;br /&gt;Fișierul de rezervă va fi creat în spațiul de birou ori de câte ori documentul este închis.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
@@ -316,18 +316,18 @@
     <name>KDataRecoverButton</name>
     <message>
         <source>Data Recovery Master</source>
-        <translation>Data Recovery Master</translation>
+        <translation>Recuperare date Master</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>WPS Data Recovery Master</translation>
+        <translation>WPS recuperare date Master</translation>
     </message>
 </context>
 <context>
     <name>KDataRecoverDownloadTip</name>
     <message>
         <source>Loading the Data Recovery Master. Please wait...</source>
-        <translation>Se încarcă Data Recovery Master. Așteptați...</translation>
+        <translation>Se încarcă Recuperare date Master. Așteptați...</translation>
     </message>
 </context>
 <context>
@@ -518,7 +518,7 @@
     </message>
     <message>
         <source>&amp;Ascending</source>
-        <translation>&amp;Ascendent</translation>
+        <translation>&amp;Crescător</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
@@ -526,7 +526,7 @@
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Salvează în Cloud Docs</translation>
+        <translation>Salvează în norul documentelor</translation>
     </message>
     <message>
         <source>Go to the previous folder</source>
@@ -717,11 +717,11 @@
     <name>KLiveEmbedDialogImpl</name>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Deschide din Cloud Docs</translation>
+        <translation>Deschide din norul documentelor</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Salvează în Cloud Docs</translation>
+        <translation>Salvează în norul documentelor</translation>
     </message>
 </context>
 <context>
@@ -834,7 +834,7 @@
     </message>
     <message>
         <source>Folder cannot be created in the current location</source>
-        <translation>Dosarul nu poate fi creeat în locația curentă</translation>
+        <translation>Dosarul nu poate fi creat în locația curentă</translation>
     </message>
     <message>
         <source>A file with this name already exists</source>
@@ -1103,7 +1103,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>textLabel</source>
-        <translation>Etichetătext</translation>
+        <translation>Text etichetă</translation>
     </message>
     <message>
         <source>closeLabel</source>
@@ -1111,11 +1111,11 @@ cale:%3</translation>
     </message>
     <message>
         <source>button1Label</source>
-        <translation>Etichetăbuton1</translation>
+        <translation>Etichetă buton1</translation>
     </message>
     <message>
         <source>button2Label</source>
-        <translation>Etichetăbuton2</translation>
+        <translation>Etichetă buton2</translation>
     </message>
 </context>
 <context>
@@ -1265,7 +1265,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>Crează</translation>
+        <translation>Creează</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -1322,11 +1322,11 @@ cale:%3</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>Combinare corespondență</translation>
+        <translation>Combinare poștă</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation>Filigran</translation>
+        <translation>Logo</translation>
     </message>
     <message>
         <source>Presentation:</source>
@@ -1334,7 +1334,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Spreadsheets:</source>
-        <translation>Spreadsheets:</translation>
+        <translation>Foi de calcul:</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -1354,7 +1354,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation>Restricționare editare</translation>
+        <translation>Restricționează editarea</translation>
     </message>
     <message>
         <source>Restrict Editing Content.</source>
@@ -1382,7 +1382,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
-        <translation>Copiază fișierul prezentare și elementele media aferente, precum video, audio, etc. în dosarul specificat, cu scopul de a reda acest fișier pe alt computer.</translation>
+        <translation>Copiază fișierul prezentare și elementele media aferente, cum ar fi video, audio, etc. într-un dosar specificat, pentru a reda acest fișier pe alt computer.</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -1394,7 +1394,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation>Consolidează</translation>
+        <translation>Consolidare</translation>
     </message>
     <message>
         <source>Combine values from multiple ranges into one new range.</source>
@@ -1422,7 +1422,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation>Partajează registru de lucru</translation>
+        <translation>Partajează registrul de lucru</translation>
     </message>
     <message>
         <source>Allow multiple people to work in a workbook at the same time.</source>
@@ -1965,7 +1965,7 @@ După expirare, unele funcții nu vor funcționa corespunzător. Reânnoiți acu
     <name>KxVbaReminderDlg</name>
     <message>
         <source>Macro</source>
-        <translation>Macrocomenzi</translation>
+        <translation>Macrocomandă</translation>
     </message>
     <message>
         <source>Macros depend on VBA support to function correctly. </source>

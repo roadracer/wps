@@ -48,7 +48,7 @@
     </message>
     <message>
         <source>Olive Green</source>
-        <translation>Verde oliv</translation>
+        <translation>Verde măsliniu</translation>
     </message>
     <message>
         <source>Dark Green</source>
@@ -116,11 +116,11 @@
     </message>
     <message>
         <source>Sea Green</source>
-        <translation>Verde ocean</translation>
+        <translation>Verde marin</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation>Apa</translation>
+        <translation>Aqua</translation>
     </message>
     <message>
         <source>Light Blue</source>
@@ -148,7 +148,7 @@
     </message>
     <message>
         <source>Bright Green</source>
-        <translation>Verde luminos</translation>
+        <translation>Verde strălucitor</translation>
     </message>
     <message>
         <source>Turquoise</source>
@@ -168,11 +168,11 @@
     </message>
     <message>
         <source>Rose</source>
-        <translation>Trandafir</translation>
+        <translation>Trandafiriu</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation>Cafeniu roșiatic</translation>
+        <translation>Cafeniu</translation>
     </message>
     <message>
         <source>Light Yellow</source>
@@ -188,7 +188,7 @@
     </message>
     <message>
         <source>Pale Blue</source>
-        <translation>Blu pal</translation>
+        <translation>Albastru pal</translation>
     </message>
     <message>
         <source>Lavender</source>
@@ -218,7 +218,7 @@
     <name>KDocTabbarEx</name>
     <message>
         <source>Customize Quick Access</source>
-        <translation>Personalizare acces rapid</translation>
+        <translation>Personalizează accesul rapid</translation>
     </message>
     <message>
         <source>Add to</source>
@@ -336,7 +336,7 @@
     <message>
         <source>Gold</source>
         <comment>Member user type</comment>
-        <translation>Aur</translation>
+        <translation>Auriu</translation>
     </message>
     <message>
         <source>Platina</source>
@@ -348,7 +348,7 @@
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
-        <translation>InsertCellsInPopup</translation>
+        <translation>Introdu celulă în desfășurare</translation>
     </message>
 </context>
 <context>
@@ -446,7 +446,7 @@ fișierul este posibil să fie redenumit, șters sau mutat.</translation>
 modify time: </source>
         <translation>
 
-timpul modificării: </translation>
+timp modificare: </translation>
     </message>
     <message>
         <source>
@@ -454,7 +454,7 @@ timpul modificării: </translation>
 This record is invalid, the file may be renamed,deleted or moved the location</source>
         <translation>
 
-Această înregistrare este nevalidă, fișierul poate a fost redenumit, șters sau mutat</translation>
+Această înregistrare nu este validă, fișierul poate a fost redenumit,șters sau mutat</translation>
     </message>
 </context>
 <context>
@@ -556,11 +556,11 @@ reinstalați WPS Office!</translation>
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Valoarea de intrare trebuie să fie între %1 and %2.</translation>
+        <translation>Valoarea de intrare trebuie să fie între %1 și %2.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>Aceasta nu este un număr întreg valid.</translation>
+        <translation>Acesta nu este un număr întreg valid.</translation>
     </message>
 </context>
 <context>
@@ -571,7 +571,7 @@ reinstalați WPS Office!</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>Aceasta nu este un număr întreg valid.</translation>
+        <translation>Acesta nu este un număr întreg valid.</translation>
     </message>
 </context>
 <context>

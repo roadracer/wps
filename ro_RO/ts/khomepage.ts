@@ -13,7 +13,7 @@
     <name>KHomepageMainWindow</name>
     <message>
         <source>Create a blank document at startup</source>
-        <translation>Crează un document gol la pornire</translation>
+        <translation>Creează un document gol la pornire</translation>
     </message>
     <message>
         <source>Current version:</source>
