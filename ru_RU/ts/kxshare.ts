@@ -1742,7 +1742,7 @@ Toolbox), please purchase WPS Office Professional.</source>
     <name>KxDlgEditWordArtText</name>
     <message>
         <source>Edit WordArt Text</source>
-        <translation>Редактирование текста WordArt</translation>
+        <translation>Редактирование фигурного текста</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
