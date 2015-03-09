@@ -6,127 +6,127 @@
     <name>AdvQueryDlgUi</name>
     <message>
         <source>Advanced Query</source>
-        <translation type="Розширений запит"></translation>
+        <translation>Розширений запит</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="Сортувати"></translation>
+        <translation>Сортувати</translation>
     </message>
     <message>
         <source>&amp;Add to the list</source>
-        <translation type="Додати до листа"></translation>
+        <translation>Додати до листа</translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation type="Видалит з листа"></translation>
+        <translation>Видалит з листа</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="Цідило"></translation>
+        <translation>Цідило</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="Образ"></translation>
+        <translation>Образ</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="Підказка"></translation>
+        <translation>Підказка</translation>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation type="Додати до списку"></translation>
+        <translation>Додати до списку</translation>
     </message>
     <message>
         <source>D&amp;elete from the list</source>
-        <translation type="Стерти з списку"></translation>
+        <translation>Стерти з списку</translation>
     </message>
 </context>
 <context>
     <name>ChangeFileAccess</name>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="Ви внесли зміни в &quot;%s&quot;."></translation>
+        <translation>Ви внесли зміни в &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="Інший користувач також вніс зміни. Ваші дії?"></translation>
+        <translation>Інший користувач також вніс зміни. Ваші дії?</translation>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="Клацніть &quot;Відмінити&quot; для відміни змін та редагування останньої версії."></translation>
+        <translation>Клацніть &quot;Відмінити&quot; для відміни змін та редагування останньої версії.</translation>
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="Клацніть &quot;Зберегти як..&quot; для збереження змін в інший файл та відкриття останньої версії."></translation>
+        <translation>Клацніть &quot;Зберегти як..&quot; для збереження змін в інший файл та відкриття останньої версії.</translation>
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="Відмінити"></translation>
+        <translation>Відмінити</translation>
     </message>
     <message>
         <source>&amp;Save as</source>
-        <translation type="Зберегти як..."></translation>
+        <translation>Зберегти як...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="Відміна"></translation>
+        <translation>Відміна</translation>
     </message>
 </context>
 <context>
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation type="вибір ширини стовпця"></translation>
+        <translation>вибір ширини стовпця</translation>
     </message>
 </context>
 <context>
     <name>ConnectPage</name>
     <message>
         <source>Ctrl+W</source>
-        <translation type=></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type=></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type=></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Alt+W</source>
-        <translation type=></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ConnectPageUi</name>
     <message>
         <source>Step 1 : Select data source</source>
-        <translation type="Крок 1: Вибір джерела даних"></translation>
+        <translation>Крок 1: Вибір джерела даних</translation>
     </message>
     <message>
         <source>Select data source</source>
-        <translation type="Вибір джерела даних"></translation>
+        <translation>Вибір джерела даних</translation>
     </message>
     <message>
         <source>&amp;Open data file directly</source>
-        <translation type="Вибір файлу даних"></translation>
+        <translation>Вибір файлу даних</translation>
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation type="Використати ODBC настанову по з’єданню з джерелом даних"></translation>
+        <translation>Використати ODBC настанову по з’єданню з джерелом даних</translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
-        <translation type="Вибір джерела даних..."></translation>
+        <translation>Вибір джерела даних...</translation>
     </message>
     <message>
         <source>Input &amp;connection string manually</source>
-        <translation type="Введення &amp;стрічки під’єданння вручну"></translation>
+        <translation>Введення &amp;стрічки під’єданння вручну</translation>
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="Пояснення"></translation>
+        <translation>Пояснення</translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
