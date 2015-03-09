@@ -6,7 +6,7 @@
     <name>KCommand</name>
     <message>
         <source>Treasure Box</source>
-        <translation>Skrzynia Skarbów</translation>
+        <translation>Szkatułka</translation>
     </message>
     <message>
         <source>Kingsoft Office recommendation</source>
@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
-        <translation>Wielu ludzi używa tego świetnego narzędzia. Chcesz je wypróbować?</translation>
+        <translation>Wiele osób korzysta z tego wspaniałego narzędzia. Czy chcesz spróbować?</translation>
     </message>
     <message>
         <source>All right</source>
@@ -22,11 +22,11 @@
     </message>
     <message>
         <source>No thanks.</source>
-        <translation>Nie dzięki</translation>
+        <translation>Nie, dziękuję.</translation>
     </message>
     <message>
         <source>WPS Office Recommendation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekomendacja WPS Office</translation>
     </message>
 </context>
 </TS>

@@ -242,10 +242,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     </message>
     <message>
         <source>Recent Fonts</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnie czcionki</lengthvariant>
-            <lengthvariant>Czcionki ostatnie</lengthvariant>
-        </translation>
+        <translation>Ostatnio używane czcionki</translation>
     </message>
 </context>
 </TS>

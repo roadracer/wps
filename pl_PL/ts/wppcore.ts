@@ -498,7 +498,10 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Center</source>
         <comment>TXTRANS_PARA_ALIGNMENT_CENTER</comment>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -1766,7 +1769,7 @@ Please try one of the following.
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>WP_OpenFailure</comment>
-        <translation>Występują błędy, gdy WPS Presentation otwiera ten plik.
+        <translation>Występują błędy, gdy program WPS Presentation otwiera ten plik.
 Wypróbuj jedną z następujących czynności.
 •Upewnij się, że masz uprawnienia dostępu do tego pliku lub dysku.
 •Upewnij się, że nie jest za mało pamięci i miejsca na dysku.	
@@ -1777,14 +1780,14 @@ Wypróbuj jedną z następujących czynności.
         <source>WPS Presentation cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>WP_OpenPasswordFailure</comment>
-        <translation>WPS Presentation nie może otworzyć tego pliku, ponieważ hasło jest nieprawidłowe.
+        <translation>Program WPS Presentation nie może otworzyć tego pliku, ponieważ hasło jest nieprawidłowe.
 (%s)</translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>WP_OpenProvALGVerFailure</comment>
-        <translation>Nieobsługiwany szyfrowany format pliku. Prosimy skontaktuj się z twórcą.
+        <translation>Nieobsługiwany szyfrowany format pliku. Proszę skontaktuj się z jego twórcą.
 (%s)</translation>
     </message>
     <message>
@@ -1923,8 +1926,8 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <translation>Twój program antywirusowy napotkał błędy podczas skanowania tego pliku (kod błędu: 0x%08X). Proszę skontaktuj się z agentem oprogramowania antywirusowego. 
 Czy nadal chcesz otworzyć ten plik?
 
-•Kliknij przycisk Tak, WPS Presentation będzie kontynował otwieranie tego pliku.
-•Kliknij przycisk Nie, WPS Presentation zatrzyma otwieranie tego pliku.
+•Kliknij przycisk Tak, program WPS Presentation będzie kontynował otwieranie tego pliku.
+•Kliknij przycisk Nie, program WPS Presentation zatrzyma otwieranie tego pliku.
 
 Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne szkodliwe akcje. Jeżeli nie ufasz temu plikowi, po prostu nie otwieraj go.
 (%s)</translation>
@@ -1959,10 +1962,10 @@ Please try one of the following.
 •Ask its creator to change the permission control level of this file.
 (%s)</source>
         <comment>WPPKRMOPENNOOWNER</comment>
-        <translation>WPS Presentation nie może otworzyć tego pliku, ponieważ bieżący użytkownik nie ma wystarczających uprawnień dostępu.
+        <translation>Program WPS Presentation nie może otworzyć tego pliku, ponieważ bieżący użytkownik nie ma wystarczających uprawnień dostępu. 
 Proszę wypróbuj jedną z następujących czynności:
 •Przełącz się do konta innego użytkownika.
-•Zapytaj jego twórcy, aby zmienił uprawnienia poziomu kontroli tego pliku.
+•Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli tego pliku.
 (%s)</translation>
     </message>
     <message>
@@ -6205,10 +6208,7 @@ slajdu</translation>
     <message>
         <source>Can&apos;t Redo</source>
         <comment>WpCANNOTREDO_CAPTION</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można wykonać ponownie</lengthvariant>
-            <lengthvariant>Nie można ponowić</lengthvariant>
-        </translation>
+        <translation>Nie można wykonać ponownie</translation>
     </message>
     <message>
         <source>Undo</source>

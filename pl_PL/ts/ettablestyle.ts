@@ -46,7 +46,11 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished">Uwypuklenie</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wyróżnienie</lengthvariant>
+            <lengthvariant>Uwydatnienie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
@@ -153,7 +157,11 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished">Uwypuklenie</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wyróżnienie</lengthvariant>
+            <lengthvariant>Uwydatnienie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
@@ -243,15 +251,18 @@
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl tabeli:</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Opcje stylu tabeli:</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation>Czysty styl tabeli</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyczyść styl tabeli</translation>
     </message>
 </context>
 </TS>

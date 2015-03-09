@@ -6,7 +6,7 @@
     <name>KApplication</name>
     <message>
         <source>Trial Version</source>
-        <translation>Wersja Próbna</translation>
+        <translation>Wersja próbna</translation>
     </message>
 </context>
 <context>
@@ -20,11 +20,13 @@
     <name>KColorCtrl</name>
     <message>
         <source>No Color</source>
-        <translation>Brak koloru</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Bez koloru</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Automatyczny</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Automatycznie</translation>
     </message>
     <message>
         <source>&amp;More Colors</source>
@@ -44,35 +46,43 @@
     </message>
     <message>
         <source>Black</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Czarny</translation>
     </message>
     <message>
         <source>Brown</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Brązowy</translation>
     </message>
     <message>
         <source>Olive Green</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Oliwkowozielony</translation>
     </message>
     <message>
         <source>Dark Green</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Ciemnozielony</translation>
     </message>
     <message>
         <source>Dark Teal</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ciemnozielonomodry</translation>
     </message>
     <message>
         <source>Dark Blue</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Ciemnoniebieski</translation>
     </message>
     <message>
         <source>Indigo</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Indygo</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation>Szary 80%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-80%</translation>
     </message>
     <message>
         <source>Dark Red</source>
@@ -84,27 +94,33 @@
     </message>
     <message>
         <source>Dark Yellow</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Ciemnożółty</translation>
     </message>
     <message>
         <source>Green</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Zielony</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zielonomodry</translation>
     </message>
     <message>
         <source>Blue</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Niebieski</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Niebieskoszary</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation>Szary 50%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-50%</translation>
     </message>
     <message>
         <source>Red</source>
@@ -112,66 +128,85 @@
     </message>
     <message>
         <source>Light Orange</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Jasnopomarańczowy</translation>
     </message>
     <message>
         <source>Lime</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Limonkowy</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation>Zielonomodry</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Morska zieleń</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Akwamaryna</lengthvariant>
+            <lengthvariant>Niebieskozielony</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Light Blue</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Jasnoniebieski</translation>
     </message>
     <message>
         <source>Violet</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Fioletowy</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation>Szary 40%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-40%</translation>
     </message>
     <message>
         <source>Pink</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Różowy</translation>
     </message>
     <message>
         <source>Gold</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Złoty</translation>
     </message>
     <message>
         <source>Yellow</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Żółty</translation>
     </message>
     <message>
         <source>Bright Green</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Jasnozielony</translation>
     </message>
     <message>
         <source>Turquoise</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Turkusowy</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Lazurowy</translation>
     </message>
     <message>
         <source>Plum</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Śliwkowy</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation>Szary 25%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-25%</translation>
     </message>
     <message>
         <source>Rose</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Różany</translation>
     </message>
     <message>
@@ -180,26 +215,38 @@
     </message>
     <message>
         <source>Light Yellow</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Jasnożółty</translation>
     </message>
     <message>
         <source>Light Green</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Jasnozielony</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation>Jasnoturkusowy</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Jasnoturkusowy</lengthvariant>
+            <lengthvariant>Pastelowobłękitny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pale Blue</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Bladoniebieski</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation>Lawendowy</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Liliowy</lengthvariant>
+            <lengthvariant>Lawendowy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>White</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Biały</translation>
     </message>
     <message>
@@ -215,7 +262,7 @@
     </message>
     <message>
         <source>Undefined Widget</source>
-        <translation>Widżet Niezdefiniowany</translation>
+        <translation>Niezdefiniowany Widget</translation>
     </message>
 </context>
 <context>
@@ -351,7 +398,8 @@
     <message>
         <source>Gold</source>
         <comment>Member user type</comment>
-        <translation type="unfinished">Złoty</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Złoty</translation>
     </message>
     <message>
         <source>Platina</source>
@@ -389,7 +437,8 @@
     </message>
     <message>
         <source>Not allowed.</source>
-        <translation>Niedozwolone.</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation type="unfinished">Niedozwolone.</translation>
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
@@ -397,19 +446,23 @@
     </message>
     <message>
         <source>Caps Lock on.</source>
-        <translation>Włączony Caps Lock.</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation type="unfinished">Klawisz Caps Lock jest włączony.</translation>
     </message>
     <message>
         <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
-        <translation>Włączony Caps Lock może prowadzić do błędnego wprowadzenia hasła.</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation type="unfinished">Włączony klawisz Caps Lock może spowodować nieprawidłowe wprowadzenie hasła.</translation>
     </message>
     <message>
         <source>You should press Caps Lock to turn it off before entering your password.</source>
-        <translation>Przed wprowadzaniem hasła, powinieneś przycisnąć &quot;Caps Lock&quot; aby go wyłączyć.</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation type="unfinished">Przed wprowadzeniem hasła naciśnij klawisz Caps Lock, aby go wyłączyć.</translation>
     </message>
     <message>
         <source>You cannot copy text from a password field.</source>
-        <translation>Nie możesz kopiować z pola hasła.</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation type="unfinished">Nie można kopiować tekstu, który znajduje się w polu hasła.</translation>
     </message>
 </context>
 <context>
@@ -451,7 +504,8 @@
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation type="unfinished">Ostatnie Dokumenty: </translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Niedawno używane dokumenty: </translation>
     </message>
     <message>
         <source>Open</source>
@@ -459,7 +513,11 @@
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished">Wyczyść Wszystko</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wyczyść wszystko</lengthvariant>
+            <lengthvariant>Wyczyść wszystkie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -498,22 +556,31 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KToolTipWidget</name>
     <message>
         <source>KToolTipWidget</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>KToolTipWidget</lengthvariant>
+            <lengthvariant>KEtykietkaNarzędziaWidget</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation>Podpowiedź</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Porada</translation>
     </message>
 </context>
 <context>
     <name>KUnderLineCtrl</name>
     <message>
         <source>(None)</source>
-        <translation>(Żaden)</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>(Brak)</translation>
     </message>
     <message>
         <source>Words Only</source>
-        <translation>Tylko Wyrazy</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Tylko wyrazy</lengthvariant>
+            <lengthvariant>Tylko słowa</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -562,22 +629,26 @@ please reinstall WPS Office!</source>
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wprowadzana musi zawierać się pomiędzy %1 a %2.</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>To nie jest poprawna liczba.</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
     </message>
 </context>
 <context>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wprowadzana musi zawierać się pomiędzy %1 a %2.</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>To nie jest poprawna liczba.</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
     </message>
 </context>
 <context>
@@ -606,6 +677,7 @@ please reinstall WPS Office!</source>
     <name>QMdiSubWindow</name>
     <message>
         <source>Restore</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Przywróć</translation>
     </message>
     <message>
@@ -614,6 +686,7 @@ please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Size</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Rozmiar</translation>
     </message>
     <message>
@@ -626,6 +699,7 @@ please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Close</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Zamknij</translation>
     </message>
 </context>
@@ -633,15 +707,15 @@ please reinstall WPS Office!</source>
     <name>QObject</name>
     <message>
         <source>NumLock</source>
-        <translation>NumLock</translation>
+        <translation>Num Lock</translation>
     </message>
     <message>
         <source>NumLock: On</source>
-        <translation>NumLock: Włączony</translation>
+        <translation>Num Lock: Włączony</translation>
     </message>
     <message>
         <source>NumLock: Off</source>
-        <translation>NumLock: Wyłączony</translation>
+        <translation>Num Lock: Wyłączony</translation>
     </message>
     <message>
         <source>Caps Lock</source>
@@ -653,7 +727,7 @@ please reinstall WPS Office!</source>
     </message>
     <message>
         <source>CapsLock: Off</source>
-        <translation>CapsLock: Wyłączony</translation>
+        <translation>Caps Lock: Wyłączony</translation>
     </message>
     <message>
         <source>OverWrite</source>
@@ -685,11 +759,14 @@ please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Overtype</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Zastępowanie</lengthvariant>
+            <lengthvariant>Zastąp</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Delete from List</source>
-        <translation>Usuń z listy</translation>
+        <translation>Usuń z Listy</translation>
     </message>
 </context>
 </TS>

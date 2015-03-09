@@ -6,32 +6,38 @@
     <name>KAffirmDialog</name>
     <message>
         <source>WPS Office Clear Backup Files Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdzenie wyczyszczenia kopii zapasowej plików WPS Office</translation>
     </message>
     <message>
         <source>The backup files below will be deleted. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Poniższe pliki kopii zapasowej zostaną usunięte. Czy chcesz kontynuować?</lengthvariant>
+            <lengthvariant>Pliki kopii zapasowej pokazane poniżej zostaną usunięte. Czy chcesz kontynuować?</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik</translation>
     </message>
     <message>
         <source>Clear backup</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean succeed
 ----------
 ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such as, one of file locked)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść kopię zapasową</translation>
     </message>
     <message>
         <source>Clearing backup files completed.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean succeed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ukończono czyszczenie kopii zapasowej plików.</translation>
     </message>
     <message>
         <source>Clearing backup files completed, but some files cannot be deleted for being occupied.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such as, one of file locked)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Ukończono czyszczenie kopii zapasowej plików, ale niektóre zajęte pliki nie mogą być usunięte.</lengthvariant>
+            <lengthvariant>Ukończono czyszczenie kopii zapasowej plików, ale niektóre pliki nie mogą być usunięte, ponieważ są zajęte.</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -127,7 +133,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Please enter the serial number:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wprowadź numer seryjny:</lengthvariant>
+            <lengthvariant>Proszę podać numer seryjny:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>The serial number you entered already exists.</source>
@@ -267,7 +277,8 @@ We will do our utmost to repair the applications and restore them to the default
     <message>
         <source>&amp;Advanced...</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Zaawansowane...</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -300,7 +311,8 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <name>KPageAddinMgr</name>
     <message>
         <source>Plug-in Platform</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wtyczka platformy</translation>
     </message>
     <message>
         <source>WPS Office provides you with a platform to install plug-ins, so that you can easily install and use kinds of extended plug-ins. If this platform caused inconvenience to your work, you can choose whether to enable it.</source>
@@ -308,11 +320,13 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>&amp;Enable plug-in platform</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Włącz wtyczkę platformy</translation>
     </message>
     <message>
         <source>Note: When you enable or disable the plug-in platform, you must restart WPS Office for the action to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Uwaga: W przypadku włączenia lub wyłączenia wtyczki platformy, musisz ponownie uruchomić WPS Office, aby ta akcja została uwzględniona.</translation>
     </message>
 </context>
 <context>
@@ -376,7 +390,8 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>Please choose the type of backup files to be cleared.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; uncheck all options -&gt; Start Clearing</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Proszę wybierz typ kopii zapasowej plików do usunięcia.</translation>
     </message>
 </context>
 <context>
@@ -391,7 +406,8 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Click the button below to switch to the old version, you must restart WPS Office for the action to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kliknij poniższy przycisk, aby przełączyć do starszej wersji. Musisz ponownie uruchomić WPS Office, aby ta akcja została uwzględniona.</translation>
     </message>
     <message>
         <source>Switch to old ve&amp;rsion</source>
@@ -407,7 +423,8 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Click the button below to switch to the new version, you must restart WPS Office for the action to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kliknij poniższy przycisk, aby przełączyć do nowej wersji. Musisz ponownie uruchomić WPS Office, aby ta akcja została uwzględniona.</translation>
     </message>
     <message>
         <source>You are using an older version of WPS Office. The new version has greatly improved and enhanced in functionality and performance. We recommend that you use the new version.</source>
@@ -459,7 +476,8 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Skoroszyt programu Microsoft &amp;Excel (*.xls, *.xlt, *.xlsx pliki)</translation>
     </message>
     <message>
         <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
@@ -494,7 +512,9 @@ These operations can be undone. </source>
         <source>The option &quot;Compatible with third-party software&quot;
 needs restarting Windows to take effect.</source>
         <extracomment>ksomisc -&gt; Advanced -&gt; File Asso -&gt; Check/Uncheck compat with mso.</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Opcja &quot;Kompatybilny z oprogramowaniem firm trzecich&quot;
+wymaga ponownego uruchomienia systemu Widnows, aby została uwzględniona.</translation>
     </message>
 </context>
 <context>
@@ -692,11 +712,13 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>New Blue Theme</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowy Motyw niebieski</translation>
     </message>
     <message>
         <source>New Black Theme</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowy Motyw czarny</translation>
     </message>
     <message>
         <source>Dream Blue</source>
@@ -760,7 +782,8 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Spreadsheets Template</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szablon programu WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Microsoft Office Excel Application</source>
@@ -780,7 +803,8 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Office Excel 2007 Macro-Enabled Workbook</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Skoroszyt programu Microsoft Office Excel 2007 z włączoną obsługą makr</translation>
     </message>
     <message>
         <source>Microsoft Office Excel 2007 Binary Workbook</source>
@@ -840,7 +864,8 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Excel Workbook</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Skoroszyt programu Microsoft Excel</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Slide</source>
@@ -1036,7 +1061,8 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
@@ -1044,7 +1070,8 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft Office Excel Data Interchange Format</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Format wymiany danych programu Microsoft Office Excel</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Worksheet</source>
@@ -1087,7 +1114,8 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>Serial Number</source>
@@ -1099,7 +1127,8 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Subtotal:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Suma częściowa:</translation>
     </message>
     <message>
         <source>Are you sure to delete the serial number?</source>
@@ -1142,7 +1171,8 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Internet Connection:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Połączenie internetowe:</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
@@ -1162,15 +1192,18 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>User name:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nazwa użytkownika:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Hasło:</translation>
     </message>
     <message>
         <source>Software recommend：</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zalecane oprogramowanie:</translation>
     </message>
     <message>
         <source>Recommend sof&amp;tware to after the upgrade is complete.</source>

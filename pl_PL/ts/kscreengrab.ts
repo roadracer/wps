@@ -30,7 +30,8 @@
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kopiuj do Schowka</translation>
     </message>
     <message>
         <source>Save</source>
@@ -75,7 +76,8 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zapisz jako</translation>
     </message>
     <message>
         <source>%1;;%2;;%3</source>

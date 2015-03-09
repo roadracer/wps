@@ -297,56 +297,77 @@ Proszę sprawdź ustawienia systemowe i upewnij się, że katalog tymczasowy akt
     <message>
         <source>No Item In Collection</source>
         <comment>_ksoErr_Basic_NoItemInCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Nie element w kolekcji</lengthvariant>
+            <lengthvariant>Żaden element w kolekcji</lengthvariant>
+            <lengthvariant>Bez elementu w kolekcji</lengthvariant>
+            <lengthvariant>Brak elementu w kolekcji</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Object Deleted</source>
         <comment>_ksoErr_Basic_ObjectDeleted</comment>
-        <translation type="unfinished">Obiekt Usunięty</translation>
+        <translation variants="yes">
+            <lengthvariant>Usunięto obiekt</lengthvariant>
+            <lengthvariant>Obiekt usunięto</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Value Out Of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation type="unfinished">Wartość Poza Zakresem</translation>
+        <translation variants="yes">
+            <lengthvariant>Wartość jest spoza dozwolonego zakresu</lengthvariant>
+            <lengthvariant>Wartość spoza zakresu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Invalid Parameter</source>
         <comment>_ksoErr_Basic_BadParameter</comment>
-        <translation type="unfinished">Nieprawidłowy Parametr</translation>
+        <translation>Nieprawidłowy parametr</translation>
     </message>
     <message>
         <source>Command Failed</source>
         <comment>_ksoErr_Basic_CommandFailed</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Nie można wykonać polecenia</lengthvariant>
+            <lengthvariant>Wykonanie polecenia nie powiodło się</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Unknown Error</source>
         <comment>_ksoErr_Basic_UnknownError</comment>
-        <translation type="unfinished">Nieznany Błąd</translation>
+        <translation>Nieznany błąd</translation>
     </message>
     <message>
         <source>Invalid Parameter</source>
         <comment>_ksoErr_Basic_InvalidArg</comment>
-        <translation type="unfinished">Nieprawidłowy Parametr</translation>
+        <translation>Nieprawidłowy parametr</translation>
     </message>
     <message>
         <source>Item Exists</source>
         <comment>_ksoErr_Basic_ItemExists</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Istnieje element</lengthvariant>
+            <lengthvariant>Element istnieje</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Temporary directory does not exist or failed to create temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_NotExist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Katalog tymczasowy nie istnieje lub nie można utworzyć katalogu tymczasowego.
+
+Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczasowego katalogu dla bieżącego użytkownika, a następnie ponownie uruchom program WPS Office.</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write in the temporary directory.
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bieżący użytkownik nie ma uprawnień do zapisu w katalogu tymczasowym.
+
+Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczasowego katalogu dla bieżącego użytkownika, a następnie ponownie uruchom program WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -354,12 +375,12 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Unformatted Text</source>
         <comment>TX_KSO_CF_TEXT_DISPNAME</comment>
-        <translation>Niesformatowany Tekst</translation>
+        <translation>Tekst niesformatowany</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
         <comment>TX_KSO_CF_TEXT_RESULTNAME</comment>
-        <translation>Zawartość schowka zostanie wklejona jako tekst bez formatowania.</translation>
+        <translation>Zawartość schowka zostanie wstawiona jako tekst bez formatowania.</translation>
     </message>
     <message>
         <source>Data of WPS Writer</source>
@@ -369,7 +390,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Writer.</source>
         <comment>TX_KSO_CF_WPS_RESULTNAME</comment>
-        <translation>Zawartość schowka zostanie wklejona jako Dane programu WPS Writer.</translation>
+        <translation>Zawartość schowka zostanie wstawiona jako dane programu WPS Writer.</translation>
     </message>
     <message>
         <source>Data of WPS Spreadsheets</source>
@@ -379,7 +400,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Spreadsheets.</source>
         <comment>TX_KSO_CF_ET_RESULTNAME</comment>
-        <translation>Zawartość schowka zostanie wklejona jako Dane programu WPS Spreadsheets.</translation>
+        <translation>Zawartość schowka zostanie wstawiona jako dane programu WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>Data of WPS Presentation</source>
@@ -389,182 +410,207 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Presentation.</source>
         <comment>TX_KSO_CF_WPP_RESULTNAME</comment>
-        <translation>Zawartość schowka zostanie wklejona jako Dane programu WPS Presentation.</translation>
+        <translation>Zawartość schowka zostanie wstawiona jako dane programu WPS Presentation.</translation>
     </message>
     <message>
         <source>Data of WPS Mail</source>
         <comment>TX_KSO_CF_MAIL_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dane programu WPS Mail</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Mail.</source>
         <comment>TX_KSO_CF_MAIL_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość schowka zostanie wstawiona jako dane programu WPS Mail.</translation>
     </message>
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dane programu WPS Drawing</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość schowka zostanie wstawiona jako dane programu WPS Drawing.</translation>
     </message>
     <message>
         <source>%s Object</source>
         <comment>TX_KSO_CF_EMBEDDEDOBJECT_DISPNAME</comment>
-        <translation>Objekt %s</translation>
+        <translation>Obiekt %s</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an OLE Object.</source>
         <comment>TX_KSO_CF_EMBEDDEDOBJECT_RESULTNAME</comment>
-        <translation>Zawartość schowka zostanie wklejona jako Objekt OLE.</translation>
+        <translation>Zawartość schowka zostanie wstawiona jako obiekt OLE.</translation>
     </message>
     <message>
         <source>Picture (Windows Metafile)</source>
         <comment>TX_KSO_CF_PIC_METAFILEPICT_DISPNAME</comment>
-        <translation>Obras (Windows Metafile)</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz (metaplik Windows)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Picture (Windows Metafile).</source>
         <comment>TX_KSO_CF_PIC_METAFILEPICT_RESULTNAME</comment>
-        <translation>Zawartość schowka zostanie wklejona jako Obraw (Windows Metafile).</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zawartość schowka zostanie wstawiona jako obraz (metaplik Windows).</translation>
     </message>
     <message>
         <source>Picture (Enhanced Metafile)</source>
         <comment>TX_KSO_CF_PIC_ENHMETAFILEPICT_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz (rozszerzony metaplik)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Enhanced Metafile.</source>
         <comment>TX_KSO_CF_PIC_ENHMETAFILEPICT_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Zawartość schowka zostanie wstawiona jako rozszerzony metaplik.</lengthvariant>
+            <lengthvariant>Zawartość schowka zostanie wstawiona jako obraz (rozszerzony metaplik).</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Picture (PNG)</source>
         <comment>TX_KSO_CF_PIC_PNG_DISPNAME</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Obraz (PNG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a PNG picture.</source>
         <comment>TX_KSO_CF_PIC_PNG_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zawartość schowka zostanie wstawiona jako obraz PNG.</translation>
     </message>
     <message>
         <source>Picture (JFIF)</source>
         <comment>TX_KSO_CF_PIC_JFIF_DISPNAME</comment>
-        <translation type="unfinished">Obrazek (JFIF)</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz (JFIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JFIF picture.</source>
         <comment>TX_KSO_CF_PIC_JFIF_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zawartość schowka zostanie wstawiona jako obraz JFIF.</translation>
     </message>
     <message>
         <source>Picture (GIF)</source>
         <comment>TX_KSO_CF_PIC_GIF_DISPNAME</comment>
-        <translation type="unfinished">Obrazek (GIF)</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz (GIF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a GIF picture.</source>
         <comment>TX_KSO_CF_PIC_GIF_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zawartość schowka zostanie wstawiona jako obraz GIF.</translation>
     </message>
     <message>
         <source>Bitmap</source>
         <comment>TX_KSO_CF_PIC_BITMAP_DISPNAME</comment>
-        <translation type="unfinished">Bitmapa</translation>
+        <translation>Mapa bitowa</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
         <comment>TX_KSO_CF_PIC_BITMAP_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zawartość schowka zostanie wstawiona jako obraz mapa bitowa.</translation>
     </message>
     <message>
         <source>Device Independent Bitmap</source>
         <comment>TX_KSO_CF_PIC_DIB_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mapa bitowa niezależna od urządzenia</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Device Independent Bitmap picture.</source>
         <comment>TX_KSO_CF_PIC_DIB_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zawartość schowka zostanie wstawiona jako obraz mapa bitowa niezależna od urządzenia.</translation>
     </message>
     <message>
         <source>Picture (JPG)</source>
         <comment>TX_KSO_CF_PIC_JPG_DISPNAME</comment>
-        <translation type="unfinished">Obrazek (JPG)</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz (JPG)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPG picture.</source>
         <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zawartość schowka zostanie wstawiona jako obraz JPG.</translation>
     </message>
     <message>
         <source>Formatted Text (RTF)</source>
         <comment>TX_KSO_CF_RTF_DISPNAME</comment>
-        <translation type="unfinished">Tekst Sformatowany (RTF)</translation>
+        <translation>Tekst sformatowany (RTF)</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Text with Font and Table Formatting.</source>
         <comment>TX_KSO_CF_RTF_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Zawartość schowka zostanie wstawiona jako tekst z parametrami czcionki i tabelami.</lengthvariant>
+            <lengthvariant>Zawartość schowka zostanie wstawiona jako tekst, w którym tabele i czcionka zostały sformatowane.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>HTML Format</source>
         <comment>TX_KSO_CF_HTML_DISPNAME</comment>
-        <translation type="unfinished">Format HTML</translation>
+        <translation>Format HTML</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as HTML Format.</source>
         <comment>TX_KSO_CF_HTML_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość schowka zostanie wstawiona jako format HTML.</translation>
     </message>
     <message>
         <source>MS Office Drawing Object</source>
         <comment>TX_KSO_CF_ESCHER_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obiekt rysunkowy pakietu MS Office</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Office Drawing.</source>
         <comment>TX_KSO_CF_ESCHER_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość schowka zostanie wstawiona jako rysunek pakietu Office.</translation>
     </message>
     <message>
         <source>FILES</source>
         <comment>TX_KSO_CF_HDROP_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>PLIKI</lengthvariant>
+            <lengthvariant>Pliki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as FILES Format.</source>
         <comment>TX_KSO_CF_HDROP_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zawartość schowka zostanie wstawiona jako format PLIKÓW.</translation>
     </message>
     <message>
         <source>%s Object</source>
         <comment>TX_KSO_CF_EMBEDSOURCE_DISPNAME</comment>
-        <translation type="unfinished">Objekt %s</translation>
+        <translation>%s Obiekt</translation>
     </message>
     <message>
         <source>Picture(JPEG)</source>
         <comment>TX_KSO_MSO_CF_PIC_JPEG_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz (JPEG)</translation>
     </message>
     <message>
         <source>Picture(GIF)</source>
         <comment>TX_KSO_MSO_CF_PIC_GIF_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz (GIF)</translation>
     </message>
     <message>
         <source>Picture(PNG)</source>
         <comment>TX_KSO_MSO_CF_PIC_PNG_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz (PNG)</translation>
     </message>
     <message>
         <source>Unicode Text</source>
         <comment>TX_KSO_CF_UNICODE_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Unicode</translation>
     </message>
 </context>
 <context>
@@ -572,177 +618,196 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
         <comment>DgAllPicture</comment>
-        <translation>Wszystkie Obrazy (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wszystkie obrazy (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
         <comment>DgUil_EnhancedMetaFiles</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozszerzony Metaplik Windows (*.emf)|*.emf</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
         <comment>DgUil_MetaFiles</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Metaplik Windows (*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
         <comment>DgUil_JPEGFileInterChange</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Format wymiany plików JPEG (*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
         <comment>DgUil_PortableNetworkGraphics</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przenośna grafika sieciowa PNG (*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
         <comment>DgUil_WindowsBitmap</comment>
-        <translation>Bitmapa Windows (*.bmp)|*.bmp</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Mapa bitowa Windows (*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
         <comment>DgUil_GraphicsInterchangeFormat</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Format wymiany grafiki GIF (*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
         <comment>DgUil_TagGraphicsFormat</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Znacznikowy format pliku obrazu TIF (*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_DlgPictureTitle</comment>
-        <translation>Wstaw Obraz</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz</lengthvariant>
+            <lengthvariant>Wstawianie obrazu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
         <comment>DgUil_InsertShape</comment>
-        <translation>Wstaw Autokształt</translation>
+        <translation>Wstaw autokształt</translation>
     </message>
     <message>
         <source>Insert Connector</source>
         <comment>DgUil_InsertConnector</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw łącznik</translation>
     </message>
     <message>
         <source>Insert Line</source>
         <comment>DgUil_InsertLine</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw linię</translation>
     </message>
     <message>
         <source>Insert Arrow</source>
         <comment>DgUil_InsertArrow</comment>
-        <translation type="unfinished">Wstaw Strzałkę</translation>
+        <translation>Wstaw strzałkę</translation>
     </message>
     <message>
         <source>Insert Curve</source>
         <comment>DgUil_InsertCurve</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw krzywą</translation>
     </message>
     <message>
         <source>Insert Freeform</source>
         <comment>DgUil_InsertFreeForm</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw dowolny kształt</translation>
     </message>
     <message>
         <source>Insert Scribble</source>
         <comment>DgUil_InsertScribble</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw bazgroły</translation>
     </message>
     <message>
         <source>Change Freeform Point</source>
         <comment>DgUil_ChangePoint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zmień punkt figury dowolnego kształtu</translation>
     </message>
     <message>
         <source>Insert Freeform Point</source>
         <comment>DgUil_InsertPoint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw punkt figury dowolnego kształtu</translation>
     </message>
     <message>
         <source>Delete Freeform Point</source>
         <comment>DgUil_DeletePoint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usuń punkt figury dowolnego kształtu</translation>
     </message>
     <message>
         <source>Paste Format</source>
         <comment>DgUil_FormatPainter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wklej format</translation>
     </message>
     <message>
         <source>Rotate Object</source>
         <comment>DgUil_RotateObject</comment>
-        <translation type="unfinished">Obróć Obiekt</translation>
+        <translation>Obróć obiekt</translation>
     </message>
     <message>
         <source>Move Object</source>
         <comment>DgUil_MoveObject</comment>
-        <translation type="unfinished">Przenieś Obiekt</translation>
+        <translation>Przenieś obiekt</translation>
     </message>
     <message>
         <source>Resize Object</source>
         <comment>DgUil_ResizeObject</comment>
-        <translation type="unfinished">Zmień Rozmiar Obiektu</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zmień rozmiar obiektu</translation>
     </message>
     <message>
         <source>Adjust Object</source>
         <comment>DgUil_AdjustObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dopasuj obiekt</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>DgUil_Clear</comment>
-        <translation type="unfinished">Wyczyść</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <source>Make Same Height</source>
         <comment>DgUil_KSO_Cmd_EqualHeight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Make Same Width</source>
         <comment>DgUil_KSO_Cmd_EqualWidth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Make Same Size</source>
         <comment>DgUil_KSO_Cmd_EqualSize</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jednakowy rozmiar</translation>
     </message>
     <message>
         <source>Group </source>
         <comment>DgUil_KSO_Cmd_Group</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Grupa </lengthvariant>
+            <lengthvariant>Grupuj </lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Ungroup</source>
         <comment>DgUil_KSO_Cmd_UnGroup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rozgrupuj</translation>
     </message>
     <message>
         <source>Regroup</source>
         <comment>DgUil_KSO_Cmd_ReGroup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grupuj ponownie</translation>
     </message>
     <message>
         <source>Bring to Front</source>
         <comment>DgUil_KSO_Cmd_Order_BringToFront</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przesuń na wierzch</translation>
     </message>
     <message>
         <source>Send to Back</source>
         <comment>DgUil_KSO_Cmd_Order_SendToBack</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przesuń na spód</translation>
     </message>
     <message>
         <source>Bring Forward</source>
         <comment>DgUil_KSO_Cmd_Order_BringForward</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przesuń do przodu</translation>
     </message>
     <message>
         <source>Send Backward</source>
         <comment>DgUil_KSO_Cmd_Order_SendBackward</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przesuń do tyłu</translation>
     </message>
     <message>
         <source>Nudge Object</source>
@@ -852,22 +917,29 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Select Multiple Objects</source>
         <comment>DgUil_KSO_Cmd_SelectMultipleObjects</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wybieranie wielu obiektów</translation>
     </message>
     <message>
         <source>Select Objects</source>
         <comment>DgUil_KSO_Cmd_SelectObjects</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wybierz obiekty</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
         <comment>DgUil_KSO_Cmd_RecentFillColor</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Kolor ostatniego wypełnienia</lengthvariant>
+            <lengthvariant>Ostatni kolor wypełnienia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fill Color</source>
         <comment>DgUil_KSO_Cmd_FillColor</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kolor wypełnienia</translation>
     </message>
     <message>
         <source>Fill Effects</source>
@@ -897,6 +969,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Format AutoShape</source>
         <comment>DgUil_KSO_Cmd_MoreLines</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Formatuj Autokształt</translation>
     </message>
     <message>
@@ -1227,7 +1300,8 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>WordArt Vertical Text</source>
         <comment>DgUil_KSO_Cmd_WordArtVerticalText</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Tekst pionowy WordArt</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -1302,12 +1376,12 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Insert Line</source>
         <comment>DgUil_KSO_Cmd_InsertLine</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw linię</translation>
     </message>
     <message>
         <source>Insert Arrow</source>
         <comment>DgUil_KSO_Cmd_InsertArrow</comment>
-        <translation type="unfinished">Wstaw Strzałkę</translation>
+        <translation>Wstaw strzałkę</translation>
     </message>
     <message>
         <source>Insert Rectangle</source>
@@ -1327,7 +1401,8 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Insert Vertical Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxVertical</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wstaw pionowe pole tekstowe</translation>
     </message>
     <message>
         <source>Insert Diagram or Organization Chart</source>
@@ -1342,7 +1417,11 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_KSO_Cmd_InsertPictureFromFile</comment>
-        <translation type="unfinished">Wstaw Obrazek</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz</lengthvariant>
+            <lengthvariant>Wstawianie obrazu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert OLE Object</source>
@@ -1397,7 +1476,8 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>The value must be between 0% and 500%.</source>
         <comment>DgUil_KSO_Cmd_ReportSpacingCustom</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wartość musi zawierać się pomiędzy 0% a 500%.</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -1407,88 +1487,109 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>The value must be between -600 pt and 9600 pt.</source>
         <comment>DgUil_KSO_Cmd_Repor3DDepth</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wartość musi zawierać się pomiędzy -600 pkt a 9600 pkt.</translation>
     </message>
     <message>
         <source>Color</source>
         <comment>DgUil_KSO_Cmd_PictureColor</comment>
-        <translation type="unfinished">Kolor</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kolor</translation>
     </message>
     <message>
         <source>More Contrast</source>
         <comment>DgUil_KSO_Cmd_PictureMoreContrast</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zwiększ kontrast</translation>
     </message>
     <message>
         <source>Less Contrast</source>
         <comment>DgUil_KSO_Cmd_PictureLessContrast</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zmniejsz kontrast</translation>
     </message>
     <message>
         <source>More Brightness</source>
         <comment>DgUil_KSO_Cmd_PictureMoreBrightness</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zwiększ jasność</translation>
     </message>
     <message>
         <source>Less Brightness</source>
         <comment>DgUil_KSO_Cmd_PictureLessBrightness</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zmniejsz jasność</translation>
     </message>
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_PictureCrop</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przytnij</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
         <comment>DgUil_KSO_Cmd_PictureSetTransparentColor</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ustaw kolor przezroczysty</translation>
     </message>
     <message>
         <source>Reset Picture</source>
         <comment>DgUil_KSO_Cmd_ResetPicture</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Resetuj obraz</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>DgUil_KSO_WPS_NAME</comment>
-        <translation type="unfinished">WPS Writer</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>DgUil_KSO_ET_NAME</comment>
-        <translation type="unfinished">WPS Spreadsheets</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>DgUil_KSO_WPP_NAME</comment>
-        <translation type="unfinished">WPS Presentation</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>pt</source>
         <comment>DgUil_KSO_POINT</comment>
-        <translation type="unfinished">pkt.</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>pkt</translation>
     </message>
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_CropPicture</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przytnij</translation>
     </message>
     <message>
         <source>Insert Control</source>
         <comment>DgUil_InsertOleControl</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wstaw formant</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
         <comment>DgUil_KSO_Cmd_CompressPictures</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Kompresuj obrazy</lengthvariant>
+            <lengthvariant>Kompresowanie obrazów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
         <comment>DgUil_PromptCompressPicture</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz, który wstawiłeś jest zbyt duży. Proszę skompresuj go, aby zaoszczędzić miejsce na dysku.
+Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz kompresować go(je)?</translation>
     </message>
     <message>
         <source>Your Text Here</source>
@@ -1513,47 +1614,61 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Unidentifiable picture format.</source>
         <comment>DgUil_KSO_Invalid_Picture</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Niezidentyfikowany format obrazu.</lengthvariant>
+            <lengthvariant>Nieidentyfikowalny format obrazu.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Picture</source>
         <comment>DgUil_KSO_Cmd_ChangePicture</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zmień obraz</translation>
     </message>
     <message>
         <source>Change Picture</source>
         <comment>DgUil_DlgChangePictureTitle</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zmień obraz</translation>
     </message>
     <message>
         <source>The server application, source file, or item cannot be found, or returned an unknown error. You may need to reinstall the server application</source>
         <comment>DgUil_Prompt_DoVerbREGDB_E_CLASSNOTREG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można odnaleźć aplikacji serwera, pliku źródłowego lub innego elementu lub został zwrócony nieznany błąd. Być może będzie trzeba zainstalować ponownie aplikację serwera</translation>
     </message>
     <message>
         <source>Save as Picture</source>
         <comment>DgUil_Cmd_SaveAsPicture</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zapisz jako obraz</translation>
     </message>
     <message>
         <source>Picture</source>
         <comment>DgUil_Cmd_SaveAsPictureNameBase</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp</source>
         <comment>DgUil_Cmd_SaveAsPictureFile</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Format wymiany plików JPEG (*.jpg)|*.jpg|Przenośna grafika sieciowa PNG (*.png)|*.png|Znacznikowy format pliku obrazu TIF (*.tif)|*.tif|Mapa bitowa Windows (*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Failed to save as a picture, because the file format is unsupported.</source>
         <comment>DgUil_Cmd_SaveAsPictureFailure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Nie udało się zapisać jako obraz, ponieważ format pliku nie jest obsługiwany.</lengthvariant>
+            <lengthvariant>Nie można zapisać jako obraz, ponieważ format pliku nie jest obsługiwany.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Error</source>
         <comment>DgUil_Cmd_SaveAsPictureFailureCaption</comment>
-        <translation type="unfinished">Błąd</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -1681,7 +1796,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Cube</source>
         <comment>DRAWINGSTR_CUBE</comment>
-        <translation>Kostka</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Sześcian</translation>
     </message>
     <message>
         <source>Balloon</source>
@@ -1851,7 +1967,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Regular Pentagon</source>
         <comment>DRAWINGSTR_PENTAGON</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pięciokąt foremny</translation>
     </message>
     <message>
         <source>No Symbol</source>
@@ -1926,12 +2043,14 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Explosion 1</source>
         <comment>DRAWINGSTR_IRREGULARSEAL1</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wybuch 1</translation>
     </message>
     <message>
         <source>Explosion 2</source>
         <comment>DRAWINGSTR_IRREGULARSEAL2</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wybuch 2</translation>
     </message>
     <message>
         <source>Lightning Bolt</source>
@@ -1946,7 +2065,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Picture</source>
         <comment>DRAWINGSTR_PICTUREFRAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz</translation>
     </message>
     <message>
         <source>Quad Arrow</source>
@@ -2196,7 +2316,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Collate</source>
         <comment>DRAWINGSTR_FLOWCHARTCOLLATE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Schemat blokowy: sortowanie</lengthvariant>
+            <lengthvariant>Schemat blokowy: zestawienie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Flowchart: Sort</source>
@@ -2511,62 +2635,74 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Action Button: Custom</source>
         <comment>DRAWINGSTR_ACTIONBUTTONBLANK</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Niestandardowy</translation>
     </message>
     <message>
         <source>Action Button: Home</source>
         <comment>DRAWINGSTR_ACTIONBUTTONHOME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Strona główna</translation>
     </message>
     <message>
         <source>Action Button: Help</source>
         <comment>DRAWINGSTR_ACTIONBUTTONHELP</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Pomoc</translation>
     </message>
     <message>
         <source>Action Button: Information</source>
         <comment>DRAWINGSTR_ACTIONBUTTONINFORMATION</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Informacje</translation>
     </message>
     <message>
         <source>Action Button: Forward or Next</source>
         <comment>DRAWINGSTR_ACTIONBUTTONFORWARDNEXT</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Do przodu lub Następny</translation>
     </message>
     <message>
         <source>Action Button: Back or Previous</source>
         <comment>DRAWINGSTR_ACTIONBUTTONBACKPREVIOUS</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Wstecz lub Poprzedni</translation>
     </message>
     <message>
         <source>Action Button: End</source>
         <comment>DRAWINGSTR_ACTIONBUTTONEND</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Koniec</translation>
     </message>
     <message>
         <source>Action Button: Beginning</source>
         <comment>DRAWINGSTR_ACTIONBUTTONBEGINNING</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Początek</translation>
     </message>
     <message>
         <source>Action Button: Return</source>
         <comment>DRAWINGSTR_ACTIONBUTTONRETURN</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Powrót</translation>
     </message>
     <message>
         <source>Action Button: Document</source>
         <comment>DRAWINGSTR_ACTIONBUTTONDOCUMENT</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Dokument</translation>
     </message>
     <message>
         <source>Action Button: Sound</source>
         <comment>DRAWINGSTR_ACTIONBUTTONSOUND</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Dźwięk</translation>
     </message>
     <message>
         <source>Action Button: Movie</source>
         <comment>DRAWINGSTR_ACTIONBUTTONMOVIE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przycisk akcji: Film</translation>
     </message>
     <message>
         <source>Host Control</source>
@@ -2576,12 +2712,16 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Text Box</source>
         <comment>DRAWINGSTR_TEXTBOX</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pole tekstowe</translation>
     </message>
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPSHAPE</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Grupa</lengthvariant>
+            <lengthvariant>Grupuj</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>CD Drive</source>
@@ -2606,12 +2746,15 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Cloud</source>
         <comment>DRAWINGSTR_CLOUD</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Chmura</lengthvariant>
+            <lengthvariant>Cloud</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Desktop computer</source>
         <comment>DRAWINGSTR_COMPUTR1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Komputer stacjonarny</translation>
     </message>
     <message>
         <source>Work station</source>
@@ -2841,7 +2984,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Diagonal Stripe</source>
         <comment>DRAWINGSTR_DIAGONALSTRIPE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pasek ukośny</translation>
     </message>
     <message>
         <source>Pub Triangle</source>
@@ -2971,7 +3115,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Grupa</lengthvariant>
+            <lengthvariant>Grupuj</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Mixed texture</source>
@@ -3101,7 +3248,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Insert Picture</source>
         <comment>DRAWINGSTR_INSERT_PICTURE</comment>
-        <translation type="unfinished">Wstaw Obrazek</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz</lengthvariant>
+            <lengthvariant>Wstawianie obrazu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Invalid index</source>
@@ -3126,7 +3277,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Change Picture</source>
         <comment>DRAWINGSTR_CHANGE_PICTURE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zmień obraz</translation>
     </message>
     <message>
         <source>Click to add text</source>
@@ -3161,7 +3313,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Shaded</source>
         <comment>DRAWINGSTR_DGMSTYLE_SHADED</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Cieniowanie</translation>
     </message>
     <message>
         <source>Fire</source>
@@ -3176,7 +3329,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_GRADIENT</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Brackets</source>
@@ -3206,7 +3360,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Beveled Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BEVELED_GRADIENT</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Gradient ze skosem</translation>
     </message>
     <message>
         <source>Square Shadows</source>
@@ -3226,12 +3381,14 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Blue Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BLUE_SHADED</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Gradient niebieski</translation>
     </message>
     <message>
         <source>Black Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Gradient czarny</translation>
     </message>
     <message>
         <source>FreeForm</source>
@@ -3249,12 +3406,14 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>XML Files</source>
         <comment>_KsoDesc_Xml</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Pliki XML</translation>
     </message>
     <message>
         <source>XML File Templates</source>
         <comment>_KsoDesc_XmlDOT</comment>
-        <translation>Szablony XML</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szablony plików XML</translation>
     </message>
     <message>
         <source>WPS Presentation Files</source>
@@ -3284,7 +3443,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Templates</source>
         <comment>_KsoFileFormatDesc_MSWORD8DOT_Files</comment>
-        <translation>Szablony Microsoft Word 97/2000/XP/2003</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szablony programu Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -3304,17 +3464,18 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WPS Writer Templates</source>
         <comment>_KsoFileFormatDesc_WPSV6DOT_Files</comment>
-        <translation>Szablony WPS Writer</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szablony programu WPS Writer</translation>
     </message>
     <message>
         <source>Text File</source>
         <comment>_KsoFileFormatDesc_Text_File</comment>
-        <translation>Plik Tektowy</translation>
+        <translation>Plik tektowy</translation>
     </message>
     <message>
         <source>Text Files</source>
         <comment>_KsoFileFormatDesc_Text_Files</comment>
-        <translation>Pliki Tekstowe</translation>
+        <translation>Pliki tekstowe</translation>
     </message>
     <message>
         <source>RTF File</source>
@@ -3349,7 +3510,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>(beta) Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Plik (beta) pojedynczej strony sieci Web</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
@@ -3374,7 +3536,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Single Web Page Files</source>
         <comment>_KsoFileFormatDesc_MHT_Files</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pliki pojedynczej strony sieci Web</translation>
     </message>
     <message>
         <source>WPS Office encountered an error when saving the file. Please try again or contact customer service.</source>
@@ -3397,7 +3560,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>KRM &amp;Options...</source>
         <comment>TxKRM_Menu_Options</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Opcje KRM...</translation>
     </message>
     <message>
         <source>&amp;Restrict Permission...</source>
@@ -3420,11 +3584,13 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Open</source>
         <comment>_kso_OpenDiagTitle</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Otwórz</translation>
     </message>
     <message>
         <source>Save as</source>
         <comment>_kso_SaveDiagTitle</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Zapisz jako</translation>
     </message>
 </context>
@@ -3433,12 +3599,14 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Open</source>
         <comment>_kso_OpenDiagTitle</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Otwórz</translation>
     </message>
     <message>
         <source>Save As</source>
         <comment>_kso_SaveDiagTitle</comment>
-        <translation>Zapisz Jako</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zapisz jako</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -3448,12 +3616,14 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Macro</source>
         <comment>_kso_MacroDialog_Caption</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Makro</translation>
     </message>
     <message>
         <source>Backuping the file, please wait...</source>
         <comment>_kso_BusyTip_Prompt_Doucment_AutoBackup</comment>
-        <translation>Czekaj, tworzę kopię zapasową pliku...</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Tworzenie kopii zapasowej pliku, proszę czekać...</translation>
     </message>
     <message>
         <source>The following addin has not passed the antivirus examination. To assure security, %s will refuse to load it. 
@@ -3468,7 +3638,8 @@ File: %s
     <message>
         <source>Warning</source>
         <comment>_kso_Addins_AVScan_Failed_Caption</comment>
-        <translation type="unfinished">Uwaga</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ostrzeżenie</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -3563,6 +3734,7 @@ File: %s
     <message>
         <source>File Size</source>
         <comment>_kso_ErrorRep_ContentDlg_FileSize</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Rozmiar pliku</translation>
     </message>
     <message>
@@ -4064,17 +4236,18 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>Save As</source>
         <comment>_kso_SaveToFileDialogName</comment>
-        <translation type="unfinished">Zapisz Jako</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zapisz jako</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>_kso_SaveToFileAllFile</comment>
-        <translation type="unfinished">Wszystkie Pliki(*.*)</translation>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>(Not activated)</source>
         <comment>_kso_SN_NotActivated</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Nie aktywowano)</translation>
     </message>
     <message>
         <source>WPS Office Crashing Information</source>
@@ -4095,7 +4268,8 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Restart</source>
         <comment>_kso_crashdlg_okbtn</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Uruchom ponownie</translation>
     </message>
     <message>
         <source>(version:%d)</source>
@@ -4130,7 +4304,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>All Files</source>
         <comment>_kso_filesearch_AllFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki</translation>
     </message>
     <message>
         <source>Document</source>
@@ -4155,12 +4329,14 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Access Files</source>
         <comment>_kso_filesearch_Databases</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pliki programu Access</translation>
     </message>
     <message>
         <source>Templates</source>
         <comment>_kso_filesearch_Templates</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szablony</translation>
     </message>
     <message>
         <source>Outlook Items</source>
@@ -4205,7 +4381,8 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>DataConnection Files</source>
         <comment>_kso_filesearch_DataConnectionFiles</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pliki połączeń danych</translation>
     </message>
     <message>
         <source>Publisher Files</source>
@@ -4335,7 +4512,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>All Files(*.*)|*.*|Printer Files(*.prn)|*.prn</source>
         <comment>_kso_Print_OutputFileDialog_Filter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki (*.*)|*.*|Pliki drukarki (*.prn)|*.prn</translation>
     </message>
     <message>
         <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
@@ -4420,7 +4597,8 @@ Do you want to continue?</source>
     <message>
         <source>Recent documents</source>
         <comment>kso_Recent_Document</comment>
-        <translation>Ostatnie dokumenty</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Recent presentations</source>
@@ -4530,7 +4708,8 @@ Do you want to continue?</source>
     <message>
         <source>Automatic</source>
         <comment>kso_sAutomatic</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Automatycznie</translation>
     </message>
     <message>
         <source>AutoShapes</source>
@@ -4545,7 +4724,8 @@ Do you want to continue?</source>
     <message>
         <source>The name already exists. Please enter another one.</source>
         <comment>kso_SBarNameAlreadyExist</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nazwa już istnieje. Proszę podać inną.</translation>
     </message>
     <message>
         <source>The toolbar name cannot be blank. Type a name please.</source>
@@ -4555,7 +4735,8 @@ Do you want to continue?</source>
     <message>
         <source>&amp;Blue:</source>
         <comment>kso_sBlue</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Niebieski:</translation>
     </message>
     <message>
         <source>Bookmarks</source>
@@ -4635,37 +4816,44 @@ Do you want to continue?</source>
     <message>
         <source>Clear backup files automatically before closing application.</source>
         <comment>kso_sClearBackup</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Automatycznie wyczyść pliki kopii zapasowej przed zamknięciem aplikacji.</translation>
     </message>
     <message>
         <source>Clear clipboard automatically before closing application.</source>
         <comment>kso_sClearClipboard</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Automatycznie wyczyść schowek przed zamknięciem aplikacji.</translation>
     </message>
     <message>
         <source>Clear Recent File Lists automatically before closing application.</source>
         <comment>kso_sClearRecents</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Automatycznie wyczyść listy ostatnio używanych plików przed zamknięciem aplikacji.</lengthvariant>
+            <lengthvariant>Automatycznie wyczyść listy niedawno używanych plików przed zamknięciem aplikacji.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Clear temporary files automatically before closing application.</source>
         <comment>kso_sClearTemp</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Automatycznie wyczyść pliki tymczasowe przed zamknięciem aplikacji.</translation>
     </message>
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation>ClipArt</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>kso_sCloseCaption</comment>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>The control name cannot be blank. Type a name please.</source>
@@ -4685,7 +4873,8 @@ Do you want to continue?</source>
     <message>
         <source>Copy to</source>
         <comment>kso_SCopyToCaption</comment>
-        <translation type="unfinished">Kopiuj do</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kopiuj do</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -4775,7 +4964,8 @@ Do you want to continue?</source>
     <message>
         <source>Tahoma</source>
         <comment>kso_sDefaultFontName</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Tahoma</translation>
     </message>
     <message>
         <source>Defined Names</source>
@@ -4805,7 +4995,11 @@ Do you want to continue?</source>
     <message>
         <source>Modify PivotTable</source>
         <comment>kso_sDlgCaptionModify</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Modyfikowanie tabeli przestawnej</lengthvariant>
+            <lengthvariant>Modyfikuj tabelę przestawną</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Document</source>
@@ -4830,7 +5024,8 @@ Do you want to continue?</source>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
         <comment>kso_sElseDefFontSizeItems</comment>
-        <translation type="unfinished">5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be inputted.</source>
@@ -4850,7 +5045,8 @@ Do you want to continue?</source>
     <message>
         <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
         <comment>kso_sErrMsg_HideAllItems</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Musi być widoczny co najmniej jeden element. Jeśli nie chcesz w ogóle pokazywać pola, anuluj bieżącą operację, a następnie przeciągnij pole poza raport.</translation>
     </message>
     <message>
         <source>The key length must be a multiple of 8 between %d and %d.</source>
@@ -4860,12 +5056,13 @@ Do you want to continue?</source>
     <message>
         <source>Reference is not valid.</source>
         <comment>kso_sErrorRangeNotValid</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nieprawidłowe odwołanie.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <comment>kso_sErrorWhenCreateTable_General</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można utworzyć tabeli przestawnej z tych danych.</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. 
@@ -4879,13 +5076,18 @@ Please make sure it is a valid reference range, and not a range of a hidden shee
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy dane, które chcesz analizować spełniają następujące warunki:
+1.Upewnij się, że istnieje odwołanie. Jeżeli jest to nazwa, to musi być prawidłowym zakresem;
+2.Upewnij się, że odwołanie jest pojedynczym zakresem i musi zawierać co najmniej dwa wiersze;
+3.Upewnij się, że pierwszy wiersz zakresu odwołania nie zawiera żadnych pustych komórek, nie ma wartości błędu, a każda komórka zawiera nie więcej niż 255 znaków.</translation>
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data.
 Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <comment>kso_sErrorWhenModifyTable</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można modyfikować tabeli przestawnej z tych danych.
+</translation>
     </message>
     <message>
         <source>Unkown Format Source.</source>
@@ -4900,7 +5102,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>All Files(*.*)|*.*</source>
         <comment>kso_sEtFileFilter</comment>
-        <translation type="unfinished">Wszystkie Pliki(*.*)|*.*</translation>
+        <translation>Wszystkie pliki (*.*)|*.*</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot access %s, the file name is invalid.</source>
@@ -4945,7 +5147,8 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>PivotTable field name already exists.</source>
         <comment>kso_sFieldNameExists</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ta nazwa pola tabeli przestawnej już istnieje.</translation>
     </message>
     <message>
         <source>File</source>
@@ -4980,12 +5183,14 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>General</source>
         <comment>kso_sGeneralTab</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ogólne</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
         <comment>kso_sGreen</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Zielony:</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -5015,7 +5220,8 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>An error occurred while importing this file %s.</source>
         <comment>kso_sImportPictureError</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wystąpił błąd podczas importowania tego pliku %s.</translation>
     </message>
     <message>
         <source>Please input &amp;toolbar&apos;s name:</source>
@@ -5037,7 +5243,10 @@ Please check your data and make sure that the reference is valid and the workshe
 To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
         <comment>kso_sInvalidFieldName</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nazwa pola tabeli przestawnej jest nieprawidłowa. 
+Aby utworzyć raport w formie tabeli przestawnej, musisz użyć danych zorganizowanych jako lista z nazwanymi kolumnami. 
+Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pola.</translation>
     </message>
     <message>
         <source>&apos;%s&apos; is not a valid integer value</source>
@@ -5052,7 +5261,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>PivotTable name is not valid.</source>
         <comment>kso_sInvalidPivotTableName</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nieprawidłowa nazwa tabeli przestawnej.</translation>
     </message>
     <message>
         <source>The serial number you typed is invalid. Please check the input format, the supported version of it and the valid date.</source>
@@ -5067,52 +5277,65 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Aqua</source>
         <comment>kso_sKclAqua</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Akwamaryna</lengthvariant>
+            <lengthvariant>Niebieskozielony</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Black</source>
         <comment>kso_sKclBlack</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Czarny</translation>
     </message>
     <message>
         <source>Blue</source>
         <comment>kso_sKclBlue</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Niebieski</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
         <comment>kso_sKclBlueGray</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Niebieskoszary</translation>
     </message>
     <message>
         <source>Bright Green</source>
         <comment>kso_sKclBrightGreen</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Jasnozielony</translation>
     </message>
     <message>
         <source>Brown</source>
         <comment>kso_sKclBrown</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Brązowy</translation>
     </message>
     <message>
         <source>Coral</source>
         <comment>kso_sKclCoral</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Koralowy</translation>
     </message>
     <message>
         <source>Dark Blue</source>
         <comment>kso_sKclDarkBlue</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ciemnoniebieski</translation>
     </message>
     <message>
         <source>Dark Green</source>
         <comment>kso_sKclDarkGreen</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ciemnozielony</translation>
     </message>
     <message>
         <source>Dark Purple</source>
         <comment>kso_sKclDarkPurple</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ciemnopurpurowy</translation>
     </message>
     <message>
         <source>Dark Red</source>
@@ -5122,242 +5345,299 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Dark Teal</source>
         <comment>kso_sKclDarkTeal</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ciemnozielonomodry</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
         <comment>kso_sKclDarkYellow</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ciemnożółty</translation>
     </message>
     <message>
         <source>Gold</source>
         <comment>kso_sKclGold</comment>
-        <translation type="unfinished">Złoty</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Złoty</translation>
     </message>
     <message>
         <source>Gray-10%</source>
         <comment>kso_sKclGray_10</comment>
-        <translation type="unfinished">Szary-10%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
         <comment>kso_sKclGray_12_5</comment>
-        <translation type="unfinished">Szary-12.5%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-12,5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
         <comment>kso_sKclGray_15</comment>
-        <translation type="unfinished">Szary-15%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
         <comment>kso_sKclGray_20</comment>
-        <translation type="unfinished">Szary-20%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
         <comment>kso_sKclGray_25</comment>
-        <translation type="unfinished">Szary-25%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
         <comment>kso_sKclGray_30</comment>
-        <translation type="unfinished">Szary-30%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
         <comment>kso_sKclGray_35</comment>
-        <translation type="unfinished">Szary-35%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
         <comment>kso_sKclGray_37_5</comment>
-        <translation type="unfinished">Szary-35%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-37,5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
         <comment>kso_sKclGray_40</comment>
-        <translation type="unfinished">Szary-40%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
         <comment>kso_sKclGray_45</comment>
-        <translation type="unfinished">Szary-45%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-45%</translation>
     </message>
     <message>
         <source>Gray-5%</source>
         <comment>kso_sKclGray_5</comment>
-        <translation type="unfinished">Szary-5%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-5%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
         <comment>kso_sKclGray_50</comment>
-        <translation type="unfinished">Szary-50%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
         <comment>kso_sKclGray_55</comment>
-        <translation type="unfinished">Szary-55%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
         <comment>kso_sKclGray_60</comment>
-        <translation type="unfinished">Szary-60%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
         <comment>kso_sKclGray_62_5</comment>
-        <translation type="unfinished">Szary-62.5%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-62,5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
         <comment>kso_sKclGray_65</comment>
-        <translation type="unfinished">Szary-65%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
         <comment>kso_sKclGray_70</comment>
-        <translation type="unfinished">Szary-70%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
         <comment>kso_sKclGray_75</comment>
-        <translation type="unfinished">Szary-75%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
         <comment>kso_sKclGray_80</comment>
-        <translation type="unfinished">Szary-80%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
         <comment>kso_sKclGray_85</comment>
-        <translation type="unfinished">Szary-85%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
         <comment>kso_sKclGray_87_5</comment>
-        <translation type="unfinished">Szary-87.5%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-87,5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
         <comment>kso_sKclGray_90</comment>
-        <translation type="unfinished">Szary-90%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
         <comment>kso_sKclGray_95</comment>
-        <translation type="unfinished">Szary-95%</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szary-95%</translation>
     </message>
     <message>
         <source>Green</source>
         <comment>kso_sKclGreen</comment>
-        <translation type="unfinished">Zielony</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zielony</translation>
     </message>
     <message>
         <source>Ice Blue</source>
         <comment>kso_sKclIceBlue</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Krystaliczny niebieski</translation>
     </message>
     <message>
         <source>Indigo</source>
         <comment>kso_sKclIndigo</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Indygo</translation>
     </message>
     <message>
         <source>Ivory</source>
         <comment>kso_sKclIvory</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Jasnobeżowy</lengthvariant>
+            <lengthvariant>Kość słoniowa</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Lavender</source>
         <comment>kso_sKclLavender</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Liliowy</lengthvariant>
+            <lengthvariant>Lawendowy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Light Blue</source>
         <comment>kso_sKclLightBlue</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Jasnoniebieski</translation>
     </message>
     <message>
         <source>Light Green</source>
         <comment>kso_sKclLightGreen</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Jasnozielony</translation>
     </message>
     <message>
         <source>Light Orange</source>
         <comment>kso_sKclLightOrange</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Jasnopomarańczowy</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
         <comment>kso_sKclLightTurquoise</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Jasnoturkusowy</lengthvariant>
+            <lengthvariant>Pastelowobłękitny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Light Yellow</source>
         <comment>kso_sKclLightYellow</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Jasnożółty</translation>
     </message>
     <message>
         <source>Lime</source>
         <comment>kso_sKclLime</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Limonkowy</translation>
     </message>
     <message>
         <source>Ocean Blue</source>
         <comment>kso_sKclOceanBlue</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Oceaniczny niebieski</translation>
     </message>
     <message>
         <source>Olive Green</source>
         <comment>kso_sKclOliveGreen</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Oliwkowozielony</translation>
     </message>
     <message>
         <source>Orange</source>
         <comment>kso_sKclOrange</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pomarańczowy</translation>
     </message>
     <message>
         <source>Pale Blue</source>
         <comment>kso_sKclPaleBlue</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Bladoniebieski</translation>
     </message>
     <message>
         <source>Periwinkle</source>
         <comment>kso_sKclPeriwinkle</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Niebieskofioletowy</translation>
     </message>
     <message>
         <source>Pink</source>
         <comment>kso_sKclPink</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Różowy</translation>
     </message>
     <message>
         <source>Plum</source>
         <comment>kso_sKclPlum</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Śliwkowy</translation>
     </message>
     <message>
         <source>Red</source>
         <comment>kso_sKclRed</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Czerwony</translation>
     </message>
     <message>
         <source>Rose</source>
         <comment>kso_sKclRose</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Różany</translation>
     </message>
     <message>
         <source>Sea Green</source>
         <comment>kso_sKclSeaGreen</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Morska zieleń</translation>
     </message>
     <message>
         <source>Sky Blue</source>
         <comment>kso_sKclSkyBlue</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Lazurowy</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -5367,27 +5647,32 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Teal</source>
         <comment>kso_sKclTeal</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zielonomodry</translation>
     </message>
     <message>
         <source>Turquoise</source>
         <comment>kso_sKclTurquoise</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Turkusowy</translation>
     </message>
     <message>
         <source>Violet</source>
         <comment>kso_sKclViolet</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Fioletowy</translation>
     </message>
     <message>
         <source>White</source>
         <comment>kso_sKclWhite</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Biały</translation>
     </message>
     <message>
         <source>Yellow</source>
         <comment>kso_sKclYellow</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Żółty</translation>
     </message>
     <message>
         <source>Large checkerboard</source>
@@ -5567,12 +5852,13 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>No Border</source>
         <comment>kso_sNoBorder</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Bez obramowania</translation>
     </message>
     <message>
         <source>No Fill</source>
         <comment>kso_sNoFill</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bez wypełnienia</translation>
     </message>
     <message>
         <source>&quot;%s&quot; has no icon.</source>
@@ -5582,12 +5868,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>No Line</source>
         <comment>kso_sNoLine</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Bez linii</lengthvariant>
+            <lengthvariant>Brak linii</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>None</source>
         <comment>kso_sNone</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Brak</translation>
     </message>
     <message>
         <source>(normal text)</source>
@@ -5602,7 +5893,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>The number must be between %d and %d. Try again by entering a number in this range.</source>
         <comment>kso_sNumberRangeErr</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Liczba musi zawierać się pomiędzy %d a %d. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
     <message>
         <source>Number</source>
@@ -5617,12 +5909,13 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>All Files (*.*) | *.*</source>
         <comment>kso_sOpenfilter</comment>
-        <translation type="unfinished">Wszystkie Pliki(*.*)|*.*</translation>
+        <translation>Wszystkie pliki (*.*) | *.*</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
         <comment>kso_sOpenTxtWaring</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wybierz kodowanie, które umożliwia odczytanie tego dokumentu.</translation>
     </message>
     <message>
         <source>Outlined diamond</source>
@@ -5632,17 +5925,18 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>OVR</source>
         <comment>kso_sOver</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>NAD</translation>
     </message>
     <message>
         <source>Part of %s</source>
         <comment>kso_sPartOf</comment>
-        <translation type="unfinished"></translation>
+        <translation>Część %s</translation>
     </message>
     <message>
         <source>Part of %s trial version</source>
         <comment>kso_sPartOfTrial</comment>
-        <translation type="unfinished"></translation>
+        <translation>Część %s wersji próbnej</translation>
     </message>
     <message>
         <source>The key length of the file encryption must not be longer than %d characters.</source>
@@ -5657,7 +5951,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Select Picture</source>
         <comment>kso_sPictureOpenDialogCaption</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wybierz obraz</translation>
     </message>
     <message>
         <source>Plaid</source>
@@ -5667,7 +5962,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>pt</source>
         <comment>kso_sPound</comment>
-        <translation type="unfinished">pkt.</translation>
+        <translation>pkt</translation>
     </message>
     <message>
         <source>%</source>
@@ -5727,12 +6022,14 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Save As</source>
         <comment>kso_sSaveAS</comment>
-        <translation type="unfinished">Zapisz Jako</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zapisz jako</translation>
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
         <comment>kso_sSaveTxtWaring</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ostrzeżenie: zapisanie dokumentu w formie pliku tekstowego spowoduje utratę formatowania, obrazów i obiektów znajdujących się w pliku.</translation>
     </message>
     <message>
         <source>SCRL</source>
@@ -5752,7 +6049,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Automatically check file security troubles before closing application.</source>
         <comment>kso_sSecurityOptionClose</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Automatycznie sprawdź problemy zabezpieczeń plików przed zamknięciem aplikacji.</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -5762,7 +6060,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Automatically check file security troubles before sending e-mail.</source>
         <comment>kso_sSendMail</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Automatycznie sprawdź problemy zabezpieczeń plików przed wysłaniem wiadomości e-mail.</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
@@ -5792,7 +6091,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>(Show All)</source>
         <comment>kso_sShowAll</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>(Pokaż wszystkie)</translation>
     </message>
     <message>
         <source>Slide Titles</source>
@@ -5827,7 +6127,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Busy</source>
         <comment>kso_sStatusBusy</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zajęty</translation>
     </message>
     <message>
         <source>DoorOpen</source>
@@ -5842,7 +6143,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Paused</source>
         <comment>kso_sStatusPaused</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wstrzymane</translation>
     </message>
     <message>
         <source>Printing</source>
@@ -5862,12 +6164,14 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Double Closing Quote</source>
         <comment>kso_sSymbolDoubleClosingQuote</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Podwójny cudzysłów zamykający</translation>
     </message>
     <message>
         <source>Double Opening Quote</source>
         <comment>kso_sSymbolDoubleOpeningQuote</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Podwójny cudzysłów otwierający</translation>
     </message>
     <message>
         <source>Ellipsis</source>
@@ -5957,7 +6261,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>This is not a valid integer.</source>
         <comment>kso_sTextDeclined_IntWarning</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
     </message>
     <message>
         <source>Text</source>
@@ -6062,17 +6367,18 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Value should be between %s and %s.</source>
         <comment>kso_sValueDeclined_FloatBTWarning</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wartość powinna zawierać się pomiędzy %s a %s.</translation>
     </message>
     <message>
         <source>Value should be not less than %s.</source>
         <comment>kso_sValueDeclined_FloatGEWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wartość powinna być nie mniejsza niż %s.</translation>
     </message>
     <message>
         <source>Value should be not greater than %s.</source>
         <comment>kso_sValueDeclined_FloatLEWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wartość powinna być nie większa niż %s.</translation>
     </message>
     <message>
         <source>%s is illegal floating value.</source>
@@ -6082,17 +6388,18 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Value should be between %d and %d.</source>
         <comment>kso_sValueDeclined_IntBTWarning</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wartość powinna zawierać się pomiędzy %d a %d.</translation>
     </message>
     <message>
         <source>Value should not be less than %d.</source>
         <comment>kso_sValueDeclined_IntGEWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wartość nie powinna być mniejsza niż %d.</translation>
     </message>
     <message>
         <source>Value should not be greater than %d.</source>
         <comment>kso_sValueDeclined_IntLEWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wartość nie powinna być większa niż %d.</translation>
     </message>
     <message>
         <source>%d is illegal value.</source>
@@ -6282,7 +6589,8 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Stop</source>
         <comment>kso_sWASSTop</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zatrzymaj</translation>
     </message>
     <message>
         <source>Triangle Up</source>
@@ -6332,7 +6640,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>All Files(*.*)|*.*|Presentations and Shows(*.dps;*.ppt)|*.dps;*.ppt</source>
         <comment>kso_sWppFileFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki (*.*)|*.*|Prezentacje i pokazy (*.dps;*.ppt)|*.dps;*.ppt</translation>
     </message>
     <message>
         <source>WPS Presentation cannot access %s, the file name is invalid.</source>
@@ -6372,12 +6680,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Blank Document</source>
         <comment>kso_sWpsBlankTemplate</comment>
-        <translation type="unfinished">Pusty Dokument</translation>
+        <translation type="unfinished">Pusty dokument</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
         <comment>kso_sWpsFileFilter</comment>
-        <translation type="unfinished">Wszystkie Pliki(*.*)|*.*</translation>
+        <translation>Wszystkie pliki (*.*)|*.*</translation>
     </message>
     <message>
         <source>WPS Writer cannot access %s, the file name is invalid.</source>
@@ -6422,17 +6730,19 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>%s Properties</source>
         <comment>kso_sDlgPropertyCaption</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>%s Właściwości</translation>
     </message>
     <message>
         <source>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
         <comment>kso_sEtDefFontSizeItems</comment>
-        <translation type="unfinished">6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>6 8 9 10 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</source>
         <comment>kso_sWppDefFontSizeItems</comment>
-        <translation type="unfinished">8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</translation>
+        <translation>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</translation>
     </message>
     <message>
         <source>Unknown picture file extension (.%s)</source>
@@ -6482,7 +6792,8 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Stop</source>
         <comment>kso_Nav_Stop</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zatrzymaj</translation>
     </message>
     <message>
         <source>Close</source>
@@ -6552,12 +6863,17 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>All Picture(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Windows Window Enhanced MetaFile(*.emf)|*.emf|Windows Enhanced MetaFile(*.wmf)|*.wmf|JPEG JPEG File Interchange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Portable Netword Graphic(*.png)|*.png|Windows Window Bitmap(*.bmp)|*.bmp|Graphics Interchange Format(GIF)(*.gif)|*.gif|Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff&apos;</source>
         <comment>kso_sInsertPictureDlgFilter</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wszystkie obrazy (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff|Rozszerzony Metaplik Windows (*.emf)|*.emf|Rozszerzony Metaplik Windows (*.wmf)|*.wmf|Format wymiany plików JPEG (*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe|Przenośna grafika sieciowa (*.png)|*.png|Mapa bitowa Windows (*.bmp)|*.bmp|Format wymiany grafiki GIF (GIF)(*.gif)|*.gif|Znacznikowy format pliku obrazu TIF (*.tif;*.tiff)|*.tif;*.tiff&apos;</translation>
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
         <comment>kso_sPictureToLargeAndCannotUseasTexture</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Obraz jest zbyt duży, aby można było go użyć jako deseń.</lengthvariant>
+            <lengthvariant>Obraz jest zbyt duży, aby można było go użyć jako wzorzec.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
@@ -6660,7 +6976,8 @@ Used to show steps toward a goal</source>
     <message>
         <source>Document tab</source>
         <comment>kso_sDocumentTab</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Karta dokumentu</translation>
     </message>
     <message>
         <source>%s is the current default office software.</source>
@@ -6705,12 +7022,12 @@ Used to show steps toward a goal</source>
     <message>
         <source>WPS Office updates have been downloaded, do you want to install them now?</source>
         <comment>sHaveNewUpdatePatchTip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacje pakietu WPS Office zostały pobrane. Czy chcesz je teraz zainstalować?</translation>
     </message>
     <message>
         <source>Part of %s</source>
         <comment>kso_sActivePartOf</comment>
-        <translation type="unfinished"></translation>
+        <translation>Część %s</translation>
     </message>
     <message>
         <source>Custom CommandBar %ld</source>

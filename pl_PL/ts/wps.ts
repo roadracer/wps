@@ -118,7 +118,7 @@
     </message>
     <message>
         <source>Cyan</source>
-        <translation>Cyjan</translation>
+        <translation>Błękitny</translation>
     </message>
     <message>
         <source>Aqua</source>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>Dark Cyan</source>
-        <translation>Ciemnocyjanowy</translation>
+        <translation>Ciemnobłękitny</translation>
     </message>
     <message>
         <source>Dark Blue</source>
@@ -193,7 +193,10 @@
     </message>
     <message>
         <source>Lavender</source>
-        <translation>Lawendowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Liliowy</lengthvariant>
+            <lengthvariant>Lawendowy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Sky Blue</source>
@@ -201,7 +204,10 @@
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation>Jasnoturkusowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Jasnoturkusowy</lengthvariant>
+            <lengthvariant>Pastelowobłękitny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Rose</source>
@@ -780,8 +786,10 @@
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translatorcomment>&amp;Kreskowana:</translatorcomment>
-        <translation>&amp;Kreskowany:</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Kreskowany:</lengthvariant>
+            <lengthvariant>&amp;Kreskowana:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
@@ -819,8 +827,10 @@
     </message>
     <message>
         <source>Words only</source>
-        <translatorcomment>Tylko słowa</translatorcomment>
-        <translation>Tylko wyrazy</translation>
+        <translation variants="yes">
+            <lengthvariant>Tylko wyrazy</lengthvariant>
+            <lengthvariant>Tylko słowa</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -1279,11 +1289,11 @@
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
-        <translation>Plik słownika(*.dic)|*.dic</translation>
+        <translation>Plik słownika (*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)</source>
-        <translation>Plik słownika(*.dic)</translation>
+        <translation>Plik słownika (*.dic)</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
@@ -1295,7 +1305,7 @@
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
-        <translation>Wystąpił błąd podczas dodawania %1. Plik już istnieje.</translation>
+        <translation>Wystąpił błąd podczas dodawania &quot;%1&quot;. Plik już istnieje.</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
@@ -1303,8 +1313,10 @@
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translatorcomment>Ostatni słownik nie może być usunięty!</translatorcomment>
-        <translation>Nie można usunąć ostatniego słownika!</translation>
+        <translation variants="yes">
+            <lengthvariant>Nie można usunąć ostatniego słownika!</lengthvariant>
+            <lengthvariant>Ostatni słownik nie może być usunięty!</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Removing the custom dictionary might remove the custom dictionary used by other WPS programs. Do you want to continue?</source>
@@ -1366,7 +1378,7 @@
     </message>
     <message>
         <source>Sort by:</source>
-        <translation>Sortuj po:</translation>
+        <translation>Sortuj według:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
@@ -2519,7 +2531,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Wyśrodkowane</translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>Right</source>
@@ -3005,7 +3017,6 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>PRODUCT</source>
-        <translatorcomment>PRODUKT</translatorcomment>
         <translation>ILOCZYN</translation>
     </message>
     <message>
@@ -3535,8 +3546,12 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translatorcomment>Normalny</translatorcomment>
-        <translation>Normalne</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalna</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Raised</source>
@@ -4361,10 +4376,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5156,7 +5168,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Save backup f&amp;ile every:</source>
-        <translation>Zapisz pl&amp;ik kopii zapasowej co:</translation>
+        <translation variants="yes">
+            <lengthvariant>Zapisz pl&amp;ik kopii zapasowej co:</lengthvariant>
+            <lengthvariant>Zapisz pl&amp;ik kopii zapasowej każdego:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>ch</source>
@@ -5741,13 +5756,14 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Fixed ta&amp;b width</source>
-        <translatorcomment>Stała szerokość za&amp;kładki</translatorcomment>
         <translation>Stała szerokość &amp;karty</translation>
     </message>
     <message>
         <source>Tab display position</source>
-        <translatorcomment>Położenie wyświetlania zakładki</translatorcomment>
-        <translation>Pozycja wyświetlania zakładki</translation>
+        <translation variants="yes">
+            <lengthvariant>Pozycja wyświetlania karty</lengthvariant>
+            <lengthvariant>Położenie wyświetlania karty</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Display the &amp;tab bar at the top of document</source>
@@ -5827,8 +5843,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Insert/paste pictures as(&amp;Z):</source>
-        <translatorcomment>Wstaw/Wklej obrazy jako (&amp;Z):</translatorcomment>
-        <translation>Wstaw/Wklej obrazy następująco (&amp;Z):</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw/Wklej obrazy następująco (&amp;Z):</lengthvariant>
+            <lengthvariant>Wstaw/Wklej obrazy jako (&amp;Z):</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Recent documents</source>
@@ -5913,7 +5931,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Free printing</source>
-        <translation>Wolne drukowanie</translation>
+        <translation>Drukowanie bez ograniczeń</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -5925,8 +5943,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Tab style</source>
-        <translatorcomment>Styl tabulatora</translatorcomment>
-        <translation>Styl karty</translation>
+        <translation variants="yes">
+            <lengthvariant>Styl karty</lengthvariant>
+            <lengthvariant>Styl tabulatora</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Other Options</source>
@@ -6798,7 +6818,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Center</source>
-        <translation>Wyśrodkowane</translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>Baseline</source>
@@ -6966,15 +6986,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>From le&amp;ft to right</source>
-        <translatorcomment>Z le&amp;wej do prawej</translatorcomment>
         <translation>Od le&amp;wej do prawej</translation>
     </message>
     <message>
         <source>From top to &amp;bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Od góry do &amp;dołu</lengthvariant>
-            <lengthvariant>Z góry do &amp;dołu</lengthvariant>
-        </translation>
+        <translation>Od góry do &amp;dołu</translation>
     </message>
     <message>
         <source>&amp;Repeat</source>
@@ -7198,7 +7214,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Center</source>
-        <translation>Wyśrodkowane</translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>Inside</source>
@@ -7341,7 +7357,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation>&amp;Wyśrodkowane</translation>
+        <translation>&amp;Wyśrodkuj</translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -7357,8 +7373,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Around</source>
-        <translatorcomment>Doo&amp;koła</translatorcomment>
-        <translation>Wo&amp;koło</translation>
+        <translation variants="yes">
+            <lengthvariant>Wo&amp;koło</lengthvariant>
+            <lengthvariant>Doo&amp;koła</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Positioning...</source>
@@ -7517,7 +7535,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation>&amp;Wyśrodkowane</translation>
+        <translation>&amp;Wyśrodkuj</translation>
     </message>
     <message>
         <source>&amp;Right</source>
@@ -10859,7 +10877,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation>&amp;Wyśrodkowane</translation>
+        <translation>&amp;Wyśrodkuj</translation>
     </message>
     <message>
         <source>rbHorizontalRight</source>
@@ -10975,12 +10993,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Sort by Name</source>
-        <translatorcomment>Sortuj wg nazw</translatorcomment>
         <translation>Sortuj według nazw</translation>
     </message>
     <message>
         <source>Sort by Location</source>
-        <translatorcomment>Sortuj wg lokalizacji</translatorcomment>
         <translation>Sortuj według lokalizacji</translation>
     </message>
     <message>
@@ -12436,10 +12452,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Delete all page numbers</source>
@@ -12525,10 +12538,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Insert page number</source>
@@ -12599,10 +12609,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsSpecialPopupWidget</name>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12706,10 +12713,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsTemplateAndAddinDlg</name>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13105,7 +13109,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Free printing</source>
-        <translation>Wolne drukowanie</translation>
+        <translation>Drukowanie bez ograniczeń</translation>
     </message>
     <message>
         <source>File open password:</source>

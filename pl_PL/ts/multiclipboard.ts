@@ -18,7 +18,8 @@
     </message>
     <message>
         <source>Click to enlarge preview item.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kliknij, aby powiększyć Podgląd elementu.</translation>
     </message>
     <message>
         <source>Click to show additional options.</source>
@@ -41,7 +42,11 @@
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wyczyść wszystko</lengthvariant>
+            <lengthvariant>Wyczyść wszystkie</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -52,7 +57,8 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>Show Clipboard &amp;Automatically When Copying</source>

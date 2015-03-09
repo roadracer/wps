@@ -1234,7 +1234,7 @@
     </message>
     <message>
         <source>Print What</source>
-        <translation>Drukuj co</translation>
+        <translation>Drukuj treść</translation>
     </message>
     <message>
         <source>Printing Order</source>
@@ -1661,7 +1661,10 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -2433,7 +2436,10 @@ Włącz</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Vertically</source>
@@ -3263,7 +3269,10 @@ Effects</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Vertically</source>
@@ -5477,7 +5486,10 @@ notatki</lengthvariant>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Vertically</source>
@@ -6188,7 +6200,10 @@ Włącz</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Character 
@@ -7020,7 +7035,10 @@ COM</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Tab</source>
@@ -9534,7 +9552,10 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Vertically</source>
@@ -11541,7 +11562,10 @@ ustawienia</lengthvariant>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Vertically</source>
@@ -12123,7 +12147,10 @@ cienia</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Character Spacing</source>
@@ -13009,7 +13036,10 @@ cienia</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change AutoShape</source>
@@ -13358,10 +13388,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation variants="yes">
-            <lengthvariant>Wykonaj ponownie</lengthvariant>
-            <lengthvariant>Ponów</lengthvariant>
-        </translation>
+        <translation>Wykonaj ponownie</translation>
     </message>
     <message>
         <source>Replace</source>

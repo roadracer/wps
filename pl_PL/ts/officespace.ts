@@ -91,10 +91,7 @@
     <name>KCloudFileStatePanel</name>
     <message>
         <source>status</source>
-        <translation variants="yes">
-            <lengthvariant>stan</lengthvariant>
-            <lengthvariant>status</lengthvariant>
-        </translation>
+        <translation>stan</translation>
     </message>
     <message>
         <source>refresh</source>
@@ -513,10 +510,7 @@
     </message>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1135,10 +1129,7 @@
     </message>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>TAK</translation>
     </message>
 </context>
 <context>
@@ -1412,10 +1403,7 @@ rozmiar:%2
     </message>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2130,10 +2118,7 @@ folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -2200,10 +2185,7 @@ folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2245,10 +2227,7 @@ folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <name>KxQingActiveCodeDialog</name>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>WPS Office Activation Code</source>
@@ -2308,10 +2287,7 @@ folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2648,10 +2624,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>

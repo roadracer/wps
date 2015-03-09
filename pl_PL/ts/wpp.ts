@@ -21,7 +21,11 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Wyróżnienie</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wyróżnienie</lengthvariant>
+            <lengthvariant>Uwydatnienie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>1-</source>
@@ -734,7 +738,10 @@
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation>Ładowanie KUI</translation>
+        <translation variants="yes">
+            <lengthvariant>Ładowanie KUI</lengthvariant>
+            <lengthvariant>Wczytywanie KUI</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -1306,8 +1313,8 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     <message>
         <source>Regular</source>
         <translation variants="yes">
-            <lengthvariant>Regularny</lengthvariant>
             <lengthvariant>Standardowy</lengthvariant>
+            <lengthvariant>Regularny</lengthvariant>
         </translation>
     </message>
     <message>
@@ -1455,8 +1462,10 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Set as Default(&amp;C)</source>
+        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Ustaw jako domyślny (&amp;C)</lengthvariant>
+            <lengthvariant>Ustaw jako domyślną (&amp;C)</lengthvariant>
             <lengthvariant>Ustaw jako domyślne (&amp;C)</lengthvariant>
         </translation>
     </message>
@@ -1595,10 +1604,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;TAK</lengthvariant>
-            <lengthvariant>&amp;OK</lengthvariant>
-        </translation>
+        <translation>&amp;OK</translation>
     </message>
 </context>
 <context>
@@ -1817,7 +1823,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Print &amp;what:</source>
-        <translation>Drukuj &amp;co:</translation>
+        <translation>Drukuj &amp;treść:</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -2299,10 +2305,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>OK</source>
-        <translation variants="yes">
-            <lengthvariant>TAK</lengthvariant>
-            <lengthvariant>OK</lengthvariant>
-        </translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>During the slide show:</source>
@@ -2693,7 +2696,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Print &amp;what:</source>
-        <translation>Drukuj &amp;co:</translation>
+        <translation>Drukuj &amp;treść:</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -3679,7 +3682,10 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>F&amp;rom:</source>
@@ -4885,8 +4891,8 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <message>
         <source>Export range</source>
         <translation variants="yes">
-            <lengthvariant>Zakres eksportu</lengthvariant>
             <lengthvariant>Zakres eksportowania</lengthvariant>
+            <lengthvariant>Zakres eksportu</lengthvariant>
         </translation>
     </message>
     <message>
@@ -4939,7 +4945,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Free printing</source>
-        <translation>Wolne drukowanie</translation>
+        <translation>Drukowanie bez ograniczeń</translation>
     </message>
     <message>
         <source>File open password:</source>

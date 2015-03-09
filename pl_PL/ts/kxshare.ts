@@ -68,7 +68,8 @@
     </message>
     <message>
         <source>Pre&amp;view:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Podgląd:</translation>
     </message>
     <message>
         <source>&amp;Line end:</source>
@@ -86,11 +87,11 @@
     <name>KApplication</name>
     <message>
         <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalacja lub aktualizacja poprawek jest teraz uruchomiona. %1 spowoduje zakończenie. Proszę uruchom ponownie %2 po ukończeniu instalacji lub aktualizacji.</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacje pakietu WPS Office zostały pobrane. Czy chcesz je teraz zainstalować?</translation>
     </message>
 </context>
 <context>
@@ -136,11 +137,13 @@
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Zielony:</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nie&amp;bieski:</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
@@ -195,35 +198,38 @@
     <name>KCommand</name>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulpit</translation>
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Dokument, który nie został zapisany przy ostatnim zakończeniu, został przywrócony.(Jeżeli nie potrzebujesz przywróconego pliku, zamknij go bezpośrednio i ponownie otwórz oryginalny dokument.)</lengthvariant>
+            <lengthvariant>Dokument, który nie został zapisany przy ostatnim wyjściu, został przywrócony.(Jeżeli nie potrzebujesz przywróconego pliku, zamknij go bezpośrednio i ponownie otwórz oryginalny dokument.)</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu WPS Office.</translation>
     </message>
     <message>
         <source>Click here to change your interface style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij tutaj, aby zmienić swój styl interfejsu.</translation>
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie czcionek online &quot;%1&quot; powiodło się</translation>
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie czcionek online &quot;%1&quot; nie powiodło się</translation>
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Successful(Restart to take effect)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie czcionek online &quot;%1&quot; powiodło się (Uruchom ponownie, aby zostały uwzględnione)</translation>
     </message>
     <message>
         <source>Online font downloading,click font list see more detail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie czcionek online, aby zobaczyć więcej szczegółów kliknij listę czcionek.</translation>
     </message>
 </context>
 <context>
@@ -298,11 +304,12 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anuluj</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -318,11 +325,12 @@
     </message>
     <message>
         <source>Color Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Schemat kolorów</translation>
     </message>
     <message>
         <source>2013 Elegant Black</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>2013 Elegancki czarny</translation>
     </message>
     <message>
         <source>2013 Water Blue</source>
@@ -338,7 +346,8 @@
     </message>
     <message>
         <source>Restart WPS Office for layout setting to take effect</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ponownie uruchom WPS Office dla ustawienia układu, aby ta akcja została uwzględniona</translation>
     </message>
 </context>
 <context>
@@ -357,7 +366,8 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Usuń</translation>
     </message>
 </context>
 <context>
@@ -386,19 +396,23 @@
     <name>KInputWritePasswordDlg</name>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Hasło:</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Hasło</translation>
     </message>
     <message>
         <source>Enter password to modify, or open read-only file.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wprowadź hasło umożliwiające modyfikację lub otwórz plik tylko do odczytu.</translation>
     </message>
     <message>
         <source>&amp;Read-only</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Tylko do odczy&amp;tu</translation>
     </message>
 </context>
 <context>
@@ -413,7 +427,8 @@
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Informacje</translation>
     </message>
     <message>
         <source>Settings will take effect after the application restarts.</source>
@@ -505,7 +520,10 @@
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>OK</lengthvariant>
+            <lengthvariant>TAK</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
@@ -517,7 +535,8 @@
     </message>
     <message>
         <source>* Name:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>* Nazwa:</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
@@ -563,11 +582,14 @@
     <name>KShowMoreWindowDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>OK</lengthvariant>
+            <lengthvariant>TAK</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Active Window:</source>
@@ -672,7 +694,8 @@
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szablony</translation>
     </message>
     <message>
         <source>Never modify</source>
@@ -795,7 +818,8 @@
     </message>
     <message>
         <source>Subscripts and Superscripts</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Indeksy dolne i górne</translation>
     </message>
     <message>
         <source>Currency Symbols</source>
@@ -807,7 +831,8 @@
     </message>
     <message>
         <source>Letter-like Symbols</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Symbole pochodzące od liter</translation>
     </message>
     <message>
         <source>Number Forms</source>
@@ -827,7 +852,8 @@
     </message>
     <message>
         <source>Control Pictures</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Symbole graficzne znaków sterujących</translation>
     </message>
     <message>
         <source>Optical Character Recognition</source>
@@ -1073,26 +1099,29 @@
     <name>KxApiDefaultDlg</name>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Tak</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nie</translation>
     </message>
     <message>
         <source>This method %1 is not implemented. If the default value is used, then may bring risk.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Metoda %1 nie jest zaimplementowana. Jeśli używana jest wartość domyślna, to pociąga za sobą ryzyko.</translation>
     </message>
 </context>
 <context>
     <name>KxApplication</name>
     <message>
         <source>Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Notatka</translation>
     </message>
     <message>
         <source>Loading UI XML file failed. For more information, please use KDebugConsole or read logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ładowanie pliku XML interfejsu użytkownika nie powiodło się. Aby uzyskać więcej informacji proszę użyj KDebugConsole lub odczytaj logi.</translation>
     </message>
 </context>
 <context>
@@ -1177,7 +1206,7 @@
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>Icon Files(*.ico)</source>
@@ -1211,11 +1240,12 @@
     </message>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez wypełnienia</translation>
     </message>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Bez linii</translation>
     </message>
     <message>
         <source>%1 pt</source>
@@ -1309,11 +1339,13 @@
     </message>
     <message>
         <source>The number of custom dictionaries has reached the upper limit.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Liczba niestandardowych słowników osiągnęła górną granicę.</translation>
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Plik słownika (*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Create Custom Dictionary</source>
@@ -1321,7 +1353,8 @@
     </message>
     <message>
         <source>Dictionary File(*.dic)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Plik słownika (*.dic)</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
@@ -1329,23 +1362,30 @@
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wystąpił błąd podczas dodawania &quot;%1&quot;. Plik już istnieje.</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wystąpił błąd podczas dodawania &quot;%1&quot;, proszę sprawdź format pliku.</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Nie można usunąć ostatniego słownika!</lengthvariant>
+            <lengthvariant>Ostatni słownik nie może być usunięty!</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Usunięcie słownika niestandardowego może mieć wpływ na słownik niestandardowy używany przez inne aplikacje pakietu WPS Office. Czy chcesz kontynuować?</translation>
     </message>
 </context>
 <context>
@@ -1359,7 +1399,7 @@
     <name>KxCustomRibbonEx_Group</name>
     <message>
         <source>Custom Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupa niestandardowa</translation>
     </message>
 </context>
 <context>
@@ -1388,11 +1428,13 @@
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przenieś w dół</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przenieś w górę</translation>
     </message>
     <message>
         <source>+</source>
@@ -1416,11 +1458,13 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>&amp;Copy To...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Kopiuj do...</translation>
     </message>
     <message>
         <source>&amp;Move To...</source>
@@ -1428,19 +1472,25 @@
     </message>
     <message>
         <source>Begin &amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Początek &amp;grupy</lengthvariant>
+            <lengthvariant>Początek &amp;grupowania</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Copy P&amp;icture</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kopiuj o&amp;braz</translation>
     </message>
     <message>
         <source>P&amp;aste Picture</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>W&amp;klej obraz</translation>
     </message>
     <message>
         <source>Copy To</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kopiuj do</translation>
     </message>
     <message>
         <source>Move To</source>
@@ -1501,11 +1551,13 @@
     <name>KxCustomToolBarTB</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Formularz</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -1610,11 +1662,11 @@
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -1626,7 +1678,8 @@
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Lokalizacja:</translation>
     </message>
     <message>
         <source>Load behavior:</source>
@@ -1649,7 +1702,8 @@
     </message>
     <message>
         <source>File name:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nazwa pliku:</translation>
     </message>
     <message>
         <source>&amp;Icon:</source>
@@ -1657,7 +1711,8 @@
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Przeglądaj...</translation>
     </message>
     <message>
         <source>&amp;Caption:</source>
@@ -1676,7 +1731,8 @@
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Modyfikuj...</translation>
     </message>
     <message>
         <source>&amp;New...</source>
@@ -1734,11 +1790,13 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -1749,15 +1807,18 @@
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Czcionka:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Rozmiar:</translation>
     </message>
     <message>
         <source>&amp;Text:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Tekst:</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -1806,7 +1867,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Transparency</source>
@@ -1814,11 +1876,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>F&amp;rom:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Od:</translation>
     </message>
     <message>
         <source>T&amp;o:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Do:</translation>
     </message>
     <message>
         <source>V&amp;ariants</source>
@@ -1930,11 +1994,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished">Złoty #FFD700</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Złoty</translation>
     </message>
     <message>
         <source>GoldII</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>ZłotyII</translation>
     </message>
     <message>
         <source>Brass</source>
@@ -1962,7 +2028,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished">Zielony #008000</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zielony</translation>
     </message>
     <message>
         <source>Coffee</source>
@@ -1990,11 +2057,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Diagonal &amp;up</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Po przekątnej w &amp;górę</translation>
     </message>
     <message>
         <source>Diagonal &amp;down</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Po przekątnej w &amp;dół</translation>
     </message>
     <message>
         <source>&amp;From corner</source>
@@ -2034,23 +2103,28 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz</translation>
     </message>
     <message>
         <source>Picture:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz:</translation>
     </message>
     <message>
         <source>Se&amp;lect Picture...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wybier&amp;z obraz...</translation>
     </message>
     <message>
         <source>Lock &amp;picture aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zablokuj &amp;współczynnik proporcji obrazu</translation>
     </message>
     <message>
         <source>Sample:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przykład:</translation>
     </message>
     <message>
         <source>Rotate fill effect &amp;with shape</source>
@@ -2065,7 +2139,11 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Formatowanie Autokształtu</lengthvariant>
+            <lengthvariant>Formatuj Autokształt</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -2107,18 +2185,25 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nazwa użytkownika:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Hasło:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgInputBox</name>
     <message>
         <source>Input:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Dane wejściowe:</lengthvariant>
+            <lengthvariant>Wprowadź:</lengthvariant>
+            <lengthvariant>Wejście:</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -2141,11 +2226,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Fil&amp;e name:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nazwa pli&amp;ku:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Przeglądaj...</translation>
     </message>
     <message>
         <source>&amp;Link to file</source>
@@ -2176,7 +2263,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Czcionka:</translation>
     </message>
     <message>
         <source>S&amp;ubset:</source>
@@ -2184,7 +2272,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Recently used symbols:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Niedawno &amp;używane symbole:</lengthvariant>
+            <lengthvariant>Ostatnio &amp;używane symbole:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Character code:</source>
@@ -2192,7 +2284,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Fro&amp;m:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Od:</translation>
     </message>
     <message>
         <source>S&amp;pecial Characters</source>
@@ -2220,11 +2313,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przenieś w &amp;dół</translation>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przenieś w &amp;górę</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -2282,7 +2377,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cannot find functions</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Nie można odnaleźć funkcji</lengthvariant>
+            <lengthvariant>Nie można znaleźć funkcji</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Do not know how to use the function</source>
@@ -2329,11 +2428,13 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgNewTemplate</name>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szablony</translation>
     </message>
     <message>
         <source>Set as &amp;default template</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ustaw jako szablon &amp;domyślny</translation>
     </message>
 </context>
 <context>
@@ -2359,11 +2460,13 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgPrinterProperties</name>
     <message>
         <source>Printer Properties</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Właściwości drukarki</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Właściwości</translation>
     </message>
 </context>
 <context>
@@ -2433,11 +2536,11 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxDlgScreenTip</name>
     <message>
         <source>Set Hyperlink ScreenTip</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawianie etykietki ekranowej dla hiperłącza</translation>
     </message>
     <message>
         <source>Screen&amp;Tip text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst etykietki &amp;ekranowej:</translation>
     </message>
 </context>
 <context>
@@ -2456,7 +2559,8 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Porada</translation>
     </message>
     <message>
         <source>Thanks for using WPS Office 2012 Beta2.</source>
@@ -2482,14 +2586,15 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Słowo zawiera niedozwolone znaki. Nie można go przetworzyć.</translation>
     </message>
 </context>
 <context>
     <name>KxEditWordArtTextDlg</name>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wartość powinna zawierać się pomiędzy %1 a %2.</translation>
     </message>
     <message>
         <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
@@ -2497,7 +2602,8 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
     </message>
 </context>
 <context>
@@ -2565,15 +2671,18 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxFileConverterDlg</name>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Następny</translation>
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ostrzeżenie: zapisanie dokumentu w formie pliku tekstowego spowoduje utratę formatowania, obrazów i obiektów znajdujących się w pliku.</translation>
     </message>
     <message>
         <source>Select the encoding that makes your document readable.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wybierz kodowanie, które umożliwia odczytanie tego dokumentu.</translation>
     </message>
 </context>
 <context>
@@ -2779,7 +2888,8 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zastosuj schemat kolorów akcentu i użytego hiperłącza</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
@@ -2795,43 +2905,56 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wszystkie obrazy</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozszerzony Metaplik Windows</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Metaplik Windows</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Format wymiany plików JPEG</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przenośna grafika sieciowa PNG</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Mapa bitowa Windows</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Format wymiany grafiki GIF</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Znacznikowy format pliku obrazu TIF</translation>
     </message>
     <message>
         <source>The picture is too big to be used as a pattern.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Obraz jest zbyt duży, aby można było go użyć jako deseń.</lengthvariant>
+            <lengthvariant>Obraz jest zbyt duży, aby można było go użyć jako wzorzec.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wybierz obraz</translation>
     </message>
     <message>
         <source>An error occurred while importing this file %1.</source>
@@ -2842,7 +2965,8 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxFontSizeComboboxCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
     </message>
 </context>
 <context>
@@ -2872,7 +2996,8 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxFormatShapeDlg</name>
     <message>
         <source>Colors and Lines</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kolory i linie</translation>
     </message>
     <message>
         <source>Position</source>
@@ -2880,15 +3005,18 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Układ</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obraz</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pole tekstowe</translation>
     </message>
 </context>
 <context>
@@ -2917,7 +3045,8 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Up one folder</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Jeden folder w górę</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -2933,11 +3062,13 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Otwórz plik</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
 </context>
 <context>
@@ -3014,15 +3145,15 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeglądaj</translation>
     </message>
     <message>
         <source>Cannot create a link to the file &quot;%1&quot;.</source>
@@ -3045,7 +3176,8 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxInsertSymbolDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Brak</translation>
     </message>
     <message>
         <source>(Normal Text)</source>
@@ -3068,7 +3200,8 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxMacroActionButtonCommand</name>
     <message>
         <source>Cannot run the macro &apos;%1&apos;. The macro may not be available in this workbook, or all macros may have been disabled.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nie można uruchomić makra &apos;%1&apos;. Makro może być niedostępne w tym arkuszu lub wszystkie makra zostały wyłączone.</translation>
     </message>
 </context>
 <context>
@@ -3148,7 +3281,8 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Please enter the contact phone and E-mail address!</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Proszę podać telefon kontaktowy i adres e-mail!</translation>
     </message>
     <message>
         <source>Please enter a contact phone!</source>
@@ -3156,11 +3290,13 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Please enter an e-mail address!</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Proszę wprowadź adres e-mail!</translation>
     </message>
     <message>
         <source>E-mail addresses are not compliant!</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Adresy e-mail są niezgodne!</translation>
     </message>
     <message>
         <source>[User feedback] Version:%1--%2</source>
@@ -3250,11 +3386,13 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Command &amp;binding</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Polecenie &amp;powiązanie</translation>
     </message>
     <message>
         <source>&amp;Hyperlink:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Hiperłącze:</translation>
     </message>
     <message>
         <source>&amp;Select</source>
@@ -3290,27 +3428,35 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Select picture</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wybierz obraz</translation>
     </message>
     <message>
         <source>&amp;Open File...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Otwórz plik...</translation>
     </message>
     <message>
         <source>&amp;Insert Picture...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>&amp;Wstaw obraz...</lengthvariant>
+            <lengthvariant>&amp;Wstawianie obrazu...</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>All files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wszystkie obrazy (*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</translation>
     </message>
     <message>
         <source>Windows Enhanced MetaFile(*.wmf)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozszerzony Metaplik Windows (*.wmf)</translation>
     </message>
     <message>
         <source>Portable Network Graphic(*.png)</source>
@@ -3318,11 +3464,13 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Graphics Interchange Format(GIF)(*.gif)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Format wymiany grafiki GIF (GIF)(*.gif)</translation>
     </message>
     <message>
         <source>Tag Image File Format(*tif *tiff)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Znacznikowy format pliku obrazu TIF (*tif *tiff)</translation>
     </message>
     <message>
         <source>Shortcut &amp;key</source>
@@ -3334,38 +3482,42 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozszerzony Metaplik Windows (*.emf)</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg *.jpeg *.jpe)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Format wymiany plików JPEG (*.jpg *.jpeg *.jpe)</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Mapa bitowa Windows (*.bmp)</translation>
     </message>
 </context>
 <context>
     <name>KxNewTemplateDlg</name>
     <message>
         <source>General</source>
-        <translation type="unfinished">Ogólne</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ogólne</translation>
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished">Pusty dokument</translation>
+        <translation>Pusty dokument</translation>
     </message>
     <message>
         <source>Blank Presentation</source>
-        <translation type="unfinished">Pusta prezentacja</translation>
+        <translation>Pusta prezentacja</translation>
     </message>
     <message>
         <source>Blank Workbook</source>
-        <translation type="unfinished">Pusty skoroszyt</translation>
+        <translation>Pusty skoroszyt</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz</translation>
     </message>
 </context>
 <context>
@@ -3414,11 +3566,14 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>OK</lengthvariant>
+            <lengthvariant>TAK</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
@@ -3441,7 +3596,8 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Pause. Click to continue</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wstrzymana. Kliknij, aby kontynuować</translation>
     </message>
     <message>
         <source>Fold online fonts</source>
@@ -3519,14 +3675,15 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>(Restart to take effect).</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>(Uruchom ponownie, aby zostały uwzględnione).</translation>
     </message>
 </context>
 <context>
     <name>KxOverdueDlg</name>
     <message>
         <source>Thank you for using the trial version of our product.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dziękujemy za korzystanie z wersji próbnej naszego produktu.</translation>
     </message>
     <message>
         <source>Enter Viewer</source>
@@ -3611,15 +3768,18 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Drukuj</translation>
     </message>
     <message>
         <source>Print Pre&amp;view</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Podgląd wydruku</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Anuluj</translation>
     </message>
 </context>
 <context>
@@ -3638,7 +3798,10 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;OK</lengthvariant>
+            <lengthvariant>&amp;TAK</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -3657,31 +3820,38 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>&amp;Properties...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Właściwości...</translation>
     </message>
     <message>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Komentarz:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Typ:</translation>
     </message>
     <message>
         <source>Where:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Gdzie:</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Naz&amp;wa:</translation>
     </message>
     <message>
         <source>Page &amp;source:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Źródło strony:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Stan:</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -3689,7 +3859,8 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wstrzymane</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -3717,7 +3888,8 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Drukarka &quot;%1&quot; napotkała błąd!</translation>
     </message>
 </context>
 <context>
@@ -3732,7 +3904,8 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Układ</translation>
     </message>
     <message>
         <source>Department</source>
@@ -3756,7 +3929,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Work Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupa robocza</translation>
     </message>
     <message>
         <source>Record Date</source>
@@ -3796,7 +3969,8 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Finish Date</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Data zakończenia</translation>
     </message>
     <message>
         <source>Document Number</source>
@@ -3879,11 +4053,13 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przenieś w górę</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przenieś w dół</translation>
     </message>
     <message>
         <source>Border</source>
@@ -3891,7 +4067,8 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozmiar kształtu</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -3934,7 +4111,8 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>A key to clear</source>
@@ -3970,7 +4148,8 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>A total of %1 records</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Całkowita liczba rekordów %1</translation>
     </message>
     <message>
         <source>cannot open the file &quot;%1&quot;. 
@@ -4007,7 +4186,8 @@ the file may be renamed,deleted or moved the location.</source>
     <name>KxSetSpellcheckLanguageDlg</name>
     <message>
         <source>Choose installation package of Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wybierz pakiet instalacyjny Sprawdzania pisowni</translation>
     </message>
     <message>
         <source>Zip File (*.zip)</source>
@@ -4015,7 +4195,8 @@ the file may be renamed,deleted or moved the location.</source>
     </message>
     <message>
         <source>Install the Spell Check package</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zainstaluj pakiet Sprawdzania pisowni</translation>
     </message>
     <message>
         <source>Installation fails, make sure to install the complete package.</source>
@@ -4027,11 +4208,13 @@ the file may be renamed,deleted or moved the location.</source>
     </message>
     <message>
         <source>The language of Spell Check already exists. Do you want to continue installing it ?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Język Sprawdzania pisowni już istnieje. Czy chcesz kontynuować instalowanie go?</translation>
     </message>
     <message>
         <source>Uninstall Spell Check Package</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Odinstaluj pakiet Sprawdzania pisowni</translation>
     </message>
     <message>
         <source>The installed user package has been removed, 
@@ -4065,7 +4248,7 @@ but the included system package is reserved.</source>
     <name>KxSwitchSkinModel</name>
     <message>
         <source>2013 Elegant Black</source>
-        <translation type="unfinished"></translation>
+        <translation>2013 Elegancki czarny</translation>
     </message>
     <message>
         <source>2012 Style</source>
@@ -4080,15 +4263,18 @@ but the included system package is reserved.</source>
     <name>KxSwitchSkinWidget</name>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;OK</lengthvariant>
+            <lengthvariant>&amp;TAK</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anuluj</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Skin Management</source>
@@ -4099,7 +4285,8 @@ but the included system package is reserved.</source>
     <name>KxSwitchUiTip</name>
     <message>
         <source>The layout will take effect after restarting WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu WPS Office</translation>
     </message>
     <message>
         <source>I already know</source>
@@ -4121,7 +4308,11 @@ but the included system package is reserved.</source>
     <name>KxSymbolGalleryModel</name>
     <message>
         <source>Recently Used Symbols:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Niedawno używane symbole:</lengthvariant>
+            <lengthvariant>Ostatnio używane symbole:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Custom Symbols:</source>
@@ -4250,7 +4441,8 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozmiar</translation>
     </message>
     <message>
         <source>Type</source>
@@ -4291,7 +4483,8 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Show Large Preview</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pokaż duży podgląd</translation>
     </message>
     <message>
         <source>AutoShapes:</source>
@@ -4329,7 +4522,7 @@ but the included system package is reserved.</source>
     <name>KxTpBackup</name>
     <message>
         <source>Are you sure to delete all files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno chcesz usunąć wszystkie pliki?</translation>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
@@ -4340,7 +4533,8 @@ but the included system package is reserved.</source>
     <name>KxTpClipArt</name>
     <message>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kategoria:</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -4348,7 +4542,8 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Podgląd</translation>
     </message>
 </context>
 <context>
@@ -4370,7 +4565,8 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
@@ -4390,11 +4586,16 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowy z innych szablonów...</translation>
     </message>
     <message>
         <source>From Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Z szablonów projektów</lengthvariant>
+            <lengthvariant>Według szablonów projektów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Management</source>
@@ -4406,7 +4607,8 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowy z szablonów online</translation>
     </message>
     <message>
         <source>
@@ -4423,7 +4625,8 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed , deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można otworzyć &quot;%1&quot;.
+</translation>
     </message>
     <message>
         <source>Open file location</source>
@@ -4434,7 +4637,8 @@ This file may be renamed , deleted or moved the location.</source>
     <name>KxTpRNNewDoc</name>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>New</source>
@@ -4458,11 +4662,16 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowy z innych szablonów...</translation>
     </message>
     <message>
         <source>From Design Templates</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Z szablonów projektów</lengthvariant>
+            <lengthvariant>Według szablonów projektów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Management</source>
@@ -4474,12 +4683,14 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowy z szablonów online</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may be renamed , deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można otworzyć &quot;%1&quot;.
+</translation>
     </message>
     <message>
         <source>Open file location</source>
@@ -4498,7 +4709,8 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pokaż wszystkie</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -4528,11 +4740,16 @@ This file may be renamed , deleted or moved the location.</source>
     <name>KxWidgetColorAndLines</name>
     <message>
         <source>Format AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Formatowanie Autokształtu</lengthvariant>
+            <lengthvariant>Formatuj Autokształt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>C&amp;olor:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>K&amp;olor:</translation>
     </message>
     <message>
         <source>Co&amp;nnector:</source>
@@ -4564,7 +4781,8 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Kolor:</translation>
     </message>
     <message>
         <source>ccFillColor</source>
@@ -4624,7 +4842,8 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>De&amp;fault for new Objects</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Do&amp;myślnie dla nowych obiektów</translation>
     </message>
 </context>
 <context>
@@ -4635,15 +4854,18 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Crop from</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przytnij z</translation>
     </message>
     <message>
         <source>Brig&amp;htness:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Jasność:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Od &amp;prawej:</translation>
     </message>
     <message>
         <source>%, 1, 0, 100, 1</source>
@@ -4655,43 +4877,53 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Automatyczny</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Automatycznie</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>Skala szarości</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Skala odcieni szarości</translation>
     </message>
     <message>
         <source>Black and White</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Czarno-biały</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozmycie</translation>
     </message>
     <message>
         <source>Co&amp;ntrast:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ko&amp;ntrast:</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Kolor:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Od &amp;dołu:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Od &amp;góry:</translation>
     </message>
     <message>
         <source>Image control</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Sterowanie obrazem</translation>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ko&amp;mpresuj...</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
@@ -4699,26 +4931,34 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Od &amp;lewej:</translation>
     </message>
 </context>
 <context>
     <name>KxWidgetSize</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Formularz</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wysokość:</translation>
     </message>
     <message>
         <source>Original size</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozmiar oryginalny</translation>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Zablokuj &amp;współczynnik proporcji</lengthvariant>
+            <lengthvariant>Blokuj &amp;współczynnik proporcji</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Res&amp;olution:</source>
@@ -4750,63 +4990,96 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Size and rotate</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozmiar i obrót</translation>
     </message>
     <message>
         <source>H&amp;eight:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>W&amp;ysokość:</translation>
     </message>
     <message>
         <source>ucShapeHeight</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>ucWysokośćKształtu</lengthvariant>
+            <lengthvariant>ucShapeHeight</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Wi&amp;dth:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>S&amp;zerokość:</translation>
     </message>
     <message>
         <source>ucShapeWidth</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>ucSzerokośćKształtu</lengthvariant>
+            <lengthvariant>ucShapeWidth</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>ucRotation</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>ucObrót</lengthvariant>
+            <lengthvariant>ucRotation</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>degree, 0, -3600, 3600, 1</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>stopni, 0, -3600, 3600, 1</lengthvariant>
+            <lengthvariant>stopień, 0, -3600, 3600, 1</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Skala</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Wysokość:</translation>
     </message>
     <message>
         <source>ucScaleHeight</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>ucSkalowanieWysokości</lengthvariant>
+            <lengthvariant>ucScaleHeight</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>%, 0, 0, 10675, 1</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>%, 0, 0, 10675, 1</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Szerokość:</translation>
     </message>
     <message>
         <source>ucScaleWidth</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>ucSkalowanieSzerokości</lengthvariant>
+            <lengthvariant>ucScaleWidth</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szerokość:</translation>
     </message>
     <message>
         <source>&amp;Relative to original picture size</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Względem oryginalnego rozmiaru obrazu</translation>
     </message>
     <message>
         <source>&amp;Best scale for slide show</source>
@@ -4814,7 +5087,8 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Ro&amp;tation:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ob&amp;rót:</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
@@ -4845,7 +5119,8 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Podgląd</translation>
     </message>
     <message>
         <source>Create new</source>
@@ -4861,7 +5136,8 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Cannot be previewed.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nie można wyświetlić podglądu.</translation>
     </message>
 </context>
 <context>
@@ -4900,11 +5176,13 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Internal margin</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Margines wewnętrzny</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Od &amp;lewej:</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
@@ -4912,15 +5190,18 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Od &amp;prawej:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Od &amp;dołu:</translation>
     </message>
     <message>
         <source>&amp;Word wrap text in autoshape</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Zawijanie wierszy w Autokształcie</translation>
     </message>
     <message>
         <source>Rotat&amp;e text within autoshape by 90°</source>
@@ -4932,11 +5213,13 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>T&amp;op:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Od &amp;góry:</translation>
     </message>
     <message>
         <source>Resize autoshape to fit &amp;text</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Dopa&amp;suj rozmiar Autokształtu do tekstu</translation>
     </message>
     <message>
         <source>Allow text to rotate with object(&amp;F)</source>
@@ -4982,31 +5265,34 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>custom %1</source>
-        <translation>dostosowany %1</translation>
+        <translation>niestandardowy %1</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Czarny #000000</translation>
+        <translation>Czarny</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
-        <translation>Ciemny cyjan #008B8B</translation>
+        <translation>Ciemnobłękitny</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation>Ciemnoniebieski #00008B</translation>
+        <translation>Ciemnoniebieski</translation>
     </message>
     <message>
         <source>Thumb Blue</source>
-        <translation>Niebieskawy</translation>
+        <translation variants="yes">
+            <lengthvariant>Błękit indygowy</lengthvariant>
+            <lengthvariant>Indygo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>Niebieski #0000FF</translation>
+        <translation>Niebieski</translation>
     </message>
     <message>
         <source>Wathet Blue</source>
-        <translation>Niebieskawy</translation>
+        <translation>Jasnoniebieski</translation>
     </message>
     <message>
         <source>Blue Grey</source>
@@ -5014,36 +5300,35 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Light Purple</source>
-        <translation>Jasnopurpurowy #B19CD9</translation>
+        <translation>Jasnopurpurowy</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation>Szary 80% #343434</translation>
+        <translation>Szary-80%</translation>
     </message>
     <message>
         <source>Blue Violet</source>
-        <translatorcomment>Intensywne indygo</translatorcomment>
-        <translation>Niebiesko-fioletowy #8A2BE2</translation>
+        <translation>Fioletowoniebieski</translation>
     </message>
     <message>
         <source>Aqua green</source>
-        <translation>Cyjanowo-zielony</translation>
+        <translation>Akwamarynozielony</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation>Błękitny #87CEEB</translation>
+        <translation>Lazurowy</translation>
     </message>
     <message>
         <source>Baby Blue</source>
-        <translation>Bladoniebieski  #89CFF0</translation>
+        <translation>Błękit niemowlęcy</translation>
     </message>
     <message>
         <source>Light Cyan</source>
-        <translation>Jasny cyjan#E0FFFF</translation>
+        <translation>Jasnobłękitny</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation>Różowy #FF007F</translation>
+        <translation>Różowy</translation>
     </message>
     <message>
         <source>Pink Rose</source>
@@ -5051,55 +5336,55 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation>Szary 50%</translation>
+        <translation>Szary-50%</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation>Morska zieleń #2E8B57</translation>
+        <translation>Morska zieleń</translation>
     </message>
     <message>
         <source>Cyan Green</source>
-        <translation>Cyjanowo-zielony</translation>
+        <translation>Błękitnozielony</translation>
     </message>
     <message>
         <source>Laurel Green</source>
-        <translation>Liść laurowy #A9BA9D</translation>
+        <translation>Laurowozielony</translation>
     </message>
     <message>
         <source>White</source>
-        <translation>Biały #FFFFFF</translation>
+        <translation>Biały</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation>Jasnożółty #FFFFE0</translation>
+        <translation>Jasnożółty</translation>
     </message>
     <message>
         <source>Dark Brown</source>
-        <translation>Ciemnobrązowy #654321</translation>
+        <translation>Ciemnobrązowy</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation>Fioletowy #B803FF ?#</translation>
+        <translation>Fioletowy</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation>Szary 40% #989898</translation>
+        <translation>Szary-40%</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation>Ciemnozielony #006400</translation>
+        <translation>Ciemnozielony</translation>
     </message>
     <message>
         <source>Light Green </source>
-        <translation>Jasnozielony #90EE90</translation>
+        <translation>Jasnozielony </translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>Żółty #FFFF00</translation>
+        <translation>Żółty</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation>Złoty #FFD700</translation>
+        <translation>Złoty</translation>
     </message>
     <message>
         <source>Light Orange</source>
@@ -5107,7 +5392,7 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Red</source>
-        <translation>Czerwony #FF0000</translation>
+        <translation>Czerwony</translation>
     </message>
     <message>
         <source>Plum Purple</source>
@@ -5115,120 +5400,119 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation>Szary 25% #C0C0C0</translation>
+        <translation>Szary-25%</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>Zielony #008000</translation>
+        <translation>Zielony</translation>
     </message>
     <message>
         <source>Lime Green </source>
-        <translation>Limonkowo-zielony #32CD32</translation>
+        <translation>Limonowozielony </translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation>Ciemnożółty #9B870C</translation>
+        <translation>Ciemnożółty</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation>Oliwkowy #808000</translation>
+        <translation>Oliwkowozielony</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation>Pomarańczowy #FFA500</translation>
+        <translation>Pomarańczowy</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation>Brązowy #964B00</translation>
+        <translation>Brązowy</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation>Ciemnoczerwony #8B0000</translation>
+        <translation>Ciemnoczerwony</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation>Szary 5%</translation>
+        <translation>Szary-5%</translation>
     </message>
     <message>
         <source>Gray-10% </source>
-        <translation>Szary 10%</translation>
+        <translation>Szary-10% </translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation>Szary 12,5%</translation>
+        <translation>Szary-12,5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation>Szary 15%</translation>
+        <translation>Szary-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation>Szary 20%</translation>
+        <translation>Szary-20%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation>Szary 30%</translation>
+        <translation>Szary-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation>Szary 35%</translation>
+        <translation>Szary-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation>Szary 37,5%</translation>
+        <translation>Szary-37,5%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation>Szary 45%</translation>
+        <translation>Szary-45%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation>Szary 55%</translation>
+        <translation>Szary-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation>Szary 60%</translation>
+        <translation>Szary-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation>Szary 62,5%</translation>
+        <translation>Szary-62,5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation>Szary 65%</translation>
+        <translation>Szary-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation>Szary 70%</translation>
+        <translation>Szary-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation>Szary 75%</translation>
+        <translation>Szary-75%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation>Szary 85%</translation>
+        <translation>Szary-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation>Szary 87,5%</translation>
+        <translation>Szary-87,5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation>Szary 90%</translation>
+        <translation>Szary-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation>Szary 95%</translation>
+        <translation>Szary-95%</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translatorcomment>Aqua</translatorcomment>
-        <translation>Cyjan #00FFFF</translation>
+        <translation>Błękitny</translation>
     </message>
     <message>
         <source>AutoBackup</source>
-        <translation>Automatyczne kopie zapasowe</translation>
+        <translation>Automatyczna kopia zapasowa</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
@@ -5271,58 +5555,61 @@ Zawsze podejmuj to działanie.</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowa nazwa pliku, proszę wprowadzić poprawną nazwę pliku</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz jako</translation>
     </message>
     <message>
         <source>Overwrite file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastąpić plik?</translation>
     </message>
     <message>
         <source>File &quot;%1&quot; already exists. Are you sure you want to overwrite the existing file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik &quot;%1&quot; już istnieje. Czy na pewno chcesz zastąpić istniejący plik?</translation>
     </message>
     <message>
         <source>The chosen spelling language has been deleted. Please choose a language again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybrany język sprawdzania pisowni został usunięty. Proszę ponownie wybrać język.</translation>
     </message>
     <message>
         <source>There are errors in your system registry which will disable the use of some objects. Do you want to repair?
 (The system uses WPS Office as the default one to open %1 files)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rejestr systemu zawiera błędy, które spowodują wyłączenie niektórych obiektów. Czy chcesz to naprawić?
+(Domyślnie system używa pakietu WPS Office do otwierania plików %1)</translation>
     </message>
     <message>
         <source>WPS Office is not the default office software. Do you want to set it as the default one?
 (The system uses WPS Office as the default one to open %1 files)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakiet WPS Office nie jest domyślnym oprogramowaniem biurowym. Czy chcesz ustawić go jako domyślny?
+(Domyślnie system używa pakietu WPS Office do otwierania plików %1)</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Różany</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Śliwkowy</translation>
     </message>
     <message>
         <source>Do not show this message again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie pokazuj tego komunikatu ponownie.</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again. 
 Always take this action.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie pokazuj tego komunikatu ponownie. 
+Zawsze wykonuj tą akcję.</translation>
     </message>
     <message>
         <source>Do not check this when starting WPS Office next time</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie sprawdzaj tego, podczas następnego uruchamiania pakietu WPS Office</translation>
     </message>
     <message>
         <source>Blue Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Niebieskoszary</translation>
     </message>
 </context>
 <context>
@@ -5364,7 +5651,8 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szablony</translation>
     </message>
 </context>
 <context>
@@ -5379,7 +5667,7 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
     <message>
         <source>All rights reserved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszelkie prawa zastrzeżone.</translation>
     </message>
     <message>
         <source>This product is licensed to:</source>
@@ -5393,11 +5681,16 @@ The settings will take effect after restarting WPS Office.</source>
         <source>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
-        <translation type="unfinished"></translation>
+        <translation>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>OK</lengthvariant>
+            <lengthvariant>TAK</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
@@ -5416,7 +5709,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Porada</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
@@ -5427,7 +5721,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <name>compressPictures</name>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Kompresowanie obrazów</lengthvariant>
+            <lengthvariant>Kompresuj obrazy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Apply to</source>
@@ -5435,7 +5733,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;All pictures in document</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Wszystkie obrazy w dokumencie</translation>
     </message>
     <message>
         <source>Change resolution</source>
@@ -5455,19 +5754,29 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>&amp;Compress pictures</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>&amp;Kompresuj obrazy</lengthvariant>
+            <lengthvariant>&amp;Kompresowanie obrazów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>D&amp;elete cropped areas of pictures</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>&amp;Usuń przycięte części obrazu</lengthvariant>
+            <lengthvariant>&amp;Usuń przycięte części obrazów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Selected pictures</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Zaznaczone obrazy</translation>
     </message>
 </context>
 <context>
@@ -5481,7 +5790,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <name>dialogstestClass</name>
     <message>
         <source>dialogstest</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>dialogitest</lengthvariant>
+            <lengthvariant>dialogstest</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -5531,64 +5843,67 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <name>kxDlgHyperlink</name>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiperłącze</translation>
     </message>
     <message>
         <source>Link to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Łącze do:</translation>
     </message>
     <message>
         <source>&amp;Text to display:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tekst do wyświetlenia:</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Etykietka ekranowa...</translation>
     </message>
     <message>
         <source>Pl&amp;ace in this
 Document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miejsce w tym
+dokumencie</translation>
     </message>
     <message>
         <source>Email Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Przycisk e-mail</translation>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres e-&amp;mail</translation>
     </message>
     <message>
         <source>&amp;Remove Link</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Usuń łącze</translation>
     </message>
     <message>
         <source>Addr&amp;ess:</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;dres:</translation>
     </message>
     <message>
         <source>&amp;E-mail address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres &amp;e-mail:</translation>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Temat:</translation>
     </message>
     <message>
         <source>E&amp;xisting File
 or Web Page</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Istniejący plik
+lub strona sieci Web</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni&amp;edawno używane adresy e-mail:</translation>
     </message>
 </context>
 <context>
     <name>kxDlgSetSpellcheckLanguage</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Więcej</translation>
     </message>
     <message>
         <source>Install</source>
@@ -5600,7 +5915,8 @@ or Web Page</source>
     </message>
     <message>
         <source>Set Spell Check Language</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ustaw język Sprawdzania pisowni</translation>
     </message>
     <message>
         <source>Available Languages:</source>
@@ -5608,7 +5924,12 @@ or Web Page</source>
     </message>
     <message>
         <source>Spell Check engine will use the chosen language for checking automatically.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Silnik Sprawdzania pisowni będzie używać wybranego języka do automatycznego sprawdzania.</lengthvariant>
+            <lengthvariant>Aparat Sprawdzania pisowni będzie używać wybranego języka do automatycznego sprawdzania.</lengthvariant>
+            <lengthvariant>Mechanizm Sprawdzania pisowni będzie używać wybranego języka do automatycznego sprawdzania.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Uninstall</source>
@@ -5623,15 +5944,24 @@ or Web Page</source>
     <name>pasteSpecial</name>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wklej specjalnie</lengthvariant>
+            <lengthvariant>Wklejanie specjalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Source:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Źródło:</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Nieznany</lengthvariant>
+            <lengthvariant>Nieznane</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;As:</source>
@@ -5651,7 +5981,8 @@ or Web Page</source>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Porada</translation>
     </message>
     <message>
         <source>Change &amp;Icon</source>
@@ -5670,19 +6001,23 @@ or Web Page</source>
     </message>
     <message>
         <source>General</source>
+        <translatorcomment>a</translatorcomment>
         <translation type="unfinished">Ogólne</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Typ:</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Lokalizacja:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozmiar:</translation>
     </message>
     <message>
         <source>Created:</source>
@@ -5690,7 +6025,8 @@ or Web Page</source>
     </message>
     <message>
         <source>MS-DOS file name:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nazwa pliku systemu MS-DOS:</translation>
     </message>
     <message>
         <source>Modified:</source>
@@ -5722,11 +6058,13 @@ or Web Page</source>
     </message>
     <message>
         <source>Sa&amp;ve preview picture</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Za&amp;pisz obraz podglądu</translation>
     </message>
     <message>
         <source>&amp;Subject:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Temat:</translation>
     </message>
     <message>
         <source>&amp;Keyword:</source>
@@ -5734,7 +6072,8 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Tytuł:</translation>
     </message>
     <message>
         <source>C&amp;ompany:</source>
@@ -5742,11 +6081,13 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Comments:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Komentarze:</translation>
     </message>
     <message>
         <source>Cat&amp;egory:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kat&amp;egoria:</translation>
     </message>
     <message>
         <source>&amp;Manager:</source>
@@ -5754,7 +6095,8 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Author:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Autor:</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -5762,11 +6104,13 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Nazwa:</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>Client</source>
@@ -5786,7 +6130,10 @@ or Web Page</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Grupa</lengthvariant>
+            <lengthvariant>Grupowanie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Language</source>
@@ -5810,7 +6157,8 @@ or Web Page</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Stan</translation>
     </message>
     <message>
         <source>Purpose</source>
@@ -5826,7 +6174,8 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Type:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Typ:</translation>
     </message>
     <message>
         <source>Text</source>
@@ -5874,7 +6223,8 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Read-only</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Tylko do &amp;odczytu</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -5916,7 +6266,8 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Podgląd</translation>
     </message>
 </context>
 </TS>

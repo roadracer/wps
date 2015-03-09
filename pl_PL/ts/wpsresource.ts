@@ -2351,7 +2351,7 @@
         <source>Clear
 Table Style</source>
         <translation>Wyczyść
- styl tabeli</translation>
+styl tabeli</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
@@ -2719,7 +2719,10 @@ Włącz</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Shapes</source>
@@ -3516,7 +3519,10 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -4693,7 +4699,10 @@ tekstu</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Clean Line Spacing</source>
@@ -6122,7 +6131,10 @@ Effects</source>
     </message>
     <message>
         <source>Depth</source>
-        <translation>Głębokość</translation>
+        <translation variants="yes">
+            <lengthvariant>Głębokość</lengthvariant>
+            <lengthvariant>Głębia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dim</source>
@@ -6984,7 +6996,10 @@ On/Off</source>
     </message>
     <message>
         <source>Depth</source>
-        <translation>Głębokość</translation>
+        <translation variants="yes">
+            <lengthvariant>Głębokość</lengthvariant>
+            <lengthvariant>Głębia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dim</source>
@@ -10333,7 +10348,10 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Shapes</source>
@@ -11080,7 +11098,10 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -12891,7 +12912,10 @@ tekst</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Pokaż</translation>
+        <translation variants="yes">
+            <lengthvariant>Pokaż</lengthvariant>
+            <lengthvariant>Pokaz</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -14266,7 +14290,10 @@ Effects</source>
     </message>
     <message>
         <source>Depth</source>
-        <translation>Głębokość</translation>
+        <translation variants="yes">
+            <lengthvariant>Głębokość</lengthvariant>
+            <lengthvariant>Głębia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dim</source>
@@ -15479,7 +15506,10 @@ cienia</translation>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation>Zatrzymaj nagrywanie</translation>
+        <translation variants="yes">
+            <lengthvariant>Zatrzymaj nagrywanie</lengthvariant>
+            <lengthvariant>Zatrzymaj rejestrowanie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Tables and Borders</source>
@@ -15592,7 +15622,10 @@ cienia</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Click to turn on/off AutoBackup</source>
@@ -16009,10 +16042,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation variants="yes">
-            <lengthvariant>Wykonaj ponownie</lengthvariant>
-            <lengthvariant>Powtórz</lengthvariant>
-        </translation>
+        <translation>Wykonaj ponownie</translation>
     </message>
     <message>
         <source>Replace</source>

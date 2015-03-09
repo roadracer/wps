@@ -13,11 +13,11 @@
     <name>KTemplateDlgBottom</name>
     <message>
         <source>blank document</source>
-        <translation type="unfinished"></translation>
+        <translation>pusty dokument</translation>
     </message>
     <message>
         <source>from template</source>
-        <translation type="unfinished"></translation>
+        <translation>z szablonu</translation>
     </message>
 </context>
 <context>

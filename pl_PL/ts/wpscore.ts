@@ -1251,8 +1251,10 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source> Do you want to search the other part of the document?</source>
         <comment>_TxFind_ContiuneRemainder</comment>
-        <translatorcomment> Czy chcesz przeszukać inną część dokumentu?</translatorcomment>
-        <translation> Czy chcesz kontynuować wyszukiwanie w innej części dokumentu?</translation>
+        <translation variants="yes">
+            <lengthvariant> Czy chcesz kontynuować wyszukiwanie w innej części dokumentu?</lengthvariant>
+            <lengthvariant>Czy chcesz przeszukać inną część dokumentu?</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>and has replaced %i items.</source>
@@ -1745,7 +1747,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Distributed</source>
         <comment>TxRevision_Pap_Distributed</comment>
-        <translation>Rozłożony</translation>
+        <translation>Rozłożone</translation>
     </message>
     <message>
         <source>Level %d</source>
@@ -2530,7 +2532,10 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Center</source>
         <comment>TxRevision_Pap_AlignmentCenter</comment>
-        <translation>Środek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Right</source>
@@ -2998,7 +3003,7 @@ Please try one of the following.
 •Make sure you are permitted to access this file or drive.
 •Make sure there is enough memory and disk space.</source>
         <comment>_TxDocument_OpenFailure</comment>
-        <translation>Występują błędy, gdy WPS Writer otwiera ten plik.
+        <translation>Występują błędy, gdy program WPS Writer otwiera ten plik.
 Wypróbuj jedną z następujących czynności.
 •Upewnij się, że masz uprawnienia dostępu do tego pliku lub dysku.
 •Upewnij się, że nie jest za mało pamięci i miejsca na dysku.</translation>
@@ -3017,14 +3022,14 @@ Wypróbuj jedną z następujących czynności.
         <source>WPS Writer cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>_TxDocument_OpenPasswordFailure</comment>
-        <translation>WPS Writer nie może otworzyć tego pliku, ponieważ hasło jest nieprawidłowe.
+        <translation>Program WPS Writer nie może otworzyć tego pliku, ponieważ hasło jest nieprawidłowe.
 (%s)</translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>_TxDocument_OpenProvALGVerFailure</comment>
-        <translation>Nieobsługiwany szyfrowany format pliku. Prosimy skontaktuj się z twórcą.
+        <translation>Nieobsługiwany szyfrowany format pliku. Proszę skontaktuj się z jego twórcą.
 (%s)</translation>
     </message>
     <message>
@@ -3114,8 +3119,8 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <translation>Twój program antywirusowy napotkał błędy podczas skanowania tego pliku (kod błędu: 0x%08X). Proszę skontaktuj się z agentem oprogramowania antywirusowego. 
 Czy nadal chcesz otworzyć ten plik?
 
-•Kliknij przycisk Tak, WPS Writer będzie kontynował otwieranie tego pliku.
-•Kliknij przycisk Nie, WPS Writer zatrzyma otwieranie tego pliku.
+•Kliknij przycisk Tak, program WPS Writer będzie kontynował otwieranie tego pliku.
+•Kliknij przycisk Nie, program WPS Writer zatrzyma otwieranie tego pliku.
 
 Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne szkodliwe akcje. Jeżeli nie ufasz temu plikowi, po prostu nie otwieraj go.
 (%s)</translation>
@@ -3225,7 +3230,7 @@ Wpisz inną nazwę dokumentu, który chcesz zapisać.
         <source>WPS Writer cannot open this file, because the password is not correct.
 </source>
         <comment>_TxDocument_OpenPasswordFailure2</comment>
-        <translation>WPS Writer nie może otworzyć tego pliku, ponieważ hasło jest nieprawidłowe.</translation>
+        <translation>Program WPS Writer nie może otworzyć tego pliku, ponieważ hasło jest nieprawidłowe.</translation>
     </message>
     <message>
         <source>WPS document in %s</source>
@@ -3270,10 +3275,10 @@ Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.</source>
         <comment>_TxDocument_KRM_RightsInsufficient</comment>
-        <translation>WPS Writer nie może otworzyć tego pliku, ponieważ bieżący użytkownik nie ma wystarczających uprawnień do dostępu.
+        <translation>Program WPS Writer nie może otworzyć tego pliku, ponieważ bieżący użytkownik nie ma wystarczających uprawnień do dostępu. 
 Proszę wypróbuj jedną z następujących czynności:
 •Przełącz się do konta innego użytkownika.
-•Zapytaj jego twórcy, aby zmienił uprawnienia poziomu kontroli tego pliku.</translation>
+•Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli tego pliku.</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</source>
@@ -3837,7 +3842,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The word contains unallowable characters. Cannot process it.</source>
         <comment>wps_sInvalidWord</comment>
-        <translation>To słowo zawiera niedozwolone znaki. Nie moża przetworzyć go.</translation>
+        <translation>Słowo zawiera niedozwolone znaki. Nie można go przetworzyć.</translation>
     </message>
     <message>
         <source>Job Title</source>
@@ -6101,10 +6106,7 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>Can&apos;t Redo</source>
         <comment>TxVersion_CannotRedo</comment>
-        <translation variants="yes">
-            <lengthvariant>Nie można wykonać ponownie</lengthvariant>
-            <lengthvariant>Nie można przywrócić</lengthvariant>
-        </translation>
+        <translation>Nie można wykonać ponownie</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -6114,10 +6116,7 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>Redo</source>
         <comment>TxVersion_Redo</comment>
-        <translation variants="yes">
-            <lengthvariant>Wykonaj ponownie</lengthvariant>
-            <lengthvariant>Przywróć</lengthvariant>
-        </translation>
+        <translation>Wykonaj ponownie</translation>
     </message>
     <message>
         <source>Unlink Fields</source>
@@ -6898,7 +6897,10 @@ pisowni</translation>
     <message>
         <source>Stop Recording</source>
         <comment>TXWps_RecordMacro_Stop</comment>
-        <translation>Zatrzymaj nagrywanie</translation>
+        <translation variants="yes">
+            <lengthvariant>Zatrzymaj nagrywanie</lengthvariant>
+            <lengthvariant>Zatrzymaj rejestrowanie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Record Macro</source>

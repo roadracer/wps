@@ -42,12 +42,14 @@
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation>Sprawdź Szablony Online</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Sprawdź szablony Online</translation>
     </message>
     <message>
         <source>Online Templates</source>
         <comment>title</comment>
-        <translation>Szablony Online</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szablony online</translation>
     </message>
 </context>
 </TS>

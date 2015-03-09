@@ -6,27 +6,30 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>KLauncherWidget</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>KLauncherWidget</lengthvariant>
+            <lengthvariant>KUruchamianieWidget</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapraszamy do WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz skróty na pulpicie</translation>
     </message>
 </context>
 <context>
@@ -34,16 +37,16 @@
     <message>
         <source>Usage: %1 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Użycie: %1 </translation>
     </message>
     <message>
         <source>    or %1 &lt;wps|wpp|et&gt; [document_path]
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    lub %1 &lt;wps|wpp|et&gt; [dokument_ściażka]</translation>
     </message>
     <message>
         <source>:/qm/%1.qm</source>
-        <translation type="unfinished"></translation>
+        <translation>:/qm/%1.qm</translation>
     </message>
 </context>
 </TS>
