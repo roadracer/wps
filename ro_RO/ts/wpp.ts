@@ -1615,7 +1615,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Prompt to &amp;keep ink when exiting</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicită &amp;păstrarea cernelii când există</translation>
     </message>
     <message>
         <source>&amp;End with black slide</source>
@@ -2395,7 +2395,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>&amp;Color schemes</source>
-        <translation>Scheme &amp;culoare</translation>
+        <translation>Scheme de &amp;culoare</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2419,7 +2419,7 @@ imprimantă cât și pentru ecran.</translation>
     </message>
     <message>
         <source>Edit Color Schemes</source>
-        <translation>Editează scheme culoare</translation>
+        <translation>Editare scheme de culoare</translation>
     </message>
     <message>
         <source> De&amp;lete Color Scheme </source>
@@ -3217,14 +3217,14 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>Scheme culoare</translation>
+        <translation>Scheme de culoare</translation>
     </message>
 </context>
 <context>
     <name>KxTpColorScheme</name>
     <message>
         <source>Color Schemes</source>
-        <translation>Scheme culoare</translation>
+        <translation>Scheme de culoare</translation>
     </message>
     <message>
         <source>Apply a color scheme:</source>
@@ -3247,7 +3247,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Edit Color Schemes...</source>
-        <translation>Editare scheme culoare...</translation>
+        <translation>Editare scheme de culoare...</translation>
     </message>
 </context>
 <context>
@@ -3269,7 +3269,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <name>KxTpSlideDesignWidget</name>
     <message>
         <source>Color Schemes</source>
-        <translation>Scheme culoare</translation>
+        <translation>Scheme de culoare</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
@@ -4659,7 +4659,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Fill &amp;color:</source>
-        <translation>Umple &amp;culoare:</translation>
+        <translation>Umple cu &amp;culoare:</translation>
     </message>
     <message>
         <source>cmbFillColor</source>

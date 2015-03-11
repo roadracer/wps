@@ -4056,7 +4056,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Print titles</source>
-        <translation>Tipărește titlurile</translation>
+        <translation>Titluri de tipărit</translation>
     </message>
     <message>
         <source>&amp;Rows to repeat at top:</source>

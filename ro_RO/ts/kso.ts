@@ -581,7 +581,7 @@ Verificați configurările de sistem și asigurați-vă că directorul temporar 
     <message>
         <source>Fill Color</source>
         <comment>DgUil_KSO_Cmd_FillColor</comment>
-        <translation>Umple culoare</translation>
+        <translation>Umple cu culoare</translation>
     </message>
     <message>
         <source>Fill Effects</source>
@@ -2931,7 +2931,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Wire Frame</source>
         <comment>DRAWINGSTR_DGMSTYLE_WIRE_FRAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
     <message>
         <source>Classic</source>
@@ -5608,22 +5608,22 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>Em Dash</source>
         <comment>kso_sSymbolEmDash</comment>
-        <translation type="unfinished"></translation>
+        <translation>Em Dash</translation>
     </message>
     <message>
         <source>Em Space</source>
         <comment>kso_sSymbolEmSpace</comment>
-        <translation type="unfinished"></translation>
+        <translation>Em Space</translation>
     </message>
     <message>
         <source>En Dash</source>
         <comment>kso_sSymbolEnDash</comment>
-        <translation type="unfinished"></translation>
+        <translation>En Dash</translation>
     </message>
     <message>
         <source>En Space</source>
         <comment>kso_sSymbolEnSpace</comment>
-        <translation type="unfinished"></translation>
+        <translation>En Space</translation>
     </message>
     <message>
         <source>Nonbreaking Space</source>

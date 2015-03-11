@@ -110,7 +110,7 @@
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -2087,7 +2087,7 @@ Center</source>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare Docer</translation>
     </message>
     <message>
         <source>Down</source>
@@ -3725,7 +3725,7 @@ pornit/oprit</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare Docer</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -4088,11 +4088,11 @@ recent</translation>
     </message>
     <message>
         <source>Angle Clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Unghi în sens orar</translation>
     </message>
     <message>
         <source>Angle Countclockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Unghi antiorar</translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -4128,7 +4128,7 @@ recent</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Chenar dublu dedesubt</translation>
     </message>
     <message>
         <source>Cancel Merge</source>
@@ -6000,7 +6000,7 @@ umbră</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -6332,7 +6332,7 @@ umbră</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -7165,7 +7165,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Chenar dublu dedesubt</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -8073,7 +8073,7 @@ Center</source>
     </message>
     <message>
         <source>Print Area</source>
-        <translation>Zonă de tipărit</translation>
+        <translation>Zona de tipărit</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -9293,7 +9293,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare Docer</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -9694,7 +9694,7 @@ Trig</source>
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Chenar dublu dedesubt</translation>
     </message>
     <message>
         <source>Cancel Merge</source>
@@ -10592,11 +10592,11 @@ centrează</translation>
     </message>
     <message>
         <source>Print Area</source>
-        <translation>Zonă de tipărit</translation>
+        <translation>Zona de tipărit</translation>
     </message>
     <message>
         <source>Print Titles</source>
-        <translation>Tipărește titlurile</translation>
+        <translation>Titluri de tipărit</translation>
     </message>
     <message>
         <source>Reset All Page Breaks</source>
@@ -11450,7 +11450,7 @@ centrează</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -11751,7 +11751,7 @@ umbră</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
