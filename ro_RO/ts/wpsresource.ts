@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -1673,7 +1673,7 @@
     </message>
     <message>
         <source>Show/Hide Editing Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată/ascunde editarea marcajelor</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
@@ -2937,7 +2937,7 @@ text</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -3578,7 +3578,7 @@ formatare</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată/ascunde marcaje paragraf</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -3716,7 +3716,7 @@ formatare</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp formular desfășurat</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -5161,7 +5161,7 @@ Pornit/Oprit</translation>
     <name>ongmani.ct_references</name>
     <message>
         <source>Body Text</source>
-        <translation>Text corp</translation>
+        <translation>Corp text</translation>
     </message>
     <message>
         <source>Caption</source>
@@ -5408,7 +5408,7 @@ nou</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată toate revizuirile în linie</translation>
     </message>
     <message>
         <source>Show Author</source>
@@ -5424,7 +5424,7 @@ nou</translation>
     </message>
     <message>
         <source>Show Revisor Information in Balloons</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată informația revizuirii în baloane</translation>
     </message>
     <message>
         <source>Show Time</source>
@@ -6000,7 +6000,7 @@ umbră</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -6364,7 +6364,7 @@ complet</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcare</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -6825,7 +6825,7 @@ umbră</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -8494,7 +8494,7 @@ formatare</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Matching Current Format</source>
@@ -8962,7 +8962,7 @@ formatare</translation>
     </message>
     <message>
         <source>Show Paragraph Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată marcaje paragraf</translation>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
@@ -10071,7 +10071,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -10672,7 +10672,7 @@ antet și subsol</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată/ascunde marcaje paragraf</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -10814,7 +10814,7 @@ antet și subsol</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp formular desfășurat</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -12180,7 +12180,7 @@ text</translation>
     <name>rainbow.ct_references</name>
     <message>
         <source>Body Text</source>
-        <translation>Text corp</translation>
+        <translation>Corp text</translation>
     </message>
     <message>
         <source>Caption</source>
@@ -12976,7 +12976,7 @@ pagini</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -13248,7 +13248,7 @@ Alte ferestre</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcare</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -13693,7 +13693,7 @@ umbră</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -14350,7 +14350,7 @@ umbră</translation>
     <name>wordtools</name>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comută la modul paragraf gol despărțit</translation>
     </message>
     <message>
         <source>Convert Paragraph Indent to Space</source>
@@ -14786,7 +14786,7 @@ umbră</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare Docer</translation>
     </message>
     <message>
         <source>Document Collaboration</source>

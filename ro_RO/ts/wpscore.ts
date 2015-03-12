@@ -126,7 +126,7 @@
     <message>
         <source>Error! Picture switch must be the first formatting switch.</source>
         <comment>TX_FIELD_ERR_PICTURE_FORMAT_NOT_FIRST</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare! Comutator poză trebuie să fie primul comutator formatat.</translation>
     </message>
     <message>
         <source>Error! Picture string contains unmatched quotes.</source>
@@ -222,7 +222,7 @@ Try one or more of the following:
     <message>
         <source>Error. Unknown op code for conditional.</source>
         <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eroare! Cod operare necunoscut pentru condițional.</translation>
     </message>
     <message>
         <source>Error. Missing second part of test condition.</source>
@@ -1049,7 +1049,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Dashed long heavy underline</source>
         <comment>TxRevision_Chp_DashedLongHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Liniat lung subliniere grea</translation>
     </message>
     <message>
         <source>Dot-dash underline</source>
@@ -1059,7 +1059,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Dot-dash heavy underline</source>
         <comment>TxRevision_Chp_DotDashHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punct-linie subliniere grea</translation>
     </message>
     <message>
         <source>Dot-dot-dash underline</source>
@@ -1069,7 +1069,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Dot-dot-dash heavy underline</source>
         <comment>TxRevision_Chp_DotDotDashHeavyUnderline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punct-punct-linie subliniere grea</translation>
     </message>
     <message>
         <source>Wave underline</source>
@@ -1104,7 +1104,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>No emphasis mark</source>
         <comment>TxRevision_Chp_NoEmphasisMark</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fără marcare accent</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -2234,7 +2234,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>The Replace With text contains a group number which is out of range.</source>
         <comment>_TxFind_MoreReplacementGroups</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Textul Înlocuiește cu conține un număr grup care este în afara intervalului.</translation>
     </message>
     <message>
         <source>Invalid Add-In Template.</source>
@@ -2270,7 +2270,7 @@ Doriți să-l înlocuiți?</translation>
     </message>
     <message>
         <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
-        <translation type="unfinished"></translation>
+        <translation>Unul sau ambele documente comparate conțin modificări urmărite. Pentru scopul comparării, WPS va considera aceste modificări că au fost acceptate. Se continuă compararea?</translation>
     </message>
     <message>
         <source>(no proofing)</source>
@@ -2318,7 +2318,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>Settings you made for left or right margin, column spacing, or paragraph indent are oversized for the page width in some sections.</source>
         <comment>_TxErr_MeasureOutOfPageLimit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurările pe care le-ați făcut pentru marginea stângă sau dreaptă, distanța dintre coloane, sau indentarea paragrafului sunt supradimensionatepentru lățimea paginii în unele selecții.</translation>
     </message>
     <message>
         <source>Cannot set or get column spacing at the end of text.</source>
@@ -2398,7 +2398,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
         <comment>_TxErr_ChangeTextboxToResizeOrRotateWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Caseta text conține obiecte sau tabele care vor fi șterse dacă veți configura proprietățile acestora, fiindcă toate casetele text redimensionabile sau care se rotesc  nu trebuie să conțină nici un obiect sau tabel. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Cannot insert any object to the text box which can be resized or rotated.</source>
@@ -2408,7 +2408,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
         <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Încercați să lipiți unul sau mai multe tabele într-o casetă text verticală sau cadru. O casetă text sau cadru cu direcția textului verticală nu poate conține un tabel. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Some of the regions you can edit overlap, and it is not possible to show them at the same time.
@@ -2512,7 +2512,10 @@ Please try one of the following.
 •Make sure you are permitted to access this file or drive.
 •Make sure there is enough memory and disk space.</source>
         <comment>_TxDocument_OpenFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation>Au intervenit erori când WPS Writer deschidea acest fișier.
+Încercați una dintre următoarele.
+•Asigurați-vă că aveți permisiunea să accesați acest fișier sau partiție.
+•Asigurați-vă că este suficientă memorie și spațiu pe disc.</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
@@ -2542,7 +2545,7 @@ Please try one of the following.
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
         <comment>_TxDocument_Open_File_Isnot_Exist</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate găsi &quot;%s&quot;. Verificați ortografia numelui fișierului și asigurați-vă că locația fișierului este corectă. Dacă încercați să deschideți fișierul din lista de fișiere recent utilizate din meniul Fișier, asigurați-vă că acest fișier nu a fost redenumit, mutat sau șters.</translation>
     </message>
     <message>
         <source>WPS Writer cannot save or create this file.
@@ -2599,7 +2602,10 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
 •If you want to keep this format, click Yes.
 •If you want to preserve the features, click No. Then save a copy as the latest WPS Writer format.</source>
         <comment>_TxDocument_FormatNotCompatible</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s poate conține unele funcții care nu sunt compatibile cu formatul %s . Doriți să păstrați documentul în acest format?
+
+•Dacă doriți să păstrați acest format, apăsați Da.
+•Dacă vreți să păstrați funcțiile, apăsați Nu. Apoi salvați o copie în ultimul format WPS Writer.</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -2611,7 +2617,14 @@ Do you still want to open this file?
 Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
 (%s)</source>
         <comment>_TxDocument_AVFailed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Programul dumneavostră antivirus a întâmpinat erori când scana fișierul(Cod eroare: 0x%08X). Contactați suportul software pentru antivirus. 
+Doriți totuși să deschideți acest fișier?
+
+•Apăsați Da, WPS Writer va continua să deschidă acest fișier.
+•Apăsați Nu, WPS Writer va opri deschiderea acestui fișier.
+
+Rețineți că unele fișiere pot conține macro-viruși și pot efectua alte acțiuni dăunătoare. Dacă nu aveți încredere în acest fișier, nu îl deschideți.
+(%s)</translation>
     </message>
     <message>
         <source>The default template has been damaged. Do you want to try resetting it? Note that resetting may cause loss of part of user defined data.</source>
@@ -2644,7 +2657,10 @@ Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.</source>
         <comment>_TxDocument_KRM_RightsInsufficient</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer nu poate deschide acest fișier, fiindcă utilizatorul curent nu are permisiuni suficiente de acces.
+Încercați una dintre următoarele.
+•Comutați la alt cont utilizator.
+•Solicitați autorului documentului să modifice nivelul de control al permisiunilor acestui fișier.</translation>
     </message>
     <message>
         <source>Opening this document will execute the SQL command below:
@@ -3057,7 +3073,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>E-mail Address</source>
         <comment>wps_sEmailAddress</comment>
-        <translation>Adresă email:</translation>
+        <translation>Adresă email</translation>
     </message>
     <message>
         <source>&amp;Enter bookmark name:</source>
@@ -3102,7 +3118,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
         <comment>wps_sFH_NotInstall</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stilul fontului este imitat pentru afișaj. Cel mai apropiat stil potrivit va fi tipărit.</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
@@ -3352,7 +3368,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
         <comment>wps_sMarginsOrColumenSpacingLarge</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurările pe care le-ați ales pentru marginile din stânga și dreapta,distanța coloanei, sau indentarea paragrafului sunt prea largi pentru lățimea paginii în unele secțiuni.</translation>
     </message>
     <message>
         <source>Permission Password and Document Open Password must be different.</source>
@@ -3377,7 +3393,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>Settings you chose for the left and right margins,column spacing, or paragraph indents are too large for the page width in some sections.</source>
         <comment>wps_sMaxWidArrow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Configurările pe care le-ați ales pentru marginile din stânga și dreapta,distanța coloanei, sau indentarea paragrafului sunt prea largi pentru lățimea paginii în unele secțiuni.</translation>
     </message>
     <message>
         <source>Merge to New Document</source>
@@ -3947,7 +3963,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>There are too many characters in the selection.</source>
         <comment>wps_sTooManyCharsInSelection</comment>
-        <translation type="unfinished">Sunt prea multe caractere în selecție.</translation>
+        <translation>Sunt prea multe caractere în selecție.</translation>
     </message>
     <message>
         <source>top/bottom</source>
@@ -4184,7 +4200,12 @@ Yes:	Save to template;
 No:	Do not save to template;
 Cancel:	Return to the dialog.</source>
         <comment>wps_sStyleSettingSaveToDefaultTemplateConfirm</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doriți să modificați configurările implicite pentru stil?
+Această modificare va afecta toate documentele noi bazate pe șablonul %s.
+
+Da:	Salvează în șablon;
+Nu:	Nu salva în șablon;
+Anulare:	Revine la diagol.</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -4888,7 +4909,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Fill Color</source>
         <comment>TxVersion_FillColor</comment>
-        <translation>Umple culoare</translation>
+        <translation>Umple cu culoare</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -5429,7 +5450,7 @@ To add another text box to your document, click Text Box on the Insert menu and 
     <message>
         <source>Cannot link, because the target text box is not empty. You can only link to an empty text box.</source>
         <comment>TxMessage_CreateTextboxLinkError3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate lega, fiindcă caseta text țintă nu este goală. Puteți doar să legați la o casetă text goală.</translation>
     </message>
     <message>
         <source>This text box has a different text flow from the previous text box. Do you want to change the text flow of this text box to match the previous text box?</source>

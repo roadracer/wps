@@ -594,19 +594,19 @@
     <name>KSpecialCharInfos</name>
     <message>
         <source>Em Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Em Dash</translation>
     </message>
     <message>
         <source>En Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>En Dash</translation>
     </message>
     <message>
         <source>Em Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Em Space</translation>
     </message>
     <message>
         <source>En Space</source>
-        <translation type="unfinished"></translation>
+        <translation>En Space</translation>
     </message>
     <message>
         <source>Nonbreaking Space</source>
@@ -2058,7 +2058,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rotate fill effect &amp;with shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotește efectul de umplere &amp;cu forma</translation>
     </message>
     <message>
         <source>Curtain of Night</source>
@@ -3121,7 +3121,7 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>If options folow are empty, the email will only send the auto-generated error log report.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă opțiunile următoare sunt goale, se va trimite prin email numai raportul jurnalului de eroare generat automat.</translation>
     </message>
     <message>
         <source>Abnormal exit</source>
@@ -4624,7 +4624,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>cbbDashStyle</source>
-        <translation type="unfinished"></translation>
+        <translation>cbbStil linie</translation>
     </message>
     <message>
         <source>&amp;Weight:</source>
@@ -4632,19 +4632,19 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>cbBeginStyle</source>
-        <translation type="unfinished"></translation>
+        <translation>cbÎncepe stil</translation>
     </message>
     <message>
         <source>cbEndStyle</source>
-        <translation type="unfinished"></translation>
+        <translation>cbTermină stil</translation>
     </message>
     <message>
         <source>cbBeginSize</source>
-        <translation type="unfinished"></translation>
+        <translation>cbÎncepe dimensiune</translation>
     </message>
     <message>
         <source>cbEndSize</source>
-        <translation type="unfinished"></translation>
+        <translation>cbTermină dimensiune</translation>
     </message>
     <message>
         <source>De&amp;fault for new Objects</source>
@@ -4948,7 +4948,7 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
     </message>
     <message>
         <source>Rotat&amp;e text within autoshape by 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>Roteșt&amp;e textul în interiorul formei automate cu 90°</translation>
     </message>
     <message>
         <source>Allow text to be wrapped by &amp;external object</source>

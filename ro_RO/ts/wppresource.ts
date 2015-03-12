@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -948,7 +948,7 @@
     <name>classics.org_chart.OrgChartAndDiagram</name>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"></translation>
+        <translation>Toți asistenții</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
@@ -956,7 +956,7 @@
     </message>
     <message>
         <source>Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Asistent</translation>
     </message>
     <message>
         <source>Auto Format</source>
@@ -964,7 +964,7 @@
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambele agățate</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -972,7 +972,7 @@
     </message>
     <message>
         <source>Coworker</source>
-        <translation type="unfinished"></translation>
+        <translation>Coleg de serviciu</translation>
     </message>
     <message>
         <source>Fit Text</source>
@@ -980,7 +980,7 @@
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Agățare pe stânga</translation>
     </message>
     <message>
         <source>Level</source>
@@ -988,7 +988,7 @@
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Agățare pe dreapta</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -1191,11 +1191,11 @@
     </message>
     <message>
         <source>Delete All Markup in this Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate marcajele în această prezentare</translation>
     </message>
     <message>
         <source>Delete All Markup on the Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate marcajele în diapozitivul curent</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -1215,7 +1215,7 @@
     </message>
     <message>
         <source>Show/Hide Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată/ascunde marcarea</translation>
     </message>
 </context>
 <context>
@@ -1769,7 +1769,8 @@ master</translation>
     <message>
         <source>Animation
 Schemes</source>
-        <translation type="unfinished">Scheme animație</translation>
+        <translation>Scheme
+animație</translation>
     </message>
     <message>
         <source>Custom
@@ -2605,7 +2606,7 @@ pornit</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare Docer</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -3508,7 +3509,7 @@ de fundal</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Header and 
@@ -3663,39 +3664,39 @@ diapozitiv</translation>
     <name>ongmani.ct_orgchart</name>
     <message>
         <source>0.25 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 pct.</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 pct.</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 pct.</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pct.</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 pct.</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 pct.</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pct.</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pct.</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pct.</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
@@ -3703,103 +3704,103 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil săgeată 9</translation>
     </message>
     <message>
         <source>Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegere</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie punct</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie punct punct</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil linie</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspect</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efecte linie</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil linie</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Paletă stil linie</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie lungă punct</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai multe săgeți</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -3819,7 +3820,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Organization Chart Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspect grafic organizație</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -3827,7 +3828,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Punct rotund</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -3835,7 +3836,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegere inteligentă</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -3843,23 +3844,23 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>Punct pătrat</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Culoare text</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Textură</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tematică</translation>
     </message>
 </context>
 <context>
@@ -3873,19 +3874,19 @@ diapozitiv</translation>
     <name>ongmani.ct_orgchart.OrgChartAndDiagram</name>
     <message>
         <source>Add Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă asistent</translation>
     </message>
     <message>
         <source>Add Coworker</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă colog de serviciu</translation>
     </message>
     <message>
         <source>Add Subordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă subordonat</translation>
     </message>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"></translation>
+        <translation>Toți asistenții</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
@@ -3897,7 +3898,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambele agățate</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -3917,7 +3918,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Agățare pe stânga</translation>
     </message>
     <message>
         <source>Level</source>
@@ -3933,7 +3934,7 @@ diapozitiv</translation>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Agățare pe dreapta</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -4489,15 +4490,15 @@ Comment</source>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate marcajele</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge marcaje din diapozitiv</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcare</translation>
     </message>
     <message>
         <source>New 
@@ -4519,7 +4520,8 @@ Comment</source>
     <message>
         <source>Show/Hide
 Mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată/ascunde
+marcaj</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -4709,7 +4711,7 @@ umbră</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -5515,7 +5517,7 @@ Effects</source>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -6454,7 +6456,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Convert Markup to Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertește marcare la obiect</translation>
     </message>
     <message>
         <source>Convert Path to AutoShape</source>
@@ -6674,11 +6676,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate marcajele</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge marcaje din diapozitiv</translation>
     </message>
     <message>
         <source>Exit Edit Point</source>
@@ -6726,7 +6728,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
@@ -6938,7 +6940,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcare</translation>
     </message>
     <message>
         <source>Master</source>
@@ -7304,7 +7306,7 @@ master</translation>
     </message>
     <message>
         <source>Shape Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Formă linie</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -7320,7 +7322,7 @@ master</translation>
     </message>
     <message>
         <source>Show / Hide Ink Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată/ascunde marcarea cu cerneală</translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -7580,7 +7582,7 @@ master</translation>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambele agățate</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -7588,7 +7590,7 @@ master</translation>
     </message>
     <message>
         <source>Coworker</source>
-        <translation type="unfinished"></translation>
+        <translation>Coleg de serviciu</translation>
     </message>
     <message>
         <source>Cycle</source>
@@ -7612,7 +7614,7 @@ master</translation>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Agățare pe stânga</translation>
     </message>
     <message>
         <source>Level</source>
@@ -7640,7 +7642,7 @@ master</translation>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Agățare pe dreapta</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -7648,7 +7650,7 @@ master</translation>
     </message>
     <message>
         <source>Subordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Subordonat</translation>
     </message>
     <message>
         <source>Target</source>
@@ -7731,7 +7733,7 @@ master</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>Scheme culoare</translation>
+        <translation>Scheme de culoare</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -8291,7 +8293,7 @@ implicat</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare Docer</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -8783,7 +8785,7 @@ implicat</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -9219,7 +9221,7 @@ curent</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -9585,23 +9587,24 @@ curent</translation>
     <message>
         <source>Add
 Subordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă
+subordonat</translation>
     </message>
     <message>
         <source>Add Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă asistent</translation>
     </message>
     <message>
         <source>Add Coworker</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă colog de serviciu</translation>
     </message>
     <message>
         <source>Add Subordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă subordonat</translation>
     </message>
     <message>
         <source>All Assistants</source>
-        <translation type="unfinished"></translation>
+        <translation>Toți asistenții</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
@@ -9613,7 +9616,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambele agățate</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -9633,7 +9636,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Agățare pe stânga</translation>
     </message>
     <message>
         <source>Level</source>
@@ -9649,7 +9652,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="unfinished"></translation>
+        <translation>Agățare pe dreapta</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -10182,11 +10185,11 @@ Subordinate</source>
     </message>
     <message>
         <source>Delete All Markup in this Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate marcajele în această prezentare</translation>
     </message>
     <message>
         <source>Delete All Markup on the Current Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate marcajele în diapozitivul curent</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -10198,15 +10201,15 @@ Subordinate</source>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate marcajele</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge marcaje din diapozitiv</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcare</translation>
     </message>
     <message>
         <source>New Comment</source>
@@ -10226,7 +10229,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Show/Hide Markup</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată/ascunde marcarea</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -10401,7 +10404,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -10946,7 +10949,7 @@ umbră</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Wire Frame</translation>
     </message>
 </context>
 <context>
@@ -11763,7 +11766,7 @@ umbră</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificare ortografică</translation>
     </message>
     <message>
         <source>Click to turn on/off AutoBackup</source>
@@ -11791,7 +11794,7 @@ umbră</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>Scheme culoare</translation>
+        <translation>Scheme de culoare</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -11847,7 +11850,7 @@ umbră</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare Docer</translation>
     </message>
     <message>
         <source>Draw Shapes</source>
@@ -12132,7 +12135,7 @@ curent</translation>
     </message>
     <message>
         <source>Slide Design - Color Schemes</source>
-        <translation>Proiectare diapozitiv - Scheme culoare</translation>
+        <translation>Proiectare diapozitiv - Scheme de culoare</translation>
     </message>
     <message>
         <source>Slide Design - Design Templates</source>

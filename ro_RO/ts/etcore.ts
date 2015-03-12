@@ -178,7 +178,11 @@ Please try one of the following.
 •Copy/paste the contents to a new document. 
 •Give up the changes to this file.</source>
         <comment>TX_Cannot_Write_File_Unknown_Error</comment>
-        <translation type="unfinished"></translation>
+        <translation>Au intervenit erori când WPS Spreadsheets salva fișierul &quot;%s&quot;. Încercați una dintre următoarele. 
+•Anulați operațiile anterioare și salvați. 
+•Salvați ca fișier text. 
+•Copiați/lipiți conținutul într-un document nou. 
+•Renunțați la modificările acestui fișier.</translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; to be saved has the same name with an open file. Please choose a different name, or close another workbook with the same name first.</source>
@@ -422,7 +426,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>Source reference area overlaps with target area.</source>
         <comment>TX_ERROR_CONSOLIDATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zona sursei de referință se suprapune cu zona țintei.</translation>
     </message>
     <message>
         <source>The sort reference is not valid. Make sure that it&apos;s within the data you want to sort, and the first Sort By box is not the same and not blank.</source>
@@ -472,7 +476,7 @@ Pentru a deschide al doilea document cu același nume, puteți închide document
     <message>
         <source>No source references specified for consolidation.</source>
         <comment>TX_ERROR_NOCONSOLIDATEDATA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au specificat surse referință pentru consolidare.</translation>
     </message>
     <message>
         <source>The merged cells cannot be sorted.</source>
@@ -504,7 +508,7 @@ There are several possible reasons:
     <message>
         <source>Cannot use this command while the selections contain entire rows or columns, and also other cells. Try selecting only entire rows, entire columns, or just groups of cells.</source>
         <comment>TX_ERROR_MultiRange_RowColCellMix</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate utiliza această comandă cât timp selecția conține rânduri întregi sau coloane și de asemenea alte celule. Încercați să selectați numai rânduri întregi, coloane întregi, sau doar grupuri de celule.</translation>
     </message>
     <message>
         <source>The selection is invalid. You must select one more row or column.</source>
@@ -524,7 +528,7 @@ There are several possible reasons:
     <message>
         <source>Print titles must be contiguous regions and entire rows or columns.</source>
         <comment>TX_ERROR_PRINT_TITLEROWCOLUMN_NOT_CONTINUUM</comment>
-        <translation>Titlurile tipărite trebuie să fie regiuni continue și rânduri sau coloane întregi.</translation>
+        <translation>Titlurile de tipărit trebuie să fie regiuni continue și rânduri sau coloane întregi.</translation>
     </message>
     <message>
         <source>The text you entered is an invalid reference or defined name.</source>
@@ -1257,7 +1261,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Constraints</source>
         <comment>TX_SOLVER_CONSTRAINTS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Constrângeri</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -1317,7 +1321,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Limits Report</source>
         <comment>TX_SOLVER_LIMITS_REPORT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Limite raport</translation>
     </message>
     <message>
         <source>Objective</source>
@@ -1362,7 +1366,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Integer Tolerance</source>
         <comment>TX_SOLVER_INTEGER_TOLERANCE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Toleranță întreg</translation>
     </message>
     <message>
         <source>Solve Without Integer Constraints</source>
@@ -1407,7 +1411,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Constraints Section</source>
         <comment>TX_SOLVER_CONSTRAINTS_SECTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Constrângeri secțiune</translation>
     </message>
     <message>
         <source>Limit</source>
@@ -1547,7 +1551,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Constraint</source>
         <comment>TX_SOLVER_CONSTRAINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Constrângere</translation>
     </message>
     <message>
         <source>Trail Solution</source>
@@ -1653,7 +1657,8 @@ To fix the links, select a single sheet and click Edit Links.</source>
         <source>The command you chose cannot be performed with multiple selection.
 Select a single range and click the command again.</source>
         <comment>TX_ERROR_MultiRange_Camera</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comanda pe care ați ales-o nu poate fi executată cu secțiuni multiple.
+Selectați un singur interval și apăsați pe comandă din nou.</translation>
     </message>
     <message>
         <source>Do you want to save changes before switching file status?</source>
@@ -1701,7 +1706,10 @@ Choose less data or close other applications.
 
 Continue without Undo?</source>
         <comment>TX_OPERATION_INADEQUATE_RESOURCES</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets nu poate termina această sarcină cu resursele disponibile.
+Alegeți mai puține date sau închideți alte aplicații.
+
+Se continuă fără Anulează?</translation>
     </message>
     <message>
         <source>Null Error</source>
@@ -1811,12 +1819,12 @@ Continue without Undo?</source>
     <message>
         <source>The number in this cells is formatted as text or preceded by an apostrophe.</source>
         <comment>TX_ERRORCHECK_ERRDESC_NumberAsText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numărul în această celulă este formatat ca text sau exte precedat de un apostrof.</translation>
     </message>
     <message>
         <source>The formula in this cell differs from the formulas in this aera of the spreadsheet.</source>
         <comment>TX_ERRORCHECK_ERRDESC_InconsistentFormula</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formula în această celulă diferă de formulele din această zonă a foii de lucru.</translation>
     </message>
     <message>
         <source>The formula in this cell refers to a range that has additional numbers adjacent to it.</source>
@@ -2155,7 +2163,7 @@ Continue without Undo?</source>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
         <comment>TX_CANNOTDELNUMFORMAT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți utiliza această comandă pe o foaie protejată. Pentru a elimina protecția, selectați Anulează protecție foaie dim submeniul Protecție din meniul Unelte. Este posibil să fie nevoie să introduceți parola.</translation>
     </message>
     <message>
         <source>This data source contains no visible tables</source>
@@ -2194,7 +2202,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     </message>
     <message>
         <source>The query does not return data columns that can be used in WPS Spreadsheets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Interogarea nu a întors datele coloanelor care pot fi utilizate în WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>Since the last one column contains data, WPS Spreadsheets can not insert columns. You will not get any data.</source>
@@ -2804,12 +2812,12 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Do you want to replace the contents of the destination cells in %s?</source>
         <comment>TX_DAP_DlgInfo_OverLoadCellsContent</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doriți să înlocuiți conținutul celulelor destinație în %s?</translation>
     </message>
     <message>
         <source>AutoSort must be turned off to move items in a field.</source>
         <comment>TX_DAP_DlgInfo_CannotMoveItemWithAutoSort</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sortarea automată trebuie să fie închisă pentru a muta elementele într-un câmp.</translation>
     </message>
     <message>
         <source>Cannot change part of a merged cell.</source>
@@ -3021,7 +3029,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Query string:</source>
         <comment>TX_ETDBE_QUERY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șir interogare:</translation>
     </message>
     <message>
         <source>Error password or user name!</source>
@@ -3073,12 +3081,12 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source> LIKE,</source>
         <comment>TX_ETDBE_STR_OPR_LIKE</comment>
-        <translation type="unfinished"></translation>
+        <translation> LIKE,</translation>
     </message>
     <message>
         <source> NOT LIKE,</source>
         <comment>TX_ETDBE_STR_OPR_NOTLIKE</comment>
-        <translation type="unfinished"></translation>
+        <translation> NOT LIKE,</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3309,7 +3317,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Math and Trig</source>
         <comment>FuncCatName05</comment>
-        <translation type="unfinished"></translation>
+        <translation>Matematică și trigonometrie</translation>
     </message>
     <message>
         <source>Statistical</source>
@@ -3354,7 +3362,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DATE(year,month,day)</source>
         <comment>DATE_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>DATE(an,lună,zi)</translation>
     </message>
     <message>
         <source>Returns the number that represents the date in WPS Spreadsheets date-time code.</source>
@@ -3364,7 +3372,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DATEVALUE(date_text)</source>
         <comment>DATEVALUE_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>DATEVALUE(text_dată)</translation>
     </message>
     <message>
         <source>Converts a date in the form of text to a number that represents the date in WPS Spreadsheets date-time code.</source>
@@ -3509,7 +3517,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ACOS(number)</source>
         <comment>ACOS_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>ACOS(număr)</translation>
     </message>
     <message>
         <source>Returns the arccosine of a number, in radians in the range 0 to Pi. The arccosine is the angle whose cosine is Number.</source>
@@ -3519,7 +3527,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ASIN(number)</source>
         <comment>ASIN_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>ASIN(număr)</translation>
     </message>
     <message>
         <source>Returns the arcsine of a number within radians from -Pi/2 to Pi/2.</source>
@@ -3539,7 +3547,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ATAN2(x_num,y_num)</source>
         <comment>ATAN2_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>ATAN2(x_num,y_num)</translation>
     </message>
     <message>
         <source>Returns the arctangent of the specified x- and y- coordinates, in radians between -Pi and Pi, excluding -Pi.</source>
@@ -3559,7 +3567,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COS(number)</source>
         <comment>COS_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>COS(număr)</translation>
     </message>
     <message>
         <source>Returns the cosine of a given angle.</source>
@@ -3569,7 +3577,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COSH(number)</source>
         <comment>COSH_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>COSH(număr)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic cosine of a number.</source>
@@ -3599,7 +3607,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>EVEN(number)</source>
         <comment>EVEN_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>EVEN(număr)</translation>
     </message>
     <message>
         <source>Rounds a positive number up and negative number down to the nearest even integer.</source>
@@ -3609,7 +3617,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>EXP(number)</source>
         <comment>EXP_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>EXP(număr)</translation>
     </message>
     <message>
         <source>Returns e raised to the power of a given number.</source>
@@ -3619,7 +3627,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>FACT(number)</source>
         <comment>FACT_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>FACT(număr)</translation>
     </message>
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
@@ -3649,7 +3657,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>INT(number)</source>
         <comment>INT_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>INT(număr)</translation>
     </message>
     <message>
         <source>Rounds a number down to the nearest integer.</source>
@@ -3669,7 +3677,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LN(number)</source>
         <comment>LN_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>LN(număr)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of a number.</source>
@@ -3689,7 +3697,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LOG10(number)</source>
         <comment>LOG10_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>LOG10(număr)</translation>
     </message>
     <message>
         <source>Returns the base-10 logarithm of a number.</source>
@@ -3709,7 +3717,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ODD(number)</source>
         <comment>ODD_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>ODD(număr)</translation>
     </message>
     <message>
         <source>Rounds a positive number up and negative number down to the nearest odd integer.</source>
@@ -3759,7 +3767,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RADIANS(angle)</source>
         <comment>RADIANS_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>RADIANS(unghi)</translation>
     </message>
     <message>
         <source>Converts degrees to radians.</source>
@@ -3769,7 +3777,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RAND()</source>
         <comment>RAND_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>RAND()</translation>
     </message>
     <message>
         <source>Returns a random number greater than or equal to 0 and less than 1, evenly distributed (changes on recalculation).</source>
@@ -3809,7 +3817,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SIGN(number)</source>
         <comment>SIGN_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SIGN(număr)</translation>
     </message>
     <message>
         <source>Returns the sign of a number: 1 if the number is positive, zero if the number is zero, or -1 if the number is negative.</source>
@@ -3819,7 +3827,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SIN(number)</source>
         <comment>SIN_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SIN(numâr)</translation>
     </message>
     <message>
         <source>Returns the sine of a given angle.</source>
@@ -3829,7 +3837,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SINH(number)</source>
         <comment>SINH_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SINH(număr)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic sine of a number.</source>
@@ -3849,7 +3857,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SQRT(number)</source>
         <comment>SQRT_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SQRT(număr)</translation>
     </message>
     <message>
         <source>Returns the square root of a number.</source>
@@ -3859,7 +3867,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SQRTPI(number)</source>
         <comment>SQRTPI_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SQRTPI(număr)</translation>
     </message>
     <message>
         <source>Returns the square root of a number which has been multiplied by Pi.</source>
@@ -3879,7 +3887,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUBTOTAL(function_num,ref1,ref2,...)</source>
         <comment>SUBTOTAL_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SUBTOTAL(function_num,ref1,ref2,...)</translation>
     </message>
     <message>
         <source>Returns a subtotal in list or database.</source>
@@ -3889,7 +3897,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUM(number1,number2, ...)</source>
         <comment>SUM_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SUM(număr1,număr2, ...)</translation>
     </message>
     <message>
         <source>Returns the sum of all the numbers in a range of cells.</source>
@@ -3919,7 +3927,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>TAN(number)</source>
         <comment>TAN_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>TAN(număr)</translation>
     </message>
     <message>
         <source>Returns the tangent of a given angle.</source>
@@ -3929,7 +3937,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>TANH(number)</source>
         <comment>TANH_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>TANH(număr)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic tangent of a number.</source>
@@ -3939,7 +3947,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ACOSH(number)</source>
         <comment>ACOSH_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>ACOSH(număr)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic cosine of a number.</source>
@@ -3949,7 +3957,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ASINH(number)</source>
         <comment>ASINH_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>ASINH(număr)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is the value whose hyperbolic sine is number, so ASINH(SINH(number)) equals number.</source>
@@ -3959,7 +3967,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>ATANH(number)</source>
         <comment>ATANH_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>ATANH(număr)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic tangent of a number. Number must be between -1 and 1 (excluding -1 and 1). The inverse hyperbolic tangent is the value whose hyperbolic tangent is number, so ATANH(TANH(number)) equals number.</source>
@@ -3979,7 +3987,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SUMSQ(number1,number2, ...)</source>
         <comment>SUMSQ_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>SUMSQ(număr1,număr2, ...)</translation>
     </message>
     <message>
         <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contian numbers.</source>
@@ -4079,7 +4087,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>AVERAGE(number1,number2,...)</source>
         <comment>AVERAGE_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>AVERAGE(număr1,număr2,...)</translation>
     </message>
     <message>
         <source>Returns the average (arithmetic mean) of its arguments, which can be numbers, names, arrays or references that contain numbers.</source>
@@ -4089,7 +4097,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>AVERAGEA(number1,number2,...)</source>
         <comment>AVERAGEA_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>AVERAGEA(număr1,număr2,...)</translation>
     </message>
     <message>
         <source>Returns the average (arithmetic mean) of the given arguments. Evaluates text and FALSE in arguments as 0, TRUE as 1. Arguments can be numbers, names, arrays or references.</source>
@@ -4099,7 +4107,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>AVEDEV(number1,number2,...)</source>
         <comment>AVEDEV_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>AVEDEV(număr1,număr2,...)</translation>
     </message>
     <message>
         <source>Returns the average of the absolute deviations of data points from their mean. AVEDEV is a measure of the variability in a data set.</source>
@@ -4179,7 +4187,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COUNTA(value1,value2,...)</source>
         <comment>COUNTA_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>COUNTA(valoarea1,valoarea2,...)</translation>
     </message>
     <message>
         <source>Counts the number of cells that are not empty.</source>
@@ -4289,7 +4297,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>GAMMALN(x)</source>
         <comment>GAMMALN_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>GAMMALN(x)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of the gamma function,Γ(x).</source>
@@ -4349,7 +4357,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>KURT(number1,number2,...)</source>
         <comment>KURT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>KURT(număr1,număr2,...)</translation>
     </message>
     <message>
         <source>Returns the kurtosis of a data set. Kurtosis characterizes the relative peakedness or flatness of a distribution compared with the normal distribution.</source>
@@ -4359,7 +4367,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LARGE(array,k)</source>
         <comment>LARGE_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>LARGE(matrice,k)</translation>
     </message>
     <message>
         <source>Returns the k-th largest value in a data set. For example, it indicates the fourth largest number if k equals 4.</source>
@@ -4399,7 +4407,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>MAX(number1,number2,...)</source>
         <comment>MAX_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>MAX(număr1,număr2,...)</translation>
     </message>
     <message>
         <source>Returns the maximum value in a list of arguments. Ignores logical values and text.</source>
@@ -4409,7 +4417,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>MAXA(number1,number2,...)</source>
         <comment>MAXA_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>MAXA(număr1,număr2,...)</translation>
     </message>
     <message>
         <source>Returns the maximum value in a list of arguments. Does not ignore logical values and text.</source>
@@ -4489,7 +4497,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>NORMSDIST(z)</source>
         <comment>NORMSDIST_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>NORMSDIST(z)</translation>
     </message>
     <message>
         <source>Returns the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
@@ -4499,7 +4507,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>NORMSINV(probability)</source>
         <comment>NORMSINV_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>NORMSINV(probabilitate)</translation>
     </message>
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution fuction with a mean of zero and a standard deviation of one.</source>
@@ -7790,7 +7798,7 @@ If you do not wish to use a formula, insert a single quotation mark before your 
     <message>
         <source>Please enter a valid reference or a valid name of the selection.</source>
         <comment>TX_Invalid_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți o referință validă sau un nume valid pentru selecție.</translation>
     </message>
     <message>
         <source>Do you want to replace the contents of the destination cells?</source>
@@ -8926,12 +8934,12 @@ Se continuă?</translation>
     <message>
         <source>Actual_range</source>
         <comment>TX_ParaInfo_137</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interval_actual</translation>
     </message>
     <message>
         <source>Expected_range</source>
         <comment>TX_ParaInfo_138</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interval_așteptat</translation>
     </message>
     <message>
         <source>Number</source>
@@ -9680,12 +9688,12 @@ ortografică</translation>
     <message>
         <source>is a logical value that specifies the reference style; A1 style = 1 or TRUE; R1C1 style = 0 or FALSE.</source>
         <comment>TX_ParaDesc_007</comment>
-        <translation type="unfinished"></translation>
+        <translation>este o valoare logică care specifică stilul referinței; stil A1 = 1 sau ADEVĂRAT; stil R1C1 = 0 sau FALS.</translation>
     </message>
     <message>
         <source>is text specifying the name of the worksheet to be used as the external reference.</source>
         <comment>TX_ParaDesc_008</comment>
-        <translation type="unfinished"></translation>
+        <translation>este textul care specifică numele foii de lucru de utilizat ca referință externă.</translation>
     </message>
     <message>
         <source>is a reference to a cell or range of cells and can refer to multiple areas.</source>
@@ -10575,7 +10583,7 @@ ortografică</translation>
     <message>
         <source>is the detection value. The values should be name of cells, formula, or numbers.</source>
         <comment>TX_ParaDesc_199</comment>
-        <translation type="unfinished"></translation>
+        <translation>este valoarea detecției. Valoarea ar trebui să fie nume de celule, formulă, sau numere.</translation>
     </message>
     <message>
         <source>period for which you want to find interest.</source>
@@ -11820,7 +11828,7 @@ ortografică</translation>
     <message>
         <source>#NULL!</source>
         <comment>TX_FORMULAR_RESULT_NULL</comment>
-        <translation>#NUL!</translation>
+        <translation>#NULL!</translation>
     </message>
     <message>
         <source>#DIV/0!</source>
@@ -11830,7 +11838,7 @@ ortografică</translation>
     <message>
         <source>#VALUE!</source>
         <comment>TX_FORMULAR_RESULT_VALUE</comment>
-        <translation>#VALOARE!</translation>
+        <translation>#VALUE!</translation>
     </message>
     <message>
         <source>#REF!</source>
@@ -11850,7 +11858,7 @@ ortografică</translation>
     <message>
         <source>#NAME?</source>
         <comment>TX_FORMULAR_RESULT_NAME</comment>
-        <translation>#NUME?</translation>
+        <translation>#NAME?</translation>
     </message>
     <message>
         <source>is the security&apos;s due date, expressed as a serial date number.</source>
@@ -13352,7 +13360,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Api Call</source>
         <comment>TX_TRANS_API</comment>
-        <translation type="unfinished"></translation>
+        <translation>Api Call</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -13837,7 +13845,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Fill Color</source>
         <comment>TX_Undo_FillColor</comment>
-        <translation>Umple culoarea</translation>
+        <translation>Umple cu culoare</translation>
     </message>
     <message>
         <source>Line Color</source>

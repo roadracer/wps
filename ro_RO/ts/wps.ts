@@ -1538,11 +1538,11 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>Deep horizontal line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie orizontală profundă</translation>
     </message>
     <message>
         <source>Deep vertical line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie verticală profundă</translation>
     </message>
     <message>
         <source>Deep scope down line</source>
@@ -1554,7 +1554,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>Deep grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Grilă profundă</translation>
     </message>
     <message>
         <source>Deep shed</source>
@@ -1562,11 +1562,11 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>Shallow horizontal line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie orizontală superficială</translation>
     </message>
     <message>
         <source>Shallow vertical line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linie verticală superficială</translation>
     </message>
     <message>
         <source>Shallow scope down line</source>
@@ -1578,7 +1578,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>Shallow grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Grilă superficială</translation>
     </message>
     <message>
         <source>Shallow shed</source>
@@ -1613,7 +1613,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>&amp;Continue previous list</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Continuă lista anterioară</translation>
     </message>
     <message>
         <source>O&amp;utline Numbered</source>
@@ -1848,7 +1848,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>Run macro on</source>
-        <translation type="unfinished"></translation>
+        <translation>Rulare macrocomandă pornită</translation>
     </message>
     <message>
         <source>Entr&amp;y:</source>
@@ -2229,7 +2229,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>cbHyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>cbHyperlink</translation>
     </message>
     <message>
         <source>Insert as &amp;hyperlink</source>
@@ -2606,7 +2606,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>Run macro on</source>
-        <translation type="unfinished"></translation>
+        <translation>Rulare macrocomandă pornită</translation>
     </message>
     <message>
         <source>Entr&amp;y:</source>
@@ -3853,7 +3853,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Auto column width(&amp;F)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lățime automată coloană(&amp;F)</translation>
     </message>
 </context>
 <context>
@@ -5171,7 +5171,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Make hidden markup &amp;visible when opening or saving</source>
-        <translation type="unfinished"></translation>
+        <translation>Fă &amp;vizibil marcajul ascuns când se deschide sau se salvează</translation>
     </message>
     <message>
         <source>Macro security</source>
@@ -6200,7 +6200,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Aft&amp;er:</source>
-        <translation type="unfinished"></translation>
+        <translation>Du&amp;pă:</translation>
     </message>
     <message>
         <source>Single</source>
@@ -6232,7 +6232,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniază la grilă &amp;când grila documentului este definită</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -6240,11 +6240,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Outline level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivel c&amp;ontur:</translation>
     </message>
     <message>
         <source>Body text</source>
-        <translation>Text corp</translation>
+        <translation>Corp text</translation>
     </message>
     <message>
         <source>Level 1 </source>
@@ -7109,7 +7109,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Ty&amp;pe:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ti&amp;p:</translation>
     </message>
     <message>
         <source>Fill-in e&amp;nabled</source>
@@ -7121,15 +7121,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Entr&amp;y:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrar&amp;e:</translation>
     </message>
     <message>
         <source>Run macro on</source>
-        <translation type="unfinished"></translation>
+        <translation>Rulare macrocomandă pornită</translation>
     </message>
     <message>
         <source>E&amp;xit:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;eșire:</translation>
     </message>
     <message>
         <source>&amp;Calculate on exit</source>
@@ -7137,7 +7137,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Maximum length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lungime &amp;maximă:</translation>
     </message>
     <message>
         <source>&amp;edValue</source>
@@ -7149,7 +7149,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Add Help &amp;Text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă &amp;text ajutor...</translation>
     </message>
     <message>
         <source>Text form field</source>
@@ -7157,7 +7157,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Bookmark:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Semn de carte:</translation>
     </message>
 </context>
 <context>
@@ -7198,11 +7198,11 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgUpdateTableOfContents</name>
     <message>
         <source>Update &amp;page numbers only</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează numai numărul de &amp;pagină</translation>
     </message>
     <message>
         <source>Update &amp;entire table</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează &amp;întregul tabel</translation>
     </message>
     <message>
         <source>Update Table of Contents</source>
@@ -7225,11 +7225,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>View &amp;footnote area</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare zonă &amp;notă de subsol</translation>
     </message>
     <message>
         <source>View &amp;endnote area</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare zonă &amp;notă de final</translation>
     </message>
 </context>
 <context>
@@ -7560,18 +7560,18 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Show All Regions This User Can Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Arată toate regiunile pe care acest utilizator le poate edita</translation>
     </message>
     <message>
         <source>&amp;Remove All Editing Permissions For This User</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimină toate permisiunile de editare pentru acest utilizator</translation>
     </message>
 </context>
 <context>
     <name>KxExportToPDFDlg</name>
     <message>
         <source>Please input the password of permission setting!</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți parola configurării permisiunilor!</translation>
     </message>
     <message>
         <source>Please specify the file name.</source>
@@ -7591,7 +7591,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>PDF File(*.pdf)|*.pdf|All File(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier PDF(*.pdf)|*.pdf|Toate fișierele(*.*)|*.*</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
@@ -7599,7 +7599,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Permission Password and Document Open Password must be different.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parola permisiuni și parola deschidere document trebuie să fie diferite.</translation>
     </message>
     <message>
         <source>Save PDF File As</source>
@@ -7725,7 +7725,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Seq</source>
-        <translation type="unfinished"></translation>
+        <translation>Seq</translation>
     </message>
     <message>
         <source>Insert an automatic sequence number</source>
@@ -7733,7 +7733,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>TC</source>
-        <translation type="unfinished"></translation>
+        <translation>TC</translation>
     </message>
     <message>
         <source>Mark a table of contents entry</source>
@@ -7963,7 +7963,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>P&amp;aragraph Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Caracter p&amp;aragraf</translation>
     </message>
     <message>
         <source>Search options:</source>
@@ -8003,7 +8003,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>All done. WPS Writer made %1 replacements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Totul este gata. WPS Writer a făcut %1 înlocuiri.</translation>
     </message>
     <message>
         <source>WPS Writer cannot replace the found item with text containing a break.</source>
@@ -8409,7 +8409,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     </message>
     <message>
         <source>This document may contain formatting or styles that are not allowed. Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest document poate conține formatări sau stiluri care nu sunt permise. Doriți să fie eliminate?</translation>
     </message>
 </context>
 <context>
@@ -8434,7 +8434,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     </message>
     <message>
         <source>Top of document</source>
-        <translation type="unfinished"></translation>
+        <translation>Partea de sus a documentului</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -8479,127 +8479,127 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     <name>KxInsertMergeFieldDlg</name>
     <message>
         <source>Unique identifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificator unic</translation>
     </message>
     <message>
         <source>Courtesy title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titlu de politețe</translation>
     </message>
     <message>
         <source>First name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <source>Middle name</source>
-        <translation type="unfinished"></translation>
+        <translation>Al doilea prenume</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation type="unfinished"></translation>
+        <translation>Prenume</translation>
     </message>
     <message>
         <source>Suffix</source>
-        <translation type="unfinished"></translation>
+        <translation>Sufix</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Poreclă</translation>
     </message>
     <message>
         <source>Job title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titlu sarcină</translation>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"></translation>
+        <translation>Companie</translation>
     </message>
     <message>
         <source>Address 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa 1</translation>
     </message>
     <message>
         <source>Address 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa 2</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>Oraș</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Stat</translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation type="unfinished"></translation>
+        <translation>Cod poștal</translation>
     </message>
     <message>
         <source>Country or Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Țară sau regiune</translation>
     </message>
     <message>
         <source>Business phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefon de afaceri</translation>
     </message>
     <message>
         <source>Business fax</source>
-        <translation type="unfinished"></translation>
+        <translation>Fax de afaceri</translation>
     </message>
     <message>
         <source>Home phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefon de acasă</translation>
     </message>
     <message>
         <source>Home fax</source>
-        <translation type="unfinished"></translation>
+        <translation>Fax de acasă</translation>
     </message>
     <message>
         <source>E-mail address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresă email</translation>
     </message>
     <message>
         <source>Web page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina web</translation>
     </message>
     <message>
         <source>Spouse courtesy title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titlu de politețe al soției</translation>
     </message>
     <message>
         <source>Spouse first name</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele soției</translation>
     </message>
     <message>
         <source>Spouse middle name</source>
-        <translation type="unfinished"></translation>
+        <translation>Al doilea prenume al soției</translation>
     </message>
     <message>
         <source>Spouse last name</source>
-        <translation type="unfinished"></translation>
+        <translation>Prenumele soției</translation>
     </message>
     <message>
         <source>Spouse nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Porecla soției</translation>
     </message>
     <message>
         <source>Phonetic guide for first name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ghid fonetic pentru Nume</translation>
     </message>
     <message>
         <source>Phonetic guide for last name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ghid fonetic pentru prenume</translation>
     </message>
     <message>
         <source>Address 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa 3</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Departament</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
 </context>
 <context>
@@ -8629,26 +8629,26 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     </message>
     <message>
         <source>The measurement must be between 4.5 pt and 1584 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 4.5 pct și 1584 pct.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.07 in and 22 in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 0.07 in și 22 in.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.16 cm and 55.88 cm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 0.16 cm și 55.88 cm.</translation>
     </message>
     <message>
         <source>The measurement must be between 1.59 mm and 558.84 mm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 1.59 mm și 558.84 mm.</translation>
     </message>
 </context>
 <context>
     <name>KxInsertTableRowsDlg</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea de intrare trebuie să fie între %1 și %2.</translation>
     </message>
 </context>
 <context>
@@ -8693,7 +8693,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     </message>
     <message>
         <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este nevoie să salvați modificările a &quot;%1&quot; înaintea comparării documentelor, salvați documentul.</translation>
     </message>
     <message>
         <source>Compare Documents</source>
@@ -8701,11 +8701,11 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     </message>
     <message>
         <source>Lab&amp;el changes with</source>
-        <translation type="unfinished"></translation>
+        <translation>Etich&amp;etează modificările cu</translation>
     </message>
     <message>
         <source>La&amp;bel changes with</source>
-        <translation type="unfinished"></translation>
+        <translation>Etich&amp;etează modificările cu</translation>
     </message>
     <message>
         <source>Merge Documents</source>
@@ -8713,11 +8713,11 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     </message>
     <message>
         <source>Lab&amp;el unmarked changes with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etich&amp;etează modificările nemarcate cu:</translation>
     </message>
     <message>
         <source>La&amp;bel unmarked changes with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etich&amp;etează modificările nemarcate cu:</translation>
     </message>
     <message>
         <source>&amp;More&gt;&gt;</source>
@@ -8767,7 +8767,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     </message>
     <message>
         <source>WPS Writer cannot merge documents that can be distributed by mail without a valid mail address.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer nu poate combina documentele care pot fi distribuite prin corespondență fără o adresă poștală validă.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -8821,7 +8821,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     </message>
     <message>
         <source>Space Before: %1 pt, after %2 pt, </source>
-        <translation type="unfinished"></translation>
+        <translation>Spațiu înainte: %1 pct, după %2 pct, </translation>
     </message>
     <message>
         <source>Line spacing: 1.5 lines, </source>
@@ -8922,7 +8922,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>The font &apos;%1&apos; is not available in your system. Do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fontul &apos;%1&apos; nu este disponibil în sistem. Doriți să-l utilizați oricum?</translation>
     </message>
     <message>
         <source>Left alignment</source>
@@ -8938,7 +8938,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Justify alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Justifică aliniament</translation>
     </message>
     <message>
         <source>Single line spacing</source>
@@ -8954,11 +8954,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Increase paragraph space</source>
-        <translation type="unfinished"></translation>
+        <translation>Crește spațiu paragraf</translation>
     </message>
     <message>
         <source>Decrease paragraph space</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrește spațiu paragraf</translation>
     </message>
     <message>
         <source>Decrease indent</source>
@@ -9044,7 +9044,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Space Before: %1 pt, after %2 pt, </source>
-        <translation type="unfinished"></translation>
+        <translation>Spațiu înainte: %1 pct, după %2 pct, </translation>
     </message>
     <message>
         <source>Left</source>
@@ -9064,11 +9064,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Dispersion</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispersie</translation>
     </message>
     <message>
         <source>(underlying properties)</source>
-        <translation type="unfinished"></translation>
+        <translation>(proprietăți subliniate)</translation>
     </message>
     <message>
         <source>The font &apos;%1&apos; is not available in your system. Do you want to use it anyway?</source>
@@ -9148,7 +9148,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Justify alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Justifică aliniament</translation>
     </message>
     <message>
         <source>Single line spacing</source>
@@ -9287,58 +9287,58 @@ Cancel:	Return to the dialog.</source>
     <name>KxOutlineNumberDlg</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nimic)</translation>
     </message>
     <message>
         <source>Bullet:</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcator:</translation>
     </message>
     <message>
         <source>New Bullet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcator nou...</translation>
     </message>
     <message>
         <source>(No style)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Fără stil)</translation>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mai puțin</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mai mult</translation>
     </message>
     <message>
         <source>Level %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivel %1</translation>
     </message>
     <message>
         <source>Errors occurred  while opening Font Dialog!</source>
-        <translation type="unfinished"></translation>
+        <translation>Au intervenit erori la deschiderea dialogului fontului!</translation>
     </message>
     <message>
         <source>ch</source>
-        <translation type="unfinished"></translation>
+        <translation>ch</translation>
     </message>
 </context>
 <context>
     <name>KxPageNumbersDlg</name>
     <message>
         <source>-1-,-2-,-3-...</source>
-        <translation type="unfinished"></translation>
+        <translation>-1-,-2-,-3-...</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mai mult</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mai puțin</translation>
     </message>
     <message>
         <source>Read Number Format Error!</source>
@@ -9346,107 +9346,107 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>The measurement must be between 0 and 16383.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 0 și 16383.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 10.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 1 și 10.</translation>
     </message>
     <message>
         <source>The measurement must be between 0 and 32767.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 0 și 32767.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 754.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 1 și 754.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 12.</source>
-        <translation type="unfinished"></translation>
+        <translation>Măsurătoarea trebuie să fie între 1 și 12.</translation>
     </message>
     <message>
         <source>①</source>
-        <translation type="unfinished"></translation>
+        <translation>①</translation>
     </message>
     <message>
         <source>②</source>
-        <translation type="unfinished"></translation>
+        <translation>②</translation>
     </message>
     <message>
         <source>③</source>
-        <translation type="unfinished"></translation>
+        <translation>③</translation>
     </message>
     <message>
         <source>④</source>
-        <translation type="unfinished"></translation>
+        <translation>④</translation>
     </message>
     <message>
         <source>⑤</source>
-        <translation type="unfinished"></translation>
+        <translation>⑤</translation>
     </message>
     <message>
         <source>⑥</source>
-        <translation type="unfinished"></translation>
+        <translation>⑥</translation>
     </message>
     <message>
         <source>⑦</source>
-        <translation type="unfinished"></translation>
+        <translation>⑦</translation>
     </message>
     <message>
         <source>⑧</source>
-        <translation type="unfinished"></translation>
+        <translation>⑧</translation>
     </message>
     <message>
         <source>⑨</source>
-        <translation type="unfinished"></translation>
+        <translation>⑨</translation>
     </message>
     <message>
         <source>⑩</source>
-        <translation type="unfinished"></translation>
+        <translation>⑩</translation>
     </message>
 </context>
 <context>
@@ -9549,15 +9549,15 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     <name>KxPhoneticGuideDlg</name>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesta nu este un număr valid.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul trebuie să fie între %1 și %1.</translation>
     </message>
     <message>
         <source>Please select the base text for the Phonetic Guide.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați textul de bază pentru Ghidul fonetic.</translation>
     </message>
 </context>
 <context>
@@ -9613,34 +9613,34 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     </message>
     <message>
         <source>Merge to Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Combină la anterior</translation>
     </message>
     <message>
         <source>Delete Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge secțiunea</translation>
     </message>
     <message>
         <source>Edit Section Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare nume secțiune</translation>
     </message>
 </context>
 <context>
     <name>KxSectionToolboxItemTitleLineEdit</name>
     <message>
         <source>Section %1: </source>
-        <translation type="unfinished"></translation>
+        <translation>Secțiunea %1: </translation>
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"></translation>
+        <translation>Copertă</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedenumit</translation>
     </message>
     <message>
         <source>Enter Section Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare nume secțiune</translation>
     </message>
 </context>
 <context>
@@ -9673,15 +9673,15 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     <name>KxSmartParaLayoutCommand</name>
     <message>
         <source>Paragraph Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspect paragraf</translation>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetare format paragraf</translation>
     </message>
     <message>
         <source>Hide Paragraph Layout Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascunde pictogramă aspect paragraf</translation>
     </message>
 </context>
 <context>
@@ -9699,19 +9699,19 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     <name>KxStyleShortCutBindDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>Invalid Input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare nevalidă.</translation>
     </message>
     <message>
         <source>This shortcut key already exists, please set another key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această scurtătură de taste deja există, configurați o altă tastă.</translation>
     </message>
     <message>
         <source>Do you want to overwrite the shortcut of [%1]? </source>
-        <translation type="unfinished"></translation>
+        <translation>Doriți să suprascrieți scurtătura pentru [%1]? </translation>
     </message>
 </context>
 <context>
@@ -9854,11 +9854,11 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
     </message>
     <message>
         <source>Groups:</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupuri:</translation>
     </message>
     <message>
         <source>Individuals:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indivizi:</translation>
     </message>
     <message>
         <source>Start Protection...</source>
@@ -10325,7 +10325,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Previous Find/Goto</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteriorul Găsește/mergi la</translation>
     </message>
     <message>
         <source>Previous Table</source>
@@ -10353,7 +10353,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Next Find/Goto</source>
-        <translation type="unfinished"></translation>
+        <translation>Următorul Găsește/mergi la</translation>
     </message>
     <message>
         <source>Next Table</source>
@@ -10403,7 +10403,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsContentsGalleryCommand</name>
     <message>
         <source>Insert Contents Page...</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu conținut pagină...</translation>
     </message>
     <message>
         <source>Delete Contents Page</source>
@@ -10572,7 +10572,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>DISTRIBUTE</source>
-        <translation type="unfinished"></translation>
+        <translation>DISTRIBUIE</translation>
     </message>
     <message>
         <source>URGENT</source>
@@ -10979,7 +10979,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsGalleryFontComboBox</name>
     <message>
         <source>Simsun</source>
-        <translation type="unfinished"></translation>
+        <translation>Simsun</translation>
     </message>
 </context>
 <context>

@@ -218,7 +218,7 @@
     <message>
         <source>Fill Color</source>
         <comment>ObjTable_FillColor</comment>
-        <translation>Umple culoare</translation>
+        <translation>Umple cu culoare</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -2594,7 +2594,7 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Slide Design - Color Schemes</source>
         <comment>wpp_ColorSchemes_DisplayName</comment>
-        <translation>Proiectare diapozitiv - Scheme culoare</translation>
+        <translation>Proiectare diapozitiv - Scheme de culoare</translation>
     </message>
     <message>
         <source>Custom Animation</source>
@@ -4764,12 +4764,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Amount</source>
         <comment>wpp_sMenuDescriptionAmount</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cantitate</translation>
     </message>
     <message>
         <source>Am&amp;ount</source>
         <comment>wpp_sMenuDescriptionAmount2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ca&amp;ntitate</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4794,12 +4794,12 @@ Asigurați-vă că fișierul nu este blocat de alt utilizator, sau discul țint�
     <message>
         <source>Fill Color</source>
         <comment>wpp_sMenuDescriptionFillColor</comment>
-        <translation>Umple culoare</translation>
+        <translation>Umple cu culoare</translation>
     </message>
     <message>
         <source>&amp;Fill Color</source>
         <comment>wpp_sMenuDescriptionFillColor2</comment>
-        <translation>&amp;Umple culoare</translation>
+        <translation>&amp;Umple cu culoare</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -6055,7 +6055,7 @@ Layout</source>
     <message>
         <source>Failed to create a new file.</source>
         <comment>WpNEWFILEFAIL</comment>
-        <translation type="unfinished">A eșuat crearea unui nou fișier.</translation>
+        <translation>A eșuat crearea unui nou fișier.</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.
@@ -6087,7 +6087,7 @@ Layout</source>
     <message>
         <source>Fill Color</source>
         <comment>WpFILLCOLOR</comment>
-        <translation>Umple culoare</translation>
+        <translation>Umple cu culoare</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -6332,32 +6332,32 @@ Layout</source>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
         <comment>WP_FIND_NOTFOUND</comment>
-        <translation type="unfinished"></translation>
+        <translation>Căutarea în întregul fișier este finalizată și nu s-a găsit elementul căutat.</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed.</source>
         <comment>WP_FIND_FINISH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Căutarea în întregul fișier este finalizată.</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
         <comment>WP_REPLACE_NOTFOUND</comment>
-        <translation type="unfinished"></translation>
+        <translation>Căutarea în întregul fișier este finalizată și nu s-a găsit elementul căutat.</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed.</source>
         <comment>WP_REPLACE_FINISH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Căutarea în întregul fișier este finalizată.</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
         <comment>WP_REPLACEALL_NOTFOUND</comment>
-        <translation type="unfinished"></translation>
+        <translation>Căutarea în întregul fișier este finalizată și nu s-a găsit elementul căutat.</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and has replaced %i items.</source>
         <comment>WP_REPLACEALL_OKFORMAT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Căutarea în întregul fișier este finalizată și au fost înlocuite %i elemente.</translation>
     </message>
     <message>
         <source>The font &apos;</source>
@@ -6382,12 +6382,12 @@ Layout</source>
     <message>
         <source>Erase All Markups</source>
         <comment>Wp_EraseAllMarkups</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate marcajele</translation>
     </message>
     <message>
         <source>Erase All Markups on Slide</source>
         <comment>Wp_EraseMarkupsOnSlide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șterge toate marcajele din diapozitiv</translation>
     </message>
     <message>
         <source>Flash Files(*.swf)</source>
@@ -6504,7 +6504,7 @@ ortografică</translation>
     <message>
         <source>This operation will delete a slide and its note page and graphics. Do you want to continue?</source>
         <comment>WP_OUTLINEEDIT_CanDeleteSlide</comment>
-        <translation type="unfinished"></translation>
+        <translation>Această operație va șterge un diapozitiv, pagina sa de notificare și graficele. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
