@@ -1,0 +1,11269 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: tr_TR\n"
+"X-Source-Language: C\n"
+"X-Qt-Contexts: true\n"
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Aqua"
+msgstr ""
+
+#, fuzzy
+msgctxt "BordersAndShadingWidget|"
+msgid "Black"
+msgstr "Siyah"
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Blue"
+msgstr "Mavi"
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Blue-Gray"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Bright Green"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Brown"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Cyan"
+msgstr ""
+
+#, fuzzy
+msgctxt "BordersAndShadingWidget|"
+msgid "Dark Blue"
+msgstr "Koyu Mavi"
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Dark Cyan"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Dark Green"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Dark Red"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Dark Yellow"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gold"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-10%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-12.5%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-15%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-20%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-25%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-30%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-35%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-37.5%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-40%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-45%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-5%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-50%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-55%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-60%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-62.5%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-65%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-70%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-75%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-80%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-85%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-87.5%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-90%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Gray-95%"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Green"
+msgstr "Yeşil"
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Indigo"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Lavender"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Light Blue"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Light Green"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Light Orange"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Light Turquoise"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Light Yellow"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Lime"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "No Fill"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Olive Green"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Orange"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Pink"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Plum"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Red"
+msgstr "Kırmızı"
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Rose"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Sea Green"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Sky Blue"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Tan"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Turquoise"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Violet"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "White"
+msgstr ""
+
+msgctxt "BordersAndShadingWidget|"
+msgid "Yellow"
+msgstr ""
+
+msgctxt "ChangeCaseDlg|"
+msgid "&Full-width"
+msgstr ""
+
+msgctxt "ChangeCaseDlg|"
+msgid "&Hiragana"
+msgstr ""
+
+msgctxt "ChangeCaseDlg|"
+msgid "&Katakana"
+msgstr ""
+
+msgctxt "ChangeCaseDlg|"
+msgid "&Lowercase"
+msgstr ""
+
+msgctxt "ChangeCaseDlg|"
+msgid "&Sentence case"
+msgstr ""
+
+msgctxt "ChangeCaseDlg|"
+msgid "&Title case"
+msgstr ""
+
+msgctxt "ChangeCaseDlg|"
+msgid "&Uppercase"
+msgstr ""
+
+msgctxt "ChangeCaseDlg|"
+msgid "Change Case"
+msgstr ""
+
+msgctxt "ChangeCaseDlg|"
+msgid "Half-&width"
+msgstr ""
+
+msgctxt "ChangeCaseDlg|"
+msgid "To&ggle case"
+msgstr ""
+
+#, qt-format
+msgctxt "ColumnsManagerCtrl|"
+msgid " %1, 1"
+msgstr ""
+
+#, qt-format
+msgctxt "ColumnsManagerCtrl|"
+msgid "%1:"
+msgstr ""
+
+#, qt-format
+msgctxt "ColumnsManagerCtrl|"
+msgid "ch, 2, %1,"
+msgstr ""
+
+#, qt-format
+msgctxt "ColumnsManagerCtrl|"
+msgid "ch, 2, 0, %1, 1"
+msgstr ""
+
+#, qt-format
+msgctxt "ColumnsManagerCtrl|"
+msgid "pt, 2, %1,"
+msgstr ""
+
+#, qt-format
+msgctxt "ColumnsManagerCtrl|"
+msgid "pt, 2, 0, %1, 1"
+msgstr ""
+
+msgctxt "CustomPreView|"
+msgid "None"
+msgstr ""
+
+msgctxt "DlgColumnsManager|"
+msgid "&Spacing:"
+msgstr ""
+
+msgctxt "DlgColumnsManager|"
+msgid "1:"
+msgstr ""
+
+msgctxt "DlgColumnsManager|"
+msgid "Col #:"
+msgstr ""
+
+msgctxt "DlgColumnsManager|"
+msgid "W&idth:"
+msgstr ""
+
+msgctxt "DlgColumnsManager|"
+msgid "Columns Management"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "&Alignment"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "&Behind text"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "&In line with text"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "&Left only"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "&Lock anchor"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "&Move object with text"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "&Right only"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "&Tight"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "&relative to"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "&to the right of"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Absolute &position"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Absolute po&sition"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Advanced Layout"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Al&ignment"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Allow o&verlap"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Both &sides"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Botto&m"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Bottom"
+msgstr "En Aşağı"
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Centered"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Character"
+msgstr "Karakter"
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Column"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Distance from text"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Horizontal"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "In fro&nt of text"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Inside"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "L&argest only"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "L&eft"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Left"
+msgstr "Sol"
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Line"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Margin"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Options"
+msgstr "Seçenekler"
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Outside"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Page"
+msgstr "Sayfa"
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Paragraph"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Picture Position"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Ri&ght"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Right"
+msgstr "Sağ"
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "S&quare"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "T&hrough"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "T&op and bottom"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Text wrapping"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "To&p"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Top"
+msgstr "En Yukarı"
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Vertical"
+msgstr "Dikey"
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Wrap text"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "Wrapping style"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "belo&w"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "pt, 2, -1596, 1596, 1"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "pt, 2, 0, 1584, 1"
+msgstr ""
+
+msgctxt "DlgKxAdvancedLayout|"
+msgid "r&elative to"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "&Apply to:"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "&Equal column width"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "&Left"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "&Number of columns:"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "&One"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "&Right"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "&Three"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "Columns"
+msgstr "Sütunlar"
+
+msgctxt "DlgKxColumns|"
+msgid "Line &between"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "Presets"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "DlgKxColumns|"
+msgid "Start new col&umn"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "T&wo"
+msgstr ""
+
+msgctxt "DlgKxColumns|"
+msgid "Width and spacing"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "&Aligned at:"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "&Font..."
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "&Indent at:"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "&Number style:"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "&Previous level number:"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "&Restart numbering after:"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "&Start at:"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Advanced(&M)"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Centered"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Customize Outline Numbered List"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Follo&w number with:"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Le&gal style numbering"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Le&vel:"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Left"
+msgstr "Sol"
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Lin&k level to style:"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "N&umber position"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Number f&ormat:"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Number format "
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Right"
+msgstr "Sağ"
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Space"
+msgstr "Space"
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Ta&b space after:"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Tab character"
+msgstr ""
+
+msgctxt "DlgKxOutlineNumber|"
+msgid "Text position"
+msgstr ""
+
+#, qt-format
+msgctxt "FootAndEndnoteSpinBox|"
+msgid "%1"
+msgstr ""
+
+msgctxt "KApplication|"
+msgid "Loading KUI"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "&Begin style:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "&Dashed:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "&End style:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "&Style:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "Begin s&ize:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "De&fault for new objects"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "End si&ze:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "Scale"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "Size"
+msgstr "Boyut"
+
+msgctxt "KSpinBox|"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "KUnderLineCombo|"
+msgid "(None)"
+msgstr ""
+
+msgctxt "KUnderLineCombo|"
+msgid "Words only"
+msgstr ""
+
+msgctxt "KxAddUsersDlg|"
+msgid ""
+"Some of the users you have entered could not be added to the list because "
+"their names could not be verified."
+msgstr ""
+
+msgctxt "KxBookmarksDlg|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxBookmarksDlg|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxBordersAndShadingDlg|"
+msgid "Cell"
+msgstr ""
+
+msgctxt "KxBordersAndShadingDlg|"
+msgid "No content"
+msgstr ""
+
+msgctxt "KxBordersAndShadingDlg|"
+msgid "Paragraph"
+msgstr ""
+
+msgctxt "KxBordersAndShadingDlg|"
+msgid "Pt"
+msgstr ""
+
+msgctxt "KxBordersAndShadingDlg|"
+msgid "Table"
+msgstr ""
+
+msgctxt "KxBordersAndShadingDlg|"
+msgid "Text"
+msgstr ""
+
+msgctxt "KxBordersAndShadingDlg|"
+msgid "Writer"
+msgstr ""
+
+msgctxt "KxCaptionDlg|"
+msgid "Above selected item"
+msgstr ""
+
+msgctxt "KxCaptionDlg|"
+msgid "Below selected item"
+msgstr ""
+
+msgctxt "KxCaptionDlg|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxCaptionNumberDlg|"
+msgid "- (Hyphen)"
+msgstr ""
+
+msgctxt "KxCaptionNumberDlg|"
+msgid ". (Period)"
+msgstr ""
+
+msgctxt "KxCaptionNumberDlg|"
+msgid ": (Colon)"
+msgstr ""
+
+msgctxt "KxCaptionNumberDlg|"
+msgid "Heading"
+msgstr ""
+
+msgctxt "KxCaptionNumberDlg|"
+msgid "– (En dash)"
+msgstr ""
+
+msgctxt "KxCaptionNumberDlg|"
+msgid "— (Em dash)"
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "A&lways suggest corrections"
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "Check spelling is complete."
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "Ignore words in &uppercase"
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "Ignore words that contain num&bers"
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "No Spelling Suggestions"
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid ""
+"No default custom dictionary is found. Please select a custom dictionary in "
+"the list and proceed again."
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "An error occurred when adding new words."
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid ""
+"Writer finished checking the selection. Do you want to continue checking the "
+"remainder of the document?"
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "Cannot check spelling on original revision status"
+msgstr ""
+
+msgctxt "KxCheckboxFormFieldDlg|"
+msgid "None"
+msgstr ""
+
+msgctxt "KxCheckboxFormFieldDlg|"
+msgid "The bookmark name is not valid."
+msgstr ""
+
+#, qt-format
+msgctxt "KxCheckboxFormFieldDlg|"
+msgid "The input value must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxColumnsDlg|"
+msgid "Selected sections"
+msgstr ""
+
+msgctxt "KxColumnsDlg|"
+msgid "Selected text"
+msgstr ""
+
+msgctxt "KxColumnsDlg|"
+msgid ""
+"Settings you chose for the left and right margins,column spacing,or "
+"paragraph indents are too large for the page width in some sections."
+msgstr ""
+
+msgctxt "KxColumnsDlg|"
+msgid "This point forward"
+msgstr ""
+
+msgctxt "KxColumnsDlg|"
+msgid "This section"
+msgstr ""
+
+msgctxt "KxColumnsDlg|"
+msgid "Whole document"
+msgstr ""
+
+msgctxt "KxCombineCharactersDlg|"
+msgid "Value must be between 1 and 16838."
+msgstr ""
+
+msgctxt "KxCombineCharactersDlg|"
+msgid "What you entered is invalid."
+msgstr ""
+
+msgctxt "KxContentsDlg|"
+msgid "Do you want to replace the selected table of contents?"
+msgstr ""
+
+msgctxt "KxContentsDlg|"
+msgid "Heading"
+msgstr ""
+
+#, qt-format
+msgctxt "KxContentsDlg|"
+msgid "Input must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxContentsOptionsDlg|"
+msgid "Heading"
+msgstr ""
+
+#, qt-format
+msgctxt "KxContentsOptionsDlg|"
+msgid "Input must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxConvertTabletoTextDlg|"
+msgid "You must type a character for the custom separator."
+msgstr ""
+
+msgctxt "KxCoverSectionGalleryCommand|"
+msgid "Cover Pages"
+msgstr ""
+
+msgctxt "KxCoverSectionGalleryCommand|"
+msgid "Remove Cover Page"
+msgstr ""
+
+msgctxt "KxCoverSectionGalleryCommand|"
+msgid ""
+"Settings you chose for the left and right margins,column spacing,or "
+"paragraph indents are too large for the page width in some sections."
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "&Insert"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Above/below"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Bookmark"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Bookmark text"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Endnote number"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Endnote number (formatted)"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Entire caption"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Footnote number"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Footnote number (formatted)"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "For &which bookmark:"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "For &which caption:"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "For &which endnote:"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "For &which footnote:"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "For &which heading:"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Head number"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Head number (full context)"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Head number (no context)"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Head text"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Numbered Item"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Only caption text"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Only label and number"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Page number"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Paragraph number"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Paragraph number (full context)"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Paragraph number (no context)"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "Paragraph text"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "The referenced content is empty."
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "WPS Writer"
+msgstr ""
+
+msgctxt "KxCrossReferenceDlg|"
+msgid "For &which numbered item:"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "&Background color:"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "&Custom"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "&Default"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "&Schemes"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "&Text color:"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "Custom background color and text color(design)"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "Scheme&1"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "Scheme&2"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "Scheme&3"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "Scheme&4"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "Scheme&5"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "Scheme&6"
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid ""
+"Set the background color to white and the text color to black as default."
+msgstr ""
+
+msgctxt "KxCustomBackgroundColorDlgClass|"
+msgid "WPS Writer"
+msgstr ""
+
+msgctxt "KxCustomDictionaryDlg|"
+msgid "(Default)"
+msgstr ""
+
+msgctxt "KxCustomDictionaryDlg|"
+msgid "Add Custom Dictionary"
+msgstr ""
+
+#, qt-format
+msgctxt "KxCustomDictionaryDlg|"
+msgid "An error occurred when adding \"%1\", please check the file format."
+msgstr ""
+
+#, qt-format
+msgctxt "KxCustomDictionaryDlg|"
+msgid "An error occurred when adding \"%1\". The file has already existed."
+msgstr ""
+
+msgctxt "KxCustomDictionaryDlg|"
+msgid "Create Custom Dictionary"
+msgstr ""
+
+msgctxt "KxCustomDictionaryDlg|"
+msgid "Dictionary file(*.dic)|*.dic"
+msgstr ""
+
+msgctxt "KxCustomDictionaryDlg|"
+msgid "Full path: "
+msgstr ""
+
+msgctxt "KxCustomDictionaryDlg|"
+msgid ""
+"Removing the custom dictionary might remove the custom dictionary used by "
+"other WPS programs. Do you want to continue?"
+msgstr ""
+
+msgctxt "KxCustomDictionaryDlg|"
+msgid "The number of custom dictionaries has reached the upper limit."
+msgstr ""
+
+msgctxt "KxCustomDictionaryDlg|"
+msgid "The last dictionary cannot be deleted!"
+msgstr ""
+
+msgctxt "KxCustomDictionaryDlg|"
+msgid "Dictionary File(*.dic)"
+msgstr ""
+
+msgctxt "KxCustomDictionaryDlg|"
+msgid "All Files(*.*)"
+msgstr ""
+
+msgctxt "KxCustomizeBulletedlistDlg|"
+msgid "&Less"
+msgstr ""
+
+msgctxt "KxCustomizeBulletedlistDlg|"
+msgid "&More"
+msgstr ""
+
+msgctxt "KxCustomizeNumberedListDlg|"
+msgid "&Less"
+msgstr ""
+
+msgctxt "KxCustomizeNumberedListDlg|"
+msgid "&More"
+msgstr ""
+
+msgctxt "KxCustomizeNumberedListDlg|"
+msgid "(None)"
+msgstr ""
+
+msgctxt "KxDlgAddUsers|"
+msgid "Add Users"
+msgstr ""
+
+msgctxt "KxDlgAddUsers|"
+msgid "Example:user1;DOMAIN\\name;someone@example.com"
+msgstr ""
+
+msgctxt "KxDlgAddUsers|"
+msgid "Enter user names, separated by semicolons:"
+msgstr ""
+
+msgctxt "KxDlgBookmarks|"
+msgid "&Add"
+msgstr ""
+
+msgctxt "KxDlgBookmarks|"
+msgid "&Bookmark name:"
+msgstr ""
+
+msgctxt "KxDlgBookmarks|"
+msgid "&Delete"
+msgstr "&Sil"
+
+msgctxt "KxDlgBookmarks|"
+msgid "&Go To"
+msgstr ""
+
+msgctxt "KxDlgBookmarks|"
+msgid "&Hidden bookmarks"
+msgstr ""
+
+msgctxt "KxDlgBookmarks|"
+msgid "&Location"
+msgstr ""
+
+msgctxt "KxDlgBookmarks|"
+msgid "&Name"
+msgstr ""
+
+msgctxt "KxDlgBookmarks|"
+msgid "Bookmark"
+msgstr ""
+
+msgctxt "KxDlgBookmarks|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxDlgBookmarks|"
+msgid "Sort by:"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid ""
+"   Click on diagram below or\n"
+"use buttons to apply borders"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "&All"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "&Color:"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "&None"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "&Options..."
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "&Page Border"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "&Shading"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "&Width:"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "10%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "12.5%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "15%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "20%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "25%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "30%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "35%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "37.5%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "40%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "45%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "5%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "50%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "55%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "60%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "62.5%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "65%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "70%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "75%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "80%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "85%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "87.5%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "90%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "95%"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "App&ly to:"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "B&orders"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Bo&x"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Borders and Shading"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "C&ustom"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Clear"
+msgstr "Temizle"
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Deep grid"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Deep horizontal line"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Deep scope down line"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Deep scope up Line"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Deep shed"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Deep vertical line"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Fill"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Gri&d"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "M&ore Colors..."
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Patterns"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Pure(100%)"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Setting:"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Shallow grid"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Shallow horizontal line"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Shallow scope down line"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Shallow scope up line"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Shallow shed"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Shallow vertical line"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|border"
+msgid "St&yle:"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|shading"
+msgid "St&yle:"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "This section"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "This section - All except first page"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "This section - First page only"
+msgstr ""
+
+msgctxt "KxDlgBordersAndShading|"
+msgid "Whole document"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "&Bulleted"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "&Continue previous list"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "&Numbered"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "&Restart numbering"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "Appl&y changes to:"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "Bullets and Numbering"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "Cu&stom list:"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "Cus&tomize..."
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "Custom &List"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "List numbering"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "List preview:"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "None list"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "O&utline Numbered"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "Selected text"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "This point forward"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "Whole list"
+msgstr ""
+
+msgctxt "KxDlgCaption|"
+msgid "&Caption:"
+msgstr ""
+
+msgctxt "KxDlgCaption|"
+msgid "&Delete Label"
+msgstr ""
+
+msgctxt "KxDlgCaption|"
+msgid "&Exclude label from caption"
+msgstr ""
+
+msgctxt "KxDlgCaption|"
+msgid "&Label:"
+msgstr ""
+
+msgctxt "KxDlgCaption|"
+msgid "&New Label..."
+msgstr ""
+
+msgctxt "KxDlgCaption|"
+msgid "&Position:"
+msgstr ""
+
+msgctxt "KxDlgCaption|"
+msgid "Caption"
+msgstr ""
+
+msgctxt "KxDlgCaption|"
+msgid "N&umbering..."
+msgstr ""
+
+msgctxt "KxDlgCaptionNumber|"
+msgid "&Format:"
+msgstr ""
+
+msgctxt "KxDlgCaptionNumber|"
+msgid "Caption Numbering"
+msgstr ""
+
+msgctxt "KxDlgCaptionNumber|"
+msgid "Examples:"
+msgstr ""
+
+msgctxt "KxDlgCaptionNumber|"
+msgid "Figure II-1, Table 1-A"
+msgstr ""
+
+msgctxt "KxDlgCaptionNumber|"
+msgid "Us&e separator:"
+msgstr ""
+
+msgctxt "KxDlgCaptionNumber|"
+msgid "Include &chapter number;"
+msgstr ""
+
+msgctxt "KxDlgCaptionNumber|"
+msgid "Cha&pter starts with style:"
+msgstr ""
+
+msgctxt "KxDlgCellOption|"
+msgid "&Bottom:"
+msgstr ""
+
+msgctxt "KxDlgCellOption|"
+msgid "&Left:"
+msgstr ""
+
+msgctxt "KxDlgCellOption|"
+msgid "&Right:"
+msgstr ""
+
+msgctxt "KxDlgCellOption|"
+msgid "&Same as the whole table"
+msgstr ""
+
+msgctxt "KxDlgCellOption|"
+msgid "&Top:"
+msgstr ""
+
+msgctxt "KxDlgCellOption|"
+msgid "Cell Options"
+msgstr ""
+
+msgctxt "KxDlgCellOption|"
+msgid "Cell margins"
+msgstr ""
+
+msgctxt "KxDlgCellOption|"
+msgid "pt, -1, 0, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Add to Dictionary"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Change"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Delete"
+msgstr "&Sil"
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Ignore"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Options"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Paragraph:"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Set Language"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Undo"
+msgstr "&Geri Al"
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "Change &to:"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "Change A&ll"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "Cu&stom Dictionaries..."
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "I&gnore All"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "Spell Check"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "Suggestio&ns:"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "The word is not in the dictionary"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "&Auto"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "&Calculate on exit"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "&Exactly"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "Add Help &Text..."
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "Check Box Form Field Options"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "Check box e&nabled"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "Check box size"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "Checke&d"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "Default value"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "E&xit:"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "Entr&y:"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "Field settings"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "Not chec&ked"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "Run macro on"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "pt"
+msgstr ""
+
+msgctxt "KxDlgCheckboxFormField|"
+msgid "&Bookmark:"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "&Font:"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "&Size:"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "&Text (up to 6):"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "10"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "10.5"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "11"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "12"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "14"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "16"
+msgstr "16"
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "18"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "20"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "22"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "24"
+msgstr "24"
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "26"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "28"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "36"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "4"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "48"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "5"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "6"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "7"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "72"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "8"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "9"
+msgstr ""
+
+msgctxt "KxDlgCombineCharacters|"
+msgid "Combine Characters"
+msgstr ""
+
+msgctxt "KxDlgContents|"
+msgid "&Options..."
+msgstr ""
+
+msgctxt "KxDlgContents|"
+msgid "&Right align page numbers"
+msgstr ""
+
+msgctxt "KxDlgContents|"
+msgid "&Show page numbers"
+msgstr ""
+
+msgctxt "KxDlgContents|"
+msgid "None"
+msgstr ""
+
+msgctxt "KxDlgContents|"
+msgid "Print Preview"
+msgstr ""
+
+msgctxt "KxDlgContents|"
+msgid "Show &levels:"
+msgstr ""
+
+msgctxt "KxDlgContents|"
+msgid "Ta&b leader:"
+msgstr ""
+
+msgctxt "KxDlgContents|"
+msgid "Table of &Contents"
+msgstr ""
+
+msgctxt "KxDlgContents|"
+msgid "Table of Contents"
+msgstr ""
+
+msgctxt "KxDlgContents|"
+msgid "Use &hyperlinks"
+msgstr ""
+
+msgctxt "KxDlgContentsOptions|"
+msgid "&Outline levels"
+msgstr ""
+
+msgctxt "KxDlgContentsOptions|"
+msgid "&Reset"
+msgstr ""
+
+msgctxt "KxDlgContentsOptions|"
+msgid "&Styles:"
+msgstr ""
+
+msgctxt "KxDlgContentsOptions|"
+msgid "Available styles:"
+msgstr ""
+
+msgctxt "KxDlgContentsOptions|"
+msgid "Build table of contents from:"
+msgstr ""
+
+msgctxt "KxDlgContentsOptions|"
+msgid "TOC &level:"
+msgstr ""
+
+msgctxt "KxDlgContentsOptions|"
+msgid "Table &entry fields"
+msgstr ""
+
+msgctxt "KxDlgContentsOptions|"
+msgid "Table of Contents Options"
+msgstr ""
+
+msgctxt "KxDlgConvertNotes|"
+msgid "&Swap footnotes and endnotes"
+msgstr ""
+
+msgctxt "KxDlgConvertNotes|"
+msgid "Convert Notes"
+msgstr ""
+
+msgctxt "KxDlgConvertNotes|"
+msgid "Convert all &endnotes to footnotes"
+msgstr ""
+
+msgctxt "KxDlgConvertNotes|"
+msgid "Convert all &footnotes to endnotes"
+msgstr ""
+
+msgctxt "KxDlgConvertTabletoText|"
+msgid "&Convert nested tables"
+msgstr ""
+
+msgctxt "KxDlgConvertTabletoText|"
+msgid "&Other:"
+msgstr ""
+
+msgctxt "KxDlgConvertTabletoText|"
+msgid "&Paragraphs"
+msgstr ""
+
+msgctxt "KxDlgConvertTabletoText|"
+msgid "&Tabs"
+msgstr ""
+
+msgctxt "KxDlgConvertTabletoText|"
+msgid "-"
+msgstr "-"
+
+msgctxt "KxDlgConvertTabletoText|"
+msgid "Co&mmas"
+msgstr ""
+
+msgctxt "KxDlgConvertTabletoText|"
+msgid "Convert Table to Text"
+msgstr ""
+
+msgctxt "KxDlgConvertTabletoText|"
+msgid "Separate text with"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "&Other:"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "&Paragraphs"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "&Space"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "&Tabs"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "-"
+msgstr "-"
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "Co&mmas"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "Convert Text to Table"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "Number of &columns:"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "Number of &rows:"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "Separate text at"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "Table size"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "cancel"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "ed1"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "g1"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "g2"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "l1"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "l2"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "rd1"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "rd2"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "rd3"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "rd4"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "rd5"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "sp1"
+msgstr ""
+
+msgctxt "KxDlgConvertTexttoTable|"
+msgid "sp2"
+msgstr ""
+
+msgctxt "KxDlgCrossReference|"
+msgid "Cross-reference"
+msgstr ""
+
+msgctxt "KxDlgCrossReference|"
+msgid "For &Which"
+msgstr ""
+
+msgctxt "KxDlgCrossReference|"
+msgid "Include above/below(&N)"
+msgstr ""
+
+msgctxt "KxDlgCrossReference|"
+msgid "Insert &reference to:"
+msgstr ""
+
+msgctxt "KxDlgCrossReference|"
+msgid "Insert as &hyperlink"
+msgstr ""
+
+msgctxt "KxDlgCrossReference|"
+msgid "Reference &type:"
+msgstr ""
+
+msgctxt "KxDlgCrossReference|"
+msgid "cbHyperlink"
+msgstr ""
+
+msgctxt "KxDlgCrossReference|"
+msgid "cbInclude"
+msgstr ""
+
+msgctxt "KxDlgCrossReference|"
+msgid "cbxRefContent"
+msgstr ""
+
+msgctxt "KxDlgCrossReference|"
+msgid "cbxRefType"
+msgstr ""
+
+msgctxt "KxDlgCrossReference|"
+msgid "lwRefItem"
+msgstr ""
+
+msgctxt "KxDlgCustomDictionary|"
+msgid "&Add..."
+msgstr ""
+
+msgctxt "KxDlgCustomDictionary|"
+msgid "&Modify..."
+msgstr ""
+
+msgctxt "KxDlgCustomDictionary|"
+msgid "&New..."
+msgstr ""
+
+msgctxt "KxDlgCustomDictionary|"
+msgid "&Remove"
+msgstr ""
+
+msgctxt "KxDlgCustomDictionary|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxDlgCustomDictionary|"
+msgid "Custom Dictionary"
+msgstr ""
+
+msgctxt "KxDlgCustomDictionary|"
+msgid "Dictionary &list"
+msgstr ""
+
+msgctxt "KxDlgCustomDictionary|"
+msgid "Set Default(&C)"
+msgstr ""
+
+msgctxt "KxDlgCustomDictionary|"
+msgid "Full Path"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "&Character..."
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "&Font..."
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "&Indent at:"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "B&ullet character"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "Bullet position"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "Customize Bulleted List"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "Indent &at:"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "Ta&b space after:"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "Text position"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "ch, 2, -150.86, 150.86, 1"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "ch, pt, 10.5, 0"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "cm"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "pt"
+msgstr ""
+
+msgctxt "KxDlgCustomizeBulletedList|"
+msgid "pt, 2, -1584, 1584, 3.6"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "&Aligned at:"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "&Font..."
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "&Indent at:"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "&Start at:"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "Center"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "Customize Numbered List"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "Left"
+msgstr "Sol"
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "N&umber position"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "Number f&ormat"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "Right"
+msgstr "Sağ"
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "Text position"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "ch, 2, -10, 10, 1"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "ch, 2, -150.86, 150.86, 1"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "cm"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "pt, 2, -1584, 1584, 3.6"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "&Number style:"
+msgstr ""
+
+msgctxt "KxDlgCustomizeNumberedList|"
+msgid "Ta&b space after"
+msgstr ""
+
+msgctxt "KxDlgDeleteCells|"
+msgid "Delete Cells"
+msgstr ""
+
+msgctxt "KxDlgDeleteCells|"
+msgid "Delete entire &column"
+msgstr ""
+
+msgctxt "KxDlgDeleteCells|"
+msgid "Delete entire &row"
+msgstr ""
+
+msgctxt "KxDlgDeleteCells|"
+msgid "Shift cells &left"
+msgstr ""
+
+msgctxt "KxDlgDeleteCells|"
+msgid "Shift cells &up"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "&Horizontal every:"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "&Snap objects to grid"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "&Vertical spacing:"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "Disp&lay gridlines on screen"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "Drawing Grid"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "Grid origin"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "Grid settings"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "Hori&zontal spacing:"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "Horizontal &origin:"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "Object snapping"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "S&nap objects to other objects"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "Use &margins"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "Ver&tical every:"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "Vertical o&rigin:"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "ch, 2, 0.01, 150.85, 0.5"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "line, 2, 0.01, 109.24, 0.5"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "pt, 1, 0, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgDrawingGrid|"
+msgid "pt, 2, 0.05, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgDropCap|"
+msgid "&Dropped"
+msgstr ""
+
+msgctxt "KxDlgDropCap|"
+msgid "&Font:"
+msgstr ""
+
+msgctxt "KxDlgDropCap|"
+msgid "&Lines to drop:"
+msgstr ""
+
+msgctxt "KxDlgDropCap|"
+msgid "&None"
+msgstr ""
+
+msgctxt "KxDlgDropCap|"
+msgid "Distance from te&xt:"
+msgstr ""
+
+msgctxt "KxDlgDropCap|"
+msgid "Drop Cap"
+msgstr ""
+
+msgctxt "KxDlgDropCap|"
+msgid "In &margin"
+msgstr ""
+
+msgctxt "KxDlgDropCap|"
+msgid "Options"
+msgstr "Seçenekler"
+
+msgctxt "KxDlgDropCap|"
+msgid "Position"
+msgstr "Konum"
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "&Add"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "&Bookmarks:"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "&Calculate on exit"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "&Delete"
+msgstr "&Sil"
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "&Edit"
+msgstr "&Düzenle"
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "Add Help &Text..."
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "Drop-Down Form Field Options"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "Drop-down e&nabled"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "E&xit:"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "Entr&y:"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "Field settings"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "Items in Drop-down list"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "Move"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "Run macro on"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "bnDown"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "bnUp"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "cmbMarcroEntry"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "cmbmacroExit"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "edBookmark"
+msgstr ""
+
+msgctxt "KxDlgDropDownFormField|"
+msgid "lvItems"
+msgstr ""
+
+msgctxt "KxDlgEditDictionary|"
+msgid "&Add"
+msgstr ""
+
+msgctxt "KxDlgEditDictionary|"
+msgid "&Delete"
+msgstr "&Sil"
+
+msgctxt "KxDlgEditDictionary|"
+msgid "&Word"
+msgstr ""
+
+msgctxt "KxDlgEditDictionary|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxDlgEditDictionary|"
+msgid "Di&ctionary"
+msgstr ""
+
+msgctxt "KxDlgEditDictionary|"
+msgid "Edit Dictionary"
+msgstr ""
+
+msgctxt "KxDlgEmbedPrivateFonts|"
+msgid "Dialog"
+msgstr "Pencere"
+
+msgctxt "KxDlgEmbedPrivateFonts|"
+msgid "Infotip"
+msgstr ""
+
+msgctxt "KxDlgEmbedPrivateFonts|"
+msgid ""
+"The document has applied online font. If your document needs to be "
+"circulated, we recommend that you save the font in document. \n"
+"If unnecessary, please click Cancel."
+msgstr ""
+
+msgctxt "KxDlgEmbedPrivateFonts|"
+msgid "Remember this operation, do not remind anymore"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "!"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "&Enlarge symbol"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "&None"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "&Shrink text"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "&Text:"
+msgstr "&Metin:"
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "1"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "21"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "A"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "Encl&osure:"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "Enclose Characters"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "Enclosure"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "Style"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "a"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "一"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "印"
+msgstr ""
+
+msgctxt "KxDlgEncloseCharacters|"
+msgid "壹"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "&Field names:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "&Number format:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "&Paste function:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "&Style name:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "&Table area:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "ABOVE"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "ABS"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "AND"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "AVERAGE"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Assistant:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "BELOW"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "COUNT"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Click the button below to set advanced field options"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "DEFINED"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Description:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Document &property:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Examples:\n"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "FALSE"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Field &codes:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Field properties"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Fields"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "IF"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "INT"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "LEFT"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "MAX"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "MIN"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "MOD"
+msgstr "MOD"
+
+msgctxt "KxDlgField|"
+msgid "NOT"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "OR"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "PRODUCT"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Paste &bookmark:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Please choose a field"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Preser&ve formatting during updates"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Preview:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "RIGHT"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "ROUND"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "SIGN"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "SUM"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "TRUE"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Table of Contents..."
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Insert para&graph number:"
+msgstr ""
+
+msgctxt "KxDlgField|"
+msgid "Suppress all non_&delimiter chars:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter bookmark name:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter endnote number:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter equation number:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter field name:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter footnote number:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter graphic number:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter heading number:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter line number:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter object name:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter page number:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter reviewer's name:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter section number:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Enter table number:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Find Next"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Go To"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&More"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Options..."
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Reading Highlight"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Replace"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "&Use wildcards"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Bookmark"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxDlgFindReplace|"
+msgid "Comment"
+msgstr "Açıklama"
+
+msgctxt "KxDlgFindReplace|"
+msgid "Endnote"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Equation"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "F&ormat"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Fi&nd what:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Field"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Fin&d"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Find &In"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Find Previous(&B)"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Find and Replace"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Find whole words onl&y"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Footnote"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Format Label"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Format:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "G&o to what:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Graphic"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Heading"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Ignore punctuation character&s"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Ignore white-sp&ace characters"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Line"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Ma&tch suffix"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Matc&h case"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Match Case"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Match half/full for&ms"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Match prefi&x"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Nex&t"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Object"
+msgstr "Nesne"
+
+msgctxt "KxDlgFindReplace|"
+msgid "Page"
+msgstr "Sayfa"
+
+msgctxt "KxDlgFindReplace|"
+msgid "Previou&s"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Re&place"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Replace &All"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Replace w&ith:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Sear&ch:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Search options:"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Section"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Sounds Like(&Japanese)"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Sp&ecial"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "Table"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "find options"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "find result"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid "replace options"
+msgstr ""
+
+msgctxt "KxDlgFindReplace|"
+msgid ""
+"Enter + and - to move relative to the current location. \n"
+"Example: +4 will move forward four items:"
+msgstr ""
+
+msgctxt "KxDlgFindStyle|"
+msgid "Description"
+msgstr ""
+
+msgctxt "KxDlgFindStyle|"
+msgid "Find Style"
+msgstr ""
+
+msgctxt "KxDlgFindStyle|"
+msgid "find text"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&All caps"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&By:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Default..."
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Emboss"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Font:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Hidden"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Kerning for fonts:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Outline"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Position:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Size:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Spacing:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Underline style:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "All text"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Asian text fo&nt:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "B&y:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Complex scripts"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Condensed"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Double strikethrou&gh"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Effects"
+msgstr "Efektler"
+
+msgctxt "KxDlgFont|"
+msgid "Emphasis mark&:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Engra&ve"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Expanded"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Fo&nt"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Font"
+msgstr "Yazıtipi"
+
+msgctxt "KxDlgFont|"
+msgid "Font &color:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Font st&yle:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Font sty&le:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Latin text &font:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Lowered"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "KxDlgFont|"
+msgid "Raised"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "S&cale:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "S&mall caps"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Shado&w"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Si&ze:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Snap to grid &when document grid is defined"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Stri&kethrough"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Su&bscript"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Su&perscript"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Underl&ine color:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "p&oints and above"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid ""
+"This is a TrueType font. This same font will be used on both your printer "
+"and your screen."
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Cha&racter Spacing"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "&Convert..."
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "&Endnotes:"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "&Footnotes:"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "&Insert"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "&Number format:"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "&Start at:"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "A&pply changes to:"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "Apply changes"
+msgstr "Değişiklikleri uygula"
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "Below text"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "Bottom of page"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "C&ustom mark:"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "Continuous"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "End of document"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "End of section"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "Footnote and Endnote"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "Format"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "Location"
+msgstr "Konum"
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "Nu&mbering:"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "Restart each page"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "Restart each section"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "S&quare Bracket Format:"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "S&ymbol..."
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "Whole document"
+msgstr ""
+
+msgctxt "KxDlgFootAndEndnote|"
+msgid "[1],[2],[3],..."
+msgstr ""
+
+msgctxt "KxDlgFormatRestrictions|"
+msgid " &Limit > "
+msgstr ""
+
+msgctxt "KxDlgFormatRestrictions|"
+msgid " < &Allow "
+msgstr ""
+
+msgctxt "KxDlgFormatRestrictions|"
+msgid " << All&ow All "
+msgstr ""
+
+msgctxt "KxDlgFormatRestrictions|"
+msgid " Limit All(&R) >> "
+msgstr ""
+
+msgctxt "KxDlgFormatRestrictions|"
+msgid ""
+"By restricting formatting to the styles you select,you prevent the ability "
+"to modify styles and the ability to apply direct formatting to the "
+"document.Select the styles you want to allow to be used in this document."
+msgstr ""
+
+msgctxt "KxDlgFormatRestrictions|"
+msgid "Formatting Restrictions"
+msgstr ""
+
+msgctxt "KxDlgFormatRestrictions|"
+msgid "R&estrictions on the styles:"
+msgstr ""
+
+msgctxt "KxDlgFormatRestrictions|"
+msgid "Show(&D):"
+msgstr ""
+
+msgctxt "KxDlgFormatRestrictions|"
+msgid "Styles"
+msgstr ""
+
+msgctxt "KxDlgFormatRestrictions|"
+msgid "Styles are currently allowed(&P):"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "&Grid:"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "&Landscape"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "&Style:"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "&Use Asian rules for controlling first and last characters"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "10 x 20 (200 Words)"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "15 x 20 (300 Words)"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "20 x 20 (400 Words)"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "20 x 25 (500 Words)"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "Allow ha&nging punctuation"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "Border"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "En&able Genko Grid Lines"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "Genko Setting"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "Grid"
+msgstr "Izgara"
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "Grid &color:"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "Line break"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "Orientation"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "Page"
+msgstr "Sayfa"
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "Paper si&ze:"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "Por&trait"
+msgstr ""
+
+msgctxt "KxDlgGenkoSetting|"
+msgid "UnderLine"
+msgstr ""
+
+msgctxt "KxDlgHelpStatusText|"
+msgid "&None"
+msgstr ""
+
+msgctxt "KxDlgHelpStatusText|"
+msgid "&Status Bar"
+msgstr ""
+
+msgctxt "KxDlgHelpStatusText|"
+msgid "&Type your own:"
+msgstr ""
+
+msgctxt "KxDlgHelpStatusText|"
+msgid "Form Field Help Text"
+msgstr ""
+
+msgctxt "KxDlgHelpStatusText|"
+msgid "Help &Key(F1)"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "&Align paragraph borders and table edges with page border"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "A&lways display in front"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "Border and Shading Options"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "Botto&m:"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "From text"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "L&eft:"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "Measu&re from:"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "Options"
+msgstr "Seçenekler"
+
+msgctxt "KxDlgInnerOptions|"
+msgid "Page margin"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "KxDlgInnerOptions|"
+msgid "Ri&ght:"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "Surround &footer"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "Surround &header"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "T&op:"
+msgstr ""
+
+msgctxt "KxDlgInnerOptions|"
+msgid "Text"
+msgstr ""
+
+msgctxt "KxDlgInsertCells|"
+msgid "Insert Cells"
+msgstr ""
+
+msgctxt "KxDlgInsertCells|"
+msgid "Insert entire &column"
+msgstr ""
+
+msgctxt "KxDlgInsertCells|"
+msgid "Insert entire &row"
+msgstr ""
+
+msgctxt "KxDlgInsertCells|"
+msgid "Shift cells &down"
+msgstr ""
+
+msgctxt "KxDlgInsertCells|"
+msgid "Shift cells r&ight"
+msgstr ""
+
+msgctxt "KxDlgInsertDateTime|"
+msgid "&Available formats:"
+msgstr ""
+
+msgctxt "KxDlgInsertDateTime|"
+msgid "&Default..."
+msgstr ""
+
+msgctxt "KxDlgInsertDateTime|"
+msgid "&Language:"
+msgstr ""
+
+msgctxt "KxDlgInsertDateTime|"
+msgid "&Update automatically"
+msgstr ""
+
+msgctxt "KxDlgInsertDateTime|"
+msgid "Date and Time"
+msgstr ""
+
+msgctxt "KxDlgInsertDateTime|"
+msgid "Use full &width characters"
+msgstr ""
+
+msgctxt "KxDlgInsertMergeField|"
+msgid "&Address fields"
+msgstr ""
+
+msgctxt "KxDlgInsertMergeField|"
+msgid "&Database fields"
+msgstr ""
+
+msgctxt "KxDlgInsertMergeField|"
+msgid "&Fields:"
+msgstr ""
+
+msgctxt "KxDlgInsertMergeField|"
+msgid "&Insert"
+msgstr ""
+
+msgctxt "KxDlgInsertMergeField|"
+msgid "&Match Fields..."
+msgstr ""
+
+msgctxt "KxDlgInsertMergeField|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxDlgInsertMergeField|"
+msgid "Field Name"
+msgstr ""
+
+msgctxt "KxDlgInsertMergeField|"
+msgid "Insert Merge Field"
+msgstr ""
+
+msgctxt "KxDlgInsertMergeField|"
+msgid "Insert:"
+msgstr ""
+
+msgctxt "KxDlgInsertMergeField|"
+msgid "Match Fields"
+msgstr ""
+
+msgctxt "KxDlgInsertNumber|"
+msgid "&Number"
+msgstr ""
+
+msgctxt "KxDlgInsertNumber|"
+msgid "Number"
+msgstr "Numara"
+
+msgctxt "KxDlgInsertNumber|"
+msgid "Number &Type"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "AutoFit behavior"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "Fixed column &width:"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "Insert Table"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "Number of &columns:"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "Number of &rows:"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "Remember dimen&sions for new tables"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "Table size"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "pt, 2, -2.14748e+09, 2.14748e+09, 10"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "Auto column width(&F)"
+msgstr ""
+
+msgctxt "KxDlgInsertTableRows|"
+msgid "&Above selection Row"
+msgstr ""
+
+msgctxt "KxDlgInsertTableRows|"
+msgid "&Below selection Row"
+msgstr ""
+
+msgctxt "KxDlgInsertTableRows|"
+msgid "&Number of rows:"
+msgstr ""
+
+msgctxt "KxDlgInsertTableRows|"
+msgid "Insert Rows"
+msgstr ""
+
+msgctxt "KxDlgInsertTableRows|"
+msgid "Insert location:"
+msgstr ""
+
+msgctxt "KxDlgLineNumbering|"
+msgid "&Continuous"
+msgstr ""
+
+msgctxt "KxDlgLineNumbering|"
+msgid "Add &line numbering"
+msgstr ""
+
+msgctxt "KxDlgLineNumbering|"
+msgid "Count &by:"
+msgstr ""
+
+msgctxt "KxDlgLineNumbering|"
+msgid "From &text:"
+msgstr ""
+
+msgctxt "KxDlgLineNumbering|"
+msgid "Line Number Options"
+msgstr ""
+
+msgctxt "KxDlgLineNumbering|"
+msgid "Numbering:"
+msgstr ""
+
+msgctxt "KxDlgLineNumbering|"
+msgid "Restart each &page"
+msgstr ""
+
+msgctxt "KxDlgLineNumbering|"
+msgid "Restart each &section"
+msgstr ""
+
+msgctxt "KxDlgLineNumbering|"
+msgid "Start &at:"
+msgstr ""
+
+msgctxt "KxDlgLineNumbering|"
+msgid "buttonGroup_mode"
+msgstr ""
+
+msgctxt "KxDlgLineNumbering|"
+msgid "mm"
+msgstr ""
+
+msgctxt "KxDlgMailMergeRecipients|"
+msgid "&List of recipients:"
+msgstr ""
+
+msgctxt "KxDlgMailMergeRecipients|"
+msgid "&Refresh"
+msgstr ""
+
+msgctxt "KxDlgMailMergeRecipients|"
+msgid "&Select All"
+msgstr "&Tümünü Seç"
+
+msgctxt "KxDlgMailMergeRecipients|"
+msgid "Clear &All"
+msgstr ""
+
+msgctxt "KxDlgMailMergeRecipients|"
+msgid "Mail Merge Recipients"
+msgstr ""
+
+msgctxt "KxDlgMailMergeRecipients|"
+msgid ""
+"Use the check boxes or buttons to add or remove recipients from the mail "
+"merge."
+msgstr ""
+
+msgctxt "KxDlgMailMergeTable|"
+msgid "Select Table"
+msgstr ""
+
+msgctxt "KxDlgMailMergeTable|"
+msgid "button"
+msgstr ""
+
+msgctxt "KxDlgMailMergeTable|"
+msgid "dialog"
+msgstr ""
+
+msgctxt "KxDlgMailMergeTable|"
+msgid "table"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Address 1"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Address 2"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Address 3"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Business fax"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Business phone"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "City"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Company"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Country or Region"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Courtesy title"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Department"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "E-mail address"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "First name"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Home fax"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Home phone"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Job title"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Last name"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Match Fields"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Middle name"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Nickname"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Optional information"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Phonetic guide for first name"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Phonetic guide for last name"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Postal code"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Required information"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Spouse courtesy title"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Spouse first name"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Spouse last name"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Spouse middle name"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Spouse nickname"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "State"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Suffix"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Unique identifier"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid ""
+"Use the drop-down lists to choose the field from your database that "
+"corresponds to the address information Mail Merge expects (listed on the "
+"left.)"
+msgstr ""
+
+msgctxt "KxDlgMatchFields|"
+msgid "Web page "
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "&All"
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "&From:"
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "&Modify..."
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "&to:"
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "As new documents' filename"
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "Curr&ent record"
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "File location&s:"
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "Merge options"
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "Merge records"
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "Merge to Different New Document"
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "Save as ty&pe:"
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "Use field &name:"
+msgstr ""
+
+msgctxt "KxDlgMergeToDiffNewDoc|"
+msgid "&Open folder after merge"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "&All"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "&From:"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "&Mail format:"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "&Subject line:"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "&To:"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "Attachment"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "Curr&ent record"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "Merge to E-mail"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "Message options"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "Pure text"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "Send records"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "T&o:"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "cbxMailFormat"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "cbxMessageTo"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "edFrom"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "edSubjectLine"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "edTo"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "rbAll"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "rbCurrentRecord"
+msgstr ""
+
+msgctxt "KxDlgMergeToEmail|"
+msgid "rbFromto"
+msgstr ""
+
+msgctxt "KxDlgMergeToNewDocOrPrinter|"
+msgid "&All"
+msgstr ""
+
+msgctxt "KxDlgMergeToNewDocOrPrinter|"
+msgid "&From:"
+msgstr ""
+
+msgctxt "KxDlgMergeToNewDocOrPrinter|"
+msgid "&to:"
+msgstr ""
+
+msgctxt "KxDlgMergeToNewDocOrPrinter|"
+msgid "Curr&ent record"
+msgstr ""
+
+msgctxt "KxDlgMergeToNewDocOrPrinter|"
+msgid "Merge records"
+msgstr ""
+
+msgctxt "KxDlgModifyStyle|"
+msgid "&Add to template"
+msgstr ""
+
+msgctxt "KxDlgModifyStyle|"
+msgid "&Name:"
+msgstr "&İsim:"
+
+msgctxt "KxDlgModifyStyle|"
+msgid "&Style for following paragraph:"
+msgstr ""
+
+msgctxt "KxDlgModifyStyle|"
+msgid "(All scripts)"
+msgstr ""
+
+msgctxt "KxDlgModifyStyle|"
+msgid "Asian"
+msgstr ""
+
+msgctxt "KxDlgModifyStyle|"
+msgid "Character"
+msgstr "Karakter"
+
+msgctxt "KxDlgModifyStyle|"
+msgid "F&ormat"
+msgstr ""
+
+msgctxt "KxDlgModifyStyle|"
+msgid "Formatting"
+msgstr ""
+
+msgctxt "KxDlgModifyStyle|"
+msgid "Latin"
+msgstr ""
+
+msgctxt "KxDlgModifyStyle|"
+msgid "Modify Style"
+msgstr ""
+
+msgctxt "KxDlgModifyStyle|"
+msgid "Paragraph"
+msgstr ""
+
+msgctxt "KxDlgModifyStyle|"
+msgid "Properties"
+msgstr "Özellikler"
+
+msgctxt "KxDlgModifyStyle|"
+msgid "Style &based on:"
+msgstr ""
+
+msgctxt "KxDlgModifyStyle|"
+msgid "Style &type:"
+msgstr ""
+
+msgctxt "KxDlgMultidiagonalCell|"
+msgid "&Merge selected cells"
+msgstr ""
+
+msgctxt "KxDlgMultidiagonalCell|"
+msgid "Multidiagonal Cell Style"
+msgstr ""
+
+msgctxt "KxDlgNewLabel|"
+msgid "&Label:"
+msgstr ""
+
+msgctxt "KxDlgNewLabel|"
+msgid "New Label"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "&Add to template"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "&Name:"
+msgstr "&İsim:"
+
+msgctxt "KxDlgNewStyle|"
+msgid "&Style for following paragraph:"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "(All scripts)"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "Asian"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "Character"
+msgstr "Karakter"
+
+msgctxt "KxDlgNewStyle|"
+msgid "F&ormat"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "Formatting"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "Latin"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "New Style"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "Paragraph"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "Properties"
+msgstr "Özellikler"
+
+msgctxt "KxDlgNewStyle|"
+msgid "Style &based on:"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "Style &type:"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "buttonBoxn"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "cbxAddToTemplaten"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "cbxStyleBaseOn"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "cbxStyleFollow"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "cbxStyleType"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "edStyleName"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "groupBox"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "groupBox_2"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "label"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "label_2"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "label_3"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "label_4"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "lbFontName_3n"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "lbFontNamen"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "lbLineSpacen"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "lbMoven"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "pmbFormatn"
+msgstr ""
+
+msgctxt "KxDlgNewStyle|"
+msgid "scPreview"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "#"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Advanced..."
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Auto numbered lists"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Autofit the tab width"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Beginning of paragraph applies first line indent"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Bookmarks"
+msgstr "&Yer İmleri"
+
+msgctxt "KxDlgOptions|"
+msgid "&Color:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Comments"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Compress only punctuation"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Create backup file at the first save"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Default paste format:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Deletions:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Do not compress"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Do not embed common system fonts"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Document tab"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Double-click the tab to close a document"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Field codes"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&File types:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Highlight"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Hyperlink Internet or network path"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Initials:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Insertions:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid ""
+"&Just embed characters used in the document (best for reducing file size)"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Latin text only"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Mailing address:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Margin:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Measurement units:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Modify..."
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Name:"
+msgstr "&İsim:"
+
+msgctxt "KxDlgOptions|"
+msgid "&New Document"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Paper orientation:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Print only the data from a form"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Punctuation characters"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Recently used file list:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Reenter password:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Reverse print order"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Show lines connecting to text"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Smart Backup"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Spaces"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Standard"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Tab characters"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Update fields"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Warn me when closing all tabs"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Web page encoding:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&Whitespace characters"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "&entries"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "(None)"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid ", 5, 5.93628e+175, 1.26297e-306, 2.64983e+180"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "A&ll"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "A&lways suggest corrections"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "A&uto circle number"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid ""
+"Adjust the security level for opening files that might contain macro viruses "
+"and specify the names of trusted macro developers."
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Always"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Asian Typography"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Auto convert straight &quote to smart quote"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Auto d&elete paragraph indent when align center"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Auto load default language &IME"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid ""
+"Auto-adjust the space &format at the end of lines which are aligned right"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "AutoCorrect"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "AutoFormat"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "B&ack of the sheet"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Balloons"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Bl&ue background, white text"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Bold"
+msgstr "Kalın"
+
+msgctxt "KxDlgOptions|"
+msgid "Boo&kmarks"
+msgstr "Yer İml&eri"
+
+msgctxt "KxDlgOptions|"
+msgid "C&annot start line:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "C&olor:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Cann&ot end line:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Capitalize first letter of &sentences"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Capitalize names of days of the &week"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Centimeters"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Ch&anged lines:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Character spacing control"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Check s&pelling as you type"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Click and type"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Co&lor:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Color only"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Comments colo&r:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Convert c&ustom styles to bookmarks"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Convert other &styles to bookmarks"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Convert titl&e styles to bookmarks"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Correct accidental usage of Caps &Lock key"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Custo&m"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Custom &Dictionaries..."
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Cut and paste options"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "D&rag-and-drop text editing"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Default &paragraph style:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Discern &location"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Discern &person"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Display the &Close button in the active tab"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Display the &tab bar at the top of document"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Display the tab bar at the bottom of doc&ument"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Do not print hidden text"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Do not show"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Document Tabs"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Document ma&p:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Document passw&ord:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Document switch mode"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Double underline"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Drawing &objects"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Edit"
+msgstr "Düzenle"
+
+msgctxt "KxDlgOptions|"
+msgid "Editing options"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Embed &TrueType"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Enable &click and type"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Enable &timing backup"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Export options"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Export to PDF"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Fi&eld shading:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "File Locations"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "File encryption options for this document"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "File sharing options for this document"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "First and last characters"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Fixed ta&b width"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Formatted text"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Formatting marks"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Free printing"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Front of the &sheet"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "General and Save"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "General options"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "H&idden text"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "H&idden text:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Help us to improve WPS Office"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Hidden"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Hide &blank"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Home Pa&ge"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Hyper&link"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Ignore"
+msgstr "Yoksay"
+
+msgctxt "KxDlgOptions|"
+msgid "Ignore Internet and &network paths"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Ignore words in &uppercase"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Ignore words with num&bers"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Inches"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Include with document"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Insert/paste pictures as(&Z):"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Invisible"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Italic"
+msgstr "Yatık"
+
+msgctxt "KxDlgOptions|"
+msgid "Japanese Find"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Kerning"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Latin text and &punctuation"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Left"
+msgstr "Sol"
+
+msgctxt "KxDlgOptions|"
+msgid "Left border"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Link of &footnotes and endnotes"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Location:"
+msgstr "Konum:"
+
+msgctxt "KxDlgOptions|"
+msgid "Low-quality printing"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Macro security"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Macros &Security..."
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Make hidden markup &visible when opening or saving"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Markup"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match &ba/va, ha/fa"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match &case"
+msgstr "&Büyük/küçük harf duyarlı"
+
+msgctxt "KxDlgOptions|"
+msgid "Match &full/half width form"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match &hiragana/katakana"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match &ki/ku (tekisuto/tekusuto)"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match &minus/dash/cho-on"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match '&repeat character' marks"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match c&ontractions(yo-on, sokunon)"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match cho-on &used for vowels"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match di/&zi, du/zu"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match h&yu/iyu, byu/vyu"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match i&a/iya (piano/piyano)"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match se/she, ze/&je"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Match t&si/thi/chi, dhi/zi"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Matching the current format"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Max U&ndo/Redo:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Millimeters"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "N&umbering color:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Never"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Ob&ject anchors"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Options"
+msgstr "Seçenekler"
+
+msgctxt "KxDlgOptions|"
+msgid "Options for current document only"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Options for duplex printing"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Other Options"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Outside border"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "P&rinting permission"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Paragraph &marks"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Password to &modify:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Permission settings"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Permit to add co&mments"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Permit to cop&y"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Permit to mo&dify"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Points"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Preferred &width:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Preferred Width"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Preserve"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Print"
+msgstr "Yazdır"
+
+msgctxt "KxDlgOptions|"
+msgid "Print hidden text"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Print options"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Print space of hidden text"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Printing (with balloons)"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Printing not allowed"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Printing options"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Privacy"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Privacy options"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Recent documents"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Recover options"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Reenter &password:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Replace &ordinals with superscript"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Right"
+msgstr "Sağ"
+
+msgctxt "KxDlgOptions|"
+msgid "Right border"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Save"
+msgstr "Kaydet"
+
+msgctxt "KxDlgOptions|"
+msgid "Save &files as default:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Save backup f&ile every:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Scree&nTips"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Security"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Show"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Show &spelling errors ignored in this document"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Show all revisions inline"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Show au&thor:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Show full name"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Show initials"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Show pas&te options buttons"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Show revisions in balloons"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Smart Backup"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Sta&rtup task window"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Start With"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Start With:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Stat&us bar"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Steps(Need restart program)"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Strikethrough"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Summary &information"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Tab display position"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Taskb&ar"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Te&xt boundaries"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Track Changes"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Treat as equal"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Underline"
+msgstr "Altıçizili"
+
+msgctxt "KxDlgOptions|"
+msgid "Unformatted text"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Use &balloons:"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Use c&haracter units"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Use smart para&graph selection"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Use the recommended width(&F)"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "User Information"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Verti&cal ruler"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "View"
+msgstr "Görünüm"
+
+msgctxt "KxDlgOptions|"
+msgid "Web page"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "^"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "ch"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "ch, 0, 0, 100, 1"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "ch, 0, 0, 120, 1"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "mi&nutes"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "pt, 0, 0, 898.75, 1"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Show revisor information in balloons"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid ""
+"Enter a password below to protect this document.\n"
+"The Advanced button allows you to choose from different encryption types."
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Security threats"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Spell Check"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Tab style"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Double-click in the space to create a &new document"
+msgstr ""
+
+msgctxt "KxDlgOptions|"
+msgid "Press Ctrl+Tab to &switch tabs"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "&Continue from previous section"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "&Less"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "&Position:"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "&Show numher on first page"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Ali&gnment:"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Appl&y to:"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Applied to the entire document"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Applied to this section"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Bottom of page(Footer)"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Inside"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Left"
+msgstr "Sol"
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Middle"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Number &format:"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Outside"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Page Numbers"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Page numbering"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Right"
+msgstr "Sağ"
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Start &at:"
+msgstr ""
+
+msgctxt "KxDlgPageNumbers|"
+msgid "Top of page(Header)"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Apply to:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Borders...."
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Bottom:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Default..."
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Equal column width"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&First page:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Footer:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Gutter width:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Header:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Left"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Left:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Measurement units:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&No grid"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Number of columns:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&One"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Other pages:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Portrait"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Right"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Right:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Three"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Top:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Vertical"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Width:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "(1-40)"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "(1-44)"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "12"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "16"
+msgstr "16"
+
+msgctxt "KxDlgPageSetup|"
+msgid "20"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "24"
+msgstr "24"
+
+msgctxt "KxDlgPageSetup|"
+msgid "28"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "32"
+msgstr "32"
+
+msgctxt "KxDlgPageSetup|"
+msgid "36"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "4"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "40"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "8"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "All"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Appl&y to:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Book fold"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Centimeters"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Characters"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Columns"
+msgstr "Sütunlar"
+
+msgctxt "KxDlgPageSetup|"
+msgid "Continuous"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Different &odd and even"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Different first &page"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Direction:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Document Grid"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Dra&wing Grid..."
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Even page"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "From edge:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "G&utter position:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "General options"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Grid"
+msgstr "Izgara"
+
+msgctxt "KxDlgPageSetup|"
+msgid "H&eight:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Headers and footers"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Hori&zontal"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Inches"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Land&scape"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Layout"
+msgstr "Yerleştirme"
+
+msgctxt "KxDlgPageSetup|"
+msgid "Left"
+msgstr "Sol"
+
+msgctxt "KxDlgPageSetup|"
+msgid "Line &between"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Lines"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Margins"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Millimeters"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Mirror margins"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "New page"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Odd page"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Orientation"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "P&er line:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Page Setup"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Page source"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Pages"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Pape&r size"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Paper"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Pe&r page:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Points"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Presets"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "KxDlgPageSetup|"
+msgid "Print Op&tions...."
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Reverse book fold"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Section"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Section sta&rt:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Set &Font...."
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Specify line and c&haracter grid"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Specify line grid &only"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Start new col&umn"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "T&wo"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Te&xt snaps to character grid"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Text flow"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Top"
+msgstr "En Yukarı"
+
+msgctxt "KxDlgPageSetup|"
+msgid "Use &character units"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Width and spacing"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Multiple pages:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Sheets per boo&klet:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "&At:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "&Before:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "&Indents and Spacing"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "&Keep lines together"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "&Outline level:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "&Special:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "&Tabs..."
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "&Use Asian rules for controlling first and last characters"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "(None)"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "1.5 Lines"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "A&llow punctuation at the start of a line to compress"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Aft&er:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "After te&xt:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Ali&gnment:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Allow Latin text to &wrap in the middle of a word"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Allow ha&nging punctuation"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "At least"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Automatically a&djust right indent when document grid is defined"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Automatically adjust &space between Asian text and numbers"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Automatically adjust spac&e between Asian and Latin text"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "B&y:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Baseline"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Befo&re text:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Body text"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Bottom"
+msgstr "En Aşağı"
+
+msgctxt "KxDlgParagraph|"
+msgid "Center"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Centered"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Character spacing"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Direction:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Distributed"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Double"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Exactly"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "First line"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "General"
+msgstr "Genel"
+
+msgctxt "KxDlgParagraph|"
+msgid "Hanging"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Indentation"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Justified"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Keep with ne&xt"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "L&ine spacing:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Left"
+msgstr "Sol"
+
+msgctxt "KxDlgParagraph|"
+msgid "Level 1 "
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Level 2 "
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Level 3 "
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Level 4 "
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Level 5 "
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Level 6 "
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Level 7 "
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Level 8 "
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Level 9 "
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Line and &Page Breaks"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Line break"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Multiple"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Multiple, 2, 0.06, 132, 0.5"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Page &break before"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Pagination"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Paragraph"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "KxDlgParagraph|"
+msgid "Right"
+msgstr "Sağ"
+
+msgctxt "KxDlgParagraph|"
+msgid "Single"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Snap to grid &when document grid is defined"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Spacing"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Text &alignment:"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Top"
+msgstr "En Yukarı"
+
+msgctxt "KxDlgParagraph|"
+msgid "Widow/Orphan &control"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "auto, 1, -10, 10, 1"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "ch, 2, -316.8, 316.8, 0.5"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "ch, 2, 0, 316.8, 0.5"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "line, 2, 0, 316.8, 0.5"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "pt, 2, -1584, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "pt, 2, 0, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "pt, 2, 0, 1584, 6"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "Right-to-le&ft"
+msgstr ""
+
+msgctxt "KxDlgParagraph|"
+msgid "&Left-to-right"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "&Base text:  "
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "&Default Readings"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "&Font:"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "&Group"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "&Mono"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "&Offset:"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "&Ruby text:   "
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "&Size:"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "&Tone"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "A&lignment:"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "Centered"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "Change All..."
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "Left"
+msgstr "Sol"
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "Phonetic Guide"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "Preview "
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "Remo&ve All "
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "Right"
+msgstr "Sağ"
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "pt"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "0-1-0"
+msgstr ""
+
+msgctxt "KxDlgPhoneticGuide|"
+msgid "1-2-1"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "&All"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "&Draw line between pages "
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "&Options..."
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "&Repeat"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "1 Page"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "16 Pages"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "2 Pages"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "32 Pages"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "4 Pages"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "6 Pages"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "8 Pages"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "9 Pages"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "All pages in range"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "C&urrent page"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Colla&te"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Copies"
+msgstr "Kopya"
+
+msgctxt "KxDlgPrint|"
+msgid "Even pages"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "From le&ft to right"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "From top to &bottom"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Num&ber of copies:"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Odd pages"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Order"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Pa&ges:"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Page range"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Pages per s&heet:"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Pri&nt:"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Print"
+msgstr "Yazdır"
+
+msgctxt "KxDlgPrint|"
+msgid "S&election"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Scale to paper si&ze:"
+msgstr ""
+
+msgctxt "KxDlgPrint|"
+msgid "Zoom"
+msgstr "Büyütme/Küçültme"
+
+msgctxt "KxDlgPrint|"
+msgid ""
+"Enter page numbers and/or page ranges separated by commas. For example, "
+"1,3,5-12."
+msgstr ""
+
+msgctxt "KxDlgProtectDocument|"
+msgid "&Enter new passowrd(optional):"
+msgstr ""
+
+msgctxt "KxDlgProtectDocument|"
+msgid "Protection password"
+msgstr ""
+
+msgctxt "KxDlgProtectDocument|"
+msgid "Reenter &password to confirm:"
+msgstr ""
+
+msgctxt "KxDlgProtectDocument|"
+msgid "Start Protection"
+msgstr ""
+
+msgctxt "KxDlgProtectDocument|"
+msgid ""
+"The document is not encrypted. Malicious users can edit the file and remove "
+"the password."
+msgstr ""
+
+msgctxt "KxDlgSectionProtect|"
+msgid ""
+"Checked sections will be protected when the document is protected for Forms."
+msgstr ""
+
+msgctxt "KxDlgSectionProtect|"
+msgid "Protected &Sections:"
+msgstr ""
+
+msgctxt "KxDlgSectionProtect|"
+msgid "Section Protection"
+msgstr ""
+
+msgctxt "KxDlgSpiltCells|"
+msgid "&Merge cells before split"
+msgstr ""
+
+msgctxt "KxDlgSpiltCells|"
+msgid "Number of &columns:"
+msgstr ""
+
+msgctxt "KxDlgSpiltCells|"
+msgid "Number of &rows:"
+msgstr ""
+
+msgctxt "KxDlgSpiltCells|"
+msgid "Split Cells"
+msgstr ""
+
+msgctxt "KxDlgStyleShortCutBind|"
+msgid "Assign"
+msgstr ""
+
+msgctxt "KxDlgStyleShortCutBind|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxDlgStyleShortCutBind|"
+msgid "Press key"
+msgstr ""
+
+msgctxt "KxDlgStyleShortCutBind|"
+msgid "ShortCut Key"
+msgstr ""
+
+msgctxt "KxDlgStyleShortCutBind|"
+msgid "ShortCut key:"
+msgstr ""
+
+msgctxt "KxDlgTableOptions|"
+msgid "&Bottom:"
+msgstr ""
+
+msgctxt "KxDlgTableOptions|"
+msgid "&Left:"
+msgstr ""
+
+msgctxt "KxDlgTableOptions|"
+msgid "&Right:"
+msgstr ""
+
+msgctxt "KxDlgTableOptions|"
+msgid "&Top:"
+msgstr ""
+
+msgctxt "KxDlgTableOptions|"
+msgid "Allow &spacing between cells"
+msgstr ""
+
+msgctxt "KxDlgTableOptions|"
+msgid "Default cell margins"
+msgstr ""
+
+msgctxt "KxDlgTableOptions|"
+msgid "Default cell spacing"
+msgstr ""
+
+msgctxt "KxDlgTableOptions|"
+msgid "Table Options"
+msgstr ""
+
+msgctxt "KxDlgTableOptions|"
+msgid "pt, -1, 0, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "&Alignment"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "&Bottom:"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "&Left:"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "&Move with text"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "&Right:"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "&Top:"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Absolute &position"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Absolute po&sition"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Al&ignment"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Allow &overlap"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Bottom"
+msgstr "En Aşağı"
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Center"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Column"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Distance from surrounding text"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Horizontal"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Inside"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Left"
+msgstr "Sol"
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Margin"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Options"
+msgstr "Seçenekler"
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Outside"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Page"
+msgstr "Sayfa"
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Paragraph"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "R&elative to:"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Relati&ve to:"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Right"
+msgstr "Sağ"
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Table Positioning"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Top"
+msgstr "En Yukarı"
+
+msgctxt "KxDlgTablePositioning|"
+msgid "Vertical"
+msgstr "Dikey"
+
+msgctxt "KxDlgTablePositioning|"
+msgid "pt, -2, -1584, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgTablePositioning|"
+msgid "pt, -2, 0, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Around"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Borders and Shading..."
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Bottom"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Center"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Indent from left:"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Left"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Next Column"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Next Row"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&None"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Options..."
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Positioning..."
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Previous Column"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Previous Row"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Repeat as &header row at the top of each page"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Row"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Specify height:"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "&Table"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Alignment"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Allow row to brea&k across pages"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "At least"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "C&ell"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Col&umn"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Columns 1-5:"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Exactly"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Options"
+msgstr "Seçenekler"
+
+msgctxt "KxDlgTableProperties|"
+msgid "Preferred &width:"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Rig&ht"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Row height &is:"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Rows 1-4:"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Size"
+msgstr "Boyut"
+
+msgctxt "KxDlgTableProperties|Cell"
+msgid "Size"
+msgstr "Boyut"
+
+msgctxt "KxDlgTableProperties|"
+msgid "Table Properties"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Text wrapping"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "To&p"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "Vertical alignment"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "pt, 1, -1080, 1080, 1"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "pt, 1, 0, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "pt, 1, 1, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgTableProperties|"
+msgid "pt, 1, 4.5, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "&1 None"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "&2 ....."
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "&3 ----"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "&4 ____"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "&5"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "&Center"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "&Decimal"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "&Left"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "&Right"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "&Set"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "&Tab stop position:"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "Alignment"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "Cl&ear"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "Clear &All"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "De&fault tab stops:"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "Leader"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "Tab stops to be cleared:"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "Tabs"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "ch, 2, -150.86, 150.86, 0.5"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "ch, 2, 0, 150.86, 0.5"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "ch, pt, 10.5, 0"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "pt, 2, -1538, 1584, 1"
+msgstr ""
+
+msgctxt "KxDlgTabs|"
+msgid "pt, 2, 0, 1538, 1"
+msgstr ""
+
+msgctxt "KxDlgTextDirection|"
+msgid "&Orientation "
+msgstr ""
+
+msgctxt "KxDlgTextDirection|"
+msgid "Appl&y to:"
+msgstr ""
+
+msgctxt "KxDlgTextDirection|"
+msgid "Preview "
+msgstr ""
+
+msgctxt "KxDlgTextDirection|"
+msgid "Text direction"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "&Bookmark:"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "&Calculate on exit"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "&Maximum length:"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "&Show text input tip:"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "&edValue"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "Add Help &Text..."
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "E&xit:"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "Entr&y:"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "Field settings"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "Fill-in e&nabled"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "Run macro on"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "Text Form Field  Options"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "Ty&pe:"
+msgstr ""
+
+msgctxt "KxDlgTextFormField|"
+msgid "Text form field"
+msgstr ""
+
+msgctxt "KxDlgTwoLinesInOne|"
+msgid "&Bracket style:"
+msgstr ""
+
+msgctxt "KxDlgTwoLinesInOne|"
+msgid "&Enclose in brackets:"
+msgstr ""
+
+msgctxt "KxDlgTwoLinesInOne|"
+msgid "&Remove"
+msgstr ""
+
+msgctxt "KxDlgTwoLinesInOne|"
+msgid "&Text:"
+msgstr "&Metin:"
+
+msgctxt "KxDlgTwoLinesInOne|"
+msgid "Two Lines in One"
+msgstr ""
+
+msgctxt "KxDlgUnProtectDocument|"
+msgid "&Password:"
+msgstr "&Parola:"
+
+msgctxt "KxDlgUnProtectDocument|"
+msgid "Unprotect Document"
+msgstr ""
+
+msgctxt "KxDlgUpdateTableOfContents|"
+msgid "Update &entire table"
+msgstr ""
+
+msgctxt "KxDlgUpdateTableOfContents|"
+msgid "Update &page numbers only"
+msgstr ""
+
+msgctxt "KxDlgUpdateTableOfContents|"
+msgid "Update Table of Contents"
+msgstr ""
+
+msgctxt "KxDlgUpdateTableOfContents|"
+msgid ""
+"WPS Writer is updating the table of contents. Select one of the following "
+"options:"
+msgstr ""
+
+msgctxt "KxDlgViewFootNotes|"
+msgid "This document has footnotes and endnotes.Do you want to:"
+msgstr ""
+
+msgctxt "KxDlgViewFootNotes|"
+msgid "View &endnote area"
+msgstr ""
+
+msgctxt "KxDlgViewFootNotes|"
+msgid "View &footnote area"
+msgstr ""
+
+msgctxt "KxDlgViewFootNotes|"
+msgid "View Footnotes"
+msgstr ""
+
+msgctxt "KxDlgWpsPrintSetup|"
+msgid "&Options..."
+msgstr ""
+
+msgctxt "KxDlgWpsPrintSetup|"
+msgid "&Printer"
+msgstr ""
+
+msgctxt "KxDlgWpsPrintSetup|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxDlgWpsPrintSetup|"
+msgid "Default Printer"
+msgstr ""
+
+msgctxt "KxDlgWpsPrintSetup|"
+msgid "Print Setup"
+msgstr ""
+
+msgctxt "KxDlgWpsPrintSetup|"
+msgid "Set as &Default Printer"
+msgstr ""
+
+msgctxt "KxDlgWpsPrintSetup|"
+msgid ""
+"Setting the default printer or options will affect WPS Writer and all other "
+"Windows-based applications."
+msgstr ""
+
+msgctxt "KxDlgWpsRecordMacro|"
+msgid "&Description:"
+msgstr ""
+
+msgctxt "KxDlgWpsRecordMacro|"
+msgid "&Macro name:"
+msgstr ""
+
+msgctxt "KxDlgWpsRecordMacro|"
+msgid "&Store macro in:"
+msgstr ""
+
+msgctxt "KxDlgWpsRecordMacro|"
+msgid "Record Macro"
+msgstr ""
+
+msgctxt "KxDlgZoom|"
+msgid "%"
+msgstr "%"
+
+msgctxt "KxDlgZoom|"
+msgid "&100%"
+msgstr ""
+
+msgctxt "KxDlgZoom|"
+msgid "&200%"
+msgstr ""
+
+msgctxt "KxDlgZoom|"
+msgid "&75%"
+msgstr ""
+
+msgctxt "KxDlgZoom|"
+msgid "&Page width"
+msgstr ""
+
+msgctxt "KxDlgZoom|"
+msgid "&Smart Backup"
+msgstr ""
+
+msgctxt "KxDlgZoom|"
+msgid "&Text width"
+msgstr ""
+
+msgctxt "KxDlgZoom|"
+msgid "&Whole page"
+msgstr ""
+
+msgctxt "KxDlgZoom|"
+msgid "P&ercent:"
+msgstr ""
+
+msgctxt "KxDlgZoom|"
+msgid "Zoom"
+msgstr "Büyütme/Küçültme"
+
+msgctxt "KxDlgZoom|"
+msgid "Zoom to"
+msgstr ""
+
+#, qt-format
+msgctxt "KxDropCapDlg|"
+msgid "Number must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxDropCapDlg|"
+msgid "Number must be between 1 and 10."
+msgstr ""
+
+msgctxt "KxDropCapDlg|"
+msgid "ch"
+msgstr ""
+
+msgctxt "KxDropCapDlg|"
+msgid "cm"
+msgstr ""
+
+msgctxt "KxDropCapDlg|"
+msgid "in"
+msgstr ""
+
+msgctxt "KxDropCapDlg|"
+msgid "mm"
+msgstr ""
+
+msgctxt "KxDropCapDlg|"
+msgid "pt"
+msgstr ""
+
+#, qt-format
+msgctxt "KxDropDownFormFieldDlg|"
+msgid "Drop-down item %1 is not allowed to be empty."
+msgstr ""
+
+msgctxt "KxDropDownFormFieldDlg|"
+msgid "None"
+msgstr ""
+
+msgctxt "KxDropDownFormFieldDlg|"
+msgid "The bookmark name is not valid."
+msgstr ""
+
+msgctxt "KxDropDownFormFieldDlg|"
+msgid "You can have no more than 25 items in your drop-down list box."
+msgstr ""
+
+msgctxt "KxEditDictionaryDlg|"
+msgid "The word contains unallowable characters. We cannot handle it."
+msgstr ""
+
+msgctxt "KxEncloseCharactersDlg|"
+msgid "circleChar"
+msgstr ""
+
+msgctxt "KxEncloseCharactersDlg|"
+msgid "diamondChar"
+msgstr ""
+
+msgctxt "KxEncloseCharactersDlg|"
+msgid "squareChar"
+msgstr ""
+
+msgctxt "KxEncloseCharactersDlg|"
+msgid "triangleChar"
+msgstr ""
+
+msgctxt "KxExpUserListPanel|"
+msgid "&Find Next Region This User Can Edit"
+msgstr ""
+
+msgctxt "KxExpUserListPanel|"
+msgid "&Remove All Editing Permissions For This User"
+msgstr ""
+
+msgctxt "KxExpUserListPanel|"
+msgid "&Show All Regions This User Can Edit"
+msgstr ""
+
+msgctxt "KxExportToPDFDlg|"
+msgid "Confirmation password does not match."
+msgstr ""
+
+msgctxt "KxExportToPDFDlg|"
+msgid "PDF File(*.pdf)|*.pdf|All File(*.*)|*.*"
+msgstr ""
+
+msgctxt "KxExportToPDFDlg|"
+msgid "Permission Password and Document Open Password must be different."
+msgstr ""
+
+msgctxt "KxExportToPDFDlg|"
+msgid "Please input the password of permission setting!"
+msgstr ""
+
+msgctxt "KxExportToPDFDlg|"
+msgid "Please specify the file name."
+msgstr ""
+
+msgctxt "KxExportToPDFDlg|"
+msgid "Save Adobe PDF File As"
+msgstr ""
+
+msgctxt "KxExportToPDFDlg|"
+msgid "The directory you specified does not exist."
+msgstr ""
+
+msgctxt "KxExportToPDFDlg|"
+msgid "The file name is the same as an existing directory."
+msgstr ""
+
+msgctxt "KxExportToPDFDlg|"
+msgid ""
+"The file you specified already exists. Are you sure to replace the existing "
+"file?"
+msgstr ""
+
+msgctxt "KxExportToPDFDlg|"
+msgid "You have no permission to write files into this directory."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Encountered an error when opening PDF file!"
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Exporting PDF file is completed."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Exporting PDF file is completing..."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Exporting labels..."
+msgstr ""
+
+#, qt-format
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Exporting page %1..."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Exporting summary information..."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid ""
+"PDF Converter encountered a memory allocation problem. Please reduce "
+"document size or image size."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Preparing for exporting PDF file..."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "WPS Writer encountered an error while trying exporting to PDF."
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "&Formula:"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Create a table of contents"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "DocProperty"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "DocVariable"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Edit and calculate the formula, and displays the result in preview."
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Formula"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Heading"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Hyperlink"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "IncludePicture"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Insert a document property"
+msgstr ""
+
+msgctxt "KxFieldDlg|wps-> insert field -> mergefield"
+msgid "Insert a mail merge field"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Insert a picture from a file"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Insert an automatic sequence number"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Insert the number of the current page"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Insert the page number containing the specified bookmark"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Insert the total number of pages in the section"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Insert the value of document variable NAME"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Mark a table of contents entry"
+msgstr ""
+
+msgctxt "KxFieldDlg|wps-> insert field"
+msgid "MergeField"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "NumPages"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Open and activate the file KingSoft.wps under the C drive."
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Open and jump to the specified file"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Page"
+msgstr "Sayfa"
+
+msgctxt "KxFieldDlg|"
+msgid "PageRef"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid ""
+"Presume a picture's url is \"d:\\\\WPS.jpg\".Field code:INCLUDEPICTURE "
+"\"d:\\\\WPS.jpg\""
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Presume it is August 8 of 2008. Field code:Time \\@ yyyy-M-d"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid ""
+"Presume the KingSoft variable assignment is set as 100 in VBA. Field "
+"code:DOCVARIABLE KingSoft"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid ""
+"Presume the KingSoft.wps is in C drive. Field code:HYPERLINK "
+"C:\\\\KingSoft.wps"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid ""
+"Presume the author of this document is WPS. Field code: DOCPPROPERTY Author"
+msgstr ""
+
+msgctxt "KxFieldDlg|wps-> insert field -> mergefield"
+msgid ""
+"Presume the document has opened a database which has the \"Company\" field. "
+"Field code:MERGEFIELD \"Company\""
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid ""
+"Presume the last print date is August 8 of 2008. Field code:PrintDate \\@ "
+"yyyy-M-d"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid ""
+"Presume the page number of the bookmark myEndPage is 5. Field code:PAGEREF "
+"myEndPage"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid ""
+"Presume the position of inserting this field is in page three. Field "
+"code:PAGE \\* CHINESENUM2"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid ""
+"Presume there are 10 pages in the section where this field is inserted. "
+"Field code:SECTIONPAGES"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Presume there are 20 pages of the current document. Field code:NumPages"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid ""
+"Presume there are styles from Heading1 to Heading3 or there are outline "
+"levels from paragraph 1 to paragraph 3. Field code:ToC \\o 1-3 \\h  \\u"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "PrintDate"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "SectionPages"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Seq"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "StyleRef"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "TC"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "THREE"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "TOC"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "The current time"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid ""
+"The default inserted TC field is hidden text. To view this field, please "
+"choose Insert/Reference/Table of Contents, click Options, then select Table "
+"entry fields. Field code: TC"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "The display result of the first place. Field code:SEQ KGS"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "The number of pages in the document"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Time"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "[Picture]"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "last print time"
+msgstr ""
+
+msgctxt "KxFieldDlg|"
+msgid "Insert the text from a like-styled paragraph"
+msgstr ""
+
+#, qt-format
+msgctxt "KxFindReplaceDlg|"
+msgid "%1 is not a valid special character for the Find What box."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Clear Formatting"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Clear Highlighting"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Comments"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Endnote"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Endnote Mark"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Find What"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Font..."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Footnote"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Footnote Mark"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Headers and Footers"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Highlight"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Highlight All"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Less"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Main Document"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&More"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Paragraph Mark"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Paragraph..."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Tab Character"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Tabs..."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Text Boxes in Main Document"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid ", Ignore punctuation characters"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid ", Ignore white-space characters"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid ", Match Case"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid ", Match Prefix"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid ", Match Suffix"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid ", Sounds like(Japanese)"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid ", Use Wildcards"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid ", Whole Words"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "All"
+msgstr ""
+
+#, qt-format
+msgctxt "KxFindReplaceDlg|"
+msgid "All done. WPS Writer made %1 replacements."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "An&y Letter"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Any Di&git"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Any Field"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Any Object"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Any Reviewer"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Col&umn Break"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Current &Selection"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Current Selection"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Document"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Endnote"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Fiel&d"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Find Font"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Find Paragraph"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Find Style"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Find Tabs"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Footnote"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Format:"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Go &To"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Graph&ic"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Headers and Footers"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Highlight"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Ignore punctuation characters"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Ignore white-space characters"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Manual &Line Break"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Manual Page Brea&k"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Match Case"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Match Prefix"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Match Suffix"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Match half/full width forms"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Nex&t"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "No Highlight"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "P&aragraph Character"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Replace Font"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Replace Paragraph"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Replace Style"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Replace Tabs"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Search options:"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Section &Break"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Sounds like(English)"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Sounds like(Japanese)"
+msgstr ""
+
+#, qt-format
+msgctxt "KxFindReplaceDlg|"
+msgid "Style:%1"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Text &Boxes in Headers and Footers"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Text Boxes"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid ""
+"The Find What text contains a Pattern Match expression which is not valid."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "The bookmark does not exist or is hidden."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "The search item was not found."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Use wildcards"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "WPS Writer cannot replace the found item with text containing a break."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "WPS Writer could not determine the destination."
+msgstr ""
+
+#, qt-format
+msgctxt "KxFindReplaceDlg|"
+msgid "WPS Writer found %1 items matching this criteria"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "WPS Writer found no items matching this criteria"
+msgstr ""
+
+#, qt-format
+msgctxt "KxFindReplaceDlg|"
+msgid "WPS Writer has completed its search of %1."
+msgstr ""
+
+#, qt-format
+msgctxt "KxFindReplaceDlg|"
+msgid ""
+"WPS Writer highlighted %1 items. To clear highlighting, click Reading "
+"Highlight and then click Clear Highlighting."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Whole Words"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "[Only format]"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid ", Match Byte"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Down"
+msgstr "Aşağı"
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Up"
+msgstr "Yukarı"
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Any &Character"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Style..."
+msgstr ""
+
+msgctxt "KxFindStyleDlg|"
+msgid "  (No style)"
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "(None)"
+msgstr ""
+
+#~ msgctxt "KxFontDlg|"
+#~ msgid "(Use Asian Text Font)"
+#~ msgstr "(None)"
+
+msgctxt "KxFontDlg|"
+msgid "(Use Asian text font)"
+msgstr "(None)"
+
+msgctxt "KxFontDlg|"
+msgid "5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72"
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "Asian text fo&nt:"
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "Bold"
+msgstr "Kalın"
+
+msgctxt "KxFontDlg|"
+msgid "Bold Italic"
+msgstr ""
+
+#, qt-format
+msgctxt "KxFontDlg|"
+msgid ""
+"Do you want to change the default settings for font?\n"
+"This change will affect all new documents based on the %1 template."
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "Italic"
+msgstr "Yatık"
+
+msgctxt "KxFontDlg|"
+msgid "Latin text &font:"
+msgstr ""
+
+#, qt-format
+msgctxt "KxFontDlg|"
+msgid "Measurement must be between %1 pt and %2 pt"
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "Not Bold"
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "Not Italic"
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "Regular"
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "Save failed. Normal Template is occupied."
+msgstr ""
+
+#, qt-format
+msgctxt "KxFontDlg|"
+msgid ""
+"The font %1 is not available on your system. The text will be shown in a "
+"substitute font. Do yo want to use it anyway?"
+msgstr ""
+
+#, qt-format
+msgctxt "KxFontDlg|"
+msgid "The number must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "This font style is not available."
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid ""
+"This is a TrueType font. This font will be used on both your printer and "
+"your screen."
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "This is not a valid measurement."
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "This is not a valid number."
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid ""
+"This font has not been installed. The most similar available font will be "
+"printed."
+msgstr ""
+
+#, qt-format
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "%1"
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "(&A)"
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "Continuous"
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "In this section"
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "Restart each page"
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "Restart each section"
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "Selected text"
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "The measurement must be between 1 and 10."
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "The measurement must be between 1 and 12."
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "The measurement must be between 1 and 16383."
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "The measurement must be between 1 and 32767."
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "The measurement must be between 1 and 754."
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "The selected section"
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "WPS Writer"
+msgstr ""
+
+msgctxt "KxFootAndEndnoteDlg|"
+msgid "Whole document"
+msgstr ""
+
+msgctxt "KxFormatRestrictionsDlg|"
+msgid "All styles"
+msgstr ""
+
+msgctxt "KxFormatRestrictionsDlg|"
+msgid "Built-in"
+msgstr ""
+
+msgctxt "KxFormatRestrictionsDlg|"
+msgid ""
+"This document may contain formatting or styles that arent't allowed.Do you "
+"want to remove them?"
+msgstr ""
+
+msgctxt "KxFormatRestrictionsDlg|"
+msgid "Used in this document"
+msgstr ""
+
+msgctxt "KxFormatRestrictionsDlg|"
+msgid "User-defined styles"
+msgstr ""
+
+msgctxt "KxGenkoSettingDlg|"
+msgid "The selected paper is too small, Genko is invalid!"
+msgstr ""
+
+msgctxt "KxHighlightColorModel|"
+msgid "No Color"
+msgstr ""
+
+msgctxt "KxHyperlinkWpsPage|"
+msgid "<<Selection in document>>"
+msgstr ""
+
+msgctxt "KxHyperlinkWpsPage|"
+msgid "Bookmarks"
+msgstr "Yer İmleri"
+
+msgctxt "KxHyperlinkWpsPage|"
+msgid "Headings"
+msgstr ""
+
+msgctxt "KxHyperlinkWpsPage|"
+msgid "Top of document"
+msgstr ""
+
+msgctxt "KxInnerOptionsDlg|"
+msgid "Text"
+msgstr ""
+
+msgctxt "KxInsertDateTimeDlg|"
+msgid "Chinese (PRC)"
+msgstr ""
+
+msgctxt "KxInsertDateTimeDlg|"
+msgid "Chinese (Taiwan)"
+msgstr ""
+
+msgctxt "KxInsertDateTimeDlg|"
+msgid "English (United States)"
+msgstr ""
+
+msgctxt "KxInsertDateTimeDlg|"
+msgid "Japanese (Japan)"
+msgstr ""
+
+msgctxt "KxInsertDateTimeDlg|"
+msgid "Vietnamese"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Address 1"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Address 2"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Address 3"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Business fax"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Business phone"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "City"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Company"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Country or Region"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Courtesy title"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Department"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "E-mail address"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "First name"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Home fax"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Home phone"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Job title"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Last name"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Middle name"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Nickname"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Phonetic guide for first name"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Phonetic guide for last name"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Postal code"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Spouse courtesy title"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Spouse first name"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Spouse last name"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Spouse middle name"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Spouse nickname"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "State"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Suffix"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Unique identifier"
+msgstr ""
+
+msgctxt "KxInsertMergeFieldDlg|"
+msgid "Web page"
+msgstr ""
+
+msgctxt "KxInsertNumberDlg|"
+msgid "Input a correct number."
+msgstr ""
+
+#, qt-format
+msgctxt "KxInsertNumberDlg|"
+msgid "The value must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxInsertNumberDlg|"
+msgid "Use Default Numbering"
+msgstr ""
+
+msgctxt "KxInsertTableDlg|"
+msgid "The input value must be between 1 and 600."
+msgstr ""
+
+msgctxt "KxInsertTableDlg|"
+msgid "The input value must be between 1 and 63."
+msgstr ""
+
+msgctxt "KxInsertTableDlg|"
+msgid "The measurement must be between 0.07 in and 22 in."
+msgstr ""
+
+msgctxt "KxInsertTableDlg|"
+msgid "The measurement must be between 0.16 cm and 55.88 cm."
+msgstr ""
+
+msgctxt "KxInsertTableDlg|"
+msgid "The measurement must be between 1.59 mm and 558.84 mm."
+msgstr ""
+
+msgctxt "KxInsertTableDlg|"
+msgid "The measurement must be between 4.5 pt and 1584 pt."
+msgstr ""
+
+#, qt-format
+msgctxt "KxInsertTableRowsDlg|"
+msgid "The input value must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxMailMergeTableDlg|"
+msgid "Created Time"
+msgstr ""
+
+msgctxt "KxMailMergeTableDlg|"
+msgid "Description"
+msgstr ""
+
+msgctxt "KxMailMergeTableDlg|"
+msgid "Modified Time"
+msgstr ""
+
+msgctxt "KxMailMergeTableDlg|"
+msgid "Name"
+msgstr "İsim"
+
+msgctxt "KxMailMergeTableDlg|"
+msgid "Type"
+msgstr "Tür"
+
+msgctxt "KxMatchFieldsDlg|"
+msgid "(Not matched)"
+msgstr ""
+
+msgctxt "KxMergeToDiffNewDocDlg|"
+msgid "Browse Folder"
+msgstr ""
+
+#, qt-format
+msgctxt "KxMergeToDiffNewDocDlg|"
+msgid "The number must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxMergeToDiffNewDocDlg|"
+msgid "This is not a valid number."
+msgstr ""
+
+msgctxt "KxMergeToDiffNewDocDlg|"
+msgid "The number must not be nil"
+msgstr ""
+
+msgctxt "KxMergeToEmailDlg|"
+msgid "Number is invalid."
+msgstr ""
+
+msgctxt "KxMergeToEmailDlg|"
+msgid "WPS Writer"
+msgstr ""
+
+msgctxt "KxMergeToEmailDlg|"
+msgid ""
+"WPS Writer cannot merge documents that can be distributed by mail without a "
+"valid mail address."
+msgstr ""
+
+msgctxt "KxMergeToNewDocOrPrinterDlg|"
+msgid "Merge to New Document"
+msgstr ""
+
+msgctxt "KxMergeToNewDocOrPrinterDlg|"
+msgid "Merge to Printer"
+msgstr ""
+
+#, qt-format
+msgctxt "KxMergeToNewDocOrPrinterDlg|"
+msgid "The number must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxMergeToNewDocOrPrinterDlg|"
+msgid "This is not a valid number."
+msgstr ""
+
+msgctxt "KxMergeToNewDocOrPrinterDlg|"
+msgid "The number must not be nil"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "&Border..."
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "&Font..."
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "&Numbering..."
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "&Paragraph..."
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "&Shortcut..."
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "&Tabs..."
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "(No style)"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "(underlying properties)"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "0#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "0-#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "1#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "1-#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "1.5 line spacing"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "2#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "2-#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "3#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "3-#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "4#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "4-#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "5#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "5-#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "6#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "7#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "8#"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Bold, "
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Center alignment"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Decrease indent"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Decrease paragraph space"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Default Paragraph Font"
+msgstr ""
+
+#, qt-format
+msgctxt "KxModifyStyleDlg|"
+msgid ""
+"Do you want to change the default settings for style?\n"
+"This change will affect all the new documents based on the %1 template.\n"
+"\n"
+"Yes:\tSave to template;\n"
+"No:\tDo not save to template;\n"
+"Cancel:\tReturn to the dialog."
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Double line spacing"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Increase indent"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Increase paragraph space"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Itatic, "
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Justify alignment"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Left alignment"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Line spacing: 1.5 lines, "
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Line spacing: Double, "
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "None"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Right alignment"
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Save failed. Normal Template is occupied."
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Single line spacing"
+msgstr ""
+
+#, qt-format
+msgctxt "KxModifyStyleDlg|"
+msgid "Space Before: %1 pt, after %2 pt, "
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "Style"
+msgstr ""
+
+#, qt-format
+msgctxt "KxModifyStyleDlg|"
+msgid ""
+"The font '%1' is not available in your system. Do you want to use it anyway?"
+msgstr ""
+
+#, qt-format
+msgctxt "KxModifyStyleDlg|"
+msgid "The number must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "This is not a valid number."
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "This style name already exists or is reserved for a built-in style."
+msgstr ""
+
+msgctxt "KxModifyStyleDlg|"
+msgid "This style contains cycle base style table"
+msgstr ""
+
+msgctxt "KxNewLabelDlg|"
+msgid "This caption label is not valid."
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "&Border..."
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "&Font..."
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "&Numbering..."
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "&Paragraph..."
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "&Shortcut..."
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "&Tabs..."
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "(No style)"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "(underlying properties)"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "0#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "0-#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "1#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "1-#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "1.5 line spacing"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "2#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "2-#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "3#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "3-#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "4#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "4-#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "5#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "5-#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "6#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "7#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "8#"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Bold, "
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Center alignment"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Centered"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Decrease indent"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Decrease paragraph space"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Dispersion"
+msgstr ""
+
+#, qt-format
+msgctxt "KxNewStyleDlg|"
+msgid ""
+"Do you want to change the default settings for style?\n"
+"This change will affect all the new documents based on the %1 template.\n"
+"\n"
+"Yes:\tSave to template;\n"
+"No:\tDo not save to template;\n"
+"Cancel:\tReturn to the dialog."
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Double line spacing"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Increase indent"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Increase paragraph space"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Itatic, "
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Justify alignment"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Left"
+msgstr "Sol"
+
+msgctxt "KxNewStyleDlg|"
+msgid "Left alignment"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "LeftAndRight"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Line spacing: 1.5 lines, "
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Line spacing: Double, "
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "None"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Right"
+msgstr "Sağ"
+
+msgctxt "KxNewStyleDlg|"
+msgid "Right alignment"
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Save failed. Normal Template is occupied."
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Single line spacing"
+msgstr ""
+
+#, qt-format
+msgctxt "KxNewStyleDlg|"
+msgid "Space Before: %1 pt, after %2 pt, "
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "Style"
+msgstr ""
+
+#, qt-format
+msgctxt "KxNewStyleDlg|"
+msgid ""
+"The font '%1' is not available in your system. Do you want to use it anyway?"
+msgstr ""
+
+#, qt-format
+msgctxt "KxNewStyleDlg|"
+msgid "The number must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "This is not a valid number."
+msgstr ""
+
+msgctxt "KxNewStyleDlg|"
+msgid "This style name already exists or is reserved for a built-in style."
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid "By author"
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid "Confirmation password does not match."
+msgstr ""
+
+#, qt-format
+msgctxt "KxOptionsDlg|"
+msgid "Max Undo/Redo steps must be between %1 and %2."
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid "Select Folder:"
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid "The default document path of USB version cannot be changed!"
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid ""
+"The password of the file encryption must be no longer than 15 characters."
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid "User templates"
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid ""
+"WPS Writer has encountered an error while adjusting the macro security. This "
+"could be because the VBA environment is not installed. Please contact your "
+"support technician."
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid "Document path"
+msgstr ""
+
+#, qt-format
+msgctxt "KxOutlineNumberDlg|"
+msgid "%1"
+msgstr ""
+
+msgctxt "KxOutlineNumberDlg|"
+msgid "&Less"
+msgstr ""
+
+msgctxt "KxOutlineNumberDlg|"
+msgid "&More"
+msgstr ""
+
+msgctxt "KxOutlineNumberDlg|"
+msgid "(No style)"
+msgstr ""
+
+msgctxt "KxOutlineNumberDlg|"
+msgid "(None)"
+msgstr ""
+
+msgctxt "KxOutlineNumberDlg|"
+msgid "Bullet:"
+msgstr ""
+
+msgctxt "KxOutlineNumberDlg|"
+msgid "Errors occurred  while opening Font Dialog!"
+msgstr ""
+
+#, qt-format
+msgctxt "KxOutlineNumberDlg|"
+msgid "Level %1"
+msgstr ""
+
+msgctxt "KxOutlineNumberDlg|"
+msgid "New Bullet..."
+msgstr ""
+
+msgctxt "KxOutlineNumberDlg|"
+msgid "ch"
+msgstr ""
+
+#, qt-format
+msgctxt "KxPageNumbersDlg|"
+msgid "%1"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "&Less"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "&More"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "-1-,-2-,-3-..."
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "1"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "10"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "2"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "3"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "4"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "5"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "6"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "7"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "8"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "9"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "?"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "Read Number Format Error!"
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "The measurement must be between 0 and 16383."
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "The measurement must be between 0 and 32767."
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "The measurement must be between 1 and 10."
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "The measurement must be between 1 and 12."
+msgstr ""
+
+msgctxt "KxPageNumbersDlg|"
+msgid "The measurement must be between 1 and 754."
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "&Inside"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "&Outside"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "Custom"
+msgstr ""
+
+#, qt-format
+msgctxt "KxPageSetupDlg|"
+msgid ""
+"Do you want to change the default settings for page setup?\n"
+"This change will affect all new documents based on the %1 template."
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "Inside"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "Save failed. Normal Template is occupied."
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "Selected sections"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "Selected text"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid ""
+"Settings you chose for the left and right margins,column spacing,or "
+"paragraph indents are too large for the page width in some sections."
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid ""
+"Settings you chose for the left/right margins are too large for the page "
+"width in some sections."
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid ""
+"Settings you chose for the top/bottom margins are too large for the page "
+"height in some sections."
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "This point forward"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "This section"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "Using the printer setup"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "Whole document"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "cm"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "in"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "mm"
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "pt"
+msgstr ""
+
+#, qt-format
+msgctxt "KxPageSetupDlg|"
+msgid ""
+"The number must be between %1 and %2. Try again by entering a number in this "
+"range."
+msgstr ""
+
+msgctxt "KxParagraphDlg|"
+msgid "This is not a valid measurement."
+msgstr ""
+
+msgctxt "KxPhoneticGuideDlg|"
+msgid "Please select the base text for the Phonetic Guide."
+msgstr ""
+
+#, qt-format
+msgctxt "KxPhoneticGuideDlg|"
+msgid "The number must be between %1 and %1."
+msgstr ""
+
+msgctxt "KxPhoneticGuideDlg|"
+msgid "This is not a valid number."
+msgstr ""
+
+msgctxt "KxPrintDlg|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxPrintDlg|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxPrintDlg|"
+msgid "Invalid Input."
+msgstr ""
+
+msgctxt "KxPrintDlg|"
+msgid "No scaling"
+msgstr ""
+
+#, qt-format
+msgctxt "KxPrintDlg|"
+msgid "The input value must be between %1 and %2."
+msgstr ""
+
+#, qt-format
+msgctxt "KxPrintDlg|"
+msgid "The printer \"%1\" encountered an error!"
+msgstr ""
+
+msgctxt "KxProtectDocumentDlg|"
+msgid "Confirmation password does not match."
+msgstr ""
+
+msgctxt "KxRulerBtn|"
+msgid "Show Ruler"
+msgstr ""
+
+msgctxt "KxSectionToolboxItemTitle|"
+msgid "Delete Section"
+msgstr ""
+
+msgctxt "KxSectionToolboxItemTitle|"
+msgid "Edit Section Name"
+msgstr ""
+
+msgctxt "KxSectionToolboxItemTitle|"
+msgid "Insert Section After"
+msgstr ""
+
+msgctxt "KxSectionToolboxItemTitle|"
+msgid "Insert Section Before"
+msgstr ""
+
+msgctxt "KxSectionToolboxItemTitle|"
+msgid "Merge to Previous"
+msgstr ""
+
+msgctxt "KxSectionToolboxItemTitleLineEdit|"
+msgid "Cover"
+msgstr ""
+
+msgctxt "KxSectionToolboxItemTitleLineEdit|"
+msgid "Enter Section Name"
+msgstr ""
+
+#, qt-format
+msgctxt "KxSectionToolboxItemTitleLineEdit|"
+msgid "Section %1: "
+msgstr ""
+
+msgctxt "KxSectionToolboxItemTitleLineEdit|"
+msgid "Unnamed"
+msgstr ""
+
+msgctxt "KxSmartPageNumCommand|"
+msgid "Delete page number"
+msgstr ""
+
+msgctxt "KxSmartPageNumCommand|"
+msgid "Insert page number"
+msgstr ""
+
+msgctxt "KxSmartPageNumCommand|"
+msgid "Modify page number"
+msgstr ""
+
+msgctxt "KxSmartPageNumMenuItemCommand|"
+msgid "Delete Page Number"
+msgstr ""
+
+msgctxt "KxSmartPageNumMenuItemCommand|"
+msgid "Insert page number"
+msgstr ""
+
+msgctxt "KxSmartParaLayoutCommand|"
+msgid "Hide Paragraph Layout Icon"
+msgstr ""
+
+msgctxt "KxSmartParaLayoutCommand|"
+msgid "Paragraph Layout"
+msgstr ""
+
+msgctxt "KxSmartParaLayoutCommand|"
+msgid "Reset Paragraph Format"
+msgstr ""
+
+#, qt-format
+msgctxt "KxSpiltCellsDlg|"
+msgid "The number must be a divisor of %1."
+msgstr ""
+
+#, qt-format
+msgctxt "KxSpiltCellsDlg|"
+msgid "The number must be between %1 and %2."
+msgstr ""
+
+#, qt-format
+msgctxt "KxStyleShortCutBindDlg|"
+msgid "Do you want to overwrite the shortcut of [%1]? "
+msgstr ""
+
+msgctxt "KxStyleShortCutBindDlg|"
+msgid "Invalid Input."
+msgstr ""
+
+msgctxt "KxStyleShortCutBindDlg|"
+msgid "None"
+msgstr ""
+
+msgctxt "KxStyleShortCutBindDlg|"
+msgid "This shortcut key already exists, please set another key."
+msgstr ""
+
+#, qt-format
+msgctxt "KxTablePropertiesDialog|"
+msgid "Column %1"
+msgstr ""
+
+#, qt-format
+msgctxt "KxTablePropertiesDialog|"
+msgid "Row %1"
+msgstr ""
+
+msgctxt "KxTabsDlg|"
+msgid "All"
+msgstr ""
+
+msgctxt "KxTextDirectionDlg|"
+msgid "Selected sections"
+msgstr ""
+
+msgctxt "KxTextDirectionDlg|"
+msgid "Selected text"
+msgstr ""
+
+msgctxt "KxTextDirectionDlg|"
+msgid ""
+"Settings you chose for the left and right margins,column spacing,or "
+"paragraph indents are too large for the page width in some sections."
+msgstr ""
+
+msgctxt "KxTextDirectionDlg|"
+msgid "Text direction"
+msgstr ""
+
+msgctxt "KxTextDirectionDlg|"
+msgid "This point forward"
+msgstr ""
+
+msgctxt "KxTextDirectionDlg|"
+msgid "This section"
+msgstr ""
+
+msgctxt "KxTextDirectionDlg|"
+msgid "Whole document"
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "D&efault Date:"
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "D&efault Number:"
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "D&efault Time:"
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "D&efault text:"
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "Date &Format:"
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "None"
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "Number &format:"
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "Text &format:"
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "The bookmark name is not valid."
+msgstr ""
+
+#, qt-format
+msgctxt "KxTextFormFieldDlg|"
+msgid "The input value must be between %1 and %2."
+msgstr ""
+
+#, qt-format
+msgctxt "KxTextFormFieldDlg|"
+msgid ""
+"The maximum length value must be equal to or greater than the length of the "
+"default text,%1 characters."
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "Time &Format:"
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "Unlimited"
+msgstr ""
+
+msgctxt "KxTextFormFieldDlg|"
+msgid "What you entered contains formatting error."
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgctxt "KxTpDocProtection|"
+msgid "Filling in forms"
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Find Next Region I Can Edit"
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Groups:"
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Highlight the regions I can edit"
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Individuals:"
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Limit formatting to a selection of styles"
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Read-only"
+msgstr "Salt-okunur"
+
+msgctxt "KxTpDocProtection|"
+msgid "Set the protection way in the document"
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Settings..."
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Show All Regions I Can Edit"
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Start Protection..."
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "This document is protected from unintentional editing."
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Tracked changes"
+msgstr ""
+
+msgctxt "KxTpDocProtection|"
+msgid "Stop Protection..."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "Administrators"
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "Contributors"
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "Current user"
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "Everyone"
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid ""
+"If you make this change in document protection, WPS Writer will ignore all "
+"the exceptions in this document.\n"
+"\n"
+"Do you want to remove the ignored exceptions?"
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "More users..."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "Section "
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "Select sections..."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "Users with full control"
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "Users with permission to change"
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid ""
+"You are allowed to modify the document and records will be shown in Tracked "
+"changes way."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid ""
+"You can prevent the document from being modified in Filling in forms way. "
+"However,you can only fill in form."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid ""
+"You can prevent the document from being modified in Read-only way. However, "
+"you can set the region to allow editing.\n"
+"\n"
+"Select parts of the document and choose users who are allowed to freely edit "
+"them."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "You may edit in this region,but all changes will be tracked."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "You may format text only with certain styles."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "You may freely edit in this region."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "You may only fill in forms in this region."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid ""
+"You may only insert comments into regions that are allowed to be edited in "
+"the document.\n"
+"\n"
+"Select parts of the document and choose users who are allowed to freely edit "
+"them."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "You may only insert comments into this region."
+msgstr ""
+
+msgctxt "KxTpDocProtectionWidget|"
+msgid "You may only view this region."
+msgstr ""
+
+msgctxt "KxTpStyeFormat|"
+msgid "Clear Format"
+msgstr ""
+
+msgctxt "KxTpStyeFormat|"
+msgid "Formatting of selected text"
+msgstr ""
+
+msgctxt "KxTpStyeFormat|"
+msgid "From"
+msgstr ""
+
+msgctxt "KxTpStyeFormat|"
+msgid "New Style..."
+msgstr ""
+
+msgctxt "KxTpStyeFormat|"
+msgid "Pick formatting to apply"
+msgstr ""
+
+msgctxt "KxTpStyeFormat|"
+msgid "Show:"
+msgstr ""
+
+msgctxt "KxTpStyleFormatWidget|"
+msgid "All styles"
+msgstr ""
+
+msgctxt "KxTpStyleFormatWidget|"
+msgid "Valid styles"
+msgstr ""
+
+msgctxt "KxTwoLinesInOneDlg|"
+msgid "There are too many characters in the selection."
+msgstr ""
+
+msgctxt "KxUnProtectDocumentDlg|"
+msgid "The password is incorrect!"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "&Advanced..."
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "&Behind text"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "&Center"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "&In line with text"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "&Left"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "&Other"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "&Right"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "&Tight"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "Drawing Grid"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "Horizontal alignment"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "In &front of text"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "S&quare"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "To&p and bottom"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "Wrapping style"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "rbHorizontalCenter"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "rbHorizontalLeft"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "rbHorizontalOther"
+msgstr ""
+
+msgctxt "KxWidgetLayout|"
+msgid "rbHorizontalRight"
+msgstr ""
+
+msgctxt "KxWordCountDlgClass|"
+msgid "123"
+msgstr ""
+
+msgctxt "KxWordCountDlgClass|"
+msgid "Asian characters"
+msgstr ""
+
+msgctxt "KxWordCountDlgClass|"
+msgid "Characters (no spaces)"
+msgstr ""
+
+msgctxt "KxWordCountDlgClass|"
+msgid "Characters (with spaces)"
+msgstr ""
+
+msgctxt "KxWordCountDlgClass|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxWordCountDlgClass|"
+msgid "Include &footnotes and endnotes"
+msgstr ""
+
+msgctxt "KxWordCountDlgClass|"
+msgid "Non-Asian words"
+msgstr ""
+
+msgctxt "KxWordCountDlgClass|"
+msgid "Pages"
+msgstr ""
+
+msgctxt "KxWordCountDlgClass|"
+msgid "Paragraphs"
+msgstr ""
+
+msgctxt "KxWordCountDlgClass|"
+msgid "Statistics:"
+msgstr ""
+
+msgctxt "KxWordCountDlgClass|"
+msgid "Word Count"
+msgstr ""
+
+msgctxt "KxWordCountDlgClass|"
+msgid "Words"
+msgstr ""
+
+msgctxt "KxWps3DColorModel|"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "KxWpsBookFormatDlg|"
+msgid "Header and Footer Settings"
+msgstr ""
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "&Delete"
+msgstr "&Sil"
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "&Go to Bookmark"
+msgstr ""
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "&Rename"
+msgstr "&Yeniden Adlandır"
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "Delete All"
+msgstr ""
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "Do you want to delete all bookmarks?"
+msgstr ""
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "Document Bookmark:"
+msgstr ""
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "Hide Bookmark"
+msgstr ""
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "Show Bookmark"
+msgstr ""
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "Sort by &Location"
+msgstr ""
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "Sort by &Name"
+msgstr "İs&me Göre Sırala"
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "Sort by Location"
+msgstr ""
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "Sort by Name"
+msgstr ""
+
+msgctxt "KxWpsBookmarkPane|"
+msgid "The bookmark already exists, please change the name."
+msgstr ""
+
+msgctxt "KxWpsBookmarkPane|"
+msgid ""
+"The bookmark name cannot start with numbers, symbols, special characters and "
+"also cannot contain spaces."
+msgstr ""
+
+msgctxt "KxWpsBorderStyleItem|"
+msgid "No Border"
+msgstr ""
+
+msgctxt "KxWpsBorderWidthItem|"
+msgid "0.25"
+msgstr ""
+
+msgctxt "KxWpsBorderWidthItem|"
+msgid "0.5"
+msgstr ""
+
+msgctxt "KxWpsBorderWidthItem|"
+msgid "0.75"
+msgstr ""
+
+msgctxt "KxWpsBorderWidthItem|"
+msgid "1"
+msgstr ""
+
+msgctxt "KxWpsBorderWidthItem|"
+msgid "1.5"
+msgstr ""
+
+msgctxt "KxWpsBorderWidthItem|"
+msgid "2.25"
+msgstr ""
+
+msgctxt "KxWpsBorderWidthItem|"
+msgid "3"
+msgstr ""
+
+msgctxt "KxWpsBorderWidthItem|"
+msgid "4.5"
+msgstr ""
+
+msgctxt "KxWpsBorderWidthItem|"
+msgid "6"
+msgstr ""
+
+msgctxt "KxWpsBorderWidthItem|"
+msgid "pt"
+msgstr ""
+
+msgctxt "KxWpsBrowserModel|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Next Bookmark"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Next Comment"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Next Endnote"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Next Field"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Next Find/Goto"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Next Footnote"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Next Graphic"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Next Heading"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Next Page"
+msgstr "Sonraki Sayfa"
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Next Section"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Next Table"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Previous Bookmark"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Previous Comment"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Previous Endnote"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Previous Field"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Previous Find/Goto"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Previous Footnote"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Previous Graphic"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Previous Heading"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Previous Page"
+msgstr "Önceki Sayfa"
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Previous Section"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "Previous Table"
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "The Find What text contains an invalid Pattern Matching expression."
+msgstr ""
+
+msgctxt "KxWpsBrowserTriggerCommand|"
+msgid "The search item was not found."
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsCloumnGalleryModel|"
+msgid "%1 Columns"
+msgstr ""
+
+msgctxt "KxWpsCloumnGalleryModel|"
+msgid "Column"
+msgstr ""
+
+msgctxt "KxWpsContentsGalleryCommand|"
+msgid "Delete Contents Page"
+msgstr ""
+
+msgctxt "KxWpsContentsGalleryCommand|"
+msgid "Insert Contents"
+msgstr ""
+
+msgctxt "KxWpsContentsGalleryCommand|"
+msgid "Insert Contents Page..."
+msgstr ""
+
+msgctxt "KxWpsContentsGalleryCommand|"
+msgid "Insert Custom Contents"
+msgstr ""
+
+msgctxt "KxWpsContentsGalleryCommand|"
+msgid "Insert Title (level %d)"
+msgstr ""
+
+msgctxt "KxWpsContentsGalleryCommand|"
+msgid "Table of Content"
+msgstr ""
+
+msgctxt "KxWpsContentsModel|"
+msgid "Built-in"
+msgstr ""
+
+msgctxt "KxWpsContentsModel|"
+msgid "Classic"
+msgstr ""
+
+msgctxt "KxWpsContentsModel|"
+msgid "Current"
+msgstr ""
+
+msgctxt "KxWpsContentsModel|"
+msgid "Default"
+msgstr "Öntanımlı"
+
+msgctxt "KxWpsContentsModel|"
+msgid "Distinctive"
+msgstr ""
+
+msgctxt "KxWpsContentsModel|"
+msgid "Fancy"
+msgstr ""
+
+msgctxt "KxWpsContentsModel|"
+msgid "Formal"
+msgstr ""
+
+msgctxt "KxWpsContentsModel|"
+msgid "Manual"
+msgstr ""
+
+msgctxt "KxWpsContentsModel|"
+msgid "Modern"
+msgstr ""
+
+msgctxt "KxWpsContentsModel|"
+msgid "Simple"
+msgstr ""
+
+msgctxt "KxWpsContentsModelItem|"
+msgid "Insert Title (level %d)"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "(Has successfully added pictures)"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "(No picture)"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "100%"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "105"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "120"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "144"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "150%"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "200%"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "36"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "40"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "44"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "48"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "50%"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "500%"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "54"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "60"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "66"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "72"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "80"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "90"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "96"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid ""
+"All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Auto"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Bottom"
+msgstr "En Aşağı"
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "CONFIDENTIAL"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Centered"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Custom"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "DISTRIBUTE"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "DO NOT COPY"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "DRAFT"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Diagonal"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Existing picture"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Horizontal"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Left"
+msgstr "Sol"
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "ORIGINAL"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Picture Tooltip"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Please change a watermark name!"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Please input the text of the watermark."
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Please select a picture."
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Right"
+msgstr "Sağ"
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "SAMPLE"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Scale Tooltip"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Select Picture"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Size Tooltip"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "TOP SECRET"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Text Tooltip"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid ""
+"The current watermark name already exists. Please replace it with another "
+"name."
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid ""
+"The current watermark name contains special characters. Please replace it "
+"with another name."
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "The number must be between 5 and 500."
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "This section"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Tooltip "
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Top"
+msgstr "En Yukarı"
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "URGENT"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "Whole document"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "You do not have the permission to create a new file."
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "cm"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "inch"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "mm"
+msgstr ""
+
+msgctxt "KxWpsDefineWaterMarkDlg|"
+msgid "pt"
+msgstr ""
+
+msgctxt "KxWpsDeleteSectionCommand|"
+msgid "Delete Section"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Alt+A"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Alt+B"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Alt+C"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Alt+D"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Alt+E"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Alt+G"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Alt+I"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Alt+J"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Alt+K"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Alt+L"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Alt+V"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Footer inside"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Footer left"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Footer middle"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Footer outside"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Footer right"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Header and Footer"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Header inside"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Header left"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Header middle"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Header or footer link to previous"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Header outside"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Header right"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "None"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Page different settings"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Page number"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Show header line"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Surround &footer"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Surround &header"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Different first p&age"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Different odd and &even pages"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Show odd page header line(&B)"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Show even page header line(&C)"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Show first page hea&der line"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Odd h&eader link to previous"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Even header link to previous(&G)"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "F&irst header link to previous"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Odd footer link to previous(&J)"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "Even footer lin&k to previous"
+msgstr ""
+
+msgctxt "KxWpsDlgBookFormat|"
+msgid "First footer &link to previous"
+msgstr ""
+
+msgctxt "KxWpsDlgTemplateAndAddin|"
+msgid " Full path: "
+msgstr ""
+
+msgctxt "KxWpsDlgTemplateAndAddin|"
+msgid "&Attach..."
+msgstr ""
+
+msgctxt "KxWpsDlgTemplateAndAddin|"
+msgid "&Global templates and add-ins"
+msgstr ""
+
+msgctxt "KxWpsDlgTemplateAndAddin|"
+msgid "&Remove"
+msgstr ""
+
+msgctxt "KxWpsDlgTemplateAndAddin|"
+msgid "A&dd..."
+msgstr ""
+
+msgctxt "KxWpsDlgTemplateAndAddin|"
+msgid "Checked items are currently loaded."
+msgstr ""
+
+msgctxt "KxWpsDlgTemplateAndAddin|"
+msgid "Document &template"
+msgstr ""
+
+msgctxt "KxWpsDlgTemplateAndAddin|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "KxWpsDlgTemplateAndAddin|"
+msgid "Templates"
+msgstr ""
+
+msgctxt "KxWpsDlgTemplateAndAddin|"
+msgid "Templates and Add-ins"
+msgstr ""
+
+msgctxt "KxWpsDocMapWindow|"
+msgid "Bookmark"
+msgstr ""
+
+msgctxt "KxWpsDocMapWindow|"
+msgid "Document Map"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsDocMapWindow|"
+msgid "Level %1"
+msgstr ""
+
+msgctxt "KxWpsDocMapWindow|"
+msgid "Show Level"
+msgstr ""
+
+msgctxt "KxWpsFillColorModel|"
+msgid "No Fill"
+msgstr ""
+
+msgctxt "KxWpsFillColorModel2|"
+msgid "No Fill"
+msgstr ""
+
+msgctxt "KxWpsFontColorModel|"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "KxWpsHFLinkToPreviousCommand|"
+msgid "Header and Footer Link to Previous"
+msgstr ""
+
+msgctxt "KxWpsHeaderFooterPageNumCommand|"
+msgid "Delete Page Number"
+msgstr ""
+
+msgctxt "KxWpsHeaderFooterPageNumCommand|"
+msgid "Insert page number"
+msgstr ""
+
+msgctxt "KxWpsHeaderFooterPageNumCommand|"
+msgid "Set Page Number"
+msgstr ""
+
+msgctxt "KxWpsHeaderLineBaseCommand|"
+msgid "Show header line"
+msgstr ""
+
+msgctxt "KxWpsHeaderLineColorModel|"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "KxWpsHeaderLineMoreColorCommand|"
+msgid "Show Header Line Color"
+msgstr ""
+
+msgctxt "KxWpsInsertKeyCommand|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxWpsInsertKeyCommand|"
+msgid "Open"
+msgstr "Aç"
+
+msgctxt "KxWpsInsertPictureCommand|"
+msgid ""
+"The inserted picture is displayed incompletely. Do you want to adjust the "
+"line spacing automatically according to the picture's size?"
+msgstr ""
+
+msgctxt "KxWpsInsertSectionCommand|"
+msgid "Insert Section After"
+msgstr ""
+
+msgctxt "KxWpsInsertSectionCommand|"
+msgid "Insert Section Before"
+msgstr ""
+
+msgctxt "KxWpsLineColorModel|"
+msgid "No Line"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsLineSpacingCommand|"
+msgid "%1 lines"
+msgstr ""
+
+msgctxt "KxWpsLineSpacingCommand|"
+msgid "1 line"
+msgstr ""
+
+msgctxt "KxWpsLineSpacingCommand|"
+msgid "1.5 lines"
+msgstr ""
+
+msgctxt "KxWpsLineSpacingCommand|"
+msgid "2 lines"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsLineSpacingCommand|"
+msgid ": %1 pt"
+msgstr ""
+
+msgctxt "KxWpsLineSpacingCommand|"
+msgid "At Least"
+msgstr ""
+
+msgctxt "KxWpsLineSpacingCommand|"
+msgid "Double"
+msgstr ""
+
+msgctxt "KxWpsLineSpacingCommand|"
+msgid "Exactly"
+msgstr ""
+
+msgctxt "KxWpsLineSpacingCommand|"
+msgid "Multiple"
+msgstr ""
+
+msgctxt "KxWpsLineSpacingCommand|"
+msgid "Single"
+msgstr ""
+
+msgctxt "KxWpsLocateCloseBtn|"
+msgid "Close"
+msgstr "Kapat"
+
+#, qt-format
+msgctxt "KxWpsLocateWidget|"
+msgid "%1 hours ago"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsLocateWidget|"
+msgid "%1 minutes ago"
+msgstr ""
+
+msgctxt "KxWpsLocateWidget|"
+msgid "A few seconds ago"
+msgstr ""
+
+msgctxt "KxWpsLocateWidget|"
+msgid "Continue"
+msgstr "Devam Et"
+
+msgctxt "KxWpsLocateWidget|"
+msgid "Continue editing"
+msgstr ""
+
+msgctxt "KxWpsLocateWidget|"
+msgid "Welcome Back"
+msgstr ""
+
+msgctxt "KxWpsLocateWidget|"
+msgid "to last editing position"
+msgstr ""
+
+msgctxt "KxWpsLocateWidget|"
+msgid "to previous position"
+msgstr ""
+
+msgctxt "KxWpsLocateWidget|"
+msgid "yyyy years MM months dd days"
+msgstr ""
+
+msgctxt "KxWpsPageDifferCommand|"
+msgid "Different first page"
+msgstr ""
+
+msgctxt "KxWpsPageDifferCommand|"
+msgid "Different odd &even pages"
+msgstr ""
+
+msgctxt "KxWpsPageMarginCommand|"
+msgid "Page Margins"
+msgstr ""
+
+msgctxt "KxWpsPageMarginCommand|"
+msgid ""
+"Settings you chose for the left and right margins, column spacing, or "
+"paragraph indents are too large for the page width in some sections."
+msgstr ""
+
+msgctxt "KxWpsPageMarginCommand|"
+msgid ""
+"The top/bottom margins are too large for the page height in some sections"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsPageMarginModel|"
+msgid "Bottom: %1 %2"
+msgstr ""
+
+msgctxt "KxWpsPageMarginModel|"
+msgid "Last Custom Setting"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsPageMarginModel|"
+msgid "Left: %1 %2"
+msgstr ""
+
+msgctxt "KxWpsPageMarginModel|"
+msgid "Moderate"
+msgstr ""
+
+msgctxt "KxWpsPageMarginModel|"
+msgid "Narrow"
+msgstr ""
+
+msgctxt "KxWpsPageMarginModel|"
+msgid "Normal"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsPageMarginModel|"
+msgid "Right: %1 %2"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsPageMarginModel|"
+msgid "Top: %1 %2"
+msgstr ""
+
+msgctxt "KxWpsPageMarginModel|"
+msgid "Wide"
+msgstr ""
+
+msgctxt "KxWpsPageMarginModel|"
+msgid "cm"
+msgstr ""
+
+msgctxt "KxWpsPageMarginModel|"
+msgid "in"
+msgstr ""
+
+msgctxt "KxWpsPageMarginModel|"
+msgid "mm"
+msgstr ""
+
+msgctxt "KxWpsPageMarginModel|"
+msgid "pt"
+msgstr ""
+
+msgctxt "KxWpsPageNumFormatCommand|"
+msgid "Set Page Number"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Footer"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Footer inside"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Footer left"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Footer middle"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Footer outside"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Footer right"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Header"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Header inside"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Header left"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Header middle"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Header outside"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "Header right"
+msgstr ""
+
+msgctxt "KxWpsPageNumPositionModel|"
+msgid "No Page Number"
+msgstr ""
+
+msgctxt "KxWpsPageNumStartCommand|"
+msgid "Page Number Start"
+msgstr ""
+
+msgctxt "KxWpsPageOrientationCommand|"
+msgid "Orientation"
+msgstr ""
+
+msgctxt "KxWpsPageOrientationCommand|"
+msgid ""
+"Settings you chose for the left and right margins,column spacing,or "
+"paragraph indents are too large for the page width in some sections."
+msgstr ""
+
+msgctxt "KxWpsPageOrientationModel|"
+msgid "Landscape"
+msgstr "Yatay"
+
+msgctxt "KxWpsPageOrientationModel|"
+msgid "Portrait"
+msgstr "Dikey"
+
+msgctxt "KxWpsPageSizeCommand|"
+msgid "Paper Size"
+msgstr ""
+
+msgctxt "KxWpsPageSizeCommand|"
+msgid ""
+"Settings you chose for the left and right margins, column spacing, or "
+"paragraph indents are too large for the page width in some sections."
+msgstr ""
+
+msgctxt "KxWpsPageSizeCommand|"
+msgid ""
+"The top/bottom margins are too large for the page height in some sections"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsPageSizeModel|"
+msgid "%1%2 x %3%4"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "A3"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "A4"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "Executive"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "Legal"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "Legal_CN"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "Letter"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "Letter_CN"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "Tabloid"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "cm"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "inch"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "mm"
+msgstr ""
+
+msgctxt "KxWpsPageSizeModel|"
+msgid "point"
+msgstr ""
+
+msgctxt "KxWpsPictureWrapTypeComboBox|"
+msgid "Behind Text"
+msgstr ""
+
+msgctxt "KxWpsPictureWrapTypeComboBox|"
+msgid "In Front of Text"
+msgstr ""
+
+msgctxt "KxWpsPictureWrapTypeComboBox|"
+msgid "In Line With Text"
+msgstr ""
+
+msgctxt "KxWpsPictureWrapTypeComboBox|"
+msgid "Square"
+msgstr ""
+
+msgctxt "KxWpsPictureWrapTypeComboBox|"
+msgid "Through"
+msgstr ""
+
+msgctxt "KxWpsPictureWrapTypeComboBox|"
+msgid "Tight"
+msgstr ""
+
+msgctxt "KxWpsPictureWrapTypeComboBox|"
+msgid "Top and Bottom"
+msgstr ""
+
+msgctxt "KxWpsPrintSetupDlg|"
+msgid "Close"
+msgstr "Kapat"
+
+#, qt-format
+msgctxt "KxWpsRecordMacroDlg|"
+msgid "%1(document)"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsRecordMacroDlg|"
+msgid "All Document(%1)"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsRecordMacroDlg|"
+msgid "Macro \"%1\" already exists. Do you want to replace the existing macro?"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsRecordMacroDlg|"
+msgid "Macro recorded %2 by %1"
+msgstr ""
+
+msgctxt "KxWpsRecordMacroDlg|"
+msgid "The name you entered is not valid."
+msgstr ""
+
+msgctxt "KxWpsRestartPageNumCommand|"
+msgid "Restart Page Number"
+msgstr ""
+
+msgctxt "KxWpsSectNavViewItemSeperator|"
+msgid "Insert Section Break"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsSectionListCommand|"
+msgid "Section %1"
+msgstr ""
+
+msgctxt "KxWpsSectionToolboxModel|"
+msgid "Cover Page (None)"
+msgstr ""
+
+msgctxt "KxWpsSectionToolboxModel|"
+msgid "Table of Contents (None)"
+msgstr ""
+
+msgctxt "KxWpsShowFirstPageNumCommand|"
+msgid "Show First Page Number"
+msgstr ""
+
+msgctxt "KxWpsShowHeaderLineModel|"
+msgid "No Line"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumDeletePane|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxWpsSmartPageNumDeletePane|"
+msgid "Delete &all page numbers"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumDeletePane|"
+msgid "Delete &below pages' page numbers"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumDeletePane|"
+msgid "Delete all page numbers"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumDeletePane|"
+msgid "Delete below pages' page numbers"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumDeletePane|"
+msgid "Delete current &page's page number"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumDeletePane|"
+msgid "Delete current &section's page numbers"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumDeletePane|"
+msgid "Delete current page's page number"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumDeletePane|"
+msgid "Delete current section's page numbers"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumDeletePane|"
+msgid "OK"
+msgstr "Tamam"
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "0;57;1"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "37;38;14;28;2;3;4;30;31;10;20;21;5;6;7"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Align center"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Align inside"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Align left"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Align outside"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Align right"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "All pages"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Below pages"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Current page"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Current section pages"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Footer: "
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Header: "
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Insert page number"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "OK"
+msgstr "Tamam"
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Page 1"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Page 1 of x"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Page 2"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Page 2 of X"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Page Number &Start"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Page X"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Page X of Y"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Page X of y"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Page number &format"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Page number &position"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Page number &restart"
+msgstr ""
+
+msgctxt "KxWpsSmartPageNumInsertPane|"
+msgid "Appl&y to"
+msgstr ""
+
+msgctxt "KxWpsSpecialPopupWidget|"
+msgid "OK"
+msgstr "Tamam"
+
+msgctxt "KxWpsSpellCheckCommand|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxWpsSpellCheckCommand|"
+msgid "Open"
+msgstr "Aç"
+
+#, qt-format
+msgctxt "KxWpsStatusColumnInfoCommand|"
+msgid "Column: %1"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsStatusPageAreaInfoCommand|"
+msgid "Page: %1"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsStatusPageNumberInfoCommand|"
+msgid "Page Num: %1"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsStatusRowInfoCommand|"
+msgid "Row: %1"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWpsStatusSectionInfoCommand|"
+msgid "Section: %1"
+msgstr ""
+
+msgctxt "KxWpsStatusTrackCommand|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxWpsStatusTrackCommand|"
+msgid "Open"
+msgstr "Aç"
+
+msgctxt "KxWpsStatusWordCountInfoCommand|"
+msgid "Words: "
+msgstr ""
+
+msgctxt "KxWpsStyleGalleryModel|"
+msgid "Styles"
+msgstr ""
+
+msgctxt "KxWpsStyleGalleryModelItem|"
+msgid "Delete Style"
+msgstr ""
+
+msgctxt "KxWpsStyleGalleryModelItem|"
+msgid "Modify Style"
+msgstr ""
+
+msgctxt "KxWpsTableBorderColorModel|"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "KxWpsTableFillColorModel|"
+msgid "No Fill"
+msgstr ""
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "Add Template"
+msgstr ""
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "All Files"
+msgstr ""
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "All Web Pages"
+msgstr ""
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "All Word Documents"
+msgstr ""
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "Attach Template"
+msgstr ""
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "Full path:"
+msgstr ""
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "OK"
+msgstr "Tamam"
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "Word Documents"
+msgstr ""
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "Word Templates"
+msgstr ""
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "Word Templates(*.wpt);;Word Add-Ins(*.wll);;All Files(*.*)"
+msgstr ""
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "XML Files"
+msgstr ""
+
+msgctxt "KxWpsTemplateAndAddinDlg|"
+msgid "Common Template Normal.WPT has opened to load."
+msgstr ""
+
+msgctxt "KxWpsTextDirectionCommand|"
+msgid ""
+"Settings you chose for the left and right margins,column spacing,or "
+"paragraph indents are too large for the page width in some sections."
+msgstr ""
+
+msgctxt "KxWpsTextOrientationModel|"
+msgid "Horizontal"
+msgstr ""
+
+msgctxt "KxWpsTextOrientationModel|"
+msgid "Rotate All Text 270°"
+msgstr ""
+
+msgctxt "KxWpsTextOrientationModel|"
+msgid "Rotate All Text 90°"
+msgstr ""
+
+msgctxt "KxWpsTextOrientationModel|"
+msgid "Rotate Asian Character 270°"
+msgstr ""
+
+msgctxt "KxWpsTextOrientationModel|"
+msgid "Vertical from Left to Right"
+msgstr ""
+
+msgctxt "KxWpsTextOrientationModel|"
+msgid "Vertical from Right to Left"
+msgstr ""
+
+msgctxt "KxWpsUnderlineColorModel|"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "KxWpsWaterMarkGalleryModel|"
+msgid "Custom"
+msgstr ""
+
+msgctxt "KxWpsWaterMarkGalleryModelItem|"
+msgid "Apply to This Section"
+msgstr ""
+
+msgctxt "KxWpsWaterMarkGalleryModelItem|"
+msgid "Apply to Whole Document"
+msgstr ""
+
+msgctxt "KxWpsWaterMarkGalleryModelItem|"
+msgid "Delete Watermark"
+msgstr ""
+
+msgctxt "KxWpsWaterMarkGalleryModelItem|"
+msgid "Edit Watermark"
+msgstr ""
+
+msgctxt "KxWpsZoomCommand|"
+msgid "This is not a valid measurement."
+msgstr ""
+
+#, qt-format
+msgctxt "KxZoomDlg|"
+msgid "The measurement must be between %1 and %2."
+msgstr ""
+
+#, qt-format
+msgctxt "MultSpinbox|"
+msgid "%1"
+msgstr ""
+
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"\"%1\" is already opened. Reopening will cause changes you made to be "
+"discarded. Do you want to reopen \"%2\"?"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "A macro is currently recording. Click to stop recording."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "No macros is currently recording. Click to begin recording a new macro."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Spell Check"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Track"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "WPS Writer 2007-2010 File(*.wpsx)"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "You must type a character for the custom separator."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "The number input must be between 1 and 63."
+msgstr ""
+
+msgctxt "SelectedFormatPanel|"
+msgid "&Clear Formatting"
+msgstr ""
+
+msgctxt "SelectedFormatPanel|"
+msgid "&Modify..."
+msgstr ""
+
+msgctxt "SelectedFormatPanel|"
+msgid "&New..."
+msgstr ""
+
+msgctxt "StyleFormatPanel|"
+msgid "&Delete..."
+msgstr ""
+
+msgctxt "StyleFormatPanel|"
+msgid "&Modify..."
+msgstr ""
+
+msgctxt "TextFormFieldSpinBox|"
+msgid "Unlimited"
+msgstr ""
+
+msgctxt "dialogstestClass|"
+msgid "dialogstest"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "&Browse..."
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "&Hyperlink"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "&Password:"
+msgstr "&Parola:"
+
+msgctxt "kdlgExportToPDF|"
+msgid "Boo&kmark"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Close when e&xport completes"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Con&firm:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Con&vert title styles to bookmarks"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Conf&irm:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Convert c&ustom styles to bookmarks"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Convert other &styles to bookmarks"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Export Adobe PDF File"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Export options"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "File open password:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Free printing"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "General"
+msgstr "Genel"
+
+msgctxt "kdlgExportToPDF|"
+msgid "Li&nks of footnotes and endnotes"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Low-quality printing"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "P&rinting permission:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Pass&word:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Password to protect permission settings"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Permission Settings"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Permit to &add comments"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Permit to c&opy"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Permit to mo&dify"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Printing Permission"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Printing not allowed"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Save &to"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Summar&y information"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "New &Comment"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid ""
+"Note：only setting password can the below settings effect and avoid being "
+"changed by others."
+msgstr ""
+
+msgctxt "kdlgExportToPDFProgress|"
+msgid "&Open File"
+msgstr ""
+
+msgctxt "kdlgExportToPDFProgress|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "kdlgExportToPDFProgress|"
+msgid "Export to Adobe PDF File"
+msgstr ""
+
+msgctxt "kxdlgHyperlinkWps|"
+msgid "Select a pla&ce in this document:"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "%"
+msgstr "%"
+
+msgctxt "waterMarkDlg|"
+msgid "&Color:"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "&Font:"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "&Horizontal:"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "&Size:"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "&Vertical:"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "&Washout"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "&Zoom:"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "Appl&y to:"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "Conten&t:"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "F&ormat:"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "P&icture watermark"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "waterMarkDlg|"
+msgid "Select &Picture"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "T&ransparency:"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "Te&xt watermark"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "Watermark"
+msgstr ""
+
+msgctxt "waterMarkDlg|"
+msgid "Watermark setup"
+msgstr ""

@@ -1,0 +1,4387 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: tr_TR\n"
+"X-Source-Language: C\n"
+"X-Qt-Contexts: true\n"
+
+msgctxt "BulletNumberGridWidget|"
+msgid "None"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "1-"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "2-"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "3-"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Banded Columns"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Banded Rows"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Dark Style"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Dark Style 2"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Dark Style 2-Emphaisze 3/Emphasize 4"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Dark Style 2-Emphasize 1/Empahsize 2"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Emphasize"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "First Column"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "First Row"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Last Column"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Last Row"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Light style"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Medium Style"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "No Style, No Grid"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "No Style, Table Grid"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Themed Style"
+msgstr ""
+
+msgctxt "CTableStyle|"
+msgid "Dark Style 2-Emphasize 5/Emphasize 6"
+msgstr ""
+
+msgctxt "DesignLayoutPanel|"
+msgid "Apply to &All"
+msgstr ""
+
+msgctxt "DesignLayoutPanel|"
+msgid "Apply to &Master"
+msgstr ""
+
+msgctxt "DesignLayoutPanel|"
+msgid "Apply to &Selected Slides"
+msgstr ""
+
+msgctxt "DesignLayoutPanel|"
+msgid "Replace &All"
+msgstr ""
+
+msgctxt "DesignLayoutPanel|"
+msgid "Replace &Selected Designs"
+msgstr ""
+
+msgctxt "DesignLayoutPanel|"
+msgid "Show &Large Previews"
+msgstr ""
+
+msgctxt "DesignLayoutPanel|"
+msgid "Add &Design"
+msgstr ""
+
+msgctxt "DlgAsianLineBreak|"
+msgid "&Preview"
+msgstr "&Önizle"
+
+msgctxt "DlgAsianLineBreak|"
+msgid "&Typography..."
+msgstr ""
+
+msgctxt "DlgAsianLineBreak|"
+msgid "All&ow hanging punctuation"
+msgstr ""
+
+msgctxt "DlgAsianLineBreak|"
+msgid "Allow Latin text to &wrap in the middle of a word"
+msgstr ""
+
+msgctxt "DlgAsianLineBreak|"
+msgid "Asian Line Break"
+msgstr ""
+
+msgctxt "DlgAsianLineBreak|"
+msgid "Line Break"
+msgstr ""
+
+msgctxt "DlgAsianLineBreak|"
+msgid "Use Asian rules for controlling first and last &characters"
+msgstr ""
+
+msgctxt "DlgFindReplace|"
+msgid "&Find Next"
+msgstr ""
+
+msgctxt "DlgFindReplace|"
+msgid "&Replace..."
+msgstr ""
+
+msgctxt "DlgFindReplace|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "DlgFindReplace|"
+msgid "Fi&nd what:"
+msgstr ""
+
+msgctxt "DlgFindReplace|"
+msgid "Find &whole words only"
+msgstr ""
+
+msgctxt "DlgFindReplace|"
+msgid "FindReplaceDlg"
+msgstr ""
+
+msgctxt "DlgFindReplace|"
+msgid "Match &case"
+msgstr "&Büyük/küçük harf duyarlı"
+
+msgctxt "DlgFindReplace|"
+msgid "Match half/full width for&ms"
+msgstr ""
+
+msgctxt "DlgFindReplace|"
+msgid "Re&place with:"
+msgstr ""
+
+msgctxt "DlgFindReplace|"
+msgid "Replace &All"
+msgstr ""
+
+msgctxt "DlgKxCustomShows|"
+msgid "&Close"
+msgstr "&Kapat"
+
+msgctxt "DlgKxCustomShows|"
+msgid "&Edit..."
+msgstr ""
+
+msgctxt "DlgKxCustomShows|"
+msgid "&New..."
+msgstr ""
+
+msgctxt "DlgKxCustomShows|"
+msgid "&Remove"
+msgstr ""
+
+msgctxt "DlgKxCustomShows|"
+msgid "&Show"
+msgstr ""
+
+msgctxt "DlgKxCustomShows|"
+msgid "C&ustom slide shows:"
+msgstr ""
+
+msgctxt "DlgKxCustomShows|"
+msgid "Cop&y"
+msgstr ""
+
+msgctxt "DlgKxCustomShows|"
+msgid "Custom Slide Shows"
+msgstr ""
+
+msgctxt "DlgKxDefineCustomShows|"
+msgid "&Add >>"
+msgstr ""
+
+msgctxt "DlgKxDefineCustomShows|"
+msgid "&Remove"
+msgstr ""
+
+msgctxt "DlgKxDefineCustomShows|"
+msgid "Custom Slide Shows"
+msgstr ""
+
+msgctxt "DlgKxDefineCustomShows|"
+msgid "Define Custom Show"
+msgstr ""
+
+msgctxt "DlgKxDefineCustomShows|"
+msgid "S&lides in custom show:"
+msgstr ""
+
+msgctxt "DlgKxDefineCustomShows|"
+msgid "Slide show &name:"
+msgstr ""
+
+msgctxt "DlgKxDefineCustomShows|"
+msgid "Slides in &presentation:"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "&All"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "&Browsed by an individual(window)"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "&Custom show:"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "&From:"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "&Loop continuously until 'Esc'"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "&Manually"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "&Presented by a speaker(Full screen)"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "&Show Without Animation"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "&Using timings, if present"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "&to:"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "Advance slides"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "Browsed at a &kiosk(Full screen)"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "Display slide show &on:"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "Double-&Screen Extend Mode Wizard"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "Multiple monitors"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "P&en color:"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "S&how Scrollbar"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "Set Up Show"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "Sho&w presenter view"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "Show Without &Narration"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "Show options"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "Show slides"
+msgstr ""
+
+msgctxt "DlgKxSetupShow|"
+msgid "Show type"
+msgstr ""
+
+msgctxt "DlgWppAnimationEffects|"
+msgid "&Preview Effects"
+msgstr ""
+
+msgctxt "DlgWppAnimationEffects|"
+msgid "Add Effects"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "% &delay between letters"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&After animation:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Animate as part of click sequence"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Animate gridline and legend"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Delay:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Font:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Group Chart:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Group Diagram:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Group Text:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Hide sound icon during slide show"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Hide while not playing"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Repeat:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Sound:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Sp&eed:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Start:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Triggers"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "&Zoom to full screen"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "(None)"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "A&fter:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "A&uto-reverse"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "A&utomatically After"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "After &Current Slide"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "After Previous"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "All at once"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Animate Te&xt:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "By Letter"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Chart Animation"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Di&rection:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Diagram Animation"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Display options"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Effect Options"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Effects"
+msgstr "Efektler"
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Enhancements"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "F&irst Color:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "File:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "From &Beginning"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "From &Last Postion"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "From Ti&me:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Information"
+msgstr "Bilgiler"
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Locked"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Movie Settings"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "On Click"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "On clic&k"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Pat&h:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Play options"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "S&mooth Start"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Se&cond Color:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Seconds"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Slides"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Smooth E&nd"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Sound &volume:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Sound Settings"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "St&yle:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Start Effects on &Click of:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Start Playing"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Stop Playing"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Text Animation"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Timing"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Total Playing Time:"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "UnLocked"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Until End of Slide"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "Until Next Click"
+msgstr ""
+
+msgctxt "DlgWppAnimationOptions|"
+msgid "With Previous"
+msgstr ""
+
+msgctxt "Dlgtypography|"
+msgid "&Custom"
+msgstr ""
+
+msgctxt "Dlgtypography|"
+msgid "Cannot &end line:"
+msgstr ""
+
+msgctxt "Dlgtypography|"
+msgid "Cannot &start line:"
+msgstr ""
+
+msgctxt "Dlgtypography|"
+msgid "First and last characters"
+msgstr ""
+
+msgctxt "Dlgtypography|"
+msgid "Line-breaking characters currently customized for:"
+msgstr ""
+
+msgctxt "Dlgtypography|"
+msgid "S&tandard"
+msgstr ""
+
+msgctxt "Dlgtypography|"
+msgid "Typography"
+msgstr ""
+
+msgctxt "KApplication|"
+msgid "Loading KUI"
+msgstr ""
+
+msgctxt "KCloseThumbnailCommand|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "&Begin style:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "&Dashed:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "&End style:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "&Style:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "Begin s&ize:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "De&fault for new objects"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "End si&ze:"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "Scale"
+msgstr ""
+
+msgctxt "KDialogWrapperBase|formatshape"
+msgid "Size"
+msgstr "Boyut"
+
+msgctxt "KWppAnimDlgColorCommand|"
+msgid "&More Colors..."
+msgstr ""
+
+msgctxt "KWppAnimDlgColorCommand|"
+msgid "Automatic"
+msgstr ""
+
+#. ts-id 0
+msgctxt "KWppZoomSlider|"
+msgid "Fit slide to current window"
+msgstr ""
+
+msgctxt "KxApplication|"
+msgid "WPS Presentation"
+msgstr ""
+
+msgctxt "KxBackgroundDlg|"
+msgid ""
+"Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow "
+"Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme "
+"Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme "
+"Color,Follow Accent and Followed Scheme Color"
+msgstr ""
+
+msgctxt "KxBrowseSlidesDlg|"
+msgid "All Slides"
+msgstr ""
+
+msgctxt "KxBrowseSlidesDlg|"
+msgid "Custom Slide Shows"
+msgstr ""
+
+#, qt-format
+msgctxt "KxBrowseSlidesDlg|"
+msgid "Slide %1"
+msgstr ""
+
+#, qt-format
+msgctxt "KxBrowseSlidesDlg|"
+msgid "Slide %1 .. %2"
+msgstr ""
+
+msgctxt "KxBulletsNumberingDlg|"
+msgid "&More Colors"
+msgstr ""
+
+msgctxt "KxBulletsNumberingDlg|"
+msgid "All Pictures"
+msgstr ""
+
+msgctxt "KxBulletsNumberingDlg|"
+msgid "Do you want to reset the library as default?"
+msgstr ""
+
+msgctxt "KxBulletsNumberingDlg|"
+msgid ""
+"Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow "
+"Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme "
+"Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme "
+"Color,Follow Accent and Followed Scheme Color"
+msgstr ""
+
+msgctxt "KxBulletsNumberingDlg|"
+msgid "Open Image"
+msgstr "Resim Aç"
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "(No Suggestions)"
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "A&lways suggest corrections"
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "Check spelling is complete."
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "Ignore words in &uppercase"
+msgstr ""
+
+msgctxt "KxCheckSpellingDlg|"
+msgid "Ignore words that contain num&bers"
+msgstr ""
+
+msgctxt "KxColorSettingPanel|"
+msgid "Accent"
+msgstr ""
+
+msgctxt "KxColorSettingPanel|"
+msgid "Accent and followed hyperlink"
+msgstr ""
+
+msgctxt "KxColorSettingPanel|"
+msgid "Accent and hyperlink"
+msgstr ""
+
+msgctxt "KxColorSettingPanel|"
+msgid "Background"
+msgstr "Arkaplan"
+
+msgctxt "KxColorSettingPanel|"
+msgid "Fills"
+msgstr ""
+
+msgctxt "KxColorSettingPanel|"
+msgid "Shadows"
+msgstr ""
+
+msgctxt "KxColorSettingPanel|"
+msgid "Text and lines"
+msgstr ""
+
+msgctxt "KxColorSettingPanel|"
+msgid "Title text"
+msgstr ""
+
+msgctxt "KxCommentWidget|"
+msgid "&Continue"
+msgstr ""
+
+msgctxt "KxCommentWidget|"
+msgid "Delete all comments and ink annotations in this presentation?"
+msgstr ""
+
+msgctxt "KxCommentWidget|"
+msgid ""
+"WPS Presentation reached the beginning of the slide. Do you want to continue "
+"from the end?"
+msgstr ""
+
+msgctxt "KxCommentWidget|"
+msgid ""
+"WPS Presentation reached the end of the slide. Do you want to continue from "
+"the beginning?"
+msgstr ""
+
+#, qt-format
+msgctxt "KxCustomShowsDlg|"
+msgid "%1%2"
+msgstr ""
+
+#, qt-format
+msgctxt "KxCustomShowsDlg|"
+msgid "Copy %1 of "
+msgstr ""
+
+#, qt-format
+msgctxt "KxCustomShowsDlg|"
+msgid "Custom show %1"
+msgstr ""
+
+msgctxt "KxCustomShowsDlg|"
+msgid "^Copy (\\d+ )?of (.*)"
+msgstr ""
+
+#, qt-format
+msgctxt "KxCustomShowsDlg|"
+msgid "Copy %1 of %2"
+msgstr ""
+
+#, qt-format
+msgctxt "KxDefineCustomShowsDlg|"
+msgid "%1. "
+msgstr ""
+
+#, qt-format
+msgctxt "KxDefineCustomShowsDlg|"
+msgid "(%1) "
+msgstr ""
+
+msgctxt "KxDefineCustomShowsDlg|"
+msgid ""
+"You cannot have two custom shows with the same name. Please enter a new name."
+msgstr ""
+
+msgctxt "KxDefineCustomShowsDlg|"
+msgid "You must name your custom show."
+msgstr ""
+
+msgctxt "KxDlgBackground|"
+msgid "&Apply"
+msgstr ""
+
+msgctxt "KxDlgBackground|"
+msgid "&Background fill"
+msgstr ""
+
+msgctxt "KxDlgBackground|"
+msgid "&Preview"
+msgstr "&Önizle"
+
+msgctxt "KxDlgBackground|"
+msgid "Apply &to All"
+msgstr ""
+
+msgctxt "KxDlgBackground|"
+msgid "Background"
+msgstr "Arkaplan"
+
+msgctxt "KxDlgBackground|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxDlgBackground|"
+msgid "I&gnore the background of master slide"
+msgstr ""
+
+msgctxt "KxDlgBkgndMusicTip|"
+msgid "&Do not prompt next time."
+msgstr ""
+
+msgctxt "KxDlgBkgndMusicTip|"
+msgid ""
+"Background music file cannot be saved in\n"
+"the presentation file directly.You can put it with the presentation file in "
+"the same folder to play."
+msgstr ""
+
+msgctxt "KxDlgBkgndMusicTip|"
+msgid "Icon"
+msgstr ""
+
+msgctxt "KxDlgBkgndMusicTip|"
+msgid "Zoom"
+msgstr "Büyütme/Küçültme"
+
+msgctxt "KxDlgBrowseSlides|"
+msgid "&Go To"
+msgstr ""
+
+msgctxt "KxDlgBrowseSlides|"
+msgid "&Show:"
+msgstr ""
+
+msgctxt "KxDlgBrowseSlides|"
+msgid "S&lide titles:"
+msgstr ""
+
+msgctxt "KxDlgBrowseSlides|"
+msgid "Slides Roaming"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "% of text"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "&Color:"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "&Picture..."
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "Bullet and Numbering"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "Bulleted"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "C&ustomize..."
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "Numbered"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "R&eset"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "S&ize:"
+msgstr ""
+
+msgctxt "KxDlgBulletsNumbering|"
+msgid "&Begin a&t:"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Add to Dictionary"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Change"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Delete"
+msgstr "&Sil"
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Ignore"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Options"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Paragraph:"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Set Language"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "&Undo"
+msgstr "&Geri Al"
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "Change &to:"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "Change A&ll"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "I&gnore All"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "Suggestio&ns:"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "The word is not in the dictionary"
+msgstr ""
+
+msgctxt "KxDlgCheckSpelling|"
+msgid "Spell Check"
+msgstr ""
+
+msgctxt "KxDlgDateAndTime|"
+msgid "&Available formats:"
+msgstr ""
+
+msgctxt "KxDlgDateAndTime|"
+msgid "&Language(Country/Area):"
+msgstr ""
+
+msgctxt "KxDlgDateAndTime|"
+msgid "&Update automatically"
+msgstr ""
+
+msgctxt "KxDlgDateAndTime|"
+msgid "Date and Time"
+msgstr ""
+
+msgctxt "KxDlgDeletebkmusic|"
+msgid "&Do not prompt next time."
+msgstr ""
+
+msgctxt "KxDlgDeletebkmusic|"
+msgid "Are you sure to delete the background music from current slide?"
+msgstr ""
+
+msgctxt "KxDlgDeletebkmusic|"
+msgid "Delete Background Music"
+msgstr ""
+
+msgctxt "KxDlgDeletebkmusic|"
+msgid "Icon"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Color:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Default for new objects"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Emboss"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Size:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "&Underline"
+msgstr "&Altıçizili"
+
+msgctxt "KxDlgFont|"
+msgid "Asian text fo&nt:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Bold"
+msgstr "Kalın"
+
+msgctxt "KxDlgFont|"
+msgid "Bold Italic"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Effects"
+msgstr "Efektler"
+
+msgctxt "KxDlgFont|"
+msgid "F&ont style:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Font"
+msgstr "Yazıtipi"
+
+msgctxt "KxDlgFont|"
+msgid "Italic"
+msgstr "Yatık"
+
+msgctxt "KxDlgFont|"
+msgid "Latin text &font:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Offse&t:"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Regular"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Sh&adow"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Su&bscript"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid "Supe&rscript"
+msgstr ""
+
+msgctxt "KxDlgFont|"
+msgid ""
+"This is a TrueType font. This same font will be used on both your printer "
+"and your screen."
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "&Display grid on screen"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "&Objects follow with guides       "
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "&Snap objects to other objects"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "1 cm"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "2 cm"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "2 grid per cm"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "3 cm"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "3 grid per cm"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "4 cm"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "4 grid per cm"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "5 cm"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "5 grid per cm"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "6 grid per cm"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "8 grid per cm"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "D&isplay drawing guides on screen"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "Grid and Guides"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "Grid settings"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "Guide settings"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "S&pacing:"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "Set as Default(&C)"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "Snap objects to &grid         "
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "Snap to"
+msgstr ""
+
+msgctxt "KxDlgGridAndGuids|"
+msgid "cm"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "&Apply"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "&Date and time"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "&Footer"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "&Header"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "&Language:"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "&Page number"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "&Update automatically"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "Appl&y to All"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "Do not show on title &slide"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "Fi&xed"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "Header and Footer"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "Include on page"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "Include on slide"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "Notes and Handouts"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "Preview"
+msgstr "Önizle"
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "Slide"
+msgstr ""
+
+msgctxt "KxDlgHeaderFooter|"
+msgid "Slide &number"
+msgstr ""
+
+msgctxt "KxDlgInsertMedia|"
+msgid "&Automatically"
+msgstr ""
+
+msgctxt "KxDlgInsertMedia|"
+msgid "How do you want the movie to start in the slide show?"
+msgstr ""
+
+msgctxt "KxDlgInsertMedia|"
+msgid "Icon"
+msgstr ""
+
+msgctxt "KxDlgInsertMedia|"
+msgid "When &Clicked"
+msgstr ""
+
+msgctxt "KxDlgInsertMedia|"
+msgid "WPS Presentation"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "Insert Table"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "Number of &columns:"
+msgstr ""
+
+msgctxt "KxDlgInsertTable|"
+msgid "Number of &rows:"
+msgstr ""
+
+msgctxt "KxDlgLecturerRemark|"
+msgid "&Slide:"
+msgstr ""
+
+msgctxt "KxDlgLecturerRemark|"
+msgid "Speaker Notes"
+msgstr ""
+
+msgctxt "KxDlgLecturerRemark|"
+msgid "&OK"
+msgstr "&Tamam"
+
+msgctxt "KxDlgMasterViewLayout|"
+msgid "&Date"
+msgstr ""
+
+msgctxt "KxDlgMasterViewLayout|"
+msgid "&Footer"
+msgstr ""
+
+msgctxt "KxDlgMasterViewLayout|"
+msgid "&Slide number"
+msgstr ""
+
+msgctxt "KxDlgMasterViewLayout|"
+msgid "&Title"
+msgstr ""
+
+msgctxt "KxDlgMasterViewLayout|"
+msgid "Master Layout"
+msgstr ""
+
+msgctxt "KxDlgMasterViewLayout|"
+msgid "Placeholders"
+msgstr ""
+
+msgctxt "KxDlgMasterViewLayout|"
+msgid "Te&xt"
+msgstr ""
+
+msgctxt "KxDlgMovieOptions|"
+msgid "&Loop until stopped"
+msgstr ""
+
+msgctxt "KxDlgMovieOptions|"
+msgid "&Rewind movie after playing"
+msgstr ""
+
+msgctxt "KxDlgMovieOptions|"
+msgid "&Zoom to full screen"
+msgstr ""
+
+msgctxt "KxDlgMovieOptions|"
+msgid "Display options"
+msgstr ""
+
+msgctxt "KxDlgMovieOptions|"
+msgid "File:"
+msgstr ""
+
+msgctxt "KxDlgMovieOptions|"
+msgid "Information"
+msgstr "Bilgiler"
+
+msgctxt "KxDlgMovieOptions|"
+msgid "Movie Options"
+msgstr ""
+
+msgctxt "KxDlgMovieOptions|"
+msgid "Play options"
+msgstr ""
+
+msgctxt "KxDlgMovieOptions|"
+msgid "Sound &volume:"
+msgstr ""
+
+msgctxt "KxDlgMovieOptions|"
+msgid "Total Playing Time:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&Adjust title text by placeholder automatically"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&Advanced"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&Color/Grayscale:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&Default file location:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&End with black slide"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&Name:"
+msgstr "&İsim:"
+
+msgctxt "KxDlgOption|"
+msgid "&Recently used file list:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&Reenter password:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&Right of slide"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&Save backup file every:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&Smart Backup"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&Vertical ruler"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Show &windows in taskbar"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "..."
+msgstr "..."
+
+msgctxt "KxDlgOption|"
+msgid "A&lways suggest corrections"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Adj&ust normal text by placeholder automatically"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Apply Auto&Layout to new objects."
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Apply when typing"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Apply when working"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Color"
+msgstr "Renk"
+
+msgctxt "KxDlgOption|"
+msgid "Create &backup file at the first save"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Custom &Dictionaries..."
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Default print setting for this document"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Document passw&ord:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Edit"
+msgstr "Düzenle"
+
+msgctxt "KxDlgOption|"
+msgid "Enable &timing backup"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid ""
+"Enter a password below to protect this document.\n"
+"The Advanced button allows you to choose from different encryption types."
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "File encryption options for this document"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "File sharing options for this document"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Fra&me slides"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "General and Save"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Gerneral options"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Handouts(2 slides per page)"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Handouts(3 slides per page)"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Handouts(6 slides per page)"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Help us to improve WPS Office"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Ignore words in &uppercase"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Ignore words that contain num&bers"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Initia&ls:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Le&ft of slide"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "New Doc&ument"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Notes pages"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Online Templates(&G)"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Options"
+msgstr "Seçenekler"
+
+msgctxt "KxDlgOption|"
+msgid "Outline view"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Password to &modify:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "PowerPoint Presentation"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Print"
+msgstr "Yazdır"
+
+msgctxt "KxDlgOption|"
+msgid "Print &hidden slides"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Print &what:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Privacy"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Prompt to &keep ink when exiting"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Recovery options"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Reenter &password:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Save &presentation files as:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Save options"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Security"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Show"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Slide &layout task pane while insert new slides"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Slide show"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Slides"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Start with"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Start with:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Start&up task window"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Status &bar"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Thumbnail and outline position"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Use the following &print settings:"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Use the most &recently print settings"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "User Information"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "View"
+msgstr "Görünüm"
+
+msgctxt "KxDlgOption|"
+msgid "WPS Presentation File"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Show menu on right mouse click(&P)"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&entries"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "&minutes"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Pure black and white"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid ""
+"Caution: please keep your password properly. File will never be recovered if "
+"you lose or forget the password.(Remember that passwords are case-sensitive.)"
+msgstr ""
+
+msgctxt "KxDlgOption|"
+msgid "Spell Check"
+msgstr ""
+
+msgctxt "KxDlgPackge|"
+msgid "&Browse..."
+msgstr ""
+
+msgctxt "KxDlgPackge|"
+msgid "&Location:"
+msgstr ""
+
+msgctxt "KxDlgPackge|"
+msgid "Folder &name:"
+msgstr ""
+
+msgctxt "KxDlgPackge|"
+msgid "Presentation Package"
+msgstr ""
+
+msgctxt "KxDlgPackge|"
+msgid "Package into specified folder:"
+msgstr ""
+
+msgctxt "KxDlgPackge|"
+msgid "&Also packaged as compressed file"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Height:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Landscape"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Number slides from:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Paper size"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Slides size"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "&Width:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "35 mm Slide"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "A3 Paper(297x420 mm)"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "A4 Paper(210x297 mm)"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "B4(ISO) Paper(250x353 mm)"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "B5(ISO) Paper(176x250 mm)"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Banner"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Custom"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "H&eight:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "L&andscape"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Ledger Paper(11x17 Inch)"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Letter Paper(8.5x11 Inch)"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Notes, handouts and outline"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "On-screen show"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Orientation"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "P&ortrait"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Page Setup"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Po&rtrait"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Projector"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "Slides"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "W&idth:"
+msgstr ""
+
+msgctxt "KxDlgPageSetup|"
+msgid "cm"
+msgstr ""
+
+msgctxt "KxDlgProgress|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "KxDlgProgress|"
+msgid "Copying file to folder"
+msgstr ""
+
+msgctxt "KxDlgReplaceFont|"
+msgid "&Replace"
+msgstr ""
+
+msgctxt "KxDlgReplaceFont|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxDlgReplaceFont|"
+msgid "Re&place:"
+msgstr ""
+
+msgctxt "KxDlgReplaceFont|"
+msgid "Replace Font"
+msgstr ""
+
+msgctxt "KxDlgReplaceFont|"
+msgid "Replace &with:"
+msgstr ""
+
+msgctxt "KxDlgSaveInk|"
+msgid "&Discard"
+msgstr ""
+
+msgctxt "KxDlgSaveInk|"
+msgid "&Keep"
+msgstr ""
+
+msgctxt "KxDlgSaveInk|"
+msgid "Do you want to keep your ink annotations?"
+msgstr ""
+
+msgctxt "KxDlgSaveInk|"
+msgid "WPS Presentation"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "1+Enter"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "Advance to the next slide"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "Backspace, 'P', left or up arrow, or page up"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "End of the slide show"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "Go to that slide"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "Left click, space, 'N', right or down arrow enter, or page down"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "Number followed by Enter"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "OK"
+msgstr "Tamam"
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "Return to the first slide"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "Return to the previous slide"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "Right click, or Shift+F10"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "Slide Show Help"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "During the slide show:"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "Press Esc"
+msgstr ""
+
+msgctxt "KxDlgSlideShowHelp|"
+msgid "Shortcut menu"
+msgstr ""
+
+msgctxt "KxDlgSoundOptions|"
+msgid "&Loop until stopped"
+msgstr ""
+
+msgctxt "KxDlgSoundOptions|"
+msgid "File:"
+msgstr ""
+
+msgctxt "KxDlgSoundOptions|"
+msgid "Information"
+msgstr "Bilgiler"
+
+msgctxt "KxDlgSoundOptions|"
+msgid "Play options"
+msgstr ""
+
+msgctxt "KxDlgSoundOptions|"
+msgid "Sound &volume:"
+msgstr ""
+
+msgctxt "KxDlgSoundOptions|"
+msgid "Sound Options"
+msgstr ""
+
+msgctxt "KxDlgSoundOptions|"
+msgid "Total Playing Time:"
+msgstr ""
+
+msgctxt "KxDlgSplitCells|"
+msgid "Number of &columns:"
+msgstr ""
+
+msgctxt "KxDlgSplitCells|"
+msgid "Number of &rows:"
+msgstr ""
+
+msgctxt "KxDlgSplitCells|"
+msgid "Split Cells"
+msgstr ""
+
+msgctxt "KxDlgViewZoom|"
+msgid "%"
+msgstr "%"
+
+msgctxt "KxDlgViewZoom|"
+msgid "&100%"
+msgstr ""
+
+msgctxt "KxDlgViewZoom|"
+msgid "&200%"
+msgstr ""
+
+msgctxt "KxDlgViewZoom|"
+msgid "&33%"
+msgstr ""
+
+msgctxt "KxDlgViewZoom|"
+msgid "&400%"
+msgstr ""
+
+msgctxt "KxDlgViewZoom|"
+msgid "&50%"
+msgstr ""
+
+msgctxt "KxDlgViewZoom|"
+msgid "&66%"
+msgstr ""
+
+msgctxt "KxDlgViewZoom|"
+msgid "&Fit"
+msgstr ""
+
+msgctxt "KxDlgViewZoom|"
+msgid "&Percent"
+msgstr ""
+
+msgctxt "KxDlgViewZoom|"
+msgid "Zoom"
+msgstr "Büyütme/Küçültme"
+
+msgctxt "KxDlgViewZoom|"
+msgid "Zoom to"
+msgstr ""
+
+msgctxt "KxDlgVolumeRedress|"
+msgid "&Mute"
+msgstr ""
+
+msgctxt "KxDlgVolumeRedress|"
+msgid "&Volume"
+msgstr ""
+
+msgctxt "KxDlgVolumeRedress|"
+msgid "Volume Redress"
+msgstr ""
+
+msgctxt "KxDlgVolumeRedress|"
+msgid "cbMute"
+msgstr ""
+
+msgctxt "KxDlgVolumeRedress|"
+msgid "tbVolume"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "&Browse..."
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "&Hyperlink to:"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "&None"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "&Play sound:"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "&Run program"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Action Settings"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Action on click"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Action on mouse over"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Custom show ..."
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "End show"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "First slide"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Last slide"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Last slide viewed"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Mouse Click"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Mouse Over"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Next slide"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Object &action"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Other WPS Presentation file..."
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Other file..."
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Previous slide"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Run &macro:"
+msgstr ""
+
+msgctxt "KxDlgWppActionSettings|"
+msgid "Slide..."
+msgstr ""
+
+msgctxt "KxDlgWppColorScheme|"
+msgid " Change C&olor... "
+msgstr ""
+
+msgctxt "KxDlgWppColorScheme|"
+msgid " De&lete Color Scheme "
+msgstr ""
+
+msgctxt "KxDlgWppColorScheme|"
+msgid "&Apply"
+msgstr ""
+
+msgctxt "KxDlgWppColorScheme|"
+msgid "&Color schemes"
+msgstr ""
+
+msgctxt "KxDlgWppColorScheme|"
+msgid "&Preview"
+msgstr "&Önizle"
+
+msgctxt "KxDlgWppColorScheme|"
+msgid "&Scheme colors"
+msgstr ""
+
+msgctxt "KxDlgWppColorScheme|"
+msgid "Custom"
+msgstr ""
+
+msgctxt "KxDlgWppColorScheme|"
+msgid "Edit Color Schemes"
+msgstr ""
+
+msgctxt "KxDlgWppColorScheme|"
+msgid "Standard"
+msgstr ""
+
+msgctxt "KxDlgWppExtendModeGuide|"
+msgid ""
+"   This wizard will help you to understand the various settings of the "
+"double-screen extended mode. Please use the following links to view the help "
+"files:"
+msgstr ""
+
+msgctxt "KxDlgWppExtendModeGuide|"
+msgid "&Cancel"
+msgstr "&İptal"
+
+msgctxt "KxDlgWppExtendModeGuide|"
+msgid "&Setting"
+msgstr ""
+
+msgctxt "KxDlgWppExtendModeGuide|"
+msgid "Double-Screen Extended Mode Wizard"
+msgstr ""
+
+msgctxt "KxDlgWppExtendModeGuide|"
+msgid ""
+"   Use extend mode to show the speaker view and playing view on different "
+"monitors. The audience can only see the process of slide shows and the "
+"operation of drawing marks. The speaker can run other programs or perform "
+"other operations without the audience's noticing"
+msgstr ""
+
+msgctxt "KxDlgWppLinkToCustomShows|"
+msgid "&Show and return"
+msgstr ""
+
+msgctxt "KxDlgWppLinkToCustomShows|"
+msgid "C&ustom slide shows:"
+msgstr ""
+
+msgctxt "KxDlgWppLinkToCustomShows|"
+msgid "Link To Custom Show"
+msgstr ""
+
+msgctxt "KxDlgWppLinkToSlides|"
+msgid "&Slide title:"
+msgstr ""
+
+msgctxt "KxDlgWppLinkToSlides|"
+msgid "Hyperlink to Slide"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "&All"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "&Current slide"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "&Frame slides"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "&Vertical"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Colla&te"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Colo&r:"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Color"
+msgstr "Renk"
+
+msgctxt "KxDlgWppPrint|"
+msgid "Copies"
+msgstr "Kopya"
+
+msgctxt "KxDlgWppPrint|"
+msgid "Cust&om show:"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Enter slide numbers or slide ranges. For example, 1,3,5-12"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Handouts"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Hori&zontal"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Notes pages"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Num&ber of copies:"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Order:"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Outline view"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Pr&eview"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Print"
+msgstr "Yazdır"
+
+msgctxt "KxDlgWppPrint|"
+msgid "Print &hidden slides"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Print &what:"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Print range"
+msgstr "Yazdırma oranı"
+
+msgctxt "KxDlgWppPrint|"
+msgid "Pure black and white"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Selectio&n"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Sli&des:"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Slides"
+msgstr ""
+
+msgctxt "KxDlgWppPrint|"
+msgid "Slides per pa&ge:"
+msgstr ""
+
+msgctxt "KxDlglineSpace|"
+msgid "&After paragraph"
+msgstr ""
+
+msgctxt "KxDlglineSpace|"
+msgid "&Before paragraph"
+msgstr ""
+
+msgctxt "KxDlglineSpace|"
+msgid "&Line spacing"
+msgstr ""
+
+msgctxt "KxDlglineSpace|"
+msgid "Line Spacing"
+msgstr ""
+
+msgctxt "KxDlglineSpace|"
+msgid "Lines"
+msgstr ""
+
+msgctxt "KxDlglineSpace|"
+msgid "Points"
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "All slides in current presentation are hidden."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "All slides in this custom show are hidden."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "All slides in this range are hidden."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "Confirmation password does not match."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "Current slide has marked as hidden."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid ""
+"Either ensure that the slides are no longer hidden, ot choose to export "
+"hidden slides."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "Handouts"
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "Input permission password."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "Invalid input.        "
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "Notes"
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "PDF File(*.pdf)|*.pdf||"
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "Permission password and document open password must be different."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "Please input the password of permission settings!"
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "Save Adobe PDF File"
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "The directory you specified does not exist."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "The file name is the same as an existing directory."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid ""
+"The file you specified already exists. Do you want to replace it and "
+"continue?"
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "The selected slides are hidden."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid ""
+"The slide you selected to export does not exist. Please select another one."
+msgstr ""
+
+msgctxt "KxExportPDFDlg|"
+msgid "You do not have permission to write files into this directory."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid " Page..."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Encountered an error when opening PDF file!"
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Exporting No."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Exporting PDF file is completed."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Exporting document information..."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Exporting labels..."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid ""
+"PDF Converter encountered a memory allocation problem. Please reduce "
+"document size or image size."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "Preparing for exporting PDF file..."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "User canceled operation."
+msgstr ""
+
+msgctxt "KxExportToPDFProgressDlg|"
+msgid "WPS Presentation encountered an error while trying exporting to PDF!"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Replace"
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "&Replace..."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Find"
+msgstr "Bul"
+
+msgctxt "KxFindReplaceDlg|"
+msgid "Replace"
+msgstr "Değiştir"
+
+#, qt-format
+msgctxt "KxFindReplaceDlg|"
+msgid ""
+"WPS Presentation has finished searching the document and made %1 "
+"replacements."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid "WPS Presentation has finished searching the document."
+msgstr ""
+
+msgctxt "KxFindReplaceDlg|"
+msgid ""
+"WPS Presentation has finished searching the document. The search item was "
+"not found."
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "(Use Asian text font)"
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid ""
+"Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow "
+"Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme "
+"Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme "
+"Color,Follow Accent and Followed Scheme Color"
+msgstr ""
+
+#, qt-format
+msgctxt "KxFontDlg|"
+msgid ""
+"The font %1 is not available on your system. The text will be shown in a "
+"substitute font. Do yo want to use it anyway?"
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "This font size is not available."
+msgstr ""
+
+msgctxt "KxFontDlg|"
+msgid "This font style is not available."
+msgstr ""
+
+msgctxt "KxFormatTableDlg|"
+msgid "Custom"
+msgstr ""
+
+msgctxt "KxFormatTableDlg|"
+msgid "Follow Accent Scheme Color"
+msgstr ""
+
+msgctxt "KxFormatTableDlg|"
+msgid "Follow Accent and Followed Hyperlink Scheme Color"
+msgstr ""
+
+msgctxt "KxFormatTableDlg|"
+msgid "Follow Accent and Hyperlink Scheme Color"
+msgstr ""
+
+msgctxt "KxFormatTableDlg|"
+msgid "Follow Background Scheme Color"
+msgstr ""
+
+msgctxt "KxFormatTableDlg|"
+msgid ""
+"Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow "
+"Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme "
+"Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme "
+"Color,Follow Accent and Followed Scheme Color"
+msgstr ""
+
+msgctxt "KxFormatTableDlg|"
+msgid "Follow Fills Scheme Color"
+msgstr ""
+
+msgctxt "KxFormatTableDlg|"
+msgid "Follow Shadows Scheme Color"
+msgstr ""
+
+msgctxt "KxFormatTableDlg|"
+msgid "Follow Text and Lines Scheme Color"
+msgstr ""
+
+msgctxt "KxFormatTableDlg|"
+msgid "Follow Title Text Scheme Color"
+msgstr ""
+
+msgctxt "KxHyperlinkWppPage|"
+msgid "<<Selection in document>>"
+msgstr ""
+
+msgctxt "KxHyperlinkWppPage|"
+msgid "Custom Show"
+msgstr ""
+
+msgctxt "KxHyperlinkWppPage|"
+msgid "First Slide"
+msgstr ""
+
+msgctxt "KxHyperlinkWppPage|"
+msgid "Last Slide"
+msgstr ""
+
+msgctxt "KxHyperlinkWppPage|"
+msgid "Next Slide"
+msgstr ""
+
+msgctxt "KxHyperlinkWppPage|"
+msgid "Previous Slide"
+msgstr ""
+
+#, qt-format
+msgctxt "KxHyperlinkWppPage|"
+msgid "Slide %1"
+msgstr ""
+
+msgctxt "KxHyperlinkWppPage|"
+msgid "Slide Title"
+msgstr ""
+
+msgctxt "KxInsertMediaDlg|"
+msgid "How do you want the movie to start in the slide show?"
+msgstr ""
+
+msgctxt "KxInsertMediaDlg|"
+msgid "How do you want the music to start in the slide show?"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "Banded Columns"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "Banded Rows"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "Best Match"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "First Column"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "First Row"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "First Row And First Column"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "First Row And Last Row"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "Last Column"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "Last Row"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "Light"
+msgstr ""
+
+msgctxt "KxKsoTableStyleModel|"
+msgid "Medium"
+msgstr ""
+
+#, qt-format
+msgctxt "KxLineWeightGroup|"
+msgid "%1 pt"
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid "Comfirmation password does not match."
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid "Please select one &folder:"
+msgstr ""
+
+#, qt-format
+msgctxt "KxOptionsDlg|"
+msgid ""
+"The path or name of \"%1\" is invalid. Please check that the path and file "
+"name are correct."
+msgstr ""
+
+msgctxt "KxOptionsDlg|"
+msgid "Open"
+msgstr "Aç"
+
+msgctxt "KxPackageBaseCommand|"
+msgid ""
+"The file was not saved. Please save the file before the packaging operation."
+msgstr ""
+
+msgctxt "KxPackgeCommand|"
+msgid ""
+"Copy the presentation file and related media items, such as video, audio, "
+"etc. into the specified\n"
+" folder, in order to play this file on another computer."
+msgstr ""
+
+msgctxt "KxPackgeDlg|"
+msgid "File name contains illegal characters."
+msgstr ""
+
+msgctxt "KxPackgeDlg|"
+msgid ""
+"File or folder with specified name already exists. Please specify another "
+"name."
+msgstr ""
+
+msgctxt "KxPackgeDlg|"
+msgid "Location"
+msgstr "Konum"
+
+msgctxt "KxPackgeDlg|"
+msgid "Specified directory does not exist. Please specify another directory."
+msgstr ""
+
+msgctxt "KxPackgeDlg|"
+msgid "Zip file &name:"
+msgstr ""
+
+msgctxt "KxPackgeDlg|"
+msgid "Package into specified folder:"
+msgstr ""
+
+msgctxt "KxPackgeToZipCommand|"
+msgid ""
+"Copy the presentation file and related media items, such as video, audio, "
+"etc. into the specified\n"
+" Zip folder, in order to play this file on another computer."
+msgstr ""
+
+msgctxt "KxPageSetupDlg|"
+msgid "Custom"
+msgstr ""
+
+msgctxt "KxRehearsalToolbar|"
+msgid "Next"
+msgstr "Sonraki"
+
+msgctxt "KxRehearsalToolbar|"
+msgid "Pause"
+msgstr "Pause"
+
+msgctxt "KxRehearsalToolbar|"
+msgid "Rehearsal"
+msgstr ""
+
+msgctxt "KxRehearsalToolbar|"
+msgid "Repeat"
+msgstr "Tekrarla"
+
+msgctxt "KxRehearsalToolbar|"
+msgid "Slide Time"
+msgstr ""
+
+msgctxt "KxRehearsalToolbar|"
+msgid "Slide Total Time"
+msgstr ""
+
+#, qt-format
+msgctxt "KxRenameMasterDlg|"
+msgid ""
+"The name \"%1\" is already in use. Please modify the name by changing at "
+"least 1 of the first 20 characters of \"%2\"."
+msgstr ""
+
+msgctxt "KxRenameMasterDlgClass|"
+msgid "&Master name:"
+msgstr ""
+
+msgctxt "KxRenameMasterDlgClass|"
+msgid "&Rename"
+msgstr "&Yeniden Adlandır"
+
+msgctxt "KxRenameMasterDlgClass|"
+msgid "Rename Master"
+msgstr ""
+
+#, qt-format
+msgctxt "KxReplaceFontDlg|"
+msgid "Document does not have the font %1!"
+msgstr ""
+
+#, qt-format
+msgctxt "KxReplaceFontDlg|"
+msgid ""
+"The font %1 is not available on your system, so a substitute is being "
+"displayed. Do you want to use this font anyway?"
+msgstr ""
+
+msgctxt "KxSetupShowDlg|"
+msgid "Define"
+msgstr ""
+
+#, qt-format
+msgctxt "KxSetupShowDlg|"
+msgid "Monitor %1"
+msgstr ""
+
+msgctxt "KxSetupShowDlg|"
+msgid "Primary Monitor"
+msgstr ""
+
+msgctxt "KxSetupShowDlg|"
+msgid "[Restricted]"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "Banded Columns"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "Banded Rows"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "Best Match"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "First Column"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "First Row"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "First Row And First Column"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "First Row And Last Row"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "Last Column"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "Last Row"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "Light"
+msgstr ""
+
+msgctxt "KxStylesPanel|"
+msgid "Medium"
+msgstr ""
+
+msgctxt "KxTpAnimationScheme|"
+msgid "Animation Schemes"
+msgstr ""
+
+msgctxt "KxTpAnimationScheme|"
+msgid "Apply to All Slides"
+msgstr ""
+
+msgctxt "KxTpAnimationScheme|"
+msgid "Apply to Master"
+msgstr ""
+
+msgctxt "KxTpAnimationScheme|"
+msgid "Apply to selected slides"
+msgstr ""
+
+msgctxt "KxTpAnimationScheme|"
+msgid "AutoPreview"
+msgstr ""
+
+msgctxt "KxTpAnimationScheme|"
+msgid "Play"
+msgstr ""
+
+msgctxt "KxTpAnimationScheme|"
+msgid "Slide Show"
+msgstr ""
+
+msgctxt "KxTpAnimationScheme|"
+msgid "Infotip"
+msgstr ""
+
+msgctxt "KxTpAnimationSchemeWidget|"
+msgid "Color Schemes"
+msgstr ""
+
+msgctxt "KxTpAnimationSchemeWidget|"
+msgid "Design Templates"
+msgstr ""
+
+msgctxt "KxTpColorScheme|"
+msgid "Apply a color scheme:"
+msgstr ""
+
+msgctxt "KxTpColorScheme|"
+msgid "Color Schemes"
+msgstr ""
+
+msgctxt "KxTpColorScheme|"
+msgid "Infotip"
+msgstr ""
+
+msgctxt "KxTpColorSchemeWidget|"
+msgid "Animation Schemes"
+msgstr ""
+
+msgctxt "KxTpColorSchemeWidget|"
+msgid "Design Templates"
+msgstr ""
+
+msgctxt "KxTpColorSchemeWidget|"
+msgid "Edit Color Schemes..."
+msgstr ""
+
+msgctxt "KxTpSlideDesign|"
+msgid "Apply a design template:"
+msgstr ""
+
+msgctxt "KxTpSlideDesign|"
+msgid "Design Templates"
+msgstr ""
+
+msgctxt "KxTpSlideDesign|"
+msgid "Infotip"
+msgstr ""
+
+msgctxt "KxTpSlideDesignWidget|"
+msgid "Animation Schemes"
+msgstr ""
+
+msgctxt "KxTpSlideDesignWidget|"
+msgid "Browse..."
+msgstr ""
+
+msgctxt "KxTpSlideDesignWidget|"
+msgid "Color Schemes"
+msgstr ""
+
+msgctxt "KxTpSlideLayout|"
+msgid "Apply a design template:"
+msgstr ""
+
+msgctxt "KxTpSlideLayout|"
+msgid "Show when inserting new slides"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Advance slide"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Apply to All Slides"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Apply to Master"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Apply to selected slides:"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "AutoPreview"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Automatically after"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Loop until next sound"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Modify transition"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "On mouse click"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Play"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Rehearse Current Page"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Slide Show"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Sound:"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Speed:"
+msgstr ""
+
+msgctxt "KxTpSlideTransition|"
+msgid "Zoom"
+msgstr "Büyütme/Küçültme"
+
+msgctxt "KxTpSlideTransitionWidget|"
+msgid "Loop until next sound"
+msgstr ""
+
+msgctxt "KxTpSlideTransitionWidget|"
+msgid "Play"
+msgstr ""
+
+msgctxt "KxTpTableStyle|"
+msgid "Clear Table Style"
+msgstr ""
+
+msgctxt "KxTpTableStyle|"
+msgid "Table Style Options:"
+msgstr ""
+
+msgctxt "KxTpTableStyle|"
+msgid "Table Style:"
+msgstr ""
+
+msgctxt "KxTypograpgyDlg|"
+msgid "(None)"
+msgstr ""
+
+msgctxt "KxTypograpgyDlg|"
+msgid "Chinese(China)"
+msgstr ""
+
+msgctxt "KxWidgetPosition|"
+msgid "&From:"
+msgstr ""
+
+msgctxt "KxWidgetPosition|"
+msgid "&Horizontal:"
+msgstr ""
+
+msgctxt "KxWidgetPosition|"
+msgid "&Vertical:"
+msgstr ""
+
+msgctxt "KxWidgetPosition|"
+msgid "Center"
+msgstr ""
+
+msgctxt "KxWidgetPosition|"
+msgid "F&rom:"
+msgstr ""
+
+msgctxt "KxWidgetPosition|"
+msgid "Position on slide"
+msgstr ""
+
+msgctxt "KxWidgetPosition|"
+msgid "Top left corner"
+msgstr ""
+
+msgctxt "KxWidgetPosition|"
+msgid "Zoom"
+msgstr "Büyütme/Küçültme"
+
+msgctxt "KxWidgetPosition|"
+msgid "pt, 2, -169077, 169077, 1"
+msgstr ""
+
+msgctxt "KxWppActionSettingsDlg|"
+msgid "&Open"
+msgstr "&Aç"
+
+msgctxt "KxWppActionSettingsDlg|"
+msgid "All Files"
+msgstr ""
+
+msgctxt "KxWppActionSettingsDlg|"
+msgid "All Presentations"
+msgstr ""
+
+msgctxt "KxWppActionSettingsDlg|"
+msgid "Hyperlink To URL"
+msgstr ""
+
+msgctxt "KxWppActionSettingsDlg|"
+msgid "Hyperlink to Other File"
+msgstr ""
+
+msgctxt "KxWppActionSettingsDlg|"
+msgid "Hyperlink to Other WPS Presentation Files"
+msgstr ""
+
+msgctxt "KxWppActionSettingsDlg|"
+msgid "Play"
+msgstr ""
+
+msgctxt "KxWppActionSettingsDlg|"
+msgid "Please Choose a Program to Launch"
+msgstr ""
+
+msgctxt "KxWppActionSettingsDlg|"
+msgid "Program(*.exe);;All Files(*.*)"
+msgstr ""
+
+#, qt-format
+msgctxt "KxWppActionSettingsDlg|"
+msgid "Slide %1"
+msgstr ""
+
+msgctxt "KxWppAnimationOptionsDlg|"
+msgid "&Don't Dim"
+msgstr ""
+
+msgctxt "KxWppAnimationOptionsDlg|"
+msgid "&Hide on Next Mouse Click"
+msgstr ""
+
+msgctxt "KxWppAnimationOptionsDlg|"
+msgid "Hide &After Animation"
+msgstr ""
+
+msgctxt "KxWppAnimationOptionsDlg|"
+msgid "Insert Sound"
+msgstr ""
+
+msgctxt "KxWppAnimationOptionsDlg|"
+msgid "Sound Files(*.wav)"
+msgstr ""
+
+msgctxt "KxWppColorModel|"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "KxWppColorModel|"
+msgid "Custom Color"
+msgstr ""
+
+msgctxt "KxWppColorSchemeDlg|"
+msgid " A&dd As Standard Scheme "
+msgstr ""
+
+msgctxt "KxWppColorSchemeDlg|"
+msgid " De&lete Color Scheme "
+msgstr ""
+
+msgctxt "KxWppColorSchemeDlg|"
+msgid ""
+"The last color scheme cannot be deleted. A presentation must always contain "
+"at least one standard color scheme."
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Convert Object to Path"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Curve"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Draw Custom Path"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Edit"
+msgstr "&Düzenle"
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Edit Points"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Effect Options..."
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Entrance"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Freeform"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Hide Advanced Timeline"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Line"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Locked"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&More Effects ..."
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&More Motion Paths ..."
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Open"
+msgstr "&Aç"
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Play"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Remove"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Reverse Path Direction"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Scribble"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Show Advanced Timeline"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Timing..."
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&Unlocked"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "&View Slide Master"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Copy &Effects to Slide"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "E&mphasis"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "E&xit"
+msgstr "&Çık"
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Motion &Paths"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Movie &Actions"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Object Oper&ate"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Pau&se"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "S&top"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Seconds"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Selection Pane"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Start &After Previous"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Start &With Previous"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Start On &Click"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Zoom &In"
+msgstr ""
+
+msgctxt "KxWppCustomAnimationTp|"
+msgid "Zoom &Out"
+msgstr ""
+
+msgctxt "KxWppDesignItem|"
+msgid "Apply to &Master"
+msgstr ""
+
+msgctxt "KxWppDesignItem|"
+msgid "Apply to &All Slides"
+msgstr ""
+
+msgctxt "KxWppDesignItem|"
+msgid "Apply to &Selected Slides"
+msgstr ""
+
+msgctxt "KxWppDesignItem|"
+msgid "Replace &All Designs"
+msgstr ""
+
+msgctxt "KxWppDesignItem|"
+msgid "Replace &Selected Designs"
+msgstr ""
+
+msgctxt "KxWppDesignItem|"
+msgid "Add &Design"
+msgstr ""
+
+msgctxt "KxWppExtendModeGuideDlg|"
+msgid "Extend Windows desktop to the selected monitor"
+msgstr ""
+
+msgctxt "KxWppExtendModeGuideDlg|"
+msgid "Set screen resolution and color quality"
+msgstr ""
+
+msgctxt "KxWppExtendModeGuideDlg|"
+msgid "Set up monitors"
+msgstr ""
+
+msgctxt "KxWppExtendModeGuideDlg|"
+msgid "Use the current monitor as the primary monitor"
+msgstr ""
+
+msgctxt "KxWppFillColorModel|"
+msgid "No Fill"
+msgstr ""
+
+msgctxt "KxWppFontSizeCommand|"
+msgid "This is not a valid integer."
+msgstr ""
+
+msgctxt "KxWppLineColorModel|"
+msgid "No Line"
+msgstr ""
+
+msgctxt "KxWppPrintDlg|"
+msgid ""
+"All slides in current presentation are marked as hidden. Either ensure that "
+"the slides are no longer hidden, or choose to print hidden slides."
+msgstr ""
+
+#, qt-format
+msgctxt "KxWppPrintDlg|"
+msgid "An error occurred on printer %1 !"
+msgstr ""
+
+msgctxt "KxWppPrintDlg|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "KxWppPrintDlg|"
+msgid "Current slides have marked as hidden!"
+msgstr ""
+
+msgctxt "KxWppPrintDlg|"
+msgid "Handouts"
+msgstr ""
+
+msgctxt "KxWppPrintDlg|"
+msgid "Input is invalid."
+msgstr ""
+
+msgctxt "KxWppPrintDlg|"
+msgid "Notes"
+msgstr ""
+
+msgctxt "KxWppPrintDlg|"
+msgid "Selected slides have marked as hidden!"
+msgstr ""
+
+msgctxt "KxWppPrintDlg|"
+msgid "Slides in this custom show have marked as hidden!"
+msgstr ""
+
+msgctxt "KxWppPrintDlg|"
+msgid "The Slide that you selected is not exist, please choose another one!"
+msgstr ""
+
+msgctxt "KxWppPrintDlg|"
+msgid "All slides among this range are marked as hidden!"
+msgstr ""
+
+msgctxt "KxWppTransModel|"
+msgid "Fade and Dissolve"
+msgstr ""
+
+msgctxt "KxWppTransModel|"
+msgid "None"
+msgstr ""
+
+msgctxt "KxWppTransModel|"
+msgid "Push and Cover"
+msgstr ""
+
+msgctxt "KxWppTransModel|"
+msgid "Random"
+msgstr ""
+
+msgctxt "KxWppTransModel|"
+msgid "Stripe and Cross"
+msgstr ""
+
+msgctxt "KxWppTransModel|"
+msgid "Wipe"
+msgstr ""
+
+msgctxt "KxWppVpPodium|"
+msgid "Comment"
+msgstr "Açıklama"
+
+msgctxt "KxWppVpPodium|"
+msgid "Outline"
+msgstr ""
+
+msgctxt "KxWppVpSlideNormal|"
+msgid "Outline"
+msgstr ""
+
+msgctxt "KxWppVpSlideNormal|"
+msgid "Slides"
+msgstr ""
+
+msgctxt "KxWppZoomComboCommand|"
+msgid "This is not a valid measurement."
+msgstr ""
+
+msgctxt "LayoutPanel|"
+msgid "Apply to &Selected Slides"
+msgstr ""
+
+msgctxt "LayoutPanel|"
+msgid "Insert &New Slide"
+msgstr ""
+
+msgctxt "LayoutPanel|"
+msgid "Reapply &Layout"
+msgstr ""
+
+msgctxt "QMyMessageBox|"
+msgid "Close"
+msgstr "Kapat"
+
+msgctxt "QMyMessageBox|"
+msgid "File package has been completed, you can carry out other operations."
+msgstr ""
+
+msgctxt "QMyMessageBox|"
+msgid "Open the compressed file"
+msgstr ""
+
+msgctxt "QMyMessageBox|"
+msgid "Open the folder"
+msgstr ""
+
+msgctxt "QMyMessageBox|"
+msgid "Package has been completed"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "3-D Color"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Black Gradient"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Blinds 1"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Blinds 2"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Blue Gradient"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Bookend Fills"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Box In"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Box Out"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Braces"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Chess 1"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Chess 2"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Chinese(China)"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Chinese(Taiwan)"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Circle Out"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Classics"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Comb 1"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Comb 2"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Cover 1"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Cover 2"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Cover 3"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Cover 4"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Cover Down"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Cover Left"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Cover Right"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Cover Up"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Cut"
+msgstr "Kes"
+
+msgctxt "QObject|"
+msgid "Cut Black"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Default"
+msgstr "Öntanımlı"
+
+msgctxt "QObject|"
+msgid "Diamond Out"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Dissolve"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Double Outline"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "English(America)"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Fade"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Fade Smooth"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Fire"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Follow Accent Scheme Color"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Follow Accent and Followed Hyperlink Scheme Color"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Follow Accent and Hyperlink Scheme Color"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Follow Background Color"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Follow Fills Scheme Color"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Follow Shadows Scheme Color"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Follow Text and Lines Sheme Color"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Follow Title Text Scheme Color"
+msgstr ""
+
+#, qt-format
+msgctxt "QObject|"
+msgid "In the %1 Show"
+msgstr ""
+
+#, qt-format
+msgctxt "QObject|"
+msgid "In the %1 Slide"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "News"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "None"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Outline"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Plus Out"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Primary Colors"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Push Down"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Push Left"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Push Right"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Push Up"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Random"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Random 1"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Random 2"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Split 1"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Split 2"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Split 3"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Split 4"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Square Shaows"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Strips 1"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Strips 2"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Strips 3"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Strips 4"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Style Stripes"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Thick Outline"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Uncover 1"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Uncover 2"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Uncover 3"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Uncover 4"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Uncover 5"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Uncover 6"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Uncover 7"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Uncover 8"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Vietnamese"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Wedge"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Wheel 1"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Wheel 2"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Wheel 3"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Wheel 4"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Wheel 8"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Wipe Down"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Wipe Left"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Wipe Right"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Wipe Up"
+msgstr ""
+
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"You cannot use a date format in a different language than the slide master. "
+"The current date on the master is formatted for %1. To change the master, "
+"click Apply to All instead of Apply."
+msgstr ""
+
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"\"%1\" is already open. Reopening will cause any changes you made to be "
+"discarded. Do you want to reopen \"%2\"?"
+msgstr ""
+
+msgctxt "SchemeLayoutPanel|"
+msgid "Apply to &All Master"
+msgstr ""
+
+msgctxt "SchemeLayoutPanel|"
+msgid "Apply to &All Slides"
+msgstr ""
+
+msgctxt "SchemeLayoutPanel|"
+msgid "Apply to &Master"
+msgstr ""
+
+msgctxt "SchemeLayoutPanel|"
+msgid "Apply to &Selected Masters"
+msgstr ""
+
+msgctxt "SchemeLayoutPanel|"
+msgid "Apply to &Selected Slides"
+msgstr ""
+
+msgctxt "SchemeLayoutPanel|"
+msgid "Show &Large Previews"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Add Effects"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "After Previous"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "AutoPreview"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Custom Animation"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Custom Animation:"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Fast"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Medium"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Modify selected effects"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "On Click"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Play"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Property:"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Re-order"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Remove"
+msgstr "Sil"
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Slide Show"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Slow"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Speed:"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Start:"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Very Fast"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "Very Slow"
+msgstr ""
+
+msgctxt "TpWppCustomAnimation|"
+msgid "With Previous"
+msgstr ""
+
+msgctxt "dialogstestClass|"
+msgid "Dialogstest"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "&Browse..."
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "&Current slide"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "&Password:"
+msgstr "&Parola:"
+
+msgctxt "kdlgExportToPDF|"
+msgid "&Selection"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "&Vertical"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "1"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "2"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "3"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "4"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "6"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "9"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "A&ll"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "C&ustom slide shows:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Close when e&xport completes"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Color"
+msgstr "Renk"
+
+msgctxt "kdlgExportToPDF|"
+msgid "Color/&Grayscale:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Con&firm:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Confi&rm:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Enter slide numbers or ranges. For example, 1,3,5-12"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Export &what:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Export Adobe PDF File"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Export options"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Export range"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "File open password:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Fra&me slides"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Free printing"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Handouts"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Hori&zontal"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "ICON"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Low-quality printing"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Notes pages"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Order:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Outline view"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Passw&ord to protect permission settings"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Passwor&d:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Permission Settings"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Permit to add comments"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Permit to copy"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Permit to modify"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Print &hidden slides"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Printing not allowed"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Printing permission:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Pure black and white"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Save &to"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Sl&ides:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Slides"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid "Slides p&er page:"
+msgstr ""
+
+msgctxt "kdlgExportToPDF|"
+msgid ""
+"Note：only setting password can the below settings effect and avoid being "
+"changed by others."
+msgstr ""
+
+msgctxt "kdlgExportToPDFProgress|"
+msgid "&Open File"
+msgstr ""
+
+msgctxt "kdlgExportToPDFProgress|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "kdlgExportToPDFProgress|"
+msgid "Export to Adobe PDF File"
+msgstr ""
+
+msgctxt "kdlgExportToPDFProgress|"
+msgid "Preparing for exporting PDF file..."
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "&Bottom:"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "&Color:"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "&Left:"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "&Right:"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "&Style:"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "&Top:"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "&Width:"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Border Preview"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Borders"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Bottom"
+msgstr "En Aşağı"
+
+msgctxt "kdlgFormatTable|"
+msgid "Click on diagram below or use buttons to apply borders"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Fill"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Fill &color:"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Format Table"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Internal margin"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Medium"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Rotat&e text within cell by 90 degrees"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Semi&transparent"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Text &alignment:"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Text Box"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Top"
+msgstr "En Yukarı"
+
+msgctxt "kdlgFormatTable|"
+msgid "btnBorderBackSlash"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "btnBorderLeft"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "btnBorderMidHor"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "btnBorderMidVer"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "btnBorderRight"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "btnBorderSlash"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "btnBorderUnder"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "btnBorderUp"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "cbFillColor"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "cbOrientation"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "cbSemitransparent"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "cbTextAlign"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "cmbBorderColor"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "cmbBorderWidth"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "cmbFillColor"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "lwLineStyle"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Top Center"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Middle Center"
+msgstr ""
+
+msgctxt "kdlgFormatTable|"
+msgid "Bottom Center"
+msgstr ""
+
+msgctxt "kxUiHyperlinkwpp|"
+msgid "&Show and return"
+msgstr ""
+
+msgctxt "kxUiHyperlinkwpp|"
+msgid "Select a pla&ce in this document:"
+msgstr ""
+
+msgctxt "kxUiHyperlinkwpp|"
+msgid "Slide preview:"
+msgstr ""
+
+msgctxt "kxdlgexportpresentationhint|"
+msgid "&Current Slide Only"
+msgstr ""
+
+msgctxt "kxdlgexportpresentationhint|"
+msgid "&Every Slide"
+msgstr ""
+
+msgctxt "kxdlgexportpresentationhint|"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "kxdlgexportpresentationhint|"
+msgid ""
+"Do you want to export every slide in the presentation or only the current "
+"slide?"
+msgstr ""
+
+msgctxt "kxdlgexportpresentationhint|"
+msgid "WPS Presentation"
+msgstr ""
