@@ -42,7 +42,8 @@
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
-        <translation>&amp;Przerywane linie...</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Linie z &amp;deseniem...</translation>
     </message>
     <message>
         <source>Black</source>

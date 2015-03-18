@@ -1249,7 +1249,8 @@
     </message>
     <message>
         <source>%1 pt</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>%1 pkt</translation>
     </message>
     <message>
         <source>&amp;Straight</source>
@@ -2075,11 +2076,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Texture</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Tekstura</translation>
     </message>
     <message>
         <source>&amp;Texture:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Tekstura:</translation>
     </message>
     <message>
         <source>&amp;Other Texture...</source>
@@ -2087,11 +2090,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Deseń</translation>
     </message>
     <message>
         <source>Pa&amp;ttern:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>De&amp;seń:</translation>
     </message>
     <message>
         <source>&amp;Foreground:</source>
@@ -2099,7 +2104,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Background:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Tło:</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2788,7 +2794,8 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Fala 1</translation>
     </message>
     <message>
         <source>Diagonal brick</source>
@@ -2856,7 +2863,8 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Linie z deseniem</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color</source>
@@ -3252,7 +3260,8 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>User feedback</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Opinie użytkowników</translation>
     </message>
     <message>
         <source>Files or pictures to help describing problems</source>
@@ -3300,7 +3309,8 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>[User feedback] Version:%1--%2</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>[Opinie użytkowników] Wersja: %1--%2</translation>
     </message>
     <message>
         <source>Dear users,</source>
@@ -4550,7 +4560,8 @@ but the included system package is reserved.</source>
     <name>KxTpNativeWrapperContainer</name>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Okienko zaznaczenia</translation>
     </message>
     <message>
         <source>Custom animation:</source>
@@ -4757,7 +4768,11 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>ucWeight</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>ucGrubość</lengthvariant>
+            <lengthvariant>ucWeight</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>cm</source>
@@ -4822,7 +4837,8 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>&amp;Weight:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Grubość:</translation>
     </message>
     <message>
         <source>cbBeginStyle</source>
@@ -6170,7 +6186,8 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Matter</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Temat</translation>
     </message>
     <message>
         <source>&amp;Type:</source>
@@ -6258,7 +6275,8 @@ lub strona sieci Web</translation>
     <name>wordartdlg</name>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Galeria WordArt</translation>
     </message>
     <message>
         <source>Select a &amp;WordArt style:</source>

@@ -18,11 +18,11 @@
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Kolor 3D</translation>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Włącz/Wyłącz 3D</translation>
+        <translation>Włącz/Wyłącz 3-D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Więcej kolorów 3D</translation>
+        <translation>Więcej kolorów 3-D</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -602,8 +602,10 @@
     </message>
     <message>
         <source>Long Dash</source>
-        <translatorcomment>Myślnik</translatorcomment>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -1128,7 +1130,7 @@
     <message>
         <source>Format Object</source>
         <translation variants="yes">
-            <lengthvariant>Formatuj objekt</lengthvariant>
+            <lengthvariant>Formatuj obiekt</lengthvariant>
             <lengthvariant>Formatowanie obiektu</lengthvariant>
         </translation>
     </message>
@@ -1860,8 +1862,10 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Very Tight</source>
-        <translatorcomment>Zwarte</translatorcomment>
-        <translation>Bardzo przyległe</translation>
+        <translation variants="yes">
+            <lengthvariant>Bardzo przyległe</lengthvariant>
+            <lengthvariant>Zwarte</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -2549,7 +2553,7 @@ Włącz</translation>
     <message>
         <source>Format Object</source>
         <translation variants="yes">
-            <lengthvariant>Formatuj objekt</lengthvariant>
+            <lengthvariant>Formatuj obiekt</lengthvariant>
             <lengthvariant>Formatowanie obiektu</lengthvariant>
         </translation>
     </message>
@@ -3394,7 +3398,7 @@ formatów</translation>
     <message>
         <source>Format Object</source>
         <translation variants="yes">
-            <lengthvariant>Formatuj objekt</lengthvariant>
+            <lengthvariant>Formatuj obiekt</lengthvariant>
             <lengthvariant>Formatowanie obiektu</lengthvariant>
         </translation>
     </message>
@@ -3512,7 +3516,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -3540,6 +3547,7 @@ slajdu</translation>
     </message>
     <message>
         <source>More Line Colors</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Więcej kolorów linii</translation>
     </message>
     <message>
@@ -4005,7 +4013,10 @@ numer</lengthvariant>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -4478,7 +4489,7 @@ obrazów</lengthvariant>
     <message>
         <source>Format Object</source>
         <translation variants="yes">
-            <lengthvariant>Formatuj objekt</lengthvariant>
+            <lengthvariant>Formatuj obiekt</lengthvariant>
             <lengthvariant>Formatowanie obiektu</lengthvariant>
         </translation>
     </message>
@@ -4535,7 +4546,10 @@ obrazów</lengthvariant>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -5043,7 +5057,7 @@ Effects</source>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Więcej kolorów 3D</translation>
+        <translation>Więcej kolorów 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -5963,7 +5977,7 @@ On/Off</source>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Więcej kolorów 3D</translation>
+        <translation>Więcej kolorów 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -6356,7 +6370,7 @@ znakami</translation>
     <message>
         <source>Format Object</source>
         <translation variants="yes">
-            <lengthvariant>Formatuj objekt</lengthvariant>
+            <lengthvariant>Formatuj obiekt</lengthvariant>
             <lengthvariant>Formatowanie obiektu</lengthvariant>
         </translation>
     </message>
@@ -6402,7 +6416,11 @@ znakami</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -6564,7 +6582,10 @@ znakami</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Bardzo przyległe</translation>
+        <translation variants="yes">
+            <lengthvariant>Bardzo przyległe</lengthvariant>
+            <lengthvariant>Zwarte</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -7444,7 +7465,7 @@ COM</translation>
     <message>
         <source>Format Object</source>
         <translation variants="yes">
-            <lengthvariant>Formatuj objekt</lengthvariant>
+            <lengthvariant>Formatuj obiekt</lengthvariant>
             <lengthvariant>Formatowanie obiektu</lengthvariant>
         </translation>
     </message>
@@ -7634,7 +7655,10 @@ COM</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -8945,7 +8969,7 @@ szablon</lengthvariant>
     <message>
         <source>Format Object</source>
         <translation variants="yes">
-            <lengthvariant>Formatuj objekt</lengthvariant>
+            <lengthvariant>Formatuj obiekt</lengthvariant>
             <lengthvariant>Formatowanie obiektu</lengthvariant>
         </translation>
     </message>
@@ -9674,7 +9698,7 @@ szablon</lengthvariant>
     <message>
         <source>Format Object</source>
         <translation variants="yes">
-            <lengthvariant>Formatuj objekt</lengthvariant>
+            <lengthvariant>Formatuj obiekt</lengthvariant>
             <lengthvariant>Formatowanie obiektu</lengthvariant>
         </translation>
     </message>
@@ -9784,7 +9808,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -9819,6 +9846,7 @@ slajdu</translation>
     </message>
     <message>
         <source>More Line Colors</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Więcej kolorów linii</translation>
     </message>
     <message>
@@ -10781,7 +10809,7 @@ podrzędnego</lengthvariant>
     <message>
         <source>Format Object</source>
         <translation variants="yes">
-            <lengthvariant>Formatuj objekt</lengthvariant>
+            <lengthvariant>Formatuj obiekt</lengthvariant>
             <lengthvariant>Formatowanie obiektu</lengthvariant>
         </translation>
     </message>
@@ -10838,7 +10866,10 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -11243,7 +11274,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Kolor 3D</translation>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>3-D Effects</source>
@@ -11251,7 +11282,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Włącz/Wyłącz 3D</translation>
+        <translation>Włącz/Wyłącz 3-D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -11312,7 +11343,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Więcej kolorów 3D</translation>
+        <translation>Więcej kolorów 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -11865,11 +11896,11 @@ Effects</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Kolor 3D</translation>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Włącz/Wyłącz 3D</translation>
+        <translation>Włącz/Wyłącz 3-D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
@@ -11930,7 +11961,7 @@ Effects</source>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Więcej kolorów 3D</translation>
+        <translation>Więcej kolorów 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -12123,7 +12154,7 @@ cienia</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>Przycisk (tekst wpisany)</translation>
+        <translation>Na dole (tekst wpisany)</translation>
     </message>
     <message>
         <source>Button (Curve)</source>
@@ -12297,7 +12328,7 @@ cienia</translation>
     <message>
         <source>Format Object</source>
         <translation variants="yes">
-            <lengthvariant>Formatuj objekt</lengthvariant>
+            <lengthvariant>Formatuj obiekt</lengthvariant>
             <lengthvariant>Formatowanie obiektu</lengthvariant>
         </translation>
     </message>
@@ -12343,7 +12374,10 @@ cienia</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -12489,7 +12523,10 @@ cienia</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Bardzo przyległe</translation>
+        <translation variants="yes">
+            <lengthvariant>Bardzo przyległe</lengthvariant>
+            <lengthvariant>Zwarte</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Wave 1</source>

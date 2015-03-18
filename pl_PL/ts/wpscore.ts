@@ -511,7 +511,6 @@
     <message>
         <source>Insert WordArt</source>
         <comment>TxVersion_InsertTextEffect</comment>
-        <translatorcomment>Wstaw obiekt WordArt</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Wstaw WordArt</lengthvariant>
             <lengthvariant>Wstaw obiekt WordArt</lengthvariant>
@@ -5606,7 +5605,7 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>3-D Color</source>
         <comment>TxVersion_3DColor</comment>
-        <translation>Kolor 3D</translation>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>Shadow Color</source>

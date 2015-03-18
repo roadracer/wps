@@ -10167,7 +10167,11 @@ Check</source>
     <message>
         <source>Accept or Reject Changes</source>
         <comment>TX_RevisionAcceptOrRejectDlgCaption</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Akceptowanie lub odrzucanie zmian</lengthvariant>
+            <lengthvariant>Zaakceptuj lub odrzuć zmiany</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Close the Track Change is to remove all the recorded changes. Do you want to close it anyway?</source>
@@ -10357,7 +10361,8 @@ Check</source>
     <message>
         <source>Draw Border</source>
         <comment>TX_DrawBorder</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rysuj obramowanie</translation>
     </message>
     <message>
         <source>Info_type</source>
@@ -12678,7 +12683,11 @@ Check</source>
     <message>
         <source>Reject Input Duplicates</source>
         <comment>TX_RepeatWordDeny_Title</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Odrzucić duplikaty wejściowe</lengthvariant>
+            <lengthvariant>Odrzucić duplikaty danych wejściowych</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>The content you enter is duplicated with content in other cells in the range.</source>
@@ -13099,6 +13108,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Import Text File</source>
         <comment>TX_IMPORT_TEXTFILE</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Importuj plik tekstowy</translation>
     </message>
     <message>
@@ -14122,173 +14132,159 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Api Call</source>
         <comment>TX_TRANS_API</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wywołanie API</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
         <comment>TX_Undo_Undo</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>&amp;Cofnij</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
         <comment>TX_Undo_Redo</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wykonaj &amp;ponownie</translation>
     </message>
     <message>
         <source>Typing %s in &quot;%s&quot;</source>
         <comment>TX_Undo_SetCellValue</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wpisanie%s w &quot;%s&quot;</translation>
     </message>
     <message>
         <source>Can&apos;t &amp;Undo </source>
         <comment>TX_Undo_CannotUndo</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Nie można &amp;cofnąć </translation>
     </message>
     <message>
         <source>Can&apos;t &amp;Redo</source>
         <comment>TX_Undo_CannotRedo</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Nie można wykonać &amp;ponownie</translation>
     </message>
     <message>
         <source>&amp;Undo %s </source>
         <comment>TX_Undo_UndoPrefix</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>&amp;Cofnij %s </translation>
     </message>
     <message>
         <source>&amp;Redo %s </source>
         <comment>TX_Undo_RedoPrefix</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wykonaj &amp;ponownie %s </translation>
     </message>
     <message>
         <source>Paste Special</source>
         <comment>TX_Undo_PasteSpecial</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wklej specjalnie</translation>
     </message>
     <message>
         <source>Replace</source>
         <comment>TX_Undo_Replace</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zamień</translation>
     </message>
     <message>
         <source>Copy Cells</source>
         <comment>TX_Undo_CopyCells</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Kopiuj komórki</translation>
     </message>
     <message>
         <source>Series</source>
         <comment>TX_Undo_FillSeries</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Serie</lengthvariant>
+            <lengthvariant>Seria</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Down</source>
         <comment>TX_Undo_FillDown</comment>
-        <translation type="unfinished"></translation>
+        <translation>W dół</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TX_Undo_FillRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>W prawo</translation>
     </message>
     <message>
         <source>Up</source>
         <comment>TX_Undo_FillUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>W górę</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TX_Undo_FillLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>W lewo</translation>
     </message>
     <message>
         <source>Across Worksheets</source>
         <comment>TX_Undo_AcrossSheets</comment>
-        <translation type="unfinished"></translation>
+        <translation>We wszystkich arkuszach</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>TX_Undo_ClearFormats</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wyczyść</translation>
     </message>
     <message>
         <source>Delete Comments</source>
         <comment>TX_Undo_ClearComments</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Usuń komentarze</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>TX_Undo_ClearContents</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wyczyść</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>TX_Undo_ClearAll</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wyczyść</translation>
     </message>
     <message>
         <source>Delete</source>
         <comment>TX_Undo_Delete</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Usuń</translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>TX_Undo_Paste</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wklej</translation>
     </message>
     <message>
         <source>Drag and Drop</source>
         <comment>TX_Undo_CutPaste</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przeciągnij i upuść</translation>
     </message>
     <message>
         <source>Insert Cells</source>
         <comment>TX_Undo_InsertCells</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw komórki</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
         <comment>TX_Undo_InsertCopiedCells</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw skopiowane komórki</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
         <comment>TX_Undo_InsertCutCells</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw wycięte komórki</translation>
     </message>
     <message>
         <source>Insert Columns</source>
         <comment>TX_Undo_InsertColumns</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wstaw kolumny</translation>
     </message>
     <message>
         <source>Insert Rows</source>
         <comment>TX_Undo_InsertRows</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wstaw wiersze</translation>
     </message>
     <message>
         <source>Define Name</source>
         <comment>TX_Undo_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Definiuj nazwę</translation>
     </message>
     <message>
         <source>Insert Function</source>
         <comment>TX_Undo_Function</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Wstaw funkcję</lengthvariant>
             <lengthvariant>Wstawianie funkcji</lengthvariant>
@@ -14297,166 +14293,160 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Change Chart Type</source>
         <comment>TX_Undo_ChartChgType</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Zmień typ wykresu</lengthvariant>
+            <lengthvariant>Zmienianie typu wykresu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Set Chart Format</source>
         <comment>TX_Undo_ChartChgFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw format wykresu</translation>
     </message>
     <message>
         <source>Add Legend</source>
         <comment>TX_Undo_ChartShowLegend</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Dodaj legendę</translation>
     </message>
     <message>
         <source>Delete Legend</source>
         <comment>TX_Undo_ChartHideLegend</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usuń legendę</translation>
     </message>
     <message>
         <source>Series in Rows</source>
         <comment>TX_Undo_ChartSeriesInRows</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Serie w wierszach</translation>
     </message>
     <message>
         <source>Series in Columns</source>
         <comment>TX_Undo_ChartSeriesInCols</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Serie w kolumnach</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>TX_Undo_Hyperlink</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Hiperłącze</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
         <comment>TX_Undo_DelHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usuń hiperłącze</translation>
     </message>
     <message>
         <source>Insert Page Break</source>
         <comment>TX_Undo_PageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw podział strony</translation>
     </message>
     <message>
         <source>Remove Page Break</source>
         <comment>TX_Undo_RemovePageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usuń podział strony</translation>
     </message>
     <message>
         <source>Set Print Area</source>
         <comment>TX_Undo_SetPrintAreas</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw obszar wydruku</translation>
     </message>
     <message>
         <source>Comment</source>
         <comment>TX_Undo_Comment</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Komentarz</translation>
     </message>
     <message>
         <source>Create Name</source>
         <comment>TX_Undo_NameCreate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz nazwę</translation>
     </message>
     <message>
         <source>Style</source>
         <comment>TX_Undo_FormatStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Styl</translation>
     </message>
     <message>
         <source>Format Cells</source>
         <comment>TX_Undo_FormatCells</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
-            <lengthvariant>Formatowanie komórek</lengthvariant>
             <lengthvariant>Formatuj komórki</lengthvariant>
+            <lengthvariant>Formatowanie komórek</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Height</source>
         <comment>TX_Undo_RowHeight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość</translation>
     </message>
     <message>
         <source>Width</source>
         <comment>TX_Undo_ColumnWidth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szerokość</translation>
     </message>
     <message>
         <source>Standard Width</source>
         <comment>TX_Undo_StandardWidth</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szerokość standardowa</translation>
     </message>
     <message>
         <source>Hide Sheet</source>
         <comment>TX_Undo_HideSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj arkusz</translation>
     </message>
     <message>
         <source>Unhide Sheets</source>
         <comment>TX_Undo_UnhideSheets</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Odkryj arkusze</translation>
     </message>
     <message>
         <source>Rename Sheet</source>
         <comment>TX_Undo_RenameSheet</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Zmień nazwę arkusza</lengthvariant>
+            <lengthvariant>Zmienianie nazwy arkusza</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Background</source>
         <comment>TX_Undo_Background</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tło</translation>
     </message>
     <message>
         <source>Tab Color</source>
         <comment>TX_Undo_TabColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kolor karty</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
         <comment>TX_Undo_ConditionalFormat</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Formatowanie warunkowe</translation>
     </message>
     <message>
         <source>Hide Row</source>
         <comment>TX_Undo_HideRow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj wiersz</translation>
     </message>
     <message>
         <source>Hide Column</source>
         <comment>TX_Undo_HideColumn</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj kolumnę</translation>
     </message>
     <message>
         <source>Unhide Rows</source>
         <comment>TX_Undo_UnhideRows</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Odkryj wiersze</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
         <comment>TX_Undo_UnhideColumns</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Odkryj kolumny</translation>
     </message>
     <message>
         <source>AutoFit</source>
         <comment>TX_Undo_AutoFit</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Autodopasowanie</translation>
     </message>
     <message>
         <source>AutoFit Selection</source>
         <comment>TX_Undo_AutoFitSelection</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Autodopasowanie zaznaczenia</lengthvariant>
             <lengthvariant>Autodopasowanie obszaru</lengthvariant>
@@ -14465,7 +14455,6 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Sort</source>
         <comment>TX_Undo_DataSort</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Sortuj</lengthvariant>
             <lengthvariant>Sortowanie</lengthvariant>
@@ -14479,90 +14468,81 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Show All</source>
         <comment>TX_Undo_ShowAll</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Pokaż wszystkie</translation>
     </message>
     <message>
         <source>Subtotals</source>
         <comment>TX_Undo_Subtotal</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Sumy częściowe</translation>
     </message>
     <message>
         <source>Remove Subtotals</source>
         <comment>TX_Undo_RemoveSubtotal</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Usuń sumy częściowe</translation>
     </message>
     <message>
         <source>Consolidate</source>
         <comment>TX_Undo_Consolidate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Konsolidowanie</translation>
     </message>
     <message>
         <source>Group</source>
         <comment>TX_Undo_DataGroup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Ungroup</source>
         <comment>TX_Undo_DataUngroup</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rozgrupuj</translation>
     </message>
     <message>
         <source>Hide Detail</source>
         <comment>TX_Undo_HideDetail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj szczegóły</translation>
     </message>
     <message>
         <source>Show Detail</source>
         <comment>TX_Undo_ShowDetail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż szczegóły</translation>
     </message>
     <message>
         <source>Clear Outline</source>
         <comment>TX_Undo_ClearOutline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść konspekt</translation>
     </message>
     <message>
         <source>Freeze Panes</source>
         <comment>TX_Undo_FreezePanes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zablokuj okienka</translation>
     </message>
     <message>
         <source>Sum</source>
         <comment>TX_Undo_Sum</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Suma</translation>
     </message>
     <message>
         <source>AutoSum</source>
         <comment>TX_Undo_AutoSum</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Autosumowanie</translation>
     </message>
     <message>
         <source>Average</source>
         <comment>TX_Undo_Average</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Średnia</translation>
     </message>
     <message>
         <source>Count</source>
         <comment>TX_Undo_Count</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Licznik</translation>
     </message>
     <message>
         <source>Max</source>
         <comment>TX_Undo_Max</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Max</translation>
     </message>
     <message>
         <source>Min</source>
         <comment>TX_Undo_Min</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Min</translation>
     </message>
     <message>
@@ -14573,126 +14553,114 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Sort Descending</source>
         <comment>TX_Undo_SortDescending</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Sortuj malejąco</translation>
     </message>
     <message>
         <source>Format Painter</source>
         <comment>TX_Undo_FormatPainter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Malarz formatów</translation>
     </message>
     <message>
         <source>Font</source>
         <comment>TX_Undo_Font</comment>
-        <translation type="unfinished"></translation>
+        <translation>Czcionka</translation>
     </message>
     <message>
         <source>Bold</source>
         <comment>TX_Undo_Bold</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Pogrubienie</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>TX_Undo_Italic</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Kursywa</translation>
     </message>
     <message>
         <source>Underline</source>
         <comment>TX_Undo_Underline</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>Font Color</source>
         <comment>TX_Undo_FontColor</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Kolor czcionki</translation>
     </message>
     <message>
         <source>Horizontal Alignment</source>
         <comment>TX_Undo_AlignmentHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyrównanie w poziomie</translation>
     </message>
     <message>
         <source>Alignment</source>
         <comment>TX_Undo_Alignment</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wyrównanie</translation>
     </message>
     <message>
         <source>Merge and Center</source>
         <comment>TX_Undo_MergeCenter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Scal i wyśrodkuj</translation>
     </message>
     <message>
         <source>Currency</source>
         <comment>TX_Undo_Currency</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Waluta</translation>
     </message>
     <message>
         <source>Percent Style</source>
         <comment>TX_Undo_PercentStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Styl procentowy</translation>
     </message>
     <message>
         <source>Comma Style</source>
         <comment>TX_Undo_CommaStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Styl dziesiętny</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
         <comment>TX_Undo_IncreaseDecimal</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Zwiększ liczbę miejsc dziesiętnych</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
         <comment>TX_Undo_DecreaseDecimal</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Zmniejsz liczbę miejsc dziesiętnych</translation>
     </message>
     <message>
         <source>Format Cells</source>
         <comment>TX_Undo_IncreaseIndent</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
-            <lengthvariant>Formatowanie komórek</lengthvariant>
             <lengthvariant>Formatuj komórki</lengthvariant>
+            <lengthvariant>Formatowanie komórek</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Zoom</source>
         <comment>TX_Undo_ZoomCombo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <source>Fill Color</source>
         <comment>TX_Undo_FillColor</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Kolor wypełnienia</translation>
     </message>
     <message>
         <source>Line Color</source>
         <comment>TX_Undo_LineColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kolor linii</translation>
     </message>
     <message>
         <source>Shadow</source>
         <comment>TX_Undo_ShadowColor</comment>
-        <translation type="unfinished">Cień</translation>
+        <translation>Cień</translation>
     </message>
     <message>
         <source>3-D Color</source>
         <comment>TX_Undo_ThreeDColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
         <comment>TX_Undo_RecentFillColor</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Kolor ostatniego wypełnienia</lengthvariant>
             <lengthvariant>Ostatni kolor wypełnienia</lengthvariant>
@@ -14701,40 +14669,36 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Cell Fill Color</source>
         <comment>TX_Undo_CellFillColor</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Kolor wypełnienia komórki</translation>
     </message>
     <message>
         <source>Recent Cell Fill Color</source>
         <comment>TX_Undo_RecentCellFillColor</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Kolor wypełnienia ostatniej komórki</translation>
     </message>
     <message>
         <source>Recent Font Color</source>
         <comment>TX_Undo_RecentFontColor</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Ostatni kolor czcionki</translation>
     </message>
     <message>
         <source>Name Box</source>
         <comment>TX_Undo_FormulaBarNameBox</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pole nazwy</translation>
     </message>
     <message>
         <source>Enter</source>
         <comment>TX_Undo_FormulaBarEnter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>TX_Undo_FormulaBarCancel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Insert Function</source>
         <comment>TX_Undo_FormulaBarInsertFunction</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Wstaw funkcję</lengthvariant>
             <lengthvariant>Wstawianie funkcji</lengthvariant>
@@ -14743,73 +14707,77 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Recent Borders</source>
         <comment>TX_Undo_RecentBorders</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie obramowania</translation>
     </message>
     <message>
         <source>Borders</source>
         <comment>TX_Undo_BordersPalette</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Obramowania</lengthvariant>
+            <lengthvariant>Krawędzie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert Symbol</source>
         <comment>TX_Undo_InsertSymbol</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw symbol</lengthvariant>
+            <lengthvariant>Wstawienie symbolu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Auto Fill</source>
         <comment>TX_Undo_AutoFill</comment>
-        <translation type="unfinished"></translation>
+        <translation>Autowypełnienie</translation>
     </message>
     <message>
         <source>Copy Range </source>
         <comment>TX_Undo_Range_Copy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj zakres </translation>
     </message>
     <message>
         <source>Cut Range</source>
         <comment>TX_Undo_Range_Cut</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wytnij zakres</translation>
     </message>
     <message>
         <source>Copy Format</source>
         <comment>TX_Undo_CopyFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj format</translation>
     </message>
     <message>
         <source>Set Print Area</source>
         <comment>TX_Undo_SetPrintArea</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw obszar wydruku</translation>
     </message>
     <message>
         <source>Insert Page Break</source>
         <comment>TX_Undo_InsertPageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw podział strony</translation>
     </message>
     <message>
         <source>Move Page Break</source>
         <comment>TX_Undo_MovePageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przenieś koniec strony</translation>
     </message>
     <message>
         <source>Remove Page Break</source>
         <comment>TX_Undo_DeletePageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>Usuń podział strony</translation>
     </message>
     <message>
         <source>Unfold/Fold</source>
         <comment>TX_Undo_ShowHideDetail</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rozwiń/Zwiń</translation>
     </message>
     <message>
         <source>Print Preview Zoom</source>
         <comment>TX_Undo_PrintPreviewZoomCombo</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Powiększenie podglądu wydruku</translation>
     </message>
     <message>
         <source>Import Data</source>
         <comment>TX_Undo_DBE_ImportData</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Importuj dane</lengthvariant>
             <lengthvariant>Importowanie danych</lengthvariant>
@@ -14818,7 +14786,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Refresh Data</source>
         <comment>TX_Undo_DBE_RefreshData</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odśwież dane</translation>
     </message>
     <message>
         <source>Import Text File</source>
@@ -14828,81 +14796,79 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Text to Number</source>
         <comment>TX_Undo_TextToNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tekst na liczbę</translation>
     </message>
     <message>
         <source>Move Chart Item</source>
         <comment>TX_Undo_ChartItemMove</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przenieś element wykresu</translation>
     </message>
     <message>
         <source>Resize Chart Item</source>
         <comment>TX_Undo_ChartItemResize</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zmień element wykresu</translation>
     </message>
     <message>
         <source>Adjust Chart Source Data</source>
         <comment>TX_Undo_ChartSourceData</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Dopasuj dane źródłowe wykresu</translation>
     </message>
     <message>
         <source>Adjust Chart Settings</source>
         <comment>TX_Undo_ChartOptions</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Dopasuj ustawienia wykresu</translation>
     </message>
     <message>
         <source>Bring to Front</source>
         <comment>TX_Undo_ChartBringToFront</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przesuń na wierzch</translation>
     </message>
     <message>
         <source>Send to Back</source>
         <comment>TX_Undo_ChartSendToBack</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Przesuń na spód</translation>
     </message>
     <message>
         <source>Clear Chart Item</source>
         <comment>TX_Undo_ChartClear</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Wyczyść element wykresu</lengthvariant>
+            <lengthvariant>Usuń element wykresu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Cut</source>
         <comment>TX_Undo_Cut</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wytnij</translation>
     </message>
     <message>
         <source>Expand/Fold</source>
         <comment>TX_Undo_GroupCollapseUncollapse</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rozwiń/Zwiń</translation>
     </message>
     <message>
         <source>Show Levels</source>
         <comment>TX_Undo_GroupDisplayLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż poziomy</translation>
     </message>
     <message>
         <source>Validation</source>
         <comment>TX_Undo_Validation</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Sprawdzanie poprawności</translation>
     </message>
     <message>
         <source>Recalculate</source>
         <comment>TX_Undo_RecalculateBook</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oblicz ponownie</translation>
     </message>
     <message>
         <source>Datasheet</source>
         <comment>TX_Undo_ChartDataTable</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arkusz danych</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>TX_Undo_DlgPictureTitle</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Wstaw obraz</lengthvariant>
             <lengthvariant>Wstawianie obrazu</lengthvariant>
@@ -14911,24 +14877,21 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Add Trendline</source>
         <comment>TX_Undo_ChartAddTrendline</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dodawanie linii trendu</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
         <comment>TX_Undo_DataRangeProperties</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Właściwości zakresu danych</translation>
     </message>
     <message>
         <source>Remove duplicates</source>
         <comment>TX_Undo_RepeatWord_Delete</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Usuń duplikaty</translation>
     </message>
     <message>
         <source>Highlight duplicates</source>
         <comment>TX_Undo_RepeatWordRemind</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wyróżnij duplikaty</translation>
     </message>
 </context>
@@ -15096,7 +15059,10 @@ To modify a protected cell or chart, first remove protection using the Unprotect
 - Worksheet is protected and the cell is locked.
 - The cell is part of an array.</source>
         <comment>et_sCantSetValue</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można modyfikować komórki, być może:
+
+- Arkusz jest chroniony i komórka jest zablokowana.
+- Komórka jest częścią tablicy.</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -15137,8 +15103,8 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <source>Center</source>
         <comment>et_sCenter</comment>
         <translation variants="yes">
-            <lengthvariant>Do środka</lengthvariant>
             <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Do środka</lengthvariant>
         </translation>
     </message>
     <message>
@@ -16369,89 +16335,80 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
 %s There are two same sort references. 
 %s The sort reference you entered is not within the current selection.</source>
         <comment>et_sSortReferenceNotValidError</comment>
-        <translation type="unfinished"></translation>
+        <translation>Odwołanie sortowania jest nieprawidłowe z powodu jednej z możliwych przyczyn podanych poniżej: 
+
+%s Pierwsze pole Sortuj według jest puste. 
+%s Istnieją dwa identyczne odwołania sortowania. 
+%s Wprowadzone odwołanie sortowania nie zawiera się między bieżącym zaznaczeniem.</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
         <comment>et_sSource</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>&amp;Źródło:</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
         <comment>et_sStartDate</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Data &amp;rozpoczęcia:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
         <comment>et_sStartTime</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Godzina &amp;rozpoczęcia:</translation>
     </message>
     <message>
         <source>Stop</source>
         <comment>et_sStop</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Zatrzymaj</translation>
     </message>
     <message>
         <source>Strikethrough</source>
         <comment>et_sStrikethrough</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Przekreślenie</translation>
     </message>
     <message>
         <source>@ET_Style?</source>
         <comment>et_sStyleHeader</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>@ET_Styl?</translation>
     </message>
     <message>
         <source>Normal</source>
         <comment>et_sStyleNormal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Subscript</source>
         <comment>et_sSubscript</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Indeks dolny</translation>
     </message>
     <message>
         <source>Superscript</source>
         <comment>et_sSuperscript</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Indeks górny</translation>
     </message>
     <message>
         <source>  (None)</source>
         <comment>et_sSymbolNone</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>  (Brak)</translation>
     </message>
     <message>
         <source>Text length</source>
         <comment>et_sTextLen</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Długość tekstu</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>et_sTime</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Godzina</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
         <comment>et_sTimeS</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>&amp;Godzina:</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
         <comment>et_sTooLong</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Nagłówek lub stopka (łącznie z lewej, środkowej i prawej sekcji) nie może zawierać więcej niż 255 znaków. Skróć tekst lub uprość format.</lengthvariant>
             <lengthvariant>Nagłówek lub stopka (łącznie z lewej, środkowej i prawej sekcji) nie może być dłuższy niż 255 znaków. Usuń tekst lub dokonaj formatowania mniej skomplikowanego.</lengthvariant>
@@ -16460,35 +16417,31 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Top</source>
         <comment>et_sTop</comment>
-        <translation type="unfinished"></translation>
+        <translation>Do góry</translation>
     </message>
     <message>
         <source>(Top 10...)</source>
         <comment>et_sTop10</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>(10 pierwszych...)</translation>
     </message>
     <message>
         <source>Top Aligned</source>
         <comment>et_sTopAligned</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wyrównany do góry</translation>
     </message>
     <message>
         <source>Select %d record(s), accept changes %d record(s), reject changes %d record(s)</source>
         <comment>et_sTotalInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz rekord(y) %d, zaakceptuj zmiany %d rekordu(ów), odrzuć zmiany rekordu(ów) %d</translation>
     </message>
     <message>
         <source>Underline</source>
         <comment>et_sUnderline</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>Undo %d Action(s)</source>
         <comment>et_sUndoListCaption</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Cofnij %d akcję(e)</lengthvariant>
             <lengthvariant>Cofnij %d czynność(ci)</lengthvariant>
@@ -16497,75 +16450,66 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Style Name Not Valid</source>
         <comment>et_sValidStyleName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowa nazwa stylu</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
         <comment>et_sValue</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wartość:</translation>
     </message>
     <message>
         <source>&apos;%s&apos; is an invalid integer.</source>
         <comment>et_sValueInValidInteger</comment>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%s&apos; jest nieprawidłową liczbą całkowitą.</translation>
     </message>
     <message>
         <source>The name is invalid or the formula contains an error.</source>
         <comment>et_sValueInvalidName</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Nazwa jest nieprawidłowa lub formuła zawiera błąd.</translation>
     </message>
     <message>
         <source>Vertical</source>
         <comment>et_sVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>Warning</source>
         <comment>et_sWarning</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Ostrzeżenie</translation>
     </message>
     <message>
         <source>Whole number</source>
         <comment>et_sWhole</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Pełna liczba</translation>
     </message>
     <message>
         <source>Wrap</source>
         <comment>et_sWrap</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Zawijaj</translation>
     </message>
     <message>
         <source>Column width must be between %d and %d.</source>
         <comment>et_sWrongColumnWidthRange</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Szerokość kolumny musi zawierać się pomiędzy %d a %d.</translation>
     </message>
     <message>
         <source>Row height must be between %d and %d.</source>
         <comment>et_sWrongRowHeightRange</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wysokość wiersza musi zawierać się pomiędzy %d a %d.</translation>
     </message>
     <message>
         <source>The scroll value maximum cannot be less than the scroll value minimum.</source>
         <comment>et_sMaxValueMustBiggerThanMinValue</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Maksymalna wartość nie może być mniejsza niż wartość minimalna.</translation>
     </message>
     <message>
         <source>No cells were found.</source>
         <comment>et_sLocate_NotFind</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Nie znaleziono żadnych komórek.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
         <comment>et_sCannotGoto</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Program WPS Spreadsheets nie może użyć polecenia Przejdź do. Może tak być, gdy arkusz jest chroniony.</lengthvariant>
             <lengthvariant>Program WPS Spreadsheets nie może użyć polecenia Przejdź do. Prawdopodobnie arkusz jest chroniony.</lengthvariant>
@@ -16574,13 +16518,11 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Data will permanently lose accuracy.</source>
         <comment>et_sPrecisionLose</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Dokładność danych zostanie trwale utracona.</translation>
     </message>
     <message>
         <source>The function you described is not found. Please enter the function information again.</source>
         <comment>et_sFunctionNotFound</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Funkcja, którą opisałeś nie została znaleziona. Proszę ponownie wprowadzić informacje o funkcji.</lengthvariant>
             <lengthvariant>Nie odnaleziono funkcji, którą opisałeś. Proszę ponownie wprowadzić informacje o funkcji.</lengthvariant>
@@ -16589,29 +16531,26 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Recommend</source>
         <comment>et_sCommend</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Zalecanie</translation>
     </message>
     <message>
         <source>Enter the name or description of the function you want to look for.</source>
         <comment>et_sFunctionSearch</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź nazwę lub opis funkcji, którą chcesz wyszukać.</translation>
     </message>
     <message>
         <source>The search information is required!</source>
         <comment>et_sInPutFunctionMsg</comment>
-        <translation type="unfinished"></translation>
+        <translation>Informacje wyszukiwania są wymagane!</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
         <comment>et_sInvalidQuote</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Nieprawidłowe odwołanie.</translation>
     </message>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>et_sIllegalInput</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Podany tekst nie jest prawidłowym odwołaniem ani zdefiniowaną nazwą.</lengthvariant>
             <lengthvariant>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</lengthvariant>
@@ -16620,56 +16559,54 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Data range is not valid.</source>
         <comment>et_sInvalidListRange</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Zakres danych nie jest prawidłowy.</translation>
     </message>
     <message>
         <source>Criteria range is not valid.</source>
         <comment>et_sInvalidCriteriaRange</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Zakres kryteriów nie jest prawidłowy.</translation>
     </message>
     <message>
         <source>Extract range is not valid.</source>
         <comment>et_sInvalidExtractRange</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Zakres wybierania nie jest prawidłowy.</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
         <comment>et_sOperation_Protected_Sheet</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Tego polecenia nie można używać w chronionym arkuszu.</translation>
     </message>
     <message>
         <source>Cannot find object.</source>
         <comment>et_sLocate_NotFindObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można odnaleźć obiektu.</translation>
     </message>
     <message>
         <source>Set display area</source>
         <comment>et_sOleSelection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw obszar wyświetlania</translation>
     </message>
     <message>
         <source>The Ole selection area cannot be objects, please select again.</source>
         <comment>et_sOleSelectionWarning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Obszar zaznaczenia OLE nie może zawierać obiektów, proszę wybierz ponownie.</translation>
     </message>
     <message>
         <source>Generate pictures in the currently selected area.</source>
         <comment>et_sOleSelectionHint</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Generuj obrazy w aktualnie zaznaczonym obszarze.</lengthvariant>
+            <lengthvariant>Generuj obrazy w aktualnie wybranym obszarze.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>User Feedback</source>
         <comment>et_sFeedbackMailTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opinie użytkowników</translation>
     </message>
     <message>
         <source>Picture</source>
         <comment>et_sGraphic</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Obraz</translation>
     </message>
     <message>
@@ -16678,7 +16615,6 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
 ·To replace existing picture, click OK.
 ·To keep existing picture, click Cancel button.</source>
         <comment>et_sReplacePictrueEnquire</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Tylko jeden obraz można wkleić do każdej sekcji %s.
 
  Aby zamienić istniejący obraz, kliknij przycisk OK.
@@ -16687,136 +16623,139 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Other Sheets...</source>
         <comment>et_sOtherSheetsCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inne arkusze...</translation>
     </message>
     <message>
         <source>The command you choose cannot be performed with multiple selections.
 Select a single range and click the command again.</source>
         <comment>et_sCanListNameForMulSelection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Użycie tego polecenia dla kilku zaznaczonych obszarów nie jest możliwe.
+Zaznacz pojedynczy zakres i kliknij polecenie ponownie.</translation>
     </message>
     <message>
         <source>The reference you entered is not valid, or you did not provide a reference where one was required.
 
 To enter a reference, click the cell in the sheet you want to refer to, or drag by using the mouse through the range you want to select. The way is valid both for the same working cell and cells in different sheets of the same workbook. It is called external reference when referring to the other workbooks.</source>
         <comment>et_sAllowUserEditRangeInvalidRange</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadzone odwołanie jest nieprawidłowe lub nie podaje odwołania tam, gdzie było wymagane.
+
+Aby wprowadzić odwołanie, kliknij komórkę w arkuszu, do której chcesz się odwołać lub przeciągnij przez zakres, do którego chcesz się odwołać.
+Podany sposób jest prawidłowy zarówno dla samej komórki roboczej oraz komórek w różnych arkuszach tego samego skoroszytu. Nazywa się to odwołaniem zewnętrznym, odwołującym się do innych skoroszytów.</translation>
     </message>
     <message>
         <source>A range with the title &quot;%s&quot; already exists. Please enter a new title for the range.</source>
         <comment>et_sAllowUserEditRangeNameNotUnique</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zakres o tytule &quot;%s&quot; już istnieje. Wprowadź nowy tytuł zakresu.</translation>
     </message>
     <message>
         <source>The title &quot;%s&quot; contains illegal characters. Range titles may only contain letters, character, numbers, and spaces, and must begin with a letter or a character.</source>
         <comment>et_sAllowUserEditRangeInvalidTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tytuł &quot;%s&quot; zawiera niedozwolone znaki. Tytuły zakresów mogą zawierać jedynie litery, znaki, liczby i spacje, a także muszą rozpoczynać się literą lub znakiem.</translation>
     </message>
     <message>
         <source>The name is invalid for the query.</source>
         <comment>et_sNameInvalidForQuery</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa jest nieprawidłowa dla kwerendy.</translation>
     </message>
     <message>
         <source>A query with this name already exist on this worksheet.</source>
         <comment>et_sSameNameErrorForQuery</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kwerenda o tej nazwie już istnieje w tym arkuszu.</translation>
     </message>
     <message>
         <source>Connection string or SQL is error. WPS Spreadsheets cannot import the data.</source>
         <comment>et_sConnectionStrError</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Ciąg połączenia lub SQL ma błędy. Program WPS Spreadsheets nie może zaimportować danych.</lengthvariant>
+            <lengthvariant>Ciąg połączenia lub kod SQL ma błędy. Program WPS Spreadsheets nie może zaimportować danych.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>The range is not in active sheet. WPS Spreadsheets cannot import data.</source>
         <comment>et_sRangeNotInActiveSheet</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Zakres nie znajduje się w aktywnym arkuszu. Program WPS Spreadsheets nie może zaimportować danych.</translation>
     </message>
     <message>
         <source>You are opening an Excel shared workbook &quot;%s&quot;.</source>
         <comment>et_sWorkbookFileNameHint</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Otwierasz udostępniony skoroszyt programu Excel &quot;%s&quot;.</translation>
     </message>
     <message>
         <source>%d users are editing this file:</source>
         <comment>et_sWorkBookEditingUserCount</comment>
-        <translation type="unfinished"></translation>
+        <translation>użytkownicy %d edytują ten plik:</translation>
     </message>
     <message>
         <source>&amp;Standard column width:</source>
         <comment>et_sStandardColumnWidth</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>&amp;Standardowa szerokość kolumny:</translation>
     </message>
     <message>
         <source>Standard Width</source>
         <comment>et_sStandardColumnWidthCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szerokość standardowa</translation>
     </message>
     <message>
         <source>The cells with overly complex strings will be ignored.</source>
         <comment>et_sIgnoreComplexCell</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Komórki z nadmiernie skomplikowanych ciągów zostaną zignorowane.</lengthvariant>
+            <lengthvariant>Komórki z nadmiernie skomplikowanych ciągów będą zignorowane.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Print</source>
         <comment>et_sRecentPrint_Print</comment>
-        <translation type="unfinished"></translation>
+        <translation>Drukuj</translation>
     </message>
     <message>
         <source>Print directly</source>
         <comment>et_sRecentPrint_PrintDirect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Drukuj bezpośrednio</translation>
     </message>
     <message>
         <source>%d user is editing this file:</source>
         <comment>et_sWorkBookEditingUserCountOne</comment>
-        <translation type="unfinished"></translation>
+        <translation>użytkownik %d edytuje ten plik:</translation>
     </message>
     <message>
         <source>%d cell (s) found</source>
         <comment>et_sFindAllResult</comment>
-        <translation type="unfinished"></translation>
+        <translation>%d znalezionych komórek</translation>
     </message>
     <message>
         <source>This function takes no arguments.</source>
         <comment>et_sFuncHasNoParam</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ta funkcja nie posiada argumentów.</translation>
     </message>
     <message>
         <source>Delete(&amp;D)</source>
         <comment>et_sRecordFormDelete</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Usuń(&amp;U)</translation>
     </message>
     <message>
         <source>Clear(&amp;C)</source>
         <comment>et_sRecordFormClear</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wyczyść(&amp;W)</translation>
     </message>
     <message>
         <source>Form(&amp;F)</source>
         <comment>et_sRecordFormForm</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formularz(&amp;F)</translation>
     </message>
     <message>
         <source>Criteria(&amp;C)</source>
         <comment>et_sRecordFormCriteria</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kryteria(&amp;K)</translation>
     </message>
     <message>
         <source>New Record</source>
         <comment>et_sRecordFormNew</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Nowy rekord</translation>
     </message>
     <message>
         <source>Criteria</source>
         <comment>et_sRecordFormCriteriaCaption</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Kryteria</translation>
     </message>
     <message>
@@ -16825,11 +16764,10 @@ the cells will be set in orange background.
 
 (Note: Please select the range with a single row or column)</source>
         <comment>et_sRepeatWordRemind</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Jeśli występują powtarzające się zawartości komórek w następującym zakresie,
 komórki te będą miały ustawiony pomarańczowy kolor tła.
 
-(Uwaga: Proszę wybrać zakres z jednego wiersza lub kolumny)</translation>
+(Uwaga: Proszę wybrać zakres z pojedynczego wiersza lub kolumny)</translation>
     </message>
     <message>
         <source>If there are duplicate values when entering contents in the 
@@ -16837,7 +16775,9 @@ following range,it reminds checking the correctness of the
 contents.
 (Note: Please select the range with a single row or column)</source>
         <comment>et_sRepeatWordInputDeny</comment>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli istnieją zduplikowane wartości podczas wprowadzania zawartości w następujacym zakresie,
+to przypomina sprawdzanie poprawności zawartości.
+(Uwaga: Proszę wybrać zakres z pojedynczego wiersza lub kolumny)</translation>
     </message>
     <message>
         <source>It compares the contents by rows after click OK. The duplica
@@ -16845,23 +16785,27 @@ ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
         <comment>et_sRepeatWordDelete</comment>
-        <translation type="unfinished"></translation>
+        <translation>Porównuje zawartość według wierszy po kliknięciu przycisku OK.
+Zduplikowane wiersze z dokładnie taką samą zawartością zostaną automatycznie usunięte,
+a pozostawiony zostanie tylko jeden wiersz.
+(Uwaga: Funkcja obsługuje tylko pojedynczy zakres)</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
         <comment>et_sRepeatWordRemindCaption</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Wyróżnij duplikaty</translation>
     </message>
     <message>
         <source>Reject Input Duplicates</source>
         <comment>et_sRepeatWordInputDenyCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Odrzucić duplikaty wejściowe</lengthvariant>
+            <lengthvariant>Odrzucić duplikaty danych wejściowych</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
         <comment>et_sRepeatWordDeleteCaption</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Usuń duplikaty</translation>
     </message>
 </context>
