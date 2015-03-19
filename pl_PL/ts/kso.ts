@@ -780,6 +780,7 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Ungroup</source>
         <comment>DgUil_KSO_Cmd_UnGroup</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Rozgrupuj</translation>
     </message>
     <message>
@@ -832,47 +833,56 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Align Left</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value0</comment>
-        <translation type="unfinished">Wyrównaj do Lewej</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyrównaj do lewej</translation>
     </message>
     <message>
         <source>Align Center</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value1</comment>
-        <translation type="unfinished">Wyśrodkuj</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyrównaj do środka</translation>
     </message>
     <message>
         <source>Align Right</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value2</comment>
-        <translation type="unfinished">Wyrównaj do Prawej</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyrównaj do prawej</translation>
     </message>
     <message>
         <source>Align Top</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyrównaj do góry</translation>
     </message>
     <message>
         <source>Align Middle</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value4</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyrównaj do środka</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value5</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyrównaj do dołu</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
         <comment>DgUil_KSO_Cmd_Distribute_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozłóż w poziomie</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
         <comment>DgUil_KSO_Cmd_Distribute_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozłóż w pionie</translation>
     </message>
     <message>
         <source>Free Rotate</source>
         <comment>DgUil_KSO_Cmd_FreeRotate</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Obrót dowolny</translation>
     </message>
     <message>
         <source>Rotate Left 90º</source>
@@ -887,12 +897,14 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Flip Horizontal</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value2</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przerzuć w poziomie</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przerzuć w pionie</translation>
     </message>
     <message>
         <source>Reroute Connectors</source>
@@ -949,21 +961,25 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Recent Line Color</source>
         <comment>DgUil_KSO_Cmd_RecentLineColor</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ostatni kolor linii</translation>
     </message>
     <message>
         <source>Line Color</source>
         <comment>DgUil_KSO_Cmd_LineColor</comment>
-        <translation>Wstaw linię</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kolor linii</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
         <comment>DgUil_KSO_Cmd_PatternedLines</comment>
-        <translation>Przerywane linie</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Linie z deseniem</translation>
     </message>
     <message>
         <source>Line Style</source>
         <comment>DgUil_KSO_Cmd_LineStylePalette</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl linii</translation>
     </message>
     <message>
@@ -1070,37 +1086,44 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value0</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value36</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value72</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value144</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepth_Value288</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepthInfinity</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>Custom 3-D</source>
         <comment>DgUil_KSO_Cmd_3DDepthCustom</comment>
-        <translation>Własne 3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Niestandardowy 3-D</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -1120,52 +1143,62 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingPalette</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value0</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value1</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DLightingType_Value2</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value0</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value1</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value2</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DSurfaceType_Value3</comment>
-        <translation type="unfinished">3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>3-D Color</source>
         <comment>DgUil_KSO_Cmd_3DColor</comment>
-        <translation>Kolor 3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>pt</source>
         <comment>DgUil_KSO_Cmd_3DDepthUnit</comment>
-        <translation>pkt.</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>pkt</translation>
     </message>
     <message>
         <source>Open Path</source>
@@ -1260,7 +1293,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Remove Hyperlink</source>
         <comment>DgUil_KSO_Cmd_RemoveHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Usuń hiperłącze</translation>
     </message>
     <message>
         <source>Exit Rotate Mode</source>
@@ -1275,17 +1309,23 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Edit Text...</source>
         <comment>DgUil_KSO_Cmd_EditWordArtText</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation type="unfinished">Edytuj tekst...</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
         <comment>DgUil_KSO_Cmd_WordArtGallery</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Galeria WordArt</translation>
     </message>
     <message>
         <source>Format WordArt</source>
         <comment>DgUil_KSO_Cmd_FormatWordArt</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Formatuj WordArt</lengthvariant>
+            <lengthvariant>Formatuj obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -1295,7 +1335,11 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>WordArt Same Letter Heights</source>
         <comment>DgUil_KSO_Cmd_WordArtSameLetterHeights</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Jednakowa wysokość liter tekstu WordArt</lengthvariant>
+            <lengthvariant>Jednakowa wysokość liter WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
@@ -1306,37 +1350,50 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Left Align</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyrównaj do lewej</translation>
     </message>
     <message>
         <source>Center</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Right Align</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value2</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyrównaj do prawej</translation>
     </message>
     <message>
         <source>Word Justify</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyjustuj wyrazy</translation>
     </message>
     <message>
         <source>Letter Justify</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value4</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wyjustuj litery</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value5</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozciągnij i wyjustuj</translation>
     </message>
     <message>
         <source>Very Tight</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Bardzo przyległe</lengthvariant>
+            <lengthvariant>Zwarte</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Tight</source>
@@ -1351,12 +1408,14 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Loose</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Luźne</translation>
     </message>
     <message>
         <source>Very Loose</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value4</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Bardzo luźne</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1441,7 +1500,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Edit Text</source>
         <comment>DgUil_KSO_Cmd_EditText</comment>
-        <translation type="unfinished">Edytuj Tekst</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Edytuj tekst</translation>
     </message>
     <message>
         <source>Add Text</source>
@@ -1461,7 +1521,11 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Format Object</source>
         <comment>DgUil_KSO_Cmd_FormatObject</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -1482,7 +1546,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Format Painter</source>
         <comment>DgUil_KSO_Cmd_FormatPainter</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Malarz formatów</translation>
     </message>
     <message>
         <source>The value must be between -600 pt and 9600 pt.</source>
@@ -1751,7 +1816,8 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Parallelogram</source>
         <comment>DRAWINGSTR_PARALLELOGRAM</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Równoległobok</translation>
     </message>
     <message>
         <source>Trapezoid</source>
@@ -2370,7 +2436,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WordArt: Plain Text</source>
         <comment>DRAWINGSTR_TEXTPLAINTEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zwykły tekst</translation>
     </message>
     <message>
         <source>WordArt: Octagon</source>
@@ -2400,12 +2466,14 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WordArt: Ring Inside</source>
         <comment>DRAWINGSTR_TEXTRINGINSIDE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Pierścień-strona wewnętrzna</translatorcomment>
+        <translation type="unfinished">Wnętrze pierścienia</translation>
     </message>
     <message>
         <source>WordArt: Ring Outside</source>
         <comment>DRAWINGSTR_TEXTRINGOUTSIDE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Pierścień-strona zewnętrzna</translatorcomment>
+        <translation type="unfinished">Zewnętrze pierścienia</translation>
     </message>
     <message>
         <source>WordArt: Arch Up Curve</source>
@@ -2450,22 +2518,25 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WordArt: Curve Up</source>
         <comment>DRAWINGSTR_TEXTCURVEUP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Krzywa wygięta w górę</translation>
     </message>
     <message>
         <source>WordArt: Curve Down</source>
         <comment>DRAWINGSTR_TEXTCURVEDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>Krzywa wygięta w dół</lengthvariant>
+            <lengthvariant>Zakręt w dół</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt: Cascade Up</source>
         <comment>DRAWINGSTR_TEXTCASCADEUP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kaskadowo w górę</translation>
     </message>
     <message>
         <source>WordArt: Cascade Down</source>
         <comment>DRAWINGSTR_TEXTCASCADEDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kaskadowo w dół</translation>
     </message>
     <message>
         <source>WordArt: Wave1</source>
@@ -2490,32 +2561,32 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WordArt: Inflate</source>
         <comment>DRAWINGSTR_TEXTINFLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdęcie</translation>
     </message>
     <message>
         <source>WordArt: Deflate</source>
         <comment>DRAWINGSTR_TEXTDEFLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wklęśnięcie</translation>
     </message>
     <message>
         <source>WordArt: Inflate Bottom</source>
         <comment>DRAWINGSTR_TEXTINFLATEBOTTOM</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdęcie u dołu</translation>
     </message>
     <message>
         <source>WordArt: Deflate Bottom</source>
         <comment>DRAWINGSTR_TEXTDEFLATEBOTTOM</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wklęśnięcie u dołu</translation>
     </message>
     <message>
         <source>WordArt: Inflate Top</source>
         <comment>DRAWINGSTR_TEXTINFLATETOP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdęcie u góry</translation>
     </message>
     <message>
         <source>WordArt: Deflate Top</source>
         <comment>DRAWINGSTR_TEXTDEFLATETOP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wklęśnięcie u góry</translation>
     </message>
     <message>
         <source>WordArt: Deflate-Inflate</source>
@@ -2530,37 +2601,49 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WordArt: Fade Right</source>
         <comment>DRAWINGSTR_TEXTFADERIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>Zanikanie w prawo</lengthvariant>
+            <lengthvariant>Oddalanie w prawo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt: Fade Left</source>
         <comment>DRAWINGSTR_TEXTFADELEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>Zanikanie w lewo</lengthvariant>
+            <lengthvariant>Oddalanie w lewo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt: Fade Up</source>
         <comment>DRAWINGSTR_TEXTFADEUP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>Zanikanie w górę</lengthvariant>
+            <lengthvariant>Oddalanie w górę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt: Fade Down</source>
         <comment>DRAWINGSTR_TEXTFADEDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>Zanikanie w dół</lengthvariant>
+            <lengthvariant>Oddalanie w dół</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt: Slant Up</source>
         <comment>DRAWINGSTR_TEXTSLANTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nachylenie w górę</translation>
     </message>
     <message>
         <source>WordArt: Slant Down</source>
         <comment>DRAWINGSTR_TEXTSLANTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nachylenie w dół</translation>
     </message>
     <message>
         <source>WordArt: Can Up</source>
         <comment>DRAWINGSTR_TEXTCANUP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WordArt: Walec w górę</translation>
     </message>
     <message>
         <source>WordArt: Can Down</source>
@@ -3324,7 +3407,8 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>3-D Color</source>
         <comment>DRAWINGSTR_DGMSTYLE_3D_COLOR</comment>
-        <translation type="unfinished">Kolor 3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -3371,7 +3455,8 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Wire Frame</source>
         <comment>DRAWINGSTR_DGMSTYLE_WIRE_FRAME</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szkielet</translation>
     </message>
     <message>
         <source>Classic</source>
@@ -5737,12 +5822,13 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Patterned Lines</source>
         <comment>kso_sLineFormatCaption</comment>
-        <translation type="unfinished">Przerywane linie</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Linie z deseniem</translation>
     </message>
     <message>
         <source>Long Dash</source>
         <comment>kso_sLineLongDash</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Długa kreska</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -5752,7 +5838,8 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Round Dot</source>
         <comment>kso_sLineRoundDot</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Okrągła kropka</translation>
     </message>
     <message>
         <source>Soild</source>
@@ -5762,7 +5849,8 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Square Dot</source>
         <comment>kso_sLineSquareDot</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kwadratowa kropka</translation>
     </message>
     <message>
         <source>Loading DLL failed</source>
@@ -6414,22 +6502,26 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Arch Down (Curve)</source>
         <comment>kso_sWASArchDownCurve</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łuk wygięty w dół (tekst na krzywej)</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
         <comment>kso_sWASArchDownPour</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łuk wygięty w dół (tekst wpisany)</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
         <comment>kso_sWASArchUpCurve</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łuk wygięty w górę (tekst na krzywej)</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
         <comment>kso_sWASArchUpPour</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łuk wygięty w górę (tekst wpisany)</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
@@ -6439,152 +6531,197 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Bottom (Pour)</source>
         <comment>kso_sWASBottomPour</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Na dole (tekst wpisany)</translation>
     </message>
     <message>
         <source>Can Down</source>
         <comment>kso_sWASCanDown</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Walec w dół</translation>
     </message>
     <message>
         <source>Can Up</source>
         <comment>kso_sWASCanUp</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Walec w górę</translation>
     </message>
     <message>
         <source>Cascade Down</source>
         <comment>kso_sWASCascadeDown</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kaskadowo w dół</translation>
     </message>
     <message>
         <source>Cascade Up</source>
         <comment>kso_sWASCascadeUp</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kaskadowo w górę</translation>
     </message>
     <message>
         <source>Chevron Down</source>
         <comment>kso_sWASChevronDown</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pagon skierowany w dół</translation>
     </message>
     <message>
         <source>Chevron Up</source>
         <comment>kso_sWASChevronUp</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pagon skierowany w górę</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
         <comment>kso_sWASCircleCurve</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Okrąg (tekst na krzywej)</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
         <comment>kso_sWASCirclePour</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Okrąg (tekst wpisany)</translation>
     </message>
     <message>
         <source>Curve Down</source>
         <comment>kso_sWASCurveDown</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Krzywa wygięta w dół</lengthvariant>
+            <lengthvariant>Zakręt w dół</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Curve Up</source>
         <comment>kso_sWASCurveUp</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Krzywa wygięta w górę</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
         <comment>kso_sWASDefInfDef</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wklęśnięcie, rozdęcie i wklęśnięcie</translation>
     </message>
     <message>
         <source>Deflate</source>
         <comment>kso_sWASDeflate</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wklęśnięcie</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
         <comment>kso_sWASDeflateBottom</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wklęśnięcie u dołu</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
         <comment>kso_sWASDeflateInflate</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wklęśnięcie i rozdęcie</translation>
     </message>
     <message>
         <source>Deflate Top</source>
         <comment>kso_sWASDeflateTop</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wklęśnięcie u góry</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
         <comment>kso_sWASDoubleWave1</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Podwójna fala 1</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
         <comment>kso_sWASDoubleWave2</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Podwójna fala 2</translation>
     </message>
     <message>
         <source>Fade Down</source>
         <comment>kso_sWASFadeDown</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w dół</lengthvariant>
+            <lengthvariant>Oddalanie w dół</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Left</source>
         <comment>kso_sWASFadeLeft</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w lewo</lengthvariant>
+            <lengthvariant>Oddalanie w lewo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Right</source>
         <comment>kso_sWASFadeRight</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w prawo</lengthvariant>
+            <lengthvariant>Oddalanie w prawo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Up</source>
         <comment>kso_sWASFadeUp</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w górę</lengthvariant>
+            <lengthvariant>Oddalanie w górę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Inflate</source>
         <comment>kso_sWASInflate</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozdęcie</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
         <comment>kso_sWASInflateBottom</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozdęcie u dołu</translation>
     </message>
     <message>
         <source>Inflate Top</source>
         <comment>kso_sWASInflateTop</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Rozdęcie u góry</translation>
     </message>
     <message>
         <source>Plain Text</source>
         <comment>kso_sWASPlainText</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zwykły tekst</translation>
     </message>
     <message>
         <source>Ring Inside</source>
         <comment>kso_sWASRingInside</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Pierścień-strona wewnętrzna</translatorcomment>
+        <translation>Wnętrze pierścienia</translation>
     </message>
     <message>
         <source>Ring Outside</source>
         <comment>kso_sWASRingOutside</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Pierścień-strona zewnętrzna</translatorcomment>
+        <translation>Zewnętrze pierścienia</translation>
     </message>
     <message>
         <source>Slant Down</source>
         <comment>kso_sWASSlantDown</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nachylenie w dół</translation>
     </message>
     <message>
         <source>Slant Up</source>
         <comment>kso_sWASSlantUp</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nachylenie w górę</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -6595,22 +6732,32 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Triangle Up</source>
         <comment>kso_sWASTriangle</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Trójkąt skierowany w górę</lengthvariant>
+            <lengthvariant>Trójkąt w górę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Triangle Down</source>
         <comment>kso_sWASTriangleDown</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Trójkąt skierowany w dół</lengthvariant>
+            <lengthvariant>Trójkąt w dół</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Wave 1</source>
         <comment>kso_sWASWave1</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Fala 1</translation>
     </message>
     <message>
         <source>Wave 2</source>
         <comment>kso_sWASWave2</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Fala 2</translation>
     </message>
     <message>
         <source>Wave</source>

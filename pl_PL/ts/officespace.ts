@@ -1845,10 +1845,7 @@ folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation variants="yes">
-            <lengthvariant>Konsoliduj</lengthvariant>
-            <lengthvariant>Konsolidowanie</lengthvariant>
-        </translation>
+        <translation>Konsolidowanie</translation>
     </message>
     <message>
         <source>Combine values from multiple ranges into one new range.</source>

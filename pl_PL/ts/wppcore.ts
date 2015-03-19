@@ -6630,7 +6630,7 @@ układ</lengthvariant>
     <message>
         <source>3-D Color</source>
         <comment>Wp3DCOLOR</comment>
-        <translation>Kolor 3D</translation>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>Insert Sound from File</source>

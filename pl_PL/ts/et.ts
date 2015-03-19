@@ -86,7 +86,6 @@
         <translation variants="yes">
             <lengthvariant>Selektor szerokości kolumn</lengthvariant>
             <lengthvariant>Wybór szerokości kolumn</lengthvariant>
-            <lengthvariant>Wybierak szerokości kolumn</lengthvariant>
         </translation>
     </message>
 </context>
@@ -2132,10 +2131,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <name>KxDlgConsolidate</name>
     <message>
         <source>Consolidate</source>
-        <translation variants="yes">
-            <lengthvariant>Konsolidowanie</lengthvariant>
-            <lengthvariant>Konsoliduj</lengthvariant>
-        </translation>
+        <translation>Konsolidowanie</translation>
     </message>
     <message>
         <source>&amp;Function:</source>
@@ -2670,8 +2666,9 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Fill Across Worksheets</source>
         <translation variants="yes">
-            <lengthvariant>Wypełnianie w arkuszach</lengthvariant>
             <lengthvariant>Wypełniaj w arkuszach</lengthvariant>
+            <lengthvariant>Wypełnianie w arkuszach</lengthvariant>
+            <lengthvariant>Wypełnij we wszystkich arkuszach</lengthvariant>
         </translation>
     </message>
     <message>
@@ -7769,7 +7766,7 @@ na iteracji #%2.</translation>
     </message>
     <message>
         <source>A range with the title  &quot;%1&quot; already exists. Please enter a new title for the range.</source>
-        <translation>Zakres o tytule  &quot;%1&quot; już istnieje. Wprowadź nowy tytuł zakresu.</translation>
+        <translation>Zakres o tytule &quot;%1&quot; już istnieje. Wprowadź nowy tytuł zakresu.</translation>
     </message>
 </context>
 <context>
