@@ -1594,8 +1594,8 @@ Czy chcesz go zamienić?</lengthvariant>
         <source>Outline</source>
         <comment>TxRevision_Chp_Outline</comment>
         <translation variants="yes">
-            <lengthvariant>Konspekt</lengthvariant>
             <lengthvariant>Kontur</lengthvariant>
+            <lengthvariant>Konspekt</lengthvariant>
         </translation>
     </message>
     <message>
@@ -5885,7 +5885,7 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>Genko Setting</source>
         <comment>TxVersion_SetGenkoSetting</comment>
-        <translation>Ustawienie Genko</translation>
+        <translation>Ustawienia Genko</translation>
     </message>
     <message>
         <source>Insert Break</source>

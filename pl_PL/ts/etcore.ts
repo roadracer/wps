@@ -2930,7 +2930,7 @@ Aby anulować kwerendę, kliknij przycisk &quot;Anuluj&quot;.</translation>
         <source>And</source>
         <comment>TX_AutoFilter_And</comment>
         <translation variants="yes">
-            <lengthvariant>I</lengthvariant>
+            <lengthvariant>Oraz</lengthvariant>
             <lengthvariant>And</lengthvariant>
         </translation>
     </message>
@@ -8451,7 +8451,10 @@ Proszę upewnij się, że wybrane regiony są ciągłymi komórkami.</translatio
     <message>
         <source>Enter</source>
         <comment>TX_Editing_Input</comment>
-        <translation>Wprowadź</translation>
+        <translation variants="yes">
+            <lengthvariant>Wprowadź</lengthvariant>
+            <lengthvariant>Enter</lengthvariant>
+        </translation>
     </message>
     <message>
         <source> Edit</source>
@@ -8831,53 +8834,54 @@ Czy kontynuować?</translation>
     <message>
         <source>Only integer can be used for Text length conditions.</source>
         <comment>TX_DV_MustTextLength</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tylko liczba całkowita może być użyta dla warunków Długości tekstu.</translation>
     </message>
     <message>
         <source>You must enter a Text length.</source>
         <comment>TX_DV_EmptyTextLength</comment>
-        <translation type="unfinished"></translation>
+        <translation>Musisz podać Długość tekstu.</translation>
     </message>
     <message>
         <source>You must enter a formula.</source>
         <comment>TX_DV_EmptyFormula</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Musisz podać Formułę.</translation>
     </message>
     <message>
         <source>The Formula contains an error now. Do you want to continue?</source>
         <comment>TX_DV_FormulaErr</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formuła zawiera błąd. Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
         <comment>TX_NEWBLANKFILECAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nowy pusty skoroszyt</translation>
     </message>
     <message>
         <source>New from Default Template</source>
         <comment>TX_NEWFILEFROMTEMPLATECAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nowy z domyślnego szablonu</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
         <comment>TX_TPNEWBLANKFILECAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nowy pusty skoroszyt</translation>
     </message>
     <message>
         <source>New from Default Template</source>
         <comment>TX_TPNEWFILEFROMTEMPLATECAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nowy z domyślnego szablonu</translation>
     </message>
     <message>
         <source>Format Text box</source>
         <comment>TX_SETEDITTEXTBOXCAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Formatowanie pola tekstowego</lengthvariant>
+            <lengthvariant>Formatuj pole tekstowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Format Cells</source>
         <comment>TX_SETEDITCAPTION</comment>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Formatowanie komórek</lengthvariant>
             <lengthvariant>Formatuj komórki</lengthvariant>
@@ -8886,7 +8890,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Cells</source>
         <comment>TX_SETCELLSCAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Komórki</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, that causes a circular reference. Try one of the following:
@@ -8899,78 +8903,83 @@ Czy kontynuować?</translation>
     <message>
         <source>Enter</source>
         <comment>TX_FORMULAEDIT_ENTER</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Wprowadź</lengthvariant>
+            <lengthvariant>Enter</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>TX_FORMULAEDIT_CANCEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Open File</source>
         <comment>TX_OPENFILE</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Otwórz plik</translation>
     </message>
     <message>
         <source>Al</source>
         <comment>TX_ParaInfo_001</comment>
-        <translation type="unfinished"></translation>
+        <translation>AL</translation>
     </message>
     <message>
         <source>Abs_num</source>
         <comment>TX_ParaInfo_002</comment>
-        <translation type="unfinished"></translation>
+        <translation>Typ_adresu</translation>
     </message>
     <message>
         <source>Angle</source>
         <comment>TX_ParaInfo_003</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kąt</translation>
     </message>
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_004</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tablica</translation>
     </message>
     <message>
         <source>Array1</source>
         <comment>TX_ParaInfo_005</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tablica1</translation>
     </message>
     <message>
         <source>Array2</source>
         <comment>TX_ParaInfo_006</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tablica2</translation>
     </message>
     <message>
         <source>Array</source>
         <comment>TX_ParaInfo_007</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tablica</translation>
     </message>
     <message>
         <source>Base</source>
         <comment>TX_ParaInfo_008</comment>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Baza</lengthvariant>
+            <lengthvariant>Podstawa</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Bottom</source>
         <comment>TX_ParaInfo_009</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dolna</translation>
     </message>
     <message>
         <source>Col_index_num</source>
         <comment>TX_ParaInfo_010</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nr_indeksu_kolumny</translation>
     </message>
     <message>
         <source>Cols</source>
         <comment>TX_ParaInfo_011</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kolumny</translation>
     </message>
     <message>
         <source>Column_num</source>
         <comment>TX_ParaInfo_012</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nr_kolumny</translation>
     </message>
     <message>
         <source>Const</source>
@@ -10097,7 +10106,8 @@ Czy kontynuować?</translation>
     <message>
         <source>Chart </source>
         <comment>TX_CHECKSPELLING_FROMCHART</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wykres </translation>
     </message>
     <message>
         <source>This function is provided in WPS Office 2009 Professional Edition.</source>
@@ -10133,13 +10143,22 @@ Czy kontynuować?</translation>
     <message>
         <source>Book</source>
         <comment>TXShell_BookProtection_Caption</comment>
-        <translation type="unfinished">Książka</translation>
+        <translation variants="yes">
+            <lengthvariant>Zeszyt</lengthvariant>
+            <lengthvariant>Książka</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Import 
 Data</source>
         <comment>TXShell_ImportData_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Importuj 
+dane</lengthvariant>
+            <lengthvariant>Importowanie 
+danych</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Validation</source>
@@ -10249,7 +10268,8 @@ Check</source>
     <message>
         <source>List Box</source>
         <comment>TX_FCItemName_ListBox</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pole listy</translation>
     </message>
     <message>
         <source>Drop-down box</source>
@@ -10259,12 +10279,14 @@ Check</source>
     <message>
         <source>Scroll Bar</source>
         <comment>TX_FCItemName_ScrollBar</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pasek przewijania</translation>
     </message>
     <message>
         <source>Spinner</source>
         <comment>TX_FCItemName_Spinner</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pokrętło</translation>
     </message>
     <message>
         <source>Hyperlink position</source>
@@ -10279,7 +10301,8 @@ Check</source>
     <message>
         <source>Protect and Share Workbook</source>
         <comment>TX_ShareWorkbook_MenuProtectAndShare</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Chroń i udostępnij skoroszyt</translation>
     </message>
     <message>
         <source>Protect Shared Workbook</source>
@@ -10340,12 +10363,14 @@ Check</source>
     <message>
         <source>Translate to Simplified Chinese</source>
         <comment>Tx_TranslateToSimplifiedChinese</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przetłumacz na chiński uproszczony</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
         <comment>Tx_TranslateToTraditionalChinese</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przetłumacz na chiński tradycyjny</translation>
     </message>
     <message>
         <source>This operation requires the merged cells to be identically sized</source>
@@ -13656,7 +13681,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
         <source>Transpose</source>
         <comment>TX_ParaInfo_302</comment>
         <translatorcomment>a</translatorcomment>
-        <translation>Transpozycja</translation>
+        <translation>Transponuj</translation>
     </message>
     <message>
         <source>Icon_number</source>
@@ -14689,7 +14714,10 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Enter</source>
         <comment>TX_Undo_FormulaBarEnter</comment>
-        <translation>Wprowadź</translation>
+        <translation variants="yes">
+            <lengthvariant>Wprowadź</lengthvariant>
+            <lengthvariant>Enter</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Cancel</source>

@@ -4319,10 +4319,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Curve Down</source>
         <comment>wpp_sAnimExitEffectTextArcUp</comment>
-        <translation variants="yes">
-            <lengthvariant>Krzywa wygięta w dół</lengthvariant>
-            <lengthvariant>Zakręt w dół</lengthvariant>
-        </translation>
+        <translation>Krzywa wygięta w dół</translation>
     </message>
     <message>
         <source>Descend</source>

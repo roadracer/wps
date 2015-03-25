@@ -909,12 +909,14 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Reroute Connectors</source>
         <comment>DgUil_KSO_Cmd_RerouteConnectors</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przekieruj łączniki</translation>
     </message>
     <message>
         <source>Change Points</source>
         <comment>DgUil_KSO_Cmd_EditPoints</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zmień punkty</translation>
     </message>
     <message>
         <source>Change to Autoshape</source>
@@ -924,7 +926,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Set AutoShape Defaults</source>
         <comment>DgUil_KSO_Cmd_AutoShapeDefaults</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ustawienia domyślne Autokształtu</translation>
     </message>
     <message>
         <source>Select Multiple Objects</source>
@@ -956,7 +959,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Fill Effects</source>
         <comment>DgUil_KSO_Cmd_FillEffects</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Efekty wypełnienia</translation>
     </message>
     <message>
         <source>Recent Line Color</source>
@@ -1006,7 +1010,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>No Shadow</source>
         <comment>DgUil_KSO_Cmd_NoShadow</comment>
-        <translation>Brak cienia</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Bez cienia</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -1051,7 +1056,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>No 3-D</source>
         <comment>DgUil_KSO_Cmd_No3DStyle</comment>
-        <translation>Bez 3D</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Bez efektu 3-D</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -1228,7 +1234,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Curved Segment</source>
         <comment>DgUil_KSO_Cmd_SegmentType_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Segment zakrzywiony</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
@@ -1263,17 +1270,20 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Straight Connector</source>
         <comment>DgUil_KSO_Cmd_ConnectorType_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łącznik prosty</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
         <comment>DgUil_KSO_Cmd_ConnectorType_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łącznik łamany</translation>
     </message>
     <message>
         <source>Curved Connector</source>
         <comment>DgUil_KSO_Cmd_ConnectorType_Value2</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łącznik zakrzywiony</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -1398,12 +1408,14 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Tight</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przyległe</translation>
     </message>
     <message>
         <source>Normal</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value2</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Normalne</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -1430,7 +1442,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>More AutoShapes</source>
         <comment>DgUil_KSO_Cmd_MoreAutoShapes</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Więcej Autokształtów</translation>
     </message>
     <message>
         <source>Insert Line</source>
@@ -1445,12 +1458,17 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Insert Rectangle</source>
         <comment>DgUil_KSO_Cmd_InsertRectangle</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wstaw prostokąt</translation>
     </message>
     <message>
         <source>Insert Oval</source>
         <comment>DgUil_KSO_Cmd_InsertOval</comment>
-        <translation type="unfinished">Wstaw Owal</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wstaw owal</lengthvariant>
+            <lengthvariant>Wstaw elipsę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert Text Box</source>
@@ -1471,7 +1489,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Insert Clip Art</source>
         <comment>DgUil_KSO_Cmd_InsertClipArt</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wstaw ClipArt</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -1490,7 +1509,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienia dostępności tymczaso
     <message>
         <source>Edit OLE Object</source>
         <comment>DgUil_KSO_Cmd_EditOle</comment>
-        <translation type="unfinished">Edytuj Obiekt OLE</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Edytuj obiekt OLE</translation>
     </message>
     <message>
         <source>AutoShape</source>
@@ -1664,12 +1684,14 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Design Mode</source>
         <comment>DgUil_OLEControl_DesignMode</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Tryb projektowania</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
         <comment>DgUil_OLEControl_ExitDesignMode</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zakończ tryb projektowania</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -1786,17 +1808,23 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Rectangle</source>
         <comment>DRAWINGSTR_RECTANGLE</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Prostokąt</translation>
     </message>
     <message>
         <source>Rounded Rectangle</source>
         <comment>DRAWINGSTR_ROUNDRECTANGLE</comment>
-        <translation>Zaokrąglony Prostokąt</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zaokrąglony prostokąt</translation>
     </message>
     <message>
         <source>Oval</source>
         <comment>DRAWINGSTR_ELLIPSE</comment>
-        <translation>Owal</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Owal</lengthvariant>
+            <lengthvariant>Elipsa</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Diamond</source>
@@ -1918,7 +1946,8 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WordArt: Curve</source>
         <comment>DRAWINGSTR_TEXTCURVE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>WordArt: krzywa</translation>
     </message>
     <message>
         <source>WordArt: Wave</source>
@@ -1933,7 +1962,8 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WordArt: Curve2</source>
         <comment>DRAWINGSTR_TEXTONCURVE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>WordArt: krzywa 2</translation>
     </message>
     <message>
         <source>WordArt: Circle</source>
@@ -1943,17 +1973,20 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Straight Connector</source>
         <comment>DRAWINGSTR_STRAIGHTCONNECTOR1</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łącznik prosty</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
         <comment>DRAWINGSTR_BENTCONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łącznik łamany</translation>
     </message>
     <message>
         <source>Curved Connector</source>
         <comment>DRAWINGSTR_CURVEDCONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łącznik zakrzywiony</translation>
     </message>
     <message>
         <source>Line Callout 2 (No Border)</source>
@@ -2069,7 +2102,8 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Oval Callout</source>
         <comment>DRAWINGSTR_WEDGEELLIPSECALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Objaśnienie owalne</translation>
     </message>
     <message>
         <source>Wave</source>
@@ -2267,22 +2301,26 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Curved Left Arrow</source>
         <comment>DRAWINGSTR_CURVEDRIGHTARROW</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Strzałka zakrzywiona w lewo</translation>
     </message>
     <message>
         <source>Curved Right Arrow</source>
         <comment>DRAWINGSTR_CURVEDLEFTARROW</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Strzałka zakrzywiona w prawo</translation>
     </message>
     <message>
         <source>Curved Down Arrow</source>
         <comment>DRAWINGSTR_CURVEDUPARROW</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Strzałka zakrzywiona w dół</translation>
     </message>
     <message>
         <source>Curved Up Arrow</source>
         <comment>DRAWINGSTR_CURVEDDOWNARROW</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Strzałka zakrzywiona w górę</translation>
     </message>
     <message>
         <source>Cloud Callout</source>
@@ -2292,12 +2330,14 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Curved Down Ribbon</source>
         <comment>DRAWINGSTR_ELLIPSERIBBON</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wstęga zakrzywiona w dół</translation>
     </message>
     <message>
         <source>Curved Up Ribbon</source>
         <comment>DRAWINGSTR_ELLIPSERIBBON2</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wstęga zakrzywiona w górę</translation>
     </message>
     <message>
         <source>Flowchart: Process</source>
@@ -2357,7 +2397,8 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Flowchart: Connector</source>
         <comment>DRAWINGSTR_FLOWCHARTCONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Schemat blokowy: łącznik</translation>
     </message>
     <message>
         <source>Flowchart: Card</source>
@@ -2478,12 +2519,14 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WordArt: Arch Up Curve</source>
         <comment>DRAWINGSTR_TEXTARCHUPCURVE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>WordArt: krzywa wygięta łukowato w górę</translation>
     </message>
     <message>
         <source>WordArt: Arch Down Curve</source>
         <comment>DRAWINGSTR_TEXTARCHDOWNCURVE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>WordArt: krzywa wygięta łukowato w dół</translation>
     </message>
     <message>
         <source>WordArt: Circle Curve</source>
@@ -2518,15 +2561,14 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WordArt: Curve Up</source>
         <comment>DRAWINGSTR_TEXTCURVEUP</comment>
-        <translation type="unfinished">Krzywa wygięta w górę</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>WordArt: krzywa wygięta w górę</translation>
     </message>
     <message>
         <source>WordArt: Curve Down</source>
         <comment>DRAWINGSTR_TEXTCURVEDOWN</comment>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Krzywa wygięta w dół</lengthvariant>
-            <lengthvariant>Zakręt w dół</lengthvariant>
-        </translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>WordArt: krzywa wygięta w dół</translation>
     </message>
     <message>
         <source>WordArt: Cascade Up</source>
@@ -2658,7 +2700,8 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Flowchart: Off-page Connector</source>
         <comment>DRAWINGSTR_FLOWCHARTOFFPAGECONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Schemat blokowy: łącznik międzystronicowy</translation>
     </message>
     <message>
         <source>Line Callout 1 (No Border)</source>
@@ -2867,7 +2910,8 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Curved Ribbon3</source>
         <comment>DRAWINGSTR_CURVEDRIBBON3</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wstęga zakrzywiona 3</translation>
     </message>
     <message>
         <source>Desk</source>
@@ -3052,7 +3096,8 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Pub Oval Callout</source>
         <comment>DRAWINGSTR_PUBOVALCALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Publikuj objaśnienie owalne</translation>
     </message>
     <message>
         <source>Pub Pie Slice</source>
@@ -3376,17 +3421,20 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Outline</source>
         <comment>DRAWINGSTR_DGMSTYLE_OUTLINE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Double Outline</source>
         <comment>DRAWINGSTR_DGMSTYLE_DBL_OUTLINE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Podwójny kontur</translation>
     </message>
     <message>
         <source>Thick Outline</source>
         <comment>DRAWINGSTR_DGMSTYLE_THICK_OUTLINE</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Cienki kontur</translation>
     </message>
     <message>
         <source>Primary Colors</source>
@@ -3946,7 +3994,8 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source> Development</source>
         <comment>_kso_versionType_DEV</comment>
-        <translation> Developerska</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation> Programowania</translation>
     </message>
     <message>
         <source> OEM</source>
@@ -4281,17 +4330,20 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office 2010 Professional Edition</source>
         <comment>_kso_ksoProductName_dev_cn</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>WPS Office 2010 Professional Edition</lengthvariant>
+            <lengthvariant>Wydanie WPS Office 2010 Professional</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WPS Office Standard</source>
         <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Office Standard</translation>
     </message>
     <message>
         <source>WPS Office Home</source>
         <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Office Home</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
@@ -4306,7 +4358,8 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>New Workbook.xls</source>
         <comment>_kso_etSaveToFileName</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowy skoroszyt.xls</translation>
     </message>
     <message>
         <source>New Document.doc</source>
@@ -4364,7 +4417,11 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>mail feedback</source>
         <comment>_kso_crashdlg_mailfeedback</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>poczta opinii</lengthvariant>
+            <lengthvariant>poczta feedback</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>bbs feedback</source>
@@ -4642,58 +4699,71 @@ Do you want to continue?</source>
     <message>
         <source>Backup Management</source>
         <comment>kso_BackupFile_Caption</comment>
-        <translation>Zarządzanie Kopią Zapasową</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zarządzanie kopią zapasową</translation>
     </message>
     <message>
         <source>Backup Management</source>
         <comment>kso_BackupFile_DisplayName</comment>
-        <translation>Zarządzanie Kopią Zapasową</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zarządzanie kopią zapasową</translation>
     </message>
     <message>
         <source>New Document</source>
         <comment>kso_NewDocment_Caption</comment>
-        <translation>Nowy Dokument</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowy dokument</translation>
     </message>
     <message>
         <source>New Document</source>
         <comment>kso_NewDocment_DisplayName</comment>
-        <translation>Nowy Dokument</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowy dokument</translation>
     </message>
     <message>
         <source>New Presentation</source>
         <comment>kso_NewPresent_Caption</comment>
-        <translation>Nowa Prezentacja</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowa prezentacja</translation>
     </message>
     <message>
         <source>New Presentation</source>
         <comment>kso_NewPresent_DisplayName</comment>
-        <translation>Nowa Prezentacja</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowa prezentacja</translation>
     </message>
     <message>
         <source>New Workbook</source>
         <comment>kso_NewWorkbook_Caption</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Nowy skoroszyt</translation>
     </message>
     <message>
         <source>New Workbook</source>
         <comment>kso_NewWorkbook_DisplayName</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Nowy skoroszyt</translation>
     </message>
     <message>
         <source>Recent documents</source>
         <comment>kso_Recent_Document</comment>
         <translatorcomment>a</translatorcomment>
-        <translation>Niedawno używane dokumenty</translation>
+        <translation variants="yes">
+            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
+            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Recent presentations</source>
         <comment>kso_Recent_Present</comment>
-        <translation>Ostatnie prezentacje</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation type="unfinished">Ostatnio używane prezentacje</translation>
     </message>
     <message>
         <source>Recent workbooks</source>
         <comment>kso_Recent_WorkBook</comment>
-        <translation>Ostatnie skoroszyty</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation type="unfinished">Ostatnio używane skoroszyty</translation>
     </message>
     <message>
         <source>10%</source>
@@ -4763,12 +4833,16 @@ Do you want to continue?</source>
     <message>
         <source>Failed to add Add-In</source>
         <comment>kso_sAddCOMAddinFailure</comment>
-        <translation>Nieudane dodanie Dodatku</translation>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>Nie udało się dodać Dodatek</lengthvariant>
+            <lengthvariant>Nie można dodać Dodatku</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>(All)</source>
         <comment>kso_sAllItems</comment>
-        <translation type="unfinished">(Wszystko)</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation type="unfinished">(Wszystkie)</translation>
     </message>
     <message>
         <source>Error happens when application initializes. Error code: 0x%8.8x.</source>
@@ -4788,7 +4862,8 @@ Do you want to continue?</source>
     <message>
         <source>Arrow Style %d</source>
         <comment>kso_sArrowStyleFormat</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Styl strzałki %d</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -4799,12 +4874,14 @@ Do you want to continue?</source>
     <message>
         <source>AutoShapes</source>
         <comment>kso_sAutoShapes_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Autokształty</translation>
     </message>
     <message>
         <source>AutoShapes</source>
         <comment>kso_sAutoShapes_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Autokształty</translation>
     </message>
     <message>
         <source>The name already exists. Please enter another one.</source>
@@ -4881,7 +4958,8 @@ Do you want to continue?</source>
     <message>
         <source>About WPS Spreadsheets</source>
         <comment>kso_sCaption_ET</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>O programie WPS Spreadsheets</translation>
     </message>
     <message>
         <source>About WPS Presentation</source>
@@ -4928,12 +5006,20 @@ Do you want to continue?</source>
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_Caption</comment>
-        <translation>ClipArt</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>ClipArt</lengthvariant>
+            <lengthvariant>Obiekt ClipArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Clip Art</source>
         <comment>kso_sClipArt_DisplayName</comment>
-        <translation>ClipArt</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>ClipArt</lengthvariant>
+            <lengthvariant>Obiekt ClipArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Close</source>
@@ -5104,7 +5190,11 @@ Do you want to continue?</source>
     <message>
         <source>Edit Hyperlink</source>
         <comment>kso_sEditHyperlink</comment>
-        <translation type="unfinished">Edytuj Hiperłącze</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Edytuj hiperłącze</lengthvariant>
+            <lengthvariant>Edytowanie hiperłącza</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -6329,7 +6419,8 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Task Window</source>
         <comment>kso_sTaskpane</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Okno zadań</translation>
     </message>
     <message>
         <source>More Buttons</source>
@@ -6586,10 +6677,7 @@ For better service, please update the trial edition to standard edition by:
         <source>Curve Down</source>
         <comment>kso_sWASCurveDown</comment>
         <translatorcomment>a</translatorcomment>
-        <translation variants="yes">
-            <lengthvariant>Krzywa wygięta w dół</lengthvariant>
-            <lengthvariant>Zakręt w dół</lengthvariant>
-        </translation>
+        <translation>Krzywa wygięta w dół</translation>
     </message>
     <message>
         <source>Curve Up</source>
@@ -7030,7 +7118,8 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Feedback</source>
         <comment>kso_sFeedBackMenuItemCaption</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Opinia</translation>
     </message>
     <message>
         <source>Organization Chart

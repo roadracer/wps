@@ -1181,7 +1181,10 @@
     <name>KRoamingFilePage</name>
     <message>
         <source>Recent documents</source>
-        <translation>Niedawno używane dokumenty</translation>
+        <translation variants="yes">
+            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
+            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>From %1</source>
@@ -1284,7 +1287,10 @@ rozmiar:%2
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>Niedawno używane dokumenty</translation>
+        <translation variants="yes">
+            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
+            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -1872,10 +1878,7 @@ folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Solver</source>
-        <translation variants="yes">
-            <lengthvariant>Solver</lengthvariant>
-            <lengthvariant>Dodatek Solver</lengthvariant>
-        </translation>
+        <translation>Solver</translation>
     </message>
     <message>
         <source>Find the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>

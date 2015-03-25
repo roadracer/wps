@@ -26,7 +26,8 @@
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Cofnij</translation>
     </message>
     <message>
         <source>Copy to Clipboard</source>
@@ -51,7 +52,8 @@
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ukryj pasek narzędzi</translation>
     </message>
     <message>
         <source>%1 * %2</source>
@@ -85,14 +87,16 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pokaż pasek narzędzi</translation>
     </message>
 </context>
 <context>
     <name>KScreenGrabHint</name>
     <message>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Skopiowano do schowka!</translation>
     </message>
 </context>
 </TS>

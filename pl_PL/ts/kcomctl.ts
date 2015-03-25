@@ -34,7 +34,7 @@
     </message>
     <message>
         <source>&amp;Fill Effects...</source>
-        <translation>E&amp;fekty Wypełnienia</translation>
+        <translation>E&amp;fekty wypełnienia...</translation>
     </message>
     <message>
         <source>&amp;Background</source>
@@ -506,7 +506,10 @@
     <message>
         <source>Recent Documents: </source>
         <translatorcomment>a</translatorcomment>
-        <translation>Niedawno używane dokumenty: </translation>
+        <translation variants="yes">
+            <lengthvariant>Ostatnio używane dokumenty: </lengthvariant>
+            <lengthvariant>Niedawno używane dokumenty: </lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Open</source>

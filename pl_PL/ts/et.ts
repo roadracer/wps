@@ -351,7 +351,10 @@
     </message>
     <message>
         <source>between</source>
-        <translation>pomiędzy</translation>
+        <translation variants="yes">
+            <lengthvariant>między</lengthvariant>
+            <lengthvariant>pomiędzy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>not between</source>
@@ -603,7 +606,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Last Week</source>
-        <translation>Ostatni tydzień</translation>
+        <translation>Ubiegły tydzień</translation>
     </message>
     <message>
         <source>Next Week</source>
@@ -615,7 +618,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Last Month</source>
-        <translation>Ostatni miesiąc</translation>
+        <translation>Ubiegły miesiąc</translation>
     </message>
     <message>
         <source>Next Month</source>
@@ -1352,15 +1355,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Date_LateSeven</source>
-        <translation>Data_Opóźnione siedem</translation>
+        <translation>Data_Ostatnie 7 dni</translation>
     </message>
     <message>
         <source>Date_LastWeek</source>
-        <translation>Data_Ostatni tydzień</translation>
+        <translation>Data_Ubiegły tydzień</translation>
     </message>
     <message>
         <source>Date_Week</source>
-        <translation>Data_Tydzień</translation>
+        <translation>Data_W tym tygodniu</translation>
     </message>
     <message>
         <source>Date_NextWeek</source>
@@ -1368,11 +1371,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Date_LastMonth</source>
-        <translation>Data_Ostatni miesiąc</translation>
+        <translation>Data_Ubiegły miesiąc</translation>
     </message>
     <message>
         <source>Date_Month</source>
-        <translation>Data_Miesiąc</translation>
+        <translation>Data_W tym miesiącu</translation>
     </message>
     <message>
         <source>Date_NextMonth</source>
@@ -1983,7 +1986,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Transpos&amp;e</source>
-        <translation>&amp;Transpozycja</translation>
+        <translation>&amp;Transponuj</translation>
     </message>
     <message>
         <source>&amp;Comment</source>
@@ -2051,7 +2054,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>original setting</source>
-        <translation>oryginalne ustawienie</translation>
+        <translation>ustawienie oryginalne</translation>
     </message>
     <message>
         <source>and</source>
@@ -3765,7 +3768,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit settings</source>
-        <translation>Edytowanie ustawień</translation>
+        <translation variants="yes">
+            <lengthvariant>Edytuj ustawienia</lengthvariant>
+            <lengthvariant>Edytowanie ustawień</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Move selection after Enter</source>
@@ -4243,7 +4249,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>Niedawno używane dokumenty</translation>
+        <translation variants="yes">
+            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
+            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>

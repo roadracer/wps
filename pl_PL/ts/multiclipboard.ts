@@ -30,7 +30,8 @@
     <name>KxTpClipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Schowek</translation>
     </message>
     <message>
         <source>Click to Paste:</source>
@@ -38,7 +39,8 @@
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ustawienie</translation>
     </message>
     <message>
         <source>Clear All</source>

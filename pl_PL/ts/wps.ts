@@ -3771,8 +3771,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgGenkoSetting</name>
     <message>
         <source>Genko Setting</source>
-        <translatorcomment>Ustawienia trybu Genko</translatorcomment>
-        <translation>Ustawienie Genko</translation>
+        <translation>Ustawienia Genko</translation>
     </message>
     <message>
         <source>En&amp;able Genko Grid Lines</source>
@@ -5988,7 +5987,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>Niedawno używane dokumenty</translation>
+        <translation variants="yes">
+            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
+            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Create &amp;backup files on first save</source>
@@ -7081,10 +7083,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Protection password</source>
-        <translation variants="yes">
-            <lengthvariant>Hasło ochronne</lengthvariant>
-            <lengthvariant>Hasło ochronny</lengthvariant>
-        </translation>
+        <translation>Hasło ochronny</translation>
     </message>
     <message>
         <source>The document is not encrypted. Malicious users can edit the file and remove the password.</source>
@@ -12753,7 +12752,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Word Templates(*.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
-        <translation>Szablony Word(*.wpt);;Word - dodatki(*.wll);;Wszystkie pliki(*.*)</translation>
+        <translation>Szablony programu Word(*.wpt);;Dodatki programu Word(*.wll);;Wszystkie pliki(*.*)</translation>
     </message>
     <message>
         <source>Common Template Normal.WPT has opened to load.</source>

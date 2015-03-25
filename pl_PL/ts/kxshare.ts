@@ -52,11 +52,19 @@
     </message>
     <message>
         <source>Enter/Newline</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wprowadź/Nowy wiersz</lengthvariant>
+            <lengthvariant>Enter/Nowy wiersz</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Only Enter</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Tylko Wprowadź</lengthvariant>
+            <lengthvariant>Tylko Enter</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Only Line Breaks</source>
@@ -64,7 +72,11 @@
     </message>
     <message>
         <source>Newline/Enter</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Nowy wiersz/Wprowadź</lengthvariant>
+            <lengthvariant>Nowy wiersz/Enter</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pre&amp;view:</source>
@@ -191,7 +203,8 @@
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zaawansowane</translation>
     </message>
 </context>
 <context>
@@ -362,7 +375,8 @@
     </message>
     <message>
         <source>C,X,V,Z,Y</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>C,X,V,Z,Y</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -873,7 +887,8 @@
     </message>
     <message>
         <source>Geometric Shapes</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kształty geometryczne</translation>
     </message>
     <message>
         <source>Miscellaneous Symbols</source>
@@ -1080,7 +1095,8 @@
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>O programie WPS Spreadsheets</translation>
     </message>
     <message>
         <source>About WPS Presentation</source>
@@ -1128,11 +1144,13 @@
     <name>KxAutoShapePanel</name>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Linie</translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łączniki</translation>
     </message>
     <message>
         <source>Block Arrows</source>
@@ -1156,7 +1174,8 @@
     </message>
     <message>
         <source>Basic Shapes</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kształty podstawowe</translation>
     </message>
 </context>
 <context>
@@ -1262,7 +1281,8 @@
     </message>
     <message>
         <source>&amp;Curved</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Zakrzywione</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
@@ -1292,7 +1312,8 @@
     <message>
         <source>To work with Control Toolbox, please purchase WPS Office Professional.
 </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Aby korzystać z Przybornika formantów, należy kupić WPS Office Professional.</translation>
     </message>
 </context>
 <context>
@@ -1455,7 +1476,8 @@
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Edytuj...</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -1541,7 +1563,8 @@
     </message>
     <message>
         <source>&amp;Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Paski narzędzi</translation>
     </message>
     <message>
         <source>&amp;Commands</source>
@@ -1566,7 +1589,8 @@
     </message>
     <message>
         <source>Tool&amp;bars</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Paski &amp;narzędzi</translation>
     </message>
     <message>
         <source>&amp;New...</source>
@@ -1659,7 +1683,8 @@
     <name>KxDlgCOMAddins</name>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Dodatki COM</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1692,7 +1717,8 @@
     </message>
     <message>
         <source>A&amp;dd-Ins available:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>D&amp;ostępne dodatki:</translation>
     </message>
 </context>
 <context>
@@ -1775,7 +1801,8 @@
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Edytuj słownik</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
@@ -1864,7 +1891,8 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgFillEffects</name>
     <message>
         <source>Fill Effects</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Efekty wypełnienia</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -2666,7 +2694,8 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxFeekbackCommand</name>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Opinia</translation>
     </message>
     <message>
         <source>No E-Mail Client.</source>
@@ -3038,11 +3067,13 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxHideorShowButton</name>
     <message>
         <source>Show Task Window</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Pokaż okno zadań</translation>
     </message>
     <message>
         <source>Hide Task Window</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ukryj okno zadań</translation>
     </message>
 </context>
 <context>
@@ -3349,11 +3380,13 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Cofnij</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wykonaj ponownie</translation>
     </message>
 </context>
 <context>
@@ -4082,11 +4115,13 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Cofnij</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wykonaj ponownie</translation>
     </message>
     <message>
         <source>Reset Custom</source>
@@ -4391,7 +4426,8 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ukryj</translation>
     </message>
     <message>
         <source>Disable Title Switching in Task Window</source>
@@ -4498,7 +4534,8 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>AutoShapes:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Autokształty:</translation>
     </message>
 </context>
 <context>
@@ -4548,7 +4585,11 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>ClipArt</lengthvariant>
+            <lengthvariant>Obiekt ClipArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Preview</source>
@@ -4577,7 +4618,10 @@ but the included system package is reserved.</source>
     <message>
         <source>Recent documents</source>
         <translatorcomment>a</translatorcomment>
-        <translation>Niedawno używane dokumenty</translation>
+        <translation variants="yes">
+            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
+            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Open...(Ctrl + O)</source>
@@ -4593,7 +4637,8 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowy z domyślnego szablonu</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -4649,7 +4694,10 @@ This file may be renamed , deleted or moved the location.</source>
     <message>
         <source>Recent documents</source>
         <translatorcomment>a</translatorcomment>
-        <translation>Niedawno używane dokumenty</translation>
+        <translation variants="yes">
+            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
+            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>New</source>
@@ -4669,7 +4717,8 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nowy z domyślnego szablonu</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -4764,7 +4813,8 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Co&amp;nnector:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Łącz&amp;nik:</translation>
     </message>
     <message>
         <source>ucWeight</source>
@@ -4788,7 +4838,11 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>cbConnector</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>cbŁącznik</lengthvariant>
+            <lengthvariant>cbConnector</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fill</source>

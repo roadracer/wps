@@ -222,7 +222,8 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>What&apos;s New.lnk</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Co nowego.lnk</translation>
     </message>
     <message>
         <source>View what&apos;s new file</source>
@@ -758,11 +759,13 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Edytuj</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Otwórz</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Workbook</source>
@@ -1037,11 +1040,13 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>&amp;Edit,0,2</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Edytuj,0,2</translation>
     </message>
     <message>
         <source>&amp;Open,0,2</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Otwórz,0,2</translation>
     </message>
     <message>
         <source>WPS Equation 3.0</source>

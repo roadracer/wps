@@ -192,7 +192,10 @@
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -293,91 +296,91 @@
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>Styl 3D</translation>
+        <translation>Styl 3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation>Styl 3D 1</translation>
+        <translation>Styl 3-D 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation>Styl 3D 10</translation>
+        <translation>Styl 3-D 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation>Styl 3D 11</translation>
+        <translation>Styl 3-D 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation>Styl 3D 12</translation>
+        <translation>Styl 3-D 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation>Styl 3D 13</translation>
+        <translation>Styl 3-D 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation>Styl 3D 14</translation>
+        <translation>Styl 3-D 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation>Styl 3D 15</translation>
+        <translation>Styl 3-D 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation>Styl 3D 16</translation>
+        <translation>Styl 3-D 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation>Styl 3D 17</translation>
+        <translation>Styl 3-D 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation>Styl 3D 18</translation>
+        <translation>Styl 3-D 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation>Styl 3D 19</translation>
+        <translation>Styl 3-D 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation>Styl 3D 2</translation>
+        <translation>Styl 3-D 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation>Styl 3D 20</translation>
+        <translation>Styl 3-D 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation>Styl 3D 3</translation>
+        <translation>Styl 3-D 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation>Styl 3D 4</translation>
+        <translation>Styl 3-D 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation>Styl 3D 5</translation>
+        <translation>Styl 3-D 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation>Styl 3D 6</translation>
+        <translation>Styl 3-D 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation>Styl 3D 7</translation>
+        <translation>Styl 3-D 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation>Styl 3D 8</translation>
+        <translation>Styl 3-D 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation>Styl 3D 9</translation>
+        <translation>Styl 3-D 9</translation>
     </message>
     <message>
         <source>3-D ToolBar</source>
-        <translation>Pasek narzędzi 3D</translation>
+        <translation>Pasek narzędzi 3-D</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -633,7 +636,7 @@
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3D</translation>
+        <translation>Bez efektu 3-D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -653,7 +656,10 @@
     </message>
     <message>
         <source>Oval</source>
-        <translation>Elipsa</translation>
+        <translation variants="yes">
+            <lengthvariant>Owal</lengthvariant>
+            <lengthvariant>Elipsa</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -1206,10 +1212,7 @@
     </message>
     <message>
         <source>Landscape</source>
-        <translation variants="yes">
-            <lengthvariant>Pozioma</lengthvariant>
-            <lengthvariant>Poziomo</lengthvariant>
-        </translation>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -1221,10 +1224,7 @@
     </message>
     <message>
         <source>Portrait</source>
-        <translation variants="yes">
-            <lengthvariant>Pionowa</lengthvariant>
-            <lengthvariant>Pionowo</lengthvariant>
-        </translation>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -1502,7 +1502,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>true</source>
-        <translation>prawda</translation>
+        <translation>ustal</translation>
     </message>
 </context>
 <context>
@@ -1686,10 +1686,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation variants="yes">
-            <lengthvariant>Krzywa wygięta w dół</lengthvariant>
-            <lengthvariant>Zakręt w dół</lengthvariant>
-        </translation>
+        <translation>Krzywa wygięta w dół</translation>
     </message>
     <message>
         <source>Curve Up</source>
@@ -2232,8 +2229,10 @@ formantu</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translatorcomment>Pokaż kod</translatorcomment>
-        <translation>Wyświetl kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Visual Basic
@@ -2315,12 +2314,12 @@ Visual Basic</translation>
     <message>
         <source>3-D
 On</source>
-        <translation>3D
+        <translation>3-D
 Włącz</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3D Włącz</translation>
+        <translation>3-D Włącz</translation>
     </message>
     <message>
         <source>3.0</source>
@@ -2994,10 +2993,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation variants="yes">
-            <lengthvariant>Wyszukaj pomoc przez Microblog</lengthvariant>
-            <lengthvariant>Szukaj pomocy przez Microblog</lengthvariant>
-        </translation>
+        <translation>Wyszukaj pomoc przez Microblog</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -3020,7 +3016,6 @@ Włącz</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translatorcomment>Maska do odzyskiwania danych WPS</translatorcomment>
         <translation>Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
@@ -3060,7 +3055,7 @@ Włącz</translation>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>WPS Presentation Help</source>
-        <translation>Pomoc WPS Presentation</translation>
+        <translation>Pomoc programu WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -3202,50 +3197,62 @@ Effects</source>
     </message>
     <message>
         <source>Arrow Style</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 9</translation>
     </message>
     <message>
@@ -3564,7 +3571,7 @@ slajdu</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3D</translation>
+        <translation>Bez efektu 3-D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -4994,7 +5001,7 @@ Effects</source>
         <source>3-D
 On/Off</source>
         <translation>Włącz/Wyłącz
-3D</translation>
+3-D</translation>
     </message>
     <message>
         <source>3-D 
@@ -5065,7 +5072,7 @@ Effects</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3D</translation>
+        <translation>Bez efektu 3-D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -5916,11 +5923,11 @@ Effects</source>
         <source>3-D
 On/Off</source>
         <translation>Włącz/Wyłącz
-3D</translation>
+3-D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Ustawienia 3D</translation>
+        <translation>Ustawienia 3-D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -5985,7 +5992,7 @@ On/Off</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3D</translation>
+        <translation>Bez efektu 3-D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -6117,12 +6124,12 @@ cienia</translation>
     <message>
         <source>3-D
 On</source>
-        <translation>3D
+        <translation>3-D
 Włącz</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3D Włącz</translation>
+        <translation>3-D Włącz</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -6243,10 +6250,7 @@ znakami</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation variants="yes">
-            <lengthvariant>Krzywa wygięta w dół</lengthvariant>
-            <lengthvariant>Zakręt w dół</lengthvariant>
-        </translation>
+        <translation>Krzywa wygięta w dół</translation>
     </message>
     <message>
         <source>Curve Up</source>
@@ -6451,7 +6455,10 @@ znakami</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Konspekt</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontur</lengthvariant>
+            <lengthvariant>Konspekt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -8247,7 +8254,10 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -8271,7 +8281,10 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPS</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -8347,7 +8360,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>true</source>
-        <translation>prawda</translation>
+        <translation>ustal</translation>
     </message>
 </context>
 <context>
@@ -8778,7 +8791,10 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -9292,10 +9308,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation variants="yes">
-            <lengthvariant>Wyszukaj pomoc przez Microblog</lengthvariant>
-            <lengthvariant>Szukaj pomocy przez Microblog</lengthvariant>
-        </translation>
+        <translation>Wyszukaj pomoc przez Microblog</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -9346,7 +9359,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>WPS Presentation Help</source>
-        <translation>Pomoc WPS Presentation</translation>
+        <translation>Pomoc programu WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation Template</source>
@@ -9361,7 +9374,7 @@ szablon</lengthvariant>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>WPS Presentation Help</source>
-        <translation>Pomoc WPS Presentation</translation>
+        <translation>Pomoc programu WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -9501,50 +9514,62 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Arrow Style</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 9</translation>
     </message>
     <message>
@@ -11286,7 +11311,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Ustawienia 3D</translation>
+        <translation>Ustawienia 3-D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -11351,7 +11376,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3D</translation>
+        <translation>Bez efektu 3-D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -11904,7 +11929,7 @@ Effects</source>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Ustawienia 3D</translation>
+        <translation>Ustawienia 3-D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -11969,7 +11994,7 @@ Effects</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3D</translation>
+        <translation>Bez efektu 3-D</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -12205,10 +12230,7 @@ cienia</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation variants="yes">
-            <lengthvariant>Krzywa wygięta w dół</lengthvariant>
-            <lengthvariant>Zakręt w dół</lengthvariant>
-        </translation>
+        <translation>Krzywa wygięta w dół</translation>
     </message>
     <message>
         <source>Curve Up</source>
@@ -12922,7 +12944,11 @@ cienia</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPS</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+            <lengthvariant></lengthvariant>
+        </translation>
     </message>
     <message>
         <source>true</source>
@@ -12940,7 +12966,7 @@ cienia</translation>
     <name>wppclassics.mainwindow.commands</name>
     <message>
         <source>3-D Settings</source>
-        <translation>Ustawienia 3D</translation>
+        <translation>Ustawienia 3-D</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -13097,7 +13123,7 @@ cienia</translation>
         <source>Clip Art</source>
         <translation variants="yes">
             <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obraz ClipArt</lengthvariant>
+            <lengthvariant>Obiekt ClipArt</lengthvariant>
         </translation>
     </message>
     <message>
@@ -13349,7 +13375,7 @@ slajdu</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>Nowy z więcej szablonów</translation>
+        <translation>Nowy z innych szablonów</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
@@ -13357,7 +13383,7 @@ slajdu</translation>
     </message>
     <message>
         <source>No Tab Page</source>
-        <translation>Bez nowej karty</translation>
+        <translation>Strona bez karty</translation>
     </message>
     <message>
         <source>Not Slide Miniature</source>
@@ -13594,7 +13620,7 @@ slajdu</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
-        <translation>Szablon online WPS</translation>
+        <translation>Szablon WPS online</translation>
     </message>
     <message>
         <source>Window</source>
@@ -13630,7 +13656,7 @@ slajdu</translation>
     <name>wppcommon.mainwindow.commands.Help</name>
     <message>
         <source>WPS Presentation Help</source>
-        <translation>Pomoc WPS Presentation</translation>
+        <translation>Pomoc programu WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -13788,7 +13814,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>Niedawno używane dokumenty</translation>
+        <translation variants="yes">
+            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
+            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -13856,7 +13885,10 @@ slajdu</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPS</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -13871,10 +13903,7 @@ slajdu</translation>
     </message>
     <message>
         <source>setting</source>
-        <translation variants="yes">
-            <lengthvariant>ustawienie</lengthvariant>
-            <lengthvariant>ustawienia</lengthvariant>
-        </translation>
+        <translation>ustawienie</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -13900,7 +13929,7 @@ slajdu</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>prawda</translation>
+        <translation>ustal</translation>
     </message>
 </context>
 <context>
@@ -13999,11 +14028,11 @@ slajdu</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>Nowy z więcej szablonów</translation>
+        <translation>Nowy z innych szablonów</translation>
     </message>
     <message>
         <source>No Tab Page</source>
-        <translation>Bez nowej karty</translation>
+        <translation>Strona bez karty</translation>
     </message>
     <message>
         <source>Office Space</source>
@@ -14041,7 +14070,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>Niedawno używane dokumenty</translation>
+        <translation variants="yes">
+            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
+            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -14112,7 +14144,10 @@ slajdu</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPS</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -14159,7 +14194,7 @@ slajdu</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>prawda</translation>
+        <translation>ustal</translation>
     </message>
 </context>
 <context>
