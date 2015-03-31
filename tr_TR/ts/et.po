@@ -61,7 +61,7 @@ msgstr "&Farklı kaydet"
 
 msgctxt "ChangeFileAccess|"
 msgid "Another user has also made changes. What would you like to do?"
-msgstr ""
+msgstr "Başka bir kullanıcı da değişiklik yaptı. Ne yapmak istersiniz?"
 
 msgctxt "ChangeFileAccess|"
 msgid "Cancel"
@@ -70,32 +70,36 @@ msgstr "İptal"
 msgctxt "ChangeFileAccess|"
 msgid "Click Discard to discard your changes and edit the latest version."
 msgstr ""
+"Yaptığınız son değişiklikleri iptal etmek ve en son sürümü düzenlemek için "
+"Kaydetme'yi tıklayınız."
 
 msgctxt "ChangeFileAccess|"
 msgid "You have made changes to \"%s\"."
-msgstr ""
+msgstr "\"%s\" dosyasında değişiklik yaptınız."
 
 msgctxt "ChangeFileAccess|"
 msgid ""
 "Click Save as to save your changes to a different file and open the latest "
 "version."
 msgstr ""
+"Kendi değişikliklerinizi farklı bir dosyaya kaydetmek ve en son sürümü açmak "
+"için Kaydet'i tıklayın."
 
 msgctxt "ColumnWidthSelector|"
 msgid "Column Width Selector"
-msgstr ""
+msgstr "Sütun Genişliği Seçici"
 
 msgctxt "ConnectPage|"
 msgid "Alt+C"
-msgstr ""
+msgstr "Alt+C"
 
 msgctxt "ConnectPage|"
 msgid "Alt+O"
-msgstr ""
+msgstr "Alt+O"
 
 msgctxt "ConnectPage|"
 msgid "Alt+W"
-msgstr ""
+msgstr "Alt+W"
 
 msgctxt "ConnectPage|"
 msgid "Ctrl+W"
@@ -103,7 +107,7 @@ msgstr "Ctrl+W"
 
 msgctxt "ConnectPageUi|"
 msgid "&Open data file directly"
-msgstr ""
+msgstr "Veri dosyası &aç"
 
 msgctxt "ConnectPageUi|"
 msgid "&Select Data Source..."
@@ -123,17 +127,19 @@ msgstr "Veri kaynağı seç"
 
 msgctxt "ConnectPageUi|"
 msgid "Step 1 : Select data source"
-msgstr ""
+msgstr "Adım 1 . Bir veri kaynağı seçin"
 
 msgctxt "ConnectPageUi|"
 msgid "Use ODBC data source connection guide(W)"
-msgstr ""
+msgstr "ODBC veri kaynağı bağlantı klavuzunu(W) kullanının"
 
 msgctxt "ConnectPageUi|"
 msgid ""
 "You can choose from three different ways to connect to your chosen data "
 "source."
 msgstr ""
+"Seçilen veri kaynağınıza bağlanmak için üç farklı yoldan birini "
+"seçebilirsiniz."
 
 msgctxt "Constraint|"
 msgid "&Add"
@@ -149,15 +155,15 @@ msgstr "&Tamam"
 
 msgctxt "Constraint|"
 msgid "<="
-msgstr ""
+msgstr "<="
 
 msgctxt "Constraint|"
 msgid "="
-msgstr ""
+msgstr "="
 
 msgctxt "Constraint|"
 msgid ">="
-msgstr ""
+msgstr ">="
 
 msgctxt "Constraint|"
 msgid "C&ell Reference:"
@@ -189,7 +195,7 @@ msgstr "&Dur"
 
 msgctxt "DisplayResult|"
 msgid "Show Trial Solution"
-msgstr ""
+msgstr "Deneme Çözümünü Göster"
 
 msgctxt "DisplayResult|"
 msgid "Infotip"
@@ -205,11 +211,12 @@ msgstr "&Geri"
 
 msgctxt "ExitEditOpenFile|"
 msgid "Do you still want to open it?"
-msgstr ""
+msgstr "Hâlâ açmak istiyor musunuz?"
 
 msgctxt "ExitEditOpenFile|"
 msgid "If you open a new file, your edits in current file will be eliminated:"
 msgstr ""
+"Yeni bir dosya açarsanız mevcut dosyadaki düzenlemeleriniz kaybolacaktır:"
 
 msgctxt "ExitEditOpenFile|"
 msgid "Infotip"
@@ -217,7 +224,7 @@ msgstr ""
 
 msgctxt "FileNowAvialable|"
 msgid "\"%s\" is now available for editing."
-msgstr ""
+msgstr "\"%s\" şimdi düzenlenebilir."
 
 msgctxt "FileNowAvialable|"
 msgid "Cancel"
@@ -225,7 +232,7 @@ msgstr "İptal"
 
 msgctxt "FileNowAvialable|"
 msgid "Click Read-Write to open it for editing."
-msgstr ""
+msgstr "Düzenleme maksadıyla açmak için Oku-Yaz'ı tıklayın."
 
 msgctxt "FileNowAvialable|"
 msgid "Read-&Write"
@@ -233,7 +240,7 @@ msgstr "Oku-&Yaz"
 
 msgctxt "FilterPageUi|"
 msgid "&Advanced Query..."
-msgstr ""
+msgstr "&Gelişmiş Sorgu..."
 
 msgctxt "FilterPageUi|"
 msgid "By"
@@ -241,15 +248,15 @@ msgstr ""
 
 msgctxt "FilterPageUi|"
 msgid "Explanation"
-msgstr ""
+msgstr "Açıklama"
 
 msgctxt "FilterPageUi|"
 msgid "Field type:"
-msgstr ""
+msgstr "Alan türü:"
 
 msgctxt "FilterPageUi|"
 msgid "Filter"
-msgstr ""
+msgstr "Filtre"
 
 msgctxt "FilterPageUi|"
 msgid "In"
@@ -869,19 +876,19 @@ msgstr "K&ullanıcı adı:"
 
 msgctxt "KxAuthInfoDlgUi|"
 msgid "Enter username and password:"
-msgstr ""
+msgstr "Kullanıcı adınızı ve parolanızı giriniz:"
 
 msgctxt "KxAuthInfoDlgUi|"
 msgid "You need to have the right to access the database:"
-msgstr ""
+msgstr "Veritabanına ulaşmak için yetkili olmanız gerekiyor:"
 
 msgctxt "KxCalcResumer|"
 msgid "Calculate"
-msgstr ""
+msgstr "Hesapla"
 
 msgctxt "KxChangeFileAccessDlg|"
 msgid "File Changed"
-msgstr ""
+msgstr "Dosya Değiştirildi"
 
 msgctxt "KxChangeRangePasswordDlg|"
 msgid "Confirmation password is not identical."
@@ -889,32 +896,33 @@ msgstr ""
 
 msgctxt "KxCirculareReferencesDlg|"
 msgid "Cell"
-msgstr ""
+msgstr "Hücre"
 
 msgctxt "KxCirculareReferencesDlg|"
 msgid "Sheet"
-msgstr ""
+msgstr "Sayfa"
 
 msgctxt "KxCirculareReferencesDlg|"
 msgid "Workbook"
-msgstr ""
+msgstr "Çalışma Kitabı"
 
 msgctxt "KxConditionFormatDlg|"
 msgid "&Format..."
-msgstr ""
+msgstr "&Biçimlendir..."
 
 msgctxt "KxConditionFormatDlg|"
 msgid "A required minimum or maximum value is missing."
-msgstr ""
+msgstr "Gerekli olan en küçük veya en büyük değer yok."
 
 msgctxt "KxConditionFormatDlg|"
 msgid "F&ormat..."
-msgstr ""
+msgstr "B&içimlendir..."
 
 msgctxt "KxConditionFormatDlg|"
 msgid "Fo&rmat..."
-msgstr ""
+msgstr "B&içimlendir..."
 
+# Tüm koşullu biçimlendirmeler için ölçüt belirlemelisiniz.
 msgctxt "KxConditionFormatDlg|"
 msgid "You must specify criteria for all conditional formats."
 msgstr ""
@@ -925,11 +933,11 @@ msgstr ""
 
 msgctxt "KxConsolidateDlg|"
 msgid "All Files(*.*)"
-msgstr ""
+msgstr "Tüm Dosyalar(*.*?"
 
 msgctxt "KxConsolidateDlg|"
 msgid "Average"
-msgstr ""
+msgstr "Ortalama"
 
 msgctxt "KxConsolidateDlg|"
 msgid "Browse"
@@ -949,11 +957,11 @@ msgstr ""
 
 msgctxt "KxConsolidateDlg|"
 msgid "Max"
-msgstr ""
+msgstr "En Fazla"
 
 msgctxt "KxConsolidateDlg|"
 msgid "Min"
-msgstr ""
+msgstr "En Az"
 
 msgctxt "KxConsolidateDlg|"
 msgid "Product"
@@ -961,7 +969,7 @@ msgstr ""
 
 msgctxt "KxConsolidateDlg|"
 msgid "StdDev"
-msgstr ""
+msgstr "StdSap"
 
 msgctxt "KxConsolidateDlg|"
 msgid "StdDevp"
@@ -969,7 +977,7 @@ msgstr ""
 
 msgctxt "KxConsolidateDlg|"
 msgid "Sum"
-msgstr ""
+msgstr "Topla"
 
 msgctxt "KxConsolidateDlg|"
 msgid "Var"
@@ -9767,4 +9775,3 @@ msgstr ""
 msgctxt "switchCalcMode|"
 msgid "Spreadsheets"
 msgstr ""
-

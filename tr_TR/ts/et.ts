@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="tr_TR">
+<TS version="2.1" language="tr_TR">
+    <extra-po-header-language>tr</extra-po-header-language>
+    <extra-po-header-language_team>Turkish &lt;kde-l10n-tr@kde.org&gt;</extra-po-header-language_team>
+    <extra-po-header-last_translator>PisiLinux</extra-po-header-last_translator>
+    <extra-po-header-po_revision_date>2015-03-16 01:20+0200</extra-po-header-po_revision_date>
+    <extra-po-header-project_id_version></extra-po-header-project_id_version>
+    <extra-po-header-x_generator>Lokalize 1.5</extra-po-header-x_generator>
+    <extra-po-header_comment># PisiLinux, 2015.</extra-po-header_comment>
+    <extra-po-headers>MIME-Version,Content-Type,Content-Transfer-Encoding,Plural-Forms,X-Language,X-Source-Language,X-Qt-Contexts,Last-Translator,PO-Revision-Date,Project-Id-Version,Language-Team,Language,X-Generator</extra-po-headers>
 <context>
     <name>AdvQueryDlgUi</name>
     <message>
         <source>&amp;Add to the list</source>
-        <translation type="unfinished">&amp;Listeye ekle</translation>
+        <translation>&amp;Listeye ekle</translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation type="unfinished">&amp;Listeden sil</translation>
+        <translation>&amp;Listeden sil</translation>
     </message>
     <message>
         <source>Advanced Query</source>
-        <translation type="unfinished">Gelişmiş Sorgulama</translation>
+        <translation>Gelişmiş Sorgulama</translation>
     </message>
     <message>
         <source>D&amp;elete from the list</source>
@@ -21,15 +29,15 @@
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtre</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished">Sırala</translation>
+        <translation>Sırala</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Tür:</translation>
+        <translation>Tür:</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -37,22 +45,22 @@
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation type="unfinished">Listeye(&amp;R) ekle</translation>
+        <translation>Listeye(&amp;R) ekle</translation>
     </message>
 </context>
 <context>
     <name>ChangeFileAccess</name>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished">&amp;Kaydetme</translation>
+        <translation>&amp;Kaydetme</translation>
     </message>
     <message>
         <source>&amp;Save as</source>
-        <translation type="unfinished">&amp;Farklı kaydet</translation>
+        <translation>&amp;Farklı kaydet</translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Başka bir kullanıcı da değişiklik yaptı. Ne yapmak istersiniz?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -60,37 +68,37 @@
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yaptığınız son değişiklikleri iptal etmek ve en son sürümü düzenlemek için Kaydetme&apos;yi tıklayınız.</translation>
     </message>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; dosyasında değişiklik yaptınız.</translation>
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kendi değişikliklerinizi farklı bir dosyaya kaydetmek ve en son sürümü açmak için Kaydet&apos;i tıklayın.</translation>
     </message>
 </context>
 <context>
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Sütun Genişliği Seçici</translation>
     </message>
 </context>
 <context>
     <name>ConnectPage</name>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>Alt+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+W</translation>
     </message>
     <message>
         <source>Ctrl+W</source>
@@ -101,15 +109,15 @@
     <name>ConnectPageUi</name>
     <message>
         <source>&amp;Open data file directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Veri dosyası &amp;aç</translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Veri Kaynağı Seç...</translation>
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation>Açıklama</translation>
     </message>
     <message>
         <source>Input &amp;connection string manually</source>
@@ -117,30 +125,30 @@
     </message>
     <message>
         <source>Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation>Veri kaynağı seç</translation>
     </message>
     <message>
         <source>Step 1 : Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation>Adım 1 . Bir veri kaynağı seçin</translation>
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation type="unfinished"></translation>
+        <translation>ODBC veri kaynağı bağlantı klavuzunu(W) kullanının</translation>
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen veri kaynağınıza bağlanmak için üç farklı yoldan birini seçebilirsiniz.</translation>
     </message>
 </context>
 <context>
     <name>Constraint</name>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ekle</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;İptal</translation>
+        <translation>İ&amp;ptal</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -148,27 +156,27 @@
     </message>
     <message>
         <source>&lt;=</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;=</translation>
     </message>
     <message>
         <source>=</source>
-        <translation type="unfinished"></translation>
+        <translation>=</translation>
     </message>
     <message>
         <source>&gt;=</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;=</translation>
     </message>
     <message>
         <source>C&amp;ell Reference:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hücr&amp;e Referansı:</translation>
     </message>
     <message>
         <source>Co&amp;nstraint:</source>
-        <translation type="unfinished"></translation>
+        <translation>K&amp;ısıt:</translation>
     </message>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>Kısıt</translation>
     </message>
     <message>
         <source>bin</source>
@@ -183,15 +191,15 @@
     <name>DisplayResult</name>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Devam Et</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dur</translation>
     </message>
     <message>
         <source>Show Trial Solution</source>
-        <translation type="unfinished"></translation>
+        <translation>Deneme Çözümünü Göster</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -206,15 +214,15 @@
     </message>
     <message>
         <source>&amp;Return</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Geri</translation>
     </message>
     <message>
         <source>Do you still want to open it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hâlâ açmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>If you open a new file, your edits in current file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni bir dosya açarsanız mevcut dosyadaki düzenlemeleriniz kaybolacaktır:</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -225,7 +233,7 @@
     <name>FileNowAvialable</name>
     <message>
         <source>&quot;%s&quot; is now available for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; şimdi düzenlenebilir.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -233,18 +241,18 @@
     </message>
     <message>
         <source>Click Read-Write to open it for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenleme maksadıyla açmak için Oku-Yaz&apos;ı tıklayın.</translation>
     </message>
     <message>
         <source>Read-&amp;Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Oku-&amp;Yaz</translation>
     </message>
 </context>
 <context>
     <name>FilterPageUi</name>
     <message>
         <source>&amp;Advanced Query...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gelişmiş Sorgu...</translation>
     </message>
     <message>
         <source>By</source>
@@ -252,15 +260,15 @@
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation>Açıklama</translation>
     </message>
     <message>
         <source>Field type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alan türü:</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <source>In</source>
@@ -919,25 +927,25 @@ condition is true:</source>
     </message>
     <message>
         <source>Enter username and password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanıcı adınızı ve parolanızı giriniz:</translation>
     </message>
     <message>
         <source>You need to have the right to access the database:</source>
-        <translation type="unfinished"></translation>
+        <translation>Veritabanına ulaşmak için yetkili olmanız gerekiyor:</translation>
     </message>
 </context>
 <context>
     <name>KxCalcResumer</name>
     <message>
         <source>Calculate</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesapla</translation>
     </message>
 </context>
 <context>
     <name>KxChangeFileAccessDlg</name>
     <message>
         <source>File Changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya Değiştirildi</translation>
     </message>
 </context>
 <context>
@@ -951,38 +959,39 @@ condition is true:</source>
     <name>KxCirculareReferencesDlg</name>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Hücre</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Çalışma Kitabı</translation>
     </message>
 </context>
 <context>
     <name>KxConditionFormatDlg</name>
     <message>
         <source>&amp;Format...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Biçimlendir...</translation>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerekli olan en küçük veya en büyük değer yok.</translation>
     </message>
     <message>
         <source>F&amp;ormat...</source>
-        <translation type="unfinished"></translation>
+        <translation>B&amp;içimlendir...</translation>
     </message>
     <message>
         <source>Fo&amp;rmat...</source>
-        <translation type="unfinished"></translation>
+        <translation>B&amp;içimlendir...</translation>
     </message>
     <message>
         <source>You must specify criteria for all conditional formats.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Tüm koşullu biçimlendirmeler için ölçüt belirlemelisiniz.</translatorcomment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -993,11 +1002,11 @@ condition is true:</source>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm Dosyalar(*.*?</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortalama</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -1017,11 +1026,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>En Fazla</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished"></translation>
+        <translation>En Az</translation>
     </message>
     <message>
         <source>Product</source>
@@ -1029,7 +1038,7 @@ condition is true:</source>
     </message>
     <message>
         <source>StdDev</source>
-        <translation type="unfinished"></translation>
+        <translation>StdSap</translation>
     </message>
     <message>
         <source>StdDevp</source>
@@ -1037,7 +1046,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Topla</translation>
     </message>
     <message>
         <source>Var</source>
@@ -2703,7 +2712,7 @@ cursor in the edit box and press the Format Picture button.</source>
         <source>&amp;Search for a function:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -6948,7 +6957,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Solid</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thick Diagonal crosshatch</source>
@@ -8698,7 +8707,7 @@ t</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Horizontal Distributed</source>
