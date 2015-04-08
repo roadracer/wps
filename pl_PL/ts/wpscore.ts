@@ -1296,7 +1296,7 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>WPS Writer document data</source>
         <comment>_TxClipboardDesc_Xml</comment>
-        <translation>Dane dokumentu WPS Writer</translation>
+        <translation>Dane dokumentu programu WPS Writer</translation>
     </message>
     <message>
         <source>Invalid e-mail address, sending failed.</source>
@@ -4354,7 +4354,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Orientation setting does not work for some reasons, such as too little column width. Please adjust your settings.</source>
         <comment>wps_sPutOrientationError</comment>
-        <translation>Ustawienie orientacji nie działa z jakichś powodów, takich jak zbyt mała szerokość kolumny. Proszę dostosuj ustawienia.</translation>
+        <translation type="unfinished">Ustawienie orientacji nie działa z jakiś powodów, takich jak zbyt mała szerokość kolumny. Proszę dostosuj ustawienia.</translation>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
@@ -5691,8 +5691,8 @@ Anuluj:	Wróć do okna dialogowego.
         <source>Simplified/Traditional Chinese Translation</source>
         <comment>TxTooltip_TSCS</comment>
         <translation variants="yes">
-            <lengthvariant>Tłumaczenie między chińskim uproszczonym/tradycyjnym</lengthvariant>
-            <lengthvariant>Uproszczony/Tradycyjny chińskie tłumaczenie</lengthvariant>
+            <lengthvariant>Translacja między chińskim uproszczonym a tradycyjnym</lengthvariant>
+            <lengthvariant>Tłumaczenie chiński uproszczony/tradycyjny</lengthvariant>
         </translation>
     </message>
     <message>
@@ -5749,8 +5749,8 @@ Anuluj:	Wróć do okna dialogowego.
         <source>Simplified/Traditional Chinese Translation</source>
         <comment>_TxTcscConvert</comment>
         <translation variants="yes">
-            <lengthvariant>Tłumaczenie między chińskim uproszczonym/tradycyjnym</lengthvariant>
-            <lengthvariant>Uproszczony/Tradycyjny chińskie tłumaczenie</lengthvariant>
+            <lengthvariant>Translacja między chińskim uproszczonym a tradycyjnym</lengthvariant>
+            <lengthvariant>Tłumaczenie chiński uproszczony/tradycyjny</lengthvariant>
         </translation>
     </message>
     <message>

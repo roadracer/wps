@@ -5118,8 +5118,8 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <message>
         <source>&amp;Recently used file list:</source>
         <translation variants="yes">
-            <lengthvariant>&amp;Ostatnio używane pliki:</lengthvariant>
             <lengthvariant>Lista &amp;ostatnio używanych plików:</lengthvariant>
+            <lengthvariant>&amp;Ostatnio używane pliki:</lengthvariant>
         </translation>
     </message>
     <message>

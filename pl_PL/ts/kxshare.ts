@@ -145,7 +145,8 @@
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Czerwony:</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
@@ -388,7 +389,8 @@
     <name>KFileSaveDialog</name>
     <message>
         <source>&amp;Encryption</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Szyfrowanie</translation>
     </message>
     <message>
         <source>FileName or PathName is longger than 218 chars!</source>
@@ -1259,6 +1261,7 @@
     </message>
     <message>
         <source>No Fill</source>
+        <translatorcomment>a</translatorcomment>
         <translation>Bez wypełnienia</translation>
     </message>
     <message>
@@ -1491,7 +1494,8 @@
     </message>
     <message>
         <source>&amp;Move To...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Przenieś do...</translation>
     </message>
     <message>
         <source>Begin &amp;Group</source>
@@ -1517,7 +1521,8 @@
     </message>
     <message>
         <source>Move To</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Przenieś do</translation>
     </message>
     <message>
         <source>Command &amp;Bars:</source>
@@ -1598,7 +1603,8 @@
     </message>
     <message>
         <source>R&amp;ename...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Z&amp;mień nazwę...</translation>
     </message>
 </context>
 <context>
@@ -1617,7 +1623,8 @@
     </message>
     <message>
         <source>Toolbar has been renamed.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Zmieniono nazwę paska narzędzi.</translation>
     </message>
     <message>
         <source>Are you sure to delete the &apos;%1&apos; toolbar?</source>
@@ -1861,11 +1868,13 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgEncryptionType</name>
     <message>
         <source>Encryption Type</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Typ szyfrowania</translation>
     </message>
     <message>
         <source>&amp;Choose encryption type:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Wybierz typ szyfrowania:</translation>
     </message>
     <message>
         <source>Choose &amp;key length:</source>
@@ -1951,7 +1960,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Pres&amp;et colors:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wstępni&amp;e ustawione kolory:</translation>
     </message>
     <message>
         <source>Early Sunset</source>
@@ -2070,7 +2080,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished">Czerwony #FF0000</translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Czerwony</translation>
     </message>
     <message>
         <source>Shading styles</source>
@@ -2252,7 +2263,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create from &amp;file</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Utwórz z &amp;pliku</translation>
     </message>
     <message>
         <source>Object &amp;type:</source>
@@ -2308,8 +2320,8 @@ p, li { white-space: pre-wrap; }
         <source>&amp;Recently used symbols:</source>
         <translatorcomment>a</translatorcomment>
         <translation variants="yes">
-            <lengthvariant>Niedawno &amp;używane symbole:</lengthvariant>
             <lengthvariant>Ostatnio &amp;używane symbole:</lengthvariant>
+            <lengthvariant>Niedawno &amp;używane symbole:</lengthvariant>
         </translation>
     </message>
     <message>
@@ -2507,7 +2519,8 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgRbCustom</name>
     <message>
         <source>Customize Quick Access</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Dostosuj pasek narzędzi Szybki dostęp</translation>
     </message>
     <message>
         <source>&amp;Add &gt;&gt;</source>
@@ -2539,7 +2552,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cust&amp;omize Quick Access:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Dost&amp;osuj pasek narzędzi Szybki dostęp:</translation>
     </message>
 </context>
 <context>
@@ -2644,15 +2658,21 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxEncryptionTypeDlg</name>
     <message>
         <source>XOR Encryption</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szyfrowanie XOR</translation>
     </message>
     <message>
         <source>Standard Encryption</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Szyfrowanie standardowe</lengthvariant>
+            <lengthvariant>Standard szyfrowania</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>, </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>, </translation>
     </message>
     <message>
         <source>Please input a password between </source>
@@ -2660,7 +2680,8 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source> and </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation> oraz </translation>
     </message>
     <message>
         <source> multiple of 8!</source>
@@ -2725,7 +2746,8 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>&amp;Encryption...</source>
         <comment>Encrypt button tab in filedialog</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Szyfrowanie...</translation>
     </message>
 </context>
 <context>
@@ -2734,13 +2756,24 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <source>
 
 modify time: </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>
+
+czas ostatniej modyfikacji: </lengthvariant>
+            <lengthvariant>
+
+zmieniony: </lengthvariant>
+        </translation>
     </message>
     <message>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>
+
+Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji</translation>
     </message>
 </context>
 <context>
@@ -3125,7 +3158,11 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxInsertFileObjectCommand</name>
     <message>
         <source>Insert File Object</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obiekt pliku</lengthvariant>
+            <lengthvariant>Wstaw załącznik</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -3521,7 +3558,8 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>&amp;Open from File...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>&amp;Otwórz z pliku...</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)</source>
@@ -4183,13 +4221,24 @@ Click the icon to sign in now.</source>
         <source>
 
 modify time: </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>
+
+czas ostatniej modyfikacji: </lengthvariant>
+            <lengthvariant>
+
+zmieniony: </lengthvariant>
+        </translation>
     </message>
     <message>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>
+
+Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji</translation>
     </message>
     <message>
         <source>A total of %1 records</source>
@@ -4199,7 +4248,9 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nie można otworzyć pliku &quot;%1&quot;. 
+Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji.</translation>
     </message>
     <message>
         <source>open file folder</source>
@@ -4355,8 +4406,8 @@ but the included system package is reserved.</source>
         <source>Recently Used Symbols:</source>
         <translatorcomment>a</translatorcomment>
         <translation variants="yes">
-            <lengthvariant>Niedawno używane symbole:</lengthvariant>
             <lengthvariant>Ostatnio używane symbole:</lengthvariant>
+            <lengthvariant>Niedawno używane symbole:</lengthvariant>
         </translation>
     </message>
     <message>
@@ -4670,13 +4721,24 @@ but the included system package is reserved.</source>
         <source>
 
 modify time: </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation variants="yes">
+            <lengthvariant>
+
+czas ostatniej modyfikacji: </lengthvariant>
+            <lengthvariant>
+
+zmieniony: </lengthvariant>
+        </translation>
     </message>
     <message>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>
+
+Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
@@ -4846,7 +4908,8 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Wypełnienie</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
@@ -5870,7 +5933,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <name>dlgChineseTranslation</name>
     <message>
         <source>Translation Direction</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Kierunek tłumaczenia</translation>
     </message>
     <message>
         <source>Traditional Chinese to &amp;Simplified Chinese</source>
@@ -5882,7 +5946,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Translation Unit</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Jednostka tłumaczenia</translation>
     </message>
     <message>
         <source>Translation by &amp;Character</source>
@@ -5965,7 +6030,10 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation>Ni&amp;edawno używane adresy e-mail:</translation>
+        <translation variants="yes">
+            <lengthvariant>Os&amp;tatnio używane adresy e-mail:</lengthvariant>
+            <lengthvariant>Ni&amp;edawno używane adresy e-mail:</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>

@@ -20,12 +20,10 @@
     <name>KColorCtrl</name>
     <message>
         <source>No Color</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Bez koloru</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Automatycznie</translation>
     </message>
     <message>
@@ -42,47 +40,38 @@
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Linie z &amp;deseniem...</translation>
     </message>
     <message>
         <source>Black</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Czarny</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Brązowy</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Oliwkowozielony</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Ciemnozielony</translation>
     </message>
     <message>
         <source>Dark Teal</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Ciemnozielonomodry</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Ciemnoniebieski</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Indygo</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Szary-80%</translation>
     </message>
     <message>
@@ -91,36 +80,30 @@
     </message>
     <message>
         <source>Orange</source>
-        <translation>Pmarańczowy</translation>
+        <translation>Pomarańczowy</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Ciemnożółty</translation>
     </message>
     <message>
         <source>Green</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Zielony</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Zielonomodry</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Niebieski</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Niebieskoszary</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Szary-50%</translation>
     </message>
     <message>
@@ -129,22 +112,18 @@
     </message>
     <message>
         <source>Light Orange</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Jasnopomarańczowy</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Limonkowy</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Morska zieleń</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Akwamaryna</lengthvariant>
             <lengthvariant>Niebieskozielony</lengthvariant>
@@ -152,81 +131,66 @@
     </message>
     <message>
         <source>Light Blue</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Jasnoniebieski</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Fioletowy</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Szary-40%</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Różowy</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Złoty</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Żółty</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Jasnozielony</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Turkusowy</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Lazurowy</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Śliwkowy</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Szary-25%</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Różany</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastelowobrązowy</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Jasnożółty</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Jasnozielony</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Jasnoturkusowy</lengthvariant>
             <lengthvariant>Pastelowobłękitny</lengthvariant>
@@ -234,12 +198,10 @@
     </message>
     <message>
         <source>Pale Blue</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Bladoniebieski</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Liliowy</lengthvariant>
             <lengthvariant>Lawendowy</lengthvariant>
@@ -247,7 +209,6 @@
     </message>
     <message>
         <source>White</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Biały</translation>
     </message>
     <message>
@@ -277,7 +238,7 @@
     <name>KDocTabbarEx</name>
     <message>
         <source>Customize Quick Access</source>
-        <translation>Dostosuj Szybki Dostęp</translation>
+        <translation>Dostosuj pasek narzędzi Szybki dostęp</translation>
     </message>
     <message>
         <source>Add to</source>
@@ -289,36 +250,39 @@
     </message>
     <message>
         <source>&amp;Hide Quick Access Toolbar</source>
-        <translation>&amp;Ukryj szybki dostęp</translation>
+        <translation>&amp;Ukryj pasek narzędzi Szybki dostęp</translation>
     </message>
 </context>
 <context>
     <name>KDocTabbarStickerCommand</name>
     <message>
         <source>Lock tabbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Zablokuj pasek kart</translation>
     </message>
     <message>
         <source>UnLock tabbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Odblokuj pasek kart</translation>
     </message>
 </context>
 <context>
     <name>KFilePageCloseButton</name>
     <message>
         <source>Clear Record from List</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Wyczyść wpis z listy</lengthvariant>
+            <lengthvariant>Wyczyść rejestr z listy</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
     <name>KFilePageFixedButton</name>
     <message>
         <source>unfixed from list</source>
-        <translation type="unfinished"></translation>
+        <translation>odłączone z listy</translation>
     </message>
     <message>
         <source>fixed to list</source>
-        <translation type="unfinished"></translation>
+        <translation>dołączone do listy</translation>
     </message>
 </context>
 <context>
@@ -368,11 +332,11 @@
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation>&amp;Wyjdź</translation>
+        <translation>&amp;Zakończ</translation>
     </message>
     <message>
         <source>Use System &amp;Title Bar</source>
-        <translation>Użyj systemowego Paska &amp;Tytułu</translation>
+        <translation>Użyj systemowego paska &amp;tytułu</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
@@ -384,42 +348,41 @@
     <message>
         <source>Bronze</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brązowy</translation>
     </message>
     <message>
         <source>Plate with silver</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Posrebrzany</translation>
     </message>
     <message>
         <source>Silver</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Srebrny</translation>
     </message>
     <message>
         <source>Gold</source>
         <comment>Member user type</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Złoty</translation>
     </message>
     <message>
         <source>Platina</source>
         <comment>Member user type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Platyna</translation>
     </message>
 </context>
 <context>
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstawianie komórek w menu podręcznym</translation>
     </message>
 </context>
 <context>
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
-        <translation>Tekst</translation>
+        <translation>Tekst </translation>
     </message>
 </context>
 <context>
@@ -438,8 +401,7 @@
     </message>
     <message>
         <source>Not allowed.</source>
-        <translatorcomment>a</translatorcomment>
-        <translation type="unfinished">Niedozwolone.</translation>
+        <translation>Niedozwolone.</translation>
     </message>
     <message>
         <source>You are not allowed to copy from the password field.</source>
@@ -447,30 +409,26 @@
     </message>
     <message>
         <source>Caps Lock on.</source>
-        <translatorcomment>a</translatorcomment>
-        <translation type="unfinished">Klawisz Caps Lock jest włączony.</translation>
+        <translation>Klawisz Caps Lock jest włączony.</translation>
     </message>
     <message>
         <source>Having Caps Lock on may cause you to enter your password incorrectly.</source>
-        <translatorcomment>a</translatorcomment>
-        <translation type="unfinished">Włączony klawisz Caps Lock może spowodować nieprawidłowe wprowadzenie hasła.</translation>
+        <translation>Włączony klawisz Caps Lock może spowodować nieprawidłowe wprowadzenie hasła.</translation>
     </message>
     <message>
         <source>You should press Caps Lock to turn it off before entering your password.</source>
-        <translatorcomment>a</translatorcomment>
-        <translation type="unfinished">Przed wprowadzeniem hasła naciśnij klawisz Caps Lock, aby go wyłączyć.</translation>
+        <translation>Przed wprowadzeniem hasła naciśnij klawisz Caps Lock, aby go wyłączyć.</translation>
     </message>
     <message>
         <source>You cannot copy text from a password field.</source>
-        <translatorcomment>a</translatorcomment>
-        <translation type="unfinished">Nie można kopiować tekstu, który znajduje się w polu hasła.</translation>
+        <translation>Nie można kopiować tekstu, który znajduje się w polu hasła.</translation>
     </message>
 </context>
 <context>
     <name>KRbQuickToolbar</name>
     <message>
         <source>&amp;Remove from Quick Access Toolbar</source>
-        <translation>Usuń z Paska Na&amp;rzędzi Szybkiego Dostępu</translation>
+        <translation>&amp;Usuń z paska narzędzi Szybki dostęp</translation>
     </message>
     <message>
         <source>&amp;Show quick access</source>
@@ -478,34 +436,33 @@
     </message>
     <message>
         <source>More commands</source>
-        <translation>Więcej komend</translation>
+        <translation>Więcej poleceń</translation>
     </message>
     <message>
         <source>&amp;Show Quick Access Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pokaż pasek narzędzi Szybki dostęp</translation>
     </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
     <message>
         <source>Unpinned from List</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprzypięte z listy</translation>
     </message>
     <message>
         <source>Clear Pinned Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść przypięte pliki</translation>
     </message>
     <message>
         <source>Pin to List</source>
-        <translation type="unfinished"></translation>
+        <translation>Przypnij do listy</translation>
     </message>
     <message>
         <source>Clear Unpinned Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść nieprzypięte pliki</translation>
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Ostatnio używane dokumenty: </lengthvariant>
             <lengthvariant>Niedawno używane dokumenty: </lengthvariant>
@@ -513,47 +470,56 @@
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Otwórz</translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
-            <lengthvariant>Wyczyść wszystko</lengthvariant>
             <lengthvariant>Wyczyść wszystkie</lengthvariant>
+            <lengthvariant>Wyczyść wszystko</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Otwórz Folder</translation>
+        <translation>Otwórz folder</translation>
     </message>
     <message>
         <source>Clear Invalid File</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść nieprawidłowy plik</translation>
     </message>
     <message>
         <source>Can not find the file &quot;%1&quot;.
 the file may be renamed,deleted or moved the location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można odnaleźć pliku &quot;%1&quot;.
+Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji.</translation>
     </message>
     <message>
         <source>
 
 modify time: </source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>
+
+czas ostatniej modyfikacji: </lengthvariant>
+            <lengthvariant>
+
+zmieniony: </lengthvariant>
+        </translation>
     </message>
     <message>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji</translation>
     </message>
 </context>
 <context>
     <name>KSystemMenuCommand</name>
     <message>
         <source>System Menu</source>
-        <translation>Menu Systemowe</translation>
+        <translation>Menu systemowe</translation>
     </message>
 </context>
 <context>
@@ -567,7 +533,6 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Infotip</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Porada</translation>
     </message>
 </context>
@@ -575,12 +540,10 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KUnderLineCtrl</name>
     <message>
         <source>(None)</source>
-        <translatorcomment>a</translatorcomment>
         <translation>(Brak)</translation>
     </message>
     <message>
         <source>Words Only</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Tylko wyrazy</lengthvariant>
             <lengthvariant>Tylko słowa</lengthvariant>
@@ -614,31 +577,53 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
-        <translation type="unfinished"></translation>
+        <translation>[Urządzenie]
+pkt=pkt;p
+cal=cal;c
+cm=cm;cm
+mm=mm;mm
+
+[Wartość procentowa]
+%=%
+
+[Znak]
+zn.=znak
+
+[Stopień]
+stopień=stopień
+
+[Wiersz]
+wiersz=wiersz
+
+[Automatycznie]
+auto=auto
+
+[Wielokrotne]
+wielokrotne=wielokrotne
+</translation>
     </message>
 </context>
 <context>
     <name>KWPSCloudSetup</name>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Some components are not installed correctly,
 please reinstall WPS Office!</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektóre składniki nie są zainstalowane poprawnie,
+proszę przeinstalować WPS Office!</translation>
     </message>
 </context>
 <context>
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translatorcomment>a</translatorcomment>
         <translation>To nie jest prawidłową liczbą całkowitą.</translation>
     </message>
 </context>
@@ -646,12 +631,10 @@ please reinstall WPS Office!</source>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translatorcomment>a</translatorcomment>
         <translation>To nie jest prawidłową liczbą całkowitą.</translation>
     </message>
 </context>
@@ -666,22 +649,21 @@ please reinstall WPS Office!</source>
     <name>QMainWindow</name>
     <message>
         <source>Previous Document</source>
-        <translation>Poprzedni Dokument</translation>
+        <translation>Poprzedni dokument</translation>
     </message>
     <message>
         <source>Next Document</source>
-        <translation>Nastepny Dokument</translation>
+        <translation>Następny dokument</translation>
     </message>
     <message>
         <source>Document List</source>
-        <translation>Lista Dokumentów</translation>
+        <translation>Lista dokumentów</translation>
     </message>
 </context>
 <context>
     <name>QMdiSubWindow</name>
     <message>
         <source>Restore</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Przywróć</translation>
     </message>
     <message>
@@ -690,7 +672,6 @@ please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Size</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Rozmiar</translation>
     </message>
     <message>
@@ -703,7 +684,6 @@ please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Close</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Zamknij</translation>
     </message>
 </context>

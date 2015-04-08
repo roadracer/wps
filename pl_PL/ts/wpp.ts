@@ -93,7 +93,10 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</translation>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 5/Uwydatnienie 6</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>

@@ -2503,7 +2503,7 @@ Kontynuować bez możliwości cofnięcia?</translation>
     <message>
         <source>#,##0.00_);[Red](#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_40</comment>
-        <translation>#,##0,00_);[Red](#,##0,00)</translation>
+        <translation>#,##0,00_);[Czerwony](#,##0,00)</translation>
     </message>
     <message>
         <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
@@ -3856,7 +3856,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Database</source>
         <comment>FuncCatName08</comment>
-        <translation>Baza danych</translation>
+        <translation>Bazy danych</translation>
     </message>
     <message>
         <source>Text</source>
@@ -7785,6 +7785,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Single Web Page Files(*.mht; *.mhtml)</source>
         <comment>TX_ssdesc_AllMht</comment>
+        <translatorcomment>a</translatorcomment>
         <translation>Pliki pojedynczej strony sieci Web (*.mht; *.mhtml)</translation>
     </message>
     <message>

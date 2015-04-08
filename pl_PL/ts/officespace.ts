@@ -136,12 +136,7 @@
     </message>
     <message>
         <source>Uploading to File Roaming</source>
-        <translation variants="yes">
-            <lengthvariant>Przesyłanie do Roaming pliku</lengthvariant>
-            <lengthvariant>Przesyłanie do Roamingu pliku</lengthvariant>
-            <lengthvariant>Przekazywanie do pliku do Roaming pliku</lengthvariant>
-            <lengthvariant>Przekazywanie do pliku do Roamingu pliku</lengthvariant>
-        </translation>
+        <translation>Przesyłanie do Roaming pliku</translation>
     </message>
     <message>
         <source>Uploaded %1 minutes ago</source>
@@ -149,12 +144,7 @@
     </message>
     <message>
         <source>Uploaded to File Roaming</source>
-        <translation variants="yes">
-            <lengthvariant>Przesyłanie do Roaming pliku</lengthvariant>
-            <lengthvariant>Przesyłanie do Roamingu pliku</lengthvariant>
-            <lengthvariant>Przekazywanie do pliku do Roaming pliku</lengthvariant>
-            <lengthvariant>Przekazywanie do pliku do Roamingu pliku</lengthvariant>
-        </translation>
+        <translation>Przesyłanie do Roaming pliku</translation>
     </message>
     <message>
         <source>Failed to connect to server</source>
@@ -723,9 +713,6 @@
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
             <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Chmura dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do Chmury dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów w Chmurze</lengthvariant>
             <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
         </translation>
     </message>
@@ -959,9 +946,6 @@
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
             <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Chmura dokumentów</lengthvariant>
-            <lengthvariant>Otwórz z Chmury dokumentów</lengthvariant>
-            <lengthvariant>Otwórz z dokumentów w Chmurze</lengthvariant>
             <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
         </translation>
     </message>
@@ -969,9 +953,6 @@
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
             <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Chmura dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do Chmury dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów w Chmurze</lengthvariant>
             <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
         </translation>
     </message>
@@ -1302,7 +1283,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Disable File Roaming</source>
-        <translation>Wyłącz roaming pliku</translation>
+        <translation>Wyłącz Roaming pliku</translation>
     </message>
     <message>
         <source>Open</source>
@@ -1388,7 +1369,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Disable File Roaming</source>
-        <translation>Wyłącz roaming pliku</translation>
+        <translation>Wyłącz Roaming pliku</translation>
     </message>
 </context>
 <context>
@@ -1506,14 +1487,11 @@ rozmiar:%2
     <name>KTpRoamingPage</name>
     <message>
         <source>You have opened File Roaming:</source>
-        <translation>Masz otwarty roaming pliku:</translation>
+        <translation>Masz otwarty Roaming pliku:</translation>
     </message>
     <message>
         <source>Look up my File Roaming</source>
-        <translation variants="yes">
-            <lengthvariant>Odszukaj mój roaming pliku</lengthvariant>
-            <lengthvariant>Odszukaj mój plik w roamingu</lengthvariant>
-        </translation>
+        <translation>Odszukaj mój Roaming pliku</translation>
     </message>
 </context>
 <context>
@@ -1863,9 +1841,8 @@ folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <message>
         <source>Text to Columns</source>
         <translation variants="yes">
-            <lengthvariant>Tekst jako kolumny</lengthvariant>
-            <lengthvariant>Tekst w kolumny</lengthvariant>
             <lengthvariant>Tekst do kolumny</lengthvariant>
+            <lengthvariant>Tekst w kolumny</lengthvariant>
         </translation>
     </message>
     <message>

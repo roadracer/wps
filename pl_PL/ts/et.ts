@@ -2508,7 +2508,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Adjust column width</source>
-        <translation>&amp;Dopasuj szerokość kolumny</translation>
+        <translation>&amp;Dopasuj szerokość kolumn</translation>
     </message>
     <message>
         <source>Pre&amp;serve formatting</source>
@@ -11421,7 +11421,10 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation>Ni&amp;edawno używane adresy e-mail:</translation>
+        <translation variants="yes">
+            <lengthvariant>Os&amp;tatnio używane adresy e-mail:</lengthvariant>
+            <lengthvariant>Ni&amp;edawno używane adresy e-mail:</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -11505,7 +11508,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>&amp;3-D shading</source>
-        <translation>Cień &amp;3D</translation>
+        <translation>Cień &amp;3-D</translation>
     </message>
     <message>
         <source>&amp;Single</source>

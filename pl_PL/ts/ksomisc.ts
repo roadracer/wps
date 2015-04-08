@@ -194,7 +194,8 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Check for Updates.lnk</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Sprawdź aktualizacje.lnk</translation>
     </message>
     <message>
         <source>Link to network to update WPS Office</source>
@@ -284,7 +285,8 @@ We will do our utmost to repair the applications and restore them to the default
     <message>
         <source>E&amp;xit</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Za&amp;kończ</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
@@ -1032,11 +1034,13 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Writer Document</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Dokument programu WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Szablon programu WPS Writer</translation>
     </message>
     <message>
         <source>&amp;Edit,0,2</source>
@@ -1054,7 +1058,8 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Równanie</translation>
     </message>
     <message>
         <source>Workbook</source>
@@ -1164,7 +1169,8 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Nie sprawdzaj aktualizacji automatycznie (nie zalecane)</translation>
     </message>
     <message>
         <source>Get the latest product news during updates(&amp;K)</source>

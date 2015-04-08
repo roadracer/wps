@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Tłumacz do formatu WPS Writer</translation>
+        <translation>Tłumacz do dokumentu programu WPS Writer</translation>
     </message>
     <message>
         <source>Still Need: being calculated</source>
@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Tłumacz do formatu WPS Writer</translation>
+        <translation>Tłumacz do dokumentu programu WPS Writer</translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>
@@ -195,7 +195,7 @@
     </message>
     <message>
         <source>Converting to WPS Writer document encountered an error.</source>
-        <translation>Napotkano błąd podczas konwersji dokumentu do formatu WPS Writer.</translation>
+        <translation>Napotkano błąd podczas konwersji do dokumentu programu WPS Writer.</translation>
     </message>
 </context>
 <context>
@@ -226,7 +226,7 @@ Na przykład, 1,3,5-9.</lengthvariant>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
-        <translation>Dokument Microsoft Word 97/2000/XP/2003 (*.doc)</translation>
+        <translation>Dokument programu Microsoft Word 97/2000/XP/2003 (*.doc)</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -253,7 +253,7 @@ Na przykład, 1,3,5-9.</lengthvariant>
     </message>
     <message>
         <source>WPS Writer Document(*.wps)</source>
-        <translation>Dokument WPS Writer (*.wps)</translation>
+        <translation>Dokument programu WPS Writer (*.wps)</translation>
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>

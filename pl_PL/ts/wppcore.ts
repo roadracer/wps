@@ -3785,8 +3785,8 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
         <source>Heart</source>
         <comment>wpp_sAnimEffectPathHeart</comment>
         <translation variants="yes">
-            <lengthvariant>Kier</lengthvariant>
             <lengthvariant>Serce</lengthvariant>
+            <lengthvariant>Kier</lengthvariant>
         </translation>
     </message>
     <message>
@@ -4229,7 +4229,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Split</source>
         <comment>wpp_sAnimEnterEffectTextSplit</comment>
-        <translation>Podział</translation>
+        <translation>Podziel</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -4541,7 +4541,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Split</source>
         <comment>wpp_sAnimExitEffectTextSplit</comment>
-        <translation>Podział</translation>
+        <translation>Podziel</translation>
     </message>
     <message>
         <source>Collapse</source>
@@ -7016,8 +7016,8 @@ pisowni</translation>
         <source>Simplified/Traditional Chinese Translation</source>
         <comment>WP_TCSCChinese</comment>
         <translation variants="yes">
-            <lengthvariant>Tłumaczenie między chińskim uproszczonym/tradycyjnym</lengthvariant>
-            <lengthvariant>Uproszczony/Tradycyjny chińskie tłumaczenie</lengthvariant>
+            <lengthvariant>Translacja między chińskim uproszczonym a tradycyjnym</lengthvariant>
+            <lengthvariant>Tłumaczenie chiński uproszczony/tradycyjny</lengthvariant>
         </translation>
     </message>
     <message>
