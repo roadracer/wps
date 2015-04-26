@@ -153,11 +153,11 @@
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>가로 간격을 동일하게</translation>
+        <translation>가로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>세로 간격을 동일하게</translation>
+        <translation>세로 간격 동일하게</translation>
     </message>
     <message>
         <source>Group</source>
@@ -502,11 +502,11 @@
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>가로 간격을 동일하게</translation>
+        <translation>가로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>세로 간격을 동일하게</translation>
+        <translation>세로 간격 동일하게</translation>
     </message>
     <message>
         <source>Down</source>
@@ -562,7 +562,7 @@
     </message>
     <message>
         <source>Grid</source>
-        <translation>그리드</translation>
+        <translation>격자</translation>
     </message>
     <message>
         <source>Group</source>
@@ -578,7 +578,7 @@
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 줄 안</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -646,7 +646,7 @@
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>그림자 제거</translation>
+        <translation>그림자 없음</translation>
     </message>
     <message>
         <source>Nudge</source>
@@ -818,7 +818,7 @@
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>투과하여</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -826,7 +826,7 @@
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>위/아래</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -846,7 +846,7 @@
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
 </context>
 <context>
@@ -992,7 +992,7 @@
     </message>
     <message>
         <source>More Bullets</source>
-        <translation>글 머리 기호 더보기</translation>
+        <translation>글머리 기호 더보기</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -1305,7 +1305,7 @@
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>흑백 출</translation>
+        <translation>흑백 출력</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -1313,7 +1313,7 @@
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished">텍스트에 따라</translation>
+        <translation>텍스트 줄 안</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -1321,7 +1321,7 @@
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation>밝기 줄이기</translation>
+        <translation>밝기 낮추기</translation>
     </message>
     <message>
         <source>Less Contrast</source>
@@ -1329,7 +1329,7 @@
     </message>
     <message>
         <source>More Brightness</source>
-        <translation>더 밝</translation>
+        <translation>밝기 높이기</translation>
     </message>
     <message>
         <source>More Contrast</source>
@@ -1357,7 +1357,7 @@
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>투과하여</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -1365,7 +1365,7 @@
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished">위/아래</translation>
+        <translation>위/아래</translation>
     </message>
     <message>
         <source>Washout</source>
@@ -1377,7 +1377,7 @@
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
 </context>
 <context>
@@ -1427,7 +1427,7 @@
     </message>
     <message>
         <source>Delete All Comments in Document</source>
-        <translation>문서의 모든 코멘트 삭제</translation>
+        <translation>문서의 모든 메모 삭제</translation>
     </message>
     <message>
         <source>Display for Review</source>
@@ -1447,7 +1447,7 @@
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>코멘트 넣기</translation>
+        <translation>메모 삽입</translation>
     </message>
     <message>
         <source>Next</source>
@@ -1467,7 +1467,7 @@
     </message>
     <message>
         <source>Reject Change/Delete Comment</source>
-        <translation>코멘트의 변경 사항 적용하지 않음</translation>
+        <translation>메모 변경내용 적용하지 않음</translation>
     </message>
     <message>
         <source>Reject Selected Comment</source>
@@ -1581,7 +1581,7 @@
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="unfinished">프린터 형식</translation>
+        <translation>서식 복사</translation>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -1804,7 +1804,7 @@
     </message>
     <message>
         <source>Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>음영</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -1986,7 +1986,7 @@
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 줄 안</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -2058,7 +2058,7 @@
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>투과하여</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -2072,7 +2072,7 @@
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>위/아래</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -2128,7 +2128,7 @@
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
 </context>
 <context>
@@ -2192,11 +2192,11 @@ Table Style</source>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation>가로 경계선 삽입</translation>
+        <translation>안쪽 가로 테두리</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation>세로 경계선 삽입</translation>
+        <translation>안쪽 세로 테두리</translation>
     </message>
     <message>
         <source>Left Border</source>
@@ -2232,7 +2232,7 @@ Table Style</source>
     </message>
     <message>
         <source>Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>음영</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -2244,7 +2244,7 @@ Table Style</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>위쪽 테두리</translation>
     </message>
 </context>
 <context>
@@ -2549,15 +2549,15 @@ On</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>가로 간격을 동일하게</translation>
+        <translation>가로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>세로 간격을 동일하게</translation>
+        <translation>세로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>균등 분할</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -2645,7 +2645,7 @@ On</source>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 줄 안</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -2717,7 +2717,7 @@ On</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>개요</translation>
+        <translation>테두리</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -2827,7 +2827,7 @@ Direction</source>
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>투과하여</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -2835,7 +2835,7 @@ Direction</source>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>위/아래</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -2859,12 +2859,12 @@ Direction</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
 </context>
 <context>
@@ -3304,7 +3304,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>글자 간격 동일하게</translation>
+        <translation>균등 분할</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -3379,11 +3379,11 @@ Painter</source>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation type="unfinished"></translation>
+        <translation>안쪽 가로 테두리</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation type="unfinished"></translation>
+        <translation>안쪽 세로 테두리</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -3411,7 +3411,7 @@ Painter</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation>글 머리 기호 더보기</translation>
+        <translation>글머리 기호 더보기</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -3444,7 +3444,7 @@ Style</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>단락</translation>
     </message>
     <message>
         <source>Paragraph Tools</source>
@@ -3504,7 +3504,7 @@ Style</source>
     </message>
     <message>
         <source>Shading</source>
-        <translation>배경색</translation>
+        <translation>음영</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
@@ -3548,7 +3548,7 @@ Style</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished">위쪽 경</translation>
+        <translation>위쪽 테두리</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -3598,7 +3598,7 @@ Style</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 나누기</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -3618,7 +3618,7 @@ Style</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>메모</translation>
     </message>
     <message>
         <source>Continuous Section Break</source>
@@ -3646,7 +3646,7 @@ Style</source>
     </message>
     <message>
         <source>Drop Cap</source>
-        <translation type="unfinished"></translation>
+        <translation>단락의 첫 문자 장식</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
@@ -3654,7 +3654,7 @@ Style</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation>수식</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -3769,7 +3769,7 @@ Number</source>
     <message>
         <source>Page 
 Break</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 나누기</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -4046,7 +4046,7 @@ Break</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 나누기</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -4086,11 +4086,11 @@ Break</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>가로 간격을 동일하게</translation>
+        <translation>가로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>세로 간격을 동일하게</translation>
+        <translation>세로 간격 동일하게</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
@@ -4114,11 +4114,11 @@ Break</source>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>좌우 대칭</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>상하 대칭</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -4134,7 +4134,7 @@ Break</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation>그리드</translation>
+        <translation>격자</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -4150,7 +4150,7 @@ Break</source>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 줄 안</translation>
     </message>
     <message>
         <source>Line Number Options</source>
@@ -4162,7 +4162,7 @@ Break</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>여백</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -4194,7 +4194,7 @@ Break</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>회전</translation>
     </message>
     <message>
         <source>Page
@@ -4223,7 +4223,7 @@ Break</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>문단</translation>
+        <translation>단락</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -4235,7 +4235,7 @@ Break</source>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지에 맞추기</translation>
     </message>
     <message>
         <source>Restart Each Page</source>
@@ -4259,15 +4259,15 @@ Break</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>선택 창</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>뒤로 보내기</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 뒤로 보내기</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -4312,15 +4312,15 @@ Direction</source>
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>투과하여</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>빽빽하게</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>위/아래</translation>
     </message>
     <message>
         <source>Two</source>
@@ -4332,22 +4332,22 @@ Direction</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_paragraph</name>
     <message>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
-        <translation type="unfinished"></translation>
+        <translation>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 맞춤</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽 맞춤</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4355,7 +4355,7 @@ Direction</source>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>글머리 기호</translation>
     </message>
     <message>
         <source>Center</source>
@@ -4371,7 +4371,7 @@ Direction</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>Demote TOC Level</source>
@@ -4383,7 +4383,7 @@ Direction</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>균등 분할</translation>
     </message>
     <message>
         <source>Document Gridlines</source>
@@ -4391,47 +4391,47 @@ Direction</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>글꼴</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>글꼴 색</translation>
     </message>
     <message>
         <source>Font Name</source>
-        <translation type="unfinished"></translation>
+        <translation>글꼴 이름</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>글꼴 크기</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>격자선</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>강조</translation>
     </message>
     <message>
         <source>Increase Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>줄 간격 늘리기</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>이탤릭체</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">양쪽 맞춤</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
-        <translation type="unfinished"></translation>
+        <translation>1단계;2단계;3단계;4단계;5단계;6단계;7단계;8단계;9단계;본문</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>줄 간격</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -4439,7 +4439,7 @@ Direction</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="unfinished"></translation>
+        <translation>글머리 기호 더보기</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -4447,23 +4447,23 @@ Direction</source>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>More Underlines</source>
-        <translation type="unfinished"></translation>
+        <translation>밑줄 더보기</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"></translation>
+        <translation>새 스타일</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 설정</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>단락</translation>
     </message>
     <message>
         <source>Promote TOC Level</source>
@@ -4475,11 +4475,11 @@ Direction</source>
     </message>
     <message>
         <source>Reduce Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>줄 간격 줄이기</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>설정</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -4487,77 +4487,77 @@ Direction</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>스타일</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>스타일 및 서식</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation type="unfinished"></translation>
+        <translation>목차 수준</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>빽빽하게</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>밑줄</translation>
     </message>
     <message>
         <source>Underline Color</source>
-        <translation type="unfinished"></translation>
+        <translation>밑줄 색상</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_paragraph.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>번호 매기기 더보기</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>번호 매기기</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_picturetools</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pt</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -4565,31 +4565,31 @@ Direction</source>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>정렬</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>아래 맞춤</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>가운데 맞춤</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 맞춤</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>중간 맞춤</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽 맞춤</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>위쪽 맞춤</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -4597,49 +4597,50 @@ Direction</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>자동</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 뒤</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>흑백</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>앞으로 가져오기</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 앞으로 가져오기</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>맨 앞으로 가져오기</translation>
     </message>
     <message>
         <source>Change
 Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>그림 바꾸기</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>클립아트</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>색상</translation>
     </message>
     <message>
         <source>Compress
 Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>압축
+그림</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>자르기</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -4655,35 +4656,35 @@ Pictures</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>가로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>세로 간격 동일하게</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>동일한 크기</translation>
     </message>
     <message>
         <source>Even Height</source>
-        <translation type="unfinished"></translation>
+        <translation>동일한 높이</translation>
     </message>
     <message>
         <source>Even Width</source>
-        <translation type="unfinished"></translation>
+        <translation>동일한 넓이</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>채우기</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>좌우 대칭</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>상하 대칭</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -4691,11 +4692,11 @@ Pictures</source>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>자유 회전</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>갤러리</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -4703,40 +4704,41 @@ Pictures</source>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>흑백 출력</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>격자</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>격자선</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>그룹</translation>
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 앞</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 줄 안</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>삽입</translation>
     </message>
     <message>
         <source>Insert
 Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>삽입
+그림</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>클립아트 삽입</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4744,71 +4746,71 @@ Picture</source>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>밝기 낮추기</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>대비 낮추기</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>파선</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>파선 점선</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>파선 점선 점선</translation>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>밝기 높이기</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>대비 높이기</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>채우기 색상 더 보기</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>선 색상 더 보기</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>선 종류 더 보기</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>선 색상 더 보기</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 없음</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 아래쪽으로</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 왼쪽으로</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 오른쪽으로</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 위로</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>테두리</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -4820,37 +4822,38 @@ Picture</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>사진</translation>
     </message>
     <message>
         <source>Picture
 Size</source>
-        <translation type="unfinished"></translation>
+        <translation>사진
+크기</translation>
     </message>
     <message>
         <source>Picture Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>사진 스타일</translation>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지에 맞추기</translation>
     </message>
     <message>
         <source>Reset
 Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>그림 원래대로</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>회전</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽으로 90° 돌리기</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽으로 90°  돌리기</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -4859,7 +4862,7 @@ Picture</source>
     <message>
         <source>Selection
 Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>선택 창</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -4867,120 +4870,120 @@ Pane</source>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>뒤로 보내기</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 뒤로 보내기</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>맨 뒤로 보내기</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation type="unfinished"></translation>
+        <translation>투명한 색으로 설정</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>설정</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 효과 켜기/끄기</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 색상</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 효과</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 효과 설정</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 16</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 12</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 9</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -4988,7 +4991,7 @@ On/Off</source>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>정사각형</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -5000,7 +5003,7 @@ On/Off</source>
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>투과하여</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -5008,11 +5011,11 @@ On/Off</source>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>위/아래</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>그룹 해제</translation>
     </message>
     <message>
         <source>Washout</source>
@@ -5020,31 +5023,31 @@ On/Off</source>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">굵기</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>용지 한 면에 한 페이지</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>인쇄</translation>
     </message>
     <message>
         <source>Show</source>
@@ -5052,26 +5055,26 @@ On/Off</source>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>용지 한 면에 두 페이지</translation>
     </message>
     <message>
         <source>View Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>눈금자 보기</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>확대/축소</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_references</name>
     <message>
         <source>Body Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">본문주</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>캡션</translation>
     </message>
     <message>
         <source>Cross-reference</source>
@@ -5079,68 +5082,69 @@ On/Off</source>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>각주</translation>
     </message>
     <message>
         <source>Footnote/Endnote
 Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>각주/미주
+구분선</translation>
     </message>
     <message>
         <source>Footnotes and Endnotes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">각주/미</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>미주 삽입</translation>
     </message>
     <message>
         <source>Insert Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>각주 삽입</translation>
     </message>
     <message>
         <source>Insert TOC</source>
-        <translation type="unfinished"></translation>
+        <translation>목차 삽입</translation>
     </message>
     <message>
         <source>Level 1</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 1</translation>
     </message>
     <message>
         <source>Level 2</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 2</translation>
     </message>
     <message>
         <source>Level 3</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 3</translation>
     </message>
     <message>
         <source>Level 4</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 4</translation>
     </message>
     <message>
         <source>Level 5</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 5</translation>
     </message>
     <message>
         <source>Level 6</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 6</translation>
     </message>
     <message>
         <source>Level 7</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 7</translation>
     </message>
     <message>
         <source>Level 8</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 8</translation>
     </message>
     <message>
         <source>Level 9</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 9</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이메일</translation>
     </message>
     <message>
         <source>Mailings</source>
@@ -5148,31 +5152,31 @@ Separator</source>
     </message>
     <message>
         <source>Next Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 미주</translation>
     </message>
     <message>
         <source>Next Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 각주</translation>
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 미주</translation>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 각주</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>설정</translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>각주/미주 구분선 보이기/숨기기</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation type="unfinished"></translation>
+        <translation>목차 수준</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -5180,7 +5184,7 @@ Separator</source>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation type="unfinished"></translation>
+        <translation>목차 업데이트</translation>
     </message>
 </context>
 <context>
@@ -5215,7 +5219,7 @@ Separator</source>
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>메모</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -5232,7 +5236,7 @@ Separator</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>메모 삭제</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
@@ -5253,7 +5257,8 @@ Comment</source>
     <message>
         <source>New
 Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>새로 만들기
+메모</translation>
     </message>
     <message>
         <source>Next</source>
@@ -5386,7 +5391,7 @@ Section</source>
     <message>
         <source>Header and
 Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>머리글과 바닥글</translation>
     </message>
     <message>
         <source>Insert Section After</source>
@@ -5446,7 +5451,7 @@ Footer</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>회전</translation>
     </message>
     <message>
         <source>Page
@@ -5690,7 +5695,7 @@ Effects</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 없음</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -6220,7 +6225,7 @@ Window</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>개요</translation>
+        <translation>테두리</translation>
     </message>
     <message>
         <source>Page Width</source>
@@ -6488,7 +6493,7 @@ On/Off</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 없음</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -6655,76 +6660,78 @@ Effects</source>
     <name>ongmani.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pt</translation>
     </message>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished"></translation>
+        <translation>3D
+켜기</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation type="unfinished"></translation>
+        <translation>3D
+켜기</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pt</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>정렬</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>아래 맞춤</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>가운데 맞춤</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 맞춤</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>중간 맞춤</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽 맞춤</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>위쪽 맞춤</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -6861,11 +6868,11 @@ Spacing</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>가로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>세로 간격 동일하게</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
@@ -6909,15 +6916,15 @@ Spacing</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>채우기</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>좌우 대칭</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>상하 대칭</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -6933,7 +6940,7 @@ Spacing</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>격자</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -6949,7 +6956,7 @@ Spacing</source>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 줄 안</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -6989,15 +6996,15 @@ Spacing</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>채우기 색상 더 보기</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>선 색상 더 보기</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>선 종류 더 보기</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -7005,7 +7012,7 @@ Spacing</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>테두리</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -7117,7 +7124,7 @@ Spacing</source>
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>투과하여</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -7131,7 +7138,7 @@ Spacing</source>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>위/아래</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -7175,17 +7182,17 @@ Spacing</source>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>WordArt
 Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt 갤러리</translation>
     </message>
     <message>
         <source>WordArt
 Size</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt 크기</translation>
     </message>
     <message>
         <source>WordArt 
@@ -7194,39 +7201,39 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt 스타일</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Cloud Link</source>
-        <translation type="unfinished"></translation>
+        <translation>클라우드 링크</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 백업 비활성화</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 백업 활성화</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지로 내보내기</translation>
     </message>
     <message>
         <source>File Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 백업</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -7234,19 +7241,19 @@ Shape</source>
     </message>
     <message>
         <source>Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>가이드</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>도움말</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office 개선에 도움주기</translation>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation type="unfinished"></translation>
+        <translation>실험실</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -7278,11 +7285,11 @@ Shape</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation>로그인</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>유저 피드백</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -7385,7 +7392,7 @@ Shape</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 나누기</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -7522,7 +7529,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>메모</translation>
     </message>
     <message>
         <source>Compared Side by Side</source>
@@ -7622,11 +7629,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>메모 삭제</translation>
     </message>
     <message>
         <source>Delete Page Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 번호 삭제</translation>
     </message>
     <message>
         <source>Delete Point</source>
@@ -7687,7 +7694,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>메모 편집</translation>
     </message>
     <message>
         <source>Edit Field</source>
@@ -8091,7 +8098,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>문단</translation>
+        <translation>단락</translation>
     </message>
     <message>
         <source>Paste Column</source>
@@ -8597,11 +8604,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Border Color</source>
-        <translation type="unfinished"></translation>
+        <translation>테두리 색</translation>
     </message>
     <message>
         <source>Borders and Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>테두리와 음영</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -8609,7 +8616,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>표 스타일 지우기</translation>
     </message>
     <message>
         <source>Draw
@@ -8622,7 +8629,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Draw Table</source>
-        <translation type="unfinished"></translation>
+        <translation>표 그리기</translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -8630,35 +8637,35 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation type="unfinished"></translation>
+        <translation>안쪽 테두리</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation type="unfinished"></translation>
+        <translation>안쪽 가로 테두리</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation type="unfinished"></translation>
+        <translation>안쪽 세로 테두리</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 테두리</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"></translation>
+        <translation>선 스타일</translation>
     </message>
     <message>
         <source>Line Width</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">선 굵기</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>채우기 색상 더 보기</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>선 색상 더 보기</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -8670,11 +8677,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽 테두리</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation type="unfinished"></translation>
+        <translation>음영 색상</translation>
     </message>
     <message>
         <source>Table Border</source>
@@ -8682,15 +8689,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Table Style Options</source>
-        <translation type="unfinished"></translation>
+        <translation>표 스타일 설정</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>표 스타일</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation type="unfinished"></translation>
+        <translation>위쪽 테두리</translation>
     </message>
 </context>
 <context>
@@ -8960,15 +8967,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>가로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>세로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>균등 분할</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -9000,7 +9007,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>글꼴</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -9016,7 +9023,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>격자</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -9040,7 +9047,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 줄 안</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -9104,7 +9111,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>테두리</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -9204,7 +9211,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>투과하여</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -9212,7 +9219,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>위/아래</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -9236,12 +9243,12 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
 </context>
 <context>
@@ -9446,7 +9453,7 @@ Diagonal Line in Cell</source>
     <name>rainbow.ct_headerfooter</name>
     <message>
         <source>- Page -</source>
-        <translation type="unfinished"></translation>
+        <translation>- 페이지 -</translation>
     </message>
     <message>
         <source>AutoText</source>
@@ -9499,7 +9506,7 @@ Options</source>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 번호</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -9671,7 +9678,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation>글자 간격 동일하게</translation>
+        <translation>균등 분할</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -9711,7 +9718,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>서식 있는 텍스트</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -9723,7 +9730,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>강조</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -9731,15 +9738,15 @@ Header and Footer</source>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation type="unfinished"></translation>
+        <translation>안쪽 테두리</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
-        <translation type="unfinished"></translation>
+        <translation>안쪽 가로 테두리</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
-        <translation type="unfinished"></translation>
+        <translation>안쪽 세로 테두리</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -9751,7 +9758,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 테두리</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -9799,7 +9806,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>문단</translation>
+        <translation>단락</translation>
     </message>
     <message>
         <source>Paragraph Tools</source>
@@ -9855,7 +9862,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation type="unfinished"></translation>
+        <translation>음영 색상</translation>
     </message>
     <message>
         <source>Show/Hide Paragraph Layout</source>
@@ -9895,7 +9902,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>윗 테두리</translation>
+        <translation>위쪽 테두리</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -9911,7 +9918,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation type="unfinished"></translation>
+        <translation>서식 없는 텍스트</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -9945,7 +9952,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 나누기</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -9965,7 +9972,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>메모</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -10118,7 +10125,7 @@ Break</source>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 번호</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -10432,7 +10439,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 나누기</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -10472,11 +10479,11 @@ Merged Data</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>가로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>세로 간격 동일하게</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
@@ -10520,7 +10527,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>격자</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -10536,7 +10543,7 @@ Merged Data</source>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 줄 안</translation>
     </message>
     <message>
         <source>Line Number Options</source>
@@ -10548,7 +10555,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>여백</translation>
     </message>
     <message>
         <source>More Columns</source>
@@ -10580,7 +10587,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>회전</translation>
     </message>
     <message>
         <source>Page Background</source>
@@ -10600,7 +10607,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>단락</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -10688,7 +10695,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>투과하여</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -10696,7 +10703,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>위/아래</translation>
     </message>
     <message>
         <source>Two</source>
@@ -10720,15 +10727,15 @@ Text</source>
     </message>
     <message>
         <source>Clean Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">줄 간격 원래대로</translation>
     </message>
     <message>
         <source>Clear Style</source>
-        <translation type="unfinished"></translation>
+        <translation>적용된 스타일 지우기</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>Demote TOC Level</source>
@@ -10744,19 +10751,19 @@ Text</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>격자선</translation>
     </message>
     <message>
         <source>Increase Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>줄 간격 늘리기</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
-        <translation type="unfinished"></translation>
+        <translation>1단계;2단계;3단계;4단계;5단계;6단계;7단계;8단계;9단계;본문</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>줄 간격</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -10764,15 +10771,15 @@ Text</source>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"></translation>
+        <translation>새 스타일</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 설정</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>단락</translation>
     </message>
     <message>
         <source>Promote TOC Level</source>
@@ -10784,11 +10791,11 @@ Text</source>
     </message>
     <message>
         <source>Reduce Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>줄 간격 줄이기</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>설정</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -10796,19 +10803,19 @@ Text</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>스타일</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>스타일 및 서식</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation type="unfinished"></translation>
+        <translation>목차 수준</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>빽빽하게</translation>
     </message>
 </context>
 <context>
@@ -10887,27 +10894,27 @@ Text</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>자동</translation>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 뒤</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation>흑백</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>앞으로 가져오기</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 앞으로 가져오기</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>맨 앞으로 가져오기</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -10915,63 +10922,63 @@ Text</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>클립아트</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>색상</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>그림 압축</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>자르기</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>대시</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>점선</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="unfinished"></translation>
+        <translation>대시 종류</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>가로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>세로 간격 동일하게</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="unfinished"></translation>
+        <translation>동일한 높이</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>동일한 크기</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation>동일한 넓이</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>채우기</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>좌우 대칭</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>상하 대칭</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -10979,11 +10986,11 @@ Text</source>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>자유 회전</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>갤러리</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -10991,35 +10998,35 @@ Text</source>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>흑백 출력</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>격자</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>격자선</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>그룹</translation>
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 앞</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 줄 안</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>삽입</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>클립아트 삽입</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -11027,71 +11034,71 @@ Text</source>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>밝기 낮추기</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>대비 낮추기</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>파선</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>파선 점선</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>파선 점선 점선</translation>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>밝기 높이기</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation type="unfinished"></translation>
+        <translation>대비 높이기</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>채우기 색상 더 보기</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>선 색상 더 보기</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>선 종류 더 보기</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 색상 더보기</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 없음</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 아래쪽으로</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 왼쪽으로</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 오른쪽으로</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 위로</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>테두리</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -11103,35 +11110,36 @@ Text</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>사진</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation type="unfinished"></translation>
+        <translation>사진
+크기</translation>
     </message>
     <message>
         <source>Picture Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>사진 스타일</translation>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지에 맞추기</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>그림 원래대로</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>회전</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽으로 90° 돌리기</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽으로 90°  돌리기</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -11139,7 +11147,7 @@ Text</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>선택 창</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -11147,119 +11155,119 @@ Text</source>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>뒤로 보내기</translation>
     </message>
     <message>
         <source>Send Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 뒤로 보내기</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="unfinished"></translation>
+        <translation>맨 뒤로 보내기</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation type="unfinished"></translation>
+        <translation>투명한 색으로 설정</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>설정</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 색상</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 효과</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 효과 켜기/끄기</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 효과 설정</translation>
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 16</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 12</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 스타일 9</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11267,7 +11275,7 @@ Text</source>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>정사각형</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -11279,19 +11287,19 @@ Text</source>
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>투과하여</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="unfinished"></translation>
+        <translation>빽빽하게</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>위/아래</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>그룹 해제</translation>
     </message>
     <message>
         <source>Washout</source>
@@ -11303,27 +11311,27 @@ Text</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>One Page</source>
-        <translation type="unfinished"></translation>
+        <translation>용지 한 면에 한 페이지</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>인쇄</translation>
     </message>
     <message>
         <source>Show</source>
@@ -11331,26 +11339,26 @@ Text</source>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>용지 한 면에 두 페이지</translation>
     </message>
     <message>
         <source>View Ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>눈금자 보기</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>확대/축소</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_references</name>
     <message>
         <source>Body Text</source>
-        <translation type="unfinished"></translation>
+        <translation>본문</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>캡션</translation>
     </message>
     <message>
         <source>Cross-reference</source>
@@ -11358,55 +11366,55 @@ Text</source>
     </message>
     <message>
         <source>Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>각주</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>미주 삽입</translation>
     </message>
     <message>
         <source>Insert Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>각주 삽입</translation>
     </message>
     <message>
         <source>Insert TOC</source>
-        <translation type="unfinished"></translation>
+        <translation>목차 삽입</translation>
     </message>
     <message>
         <source>Level 1</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 1</translation>
     </message>
     <message>
         <source>Level 2</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 2</translation>
     </message>
     <message>
         <source>Level 3</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 3</translation>
     </message>
     <message>
         <source>Level 4</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 4</translation>
     </message>
     <message>
         <source>Level 5</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 5</translation>
     </message>
     <message>
         <source>Level 6</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 6</translation>
     </message>
     <message>
         <source>Level 7</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 7</translation>
     </message>
     <message>
         <source>Level 8</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 8</translation>
     </message>
     <message>
         <source>Level 9</source>
-        <translation type="unfinished"></translation>
+        <translation>수준 9</translation>
     </message>
     <message>
         <source>Mail Merge</source>
@@ -11418,35 +11426,35 @@ Text</source>
     </message>
     <message>
         <source>Next Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Next Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 각주</translation>
     </message>
     <message>
         <source>Previous Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 미주</translation>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 각주</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>설정</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>각주/미주 구분선 보이기/숨기기</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation type="unfinished"></translation>
+        <translation>목차 수준</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -11454,7 +11462,7 @@ Text</source>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation type="unfinished"></translation>
+        <translation>목차 업데이트</translation>
     </message>
 </context>
 <context>
@@ -11473,7 +11481,7 @@ Text</source>
     </message>
     <message>
         <source>Accept Selected Change</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 변경 내용 적용</translation>
     </message>
     <message>
         <source>All Reviewers</source>
@@ -11497,24 +11505,24 @@ Text</source>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>간체자로 바꾸기</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>정체자로 바꾸기</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>문서의 모든 메모 삭제</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>메모 삭제</translation>
     </message>
     <message>
         <source>Delete Comment</source>
         <comment>Review-&gt;Delete-&gt;Delete Comment</comment>
-        <translation type="unfinished"></translation>
+        <translation>메모 삭제</translation>
     </message>
     <message>
         <source>Display for Review</source>
@@ -11526,15 +11534,15 @@ Text</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>강조</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>언어</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>새 메모 만들기</translation>
     </message>
     <message>
         <source>Next</source>
@@ -11721,11 +11729,11 @@ Text</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>회전</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 번호</translation>
     </message>
     <message>
         <source>Page Number Format</source>
@@ -11952,7 +11960,7 @@ Text</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 없음</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -12391,7 +12399,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>테두리</translation>
     </message>
     <message>
         <source>Page Width</source>
@@ -12651,7 +12659,7 @@ Effects</source>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 없음</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -12816,67 +12824,67 @@ Effects</source>
     <name>rainbow.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>3 pt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation>6 pt</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"></translation>
+        <translation>정렬</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>아래 맞춤</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>가운데 맞춤</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 맞춤</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>중간 맞춤</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽 맞춤</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>위쪽 맞춤</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
@@ -12900,7 +12908,7 @@ Effects</source>
     </message>
     <message>
         <source>Behind Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 뒤</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
@@ -13008,11 +13016,11 @@ Effects</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>가로 간격 동일하게</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>세로 간격 동일하게</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
@@ -13056,11 +13064,11 @@ Effects</source>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>좌우 대칭</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>상하 대칭</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -13068,7 +13076,7 @@ Effects</source>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>자유 회전</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -13076,23 +13084,23 @@ Effects</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>격자</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>격자선</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>그룹</translation>
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 앞</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 줄 안</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -13108,7 +13116,7 @@ Effects</source>
     </message>
     <message>
         <source>Left Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 정렬</translation>
     </message>
     <message>
         <source>Letter Justify</source>
@@ -13116,15 +13124,15 @@ Effects</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="unfinished"></translation>
+        <translation>파선</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>파선 점선</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation>파선 점선 점선</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -13132,15 +13140,15 @@ Effects</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>채우기 색상 더 보기</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>선 색상 더 보기</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>선 종류 더 보기</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -13164,7 +13172,7 @@ Effects</source>
     </message>
     <message>
         <source>Relative to Page</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지에 맞추기</translation>
     </message>
     <message>
         <source>Right Alignment</source>
@@ -13180,15 +13188,15 @@ Effects</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>회전</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽으로 90° 돌리기</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽으로 90°  돌리기</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -13232,7 +13240,7 @@ Effects</source>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>정사각형</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -13252,7 +13260,7 @@ Effects</source>
     </message>
     <message>
         <source>Through</source>
-        <translation type="unfinished"></translation>
+        <translation>투과하여</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -13266,7 +13274,7 @@ Effects</source>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>위/아래</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -13306,23 +13314,23 @@ Effects</source>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt 정렬</translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt 채우기</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt 갤러리</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt 테두리</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
@@ -13330,24 +13338,24 @@ Effects</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt 크기</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt 스타일</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt 세로 텍스트</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation type="unfinished"></translation>
+        <translation>위치</translation>
     </message>
 </context>
 <context>
@@ -13358,19 +13366,19 @@ Effects</source>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 백업 비활성화</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 백업 활성화</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지로 내보내기</translation>
     </message>
     <message>
         <source>File Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 백업</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -13378,15 +13386,15 @@ Effects</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>도움말</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office 개선에 도움주기</translation>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation type="unfinished"></translation>
+        <translation>실험실</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -13398,15 +13406,15 @@ Effects</source>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>온라인 문서</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloud Docs에서 열기</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloud Docs에 저장</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -13418,15 +13426,15 @@ Effects</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation>로그인</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>유저 피드백</translation>
     </message>
     <message>
         <source>User Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>유저 가이드</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -13579,18 +13587,18 @@ Effects</source>
     <name>wpsclassics.mainwindow</name>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Writer</translation>
     </message>
 </context>
 <context>
     <name>wpsclassics.mainwindow.commands</name>
     <message>
         <source>3-D Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 설정</translation>
     </message>
     <message>
         <source>Align Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>개체 정렬</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -13614,7 +13622,7 @@ Effects</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>머리글과 바닥글</translation>
     </message>
     <message>
         <source>Mail Merge</source>
@@ -13622,7 +13630,7 @@ Effects</source>
     </message>
     <message>
         <source>Menu Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>메뉴 바</translation>
     </message>
     <message>
         <source>Office Space</source>
@@ -13634,11 +13642,11 @@ Effects</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>사진</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>인쇄 미리보기</translation>
     </message>
     <message>
         <source>Reviewing</source>
@@ -13646,7 +13654,7 @@ Effects</source>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>그림자 효과 설정</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -13658,7 +13666,7 @@ Effects</source>
     </message>
     <message>
         <source>Tables and Borders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">표와 테두리</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -13670,7 +13678,7 @@ Effects</source>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
 </context>
 <context>
@@ -13681,11 +13689,11 @@ Effects</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 맞춤</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽 맞춤</translation>
     </message>
     <message>
         <source>AutoShapes</source>
@@ -13693,11 +13701,11 @@ Effects</source>
     </message>
     <message>
         <source>Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>백업</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="unfinished"></translation>
+        <translation>백업 관리</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -13705,7 +13713,7 @@ Effects</source>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>북마크</translation>
     </message>
     <message>
         <source>Browse by Bookmark</source>
@@ -13753,7 +13761,7 @@ Effects</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>Cancel Splitting</source>
@@ -13765,7 +13773,7 @@ Effects</source>
     </message>
     <message>
         <source>Click to turn on/off AutoBackup</source>
-        <translation type="unfinished"></translation>
+        <translation>자동백업을 활성화/비활성화</translation>
     </message>
     <message>
         <source>Click to turn on/off OverType Statusbar</source>
@@ -13777,15 +13785,15 @@ Effects</source>
     </message>
     <message>
         <source>Click to turn on/off Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>맞춤법 검사 활성화/비활성화</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="unfinished"></translation>
+        <translation>클립아트</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>클립보드</translation>
     </message>
     <message>
         <source>Collaboration</source>
@@ -13801,7 +13809,7 @@ Effects</source>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>그림 압축</translation>
     </message>
     <message>
         <source>Connector</source>
@@ -13809,7 +13817,7 @@ Effects</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>복사</translation>
     </message>
     <message>
         <source>Creat Cloud Link</source>
@@ -13833,11 +13841,11 @@ Effects</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>잘라내기</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>내어쓰기</translation>
     </message>
     <message>
         <source>Demote</source>
@@ -13849,7 +13857,7 @@ Effects</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>균등 분할</translation>
     </message>
     <message>
         <source>Document Collaboration</source>
@@ -13857,15 +13865,15 @@ Effects</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>편집</translation>
     </message>
     <message>
         <source>Endnote</source>
-        <translation type="unfinished"></translation>
+        <translation>미주</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -13873,7 +13881,7 @@ Effects</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>피드백</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -13881,11 +13889,11 @@ Effects</source>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>찾기</translation>
     </message>
     <message>
         <source>Floating Picture</source>
@@ -13893,7 +13901,7 @@ Effects</source>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>글꼴</translation>
     </message>
     <message>
         <source>Footnotes Context Menu</source>
@@ -13901,7 +13909,7 @@ Effects</source>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 형식</translation>
     </message>
     <message>
         <source>Frame Context Menu</source>
@@ -13909,19 +13917,19 @@ Effects</source>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>전체화면</translation>
     </message>
     <message>
         <source>Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>갤러리</translation>
     </message>
     <message>
         <source>Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>이동</translation>
     </message>
     <message>
         <source>Grow Font</source>
-        <translation type="unfinished"></translation>
+        <translation>글꼴 크기 키우기</translation>
     </message>
     <message>
         <source>Header Line Color</source>
@@ -13929,11 +13937,11 @@ Effects</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>도움말</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"></translation>
+        <translation>하이퍼링크</translation>
     </message>
     <message>
         <source>Hyperlink Context Menu</source>
@@ -13941,7 +13949,7 @@ Effects</source>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"></translation>
+        <translation>들여쓰기</translation>
     </message>
     <message>
         <source>Inline Picture</source>
@@ -13949,7 +13957,7 @@ Effects</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>삽입</translation>
     </message>
     <message>
         <source>Insert Blank Field</source>
@@ -13957,11 +13965,11 @@ Effects</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>이탤릭체</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"></translation>
+        <translation>양쪽 맞춤</translation>
     </message>
     <message>
         <source>Line StatusBar</source>
@@ -13969,59 +13977,59 @@ Effects</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>매크로</translation>
     </message>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>측정 단위. 설정 창을 열려면 클릭.</translation>
     </message>
     <message>
         <source>More Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>색상 더보기</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>밑줄 색상 더 보기</translation>
     </message>
     <message>
         <source>More Underlines</source>
-        <translation type="unfinished"></translation>
+        <translation>밑줄 더보기</translation>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>아래로 이동</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>위로 이동</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>새로 만들기</translation>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation type="unfinished"></translation>
+        <translation>새 빈 문서</translation>
     </message>
     <message>
         <source>New Blank File</source>
-        <translation type="unfinished"></translation>
+        <translation>새 빈 파일</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>새 문서</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 템플릿으로 새로 만들기</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>더 많은 템플릿으로 새로 만들기</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>온라인 템플릿으로 새로 만들기</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
@@ -14033,20 +14041,20 @@ Effects</source>
     </message>
     <message>
         <source>OLE Object</source>
-        <translation type="unfinished"></translation>
+        <translation>OLE 개체</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>열기</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>테두리</translation>
     </message>
     <message>
         <source>Page 
 Break</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 나누기</translation>
     </message>
     <message>
         <source>Page Area Number. Click to open &quot;Go To&quot; dialog.</source>
@@ -14062,28 +14070,28 @@ Break</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>붙여넣기</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>인쇄</translation>
     </message>
     <message>
         <source>Print 
 Directly</source>
-        <translation type="unfinished"></translation>
+        <translation>바로 인쇄</translation>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>인쇄 레이아웃</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>인쇄 미리보기</translation>
     </message>
     <message>
         <source>Print Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>인쇄 설정</translation>
     </message>
     <message>
         <source>Promote</source>
@@ -14091,7 +14099,7 @@ Directly</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>최근 문서</translation>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
@@ -14099,7 +14107,7 @@ Directly</source>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>다시 하기</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -14111,7 +14119,7 @@ Directly</source>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
+        <translation>편집 제한</translation>
     </message>
     <message>
         <source>Rotate Mode</source>
@@ -14119,15 +14127,15 @@ Directly</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>저장하기</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>다른 이름으로 저장</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>선택</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -14135,15 +14143,15 @@ Directly</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>선택 창</translation>
     </message>
     <message>
         <source>Set Language</source>
-        <translation type="unfinished"></translation>
+        <translation>언어 설정</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation>도형</translation>
     </message>
     <message>
         <source>Shapes Context Menu</source>
@@ -14159,27 +14167,27 @@ Directly</source>
     </message>
     <message>
         <source>Shrink Font</source>
-        <translation type="unfinished"></translation>
+        <translation>글꼴 크기 줄이기</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>맞춤법 검사</translation>
     </message>
     <message>
         <source>Split Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>가로로 나누기</translation>
     </message>
     <message>
         <source>Split Table by Column</source>
-        <translation type="unfinished"></translation>
+        <translation>열을 기준으로 표 나누기</translation>
     </message>
     <message>
         <source>Split Table by Row</source>
-        <translation type="unfinished"></translation>
+        <translation>행을 기준으로 표 나누기</translation>
     </message>
     <message>
         <source>Split Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>세로로 나누기</translation>
     </message>
     <message>
         <source>Split Window</source>
@@ -14195,23 +14203,23 @@ Directly</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>스타일</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>스타일</translation>
     </message>
     <message>
         <source>Styles and Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>스타일 및 서식</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished"></translation>
+        <translation>아래 첨자</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished"></translation>
+        <translation>위 첨자</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -14219,23 +14227,23 @@ Directly</source>
     </message>
     <message>
         <source>Table Cells</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">표 셀</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>표 스타일</translation>
     </message>
     <message>
         <source>Table Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">표 텍스트</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>표</translation>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">작업 창</translation>
     </message>
     <message>
         <source>Text Context Menu</source>
@@ -14263,23 +14271,23 @@ Directly</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>밑줄</translation>
     </message>
     <message>
         <source>Underline Color</source>
-        <translation type="unfinished"></translation>
+        <translation>밑줄 색상</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>되돌리기</translation>
     </message>
     <message>
         <source>Update Field</source>
-        <translation type="unfinished"></translation>
+        <translation>필드 업데이트</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>보기</translation>
     </message>
     <message>
         <source>View Field Codes</source>
@@ -14287,27 +14295,27 @@ Directly</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>비주얼 베이직 편집기</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS온라인 템플릿</translation>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>웹 레이아웃</translation>
     </message>
     <message>
         <source>Whole Table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">모든 표</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation type="unfinished"></translation>
+        <translation>창</translation>
     </message>
     <message>
         <source>Word Count</source>
-        <translation type="unfinished"></translation>
+        <translation>단어 개수 세기</translation>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
@@ -14315,7 +14323,7 @@ Directly</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>확대/축소</translation>
     </message>
 </context>
 <context>
@@ -14372,7 +14380,7 @@ Directly</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>머리글과 바닥글</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -14428,7 +14436,7 @@ Directly</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>개요</translation>
+        <translation>테두리</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -14463,7 +14471,7 @@ Directly</source>
     </message>
     <message>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>참조</translation>
     </message>
     <message>
         <source>Restore Window</source>
@@ -14471,7 +14479,7 @@ Directly</source>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>검토</translation>
     </message>
     <message>
         <source>Section</source>
@@ -14519,7 +14527,7 @@ Directly</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>보기</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -14644,7 +14652,7 @@ Directly</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>개요</translation>
+        <translation>테두리</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -14684,7 +14692,7 @@ Directly</source>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>검토</translation>
     </message>
     <message>
         <source>Section</source>
@@ -14732,7 +14740,7 @@ Directly</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>보기</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
