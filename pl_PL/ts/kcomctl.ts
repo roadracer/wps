@@ -6,7 +6,10 @@
     <name>KApplication</name>
     <message>
         <source>Trial Version</source>
-        <translation>Wersja próbna</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja próbna</lengthvariant>
+            <lengthvariant>Trial</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -463,10 +466,7 @@
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty: </lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty: </lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty: </translation>
     </message>
     <message>
         <source>Open</source>
@@ -613,7 +613,7 @@ wielokrotne=wielokrotne
         <source>Some components are not installed correctly,
 please reinstall WPS Office!</source>
         <translation>Niektóre składniki nie są zainstalowane poprawnie,
-proszę przeinstalować WPS Office!</translation>
+proszę ponownie zainstalować WPS Office!</translation>
     </message>
 </context>
 <context>

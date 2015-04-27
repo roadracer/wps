@@ -3180,15 +3180,15 @@ tekstu</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
-        <translation>Dokument Microsoft Word 2007-2010</translation>
+        <translation>Dokument programu Microsoft Word 2007–2010</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
-        <translation>Dokument Microsoft Word 97-2003</translation>
+        <translation>Dokument programu Microsoft Word 97–2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Template</source>
-        <translation>Szablon Microsoft Word 97-2003</translation>
+        <translation>Szablon programu Microsoft Word 97–2003</translation>
     </message>
     <message>
         <source>New</source>
@@ -10862,15 +10862,15 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
-        <translation>Dokument Microsoft Word 2007-2010</translation>
+        <translation>Dokument programu Microsoft Word 2007–2010</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
-        <translation>Dokument Microsoft Word 97-2003</translation>
+        <translation>Dokument programu Microsoft Word 97–2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Template</source>
-        <translation>Szablon Microsoft Word 97-2003</translation>
+        <translation>Szablon programu Microsoft Word 97–2003</translation>
     </message>
     <message>
         <source>New</source>
@@ -16154,10 +16154,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
@@ -16552,10 +16549,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -16801,10 +16795,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Recharge</source>

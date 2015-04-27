@@ -843,9 +843,7 @@
     <message>
         <source>bgMagic tooltip</source>
         <translation variants="yes">
-            <lengthvariant>bgEtykietka narzędzia Magia</lengthvariant>
             <lengthvariant>bgEtykietka narzędzia Magic</lengthvariant>
-            <lengthvariant>bgMagiczna etykietka narzędzia</lengthvariant>
             <lengthvariant>bgMagic tooltip</lengthvariant>
         </translation>
     </message>
@@ -1998,7 +1996,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Caution: please keep your password properly. File will never be recovered if you lose or forget the password.(Remember that passwords are case-sensitive.)</source>
-        <translation>Uwaga: Proszę zachowaj swoje poprawne hasło. Pliku nigdy nie będzie można odzyskać, jeżeli zapomnisz lub zgubisz hasło.(Pamiętaj, że w hasłach jest rozróżniana wielkość liter.)</translation>
+        <translation>Ostrzeżenie: Proszę zachowaj swoje poprawne hasło. Pliku nigdy nie będzie można odzyskać, jeżeli zapomnisz lub zgubisz hasło.(Pamiętaj, że w hasłach jest rozróżniana wielkość liter.)</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -3195,11 +3193,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation variants="yes">
-            <lengthvariant>Katalog &quot;%1&quot; jest nieprawidłowy.</lengthvariant>
-            <lengthvariant>Katalog &quot;%1&quot; nie jest poprawny.</lengthvariant>
-            <lengthvariant>Katalog &quot;%1&quot; nie jest prawidłowy.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowy katalog &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Select Folder:</source>
@@ -4150,7 +4144,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <message>
         <source>This is not a valid measurement.</source>
         <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
+            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
         </translation>
     </message>

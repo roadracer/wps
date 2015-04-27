@@ -2417,7 +2417,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Set Default(&amp;C)</source>
-        <translation>Ustaw jako domyślny(&amp;C)</translation>
+        <translation>Ustaw jako domyślny (&amp;C)</translation>
     </message>
     <message>
         <source>Full Path</source>
@@ -3476,8 +3476,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;All caps</source>
-        <translatorcomment>&amp;Wszystkie wielkie litery</translatorcomment>
-        <translation>&amp;Wszystkie wersaliki</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Wszystkie wersaliki</lengthvariant>
+            <lengthvariant>&amp;Wszystkie wielkie litery</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
@@ -5987,10 +5989,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Create &amp;backup files on first save</source>
@@ -8045,8 +8044,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
-        <translatorcomment>Wyraz zawiera niedozwolone znaki. Nie możemy sobie z tym poradzić.</translatorcomment>
-        <translation>Wyraz zawiera niedostępne znaki. Nie możemy obsłużyć go.</translation>
+        <translation>Słowo zawiera niedozwolone znaki. Nie można go przetworzyć.</translation>
     </message>
 </context>
 <context>
@@ -8937,8 +8935,6 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>This is not a valid number.</source>
         <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
             <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
         </translation>
@@ -8946,7 +8942,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>This is not a valid measurement.</source>
         <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
+            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
         </translation>
     </message>
@@ -9440,8 +9436,6 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <message>
         <source>This is not a valid number.</source>
         <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
             <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
         </translation>
@@ -9490,8 +9484,6 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <message>
         <source>This is not a valid number.</source>
         <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
             <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
         </translation>
@@ -9614,8 +9606,6 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <message>
         <source>This is not a valid number.</source>
         <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
             <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
         </translation>
@@ -9932,8 +9922,6 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     <message>
         <source>This is not a valid number.</source>
         <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
             <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
         </translation>
@@ -10026,11 +10014,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation variants="yes">
-            <lengthvariant>Katalog &quot;%1&quot; jest nieprawidłowy.</lengthvariant>
-            <lengthvariant>Katalog &quot;%1&quot; nie jest poprawny.</lengthvariant>
-            <lengthvariant>Katalog &quot;%1&quot; nie jest prawidłowy.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowy katalog &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -10293,7 +10277,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>This is not a valid measurement.</source>
         <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
+            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
         </translation>
     </message>
@@ -10303,7 +10287,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>This is not a valid measurement.</source>
         <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
+            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
         </translation>
     </message>
@@ -10313,8 +10297,6 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>This is not a valid number.</source>
         <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
             <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
         </translation>
@@ -12849,7 +12831,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>This is not a valid measurement.</source>
         <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
+            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
         </translation>
     </message>
@@ -12892,7 +12874,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>WPS Writer 2007-2010 File(*.wpsx)</source>
-        <translation>Pliki WPS Writer 2007-2010(*.wpsx)</translation>
+        <translation>Pliki programu WPS Writer 2007–2010(*.wpsx)</translation>
     </message>
     <message>
         <source>A macro is currently recording. Click to stop recording.</source>
@@ -12904,7 +12886,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
-        <translation>Szablon Kingsoft Writer 2007/2010(*.wptx)</translation>
+        <translation>Szablon programu Kingsoft Writer 2007/2010(*.wptx)</translation>
     </message>
 </context>
 <context>

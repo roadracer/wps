@@ -3822,8 +3822,6 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
         <source>This is not a valid number.</source>
         <comment>wps_sInvalidInt</comment>
         <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
             <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
         </translation>
@@ -4070,7 +4068,6 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>WPS Writer could not determine the destination.</source>
         <comment>wps_sNotDetermine</comment>
-        <translatorcomment>WPS Writer nie może odnaleźć miejsca.</translatorcomment>
         <translation>WPS Writer nie może określić miejsca docelowego.</translation>
     </message>
     <message>
@@ -4087,7 +4084,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
         <source>This is not a valid measurement.</source>
         <comment>wps_sNotMeasureMent</comment>
         <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
+            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
         </translation>
     </message>
@@ -4110,8 +4107,6 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
         <source>This is not a valid number.</source>
         <comment>wps_sNotValidFontSize</comment>
         <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
             <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
             <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
         </translation>
@@ -4354,7 +4349,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Orientation setting does not work for some reasons, such as too little column width. Please adjust your settings.</source>
         <comment>wps_sPutOrientationError</comment>
-        <translation type="unfinished">Ustawienie orientacji nie działa z jakiś powodów, takich jak zbyt mała szerokość kolumny. Proszę dostosuj ustawienia.</translation>
+        <translation>Ustawienie orientacji nie działa z jakiś powodów, takich jak zbyt mała szerokość kolumny. Proszę dostosuj ustawienia.</translation>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
@@ -6488,10 +6483,7 @@ dokumentu</translation>
     <message>
         <source>Close Compare Side by Side</source>
         <comment>TxWindow_Close_CompareSideBySide</comment>
-        <translation variants="yes">
-            <lengthvariant>Zamknij porównywanie obok siebie</lengthvariant>
-            <lengthvariant>Zamknij porównanie obok siebie</lengthvariant>
-        </translation>
+        <translation>Zamknij porównywanie obok siebie</translation>
     </message>
     <message>
         <source>Compare with %s Side by Side</source>
@@ -6501,10 +6493,7 @@ dokumentu</translation>
     <message>
         <source>Compare Side by Side</source>
         <comment>TxWindow_CompareSideBySide</comment>
-        <translation variants="yes">
-            <lengthvariant>Porównaj obok siebie</lengthvariant>
-            <lengthvariant>Porównywanie obok siebie</lengthvariant>
-        </translation>
+        <translation>Porównaj obok siebie</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>

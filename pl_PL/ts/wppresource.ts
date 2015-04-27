@@ -13751,10 +13751,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -14007,10 +14004,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Recharge</source>

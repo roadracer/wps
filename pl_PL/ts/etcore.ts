@@ -10113,7 +10113,8 @@ Czy kontynuować?</translation>
     <message>
         <source>This function is provided in WPS Office 2009 Professional Edition.</source>
         <comment>TX_FUNCTION_PROHIBIT</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Ta funkcja jest udostępniona w WPS Office 2009 Professional Edition.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has finished checking spelling in your selection. Do you want to check spelling in the entire sheet?</source>
@@ -10359,7 +10360,8 @@ Check</source>
     <message>
         <source>Chinese Conversion</source>
         <comment>TX_ChineseTranslation_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>a</translatorcomment>
+        <translation>Konwersja języka chińskiego</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>

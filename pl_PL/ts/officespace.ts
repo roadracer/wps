@@ -1162,10 +1162,7 @@
     <name>KRoamingFilePage</name>
     <message>
         <source>Recent documents</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>From %1</source>
@@ -1268,10 +1265,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Recent documents</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -1519,7 +1513,7 @@ rozmiar:%2
     <message>
         <source>Learn Professional</source>
         <extracomment>click upgrade to professional version</extracomment>
-        <translation>Dowiedz się więcej o wersji Profesjonalnej</translation>
+        <translation>Dowiedz się więcej o wersji Professional</translation>
     </message>
     <message>
         <source>Learn Commercial</source>
@@ -2271,7 +2265,10 @@ folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <name>KxQingAuthorize</name>
     <message>
         <source>Trial</source>
-        <translation>Wersja próbna</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja próbna</lengthvariant>
+            <lengthvariant>Trial</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Free</source>
@@ -2471,7 +2468,10 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Trial</source>
-        <translation>Wersja próbna</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja próbna</lengthvariant>
+            <lengthvariant>Trial</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Sign in</source>

@@ -9,7 +9,6 @@
         <translation variants="yes">
             <lengthvariant>Zaawansowana kwerenda</lengthvariant>
             <lengthvariant>Zaawansowana zapytanie</lengthvariant>
-            <lengthvariant>Zaawansowane opcje kwerendy</lengthvariant>
         </translation>
     </message>
     <message>
@@ -306,7 +305,6 @@
         <translation variants="yes">
             <lengthvariant>&amp;Zaawansowana kwerenda...</lengthvariant>
             <lengthvariant>&amp;Zaawansowana zapytanie...</lengthvariant>
-            <lengthvariant>&amp;Zaawansowane opcje kwerendy...</lengthvariant>
         </translation>
     </message>
     <message>
@@ -1221,11 +1219,9 @@ condition is true:</source>
     <name>KxConditionHighLightDlg</name>
     <message>
         <source>HighLight - Numerial</source>
-        <translatorcomment>Numeral</translatorcomment>
         <translation type="unfinished" variants="yes">
-            <lengthvariant>Wyróżnienie - Liczbowy</lengthvariant>
-            <lengthvariant>Wyróżnienie - Numeryczny</lengthvariant>
-            <lengthvariant></lengthvariant>
+            <lengthvariant>Wyróżnienie - Numeryczne</lengthvariant>
+            <lengthvariant>Wyróżnienie - Liczbowe</lengthvariant>
         </translation>
     </message>
     <message>
@@ -1585,7 +1581,7 @@ condition is true:</source>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy zakres odwołania jest prawidłowy i istnieje określony arkusza.</translation>
+        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy zakres odwołania jest prawidłowy i istnieje określony arkusz.</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
@@ -2100,7 +2096,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <name>KxDlgConfirmPasswordOfRange</name>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place. (Remember that passwords are case-sensitive.)</source>
-        <translation>Uwaga: Nie można odzyskać zagubionego albo zapomnianego hasła. Pamiętaj, że wielkość liter w hasłach jest rozróżniana. Zalecane jest przechowywanie listy haseł i odpowiadających im nazw skoroszytów i arkuszy w bezpiecznym miejscu. (Pamiętaj, że w hasłach rozróżniane są wielkie i małe litery)</translation>
+        <translation>Ostrzeżenie: Nie można odzyskać zagubionego albo zapomnianego hasła. Pamiętaj, że wielkość liter w hasłach jest rozróżniana. Zalecane jest przechowywanie listy haseł i odpowiadających im nazw skoroszytów i arkuszy w bezpiecznym miejscu. (Pamiętaj, że w hasłach rozróżniane są wielkie i małe litery)</translation>
     </message>
     <message>
         <source>Repeat Password</source>
@@ -2127,7 +2123,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place.(Remember that passwords are case-sensitive.)</source>
-        <translation>Uwaga: Nie można odzyskać zagubionego albo zapomnianego hasła. Pamiętaj, że wielkość liter w hasłach jest rozróżniana. Zalecane jest przechowywanie listy haseł i odpowiadających im nazw skoroszytów i arkuszy w bezpiecznym miejscu. (Pamiętaj, że w hasłach rozróżniane są wielkie i małe litery)</translation>
+        <translation>Ostrzeżenie: Nie można odzyskać zagubionego albo zapomnianego hasła. Pamiętaj, że wielkość liter w hasłach jest rozróżniana. Zalecane jest przechowywanie listy haseł i odpowiadających im nazw skoroszytów i arkuszy w bezpiecznym miejscu. (Pamiętaj, że w hasłach rozróżniane są wielkie i małe litery)</translation>
     </message>
 </context>
 <context>
@@ -4249,10 +4245,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -4295,7 +4288,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered. Remember that passwords are case-sensitive.</source>
-        <translation>Uwaga: Wybierz łatwe do zapamiętania hasło. Jeśli zapomnisz lub zgubisz hasło, to nie ma możliwości odtworzenia go. Pamiętaj, że w hasłach jest rozróżniana wielkość liter.</translation>
+        <translation>Ostrzeżenie: Wybierz łatwe do zapamiętania hasło. Jeśli zapomnisz lub zgubisz hasło, to nie ma możliwości odtworzenia go. Pamiętaj, że w hasłach jest rozróżniana wielkość liter.</translation>
     </message>
     <message>
         <source>Security threats</source>
@@ -8012,11 +8005,7 @@ na iteracji #%2.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation variants="yes">
-            <lengthvariant>Katalog &quot;%1&quot; jest nieprawidłowy.</lengthvariant>
-            <lengthvariant>Katalog &quot;%1&quot; nie jest poprawny.</lengthvariant>
-            <lengthvariant>Katalog &quot;%1&quot; nie jest prawidłowy.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowy katalog &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Select Folder:</source>
@@ -8652,7 +8641,10 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Your entry is not valid.</source>
-        <translation>Twój wpis nie jest prawidłowy.</translation>
+        <translation variants="yes">
+            <lengthvariant>Nieprawidłowy wpis.</lengthvariant>
+            <lengthvariant>Twój wpis nie jest prawidłowy.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -8687,7 +8679,10 @@ system will remind checking the correctness of the contents.
     <name>KxSetRowHeightDlg</name>
     <message>
         <source>Your entry is not valid.</source>
-        <translation>Twój wpis nie jest prawidłowy.</translation>
+        <translation variants="yes">
+            <lengthvariant>Nieprawidłowy wpis.</lengthvariant>
+            <lengthvariant>Twój wpis nie jest prawidłowy.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>

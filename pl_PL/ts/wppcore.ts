@@ -2680,7 +2680,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation>Obecnie WPS Office obsługuje tylko przeglądanie dokumentów pakietu Microsoft Office 2010, których nie możesz edytować i zapisywać. Czy chcesz otworzyć ten dokument w trybie podglądu?</translation>
+        <translation>Obecnie WPS Office obsługuje tylko przeglądanie dokumentów pakietu Microsoft Office 2010, których nie możesz edytować i zapisywać. Czy chcesz otworzyć ten dokument w trybie przeglądarki?</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
@@ -5808,10 +5808,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Straight</source>
         <comment>wpp_sStraight</comment>
-        <translation variants="yes">
-            <lengthvariant>Jednobiegowa</lengthvariant>
-            <lengthvariant>Prostoliniowy</lengthvariant>
-        </translation>
+        <translation>Prostoliniowy</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
@@ -6538,7 +6535,7 @@ układ</lengthvariant>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation>Wszystkie pliki (*.*)|*.*|Wspólne pliki (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Pliki WPS Presentation (*.dps)|*.dps|Szablony WPS Presentation (*.dpt)|*.dpt|Prezentacje programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt; *.pps)|*.ppt; *.pps|Szablony prezentacji programu Microsoft PowerPoint 97/2000/XP/2003 (*.pot)|*.pot|Prezentacje programu Microsoft PowerPoint 2007/2010 (*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+        <translation>Wszystkie pliki (*.*)|*.*|Wspólne pliki (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Pliki programu WPS Presentation (*.dps)|*.dps|Szablony programu WPS Presentation (*.dpt)|*.dpt|Prezentacje programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt; *.pps)|*.ppt; *.pps|Szablony prezentacji programu Microsoft PowerPoint 97/2000/XP/2003 (*.pot)|*.pot|Prezentacje programu Microsoft PowerPoint 2007/2010 (*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
     </message>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>

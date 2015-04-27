@@ -2440,7 +2440,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook(E)</source>
-        <translation>Nowy skoroszyt programu Excel 2007/2010(E)</translation>
+        <translation>Nowy skoroszyt programu Excel 2007/2010 (E)</translation>
     </message>
     <message>
         <source>New Workbook</source>
@@ -2848,10 +2848,7 @@ zadań</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Recently used files</source>
@@ -3079,10 +3076,7 @@ zadań</translation>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane dokumenty</lengthvariant>
-            <lengthvariant>Niedawno używane dokumenty</lengthvariant>
-        </translation>
+        <translation>Niedawno używane dokumenty</translation>
     </message>
     <message>
         <source>Recently used files</source>
@@ -4072,11 +4066,11 @@ włącz/wyłącz</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation>Pliki programu Microsoft Excel 97-2003</translation>
+        <translation>Pliki programu Microsoft Excel 97–2003</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation>Szablony programu Microsoft Excel 97-2003</translation>
+        <translation>Szablony programu Microsoft Excel 97–2003</translation>
     </message>
     <message>
         <source>New</source>
@@ -10063,15 +10057,15 @@ COM</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007-2010 Files</source>
-        <translation>Pliki programu Microsoft Excel 2007-2010</translation>
+        <translation>Pliki programu Microsoft Excel 2007–2010</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation>Pliki programu Microsoft Excel 97-2003</translation>
+        <translation>Pliki programu Microsoft Excel 97–2003</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation>Szablony programu Microsoft Excel 97-2003</translation>
+        <translation>Szablony programu Microsoft Excel 97–2003</translation>
     </message>
     <message>
         <source>New</source>
