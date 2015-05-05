@@ -1228,10 +1228,7 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Available for Use</source>
         <comment>WP_TP_DESIGNCATEGORY3</comment>
-        <translation variants="yes">
-            <lengthvariant>Dostępne do użycia</lengthvariant>
-            <lengthvariant>Dostępne do użytku</lengthvariant>
-        </translation>
+        <translation>Dostępne do użycia</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -6890,10 +6887,7 @@ układ</lengthvariant>
     <message>
         <source>The font &apos;</source>
         <comment>WP_FontNameNotExisitFirstHalf</comment>
-        <translation variants="yes">
-            <lengthvariant>Czcionka &apos;</lengthvariant>
-            <lengthvariant>Ta czcionka &apos;</lengthvariant>
-        </translation>
+        <translation>Czcionka &apos;</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>

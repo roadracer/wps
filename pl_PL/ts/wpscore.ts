@@ -1054,7 +1054,7 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>The number of rows to be split must be between %d and %d.</source>
         <comment>_TxSplitCells_RowCntLimitError</comment>
-        <translation>Liczba wierszy, które mają być podzielone musi być w przedziale od %d do %d.</translation>
+        <translation>Liczba wierszy, które mają być podzielone musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>The number of rows to be split must be a divisor of %d.</source>
@@ -1064,7 +1064,7 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>The number of columns to be split must be between %d and %d.</source>
         <comment>_TxSplitCells_ColumnCntLimitError</comment>
-        <translation>Liczba kolumn, które mają być podzielone musi być w przedziale od %d do %d.</translation>
+        <translation>Liczba kolumn, które mają być podzielone musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>The number of columns is out of range.</source>
@@ -1180,7 +1180,7 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>OVR</source>
         <comment>_TxStatusBar_OvertypeInfo</comment>
-        <translation>ZAM</translation>
+        <translation>NAD</translation>
     </message>
     <message>
         <source>Previous Paragraph</source>
@@ -2800,7 +2800,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>The measurement must be between 0 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_0_1584</comment>
-        <translation>Pomiar musi być pomiędzy 0 pkt i 1584 pkt.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 0 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>Settings you made for left or right margin, column spacing, or paragraph indent are oversized for the page width in some sections.</source>
@@ -2815,7 +2815,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation>Pomiar musi być pomiędzy -1584 pkt i 1584 pkt.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między -1584 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
@@ -2835,7 +2835,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation>Pomiar musi być pomiędzy 0,5 a 600.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 0,5 i 600.</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
@@ -3643,7 +3643,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Start at must be between %d and %d for this format.</source>
         <comment>wps_sErrorStart</comment>
-        <translation>Dla tego formatu wartość w polu Rozpocznij od musi zawierać się między %d a %d.</translation>
+        <translation>Dla tego formatu wartość w polu Rozpocznij od musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>Errors occurred while opening Font dialog box!</source>
@@ -4096,7 +4096,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sNotNumberRange</comment>
-        <translation>Liczba musi być pomiędzy %d a %d.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>This caption label is not valid.</source>
@@ -4119,17 +4119,17 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The measurement must be between %d and %d.</source>
         <comment>wps_sNumberOutofRange</comment>
-        <translation>Pomiar musi być pomiędzy %d a %d.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sNumberOutofRange1</comment>
-        <translation>Liczba musi być pomiędzy %d a %d.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>The number must be between 1 and 10.</source>
         <comment>wps_sNumberRange</comment>
-        <translation>Liczba musi być pomiędzy 1 a 10.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 1 i 10.</translation>
     </message>
     <message>
         <source>Encountered an error when opening PDF file.</source>
@@ -4473,7 +4473,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Start at must be between %d and %d for this format.</source>
         <comment>wps_sStartAtError</comment>
-        <translation>Dla tego formatu wartość w polu Rozpocznij od musi zawierać się między %d a %d.</translation>
+        <translation>Dla tego formatu wartość w polu Rozpocznij od musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>State</source>
@@ -4604,7 +4604,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The number must be between 1 and %d.</source>
         <comment>wps_sValueOutofRange</comment>
-        <translation>Liczba musi być pomiędzy 1 a %d.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 1 i %d.</translation>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
@@ -5027,7 +5027,7 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>The value must be between %d and %d.</source>
         <comment>wps_sNumberRangeErro</comment>
-        <translation>Wartość musi być pomiędzy %d a %d.</translation>
+        <translation>Wartość musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>Input a correct number.</source>
@@ -5274,7 +5274,7 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation>Liczba musi być pomiędzy %d a %d.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
@@ -6157,12 +6157,12 @@ Aby dodać nowe pole tekstowe do dokumentu, kliknij pozycję Pole tekstowe w men
     <message>
         <source>The number must be between 1 and 1638.</source>
         <comment>TxMessage_FontSizeError1</comment>
-        <translation>Liczba musi być pomiędzy 1 a 1638.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 1 i 1638.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 500.</source>
         <comment>TxMessge_ZoomError1</comment>
-        <translation>Liczba musi być pomiędzy 10 a 500.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 10 i 500.</translation>
     </message>
     <message>
         <source>Are you sure to delete style %s?</source>
@@ -6217,10 +6217,7 @@ Aby dodać nowe pole tekstowe do dokumentu, kliknij pozycję Pole tekstowe w men
     <message>
         <source>The font &apos;</source>
         <comment>TxMessage_FontNameNotExisitFirstHalf</comment>
-        <translation variants="yes">
-            <lengthvariant>Czcionka &apos;</lengthvariant>
-            <lengthvariant>Ta czcionka &apos;</lengthvariant>
-        </translation>
+        <translation>Czcionka &apos;</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
@@ -6885,10 +6882,7 @@ pisowni</translation>
     <message>
         <source>Stop Recording</source>
         <comment>TXWps_RecordMacro_Stop</comment>
-        <translation variants="yes">
-            <lengthvariant>Zatrzymaj nagrywanie</lengthvariant>
-            <lengthvariant>Zatrzymaj rejestrowanie</lengthvariant>
-        </translation>
+        <translation>Zatrzymaj rejestrowanie</translation>
     </message>
     <message>
         <source>Record Macro</source>

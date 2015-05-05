@@ -1530,7 +1530,7 @@ condition is true:</source>
     </message>
     <message>
         <source>The number must be between  %1 and %2. Try again by entering a number in this range.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
 </context>
 <context>
@@ -6962,7 +6962,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>The number must be between 1 and 500.</source>
-        <translation>Liczba musi zawierać się pomiędzy 1 a 500.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 1 i 500.</translation>
     </message>
 </context>
 <context>
@@ -7288,7 +7288,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
-        <translation>Rozmiar czcionki musi zawierać się pomiędzy %1 a %2 punktów.</translation>
+        <translation>Rozmiar czcionki musi się zawierać w przedziale między %1 i %2 punktów.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -7349,7 +7349,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
-        <translation>Rozmiar czcionki musi zawierać się pomiędzy %1 a %2 punktów.</translation>
+        <translation>Rozmiar czcionki musi się zawierać w przedziale między %1 i %2 punktów.</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
@@ -7435,7 +7435,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
-        <translation>Rozmiar czcionki musi zawierać się pomiędzy %1 a %2 punktów.</translation>
+        <translation>Rozmiar czcionki musi się zawierać w przedziale między %1 i %2 punktów.</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
@@ -7877,7 +7877,7 @@ na iteracji #%2.</translation>
     </message>
     <message>
         <source>Font size must be between 1 and 409 points.</source>
-        <translation>Rozmiar czcionki musi zawierać się pomiędzy 1 a 409 punktów.</translation>
+        <translation>Rozmiar czcionki musi się zawierać w przedziale między 1 i 409 punktów.</translation>
     </message>
     <message>
         <source>Data will permanently lose accuracy.</source>
@@ -7970,7 +7970,7 @@ na iteracji #%2.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 32767. Try again by entering a number in this range.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 32767. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 1 i 32767. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -8020,11 +8020,11 @@ na iteracji #%2.</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
-        <translation>Liczba musi zawierać się pomiędzy 10 a 400. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 10 i 400. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -8091,19 +8091,19 @@ na iteracji #%2.</translation>
     </message>
     <message>
         <source>The measurement must be between 7.2 pt and 1584 pt.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 7,2 pkt a 1584 pkt.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 7,2 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.1 inch and 22 inch.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 0,1 cala a 22 cali.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 0,1 cala i 22 cali.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.3 cm and 55.8 cm.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 0,3 cm a 55,88 cm.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 0,3 cm i 55,88 cm.</translation>
     </message>
     <message>
         <source>The measurement must be between 2.6 mm and 558.8 mm.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 2,6 mm a 558,84 mm.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 2,6 mm i 558,84 mm.</translation>
     </message>
     <message>
         <source>There is no Active Printer available at the moment.</source>
@@ -8121,7 +8121,7 @@ na iteracji #%2.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
 </context>
 <context>
@@ -8407,7 +8407,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
     <message>
         <source>Invalid Input.</source>
@@ -8652,7 +8652,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Column width must be between 0 %1 and %2 %1.</source>
-        <translation>Szerokość kolumny musi zawierać się pomiędzy 0 %1 a %2 %1.</translation>
+        <translation>Szerokość kolumny musi się zawierać w przedziale między 0 %1 i %2 %1.</translation>
     </message>
     <message>
         <source>character</source>
@@ -8690,7 +8690,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Row height must be between 0 %1 and %2 %1.</source>
-        <translation>Wysokość wiersza musi zawierać się pomiędzy 0 %1 a %2 %1.</translation>
+        <translation>Wysokość wiersza musi się zawierać w przedziale między 0 %1 i %2 %1.</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9736,7 +9736,7 @@ t</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Try again by entering a number in this range.</source>
-        <translation>Liczba musi zawierać się pomiędzy 10 a 400. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 10 i 400. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
     <message>
         <source>200</source>

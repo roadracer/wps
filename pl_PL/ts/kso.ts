@@ -1476,7 +1476,7 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
     <message>
         <source>The value must be between 0% and 500%.</source>
         <comment>DgUil_KSO_Cmd_ReportSpacingCustom</comment>
-        <translation>Wartość musi zawierać się pomiędzy 0% a 500%.</translation>
+        <translation>Wartość musi się zawierać w przedziale między 0% i 500%.</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -1486,7 +1486,7 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
     <message>
         <source>The value must be between -600 pt and 9600 pt.</source>
         <comment>DgUil_KSO_Cmd_Repor3DDepth</comment>
-        <translation>Wartość musi zawierać się pomiędzy -600 pkt a 9600 pkt.</translation>
+        <translation>Wartość musi się zawierać w przedziale między -600 pkt i 9600 pkt.</translation>
     </message>
     <message>
         <source>Color</source>
@@ -5935,7 +5935,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>The number must be between %d and %d. Try again by entering a number in this range.</source>
         <comment>kso_sNumberRangeErr</comment>
-        <translation>Liczba musi zawierać się pomiędzy %d a %d. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %d i %d. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
     <message>
         <source>Number</source>
@@ -7091,12 +7091,12 @@ Służy do pokazywania kroków zmierzających do celu</translation>
     <message>
         <source>The file cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation>Nie można usunąć pliku, który może być zajęty.</translation>
+        <translation>Nie można usunąć plików, które mogą być zajęte.</translation>
     </message>
     <message>
         <source>Some files cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation>Niektóre pliki nie mogą być usunięte, ponieważ prawdopodobnie są zajęte.</translation>
+        <translation>Niektóre pliki nie mogą być usunięte, ponieważ mogą być zajęte.</translation>
     </message>
     <message>
         <source>Viewer Mode</source>

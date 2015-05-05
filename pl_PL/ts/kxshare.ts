@@ -3512,7 +3512,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     <name>KxOnlineFonts</name>
     <message>
         <source>It&apos;s downloading, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Trwa pobieranie, proszę czekać...</translation>
     </message>
     <message>
         <source>Pause. Click to continue</source>
@@ -3520,69 +3520,71 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>Fold online fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Złóż czcionki online</translation>
     </message>
     <message>
         <source>Show Online Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż czcionki online</translation>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Czcionki online</translation>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.
 Click here to sign in now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uaktualnij do VIP, aby cieszyć się czcionkami VIP.
+Kliknij tutaj, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Sign in to use cloud fonts.
 Click the icon to sign in now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaloguj się, aby korzystać z czcionek w chmurze.
+Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zezwól starszym członkom cieszyć się czcionkami VIP. Kliknij, aby się zalogować.</translation>
     </message>
     <message>
         <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zezwól członkom cieszyć się darmowymi czcionkami w chmurze. Kliknij, aby się zalogować.</translation>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew.</source>
-        <translation type="unfinished"></translation>
+        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnowić.</translation>
     </message>
     <message>
         <source>VIP cloud fonts installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstalowane czcionki chmurze VIP</translation>
     </message>
     <message>
         <source>Cloud fonts installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstalowane czcionki w chmurze</translation>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uaktualnij do VIP, aby cieszyć się czcionkami VIP.</translation>
     </message>
     <message>
         <source>Click to install free cloud fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij, aby zainstalować darmowe czcionki chmury</translation>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnowić, aby cieszyć się czcionkami w chmurze.</translation>
     </message>
     <message>
         <source>All cloud fonts installed.  Please looking forward to more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstalowane wszystkie czcionki w chmurze. Proszę, czekamy na więcej.</translation>
     </message>
     <message>
         <source>Click to keep cloud fonts on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij, aby zachować czcionki chmury na górze</translation>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij, aby umieścić w kolejności losowej czcionki chmury</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait…</source>
@@ -3590,7 +3592,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>More Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej czcionek</translation>
     </message>
     <message>
         <source>(Restart to take effect).</source>
@@ -3605,45 +3607,43 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Enter Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Przejdź do trybu przeglądarki</translation>
     </message>
     <message>
         <source>Disable Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz drukowanie</translation>
     </message>
     <message>
         <source>Update to Personal</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Aktualizuj do Personal</translation>
     </message>
     <message>
         <source>You also can download</source>
-        <translation type="unfinished"></translation>
+        <translation>Możesz również pobrać</translation>
     </message>
     <message>
         <source>Purchase Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakup teraz</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Twój okres próbny WPS Office wygasł i masz zamiar wejść w Tryb przeglądarki. Proszę wprowadzić prawidłowy numer seryjny, aby dalej korzystać z aplikacji. Jeśli nie masz prawidłowego numeru seryjnego, proszę zakupić jeden w</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
-        <translation type="unfinished"></translation>
+        <translation>Twój okres próbny WPS Office wygasł i drukowanie zostanie wyłączone. Proszę wprowadzić prawidłowy numer seryjny, aby uaktywnić. Jeśli nie masz prawidłowego numeru seryjnego, możesz zakupić jeden w</translation>
     </message>
     <message>
         <source>WPS Office Free.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office Free.</translation>
     </message>
     <message>
         <source>WPS Online Store.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Online Store.</translation>
     </message>
     <message>
         <source>Input Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź numer seryjny</translation>
     </message>
 </context>
 <context>
@@ -4024,29 +4024,28 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>A key to clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Klucz do wyczyszczenia</translation>
     </message>
     <message>
         <source>Clear this recor&amp;d</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść ten rekor&amp;d</translation>
     </message>
     <message>
         <source>Clear &amp;all selected record</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść &amp;wszystkie wybrane rekordy</translation>
     </message>
     <message>
         <source>Clear &amp;all invalid record</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść &amp;wszystkie nieprawidłowe rekordy</translation>
     </message>
     <message>
         <source>Open the file in &amp;folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz plik w &amp;folderze</translation>
     </message>
     <message>
         <source>
 
 modify time: </source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>
 
@@ -4060,33 +4059,30 @@ zmieniony: </lengthvariant>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translatorcomment>a</translatorcomment>
         <translation>
 
 Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji</translation>
     </message>
     <message>
         <source>A total of %1 records</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Całkowita liczba rekordów %1</translation>
     </message>
     <message>
         <source>cannot open the file &quot;%1&quot;. 
 the file may be renamed,deleted or moved the location.</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Nie można otworzyć pliku &quot;%1&quot;. 
 Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji.</translation>
     </message>
     <message>
         <source>open file folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder plików</translation>
     </message>
 </context>
 <context>
     <name>KxRecentFilePageCommand</name>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można odnaleźć folderu &quot;%1&quot;. Być może został on usunięty, przeniesiony lub zmieniono jego nazwę.</translation>
     </message>
 </context>
 <context>
@@ -4100,69 +4096,65 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     <name>KxSerchCtrl</name>
     <message>
         <source>Please enter name to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę wprowadź nazwę do wyszukania</translation>
     </message>
 </context>
 <context>
     <name>KxSetSpellcheckLanguageDlg</name>
     <message>
         <source>Choose installation package of Spell Check</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Wybierz pakiet instalacyjny Sprawdzania pisowni</translation>
     </message>
     <message>
         <source>Zip File (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik Zip (.zip)</translation>
     </message>
     <message>
         <source>Install the Spell Check package</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Zainstaluj pakiet Sprawdzania pisowni</translation>
     </message>
     <message>
         <source>Installation fails, make sure to install the complete package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niepowodzenia instalacji, upewnij się, że instalujesz kompletny pakiet.</translation>
     </message>
     <message>
         <source>The installation is failed, for the language of the package is being used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalacja nie powiodła się, ponieważ język pakietu sprawdzania pisowni jest w użyciu.</translation>
     </message>
     <message>
         <source>The language of Spell Check already exists. Do you want to continue installing it ?</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Język Sprawdzania pisowni już istnieje. Czy chcesz kontynuować instalowanie go?</translation>
     </message>
     <message>
         <source>Uninstall Spell Check Package</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Odinstaluj pakiet Sprawdzania pisowni</translation>
     </message>
     <message>
         <source>The installed user package has been removed, 
 but the included system package is reserved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstalowany pakiet użytkownika został usunięty, 
+ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
 </context>
 <context>
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
         <source>upload</source>
-        <translation type="unfinished"></translation>
+        <translation>przekazywanie</translation>
     </message>
     <message>
         <source>(custom)</source>
-        <translation type="unfinished"></translation>
+        <translation>(niestandardowe)</translation>
     </message>
 </context>
 <context>
     <name>KxStartup</name>
     <message>
         <source>Not a valid file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy plik.</translation>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Nie można wykonać polecenia, ponieważ jest otwarte okno dialogowe. Kliknij przycisk OK, a następnie zamknij otwarte okna dialogowe, aby kontynuować.</translation>
     </message>
 </context>
@@ -4215,11 +4207,11 @@ but the included system package is reserved.</source>
     <name>KxSwitchView</name>
     <message>
         <source>Restart to make changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom ponownie, aby wprowadzić zmiany</translation>
     </message>
     <message>
         <source>Current locale cannot apply this skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bieżące ustawienia regionalne nie mogą zastosować tej skórki.</translation>
     </message>
 </context>
 <context>
@@ -4241,57 +4233,63 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Some formula symbols might not be displayed correctly due to missing fonts %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektóre symbole formuły mogą nie być wyświetlane prawidłowo ze względu na brakujące czcionki %1.</translation>
     </message>
     <message>
         <source>Missing Cups libraries. Cannot access the printer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak bibliotek Cups. Nie można uzyskać dostępu do drukarki.</translation>
     </message>
     <message>
         <source>System DPI is asymmetric. WPS Office may have display issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>System DPI jest asymetryczny. WPS Office może mieć problemy z wyświetlaniem.</translation>
     </message>
 </context>
 <context>
     <name>KxSystemIssueReportWidget</name>
     <message>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikona</translation>
     </message>
     <message>
         <source>Checking...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie...</translation>
     </message>
     <message>
         <source>Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozdzielczość</translation>
     </message>
     <message>
         <source>Do not report again</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Nie raportuj ponownie</lengthvariant>
+            <lengthvariant>Nie zgłaszaj ponownie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Checking completed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie zakończone!</translation>
     </message>
     <message>
         <source>System Check</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Sprawdzanie systemu</lengthvariant>
+            <lengthvariant>Sprawdź system</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Problems below are detected in the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Następujące problemy zostały wykryte w systemie.</translation>
     </message>
 </context>
 <context>
     <name>KxTabbarMenuActCommand</name>
     <message>
         <source>Dock left</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadokuj z lewej</translation>
     </message>
     <message>
         <source>Dock right</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadokuj z prawej</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -4299,27 +4297,27 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Disable Title Switching in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz przełączanie tytułu w oknie zadań</translation>
     </message>
     <message>
         <source>Enable Title Switching in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Włącz przełączanie tytułu w oknie zadań</translation>
     </message>
     <message>
         <source>Show Icon Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż tylko ikonę</translation>
     </message>
     <message>
         <source>Show Button Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż tekst przycisku</translation>
     </message>
     <message>
         <source>Hide Custom Button in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj przycisk niestandardowy w oknie zadania</translation>
     </message>
     <message>
         <source>Show Custom Button in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż przycisk niestandardowy w oknie zadania</translation>
     </message>
 </context>
 <context>
@@ -4333,14 +4331,14 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source> %1 * %2 Table</source>
-        <translation> %1 wierszy * %2 kolumn Tabeli</translation>
+        <translation> %1 wierszy * %2 kolumn tabeli</translation>
     </message>
 </context>
 <context>
     <name>KxTaskTabbar</name>
     <message>
         <source>Task window location</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalizacja okna zadań</translation>
     </message>
 </context>
 <context>
@@ -4373,7 +4371,7 @@ but the included system package is reserved.</source>
     <name>KxTextBoxWidget</name>
     <message>
         <source>The objects or tables in a scalable or rotatable text box will be removed. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Obiekty lub tabele w skalowanym lub obrotowym polu tekstowym zostaną usunięte. Czy chcesz kontynuować?</translation>
     </message>
 </context>
 <context>
@@ -4384,7 +4382,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przepraszamy! Wystąpił błąd. Po dokonaniu próby naprawy plik został przywrócony.</translation>
     </message>
 </context>
 <context>
@@ -4414,15 +4412,15 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Używając następującej listy plików można odzyskać poprzedni stan pracy przed nieoczekiwanym zakończeniem.</translation>
     </message>
     <message>
         <source>Open Backup Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder kopii zapasowej</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;View more help for restore &gt;&gt;&gt;&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Wyświetl więcej pomocy dla przywracania &gt;&gt;&gt;&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Clear Backup Files</source>
@@ -4430,7 +4428,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>Naciśnij przycisk</translation>
     </message>
 </context>
 <context>
@@ -4441,7 +4439,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektóre pliki nie mogą być usunięte. Mogą być zajęte.</translation>
     </message>
 </context>
 <context>
@@ -5116,7 +5114,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>Allow text to be wrapped by &amp;external object</source>
-        <translation type="unfinished"></translation>
+        <translation>Zezwalaj na zawijanie tekstu przez obiekt &amp;zewnętrzny</translation>
     </message>
     <message>
         <source>T&amp;op:</source>
@@ -5128,11 +5126,11 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>Allow text to rotate with object(&amp;F)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zezwalaj na obracanie tekstu z obiektem (&amp;F)</translation>
     </message>
     <message>
         <source>Allow text to scale to frame(&amp;Z)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zezwalaj na skalowanie tekstu do ramki (&amp;Z)</translation>
     </message>
 </context>
 <context>
@@ -5525,7 +5523,7 @@ Zawsze wykonuj tą akcję.</translation>
     </message>
     <message>
         <source>Current locale cannot apply this skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bieżące ustawienia regionalne nie mogą zastosować tej skórki.</translation>
     </message>
 </context>
 <context>
@@ -5603,11 +5601,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="unfinished"></translation>
+        <translation>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
     </message>
     <message>
         <source>&amp;Technical Support...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomoc &amp;techniczna...</translation>
     </message>
 </context>
 <context>
@@ -5725,11 +5723,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Translation by &amp;Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenie przez &amp;Znak</translation>
     </message>
     <message>
         <source>Translation by &amp;Word</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenie przez &amp;Słowo</translation>
     </message>
     <message>
         <source>Apply to</source>

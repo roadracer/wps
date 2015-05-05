@@ -527,8 +527,8 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     <message>
         <source>KToolTipWidget</source>
         <translation variants="yes">
-            <lengthvariant>KToolTipWidget</lengthvariant>
             <lengthvariant>KEtykietkaNarzędziaWidget</lengthvariant>
+            <lengthvariant>KToolTipWidget</lengthvariant>
         </translation>
     </message>
     <message>
@@ -620,7 +620,7 @@ proszę ponownie zainstalować WPS Office!</translation>
     <name>KxDblSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
@@ -631,7 +631,7 @@ proszę ponownie zainstalować WPS Office!</translation>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>

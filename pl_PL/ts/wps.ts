@@ -977,7 +977,7 @@
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
@@ -1019,14 +1019,14 @@
     </message>
     <message>
         <source>Value must be between 1 and 16838.</source>
-        <translation>Wartość musi zawierać się pomiędzy 1 a 16838.</translation>
+        <translation>Wartość musi się zawierać w przedziale między 1 i 16838.</translation>
     </message>
 </context>
 <context>
     <name>KxContentsDlg</name>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>Title</source>
@@ -1049,7 +1049,7 @@
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -7994,7 +7994,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxDropCapDlg</name>
     <message>
         <source>Number must be between 1 and 10.</source>
-        <translation>Liczba musi zawierać się pomiędzy 1 a 10.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 1 i 10.</translation>
     </message>
     <message>
         <source>pt</source>
@@ -8018,7 +8018,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
 </context>
 <context>
@@ -8930,7 +8930,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
@@ -8986,7 +8986,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Measurement must be between %1 pt and %2 pt</source>
-        <translation>Pomiar musi zawierać się pomiędzy %1 pkt a %2 pkt</translation>
+        <translation>Pomiar musi się zawierać w przedziale między %1 pkt i %2 pkt</translation>
     </message>
 </context>
 <context>
@@ -9029,23 +9029,23 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>The measurement must be between 1 and 16383.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 16383.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 1 i 16383.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 10.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 10.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 1 i 10.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 32767.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 32767.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 1 i 32767.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 754.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 754.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 1 i 754.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 12.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 12.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 1 i 12.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -9288,41 +9288,41 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>The value must be between %1 and %2.</source>
-        <translation>Wartość musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
 </context>
 <context>
     <name>KxInsertTableDlg</name>
     <message>
         <source>The input value must be between 1 and 63.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy 1 a 63.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między 1 i 63.</translation>
     </message>
     <message>
         <source>The input value must be between 1 and 600.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy 1 a 600.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między 1 i 600.</translation>
     </message>
     <message>
         <source>The measurement must be between 4.5 pt and 1584 pt.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 4,5 pkt a 1584 pkt.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 4,5 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.07 in and 22 in.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 0,07 cala a 22 cali.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 0,07 cala i 22 cali.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.16 cm and 55.88 cm.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 0,16 cm a 55,88 cm.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 0,16 cm i 55,88 cm.</translation>
     </message>
     <message>
         <source>The measurement must be between 1.59 mm and 558.84 mm.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1,59 mm a 558,84 mm.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 1,59 mm i 558,84 mm.</translation>
     </message>
 </context>
 <context>
     <name>KxInsertTableRowsDlg</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
 </context>
 <context>
@@ -9442,7 +9442,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>Browse Folder</source>
@@ -9490,7 +9490,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>The value must not be blank.</source>
@@ -9612,7 +9612,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
@@ -9928,7 +9928,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>None</source>
@@ -10003,7 +10003,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
-        <translation>Maksymalna liczba kroków Cofnij/Powtórz musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Maksymalna liczba kroków Cofnij/Powtórz musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
@@ -10128,23 +10128,23 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>The measurement must be between 0 and 16383.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 0 a 16383.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 0 i 16383.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 10.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 10.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 1 i 10.</translation>
     </message>
     <message>
         <source>The measurement must be between 0 and 32767.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 0 a 32767.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 0 i 32767.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 754.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 754.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 1 i 754.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 12.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 12.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między 1 i 12.</translation>
     </message>
     <message>
         <source>①</source>
@@ -10272,7 +10272,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
@@ -10303,7 +10303,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>The number must be between %1 and %1.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %1.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %1.</translation>
     </message>
     <message>
         <source>Please select the base text for the Phonetic Guide.</source>
@@ -10330,7 +10330,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
@@ -10444,7 +10444,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <name>KxSpiltCellsDlg</name>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>The number must be a divisor of %1.</source>
@@ -10562,7 +10562,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>Unlimited</source>
@@ -11489,7 +11489,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>The number must be between 5 and 500.</source>
-        <translation>Liczba musi zawierać się pomiędzy 5 a 500.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 5 i 500.</translation>
     </message>
     <message>
         <source>Scale Tooltip</source>
@@ -12840,7 +12840,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxZoomDlg</name>
     <message>
         <source>The measurement must be between %1 and %2.</source>
-        <translation>Pomiar musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
 </context>
 <context>
@@ -12866,7 +12866,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>The number input must be between 1 and 63.</source>
-        <translation>Liczba wejściowa musi zawierać się pomiędzy 1 a 63.</translation>
+        <translation>Liczba wejściowa musi się zawierać w przedziale między 1 i 63.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is already opened. Reopening will cause changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>

@@ -15624,10 +15624,7 @@ cienia</translation>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation variants="yes">
-            <lengthvariant>Zatrzymaj nagrywanie</lengthvariant>
-            <lengthvariant>Zatrzymaj rejestrowanie</lengthvariant>
-        </translation>
+        <translation>Zatrzymaj rejestrowanie</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
