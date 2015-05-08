@@ -9479,62 +9479,50 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl strzałki 9</translation>
     </message>
     <message>
@@ -9836,7 +9824,6 @@ slajdu</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Więcej kolorów linii</translation>
     </message>
     <message>

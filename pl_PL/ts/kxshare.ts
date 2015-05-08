@@ -5619,7 +5619,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Porada</translation>
     </message>
     <message>

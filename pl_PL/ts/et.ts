@@ -1219,94 +1219,157 @@ condition is true:</source>
     <name>KxConditionHighLightDlg</name>
     <message>
         <source>HighLight - Numerial</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Wyróżnienie - Numeryczne</lengthvariant>
-            <lengthvariant>Wyróżnienie - Liczbowe</lengthvariant>
+        <translation variants="yes">
+            <lengthvariant>Wyróżnienie - Numeryczny</lengthvariant>
+            <lengthvariant>Wyróżnienie - Liczbowy</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_Equal</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Równe</lengthvariant>
+            <lengthvariant>Liczbowy_Równe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_NoEqual</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Nie równe</lengthvariant>
+            <lengthvariant>Liczbowy_Nie równe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_Large</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Większe</lengthvariant>
+            <lengthvariant>Liczbowy_Większe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_LargeEqual</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Większe lub równe</lengthvariant>
+            <lengthvariant>Liczbowy_Większe lub równe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_Less</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Mniejsze</lengthvariant>
+            <lengthvariant>Liczbowy_Mniejsze</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_LessEqual</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Mniejsze lub równe</lengthvariant>
+            <lengthvariant>Liczbowy_Mniejsze lub równe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_BetweenMidfix</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Między środek</lengthvariant>
+            <lengthvariant>Liczbowy_Między środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_BetweenSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Między Sufiks</lengthvariant>
+            <lengthvariant>Liczbowy_Między Sufiks</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_Between</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Między</lengthvariant>
+            <lengthvariant>Liczbowy_Między</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_NoBetween</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Nie między</lengthvariant>
+            <lengthvariant>Liczbowy_Nie między</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_TopCountPrefix</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Górna liczba Prefiks</lengthvariant>
+            <lengthvariant>Liczbowy_Górna liczba Prefiks</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_TopCountSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Górna liczba Sufiks</lengthvariant>
+            <lengthvariant>Liczbowy_Górna liczba Sufiks</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_LowCountPrefix</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Dolna liczba Prefiks</lengthvariant>
+            <lengthvariant>Liczbowy_Dolna liczba Prefiks</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_LowCountSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Dolna liczba Sufiks</lengthvariant>
+            <lengthvariant>Liczbowy_Dolna liczba Sufiks</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_TopPercentPrefix</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Górny procent Prefiks</lengthvariant>
+            <lengthvariant>Liczbowy_Górny procent Prefiks</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_TopPercentSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Górny procent Sufiks</lengthvariant>
+            <lengthvariant>Liczbowy_Górny procent Sufiks</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_LowPercentPrefix</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Dolny procent Prefiks</lengthvariant>
+            <lengthvariant>Liczbowy_Dolny procent Prefiks</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_LowPercentSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Dolny procent Sufiks</lengthvariant>
+            <lengthvariant>Liczbowy_Dolny procent Sufiks</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_AvgSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Średnia Sufiks</lengthvariant>
+            <lengthvariant>Liczbowy_Średnia Sufiks</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_AvgAbove</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Powyżej średniej</lengthvariant>
+            <lengthvariant>Liczbowy_Powyżej średniej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Numerial_AvgBelow</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Numeryczny_Poniżej średniej</lengthvariant>
+            <lengthvariant>Liczbowy_Poniżej średniej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>HighLight - Text</source>
@@ -1330,7 +1393,6 @@ condition is true:</source>
     </message>
     <message>
         <source>HighLight - Date</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Wyróżnienie - Data</translation>
     </message>
     <message>
@@ -5730,7 +5792,6 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>M&amp;erge...</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>S&amp;cal...</lengthvariant>
             <lengthvariant>S&amp;calanie...</lengthvariant>

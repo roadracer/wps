@@ -21,7 +21,6 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Wyróżnienie</lengthvariant>
             <lengthvariant>Uwydatnienie</lengthvariant>
@@ -1463,7 +1462,6 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Set as Default(&amp;C)</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Ustaw jako domyślny (&amp;C)</lengthvariant>
             <lengthvariant>Ustaw jako domyślną (&amp;C)</lengthvariant>

@@ -3548,7 +3548,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Normalny</lengthvariant>
             <lengthvariant>Normalna</lengthvariant>
@@ -5438,7 +5437,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Preserve</source>
-        <translatorcomment>Zachowywanie</translatorcomment>
         <translation>Zachowaj</translation>
     </message>
     <message>

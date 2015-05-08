@@ -1496,10 +1496,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>ConditionNumerialTopPercent</source>
-        <translation variants="yes">
-            <lengthvariant>Warunek numeryczny - Górna liczba</lengthvariant>
-            <lengthvariant>Warunek liczbowy - Górny procent</lengthvariant>
-        </translation>
+        <translation>Warunek liczbowy - Górny procent</translation>
     </message>
     <message>
         <source>ConditionSpecial</source>
@@ -4590,10 +4587,7 @@ używane</translation>
     </message>
     <message>
         <source>ConditionNumerialTopPercent</source>
-        <translation variants="yes">
-            <lengthvariant>Warunek numeryczny - Górna liczba</lengthvariant>
-            <lengthvariant>Warunek liczbowy - Górny procent</lengthvariant>
-        </translation>
+        <translation>Warunek liczbowy - Górny procent</translation>
     </message>
     <message>
         <source>ConditionSpecial</source>
@@ -8341,7 +8335,6 @@ COM</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Formaty</translation>
     </message>
     <message>
@@ -10581,10 +10574,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>ConditionNumerialTopPercent</source>
-        <translation variants="yes">
-            <lengthvariant>Warunek numeryczny - Górna liczba</lengthvariant>
-            <lengthvariant>Warunek liczbowy - Górny procent</lengthvariant>
-        </translation>
+        <translation>Warunek liczbowy - Górny procent</translation>
     </message>
     <message>
         <source>ConditionSpecial</source>

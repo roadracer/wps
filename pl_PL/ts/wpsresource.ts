@@ -9640,7 +9640,6 @@ formatów</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translatorcomment>Pisownia</translatorcomment>
         <translation>Sprawdzanie pisowni</translation>
     </message>
     <message>
