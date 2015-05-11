@@ -6,10 +6,7 @@
     <name>AdvQueryDlgUi</name>
     <message>
         <source>Advanced Query</source>
-        <translation variants="yes">
-            <lengthvariant>Zaawansowana kwerenda</lengthvariant>
-            <lengthvariant>Zaawansowana zapytanie</lengthvariant>
-        </translation>
+        <translation>Zaawansowana kwerenda</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -84,7 +81,7 @@
         <source>Column Width Selector</source>
         <translation variants="yes">
             <lengthvariant>Selektor szerokości kolumn</lengthvariant>
-            <lengthvariant>Wybór szerokości kolumn</lengthvariant>
+            <lengthvariant>Wybierak szerokości kolumn</lengthvariant>
         </translation>
     </message>
 </context>
@@ -111,10 +108,7 @@
     <name>ConnectPageUi</name>
     <message>
         <source>Step 1 : Select data source</source>
-        <translation variants="yes">
-            <lengthvariant>Krok 1: Wybierz źródło danych</lengthvariant>
-            <lengthvariant>Etap 1: Wybierz źródło danych</lengthvariant>
-        </translation>
+        <translation>Krok 1: Wybierz źródło danych</translation>
     </message>
     <message>
         <source>Select data source</source>
@@ -260,10 +254,7 @@
     </message>
     <message>
         <source>Click Read-Write to open it for editing.</source>
-        <translation variants="yes">
-            <lengthvariant>Kliknij przycisk Do odczytu i zapisu, aby otworzyć do edycji.</lengthvariant>
-            <lengthvariant>Wybierz przycisk Do odczytu i zapisu, aby otworzyć do edycji.</lengthvariant>
-        </translation>
+        <translation>Kliknij przycisk Odczyt/Zapis, aby otworzyć do edycji.</translation>
     </message>
     <message>
         <source>Read-&amp;Write</source>
@@ -302,17 +293,11 @@
     </message>
     <message>
         <source>&amp;Advanced Query...</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Zaawansowana kwerenda...</lengthvariant>
-            <lengthvariant>&amp;Zaawansowana zapytanie...</lengthvariant>
-        </translation>
+        <translation>&amp;Zaawansowana kwerenda...</translation>
     </message>
     <message>
         <source>Input query &amp;statement directly</source>
-        <translation variants="yes">
-            <lengthvariant>In&amp;strukcja wprowadzania kwerendy bezpośrednio</lengthvariant>
-            <lengthvariant>In&amp;strukcja wprowadzania zapytania bezpośrednio</lengthvariant>
-        </translation>
+        <translation>In&amp;strukcja wprowadzania kwerendy bezpośrednio</translation>
     </message>
     <message>
         <source>Explanation</source>
@@ -320,18 +305,14 @@
     </message>
     <message>
         <source>You can click Advanced Query to sort and filter more complicated data, if it still cannot satisfy your requirement, you can input the query statement directly.</source>
-        <translation variants="yes">
-            <lengthvariant>Możesz kliknąć Zaawansowana kwerenda, aby sortować i filtrować bardziej skomplikowane dane. Jeżeli to nadal nie spełnia Twoich wymagań, możesz bezpośrednio wprowadzić instrukcję kwerendy.</lengthvariant>
-            <lengthvariant>Możesz kliknąć Zaawansowane zapytanie, aby sortować i filtrować bardziej skomplikowane dane. Jeżeli to nadal nie spełnia Twoich wymagań, możesz bezpośrednio wprowadzić instrukcję zapytania.</lengthvariant>
-            <lengthvariant>Możesz kliknąć Zaawansowane opcje kwerendy, aby sortować i filtrować bardziej skomplikowane dane. Jeżeli to nadal nie spełnia Twoich wymagań, możesz bezpośrednio wprowadzić instrukcję kwerendy.</lengthvariant>
-        </translation>
+        <translation>Możesz kliknąć Zaawansowana kwerenda, aby sortować i filtrować bardziej skomplikowane dane. Jeżeli to nadal nie spełnia Twoich wymagań, możesz bezpośrednio wprowadzić instrukcję kwerendy.</translation>
     </message>
 </context>
 <context>
     <name>GrpboxCondition</name>
     <message>
         <source>Grpbox Condition</source>
-        <translation>Warunek Grpbox</translation>
+        <translation>Warunek Pole grupy</translation>
     </message>
     <message>
         <source>Cell value is</source>
@@ -415,11 +396,7 @@ condition is true:</source>
     <name>InsertFunctionLabel</name>
     <message>
         <source>I want to comment function</source>
-        <translation variants="yes">
-            <lengthvariant>Chcę funkcję komentarz</lengthvariant>
-            <lengthvariant>Chcę skomentować funkcję</lengthvariant>
-            <lengthvariant>Chciałbym wypowiedzieć się na temat funkcji</lengthvariant>
-        </translation>
+        <translation>Chcę dodać komentarz do funkcji</translation>
     </message>
 </context>
 <context>
@@ -438,7 +415,7 @@ condition is true:</source>
     <message>
         <source>Loading KUI</source>
         <translation variants="yes">
-            <lengthvariant>Ładowanie KUI</lengthvariant>
+            <lengthvariant>Ładowanie KUI!</lengthvariant>
             <lengthvariant>Wczytywanie KUI</lengthvariant>
         </translation>
     </message>
@@ -688,7 +665,7 @@ condition is true:</source>
     </message>
     <message>
         <source>(Showing all)</source>
-        <translation>(Widoczne wszystkie)</translation>
+        <translation>(Pokaż wszystkie)</translation>
     </message>
     <message>
         <source>And</source>
@@ -1085,7 +1062,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation>Wartość powinna zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość powinna zawierać w przedziale między %1 i %2.</translation>
     </message>
 </context>
 <context>
@@ -1103,7 +1080,7 @@ condition is true:</source>
     </message>
     <message>
         <source>You need to have the right to access the database:</source>
-        <translation>Musisz mieć prawo do dostępu do bazy danych:</translation>
+        <translation>Musisz mieć prawo dostępu do bazy danych:</translation>
     </message>
     <message>
         <source>&amp;Username:</source>
@@ -1462,8 +1439,8 @@ condition is true:</source>
     <message>
         <source>required range values is not enough</source>
         <translation variants="yes">
-            <lengthvariant>za małe wartości wymaganego zakresu</lengthvariant>
-            <lengthvariant>nie wystarczające wartości wymaganego zakresu</lengthvariant>
+            <lengthvariant>wymagany zakres wartości jest za mały</lengthvariant>
+            <lengthvariant>wymagany zakres wartości jest niewystarczający</lengthvariant>
         </translation>
     </message>
 </context>
@@ -1838,10 +1815,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>C&amp;opy to another location</source>
-        <translation variants="yes">
-            <lengthvariant>K&amp;opiuj w inne miejsce</lengthvariant>
-            <lengthvariant>K&amp;opiuj do innej lokalizacji</lengthvariant>
-        </translation>
+        <translation>K&amp;opiuj do innej lokalizacji</translation>
     </message>
     <message>
         <source>&amp;List range:</source>
@@ -2020,11 +1994,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>&amp;Multiply</source>
-        <translation variants="yes">
-            <lengthvariant>Po&amp;mnóż</lengthvariant>
-            <lengthvariant>&amp;Mnożenie</lengthvariant>
-            <lengthvariant>Prze&amp;mnóż</lengthvariant>
-        </translation>
+        <translation>Po&amp;mnóż</translation>
     </message>
     <message>
         <source>A&amp;dd</source>
@@ -2101,10 +2071,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <name>KxDlgConditionHighLight</name>
     <message>
         <source>Condition HighLight</source>
-        <translation variants="yes">
-            <lengthvariant>Stan wyróżnienia</lengthvariant>
-            <lengthvariant>Formatowanie warunkowe wyróżnienia</lengthvariant>
-        </translation>
+        <translation>Wyróżnij Formatowanie warunkowe</translation>
     </message>
     <message>
         <source>cells with following condition</source>
@@ -2158,7 +2125,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <name>KxDlgConfirmPasswordOfRange</name>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place. (Remember that passwords are case-sensitive.)</source>
-        <translation>Ostrzeżenie: Nie można odzyskać zagubionego albo zapomnianego hasła. Pamiętaj, że wielkość liter w hasłach jest rozróżniana. Zalecane jest przechowywanie listy haseł i odpowiadających im nazw skoroszytów i arkuszy w bezpiecznym miejscu. (Pamiętaj, że w hasłach rozróżniane są wielkie i małe litery)</translation>
+        <translation>Ostrzeżenie: Nie można odzyskać zagubionego albo zapomnianego hasła. Pamiętaj, że wielkość liter w hasłach jest rozróżniana. Zalecane jest przechowywanie listy haseł oraz odpowiadających im nazw skoroszytów i arkuszy w bezpiecznym miejscu. (Pamiętaj, że w hasłach rozróżniane są wielkie i małe litery)</translation>
     </message>
     <message>
         <source>Repeat Password</source>
@@ -2185,7 +2152,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place.(Remember that passwords are case-sensitive.)</source>
-        <translation>Ostrzeżenie: Nie można odzyskać zagubionego albo zapomnianego hasła. Pamiętaj, że wielkość liter w hasłach jest rozróżniana. Zalecane jest przechowywanie listy haseł i odpowiadających im nazw skoroszytów i arkuszy w bezpiecznym miejscu. (Pamiętaj, że w hasłach rozróżniane są wielkie i małe litery)</translation>
+        <translation>Ostrzeżenie: Nie można odzyskać zagubionego albo zapomnianego hasła. Pamiętaj, że wielkość liter w hasłach jest rozróżniana. Zalecane jest przechowywanie listy haseł oraz odpowiadających im nazw skoroszytów i arkuszy w bezpiecznym miejscu. (Pamiętaj, że w hasłach rozróżniane są wielkie i małe litery)</translation>
     </message>
 </context>
 <context>
@@ -2204,10 +2171,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>&amp;Reference:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Odwołanie:</lengthvariant>
-            <lengthvariant>&amp;Odniesienie:</lengthvariant>
-        </translation>
+        <translation>&amp;Odwołanie:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -2215,17 +2179,11 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>All r&amp;eferences:</source>
-        <translation variants="yes">
-            <lengthvariant>Wszystkie o&amp;dwołania:</lengthvariant>
-            <lengthvariant>Wszystkie o&amp;dniesienia:</lengthvariant>
-        </translation>
+        <translation>Wszystkie o&amp;dwołania:</translation>
     </message>
     <message>
         <source>lbx All References</source>
-        <translation variants="yes">
-            <lengthvariant>lbx Wszystkie odwołania</lengthvariant>
-            <lengthvariant>lbx Wszystkie odniesienia</lengthvariant>
-        </translation>
+        <translation>lbx Wszystkie odwołania</translation>
     </message>
     <message>
         <source>asdf</source>
@@ -2345,8 +2303,8 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <message>
         <source>Choose where you want the pivotTable to be placed</source>
         <translation variants="yes">
-            <lengthvariant>Proszę wybrać miejsce gdzie chcesz, aby umieścić tabelę przestawną</lengthvariant>
-            <lengthvariant>Wybierz, gdzie należy umieścić tabelę przestawną</lengthvariant>
+            <lengthvariant>Proszę wybrać miejsce gdzie chcesz umieścić tabelę przestawną</lengthvariant>
+            <lengthvariant>Wybierz, gdzie chcesz umieścić tabelę przestawną</lengthvariant>
         </translation>
     </message>
     <message>
@@ -2510,10 +2468,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Shift cells &amp;up</source>
-        <translation variants="yes">
-            <lengthvariant>Przesuń komórki w &amp;górę</lengthvariant>
-            <lengthvariant>Przesuń komórki do &amp;góry</lengthvariant>
-        </translation>
+        <translation>Przesuń komórki w &amp;górę</translation>
     </message>
     <message>
         <source>Entire &amp;row</source>
@@ -2540,10 +2495,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Delete Conditional Format</source>
-        <translation variants="yes">
-            <lengthvariant>Usuwanie formatowania warunkowego</lengthvariant>
-            <lengthvariant>Usuń formatowanie warunkowe</lengthvariant>
-        </translation>
+        <translation>Usuń formatowanie warunkowe</translation>
     </message>
     <message>
         <source>Select the conditions to delete:</source>
@@ -2636,11 +2588,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>ErrorType</source>
-        <translation variants="yes">
-            <lengthvariant>Typ.błędu</lengthvariant>
-            <lengthvariant>Nr.błędu</lengthvariant>
-            <lengthvariant>ErrorType</lengthvariant>
-        </translation>
+        <translation>Typ błędu</translation>
     </message>
     <message>
         <source>FixItem1</source>
@@ -2670,10 +2618,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Poprzedni</lengthvariant>
-            <lengthvariant>Poprzednia</lengthvariant>
-        </translation>
+        <translation>&amp;Poprzedni</translation>
     </message>
     <message>
         <source>&amp;Next</source>
@@ -2729,7 +2674,6 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation variants="yes">
             <lengthvariant>Wypełniaj w arkuszach</lengthvariant>
             <lengthvariant>Wypełnianie w arkuszach</lengthvariant>
-            <lengthvariant>Wypełnij we wszystkich arkuszach</lengthvariant>
         </translation>
     </message>
     <message>
@@ -2791,17 +2735,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>By rows</source>
-        <translation variants="yes">
-            <lengthvariant>Według wierszy</lengthvariant>
-            <lengthvariant>Przez wiersze</lengthvariant>
-        </translation>
+        <translation>Według wierszy</translation>
     </message>
     <message>
         <source>By columns</source>
-        <translation variants="yes">
-            <lengthvariant>Według kolumn</lengthvariant>
-            <lengthvariant>Przez kolumny</lengthvariant>
-        </translation>
+        <translation>Według kolumn</translation>
     </message>
     <message>
         <source>Match entire cell c&amp;ontents</source>
@@ -2813,10 +2751,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Smart</source>
-        <translation variants="yes">
-            <lengthvariant>Inteligentny</lengthvariant>
-            <lengthvariant>Inteligentne</lengthvariant>
-        </translation>
+        <translation>Inteligentne</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -3167,10 +3102,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>degree, 0, -360000, 360000, 1</source>
-        <translation variants="yes">
-            <lengthvariant>stopni, 0, -360000, 360000, 1</lengthvariant>
-            <lengthvariant>stopień, 0, -360000, 360000, 1</lengthvariant>
-        </translation>
+        <translation>stopień, 0, -360000, 360000, 1</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -3204,10 +3136,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Lock &amp;aspect ratio</source>
-        <translation variants="yes">
-            <lengthvariant>Zablokuj &amp;współczynnik proporcji</lengthvariant>
-            <lengthvariant>Blokuj &amp;współczynnik proporcji</lengthvariant>
-        </translation>
+        <translation>Zablokuj &amp;współczynnik proporcji</translation>
     </message>
     <message>
         <source>Original Size</source>
@@ -3409,10 +3338,7 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgInsertCells</name>
     <message>
         <source>Insert</source>
-        <translation variants="yes">
-            <lengthvariant>Wstawianie</lengthvariant>
-            <lengthvariant>Wstaw</lengthvariant>
-        </translation>
+        <translation>Wstaw</translation>
     </message>
     <message>
         <source>Shift cells r&amp;ight</source>
@@ -3481,17 +3407,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Function Prototype Label</source>
-        <translation variants="yes">
-            <lengthvariant>Etykieta Prototyp funkcji</lengthvariant>
-            <lengthvariant>Funkcja Prototyp etykiety</lengthvariant>
-        </translation>
+        <translation>Etykieta Prototyp funkcji</translation>
     </message>
     <message>
         <source>Function Description Label</source>
-        <translation variants="yes">
-            <lengthvariant>Etykieta Opis funkcji</lengthvariant>
-            <lengthvariant>Funkcja Opis etykiety</lengthvariant>
-        </translation>
+        <translation>Etykieta Opis funkcji</translation>
     </message>
     <message>
         <source>Common Formula</source>
@@ -3576,7 +3496,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert &amp;count:</source>
-        <translation>Wstaw &amp;licznik:</translation>
+        <translation>Wstaw &amp;liczbę:</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -3711,7 +3631,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Datetime</source>
-        <translation>DataGodzina</translation>
+        <translation>Data i godzina</translation>
     </message>
     <message>
         <source>Open Excel Shared Workbook</source>
@@ -3723,7 +3643,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Switch to WPS Spreadsheets Shared Workbook</source>
-        <translation>&amp;Przełącz do skoroszytu udostępnionego WPS Spreadsheets</translation>
+        <translation>&amp;Przełącz do skoroszytu udostępnionego programu WPS Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -4138,10 +4058,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Reenter &amp;password to open:</source>
-        <translation variants="yes">
-            <lengthvariant>Wpisz ponownie &amp;hasło, aby otworzyć:</lengthvariant>
-            <lengthvariant>Wpisz ponownie &amp;hasło otwarcia:</lengthvariant>
-        </translation>
+        <translation>Wpisz ponownie &amp;hasło, aby otworzyć:</translation>
     </message>
     <message>
         <source>File sharing options for this workbook</source>
@@ -4206,7 +4123,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>GroupBox</source>
         <translation variants="yes">
-            <lengthvariant>PoleGrupy</lengthvariant>
+            <lengthvariant>Pole grupy</lengthvariant>
             <lengthvariant>groupBox</lengthvariant>
         </translation>
     </message>
@@ -4220,10 +4137,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Words &amp;in current dictionary:</source>
-        <translation variants="yes">
-            <lengthvariant>Wyrazy &amp;w bieżącym słowniku:</lengthvariant>
-            <lengthvariant>Słowa &amp;w bieżącym słowniku:</lengthvariant>
-        </translation>
+        <translation>Wyrazy &amp;w bieżącym słowniku:</translation>
     </message>
     <message>
         <source>D&amp;elete</source>
@@ -4235,10 +4149,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tab style</source>
-        <translation variants="yes">
-            <lengthvariant>Styl karty</lengthvariant>
-            <lengthvariant>Styl tabulatora</lengthvariant>
-        </translation>
+        <translation>Styl karty</translation>
     </message>
     <message>
         <source>&amp;Autofit the tab width</source>
@@ -4292,10 +4203,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation variants="yes">
-            <lengthvariant>U&amp;ruchomienie okna zadań</lengthvariant>
-            <lengthvariant>Autosta&amp;rt okna zadań</lengthvariant>
-        </translation>
+        <translation>Autosta&amp;rt okna zadań</translation>
     </message>
     <message>
         <source>&amp;Row and column h&amp;eadings</source>
@@ -4402,10 +4310,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Set as Default</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Ustaw jako domyślny</lengthvariant>
-            <lengthvariant>&amp;Ustaw jako domyślną</lengthvariant>
-        </translation>
+        <translation>&amp;Ustaw jako domyślny</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -4421,10 +4326,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
-        <translation variants="yes">
-            <lengthvariant>Kliknij dwukrotnie w obszarze, aby utworzyć &amp;nowy dokument</lengthvariant>
-            <lengthvariant>Kliknij dwukrotnie w przestrzeni, aby utworzyć &amp;nowy dokument</lengthvariant>
-        </translation>
+        <translation>Kliknij dwukrotnie w obszarze, aby utworzyć &amp;nowy dokument</translation>
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
@@ -4434,7 +4336,6 @@ p, li { white-space: pre-wrap; }
         <source>Create &amp;backup files on first save</source>
         <translation variants="yes">
             <lengthvariant>Utwórz &amp;kopię zapasową plików przy pierwszym zapisie</lengthvariant>
-            <lengthvariant>Utwórz &amp;kopię zapasową plików podczas pierwszego zapisu</lengthvariant>
             <lengthvariant>Tworzenie &amp;kopii zapasowej plików podczas pierwszego zapisu</lengthvariant>
         </translation>
     </message>
@@ -4609,7 +4510,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Page 1 Sheet1</source>
-        <translation>Page 1 Arkusz1</translation>
+        <translation>Strona 1 Arkusz1</translation>
     </message>
     <message>
         <source>&amp;Custom Header...</source>
@@ -4665,10 +4566,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;Blank&gt;</source>
-        <translation variants="yes">
-            <lengthvariant>&lt;Pusty&gt;</lengthvariant>
-            <lengthvariant>&lt;Puste&gt;</lengthvariant>
-        </translation>
+        <translation>&lt;Puste&gt;</translation>
     </message>
     <message>
         <source>--</source>
@@ -5060,10 +4958,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgProtectAndShareWorkbook</name>
     <message>
         <source>Protect workbook for</source>
-        <translation variants="yes">
-            <lengthvariant>Chroń skoroszyt dla</lengthvariant>
-            <lengthvariant>Chroń skoroszyt do</lengthvariant>
-        </translation>
+        <translation>Chroń skoroszyt dla</translation>
     </message>
     <message>
         <source>Sharing with track changes.</source>
@@ -5077,7 +4972,8 @@ change tracking from being removed.</source>
     <message>
         <source>If desired, a password must be chosen now, 
 prior to sharing the workbook.</source>
-        <translation>Jeśli trzeba, hasło należy wybrać teraz, przed udostępnianiem skoroszytu.</translation>
+        <translation>Jeśli trzeba, hasło należy wybrać teraz, 
+przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>&amp;Password(optional):</source>
@@ -5178,10 +5074,7 @@ prior to sharing the workbook.</source>
     <name>KxDlgRecordForm</name>
     <message>
         <source>Ne&amp;w</source>
-        <translation variants="yes">
-            <lengthvariant>No&amp;wy</lengthvariant>
-            <lengthvariant>No&amp;we</lengthvariant>
-        </translation>
+        <translation>No&amp;wy</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -5282,7 +5175,7 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     </message>
     <message>
         <source>It compares the contents by rows after clicking OK.</source>
-        <translation>Porównuje zawartość według wierszy po kliknięciu OK.</translation>
+        <translation>Porównuje zawartość według wierszy po kliknięciu przycisku OK.</translation>
     </message>
 </context>
 <context>
@@ -5377,10 +5270,7 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     </message>
     <message>
         <source>All</source>
-        <translation variants="yes">
-            <lengthvariant>Wszystkie</lengthvariant>
-            <lengthvariant>Wszystko</lengthvariant>
-        </translation>
+        <translation>Wszystkie</translation>
     </message>
     <message>
         <source>Not yet reviewed</source>
@@ -5546,7 +5436,8 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     <message>
         <source>&amp;Allow changes by more than one user at the same time.
 This also allows workbook merging.</source>
-        <translation>Pozw&amp;alaj na zmiany wprowadzane jednocześnie przez wielu użytkowników. To również pozwala scalać skoroszyty.</translation>
+        <translation>Pozw&amp;alaj na zmiany wprowadzane jednocześnie przez wielu użytkowników.
+Pozwala to również scalać skoroszyty.</translation>
     </message>
     <message>
         <source>&amp;Who has this workbook open now:</source>
@@ -5614,10 +5505,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>No header ro&amp;w</source>
-        <translation variants="yes">
-            <lengthvariant>Bez wiersza nagłów&amp;ka</lengthvariant>
-            <lengthvariant>Nie ma wiersza nagłów&amp;ka</lengthvariant>
-        </translation>
+        <translation>Bez wiersza nagłów&amp;ka</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -5636,10 +5524,7 @@ This also allows workbook merging.</source>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation variants="yes">
-            <lengthvariant>Uwzględniaj wielkość &amp;liter</lengthvariant>
-            <lengthvariant>Uwzględnij wielkość &amp;liter</lengthvariant>
-        </translation>
+        <translation>Uwzględnij wielkość &amp;liter</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -6243,17 +6128,11 @@ Jeśli tak jest, wybierz przycisk Dalej lub wybierz typ najlepiej opisujący Two
     </message>
     <message>
         <source>between</source>
-        <translation variants="yes">
-            <lengthvariant>między</lengthvariant>
-            <lengthvariant>pomiędzy</lengthvariant>
-        </translation>
+        <translation>między</translation>
     </message>
     <message>
         <source>not between</source>
-        <translation variants="yes">
-            <lengthvariant>nie między</lengthvariant>
-            <lengthvariant>nie pomiędzy</lengthvariant>
-        </translation>
+        <translation>nie między</translation>
     </message>
     <message>
         <source>equal to</source>
@@ -6445,10 +6324,7 @@ Jeśli tak jest, wybierz przycisk Dalej lub wybierz typ najlepiej opisujący Two
     </message>
     <message>
         <source>Unknown</source>
-        <translation variants="yes">
-            <lengthvariant>Nieznany</lengthvariant>
-            <lengthvariant>Nieznane</lengthvariant>
-        </translation>
+        <translation>Nieznane</translation>
     </message>
     <message>
         <source>Not applicable</source>
@@ -6494,10 +6370,7 @@ Jeśli tak jest, wybierz przycisk Dalej lub wybierz typ najlepiej opisujący Two
     <name>KxEditOLEDBQueryDlg</name>
     <message>
         <source>Connection string or SQL has errors. WPS Spreadsheets can not import the data.</source>
-        <translation variants="yes">
-            <lengthvariant>Ciąg połączenia lub SQL ma błędy. Program WPS Spreadsheets nie może zaimportować danych.</lengthvariant>
-            <lengthvariant>Ciąg połączenia lub kod SQL ma błędy. Program WPS Spreadsheets nie może zaimportować danych.</lengthvariant>
-        </translation>
+        <translation>Ciąg połączenia lub SQL ma błędy. Program WPS Spreadsheets nie może zaimportować danych.</translation>
     </message>
     <message>
         <source>Edit Query</source>
@@ -6880,10 +6753,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <name>KxEtReadingLayoutColorModel</name>
     <message>
         <source>Default</source>
-        <translation variants="yes">
-            <lengthvariant>Domyślny</lengthvariant>
-            <lengthvariant>Domyślne</lengthvariant>
-        </translation>
+        <translation>Domyślnie</translation>
     </message>
 </context>
 <context>
@@ -6966,10 +6836,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Fill &amp;Weekdays</source>
-        <translation variants="yes">
-            <lengthvariant>Wypełnij &amp;dniami tygodnia</lengthvariant>
-            <lengthvariant>Wypełnij &amp;dniami powszednimi</lengthvariant>
-        </translation>
+        <translation>Wypełnij &amp;dniami tygodnia</translation>
     </message>
     <message>
         <source>Fill &amp;Months</source>
@@ -6999,19 +6866,11 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <name>KxEtTop10Autofilter</name>
     <message>
         <source>Top</source>
-        <translation variants="yes">
-            <lengthvariant>Górne</lengthvariant>
-            <lengthvariant>Górny</lengthvariant>
-            <lengthvariant>Pierwsze</lengthvariant>
-        </translation>
+        <translation>Pierwsze</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Dolne</lengthvariant>
-            <lengthvariant>Dolny</lengthvariant>
-            <lengthvariant>Ostatnie</lengthvariant>
-        </translation>
+        <translation>Ostatnie</translation>
     </message>
     <message>
         <source>Items</source>
@@ -7106,11 +6965,11 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation>Proszę wpisać hasło ustawienia uprawnień!</translation>
+        <translation>Proszę wprowadź hasło ustawienia uprawnień!</translation>
     </message>
     <message>
         <source>Save PDF File</source>
-        <translation>Zapisz plik Adobe PDF</translation>
+        <translation>Zapisz plik PDF</translation>
     </message>
 </context>
 <context>
@@ -7160,7 +7019,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to PDF.</source>
-        <translation>WPS Spreadsheets napotkał błąd podczas próby eksportowania do formatu PDF.</translation>
+        <translation>Program WPS Spreadsheets napotkał błąd podczas próby eksportowania do formatu PDF.</translation>
     </message>
 </context>
 <context>
@@ -7368,7 +7227,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation>Czcionka jest przeznaczony dla plotera.</translation>
+        <translation>Czcionka jest przeznaczona dla plotera.</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
@@ -7421,7 +7280,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation>Czcionka jest przeznaczony dla plotera.</translation>
+        <translation>Czcionka jest przeznaczona dla plotera.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -7511,7 +7370,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation>Czcionka jest przeznaczony dla plotera.</translation>
+        <translation>Czcionka jest przeznaczona dla plotera.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -7526,7 +7385,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <name>KxFormatGraphicDlg</name>
     <message>
         <source>Value should be between %1 %3 and %2 %3.</source>
-        <translation>Wartość powinna zawierać się pomiędzy %1 %3 a %2 %3.</translation>
+        <translation>Wartość powinna zawierać w przedziale między %1 %3 i %2 %3.</translation>
     </message>
     <message>
         <source>pt</source>
@@ -7729,11 +7588,7 @@ na iteracji #%2.</translation>
     <name>KxInsertFunctionDlg</name>
     <message>
         <source>I want to comment function</source>
-        <translation variants="yes">
-            <lengthvariant>Chcę funkcję komentarz</lengthvariant>
-            <lengthvariant>Chcę skomentować funkcję</lengthvariant>
-            <lengthvariant>Chciałbym wypowiedzieć się na temat funkcji</lengthvariant>
-        </translation>
+        <translation>Chcę dodać komentarz do funkcji</translation>
     </message>
     <message>
         <source>Recommend</source>
@@ -7990,7 +7845,7 @@ na iteracji #%2.</translation>
     </message>
     <message>
         <source>Delete from &amp;List</source>
-        <translation>Usuń z &amp;Listy</translation>
+        <translation>Usuń z &amp;listy</translation>
     </message>
     <message>
         <source>Delete from &amp;Disk</source>
@@ -8168,10 +8023,7 @@ na iteracji #%2.</translation>
     </message>
     <message>
         <source>There is no Active Printer available at the moment.</source>
-        <translation variants="yes">
-            <lengthvariant>Aktywna drukarka nie jest dostępna w tej chwili.</lengthvariant>
-            <lengthvariant>W tej chwili nie jest dostępna żadna aktywna drukarka.</lengthvariant>
-        </translation>
+        <translation>W tej chwili nie jest dostępna żadna aktywna drukarka.</translation>
     </message>
     <message>
         <source>Cannot show the properties dialog box because the printer encountered an error.</source>
@@ -8197,10 +8049,7 @@ na iteracji #%2.</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Pełny</lengthvariant>
-            <lengthvariant>Stały</lengthvariant>
-        </translation>
+        <translation>Pełny</translation>
     </message>
     <message>
         <source>75% Gray</source>
@@ -8326,19 +8175,11 @@ na iteracji #%2.</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation variants="yes">
-            <lengthvariant>Górne</lengthvariant>
-            <lengthvariant>Górny</lengthvariant>
-            <lengthvariant>Pierwsze</lengthvariant>
-        </translation>
+        <translation>Pierwsze</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Dolne</lengthvariant>
-            <lengthvariant>Dolny</lengthvariant>
-            <lengthvariant>Ostatnie</lengthvariant>
-        </translation>
+        <translation>Ostatnie</translation>
     </message>
     <message>
         <source>&amp;Using field:</source>
@@ -8861,10 +8702,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>No Constraints to change.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie ma ograniczeń do zmiany.</lengthvariant>
-            <lengthvariant>Brak ograniczeń do zmiany.</lengthvariant>
-        </translation>
+        <translation>Brak ograniczeń do zmiany.</translation>
     </message>
     <message>
         <source>IPOPT Nonlinear</source>
@@ -9004,7 +8842,7 @@ system will remind checking the correctness of the contents.
     <name>KxStylesMergeDlg</name>
     <message>
         <source>Too many different cell formats.</source>
-        <translation>Za dużo różnych formatów komórek.</translation>
+        <translation>Zbyt dużo różnych formatów komórek.</translation>
     </message>
 </context>
 <context>
@@ -9073,10 +8911,7 @@ system will remind checking the correctness of the contents.
     </message>
     <message>
         <source>Immediate apply</source>
-        <translation variants="yes">
-            <lengthvariant>Zastosuj bezpośrednio</lengthvariant>
-            <lengthvariant>Zastosowanie bezpośrednie</lengthvariant>
-        </translation>
+        <translation>Zastosuj bezpośrednio</translation>
     </message>
     <message>
         <source>Add to &amp;Page Area</source>
@@ -9198,8 +9033,8 @@ Jeśli nie chcesz w ogóle pokazywać pola, anuluj bieżącą operację, a nast�
 Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
         <translation>W tym skoroszycie istnieją łącza do innych źródeł danych.
 
-•Jeżeli zaktualizujesz łącza, WPS Spreadsheets spróbuje pobrać najnowsze dane.
-•Jeżeli nie zaktualizujesz łącz, WPS Spreadsheets użyje poprzednich danych.
+•Jeżeli zaktualizujesz łącza, program WPS Spreadsheets spróbuje pobrać najnowsze dane.
+•Jeżeli nie zaktualizujesz łącz, program WPS Spreadsheets użyje poprzednich danych.
 
 Zauważ, że łączy danych można używać do uzyskiwania dostępu i udostępniania poufnych informacji bez pozwolenia użytkownika lub do wykonywania innych szkodliwych akcji. Jeżeli nie ufasz źródłom tego skoroszytu, poprostu nie aktualizuj łączy.</translation>
     </message>
@@ -9223,10 +9058,7 @@ Zauważ, że łączy danych można używać do uzyskiwania dostępu i udostępni
     </message>
     <message>
         <source>To Prompt</source>
-        <translation variants="yes">
-            <lengthvariant>Monituj</lengthvariant>
-            <lengthvariant>Monitowanie</lengthvariant>
-        </translation>
+        <translation>Monituj</translation>
     </message>
     <message>
         <source>Use this value/reference for &amp;future refreshes</source>
@@ -9338,10 +9170,7 @@ t</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkuj</lengthvariant>
-            <lengthvariant>Środek</lengthvariant>
-        </translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>Right(Indent)</source>
@@ -9349,10 +9178,7 @@ t</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation variants="yes">
-            <lengthvariant>Wypełnienie</lengthvariant>
-            <lengthvariant>Wypełnij</lengthvariant>
-        </translation>
+        <translation>Wypełnij</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -9411,10 +9237,7 @@ t</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkuj</lengthvariant>
-            <lengthvariant>Środek</lengthvariant>
-        </translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>Right</source>
@@ -9774,7 +9597,6 @@ t</translation>
         <translation variants="yes">
             <lengthvariant>Zab&amp;lokowany</lengthvariant>
             <lengthvariant>Zab&amp;lokowane</lengthvariant>
-            <lengthvariant>Zab&amp;lokuj</lengthvariant>
         </translation>
     </message>
     <message>
@@ -10090,7 +9912,6 @@ t</translation>
         <translation variants="yes">
             <lengthvariant>Zablokowany</lengthvariant>
             <lengthvariant>Zablokowane</lengthvariant>
-            <lengthvariant>Zablokuj</lengthvariant>
         </translation>
     </message>
     <message>
@@ -10721,10 +10542,7 @@ t</translation>
     </message>
     <message>
         <source>&quot;Another user&quot; is editing.</source>
-        <translation variants="yes">
-            <lengthvariant>&quot;Inny użytkownik&quot; edytuje.</lengthvariant>
-            <lengthvariant>&quot;Inny użytkownik&quot; jest edytowany.</lengthvariant>
-        </translation>
+        <translation>&quot;Inny użytkownik&quot; edytuje.</translation>
     </message>
     <message>
         <source>Click Notify to open a read-only copy of the document and receive notification when the document is no longer in use.</source>
@@ -11251,7 +11069,7 @@ t</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalny</translation>
+        <translation>Normalne</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
@@ -11278,10 +11096,7 @@ t</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation variants="yes">
-            <lengthvariant>Opcje eksportowania</lengthvariant>
-            <lengthvariant>Opcje eksportu</lengthvariant>
-        </translation>
+        <translation>Opcje eksportowania</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
@@ -11383,7 +11198,7 @@ t</translation>
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation>Eksportuj do pliku Adobe PDF</translation>
+        <translation>Eksportuj do pliku PDF</translation>
     </message>
 </context>
 <context>
@@ -11406,7 +11221,7 @@ t</translation>
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation>Eksportuj do pliku Adobe PDF</translation>
+        <translation>Eksportuj do pliku PDF</translation>
     </message>
 </context>
 <context>
@@ -11477,10 +11292,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation variants="yes">
-            <lengthvariant>Os&amp;tatnio używane adresy e-mail:</lengthvariant>
-            <lengthvariant>Ni&amp;edawno używane adresy e-mail:</lengthvariant>
-        </translation>
+        <translation>Ni&amp;edawno używane adresy e-mail:</translation>
     </message>
 </context>
 <context>

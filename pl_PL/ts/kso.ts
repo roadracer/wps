@@ -6427,7 +6427,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>Value should be between %s and %s.</source>
         <comment>kso_sValueDeclined_FloatBTWarning</comment>
-        <translation>Wartość powinna zawierać się pomiędzy %s a %s.</translation>
+        <translation>Wartość powinna zawierać w przedziale między %s i %s.</translation>
     </message>
     <message>
         <source>Value should be not less than %s.</source>
@@ -6447,7 +6447,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>Value should be between %d and %d.</source>
         <comment>kso_sValueDeclined_IntBTWarning</comment>
-        <translation>Wartość powinna zawierać się pomiędzy %d a %d.</translation>
+        <translation>Wartość powinna zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>Value should not be less than %d.</source>

@@ -2533,7 +2533,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <name>KxEditWordArtTextDlg</name>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation>Wartość powinna zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość powinna zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
@@ -5801,10 +5801,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation variants="yes">
-            <lengthvariant>Os&amp;tatnio używane adresy e-mail:</lengthvariant>
-            <lengthvariant>Ni&amp;edawno używane adresy e-mail:</lengthvariant>
-        </translation>
+        <translation>Ni&amp;edawno używane adresy e-mail:</translation>
     </message>
 </context>
 <context>

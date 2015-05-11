@@ -287,18 +287,11 @@
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation variants="yes">
-            <lengthvariant>godzina modyfikacji:</lengthvariant>
-            <lengthvariant>zmiana godziny:</lengthvariant>
-            <lengthvariant>zmiana czasu:</lengthvariant>
-        </translation>
+        <translation>godzina modyfikacji:</translation>
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
-        <translation variants="yes">
-            <lengthvariant>Kingsoft Office automatyczna kopia zapasowa</lengthvariant>
-            <lengthvariant>Automatyczna kopia zapasowa Kingsoft Office</lengthvariant>
-        </translation>
+        <translation>Automatyczna kopia zapasowa Kingsoft Office</translation>
     </message>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
@@ -358,8 +351,6 @@
         <translation variants="yes">
             <lengthvariant>Logowanie pliku w trybie awaryjnym przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
             <lengthvariant>Zaloguj plik w trybie awaryjnym przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
-            <lengthvariant>Logowanie bezpiecznego pliku przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
-            <lengthvariant>Zaloguj bezpieczny plik przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
         </translation>
     </message>
     <message>
@@ -367,8 +358,6 @@
         <translation variants="yes">
             <lengthvariant>Logowanie klive przed przeglądaniem wersji.</lengthvariant>
             <lengthvariant>Zaloguj klive przed przeglądaniem wersji.</lengthvariant>
-            <lengthvariant>Logowanie klive przed eksplorowaniem wersji.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed eksplorowaniem wersji.</lengthvariant>
         </translation>
     </message>
     <message>
@@ -397,8 +386,6 @@
         <translation variants="yes">
             <lengthvariant>Logowanie klive przed przeglądaniem katalogu kopii zapasowej.</lengthvariant>
             <lengthvariant>Zaloguj klive przed przeglądaniem katalogu kopii zapasowej.</lengthvariant>
-            <lengthvariant>Logowanie klive przed eksplorowaniem katalogu kopii zapasowej.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed eksplorowaniem katalogu kopii zapasowej.</lengthvariant>
         </translation>
     </message>
     <message>
@@ -420,8 +407,6 @@
         <translation variants="yes">
             <lengthvariant>Logowanie klive przed otwarciem plików.</lengthvariant>
             <lengthvariant>Zaloguj klive przed otwarciem plików.</lengthvariant>
-            <lengthvariant>Logowanie klive przed otwieraniem plików.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed otwieraniem plików.</lengthvariant>
         </translation>
     </message>
     <message>
@@ -429,8 +414,6 @@
         <translation variants="yes">
             <lengthvariant>Logowanie klive przed usunięciem plików.</lengthvariant>
             <lengthvariant>Zaloguj klive przed usunięciem plików.</lengthvariant>
-            <lengthvariant>Logowanie klive przed usuwaniem plików.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed usuwaniem plików.</lengthvariant>
         </translation>
     </message>
     <message>
@@ -2612,10 +2595,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>&apos;%1&apos; already exists. Operation cannot be completed.</source>
-        <translation variants="yes">
-            <lengthvariant>&apos;%1&apos; już istnieje. Nie można ukończyć operacji.</lengthvariant>
-            <lengthvariant>&apos;%1&apos; już istnieje. Operacja nie może być ukończona.</lengthvariant>
-        </translation>
+        <translation>&apos;%1&apos; już istnieje. Nie można ukończyć operacji.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this &apos;%1&apos; item permanently?</source>
@@ -2627,10 +2607,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>&apos;%1&apos; is protected. Operation cannot be completed.</source>
-        <translation variants="yes">
-            <lengthvariant>&apos;%1&apos; jest chroniony. Nie można ukończyć operacji.</lengthvariant>
-            <lengthvariant>&apos;%1&apos; jest chroniony. Operacja nie może być ukończona.</lengthvariant>
-        </translation>
+        <translation>&apos;%1&apos; jest chroniony. Nie można ukończyć operacji.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the file &apos;%1&apos; permanently?</source>
@@ -2638,17 +2615,11 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Failed to delete the following files. Please check if the files were in use.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie udało się usunąć następujących plików. Sprawdź, czy pliki były w użyciu.</lengthvariant>
-            <lengthvariant>Nie udało się usunąć następujących plików. Proszę sprawdzić, czy pliki były w użyciu.</lengthvariant>
-        </translation>
+        <translation>Nie udało się usunąć następujących plików. Proszę sprawdź, czy pliki były w użyciu.</translation>
     </message>
     <message>
         <source>Failed to cut the following files. Please check if the files were in use.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie udało się wyciąć następujących plików. Sprawdź, czy pliki były w użyciu.</lengthvariant>
-            <lengthvariant>Nie udało się wyciąć następujących plików. Proszę sprawdzić, czy pliki były w użyciu.</lengthvariant>
-        </translation>
+        <translation>Nie udało się wyciąć następujących plików. Proszę sprawdź, czy pliki były w użyciu.</translation>
     </message>
 </context>
 <context>

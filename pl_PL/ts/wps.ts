@@ -3264,7 +3264,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Sounds Like(&amp;Japanese)</source>
-        <translation>&amp;Brzmi jak (japoński)</translation>
+        <translation>Brzmi jak (&amp;japoński)</translation>
     </message>
     <message>
         <source>Matc&amp;h case</source>
@@ -3476,10 +3476,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;All caps</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Wszystkie wersaliki</lengthvariant>
-            <lengthvariant>&amp;Wszystkie wielkie litery</lengthvariant>
-        </translation>
+        <translation>&amp;Wszystkie wersaliki</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
@@ -3491,10 +3488,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>S&amp;mall caps</source>
-        <translation variants="yes">
-            <lengthvariant>K&amp;apitaliki</lengthvariant>
-            <lengthvariant>&amp;Małe litery</lengthvariant>
-        </translation>
+        <translation>K&amp;apitaliki</translation>
     </message>
     <message>
         <source>Double strikethrou&amp;gh</source>
@@ -3514,10 +3508,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Ukryty</lengthvariant>
-            <lengthvariant>&amp;Ukryte</lengthvariant>
-        </translation>
+        <translation>&amp;Ukryte</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
@@ -3548,11 +3539,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation variants="yes">
-            <lengthvariant>Normalny</lengthvariant>
-            <lengthvariant>Normalna</lengthvariant>
-            <lengthvariant>Normalne</lengthvariant>
-        </translation>
+        <translation>Normalne</translation>
     </message>
     <message>
         <source>Raised</source>
@@ -4736,7 +4723,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <message>
         <source>groupBox</source>
         <translation variants="yes">
-            <lengthvariant>PoleGrupy</lengthvariant>
+            <lengthvariant>Pole grupy</lengthvariant>
             <lengthvariant>groupBox</lengthvariant>
         </translation>
     </message>
@@ -4912,17 +4899,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation variants="yes">
-            <lengthvariant>Pokaż</lengthvariant>
-            <lengthvariant>Pokaz</lengthvariant>
-        </translation>
+        <translation>Pokaż</translation>
     </message>
     <message>
         <source>Sta&amp;rtup task window</source>
-        <translation variants="yes">
-            <lengthvariant>U&amp;ruchomienie okna zadań</lengthvariant>
-            <lengthvariant>Autosta&amp;rt okna zadań</lengthvariant>
-        </translation>
+        <translation>Autosta&amp;rt okna zadań</translation>
     </message>
     <message>
         <source>Scree&amp;nTips</source>
@@ -4954,7 +4935,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Document ma&amp;p:</source>
-        <translatorcomment>Ma&amp;pa dokumentu:</translatorcomment>
         <translation>&amp;Plan dokumentu:</translation>
     </message>
     <message>
@@ -4963,11 +4943,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewej</translation>
+        <translation>W lewo</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Z prawej</translation>
+        <translation>W prawo</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -4995,7 +4975,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translatorcomment>W&amp;szystko</translatorcomment>
         <translation>W&amp;szystkie</translation>
     </message>
     <message>
@@ -5020,10 +4999,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Document switch mode</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz tryb dokumentu</lengthvariant>
-            <lengthvariant>Przełącznik trybu dokumentu</lengthvariant>
-        </translation>
+        <translation>Przełącz tryb dokumentu</translation>
     </message>
     <message>
         <source>Taskb&amp;ar</source>
@@ -5261,7 +5237,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Print space of hidden text</source>
-        <translatorcomment>Drukuj spację tekstu ukrytego; Drukuj odstęp tekstu ukrytego</translatorcomment>
         <translation>Drukuj obszar tekstu ukrytego</translation>
     </message>
     <message>
@@ -5329,7 +5304,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translatorcomment>Ukryte</translatorcomment>
         <translation>Ukryty</translation>
     </message>
     <message>
@@ -5735,7 +5709,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Whitespace characters</source>
-        <translatorcomment>Znaki odstępu</translatorcomment>
         <translation>Białe &amp;znaki</translation>
     </message>
     <message>
@@ -5842,10 +5815,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Insert/paste pictures as(&amp;Z):</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw/Wklej obrazy następująco (&amp;Z):</lengthvariant>
-            <lengthvariant>Wstaw/Wklej obrazy jako (&amp;Z):</lengthvariant>
-        </translation>
+        <translation>Wstaw/Wklej obrazy jako (&amp;Z):</translation>
     </message>
     <message>
         <source>Recent documents</source>
@@ -5910,7 +5880,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Adjust the security level for opening files that might contain macro viruses and specify the names of trusted macro developers.</source>
-        <translation>Dopasuj poziom zabezpieczeń dotyczących otwierania plików, które mogą zawierać wirusy makr, i określ nazwy zaufanych deweloperów makr.</translation>
+        <translation>Dopasuj poziom zabezpieczeń dotyczących otwierania plików, które mogą zawierać wirusy makr oraz określ nazwy zaufanych deweloperów makr.</translation>
     </message>
     <message>
         <source>Macros &amp;Security...</source>
@@ -5942,10 +5912,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Tab style</source>
-        <translation variants="yes">
-            <lengthvariant>Styl karty</lengthvariant>
-            <lengthvariant>Styl tabulatora</lengthvariant>
-        </translation>
+        <translation>Styl karty</translation>
     </message>
     <message>
         <source>Other Options</source>
@@ -5953,10 +5920,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
-        <translation variants="yes">
-            <lengthvariant>Kliknij dwukrotnie w obszarze, aby utworzyć &amp;nowy dokument</lengthvariant>
-            <lengthvariant>Kliknij dwukrotnie w przestrzeni, aby utworzyć &amp;nowy dokument</lengthvariant>
-        </translation>
+        <translation>Kliknij dwukrotnie w obszarze, aby utworzyć &amp;nowy dokument</translation>
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
@@ -5993,7 +5957,6 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
         <source>Create &amp;backup files on first save</source>
         <translation variants="yes">
             <lengthvariant>Utwórz &amp;kopię zapasową plików przy pierwszym zapisie</lengthvariant>
-            <lengthvariant>Utwórz &amp;kopię zapasową plików podczas pierwszego zapisu</lengthvariant>
             <lengthvariant>Tworzenie &amp;kopii zapasowej plików podczas pierwszego zapisu</lengthvariant>
         </translation>
     </message>
@@ -6007,10 +5970,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Reminder for embedding &amp;cloud fonts in the file</source>
-        <translation variants="yes">
-            <lengthvariant>Przypomnienie dla osadzania czcionek usługi &amp;Chmura w pliku</lengthvariant>
-            <lengthvariant>Przypomnienie dla osadzania czcionek &amp;Chmury w pliku</lengthvariant>
-        </translation>
+        <translation>Przypomnienie dla osadzania czcionek usługi &amp;Chmura w pliku</translation>
     </message>
     <message>
         <source>Do &amp;not compress images in file</source>
@@ -6524,8 +6484,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Multiple pages:</source>
-        <translatorcomment>&amp;Wiele stron:</translatorcomment>
-        <translation>&amp;Kilka stron:</translation>
+        <translation variants="yes">
+            <lengthvariant>&amp;Kilka stron:</lengthvariant>
+            <lengthvariant>&amp;Wiele stron:</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Mirror margins</source>
@@ -8138,7 +8100,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Save PDF File As</source>
-        <translation>Zapisz plik Adobe PDF jako</translation>
+        <translation>Zapisz plik PDF jako</translation>
     </message>
 </context>
 <context>
@@ -8180,7 +8142,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>WPS Writer encountered an error while trying exporting to PDF.</source>
-        <translation>WPS Writer napotkał błąd podczas próby eksportowania do formatu PDF.</translation>
+        <translation>Program WPS Writer napotkał błąd podczas próby eksportowania do formatu PDF.</translation>
     </message>
     <message>
         <source>Exporting page %1...</source>
@@ -8665,7 +8627,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>WPS Writer has completed its search of %1.</source>
-        <translation>WPS Writer ukończył wyszukiwanie %1.</translation>
+        <translation>Program WPS Writer ukończył wyszukiwanie %1.</translation>
     </message>
     <message>
         <source>The Find What text contains a Pattern Match expression which is not valid.</source>
@@ -8673,11 +8635,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>All done. WPS Writer made %1 replacements.</source>
-        <translation>Gotowe. WPS Writer dokonał %1 zamian.</translation>
+        <translation>Gotowe. Program WPS Writer dokonał %1 zamian.</translation>
     </message>
     <message>
         <source>WPS Writer cannot replace the found item with text containing a break.</source>
-        <translation>WPS Writer nie może zamienić znalezionego elementu na tekst zawierający podział.</translation>
+        <translation>Program WPS Writer nie może zamienić znalezionego elementu na tekst zawierający podział.</translation>
     </message>
     <message>
         <source>Any Reviewer</source>
@@ -8702,7 +8664,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>WPS Writer could not determine the destination.</source>
-        <translation>WPS Writer nie może odnaleźć miejsca.</translation>
+        <translation>Program WPS Writer nie może odnaleźć miejsca.</translation>
     </message>
     <message>
         <source>The bookmark does not exist or is hidden.</source>
@@ -8824,10 +8786,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Find Font</source>
-        <translation variants="yes">
-            <lengthvariant>Znajdź czcionkę</lengthvariant>
-            <lengthvariant>Znajdowanie czcionki</lengthvariant>
-        </translation>
+        <translation>Znajdź czcionkę</translation>
     </message>
     <message>
         <source>Replace Font</source>
@@ -8871,15 +8830,15 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>WPS Writer found %1 items matching this criteria</source>
-        <translation>WPS Writer odnalazł %1 elementów spełniających te kryteria</translation>
+        <translation>Program WPS Writer odnalazł %1 elementów spełniających te kryteria</translation>
     </message>
     <message>
         <source>WPS Writer found no items matching this criteria</source>
-        <translation>WPS Writer nie odnalazł żadnych elementów spełniających te kryteria</translation>
+        <translation>Program WPS Writer nie odnalazł żadnych elementów spełniających te kryteria</translation>
     </message>
     <message>
         <source>WPS Writer highlighted %1 items. To clear highlighting, click Reading Highlight and then click Clear Highlighting.</source>
-        <translation>WPS Writer wyróżnił %1 elementów. Aby wyczyścić wyróżnienie, kliknij przycisk Wyróżnienie przy odczycie, a następnie kliknij opcję Wyczyść wyróżnienie.</translation>
+        <translation>Program WPS Writer wyróżnił %1 elementów. Aby wyczyścić wyróżnienie, kliknij przycisk Wyróżnienie przy odczycie, a następnie kliknij opcję Wyczyść wyróżnienie.</translation>
     </message>
 </context>
 <context>
@@ -9959,10 +9918,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     <name>KxOptionsDlg</name>
     <message>
         <source>By author</source>
-        <translation variants="yes">
-            <lengthvariant>Według autora</lengthvariant>
-            <lengthvariant>Przez autora</lengthvariant>
-        </translation>
+        <translation>Według autora</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -9986,7 +9942,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
-        <translation>WPS Writer napotkał błąd podczas dostosowywania zabezpieczeń makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane. Proszę skontaktować się z pomocą techniczną.</translation>
+        <translation>Program WPS Writer napotkał błąd podczas dostosowywania zabezpieczeń makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane. Proszę skontaktować się z pomocą techniczną.</translation>
     </message>
     <message>
         <source>The password of the file encryption must be no longer than 15 characters.</source>
@@ -10213,10 +10169,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Using the printer setup</source>
-        <translation variants="yes">
-            <lengthvariant>Użyj ustawienia drukarki</lengthvariant>
-            <lengthvariant>Używając ustawienia drukarki</lengthvariant>
-        </translation>
+        <translation>Używając ustawienia drukarki</translation>
     </message>
     <message>
         <source>&amp;Inside</source>
@@ -13034,7 +12987,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation>&amp;Hasło:</translation>
+        <translation>Ha&amp;sło:</translation>
     </message>
     <message>
         <source>Conf&amp;irm:</source>
@@ -13072,7 +13025,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
+        <translation>Uwaga: Tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -13096,7 +13049,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Export PDF File</source>
-        <translation>Eksportuj plik Adobe PDF</translation>
+        <translation>Eksportuj plik PDF</translation>
     </message>
 </context>
 <context>
@@ -13119,7 +13072,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation>Eksportuj do pliku Adobe PDF</translation>
+        <translation>Eksportuj do pliku PDF</translation>
     </message>
 </context>
 <context>

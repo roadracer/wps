@@ -750,7 +750,7 @@ proszę ponownie zainstalować WPS Office!</translation>
     </message>
     <message>
         <source>Delete from List</source>
-        <translation>Usuń z Listy</translation>
+        <translation>Usuń z listy</translation>
     </message>
 </context>
 </TS>

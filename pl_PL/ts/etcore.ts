@@ -3655,7 +3655,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>Query failed, please check query strings!</source>
         <comment>TX_ETDBE_STR_ERR_QUERY</comment>
-        <translation>Kwerenda nie powiodła się,proszę sprawdź ciągi kwerendy!</translation>
+        <translation>Kwerenda nie powiodła się, proszę sprawdź ciągi kwerendy!</translation>
     </message>
     <message>
         <source>Query failed, the query strings must not be empty!</source>
@@ -3727,7 +3727,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>The range you deleted is associated with a query that retrieves data from an external source. Do you want to delete the query in addition to the range? If you click No, the query will retrieve new data to the worksheet the next time the query is refreshed.</source>
         <comment>TX_ETDBE_STR_DELETEQT</comment>
-        <translation>Usunięty zakres jest skojarzony z kwerendą, która pobiera dane ze źródła zewnętrznego. Czy wraz z zakresem chcesz usunąć tę kwerendę? Jeśli klikniesz przycisk &apos;Nie&apos;, przy następnym odświeżaniu kwerendy, pobierze ona nowe dane dla arkusza.</translation>
+        <translation>Usunięty zakres jest skojarzony z kwerendą, która pobiera dane ze źródła zewnętrznego. Czy wraz z zakresem chcesz usunąć tę kwerendę? Jeśli klikniesz przycisk Nie, przy następnym odświeżaniu kwerendy, pobierze ona nowe dane dla arkusza.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
@@ -3800,7 +3800,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Running background query...(Click here to cancel)</source>
         <comment>TX_ETDBE_STR_BACKGROUND_QUERY</comment>
-        <translation>Trwa uruchamianie kwerendy w tle... (kliknij tutaj, aby anulować)</translation>
+        <translation>Trwa uruchamianie kwerendy w tle... (Kliknij tutaj, aby anulować)</translation>
     </message>
     <message>
         <source>This action will cancel a pending Refresh Data command. Continue?</source>
@@ -15814,10 +15814,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>There is no Active Printer available at the moment.</source>
         <comment>et_sNoActivePrinter</comment>
-        <translation variants="yes">
-            <lengthvariant>Aktywna drukarka nie jest dostępna w tej chwili.</lengthvariant>
-            <lengthvariant>W tej chwili nie jest dostępna żadna aktywna drukarka.</lengthvariant>
-        </translation>
+        <translation>W tej chwili nie jest dostępna żadna aktywna drukarka.</translation>
     </message>
     <message>
         <source>No Alignment</source>
