@@ -281,10 +281,7 @@ Wartość:</translation>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>TX_DESC_APP_NAME</comment>
-        <translation variants="yes">
-            <lengthvariant>WPS Spreadsheets</lengthvariant>
-            <lengthvariant>WPS Arkusze</lengthvariant>
-        </translation>
+        <translation>WPS Arkusze</translation>
     </message>
     <message>
         <source>VBAProject</source>

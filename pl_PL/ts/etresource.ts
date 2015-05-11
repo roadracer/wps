@@ -2017,7 +2017,7 @@ wyśrodkuj</translation>
     <name>etclassics.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation>Arkusze kalkulacyjneSpreadsheets</translation>
+        <translation>Arkusze kalkulacyjne</translation>
     </message>
 </context>
 <context>
@@ -2715,7 +2715,7 @@ zadań</translation>
     <name>etongmani.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation>Arkusze kalkulacyjneSpreadsheets</translation>
+        <translation>Arkusze kalkulacyjne</translation>
     </message>
 </context>
 <context>
@@ -2929,7 +2929,7 @@ zadań</translation>
     <name>etrainbow.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation>Arkusze kalkulacyjneSpreadsheets</translation>
+        <translation>Arkusze kalkulacyjne</translation>
     </message>
 </context>
 <context>

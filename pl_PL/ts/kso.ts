@@ -3542,10 +3542,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Chinese Office Software Document Format</source>
         <comment>_WpioDesc_UOF</comment>
-        <translation variants="yes">
-            <lengthvariant>Formaty dokumentu Microsoft Office w języku chińskim</lengthvariant>
-            <lengthvariant>Format dokumentu chińskiego oprogramowania biurowego</lengthvariant>
-        </translation>
+        <translation>Format dokumentu chińskiego oprogramowania biurowego</translation>
     </message>
     <message>
         <source>Single Web Page Files</source>

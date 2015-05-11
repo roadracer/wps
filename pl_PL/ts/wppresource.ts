@@ -1401,7 +1401,7 @@ wzorzec</translation>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownikaZmiana interfejsu użytkownika</translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
@@ -7629,7 +7629,7 @@ wzorzec</translation>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownikaZmiana interfejsu użytkownika</translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
@@ -12650,12 +12650,12 @@ slajdu</translation>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownikaZmiana interfejsu użytkownika</translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation>Przełącz interfejs użytkownikaZmiana interfejsu użytkownika</translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -12886,12 +12886,12 @@ slajdu</translation>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownikaZmiana interfejsu użytkownika</translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation>Przełącz interfejs użytkownikaZmiana interfejsu użytkownika</translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
