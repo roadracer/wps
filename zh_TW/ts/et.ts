@@ -1278,12 +1278,12 @@ condition is true: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Queries currently being excuted in the background:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Status</source>
         <translation type="unfinished">狀態</translation>
+    </message>
+    <message>
+        <source>Queries currently being executed in the background:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1390,183 +1390,167 @@ condition is true: </source>
 <context>
     <name>KxConditionHighLightDlg</name>
     <message>
-        <source>HighLight - Numerial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_Equal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_NoEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_Large</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_LargeEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_Less</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_LessEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_BetweenMidfix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Numerial_BetweenSuffix</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_Between</source>
+        <source>Highlight-Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_NoBetween</source>
+        <source>Equal to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_TopCountPrefix</source>
+        <source>Not equal to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_TopCountSuffix</source>
+        <source>Greater than</source>
+        <translation type="unfinished">大於</translation>
+    </message>
+    <message>
+        <source>Greater than or equal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_LowCountPrefix</source>
+        <source>Less than</source>
+        <translation type="unfinished">小於</translation>
+    </message>
+    <message>
+        <source>Less than or equal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_LowCountSuffix</source>
+        <source>and</source>
+        <translation type="unfinished">且</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished">介於</translation>
+    </message>
+    <message>
+        <source>Not between</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_TopPercentPrefix</source>
+        <source>Top</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_TopPercentSuffix</source>
+        <source>Items</source>
+        <translation type="unfinished">項目</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_LowPercentPrefix</source>
+        <source>% Items</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_LowPercentSuffix</source>
+        <source>Average</source>
+        <translation type="unfinished">平均值</translation>
+    </message>
+    <message>
+        <source>Above</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_AvgSuffix</source>
+        <source>Below</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_AvgAbove</source>
+        <source>Highlight-Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_AvgBelow</source>
+        <source>Contain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>HighLight - Text</source>
+        <source>Does not contain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text_Contain</source>
+        <source>Begin with</source>
+        <translation type="unfinished">開始是</translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished">結尾是</translation>
+    </message>
+    <message>
+        <source>Highlight-Date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text_NoContain</source>
+        <source>A Date Occurring</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text_BeginWith</source>
+        <source>Yesterday</source>
+        <translation type="unfinished">昨天</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished">今天</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished">明天</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text_EndWith</source>
+        <source>Last week</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>HighLight - Date</source>
+        <source>This week</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Prefix</source>
+        <source>Next week</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Yesterday</source>
+        <source>Last month</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Today</source>
+        <source>This month</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Tomorrow</source>
+        <source>Next month</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_LateSeven</source>
+        <source>Weekend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_LastWeek</source>
+        <source>Highlight-Special Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Week</source>
+        <source>Empty Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_NextWeek</source>
+        <source>Error value </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_LastMonth</source>
+        <source>Lack input value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Month</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date_NextMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date_Weekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>HighLight - Special</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special_Empty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special_Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A required input value is missing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>required range values is not enough</source>
+        <source>The required range value is insufficient</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1792,90 +1776,90 @@ condition is true: </source>
     <name>KxCustomHeaderFooterDlg</name>
     <message>
         <source>&amp;[%1]</source>
-        <translation>&amp;[%1]</translation>
+        <translation type="obsolete">&amp;[%1]</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation>所有圖片</translation>
+        <translation type="obsolete">所有圖片</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>日期</translation>
+        <translation type="obsolete">日期</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>檔案</translation>
+        <translation type="obsolete">檔案</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation>頁尾</translation>
+        <translation type="obsolete">頁尾</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation>圖形交換格式</translation>
+        <translation type="obsolete">圖形交換格式</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>頁首</translation>
+        <translation type="obsolete">頁首</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation>檔案交換格式</translation>
+        <translation type="obsolete">檔案交換格式</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>開啟</translation>
+        <translation type="obsolete">開啟</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>圖片</translation>
+        <translation type="obsolete">圖片</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation>可攜式網路圖形</translation>
+        <translation type="obsolete">可攜式網路圖形</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation>圖像檔案格式</translation>
+        <translation type="obsolete">圖像檔案格式</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation>頁首或頁尾的長度（左、中、右的總和）不能大於 255 個字元。請減少使用的字元數目。</translation>
+        <translation type="obsolete">頁首或頁尾的長度（左、中、右的總和）不能大於 255 個字元。請減少使用的字元數目。</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>時間</translation>
+        <translation type="obsolete">時間</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation>點陣圖</translation>
+        <translation type="obsolete">點陣圖</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation>增強型中繼檔</translation>
+        <translation type="obsolete">增強型中繼檔</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation>中繼檔</translation>
+        <translation type="obsolete">中繼檔</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>頁碼</translation>
+        <translation type="obsolete">頁碼</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation>總頁數</translation>
+        <translation type="obsolete">總頁數</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation>標簽名</translation>
+        <translation type="obsolete">標簽名</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
 
 To replace existing picture, press OK.
 To keep existing picture, press Cancel.</source>
-        <translation>在 %1 的每一個區段只能插入一張圖。
+        <translation type="obsolete">在 %1 的每一個區段只能插入一張圖。
 
 若要取代現有的圖片，請按 [確定]。
 若要保留現有圖片，請按 [取消]。</translation>
@@ -2264,24 +2248,8 @@ To keep existing picture, click Cancel button.</source>
 <context>
     <name>KxDlgConditionHighLight</name>
     <message>
-        <source>Condition HighLight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cells with following condition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>original setting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>and</source>
-        <translation type="unfinished">且</translation>
-    </message>
-    <message>
-        <source>inside</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">且</translation>
     </message>
     <message>
         <source>spinPrefix</source>
@@ -2308,7 +2276,19 @@ To keep existing picture, click Cancel button.</source>
         <translation type="unfinished">自訂</translation>
     </message>
     <message>
-        <source>show following effect</source>
+        <source>Condition Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cells subjected to the following conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep the cell to its former setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display the following effect</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2549,71 +2529,67 @@ place.(Remember that passwords are case-sensitive.)</source>
     <name>KxDlgCustomHeaderFooter</name>
     <message>
         <source>&amp;Center section:</source>
-        <translation>中(&amp;C):</translation>
+        <translation type="obsolete">中(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation>左(&amp;L):</translation>
+        <translation type="obsolete">左(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
-        <translation>右(&amp;R):</translation>
+        <translation type="obsolete">右(&amp;R):</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>日期</translation>
+        <translation type="obsolete">日期</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>檔名</translation>
+        <translation type="obsolete">檔名</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>字體</translation>
+        <translation type="obsolete">字體</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>插入圖片</translation>
+        <translation type="obsolete">插入圖片</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>設定圖片格式</translation>
+        <translation type="obsolete">設定圖片格式</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>時間</translation>
+        <translation type="obsolete">時間</translation>
     </message>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
 box, then choose the appropriate button.</source>
-        <translation>    若要加入頁碼、日期、時間、檔名、工作表名，請將插入點置於編輯方塊內，
+        <translation type="obsolete">    若要加入頁碼、日期、時間、檔名、工作表名，請將插入點置於編輯方塊內，
 然后選擇適當的按鈕。</translation>
     </message>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation>    若要插入圖片:請按 [插入圖片] 按鈕。若要設定圖片格式:請放置
+        <translation type="obsolete">    若要插入圖片:請按 [插入圖片] 按鈕。若要設定圖片格式:請放置
 游標於編輯方塊內並按 [設定圖片格式] 按鈕。</translation>
     </message>
     <message>
-        <source>input</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>To format text: select the text, then click the font button.</source>
-        <translation>    若要設定文本格式，請先選取文字，再選擇 [字體] 按鈕。</translation>
+        <translation type="obsolete">    若要設定文本格式，請先選取文字，再選擇 [字體] 按鈕。</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>頁碼</translation>
+        <translation type="obsolete">頁碼</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation>總頁數</translation>
+        <translation type="obsolete">總頁數</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation>工作表名</translation>
+        <translation type="obsolete">工作表名</translation>
     </message>
     <message>
         <source>Page</source>
@@ -2636,6 +2612,10 @@ cursor in the edit box and press the Format Picture button.</source>
 cursor in the edit box and press the Format Picture button.</source>
         <translation type="obsolete">    若要插入圖片:請按 [插入圖片] 按鈕。若要設定圖片格式:請放置
 游標於編輯方塊內並按 [設定圖片格式] 按鈕。</translation>
+    </message>
+    <message>
+        <source>headerfooter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3607,6 +3587,77 @@ printer and your screen.</source>
     <message>
         <source>Summary rows &amp;below detail</source>
         <translation>彙總列置於詳細資料的下方(&amp;B)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgHeaderFooterWidget</name>
+    <message>
+        <source>input</source>
+        <translation type="unfinished">輸入</translation>
+    </message>
+    <message>
+        <source>To format text: select the text, then click the font button.</source>
+        <translation type="unfinished">    若要設定文本格式，請先選取文字，再選擇 [字體] 按鈕。</translation>
+    </message>
+    <message>
+        <source>To insert a page number, date, time, filename: position the insertion point in the  edit
+box, then choose the appropriate button.</source>
+        <translation type="unfinished">    若要加入頁碼、日期、時間、檔名、工作表名，請將插入點置於編輯方塊內，
+然后選擇適當的按鈕。</translation>
+    </message>
+    <message>
+        <source>To insert picture: press the Insert Picture button. To format your picture, place the
+cursor in the edit box and press the Format Picture button.</source>
+        <translation type="unfinished">    若要插入圖片:請按 [插入圖片] 按鈕。若要設定圖片格式:請放置
+游標於編輯方塊內並按 [設定圖片格式] 按鈕。</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="unfinished">頁碼</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation type="unfinished">總頁數</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">日期</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished">時間</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished">插入圖片</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation type="unfinished">設定圖片格式</translation>
+    </message>
+    <message>
+        <source>&amp;Left section:</source>
+        <translation type="unfinished">左(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Center section:</source>
+        <translation type="unfinished">中(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Right section:</source>
+        <translation type="unfinished">右(&amp;R):</translation>
     </message>
 </context>
 <context>
@@ -4768,6 +4819,22 @@ p, li { white-space: pre-wrap; }
         <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>SaveAsCreateBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create&amp;Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RecommendedReadOnlyOption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;RecommendedReadOnly</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -5058,6 +5125,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>displayed</source>
         <translation type="obsolete">顯示的</translation>
+    </message>
+    <message>
+        <source>&amp;Different odd and even pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D&amp;ifferent first page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sca&amp;le with document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align with page &amp;margins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7362,6 +7445,73 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxEtPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">檢視</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">列印</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">儲存</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtPrintPreviewZoomCommand</name>
     <message>
         <source>Print Scaling:</source>
@@ -8352,6 +8502,114 @@ on iteration #%2.</source>
 may not have found a solution.</source>
         <translation type="obsolete">對儲存格 %1 進行目標搜尋
 依然無法求得解答。</translation>
+    </message>
+</context>
+<context>
+    <name>KxHeaderFooterDlg</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">頁首</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation type="unfinished">頁尾</translation>
+    </message>
+    <message>
+        <source>Odd Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHeaderFooterWidget</name>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="unfinished">頁碼</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation type="unfinished">總頁數</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">日期</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished">時間</translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">圖片</translation>
+    </message>
+    <message>
+        <source>&amp;[%1]</source>
+        <translation type="unfinished">&amp;[%1]</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">開啟</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation type="unfinished">所有圖片</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation type="unfinished">增強型中繼檔</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation type="unfinished">中繼檔</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation type="unfinished">檔案交換格式</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation type="unfinished">可攜式網路圖形</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation type="unfinished">點陣圖</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation type="unfinished">圖形交換格式</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation type="unfinished">圖像檔案格式</translation>
+    </message>
+    <message>
+        <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
+        <translation type="unfinished">頁首或頁尾的長度（左、中、右的總和）不能大於 255 個字元。請減少使用的字元數目。</translation>
+    </message>
+    <message>
+        <source>Only one picture can be inserted in each section of the %1.
+
+To replace existing picture, press OK.
+To keep existing picture, press Cancel.</source>
+        <translation type="unfinished">在 %1 的每一個區段只能插入一張圖。
+
+若要取代現有的圖片，請按 [確定]。
+若要保留現有圖片，請按 [取消]。</translation>
     </message>
 </context>
 <context>
@@ -10326,6 +10584,113 @@ You may still need to manually update any references to this name used in VBA co
     </message>
 </context>
 <context>
+    <name>KxValidationDlg</name>
+    <message>
+        <source>&amp;Minimum:</source>
+        <translation type="unfinished">最小值(&amp;M):</translation>
+    </message>
+    <message>
+        <source>Ma&amp;ximum:</source>
+        <translation type="unfinished">最大值(&amp;X):</translation>
+    </message>
+    <message>
+        <source>&amp;Source:</source>
+        <translation type="unfinished">來源(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Start date:</source>
+        <translation type="unfinished">開始日期(&amp;S):</translation>
+    </message>
+    <message>
+        <source>E&amp;nd date:</source>
+        <translation type="unfinished">結束日期(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;Start time:</source>
+        <translation type="unfinished">開始時間(&amp;S):</translation>
+    </message>
+    <message>
+        <source>E&amp;nd time:</source>
+        <translation type="unfinished">結束時間(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;Formula:</source>
+        <translation type="unfinished">公式(&amp;F):</translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation type="unfinished">數值(&amp;V):</translation>
+    </message>
+    <message>
+        <source>&amp;Time:</source>
+        <translation type="unfinished">時間(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Da&amp;te:</source>
+        <translation type="unfinished">日期(&amp;T):</translation>
+    </message>
+    <message>
+        <source>You must enter both a Maximum and a Minimum.</source>
+        <translation type="unfinished">您必須同時輸入一個最大值和一個最小值。</translation>
+    </message>
+    <message>
+        <source>You must enter a Value.</source>
+        <translation type="unfinished">您必須輸入一個數值。</translation>
+    </message>
+    <message>
+        <source>You must enter a Minimum.</source>
+        <translation type="unfinished">您必須輸入一個最小值。</translation>
+    </message>
+    <message>
+        <source>You must enter a Maximum.</source>
+        <translation type="unfinished">您必須輸入一個最大值。</translation>
+    </message>
+    <message>
+        <source>You must enter a Source.</source>
+        <translation type="unfinished">您必須輸入來源。</translation>
+    </message>
+    <message>
+        <source>The Formula cannot be longer than 255 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Date.</source>
+        <translation type="unfinished">您必須輸入日期。</translation>
+    </message>
+    <message>
+        <source>You must enter both an End Date and a Start Date.</source>
+        <translation type="unfinished">您必須同時輸入一個結束日期和一個開始日期。</translation>
+    </message>
+    <message>
+        <source>You must enter an End Date.</source>
+        <translation type="unfinished">您必須輸入一個結束日期。</translation>
+    </message>
+    <message>
+        <source>You must enter a Start Date.</source>
+        <translation type="unfinished">您必須輸入一個開始日期。</translation>
+    </message>
+    <message>
+        <source>You must enter both an End Time and a Start Time.</source>
+        <translation type="unfinished">您必須同時輸入一個結束時間和一個開始時間。</translation>
+    </message>
+    <message>
+        <source>You must enter a Time.</source>
+        <translation type="unfinished">您必須輸入一個時間。</translation>
+    </message>
+    <message>
+        <source>You must enter a Start Time.</source>
+        <translation type="unfinished">您必須輸入一個開始時間。</translation>
+    </message>
+    <message>
+        <source>You must enter an End Time.</source>
+        <translation type="unfinished">您必須輸入一個結束時間。</translation>
+    </message>
+    <message>
+        <source>You must enter a Formula.</source>
+        <translation type="unfinished">您必須輸入公式。</translation>
+    </message>
+</context>
+<context>
     <name>KxWidgetAlign</name>
     <message>
         <source>&amp;Degrees</source>
@@ -10938,11 +11303,11 @@ t</source>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation>公式(&amp;F):</translation>
+        <translation type="obsolete">公式(&amp;F):</translation>
     </message>
     <message>
         <source>&amp;Minimum:</source>
-        <translation>最小值(&amp;M):</translation>
+        <translation type="obsolete">最小值(&amp;M):</translation>
     </message>
     <message>
         <source>&amp;Pause</source>
@@ -10950,23 +11315,23 @@ t</source>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation>來源(&amp;S):</translation>
+        <translation type="obsolete">來源(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation>開始日期(&amp;S):</translation>
+        <translation type="obsolete">開始日期(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
-        <translation>開始時間(&amp;S):</translation>
+        <translation type="obsolete">開始時間(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation>時間(&amp;T):</translation>
+        <translation type="obsolete">時間(&amp;T):</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation>數值(&amp;V):</translation>
+        <translation type="obsolete">數值(&amp;V):</translation>
     </message>
     <message>
         <source>@ET_Style?</source>
@@ -11058,7 +11423,7 @@ t</source>
     </message>
     <message>
         <source>Da&amp;te:</source>
-        <translation>日期(&amp;T):</translation>
+        <translation type="obsolete">日期(&amp;T):</translation>
     </message>
     <message>
         <source>Dark Blue</source>
@@ -11098,11 +11463,11 @@ t</source>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation>結束日期(&amp;N):</translation>
+        <translation type="obsolete">結束日期(&amp;N):</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
-        <translation>結束時間(&amp;N):</translation>
+        <translation type="obsolete">結束時間(&amp;N):</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -11294,7 +11659,7 @@ t</source>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation>最大值(&amp;X):</translation>
+        <translation type="obsolete">最大值(&amp;X):</translation>
     </message>
     <message>
         <source>No Alignment</source>
@@ -11582,59 +11947,59 @@ t</source>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation>您必須輸入日期。</translation>
+        <translation type="obsolete">您必須輸入日期。</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
-        <translation>您必須輸入公式。</translation>
+        <translation type="obsolete">您必須輸入公式。</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation>您必須輸入一個最大值。</translation>
+        <translation type="obsolete">您必須輸入一個最大值。</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation>您必須輸入一個最小值。</translation>
+        <translation type="obsolete">您必須輸入一個最小值。</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation>您必須輸入來源。</translation>
+        <translation type="obsolete">您必須輸入來源。</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
-        <translation>您必須輸入一個開始日期。</translation>
+        <translation type="obsolete">您必須輸入一個開始日期。</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
-        <translation>您必須輸入一個開始時間。</translation>
+        <translation type="obsolete">您必須輸入一個開始時間。</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation>您必須輸入一個時間。</translation>
+        <translation type="obsolete">您必須輸入一個時間。</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation>您必須輸入一個數值。</translation>
+        <translation type="obsolete">您必須輸入一個數值。</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
-        <translation>您必須輸入一個結束日期。</translation>
+        <translation type="obsolete">您必須輸入一個結束日期。</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
-        <translation>您必須輸入一個結束時間。</translation>
+        <translation type="obsolete">您必須輸入一個結束時間。</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation>您必須同時輸入一個最大值和一個最小值。</translation>
+        <translation type="obsolete">您必須同時輸入一個最大值和一個最小值。</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
-        <translation>您必須同時輸入一個結束日期和一個開始日期。</translation>
+        <translation type="obsolete">您必須同時輸入一個結束日期和一個開始日期。</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
-        <translation>您必須同時輸入一個結束時間和一個開始時間。</translation>
+        <translation type="obsolete">您必須同時輸入一個結束時間和一個開始時間。</translation>
     </message>
     <message>
         <source>binary</source>

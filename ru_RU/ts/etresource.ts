@@ -886,7 +886,7 @@ OLE DB Query</source>
     <name>classics.formatting</name>
     <message>
         <source>Across Center</source>
-        <translation type="obsolete">Через центр</translation>
+        <translation type="unfinished">Через центр</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -901,16 +901,12 @@ OLE DB Query</source>
         <translation>Границы</translation>
     </message>
     <message>
-        <source>Cancel Merge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>По центру</translation>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation type="unfinished">Центрировать столбцы</translation>
+        <translation type="obsolete">Центрировать столбцы</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -991,6 +987,10 @@ Center</source>
     <message>
         <source>Percent Style</source>
         <translation>Процентный формат</translation>
+    </message>
+    <message>
+        <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -1418,6 +1418,10 @@ Center</source>
 <context>
     <name>classics.standard</name>
     <message>
+        <source>Above Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>AutoFilter</source>
         <translation>Автофильтр</translation>
     </message>
@@ -1430,147 +1434,43 @@ Center</source>
         <translation>Среднее</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chart Wizard</source>
         <translation>Создание диаграмм</translation>
     </message>
     <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>Очистить выделенные повторения</translation>
+        <translation type="obsolete">Очистить выделенные повторения</translation>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>Очистить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Очистить повторения отклонённых вставок</translation>
     </message>
     <message>
-        <source>ConditionDate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLateSeven</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateToday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateTomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateYesterday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgAbove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgBelow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialBetween</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLarge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLess</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialEmpty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialError</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextBeginWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextEndWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextNoContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalClear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalSelf</source>
+        <source>Contain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1578,20 +1478,52 @@ Center</source>
         <translation>Количество</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does not contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Duplicates</source>
-        <translation>Повторения</translation>
+        <translation type="obsolete">Повторения</translation>
+    </message>
+    <message>
+        <source>Empty Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
         <translation type="obsolete">Микроблог предприятия</translation>
     </message>
     <message>
+        <source>Equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>Формула</translation>
     </message>
     <message>
+        <source>Error Value </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Преобразовать в PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Filter</source>
@@ -1610,20 +1542,40 @@ Center</source>
         <translation type="obsolete">Коллекция</translation>
     </message>
     <message>
-        <source>HighLight</source>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Homepage</source>
         <translation type="obsolete">Домашняя страница</translation>
     </message>
     <message>
+        <source>In the last 7 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Hyperlink</source>
         <translation>Вставить гиперссылку</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Max</source>
@@ -1640,6 +1592,14 @@ Center</source>
     <message>
         <source>More Functions</source>
         <translation>Другие функции</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Border</source>
@@ -1666,10 +1626,6 @@ Center</source>
         <translation>Вставить как обычный текст</translation>
     </message>
     <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Purchase Serial Number</source>
         <translation>Приобрести серийный номер</translation>
     </message>
@@ -1679,7 +1635,7 @@ Center</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Отклонить повторяющиеся элементы</translation>
+        <translation type="obsolete">Отклонить повторяющиеся элементы</translation>
     </message>
     <message>
         <source>Reject Insert Duplicates</source>
@@ -1687,7 +1643,7 @@ Center</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Удалить повторения</translation>
+        <translation type="obsolete">Удалить повторения</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -1695,11 +1651,11 @@ Center</source>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>Установить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Установить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -1710,12 +1666,44 @@ Center</source>
         <translation>Сортировать по убыванию</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sum</source>
         <translation>Сумма</translation>
     </message>
     <message>
         <source>Switch Language</source>
         <translation>Поменять язык</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -1730,12 +1718,24 @@ Center</source>
         <translation>Перестановка</translation>
     </message>
     <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Values</source>
         <translation>Значения</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
         <translation>Послепродажный микроблог WPS</translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -2192,6 +2192,14 @@ Center</source>
         <translation>Проверить автоматическое резервное копирование</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clip Art</source>
         <translation>Клип</translation>
     </message>
@@ -2348,6 +2356,10 @@ Center</source>
         <translation type="obsolete">Контекстное меню линии раздела</translation>
     </message>
     <message>
+        <source>Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Edit</source>
         <translation>Правка</translation>
     </message>
@@ -2466,6 +2478,10 @@ Center</source>
     <message>
         <source>High-Low Line</source>
         <translation>Интервал колебания</translation>
+    </message>
+    <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -2717,6 +2733,19 @@ Directly</source>
         <translation>Вернуть</translation>
     </message>
     <message>
+        <source>Refresh
+Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Replace</source>
         <translation>Заменить</translation>
     </message>
@@ -2770,8 +2799,16 @@ Directly</source>
         <translation>Контекстное меню соединительной линии ряда</translation>
     </message>
     <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set Language</source>
         <translation>Установить язык</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
@@ -3216,12 +3253,17 @@ Window</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Поменять стиль интерфейса</translation>
+        <translation type="obsolete">Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
         <translation type="unfinished">Поменять стиль интерфейса</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -3521,6 +3563,11 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>true</translation>
     </message>
@@ -3662,7 +3709,7 @@ Row</source>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>Очистить выделенные повторения</translation>
+        <translation type="obsolete">Очистить выделенные повторения</translation>
     </message>
     <message>
         <source>Clear Outline</source>
@@ -3670,7 +3717,7 @@ Row</source>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>Очистить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Очистить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -3698,7 +3745,7 @@ Row</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Повторения</translation>
+        <translation type="obsolete">Повторения</translation>
     </message>
     <message>
         <source>Edit
@@ -3740,7 +3787,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Import 
@@ -3780,19 +3827,19 @@ All</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Отклонить повторяющиеся элементы</translation>
+        <translation type="obsolete">Отклонить повторяющиеся элементы</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Удалить повторения</translation>
+        <translation type="obsolete">Удалить повторения</translation>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>Установить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Установить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -4503,6 +4550,10 @@ On/Off</source>
         <translation>Ввести код активации</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Преобразовать в PDF</translation>
     </message>
@@ -4929,10 +4980,18 @@ Used</source>
 <context>
     <name>ongmani.ct_home</name>
     <message>
+        <source>Above Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Across 
 Center</source>
         <translation type="obsolete">Через 
 центр</translation>
+    </message>
+    <message>
+        <source>Across Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -5003,8 +5062,28 @@ Center</source>
         <translation>Среднее</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>Полужирный</translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -5013,10 +5092,6 @@ Center</source>
     <message>
         <source>Bottom Double Border</source>
         <translation>Сдвоенная нижняя граница</translation>
-    </message>
-    <message>
-        <source>Cancel Merge</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cells</source>
@@ -5044,7 +5119,7 @@ Center</source>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation type="unfinished">Центрировать столбцы</translation>
+        <translation type="obsolete">Центрировать столбцы</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -5055,139 +5130,11 @@ Center</source>
         <translation>Примечания</translation>
     </message>
     <message>
-        <source>ConditionDate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLateSeven</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateToday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateTomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateYesterday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgAbove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgBelow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialBetween</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLarge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLess</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialEmpty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialError</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextBeginWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextEndWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextNoContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Conditional Formatting</source>
         <translation>Условное форматирование</translation>
     </message>
     <message>
-        <source>ConditionalClear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalSelf</source>
+        <source>Contain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5215,12 +5162,20 @@ Center</source>
         <translation>Денежный</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Custom Sort</source>
         <translation>Пользовательская сортировка</translation>
     </message>
     <message>
         <source>Cut</source>
         <translation>Вырезать</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -5263,6 +5218,10 @@ Center</source>
         <translation type="obsolete">Подробные параметры</translation>
     </message>
     <message>
+        <source>Does not contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Down</source>
         <translation>Вниз</translation>
     </message>
@@ -5279,8 +5238,24 @@ Center</source>
         <translation>Редактирование</translation>
     </message>
     <message>
+        <source>Empty Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Erase Border</source>
         <translation>Стереть границу</translation>
+    </message>
+    <message>
+        <source>Error Value </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5359,6 +5334,10 @@ Painter</source>
         <translation>Перейти</translation>
     </message>
     <message>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide Columns</source>
         <translation>Скрыть столбцы</translation>
     </message>
@@ -5383,7 +5362,11 @@ Painter</source>
         <translation type="obsolete">Показать или скрыть</translation>
     </message>
     <message>
-        <source>HighLight</source>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5437,12 +5420,24 @@ Center</source>
 центрировать</translation>
     </message>
     <message>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation>Слева</translation>
     </message>
     <message>
         <source>Left Border</source>
         <translation>Левая граница</translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -5497,6 +5492,14 @@ Center</source>
     <message>
         <source>Move or Copy Sheet</source>
         <translation>Переместить или скопировать лист</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Border</source>
@@ -5577,12 +5580,16 @@ Columns</source>
 и столбцы</translation>
     </message>
     <message>
+        <source>Rows and Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rows/Columns</source>
         <translation type="obsolete">Строки и столбцы</translation>
     </message>
     <message>
         <source>RowsColumn</source>
-        <translation>Строки и столбцы</translation>
+        <translation type="obsolete">Строки и столбцы</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -5613,6 +5620,10 @@ Columns</source>
         <translation type="obsolete">Сортировать по убыванию</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Standard Width</source>
         <translation>Ширина столбца</translation>
     </message>
@@ -5629,6 +5640,10 @@ Columns</source>
         <translation>Цвет вкладки</translation>
     </message>
     <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Color</source>
         <translation>Цвет текста</translation>
     </message>
@@ -5639,6 +5654,30 @@ Columns</source>
     <message>
         <source>Thick Box Border</source>
         <translation>Толстая внешняя граница</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -5681,8 +5720,16 @@ Columns</source>
         <translation>Показать лист</translation>
     </message>
     <message>
+        <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>Вверх</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Values</source>
@@ -5697,6 +5744,10 @@ Columns</source>
         <translation>Вертикальный текст</translation>
     </message>
     <message>
+        <source>Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WorkSheet</source>
         <translation type="obsolete">Лист</translation>
     </message>
@@ -5707,6 +5758,10 @@ Columns</source>
     <message>
         <source>Wrap Text</source>
         <translation>Перенос по словам</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6783,7 +6838,7 @@ Options</source>
     <message>
         <source>Refresh
 Data</source>
-        <translation>Обновить
+        <translation type="obsolete">Обновить
 данные</translation>
     </message>
     <message>
@@ -7323,6 +7378,10 @@ Other Window</source>
         <translation type="obsolete">Инструменты разработчика</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Formula Bar</source>
         <translation>Строка формул</translation>
     </message>
@@ -7395,10 +7454,6 @@ Preview</source>
     <message>
         <source>Print Headings</source>
         <translation>Печать заголовков</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reading
@@ -8293,11 +8348,11 @@ Shape</source>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>Очистить выделенные повторения</translation>
+        <translation type="obsolete">Очистить выделенные повторения</translation>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>Очистить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Очистить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -8309,7 +8364,7 @@ Shape</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Повторения</translation>
+        <translation type="obsolete">Повторения</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -8333,7 +8388,7 @@ Shape</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="obsolete">Режим защиты глаз</translation>
+        <translation type="unfinished">Режим защиты глаз</translation>
     </message>
     <message>
         <source>File Auto backup</source>
@@ -8361,7 +8416,7 @@ Shape</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -8468,20 +8523,16 @@ Shape</source>
         <translation>Открыть файл из облачного сервиса</translation>
     </message>
     <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reading Layout</source>
         <translation>Макет для чтения</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Отклонить повторяющиеся элементы</translation>
+        <translation type="obsolete">Отклонить повторяющиеся элементы</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Удалить повторения</translation>
+        <translation type="obsolete">Удалить повторения</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -8489,11 +8540,11 @@ Shape</source>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>Установить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Установить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -8573,6 +8624,10 @@ Shape</source>
     <message>
         <source>Accept Revisions</source>
         <translation type="obsolete">Принять исправления</translation>
+    </message>
+    <message>
+        <source>Across Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -8769,10 +8824,6 @@ COM</translation>
         <translation>Снимок выделения</translation>
     </message>
     <message>
-        <source>Cancel Merge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cascade</source>
         <translation>Каскадом</translation>
     </message>
@@ -8846,7 +8897,7 @@ COM</translation>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>Очистить выделенные повторения</translation>
+        <translation type="obsolete">Очистить выделенные повторения</translation>
     </message>
     <message>
         <source>Clear Outline</source>
@@ -8862,7 +8913,7 @@ COM</translation>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>Очистить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Очистить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -8899,10 +8950,6 @@ COM</translation>
     <message>
         <source>Columns</source>
         <translation>Столбцы</translation>
-    </message>
-    <message>
-        <source>Columns Center</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -9066,7 +9113,7 @@ COM</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Повторения</translation>
+        <translation type="obsolete">Повторения</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -9161,8 +9208,16 @@ COM</translation>
         <translation type="obsolete">Просмотр версии</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Преобразовать в PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -9447,7 +9502,7 @@ COM</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -9511,19 +9566,6 @@ COM</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join and
-Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join and Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9619,6 +9661,10 @@ Center</source>
         <translation>Макрос</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>Резервное копирование вручную</translation>
     </message>
@@ -9635,11 +9681,15 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Merge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge Columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Merge and Center Cells</source>
+        <source>Merge and Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9811,10 +9861,6 @@ Center</source>
         <translation>Изображение</translation>
     </message>
     <message>
-        <source>Picture Format Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>PivotTable</source>
         <translation>Сводная таблица</translation>
     </message>
@@ -9845,10 +9891,6 @@ Center</source>
     <message>
         <source>Protect</source>
         <translation>Защита</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Protect Sheet</source>
@@ -9888,7 +9930,7 @@ Center</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Отклонить повторяющиеся элементы</translation>
+        <translation type="obsolete">Отклонить повторяющиеся элементы</translation>
     </message>
     <message>
         <source>Reject Revision</source>
@@ -9904,7 +9946,7 @@ Center</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Удалить повторения</translation>
+        <translation type="obsolete">Удалить повторения</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
@@ -9917,6 +9959,10 @@ Center</source>
     <message>
         <source>Reset All Page Break</source>
         <translation>Восстановить исходные параметры</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -10021,7 +10067,7 @@ Center</source>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Set Print Area</source>
@@ -10033,7 +10079,7 @@ Center</source>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>Установить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Установить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Set Timing Backup</source>
@@ -10048,11 +10094,11 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Format Style</source>
+        <source>Shape Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Outline</source>
+        <source>Shape Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10249,6 +10295,10 @@ Center</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10458,7 +10508,7 @@ Chart Type</source>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>Очистить выделенные повторения</translation>
+        <translation type="obsolete">Очистить выделенные повторения</translation>
     </message>
     <message>
         <source>Clear Outline</source>
@@ -10466,7 +10516,7 @@ Chart Type</source>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>Очистить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Очистить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -10490,7 +10540,7 @@ Chart Type</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Повторения</translation>
+        <translation type="obsolete">Повторения</translation>
     </message>
     <message>
         <source>Edit
@@ -10532,7 +10582,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Import Data</source>
@@ -10560,19 +10610,19 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Отклонить повторяющиеся элементы</translation>
+        <translation type="obsolete">Отклонить повторяющиеся элементы</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Удалить повторения</translation>
+        <translation type="obsolete">Удалить повторения</translation>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>Установить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Установить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -11219,6 +11269,10 @@ AddIns</source>
         <translation>Ввести код активации</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Преобразовать в PDF</translation>
     </message>
@@ -11617,6 +11671,10 @@ Trig</source>
 <context>
     <name>rainbow.ct_home</name>
     <message>
+        <source>Above Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Across Center</source>
         <translation>Через центр</translation>
     </message>
@@ -11685,8 +11743,28 @@ Trig</source>
         <translation>Среднее</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>Полужирный</translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -11695,10 +11773,6 @@ Trig</source>
     <message>
         <source>Bottom Double Border</source>
         <translation>Сдвоенная нижняя граница</translation>
-    </message>
-    <message>
-        <source>Cancel Merge</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cells</source>
@@ -11737,139 +11811,11 @@ Trig</source>
         <translation>Примечания</translation>
     </message>
     <message>
-        <source>ConditionDate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLateSeven</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateToday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateTomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateYesterday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgAbove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgBelow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialBetween</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLarge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLess</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialEmpty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialError</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextBeginWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextEndWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextNoContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Conditional Formatting</source>
         <translation>Условное форматирование</translation>
     </message>
     <message>
-        <source>ConditionalClear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalSelf</source>
+        <source>Contain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11897,12 +11843,20 @@ Trig</source>
         <translation>Денежный</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Custom Sort</source>
         <translation>Пользовательская сортировка</translation>
     </message>
     <message>
         <source>Cut</source>
         <translation>Вырезать</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -11945,6 +11899,10 @@ Trig</source>
         <translation type="obsolete">Подробные параметры</translation>
     </message>
     <message>
+        <source>Does not contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Down</source>
         <translation>Вниз</translation>
     </message>
@@ -11961,8 +11919,24 @@ Trig</source>
         <translation>Редактирование</translation>
     </message>
     <message>
+        <source>Empty Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Erase Border</source>
         <translation>Стереть границу</translation>
+    </message>
+    <message>
+        <source>Error Value </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -12029,6 +12003,10 @@ Trig</source>
         <translation>Перейти</translation>
     </message>
     <message>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide Columns</source>
         <translation>Скрыть столбцы</translation>
     </message>
@@ -12045,7 +12023,11 @@ Trig</source>
         <translation>Скрыть или показать</translation>
     </message>
     <message>
-        <source>HighLight</source>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12089,12 +12071,24 @@ Trig</source>
         <translation>Курсив</translation>
     </message>
     <message>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation>Слева</translation>
     </message>
     <message>
         <source>Left Border</source>
         <translation>Левая граница</translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -12149,6 +12143,14 @@ Center</source>
     <message>
         <source>Move or Copy Sheet</source>
         <translation>Переместить или скопировать лист</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Border</source>
@@ -12263,6 +12265,10 @@ Center</source>
         <translation type="obsolete">Сортировать по убыванию</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Standard Width</source>
         <translation>Ширина столбца</translation>
     </message>
@@ -12279,6 +12285,10 @@ Center</source>
         <translation>Цвет вкладки</translation>
     </message>
     <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Color</source>
         <translation>Цвет текста</translation>
     </message>
@@ -12289,6 +12299,30 @@ Center</source>
     <message>
         <source>Thick Box Border</source>
         <translation>Толстая внешняя граница</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -12327,8 +12361,16 @@ Center</source>
         <translation>Показать лист</translation>
     </message>
     <message>
+        <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>Вверх</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Values</source>
@@ -12343,12 +12385,20 @@ Center</source>
         <translation>Вертикальный текст</translation>
     </message>
     <message>
+        <source>Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WorkSheet</source>
         <translation>Лист</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <translation>Перенос по словам</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13269,7 +13319,7 @@ Center</source>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>Обновить данные</translation>
+        <translation type="obsolete">Обновить данные</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -13709,6 +13759,10 @@ Other Windows</source>
         <translation type="obsolete">Инструменты разработчика</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Formula Bar</source>
         <translation>Строка формул</translation>
     </message>
@@ -13763,10 +13817,6 @@ Other Windows</source>
     <message>
         <source>Print Headings</source>
         <translation>Печать заголовков</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -14553,11 +14603,11 @@ Color</source>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>Очистить выделенные повторения</translation>
+        <translation type="obsolete">Очистить выделенные повторения</translation>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>Очистить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Очистить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -14569,7 +14619,7 @@ Color</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Повторения</translation>
+        <translation type="obsolete">Повторения</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -14589,7 +14639,7 @@ Color</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="obsolete">Режим защиты глаз</translation>
+        <translation type="unfinished">Режим защиты глаз</translation>
     </message>
     <message>
         <source>File Auto backup</source>
@@ -14613,7 +14663,7 @@ Color</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -14720,20 +14770,16 @@ Color</source>
         <translation>Открыть файл из облачного сервиса</translation>
     </message>
     <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reading Layout</source>
         <translation>Макет для чтения</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Отклонить повторяющиеся элементы</translation>
+        <translation type="obsolete">Отклонить повторяющиеся элементы</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Удалить повторения</translation>
+        <translation type="obsolete">Удалить повторения</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -14741,11 +14787,11 @@ Color</source>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>Установить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Установить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -18204,11 +18250,11 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>Очистить выделенные повторения</translation>
+        <translation type="obsolete">Очистить выделенные повторения</translation>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>Очистить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Очистить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -18220,7 +18266,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Повторения</translation>
+        <translation type="obsolete">Повторения</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -18243,12 +18289,16 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation>Преобразовать в PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>Роуминг файлов</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -18311,10 +18361,6 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="obsolete">Изображения из Интернета</translation>
     </message>
     <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reading Layout</source>
         <translation>Макет для чтения</translation>
     </message>
@@ -18324,11 +18370,11 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Отклонить повторяющиеся элементы</translation>
+        <translation type="obsolete">Отклонить повторяющиеся элементы</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Удалить повторения</translation>
+        <translation type="obsolete">Удалить повторения</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -18340,11 +18386,11 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>Выделить повторения</translation>
+        <translation type="obsolete">Выделить повторения</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>Установить повторения отклонённых вставок</translation>
+        <translation type="obsolete">Установить повторения отклонённых вставок</translation>
     </message>
     <message>
         <source>Sign in</source>

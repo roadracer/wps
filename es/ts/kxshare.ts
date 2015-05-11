@@ -236,6 +236,18 @@
         <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The layout will take effect after restart or logoff computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DownLoad Online Fonts &quot;%1&quot; Successful(Restart to take effect)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online font downloading,click font list see more detail.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCompressPicturesDlg</name>
@@ -356,10 +368,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>about:blank</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>applying...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -395,6 +403,10 @@
     <name>KFileSaveDialog</name>
     <message>
         <source>&amp;Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileName or PathName is longger than 218 chars!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -600,6 +612,21 @@
     </message>
     <message>
         <source>Your input is incorrect and the program will exit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRepeatableInputPasswordDlg</name>
+    <message>
+        <source>Enter password to open file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Contraseña</translation>
+    </message>
+    <message>
+        <source>Password error, try again</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1091,7 +1118,7 @@ Subíndices y superíndices</translation>
     </message>
     <message>
         <source>%1%2</source>
-        <translation>%1%2</translation>
+        <translation type="obsolete">%1%2</translation>
     </message>
     <message>
         <source>Help file doesn&apos;t exist or is broken!</source>
@@ -1112,10 +1139,6 @@ Subíndices y superíndices</translation>
     <message>
         <source>%1(%2)</source>
         <translation>%1(%2)</translation>
-    </message>
-    <message>
-        <source>res:/icons/kxshare/%1.png</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Part of %1 activation version</source>
@@ -1139,6 +1162,51 @@ Subíndices y superíndices</translation>
     </message>
     <message>
         <source>Cannot find help file or help file encountered an error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxAddRestrictUserDlg</name>
+    <message>
+        <source>Add Users</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
+Separate names with a semicolon(;).
+To select names from the Address book, click the Read or Change button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add users from the Address Book</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read...   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change...   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change Access</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1363,6 +1431,32 @@ Subíndices y superíndices</translation>
     <message>
         <source>Register Custom Control...</source>
         <translation>Registrar control personalizado...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCroppingScalesGalleryModel</name>
+    <message>
+        <source>CroppingScale_Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CroppingScale_Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CroppingScale_Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CroppingScale_Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCroppingScalesGalleryModelItem</name>
+    <message>
+        <source>CroppingScale_Free</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1900,6 +1994,21 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgFileFmtSupport</name>
+    <message>
+        <source>WPS FileFormat Confirm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgFillEffects</name>
     <message>
         <source>Fill Effects</source>
@@ -2193,6 +2302,29 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgHttpAuthentication</name>
+    <message>
+        <source>Http authentication required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connect to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please supply a Username and a Password!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgInputBox</name>
     <message>
         <source>Input:</source>
@@ -2413,6 +2545,10 @@ p, li { white-space: pre-wrap; }
         <source>Set as &amp;default template</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>pushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPrintProgress</name>
@@ -2521,6 +2657,29 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Screen&amp;Tip text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSelectUser</name>
+    <message>
+        <source>Select User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Select one of the following user accounts to create or open content with restricted permission.To use an account not listed below,click Add.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;lways use this account</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2950,6 +3109,29 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
 </context>
 <context>
+    <name>KxFontsGalleryRecommendTip</name>
+    <message>
+        <source>See details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has used cloud fonts &quot;%1&quot;. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has used cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxFormatShapeDlg</name>
     <message>
         <source>Colors and Lines</source>
@@ -3010,6 +3192,13 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <message>
         <source>Network Error! Upload file failed!</source>
         <translation type="obsolete">¡Error de red! ¡La subida del archivo ha fallado!</translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryRecommendFontItem</name>
+    <message>
+        <source>(Pay)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3207,6 +3396,17 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
 </context>
 <context>
+    <name>KxLoadingRMSDlg</name>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying your logon information for opening content with restricted permission...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxMacroActionButtonCommand</name>
     <message>
         <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook or all macros may be disabled.</source>
@@ -3368,6 +3568,22 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>Redo</source>
         <translation>Rehacer</translation>
     </message>
+    <message>
+        <source>Close all tabs or current tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cancel Close</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxModifyCommandDlg</name>
@@ -3526,6 +3742,60 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>Download</source>
         <translation type="unfinished">Descargar</translation>
     </message>
+    <message>
+        <source>import templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>template file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97/2000/XP/2003 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFontController</name>
+    <message>
+        <source>Cloud font reserves to the upper (%1), please go to the &quot;management of cloud font&quot; page for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFontRecommendDlg</name>
+    <message>
+        <source>Tip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished">Descargar</translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Complete</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineFontTipDlg</name>
@@ -3546,20 +3816,20 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <translation type="unfinished">Aceptar</translation>
     </message>
     <message>
-        <source>Cannot connect to this service. Check your network connection please.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You still not a senior member?upgrade to enjoy more cloud fonts now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Vip %1 has expired, please renew</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS members enjoy more than 300 cloud font, monthly not regularly updated new font, let your document colorful!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to connect to server, please check your network connection.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3582,10 +3852,6 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Online Fonts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More online fonts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3644,6 +3910,14 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Restart to take effect).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3722,6 +3996,69 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionOptionDlg</name>
+    <message>
+        <source>Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Restrict permission to this document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following &amp;users have permission to this document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remo&amp;ve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Additional permissions for users:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document expires o&amp;n:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter date in format: yyyy/M/d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow users with read access to &amp;copy content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access content pr&amp;ogrammatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Additional settings:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users can request additonal per&amp;missions from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;quire a connection to verify a user&apos;s permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Set defaults...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4155,6 +4492,63 @@ the file may be renamed,deleted or moved the location.</source>
     </message>
 </context>
 <context>
+    <name>KxRestrictedAccessDlg</name>
+    <message>
+        <source>Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Restrict permission to this document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
+Separate names with a semicolon(;).
+To select names from the Address book, click the Read or Change button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add users from the Address Book</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read...   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change...   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displays advanced settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> More &amp;Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxRnCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
@@ -4230,6 +4624,10 @@ but the included system package is reserved.</source>
         <source>upload</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>(custom)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxStartup</name>
@@ -4292,6 +4690,10 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>I already know</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restart or logoff computer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4472,6 +4874,10 @@ but the included system package is reserved.</source>
     <message>
         <source>Modified</source>
         <translation>Modificado</translation>
+    </message>
+    <message>
+        <source>browse templates location</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5246,6 +5652,10 @@ cannot be previewed.</source>
         <source>Cannot be previewed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetTextBox</name>
@@ -5755,11 +6165,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <translation>Aceptar</translation>
     </message>
     <message>
-        <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <source>&amp;Technical Support...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Technical Support...</source>
+        <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

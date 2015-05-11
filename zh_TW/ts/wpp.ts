@@ -228,7 +228,7 @@
     <name>DesignLayoutPanel</name>
     <message>
         <source>Add Design</source>
-        <translation type="obsolete">增加設計方案(D)</translation>
+        <translation type="unfinished">增加設計方案(D)</translation>
     </message>
     <message>
         <source>Apply to &amp;All</source>
@@ -256,7 +256,7 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation>增加設計方案(D)</translation>
+        <translation type="obsolete">增加設計方案(D)</translation>
     </message>
     <message>
         <source>Show Large Previews(L)</source>
@@ -4507,7 +4507,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Zoom</source>
-        <translation>表單</translation>
+        <translation type="obsolete">表單</translation>
     </message>
     <message>
         <source>apply all slides</source>
@@ -4568,6 +4568,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>transition type:</source>
         <translation type="obsolete">投影片換頁</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

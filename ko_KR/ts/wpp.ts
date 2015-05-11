@@ -118,7 +118,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add &amp;Design</source>
+        <source>Add Design</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -259,6 +259,29 @@
     </message>
     <message>
         <source>Slides in &amp;presentation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DlgKxInvolvedTemplate</name>
+    <message>
+        <source>Involved Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Involved Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Master</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -751,6 +774,14 @@
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bgMagic tooltip</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxBrowseSlidesDlg</name>
@@ -943,6 +974,18 @@
         <source>I&amp;gnore the background of master slide</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Magic Backgroud</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgBkgndMusicTip</name>
@@ -1124,6 +1167,27 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEmbedPrivateFonts</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application documents online font, if your document needs circulated others, 
+we recommend that you saved earlier document fonts. 
+If necessary, click Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember this operation, do not remind anymore</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1553,10 +1617,10 @@ the presentation file directly.You can put it with the presentation file in the 
         <source>&amp;Vertical ruler</source>
         <translation type="unfinished"></translation>
     </message>
-	<message>
-		<source>Show &amp;windows in taskbar</source>
-		<translation type="unfinished"></translation>
-	</message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>...</source>
         <translation type="unfinished"></translation>
@@ -1607,11 +1671,6 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter a password below to protect this document.
-The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1814,6 +1873,42 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Spell Check</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preserve &amp;fidelity when sharing this document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed fon&amp;ts in the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed all &amp;characters (best for editing by other people)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remind &amp;Me When Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -1917,10 +2012,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>On-screen show</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Orientation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1937,10 +2028,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Projector</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Slides</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1950,6 +2037,26 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(4:3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overhead</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:9)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:10)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Widescreen</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2553,10 +2660,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save Adobe PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The directory you specified does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2578,6 +2681,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2772,6 +2879,20 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxInvolvedTemplateDlg</name>
+    <message>
+        <source>Blank Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxInvolvedTemplateView</name>
+    <message>
+        <source>Use Blank Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Banded Columns</source>
@@ -2845,6 +2966,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3211,7 +3344,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zoom</source>
+        <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4305,10 +4438,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Adobe PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4420,6 +4549,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Export PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -4432,11 +4565,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export to Adobe PDF File</source>
+        <source>Preparing for exporting PDF file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preparing for exporting PDF file...</source>
+        <source>Export to PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -123,7 +123,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add &amp;Design</source>
+        <source>Add Design</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3746,10 +3746,6 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>loop play, to the next voice began</source>
         <translation type="obsolete">Loop until next sound</translation>
     </message>
@@ -3759,6 +3755,10 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>Loop until next sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

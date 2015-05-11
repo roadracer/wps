@@ -127,7 +127,8 @@
 Try one or more of the following:
 1、Check whether the source file has been opened or occupied by other programs.
 2、Check whether the source file is protected.
-3、Ensure that the source file is in the appropriate directory.</source>
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2588,11 +2589,6 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPSV6-TEXT</source>
-        <comment>_TxFilter_ConfigKey</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
         <comment>_TxDocument_KRM_RightsWillLost</comment>
         <translation type="unfinished"></translation>
@@ -4670,7 +4666,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxCaption_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový z výchozí šablony </translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -4680,7 +4676,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxTooltip_NewFromDefaultTemplate</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový z výchozí šablony </translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -4690,7 +4686,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>New from Default Template</source>
         <comment>TxTooltip_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový z výchozí šablony </translation>
     </message>
     <message>
         <source>Bold</source>
@@ -6822,6 +6818,11 @@ pravopisu</translation>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

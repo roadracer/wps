@@ -1656,12 +1656,12 @@ Samengevoegde Data</translation>
         <translation>Verwerp Geselecteerde Opmerking</translation>
     </message>
     <message>
-        <source>ReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reviewers</source>
         <translation>Revisoren</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -1672,11 +1672,23 @@ Samengevoegde Data</translation>
         <translation>Toon Alle Revisies Inline</translation>
     </message>
     <message>
-        <source>Show Author</source>
+        <source>Show Comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Reviewers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1810,6 +1822,10 @@ Samengevoegde Data</translation>
         <translation>Exporteer naar PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fast Calculation</source>
         <translation>Snelle berekening</translation>
     </message>
@@ -1880,10 +1896,6 @@ Samengevoegde Data</translation>
     <message>
         <source>Paste Special</source>
         <translation type="obsolete">Plakken speciaal</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -3367,6 +3379,10 @@ Direction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exporteer naar PDF</translation>
     </message>
@@ -4335,6 +4351,10 @@ Painter</source>
     <message>
         <source>Date/Time</source>
         <translation type="obsolete">Datum/Tijd</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -6262,7 +6282,7 @@ Voetnoot/Eindnoot</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>Opties voor Bijhouden van Wijzigingen...</translation>
+        <translation type="obsolete">Opties voor Bijhouden van Wijzigingen...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -6383,12 +6403,20 @@ Comment</source>
         <translation>Beperk Bewerken</translation>
     </message>
     <message>
-        <source>ReviewPane</source>
+        <source>Reviewers</source>
+        <translation>Revisoren</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reviewers</source>
-        <translation>Revisoren</translation>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -6403,7 +6431,19 @@ Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6436,6 +6476,10 @@ Changes</source>
         <translation type="obsolete">Hou Wijzigingen Bij</translation>
     </message>
     <message>
+        <source>Track Changes Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tracking</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6451,14 +6495,6 @@ Count</source>
     <message>
         <source>Word Count</source>
         <translation type="obsolete">Woorden Tellen</translation>
-    </message>
-    <message>
-        <source>horzReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>vertReviewPane</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7494,6 +7530,10 @@ Map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full 
 Screen</source>
         <translation type="unfinished"></translation>
@@ -7567,10 +7607,6 @@ Layout</source>
     <message>
         <source>Print Layout</source>
         <translation type="obsolete">Print Opmaak</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -8752,6 +8788,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">Automatische Bestandsbackup</translation>
     </message>
@@ -8833,10 +8873,6 @@ Shape</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9659,8 +9695,16 @@ Diagonale Lijn in Cel</translation>
         <translation>Exporteer als Afbeelding</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exporteer naar PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -9687,7 +9731,7 @@ Diagonale Lijn in Cel</translation>
         <translation>Eerste Lijn Inspringen</translation>
     </message>
     <message>
-        <source>FixedText</source>
+        <source>Fixed Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9696,10 +9740,6 @@ Diagonale Lijn in Cel</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FollowText</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9913,7 +9953,7 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>InlineWrapText</source>
+        <source>In line with text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10049,6 +10089,10 @@ Painter</source>
         <translation>Mail Samenvoegen Werkbalk</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>Manuele Backup</translation>
     </message>
@@ -10123,6 +10167,10 @@ Painter</source>
     <message>
         <source>Move Here</source>
         <translation>Hierheen verplaatsen</translation>
+    </message>
+    <message>
+        <source>Move With Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Window</source>
@@ -10285,10 +10333,6 @@ Painter</source>
         <translation>Afbeelding</translation>
     </message>
     <message>
-        <source>Picture Format Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Place on Left</source>
         <translation>Plaats er Links van</translation>
     </message>
@@ -10315,10 +10359,6 @@ Painter</source>
     <message>
         <source>Properties</source>
         <translation>Eigenschappen</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -10401,7 +10441,19 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ReviewPane</source>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10529,11 +10581,11 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Format Style</source>
+        <source>Shape Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Outline</source>
+        <source>Shape Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10741,6 +10793,10 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">Update Online</translation>
     </message>
@@ -10885,10 +10941,6 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>horzReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>login</source>
         <translation type="obsolete">Inloggen</translation>
     </message>
@@ -10899,10 +10951,6 @@ Painter</source>
     <message>
         <source>openwebweibo</source>
         <translation type="obsolete">openwebweibo</translation>
-    </message>
-    <message>
-        <source>vertReviewPane</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
@@ -11810,6 +11858,10 @@ Diagonale Lijn in Cel</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exporteer naar PDF</translation>
     </message>
@@ -12690,6 +12742,10 @@ Header and Footer</source>
     <message>
         <source>Date/Time</source>
         <translation type="obsolete">Datum/Tijd</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -14462,7 +14518,7 @@ Eindnoot Invoegen</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>Opties voor Bijhouden van Wijzigingen...</translation>
+        <translation type="obsolete">Opties voor Bijhouden van Wijzigingen...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -14606,7 +14662,19 @@ Eindnoot Invoegen</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14632,6 +14700,10 @@ Eindnoot Invoegen</translation>
     <message>
         <source>Track Changes</source>
         <translation>Hou Wijzigingen Bij</translation>
+    </message>
+    <message>
+        <source>Track Changes Options...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -15472,6 +15544,10 @@ Other Windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full Screen</source>
         <translation>Volledig scherm</translation>
     </message>
@@ -15530,10 +15606,6 @@ Other Windows</source>
     <message>
         <source>Print Layout</source>
         <translation>Print Opmaak</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -16624,6 +16696,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">Automatische Bestandsbackup</translation>
     </message>
@@ -16685,10 +16761,6 @@ Effects</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21358,6 +21430,10 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21383,10 +21459,6 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21817,6 +21889,10 @@ Je kan ze ook centreren of ze gelijk verspreiden over de volledige pagina.</tran
     <message>
         <source>Document collaboration</source>
         <translation type="obsolete">Documentsamenwerking</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
@@ -22690,12 +22766,18 @@ Directly</source>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
+        <source>Switch UI</source>
+        <translation type="obsolete">Wijzig UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Wijzig UI</translation>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -22966,16 +23048,17 @@ Directly</source>
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
-        <translation type="obsolete">Wijzig UI</translation>
+        <translation type="unfinished">Wijzig UI</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

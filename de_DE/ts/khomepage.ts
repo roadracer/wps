@@ -67,5 +67,10 @@
         <source>Version is too old.</source>
         <translation>Version ist zu alt.</translation>
     </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

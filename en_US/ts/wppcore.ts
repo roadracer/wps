@@ -5629,11 +5629,6 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
-        <comment>WP_OPENFILE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif</source>
         <comment>WpALLPICTURE</comment>
         <translation type="unfinished"></translation>
@@ -6059,11 +6054,6 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>WPS Office has not found any installed printers.</source>
         <comment>WpMessage_NoPrinter</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
-        <comment>WP_SAVEFILE</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6493,6 +6483,81 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Involved Template</source>
         <comment>WpINVOLVEDTEMPLATE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <comment>WpDescAll</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
+        <comment>WpDescCommon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Files(*.dps)</source>
+        <comment>WpDescWPP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Templates(*.dpt)</source>
+        <comment>WpDescWPPTemp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescPptPps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
+        <comment>WpDescPpt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
+        <comment>WpDescPps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPptTemp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
+        <comment>WpDescPptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format(*.uof)</source>
+        <comment>WpDescUOF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format 2.0(*.uop)</source>
+        <comment>WpDescUOF2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)</source>
+        <comment>WpDescJPEG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PNG Portable Network Graphics Format(*.png)</source>
+        <comment>WpDescPNG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TIFF Tag Image File Format(*.tif)</source>
+        <comment>WpDescTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device Independent Bitmap(*.bmp)</source>
+        <comment>WpDescBMP</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

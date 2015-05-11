@@ -276,16 +276,6 @@ To open the second document with the same name, you can close the document that 
         <comment>TX_OpenFile_ReadOnly</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
-        <source>There are links to other data sources in this workbook.
-
-•If you update the links, WPS Spreadsheets will try to get the latest data.
-•If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
-
-Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
-        <comment>TX_NeedToUpdateExternalDataLink</comment>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
         <comment>TX_PrinterError</comment>
@@ -335,11 +325,6 @@ Note that data links can be used to access and share confidential information wi
     <message utf8="true">
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
         <comment>TX_Confirm_Max_Length_BookName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message utf8="true">
-        <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; |.</source>
-        <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
         <translation type="unfinished"></translation>
     </message>
     <message utf8="true">
@@ -2149,6 +2134,65 @@ Continue without Undo?</source>
         <comment>TX_ChangeAutoOutline</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; [ ] |.</source>
+        <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
+        <comment>TX_ERROR_INVALIDPASTERG_SHEET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The data not within the worksheet will be lost.
+If you want to continue importing the data can be accommodated, click &quot;OK&quot;</source>
+        <comment>TX_ImportText_Overflowed_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too much data returned by the query, can not be contained in a worksheet.
+
+To continue operating, and show as much data, click &quot;OK&quot;.
+To cancel the query, click &quot;Cancel&quot;.</source>
+        <comment>TX_ImportOtherData_Overflowed_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>macrosheet can not be save as xml, prn, dbf fileformat. please choose another format.</source>
+        <comment>TX_MacroSheet_CannotSave_As</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The query does not return data columns that can be used in WPS Spreadsheets.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Since the last one column contains data, WPS Spreadsheets can not insert columns. You will not get any data.</source>
+        <comment>TX_No_Available_Sheet_Columns</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
+        <comment>TX_BookReferencingByOther</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup</source>
+        <comment>TX_SaveAs_CreateBackup</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create a backup file, would you save &quot; %s &quot; without backup ?</source>
+        <comment>TX_CreateBackup_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -3175,11 +3219,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
-        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Connection</source>
         <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
         <translation type="unfinished"></translation>
@@ -3207,6 +3246,26 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Running background query...(Click here to cancel)</source>
+        <comment>TX_ETDBE_STR_BACKGROUND_QUERY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This action will cancel a pending Refresh Data command. Continue?</source>
+        <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:Getting Data ...</source>
+        <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4475,11 +4534,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RANK(number,ref,order)</source>
         <comment>RANK_GRAMMER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Returns the rank of a number in a list of numbers.</source>
-        <comment>RANK_REMARK</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6966,6 +7020,46 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>CALL_DESCRIPTION</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list.</source>
+        <comment>RANK_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RANK.AVG(number,ref,order)</source>
+        <comment>RANKAVG_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
+        <comment>RANKAVG_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RANK.EQ(number,ref,order)</source>
+        <comment>RANKEQ_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
+        <comment>RANKEQ_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
+        <comment>VOLATILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the yields of regular payment securities.</source>
+        <comment>VOLATILE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILES(directory_text)</source>
+        <comment>FILES_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_persist</name>
@@ -6992,11 +7086,6 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>WPS Spreadsheets Files(*.et; *.ett)</source>
         <comment>TX_ssDesc_AllET_</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx)</source>
-        <comment>TX_ssDesc_Normal_</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7240,14 +7329,6 @@ Notice: if the second operand queries the number as text, single quotes should b
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The following features cannot be saved in macro-disabled workbooks:
- VB project 
-.To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
-.To continue saving as a macro-disabled workbook, click Yes.</source>
-        <comment>TX_Save_Xlsx_Warning_Macro</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Microsoft Excel 2007/2010 Macro-Enabled Workbook(*.xlsm)</source>
         <comment>TX_ssDesc_Beta_Xlsm_</comment>
         <translation type="unfinished"></translation>
@@ -7333,6 +7414,62 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format 2.0(*.uos)</source>
+        <comment>TX_ssDesc_Uof2_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-disabled workbooks:
+</source>
+        <comment>TX_Save_Xlsx_Warning_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-disabled workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source> · VB project
+</source>
+        <comment>TX_Save_Xlsx_Warning_VBA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source> · Excel 4.0 function stored in defined names.
+</source>
+        <comment>TX_Save_Xlsx_Warning_MacroNames</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source> · Excel 4.0 Macro Sheets(these will be converted to normal worksheets)
+</source>
+        <comment>TX_Save_Xlsx_Warning_MacroSheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Query Files(*.iqy)</source>
+        <comment>TX_ssDesc_Iqy_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>TX_Persist_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The author supports opening &quot;%s&quot; with read-only way unless you need to modify.Do open with read-only mode?</source>
+        <comment>TX_Recommended_Read_Only</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13182,6 +13319,31 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaInfo_547</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission to this workbook is currently restricted.</source>
+        <comment>TX_IRMReadOnly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Page </source>
+        <comment>TX_CHECKSPELLING_FromFirstPage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Odd Page </source>
+        <comment>TX_CHECKSPELLING_FromOddPage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even Page </source>
+        <comment>TX_CHECKSPELLING_FromEvenPage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directory_text</source>
+        <comment>TX_ParaInfo_351</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

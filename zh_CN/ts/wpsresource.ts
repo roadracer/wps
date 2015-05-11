@@ -1734,11 +1734,15 @@ Merged Data</source>
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation>审阅窗格</translation>
+        <translation type="obsolete">审阅窗格</translation>
     </message>
     <message>
         <source>Reviewers</source>
         <translation>审阅人</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -1750,11 +1754,27 @@ Merged Data</source>
     </message>
     <message>
         <source>Show Author</source>
-        <translation>显示审阅者</translation>
+        <translation type="obsolete">显示审阅者</translation>
+    </message>
+    <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Date</source>
         <translation>显示日期</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Reviewers</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -1891,6 +1911,10 @@ Merged Data</source>
         <translation>输出为PDF格式</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fast Calculation</source>
         <translation>快速计算</translation>
     </message>
@@ -1968,7 +1992,7 @@ Merged Data</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -3541,6 +3565,10 @@ Direction</source>
         <translation>输入激活码</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为 PDF 格式</translation>
     </message>
@@ -4619,6 +4647,10 @@ Painter</source>
     <message>
         <source>Date/Time</source>
         <translation type="obsolete">日期</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -6635,7 +6667,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>修订选项...</translation>
+        <translation type="obsolete">修订选项...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -6769,11 +6801,23 @@ Comment</source>
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation type="unfinished">审阅窗格</translation>
+        <translation type="obsolete">审阅窗格</translation>
     </message>
     <message>
         <source>Reviewers</source>
         <translation>审阅人</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -6788,8 +6832,20 @@ Comment</source>
         <translation>显示审阅者</translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Date</source>
         <translation>显示日期</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
@@ -6825,6 +6881,10 @@ Changes</source>
         <translation type="obsolete">修订</translation>
     </message>
     <message>
+        <source>Track Changes Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tracking</source>
         <translation>修订</translation>
     </message>
@@ -6843,11 +6903,11 @@ Count</source>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation type="unfinished">水平审阅窗格</translation>
+        <translation type="obsolete">水平审阅窗格</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation type="unfinished">垂直审阅窗格</translation>
+        <translation type="obsolete">垂直审阅窗格</translation>
     </message>
 </context>
 <context>
@@ -7884,6 +7944,10 @@ Map</source>
         <translation>文档视图</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full 
 Screen</source>
         <translation>全屏显示</translation>
@@ -7960,7 +8024,7 @@ Layout</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -9157,7 +9221,7 @@ Shape</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="obsolete">护眼模式</translation>
+        <translation type="unfinished">护眼模式</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -9301,7 +9365,7 @@ Shape</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -10175,8 +10239,16 @@ Diagonal Line in Cell</source>
         <translation>输出为图片</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为PDF格式</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -10203,8 +10275,12 @@ Diagonal Line in Cell</source>
         <translation>首行缩进</translation>
     </message>
     <message>
+        <source>Fixed Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>FixedText</source>
-        <translation>固定在页面上</translation>
+        <translation type="obsolete">固定在页面上</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
@@ -10216,7 +10292,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>FollowText</source>
-        <translation>随文字移动</translation>
+        <translation type="obsolete">随文字移动</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -10445,8 +10521,12 @@ Painter</source>
         <translation>嵌入型</translation>
     </message>
     <message>
+        <source>In line with text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>InlineWrapText</source>
-        <translation>嵌入型</translation>
+        <translation type="obsolete">嵌入型</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -10597,6 +10677,10 @@ Painter</source>
         <translation>显示邮件合并工具栏</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>手动备份</translation>
     </message>
@@ -10675,6 +10759,10 @@ Painter</source>
     <message>
         <source>Move Here</source>
         <translation>移动到此处</translation>
+    </message>
+    <message>
+        <source>Move With Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Window</source>
@@ -10842,7 +10930,7 @@ Painter</source>
     </message>
     <message>
         <source>Picture Format Style</source>
-        <translation>样式</translation>
+        <translation type="obsolete">样式</translation>
     </message>
     <message>
         <source>Place on Left</source>
@@ -10874,7 +10962,7 @@ Painter</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -10965,8 +11053,24 @@ Painter</source>
         <translation>限制编辑</translation>
     </message>
     <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ReviewPane</source>
-        <translation type="unfinished">审阅窗格</translation>
+        <translation type="obsolete">审阅窗格</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -11094,11 +11198,15 @@ Painter</source>
     </message>
     <message>
         <source>Shape Format Style</source>
-        <translation>样式</translation>
+        <translation type="obsolete">样式</translation>
     </message>
     <message>
         <source>Shape Outline</source>
         <translation>轮廓</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -11317,6 +11425,10 @@ Painter</source>
         <translation>单位</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">检查更新</translation>
     </message>
@@ -11474,7 +11586,7 @@ Painter</source>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation type="unfinished">水平审阅窗格</translation>
+        <translation type="obsolete">水平审阅窗格</translation>
     </message>
     <message>
         <source>login</source>
@@ -11490,7 +11602,7 @@ Painter</source>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation type="unfinished">垂直审阅窗格</translation>
+        <translation type="obsolete">垂直审阅窗格</translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
@@ -12447,6 +12559,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>Enter Activation Code</source>
         <translation>输入激活码</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -13442,6 +13558,10 @@ Header and Footer</source>
     <message>
         <source>Date/Time</source>
         <translation type="obsolete">日期和时间</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -15258,7 +15378,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>修订选项...</translation>
+        <translation type="obsolete">修订选项...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -15420,8 +15540,20 @@ and Endnote</source>
         <translation>显示审阅者</translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Date</source>
         <translation>显示日期</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Reviewer Information in the Balloon</source>
@@ -15450,6 +15582,10 @@ and Endnote</source>
     <message>
         <source>Track Changes</source>
         <translation>修订</translation>
+    </message>
+    <message>
+        <source>Track Changes Options...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -16296,6 +16432,10 @@ Other Windows</source>
         <translation>文档视图</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full Screen</source>
         <translation>全屏显示</translation>
     </message>
@@ -16357,7 +16497,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -17473,7 +17613,7 @@ Effects</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="obsolete">护眼模式</translation>
+        <translation type="unfinished">护眼模式</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -17581,7 +17721,7 @@ Effects</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -22400,6 +22540,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation>输出为PDF格式</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>文档漫游</translation>
     </message>
@@ -22469,7 +22613,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -22975,6 +23119,10 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Document collaboration</source>
         <translation type="obsolete">文档备注</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
@@ -23933,16 +24081,21 @@ Directly</source>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation type="obsolete">皮肤</translation>
+        <translation type="unfinished">皮肤</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -24266,16 +24419,21 @@ Directly</source>
     </message>
     <message>
         <source>Professional Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="obsolete">更改界面</translation>
+        <translation type="unfinished">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
         <translation>皮肤</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

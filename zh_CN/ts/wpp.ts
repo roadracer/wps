@@ -207,7 +207,7 @@
     <name>DesignLayoutPanel</name>
     <message>
         <source>Add Design</source>
-        <translation type="obsolete">添加设计方案(D)</translation>
+        <translation type="unfinished">添加设计方案(D)</translation>
     </message>
     <message>
         <source>Apply to &amp;All</source>
@@ -235,7 +235,7 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation>添加设计方案(D)</translation>
+        <translation type="obsolete">添加设计方案(D)</translation>
     </message>
 </context>
 <context>
@@ -4811,7 +4811,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="obsolete">幻灯片切换</translation>
+        <translation type="unfinished">幻灯片切换</translation>
     </message>
     <message>
         <source>Sound:</source>
@@ -4823,7 +4823,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>缩放</translation>
+        <translation type="obsolete">缩放</translation>
     </message>
     <message>
         <source>loop play, to the next voice began</source>

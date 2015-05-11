@@ -977,12 +977,12 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Queries currently being excuted in the background:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Status</source>
         <translation type="unfinished">Stanje</translation>
+    </message>
+    <message>
+        <source>Queries currently being executed in the background:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1074,183 +1074,167 @@ condition is true:</source>
 <context>
     <name>KxConditionHighLightDlg</name>
     <message>
-        <source>HighLight - Numerial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_Equal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_NoEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_Large</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_LargeEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_Less</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_LessEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_BetweenMidfix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Numerial_BetweenSuffix</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_Between</source>
+        <source>Highlight-Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_NoBetween</source>
+        <source>Equal to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_TopCountPrefix</source>
+        <source>Not equal to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_TopCountSuffix</source>
+        <source>Greater than</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_LowCountPrefix</source>
+        <source>Greater than or equal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_LowCountSuffix</source>
+        <source>Less than</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_TopPercentPrefix</source>
+        <source>Less than or equal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_TopPercentSuffix</source>
+        <source>and</source>
+        <translation type="unfinished">in</translation>
+    </message>
+    <message>
+        <source>Between</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_LowPercentPrefix</source>
+        <source>Not between</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_LowPercentSuffix</source>
+        <source>Top</source>
+        <translation type="unfinished">Zgoraj</translation>
+    </message>
+    <message>
+        <source>Items</source>
+        <translation type="unfinished">Elementi</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Spodaj</translation>
+    </message>
+    <message>
+        <source>% Items</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_AvgSuffix</source>
+        <source>Average</source>
+        <translation type="unfinished">Povprečje</translation>
+    </message>
+    <message>
+        <source>Above</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_AvgAbove</source>
+        <source>Below</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Numerial_AvgBelow</source>
+        <source>Highlight-Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>HighLight - Text</source>
+        <source>Contain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text_Contain</source>
+        <source>Does not contain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text_NoContain</source>
+        <source>Begin with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text_BeginWith</source>
+        <source>End with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text_EndWith</source>
+        <source>Highlight-Date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>HighLight - Date</source>
+        <source>A Date Occurring</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Prefix</source>
+        <source>Yesterday</source>
+        <translation type="unfinished">Včeraj</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished">Danes</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished">Jutri</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Yesterday</source>
+        <source>Last week</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Today</source>
+        <source>This week</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Tomorrow</source>
+        <source>Next week</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_LateSeven</source>
+        <source>Last month</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_LastWeek</source>
+        <source>This month</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Week</source>
+        <source>Next month</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_NextWeek</source>
+        <source>Weekend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_LastMonth</source>
+        <source>Highlight-Special Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Month</source>
+        <source>Empty Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_NextMonth</source>
+        <source>Error value </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Date_Weekend</source>
+        <source>Lack input value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>HighLight - Special</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special_Empty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Special_Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A required input value is missing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>required range values is not enough</source>
+        <source>The required range value is insufficient</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1429,7 +1413,7 @@ condition is true:</source>
     <name>KxCustomHeaderFooterDlg</name>
     <message>
         <source>File</source>
-        <translation>Datoteka</translation>
+        <translation type="obsolete">Datoteka</translation>
     </message>
     <message>
         <source>Page</source>
@@ -1441,11 +1425,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Date</source>
-        <translation>Datum</translation>
+        <translation type="obsolete">Datum</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Čas</translation>
+        <translation type="obsolete">Čas</translation>
     </message>
     <message>
         <source>Tab</source>
@@ -1453,78 +1437,51 @@ condition is true:</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Slika</translation>
+        <translation type="obsolete">Slika</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>Glava</translation>
+        <translation type="obsolete">Glava</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation>Noga</translation>
-    </message>
-    <message>
-        <source>&amp;[%1]</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Noga</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Odpri</translation>
+        <translation type="obsolete">Odpri</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation>Vse slike</translation>
+        <translation type="obsolete">Vse slike</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation>Windows izboljšana metadatoteka</translation>
+        <translation type="obsolete">Windows izboljšana metadatoteka</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation>Windows metadatoteka</translation>
+        <translation type="obsolete">Windows metadatoteka</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation>JPEG datoteka za izmenjavo</translation>
+        <translation type="obsolete">JPEG datoteka za izmenjavo</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation>Portable Network Graphics</translation>
+        <translation type="obsolete">Portable Network Graphics</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation>Windows bitna slika</translation>
+        <translation type="obsolete">Windows bitna slika</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation>Graphics Interchange Format</translation>
+        <translation type="obsolete">Graphics Interchange Format</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation>TIFF</translation>
-    </message>
-    <message>
-        <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sheet Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Only one picture can be inserted in each section of the %1.
-
-To replace existing picture, press OK.
-To keep existing picture, press Cancel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">TIFF</translation>
     </message>
 </context>
 <context>
@@ -1856,24 +1813,8 @@ To keep existing picture, press Cancel.</source>
 <context>
     <name>KxDlgConditionHighLight</name>
     <message>
-        <source>Condition HighLight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cells with following condition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>original setting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>and</source>
-        <translation type="unfinished">in</translation>
-    </message>
-    <message>
-        <source>inside</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">in</translation>
     </message>
     <message>
         <source>spinPrefix</source>
@@ -1900,7 +1841,19 @@ To keep existing picture, press Cancel.</source>
         <translation type="unfinished">Po meri</translation>
     </message>
     <message>
-        <source>show following effect</source>
+        <source>Condition Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cells subjected to the following conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep the cell to its former setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display the following effect</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2133,18 +2086,18 @@ mestu. (Ne pozabite, da gesla razlikujejo velike in male črke.)</translation>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
 box, then choose the appropriate button.</source>
-        <translation>Vstavljanje številke strani, datuma, ure, poti do datoteke, imena datoteke ali imena zavihka:
+        <translation type="obsolete">Vstavljanje številke strani, datuma, ure, poti do datoteke, imena datoteke ali imena zavihka:
 mesto vstavljanja postavite v vnosno polje in izberite ustrezen gumb.</translation>
     </message>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation>Vstavljanje slike: kliknite gumb »Vstavi sliko«. Za oblikovanje slike postavite
+        <translation type="obsolete">Vstavljanje slike: kliknite gumb »Vstavi sliko«. Za oblikovanje slike postavite
 kazalec v vnosno polje in kliknite gumb »Ponastavi sliko«.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Pisava</translation>
+        <translation type="obsolete">Pisava</translation>
     </message>
     <message>
         <source>Page</source>
@@ -2156,15 +2109,15 @@ kazalec v vnosno polje in kliknite gumb »Ponastavi sliko«.</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Datum</translation>
+        <translation type="obsolete">Datum</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Ura</translation>
+        <translation type="obsolete">Ura</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Datoteka</translation>
+        <translation type="obsolete">Datoteka</translation>
     </message>
     <message>
         <source>Tab</source>
@@ -2172,42 +2125,26 @@ kazalec v vnosno polje in kliknite gumb »Ponastavi sliko«.</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Vstavi sliko</translation>
+        <translation type="obsolete">Vstavi sliko</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Ponastavi sliko</translation>
+        <translation type="obsolete">Ponastavi sliko</translation>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation>&amp;Levi odsek:</translation>
+        <translation type="obsolete">&amp;Levi odsek:</translation>
     </message>
     <message>
         <source>&amp;Center section:</source>
-        <translation>Odse&amp;k na sredini:</translation>
+        <translation type="obsolete">Odse&amp;k na sredini:</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
-        <translation>&amp;Desni odsek:</translation>
+        <translation type="obsolete">&amp;Desni odsek:</translation>
     </message>
     <message>
-        <source>input</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To format text: select the text, then click the font button.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sheet Name</source>
+        <source>headerfooter</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3100,6 +3037,77 @@ printer and your screen.</source>
     <message>
         <source>Summary columns to &amp;right of detail</source>
         <translation>Povzemi stolpce &amp;desno od podrobnosti</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgHeaderFooterWidget</name>
+    <message>
+        <source>input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To format text: select the text, then click the font button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To insert a page number, date, time, filename: position the insertion point in the  edit
+box, then choose the appropriate button.</source>
+        <translation type="unfinished">Vstavljanje številke strani, datuma, ure, poti do datoteke, imena datoteke ali imena zavihka:
+mesto vstavljanja postavite v vnosno polje in izberite ustrezen gumb.</translation>
+    </message>
+    <message>
+        <source>To insert picture: press the Insert Picture button. To format your picture, place the
+cursor in the edit box and press the Format Picture button.</source>
+        <translation type="unfinished">Vstavljanje slike: kliknite gumb »Vstavi sliko«. Za oblikovanje slike postavite
+kazalec v vnosno polje in kliknite gumb »Ponastavi sliko«.</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished">Pisava</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Datum</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Datoteka</translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished">Vstavi sliko</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation type="unfinished">Ponastavi sliko</translation>
+    </message>
+    <message>
+        <source>&amp;Left section:</source>
+        <translation type="unfinished">&amp;Levi odsek:</translation>
+    </message>
+    <message>
+        <source>&amp;Center section:</source>
+        <translation type="unfinished">Odse&amp;k na sredini:</translation>
+    </message>
+    <message>
+        <source>&amp;Right section:</source>
+        <translation type="unfinished">&amp;Desni odsek:</translation>
     </message>
 </context>
 <context>
@@ -4146,6 +4154,22 @@ p, li { white-space: pre-wrap; }
         <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>SaveAsCreateBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create&amp;Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RecommendedReadOnlyOption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;RecommendedReadOnly</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -4423,6 +4447,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Different odd and even pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D&amp;ifferent first page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sca&amp;le with document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align with page &amp;margins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6563,6 +6603,73 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxEtPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Pogled</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Uredi</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">Natisni</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Shrani</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtPrintPreviewZoomCommand</name>
     <message>
         <source>Print Scaling:</source>
@@ -7356,6 +7463,111 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Goal Seeking with Cell %1 still can not find a solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHeaderFooterDlg</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Glava</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation type="unfinished">Noga</translation>
+    </message>
+    <message>
+        <source>Odd Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHeaderFooterWidget</name>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Datoteka</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Datum</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">Slika</translation>
+    </message>
+    <message>
+        <source>&amp;[%1]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Odpri</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation type="unfinished">Vse slike</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation type="unfinished">Windows izboljšana metadatoteka</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation type="unfinished">Windows metadatoteka</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation type="unfinished">JPEG datoteka za izmenjavo</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation type="unfinished">Portable Network Graphics</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation type="unfinished">Windows bitna slika</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation type="unfinished">Graphics Interchange Format</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation type="unfinished">TIFF</translation>
+    </message>
+    <message>
+        <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only one picture can be inserted in each section of the %1.
+
+To replace existing picture, press OK.
+To keep existing picture, press Cancel.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8969,6 +9181,113 @@ You may still need to manually update any references to this name used in VBA co
     </message>
 </context>
 <context>
+    <name>KxValidationDlg</name>
+    <message>
+        <source>&amp;Minimum:</source>
+        <translation type="unfinished">Na&amp;jmanj:</translation>
+    </message>
+    <message>
+        <source>Ma&amp;ximum:</source>
+        <translation type="unfinished">Ma&amp;ksimum:</translation>
+    </message>
+    <message>
+        <source>&amp;Source:</source>
+        <translation type="unfinished">&amp;Vir:</translation>
+    </message>
+    <message>
+        <source>&amp;Start date:</source>
+        <translation type="unfinished">&amp;Začetni datum:</translation>
+    </message>
+    <message>
+        <source>E&amp;nd date:</source>
+        <translation type="unfinished">Končni da&amp;tum:</translation>
+    </message>
+    <message>
+        <source>&amp;Start time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E&amp;nd time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Formula:</source>
+        <translation type="unfinished">&amp;Formula:</translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Time:</source>
+        <translation type="unfinished">&amp;Ura:</translation>
+    </message>
+    <message>
+        <source>Da&amp;te:</source>
+        <translation type="unfinished">&amp;Datum:</translation>
+    </message>
+    <message>
+        <source>You must enter both a Maximum and a Minimum.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Minimum.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Maximum.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Source.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Formula cannot be longer than 255 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Date.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter both an End Date and a Start Date.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter an End Date.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Start Date.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter both an End Time and a Start Time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Start Time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter an End Time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Formula.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWidgetAlign</name>
     <message>
         <source>Orientation</source>
@@ -10048,103 +10367,35 @@ t</source>
     </message>
     <message>
         <source>&amp;Minimum:</source>
-        <translation>Na&amp;jmanj:</translation>
+        <translation type="obsolete">Na&amp;jmanj:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation>Ma&amp;ksimum:</translation>
+        <translation type="obsolete">Ma&amp;ksimum:</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation>&amp;Vir:</translation>
+        <translation type="obsolete">&amp;Vir:</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation>&amp;Začetni datum:</translation>
+        <translation type="obsolete">&amp;Začetni datum:</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation>Končni da&amp;tum:</translation>
-    </message>
-    <message>
-        <source>&amp;Start time:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E&amp;nd time:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Končni da&amp;tum:</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation>&amp;Formula:</translation>
-    </message>
-    <message>
-        <source>&amp;Value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Formula:</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation>&amp;Ura:</translation>
+        <translation type="obsolete">&amp;Ura:</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
-        <translation>&amp;Datum:</translation>
-    </message>
-    <message>
-        <source>You must enter both a Maximum and a Minimum.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter a Value.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter a Minimum.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter a Maximum.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter a Source.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter a Date.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter both an End Date and a Start Date.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter an End Date.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter a Start Date.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter both an End Time and a Start Time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter a Time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter a Start Time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter an End Time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You must enter a Formula.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Datum:</translation>
     </message>
     <message>
         <source>%1 is read-only.  If you want to save a copy,  Click OK,  then give a new name for this workbook in the Save As dialog box.</source>

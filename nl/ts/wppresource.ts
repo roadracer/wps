@@ -2846,6 +2846,10 @@ Aan</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exporteer naar PDF</translation>
     </message>
@@ -7697,6 +7701,10 @@ Add-Ins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exporteer naar PDF</translation>
     </message>
@@ -8179,10 +8187,6 @@ Model</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Picture Format Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play</source>
         <translation>Afspelen</translation>
     </message>
@@ -8379,11 +8383,11 @@ Model</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Format Style</source>
+        <source>Shape Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Line</source>
+        <source>Shape Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8497,6 +8501,10 @@ Model</translation>
     <message>
         <source>StudyOnline</source>
         <translation type="obsolete">StudeerOnline</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -9454,6 +9462,10 @@ Template</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export OFD Format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16579,6 +16591,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation type="unfinished">Waar</translation>
     </message>
@@ -16851,6 +16868,11 @@ Slide</source>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

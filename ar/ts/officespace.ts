@@ -61,10 +61,6 @@
         <source>This file does not belong to the current user. Please change the account</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Check failed because the account was logged off. Please login again.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KCloudFileStatePanel</name>
@@ -89,10 +85,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Light address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>From the current device</source>
         <translation type="unfinished"></translation>
     </message>
@@ -102,10 +94,6 @@
     </message>
     <message>
         <source>Manually stopped uploading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New version is available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -170,6 +158,14 @@
     </message>
     <message>
         <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available, Please Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New version is available, Please Check</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -294,6 +290,10 @@
     </message>
     <message>
         <source>netbackup rollback failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>http://www.kingsoftstore.com/support/pc-office</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -907,6 +907,10 @@ path:%3</source>
         <source>Clear Invalid Records</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KRoamingFilePageFixedButton</name>
@@ -1167,6 +1171,17 @@ path:%3</source>
     </message>
 </context>
 <context>
+    <name>KWebviewDialogImpl</name>
+    <message>
+        <source>Open Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxCheckUploadDlg</name>
     <message>
         <source>Documents saving to the cloud failed. Please check the internet and retry</source>
@@ -1263,7 +1278,7 @@ path:%3</source>
         <source>Sync Progress</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>Syncing, please wait…</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2027,6 +2042,17 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kxKOSUserGiftMenuCommand</name>
+    <message>
+        <source>New messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP soon to be expired</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

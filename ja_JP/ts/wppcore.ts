@@ -6717,12 +6717,12 @@ Layout</source>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation>すべてのファイル(*.*)|*.*|一般のファイル(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation ファイル(*.dps)|*.dps|Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 2000/XP/2003 ファイル(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 ファイル(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+        <translation type="obsolete">すべてのファイル(*.*)|*.*|一般のファイル(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation ファイル(*.dps)|*.dps|Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 2000/XP/2003 ファイル(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 ファイル(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
     </message>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
         <comment>WP_SAVEFILE</comment>
-        <translation>Kingsoft Presentation ファイル(*.dps)|*.dps|Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint  2000/XP/2003 ファイル(*.ppt)|*.ppt|Microsoft PowerPoint  2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2000/XP/2003 スライドショー(*.pps)|*.pps|JPEGファイル交換形式(*.jpg)|*.jpg|PNGポータブル　ネットワーク形式(*.png)|*.png|TIFF形式(*.tif)|*.tif|デバイスに依存しないビットマップ(*.bmp)|*.bmp</translation>
+        <translation type="obsolete">Kingsoft Presentation ファイル(*.dps)|*.dps|Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint  2000/XP/2003 ファイル(*.ppt)|*.ppt|Microsoft PowerPoint  2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2000/XP/2003 スライドショー(*.pps)|*.pps|JPEGファイル交換形式(*.jpg)|*.jpg|PNGポータブル　ネットワーク形式(*.png)|*.png|TIFF形式(*.tif)|*.tif|デバイスに依存しないビットマップ(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
@@ -6765,6 +6765,81 @@ Check</source>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>WpMsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <comment>WpDescAll</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
+        <comment>WpDescCommon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Files(*.dps)</source>
+        <comment>WpDescWPP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Templates(*.dpt)</source>
+        <comment>WpDescWPPTemp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescPptPps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
+        <comment>WpDescPpt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
+        <comment>WpDescPps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPptTemp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
+        <comment>WpDescPptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format(*.uof)</source>
+        <comment>WpDescUOF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format 2.0(*.uop)</source>
+        <comment>WpDescUOF2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)</source>
+        <comment>WpDescJPEG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PNG Portable Network Graphics Format(*.png)</source>
+        <comment>WpDescPNG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TIFF Tag Image File Format(*.tif)</source>
+        <comment>WpDescTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device Independent Bitmap(*.bmp)</source>
+        <comment>WpDescBMP</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

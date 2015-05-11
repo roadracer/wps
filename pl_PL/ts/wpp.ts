@@ -129,7 +129,11 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation>Dodaj &amp;projekt</translation>
+        <translation type="obsolete">Dodaj &amp;projekt</translation>
+    </message>
+    <message>
+        <source>Add Design</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3586,11 +3590,15 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Powiększenie</translation>
+        <translation type="obsolete">Powiększenie</translation>
     </message>
     <message>
         <source>Loop until next sound</source>
         <translation>W pętli do następnego dźwięku</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

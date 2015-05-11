@@ -576,11 +576,21 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>WPS Writer napotkał błąd podczas próby aktualizacji pliku źródłowego.
+        <translation type="obsolete">WPS Writer napotkał błąd podczas próby aktualizacji pliku źródłowego.
 Spróbuj wykonać jedną lub więcej z następujących czynności:
 1、Sprawdź czy plik źródłowy jest otwarty lub używany przez inne programy.
 2、Sprawdź czy plik źródłowy jest chroniony.
 3、Upewnij się, że plik źródłowy jest w odpowiednim katalogu.</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3142,7 +3152,7 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation>WPSV6-TEKST</translation>
+        <translation type="obsolete">WPSV6-TEKST</translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
@@ -7650,6 +7660,11 @@ pisowni</translation>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
         <translation>Kolorowa siatka - akcent 6</translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
