@@ -38,15 +38,24 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation>NiestandardowyNiestandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>GłębokośćGłębia</translation>
+        <translation variants="yes">
+            <lengthvariant>Głębokość</lengthvariant>
+            <lengthvariant>Głębia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation>PrzygaszonePrzyciemniony</translation>
+        <translation variants="yes">
+            <lengthvariant>Przygaszone</lengthvariant>
+            <lengthvariant>Przyciemniony</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Direction</source>
@@ -74,7 +83,10 @@
     </message>
     <message>
         <source>Normal</source>
-        <translation>NormalneNormalny</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalne</lengthvariant>
+            <lengthvariant>Normalny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -90,7 +102,10 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation>KroplomierzWybór koloru</translation>
+        <translation variants="yes">
+            <lengthvariant>Kroplomierz</lengthvariant>
+            <lengthvariant>Wybór koloru</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Surface</source>
@@ -177,7 +192,10 @@
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kodPokaż kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -195,11 +213,17 @@
     </message>
     <message>
         <source>Cycle</source>
-        <translation>CyklicznyCykl</translation>
+        <translation variants="yes">
+            <lengthvariant>Cykliczny</lengthvariant>
+            <lengthvariant>Cykl</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation>Wstaw kształtyWstawianie kształtów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw kształty</lengthvariant>
+            <lengthvariant>Wstawianie kształtów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
@@ -211,7 +235,10 @@
     </message>
     <message>
         <source>Pyramid</source>
-        <translation>PiramidaOstrosłupowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Piramida</lengthvariant>
+            <lengthvariant>Ostrosłupowy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Radial</source>
@@ -223,11 +250,18 @@
     </message>
     <message>
         <source>Target</source>
-        <translation>DocelowyObiekt docelowyElement docelowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Docelowy</lengthvariant>
+            <lengthvariant>Obiekt docelowy</lengthvariant>
+            <lengthvariant>Element docelowy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Venn</source>
-        <translation>VennaDiagram Venna</translation>
+        <translation variants="yes">
+            <lengthvariant>Venna</lengthvariant>
+            <lengthvariant>Diagram Venna</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -466,7 +500,10 @@
     </message>
     <message>
         <source>Diagram</source>
-        <translation>DiagramSchemat</translation>
+        <translation variants="yes">
+            <lengthvariant>Diagram</lengthvariant>
+            <lengthvariant>Schemat</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -542,7 +579,10 @@
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie onlineWstawianie obrazów w trybie online</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obrazy w trybie online</lengthvariant>
+            <lengthvariant>Wstawianie obrazów w trybie online</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -550,7 +590,10 @@
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>Wstaw WordArtWstaw obiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw WordArt</lengthvariant>
+            <lengthvariant>Wstaw obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Line</source>
@@ -562,7 +605,10 @@
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreskaMyślnik</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -590,7 +636,10 @@
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3-DBez 3-D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -610,7 +659,10 @@
     </message>
     <message>
         <source>Oval</source>
-        <translation>OwalElipsa</translation>
+        <translation variants="yes">
+            <lengthvariant>Owal</lengthvariant>
+            <lengthvariant>Elipsa</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -750,11 +802,17 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation>KroplomierzWybór koloru</translation>
+        <translation variants="yes">
+            <lengthvariant>Kroplomierz</lengthvariant>
+            <lengthvariant>Wybór koloru</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiągłeCiagły</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciągłe</lengthvariant>
+            <lengthvariant>Ciagły</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -766,7 +824,10 @@
     </message>
     <message>
         <source>Up</source>
-        <translation>W góręDo góry</translation>
+        <translation variants="yes">
+            <lengthvariant>W górę</lengthvariant>
+            <lengthvariant>Do góry</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
@@ -883,7 +944,10 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation>KroplomierzWybór koloru</translation>
+        <translation variants="yes">
+            <lengthvariant>Kroplomierz</lengthvariant>
+            <lengthvariant>Wybór koloru</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -926,14 +990,20 @@
     </message>
     <message>
         <source>Numbering</source>
-        <translation>NumerowanieNumeracja</translation>
+        <translation variants="yes">
+            <lengthvariant>Numerowanie</lengthvariant>
+            <lengthvariant>Numeracja</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
     <name>classics.org_chart</name>
     <message>
         <source>Insert Shapes</source>
-        <translation>Wstaw kształtyWstawianie kształtów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw kształty</lengthvariant>
+            <lengthvariant>Wstawianie kształtów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Layout</source>
@@ -976,7 +1046,10 @@
     </message>
     <message>
         <source>Fit Text</source>
-        <translation>Dopasuj tekstDopasowywanie tekstu</translation>
+        <translation variants="yes">
+            <lengthvariant>Dopasuj tekst</lengthvariant>
+            <lengthvariant>Dopasowywanie tekstu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Left Hanging</source>
@@ -992,11 +1065,17 @@
     </message>
     <message>
         <source>Standard</source>
-        <translation>StandardowyStandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Standardowy</lengthvariant>
+            <lengthvariant>Standardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Subordinate</source>
-        <translation>PodwładnyPodrzędny</translation>
+        <translation variants="yes">
+            <lengthvariant>Podwładny</lengthvariant>
+            <lengthvariant>Podrzędny</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -1059,7 +1138,10 @@
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatuj obiektFormatowanie obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -1122,7 +1204,10 @@
     </message>
     <message>
         <source>Frame Slides</source>
-        <translation>Obramowania slajdówObramowania wokół slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Obramowania slajdów</lengthvariant>
+            <lengthvariant>Obramowania wokół slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -1254,14 +1339,20 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation>KroplomierzWybór koloru</translation>
+        <translation variants="yes">
+            <lengthvariant>Kroplomierz</lengthvariant>
+            <lengthvariant>Wybór koloru</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
     <name>classics.slide_master_view</name>
     <message>
         <source>Close Master View</source>
-        <translation>Zamknij widok wzorcaZamknij widok główny</translation>
+        <translation variants="yes">
+            <lengthvariant>Zamknij widok wzorca</lengthvariant>
+            <lengthvariant>Zamknij widok główny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -1274,9 +1365,12 @@
     <message>
         <source>New Slide
 Master</source>
-        <translation>Nowy wzorzec
-slajdówNowy slajd
-wzorzec</translation>
+        <translation variants="yes">
+            <lengthvariant>Nowy wzorzec
+slajdów</lengthvariant>
+            <lengthvariant>Nowy slajd
+wzorzec</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>New Slide Master</source>
@@ -1378,7 +1472,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation>Przełącz językZmień język</translation>
+        <translation variants="yes">
+            <lengthvariant>Przełącz język</lengthvariant>
+            <lengthvariant>Zmień język</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Table</source>
@@ -1401,7 +1498,10 @@ wzorzec</translation>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownika</translation>
+        <translation variants="yes">
+            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
+            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>true</source>
@@ -1420,11 +1520,17 @@ wzorzec</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
-        <translation>Obramowanie i wypełnienieKrawędzie i wypełnienie</translation>
+        <translation variants="yes">
+            <lengthvariant>Obramowanie i wypełnienie</lengthvariant>
+            <lengthvariant>Krawędzie i wypełnienie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Wyśrodkuj w pionieWyśrodkuj pionowo</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj w pionie</lengthvariant>
+            <lengthvariant>Wyśrodkuj pionowo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -1484,11 +1590,17 @@ wzorzec</translation>
     </message>
     <message>
         <source>Select Column</source>
-        <translation>Wybierz kolumnęZaznacz kolumnę</translation>
+        <translation variants="yes">
+            <lengthvariant>Wybierz kolumnę</lengthvariant>
+            <lengthvariant>Zaznacz kolumnę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Select Row</source>
-        <translation>Wybierz wierszZaznacz wiersz</translation>
+        <translation variants="yes">
+            <lengthvariant>Wybierz wiersz</lengthvariant>
+            <lengthvariant>Zaznacz wiersz</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Select Table</source>
@@ -1496,7 +1608,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>KroplomierzWybór koloru</translation>
+        <translation variants="yes">
+            <lengthvariant>Kroplomierz</lengthvariant>
+            <lengthvariant>Wybór koloru</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -1551,7 +1666,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>WyśrodkujŚrodek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Chevron Down</source>
@@ -1579,7 +1697,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>NiestandardowyNiestandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Deflate</source>
@@ -1615,23 +1736,38 @@ wzorzec</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation>Zanikanie w dółOddalanie w dół</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w dół</lengthvariant>
+            <lengthvariant>Oddalanie w dół</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation>Zanikanie w lewoOddalanie w lewo</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w lewo</lengthvariant>
+            <lengthvariant>Oddalanie w lewo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation>Zanikanie w prawoOddalanie w prawo</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w prawo</lengthvariant>
+            <lengthvariant>Oddalanie w prawo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation>Zanikanie w góręOddalanie w górę</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w górę</lengthvariant>
+            <lengthvariant>Oddalanie w górę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Format WordArt</source>
-        <translation>Formatuj WordArtFormatuj obiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj WordArt</lengthvariant>
+            <lengthvariant>Formatuj obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -1647,7 +1783,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>Wstaw WordArtWstaw obiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw WordArt</lengthvariant>
+            <lengthvariant>Wstaw obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -1705,11 +1844,17 @@ wzorzec</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation>Trójkąt skierowany w dółTrójkąt w dół</translation>
+        <translation variants="yes">
+            <lengthvariant>Trójkąt skierowany w dół</lengthvariant>
+            <lengthvariant>Trójkąt w dół</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation>Trójkąt skierowany w góręTrójkąt w górę</translation>
+        <translation variants="yes">
+            <lengthvariant>Trójkąt skierowany w górę</lengthvariant>
+            <lengthvariant>Trójkąt w górę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Very Loose</source>
@@ -1717,7 +1862,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Bardzo przyległeZwarte</translation>
+        <translation variants="yes">
+            <lengthvariant>Bardzo przyległe</lengthvariant>
+            <lengthvariant>Zwarte</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -1733,7 +1881,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>Wyrównanie WordArtWyrównanie obiektu WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyrównanie WordArt</lengthvariant>
+            <lengthvariant>Wyrównanie obiektu WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
@@ -1745,11 +1896,17 @@ wzorzec</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>Jednakowa wysokość liter tekstu WordArtJednakowa wysokość liter WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Jednakowa wysokość liter tekstu WordArt</lengthvariant>
+            <lengthvariant>Jednakowa wysokość liter WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>Kształt WordArtKształt tekstu WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Kształt WordArt</lengthvariant>
+            <lengthvariant>Kształt tekstu WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
@@ -1772,16 +1929,22 @@ wzorzec</translation>
     <message>
         <source>Animation
 Schemes</source>
-        <translation>Schematy
-animacjiAnimacja
-schematy</translation>
+        <translation variants="yes">
+            <lengthvariant>Schematy
+animacji</lengthvariant>
+            <lengthvariant>Animacja
+schematy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Custom
 Animation</source>
-        <translation>Animacja
-niestandardowaNiestandardowa
-animacja</translation>
+        <translation variants="yes">
+            <lengthvariant>Animacja
+niestandardowa</lengthvariant>
+            <lengthvariant>Niestandardowa
+animacja</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1794,9 +1957,12 @@ animacja</translation>
     <message>
         <source>Transition
 Effects</source>
-        <translation>Efekty
-przejściaPrzejście
-efekty</translation>
+        <translation variants="yes">
+            <lengthvariant>Efekty
+przejścia</lengthvariant>
+            <lengthvariant>Przejście
+efekty</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -1807,14 +1973,21 @@ efekty</translation>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation>Zestaw ustawienia czcionkiPartia ustawienia czcionkiWielkość ustawienia czcionki</translation>
+        <translation variants="yes">
+            <lengthvariant>Zestaw ustawienia czcionki</lengthvariant>
+            <lengthvariant>Partia ustawienia czcionki</lengthvariant>
+            <lengthvariant>Wielkość ustawienia czcionki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Color
 Schemes</source>
-        <translation>Schematy
-kolorówKolor
-schematy</translation>
+        <translation variants="yes">
+            <lengthvariant>Schematy
+kolorów</lengthvariant>
+            <lengthvariant>Kolor
+schematy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -1832,22 +2005,35 @@ wzorzec slajdów</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Wstaw obraz do wielu slajdówWstawianie obrazu do wielu slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz do wielu slajdów</lengthvariant>
+            <lengthvariant>Wstawianie obrazu do wielu slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Involved
 Template</source>
-        <translation>Szablon
-powiązanySzablon
-zaangażowanySzablon
-uwzględnianyPowiązany
-szablonZaangażowany
-szablonUwzględniany
-szablon</translation>
+        <translation variants="yes">
+            <lengthvariant>Szablon
+powiązany</lengthvariant>
+            <lengthvariant>Szablon
+zaangażowany</lengthvariant>
+            <lengthvariant>Szablon
+uwzględniany</lengthvariant>
+            <lengthvariant>Powiązany
+szablon</lengthvariant>
+            <lengthvariant>Zaangażowany
+szablon</lengthvariant>
+            <lengthvariant>Uwzględniany
+szablon</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>PoziomaPoziomo</translation>
+        <translation variants="yes">
+            <lengthvariant>Pozioma</lengthvariant>
+            <lengthvariant>Poziomo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Page
@@ -1857,7 +2043,10 @@ strony</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>PionowaPionowo</translation>
+        <translation variants="yes">
+            <lengthvariant>Pionowa</lengthvariant>
+            <lengthvariant>Pionowo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -1865,21 +2054,30 @@ strony</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation>Zapisz obraz tłaZapisz tło obrazu</translation>
+        <translation variants="yes">
+            <lengthvariant>Zapisz obraz tła</lengthvariant>
+            <lengthvariant>Zapisz tło obrazu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Slide
 Layout</source>
-        <translation>Układ
-slajduSlajd
-układ</translation>
+        <translation variants="yes">
+            <lengthvariant>Układ
+slajdu</lengthvariant>
+            <lengthvariant>Slajd
+układ</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Slide
 Orientation</source>
-        <translation>Orientacja
-slajduSlajd
-orientacja</translation>
+        <translation variants="yes">
+            <lengthvariant>Orientacja
+slajdu</lengthvariant>
+            <lengthvariant>Slajd
+orientacja</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>import templates</source>
@@ -1890,7 +2088,10 @@ orientacja</translation>
     <name>ongmani.ct_designtable</name>
     <message>
         <source>Borders</source>
-        <translation>ObramowaniaKrawędzie</translation>
+        <translation variants="yes">
+            <lengthvariant>Obramowania</lengthvariant>
+            <lengthvariant>Krawędzie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Clear
@@ -2026,7 +2227,10 @@ formantu</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kodPokaż kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Visual Basic
@@ -2233,19 +2437,31 @@ Włącz</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>WyśrodkujŚrodek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Wyśrodkuj w pionieWyśrodkuj pionowo</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj w pionie</lengthvariant>
+            <lengthvariant>Wyśrodkuj pionowo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>WyśrodkowanyWyśrodkowane</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkowany</lengthvariant>
+            <lengthvariant>Wyśrodkowane</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Zmień kształtyZmienianie kształtów</translation>
+        <translation variants="yes">
+            <lengthvariant>Zmień kształty</lengthvariant>
+            <lengthvariant>Zmienianie kształtów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -2333,7 +2549,10 @@ Włącz</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatuj obiektFormatowanie obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -2377,7 +2596,10 @@ Włącz</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation>Wstaw kształtyWstawianie kształtów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw kształty</lengthvariant>
+            <lengthvariant>Wstawianie kształtów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Italic</source>
@@ -2389,7 +2611,11 @@ Włącz</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewejOd lewejDo lewej</translation>
+        <translation variants="yes">
+            <lengthvariant>Z lewej</lengthvariant>
+            <lengthvariant>Od lewej</lengthvariant>
+            <lengthvariant>Do lewej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -2457,7 +2683,11 @@ Włącz</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Z prawejOd prawejDo prawej</translation>
+        <translation variants="yes">
+            <lengthvariant>Z prawej</lengthvariant>
+            <lengthvariant>Od prawej</lengthvariant>
+            <lengthvariant>Do prawej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Roman</source>
@@ -2505,7 +2735,10 @@ Włącz</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiągłeCiagły</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciągłe</lengthvariant>
+            <lengthvariant>Ciagły</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -2591,7 +2824,10 @@ Włącz</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>NumerLiczba</translation>
+        <translation variants="yes">
+            <lengthvariant>Numer</lengthvariant>
+            <lengthvariant>Liczba</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -2690,7 +2926,10 @@ Włącz</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation>Nowa prezentacjaNowy plik prezentacji</translation>
+        <translation variants="yes">
+            <lengthvariant>Nowa prezentacja</lengthvariant>
+            <lengthvariant>Nowy plik prezentacji</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -2710,11 +2949,17 @@ Włącz</translation>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation>Pakiet do pliku skompresowanegoPakiet w pliku skompresowanym</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do pliku skompresowanego</lengthvariant>
+            <lengthvariant>Pakiet w pliku skompresowanym</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation>Pakiet do folderuPakiet w folderze</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do folderu</lengthvariant>
+            <lengthvariant>Pakiet w folderze</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Print</source>
@@ -2762,7 +3007,10 @@ Włącz</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
-        <translation>Transferuj do dokumentu programu WPS WriterTransfer do dokumentu programu WPS Writer</translation>
+        <translation variants="yes">
+            <lengthvariant>Transferuj do dokumentu programu WPS Writer</lengthvariant>
+            <lengthvariant>Transfer do dokumentu programu WPS Writer</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -3015,15 +3263,24 @@ Effects</source>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation>Kontrola telefonu komórkowegoKontrola komórki</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
+            <lengthvariant>Kontrola komórki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>WyśrodkujŚrodek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Wyśrodkuj w pionieWyśrodkuj pionowo</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj w pionie</lengthvariant>
+            <lengthvariant>Wyśrodkuj pionowo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -3137,7 +3394,10 @@ formatów</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatuj obiektFormatowanie obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -3185,7 +3445,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>PoziomoPoziome</translation>
+        <translation variants="yes">
+            <lengthvariant>Poziomo</lengthvariant>
+            <lengthvariant>Poziome</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -3205,11 +3468,17 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Wstaw obraz do wielu slajdówWstawianie obrazu do wielu slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz do wielu slajdów</lengthvariant>
+            <lengthvariant>Wstawianie obrazu do wielu slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Wstaw obraz w trybie onlineWstawianie obrazu w trybie online</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
+            <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Italic</source>
@@ -3221,7 +3490,11 @@ slajdu</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewejOd lewejDo lewej</translation>
+        <translation variants="yes">
+            <lengthvariant>Z lewej</lengthvariant>
+            <lengthvariant>Od lewej</lengthvariant>
+            <lengthvariant>Do lewej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -3233,11 +3506,17 @@ slajdu</translation>
     </message>
     <message>
         <source>Local Picture</source>
-        <translation>Obraz lokalnyLokalny obraz</translation>
+        <translation variants="yes">
+            <lengthvariant>Obraz lokalny</lengthvariant>
+            <lengthvariant>Lokalny obraz</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreskaMyślnik</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -3281,7 +3560,10 @@ slajdu</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3-DBez 3-D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -3293,11 +3575,17 @@ slajdu</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>KonturKonspekt</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontur</lengthvariant>
+            <lengthvariant>Konspekt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation>Pakiet do folderuPakiet w folderze</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do folderu</lengthvariant>
+            <lengthvariant>Pakiet w folderze</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3337,7 +3625,11 @@ slajdu</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Z prawejOd prawejDo prawej</translation>
+        <translation variants="yes">
+            <lengthvariant>Z prawej</lengthvariant>
+            <lengthvariant>Od prawej</lengthvariant>
+            <lengthvariant>Do prawej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Roman</source>
@@ -3404,7 +3696,10 @@ cienia</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiągłeCiagły</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciągłe</lengthvariant>
+            <lengthvariant>Ciagły</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -3494,7 +3789,10 @@ cienia</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>NumerowanieNumeracja</translation>
+        <translation variants="yes">
+            <lengthvariant>Numerowanie</lengthvariant>
+            <lengthvariant>Numeracja</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -3510,9 +3808,12 @@ cienia</translation>
     <message>
         <source>Background
 Music</source>
-        <translation>Muzyka
-w tleTło
-muzyka</translation>
+        <translation variants="yes">
+            <lengthvariant>Muzyka
+w tle</lengthvariant>
+            <lengthvariant>Tło
+muzyka</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Chart</source>
@@ -3520,7 +3821,10 @@ muzyka</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation>Data i godzinaData i czas</translation>
+        <translation variants="yes">
+            <lengthvariant>Data i godzina</lengthvariant>
+            <lengthvariant>Data i czas</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Equation</source>
@@ -3528,11 +3832,17 @@ muzyka</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt plikuZałącznik</translation>
+        <translation variants="yes">
+            <lengthvariant>Obiekt pliku</lengthvariant>
+            <lengthvariant>Załącznik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>FlashLampa błyskowa</translation>
+        <translation variants="yes">
+            <lengthvariant>Flash</lengthvariant>
+            <lengthvariant>Lampa błyskowa</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Header and 
@@ -3566,7 +3876,10 @@ stopka</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie onlineWstawianie obrazów w trybie online</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obrazy w trybie online</lengthvariant>
+            <lengthvariant>Wstawianie obrazów w trybie online</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
@@ -3578,7 +3891,10 @@ stopka</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Wstaw obraz do wielu slajdówWstawianie obrazu do wielu slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz do wielu slajdów</lengthvariant>
+            <lengthvariant>Wstawianie obrazu do wielu slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -3586,7 +3902,10 @@ stopka</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>Wstaw WordArtWstaw obiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw WordArt</lengthvariant>
+            <lengthvariant>Wstaw obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Links</source>
@@ -3594,7 +3913,10 @@ stopka</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation>MultimediaMedia</translation>
+        <translation variants="yes">
+            <lengthvariant>Multimedia</lengthvariant>
+            <lengthvariant>Media</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>More Symbols</source>
@@ -3624,11 +3946,17 @@ organizacyjny</translation>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation>Pakiet do pliku skompresowanegoPakiet w pliku skompresowanym</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do pliku skompresowanego</lengthvariant>
+            <lengthvariant>Pakiet w pliku skompresowanym</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation>Pakiet do folderuPakiet w folderze</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do folderu</lengthvariant>
+            <lengthvariant>Pakiet w folderze</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Picture</source>
@@ -3641,9 +3969,12 @@ organizacyjny</translation>
     <message>
         <source>Slide
 Number</source>
-        <translation>Numer
-slajduSlajd
-numer</translation>
+        <translation variants="yes">
+            <lengthvariant>Numer
+slajdu</lengthvariant>
+            <lengthvariant>Slajd
+numer</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>SlideLibrary</source>
@@ -3683,7 +4014,10 @@ numer</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArtObiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -3862,11 +4196,17 @@ numer</translation>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation>Inteligentny wybórWybór inteligentny</translation>
+        <translation variants="yes">
+            <lengthvariant>Inteligentny wybór</lengthvariant>
+            <lengthvariant>Wybór inteligentny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiągłeCiagły</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciągłe</lengthvariant>
+            <lengthvariant>Ciagły</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -3908,7 +4248,10 @@ numer</translation>
     </message>
     <message>
         <source>Add Subordinate</source>
-        <translation>Dodaj podwładnegoDodaj podrzędnego</translation>
+        <translation variants="yes">
+            <lengthvariant>Dodaj podwładnego</lengthvariant>
+            <lengthvariant>Dodaj podrzędnego</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>All Assistants</source>
@@ -3932,15 +4275,27 @@ numer</translation>
     </message>
     <message>
         <source>Delete Member</source>
-        <translation>Usuń członkaUsuń uczestnikaUsuń element członkowski</translation>
+        <translation variants="yes">
+            <lengthvariant>Usuń członka</lengthvariant>
+            <lengthvariant>Usuń uczestnika</lengthvariant>
+            <lengthvariant>Usuń element członkowski</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fit Text</source>
-        <translation>Dopasuj tekstDopasowywanie tekstu</translation>
+        <translation variants="yes">
+            <lengthvariant>Dopasuj tekst</lengthvariant>
+            <lengthvariant>Dopasowywanie tekstu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>FitText Tip</source>
-        <translation>Dopasuj tekst PoradaDopasowanie tekstu PoradaDopasuj tekst WskazówkaDopasowanie tekstu Wskazówka</translation>
+        <translation variants="yes">
+            <lengthvariant>Dopasuj tekst Porada</lengthvariant>
+            <lengthvariant>Dopasowanie tekstu Porada</lengthvariant>
+            <lengthvariant>Dopasuj tekst Wskazówka</lengthvariant>
+            <lengthvariant>Dopasowanie tekstu Wskazówka</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Left Hanging</source>
@@ -3964,7 +4319,10 @@ numer</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation>StandardowyStandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Standardowy</lengthvariant>
+            <lengthvariant>Standardowe</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -4070,9 +4428,12 @@ obraz</translation>
     <message>
         <source>Compress
 Pictures</source>
-        <translation>Kompresuj
-obrazyKompresowanie
-obrazów</translation>
+        <translation variants="yes">
+            <lengthvariant>Kompresuj
+obrazy</lengthvariant>
+            <lengthvariant>Kompresowanie
+obrazów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Crop</source>
@@ -4128,7 +4489,10 @@ obrazów</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatuj obiektFormatowanie obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -4168,7 +4532,10 @@ obrazów</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Wstaw obraz w trybie onlineWstawianie obrazu w trybie online</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
+            <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -4180,7 +4547,10 @@ obrazów</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreskaMyślnik</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -4236,7 +4606,10 @@ obrazów</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>KonturKonspekt</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontur</lengthvariant>
+            <lengthvariant>Konspekt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -4322,11 +4695,17 @@ włącz/wyłącz</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>KroplomierzWybór koloru</translation>
+        <translation variants="yes">
+            <lengthvariant>Kroplomierz</lengthvariant>
+            <lengthvariant>Wybór koloru</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiągłeCiagły</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciągłe</lengthvariant>
+            <lengthvariant>Ciagły</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -4369,9 +4748,12 @@ włącz/wyłącz</translation>
     <message>
         <source>Frame
 Slides</source>
-        <translation>Obramowania
-slajdówObramowania
-wokół slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Obramowania
+slajdów</lengthvariant>
+            <lengthvariant>Obramowania
+wokół slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
@@ -4528,7 +4910,10 @@ komentarz</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation>Wymaż wszystką adiustacjęWymaż całą adiustację</translation>
+        <translation variants="yes">
+            <lengthvariant>Wymaż wszystką adiustację</lengthvariant>
+            <lengthvariant>Wymaż całą adiustację</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
@@ -4619,15 +5004,24 @@ Effects</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>NiestandardowyNiestandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>GłębokośćGłębia</translation>
+        <translation variants="yes">
+            <lengthvariant>Głębokość</lengthvariant>
+            <lengthvariant>Głębia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation>PrzygaszonePrzyciemniony</translation>
+        <translation variants="yes">
+            <lengthvariant>Przygaszone</lengthvariant>
+            <lengthvariant>Przyciemniony</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Direction</source>
@@ -4659,7 +5053,10 @@ Effects</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3-DBez 3-D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -4667,7 +5064,10 @@ Effects</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>NormalnyNormalne</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
@@ -4727,7 +5127,10 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>KroplomierzWybór koloru</translation>
+        <translation variants="yes">
+            <lengthvariant>Kroplomierz</lengthvariant>
+            <lengthvariant>Wybór koloru</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Surface</source>
@@ -4803,9 +5206,12 @@ cienia</translation>
     <message>
         <source>Close
 Master View</source>
-        <translation>Zamknij
-widok wzorcaZamknij
-widok główny</translation>
+        <translation variants="yes">
+            <lengthvariant>Zamknij
+widok wzorca</lengthvariant>
+            <lengthvariant>Zamknij
+widok główny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Delete 
@@ -4836,9 +5242,12 @@ wzorzec</translation>
     <message>
         <source>Master 
 Layout</source>
-        <translation>Układ 
-wzorcaWzorzec 
-układ</translation>
+        <translation variants="yes">
+            <lengthvariant>Układ 
+wzorca</lengthvariant>
+            <lengthvariant>Wzorzec 
+układ</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -4851,16 +5260,22 @@ układ</translation>
     <message>
         <source>New Slide 
 Master</source>
-        <translation>Nowy wzorzec
-slajdówNowy slajd
-wzorzec</translation>
+        <translation variants="yes">
+            <lengthvariant>Nowy wzorzec
+slajdów</lengthvariant>
+            <lengthvariant>Nowy slajd
+wzorzec</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>New Title 
 Master</source>
-        <translation>Nowy wzorzec 
-tytułówNowy tytuł 
-wzorzec</translation>
+        <translation variants="yes">
+            <lengthvariant>Nowy wzorzec 
+tytułów</lengthvariant>
+            <lengthvariant>Nowy tytuł 
+wzorzec</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Preserve 
@@ -4876,7 +5291,10 @@ wzorca</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation>Zapisz obraz tłaZapisz tło obrazu</translation>
+        <translation variants="yes">
+            <lengthvariant>Zapisz obraz tła</lengthvariant>
+            <lengthvariant>Zapisz tło obrazu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -4923,14 +5341,20 @@ wzorca</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>NumerowanieNumeracja</translation>
+        <translation variants="yes">
+            <lengthvariant>Numerowanie</lengthvariant>
+            <lengthvariant>Numeracja</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_slideshow</name>
     <message>
         <source>CellphoneControl</source>
-        <translation>Kontrola telefonu komórkowegoKontrola komórki</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
+            <lengthvariant>Kontrola komórki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Custom 
@@ -4960,7 +5384,10 @@ tempa</translation>
     </message>
     <message>
         <source>Set Up</source>
-        <translation>UstawPrzygotuj</translation>
+        <translation variants="yes">
+            <lengthvariant>Ustaw</lengthvariant>
+            <lengthvariant>Przygotuj</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Set Up Show</source>
@@ -4969,23 +5396,32 @@ tempa</translation>
     <message>
         <source>Slide
 Transition</source>
-        <translation>Przejście
-slajduSlajd
-przejście</translation>
+        <translation variants="yes">
+            <lengthvariant>Przejście
+slajdu</lengthvariant>
+            <lengthvariant>Slajd
+przejście</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation>Ustawienia 
-pokazu slajdówPokaz slajdów
-ustawienia</translation>
+        <translation variants="yes">
+            <lengthvariant>Ustawienia 
+pokazu slajdów</lengthvariant>
+            <lengthvariant>Pokaz slajdów
+ustawienia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Speaker
 Notes</source>
-        <translation>Notatki
-prelegentaPrelegent
-notatki</translation>
+        <translation variants="yes">
+            <lengthvariant>Notatki
+prelegenta</lengthvariant>
+            <lengthvariant>Prelegent
+notatki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Start Slide Show</source>
@@ -4996,7 +5432,10 @@ notatki</translation>
     <name>ongmani.ct_tabletool</name>
     <message>
         <source>Adjust</source>
-        <translation>DopasujDopasowywanie</translation>
+        <translation variants="yes">
+            <lengthvariant>Dopasuj</lengthvariant>
+            <lengthvariant>Dopasowywanie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Align</source>
@@ -5052,11 +5491,17 @@ notatki</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>WyśrodkujŚrodek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Wyśrodkuj w pionieWyśrodkuj pionowo</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj w pionie</lengthvariant>
+            <lengthvariant>Wyśrodkuj pionowo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Custom</source>
@@ -5178,7 +5623,11 @@ komórki</translation>
     </message>
     <message>
         <source>Narrow</source>
-        <translation>WąskieWąskiZwęź</translation>
+        <translation variants="yes">
+            <lengthvariant>Wąskie</lengthvariant>
+            <lengthvariant>Wąski</lengthvariant>
+            <lengthvariant>Zwęź</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>None</source>
@@ -5186,7 +5635,10 @@ komórki</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>NormalneNormalny</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalne</lengthvariant>
+            <lengthvariant>Normalny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Relative to Slide</source>
@@ -5194,7 +5646,11 @@ komórki</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Z prawejOd prawejDo prawej</translation>
+        <translation variants="yes">
+            <lengthvariant>Z prawej</lengthvariant>
+            <lengthvariant>Od prawej</lengthvariant>
+            <lengthvariant>Do prawej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Rows and Columns</source>
@@ -5206,11 +5662,17 @@ komórki</translation>
     </message>
     <message>
         <source>Select Column</source>
-        <translation>Wybierz kolumnęZaznacz kolumnę</translation>
+        <translation variants="yes">
+            <lengthvariant>Wybierz kolumnę</lengthvariant>
+            <lengthvariant>Zaznacz kolumnę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Select Row</source>
-        <translation>Wybierz wierszZaznacz wiersz</translation>
+        <translation variants="yes">
+            <lengthvariant>Wybierz wiersz</lengthvariant>
+            <lengthvariant>Zaznacz wiersz</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Select Table</source>
@@ -5249,9 +5711,12 @@ komórki</translation>
     <message>
         <source>Text
 Direction</source>
-        <translation>Kierunek
-tekstuTekst
-kierunek</translation>
+        <translation variants="yes">
+            <lengthvariant>Kierunek
+tekstu</lengthvariant>
+            <lengthvariant>Tekst
+kierunek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Underline</source>
@@ -5278,7 +5743,10 @@ COM</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation>KaskadowoKaskada</translation>
+        <translation variants="yes">
+            <lengthvariant>Kaskadowo</lengthvariant>
+            <lengthvariant>Kaskada</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Close
@@ -5316,7 +5784,10 @@ prowadnice</translation>
     </message>
     <message>
         <source>Master View</source>
-        <translation>Widok głównyWidok wzorca</translation>
+        <translation variants="yes">
+            <lengthvariant>Widok główny</lengthvariant>
+            <lengthvariant>Widok wzorca</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>New
@@ -5351,16 +5822,22 @@ okno</translation>
     <message>
         <source>Slide 
 Master</source>
-        <translation>Wzorzec 
-slajdówSlajd 
-wzorzec</translation>
+        <translation variants="yes">
+            <lengthvariant>Wzorzec 
+slajdów</lengthvariant>
+            <lengthvariant>Slajd 
+wzorzec</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Slide 
 Sorter</source>
-        <translation>Sortowanie 
-slajdówSlajd 
-sortowanie</translation>
+        <translation variants="yes">
+            <lengthvariant>Sortowanie 
+slajdów</lengthvariant>
+            <lengthvariant>Slajd 
+sortowanie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Switch
@@ -5447,15 +5924,24 @@ On/Off</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>NiestandardowyNiestandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>GłębokośćGłębia</translation>
+        <translation variants="yes">
+            <lengthvariant>Głębokość</lengthvariant>
+            <lengthvariant>Głębia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation>PrzygaszonePrzyciemniony</translation>
+        <translation variants="yes">
+            <lengthvariant>Przygaszone</lengthvariant>
+            <lengthvariant>Przyciemniony</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Direction</source>
@@ -5487,7 +5973,10 @@ On/Off</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3-DBez 3-D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -5495,7 +5984,10 @@ On/Off</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>NormalnyNormalne</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
@@ -5553,7 +6045,10 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>KroplomierzWybór koloru</translation>
+        <translation variants="yes">
+            <lengthvariant>Kroplomierz</lengthvariant>
+            <lengthvariant>Wybór koloru</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Surface</source>
@@ -5710,7 +6205,10 @@ Włącz</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>WyśrodkujŚrodek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Character 
@@ -5816,19 +6314,31 @@ znakami</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation>Zanikanie w dółOddalanie w dół</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w dół</lengthvariant>
+            <lengthvariant>Oddalanie w dół</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation>Zanikanie w lewoOddalanie w lewo</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w lewo</lengthvariant>
+            <lengthvariant>Oddalanie w lewo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation>Zanikanie w prawoOddalanie w prawo</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w prawo</lengthvariant>
+            <lengthvariant>Oddalanie w prawo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation>Zanikanie w góręOddalanie w górę</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w górę</lengthvariant>
+            <lengthvariant>Oddalanie w górę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5844,7 +6354,10 @@ znakami</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatuj obiektFormatowanie obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -5888,7 +6401,10 @@ znakami</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreskaMyślnik</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -5912,11 +6428,17 @@ znakami</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>NormalneNormalny</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalne</lengthvariant>
+            <lengthvariant>Normalny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>KonturKonspekt</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontur</lengthvariant>
+            <lengthvariant>Konspekt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -5940,11 +6462,17 @@ znakami</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>Wnętrze pierścieniaPierścień-strona wewnętrzna</translation>
+        <translation variants="yes">
+            <lengthvariant>Wnętrze pierścienia</lengthvariant>
+            <lengthvariant>Pierścień-strona wewnętrzna</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>Zewnętrze pierścieniaPierścień-strona zewnętrzna</translation>
+        <translation variants="yes">
+            <lengthvariant>Zewnętrze pierścienia</lengthvariant>
+            <lengthvariant>Pierścień-strona zewnętrzna</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -5992,7 +6520,10 @@ znakami</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiągłeCiagły</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciągłe</lengthvariant>
+            <lengthvariant>Ciagły</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -6016,11 +6547,17 @@ znakami</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation>Trójkąt skierowany w dółTrójkąt w dół</translation>
+        <translation variants="yes">
+            <lengthvariant>Trójkąt skierowany w dół</lengthvariant>
+            <lengthvariant>Trójkąt w dół</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation>Trójkąt skierowany w góręTrójkąt w górę</translation>
+        <translation variants="yes">
+            <lengthvariant>Trójkąt skierowany w górę</lengthvariant>
+            <lengthvariant>Trójkąt w górę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -6036,7 +6573,10 @@ znakami</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Bardzo przyległeZwarte</translation>
+        <translation variants="yes">
+            <lengthvariant>Bardzo przyległe</lengthvariant>
+            <lengthvariant>Zwarte</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -6056,12 +6596,18 @@ znakami</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArtObiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt</source>
         <comment>Insert</comment>
-        <translation>WordArtObiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt
@@ -6072,17 +6618,26 @@ WordArt</translation>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation>Kształt  
-WordArtKształt tekstu 
-WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Kształt  
+WordArt</lengthvariant>
+            <lengthvariant>Kształt tekstu 
+WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>Rozmiar tekstu WordArtRozmiar WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Rozmiar tekstu WordArt</lengthvariant>
+            <lengthvariant>Rozmiar WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation>Style tekstu WordArtStyle WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Style tekstu WordArt</lengthvariant>
+            <lengthvariant>Style WordArt</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -6096,15 +6651,25 @@ WordArt</translation>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Batch Set Font</source>
-        <translation>Zestaw ustawienia czcionkiPartia ustawienia czcionkiWielkość ustawienia czcionki</translation>
+        <translation variants="yes">
+            <lengthvariant>Zestaw ustawienia czcionki</lengthvariant>
+            <lengthvariant>Partia ustawienia czcionki</lengthvariant>
+            <lengthvariant>Wielkość ustawienia czcionki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation>Kontrola telefonu komórkowegoKontrola komórki</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
+            <lengthvariant>Kontrola komórki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Łącze do usługi ChmuraŁącze do usługi Cloud</translation>
+        <translation variants="yes">
+            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -6148,7 +6713,10 @@ WordArt</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Wstaw obraz do wielu slajdówWstawianie obrazu do wielu slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz do wielu slajdów</lengthvariant>
+            <lengthvariant>Wstawianie obrazu do wielu slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -6164,7 +6732,10 @@ WordArt</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z dokumentów w usłudze ChmuraOtwórz z usługi Cloud Docs</translation>
+        <translation variants="yes">
+            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
+            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -6172,7 +6743,10 @@ WordArt</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do dokumentów w usłudze ChmuraZapisz do usługi Cloud Docs</translation>
+        <translation variants="yes">
+            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
+            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -6192,7 +6766,10 @@ WordArt</translation>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation>Przetłumacz do dokumentuTłumaczenie do dokumentu</translation>
+        <translation variants="yes">
+            <lengthvariant>Przetłumacz do dokumentu</lengthvariant>
+            <lengthvariant>Tłumaczenie do dokumentu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -6412,11 +6989,17 @@ WordArt</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>ObramowanieKrawędź</translation>
+        <translation variants="yes">
+            <lengthvariant>Obramowanie</lengthvariant>
+            <lengthvariant>Krawędź</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Borders and Fill</source>
-        <translation>Obramowanie i wypełnienieKrawędzie i wypełnienie</translation>
+        <translation variants="yes">
+            <lengthvariant>Obramowanie i wypełnienie</lengthvariant>
+            <lengthvariant>Krawędzie i wypełnienie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -6432,7 +7015,12 @@ WordArt</translation>
     </message>
     <message>
         <source>By Title</source>
-        <translation>Wg tytułuTutułPrzez tytułW tytule</translation>
+        <translation variants="yes">
+            <lengthvariant>Wg tytułu</lengthvariant>
+            <lengthvariant>Tutuł</lengthvariant>
+            <lengthvariant>Przez tytuł</lengthvariant>
+            <lengthvariant>W tytule</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>COM 
@@ -6442,11 +7030,17 @@ COM</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation>KaskadowoKaskada</translation>
+        <translation variants="yes">
+            <lengthvariant>Kaskadowo</lengthvariant>
+            <lengthvariant>Kaskada</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>WyśrodkujŚrodek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Tab</source>
@@ -6454,7 +7048,10 @@ COM</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>WyśrodkowanyWyśrodkowane</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkowany</lengthvariant>
+            <lengthvariant>Wyśrodkowane</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Account</source>
@@ -6466,7 +7063,10 @@ COM</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Zmień kształtyZmienianie kształtów</translation>
+        <translation variants="yes">
+            <lengthvariant>Zmień kształty</lengthvariant>
+            <lengthvariant>Zmienianie kształtów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -6522,7 +7122,10 @@ COM</translation>
     </message>
     <message>
         <source>Convert Markup to Object</source>
-        <translation>Konwertuj adiustację do obiektuKonwertowanie adiustacji do obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Konwertuj adiustację do obiektu</lengthvariant>
+            <lengthvariant>Konwertowanie adiustacji do obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Convert Path to AutoShape</source>
@@ -6542,7 +7145,10 @@ COM</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation>Utwórz łącze do usługi ChmuraUtwórz łącze do usługi Cloud</translation>
+        <translation variants="yes">
+            <lengthvariant>Utwórz łącze do usługi Chmura</lengthvariant>
+            <lengthvariant>Utwórz łącze do usługi Cloud</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Crop</source>
@@ -6590,7 +7196,10 @@ COM</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation>Data i godzinaData i czas</translation>
+        <translation variants="yes">
+            <lengthvariant>Data i godzina</lengthvariant>
+            <lengthvariant>Data i czas</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Decimal Tab</source>
@@ -6630,7 +7239,10 @@ COM</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation>Usuń segmentUsuń odcinek</translation>
+        <translation variants="yes">
+            <lengthvariant>Usuń segment</lengthvariant>
+            <lengthvariant>Usuń odcinek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Delete Slide</source>
@@ -6663,7 +7275,11 @@ COM</translation>
     </message>
     <message>
         <source>Draw Shapes</source>
-        <translation>Rysuj kształtyNarysuj kształyRysowanie kształtów</translation>
+        <translation variants="yes">
+            <lengthvariant>Rysuj kształty</lengthvariant>
+            <lengthvariant>Narysuj kształy</lengthvariant>
+            <lengthvariant>Rysowanie kształtów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Duplicate</source>
@@ -6743,7 +7359,10 @@ COM</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation>Wymaż wszystką adiustacjęWymaż całą adiustację</translation>
+        <translation variants="yes">
+            <lengthvariant>Wymaż wszystką adiustację</lengthvariant>
+            <lengthvariant>Wymaż całą adiustację</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
@@ -6775,7 +7394,10 @@ COM</translation>
     </message>
     <message>
         <source>Export to Package</source>
-        <translation>Eksportuj pakietEksportowanie pakietu</translation>
+        <translation variants="yes">
+            <lengthvariant>Eksportuj pakiet</lengthvariant>
+            <lengthvariant>Eksportowanie pakietu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -6783,7 +7405,10 @@ COM</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt plikuZałącznik</translation>
+        <translation variants="yes">
+            <lengthvariant>Obiekt pliku</lengthvariant>
+            <lengthvariant>Załącznik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>File Package</source>
@@ -6799,7 +7424,10 @@ COM</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>FlashLampa błyskowa</translation>
+        <translation variants="yes">
+            <lengthvariant>Flash</lengthvariant>
+            <lengthvariant>Lampa błyskowa</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
@@ -6823,7 +7451,10 @@ COM</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatuj obiektFormatowanie obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -6875,7 +7506,10 @@ COM</translation>
     </message>
     <message>
         <source>Highlighter</source>
-        <translation>WyróżnienieZakreślacz</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyróżnienie</lengthvariant>
+            <lengthvariant>Zakreślacz</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -6927,7 +7561,10 @@ COM</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie onlineWstawianie obrazów w trybie online</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obrazy w trybie online</lengthvariant>
+            <lengthvariant>Wstawianie obrazów w trybie online</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert Row Above</source>
@@ -6967,7 +7604,11 @@ COM</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewejOd lewejDo lewej</translation>
+        <translation variants="yes">
+            <lengthvariant>Z lewej</lengthvariant>
+            <lengthvariant>Od lewej</lengthvariant>
+            <lengthvariant>Do lewej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Left Tab</source>
@@ -6975,7 +7616,10 @@ COM</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>WierszLinia</translation>
+        <translation variants="yes">
+            <lengthvariant>Wiersz</lengthvariant>
+            <lengthvariant>Linia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -6995,7 +7639,10 @@ COM</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreskaMyślnik</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -7072,9 +7719,12 @@ COM</translation>
     <message>
         <source>New Slide
 Master</source>
-        <translation>Nowy wzorzec
-slajdówNowy slajd
-wzorzec</translation>
+        <translation variants="yes">
+            <lengthvariant>Nowy wzorzec
+slajdów</lengthvariant>
+            <lengthvariant>Nowy slajd
+wzorzec</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>New Slide From Online</source>
@@ -7102,7 +7752,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>NormalnyNormalne</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Object</source>
@@ -7142,7 +7795,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z dokumentów w usłudze ChmuraOtwórz z usługi Cloud Docs</translation>
+        <translation variants="yes">
+            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
+            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Options</source>
@@ -7158,11 +7814,17 @@ wzorzec</translation>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation>Pakiet do pliku skompresowanegoPakiet w pliku skompresowanym</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do pliku skompresowanego</lengthvariant>
+            <lengthvariant>Pakiet w pliku skompresowanym</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation>Pakiet do folderuPakiet w folderze</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do folderu</lengthvariant>
+            <lengthvariant>Pakiet w folderze</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -7186,7 +7848,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Picture Format Style</source>
-        <translation type="obsolete">Styl formatu obrazuStyl formatowania obrazu</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Styl formatu obrazu</lengthvariant>
+            <lengthvariant>Styl formatowania obrazu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Play</source>
@@ -7274,7 +7939,11 @@ wzorzec</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Z prawejOd prawejDo prawej</translation>
+        <translation variants="yes">
+            <lengthvariant>Z prawej</lengthvariant>
+            <lengthvariant>Od prawej</lengthvariant>
+            <lengthvariant>Do prawej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Right Tab</source>
@@ -7310,7 +7979,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation>Zapisz obraz tłaZapisz tło obrazu</translation>
+        <translation variants="yes">
+            <lengthvariant>Zapisz obraz tła</lengthvariant>
+            <lengthvariant>Zapisz tło obrazu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Save as Picture</source>
@@ -7318,7 +7990,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do dokumentów w usłudze ChmuraZapisz do usługi Cloud Docs</translation>
+        <translation variants="yes">
+            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
+            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -7399,7 +8074,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Show / Hide Ink Markup</source>
-        <translation>Pokaż / ukryj adiustację odręcznąPokazanie / ukrycie adiustacji odręcznej</translation>
+        <translation variants="yes">
+            <lengthvariant>Pokaż / ukryj adiustację odręczną</lengthvariant>
+            <lengthvariant>Pokazanie / ukrycie adiustacji odręcznej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -7431,7 +8109,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Slide Show List</source>
-        <translation>Lista pokazu slajdówLista pokazów slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Lista pokazu slajdów</lengthvariant>
+            <lengthvariant>Lista pokazów slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Slide Sorter</source>
@@ -7447,15 +8128,24 @@ wzorzec</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation>Punkt gładkiGładki punkt</translation>
+        <translation variants="yes">
+            <lengthvariant>Punkt gładki</lengthvariant>
+            <lengthvariant>Gładki punkt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>KroplomierzWybór koloru</translation>
+        <translation variants="yes">
+            <lengthvariant>Kroplomierz</lengthvariant>
+            <lengthvariant>Wybór koloru</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiagłyCiągłe</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciagły</lengthvariant>
+            <lengthvariant>Ciągłe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Sound from File</source>
@@ -7515,7 +8205,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
-        <translation>Transferuj do dokumentu programu WPS WriterTransfer do dokumentu programu WPS Writer</translation>
+        <translation variants="yes">
+            <lengthvariant>Transferuj do dokumentu programu WPS Writer</lengthvariant>
+            <lengthvariant>Transfer do dokumentu programu WPS Writer</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Typography</source>
@@ -7543,7 +8236,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kodPokaż kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -7555,7 +8251,11 @@ wzorzec</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation>WidocznyWidoczneWidoczna</translation>
+        <translation variants="yes">
+            <lengthvariant>Widoczny</lengthvariant>
+            <lengthvariant>Widoczne</lengthvariant>
+            <lengthvariant>Widoczna</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -7563,7 +8263,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPSWPS dla firm</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -7603,7 +8306,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArtObiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -7629,7 +8335,10 @@ wzorzec</translation>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownika</translation>
+        <translation variants="yes">
+            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
+            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>true</source>
@@ -7640,7 +8349,10 @@ wzorzec</translation>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Przełącz językZmień język</translation>
+        <translation variants="yes">
+            <lengthvariant>Przełącz język</lengthvariant>
+            <lengthvariant>Zmień język</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -7667,7 +8379,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation>GałąźOddział</translation>
+        <translation variants="yes">
+            <lengthvariant>Gałąź</lengthvariant>
+            <lengthvariant>Oddział</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Coworker</source>
@@ -7675,7 +8390,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Cycle</source>
-        <translation>CyklicznyCykl</translation>
+        <translation variants="yes">
+            <lengthvariant>Cykliczny</lengthvariant>
+            <lengthvariant>Cykl</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7691,7 +8409,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation>Wstaw kształtyWstawianie kształtów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw kształty</lengthvariant>
+            <lengthvariant>Wstawianie kształtów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Left Hanging</source>
@@ -7711,7 +8432,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Pyramid</source>
-        <translation>PiramidaOstrosłupowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Piramida</lengthvariant>
+            <lengthvariant>Ostrosłupowy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Radial</source>
@@ -7727,15 +8451,25 @@ wzorzec</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation>StandardowyStandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Standardowy</lengthvariant>
+            <lengthvariant>Standardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Subordinate</source>
-        <translation>PodwładnyPodrzędny</translation>
+        <translation variants="yes">
+            <lengthvariant>Podwładny</lengthvariant>
+            <lengthvariant>Podrzędny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Target</source>
-        <translation>DocelowyObiekt docelowyElement docelowy</translation>
+        <translation variants="yes">
+            <lengthvariant>Docelowy</lengthvariant>
+            <lengthvariant>Obiekt docelowy</lengthvariant>
+            <lengthvariant>Element docelowy</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Use AutoFormat</source>
@@ -7743,7 +8477,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Venn</source>
-        <translation>VennaDiagram Venna</translation>
+        <translation variants="yes">
+            <lengthvariant>Venna</lengthvariant>
+            <lengthvariant>Diagram Venna</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -7791,7 +8528,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation>PrzekształćPrzekształcenie</translation>
+        <translation variants="yes">
+            <lengthvariant>Przekształć</lengthvariant>
+            <lengthvariant>Przekształcenie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Transition Effects</source>
@@ -7806,7 +8546,11 @@ wzorzec</translation>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation>Zestaw ustawienia czcionkiPartia ustawienia czcionkiWielkość ustawienia czcionki</translation>
+        <translation variants="yes">
+            <lengthvariant>Zestaw ustawienia czcionki</lengthvariant>
+            <lengthvariant>Partia ustawienia czcionki</lengthvariant>
+            <lengthvariant>Wielkość ustawienia czcionki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -7826,22 +8570,35 @@ wzorzec</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Wstaw obraz do wielu slajdówWstawianie obrazu do wielu slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz do wielu slajdów</lengthvariant>
+            <lengthvariant>Wstawianie obrazu do wielu slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Involved
 Template</source>
-        <translation>Szablon
-powiązanySzablon
-zaangażowanySzablon
-uwzględnianyPowiązany
-szablonZaangażowany
-szablonUwzględniany
-szablon</translation>
+        <translation variants="yes">
+            <lengthvariant>Szablon
+powiązany</lengthvariant>
+            <lengthvariant>Szablon
+zaangażowany</lengthvariant>
+            <lengthvariant>Szablon
+uwzględniany</lengthvariant>
+            <lengthvariant>Powiązany
+szablon</lengthvariant>
+            <lengthvariant>Zaangażowany
+szablon</lengthvariant>
+            <lengthvariant>Uwzględniany
+szablon</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>PoziomaPoziomo</translation>
+        <translation variants="yes">
+            <lengthvariant>Pozioma</lengthvariant>
+            <lengthvariant>Poziomo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -7849,7 +8606,10 @@ szablon</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>PionowaPionowo</translation>
+        <translation variants="yes">
+            <lengthvariant>Pionowa</lengthvariant>
+            <lengthvariant>Pionowo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -7857,7 +8617,10 @@ szablon</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation>Zapisz obraz tłaZapisz tło obrazu</translation>
+        <translation variants="yes">
+            <lengthvariant>Zapisz obraz tła</lengthvariant>
+            <lengthvariant>Zapisz tło obrazu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Slide Layout</source>
@@ -7876,7 +8639,10 @@ szablon</translation>
     <name>rainbow.ct_designtable</name>
     <message>
         <source>Borders</source>
-        <translation>ObramowaniaKrawędzie</translation>
+        <translation variants="yes">
+            <lengthvariant>Obramowania</lengthvariant>
+            <lengthvariant>Krawędzie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -8006,7 +8772,10 @@ szablon</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kodPokaż kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -8141,7 +8910,10 @@ szablon</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Zmień kształtyZmienianie kształtów</translation>
+        <translation variants="yes">
+            <lengthvariant>Zmień kształty</lengthvariant>
+            <lengthvariant>Zmienianie kształtów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dash</source>
@@ -8193,7 +8965,10 @@ szablon</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatuj obiektFormatowanie obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -8217,7 +8992,10 @@ szablon</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation>Wstaw kształtyWstawianie kształtów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw kształty</lengthvariant>
+            <lengthvariant>Wstawianie kształtów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -8309,7 +9087,10 @@ szablon</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiągłeCiagły</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciągłe</lengthvariant>
+            <lengthvariant>Ciagły</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -8443,7 +9224,10 @@ szablon</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation>Nowa prezentacjaNowy plik prezentacji</translation>
+        <translation variants="yes">
+            <lengthvariant>Nowa prezentacja</lengthvariant>
+            <lengthvariant>Nowy plik prezentacji</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -8463,11 +9247,17 @@ szablon</translation>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation>Pakiet do pliku skompresowanegoPakiet w pliku skompresowanym</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do pliku skompresowanego</lengthvariant>
+            <lengthvariant>Pakiet w pliku skompresowanym</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation>Pakiet do folderuPakiet w folderze</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do folderu</lengthvariant>
+            <lengthvariant>Pakiet w folderze</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Print</source>
@@ -8515,7 +9305,10 @@ szablon</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
-        <translation>Transferuj do dokumentu programu WPS WriterTransfer do dokumentu programu WPS Writer</translation>
+        <translation variants="yes">
+            <lengthvariant>Transferuj do dokumentu programu WPS Writer</lengthvariant>
+            <lengthvariant>Transfer do dokumentu programu WPS Writer</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -8774,15 +9567,24 @@ szablon</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation>Kontrola telefonu komórkowegoKontrola komórki</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
+            <lengthvariant>Kontrola komórki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>WyśrodkujŚrodek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Wyśrodkuj w pionieWyśrodkuj pionowo</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj w pionie</lengthvariant>
+            <lengthvariant>Wyśrodkuj pionowo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
@@ -8870,7 +9672,10 @@ szablon</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>FlashLampa błyskowa</translation>
+        <translation variants="yes">
+            <lengthvariant>Flash</lengthvariant>
+            <lengthvariant>Lampa błyskowa</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8890,7 +9695,10 @@ szablon</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatuj obiektFormatowanie obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -8960,11 +9768,17 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Wstaw obraz do wielu slajdówWstawianie obrazu do wielu slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz do wielu slajdów</lengthvariant>
+            <lengthvariant>Wstawianie obrazu do wielu slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Wstaw obraz w trybie onlineWstawianie obrazu w trybie online</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
+            <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Italic</source>
@@ -8976,7 +9790,11 @@ slajdu</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewejOd lewejDo lewej</translation>
+        <translation variants="yes">
+            <lengthvariant>Z lewej</lengthvariant>
+            <lengthvariant>Od lewej</lengthvariant>
+            <lengthvariant>Do lewej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -8988,7 +9806,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreskaMyślnik</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -8996,7 +9817,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation>MultimediaMedia</translation>
+        <translation variants="yes">
+            <lengthvariant>Multimedia</lengthvariant>
+            <lengthvariant>Media</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>More</source>
@@ -9040,7 +9864,10 @@ slajdu</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3-DBez 3-D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -9056,11 +9883,17 @@ slajdu</translation>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation>Pakiet do pliku skompresowanegoPakiet w pliku skompresowanym</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do pliku skompresowanego</lengthvariant>
+            <lengthvariant>Pakiet w pliku skompresowanym</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation>Pakiet do folderuPakiet w folderze</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do folderu</lengthvariant>
+            <lengthvariant>Pakiet w folderze</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -9100,7 +9933,11 @@ slajdu</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Z prawejOd prawejDo prawej</translation>
+        <translation variants="yes">
+            <lengthvariant>Z prawej</lengthvariant>
+            <lengthvariant>Od prawej</lengthvariant>
+            <lengthvariant>Do prawej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Roman</source>
@@ -9176,7 +10013,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiągłeCiagły</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciągłe</lengthvariant>
+            <lengthvariant>Ciagły</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Sound</source>
@@ -9270,7 +10110,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>NumerowanieNumeracja</translation>
+        <translation variants="yes">
+            <lengthvariant>Numerowanie</lengthvariant>
+            <lengthvariant>Numeracja</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -9293,7 +10136,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation>Data i godzinaData i czas</translation>
+        <translation variants="yes">
+            <lengthvariant>Data i godzina</lengthvariant>
+            <lengthvariant>Data i czas</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Equation</source>
@@ -9301,11 +10147,17 @@ slajdu</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt plikuZałącznik</translation>
+        <translation variants="yes">
+            <lengthvariant>Obiekt pliku</lengthvariant>
+            <lengthvariant>Załącznik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation>FlashLampa błyskowa</translation>
+        <translation variants="yes">
+            <lengthvariant>Flash</lengthvariant>
+            <lengthvariant>Lampa błyskowa</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -9349,7 +10201,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Wstaw obraz do wielu slajdówWstawianie obrazu do wielu slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz do wielu slajdów</lengthvariant>
+            <lengthvariant>Wstawianie obrazu do wielu slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -9357,11 +10212,17 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation>Wstaw WordArtWstaw obiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw WordArt</lengthvariant>
+            <lengthvariant>Wstaw obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Wstaw obraz w trybie onlineWstawianie obrazu w trybie online</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
+            <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Links</source>
@@ -9369,7 +10230,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation>MultimediaMedia</translation>
+        <translation variants="yes">
+            <lengthvariant>Multimedia</lengthvariant>
+            <lengthvariant>Media</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>More Symbols</source>
@@ -9397,11 +10261,17 @@ slajdu</translation>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation>Pakiet do pliku skompresowanegoPakiet w pliku skompresowanym</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do pliku skompresowanego</lengthvariant>
+            <lengthvariant>Pakiet w pliku skompresowanym</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation>Pakiet do folderuPakiet w folderze</translation>
+        <translation variants="yes">
+            <lengthvariant>Pakiet do folderu</lengthvariant>
+            <lengthvariant>Pakiet w folderze</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Picture</source>
@@ -9453,7 +10323,10 @@ slajdu</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArtObiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -9632,11 +10505,17 @@ slajdu</translation>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation>Inteligentny wybórWybór inteligentny</translation>
+        <translation variants="yes">
+            <lengthvariant>Inteligentny wybór</lengthvariant>
+            <lengthvariant>Wybór inteligentny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiągłeCiagły</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciągłe</lengthvariant>
+            <lengthvariant>Ciagły</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -9671,9 +10550,12 @@ slajdu</translation>
     <message>
         <source>Add
 Subordinate</source>
-        <translation>Dodaj
-podwładnegoDodaj
-podrzędnego</translation>
+        <translation variants="yes">
+            <lengthvariant>Dodaj
+podwładnego</lengthvariant>
+            <lengthvariant>Dodaj
+podrzędnego</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Add Assistant</source>
@@ -9685,7 +10567,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Add Subordinate</source>
-        <translation>Dodaj podwładnegoDodaj podrzędnego</translation>
+        <translation variants="yes">
+            <lengthvariant>Dodaj podwładnego</lengthvariant>
+            <lengthvariant>Dodaj podrzędnego</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>All Assistants</source>
@@ -9705,19 +10590,34 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation>GałąźOddział</translation>
+        <translation variants="yes">
+            <lengthvariant>Gałąź</lengthvariant>
+            <lengthvariant>Oddział</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Delete Member</source>
-        <translation>Usuń członkaUsuń uczestnikaUsuń element członkowski</translation>
+        <translation variants="yes">
+            <lengthvariant>Usuń członka</lengthvariant>
+            <lengthvariant>Usuń uczestnika</lengthvariant>
+            <lengthvariant>Usuń element członkowski</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fit Text</source>
-        <translation>Dopasuj tekstDopasowywanie tekstu</translation>
+        <translation variants="yes">
+            <lengthvariant>Dopasuj tekst</lengthvariant>
+            <lengthvariant>Dopasowywanie tekstu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>FitText Tip</source>
-        <translation>Dopasuj tekst PoradaDopasowanie tekstu PoradaDopasuj tekst WskazówkaDopasowanie tekstu Wskazówka</translation>
+        <translation variants="yes">
+            <lengthvariant>Dopasuj tekst Porada</lengthvariant>
+            <lengthvariant>Dopasowanie tekstu Porada</lengthvariant>
+            <lengthvariant>Dopasuj tekst Wskazówka</lengthvariant>
+            <lengthvariant>Dopasowanie tekstu Wskazówka</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Left Hanging</source>
@@ -9741,7 +10641,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation>StandardowyStandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Standardowy</lengthvariant>
+            <lengthvariant>Standardowe</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -9848,7 +10751,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Kompresuj obrazyKompresowanie obrazów</translation>
+        <translation variants="yes">
+            <lengthvariant>Kompresuj obrazy</lengthvariant>
+            <lengthvariant>Kompresowanie obrazów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Crop</source>
@@ -9904,7 +10810,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatuj obiektFormatowanie obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -9940,7 +10849,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie onlineWstawianie obrazów w trybie online</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obrazy w trybie online</lengthvariant>
+            <lengthvariant>Wstawianie obrazów w trybie online</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -9956,7 +10868,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreskaMyślnik</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -10012,7 +10927,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>KonturKonspekt</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontur</lengthvariant>
+            <lengthvariant>Konspekt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -10096,7 +11014,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiagłyCiągłe</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciagły</lengthvariant>
+            <lengthvariant>Ciągłe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -10130,7 +11051,10 @@ podrzędnego</translation>
     <name>rainbow.ct_picturetool.Picture</name>
     <message>
         <source>Adjust</source>
-        <translation>DopasujDopasowywanie</translation>
+        <translation variants="yes">
+            <lengthvariant>Dopasuj</lengthvariant>
+            <lengthvariant>Dopasowywanie</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -10145,7 +11069,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Frame Slides</source>
-        <translation>Obramowania slajdówObramowania wokół slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Obramowania slajdów</lengthvariant>
+            <lengthvariant>Obramowania wokół slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
@@ -10286,7 +11213,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation>Wymaż wszystką adiustacjęWymaż całą adiustację</translation>
+        <translation variants="yes">
+            <lengthvariant>Wymaż wszystką adiustację</lengthvariant>
+            <lengthvariant>Wymaż całą adiustację</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
@@ -10369,11 +11299,17 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>GłębokośćGłębia</translation>
+        <translation variants="yes">
+            <lengthvariant>Głębokość</lengthvariant>
+            <lengthvariant>Głębia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation>PrzygaszonePrzyciemniony</translation>
+        <translation variants="yes">
+            <lengthvariant>Przygaszone</lengthvariant>
+            <lengthvariant>Przyciemniony</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Direction</source>
@@ -10405,7 +11341,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3-DBez 3-D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -10465,7 +11404,10 @@ podrzędnego</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>KroplomierzWybór koloru</translation>
+        <translation variants="yes">
+            <lengthvariant>Kroplomierz</lengthvariant>
+            <lengthvariant>Wybór koloru</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Surface</source>
@@ -10513,9 +11455,12 @@ podrzędnego</translation>
     <message>
         <source>New Slide
 Master</source>
-        <translation>Nowy wzorzec
-slajdówNowy slajd
-wzorzec</translation>
+        <translation variants="yes">
+            <lengthvariant>Nowy wzorzec
+slajdów</lengthvariant>
+            <lengthvariant>Nowy slajd
+wzorzec</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>New Slide Master</source>
@@ -10538,7 +11483,10 @@ wzorzec</translation>
     <name>rainbow.ct_slideshow</name>
     <message>
         <source>CellphoneControl</source>
-        <translation>Kontrola telefonu komórkowegoKontrola komórki</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
+            <lengthvariant>Kontrola komórki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -10558,7 +11506,10 @@ wzorzec</translation>
     </message>
     <message>
         <source>Set Up</source>
-        <translation>UstawPrzygotuj</translation>
+        <translation variants="yes">
+            <lengthvariant>Ustaw</lengthvariant>
+            <lengthvariant>Przygotuj</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Set Up Show</source>
@@ -10567,16 +11518,22 @@ wzorzec</translation>
     <message>
         <source>Slide
 Transition</source>
-        <translation>Przejście
-slajduSlajd
-przejście</translation>
+        <translation variants="yes">
+            <lengthvariant>Przejście
+slajdu</lengthvariant>
+            <lengthvariant>Slajd
+przejście</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation>Ustawienia pokazu
-slajdówPokaz slajdów
-ustawienia</translation>
+        <translation variants="yes">
+            <lengthvariant>Ustawienia pokazu
+slajdów</lengthvariant>
+            <lengthvariant>Pokaz slajdów
+ustawienia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Slide Transition</source>
@@ -10595,7 +11552,10 @@ ustawienia</translation>
     <name>rainbow.ct_tabletool</name>
     <message>
         <source>Adjust</source>
-        <translation>DopasujDopasowywanie</translation>
+        <translation variants="yes">
+            <lengthvariant>Dopasuj</lengthvariant>
+            <lengthvariant>Dopasowywanie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -10623,15 +11583,24 @@ ustawienia</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>WyśrodkujŚrodek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Wyśrodkuj w pionieWyśrodkuj pionowo</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj w pionie</lengthvariant>
+            <lengthvariant>Wyśrodkuj pionowo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>NiestandardowyNiestandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10671,7 +11640,11 @@ ustawienia</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewejOd lewejDo lewej</translation>
+        <translation variants="yes">
+            <lengthvariant>Z lewej</lengthvariant>
+            <lengthvariant>Od lewej</lengthvariant>
+            <lengthvariant>Do lewej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Margins</source>
@@ -10687,7 +11660,11 @@ ustawienia</translation>
     </message>
     <message>
         <source>Narrow</source>
-        <translation>WąskieWąskiZwęź</translation>
+        <translation variants="yes">
+            <lengthvariant>Wąskie</lengthvariant>
+            <lengthvariant>Wąski</lengthvariant>
+            <lengthvariant>Zwęź</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>None</source>
@@ -10695,11 +11672,18 @@ ustawienia</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>NormalneNormalny</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalne</lengthvariant>
+            <lengthvariant>Normalny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Z prawejOd prawejDo prawej</translation>
+        <translation variants="yes">
+            <lengthvariant>Z prawej</lengthvariant>
+            <lengthvariant>Od prawej</lengthvariant>
+            <lengthvariant>Do prawej</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Rows and Columns</source>
@@ -10711,11 +11695,17 @@ ustawienia</translation>
     </message>
     <message>
         <source>Select Column</source>
-        <translation>Wybierz kolumnęZaznacz kolumnę</translation>
+        <translation variants="yes">
+            <lengthvariant>Wybierz kolumnę</lengthvariant>
+            <lengthvariant>Zaznacz kolumnę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Select Row</source>
-        <translation>Wybierz wierszZaznacz wiersz</translation>
+        <translation variants="yes">
+            <lengthvariant>Wybierz wiersz</lengthvariant>
+            <lengthvariant>Zaznacz wiersz</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Select Table</source>
@@ -10754,7 +11744,10 @@ ustawienia</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation>KaskadowoKaskada</translation>
+        <translation variants="yes">
+            <lengthvariant>Kaskadowo</lengthvariant>
+            <lengthvariant>Kaskada</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Close
@@ -10794,7 +11787,10 @@ inne okna</translation>
     </message>
     <message>
         <source>Master View</source>
-        <translation>Widok głównyWidok wzorca</translation>
+        <translation variants="yes">
+            <lengthvariant>Widok główny</lengthvariant>
+            <lengthvariant>Widok wzorca</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>New Window</source>
@@ -10911,15 +11907,24 @@ Effects</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>NiestandardowyNiestandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>GłębokośćGłębia</translation>
+        <translation variants="yes">
+            <lengthvariant>Głębokość</lengthvariant>
+            <lengthvariant>Głębia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation>PrzygaszonePrzyciemniony</translation>
+        <translation variants="yes">
+            <lengthvariant>Przygaszone</lengthvariant>
+            <lengthvariant>Przyciemniony</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Direction</source>
@@ -10951,7 +11956,10 @@ Effects</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3-DBez 3-D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -10959,7 +11967,10 @@ Effects</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>NormalnyNormalne</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
@@ -11015,7 +12026,10 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>KroplomierzWybór koloru</translation>
+        <translation variants="yes">
+            <lengthvariant>Kroplomierz</lengthvariant>
+            <lengthvariant>Wybór koloru</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Surface</source>
@@ -11154,7 +12168,10 @@ cienia</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>WyśrodkujŚrodek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Character Spacing</source>
@@ -11186,7 +12203,10 @@ cienia</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>NiestandardowyNiestandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dash</source>
@@ -11258,19 +12278,31 @@ cienia</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation>Zanikanie w dółOddalanie w dół</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w dół</lengthvariant>
+            <lengthvariant>Oddalanie w dół</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation>Zanikanie w lewoOddalanie w lewo</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w lewo</lengthvariant>
+            <lengthvariant>Oddalanie w lewo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation>Zanikanie w prawoOddalanie w prawo</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w prawo</lengthvariant>
+            <lengthvariant>Oddalanie w prawo</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation>Zanikanie w góręOddalanie w górę</translation>
+        <translation variants="yes">
+            <lengthvariant>Zanikanie w górę</lengthvariant>
+            <lengthvariant>Oddalanie w górę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -11282,7 +12314,10 @@ cienia</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatuj obiektFormatowanie obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -11326,7 +12361,10 @@ cienia</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreskaMyślnik</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -11350,7 +12388,10 @@ cienia</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>NormalneNormalny</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalne</lengthvariant>
+            <lengthvariant>Normalny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -11374,11 +12415,17 @@ cienia</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>Wnętrze pierścieniaPierścień-strona wewnętrzna</translation>
+        <translation variants="yes">
+            <lengthvariant>Wnętrze pierścienia</lengthvariant>
+            <lengthvariant>Pierścień-strona wewnętrzna</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>Zewnętrze pierścieniaPierścień-strona zewnętrzna</translation>
+        <translation variants="yes">
+            <lengthvariant>Zewnętrze pierścienia</lengthvariant>
+            <lengthvariant>Pierścień-strona zewnętrzna</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -11418,7 +12465,10 @@ cienia</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>CiagłyCiągłe</translation>
+        <translation variants="yes">
+            <lengthvariant>Ciagły</lengthvariant>
+            <lengthvariant>Ciągłe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -11442,11 +12492,17 @@ cienia</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation>Trójkąt skierowany w dółTrójkąt w dół</translation>
+        <translation variants="yes">
+            <lengthvariant>Trójkąt skierowany w dół</lengthvariant>
+            <lengthvariant>Trójkąt w dół</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation>Trójkąt skierowany w góręTrójkąt w górę</translation>
+        <translation variants="yes">
+            <lengthvariant>Trójkąt skierowany w górę</lengthvariant>
+            <lengthvariant>Trójkąt w górę</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -11458,7 +12514,10 @@ cienia</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Bardzo przyległeZwarte</translation>
+        <translation variants="yes">
+            <lengthvariant>Bardzo przyległe</lengthvariant>
+            <lengthvariant>Zwarte</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -11478,20 +12537,32 @@ cienia</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArtObiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt</source>
         <comment>Insert</comment>
-        <translation>WordArtObiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>Wyrównanie WordArtWyrównanie obiektu WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyrównanie WordArt</lengthvariant>
+            <lengthvariant>Wyrównanie obiektu WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>Wypełnienie WordArtWypełnienie tekstu WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Wypełnienie WordArt</lengthvariant>
+            <lengthvariant>Wypełnienie tekstu WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
@@ -11499,19 +12570,31 @@ cienia</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>Kontur WordArtKontur tekstu WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontur WordArt</lengthvariant>
+            <lengthvariant>Kontur tekstu WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>Kształt WordArtKształt tekstu WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Kształt WordArt</lengthvariant>
+            <lengthvariant>Kształt tekstu WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>Rozmiar tekstu WordArtRozmiar WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Rozmiar tekstu WordArt</lengthvariant>
+            <lengthvariant>Rozmiar WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation>Style tekstu WordArtStyle WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Style tekstu WordArt</lengthvariant>
+            <lengthvariant>Style WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
@@ -11529,15 +12612,25 @@ cienia</translation>
     <name>rainbow.ct_workspace</name>
     <message>
         <source>Batch Set Font</source>
-        <translation>Zestaw ustawienia czcionkiPartia ustawienia czcionkiWielkość ustawienia czcionki</translation>
+        <translation variants="yes">
+            <lengthvariant>Zestaw ustawienia czcionki</lengthvariant>
+            <lengthvariant>Partia ustawienia czcionki</lengthvariant>
+            <lengthvariant>Wielkość ustawienia czcionki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation>Kontrola telefonu komórkowegoKontrola komórki</translation>
+        <translation variants="yes">
+            <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
+            <lengthvariant>Kontrola komórki</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Łącze do usługi ChmuraŁącze do usługi Cloud</translation>
+        <translation variants="yes">
+            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -11581,7 +12674,10 @@ cienia</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Wstaw obraz do wielu slajdówWstawianie obrazu do wielu slajdów</translation>
+        <translation variants="yes">
+            <lengthvariant>Wstaw obraz do wielu slajdów</lengthvariant>
+            <lengthvariant>Wstawianie obrazu do wielu slajdów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -11597,7 +12693,10 @@ cienia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z dokumentów w usłudze ChmuraOtwórz z usługi Cloud Docs</translation>
+        <translation variants="yes">
+            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
+            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -11605,7 +12704,10 @@ cienia</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do dokumentów w usłudze ChmuraZapisz do usługi Cloud Docs</translation>
+        <translation variants="yes">
+            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
+            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -11625,7 +12727,10 @@ cienia</translation>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation>Przetłumacz do dokumentuTłumaczenie do dokumentu</translation>
+        <translation variants="yes">
+            <lengthvariant>Przetłumacz do dokumentu</lengthvariant>
+            <lengthvariant>Tłumaczenie do dokumentu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -11712,7 +12817,10 @@ cienia</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Łącze do usługi ChmuraŁącze do usługi Cloud</translation>
+        <translation variants="yes">
+            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -11736,7 +12844,10 @@ cienia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z dokumentów w usłudze ChmuraOtwórz z usługi Cloud Docs</translation>
+        <translation variants="yes">
+            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
+            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -11744,7 +12855,10 @@ cienia</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do dokumentów w usłudze ChmuraZapisz do usługi Cloud Docs</translation>
+        <translation variants="yes">
+            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
+            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -11760,7 +12874,10 @@ cienia</translation>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation>Przetłumacz do dokumentuTłumaczenie do dokumentu</translation>
+        <translation variants="yes">
+            <lengthvariant>Przetłumacz do dokumentu</lengthvariant>
+            <lengthvariant>Tłumaczenie do dokumentu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -11776,7 +12893,11 @@ cienia</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPSWPS dla firm</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+            <lengthvariant></lengthvariant>
+        </translation>
     </message>
     <message>
         <source>true</source>
@@ -11826,7 +12947,11 @@ cienia</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation>PrzeglądPrzejrzyjRecenzja</translation>
+        <translation variants="yes">
+            <lengthvariant>Przegląd</lengthvariant>
+            <lengthvariant>Przejrzyj</lengthvariant>
+            <lengthvariant>Recenzja</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -11842,7 +12967,10 @@ cienia</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation>StandardowyStandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Standardowy</lengthvariant>
+            <lengthvariant>Standardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Stop Recording</source>
@@ -11850,18 +12978,27 @@ cienia</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
-        <translation>Tabele i obramowaniaTabele i krawędzie</translation>
+        <translation variants="yes">
+            <lengthvariant>Tabele i obramowania</lengthvariant>
+            <lengthvariant>Tabele i krawędzie</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArtObiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
     <name>wppclassics.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>Diagram</source>
-        <translation>DiagramSchemat</translation>
+        <translation variants="yes">
+            <lengthvariant>Diagram</lengthvariant>
+            <lengthvariant>Schemat</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Organization Chart</source>
@@ -11908,7 +13045,10 @@ cienia</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>WyśrodkujŚrodek</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyśrodkuj</lengthvariant>
+            <lengthvariant>Środek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Change AutoShape</source>
@@ -11916,7 +13056,10 @@ cienia</translation>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation>Sprawdzanie pisowniSprawdź pisownię</translation>
+        <translation variants="yes">
+            <lengthvariant>Sprawdzanie pisowni</lengthvariant>
+            <lengthvariant>Sprawdź pisownię</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Click to turn on/off AutoBackup</source>
@@ -11924,7 +13067,10 @@ cienia</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>ClipArtObiekt ClipArt</translation>
+        <translation variants="yes">
+            <lengthvariant>ClipArt</lengthvariant>
+            <lengthvariant>Obiekt ClipArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -11940,7 +13086,10 @@ cienia</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Łącze do usługi ChmuraŁącze do usługi Cloud</translation>
+        <translation variants="yes">
+            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -11952,7 +13101,10 @@ cienia</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Kompresuj obrazyKompresowanie obrazów</translation>
+        <translation variants="yes">
+            <lengthvariant>Kompresuj obrazy</lengthvariant>
+            <lengthvariant>Kompresowanie obrazów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Connector</source>
@@ -11964,7 +13116,10 @@ cienia</translation>
     </message>
     <message>
         <source>Creat Cloud Link</source>
-        <translation>Utwórz łącze do usługi ChmuraUtwórz łącze do usługi Cloud</translation>
+        <translation variants="yes">
+            <lengthvariant>Utwórz łącze do usługi Chmura</lengthvariant>
+            <lengthvariant>Utwórz łącze do usługi Cloud</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Curve</source>
@@ -12004,7 +13159,11 @@ cienia</translation>
     </message>
     <message>
         <source>Draw Shapes</source>
-        <translation>Rysuj kształtyNarysuj kształyRysowanie kształtów</translation>
+        <translation variants="yes">
+            <lengthvariant>Rysuj kształty</lengthvariant>
+            <lengthvariant>Narysuj kształy</lengthvariant>
+            <lengthvariant>Rysowanie kształtów</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dynamic Shapes</source>
@@ -12052,7 +13211,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Ukryj bieżące okno, podczas zrzutu ekranuUkryj bieżące okno, podczas pobierania ekranu</translation>
+        <translation variants="yes">
+            <lengthvariant>Ukryj bieżące okno, podczas zrzutu ekranu</lengthvariant>
+            <lengthvariant>Ukryj bieżące okno, podczas pobierania ekranu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -12092,7 +13254,10 @@ slajdu</translation>
     </message>
     <message>
         <source>MailFeedBack</source>
-        <translation>Poczta opiniiPoczta Feedback</translation>
+        <translation variants="yes">
+            <lengthvariant>Poczta opinii</lengthvariant>
+            <lengthvariant>Poczta Feedback</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Master Miniature</source>
@@ -12136,7 +13301,10 @@ slajdu</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation>Nowa prezentacjaNowy plik prezentacji</translation>
+        <translation variants="yes">
+            <lengthvariant>Nowa prezentacja</lengthvariant>
+            <lengthvariant>Nowy plik prezentacji</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>New Slide From Library</source>
@@ -12401,15 +13569,24 @@ slajdu</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArtObiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>change template</source>
-        <translation>zmień szablonzmienianie szablonu</translation>
+        <translation variants="yes">
+            <lengthvariant>zmień szablon</lengthvariant>
+            <lengthvariant>zmienianie szablonu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>magic</source>
-        <translation>magiamagic</translation>
+        <translation variants="yes">
+            <lengthvariant>magia</lengthvariant>
+            <lengthvariant>magic</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>statusbar</source>
@@ -12427,7 +13604,10 @@ slajdu</translation>
     <name>wppcommon.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>Diagram</source>
-        <translation>DiagramSchemat</translation>
+        <translation variants="yes">
+            <lengthvariant>Diagram</lengthvariant>
+            <lengthvariant>Schemat</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Organization Chart</source>
@@ -12445,7 +13625,10 @@ slajdu</translation>
     <name>wppcommon.mainwindow.commands.status bar</name>
     <message>
         <source>Normal</source>
-        <translation>NormalnyNormalne</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Slide Show from Current(Shift+F5)</source>
@@ -12483,7 +13666,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Customize task window</source>
-        <translation>Dostosuj okno zadańDostosowywanie okna zadań</translation>
+        <translation variants="yes">
+            <lengthvariant>Dostosuj okno zadań</lengthvariant>
+            <lengthvariant>Dostosowywanie okna zadań</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Design</source>
@@ -12547,7 +13733,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation>Narzędzia obrazówNarzędzia obrazu</translation>
+        <translation variants="yes">
+            <lengthvariant>Narzędzia obrazów</lengthvariant>
+            <lengthvariant>Narzędzia obrazu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pin the ToolBar</source>
@@ -12559,7 +13748,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation>Menu szybkiego dostępuMenu szybki dostęp</translation>
+        <translation variants="yes">
+            <lengthvariant>Menu szybkiego dostępu</lengthvariant>
+            <lengthvariant>Menu szybki dostęp</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -12575,7 +13767,11 @@ slajdu</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation>PrzeglądPrzejrzyjRecenzja</translation>
+        <translation variants="yes">
+            <lengthvariant>Przegląd</lengthvariant>
+            <lengthvariant>Przejrzyj</lengthvariant>
+            <lengthvariant>Recenzja</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -12627,7 +13823,10 @@ slajdu</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPSWPS dla firm</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -12635,7 +13834,10 @@ slajdu</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArtObiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>setting</source>
@@ -12650,12 +13852,18 @@ slajdu</translation>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownika</translation>
+        <translation variants="yes">
+            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
+            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation>Przełącz interfejs użytkownika</translation>
+        <translation variants="yes">
+            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
+            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -12671,7 +13879,10 @@ slajdu</translation>
     <name>wppongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Przełącz językZmień język</translation>
+        <translation variants="yes">
+            <lengthvariant>Przełącz język</lengthvariant>
+            <lengthvariant>Zmień język</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -12784,7 +13995,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation>Narzędzia obrazówNarzędzia obrazu</translation>
+        <translation variants="yes">
+            <lengthvariant>Narzędzia obrazów</lengthvariant>
+            <lengthvariant>Narzędzia obrazu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -12792,7 +14006,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation>Menu szybkiego dostępuMenu szybki dostęp</translation>
+        <translation variants="yes">
+            <lengthvariant>Menu szybkiego dostępu</lengthvariant>
+            <lengthvariant>Menu szybki dostęp</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -12808,7 +14025,11 @@ slajdu</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation>PrzeglądPrzejrzyjRecenzja</translation>
+        <translation variants="yes">
+            <lengthvariant>Przegląd</lengthvariant>
+            <lengthvariant>Przejrzyj</lengthvariant>
+            <lengthvariant>Recenzja</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -12836,7 +14057,10 @@ slajdu</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation>Szpilka paska narzędziPrzypnij pasek narzędzi</translation>
+        <translation variants="yes">
+            <lengthvariant>Szpilka paska narzędzi</lengthvariant>
+            <lengthvariant>Przypnij pasek narzędzi</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -12860,7 +14084,10 @@ slajdu</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPSWPS dla firm</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -12868,7 +14095,10 @@ slajdu</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArtObiekt WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -12879,19 +14109,28 @@ slajdu</translation>
     <name>wpprainbow.mainwindow.commands.Diagram</name>
     <message>
         <source>Diagram</source>
-        <translation>DiagramSchemat</translation>
+        <translation variants="yes">
+            <lengthvariant>Diagram</lengthvariant>
+            <lengthvariant>Schemat</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownika</translation>
+        <translation variants="yes">
+            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
+            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation>Przełącz interfejs użytkownika</translation>
+        <translation variants="yes">
+            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
+            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -12907,7 +14146,10 @@ slajdu</translation>
     <name>wpprainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>Przełącz językZmień język</translation>
+        <translation variants="yes">
+            <lengthvariant>Przełącz język</lengthvariant>
+            <lengthvariant>Zmień język</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
