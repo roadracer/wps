@@ -119,7 +119,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add &amp;Design</source>
+        <source>Add Design</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3458,11 +3458,11 @@ If necessary, click Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zoom</source>
+        <source>Loop until next sound</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Loop until next sound</source>
+        <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

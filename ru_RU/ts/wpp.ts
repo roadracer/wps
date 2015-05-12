@@ -121,7 +121,11 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation>Добавить &amp;оформление</translation>
+        <translation type="obsolete">Добавить &amp;оформление</translation>
+    </message>
+    <message>
+        <source>Add Design</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3366,11 +3370,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Масштаб</translation>
+        <translation type="obsolete">Масштаб</translation>
     </message>
     <message>
         <source>Loop until next sound</source>
         <translation>Непрерывно</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

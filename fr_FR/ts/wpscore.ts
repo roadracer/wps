@@ -150,7 +150,7 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>WPS Writer a rencontré une erreur en tentant de mettre à jour le fichier source.
+        <translation type="obsolete">WPS Writer a rencontré une erreur en tentant de mettre à jour le fichier source.
 Essayez une ou plusieurs des opérations suivantes :
 1、Vérifiez si le fichier source a été ouvert ou est utilisé par d&apos;autres programmes.
 2、Vérifiez si le fichier source est protégé.
@@ -173,6 +173,16 @@ Essayez une ou plusieurs des opérations suivantes :
         <comment>TX_FIELD_ERR_PICTURE_STRING_CONTAINS_UNMATCHED_QUOTES</comment>
         <translatorcomment>Insert tab-&gt;Fields-&gt;Field names:Time-&gt;Field codes:TIME\@&apos;</translatorcomment>
         <translation>Erreur ! La chaîne de l&apos;image contient des guillemets qui ne correspondent pas.</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2780,7 +2790,7 @@ Notez que certains fichiers peuvent contenir des virus présents dans des macros
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation>WPSV6-TEXT</translation>
+        <translation type="obsolete">WPSV6-TEXT</translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
@@ -7158,6 +7168,11 @@ orthographique</translation>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

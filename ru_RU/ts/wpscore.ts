@@ -557,11 +557,21 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>Ошибка при попытке обновления исходного файла. 
+        <translation type="obsolete">Ошибка при попытке обновления исходного файла. 
 Попробуйте одно из следующих действий:
 1. проверьте был ли уже открыт исходный файл или открыт другой программой;
 2. проверьте защищен ли исходный файл;
 3. убедитесь, что исходный файл находится в соответствующем каталоге.</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3054,11 +3064,6 @@ Note that some files may contain macro viruses and possibly perform other harmfu
         <source>Cannot paste table to a vertical text box.</source>
         <comment>_TxDocument_TableInVertTextBox</comment>
         <translation>Невозможно вставить таблицу в вертикальное текстовое поле.</translation>
-    </message>
-    <message>
-        <source>WPSV6-TEXT</source>
-        <comment>_TxFilter_ConfigKey</comment>
-        <translation></translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
@@ -7362,6 +7367,11 @@ Check</source>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

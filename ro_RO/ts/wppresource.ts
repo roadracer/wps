@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ro_RO">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2619,6 +2619,10 @@ pornit</translation>
     <message>
         <source>Enter Activation Code</source>
         <translation>Introduceți codul de activare</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -6699,6 +6703,10 @@ Add-Ins</source>
         <translation>Exportă ca imagine</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation></translation>
     </message>
@@ -7113,10 +7121,6 @@ master</translation>
         <translation></translation>
     </message>
     <message>
-        <source>Picture Format Style</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Play</source>
         <translation>Redare</translation>
     </message>
@@ -7301,12 +7305,12 @@ master</translation>
         <translation></translation>
     </message>
     <message>
-        <source>Shape Format Style</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Shape Line</source>
         <translation>Formă linie</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -7411,6 +7415,10 @@ master</translation>
     <message>
         <source>Study Online</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -8306,6 +8314,10 @@ implicat</translation>
     <message>
         <source>Enter Activation Code</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Export OFD Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -12516,6 +12528,11 @@ curent</translation>
         <translation>Comutare UI</translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>adevărat</translation>
     </message>
@@ -12745,6 +12762,11 @@ curent</translation>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
         <translation>Comutare UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

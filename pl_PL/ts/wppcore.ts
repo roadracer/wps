@@ -6532,12 +6532,12 @@ układ</lengthvariant>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation>Wszystkie pliki (*.*)|*.*|Wspólne pliki (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Pliki programu WPS Presentation (*.dps)|*.dps|Szablony programu WPS Presentation (*.dpt)|*.dpt|Prezentacje programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt; *.pps)|*.ppt; *.pps|Szablony prezentacji programu Microsoft PowerPoint 97/2000/XP/2003 (*.pot)|*.pot|Prezentacje programu Microsoft PowerPoint 2007/2010 (*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+        <translation type="obsolete">Wszystkie pliki (*.*)|*.*|Wspólne pliki (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Pliki programu WPS Presentation (*.dps)|*.dps|Szablony programu WPS Presentation (*.dpt)|*.dpt|Prezentacje programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt; *.pps)|*.ppt; *.pps|Szablony prezentacji programu Microsoft PowerPoint 97/2000/XP/2003 (*.pot)|*.pot|Prezentacje programu Microsoft PowerPoint 2007/2010 (*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
     </message>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
         <comment>WP_SAVEFILE</comment>
-        <translation>Plik WPS Presentation (*.dps)|*.dps|Szablon WPS Presentation (*.dpt)|*.dpt|Prezentacja programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)|*.ppt|Szablon prezentacji programu Microsoft PowerPoint 97/2000/XP/2003 (*.pot)|*.pot|Pokaz programu Microsoft PowerPoint 97/2000/XP/2003 (*.pps)|*.pps|Format wymiany plików JPEG (*.jpg)|*.jpg|Przenośna grafika sieciowa PNG (*.png)|*.png|Znacznikowy format pliku obrazu TIF (*.tif)|*.tif|Mapa bitowa niezależna od urządzenia (*.bmp)|*.bmp</translation>
+        <translation type="obsolete">Plik WPS Presentation (*.dps)|*.dps|Szablon WPS Presentation (*.dpt)|*.dpt|Prezentacja programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)|*.ppt|Szablon prezentacji programu Microsoft PowerPoint 97/2000/XP/2003 (*.pot)|*.pot|Pokaz programu Microsoft PowerPoint 97/2000/XP/2003 (*.pps)|*.pps|Format wymiany plików JPEG (*.jpg)|*.jpg|Przenośna grafika sieciowa PNG (*.png)|*.png|Znacznikowy format pliku obrazu TIF (*.tif)|*.tif|Mapa bitowa niezależna od urządzenia (*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Apply Design Template</source>
@@ -7105,6 +7105,81 @@ Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
             <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
 Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <comment>WpDescAll</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
+        <comment>WpDescCommon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Files(*.dps)</source>
+        <comment>WpDescWPP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Templates(*.dpt)</source>
+        <comment>WpDescWPPTemp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescPptPps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
+        <comment>WpDescPpt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
+        <comment>WpDescPps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPptTemp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
+        <comment>WpDescPptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format(*.uof)</source>
+        <comment>WpDescUOF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format 2.0(*.uop)</source>
+        <comment>WpDescUOF2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)</source>
+        <comment>WpDescJPEG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PNG Portable Network Graphics Format(*.png)</source>
+        <comment>WpDescPNG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TIFF Tag Image File Format(*.tif)</source>
+        <comment>WpDescTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device Independent Bitmap(*.bmp)</source>
+        <comment>WpDescBMP</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

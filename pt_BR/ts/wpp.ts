@@ -120,7 +120,11 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation>Adicionar design</translation>
+        <translation type="obsolete">Adicionar design</translation>
+    </message>
+    <message>
+        <source>Add Design</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3364,11 +3368,15 @@ o botão advanced permite-lhe escolher entre diferentes tipos de criptografia .<
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
     </message>
     <message>
         <source>Loop until next sound</source>
         <translation>Loop até o próximo som</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

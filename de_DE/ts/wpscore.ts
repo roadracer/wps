@@ -733,11 +733,21 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>Es wurde ein Fehler gefunden, wenn WPS-Writer versuchen, Quelldatei zu aktualisieren.
+        <translation type="obsolete">Es wurde ein Fehler gefunden, wenn WPS-Writer versuchen, Quelldatei zu aktualisieren.
 Versuchen Sie Folgendes:
 1. Überprüfen Sie, ob die Quelldatei geöffnet oder von anderen Programmen belegt wird.
 2. Überprüfen Sie, ob die Quelldatei geschützt wird.
 3. Stellen Sie sicher, dass die Quelldatei im entsprechenden Verzeichnis vorhanden ist. </translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3302,7 +3312,7 @@ Do you want to continue?</source>
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation>WPSV6-TEXT</translation>
+        <translation type="obsolete">WPSV6-TEXT</translation>
     </message>
     <message>
         <source>builtin.wpt</source>
@@ -7683,6 +7693,11 @@ Check</source>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -3198,6 +3198,10 @@ On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exporter au format PDF</translation>
     </message>
@@ -8032,6 +8036,10 @@ Add-Ins</source>
         <translation>Exporter en tant qu&apos;image</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translatorcomment>Drop-down menu-&gt;File</translatorcomment>
         <translation>Exporter au format PDF</translation>
@@ -8489,10 +8497,6 @@ masque de diapositive</translation>
         <translation>Image</translation>
     </message>
     <message>
-        <source>Picture Format Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play</source>
         <translatorcomment>Drop-down menu-&gt;Slide Show</translatorcomment>
         <translation>Lecture</translation>
@@ -8686,11 +8690,11 @@ masque de diapositive</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Format Style</source>
+        <source>Shape Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Line</source>
+        <source>Shape Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8803,6 +8807,10 @@ masque de diapositive</translation>
     <message>
         <source>Study Online</source>
         <translation>Étudier en ligne</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -9716,6 +9724,10 @@ Template</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export OFD Format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14021,6 +14033,11 @@ diapositive actuelle</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14261,6 +14278,11 @@ diapositive actuelle</translation>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

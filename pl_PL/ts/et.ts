@@ -1099,11 +1099,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Queries currently being excuted in the background:</source>
-        <translation>Kwerendy obecnie wykonywane w tle:</translation>
+        <translation type="obsolete">Kwerendy obecnie wykonywane w tle:</translation>
     </message>
     <message>
         <source>Status</source>
         <translation>Stan</translation>
+    </message>
+    <message>
+        <source>Queries currently being executed in the background:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1196,56 +1200,56 @@ condition is true:</source>
     <name>KxConditionHighLightDlg</name>
     <message>
         <source>HighLight - Numerial</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wyróżnienie - Numeryczny</lengthvariant>
             <lengthvariant>Wyróżnienie - Liczbowy</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_Equal</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Równe</lengthvariant>
             <lengthvariant>Liczbowy_Równe</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_NoEqual</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Nie równe</lengthvariant>
             <lengthvariant>Liczbowy_Nie równe</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_Large</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Większe</lengthvariant>
             <lengthvariant>Liczbowy_Większe</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_LargeEqual</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Większe lub równe</lengthvariant>
             <lengthvariant>Liczbowy_Większe lub równe</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_Less</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Mniejsze</lengthvariant>
             <lengthvariant>Liczbowy_Mniejsze</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_LessEqual</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Mniejsze lub równe</lengthvariant>
             <lengthvariant>Liczbowy_Mniejsze lub równe</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_BetweenMidfix</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Między środek</lengthvariant>
             <lengthvariant>Liczbowy_Między środek</lengthvariant>
         </translation>
@@ -1259,189 +1263,349 @@ condition is true:</source>
     </message>
     <message>
         <source>Numerial_Between</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Między</lengthvariant>
             <lengthvariant>Liczbowy_Między</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_NoBetween</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Nie między</lengthvariant>
             <lengthvariant>Liczbowy_Nie między</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_TopCountPrefix</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Górna liczba Prefiks</lengthvariant>
             <lengthvariant>Liczbowy_Górna liczba Prefiks</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_TopCountSuffix</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Górna liczba Sufiks</lengthvariant>
             <lengthvariant>Liczbowy_Górna liczba Sufiks</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_LowCountPrefix</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Dolna liczba Prefiks</lengthvariant>
             <lengthvariant>Liczbowy_Dolna liczba Prefiks</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_LowCountSuffix</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Dolna liczba Sufiks</lengthvariant>
             <lengthvariant>Liczbowy_Dolna liczba Sufiks</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_TopPercentPrefix</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Górny procent Prefiks</lengthvariant>
             <lengthvariant>Liczbowy_Górny procent Prefiks</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_TopPercentSuffix</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Górny procent Sufiks</lengthvariant>
             <lengthvariant>Liczbowy_Górny procent Sufiks</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_LowPercentPrefix</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Dolny procent Prefiks</lengthvariant>
             <lengthvariant>Liczbowy_Dolny procent Prefiks</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_LowPercentSuffix</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Dolny procent Sufiks</lengthvariant>
             <lengthvariant>Liczbowy_Dolny procent Sufiks</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_AvgSuffix</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Średnia Sufiks</lengthvariant>
             <lengthvariant>Liczbowy_Średnia Sufiks</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_AvgAbove</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Powyżej średniej</lengthvariant>
             <lengthvariant>Liczbowy_Powyżej średniej</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Numerial_AvgBelow</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Numeryczny_Poniżej średniej</lengthvariant>
             <lengthvariant>Liczbowy_Poniżej średniej</lengthvariant>
         </translation>
     </message>
     <message>
         <source>HighLight - Text</source>
-        <translation>Wyróżnienie - Tekst</translation>
+        <translation type="obsolete">Wyróżnienie - Tekst</translation>
     </message>
     <message>
         <source>Text_Contain</source>
-        <translation>Tekst_Zawiera</translation>
+        <translation type="obsolete">Tekst_Zawiera</translation>
     </message>
     <message>
         <source>Text_NoContain</source>
-        <translation>Tekst_Nie zawiera</translation>
+        <translation type="obsolete">Tekst_Nie zawiera</translation>
     </message>
     <message>
         <source>Text_BeginWith</source>
-        <translation>Tekst_Zaczyna się</translation>
+        <translation type="obsolete">Tekst_Zaczyna się</translation>
     </message>
     <message>
         <source>Text_EndWith</source>
-        <translation>Tekst_Kończy się</translation>
+        <translation type="obsolete">Tekst_Kończy się</translation>
     </message>
     <message>
         <source>HighLight - Date</source>
-        <translation>Wyróżnienie - Data</translation>
+        <translation type="obsolete">Wyróżnienie - Data</translation>
     </message>
     <message>
         <source>Date_Prefix</source>
-        <translation>Data_Prefiks</translation>
+        <translation type="obsolete">Data_Prefiks</translation>
     </message>
     <message>
         <source>Date_Yesterday</source>
-        <translation>Data_Wczoraj</translation>
+        <translation type="obsolete">Data_Wczoraj</translation>
     </message>
     <message>
         <source>Date_Today</source>
-        <translation>Data_Dzisiaj</translation>
+        <translation type="obsolete">Data_Dzisiaj</translation>
     </message>
     <message>
         <source>Date_Tomorrow</source>
-        <translation>Data_Jutro</translation>
+        <translation type="obsolete">Data_Jutro</translation>
     </message>
     <message>
         <source>Date_LateSeven</source>
-        <translation>Data_Ostatnie 7 dni</translation>
+        <translation type="obsolete">Data_Ostatnie 7 dni</translation>
     </message>
     <message>
         <source>Date_LastWeek</source>
-        <translation>Data_Ubiegły tydzień</translation>
+        <translation type="obsolete">Data_Ubiegły tydzień</translation>
     </message>
     <message>
         <source>Date_Week</source>
-        <translation>Data_W tym tygodniu</translation>
+        <translation type="obsolete">Data_W tym tygodniu</translation>
     </message>
     <message>
         <source>Date_NextWeek</source>
-        <translation>Data_Następny tydzień</translation>
+        <translation type="obsolete">Data_Następny tydzień</translation>
     </message>
     <message>
         <source>Date_LastMonth</source>
-        <translation>Data_Ubiegły miesiąc</translation>
+        <translation type="obsolete">Data_Ubiegły miesiąc</translation>
     </message>
     <message>
         <source>Date_Month</source>
-        <translation>Data_W tym miesiącu</translation>
+        <translation type="obsolete">Data_W tym miesiącu</translation>
     </message>
     <message>
         <source>Date_NextMonth</source>
-        <translation>Data_Następny miesiąc</translation>
+        <translation type="obsolete">Data_Następny miesiąc</translation>
     </message>
     <message>
         <source>Date_Weekend</source>
-        <translation>Data_Weekend</translation>
+        <translation type="obsolete">Data_Weekend</translation>
     </message>
     <message>
         <source>HighLight - Special</source>
-        <translation>Wyróżnienie - Specjalne</translation>
+        <translation type="obsolete">Wyróżnienie - Specjalne</translation>
     </message>
     <message>
         <source>Special_Empty</source>
-        <translation>Specjalne_Puste</translation>
+        <translation type="obsolete">Specjalne_Puste</translation>
     </message>
     <message>
         <source>Special_Error</source>
-        <translation>Specjalne_Błąd</translation>
+        <translation type="obsolete">Specjalne_Błąd</translation>
     </message>
     <message>
         <source>A required input value is missing</source>
-        <translation>Brakuje wymaganej wartości wejściowej</translation>
+        <translation type="obsolete">Brakuje wymaganej wartości wejściowej</translation>
     </message>
     <message>
         <source>required range values is not enough</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>wymagany zakres wartości jest za mały</lengthvariant>
             <lengthvariant>wymagany zakres wartości jest niewystarczający</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Highlight-Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than</source>
+        <translation type="unfinished">Większe niż</translation>
+    </message>
+    <message>
+        <source>Greater than or equal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished">Mniejsze niż</translation>
+    </message>
+    <message>
+        <source>Less than or equal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation type="unfinished">oraz</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished">Między</translation>
+    </message>
+    <message>
+        <source>Not between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Items</source>
+        <translation type="unfinished">Elementy</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation type="unfinished">Średnia</translation>
+    </message>
+    <message>
+        <source>Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight-Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does not contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight-Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A Date Occurring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation type="unfinished">Wczoraj</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished">Dzisiaj</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished">Jutro</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight-Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error value </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lack input value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The required range value is insufficient</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1631,7 +1795,7 @@ condition is true:</source>
     <name>KxCustomHeaderFooterDlg</name>
     <message>
         <source>File</source>
-        <translation>Plik</translation>
+        <translation type="obsolete">Plik</translation>
     </message>
     <message>
         <source>Page</source>
@@ -1643,92 +1807,92 @@ condition is true:</source>
     </message>
     <message>
         <source>Date</source>
-        <translation>Data</translation>
+        <translation type="obsolete">Data</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Godzina</lengthvariant>
             <lengthvariant>Czas</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Obraz</translation>
+        <translation type="obsolete">Obraz</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>Nagłówek</translation>
+        <translation type="obsolete">Nagłówek</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation>Stopka</translation>
+        <translation type="obsolete">Stopka</translation>
     </message>
     <message>
         <source>&amp;[%1]</source>
-        <translation>&amp;[%1]</translation>
+        <translation type="obsolete">&amp;[%1]</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Otwórz</translation>
+        <translation type="obsolete">Otwórz</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation>Wszystkie obrazy</translation>
+        <translation type="obsolete">Wszystkie obrazy</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation>Rozszerzony Metaplik Windows</translation>
+        <translation type="obsolete">Rozszerzony Metaplik Windows</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation>Metaplik Windows</translation>
+        <translation type="obsolete">Metaplik Windows</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation>Format wymiany plików JPEG</translation>
+        <translation type="obsolete">Format wymiany plików JPEG</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation>Przenośna grafika sieciowa PNG</translation>
+        <translation type="obsolete">Przenośna grafika sieciowa PNG</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation>Mapa bitowa Windows</translation>
+        <translation type="obsolete">Mapa bitowa Windows</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation>Format wymiany grafiki GIF</translation>
+        <translation type="obsolete">Format wymiany grafiki GIF</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation>Znacznikowy format pliku obrazu TIF</translation>
+        <translation type="obsolete">Znacznikowy format pliku obrazu TIF</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Nagłówek lub stopka (łącznie z lewej, środkowej i prawej sekcji) nie może zawierać więcej niż 255 znaków. Skróć tekst lub uprość format.</lengthvariant>
             <lengthvariant>Nagłówek lub stopka (łącznie z lewej, środkowej i prawej sekcji) nie może być dłuższy niż 255 znaków. Usuń tekst lub dokonaj formatowania mniej skomplikowanego.</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>Numer strony</translation>
+        <translation type="obsolete">Numer strony</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation>Liczba stron</translation>
+        <translation type="obsolete">Liczba stron</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation>Nazwa arkusza</translation>
+        <translation type="obsolete">Nazwa arkusza</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
 
 To replace existing picture, press OK.
 To keep existing picture, press Cancel.</source>
-        <translation>Tylko jeden obraz można wkleić do każdej sekcji %1.
+        <translation type="obsolete">Tylko jeden obraz można wkleić do każdej sekcji %1.
 
 Aby zamienić istniejący obraz, naciśnij przycisk OK.
 Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
@@ -2071,23 +2235,23 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <name>KxDlgConditionHighLight</name>
     <message>
         <source>Condition HighLight</source>
-        <translation>Wyróżnij Formatowanie warunkowe</translation>
+        <translation type="obsolete">Wyróżnij Formatowanie warunkowe</translation>
     </message>
     <message>
         <source>cells with following condition</source>
-        <translation>komórki z następującego warunku</translation>
+        <translation type="obsolete">komórki z następującego warunku</translation>
     </message>
     <message>
         <source>original setting</source>
-        <translation>ustawienie oryginalne</translation>
+        <translation type="obsolete">ustawienie oryginalne</translation>
     </message>
     <message>
         <source>and</source>
-        <translation>oraz</translation>
+        <translation type="obsolete">oraz</translation>
     </message>
     <message>
         <source>inside</source>
-        <translation>wewnątrz</translation>
+        <translation type="obsolete">wewnątrz</translation>
     </message>
     <message>
         <source>spinPrefix</source>
@@ -2118,7 +2282,23 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>show following effect</source>
-        <translation>pokaż następujący efekt</translation>
+        <translation type="obsolete">pokaż następujący efekt</translation>
+    </message>
+    <message>
+        <source>Condition Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cells subjected to the following conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep the cell to its former setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display the following effect</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2321,16 +2501,16 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
 box, then choose the appropriate button.</source>
-        <translation>Aby wstawić numer strony, datę, czas, nazwę pliku: umieść punkt wstawiania w polu edycji i wybierz odpowiedni przycisk.</translation>
+        <translation type="obsolete">Aby wstawić numer strony, datę, czas, nazwę pliku: umieść punkt wstawiania w polu edycji i wybierz odpowiedni przycisk.</translation>
     </message>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation>Aby wstawić obraz, naciśnij przycisk Wstaw obraz. Aby formatować obraz, umieść kursor w polu edycji i naciśnij przycisk Formatuj obraz.</translation>
+        <translation type="obsolete">Aby wstawić obraz, naciśnij przycisk Wstaw obraz. Aby formatować obraz, umieść kursor w polu edycji i naciśnij przycisk Formatuj obraz.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Czcionka</translation>
+        <translation type="obsolete">Czcionka</translation>
     </message>
     <message>
         <source>Page</source>
@@ -2342,64 +2522,68 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Date</source>
-        <translation>Data</translation>
+        <translation type="obsolete">Data</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Godzina</lengthvariant>
             <lengthvariant>Czas</lengthvariant>
         </translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Plik</translation>
+        <translation type="obsolete">Plik</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Wstaw obraz</translation>
+        <translation type="obsolete">Wstaw obraz</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Resetuj obraz</translation>
+        <translation type="obsolete">Resetuj obraz</translation>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation>&amp;Lewa sekcja:</translation>
+        <translation type="obsolete">&amp;Lewa sekcja:</translation>
     </message>
     <message>
         <source>&amp;Center section:</source>
-        <translation>Śr&amp;odkowa sekcja:</translation>
+        <translation type="obsolete">Śr&amp;odkowa sekcja:</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
-        <translation>&amp;Prawa sekcja:</translation>
+        <translation type="obsolete">&amp;Prawa sekcja:</translation>
     </message>
     <message>
         <source>input</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>dane wejściowe</lengthvariant>
             <lengthvariant>wejście</lengthvariant>
         </translation>
     </message>
     <message>
         <source>To format text: select the text, then click the font button.</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Aby sformatować tekst: zaznacz tekst, a następnie kliknij przycisk czcionki.</lengthvariant>
             <lengthvariant>Aby sformatować tekst: wybierz tekst, a następnie kliknij przycisk czcionki.</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>Numer strony</translation>
+        <translation type="obsolete">Numer strony</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation>Liczba stron</translation>
+        <translation type="obsolete">Liczba stron</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation>Nazwa arkusza</translation>
+        <translation type="obsolete">Nazwa arkusza</translation>
+    </message>
+    <message>
+        <source>headerfooter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3291,6 +3475,81 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Summary columns to &amp;right of detail</source>
         <translation>Kolumny podsumowań po &amp;prawej stronie szczegółów</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgHeaderFooterWidget</name>
+    <message>
+        <source>input</source>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>dane wejściowe</lengthvariant>
+            <lengthvariant>wejście</lengthvariant>
+        </translation>
+    </message>
+    <message>
+        <source>To format text: select the text, then click the font button.</source>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>Aby sformatować tekst: zaznacz tekst, a następnie kliknij przycisk czcionki.</lengthvariant>
+            <lengthvariant>Aby sformatować tekst: wybierz tekst, a następnie kliknij przycisk czcionki.</lengthvariant>
+        </translation>
+    </message>
+    <message>
+        <source>To insert a page number, date, time, filename: position the insertion point in the  edit
+box, then choose the appropriate button.</source>
+        <translation type="unfinished">Aby wstawić numer strony, datę, czas, nazwę pliku: umieść punkt wstawiania w polu edycji i wybierz odpowiedni przycisk.</translation>
+    </message>
+    <message>
+        <source>To insert picture: press the Insert Picture button. To format your picture, place the
+cursor in the edit box and press the Format Picture button.</source>
+        <translation type="unfinished">Aby wstawić obraz, naciśnij przycisk Wstaw obraz. Aby formatować obraz, umieść kursor w polu edycji i naciśnij przycisk Formatuj obraz.</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished">Czcionka</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="unfinished">Numer strony</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation type="unfinished">Liczba stron</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Data</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Plik</translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation type="unfinished">Nazwa arkusza</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished">Wstaw obraz</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation type="unfinished">Resetuj obraz</translation>
+    </message>
+    <message>
+        <source>&amp;Left section:</source>
+        <translation type="unfinished">&amp;Lewa sekcja:</translation>
+    </message>
+    <message>
+        <source>&amp;Center section:</source>
+        <translation type="unfinished">Śr&amp;odkowa sekcja:</translation>
+    </message>
+    <message>
+        <source>&amp;Right section:</source>
+        <translation type="unfinished">&amp;Prawa sekcja:</translation>
     </message>
 </context>
 <context>
@@ -4361,6 +4620,22 @@ p, li { white-space: pre-wrap; }
             <lengthvariant>Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.</lengthvariant>
         </translation>
     </message>
+    <message>
+        <source>SaveAsCreateBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create&amp;Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RecommendedReadOnlyOption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;RecommendedReadOnly</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -4619,6 +4894,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Header and Footer</source>
         <translation>Nagłówek i stopka</translation>
+    </message>
+    <message>
+        <source>&amp;Different odd and even pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D&amp;ifferent first page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sca&amp;le with document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align with page &amp;margins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6740,6 +7031,73 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
 </context>
 <context>
+    <name>KxEtPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Widok</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Edytuj</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">Drukuj</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Zapisz</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtPrintPreviewZoomCommand</name>
     <message>
         <source>Zoom:</source>
@@ -7504,6 +7862,117 @@ na iteracji #%2.</translation>
     <message>
         <source>Goal Seeking with Cell %1 still can not find a solution.</source>
         <translation>Trwa szukanie wyniku w komórce %1 nadal nie można znaleźć rozwiązania.</translation>
+    </message>
+</context>
+<context>
+    <name>KxHeaderFooterDlg</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Nagłówek</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation type="unfinished">Stopka</translation>
+    </message>
+    <message>
+        <source>Odd Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHeaderFooterWidget</name>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Plik</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="unfinished">Numer strony</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation type="unfinished">Liczba stron</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Data</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation type="unfinished">Nazwa arkusza</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">Obraz</translation>
+    </message>
+    <message>
+        <source>&amp;[%1]</source>
+        <translation type="unfinished">&amp;[%1]</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Otwórz</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation type="unfinished">Wszystkie obrazy</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation type="unfinished">Rozszerzony Metaplik Windows</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation type="unfinished">Metaplik Windows</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation type="unfinished">Format wymiany plików JPEG</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation type="unfinished">Przenośna grafika sieciowa PNG</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation type="unfinished">Mapa bitowa Windows</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation type="unfinished">Format wymiany grafiki GIF</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation type="unfinished">Znacznikowy format pliku obrazu TIF</translation>
+    </message>
+    <message>
+        <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>Nagłówek lub stopka (łącznie z lewej, środkowej i prawej sekcji) nie może zawierać więcej niż 255 znaków. Skróć tekst lub uprość format.</lengthvariant>
+            <lengthvariant>Nagłówek lub stopka (łącznie z lewej, środkowej i prawej sekcji) nie może być dłuższy niż 255 znaków. Usuń tekst lub dokonaj formatowania mniej skomplikowanego.</lengthvariant>
+        </translation>
+    </message>
+    <message>
+        <source>Only one picture can be inserted in each section of the %1.
+
+To replace existing picture, press OK.
+To keep existing picture, press Cancel.</source>
+        <translation type="unfinished">Tylko jeden obraz można wkleić do każdej sekcji %1.
+
+Aby zamienić istniejący obraz, naciśnij przycisk OK.
+Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
 </context>
 <context>
@@ -9112,6 +9581,113 @@ Wciąż może być wymagana ręczna aktualizacja odwołań do tej nazwy używany
     </message>
 </context>
 <context>
+    <name>KxValidationDlg</name>
+    <message>
+        <source>&amp;Minimum:</source>
+        <translation type="unfinished">&amp;Minimum:</translation>
+    </message>
+    <message>
+        <source>Ma&amp;ximum:</source>
+        <translation type="unfinished">Ma&amp;ksimum:</translation>
+    </message>
+    <message>
+        <source>&amp;Source:</source>
+        <translation type="unfinished">&amp;Źródło:</translation>
+    </message>
+    <message>
+        <source>&amp;Start date:</source>
+        <translation type="unfinished">Data &amp;rozpoczęcia:</translation>
+    </message>
+    <message>
+        <source>E&amp;nd date:</source>
+        <translation type="unfinished">Data zakończe&amp;nia:</translation>
+    </message>
+    <message>
+        <source>&amp;Start time:</source>
+        <translation type="unfinished">Godzina &amp;rozpoczęcia:</translation>
+    </message>
+    <message>
+        <source>E&amp;nd time:</source>
+        <translation type="unfinished">Godzina zakończe&amp;nia:</translation>
+    </message>
+    <message>
+        <source>&amp;Formula:</source>
+        <translation type="unfinished">&amp;Formuła:</translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation type="unfinished">&amp;Wartość:</translation>
+    </message>
+    <message>
+        <source>&amp;Time:</source>
+        <translation type="unfinished">&amp;Godzina:</translation>
+    </message>
+    <message>
+        <source>Da&amp;te:</source>
+        <translation type="unfinished">Da&amp;ta:</translation>
+    </message>
+    <message>
+        <source>You must enter both a Maximum and a Minimum.</source>
+        <translation type="unfinished">Musisz podać zarówno Maksimum jak i Minimum.</translation>
+    </message>
+    <message>
+        <source>You must enter a Value.</source>
+        <translation type="unfinished">Musisz podać Wartość.</translation>
+    </message>
+    <message>
+        <source>You must enter a Minimum.</source>
+        <translation type="unfinished">Musisz podać Minimum.</translation>
+    </message>
+    <message>
+        <source>You must enter a Maximum.</source>
+        <translation type="unfinished">Musisz podać Maksimum.</translation>
+    </message>
+    <message>
+        <source>You must enter a Source.</source>
+        <translation type="unfinished">Musisz podać Źródło.</translation>
+    </message>
+    <message>
+        <source>The Formula cannot be longer than 255 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Date.</source>
+        <translation type="unfinished">Musisz podać Datę.</translation>
+    </message>
+    <message>
+        <source>You must enter both an End Date and a Start Date.</source>
+        <translation type="unfinished">Musisz podać zarówno Datę zakończenia jak i Datę rozpoczęcia.</translation>
+    </message>
+    <message>
+        <source>You must enter an End Date.</source>
+        <translation type="unfinished">Musisz podać Datę zakończenia.</translation>
+    </message>
+    <message>
+        <source>You must enter a Start Date.</source>
+        <translation type="unfinished">Musisz podać Datę rozpoczęcia.</translation>
+    </message>
+    <message>
+        <source>You must enter both an End Time and a Start Time.</source>
+        <translation type="unfinished">Musisz podać zarówno Godzinę zakończenia jak i Godzinę rozpoczęcia.</translation>
+    </message>
+    <message>
+        <source>You must enter a Time.</source>
+        <translation type="unfinished">Musisz podać Godzinę.</translation>
+    </message>
+    <message>
+        <source>You must enter a Start Time.</source>
+        <translation type="unfinished">Musisz podać Godzinę rozpoczęcia.</translation>
+    </message>
+    <message>
+        <source>You must enter an End Time.</source>
+        <translation type="unfinished">Musisz podać Godzinę zakończenia.</translation>
+    </message>
+    <message>
+        <source>You must enter a Formula.</source>
+        <translation type="unfinished">Musisz podać Formułę.</translation>
+    </message>
+</context>
+<context>
     <name>KxWidgetAlign</name>
     <message>
         <source>Orientation</source>
@@ -10201,103 +10777,103 @@ t</translation>
     </message>
     <message>
         <source>&amp;Minimum:</source>
-        <translation>&amp;Minimum:</translation>
+        <translation type="obsolete">&amp;Minimum:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation>Ma&amp;ksimum:</translation>
+        <translation type="obsolete">Ma&amp;ksimum:</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation>&amp;Źródło:</translation>
+        <translation type="obsolete">&amp;Źródło:</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation>Data &amp;rozpoczęcia:</translation>
+        <translation type="obsolete">Data &amp;rozpoczęcia:</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation>Data zakończe&amp;nia:</translation>
+        <translation type="obsolete">Data zakończe&amp;nia:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
-        <translation>Godzina &amp;rozpoczęcia:</translation>
+        <translation type="obsolete">Godzina &amp;rozpoczęcia:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
-        <translation>Godzina zakończe&amp;nia:</translation>
+        <translation type="obsolete">Godzina zakończe&amp;nia:</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation>&amp;Formuła:</translation>
+        <translation type="obsolete">&amp;Formuła:</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation>&amp;Wartość:</translation>
+        <translation type="obsolete">&amp;Wartość:</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation>&amp;Godzina:</translation>
+        <translation type="obsolete">&amp;Godzina:</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
-        <translation>Da&amp;ta:</translation>
+        <translation type="obsolete">Da&amp;ta:</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation>Musisz podać zarówno Maksimum jak i Minimum.</translation>
+        <translation type="obsolete">Musisz podać zarówno Maksimum jak i Minimum.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation>Musisz podać Wartość.</translation>
+        <translation type="obsolete">Musisz podać Wartość.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation>Musisz podać Minimum.</translation>
+        <translation type="obsolete">Musisz podać Minimum.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation>Musisz podać Maksimum.</translation>
+        <translation type="obsolete">Musisz podać Maksimum.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation>Musisz podać Źródło.</translation>
+        <translation type="obsolete">Musisz podać Źródło.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation>Musisz podać Datę.</translation>
+        <translation type="obsolete">Musisz podać Datę.</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
-        <translation>Musisz podać zarówno Datę zakończenia jak i Datę rozpoczęcia.</translation>
+        <translation type="obsolete">Musisz podać zarówno Datę zakończenia jak i Datę rozpoczęcia.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
-        <translation>Musisz podać Datę zakończenia.</translation>
+        <translation type="obsolete">Musisz podać Datę zakończenia.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
-        <translation>Musisz podać Datę rozpoczęcia.</translation>
+        <translation type="obsolete">Musisz podać Datę rozpoczęcia.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
-        <translation>Musisz podać zarówno Godzinę zakończenia jak i Godzinę rozpoczęcia.</translation>
+        <translation type="obsolete">Musisz podać zarówno Godzinę zakończenia jak i Godzinę rozpoczęcia.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation>Musisz podać Godzinę.</translation>
+        <translation type="obsolete">Musisz podać Godzinę.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
-        <translation>Musisz podać Godzinę rozpoczęcia.</translation>
+        <translation type="obsolete">Musisz podać Godzinę rozpoczęcia.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
-        <translation>Musisz podać Godzinę zakończenia.</translation>
+        <translation type="obsolete">Musisz podać Godzinę zakończenia.</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
-        <translation>Musisz podać Formułę.</translation>
+        <translation type="obsolete">Musisz podać Formułę.</translation>
     </message>
     <message>
         <source>%1 is read-only.  If you want to save a copy,  Click OK,  then give a new name for this workbook in the Save As dialog box.</source>

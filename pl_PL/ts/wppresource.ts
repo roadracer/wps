@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -2871,6 +2871,10 @@ Włącz</translation>
     <message>
         <source>Enter Activation Code</source>
         <translation>Wprowadź kod aktywacji</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -7381,6 +7385,10 @@ COM</translation>
         <translation>Eksportuj jako obraz</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Eksportuj do pliku PDF</translation>
     </message>
@@ -7840,7 +7848,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Picture Format Style</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Styl formatu obrazu</lengthvariant>
             <lengthvariant>Styl formatowania obrazu</lengthvariant>
         </translation>
@@ -8042,11 +8050,15 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Shape Format Style</source>
-        <translation>Styl formatu kształtu</translation>
+        <translation type="obsolete">Styl formatu kształtu</translation>
     </message>
     <message>
         <source>Shape Line</source>
         <translation>Kształt linii</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -8166,6 +8178,10 @@ wzorzec</lengthvariant>
     <message>
         <source>Study Online</source>
         <translation>Badania online</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -9153,6 +9169,10 @@ szablon</lengthvariant>
     <message>
         <source>Enter Activation Code</source>
         <translation>Wprowadź kod aktywacji</translation>
+    </message>
+    <message>
+        <source>Export OFD Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -13846,6 +13866,11 @@ slajdu</translation>
         </translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>ustal</translation>
     </message>
@@ -14106,6 +14131,11 @@ slajdu</translation>
             <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
             <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

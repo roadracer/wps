@@ -101,5 +101,10 @@
         <source>version too old|</source>
         <translation type="obsolete">版本過舊 | </translation>
     </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

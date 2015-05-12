@@ -3085,7 +3085,7 @@ Dieser Befehl kann in einem geschützten Tabellenblatt nicht verwendet werden.</
     <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; |.</source>
         <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
-        <translation>Der Name darf keines der folgenden Zeichen enthalten:  \ / : ? &quot; &lt; &gt; oder |。</translation>
+        <translation type="obsolete">Der Name darf keines der folgenden Zeichen enthalten:  \ / : ? &quot; &lt; &gt; oder |。</translation>
     </message>
     <message>
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
@@ -3827,6 +3827,26 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
         <comment>TX_BookReferencingByOther</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; [ ] |.</source>
+        <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
+        <comment>TX_ERROR_INVALIDPASTERG_SHEET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup</source>
+        <comment>TX_SaveAs_CreateBackup</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create a backup file, would you save &quot; %s &quot; without backup ?</source>
+        <comment>TX_CreateBackup_Tip</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9559,6 +9579,16 @@ This backup will be saved to(%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Chinese Office Document Format 2.0(*.uos)</source>
+        <comment>TX_ssDesc_Uof2_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The author supports opening &quot;%s&quot; with read-only way unless you need to modify.Do open with read-only mode?</source>
+        <comment>TX_Recommended_Read_Only</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_render</name>
@@ -11849,7 +11879,7 @@ Buch</translation>
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
-        <translation type="obsolete">Wert1,Wert2,...1zu 30 Plural,für berechnen den Produkt</translation>
+        <translation type="unfinished">Wert1,Wert2,...1zu 30 Plural,für berechnen den Produkt</translation>
     </message>
     <message>
         <source>Value Date</source>
@@ -12064,7 +12094,7 @@ Buch</translation>
     <message>
         <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
         <comment>TX_ParaDesc_386</comment>
-        <translation type="obsolete">Array1,Array2,...sind 2 bis 30 Matrizen, deren Komponenten Sie zunächst multiplizieren und anschließend addieren möchten. Alle Matrizen müssen die gleiche Dimension aufweisen. </translation>
+        <translation type="unfinished">Array1,Array2,...sind 2 bis 30 Matrizen, deren Komponenten Sie zunächst multiplizieren und anschließend addieren möchten. Alle Matrizen müssen die gleiche Dimension aufweisen. </translation>
     </message>
     <message>
         <source>binary number</source>
@@ -12994,7 +13024,7 @@ Buch</translation>
     <message>
         <source>is the interest rate per period. For example, use 6%4 for quarterly payment at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
-        <translation type="obsolete">ist Zinssatz pro Rate. Z.B. verwenden Sie 6%/4 für Quartalszahlungen von 6%.!</translation>
+        <translation type="unfinished">ist Zinssatz pro Rate. Z.B. verwenden Sie 6%/4 für Quartalszahlungen von 6%.!</translation>
     </message>
     <message>
         <source>is the interest rate you pay on the money used in the cash flows.</source>
@@ -14089,12 +14119,12 @@ Buch</translation>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
         <comment>TX_ParaDesc_281</comment>
-        <translation type="obsolete">Wahrheitswert1,Wahrheitswert2,...sind 1 bis 30 Bedingungen, die überprüft werden sollen und jeweils entweder WAHR oder FALSCH sind.</translation>
+        <translation type="unfinished">Wahrheitswert1,Wahrheitswert2,...sind 1 bis 30 Bedingungen, die überprüft werden sollen und jeweils entweder WAHR oder FALSCH sind.</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
-        <translation type="obsolete">Wahrheitswert1,Wahrheitswert2,...sind 1 bis 30 Bedingungen, die Sie überprüfen möchten und die jeweils entweder WAHR oder FALSCH sein können. Übergeben werden können logische Werte, Matrizen oder Bezüge.</translation>
+        <translation type="unfinished">Wahrheitswert1,Wahrheitswert2,...sind 1 bis 30 Bedingungen, die Sie überprüfen möchten und die jeweils entweder WAHR oder FALSCH sein können. Übergeben werden können logische Werte, Matrizen oder Bezüge.</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
@@ -14119,12 +14149,12 @@ Buch</translation>
     <message>
         <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 30 Zahlen, logische Werte oder Textdarstellungen von Zahlen, die Sie multiplizieren möchten. </translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 30 Zahlen, logische Werte oder Textdarstellungen von Zahlen, die Sie multiplizieren möchten. </translation>
     </message>
     <message>
         <source>number 1,number 2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 30 Zahlen oder Namen, Matrizen oder Bezüge, die Zahlen enthalten, deren Schiefe Sie berechnen möchten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 30 Zahlen oder Namen, Matrizen oder Bezüge, die Zahlen enthalten, deren Schiefe Sie berechnen möchten.</translation>
     </message>
     <message>
         <source>number of payment periods in an investment.</source>
@@ -14139,102 +14169,102 @@ Buch</translation>
     <message>
         <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 30 Argumente bzw. eine Matrix oder ein Matrixbezug, deren quadratische Abweichungen Sie berechnen möchten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 30 Argumente bzw. eine Matrix oder ein Matrixbezug, deren quadratische Abweichungen Sie berechnen möchten.</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 30 Zahlen, Namen, Arrays oder Bezüge, die Zahlen enthalten, deren harmonisches Mittel Sie berechnen möchten</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 30 Zahlen, Namen, Arrays oder Bezüge, die Zahlen enthalten, deren harmonisches Mittel Sie berechnen möchten</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 60 Argumente, deren Kurtosis (Exzess) Sie berechnen möchten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 60 Argumente, deren Kurtosis (Exzess) Sie berechnen möchten.</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 30 Zahlen oder Namen, Matrizen oder Bezüge, die Zahlen enthalten, deren Mittel Sie berechnen möchten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 30 Zahlen oder Namen, Matrizen oder Bezüge, die Zahlen enthalten, deren Mittel Sie berechnen möchten.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 255 values for which you want the least common multiple.</source>
         <comment>TX_ParaDesc_205</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 255 Werte, für die Sie das kleinste gemeinsame Vielfache berechnen möchten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 255 Werte, für die Sie das kleinste gemeinsame Vielfache berechnen möchten.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 30 Zahlen, die einer Stichprobe einer Grundgesamtheit entsprechen und können Zahlen oder Bezüge darstellen, die Zahlen enthalten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 30 Zahlen, die einer Stichprobe einer Grundgesamtheit entsprechen und können Zahlen oder Bezüge darstellen, die Zahlen enthalten.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
         <comment>TX_ParaDesc_382</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 30 Argumente, deren Summe Sie berechnen möchten. Logische Werte und Text werden in Zellen ignoriert, jedoch berücksichtigt, wenn sie als Argumente eingegeben werden.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 30 Argumente, deren Summe Sie berechnen möchten. Logische Werte und Text werden in Zellen ignoriert, jedoch berücksichtigt, wenn sie als Argumente eingegeben werden.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 255 Zahlen, leere Zellen, logische Werte oder Textwerte, in denen der größte Wert gefunden werden soll.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 255 Zahlen, leere Zellen, logische Werte oder Textwerte, in denen der größte Wert gefunden werden soll.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 30 Zahlen oder Namen, Matrizen oder Bezüge, die Zahlen enthalten, deren Modalwert (Modus) Sie berechnen möchten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 30 Zahlen oder Namen, Matrizen oder Bezüge, die Zahlen enthalten, deren Modalwert (Modus) Sie berechnen möchten.</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 30 numerische Argumente, deren Mittelwert Sie berechnen möchten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 30 numerische Argumente, deren Mittelwert Sie berechnen möchten.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 255 Werte, für die Sie den Polynomialkoeffizienten berechnen möchten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 255 Werte, für die Sie den Polynomialkoeffizienten berechnen möchten.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation type="obsolete">Nummer1.Nummber2,...sind 1 bis 30 Argumente, deren durchschnittliche absolute Abweichung Sie berechnen möchten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,...sind 1 bis 30 Argumente, deren durchschnittliche absolute Abweichung Sie berechnen möchten.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
-        <translation type="obsolete">Nummer1.Nummber2,..sind 1 bis 30 einer Grundgesamtheit entsprechende Zahlen und können Zahlen oder Bezüge sein, die Zahlen enthalten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,..sind 1 bis 30 einer Grundgesamtheit entsprechende Zahlen und können Zahlen oder Bezüge sein, die Zahlen enthalten.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
-        <translation type="obsolete">Nummer1.Nummber2,..sind 1 bis 30 Zahlen oder Namen, Matrizen oder Bezüge, die Zahlen enthalten, deren Median Sie berechnen möchten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,..sind 1 bis 30 Zahlen oder Namen, Matrizen oder Bezüge, die Zahlen enthalten, deren Median Sie berechnen möchten.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
-        <translation type="obsolete">Nummer1.Nummber2,..sind 1 bis 30 Zahlen, Namen, Matrizen oder Bezüge, die Zahlen enthalten, deren harmonisches Mittel Sie berechnen möchten.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,..sind 1 bis 30 Zahlen, Namen, Matrizen oder Bezüge, die Zahlen enthalten, deren harmonisches Mittel Sie berechnen möchten.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
-        <translation type="obsolete">Nummer1.Nummber2,..sind 1 bis 30 Zahlen, leere Zellen, logische Werte und Textwerte, in denen der kleinste Wert gefunden werden soll.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,..sind 1 bis 30 Zahlen, leere Zellen, logische Werte und Textwerte, in denen der kleinste Wert gefunden werden soll.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_423</comment>
-        <translation type="obsolete">Nummer1.Nummber2,..sind 1 bis 30 Werte, die zu einer Stichprobe einer Grundgesamtheit gehören.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,..sind 1 bis 30 Werte, die zu einer Stichprobe einer Grundgesamtheit gehören.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
-        <translation type="obsolete">Nummer1.Nummber2,..sind 1 bis 30 numerische Argumente, die einer Grundgesamtheit entsprechen.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,..sind 1 bis 30 numerische Argumente, die einer Grundgesamtheit entsprechen.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
-        <translation type="obsolete">Nummer1.Nummber2,..sind 1 bis 30 numerische Argumente, die einer Grundgesamtheit entsprechen.</translation>
+        <translation type="unfinished">Nummer1.Nummber2,..sind 1 bis 30 numerische Argumente, die einer Grundgesamtheit entsprechen.</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 values.</source>
         <comment>TX_ParaDesc_152</comment>
-        <translation type="obsolete">Nummer1.Nummber2,..sind 1 bis 30 Wert</translation>
+        <translation type="unfinished">Nummer1.Nummber2,..sind 1 bis 30 Wert</translation>
     </message>
     <message>
         <source>period for which you want to find interest.</source>
@@ -14249,7 +14279,7 @@ Buch</translation>
     <message>
         <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
-        <translation type="obsolete">Ref 1,Ref2,...sind 1 bis 29 Bereiche oder Bezüge, zu denen Sie ein Teilergebnis berechnen möchten.</translation>
+        <translation type="unfinished">Ref 1,Ref2,...sind 1 bis 29 Bereiche oder Bezüge, zu denen Sie ein Teilergebnis berechnen möchten.</translation>
     </message>
     <message>
         <source>reference</source>
@@ -14359,7 +14389,7 @@ Buch</translation>
     <message>
         <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
-        <translation type="obsolete">Test1,Text2,...sind 1 bis 30 Textzeichenfolgen, die Sie zu einer Textzeichenfolge verketten möchten und können Textzeichenfolgen, Zahlen oder Zellbezüge sein.</translation>
+        <translation type="unfinished">Test1,Text2,...sind 1 bis 30 Textzeichenfolgen, die Sie zu einer Textzeichenfolge verketten möchten und können Textzeichenfolgen, Zahlen oder Zellbezüge sein.</translation>
     </message>
     <message>
         <source>the numbers you want to convert.</source>
@@ -14369,57 +14399,57 @@ Buch</translation>
     <message>
         <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
-        <translation type="obsolete">Thema1,Thema2,... sind 1 bis 28 Parameter, die Bestandteile der Daten enthalten! </translation>
+        <translation type="unfinished">Thema1,Thema2,... sind 1 bis 28 Parameter, die Bestandteile der Daten enthalten! </translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
-        <translation type="obsolete">Wert1,Wert2,...sind 1 bis 29 Argumente, aus denen WAHL je nach angegebenem Index einen Wert oder eine Anweisung auswählt.</translation>
+        <translation type="unfinished">Wert1,Wert2,...sind 1 bis 29 Argumente, aus denen WAHL je nach angegebenem Index einen Wert oder eine Anweisung auswählt.</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
         <comment>TX_ParaDesc_274</comment>
-        <translation type="obsolete">Wert1,Wert2,..sind 1 bis 29 Zahlungen und Einzahlungen, die gleichmäßig über die Zeit verteilt sind und am Ende jeder Periode stattfinden.</translation>
+        <translation type="unfinished">Wert1,Wert2,..sind 1 bis 29 Zahlungen und Einzahlungen, die gleichmäßig über die Zeit verteilt sind und am Ende jeder Periode stattfinden.</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
-        <translation type="obsolete">Wert1,Wert2,...sind 1 bis 30, die zu zählende Werte und Zellen darstellen. Werte können beliebige Informationen sein.</translation>
+        <translation type="unfinished">Wert1,Wert2,...sind 1 bis 30, die zu zählende Werte und Zellen darstellen. Werte können beliebige Informationen sein.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
-        <translation type="obsolete">Wert1,Wert2,...sind 1 bis 30 Argumente, die unterschiedliche Datentypen beinhalten können oder sich auf solche beziehen können, wobei nur Zahlen in die Berechnung eingehen.</translation>
+        <translation type="unfinished">Wert1,Wert2,...sind 1 bis 30 Argumente, die unterschiedliche Datentypen beinhalten können oder sich auf solche beziehen können, wobei nur Zahlen in die Berechnung eingehen.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
-        <translation type="obsolete">Wert1,Wert2,...sind 1 bis 30 Zahlen, leere Zellen, logische Werte oder Textwerte, in denen der größte Wert gefunden werden soll.</translation>
+        <translation type="unfinished">Wert1,Wert2,...sind 1 bis 30 Zahlen, leere Zellen, logische Werte oder Textwerte, in denen der größte Wert gefunden werden soll.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
-        <translation type="obsolete">Wert1,Wert2,...sind 1 bis 30 Werte, die zu einer Stichprobe einer Grundgesamtheit gehören.</translation>
+        <translation type="unfinished">Wert1,Wert2,...sind 1 bis 30 Werte, die zu einer Stichprobe einer Grundgesamtheit gehören.</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
-        <translation type="obsolete">Wert1,Wert2,...sind 1 bis 30 Werte, die zu einer Stichprobe einer Grundgesamtheit gehören und können Zahlen, Namen, Matrizen oder Bezüge sein.</translation>
+        <translation type="unfinished">Wert1,Wert2,...sind 1 bis 30 Werte, die zu einer Stichprobe einer Grundgesamtheit gehören und können Zahlen, Namen, Matrizen oder Bezüge sein.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
-        <translation type="obsolete">Wert1,Wert2,...sind 1 bis 30 Argumente, für die der Mittelwert berechnet werden soll.</translation>
+        <translation type="unfinished">Wert1,Wert2,...sind 1 bis 30 Argumente, für die der Mittelwert berechnet werden soll.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
-        <translation type="obsolete">Wert1,Wert2,...sind 1 bis 30 Zahlen, leere Zellen, logische Werte und Textwerte, in denen der kleinste Wert gefunden werden soll.</translation>
+        <translation type="unfinished">Wert1,Wert2,...sind 1 bis 30 Zahlen, leere Zellen, logische Werte und Textwerte, in denen der kleinste Wert gefunden werden soll.</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
-        <translation type="obsolete">Wert1,Wert2,...sind 1 bis 30 Werte, die zu einer Grundgesamtheit gehören, sie können Zahlen, Namen, Matrizen oder Bezüge sein, die Werte enthalten.</translation>
+        <translation type="unfinished">Wert1,Wert2,...sind 1 bis 30 Werte, die zu einer Grundgesamtheit gehören, sie können Zahlen, Namen, Matrizen oder Bezüge sein, die Werte enthalten.</translation>
     </message>
     <message>
         <source>value_if_error</source>
@@ -15059,7 +15089,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaInfo_548</comment>
-        <translation type="obsolete">Thema1,Thema2,... sind 1 bis 28 Parameter, die Bestandteile der Daten enthalten!  {1,?} {2,?} {1 ?} {38 ?}</translation>
+        <translation type="unfinished">Thema1,Thema2,... sind 1 bis 28 Parameter, die Bestandteile der Daten enthalten!  {1,?} {2,?} {1 ?} {38 ?}</translation>
     </message>
     <message>
         <source>Message_text</source>
@@ -15439,231 +15469,51 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaInfo_546</comment>
-        <translation type="obsolete">der Name der ProgID eines registrierten COM Auomatisierungs-Add-Ins. Schließen Sie den Namen in Anführungszeichen ein!der Name des Servers, auf dem das Add-In ausgeführt werden soll. </translation>
-    </message>
-    <message>
-        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaInfo_547</comment>
-        <translation type="obsolete">Name des Servers, auf dem das Add-In ausgeführt werden soll. Schließen Sie den Namen in Anführungszeichen ein. Wenn das Add-In lokal ausgeführt werden soll, verwenden Sie eine leere Zeichenfolge</translation>
-    </message>
-    <message>
-        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
-        <comment>TX_ParaDesc_009</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
-        <comment>TX_ParaDesc_018</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
-        <comment>TX_ParaDesc_019</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
-        <comment>TX_ParaDesc_020</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
-        <comment>TX_ParaDesc_044</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
-        <comment>TX_ParaDesc_051</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
-        <comment>TX_ParaDesc_059</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1 value2%1... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
-        <comment>TX_ParaDesc_060</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
-        <comment>TX_ParaDesc_094</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
-        <comment>TX_ParaDesc_139</comment>
-        <translation type="unfinished">ist Zinssatz pro Rate. Z.B. verwenden Sie 6%/4 für Quartalszahlungen von 6%.! {6%/4 ?} {6%?}</translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 values.</source>
-        <comment>TX_ParaDesc_152</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
-        <comment>TX_ParaDesc_153</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
-        <comment>TX_ParaDesc_160</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
-        <comment>TX_ParaDesc_203</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 255 values for which you want the least common multiple.</source>
-        <comment>TX_ParaDesc_205</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
-        <comment>TX_ParaDesc_234</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
-        <comment>TX_ParaDesc_235</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
-        <comment>TX_ParaDesc_237</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
-        <comment>TX_ParaDesc_244</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
-        <comment>TX_ParaDesc_245</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
-        <comment>TX_ParaDesc_254</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
-        <comment>TX_ParaDesc_274</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
-        <comment>TX_ParaDesc_281</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
-        <comment>TX_ParaDesc_307</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
-        <comment>TX_ParaDesc_351</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
-        <comment>TX_ParaDesc_360</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
-        <comment>TX_ParaDesc_372</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
-        <comment>TX_ParaDesc_373</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
-        <comment>TX_ParaDesc_374</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
-        <comment>TX_ParaDesc_375</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
-        <comment>TX_ParaDesc_381</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
-        <comment>TX_ParaDesc_382</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
-        <comment>TX_ParaDesc_386</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
-        <comment>TX_ParaDesc_387</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_423</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_424</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
-        <comment>TX_ParaDesc_425</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
-        <comment>TX_ParaDesc_426</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
-        <comment>TX_ParaDesc_476</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Value 1%1value 2%1...1 to 30 of plural numbers, used to calculate the product.</source>
-        <comment>TX_ParaDesc_522</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
-        <comment>TX_ParaDesc_546</comment>
         <translation type="unfinished">der Name der ProgID eines registrierten COM Auomatisierungs-Add-Ins. Schließen Sie den Namen in Anführungszeichen ein!der Name des Servers, auf dem das Add-In ausgeführt werden soll. </translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaDesc_547</comment>
+        <comment>TX_ParaInfo_547</comment>
         <translation type="unfinished">Name des Servers, auf dem das Add-In ausgeführt werden soll. Schließen Sie den Namen in Anführungszeichen ein. Wenn das Add-In lokal ausgeführt werden soll, verwenden Sie eine leere Zeichenfolge</translation>
     </message>
     <message>
-        <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
-        <comment>TX_ParaDesc_548</comment>
-        <translation type="unfinished"></translation>
+        <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
+        <comment>TX_ParaDesc_139</comment>
+        <translation type="obsolete">ist Zinssatz pro Rate. Z.B. verwenden Sie 6%/4 für Quartalszahlungen von 6%.! {6%/4 ?} {6%?}</translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaDesc_546</comment>
+        <translation type="obsolete">der Name der ProgID eines registrierten COM Auomatisierungs-Add-Ins. Schließen Sie den Namen in Anführungszeichen ein!der Name des Servers, auf dem das Add-In ausgeführt werden soll. </translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaDesc_547</comment>
+        <translation type="obsolete">Name des Servers, auf dem das Add-In ausgeführt werden soll. Schließen Sie den Namen in Anführungszeichen ein. Wenn das Add-In lokal ausgeführt werden soll, verwenden Sie eine leere Zeichenfolge</translation>
     </message>
     <message>
         <source>Directory_text</source>
         <comment>TX_ParaInfo_351</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission to this workbook is currently restricted.</source>
+        <comment>TX_IRMReadOnly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Page </source>
+        <comment>TX_CHECKSPELLING_FromFirstPage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Odd Page </source>
+        <comment>TX_CHECKSPELLING_FromOddPage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even Page </source>
+        <comment>TX_CHECKSPELLING_FromEvenPage</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

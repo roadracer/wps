@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -1552,7 +1552,7 @@
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Okienko recenzowania</lengthvariant>
             <lengthvariant>Okienko przeglądu</lengthvariant>
         </translation>
@@ -1560,6 +1560,10 @@
     <message>
         <source>Reviewers</source>
         <translation>Recenzenci</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -1571,11 +1575,27 @@
     </message>
     <message>
         <source>Show Author</source>
-        <translation>Pokaż autora</translation>
+        <translation type="obsolete">Pokaż autora</translation>
+    </message>
+    <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Date</source>
         <translation>Pokaż datę</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Reviewers</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -1678,6 +1698,10 @@
         <translation>Eksportuj do pliku PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fast Calculation</source>
         <translation>Szybkie obliczenia</translation>
     </message>
@@ -1747,7 +1771,7 @@
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Tryb ochrony oczu</lengthvariant>
             <lengthvariant>Tryb Ochrona oczu</lengthvariant>
         </translation>
@@ -3155,6 +3179,10 @@ tekstu</translation>
         <translation>Wprowadź kod aktywacji</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Eksportuj do pliku PDF</translation>
     </message>
@@ -3954,6 +3982,10 @@ styl</translation>
             <lengthvariant>Data i godzina</lengthvariant>
             <lengthvariant>Data i czas</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -5652,7 +5684,7 @@ Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>Opcje śledzenia zmian...</translation>
+        <translation type="obsolete">Opcje śledzenia zmian...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -5751,7 +5783,7 @@ komentarz</translation>
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Okienko recenzowania</lengthvariant>
             <lengthvariant>Okienko przeglądu</lengthvariant>
         </translation>
@@ -5759,6 +5791,18 @@ komentarz</translation>
     <message>
         <source>Reviewers</source>
         <translation>Recenzenci</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -5773,8 +5817,20 @@ komentarz</translation>
         <translation>Pokaż autora</translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Date</source>
         <translation>Pokaż datę</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -5799,6 +5855,10 @@ Changes</source>
 zmiany</translation>
     </message>
     <message>
+        <source>Track Changes Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tracking</source>
         <translation>Śledzenie</translation>
     </message>
@@ -5814,7 +5874,7 @@ wyrazów</translation>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>poziomeOkienkoRecenzowania</lengthvariant>
             <lengthvariant>poziomeOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>horzReviewPane</lengthvariant>
@@ -5822,7 +5882,7 @@ wyrazów</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>pionoweOkienkoRecenzowania</lengthvariant>
             <lengthvariant>pionoweOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>vertReviewPane</lengthvariant>
@@ -6762,6 +6822,10 @@ dokumentu</translation>
         <translation>Widoki dokumentu</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full 
 Screen</source>
         <translation>Pełny 
@@ -6821,7 +6885,7 @@ wydruku</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Tryb ochrony oczu</lengthvariant>
             <lengthvariant>Tryb Ochrona oczu</lengthvariant>
         </translation>
@@ -7933,6 +7997,10 @@ WordArt</lengthvariant>
         <translation>Eksportuj do pliku PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Backup</source>
         <translation>Kopia zapasowa pliku</translation>
     </message>
@@ -7977,7 +8045,7 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Tryb ochrony oczu</lengthvariant>
             <lengthvariant>Tryb Ochrona oczu</lengthvariant>
         </translation>
@@ -8734,8 +8802,16 @@ przekątną w komórce</translation>
         <translation>Eksportuj jako obraz</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Eksportuj do pliku PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -8765,8 +8841,12 @@ przekątną w komórce</translation>
         <translation>Wcięcie pierwszego wiersza</translation>
     </message>
     <message>
+        <source>Fixed Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>FixedText</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Stały tekst</lengthvariant>
             <lengthvariant>Stały format tekstu</lengthvariant>
         </translation>
@@ -8781,7 +8861,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>FollowText</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Śledź tekst</lengthvariant>
             <lengthvariant>Śledź edycję tekstu</lengthvariant>
         </translation>
@@ -8985,8 +9065,12 @@ formatów</translation>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
+        <source>In line with text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>InlineWrapText</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Zawijaj tekst w tym samym wierszu</lengthvariant>
             <lengthvariant>Wbudowane zawijanie tekstu</lengthvariant>
         </translation>
@@ -9102,6 +9186,10 @@ formatów</translation>
         <translation>Pasek narzędzi korespondencji seryjnej</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>Ręczna kopia zapasowa</translation>
     </message>
@@ -9176,6 +9264,10 @@ formatów</translation>
     <message>
         <source>Move Here</source>
         <translation>Przenieś tutaj</translation>
+    </message>
+    <message>
+        <source>Move With Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Window</source>
@@ -9326,7 +9418,7 @@ formatów</translation>
     </message>
     <message>
         <source>Picture Format Style</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Styl formatu obrazu</lengthvariant>
             <lengthvariant>Styl formatowania obrazu</lengthvariant>
         </translation>
@@ -9357,7 +9449,7 @@ formatów</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Tryb ochrony oczu</lengthvariant>
             <lengthvariant>Tryb Ochrona oczu</lengthvariant>
         </translation>
@@ -9442,11 +9534,27 @@ formatów</translation>
         <translation>Ogranicz edytowanie</translation>
     </message>
     <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Okienko recenzowania</lengthvariant>
             <lengthvariant>Okienko przeglądu</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -9571,11 +9679,15 @@ formatów</translation>
     </message>
     <message>
         <source>Shape Format Style</source>
-        <translation>Styl formatu kształtu</translation>
+        <translation type="obsolete">Styl formatu kształtu</translation>
     </message>
     <message>
         <source>Shape Outline</source>
         <translation>Kontur kształtu</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -9787,6 +9899,10 @@ formatów</translation>
         <translation>Jednostka</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Opinie użytkowników</translation>
     </message>
@@ -9922,7 +10038,7 @@ formatów</translation>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>poziomeOkienkoRecenzowania</lengthvariant>
             <lengthvariant>poziomeOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>horzReviewPane</lengthvariant>
@@ -9937,7 +10053,7 @@ formatów</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>pionoweOkienkoRecenzowania</lengthvariant>
             <lengthvariant>pionoweOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>vertReviewPane</lengthvariant>
@@ -10836,6 +10952,10 @@ przekątną w komórce</translation>
         <translation>Wprowadź kod aktywacji</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Eksportuj do pliku PDF</translation>
     </message>
@@ -11585,6 +11705,10 @@ nagłówek i stopka</translation>
             <lengthvariant>Data i godzina</lengthvariant>
             <lengthvariant>Data i czas</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -13168,7 +13292,7 @@ tekst</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>Opcje śledzenia zmian...</translation>
+        <translation type="obsolete">Opcje śledzenia zmian...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -13306,8 +13430,20 @@ tekst</translation>
         <translation>Pokaż autora</translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Date</source>
         <translation>Pokaż datę</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -13331,6 +13467,10 @@ tekst</translation>
             <lengthvariant>Śledź zmiany</lengthvariant>
             <lengthvariant>Śledzenie zmian</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Track Changes Options...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -14132,6 +14272,10 @@ inne okna</translation>
         <translation>Widoki dokumentu</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full Screen</source>
         <translation>Pełny ekran</translation>
     </message>
@@ -14185,7 +14329,7 @@ inne okna</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Tryb ochrony oczu</lengthvariant>
             <lengthvariant>Tryb Ochrona oczu</lengthvariant>
         </translation>
@@ -15287,6 +15431,10 @@ cienia</translation>
         <translation>Eksportuj do pliku PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Backup</source>
         <translation>Kopia zapasowa pliku</translation>
     </message>
@@ -15327,7 +15475,7 @@ cienia</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Tryb ochrony oczu</lengthvariant>
             <lengthvariant>Tryb Ochrona oczu</lengthvariant>
         </translation>
@@ -15461,6 +15609,10 @@ cienia</translation>
         <translation>Eksportuj do pliku PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>Roaming pliku</translation>
     </message>
@@ -15477,7 +15629,7 @@ cienia</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Tryb ochrony oczu</lengthvariant>
             <lengthvariant>Tryb Ochrona oczu</lengthvariant>
         </translation>
@@ -15871,6 +16023,10 @@ cienia</translation>
     <message>
         <source>Document Collaboration</source>
         <translation>Dokument współpracy</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
@@ -16646,17 +16802,27 @@ bezpośrednio</translation>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Professional - Przełącz interfejs użytkownika</lengthvariant>
             <lengthvariant>Professional - Zmiana interfejsu użytkownika</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
             <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -16896,14 +17062,14 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Professional Switch UI</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Professional - Przełącz interfejs użytkownika</lengthvariant>
             <lengthvariant>Professional - Zmiana interfejsu użytkownika</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="obsolete">Przełącz interfejs użytkownika</translation>
+        <translation type="unfinished">Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -16912,6 +17078,11 @@ bezpośrednio</translation>
             <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
             <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
