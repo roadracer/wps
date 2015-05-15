@@ -510,7 +510,7 @@
     </message>
     <message>
         <source>T&amp;op and bottom</source>
-        <translation>Od &amp;góry i dołu</translation>
+        <translation>Od &amp;góry i od dołu</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
@@ -1151,8 +1151,7 @@
     </message>
     <message>
         <source>Above/below</source>
-        <translatorcomment>Wyżej/niżej</translatorcomment>
-        <translation>Powyżej/poniżej</translation>
+        <translation>Wyżej/niżej</translation>
     </message>
     <message>
         <source>Head number (no context)</source>
@@ -1353,13 +1352,11 @@
     <name>KxDlgAddUsers</name>
     <message>
         <source>Add Users</source>
-        <translatorcomment>Dodawanie użytkowników</translatorcomment>
-        <translation>Dodaj użytkowników</translation>
+        <translation>Dodawanie użytkowników</translation>
     </message>
     <message>
         <source>Example:user1;DOMAIN\name;someone@example.com</source>
-        <translatorcomment>Przykład:użytkownik1,Nazwa domeny;osoba@przykład.com</translatorcomment>
-        <translation>Przykład:użytkownik1,DOMENA\nazwa;osoba@przykład.com</translation>
+        <translation>Przykład: użytkownik1, DOMENA\nazwa, osoba@example.com</translation>
     </message>
     <message>
         <source>Enter user names, separated by semicolons:</source>
@@ -2605,79 +2602,79 @@ użyj odpowiedniego przycisku</translation>
     <name>KxDlgDocumentFields</name>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished"></translation>
+        <translation>Pole dokumentu</translation>
     </message>
     <message>
         <source>DocumentField Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa pola dokumentu</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished">&amp;Wstaw</translation>
+        <translation>&amp;Wstaw</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished">&amp;Zmień nazwę</translation>
+        <translation>&amp;Zmień nazwę</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished">&amp;Przejdź do</translation>
+        <translation>&amp;Przejdź do</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Usuń</translation>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>&amp;Marks Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Tylko &amp;znaczniki</translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="unfinished">Sortuj według:</translation>
+        <translation>Sortuj według:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">&amp;Nazwa</translation>
+        <translation>&amp;Nazwa</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished">&amp;Lokalizacja</translation>
+        <translation>&amp;Lokalizacja</translation>
     </message>
     <message>
         <source>DocumentField Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Właściwości pola dokumentu</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished">&amp;Ukryte</translation>
+        <translation>&amp;Ukryte</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Drukuj</translation>
     </message>
     <message>
         <source>Read &amp;Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Tylko do &amp;odczytu</translation>
     </message>
     <message>
         <source>&amp;Apply All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zastosuj wszystkie</translation>
     </message>
     <message>
         <source>Insertion Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb wstawiania</translation>
     </message>
     <message>
         <source>When inserted at beginning and end, then counted in. </source>
-        <translation type="unfinished"></translation>
+        <translation>Po wstawieniu na początku i na końcu, następnie zliczone w </translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -3048,7 +3045,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>AND</source>
-        <translation>I</translation>
+        <translation>ORAZ</translation>
     </message>
     <message>
         <source>AVERAGE</source>
@@ -3072,7 +3069,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>INT</source>
-        <translation>ZAOKR.DO.CAŁK</translation>
+        <translation>LICZBA.CAŁK</translation>
     </message>
     <message>
         <source>MIN</source>
@@ -3128,11 +3125,11 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>LEFT</source>
-        <translation>Z LEWEJ</translation>
+        <translation>LEWY</translation>
     </message>
     <message>
         <source>RIGHT</source>
-        <translation>Z PRAWEJ</translation>
+        <translation>PRAWY</translation>
     </message>
     <message>
         <source>ABOVE</source>
@@ -3190,7 +3187,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Add the &amp;path to the file name</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj ś&amp;cieżkę do nazwy pliku</translation>
     </message>
 </context>
 <context>
@@ -4091,7 +4088,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Match Fields</source>
-        <translatorcomment>Dopasowywanie pól</translatorcomment>
         <translation>Dopasuj pola</translation>
     </message>
     <message>
@@ -4295,7 +4291,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMatchFields</name>
     <message>
         <source>Match Fields</source>
-        <translatorcomment>Dopasowywanie pól</translatorcomment>
         <translation>Dopasuj pola</translation>
     </message>
     <message>
@@ -4544,7 +4539,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>As new documents&apos; filename</source>
-        <translation>Jako nazwę pliku dla nowych dokumentów</translation>
+        <translation>Jako nazwa pliku nowych dokumentów</translation>
     </message>
     <message>
         <source>File location&amp;s:</source>
@@ -5621,7 +5616,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Export options</source>
@@ -6007,7 +6002,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
-        <translation>Naciśnij klawisze Ctrl+Tab, aby &amp;przełączyć karty</translation>
+        <translation>Naciśnij Ctrl+Tab, aby &amp;przełączyć karty</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -6099,7 +6094,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>D&amp;ocument fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Pola d&amp;okumentu</translation>
     </message>
 </context>
 <context>
@@ -6850,7 +6845,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Automatically adjust spac&amp;e between Asian and Latin text</source>
-        <translation>Automatycznie dopasuj &amp;odstęp między tekstem azjatyckim a łacińskim</translation>
+        <translation>Automatycznie dopasuj &amp;odstęp między azjatyckim i łacińskim tekstem</translation>
     </message>
     <message>
         <source>Automatically adjust &amp;space between Asian text and numbers</source>
@@ -8041,23 +8036,23 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxDocumentFieldsDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>The document field with this name has already existed. Do you want to cover it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pole dokumentu o tej nazwie już istnieje. Czy chcesz je przykryć?</translation>
     </message>
     <message>
         <source>The name of the document field is illegal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa pola dokumentu jest niedozwolona.</translation>
     </message>
     <message>
         <source>The name of the document field has already existed, please rename it!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa pola dokumentu już istnieje, proszę zmień nazwę pola!</translation>
     </message>
 </context>
 <context>
@@ -8263,7 +8258,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxFieldDlg</name>
     <message>
         <source>Formula</source>
-        <translation>Formuła</translation>
+        <translation variants="yes">
+            <lengthvariant>Formula</lengthvariant>
+            <lengthvariant>Formuła</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -8279,8 +8277,8 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>Hyperlink</source>
         <translation variants="yes">
-            <lengthvariant>Hiperłącze</lengthvariant>
             <lengthvariant>Hyperlink</lengthvariant>
+            <lengthvariant>Hiperłącze</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8293,16 +8291,13 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że pozycja wstawienia tego pola jest na stronie trzeciej. Kod pola:STRONA \* CHINESENUM2</lengthvariant>
-            <lengthvariant>Przypuszczam, że pozycja wstawienia tego pola jest na stronie trzeciej. Kod pola:PAGE \* CHINESENUM2</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że pozycja wstawienia tego pola jest na stronie trzeciej. Kod pola: PAGE \* CHINESENUM2</translation>
     </message>
     <message>
         <source>Page</source>
         <translation variants="yes">
-            <lengthvariant>Strona</lengthvariant>
             <lengthvariant>Page</lengthvariant>
+            <lengthvariant>Strona</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8311,41 +8306,32 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>THREE</source>
-        <translation variants="yes">
-            <lengthvariant>TRZY</lengthvariant>
-            <lengthvariant>THREE</lengthvariant>
-        </translation>
+        <translation>TRZY</translation>
     </message>
     <message>
         <source>Presume the page number of the bookmark myEndPage is 5. Field code:PAGEREF myEndPage</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że numer strony zakładki mojej końcowej strony jest 5. Kod pola:ODWOŁANIESTRONY mójKoniecStrony</lengthvariant>
-            <lengthvariant>Przypuszczam, że numer strony zakładki mojej końcowej strony jest 5. Kod pola:PAGEREF myEndPage</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że numer strony zakładki myEndPage to 5. Kod pola: PAGEREF myEndPage</translation>
     </message>
     <message>
         <source>PageRef</source>
         <translation variants="yes">
-            <lengthvariant>OdwołanieStrony</lengthvariant>
             <lengthvariant>PageRef</lengthvariant>
+            <lengthvariant>Odwołanie_strony</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Insert the page number containing the specified bookmark</source>
-        <translation>Wstaw numer strony zawierającej podaną zakładkę</translation>
+        <translation>Wstawia numer strony zawierającej podaną zakładkę</translation>
     </message>
     <message>
         <source>Presume there are 10 pages in the section where this field is inserted. Field code:SECTIONPAGES</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że w sekcji jest 10 stron, gdzie jest wstawiane to pole. Kod pola:STRONYSEKCJI</lengthvariant>
-            <lengthvariant>Przypuszczam, że w sekcji jest 10 stron, gdzie jest wstawiane to pole. Kod pola:SECTIONPAGES</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że w sekcji, gdzie jest wstawiane to pole, jest 10 stron. Kod pola: SECTIONPAGES</translation>
     </message>
     <message>
         <source>SectionPages</source>
         <translation variants="yes">
-            <lengthvariant>StronySekcji</lengthvariant>
             <lengthvariant>SectionPages</lengthvariant>
+            <lengthvariant>Strony_sekcji</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8354,16 +8340,13 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>The display result of the first place. Field code:SEQ KGS</source>
-        <translation variants="yes">
-            <lengthvariant>Wyświetlanie wyników pierwszego miejsca. Kod pola:SEKWENCJA KGS</lengthvariant>
-            <lengthvariant>Wyświetlanie wyników pierwszego miejsca. Kod pola:SEQ KGS</lengthvariant>
-        </translation>
+        <translation>Wyświetla w pierwszej kolejności wynik. Kod pola: SEQ KGS</translation>
     </message>
     <message>
         <source>Seq</source>
         <translation variants="yes">
-            <lengthvariant>Sekwencja</lengthvariant>
             <lengthvariant>Seq</lengthvariant>
+            <lengthvariant>Sekwencja</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8373,26 +8356,23 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>TC</source>
         <translation variants="yes">
-            <lengthvariant>poleSpisuTreści</lengthvariant>
             <lengthvariant>TC</lengthvariant>
+            <lengthvariant>Pole_spisu_treści</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Mark a table of contents entry</source>
-        <translation>Oznacza hasło spisu treści</translation>
+        <translation>Oznacza wpis spisu treści</translation>
     </message>
     <message>
         <source>Presume it is August 8 of 2008. Field code:Time \@ yyyy-M-d</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że jest to 08 sierpnia 2008 r. Kod pola:Czas \@ rrrr-M-d</lengthvariant>
-            <lengthvariant>Przypuszczam, że jest to 08 sierpnia 2008 r. Kod pola:Time \@ yyyy-M-d</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że jest to 08 sierpnia 2008 r. Kod pola: Time \@ rrrr-M-d</translation>
     </message>
     <message>
         <source>Time</source>
         <translation variants="yes">
-            <lengthvariant>Godzina</lengthvariant>
             <lengthvariant>Time</lengthvariant>
+            <lengthvariant>Godzina</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8401,10 +8381,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Create a table of contents</source>
-        <translation variants="yes">
-            <lengthvariant>Utwórz spis treści</lengthvariant>
-            <lengthvariant>Tworzy spis treści</lengthvariant>
-        </translation>
+        <translation>Tworzy spis treści</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -8412,16 +8389,13 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume there are 20 pages of the current document. Field code:NumPages</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że jest 20 stron bieżącego dokumentu. Kod pola:LiczbaStron</lengthvariant>
-            <lengthvariant>Przypuszczam, że jest 20 stron bieżącego dokumentu. Kod pola:NumPages</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że bieżący dokument ma 20 stron. Kod pola: NumPages</translation>
     </message>
     <message>
         <source>NumPages</source>
         <translation variants="yes">
-            <lengthvariant>LiczbaStron</lengthvariant>
             <lengthvariant>NumPages</lengthvariant>
+            <lengthvariant>Liczba_stron</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8431,19 +8405,19 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>DocVariable</source>
         <translation variants="yes">
-            <lengthvariant>DocZmienna</lengthvariant>
             <lengthvariant>DocVariable</lengthvariant>
+            <lengthvariant>Zmienna_dokumentu</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Insert the value of document variable NAME</source>
-        <translation>Wstawia wartość zmiennej dokumentu NAZWA</translation>
+        <translation>Wstawia wartość zmiennej dokumentu NAME</translation>
     </message>
     <message>
         <source>StyleRef</source>
         <translation variants="yes">
-            <lengthvariant>OdwołanieStylu</lengthvariant>
             <lengthvariant>StyleRef</lengthvariant>
+            <lengthvariant>Odwołanie_stylu</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8452,23 +8426,17 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents, click Options, then select Table entry fields. Field code: TC</source>
-        <translation variants="yes">
-            <lengthvariant>Domyślnie wstawione pole Spisu treści jest ukrytym tekstem. Aby wyświetlić to pole, wybierz Wstaw/Odwołanie/Spis treści, kliknij polecenie Opcje, a następnie wybierz Pola wpisów spisu treści. Kod pola: poleSpisuTreści</lengthvariant>
-            <lengthvariant>Domyślnie wstawione pole TC jest ukrytym tekstem. Aby wyświetlić to pole, wybierz Wstaw/Odwołanie/Spis treści, kliknij polecenie Opcje, a następnie wybierz Pola wpisów spisu treści. Kod pola: TC</lengthvariant>
-        </translation>
+        <translation>Domyślnie wstawione pole TC jest ukrytym tekstem. Aby wyświetlić to pole, wybierz Wstaw/Odwołanie/Spis treści, kliknij polecenie Opcje, a następnie wybierz Pola wpisów spisu treści. Kod pola: TC</translation>
     </message>
     <message>
         <source>Presume the last print date is August 8 of 2008. Field code:PrintDate \@ yyyy-M-d</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że data ostatniego drukowania to 08 sierpnia 2008 r. Kod pola:DrukujDatę \@ rrrr-M-d</lengthvariant>
-            <lengthvariant>Przypuszczam, że data ostatniego drukowania to 08 sierpnia 2008 r. Kod pola:PrintDate \@ rrrr-M-d</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że data ostatniego drukowania to 08 sierpnia 2008 r. Kod pola: PrintDate \@ rrrr-M-d</translation>
     </message>
     <message>
         <source>PrintDate</source>
         <translation variants="yes">
-            <lengthvariant>DrukujDatę</lengthvariant>
             <lengthvariant>PrintDate</lengthvariant>
+            <lengthvariant>Drukuj_datę</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8477,39 +8445,30 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume there are styles from Heading1 to Heading3 or there are outline levels from paragraph 1 to paragraph 3. Field code:ToC \o 1-3 \h  \u</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że są style od Nagłówek 1 do Nagłówek 3 lub istnieją poziomy konspektu od Akapit 1 do Akapit 3. Kod pola:SpisTreści \o &quot;1-3&quot; \h  \u</lengthvariant>
-            <lengthvariant>Przypuszczam, że są style od Nagłówek 1 do Nagłówek 3 lub istnieją poziomy konspektu od Akapit 1 do Akapit 3. Kod pola:TOC \o &quot;1-3&quot; \h  \u</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że dokument ma style od Nagłówek 1 do Nagłówek 3 lub istnieją poziomy konspektu od Akapit 1 do Akapit 3. Kod pola: TOC \o &quot;1-3&quot; \h  \u</translation>
     </message>
     <message>
         <source>TOC</source>
         <translation variants="yes">
-            <lengthvariant>SpisTreści</lengthvariant>
             <lengthvariant>TOC</lengthvariant>
+            <lengthvariant>Spis_treści</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Presume the KingSoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola:DOCZMIENNA KingSoft</lengthvariant>
-            <lengthvariant>Przypuszczam, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola:DOCVARIABLE KingSoft</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola: DOCVARIABLE KingSoft</translation>
     </message>
     <message>
         <source>Presume the document has opened a database which has the &quot;Company&quot; field. Field code:MERGEFIELD &quot;Company&quot;</source>
         <comment>wps-&gt; insert field -&gt; mergefield</comment>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że dokument ma otwartą bazę danych, która zawiera pole &quot;Firma&quot;. Kod pola:PoleKorespondencjiSeryjnej &quot;Firma&quot;</lengthvariant>
-            <lengthvariant>Przypuszczam, że dokument ma otwartą bazę danych, która zawiera pole &quot;Firma&quot;. Kod pola:MERGEFIELD &quot;Firma&quot;</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że dokument ma otwartą bazę danych, która zawiera pole &quot;Firma&quot;. Kod pola: MERGEFIELD &quot;Firma&quot;</translation>
     </message>
     <message>
         <source>MergeField</source>
         <comment>wps-&gt; insert field</comment>
         <translation variants="yes">
-            <lengthvariant>PoleKorespondencjiSeryjnej</lengthvariant>
             <lengthvariant>MergeField</lengthvariant>
+            <lengthvariant>Pole_korespondencji_seryjnej</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8531,8 +8490,8 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>IncludePicture</source>
         <translation variants="yes">
-            <lengthvariant>DołączObraz</lengthvariant>
             <lengthvariant>IncludePicture</lengthvariant>
+            <lengthvariant>Dołącz_obraz</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8545,81 +8504,84 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume the author of this document is WPS. Field code: DOCPPROPERTY Author</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że autorem tego dokumentu jest WPS. Kod pola: DOCWŁAŚCIWOŚĆ Autor</lengthvariant>
-            <lengthvariant>Przypuszczam, że autorem tego dokumentu jest WPS. Kod pola: DOCPPROPERTY Autor</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że autorem tego dokumentu jest WPS. Kod pola: DOCPPROPERTY Autor</translation>
     </message>
     <message>
         <source>DocProperty</source>
         <translation variants="yes">
-            <lengthvariant>DocWłaściwość</lengthvariant>
             <lengthvariant>DocProperty</lengthvariant>
+            <lengthvariant>Właściwość_dokumentu</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Insert a document property</source>
-        <translation>Wstaw właściwość dokumentu</translation>
+        <translation>Wstawia właściwość dokumentu</translation>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished">/</translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>root directory</source>
-        <translation type="unfinished"></translation>
+        <translation>katalog główny</translation>
     </message>
     <message>
         <source>D:\\</source>
-        <translation type="unfinished"></translation>
+        <translation>D:\\</translation>
     </message>
     <message>
         <source>D drive</source>
-        <translation type="unfinished"></translation>
+        <translation>Dysk D</translation>
     </message>
     <message>
         <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
-        <translation type="unfinished"></translation>
+        <translation>Załóżmy, że KingSoft.wps jest w %1. Kod pola: HYPERLINK %2KingSoft.wps</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz i aktywuj plik KingSoft.wps na %1.</translation>
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Załóżmy, że adres url obrazu to &quot;%1WPS.jpg&quot;. Kod pola: INCLUDEPICTURE &quot;%2WPS.jpg&quot;</translation>
     </message>
     <message>
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Załóżmy, że adres url pliku to &quot;%1wps.doc&quot;. Kod pola: INCLUDETEXT &quot;%2wps.doc&quot;</translation>
     </message>
     <message>
         <source>IncludeText</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>IncludeText</lengthvariant>
+            <lengthvariant>Dołącz_tekst</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert text to from a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstawia tekst z pliku</translation>
     </message>
     <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
-        <translation type="unfinished"></translation>
+        <translation>Załóżmy, że nazwa pliku dokumentu to &quot;Doc1.doc&quot;. Kod pola: FILENAME</translation>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>FileName</lengthvariant>
+            <lengthvariant>Nazwa_pliku</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Insert the file name of the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstawia nazwę pliku dokumentu</translation>
     </message>
     <message>
         <source>Forma&amp;t:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma&amp;t:</translation>
     </message>
     <message>
         <source>Document &amp;property:</source>
-        <translation type="unfinished">&amp;Właściwość dokumentu:</translation>
+        <translation>&amp;Właściwość dokumentu:</translation>
     </message>
 </context>
 <context>
@@ -9061,17 +9023,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation variants="yes">
-            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa wielkość.</translation>
     </message>
     <message>
         <source>Not Italic</source>
@@ -9480,10 +9436,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <name>KxMatchFieldsDlg</name>
     <message>
         <source>(Not matched)</source>
-        <translation variants="yes">
-            <lengthvariant>(Niepasujący)</lengthvariant>
-            <lengthvariant>(Nie dopasowano)</lengthvariant>
-        </translation>
+        <translation>(Niepasujący)</translation>
     </message>
 </context>
 <context>
@@ -9562,10 +9515,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
@@ -9610,10 +9560,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
@@ -9732,10 +9679,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
@@ -10048,10 +9992,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
@@ -10397,30 +10338,21 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation variants="yes">
-            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa wielkość.</translation>
     </message>
 </context>
 <context>
     <name>KxParagraphDlg</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation variants="yes">
-            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa wielkość.</translation>
     </message>
 </context>
 <context>
     <name>KxPhoneticGuideDlg</name>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %1.</source>
@@ -10769,7 +10701,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>Restrict permission...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogranicz uprawnienia...</translation>
     </message>
 </context>
 <context>
@@ -10874,7 +10806,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Restrict permission...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogranicz uprawnienia...</translation>
     </message>
 </context>
 <context>
@@ -10945,7 +10877,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>To&amp;p and bottom</source>
-        <translation>Od &amp;góry i dołu</translation>
+        <translation>Od &amp;góry i od dołu</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
@@ -12407,67 +12339,67 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsPermissionInformationDlg</name>
     <message>
         <source>My Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Uprawnienia</translation>
     </message>
     <message>
         <source>You are currently authenticated to view this document as:	</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownik został uwierzytelniony do wyświetlania tego dokumentu jako:	</translation>
     </message>
     <message>
         <source>userName</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa użytkownika</translation>
     </message>
     <message>
         <source>Change user...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień użytkownika...</translation>
     </message>
     <message>
         <source>You have the following permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Masz następujące uprawnienia:</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Widok</translation>
+        <translation>Wyświetlanie</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Edytuj</translation>
+        <translation>Edycja</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiowanie</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Drukuj</translation>
+        <translation>Drukowanie</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Zapisz</translation>
+        <translation>Zapisywanie</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie</translation>
     </message>
     <message>
         <source>Access the document programmatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Programowy dostęp do dokumentu</translation>
     </message>
     <message>
         <source>Full Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Pełna kontrola</translation>
     </message>
     <message>
         <source>Permission expiration date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Data wygaśnięcia uprawnienia:</translation>
     </message>
     <message>
         <source>(N/A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(N/D)</translation>
     </message>
     <message>
         <source>Resquest additional permissions... </source>
-        <translation type="unfinished"></translation>
+        <translation>Zażądaj dodatkowych uprawnień... </translation>
     </message>
 </context>
 <context>
@@ -12498,7 +12430,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Od góry i dołu</translation>
+        <translation>Od góry i od dołu</translation>
     </message>
 </context>
 <context>
@@ -12580,27 +12512,27 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Okienko recenzowania</translation>
     </message>
     <message>
         <source>Insertions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstawienia: %1</translation>
     </message>
     <message>
         <source>Deletions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Usunięcia: %1</translation>
     </message>
     <message>
         <source>Formatting: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatowanie %1</translation>
     </message>
     <message>
         <source>Comments: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Komentarze: %1</translation>
     </message>
     <message>
         <source>Revision: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprawka: %1</translation>
     </message>
 </context>
 <context>
@@ -12954,7 +12886,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Word Templates(*.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
-        <translation>Szablony programu Word(*.wpt);;Dodatki programu Word(*.wll);;Wszystkie pliki(*.*)</translation>
+        <translation>Szablony programu Word (*.wpt);;Dodatki programu Word (*.wll);;Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>Common Template Normal.WPT has opened to load.</source>
@@ -13047,21 +12979,18 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Layout options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje układu</translation>
     </message>
 </context>
 <context>
     <name>KxWpsZoomCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation variants="yes">
-            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa wielkość.</translation>
     </message>
 </context>
 <context>

@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu lub wylogowaniu komputera</translation>
     </message>
 </context>
 <context>
@@ -1087,45 +1087,48 @@
     <name>KxAddRestrictUserDlg</name>
     <message>
         <source>Add Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodawanie użytkowników</translation>
     </message>
     <message>
         <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
 Separate names with a semicolon(;).
 To select names from the Address book, click the Read or Change button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź adresy e-mail użytkowników w polach Odczyt i Zmiana (np. osoba@example.com).
+Oddziel nazwy średnikami (;).
+Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</translation>
     </message>
     <message>
         <source>Add users from the Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj użytkowników z książki adresowej</translation>
     </message>
     <message>
         <source>Read...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Czytaj... </translation>
     </message>
     <message>
         <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować ani kopiować zawartości.</translation>
     </message>
     <message>
         <source>Give all users Read Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Daje wszystkim użytkownikom dostęp do odczytu</translation>
     </message>
     <message>
         <source>PI</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Personal Identity</translatorcomment>
+        <translation>Tożsamość osobista</translation>
     </message>
     <message>
         <source>Change...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień... </translation>
     </message>
     <message>
         <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownicy z uprawnieniem do wprowadzania zmian mogą odczytywać i edytować dokument, a także zapisywać w nim zmiany i kopiować z niego zawartość, ale nie mogą drukować zawartości.</translation>
     </message>
     <message>
         <source>Give all users Change Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Daje wszystkim użytkownikom dostęp do wprowadzania zmian</translation>
     </message>
 </context>
 <context>
@@ -2420,7 +2423,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>pushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>z przyciskiem</translation>
     </message>
 </context>
 <context>
@@ -2541,23 +2544,23 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <name>KxDlgSelectUser</name>
     <message>
         <source>Select User</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz użytkownika</translation>
     </message>
     <message>
         <source>&amp;Select one of the following user accounts to create or open content with restricted permission.To use an account not listed below,click Add.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wybierz jedno z następujących kont użytkownika, aby utworzyć lub otworzyć zawartość z ograniczonym uprawnieniem. Aby użyć konta niewyświetlonego poniżej, kliknij przycisk Dodaj.</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished">&amp;Dodaj...</translation>
+        <translation>&amp;Dodaj...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Usuń</translation>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>A&amp;lways use this account</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zawsze używaj tego konta</translation>
     </message>
 </context>
 <context>
@@ -2639,7 +2642,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>Please input a password between </source>
-        <translation>Proszę wprowadzić hasło pomiędzy </translation>
+        <translation>Proszę wprowadzić hasło między </translation>
     </message>
     <message>
         <source> and </source>
@@ -3215,11 +3218,11 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     <name>KxLoadingRMSDlg</name>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>Verifying your logon information for opening content with restricted permission...</source>
-        <translation type="unfinished"></translation>
+        <translation>Trwa weryfikowanie informacji o logowaniu do otwierania zawartości z ograniczonym uprawnieniem...</translation>
     </message>
 </context>
 <context>
@@ -3370,19 +3373,19 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>Close all tabs or current tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij wszystkie karty lub bieżącą kartę</translation>
     </message>
     <message>
         <source>Close all</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij wszystkie</translation>
     </message>
     <message>
         <source>Close current</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij bieżącą</translation>
     </message>
     <message>
         <source>cancel Close</source>
-        <translation type="unfinished"></translation>
+        <translation>anuluj Zamknij</translation>
     </message>
 </context>
 <context>
@@ -3547,27 +3550,27 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>import templates</source>
-        <translation type="unfinished"></translation>
+        <translation>importuj szablony</translation>
     </message>
     <message>
         <source>template file</source>
-        <translation type="unfinished"></translation>
+        <translation>plik szablonu</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Szablon programu Kingsoft Presentation</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Szablon programu Microsoft PowerPoint 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Szablony programu Kingsoft Spreadsheets</translation>
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Szablon programu Excel 97/2000/XP/2003</translation>
     </message>
 </context>
 <context>
@@ -3727,7 +3730,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie czcionek, proszę czekać?</translation>
     </message>
 </context>
 <context>
@@ -3800,63 +3803,63 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     <name>KxPermissionOptionDlg</name>
     <message>
         <source>Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Uprawnienie</translation>
     </message>
     <message>
         <source>&amp;Restrict permission to this document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ogranicz uprawnienie do tego dokumentu</translation>
     </message>
     <message>
         <source>The following &amp;users have permission to this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Następujący &amp;użytkownicy mają uprawnienia do tego dokumentu:</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished">&amp;Dodaj...</translation>
+        <translation>&amp;Dodaj...</translation>
     </message>
     <message>
         <source>Remo&amp;ve</source>
-        <translation type="unfinished"></translation>
+        <translation>U&amp;suń</translation>
     </message>
     <message>
         <source>Additional permissions for users:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatkowe uprawnienia dla użytkowników:</translation>
     </message>
     <message>
         <source>This document expires o&amp;n:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten dokument wygasa d&amp;nia:</translation>
     </message>
     <message>
         <source>Enter date in format: yyyy/M/d</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź datę w formacie: rrrr/M/d</translation>
     </message>
     <message>
         <source>&amp;Print content</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Drukuj zawartość</translation>
     </message>
     <message>
         <source>Allow users with read access to &amp;copy content</source>
-        <translation type="unfinished"></translation>
+        <translation>Zezwalaj użytkownikom z dostępem do odczytu na &amp;kopiowanie zawartości</translation>
     </message>
     <message>
         <source>Access content pr&amp;ogrammatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Pr&amp;ogramowy dostęp do zawartości</translation>
     </message>
     <message>
         <source>Additional settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia dodatkowe:</translation>
     </message>
     <message>
         <source>Users can request additonal per&amp;missions from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownicy mogą żądać dodatkowych &amp;uprawnień od:</translation>
     </message>
     <message>
         <source>Re&amp;quire a connection to verify a user&apos;s permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Wy&amp;magaj połączenia do weryfikacji uprawnienia użytkownika</translation>
     </message>
     <message>
         <source>&amp;Set defaults...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ustaw domyślnie...</translation>
     </message>
 </context>
 <context>
@@ -4283,57 +4286,60 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     <name>KxRestrictedAccessDlg</name>
     <message>
         <source>Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Uprawnienie</translation>
     </message>
     <message>
         <source>&amp;Restrict permission to this document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ogranicz uprawnienie do tego dokumentu</translation>
     </message>
     <message>
         <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
 Separate names with a semicolon(;).
 To select names from the Address book, click the Read or Change button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź adresy e-mail użytkowników w polach Odczyt i Zmiana (np. osoba@example.com).
+Oddziel nazwy średnikami (;).
+Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</translation>
     </message>
     <message>
         <source>Add users from the Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj użytkowników z książki adresowej</translation>
     </message>
     <message>
         <source>Read...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Czytaj... </translation>
     </message>
     <message>
         <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować ani kopiować zawartości.</translation>
     </message>
     <message>
         <source>Give all users Read Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Daje wszystkim użytkownikom dostęp do odczytu</translation>
     </message>
     <message>
         <source>PI</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Personal Identity</translatorcomment>
+        <translation>Tożsamość osobista</translation>
     </message>
     <message>
         <source>Change...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień... </translation>
     </message>
     <message>
         <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownicy z uprawnieniem do wprowadzania zmian mogą odczytywać i edytować dokument, a także zapisywać w nim zmiany i kopiować z niego zawartość, ale nie mogą drukować zawartości.</translation>
     </message>
     <message>
         <source>Give all users Change Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Daje wszystkim użytkownikom dostęp do wprowadzania zmian</translation>
     </message>
     <message>
         <source>Displays advanced settings dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetla okno dialogowe Ustawienia zaawansowane</translation>
     </message>
     <message>
         <source> More &amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej &amp;opcji...</translation>
     </message>
 </context>
 <context>
@@ -4455,7 +4461,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu lub wylogowaniu komputera</translation>
     </message>
 </context>
 <context>
@@ -4623,7 +4629,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>browse templates location</source>
-        <translation type="unfinished"></translation>
+        <translation>przeglądaj lokalizację szablonów</translation>
     </message>
 </context>
 <context>
@@ -4687,7 +4693,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation>Naciśnij przycisk</translation>
+        <translation>Przycisk polecenia</translation>
     </message>
 </context>
 <context>
@@ -5310,7 +5316,7 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished">Naciśnij przycisk</translation>
+        <translation>Przycisk polecenia</translation>
     </message>
 </context>
 <context>
@@ -5872,7 +5878,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="unfinished">2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
+        <translation>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
     </message>
 </context>
 <context>

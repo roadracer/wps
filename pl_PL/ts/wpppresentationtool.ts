@@ -6,11 +6,7 @@
     <name>DlgBatchSetFont</name>
     <message>
         <source>Batch Set Font</source>
-        <translation variants="yes">
-            <lengthvariant>Zestaw ustawienia czcionki</lengthvariant>
-            <lengthvariant>Partia ustawienia czcionki</lengthvariant>
-            <lengthvariant>Wielkość ustawienia czcionki</lengthvariant>
-        </translation>
+        <translation>Partia ustawień czcionki</translation>
     </message>
     <message>
         <source>1</source>

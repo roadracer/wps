@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -850,7 +850,7 @@ kwerendy bazy danych OLE</translation>
     <name>classics.formatting</name>
     <message>
         <source>Across Center</source>
-        <translation type="unfinished"></translation>
+        <translation>W poprzek środka</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -953,7 +953,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Unmerge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozdziel komórki</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -1362,7 +1362,7 @@ wyśrodkuj</translation>
     <name>classics.standard</name>
     <message>
         <source>Above Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Powyżej średniej</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -1378,23 +1378,23 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Begin with</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaczyna się</translation>
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Poniżej średniej</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Między</translation>
     </message>
     <message>
         <source>Bottom 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie 10</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie 10%</translation>
     </message>
     <message>
         <source>Chart Wizard</source>
@@ -1402,7 +1402,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
@@ -1576,23 +1576,23 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawiera</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>Licznik</translation>
+        <translation>Zliczanie</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Niestandardowe</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zawiera</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -1600,15 +1600,15 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Pusta komórka</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation type="unfinished"></translation>
+        <translation>Kończy się</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Równe</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -1616,15 +1616,15 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Error Value </source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość błędu </translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb Ochrona oczu</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -1636,7 +1636,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Większe niż</translation>
     </message>
     <message>
         <source>HighLight</source>
@@ -1644,7 +1644,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyróżnienie</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -1652,7 +1652,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
+        <translation>W ciągu ostatnich 7 dni</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -1660,23 +1660,23 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubiegły miesiąc</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubiegły tydzień</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation>Mniejsze niż</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>Minisite</source>
@@ -1688,11 +1688,11 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Next month</source>
-        <translation type="unfinished"></translation>
+        <translation>Następny miesiąc</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Następny tydzień</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -1759,7 +1759,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Special Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość specjalna</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -1767,38 +1767,35 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten miesiąc</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten tydzień</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Dzisiaj</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Jutro</translation>
     </message>
     <message>
         <source>Top 10</source>
-        <translation type="unfinished"></translation>
+        <translation>10 pierwszych</translation>
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwsze 10%</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -1814,7 +1811,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość</translation>
     </message>
     <message>
         <source>Values</source>
@@ -1826,11 +1823,11 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"></translation>
+        <translation>Weekend</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Wczoraj</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -1841,10 +1838,7 @@ wyśrodkuj</translation>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
@@ -2303,11 +2297,11 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść wyróżnienie powtarzanych elementów</translation>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść odrzucone wstawienia powtarzanych elementów</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -2413,7 +2407,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikaty</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -2421,10 +2415,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation variants="yes">
-            <lengthvariant>Wprowadź</lengthvariant>
-            <lengthvariant>Enter</lengthvariant>
-        </translation>
+        <translation>Wprowadź</translation>
     </message>
     <message>
         <source>Error Bars</source>
@@ -2436,10 +2427,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation variants="yes">
-            <lengthvariant>Tryb ochrony oczu</lengthvariant>
-            <lengthvariant>Tryb Ochrona oczu</lengthvariant>
-        </translation>
+        <translation>Tryb Ochrona oczu</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -2529,7 +2517,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyróżnij duplikaty</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -2729,15 +2717,16 @@ bezpośrednio</translation>
     <message>
         <source>Refresh
 Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Odśwież
+dane</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Odrzuć zduplikowane wpisy</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń duplikaty</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -2785,7 +2774,7 @@ Data</source>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw wyróżnienie powtarzanych elementów</translation>
     </message>
     <message>
         <source>Set Language</source>
@@ -2793,7 +2782,7 @@ Data</source>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw odrzucone wstawienia powtarzanych elementów</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -2949,7 +2938,7 @@ zadań</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -3116,15 +3105,12 @@ zadań</translation>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
@@ -3135,10 +3121,7 @@ zadań</translation>
     <name>etongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
 </context>
 <context>
@@ -3182,7 +3165,7 @@ zadań</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -3341,23 +3324,17 @@ zadań</translation>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
@@ -3368,10 +3345,7 @@ zadań</translation>
     <name>etrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
 </context>
 <context>
@@ -4228,11 +4202,11 @@ włącz/wyłącz</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -4422,11 +4396,7 @@ włącz/wyłącz</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation variants="yes">
-            <lengthvariant>Licznik</lengthvariant>
-            <lengthvariant>Policz</lengthvariant>
-            <lengthvariant>Liczba</lengthvariant>
-        </translation>
+        <translation>Licznik</translation>
     </message>
     <message>
         <source>Create</source>
@@ -4435,8 +4405,8 @@ włącz/wyłącz</translation>
     <message>
         <source>Date and
 Time</source>
-        <translation>Daty i
-godziny</translation>
+        <translation>Data i
+godzina</translation>
     </message>
     <message>
         <source>Define Name</source>
@@ -4502,11 +4472,11 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>More
@@ -4553,11 +4523,11 @@ używane</translation>
     <name>ongmani.ct_home</name>
     <message>
         <source>Above Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Powyżej średniej</translation>
     </message>
     <message>
         <source>Across Center</source>
-        <translation type="unfinished"></translation>
+        <translation>W poprzek środka</translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -4625,15 +4595,15 @@ używane</translation>
     </message>
     <message>
         <source>Begin with</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaczyna się</translation>
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Poniżej średniej</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Między</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4641,11 +4611,11 @@ używane</translation>
     </message>
     <message>
         <source>Bottom 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie 10</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie 10%</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -4862,7 +4832,7 @@ używane</translation>
     </message>
     <message>
         <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawiera</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -4882,11 +4852,7 @@ używane</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation variants="yes">
-            <lengthvariant>Licznik</lengthvariant>
-            <lengthvariant>Policz</lengthvariant>
-            <lengthvariant>Liczba</lengthvariant>
-        </translation>
+        <translation>Zliczanie</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -4894,7 +4860,7 @@ używane</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Niestandardowe</translation>
     </message>
     <message>
         <source>Custom Sort</source>
@@ -4906,7 +4872,8 @@ używane</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>czy może dane? Data</translatorcomment>
+        <translation>Data!</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -4942,7 +4909,7 @@ używane</translation>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zawiera</translation>
     </message>
     <message>
         <source>Down</source>
@@ -4962,15 +4929,15 @@ używane</translation>
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Pusta komórka</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation type="unfinished"></translation>
+        <translation>Kończy się</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Równe</translation>
     </message>
     <message>
         <source>Erase Border</source>
@@ -4978,7 +4945,7 @@ używane</translation>
     </message>
     <message>
         <source>Error Value </source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość błędu </translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5041,7 +5008,7 @@ formatów</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Większe niż</translation>
     </message>
     <message>
         <source>Hide Columns</source>
@@ -5065,11 +5032,11 @@ formatów</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyróżnienie</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
+        <translation>W ciągu ostatnich 7 dni</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -5123,11 +5090,11 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubiegły miesiąc</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubiegły tydzień</translation>
     </message>
     <message>
         <source>Left</source>
@@ -5143,7 +5110,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation>Mniejsze niż</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -5159,7 +5126,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Merge Across</source>
@@ -5180,7 +5147,7 @@ Center</source>
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>More Borders</source>
@@ -5196,11 +5163,11 @@ Center</source>
     </message>
     <message>
         <source>Next month</source>
-        <translation type="unfinished"></translation>
+        <translation>Następny miesiąc</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Następny tydzień</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -5274,7 +5241,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Rows and Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiersze i kolumny</translation>
     </message>
     <message>
         <source>RowsColumn</source>
@@ -5305,7 +5272,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Special Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość specjalna</translation>
     </message>
     <message>
         <source>Standard Width</source>
@@ -5325,7 +5292,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -5341,27 +5308,27 @@ kolumny</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten miesiąc</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten tydzień</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Dzisiaj</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Jutro</translation>
     </message>
     <message>
         <source>Top 10</source>
-        <translation type="unfinished"></translation>
+        <translation>10 pierwszych</translation>
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwsze 10%</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -5401,7 +5368,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Unmerge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozdziel komórki</translation>
     </message>
     <message>
         <source>Up</source>
@@ -5409,7 +5376,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość</translation>
     </message>
     <message>
         <source>Values</source>
@@ -5425,7 +5392,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"></translation>
+        <translation>Weekend</translation>
     </message>
     <message>
         <source>Worksheet</source>
@@ -5437,7 +5404,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Wczoraj</translation>
     </message>
 </context>
 <context>
@@ -6796,7 +6763,7 @@ inne okna</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb Ochrona oczu</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -7728,11 +7695,11 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb Ochrona oczu</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -7760,14 +7727,11 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>KOS User Data Tools</source>
-        <translation>Narzędzia danych użytkownika KOS</translation>
+        <translation>Narzędzia danych użytkownika</translation>
     </message>
     <message>
         <source>KOS User PDF</source>
-        <translation variants="yes">
-            <lengthvariant>KOS użytkownika w formacie PDF</lengthvariant>
-            <lengthvariant>Dane wyjściowe w formacie PDF</lengthvariant>
-        </translation>
+        <translation>Dane wyjściowe w formacie PDF</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -7883,7 +7847,7 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Across Center</source>
-        <translation type="unfinished"></translation>
+        <translation>W poprzek środka</translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -8431,15 +8395,15 @@ COM</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb Ochrona oczu</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -8893,7 +8857,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Manage Credential</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzaj poświadczeniami</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -8901,7 +8865,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -8909,7 +8873,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Scal komórki</translation>
     </message>
     <message>
         <source>Merge Columns</source>
@@ -8917,7 +8881,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Scal i wyśrodkuj</translation>
     </message>
     <message>
         <source>Merge and Center Cells</source>
@@ -8925,7 +8889,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>Minisite</source>
@@ -9166,7 +9130,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostęp ograniczony</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -9300,7 +9264,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Shape Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl kształtu</translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -9513,7 +9477,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostęp nieograniczony</translation>
     </message>
     <message>
         <source>Up</source>
@@ -9601,10 +9565,7 @@ wyśrodkuj</translation>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
@@ -9615,10 +9576,7 @@ wyśrodkuj</translation>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
 </context>
 <context>
@@ -10411,11 +10369,11 @@ COM</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -10609,10 +10567,7 @@ COM</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation variants="yes">
-            <lengthvariant>Licznik</lengthvariant>
-            <lengthvariant>Zlicz</lengthvariant>
-        </translation>
+        <translation>Licznik</translation>
     </message>
     <message>
         <source>Create</source>
@@ -10621,8 +10576,8 @@ COM</translation>
     <message>
         <source>Date and
 Time</source>
-        <translation>Daty i
-godziny</translation>
+        <translation>Data i
+godzina</translation>
     </message>
     <message>
         <source>Define Name</source>
@@ -10689,11 +10644,11 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>More Functions</source>
@@ -10732,7 +10687,7 @@ trygonometryczne</translation>
     <name>rainbow.ct_home</name>
     <message>
         <source>Above Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Powyżej średniej</translation>
     </message>
     <message>
         <source>Across Center</source>
@@ -10804,15 +10759,15 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Begin with</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaczyna się</translation>
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Poniżej średniej</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Między</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -10820,11 +10775,11 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Bottom 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie 10</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie 10%</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -11037,7 +10992,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawiera</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
@@ -11053,7 +11008,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>Licznik</translation>
+        <translation>Zliczanie</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -11061,7 +11016,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Niestandardowe</translation>
     </message>
     <message>
         <source>Custom Sort</source>
@@ -11073,7 +11028,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -11109,7 +11064,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zawiera</translation>
     </message>
     <message>
         <source>Down</source>
@@ -11129,15 +11084,15 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Pusta komórka</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation type="unfinished"></translation>
+        <translation>Kończy się</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Równe</translation>
     </message>
     <message>
         <source>Erase Border</source>
@@ -11145,7 +11100,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Error Value </source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość błędu </translation>
     </message>
     <message>
         <source>Fill</source>
@@ -11200,7 +11155,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Większe niż</translation>
     </message>
     <message>
         <source>Hide Columns</source>
@@ -11224,11 +11179,11 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyróżnienie</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
+        <translation>W ciągu ostatnich 7 dni</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -11272,11 +11227,11 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubiegły miesiąc</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubiegły tydzień</translation>
     </message>
     <message>
         <source>Left</source>
@@ -11292,7 +11247,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation>Mniejsze niż</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -11308,7 +11263,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Merge Across</source>
@@ -11330,7 +11285,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>More Borders</source>
@@ -11346,11 +11301,11 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Next month</source>
-        <translation type="unfinished"></translation>
+        <translation>Następny miesiąc</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Następny tydzień</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -11445,7 +11400,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Special Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość specjalna</translation>
     </message>
     <message>
         <source>Standard Width</source>
@@ -11465,7 +11420,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -11481,27 +11436,27 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten miesiąc</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten tydzień</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Dzisiaj</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Jutro</translation>
     </message>
     <message>
         <source>Top 10</source>
-        <translation type="unfinished"></translation>
+        <translation>10 pierwszych</translation>
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwsze 10%</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -11541,7 +11496,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Unmerge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozdziel komórki</translation>
     </message>
     <message>
         <source>Up</source>
@@ -11549,7 +11504,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość</translation>
     </message>
     <message>
         <source>Values</source>
@@ -11565,7 +11520,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"></translation>
+        <translation>Weekend</translation>
     </message>
     <message>
         <source>WorkSheet</source>
@@ -11577,7 +11532,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Wczoraj</translation>
     </message>
 </context>
 <context>
@@ -12837,7 +12792,7 @@ inne okna</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb Ochrona oczu</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -13723,11 +13678,11 @@ cienia</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb Ochrona oczu</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -13751,7 +13706,7 @@ cienia</translation>
     </message>
     <message>
         <source>KOS User Data Tools</source>
-        <translation>Narzędzia danych użytkownika KOS</translation>
+        <translation>Narzędzia danych użytkownika</translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -13874,11 +13829,11 @@ cienia</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb Ochrona oczu</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -13891,8 +13846,8 @@ cienia</translation>
     <message>
         <source>KOS Open Cloud File</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz plik w usłudze Cloud, KOS</lengthvariant>
-            <lengthvariant>Otwórz plik w usłudze Chmury, KOS</lengthvariant>
+            <lengthvariant>Otwórz plik w usłudze Chmura</lengthvariant>
+            <lengthvariant>Otwórz plik w usłudze Cloud</lengthvariant>
         </translation>
     </message>
     <message>

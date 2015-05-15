@@ -134,10 +134,7 @@
     <message>
         <source>Text&lt;Date and Time&gt;</source>
         <comment>AEO_PLACEHOLDER_DATE</comment>
-        <translation variants="yes">
-            <lengthvariant>Tekst &lt;Data i Godzina&gt;</lengthvariant>
-            <lengthvariant>Tekst &lt;Data i Czas&gt;</lengthvariant>
-        </translation>
+        <translation>Tekst &lt;Data i Godzina&gt;</translation>
     </message>
     <message>
         <source>Unknown Placeholder</source>
@@ -1920,7 +1917,7 @@ Do you still want to open this file?
 Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
 (%s)</source>
         <comment>WP_AV_Scan_Failed</comment>
-        <translation>Twój program antywirusowy napotkał błędy podczas skanowania tego pliku (kod błędu: 0x%08X). Proszę skontaktuj się z agentem oprogramowania antywirusowego. 
+        <translation>Twój program antywirusowy napotkał błędy podczas skanowania tego pliku (kod błędu: 0x%08X). Proszę skontaktuj się z dostawcą oprogramowania antywirusowego. 
 Czy nadal chcesz otworzyć ten plik?
 
 •Kliknij przycisk Tak, program WPS Presentation będzie kontynował otwieranie tego pliku.
@@ -4811,10 +4808,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>The spelling check is complete.</source>
         <comment>wpp_sCheckSpellingOver</comment>
-        <translation variants="yes">
-            <lengthvariant>Sprawdzanie pisowni zostało ukończone.</lengthvariant>
-            <lengthvariant>Sprawdzanie pisowni zostało zakończone.</lengthvariant>
-        </translation>
+        <translation>Sprawdzanie pisowni zostało ukończone.</translation>
     </message>
     <message>
         <source>Chinese(PRC)</source>
@@ -4994,7 +4988,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF.</source>
         <comment>wpp_sExportPDFError</comment>
-        <translation>WPS Presentation napotkał błąd podczas próby eksportowania do formatu PDF.</translation>
+        <translation>Program WPS Presentation napotkał błąd podczas próby eksportowania do formatu PDF.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
@@ -5445,7 +5439,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Exporting summary information...</source>
         <comment>wpp_spdfSummaryInfo</comment>
-        <translation>Eksportowanie informacji podsumowujących...</translation>
+        <translation>Eksportowanie podsumowania...</translation>
     </message>
     <message>
         <source>Primary Monitor</source>
@@ -5514,10 +5508,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Save Adobe PDF File As</source>
         <comment>wpp_sSaveAsPDFFile</comment>
-        <translation variants="yes">
-            <lengthvariant>Zapisz plik Adobe PDF jako</lengthvariant>
-            <lengthvariant>Zapisz jako plik Adobe PDF</lengthvariant>
-        </translation>
+        <translation>Zapisz plik Adobe PDF jako</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color</source>
@@ -7109,77 +7100,77 @@ Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
     <message>
         <source>All Files(*.*)</source>
         <comment>WpDescAll</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
         <comment>WpDescCommon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wspólne pliki (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</translation>
     </message>
     <message>
         <source>WPS Presentation Files(*.dps)</source>
         <comment>WpDescWPP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pliki programu WPS Presentation (*.dps)</translation>
     </message>
     <message>
         <source>WPS Presentation Templates(*.dpt)</source>
         <comment>WpDescWPPTemp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szablony programu WPS Presentation (*.dpt)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
         <comment>WpDescPptPps</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prezentacje programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt; *.pps)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
         <comment>WpDescPpt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prezentacja programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
         <comment>WpDescPps</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaz programu Microsoft PowerPoint 97/2000/XP/2003 (*.pps)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
         <comment>WpDescPptTemp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szablony prezentacji programu Microsoft PowerPoint 97/2000/XP/2003 (*.pot)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
         <comment>WpDescPptx</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prezentacje programu Microsoft PowerPoint 2007/2010 (*.pptx; *.ppsx)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
         <comment>WpDescUOF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format chińskiego dokumentu Office (*.uof)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uop)</source>
         <comment>WpDescUOF2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format chińskiego dokumentu Office 2.0 (*.uop)</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)</source>
         <comment>WpDescJPEG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format wymiany plików JPEG (*.jpg)</translation>
     </message>
     <message>
         <source>PNG Portable Network Graphics Format(*.png)</source>
         <comment>WpDescPNG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przenośna grafika sieciowa PNG (*.png)</translation>
     </message>
     <message>
         <source>TIFF Tag Image File Format(*.tif)</source>
         <comment>WpDescTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Znacznikowy format pliku obrazu TIF (*.tif)</translation>
     </message>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mapa bitowa niezależna od urządzenia (*.bmp)</translation>
     </message>
 </context>
 </TS>

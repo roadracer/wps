@@ -64,7 +64,7 @@
     <message>
         <source>Online Templates Pro</source>
         <comment>title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Szablony online Pro</translation>
     </message>
 </context>
 </TS>

@@ -10,10 +10,7 @@
     </message>
     <message>
         <source>The backup files below will be deleted. Do you want to continue?</source>
-        <translation variants="yes">
-            <lengthvariant>Poniższe pliki kopii zapasowej zostaną usunięte. Czy chcesz kontynuować?</lengthvariant>
-            <lengthvariant>Pliki kopii zapasowej pokazane poniżej zostaną usunięte. Czy chcesz kontynuować?</lengthvariant>
-        </translation>
+        <translation>Poniższe pliki kopii zapasowej zostaną usunięte. Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>File</source>
@@ -286,7 +283,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z WPS Office lu
         <source>If you encounter any errors when using WPS Office, such as program running or toolbar errors, please close all WPS Office applications and click the Start Repairing button below.
 We will do our utmost to repair the applications and restore them to the default state.</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation>Jeśli wystąpią błędy podczas korzystania z WPS Office, takie jak uruchomienie programu lub błędy paska narzędzi, proszę  zamknij wszystkie aplikacje WPS Office i kliknij poniżej przycisk Rozpocznij naprawianie.
+        <translation>Jeśli wystąpią błędy podczas korzystania z WPS Office, takie jak uruchomienie programu lub błędy paska narzędzi, proszę zamknij wszystkie aplikacje WPS Office i kliknij poniżej przycisk Rozpocznij naprawianie.
 Dołożymy wszelkich starań, aby naprawić aplikacje i przywrócić je do stanu domyślnego.</translation>
     </message>
     <message>
@@ -569,7 +566,7 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation>Możesz odblokować stronę główną IE, jeśli Ci się nie podoba. Uwaga: odblokowanie strony głównej może powodować ryzyko zainfekowania wirusem i kradzieży konta.</translation>
+        <translation>Możesz odblokować stronę główną IE, jeśli Ci się nie podoba. Uwaga: Odblokowanie strony głównej może powodować ryzyko zainfekowania wirusem i kradzieży konta.</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
@@ -602,7 +599,7 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     </message>
     <message>
         <source>If toolbar buttons are mixed up, please close all WPS Office applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
-        <translation>Jeśli przyciski paska narzędzi są pomieszane, proszę zamknąć wszystkie aplikacje WPS Office i kliknąć przycisk poniżej, aby przywrócić paski narzędzi do ich pierwotnych stanów. Naprawy zostaną wprowadzone po ponownym uruchomieniu komputera.</translation>
+        <translation>Jeżeli przyciski paska narzędzi są pomieszane, proszę zamknąć wszystkie aplikacje WPS Office i kliknąć przycisk poniżej, aby przywrócić paski narzędzi do ich pierwotnych stanów. Naprawy zostaną wprowadzone po ponownym uruchomieniu komputera.</translation>
     </message>
     <message>
         <source>Reset &amp;Toolbars</source>

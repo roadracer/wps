@@ -133,7 +133,7 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj projekt</translation>
     </message>
 </context>
 <context>
@@ -3208,12 +3208,8 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  folder, in order to play this file on another computer.</source>
-        <translation variants="yes">
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu, aby odtworzyć ten plik na innym komputerze.</lengthvariant>
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
-        </translation>
+        <translation>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
+folderu, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
 <context>
@@ -3254,12 +3250,8 @@ folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  Zip folder, in order to play this file on another computer.</source>
-        <translation variants="yes">
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu Zip, aby odtworzyć ten plik na innym komputerze.</lengthvariant>
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
-        </translation>
+        <translation>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
+folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
 <context>
@@ -3598,7 +3590,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Przejście slajdu</translation>
     </message>
 </context>
 <context>
@@ -4143,10 +4135,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <name>KxWppZoomComboCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation variants="yes">
-            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa wielkość.</translation>
     </message>
 </context>
 <context>
@@ -5136,10 +5125,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Top</source>
-        <translation variants="yes">
-            <lengthvariant>Góra</lengthvariant>
-            <lengthvariant>Górna</lengthvariant>
-        </translation>
+        <translation>Górna</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -5147,10 +5133,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Dół</lengthvariant>
-            <lengthvariant>Dolna</lengthvariant>
-        </translation>
+        <translation>Dolna</translation>
     </message>
     <message>
         <source>Internal margin</source>
