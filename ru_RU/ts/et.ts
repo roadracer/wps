@@ -793,11 +793,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Filter by Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтровать по цвету</translation>
     </message>
     <message>
         <source>Top 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Первые 10</translation>
     </message>
 </context>
 <context>
@@ -953,38 +953,38 @@ condition is true:</source>
     <name>KxBackgroundQueryMonitorUI</name>
     <message>
         <source>External Data Refresh Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Состояние обновления внешних данных</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Состояние</translation>
+        <translation>Состояние</translation>
     </message>
     <message>
         <source>Queries currently being executed in the background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Запросы, выполняемые в фоновом режиме:</translation>
     </message>
 </context>
 <context>
     <name>KxBackgroundQuery_monitor</name>
     <message>
         <source>&amp;Stop Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Прервать</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Прошло времени:</translation>
     </message>
     <message>
         <source>Fetching data...</source>
-        <translation type="unfinished"></translation>
+        <translation>Извлечение данных...</translation>
     </message>
     <message>
         <source>Number of rows fetched:</source>
-        <translation type="unfinished"></translation>
+        <translation>Число извлеченных строк:</translation>
     </message>
     <message>
         <source>Please close this dialog to continue fetching data</source>
-        <translation type="unfinished"></translation>
+        <translation>Закройте этот диалог, чтобы продолжить извлечение данных</translation>
     </message>
 </context>
 <context>
@@ -1050,167 +1050,167 @@ condition is true:</source>
     <name>KxConditionHighLightDlg</name>
     <message>
         <source>Numerial_BetweenSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Числовой_суффикс между</translation>
     </message>
     <message>
         <source>Highlight-Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить значение</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Равно</translation>
     </message>
     <message>
         <source>Not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Не равно</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше</translation>
     </message>
     <message>
         <source>Greater than or equal</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше или равно</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation>Меньше</translation>
     </message>
     <message>
         <source>Less than or equal</source>
-        <translation type="unfinished"></translation>
+        <translation>Меньше или равно</translation>
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished">и</translation>
+        <translation>и</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished">Между</translation>
+        <translation>Между</translation>
     </message>
     <message>
         <source>Not between</source>
-        <translation type="unfinished"></translation>
+        <translation>Не между</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Первые</translation>
     </message>
     <message>
         <source>Items</source>
-        <translation type="unfinished">Элементы</translation>
+        <translation>Элементы</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Последние</translation>
     </message>
     <message>
         <source>% Items</source>
-        <translation type="unfinished"></translation>
+        <translation>% элементов</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished">Среднее</translation>
+        <translation>Среднее</translation>
     </message>
     <message>
         <source>Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Выше</translation>
     </message>
     <message>
         <source>Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Ниже</translation>
     </message>
     <message>
         <source>Highlight-Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить текст</translation>
     </message>
     <message>
         <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Содержит</translation>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Не содержит</translation>
     </message>
     <message>
         <source>Begin with</source>
-        <translation type="unfinished"></translation>
+        <translation>Начинается на</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation type="unfinished"></translation>
+        <translation>Заканчивается на</translation>
     </message>
     <message>
         <source>Highlight-Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить дату</translation>
     </message>
     <message>
         <source>A Date Occurring</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished">Вчера</translation>
+        <translation>Вчера</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished">Сегодня</translation>
+        <translation>Сегодня</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished">Завтра</translation>
+        <translation>Завтра</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
+        <translation>В последние 7 дней</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>На прошлой неделе</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation type="unfinished"></translation>
+        <translation>На этой неделе</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>На следующей неделе</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>В прошлом месяце</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation type="unfinished"></translation>
+        <translation>В этом месяце</translation>
     </message>
     <message>
         <source>Next month</source>
-        <translation type="unfinished"></translation>
+        <translation>В следующем месяце</translation>
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"></translation>
+        <translation>Выходные</translation>
     </message>
     <message>
         <source>Highlight-Special Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить специальное значение</translation>
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Пустая ячейка</translation>
     </message>
     <message>
         <source>Error value </source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибочное значение</translation>
     </message>
     <message>
         <source>Lack input value</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсутствует вводимое значение</translation>
     </message>
     <message>
         <source>The required range value is insufficient</source>
-        <translation type="unfinished"></translation>
+        <translation>Недостаточная величина требуемого диапазона</translation>
     </message>
 </context>
 <context>
@@ -1790,43 +1790,43 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>spinPrefix</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>spinSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>directPrefix</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>directSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>123</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Выбор</translation>
+        <translation>Выбор</translation>
     </message>
     <message>
         <source>Condition Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделить условие</translation>
     </message>
     <message>
         <source>Cells subjected to the following conditions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ячейки для выполнения следующих условий</translation>
     </message>
     <message>
         <source>Keep the cell to its former setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить предыдущие параметры ячейки</translation>
     </message>
     <message>
         <source>Display the following effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать результат операции</translation>
     </message>
 </context>
 <context>
@@ -2078,7 +2078,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>headerfooter</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2915,70 +2915,70 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgHeaderFooterWidget</name>
     <message>
         <source>input</source>
-        <translation type="unfinished">ввод</translation>
+        <translation>ввод</translation>
     </message>
     <message>
         <source>To format text: select the text, then click the font button.</source>
-        <translation type="unfinished">Для форматирования текста выделите текст и затем нажмите кнопку шрифта.</translation>
+        <translation>Для форматирования текста выделите текст и затем нажмите кнопку шрифта.</translation>
     </message>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
 box, then choose the appropriate button.</source>
-        <translation type="unfinished">Чтобы вставить номер страницы, дату, время, имя файла: поместите курсор в поле ввода 
+        <translation>Чтобы вставить номер страницы, дату, время, имя файла: поместите курсор в поле ввода 
 и выберите соответствующую кнопку.</translation>
     </message>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation type="unfinished">Чтобы вставить изображение: нажмите кнопку &quot;Вставить изображение&quot;. Чтобы отформатировать изображение, поместите курсор в поле ввода и нажмите кнопку &quot;Формат изображения&quot;.</translation>
+        <translation>Чтобы вставить изображение: нажмите кнопку &quot;Вставить изображение&quot;. Чтобы отформатировать изображение, поместите курсор в поле ввода и нажмите кнопку &quot;Формат изображения&quot;.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished">Шрифт</translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished">Номер страницы</translation>
+        <translation>Номер страницы</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished">Количество страниц</translation>
+        <translation>Количество страниц</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Дата</translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished">Время</translation>
+        <translation>Время</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation type="unfinished">Имя листа</translation>
+        <translation>Имя листа</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished">Вставить изображение</translation>
+        <translation>Вставить изображение</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished">Исходные параметры изображения</translation>
+        <translation>Исходные параметры изображения</translation>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation type="unfinished">&amp;Левый раздел:</translation>
+        <translation>&amp;Левый раздел:</translation>
     </message>
     <message>
         <source>&amp;Center section:</source>
-        <translation type="unfinished">&amp;Центральный раздел:</translation>
+        <translation>&amp;Центральный раздел:</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
-        <translation type="unfinished">&amp;Правый раздел:</translation>
+        <translation>&amp;Правый раздел:</translation>
     </message>
 </context>
 <context>
@@ -3935,35 +3935,35 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Показывать окна на панели задач</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог данн&amp;ых для автовосстановления:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Обзор...</translation>
+        <translation>&amp;Обзор...</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка &quot;Дополнительно&quot; позволяет выбрать из различных типов шифрования.</translation>
     </message>
     <message>
         <source>SaveAsCreateBackup</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как с резервным копированием</translation>
     </message>
     <message>
         <source>Create&amp;Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать &amp;резервную копию</translation>
     </message>
     <message>
         <source>RecommendedReadOnlyOption</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр Рекомендуемо только для чтения</translation>
     </message>
     <message>
         <source>&amp;RecommendedReadOnly</source>
-        <translation type="unfinished"></translation>
+        <translation>Рекомендуемо только для &amp;чтения</translation>
     </message>
 </context>
 <context>
@@ -4226,19 +4226,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Different odd and even pages</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Разные чётные и нечётные страницы</translation>
     </message>
     <message>
         <source>D&amp;ifferent first page</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Особый колонтитул для первой страницы</translation>
     </message>
     <message>
         <source>Sca&amp;le with document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Изменять масштаб вместе с документом</translation>
     </message>
     <message>
         <source>Align with page &amp;margins</source>
-        <translation type="unfinished"></translation>
+        <translation>В&amp;ыровнять относительно полей страницы</translation>
     </message>
 </context>
 <context>
@@ -4550,7 +4550,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Entire Wor&amp;kbook</source>
-        <translation type="unfinished"></translation>
+        <translation>Вся к&amp;нига</translation>
     </message>
 </context>
 <context>
@@ -5900,7 +5900,7 @@ If this is correct, choose Next, or choose the data type that best describes you
     </message>
     <message>
         <source>Edit Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение запроса</translation>
     </message>
 </context>
 <context>
@@ -6211,19 +6211,19 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtMacroErrorDlg</name>
     <message>
         <source>Macro Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка макроса</translation>
     </message>
     <message>
         <source>H&amp;alt</source>
-        <translation type="unfinished"></translation>
+        <translation>С&amp;топ</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished">&amp;Продолжить</translation>
+        <translation>&amp;Продолжить</translation>
     </message>
     <message>
         <source>&amp;Goto</source>
-        <translation type="unfinished">&amp;Перейти на</translation>
+        <translation>Перейти &amp;на</translation>
     </message>
 </context>
 <context>
@@ -6248,67 +6248,67 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxEtPermissionInformationDlg</name>
     <message>
         <source>My Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Мои разрешения</translation>
     </message>
     <message>
         <source>You are currently authenticated to view this document as:	</source>
-        <translation type="unfinished"></translation>
+        <translation>В настоящее время вы имеете разрения на просмотр документа как: 	</translation>
     </message>
     <message>
         <source>userName</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Change user...</source>
-        <translation type="unfinished"></translation>
+        <translation>Поменять пользователя...</translation>
     </message>
     <message>
         <source>You have the following permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас есть следующие разрешения:</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Вид</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирование</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Печать</translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Сохранить</translation>
+        <translation>Сохранение</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт</translation>
     </message>
     <message>
         <source>Access the document programmatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Программный доступ к документу</translation>
     </message>
     <message>
         <source>Full Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Полный доступ</translation>
     </message>
     <message>
         <source>Permission expiration date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата окончания срока действия разрешения:</translation>
     </message>
     <message>
         <source>(N/A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Н/Д)</translation>
     </message>
     <message>
         <source>Resquest additional permissions... </source>
-        <translation type="unfinished"></translation>
+        <translation>Запрос дополнительных разрешений...</translation>
     </message>
 </context>
 <context>
@@ -7041,105 +7041,105 @@ on iteration #%2.</source>
     <name>KxHeaderFooterDlg</name>
     <message>
         <source>Header</source>
-        <translation type="unfinished">Верхний колонтитул</translation>
+        <translation>Верхний колонтитул</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished">Нижний колонтитул</translation>
+        <translation>Нижний колонтитул</translation>
     </message>
     <message>
         <source>Odd Page %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Нечётная страница %1</translation>
     </message>
     <message>
         <source>Even Page %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Чётная страница %1</translation>
     </message>
     <message>
         <source>First Page %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Первая страница %1</translation>
     </message>
 </context>
 <context>
     <name>KxHeaderFooterWidget</name>
     <message>
         <source>File</source>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished">Номер страницы</translation>
+        <translation>Номер страницы</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished">Количество страниц</translation>
+        <translation>Количество страниц</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Дата</translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished">Время</translation>
+        <translation>Время</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation type="unfinished">Имя листа</translation>
+        <translation>Имя листа</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished">Изображение</translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>&amp;[%1]</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Открыть</translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished">Все изображения</translation>
+        <translation>Все изображения</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished">Метафайл Windows (EMF)</translation>
+        <translation>Метафайл Windows (EMF)</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished">Метафайл Windows</translation>
+        <translation>Метафайл Windows</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished">Формат JPEG</translation>
+        <translation>Формат JPEG</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished">Формат PNG</translation>
+        <translation>Формат PNG</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation type="unfinished">Точечный рисунок Windows (BMP)</translation>
+        <translation>Точечный рисунок Windows (BMP)</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished">Формат GIF</translation>
+        <translation>Формат GIF</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished">Формат TIFF</translation>
+        <translation>Формат TIFF</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation type="unfinished">Длина колонтитула не должна превышать 255 знаков, включая элементы форматирования и другие специальные символы. Удалите часть текста или упростите форматирование.</translation>
+        <translation>Длина колонтитула не должна превышать 255 знаков, включая элементы форматирования и другие специальные символы. Удалите часть текста или упростите форматирование.</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
 
 To replace existing picture, press OK.
 To keep existing picture, press Cancel.</source>
-        <translation type="unfinished">Только одно изображение может быть вставлено в каждом разделе %1. 
+        <translation>Только одно изображение может быть вставлено в каждом разделе %1. 
 
 Чтобы заменить существующее изображение, нажмите &quot;ОК&quot;;
 Чтобы сохранить существующее изображение, нажмите &quot;Отменить&quot;.</translation>
@@ -7526,15 +7526,15 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет разрешения на запись файлов резервных копий в &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимый каталог&quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать папку:</translation>
     </message>
 </context>
 <context>
@@ -8593,7 +8593,7 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     <name>KxUpdateExternalLinkDlg</name>
     <message>
         <source>SpreadSheets</source>
-        <translation type="unfinished"></translation>
+        <translation>Электронные таблицы</translation>
     </message>
     <message>
         <source>There are links to other data sources in this workbook.
@@ -8602,15 +8602,20 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
 •If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
 
 Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта книга содержит ссылки на другие источники данных.
+
+• В случае обновления ссылок WPS попытается извлечь последние данные.
+• Если ссылки не будут обновлены, WPS будет использовать предыдущие данные.
+
+Обратите внимание, что ссылки данных могут быть использованы для доступа к конфиденциальным данным и их распространения без вашего разрешения, а также выполнения других потенциально опасных действий. Не обновляйте ссылки, если вы не доверяете источнику.</translation>
     </message>
     <message>
         <source>&amp;Update</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Обновить</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Update</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Не обновлять</translation>
     </message>
 </context>
 <context>
@@ -8680,107 +8685,107 @@ You may still need to manually update any references to this name used in VBA co
     <name>KxValidationDlg</name>
     <message>
         <source>&amp;Minimum:</source>
-        <translation type="unfinished">&amp;Минимум:</translation>
+        <translation>&amp;Минимум:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation type="unfinished">Ма&amp;ксимум:</translation>
+        <translation>Ма&amp;ксимум:</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation type="unfinished">&amp;Источник:</translation>
+        <translation>&amp;Источник:</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation type="unfinished">&amp;Дата начала:</translation>
+        <translation>&amp;Дата начала:</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation type="unfinished">Дата о&amp;кончания:</translation>
+        <translation>Дата о&amp;кончания:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
-        <translation type="unfinished">&amp;Время начала:</translation>
+        <translation>&amp;Время начала:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
-        <translation type="unfinished">Время окон&amp;чания:</translation>
+        <translation>Время окон&amp;чания:</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation type="unfinished">&amp;Формула:</translation>
+        <translation>&amp;Формула:</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation type="unfinished">&amp;Значение:</translation>
+        <translation>&amp;Значение:</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation type="unfinished">&amp;Время:</translation>
+        <translation>&amp;Время:</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
-        <translation type="unfinished">Да&amp;та:</translation>
+        <translation>Да&amp;та:</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation type="unfinished">Необходимо ввести максимум и минимум.</translation>
+        <translation>Необходимо ввести максимум и минимум.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation type="unfinished">Необходимо ввести значение.</translation>
+        <translation>Необходимо ввести значение.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation type="unfinished">Необходимо ввести минимум.</translation>
+        <translation>Необходимо ввести минимум.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation type="unfinished">Необходимо ввести максимум.</translation>
+        <translation>Необходимо ввести максимум.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation type="unfinished">Необходимо ввести источник.</translation>
+        <translation>Необходимо ввести источник.</translation>
     </message>
     <message>
         <source>The Formula cannot be longer than 255 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Формула не может содержать более 255 символов.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation type="unfinished">Необходимо ввести дату.</translation>
+        <translation>Необходимо ввести дату.</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
-        <translation type="unfinished">Необходимо ввести дату начала и окончания.</translation>
+        <translation>Необходимо ввести дату начала и окончания.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
-        <translation type="unfinished">Необходимо ввести дату окончания.</translation>
+        <translation>Необходимо ввести дату окончания.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
-        <translation type="unfinished">Необходимо ввести дату начала.</translation>
+        <translation>Необходимо ввести дату начала.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
-        <translation type="unfinished">Необходимо ввести время начала и окончания.</translation>
+        <translation>Необходимо ввести время начала и окончания.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation type="unfinished">Необходимо ввести время.</translation>
+        <translation>Необходимо ввести время.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
-        <translation type="unfinished">Необходимо ввести время начала.</translation>
+        <translation>Необходимо ввести время начала.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
-        <translation type="unfinished">Необходимо ввести время окончания.</translation>
+        <translation>Необходимо ввести время окончания.</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
-        <translation type="unfinished">Необходимо ввести формулу.</translation>
+        <translation>Необходимо ввести формулу.</translation>
     </message>
 </context>
 <context>

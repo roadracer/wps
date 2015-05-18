@@ -142,7 +142,7 @@
     </message>
     <message>
         <source>Aqua</source>
-        <translation>Аква</translation>
+        <translation>Темно-бирюзовый</translation>
     </message>
     <message>
         <source>Lazulite</source>
@@ -2785,79 +2785,79 @@ use buttons to apply borders</source>
     <name>KxDlgDocumentFields</name>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле документа</translation>
     </message>
     <message>
         <source>DocumentField Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя поля документа</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished">&amp;Вставить</translation>
+        <translation>&amp;Вставить</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished">&amp;Переименовать</translation>
+        <translation>&amp;Переименовать</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished">&amp;Перейти на</translation>
+        <translation>Перейти &amp;на</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Удалить</translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>&amp;Marks Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Только &amp;метки</translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="unfinished">Сортировать по:</translation>
+        <translation>Сортировать по:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">&amp;Имя</translation>
+        <translation>&amp;Имя</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished">&amp;Положение</translation>
+        <translation>&amp;Положение</translation>
     </message>
     <message>
         <source>DocumentField Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства поля документа</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished">Скрыты&amp;й</translation>
+        <translation>Скрыты&amp;й</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Печать</translation>
     </message>
     <message>
         <source>Read &amp;Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Только &amp;чтение</translation>
     </message>
     <message>
         <source>&amp;Apply All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Применить ко всем</translation>
     </message>
     <message>
         <source>Insertion Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим вставки</translation>
     </message>
     <message>
         <source>When inserted at beginning and end, then counted in. </source>
-        <translation type="unfinished"></translation>
+        <translation>Добавляются в начале и конце, а затем подсчитываются.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -3390,7 +3390,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Add the &amp;path to the file name</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить &amp;путь к имени файла</translation>
     </message>
 </context>
 <context>
@@ -5345,7 +5345,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>D&amp;rag-and-drop text editing</source>
-        <translation>Разрешить &amp;перетаскивание текста при редактировании</translation>
+        <translation>Разрешить пере&amp;таскивание текста при редактировании</translation>
     </message>
     <message>
         <source>Auto load default language &amp;IME</source>
@@ -6379,35 +6379,35 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Показывать окна на панели задач</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог данн&amp;ых для автовосстановления:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">Об&amp;зор...</translation>
+        <translation>Об&amp;зор...</translation>
     </message>
     <message>
         <source>Password protect</source>
-        <translation type="unfinished"></translation>
+        <translation>Защита паролем</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка &quot;Дополнительно&quot; позволяет выбрать из различных типов шифрования.</translation>
     </message>
     <message>
         <source>File encryption options for this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры шифрования файла для данного документа:</translation>
     </message>
     <message>
         <source>File sharing options for this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки совместного использования для данного документа:</translation>
     </message>
     <message>
         <source>D&amp;ocument fields</source>
-        <translation type="unfinished"></translation>
+        <translation>По&amp;ля документа</translation>
     </message>
 </context>
 <context>
@@ -8128,147 +8128,147 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Field name record delimiter</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя поля разделителя записей</translation>
     </message>
     <message>
         <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для разделения полей данных используются определённые символы (так называемые &quot;разделители&quot;). Записи данных отделяются друг от друга разделителями записи. Используйте следующий список для выбора соответствующего разделителя.</translation>
     </message>
     <message>
         <source>Field delimiter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Разделитель полей:</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Нет)</translation>
     </message>
     <message>
         <source>(Paragraph mark)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Знак абзаца)</translation>
     </message>
     <message>
         <source>(Tabs)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Табуляция)</translation>
     </message>
     <message>
         <source>,</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>!</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>#</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>$</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>(</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>=</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>?</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>@</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>[</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>]</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>^</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>_</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>`</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>{</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>}</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>|</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>~</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Record delimiter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Разделитель записей:</translation>
     </message>
 </context>
 <context>
@@ -8376,23 +8376,23 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxDocumentFieldsDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>The document field with this name has already existed. Do you want to cover it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле документа с таким именем уже существует. Перезаписать?</translation>
     </message>
     <message>
         <source>The name of the document field is illegal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильное имя поля документа.</translation>
     </message>
     <message>
         <source>The name of the document field has already existed, please rename it!</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя поля документа уже существует. Выберите другое имя документа.</translation>
     </message>
 </context>
 <context>
@@ -8852,63 +8852,63 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>root directory</source>
-        <translation type="unfinished"></translation>
+        <translation>корневой каталог</translation>
     </message>
     <message>
         <source>D:\\</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>D drive</source>
-        <translation type="unfinished"></translation>
+        <translation>Диск D</translation>
     </message>
     <message>
         <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
-        <translation type="unfinished"></translation>
+        <translation>если KingSoft.wps находится на %1, то код поля: HYPERLINK %2KingSoft.wps</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>открыть и активировать файл KingSoft.wps на %1.</translation>
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Пусть ссылка на изображение это:&quot;%1WPS.jpg&quot;.Код поля:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</translation>
     </message>
     <message>
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Пусть ссылка на файл это:&quot;%1wps.doc&quot;.Код поля:INCLUDETEXT &quot;%2wps.doc&quot;</translation>
     </message>
     <message>
         <source>IncludeText</source>
-        <translation type="unfinished"></translation>
+        <translation>Включенный текст</translation>
     </message>
     <message>
         <source>Insert text to from a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставка текста из файла</translation>
     </message>
     <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
-        <translation type="unfinished"></translation>
+        <translation>Пусть имя файла документа:&quot;Doc1.doc&quot;.Код поля: FILENAME</translation>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя файла</translation>
     </message>
     <message>
         <source>Insert the file name of the document</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить имя файла документа</translation>
     </message>
     <message>
         <source>Forma&amp;t:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Формат:</translation>
     </message>
     <message>
         <source>Document &amp;property:</source>
-        <translation type="unfinished">&amp;Свойство документа:</translation>
+        <translation>&amp;Свойство документа:</translation>
     </message>
 </context>
 <context>
@@ -10679,11 +10679,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас нет разрешения на запись файлов в &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильный каталог&quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -11334,7 +11334,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Restrict permission...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ограничить разрешение...</translation>
     </message>
 </context>
 <context>
@@ -11472,7 +11472,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Restrict permission...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ограничить разрешение...</translation>
     </message>
 </context>
 <context>
@@ -11684,7 +11684,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsApplication</name>
     <message>
         <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
-        <translation type="unfinished">Вставленное изображение отображается не полностью. Хотите настраивать межстрочный интервал автоматически в зависимости от размера изображения?</translation>
+        <translation>Вставленное изображение отображается не полностью. Хотите настраивать межстрочный интервал автоматически в зависимости от размера изображения?</translation>
     </message>
 </context>
 <context>
@@ -12580,7 +12580,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>Field delimiter and record delimiter cannot be same.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя поля разделителя и разделителя записей должны отличаться.</translation>
     </message>
 </context>
 <context>
@@ -13056,67 +13056,67 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsPermissionInformationDlg</name>
     <message>
         <source>My Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Мои разрешения</translation>
     </message>
     <message>
         <source>You are currently authenticated to view this document as:	</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы имеете разрешение на просмотр данного документа как:	</translation>
     </message>
     <message>
         <source>userName</source>
-        <translation type="unfinished"></translation>
+        <translation>имя пользователя</translation>
     </message>
     <message>
         <source>Change user...</source>
-        <translation type="unfinished"></translation>
+        <translation>Поменять имя пользователя...</translation>
     </message>
     <message>
         <source>You have the following permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы имеете следующие разрешения:</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Вид</translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Редактирование</translation>
+        <translation>Редактирование</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирование</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Печать</translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Сохранение</translation>
+        <translation>Сохранение</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт</translation>
     </message>
     <message>
         <source>Access the document programmatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Программный доступ к документу</translation>
     </message>
     <message>
         <source>Full Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Полный доступ</translation>
     </message>
     <message>
         <source>Permission expiration date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата окончания срока действия разрешения:</translation>
     </message>
     <message>
         <source>(N/A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Н/Д)</translation>
     </message>
     <message>
         <source>Resquest additional permissions... </source>
-        <translation type="unfinished"></translation>
+        <translation>Запрос дополнительных разрешений...</translation>
     </message>
 </context>
 <context>
@@ -13181,7 +13181,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>You cannot record a macro to a locked file</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно записать макрос в заблокированный файл</translation>
     </message>
 </context>
 <context>
@@ -13195,27 +13195,27 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsReviewPane</name>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Область рецензирования</translation>
     </message>
     <message>
         <source>Insertions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставки: %1</translation>
     </message>
     <message>
         <source>Deletions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаления: %1</translation>
     </message>
     <message>
         <source>Formatting: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматирование: %1</translation>
     </message>
     <message>
         <source>Comments: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Примечания: %1</translation>
     </message>
     <message>
         <source>Revision: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Редакция: %1</translation>
     </message>
 </context>
 <context>
@@ -13752,11 +13752,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsWrapTextWidget</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Layout options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры макета</translation>
     </message>
 </context>
 <context>
