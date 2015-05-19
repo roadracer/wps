@@ -1412,7 +1412,7 @@ Center</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Снимок экрана</translation>
+        <translation>Прикрепить</translation>
     </message>
 </context>
 <context>
@@ -2979,7 +2979,7 @@ Window</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Изменить учетную запись</translation>
+        <translation>Изменить учётную запись</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -3485,7 +3485,7 @@ Window</source>
     </message>
     <message>
         <source>Switch User</source>
-        <translation type="obsolete">Сменить имя пользователя</translation>
+        <translation type="obsolete">Сменить пользователя</translation>
     </message>
     <message>
         <source>Switch account</source>
@@ -10144,7 +10144,7 @@ COM</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Снимок экрана</translation>
+        <translation>Прикрепить</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -14740,7 +14740,7 @@ Color</source>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation>Рабочее пространство</translation>
+        <translation>Лаборатория</translation>
     </message>
     <message>
         <source>Login</source>
