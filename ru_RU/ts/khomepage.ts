@@ -52,7 +52,7 @@
     <message>
         <source>Online Templates Pro</source>
         <comment>title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны из Интернета профессиональная версия</translation>
     </message>
 </context>
 </TS>

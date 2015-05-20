@@ -2496,7 +2496,9 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно сохранить или создать данный файл.
+Убедитесь, что файл не заблокирован другим пользователем, есть место на диске и диск не повреждён.
+(%s)</translation>
     </message>
 </context>
 <context>
@@ -6582,88 +6584,89 @@ Check</source>
     <message>
         <source>Involved Template</source>
         <comment>WpINVOLVEDTEMPLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Используемый шаблон</translation>
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>WpMsgBackupToDef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ошибки резервного копирования! Возможно, потому, что нет разрешения на запись в каталог резервного копирования. Измените каталог для резервного копирования.
+Резервная копия будет сохранена в (%s)</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>WpDescAll</comment>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы (*.*)</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
         <comment>WpDescCommon</comment>
-        <translation type="unfinished"></translation>
+        <translation>Общие файлы(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</translation>
     </message>
     <message>
         <source>WPS Presentation Files(*.dps)</source>
         <comment>WpDescWPP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Файлы WPS Presentation(*.dps)</translation>
     </message>
     <message>
         <source>WPS Presentation Templates(*.dpt)</source>
         <comment>WpDescWPPTemp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны WPS Presentation(*.dpt)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
         <comment>WpDescPptPps</comment>
-        <translation type="unfinished"></translation>
+        <translation>Презентации Microsoft PowerPoint 97/2000/XP/2003(*.ppt; *.pps)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
         <comment>WpDescPpt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Презентации Microsoft PowerPoint 97/2000/XP/2003(*.ppt)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
         <comment>WpDescPps</comment>
-        <translation type="unfinished"></translation>
+        <translation>Файлы просмотра презентаций Microsoft PowerPoint 97/2000/XP/2003(*.pps)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
         <comment>WpDescPptTemp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны презентаций Microsoft PowerPoint 97/2000/XP/2003(*.pot)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
         <comment>WpDescPptx</comment>
-        <translation type="unfinished"></translation>
+        <translation>Презентации Microsoft PowerPoint 2007/2010(*.pptx; *.ppsx)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
         <comment>WpDescUOF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Документ китайской версии офиса(*.uof)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uop)</source>
         <comment>WpDescUOF2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Документ китайской версии офиса 2.0(*.uop)</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)</source>
         <comment>WpDescJPEG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Изображение JPEG(*.jpg)</translation>
     </message>
     <message>
         <source>PNG Portable Network Graphics Format(*.png)</source>
         <comment>WpDescPNG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Изображение PNG(*.png)</translation>
     </message>
     <message>
         <source>TIFF Tag Image File Format(*.tif)</source>
         <comment>WpDescTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Изображение TIFF(*.tif)</translation>
     </message>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Изображение DIB(*.bmp)</translation>
     </message>
 </context>
 </TS>

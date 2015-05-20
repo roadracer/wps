@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить оформление</translation>
     </message>
 </context>
 <context>
@@ -272,23 +272,23 @@
     <name>DlgKxInvolvedTemplate</name>
     <message>
         <source>Involved Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Используемый шаблон</translation>
     </message>
     <message>
         <source>Select Involved Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать используемый шаблон</translation>
     </message>
     <message>
         <source>Apply Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить текущий</translation>
     </message>
     <message>
         <source>Apply All</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить ко всем</translation>
     </message>
     <message>
         <source>Apply Master</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить образец</translation>
     </message>
 </context>
 <context>
@@ -1183,21 +1183,23 @@ the presentation file directly.You can put it with the presentation file in the 
     <name>KxDlgEmbedPrivateFonts</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Диалог</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка текста</translation>
     </message>
     <message>
         <source>Application documents online font, if your document needs circulated others, 
 we recommend that you saved earlier document fonts. 
 If necessary, click Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>В приложении используются шрифты из Интернета. Если планируется распространение документа,
+рекомендуется перед этим сохранить шрифты документа.
+При необходимости, нажмите кнопку &quot;Отменить&quot;.</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation type="unfinished"></translation>
+        <translation>Не напоминать больше.</translation>
     </message>
 </context>
 <context>
@@ -1902,27 +1904,27 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Показывать окна на панели задач</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог данн&amp;ых для автовосстановления:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">&amp;Обзор...</translation>
+        <translation>&amp;Обзор...</translation>
     </message>
     <message>
         <source>Remind &amp;Me When Save</source>
-        <translation type="unfinished"></translation>
+        <translation>На&amp;помнить при сохранении</translation>
     </message>
     <message>
         <source>Password protect</source>
-        <translation type="unfinished"></translation>
+        <translation>Защита паролем</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка &quot;Дополнительно&quot; позволяет выбрать из различных типов шифрования.</translation>
     </message>
 </context>
 <context>
@@ -2909,14 +2911,14 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxInvolvedTemplateDlg</name>
     <message>
         <source>Blank Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Новое оформление</translation>
     </message>
 </context>
 <context>
     <name>KxInvolvedTemplateView</name>
     <message>
         <source>Use Blank Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый шаблон</translation>
     </message>
 </context>
 <context>
@@ -2997,15 +2999,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отстутсвует разрешение на запись файлов резервных копий в &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимый каталог &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Select Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать папку:</translation>
     </message>
 </context>
 <context>
@@ -3378,7 +3380,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Смена слайдов</translation>
     </message>
 </context>
 <context>
