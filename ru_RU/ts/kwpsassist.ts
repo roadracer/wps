@@ -6,51 +6,51 @@
     <name>KTemplateDetailHeaderButton</name>
     <message>
         <source>back</source>
-        <translation type="unfinished"></translation>
+        <translation>назад</translation>
     </message>
 </context>
 <context>
     <name>KTemplateDlgBottom</name>
     <message>
         <source>blank document</source>
-        <translation type="unfinished"></translation>
+        <translation>новый документ</translation>
     </message>
     <message>
         <source>from template</source>
-        <translation type="unfinished"></translation>
+        <translation>на шаблоне</translation>
     </message>
 </context>
 <context>
     <name>KTemplateDlgDetailHeader</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать</translation>
     </message>
 </context>
 <context>
     <name>KTemplateDlgHeader</name>
     <message>
         <source>standard</source>
-        <translation type="unfinished"></translation>
+        <translation>стандартный</translation>
     </message>
     <message>
         <source>widescreen</source>
-        <translation type="unfinished"></translation>
+        <translation>широкоэкранный</translation>
     </message>
     <message>
         <source>classify</source>
-        <translation type="unfinished"></translation>
+        <translation>классификация</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать</translation>
     </message>
 </context>
 <context>
     <name>KWpsAssistMagicOnTabbarCommand</name>
     <message>
         <source>magic tooltip</source>
-        <translation type="unfinished"></translation>
+        <translation>волшебная подсказка</translation>
     </message>
 </context>
 </TS>

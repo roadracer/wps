@@ -6,73 +6,73 @@
     <name>KxItemWebView</name>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Разблокировать элемент списка.</translation>
     </message>
     <message>
         <source>Reached the maximum number of items locked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Достигнуто максимальное количество закреплённых элементов.</translation>
     </message>
     <message>
         <source>Lock this item to the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрпить элемент списка.</translation>
     </message>
     <message>
         <source>Click to enlarge preview item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните для увеличения элемента просмотра.</translation>
     </message>
     <message>
         <source>Click to show additional options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните для показа дополнительных параметров.</translation>
     </message>
 </context>
 <context>
     <name>KxTpClipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Буфер обмена</translation>
     </message>
     <message>
         <source>Click to Paste:</source>
-        <translation type="unfinished"></translation>
+        <translation>Щёлкните для вставки:</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметр</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить все</translation>
     </message>
 </context>
 <context>
     <name>KxTpClipboardPanel</name>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Вставить</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>Show Clipboard &amp;Automatically When Copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать буфер обмена &amp;автоматически при копировании</translation>
     </message>
     <message>
         <source>Press Ctrl+C Twice to Show Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Для показа буфера обмена дважды нажмите Ctrl+C</translation>
     </message>
     <message>
         <source>&amp;Collect Data Without Showing Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сбор данных без показа буфера обмена</translation>
     </message>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Разблокировать элемент списка.</translation>
     </message>
     <message>
         <source>Lock this item to the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрпить элемент списка.</translation>
     </message>
 </context>
 </TS>
