@@ -227,15 +227,15 @@
     </message>
     <message>
         <source>DownLoad Online Fonts &quot;%1&quot; Successful(Restart to take effect)</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка шрифтов из Интернета &quot;%1&quot; завершена успешно (необходима перезагрузка)</translation>
     </message>
     <message>
         <source>Online font downloading,click font list see more detail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка шрифта из Интернета. Щёлкните список шрифтов для подробностей.</translation>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменения макета вступят в силу после перезапуска или выхода и входа в систему</translation>
     </message>
 </context>
 <context>
@@ -388,7 +388,7 @@
     </message>
     <message>
         <source>FileName or PathName is longger than 218 chars!</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя файла или путь длиннее 218-ти символов!</translation>
     </message>
 </context>
 <context>
@@ -592,15 +592,15 @@
     <name>KRepeatableInputPasswordDlg</name>
     <message>
         <source>Enter password to open file</source>
-        <translation type="unfinished">Введите пароль для открытия файла</translation>
+        <translation>Введите пароль для открытия файла</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Пароль</translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <source>Password error, try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка ввода пароля. Попробуйте повторить.</translation>
     </message>
 </context>
 <context>
@@ -1109,45 +1109,47 @@
     <name>KxAddRestrictUserDlg</name>
     <message>
         <source>Add Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить пользователей</translation>
     </message>
     <message>
         <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
 Separate names with a semicolon(;).
 To select names from the Address book, click the Read or Change button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите адреса электронной почты пользователей в поля &quot;Чтение&quot; и &quot;Изменение&quot; (например &quot;proverka@example.com&quot;). 
+Разделяйте имена точкой с запятой (;). 
+Чтобы выбрать имена из адресной книги, нажмите кнопку &quot;Чтение&quot; или &quot;Изменение&quot;.</translation>
     </message>
     <message>
         <source>Add users from the Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить пользователей из адресной книги</translation>
     </message>
     <message>
         <source>Read...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение...</translation>
     </message>
     <message>
         <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользователи с правом на чтение могут читать этот файл, но не могут изменять, печатать и копировать его содержимое.</translation>
     </message>
     <message>
         <source>Give all users Read Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Дать всем пользователям право на чтение</translation>
     </message>
     <message>
         <source>PI</source>
-        <translation type="unfinished"></translation>
+        <translation>ПК</translation>
     </message>
     <message>
         <source>Change...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить...</translation>
     </message>
     <message>
         <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользователи с правом на изменение могут читать, изменять и сохранять изменения в этом файле, но не могут печатать содержимое.</translation>
     </message>
     <message>
         <source>Give all users Change Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Дать всем пользователям право на изменение</translation>
     </message>
 </context>
 <context>
@@ -1358,26 +1360,26 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxCroppingScalesGalleryModel</name>
     <message>
         <source>CroppingScale_Free</source>
-        <translation type="unfinished"></translation>
+        <translation>МасштабОбрезки_Любой</translation>
     </message>
     <message>
         <source>CroppingScale_Square</source>
-        <translation type="unfinished"></translation>
+        <translation>МасштабОбрезки_Квадрат</translation>
     </message>
     <message>
         <source>CroppingScale_Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>МасштабОбрезки_Горизонтально</translation>
     </message>
     <message>
         <source>CroppingScale_Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>МасштабОбрезки_Вертикально</translation>
     </message>
 </context>
 <context>
     <name>KxCroppingScalesGalleryModelItem</name>
     <message>
         <source>CroppingScale_Free</source>
-        <translation type="unfinished"></translation>
+        <translation>МасштабОбрезки_Любой</translation>
     </message>
 </context>
 <context>
@@ -1879,15 +1881,15 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgFileFmtSupport</name>
     <message>
         <source>WPS FileFormat Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Подверджение формата файла WPS</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждение</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -2187,23 +2189,23 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgHttpAuthentication</name>
     <message>
         <source>Http authentication required</source>
-        <translation type="unfinished"></translation>
+        <translation>Требуется проверка подлинности по http</translation>
     </message>
     <message>
         <source>Connect to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключить:</translation>
     </message>
     <message>
         <source>Please supply a Username and a Password!</source>
-        <translation type="unfinished"></translation>
+        <translation>Укажите имя пользователя и пароль!</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя пользователя:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль:</translation>
     </message>
 </context>
 <context>
@@ -2429,7 +2431,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>pushButton</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2545,23 +2547,24 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxDlgSelectUser</name>
     <message>
         <source>Select User</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор пользователя</translation>
     </message>
     <message>
         <source>&amp;Select one of the following user accounts to create or open content with restricted permission.To use an account not listed below,click Add.</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Выберите одну из следующих учетных записей для создания или открытия содержимого с ограничением разрешений.
+Если учётной записи нет в списке. нажмите кнопку &quot;Добавить&quot;.</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished">&amp;Добавить...</translation>
+        <translation>&amp;Добавить...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Удалить</translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>A&amp;lways use this account</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Всегда использовать эту учетную запись</translation>
     </message>
 </context>
 <context>
@@ -2977,23 +2980,23 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxFontsGalleryRecommendTip</name>
     <message>
         <source>See details</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробнее</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>В документе используются шрифты &quot;%1&quot; из облачного сервиса. Для облегчения работы скачайте шрифты на ваш компьютер.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>В документе используются шрифты &quot;%1&quot; и &quot;%2&quot; из облачного сервиса. Для облегчения работы скачайте шрифты на ваш компьютер.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>В документе используются шрифты &quot;%1&quot;, &quot;%2&quot; и &quot;%3&quot; из облачного сервиса. Для облегчения работы скачайте шрифты на ваш компьютер.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
-        <translation type="unfinished"></translation>
+        <translation>В документе используются шрифты &quot;%1&quot;, &quot;%2&quot;, &quot;%3&quot; и др. из облачного сервиса. Для облегчения работы скачайте шрифты на ваш компьютер.</translation>
     </message>
 </context>
 <context>
@@ -3023,7 +3026,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxGalleryRecommendFontItem</name>
     <message>
         <source>(Pay)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Заплатить)</translation>
     </message>
 </context>
 <context>
@@ -3196,11 +3199,11 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxLoadingRMSDlg</name>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Verifying your logon information for opening content with restricted permission...</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка ваших данных для входа в систему на открытие содержимого с ограничением разрешений ...</translation>
     </message>
 </context>
 <context>
@@ -3307,50 +3310,50 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Please enter an e-mail address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите адрес электронной почты!</translation>
     </message>
     <message>
         <source>E-mail addresses are not compliant!</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильные адреса электронной почты!</translation>
     </message>
     <message>
         <source>[User feedback] Version:%1--%2</source>
-        <translation type="unfinished"></translation>
+        <translation>[Отзывы пользователей] Версия:%1 -%2</translation>
     </message>
     <message>
         <source>Dear users,</source>
-        <translation type="unfinished"></translation>
+        <translation>Уважаемые пользователи,</translation>
     </message>
     <message>
         <source>The following content has been automatically filled in the absence of complement, can be sent directly to this email, Thank you for your feedback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующее отсуствующее содержание было автоматически заполнено (и может быть направлено на данный электронный адрес). Благодарим Вас за отзыв.</translation>
     </message>
     <message>
         <source>Details of problems:</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация об ошибке:</translation>
     </message>
     <message>
         <source>Steps to reproduce the problem:</source>
-        <translation type="unfinished"></translation>
+        <translation>Действия для воспроизведения ошибки:</translation>
     </message>
     <message>
         <source>A detailed description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробное описание:</translation>
     </message>
     <message>
         <source>Phone:</source>
-        <translation type="unfinished"></translation>
+        <translation>Телефон:</translation>
     </message>
     <message>
         <source>E-mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Электронная почта:</translation>
     </message>
 </context>
 <context>
     <name>KxMainWindow</name>
     <message>
         <source>New</source>
-        <translation>Новый</translation>
+        <translation>Создать</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -3362,19 +3365,19 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Close all tabs or current tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть все вкладки или текущую вкладку</translation>
     </message>
     <message>
         <source>Close all</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть все</translation>
     </message>
     <message>
         <source>Close current</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть текущую</translation>
     </message>
     <message>
         <source>cancel Close</source>
-        <translation type="unfinished"></translation>
+        <translation>отменить закрытие</translation>
     </message>
 </context>
 <context>
@@ -3536,57 +3539,57 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>import templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортировать шаблоны</translation>
     </message>
     <message>
         <source>template file</source>
-        <translation type="unfinished"></translation>
+        <translation>файл шаблона</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон Kingsoft Presentation</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон Microsoft PowerPoint 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны Kingsoft Presentation</translation>
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон Microsoft Excel 97/2000/XP/2003</translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFontController</name>
     <message>
         <source>Cloud font reserves to the upper (%1), please go to the &quot;management of cloud font&quot; page for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Шрифты из облачного сервиса до первого (%1). Перейдите на страницу &quot;Управление шрифтами из Интернета&quot; для подробной информации.</translation>
     </message>
     <message>
         <source>View Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотреть</translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFontRecommendDlg</name>
     <message>
         <source>Tip</source>
-        <translation type="unfinished">Подсказка</translation>
+        <translation>Подсказка</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished">Загрузить</translation>
+        <translation>Загрузить</translation>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Завершено</translation>
     </message>
 </context>
 <context>
@@ -3626,15 +3629,16 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
-        <translation type="unfinished"></translation>
+        <translation>Истекает срок действия функции &quot;важный клиент&quot; %1. Продлите срок действия.
+</translation>
     </message>
     <message>
         <source>WPS members enjoy more than 300 cloud font, monthly not regularly updated new font, let your document colorful!</source>
-        <translation type="unfinished"></translation>
+        <translation>Членство WPS предлагает более 300 шрифтов из облачного сервиса, ежемесячное обновление с новыми шрифтами. Сделайте ваш документ запоминающимся!</translation>
     </message>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удается подключиться к серверу, проверьте сетевое подключение.</translation>
     </message>
 </context>
 <context>
@@ -3746,7 +3750,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Downloading fonts, please wait?</source>
-        <translation type="unfinished">Загружаются шрифты, подождите...</translation>
+        <translation>Загружаются шрифты, не прерывать?</translation>
     </message>
     <message>
         <source>All cloud fonts installed.  Please looking forward to more.</source>
@@ -3762,11 +3766,11 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>More Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие шрифты</translation>
     </message>
     <message>
         <source>(Restart to take effect).</source>
-        <translation type="unfinished"></translation>
+        <translation>(Перезагрузить для применения изменений).</translation>
     </message>
 </context>
 <context>
@@ -3841,63 +3845,63 @@ Click the icon to sign in now.</source>
     <name>KxPermissionOptionDlg</name>
     <message>
         <source>Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешения</translation>
     </message>
     <message>
         <source>&amp;Restrict permission to this document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ограничить разрешения для этого документа</translation>
     </message>
     <message>
         <source>The following &amp;users have permission to this document:</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующие &amp;пользователи имеют разрешения для доступа к документу:</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation type="unfinished">&amp;Добавить...</translation>
+        <translation>&amp;Добавить...</translation>
     </message>
     <message>
         <source>Remo&amp;ve</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>Additional permissions for users:</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительные разрешения для пользователей:</translation>
     </message>
     <message>
         <source>This document expires o&amp;n:</source>
-        <translation type="unfinished"></translation>
+        <translation>Срок действия разрешений для документа ис&amp;текает:</translation>
     </message>
     <message>
         <source>Enter date in format: yyyy/M/d</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите дату в формате:yyyy/M/d</translation>
     </message>
     <message>
         <source>&amp;Print content</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Печать содержимого</translation>
     </message>
     <message>
         <source>Allow users with read access to &amp;copy content</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешить пользователям с правом на чтение &amp;копировать содержимое</translation>
     </message>
     <message>
         <source>Access content pr&amp;ogrammatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Пр&amp;ограммный доступ к содержимому</translation>
     </message>
     <message>
         <source>Additional settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительные параметры:</translation>
     </message>
     <message>
         <source>Users can request additonal per&amp;missions from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользователи могут запросить дополнительные &amp;разрешения от:</translation>
     </message>
     <message>
         <source>Re&amp;quire a connection to verify a user&apos;s permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Зап&amp;рос соединения для проверки разрешений пользователя</translation>
     </message>
     <message>
         <source>&amp;Set defaults...</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать по &amp;умолчанию...</translation>
     </message>
 </context>
 <context>
@@ -4309,57 +4313,59 @@ the file may be renamed,deleted or moved the location.</source>
     <name>KxRestrictedAccessDlg</name>
     <message>
         <source>Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешения</translation>
     </message>
     <message>
         <source>&amp;Restrict permission to this document</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ограничить разрешения для этого документа</translation>
     </message>
     <message>
         <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
 Separate names with a semicolon(;).
 To select names from the Address book, click the Read or Change button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите адреса электронной почты пользователей в поля &quot;Чтение&quot; и &quot;Изменение&quot; (например &quot;proverka@example.com&quot;). 
+Разделяйте имена точкой с запятой (;). 
+Чтобы выбрать имена из адресной книги, нажмите кнопку &quot;Чтение&quot; или &quot;Изменение&quot;.</translation>
     </message>
     <message>
         <source>Add users from the Address Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить пользователей из адресной книги</translation>
     </message>
     <message>
         <source>Read...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение...</translation>
     </message>
     <message>
         <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользователи с правом на чтение могут читать этот файл, но не могут изменять, печатать и копировать его содержимое.</translation>
     </message>
     <message>
         <source>Give all users Read Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Дать всем пользователям право на чтение</translation>
     </message>
     <message>
         <source>PI</source>
-        <translation type="unfinished"></translation>
+        <translation>ПК</translation>
     </message>
     <message>
         <source>Change...   </source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение...</translation>
     </message>
     <message>
         <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользователи с правом на изменение могут читать, изменять и сохранять изменения в этом файле, но не могут печатать содержимое.</translation>
     </message>
     <message>
         <source>Give all users Change Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Дать всем пользователям право на изменение</translation>
     </message>
     <message>
         <source>Displays advanced settings dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать диалоговое окно дополнительных параметров</translation>
     </message>
     <message>
         <source> More &amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation> Другие &amp;параметры...</translation>
     </message>
 </context>
 <context>
@@ -4421,7 +4427,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>(custom)</source>
-        <translation type="unfinished"></translation>
+        <translation>(выбрать)</translation>
     </message>
 </context>
 <context>
@@ -4481,7 +4487,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменения макета вступят в силу после перезапуска или выхода и входа в систему</translation>
     </message>
 </context>
 <context>
@@ -4640,7 +4646,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>browse templates location</source>
-        <translation type="unfinished"></translation>
+        <translation>просмотр расположения шаблонов</translation>
     </message>
 </context>
 <context>
@@ -5289,7 +5295,7 @@ of services and features.</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished">Нажать кнопку</translation>
+        <translation>НажатиеКнопки</translation>
     </message>
 </context>
 <context>
@@ -5785,7 +5791,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="unfinished"></translation>
+        <translation>2015 Пекин Kingsoft Office Software Ltd. и Чжухай Kingsoft Office Software Co. Ltd.</translation>
     </message>
 </context>
 <context>

@@ -175,11 +175,11 @@
     </message>
     <message>
         <source>New version is available, Please Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступна новая версия. Обновите приложение.</translation>
     </message>
     <message>
         <source>New version is available, Please Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступна новая версия. Просмотрите, пожалуйста.</translation>
     </message>
 </context>
 <context>
@@ -307,7 +307,7 @@
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -810,7 +810,7 @@ Are you sure to change?</source>
     <name>KLoginUserCenterCommand</name>
     <message>
         <source>You have signed in WPS Office. Click here for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы зарегистрировались в WPS Office. Щёлкните здесь для получения дополнительной информации.</translation>
     </message>
 </context>
 <context>
@@ -938,7 +938,7 @@ path:%3</source>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished">Роуминг файлов</translation>
+        <translation>Роуминг файлов</translation>
     </message>
 </context>
 <context>
@@ -1203,11 +1203,11 @@ path:%3</source>
     <name>KWebviewDialogImpl</name>
     <message>
         <source>Open Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть облачный сервис</translation>
     </message>
     <message>
         <source>Save to Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить в облачном сервисе</translation>
     </message>
 </context>
 <context>
@@ -1275,15 +1275,15 @@ path:%3</source>
     </message>
     <message>
         <source>Your subscription for WPS Office or %1-day trial expries now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Истекает срок действия подписки WPS Office или пробной версии на %1 дней.</translation>
     </message>
     <message>
         <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приложение переключается на бесплатную версию. Некоторые функции могут быть отключены или работать с ограничениями. Рекомендуем приобрести или продлить подписку WPS Office.</translation>
     </message>
     <message>
         <source>Buy/Renew Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Купить или продлить&gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -1352,7 +1352,7 @@ path:%3</source>
     </message>
     <message>
         <source>Please download and install VBA to allow all macros to run if you need. If you have installed VBA, please restart WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для возможности работы с макросами скачайте и установите VBA. После установки VBA перезагрузите WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -1725,7 +1725,7 @@ path:%3</source>
     </message>
     <message>
         <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вы приобрели индивидуальную подписку, войдите для того, чтобы вспользоваться услугой.</translation>
     </message>
 </context>
 <context>
@@ -1827,22 +1827,22 @@ path:%3</source>
     </message>
     <message>
         <source>Please check your network connection and %1try again%2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте сетевое соединение и %1повторите%2.</translation>
     </message>
     <message>
         <source>The server is busy. Please %1try again%2 later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер перегружен. Повторите %1попытку%2 позже.</translation>
     </message>
 </context>
 <context>
     <name>KxQingActiveSucceedDialog</name>
     <message>
         <source>WPS Office activation is successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Успешная активация WPS Office</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
@@ -1932,32 +1932,33 @@ After expiration, some features will not work properly. Renew now and you can ge
     </message>
     <message>
         <source>Your subscription has expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Срок действия подписки истекает</translation>
     </message>
     <message>
         <source>Verify Again &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте снова &gt;&gt;</translation>
     </message>
     <message>
         <source>Subscription will expire today</source>
-        <translation type="unfinished"></translation>
+        <translation>Срок действия подписки истекает сегодня</translation>
     </message>
     <message>
         <source>Your WPS Office is about to expire. 
 After expiration, some features will not work properly. Please renew now. </source>
-        <translation type="unfinished"></translation>
+        <translation>Истекает срок действия WPS Office.
+После этого некоторые компоненты могут перестать работать, или их функциональность может быть ограничена. Продлите подписку сейчас.</translation>
     </message>
     <message>
         <source>Some features will not work properly. &lt;br/&gt;Please renew now.  %1View details%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые функции могут перестать работать, или их функциональность может быть ограничена. &lt;br/&gt; Продлите подписку сейчас. %1Подробнее%2</translation>
     </message>
     <message>
         <source>Verification Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка проверки</translation>
     </message>
     <message>
         <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка активации, так как не удается подключиться к серверу. Проверьте подключение к сети и повторите.</translation>
     </message>
 </context>
 <context>
@@ -1996,15 +1997,15 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>The feature is not available in free version</source>
-        <translation type="unfinished"></translation>
+        <translation>Функция не доступна в бесплатной версии</translation>
     </message>
     <message>
         <source>If you are a paid subscriber, you can use this feature in either way:</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вы оплатили подписку, то можете использовать данную функцию:</translation>
     </message>
     <message>
         <source>Buy/Renew Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Купить или продлить&gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -2039,15 +2040,15 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Start your free %1-day trial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Начните %1-дневную бесплатную пробную версию.</translation>
     </message>
     <message>
         <source>If you have purchased subscription for individuals, sign in to enjoy the service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вы приобрели индивидуальную подписку, войдите для того, чтобы вспользоваться услугой.</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите код активации</translation>
     </message>
 </context>
 <context>
@@ -2112,26 +2113,26 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>This document contains macros. Macros depend on VBA support to function correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Документ содержит макросы. Функционирование макросов зависит от поддержки VBA.</translation>
     </message>
 </context>
 <context>
     <name>KxVbaReminderDlg</name>
     <message>
         <source>Macro</source>
-        <translation type="unfinished">Макрос</translation>
+        <translation>Макрос</translation>
     </message>
     <message>
         <source>Macros depend on VBA support to function correctly. </source>
-        <translation type="unfinished"></translation>
+        <translation>Функционирование макросов зависит от поддержки VBA.</translation>
     </message>
     <message>
         <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пробная, бесплатная и домашняя версии не поддерживают VBA, поэтому макросы в документе не смогут работать.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
@@ -2234,7 +2235,7 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вы приобрели индивидуальную подписку, войдите для того, чтобы вспользоваться услугой.</translation>
     </message>
 </context>
 <context>
@@ -2252,11 +2253,11 @@ After expiration, some features will not work properly. Please renew now. </sour
     <name>kxKOSUserGiftMenuCommand</name>
     <message>
         <source>New messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Новые сообщения</translation>
     </message>
     <message>
         <source>VIP soon to be expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Истекает срок действия членства VIP</translation>
     </message>
 </context>
 <context>
