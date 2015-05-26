@@ -166,10 +166,10 @@ Try one or more of the following:
     <message>
         <source>WPS Writer encountered an error when trying to update source file.
 Try one or more of the following:
-1、Check whether the source file has been opened or occupied by other programs.
-2、Check whether the source file is protected.
-3、Ensure that the source file is in the appropriate directory.
-4、Ensure that the source file can be supported by WPS.</source>
+1. Check whether the source file has been opened or occupied by other programs.
+2. Check whether the source file is protected.
+3. Make sure that the source file is in the appropriate directory.
+4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2481,28 +2481,37 @@ Do you want to replace it?</source>
         <translation>(不作校對)</translation>
     </message>
     <message>
-        <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Writer 無法以資料來源合併主文件，因為資料記錄為空白，或沒有符合查詢選項的資料記錄。</translation>
     </message>
     <message>
-        <source>Recorded %d too much data fields.</source>
+        <source>Record %d contained too many data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recorded %d too few data fields.</source>
+        <source>Record %d contained too few data fields.</source>
         <comment>_TxMailMerge_FieldsTooFew</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recorded %d is empty.</source>
+        <source>Record %d is empty.</source>
         <comment>_TxMailMerge_FieldsEmpty</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
+        <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2568,12 +2577,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation>度量值必須介於 -1584 點 和 1584 點 之間。</translation>
+        <translation type="obsolete">度量值必須介於 -1584 點 和 1584 點 之間。</translation>
     </message>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation>度量值必須介於 0.5 和 600 之間。</translation>
+        <translation type="obsolete">度量值必須介於 0.5 和 600 之間。</translation>
     </message>
     <message>
         <source>The password is not correct.</source>
@@ -2629,6 +2638,16 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
         <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
         <translation>您正要將表格貼到直書文字方塊或圖文框中，但直書文字方塊或圖文框中不能包含表格。表格將被刪除，是否要繼續?</translation>
+    </message>
+    <message>
+        <source>The measurement must be between -1584 pt and 1584 pt.</source>
+        <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The measurement must be between 0.5 and 600.</source>
+        <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2815,7 +2834,7 @@ Please try one of the following.
     <message>
         <source>Normal.wpt</source>
         <comment>_TxDocument_NormalTemplate</comment>
-        <translation>Normal.wpt</translation>
+        <translation type="obsolete">Normal.wpt</translation>
     </message>
     <message>
         <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
@@ -2941,7 +2960,7 @@ Do you want to continue?</source>
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation type="obsolete">WPSV6-TEXT</translation>
+        <translation type="unfinished">WPSV6-TEXT</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -2965,7 +2984,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation>builtin.wpt</translation>
+        <translation type="obsolete">builtin.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -3140,8 +3159,14 @@ This backup will be saved to(%s)</source>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
-        <translation type="unfinished">在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
+        <translation type="obsolete">在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
 此次備份將保存到(%s)。</translation>
+    </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <comment>_TxDocument_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4871,7 +4896,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>This shortcut key already exists. Please set aonther key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation>應用程式已經使用此快速鍵，請設定其他的快速鍵。</translation>
+        <translation type="obsolete">應用程式已經使用此快速鍵，請設定其他的快速鍵。</translation>
     </message>
     <message>
         <source>This style name already exists or is reserved for a built-in style.</source>
@@ -5126,7 +5151,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation>調整巨集安全性時發生錯誤，可能是由於您没有安裝 VBA 環境。</translation>
+        <translation type="obsolete">調整巨集安全性時發生錯誤，可能是由於您没有安裝 VBA 環境。</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
@@ -5237,6 +5262,16 @@ Cancel:	Return to the dialog.</source>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sValidValue</comment>
         <translation type="unfinished">數字必須介於 %d 和 %d 之間。</translation>
+    </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This shortcut key already exists. Please set another key.</source>
+        <comment>wps_sAppShortcutExisted</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6250,7 +6285,7 @@ Protection</source>
     <message>
         <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation>Outlook 個人通訊錄(*.pab) | *.pab; |</translation>
+        <translation type="obsolete">Outlook 個人通訊錄(*.pab) | *.pab; |</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -7612,8 +7647,8 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert DocumentField</source>
-        <comment>TxVersion_InsDocumentField</comment>
+        <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
+        <comment>TxDesc_DataSource_pab</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

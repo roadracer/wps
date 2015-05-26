@@ -277,14 +277,6 @@ Try to switch user interface!</source>
         <translation type="obsolete">保存されずに終了したファイルが復元できます。（ファイルを復元する必要がない場合は、この画面を閉じて、元ファイルを開いて下さい）</translation>
     </message>
     <message>
-        <source>DownLoad Online Fonts &quot;%1&quot; Successful</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DownLoad Online Fonts &quot;%1&quot; Failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
         <translation>保存されずに終了したファイルが復元できます。（ファイルを復元する必要がない場合は、この画面を閉じて、元ファイルを開いて下さい）</translation>
     </message>
@@ -318,15 +310,19 @@ Try to switch user interface!</source>
         <translation type="obsolete">自動バックアップ</translation>
     </message>
     <message>
-        <source>DownLoad Online Fonts &quot;%1&quot; Successful(Restart to take effect)</source>
+        <source>Downloading online font &quot;%1&quot;. Click the font list to see more detail. (Restart to take effect)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online font downloading,click font list see more detail.</source>
+        <source>Download cloud font &quot;%1&quot; successful</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The layout will take effect after restart or logoff computer</source>
+        <source>Download cloud font &quot;%1&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading cloud font, click the font list to see more detail.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -535,6 +531,65 @@ Try to switch user interface!</source>
         <source>Restart WPS Office for layout setting to take effect</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>about:blank</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawButton</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawCheckBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawComboBox</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawMenu</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDrawTreeCtrl</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KEmbbedContainer</name>
@@ -560,6 +615,165 @@ Try to switch user interface!</source>
     </message>
 </context>
 <context>
+    <name>KFileDialogEx</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation type="unfinished">開く(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+    <message>
+        <source>&amp;Encrypt...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">閉じる</translation>
+    </message>
+    <message>
+        <source>Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder Last Visited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up One Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation type="unfinished">デスクトップ</translation>
+    </message>
+    <message>
+        <source>My Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Personal Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help you resume lost files due to disk corruption or accidental delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Look &amp;In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to (&amp;I)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File &amp;Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File &amp;Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E&amp;xtra Large Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Big Icons (&amp;R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Medium Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Small Ico&amp;ns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tile (&amp;S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;humbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ico&amp;n</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View &amp;Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid file name. Please enter a correct file name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KFileSaveDialog</name>
     <message>
         <source>&amp;Encrypt</source>
@@ -570,7 +784,7 @@ Try to switch user interface!</source>
         <translation>暗号化(&amp;E)</translation>
     </message>
     <message>
-        <source>FileName or PathName is longger than 218 chars!</source>
+        <source>FileName or PathName is longger than 218 characters!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -752,7 +966,7 @@ Try to switch user interface!</source>
 <context>
     <name>KLanguageDownloadDialog</name>
     <message>
-        <source>Are you sure to cancel the download?</source>
+        <source>Are you sure you want to cancel the download?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -810,7 +1024,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Documents&apos; Author</source>
-        <translation>文書のユーザー情報</translation>
+        <translation type="obsolete">文書のユーザー情報</translation>
     </message>
     <message>
         <source>Initi&amp;als:</source>
@@ -818,11 +1032,11 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
-        <translation>シリアル番号の保存に失敗しました。 管理者権限があるかどうかをご確認ください。</translation>
+        <translation type="obsolete">シリアル番号の保存に失敗しました。 管理者権限があるかどうかをご確認ください。</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be inputted.</source>
@@ -838,35 +1052,35 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be entered.</source>
-        <translation>「*」項目は入力必須項目です。</translation>
+        <translation type="obsolete">「*」項目は入力必須項目です。</translation>
     </message>
     <message>
         <source>* Name:</source>
-        <translation>* 名前(&amp;N):</translation>
+        <translation type="obsolete">* 名前(&amp;N):</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
-        <translation>入力した名前がドキュメントの作者名に反映されます</translation>
+        <translation type="obsolete">入力した名前がドキュメントの作者名に反映されます</translation>
     </message>
     <message>
         <source>Initials:</source>
-        <translation>略語(&amp;A):</translation>
+        <translation type="obsolete">略語(&amp;A):</translation>
     </message>
     <message>
         <source>Organization:</source>
-        <translation>組織(&amp;O):</translation>
+        <translation type="obsolete">組織(&amp;O):</translation>
     </message>
     <message>
         <source>* Serial No.:</source>
-        <translation>* シリアル番号(&amp;S):</translation>
+        <translation type="obsolete">* シリアル番号(&amp;S):</translation>
     </message>
     <message>
         <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
-        <translation>無効なシリアル番号。 入力フォーマット、サポート バージョン、有効期間等をご確認ください。</translation>
+        <translation type="obsolete">無効なシリアル番号。 入力フォーマット、サポート バージョン、有効期間等をご確認ください。</translation>
     </message>
     <message>
         <source>Your input is incorrect and the program will exit.</source>
-        <translation>リトライ回数が最大値を超えました。プログラムがすぐに終了します。</translation>
+        <translation type="obsolete">リトライ回数が最大値を超えました。プログラムがすぐに終了します。</translation>
     </message>
 </context>
 <context>
@@ -880,7 +1094,7 @@ Try to switch user interface!</source>
         <translation type="unfinished">パスワード</translation>
     </message>
     <message>
-        <source>Password error, try again</source>
+        <source>Incorrect password. Please re-enter.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1468,7 +1682,7 @@ Try to switch user interface!</source>
     <name>KxAboutDlg</name>
     <message>
         <source>%1%2</source>
-        <translation type="obsolete">%1%2</translation>
+        <translation type="unfinished">%1%2</translation>
     </message>
     <message>
         <source>%1(%2)</source>
@@ -1561,14 +1775,6 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Give all users Read Access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>PI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1581,7 +1787,15 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Give all users Change Access</source>
+        <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change access</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1628,30 +1842,41 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
 </context>
 <context>
+    <name>KxAutoShapeInputBoxToShapes</name>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxAutoShapePanel</name>
     <message>
         <source>Action Buttons</source>
-        <translation>動作設定ボタン</translation>
+        <translation type="obsolete">動作設定ボタン</translation>
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation>ブロック矢印</translation>
+        <translation type="obsolete">ブロック矢印</translation>
     </message>
     <message>
         <source>Callouts</source>
-        <translation>吹き出し</translation>
+        <translation type="obsolete">吹き出し</translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation>コレクタ</translation>
+        <translation type="obsolete">コレクタ</translation>
     </message>
     <message>
         <source>Flowchart</source>
-        <translation>フローチャート</translation>
+        <translation type="obsolete">フローチャート</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>Simple Shapes</source>
@@ -1659,11 +1884,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation>星とリボン</translation>
+        <translation type="obsolete">星とリボン</translation>
     </message>
     <message>
         <source>Basic Shapes</source>
-        <translation>基本図形</translation>
+        <translation type="obsolete">基本図形</translation>
     </message>
 </context>
 <context>
@@ -2216,7 +2441,7 @@ Toolbox), please purchase WPS Office Professional.</source>
     </message>
     <message>
         <source>Pyramid diagram</source>
-        <translation>ピラミッド</translation>
+        <translation type="obsolete">ピラミッド</translation>
     </message>
     <message>
         <source>Radial Diagram</source>
@@ -2252,11 +2477,19 @@ Toolbox), please purchase WPS Office Professional.</source>
     </message>
     <message>
         <source>Venn diagram</source>
-        <translation>ペン図</translation>
+        <translation type="obsolete">ペン図</translation>
     </message>
     <message>
         <source>Organization Chart</source>
         <translation>組織図</translation>
+    </message>
+    <message>
+        <source>Pyramid Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Venn Diagram</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2806,15 +3039,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>KxDlgHttpAuthentication</name>
     <message>
-        <source>Http authentication required</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Connect to:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please supply a Username and a Password!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2824,6 +3049,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Password:</source>
         <translation type="unfinished">パスワード:</translation>
+    </message>
+    <message>
+        <source>Require Http authentication</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter your username and password to sign in.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3078,15 +3311,15 @@ installed, or you are sure all documents you open are safe.</source>
     <name>KxDlgLicense</name>
     <message>
         <source>Agree</source>
-        <translation>同意</translation>
+        <translation type="obsolete">同意</translation>
     </message>
     <message>
         <source>Disagree</source>
-        <translation>同意しない</translation>
+        <translation type="obsolete">同意しない</translation>
     </message>
     <message>
         <source>License</source>
-        <translation>ライセンス</translation>
+        <translation type="obsolete">ライセンス</translation>
     </message>
 </context>
 <context>
@@ -3097,22 +3330,6 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>E-Mail*:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Problem types:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot find functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do not know how to use the function</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compatible problems with other software</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3147,6 +3364,22 @@ installed, or you are sure all documents you open are safe.</source>
         <source>Cancel</source>
         <translation type="unfinished">キャンセル</translation>
     </message>
+    <message>
+        <source>Issue type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not find feature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not know how to use the feature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Software compatibility issues</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgNewTemplate</name>
@@ -3161,10 +3394,6 @@ installed, or you are sure all documents you open are safe.</source>
     <message>
         <source>Set as &amp;default template</source>
         <translation>既定のテンプレートに設定(&amp;D)</translation>
-    </message>
-    <message>
-        <source>pushButton</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3273,7 +3502,7 @@ Double click any item can open the file, or you can use the popup menu. This wil
     </message>
     <message>
         <source>Recent File Management</source>
-        <translation>最近使用したファイルの管理</translation>
+        <translation type="obsolete">最近使用したファイルの管理</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
@@ -3282,12 +3511,20 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This will not delete the files but only remove the records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation>最近使用したファイルのリストから削除したい項目を選択し、「OK」をクリックして下さい。一覧から項目のみが削除され、ファイルは削除されません。任意の項目をダブルクリックするとファイルを開くことや、ポップアップメニューを使用できます。ポップアップメニューでは、複数項目を削除できます</translation>
+        <translation type="obsolete">最近使用したファイルのリストから削除したい項目を選択し、「OK」をクリックして下さい。一覧から項目のみが削除され、ファイルは削除されません。任意の項目をダブルクリックするとファイルを開くことや、ポップアップメニューを使用できます。ポップアップメニューでは、複数項目を削除できます</translation>
     </message>
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press Delete button to commit. This operation will not delete the files but only remove the records.
 Double-click or use the popup menu to open the file. This operation will clear the selection of the items.</source>
         <translation type="obsolete">最近使用したファイルのリストから削除したい項目を選択し、「削除」をクリックして下さい。一覧から項目のみが削除され、ファイルは削除されません。任意の項目をダブルクリックするとファイルを開くことや、ポップアップメニューを使用できます。ポップアップメニューでは、複数項目を削除できます</translation>
+    </message>
+    <message>
+        <source>File Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the files you wish to remove from the recent document list, then press Delete. This will not permanently delete your file, but only remove them from your recent records.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3319,10 +3556,6 @@ Double-click or use the popup menu to open the file. This operation will clear t
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Select one of the following user accounts to create or open content with restricted permission.To use an account not listed below,click Add.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Add...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3334,16 +3567,20 @@ Double-click or use the popup menu to open the file. This operation will clear t
         <source>A&amp;lways use this account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Select one of the following user accounts to create or open content with restricted permission. To use an account not listed below, click Add.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgTrialExpire</name>
     <message>
         <source>Dialog</source>
-        <translation>ダイアログ</translation>
+        <translation type="obsolete">ダイアログ</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
-        <translation>閲覧モード</translation>
+        <translation type="obsolete">閲覧モード</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -3359,23 +3596,19 @@ Double-click or use the popup menu to open the file. This operation will clear t
     </message>
     <message>
         <source>Update Now</source>
-        <translation>アップデート</translation>
+        <translation type="obsolete">アップデート</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation>テキストラベル</translation>
+        <translation type="obsolete">テキストラベル</translation>
     </message>
     <message>
         <source>Thanks for using WPS Office 2012 Beta2.</source>
-        <translation>Kingsoft Office 2012　Beta2をご利用していただありがとうございました</translation>
+        <translation type="obsolete">Kingsoft Office 2012　Beta2をご利用していただありがとうございました</translation>
     </message>
     <message>
         <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
-        <translation>ご利用いただきBetaバージョンを使用期限に切れました。「閲覧モード」で編集できません。</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
-        <translation></translation>
+        <translation type="obsolete">ご利用いただきBetaバージョンを使用期限に切れました。「閲覧モード」で編集できません。</translation>
     </message>
     <message>
         <source>The trial period of your WPS Office Beta has expired. You can choose Viewer mode (you cannot enter by using keyboard in Viewer mode) to continue or update to the latest Personal version of WPS Office.</source>
@@ -3526,19 +3759,29 @@ Double-click or use the popup menu to open the file. This operation will clear t
         <comment>Encrypt button tab in filedialog</comment>
         <translation>暗号化(&amp;E)...</translation>
     </message>
+    <message>
+        <source>&amp;Open Image after Export</source>
+        <comment>OpenSaved checkbox in filedialog</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open Video after Export</source>
+        <comment>OpenSaved checkbox in filedialog</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxFileItemWidget</name>
     <message>
         <source>
 
-modify time: </source>
+Modified time: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
 
-This record is invalid, the file may be renamed,deleted or moved the location</source>
+Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3799,19 +4042,19 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This document has used cloud fonts &quot;%1&quot;. For your convenience, please download these cloud fonts.</source>
+        <source>This document uses cloud font &quot;%1&quot;. For your convenience, please download this cloud font.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This document has used cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
+        <source>This document uses cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
+        <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
+        <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3974,6 +4217,13 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <message>
         <source>Hide Task Window</source>
         <translation>ワークウィンドウを閉じる</translation>
+    </message>
+</context>
+<context>
+    <name>KxHintWidget</name>
+    <message>
+        <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4411,22 +4661,6 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>Undo</source>
         <translation>元に戻す</translation>
     </message>
-    <message>
-        <source>Close all tabs or current tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close current</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cancel Close</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxModifyCommandDlg</name>
@@ -4605,39 +4839,22 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>Download</source>
         <translation>ダウンロード</translation>
     </message>
-    <message>
-        <source>import templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>template file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Presentation Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Kingsoft Spreadsheets Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft Excel 97/2000/XP/2003 Template</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxOnlineFontController</name>
     <message>
-        <source>Cloud font reserves to the upper (%1), please go to the &quot;management of cloud font&quot; page for details.</source>
+        <source>View Now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>View Now</source>
+        <source>Cloud has reached its limit for cloud fonts (%1). Please go to the &apos;Management of Cloud Font&apos; page for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFontDownloadReminder</name>
+    <message>
+        <source>%1 online fonts downloaded,click to see.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4657,6 +4874,10 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have chosen %1 paid cloud fonts which require a VIP membership to download.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4683,15 +4904,15 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <translation type="unfinished">キャンセル</translation>
     </message>
     <message>
-        <source>Vip %1 has expired, please renew</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS members enjoy more than 300 cloud font, monthly not regularly updated new font, let your document colorful!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unable to connect to server, please check your network connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 membership has expired, please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS members can access to more than 300 cloud fonts, updated monthly. </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4707,7 +4928,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>It&apos;s downloading, please wait...</source>
-        <translation>ダウンロード中です。しばらくお待ちください</translation>
+        <translation type="obsolete">ダウンロード中です。しばらくお待ちください</translation>
     </message>
     <message>
         <source>Pause. Click to continue</source>
@@ -4715,7 +4936,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Fold online fonts</source>
-        <translation>オンラインフォントを非表示</translation>
+        <translation type="obsolete">オンラインフォントを非表示</translation>
     </message>
     <message>
         <source>More online fonts</source>
@@ -4755,10 +4976,6 @@ Click to recharge for more discounts.</source>
         <translation type="obsolete">VIPユーザーの有効期間が間もなく終了します。再購入の場合は、割引があります。</translation>
     </message>
     <message>
-        <source>Click to keep cloud fonts on top</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click to shuffle cloud fonts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4771,41 +4988,12 @@ Click to recharge for more discounts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upgrade to VIP to enjoy VIP fonts.
-Click here to sign in now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sign in to use cloud fonts.
 Click the icon to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Upgrade to VIP to enjoy VIP fonts.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your membership %1 expires now. Please renew.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>VIP cloud fonts installed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow senior member to enjoy VIP fonts. Click to sign in.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All cloud fonts installed.  Please looking forward to more.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4817,7 +5005,59 @@ Click the icon to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Downloading fonts, please wait?</source>
+        <source>Upgrade to use VIP-only fonts.
+Click here to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Senior members can access to free cloud fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Members can access to free cloud fonts. Click to sign in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1 membership expires now. Please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to use VIP-only fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your %1 membership expires now. Please renew to use cloud fonts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading font, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All currently available cloud fonts have been installed.  More are coming soon!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to keep a cloud font on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineShapesGalleryModel</name>
+    <message>
+        <source>Recommendation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4825,15 +5065,15 @@ Click the icon to sign in now.</source>
     <name>KxOverdueDlg</name>
     <message>
         <source>Disable Print</source>
-        <translation>プリンタ禁止</translation>
+        <translation type="obsolete">プリンタ禁止</translation>
     </message>
     <message>
         <source>Enter Viewer</source>
-        <translation>ビューワーモードへ</translation>
+        <translation type="obsolete">ビューワーモードへ</translation>
     </message>
     <message>
         <source>Input Serial Number</source>
-        <translation>シリアル番号を入力</translation>
+        <translation type="obsolete">シリアル番号を入力</translation>
     </message>
     <message>
         <source>Input Serial Nummber</source>
@@ -4849,19 +5089,19 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Purchase Now</source>
-        <translation>今すぐ購入</translation>
+        <translation type="obsolete">今すぐ購入</translation>
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
-        <translation>体験版をご利用いただき、ありがとうございました。</translation>
+        <translation type="obsolete">体験版をご利用いただき、ありがとうございました。</translation>
     </message>
     <message>
         <source>Update to Personal</source>
-        <translation>Personalにアップデートする</translation>
+        <translation type="obsolete">Personalにアップデートする</translation>
     </message>
     <message>
         <source>You also can download</source>
-        <translation>ダウンロードも可能です</translation>
+        <translation type="obsolete">ダウンロードも可能です</translation>
     </message>
     <message>
         <source>Your Kingsoft Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
@@ -4873,19 +5113,19 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation>試用期限が過ぎたため、これ以降はキーボード入力無効のビューワーモードでのみお使いいただけます。シリアルを購入し、全ての機能を引き続きご利用下さい。</translation>
+        <translation type="obsolete">試用期限が過ぎたため、これ以降はキーボード入力無効のビューワーモードでのみお使いいただけます。シリアルを購入し、全ての機能を引き続きご利用下さい。</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
-        <translation>ご利用していただきシリアル番号を期限が過ぎたため、これ以降キーボード入力無効になります。シリアルを購入し、全ての機能を引き続きご利用ください。</translation>
+        <translation type="obsolete">ご利用していただきシリアル番号を期限が過ぎたため、これ以降キーボード入力無効になります。シリアルを購入し、全ての機能を引き続きご利用ください。</translation>
     </message>
     <message>
         <source>WPS Office Free.</source>
-        <translation>Kingsoft Office 無料版</translation>
+        <translation type="obsolete">Kingsoft Office 無料版</translation>
     </message>
     <message>
         <source>WPS Online Store.</source>
-        <translation>オンラインショップでシリアルを購入する.</translation>
+        <translation type="obsolete">オンラインショップでシリアルを購入する.</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number you can purchase one at the</source>
@@ -4970,15 +5210,15 @@ Click the icon to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Users can request additonal per&amp;missions from:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Re&amp;quire a connection to verify a user&apos;s permission</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Set defaults...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users can request additional per&amp;missions from:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4996,24 +5236,12 @@ Click the icon to sign in now.</source>
 <context>
     <name>KxPrintRestrictDlg</name>
     <message>
-        <source>You are using a free version. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Print</source>
-        <translation type="unfinished">印刷(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Print Pre&amp;view</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">印刷(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">キャンセル(&amp;C)</translation>
+        <translation type="obsolete">キャンセル(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -5362,10 +5590,6 @@ Click the icon to sign in now.</source>
         <translation>開く(&amp;O)</translation>
     </message>
     <message>
-        <source>A key to clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete</source>
         <translation>削除</translation>
     </message>
@@ -5374,27 +5598,7 @@ Click the icon to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear &amp;all selected record</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear &amp;all invalid record</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open the file in &amp;folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-modify time: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-This record is invalid, the file may be renamed,deleted or moved the location</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5402,12 +5606,35 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>cannot open the file &quot;%1&quot;. 
-the file may be renamed,deleted or moved the location.</source>
+        <source>Clear in one click</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>open file folder</source>
+        <source>Clear &amp;all selected records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear &amp;all invalid records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; cannot be opened. It has been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open folder containing the file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5462,14 +5689,6 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Give all users Read Access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>PI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5482,15 +5701,23 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Give all users Change Access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Displays advanced settings dialog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source> More &amp;Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document, but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change access</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5550,13 +5777,20 @@ but the included system package is reserved.</source>
     </message>
 </context>
 <context>
+    <name>KxShapesGalleryModel</name>
+    <message>
+        <source>Recently Used Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxSkinSwitchHtmlBridge</name>
     <message>
-        <source>upload</source>
+        <source>(Custom)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(custom)</source>
+        <source>Upload</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5643,10 +5877,6 @@ but the included system package is reserved.</source>
         <source>The layout will take effect after restarting</source>
         <translation type="obsolete">上記2種類のインターフェースより、好みの方を選択して下さい。
 途中で切り替えも可能です。次回起動時より有効になります。</translation>
-    </message>
-    <message>
-        <source>The layout will take effect after restart or logoff computer</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5746,7 +5976,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Resolution</source>
-        <translation>固定</translation>
+        <translation type="obsolete">固定</translation>
     </message>
     <message>
         <source>Some issues are detected in your system, which may cause Kingsoft Office for Linux run improperly on your computer.</source>
@@ -5767,6 +5997,10 @@ but the included system package is reserved.</source>
     <message>
         <source>Some issues are detected in your system, which may cause WPS Office for Linux run improperly on your computer.</source>
         <translation type="obsolete">Kingsoft for Linuxにていくつかの問題を検出ししたため、コンピューター上で正しく実行することができません</translation>
+    </message>
+    <message>
+        <source>Solution</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5882,7 +6116,7 @@ but the included system package is reserved.</source>
     <name>KxTemplateOnLineCommand</name>
     <message>
         <source>http://www.kingsoftstore.com</source>
-        <translation>http://www.wps.cn/</translation>
+        <translation type="obsolete">http://www.wps.cn/</translation>
     </message>
 </context>
 <context>
@@ -5902,10 +6136,6 @@ but the included system package is reserved.</source>
     <message>
         <source>Type</source>
         <translation>種類</translation>
-    </message>
-    <message>
-        <source>browse templates location</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5931,7 +6161,15 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
-        <translation>申し訳ごありませんが失敗しました。修正を試みましたが、画面に戻ります</translation>
+        <translation type="obsolete">申し訳ごありませんが失敗しました。修正を試みましたが、画面に戻ります</translation>
+    </message>
+    <message>
+        <source>Sorry! An error occurred just now. Now it has been fixed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>test</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5950,11 +6188,44 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Show Large Preview</source>
-        <translation>大きいプレビュー</translation>
+        <translation type="obsolete">大きいプレビュー</translation>
     </message>
     <message>
         <source>AutoShapes:</source>
         <translation>図形選択:</translation>
+    </message>
+    <message>
+        <source>All Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpAutoShapePersonalPanelModel</name>
+    <message>
+        <source>Online Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recently Used</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpAutoShapesDownloadFailedItem</name>
+    <message>
+        <source>Unable to connect to the server. Please check your network connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try refresh again</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpAutoShapesDownloadingItem</name>
+    <message>
+        <source>Loading online shapes...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5993,7 +6264,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
-        <translation>強制終了されたファイルは、下記のファイルリストから回復できますす。</translation>
+        <translation type="obsolete">強制終了されたファイルは、下記のファイルリストから回復できますす。</translation>
     </message>
     <message>
         <source>View Other Backups</source>
@@ -6002,6 +6273,14 @@ but the included system package is reserved.</source>
     <message>
         <source>PushButton</source>
         <translation>ボタン</translation>
+    </message>
+    <message>
+        <source>Recently edited documents recovered from unexpected exit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished">テキストラベル</translation>
     </message>
 </context>
 <context>
@@ -6041,6 +6320,22 @@ but the included system package is reserved.</source>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
         <translation>すべてのバックアップファイルを削除できません</translation>
+    </message>
+    <message>
+        <source>Tips to prevent document loss:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1. WPS has created backup for each of your documents. You can specify more %1 options %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2. Use WPS %1 Cloud %2 services, your most convenient and secure cloud.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3. %1 Kingsoft Data Recovery Master %2 helps you to recover accidentally deleted documents.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6219,35 +6514,39 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Open Recent File Management dialog box,and remove some or all of the recent file.</source>
-        <translation>最近使用したファイルの管理ダイアログを開いてファイル或いはをすべてのファイルの使用履歴をクリアできます。</translation>
+        <translation type="obsolete">最近使用したファイルの管理ダイアログを開いてファイル或いはをすべてのファイルの使用履歴をクリアできます。</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
         <translation>オンラインテンプレート</translation>
     </message>
     <message>
-        <source>
-
-modify time: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Online Templates</source>
         <translation type="obsolete">オンラインテンプレート</translation>
     </message>
     <message>
-        <source>Unable to open &quot;%1&quot;.
-This file may be renamed , deleted or moved the location.</source>
+        <source>Open file location</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open file location</source>
+        <source>Open Recent File Management dialog box, and remove some or all of the recent files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Modified time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6307,7 +6606,7 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Open the recent file management dialog box,and remove some or all of the recent file records.</source>
-        <translation>最近使用したファイルの管理ダイアログを開いてファイル或いはをすべてのファイルの使用履歴をクリアできます。</translation>
+        <translation type="obsolete">最近使用したファイルの管理ダイアログを開いてファイル或いはをすべてのファイルの使用履歴をクリアできます。</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -6322,12 +6621,16 @@ This file may be renamed , deleted or moved the location.</source>
         <translation type="obsolete">オンラインテンプレート</translation>
     </message>
     <message>
-        <source>Unable to open &quot;%1&quot;.
-This file may be renamed , deleted or moved the location.</source>
+        <source>Open file location</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open file location</source>
+        <source>Open File Management to remove some or all of your recent documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6366,7 +6669,7 @@ This file may be renamed , deleted or moved the location.</source>
     <name>KxTrialExpireDlg</name>
     <message>
         <source>Quit</source>
-        <translation>中止</translation>
+        <translation type="obsolete">中止</translation>
     </message>
 </context>
 <context>
@@ -6818,7 +7121,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished">ボタン</translation>
+        <translation type="obsolete">ボタン</translation>
     </message>
 </context>
 <context>
@@ -7399,7 +7702,7 @@ The settings will take effect after restarting the application.</source>
     <name>aboutDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation>!NO_TRANS!</translation>
+        <translation type="obsolete">!NO_TRANS!</translation>
     </message>
     <message>
         <source>&amp;Tech Support...</source>
@@ -7447,12 +7750,16 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation type="unfinished">2014 Kingsoft Office Softwar Co., Ltd. {2015 ?}</translation>
     </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>apidefaultDlg</name>
     <message>
         <source>!NO_TRANS!</source>
-        <translation>!NO_TRANS!</translation>
+        <translation type="obsolete">!NO_TRANS!</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -7465,6 +7772,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <message>
         <source>Don&apos;t show again</source>
         <translation>次回より表示しません</translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

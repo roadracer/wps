@@ -2543,7 +2543,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation>キャンセル</translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
         <source>ed1</source>
@@ -2600,6 +2600,10 @@ use buttons to apply borders</source>
     <message>
         <source>-</source>
         <translation type="obsolete">-</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
     </message>
 </context>
 <context>
@@ -2908,80 +2912,44 @@ use buttons to apply borders</source>
 <context>
     <name>KxDlgDocumentFields</name>
     <message>
-        <source>DocumentField</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DocumentField Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished">挿入(&amp;I)</translation>
+        <translation type="obsolete">挿入(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished">名前の変更(&amp;R)</translation>
+        <translation type="obsolete">名前の変更(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished">ジャンプ(&amp;G)</translation>
+        <translation type="obsolete">ジャンプ(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">削除(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Marks Only</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">削除(&amp;D)</translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="unfinished">順序の基準:</translation>
+        <translation type="obsolete">順序の基準:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">名前(&amp;N)</translation>
+        <translation type="obsolete">名前(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished">位置(&amp;L)</translation>
-    </message>
-    <message>
-        <source>DocumentField Properties</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">位置(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished">隠し文字(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Read &amp;Only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Apply All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insertion Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>When inserted at beginning and end, then counted in. </source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">隠し文字(&amp;H)</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
 </context>
 <context>
@@ -3238,7 +3206,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation>この操作を記憶し、もう思い出さないで下さい。</translation>
+        <translation type="obsolete">この操作を記憶し、もう思い出さないで下さい。</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -3250,6 +3218,10 @@ If unnecessary, please click Cancel.</source>
         <translatorcomment>オンラインフォントを文書に適用しましたため、他人に送付する場合ご利用するオンラインフォントを文書に保存することを勧めさせていただきます。
 キャンセルをクリックすると保存しません。</translatorcomment>
         <translation>この文書にはオンラインフォントが適用されています。もしこの文書を他人に共有する場合は、オンラインフォントを保存することを推奨いたします。保存が不要な場合は、「キャンセル」をクリックして下さい。</translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3515,7 +3487,7 @@ If unnecessary, please click Cancel.</source>
         <translation type="obsolete">区切り文字以外を抑制(&amp;D)</translation>
     </message>
     <message>
-        <source>Add the &amp;path to the file name</source>
+        <source>Add &amp;path to filename</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3775,7 +3747,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>replace options</source>
-        <translation>置換のオプション</translation>
+        <translation type="obsolete">置換のオプション</translation>
     </message>
     <message>
         <source>Format:</source>
@@ -3861,6 +3833,10 @@ Example: +4 will move forward four items:</source>
     <message>
         <source>Enter + and - to move relative to the current location. Example: +4 will move forward four items:</source>
         <translation type="obsolete">「+」または「-」を指定して現在の位置から数えた位置へ移動することができます。例えば「+4」と指定すると、4つ先へ移動します。</translation>
+    </message>
+    <message>
+        <source>Replace options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4308,7 +4284,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>UnderLine</source>
-        <translation>下線</translation>
+        <translation type="obsolete">下線</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished">一重下線</translation>
     </message>
 </context>
 <context>
@@ -5671,11 +5651,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Discern &amp;location</source>
-        <translation>地名詳細(中国語のみ)(&amp;L)</translation>
+        <translation type="obsolete">地名詳細(中国語のみ)(&amp;L)</translation>
     </message>
     <message>
         <source>Discern &amp;person</source>
-        <translation>人名詳細(中国語のみ)(&amp;P)</translation>
+        <translation type="obsolete">人名詳細(中国語のみ)(&amp;P)</translation>
     </message>
     <message>
         <source>Display the &amp;Close button in the active tab</source>
@@ -6446,7 +6426,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Privacy</source>
-        <translation>フライバシー</translation>
+        <translation type="obsolete">フライバシー</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
@@ -6486,10 +6466,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="obsolete">新規作成時にバックアップファイルを作成(&amp;B)</translation>
     </message>
     <message>
-        <source>F&amp;onts Preview Box</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>AutoNumber</source>
         <translation>オートフォーマット</translation>
     </message>
@@ -6503,10 +6479,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Reminder for embedding &amp;cloud fonts in the file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show &amp;windows in taskbar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6534,7 +6506,47 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>D&amp;ocument fields</source>
+        <source>&amp;Font Preview Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discern &amp;person(only effective in Chinese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discern &amp;location(only effective in Chinese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8306,18 +8318,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
 <context>
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
-        <source>Field name record delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Field delimiter:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(None)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8446,7 +8446,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Record delimiter:</source>
+        <source>Header Record Delimiters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record delimiter:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8563,23 +8575,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxDocumentFieldsDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The document field with this name has already existed. Do you want to cover it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The name of the document field is illegal.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The name of the document field has already existed, please rename it!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
 </context>
 <context>
@@ -8884,7 +8880,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
         <translatorcomment>ディスクCのKingsoft.wpsファイルを開きます</translatorcomment>
-        <translation type="obsolete">CドライブのKingsoft Officeファイルを開きます</translation>
+        <translation type="unfinished">CドライブのKingsoft Officeファイルを開きます</translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
@@ -8908,7 +8904,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation type="obsolete">ディスクCのKingSoft.wpsファイルを開きます
+        <translation type="unfinished">ディスクCのKingSoft.wpsファイルを開きます
 、フィールドコード： HYPERLINK &quot;C:\\KingSoft.wps&quot;</translation>
     </message>
     <message>
@@ -9029,7 +9025,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation type="obsolete">画像のURLを推定します。&quot;d:\\WPS.jpg&quot; Field code:INCLUDEPICTURE&quot; d:\\WPS.jpg&quot;</translation>
+        <translation type="unfinished">画像のURLを推定します。&quot;d:\\WPS.jpg&quot; Field code:INCLUDEPICTURE&quot; d:\\WPS.jpg&quot;</translation>
     </message>
     <message>
         <source>Insert a picture from a file</source>
@@ -9048,55 +9044,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="obsolete">段落のスタイルをもとに文字列を挿入</translation>
     </message>
     <message>
-        <source>/</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>root directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>D:\\</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>D drive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open and activate the file KingSoft.wps under the %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>IncludeText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert text to from a file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert the file name of the document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9106,6 +9058,22 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Document &amp;property:</source>
         <translation type="unfinished">文書のプロパティ(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;d:\\wps.doc&quot;. Field code: INCLUDETEXT &quot;d:\\wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert file name of the document</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10488,7 +10456,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Itatic, </source>
-        <translation>斜体</translation>
+        <translation type="obsolete">斜体</translation>
     </message>
     <message>
         <source>Justify alignment</source>
@@ -10557,6 +10525,10 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>標準テンプレートが使用されているため、変更に失敗しました。</translation>
+    </message>
+    <message>
+        <source>Italic, </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10720,7 +10692,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Itatic, </source>
-        <translation>斜体</translation>
+        <translation type="obsolete">斜体</translation>
     </message>
     <message>
         <source>Justify alignment</source>
@@ -10736,7 +10708,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>LeftAndRight</source>
-        <translation>両端揃え</translation>
+        <translation type="obsolete">両端揃え</translation>
     </message>
     <message>
         <source>Line spacing: 1.5 lines, </source>
@@ -10793,6 +10765,14 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>標準テンプレートが使用されているため、変更に失敗しました。</translation>
+    </message>
+    <message>
+        <source>Italic, </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left and Right</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10862,11 +10842,11 @@ Cancel:	Return to the dialog.</source>
         <translation>元に戻す/やり直しの手順は %1 から %2 の間で指定してくだい</translation>
     </message>
     <message>
-        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <source>The directory &quot;%1&quot; is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory &quot;%1&quot; is not valid.</source>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12742,7 +12722,7 @@ Select parts of the document and choose users who are allowed to freely edit the
 <context>
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
-        <source>Field delimiter and record delimiter cannot be same.</source>
+        <source>The field delimiter cannot be the same as the record delimiter.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13314,10 +13294,6 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>userName</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change user...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13358,15 +13334,19 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Permission expiration date:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(N/A)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resquest additional permissions... </source>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13382,7 +13362,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>In Line With Text</source>
-        <translation>行内</translation>
+        <translation type="obsolete">行内</translation>
     </message>
     <message>
         <source>Square</source>
@@ -13399,6 +13379,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Top and Bottom</source>
         <translation>上下</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13481,7 +13465,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Revision: %1</source>
+        <source>Revisions: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13951,6 +13935,29 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation type="unfinished">指定(&amp;E):</translation>
+    </message>
+    <message>
+        <source>&amp;Whole Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Page Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Text Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsStyleGalleryModel</name>
     <message>
         <source>Styles</source>
@@ -14220,7 +14227,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation>クリックするとマクロの記録を開始します。</translation>
+        <translation type="obsolete">クリックするとマクロの記録を開始します。</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
@@ -14229,6 +14236,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>No macros are currently recording. Click to begin recording a new macro.</source>
         <translation type="obsolete">クリックするとマクロの記録を開始します。</translation>
+    </message>
+    <message>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14431,11 +14442,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation>権限設定のパスワード(次の設定を有効にする)(&amp;E)</translation>
+        <translation type="obsolete">権限設定のパスワード(次の設定を有効にする)(&amp;E)</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>注意　上のパスワードを設定した上で、次の「読み取りパスワード」を設定し、他人に変更されないように保護できます</translation>
+        <translation type="obsolete">注意　上のパスワードを設定した上で、次の「読み取りパスワード」を設定し、他人に変更されないように保護できます</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -14460,6 +14471,14 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Note: Only setting password, the following options can be valid on note, and prevented others changing on note.</source>
         <translation type="obsolete">注意　上のパスワードを設定した上で、次の「読み取りパスワード」を設定し、他人に変更されないように保護できます</translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

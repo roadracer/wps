@@ -44,14 +44,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Emphasize</source>
         <translation type="unfinished"></translation>
     </message>
@@ -95,6 +87,14 @@
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DesignLayoutPanel</name>
@@ -123,7 +123,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add Design</source>
+        <source>Add &amp;Design</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -651,10 +651,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UnLocked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Until End of Slide</source>
         <translation type="unfinished"></translation>
     </message>
@@ -664,6 +660,10 @@
     </message>
     <message>
         <source>With Previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlocked</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -800,11 +800,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>bgMagic tooltip</source>
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <source>Try for magic!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1024,11 +1024,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Magic Backgroud</source>
+        <source>Template Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Template Background</source>
+        <source>Magic Background</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1240,17 +1240,16 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TextLabel</source>
+        <source>Text Label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Application documents online font, if your document needs circulated others, 
-we recommend that you saved earlier document fonts. 
-If necessary, click Cancel</source>
+        <source>The document contains cloud fonts. For the convenience of your readers, 
+we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remember this operation, do not remind anymore</source>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1804,10 +1803,6 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Gerneral options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Handouts(2 slides per page)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1885,10 +1880,6 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>Print &amp;what:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Privacy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2028,11 +2019,47 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Password protect</source>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2223,6 +2250,113 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
 </context>
 <context>
+    <name>KxDlgParagraph</name>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Indents and Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>point, 2, 0, 1584, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>line, 2, 0, 9.99, 0.1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;fter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Before:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Li&amp;ne spacing:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Befo&amp;re text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Special:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B&amp;y:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use Asian rules for controlling first and last characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow hanging punctuatio&amp;n</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First and last characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custo&amp;m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot st&amp;art line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&amp;ot end line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line-breaking characters currently customized for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgProgress</name>
     <message>
         <source>Cancel</source>
@@ -2400,6 +2534,10 @@ The Advanced button allows you to choose from different encryption types.</trans
         <source>Total Playing Time:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Hide icon on play</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -2482,15 +2620,15 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Volume Redress</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>cbMute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>tbVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume Adjustment</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3252,7 +3390,7 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>Comfirmation password does not match.</source>
-        <translation>Comfirmation password does not match.</translation>
+        <translation type="obsolete">Comfirmation password does not match.</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3279,8 +3417,12 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">Confirmation password does not match.</translation>
     </message>
 </context>
 <context>
@@ -3758,7 +3900,7 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Slide Transition</source>
+        <source>Zoom</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4162,9 +4304,67 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
 </context>
 <context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4220,6 +4420,52 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>All slides among this range are marked as hidden!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSoundBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4545,7 +4791,7 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>Follow Text and Lines Sheme Color</source>
-        <translation>Follow Text and Lines Sheme Color</translation>
+        <translation type="obsolete">Follow Text and Lines Sheme Color</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
@@ -4797,6 +5043,82 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input value between 0cm and 21.35cm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input value between 0 and 9.99</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input value between 0pt and 1584pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 times</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>按文本和线条配色方案</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5192,11 +5514,11 @@ The Advanced button allows you to choose from different encryption types.</trans
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
+        <source>Export PDF File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export PDF File</source>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

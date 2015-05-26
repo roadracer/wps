@@ -6,200 +6,200 @@
     <name>classics.3dsettings</name>
     <message>
         <source>0 pt</source>
-        <translation>  0 pt(0)</translation>
+        <translation type="obsolete">  0 pt(0)</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation>144 pt(1)</translation>
+        <translation type="obsolete">144 pt(1)</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation>288 pt(2)</translation>
+        <translation type="obsolete">288 pt(2)</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3Dの色</translation>
+        <translation type="obsolete">3Dの色</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3Dの表示/非表示</translation>
+        <translation type="obsolete">3Dの表示/非表示</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation> 36 pt(3)</translation>
+        <translation type="obsolete"> 36 pt(3)</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation> 72 pt(7)</translation>
+        <translation type="obsolete"> 72 pt(7)</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation>明るく</translation>
+        <translation type="obsolete">明るく</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>奥行き</translation>
+        <translation type="obsolete">奥行き</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation>暗く​​</translation>
+        <translation type="obsolete">暗く​​</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>視点</translation>
+        <translation type="obsolete">視点</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation>無限</translation>
+        <translation type="obsolete">無限</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation>光源</translation>
+        <translation type="obsolete">光源</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation>つや消し</translation>
+        <translation type="obsolete">つや消し</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation>金属</translation>
+        <translation type="obsolete">金属</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>その他の3Dの色</translation>
+        <translation type="obsolete">その他の3Dの色</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>平行</translation>
+        <translation type="obsolete">平行</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation>遠近</translation>
+        <translation type="obsolete">遠近</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation>プラスチック</translation>
+        <translation type="obsolete">プラスチック</translation>
     </message>
     <message>
         <source>Surface</source>
-        <translation>表面</translation>
+        <translation type="obsolete">表面</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>下に傾げる</translation>
+        <translation type="obsolete">下に傾げる</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation>左に傾げる</translation>
+        <translation type="obsolete">左に傾げる</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation>右に傾げる</translation>
+        <translation type="obsolete">右に傾げる</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation>上に傾げる</translation>
+        <translation type="obsolete">上に傾げる</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation>ワイヤーフレーム</translation>
+        <translation type="obsolete">ワイヤーフレーム</translation>
     </message>
 </context>
 <context>
     <name>classics.borders</name>
     <message>
         <source>Draw Border</source>
-        <translation>罫線の作成</translation>
+        <translation type="obsolete">罫線の作成</translation>
     </message>
     <message>
         <source>Draw Border Grid</source>
-        <translation>グリッド線</translation>
+        <translation type="obsolete">グリッド線</translation>
     </message>
     <message>
         <source>Erase Border</source>
-        <translation>罫線の削除</translation>
+        <translation type="obsolete">罫線の削除</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation>線の色</translation>
+        <translation type="obsolete">線の色</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>線のスタイル</translation>
+        <translation type="obsolete">線のスタイル</translation>
     </message>
 </context>
 <context>
     <name>classics.chart</name>
     <message>
         <source>By Column</source>
-        <translation>系列を列方向に定義</translation>
+        <translation type="obsolete">系列を列方向に定義</translation>
     </message>
     <message>
         <source>By Row</source>
-        <translation>系列を行方向に定義</translation>
+        <translation type="obsolete">系列を行方向に定義</translation>
     </message>
     <message>
         <source>Chart Objects</source>
-        <translation>グラフ オブジェクト</translation>
+        <translation type="obsolete">グラフ オブジェクト</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation>グラフの種類</translation>
+        <translation type="obsolete">グラフの種類</translation>
     </message>
     <message>
         <source>Data Table</source>
-        <translation>データ テーブル</translation>
+        <translation type="obsolete">データ テーブル</translation>
     </message>
     <message>
         <source>Format Chart</source>
-        <translation>グラフの書式設定</translation>
+        <translation type="obsolete">グラフの書式設定</translation>
     </message>
     <message>
         <source>Legend</source>
-        <translation>凡例</translation>
+        <translation type="obsolete">凡例</translation>
     </message>
 </context>
 <context>
     <name>classics.control_tool_box</name>
     <message>
         <source>Check Box</source>
-        <translation>チェック ボックス</translation>
+        <translation type="obsolete">チェック ボックス</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation>コンボ ボックス</translation>
+        <translation type="obsolete">コンボ ボックス</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation>コマンド ボタン</translation>
+        <translation type="obsolete">コマンド ボタン</translation>
     </message>
     <message>
         <source>Control List</source>
-        <translation>コントロール リスト</translation>
+        <translation type="obsolete">コントロール リスト</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>デザイン モード</translation>
+        <translation type="obsolete">デザイン モード</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>画像</translation>
+        <translation type="obsolete">画像</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>ラベル</translation>
+        <translation type="obsolete">ラベル</translation>
     </message>
     <message>
         <source>List Box</source>
-        <translation>リスト ボックス</translation>
+        <translation type="obsolete">リスト ボックス</translation>
     </message>
     <message>
         <source>List Button</source>
@@ -207,190 +207,190 @@
     </message>
     <message>
         <source>More Controls</source>
-        <translation>コントロールの選択</translation>
+        <translation type="obsolete">コントロールの選択</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation>オプション ボタン</translation>
+        <translation type="obsolete">オプション ボタン</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>プロパティ</translation>
+        <translation type="obsolete">プロパティ</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation>スクロール バー</translation>
+        <translation type="obsolete">スクロール バー</translation>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation>スピン ボタン</translation>
+        <translation type="obsolete">スピン ボタン</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>テキスト ボックス</translation>
+        <translation type="obsolete">テキスト ボックス</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation>トグル ボタン</translation>
+        <translation type="obsolete">トグル ボタン</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>コードの表示</translation>
+        <translation type="obsolete">コードの表示</translation>
     </message>
 </context>
 <context>
     <name>classics.drawing</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
+        <translation type="obsolete">0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 pt</translation>
+        <translation type="obsolete"> 0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
+        <translation type="obsolete">0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 pt</translation>
+        <translation type="obsolete">   1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 pt</translation>
+        <translation type="obsolete"> 1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
+        <translation type="obsolete">2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 pt</translation>
+        <translation type="obsolete">   3 pt</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>3Dの設定</translation>
+        <translation type="obsolete">3Dの設定</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>3Dスタイル</translation>
+        <translation type="obsolete">3Dスタイル</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation>3D スタイル 1</translation>
+        <translation type="obsolete">3D スタイル 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation>3D スタイル 10</translation>
+        <translation type="obsolete">3D スタイル 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation>3D スタイル 11</translation>
+        <translation type="obsolete">3D スタイル 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation>3D スタイル 12</translation>
+        <translation type="obsolete">3D スタイル 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation>3D スタイル 13</translation>
+        <translation type="obsolete">3D スタイル 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation>3D スタイル 14</translation>
+        <translation type="obsolete">3D スタイル 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation>3D スタイル 15</translation>
+        <translation type="obsolete">3D スタイル 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation>3D スタイル 15</translation>
+        <translation type="obsolete">3D スタイル 15</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation>3D スタイル 17</translation>
+        <translation type="obsolete">3D スタイル 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation>3D スタイル 18</translation>
+        <translation type="obsolete">3D スタイル 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation>3D スタイル 19</translation>
+        <translation type="obsolete">3D スタイル 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation>3D スタイル 2</translation>
+        <translation type="obsolete">3D スタイル 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation>3D スタイル 20</translation>
+        <translation type="obsolete">3D スタイル 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation>3D スタイル 3</translation>
+        <translation type="obsolete">3D スタイル 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation>3D スタイル 4</translation>
+        <translation type="obsolete">3D スタイル 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation>3D スタイル 5</translation>
+        <translation type="obsolete">3D スタイル 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation>3D スタイル 6</translation>
+        <translation type="obsolete">3D スタイル 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation>3D スタイル 7</translation>
+        <translation type="obsolete">3D スタイル 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation>3D スタイル 8</translation>
+        <translation type="obsolete">3D スタイル 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation>3D スタイル 9</translation>
+        <translation type="obsolete">3D スタイル 9</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 pt</translation>
+        <translation type="obsolete"> 4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 pt</translation>
+        <translation type="obsolete">   6 pt</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>下寄せ</translation>
+        <translation type="obsolete">下寄せ</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>左右中央寄せ</translation>
+        <translation type="obsolete">左右中央寄せ</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>上下中央寄せ</translation>
+        <translation type="obsolete">上下中央寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>上寄せ</translation>
+        <translation type="obsolete">上寄せ</translation>
     </message>
     <message>
         <source>Align or Distribute</source>
-        <translation>配置/整列</translation>
+        <translation type="obsolete">配置/整列</translation>
     </message>
     <message>
         <source>Align/Distribute/Equalize</source>
@@ -398,55 +398,55 @@
     </message>
     <message>
         <source>Arrow</source>
-        <translation>矢印</translation>
+        <translation type="obsolete">矢印</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation>矢印のスタイル</translation>
+        <translation type="obsolete">矢印のスタイル</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation>矢印のスタイル 1</translation>
+        <translation type="obsolete">矢印のスタイル 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation>矢印のスタイル 10</translation>
+        <translation type="obsolete">矢印のスタイル 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation>矢印のスタイル 11</translation>
+        <translation type="obsolete">矢印のスタイル 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation>矢印のスタイル 2</translation>
+        <translation type="obsolete">矢印のスタイル 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation>矢印のスタイル 3</translation>
+        <translation type="obsolete">矢印のスタイル 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation>矢印のスタイル 4</translation>
+        <translation type="obsolete">矢印のスタイル 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation>矢印のスタイル 5</translation>
+        <translation type="obsolete">矢印のスタイル 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation>矢印のスタイル 6</translation>
+        <translation type="obsolete">矢印のスタイル 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation>矢印のスタイル 7</translation>
+        <translation type="obsolete">矢印のスタイル 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation>矢印のスタイル 8</translation>
+        <translation type="obsolete">矢印のスタイル 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation>矢印のスタイル 9</translation>
+        <translation type="obsolete">矢印のスタイル 9</translation>
     </message>
     <message>
         <source>Auto Shapes</source>
@@ -454,15 +454,15 @@
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>図形選択</translation>
+        <translation type="obsolete">図形選択</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>前面へ移動</translation>
+        <translation type="obsolete">前面へ移動</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>最前面へ移動</translation>
+        <translation type="obsolete">最前面へ移動</translation>
     </message>
     <message>
         <source>Change Points</source>
@@ -470,19 +470,19 @@
     </message>
     <message>
         <source>Dash</source>
-        <translation>破線</translation>
+        <translation type="obsolete">破線</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>一点鎖線</translation>
+        <translation type="obsolete">一点鎖線</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>実線/点線のスタイル</translation>
+        <translation type="obsolete">実線/点線のスタイル</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -494,31 +494,31 @@
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>左右に整列</translation>
+        <translation type="obsolete">左右に整列</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>上下に整列</translation>
+        <translation type="obsolete">上下に整列</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation>図形描画</translation>
+        <translation type="obsolete">図形描画</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation>頂点の編集</translation>
+        <translation type="obsolete">頂点の編集</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>高さ揃え</translation>
+        <translation type="obsolete">高さ揃え</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>サイズ揃え</translation>
+        <translation type="obsolete">サイズ揃え</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>幅揃え</translation>
+        <translation type="obsolete">幅揃え</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -530,27 +530,27 @@
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>塗りつぶしの色</translation>
+        <translation type="obsolete">塗りつぶしの色</translation>
     </message>
     <message>
         <source>Fill Effects</source>
-        <translation>塗りつぶし効果</translation>
+        <translation type="obsolete">塗りつぶし効果</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>左右反転</translation>
+        <translation type="obsolete">左右反転</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>上下反転</translation>
+        <translation type="obsolete">上下反転</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>フォントの色</translation>
+        <translation type="obsolete">フォントの色</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>自由に回転</translation>
+        <translation type="obsolete">自由に回転</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -558,7 +558,7 @@
     </message>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -566,27 +566,23 @@
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>横書き</translation>
+        <translation type="obsolete">横書き</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation>クリップアートの挿入</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">クリップアートの挿入</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>図の挿入</translation>
+        <translation type="obsolete">図の挿入</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>直線</translation>
+        <translation type="obsolete">直線</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation>線の色</translation>
+        <translation type="obsolete">線の色</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -602,11 +598,11 @@
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>長破線</translation>
+        <translation type="obsolete">長破線</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>長鎖線</translation>
+        <translation type="obsolete">長鎖線</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -614,63 +610,59 @@
     </message>
     <message>
         <source>More Arrows</source>
-        <translation>その他の矢印</translation>
+        <translation type="obsolete">その他の矢印</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>その他の線</translation>
+        <translation type="obsolete">その他の線</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3Dなし</translation>
+        <translation type="obsolete">3Dなし</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>影なし</translation>
+        <translation type="obsolete">影なし</translation>
     </message>
     <message>
         <source>Nudge</source>
-        <translation>微調整</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">微調整</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation>順序</translation>
+        <translation type="obsolete">順序</translation>
     </message>
     <message>
         <source>Oval</source>
-        <translation>楕円</translation>
+        <translation type="obsolete">楕円</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>線のパターン</translation>
+        <translation type="obsolete">線のパターン</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>四角形</translation>
+        <translation type="obsolete">四角形</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>左90度回転</translation>
+        <translation type="obsolete">左90度回転</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>右90度回転</translation>
+        <translation type="obsolete">右90度回転</translation>
     </message>
     <message>
         <source>Rotate or Flip</source>
-        <translation>回転/反転</translation>
+        <translation type="obsolete">回転/反転</translation>
     </message>
     <message>
         <source>Rotate/Flip</source>
@@ -678,35 +670,35 @@
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>点線 (丸)</translation>
+        <translation type="obsolete">点線 (丸)</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>オブジェクトの選択</translation>
+        <translation type="obsolete">オブジェクトの選択</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オプジェクトの選択と表示</translation>
+        <translation type="obsolete">オプジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>背面へ移動</translation>
+        <translation type="obsolete">背面へ移動</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>最背面へ移動</translation>
+        <translation type="obsolete">最背面へ移動</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation>図形の既定値に設定</translation>
+        <translation type="obsolete">図形の既定値に設定</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>影付きスタイル</translation>
+        <translation type="obsolete">影付きスタイル</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>影の設定</translation>
+        <translation type="obsolete">影の設定</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -714,83 +706,83 @@
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation>影のスタイル 1</translation>
+        <translation type="obsolete">影のスタイル 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation>影のスタイル 10</translation>
+        <translation type="obsolete">影のスタイル 10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation>影のスタイル 11</translation>
+        <translation type="obsolete">影のスタイル 11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation>影のスタイル 12</translation>
+        <translation type="obsolete">影のスタイル 12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
-        <translation>影のスタイル 13</translation>
+        <translation type="obsolete">影のスタイル 13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation>影のスタイル 14</translation>
+        <translation type="obsolete">影のスタイル 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation>影のスタイル 15</translation>
+        <translation type="obsolete">影のスタイル 15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation>影のスタイル 16</translation>
+        <translation type="obsolete">影のスタイル 16</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation>影のスタイル 17</translation>
+        <translation type="obsolete">影のスタイル 17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation>影のスタイル 18</translation>
+        <translation type="obsolete">影のスタイル 18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation>影のスタイル 19</translation>
+        <translation type="obsolete">影のスタイル 19</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation>影のスタイル 2</translation>
+        <translation type="obsolete">影のスタイル 2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation>影のスタイル 20</translation>
+        <translation type="obsolete">影のスタイル 20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation>影のスタイル 3</translation>
+        <translation type="obsolete">影のスタイル 3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation>影のスタイル 4</translation>
+        <translation type="obsolete">影のスタイル 4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation>影のスタイル 5</translation>
+        <translation type="obsolete">影のスタイル 5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation>影のスタイル 6</translation>
+        <translation type="obsolete">影のスタイル 6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation>影のスタイル 7</translation>
+        <translation type="obsolete">影のスタイル 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation>影のスタイル 8</translation>
+        <translation type="obsolete">影のスタイル 8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation>影のスタイル 9</translation>
+        <translation type="obsolete">影のスタイル 9</translation>
     </message>
     <message>
         <source>Shift</source>
@@ -798,19 +790,19 @@
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>グリッド線に合わせる</translation>
+        <translation type="obsolete">グリッド線に合わせる</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>実線</translation>
+        <translation type="obsolete">実線</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>点線 (角)</translation>
+        <translation type="obsolete">点線 (角)</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -818,55 +810,55 @@
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>縦書き</translation>
+        <translation type="obsolete">縦書き</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>線の種類</translation>
+        <translation type="obsolete">線の種類</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>アート文字の挿入</translation>
+        <translation type="obsolete">アート文字の挿入</translation>
     </message>
 </context>
 <context>
     <name>classics.drawing.NudgeDown</name>
     <message>
         <source>Down</source>
-        <translation>下</translation>
+        <translation type="obsolete">下</translation>
     </message>
 </context>
 <context>
     <name>classics.drawing.NudgeLeft</name>
     <message>
         <source>Left</source>
-        <translation>左</translation>
+        <translation type="obsolete">左</translation>
     </message>
 </context>
 <context>
     <name>classics.drawing.NudgeRight</name>
     <message>
         <source>Right</source>
-        <translation>右</translation>
+        <translation type="obsolete">右</translation>
     </message>
 </context>
 <context>
     <name>classics.drawing.NudgeUp</name>
     <message>
         <source>Up</source>
-        <translation>上</translation>
+        <translation type="obsolete">上</translation>
     </message>
 </context>
 <context>
     <name>classics.external_data</name>
     <message>
         <source>Data Range Properties</source>
-        <translation>外部データ範囲のプロパティ</translation>
+        <translation type="obsolete">外部データ範囲のプロパティ</translation>
     </message>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished">OLE
+        <translation type="obsolete">OLE
 DB クエリの編集</translation>
     </message>
     <message>
@@ -875,7 +867,7 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Edit Query</source>
-        <translation>OLE DBクエリの編集</translation>
+        <translation type="obsolete">OLE DBクエリの編集</translation>
     </message>
     <message>
         <source>External Data Range Properties</source>
@@ -883,34 +875,34 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation>すべて更新</translation>
+        <translation type="obsolete">すべて更新</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>データの更新</translation>
+        <translation type="obsolete">データの更新</translation>
     </message>
 </context>
 <context>
     <name>classics.formatting</name>
     <message>
         <source>Across Center</source>
-        <translation type="unfinished">選択範囲内で中央</translation>
+        <translation type="obsolete">選択範囲内で中央</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Borders</source>
-        <translation>罫線</translation>
+        <translation type="obsolete">罫線</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>中央寄せ</translation>
+        <translation type="obsolete">中央寄せ</translation>
     </message>
     <message>
         <source>Columns Center</source>
@@ -918,19 +910,19 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Comma Style</source>
-        <translation>桁区切りスタイル</translation>
+        <translation type="obsolete">桁区切りスタイル</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation>通貨スタイル</translation>
+        <translation type="obsolete">通貨スタイル</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
-        <translation>小数点表示桁下げ</translation>
+        <translation type="obsolete">小数点表示桁下げ</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation>インデント解除</translation>
+        <translation type="obsolete">インデント解除</translation>
     </message>
     <message>
         <source>Draw Border</source>
@@ -938,118 +930,114 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Draw Borders</source>
-        <translation>罫線の作成</translation>
+        <translation type="obsolete">罫線の作成</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>塗りつぶしの色</translation>
+        <translation type="obsolete">塗りつぶしの色</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>フォント</translation>
+        <translation type="obsolete">フォント</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>フォントの色</translation>
+        <translation type="obsolete">フォントの色</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>サイズ</translation>
+        <translation type="obsolete">サイズ</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
-        <translation>小数点表示桁上げ</translation>
+        <translation type="obsolete">小数点表示桁上げ</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation>インデント追加</translation>
+        <translation type="obsolete">インデント追加</translation>
     </message>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished">セルを結合して
+        <translation type="obsolete">セルを結合して
 中央寄せ</translation>
     </message>
     <message>
         <source>Merge Across</source>
-        <translation>選択範囲内で結合</translation>
+        <translation type="obsolete">選択範囲内で結合</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation>セルの結合</translation>
+        <translation type="obsolete">セルの結合</translation>
     </message>
     <message>
         <source>Merge and 
 Center</source>
-        <translation type="unfinished">セルを結合して
+        <translation type="obsolete">セルを結合して
 中央寄せ</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation>セルを結合して中央揃え</translation>
+        <translation type="obsolete">セルを結合して中央揃え</translation>
     </message>
     <message>
         <source>Percent Style</source>
-        <translation>パーセント スタイル</translation>
-    </message>
-    <message>
-        <source>Unmerge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">パーセント スタイル</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>折り返し</translation>
+        <translation type="obsolete">折り返し</translation>
     </message>
 </context>
 <context>
     <name>classics.forms_tool_box</name>
     <message>
         <source>Button</source>
-        <translation>ボタン</translation>
+        <translation type="obsolete">ボタン</translation>
     </message>
     <message>
         <source>Check Box</source>
-        <translation>チェック ボックス</translation>
+        <translation type="obsolete">チェック ボックス</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation>コンボ ボックス</translation>
+        <translation type="obsolete">コンボ ボックス</translation>
     </message>
     <message>
         <source>Control Properties</source>
-        <translation>コントロールのプロパティ</translation>
+        <translation type="obsolete">コントロールのプロパティ</translation>
     </message>
     <message>
         <source>Edit Code</source>
-        <translation>コードの編集</translation>
+        <translation type="obsolete">コードの編集</translation>
     </message>
     <message>
         <source>Group Box</source>
-        <translation>グループ ボックス</translation>
+        <translation type="obsolete">グループ ボックス</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>ラベル</translation>
+        <translation type="obsolete">ラベル</translation>
     </message>
     <message>
         <source>List Box</source>
-        <translation>リスト ボックス</translation>
+        <translation type="obsolete">リスト ボックス</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation>オプション ボタン</translation>
+        <translation type="obsolete">オプション ボタン</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation>スクロール バー</translation>
+        <translation type="obsolete">スクロール バー</translation>
     </message>
     <message>
         <source>Spinner</source>
-        <translation>スピン ボタン</translation>
+        <translation type="obsolete">スピン ボタン</translation>
     </message>
     <message>
         <source>Toggle Grid</source>
-        <translation>グリッド</translation>
+        <translation type="obsolete">グリッド</translation>
     </message>
 </context>
 <context>
@@ -1060,69 +1048,69 @@ Center</source>
     </message>
     <message>
         <source>Close Full Screen</source>
-        <translation>元に戻す</translation>
+        <translation type="obsolete">元に戻す</translation>
     </message>
 </context>
 <context>
     <name>classics.ole_options</name>
     <message>
         <source>Set Display Area</source>
-        <translation>表示エリアの設定</translation>
+        <translation type="obsolete">表示エリアの設定</translation>
     </message>
 </context>
 <context>
     <name>classics.picture</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
+        <translation type="obsolete">0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 pt</translation>
+        <translation type="obsolete"> 0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
+        <translation type="obsolete">0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 pt</translation>
+        <translation type="obsolete">   1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 pt</translation>
+        <translation type="obsolete"> 1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
+        <translation type="obsolete">2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 pt</translation>
+        <translation type="obsolete">   3 pt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 pt</translation>
+        <translation type="obsolete"> 4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 pt</translation>
+        <translation type="obsolete">   6 pt</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>自動</translation>
+        <translation type="obsolete">自動</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation>白黒</translation>
+        <translation type="obsolete">白黒</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>他のグラフィックスに変更する</translation>
+        <translation type="obsolete">他のグラフィックスに変更する</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>色</translation>
+        <translation type="obsolete">色</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -1130,11 +1118,11 @@ Center</source>
     </message>
     <message>
         <source>Crop</source>
-        <translation>トリミング</translation>
+        <translation type="obsolete">トリミング</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>オブジェクトの書式設定</translation>
+        <translation type="obsolete">オブジェクトの書式設定</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -1142,23 +1130,23 @@ Center</source>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>グレースケール</translation>
+        <translation type="obsolete">グレースケール</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>図の挿入</translation>
+        <translation type="obsolete">図の挿入</translation>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation>明るさ(弱)</translation>
+        <translation type="obsolete">明るさ(弱)</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation>コントラスト (弱)</translation>
+        <translation type="obsolete">コントラスト (弱)</translation>
     </message>
     <message>
         <source>Line Sytle</source>
-        <translation>線の種類</translation>
+        <translation type="obsolete">線の種類</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
@@ -1166,122 +1154,122 @@ Center</source>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation>明るさ(強)</translation>
+        <translation type="obsolete">明るさ(強)</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation>コントラスト (強)</translation>
+        <translation type="obsolete">コントラスト (強)</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>その他の線</translation>
+        <translation type="obsolete">その他の線</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>図のリセット</translation>
+        <translation type="obsolete">図のリセット</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>左90度回転</translation>
+        <translation type="obsolete">左90度回転</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>透明な色に設定</translation>
+        <translation type="obsolete">透明な色に設定</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation>ウォッシュアウト</translation>
+        <translation type="obsolete">ウォッシュアウト</translation>
     </message>
 </context>
 <context>
     <name>classics.pivot_table</name>
     <message>
         <source>Always Display Items</source>
-        <translation>アイテムを常に表示</translation>
+        <translation type="obsolete">アイテムを常に表示</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
-        <translation>削除</translation>
+        <translation type="obsolete">削除</translation>
     </message>
     <message>
         <source>Field Settings</source>
-        <translation>フィールド設定</translation>
+        <translation type="obsolete">フィールド設定</translation>
     </message>
     <message>
         <source>Format Report</source>
-        <translation>レポートの書式設定</translation>
+        <translation type="obsolete">レポートの書式設定</translation>
     </message>
     <message>
         <source>Group and Show Detail</source>
-        <translation>グループと詳細の表示</translation>
+        <translation type="obsolete">グループと詳細の表示</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>表示しない</translation>
+        <translation type="obsolete">表示しない</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation>詳細を表示しない</translation>
+        <translation type="obsolete">詳細を表示しない</translation>
     </message>
     <message>
         <source>Hide Field List</source>
-        <translation>フィールド リストを表示しない</translation>
+        <translation type="obsolete">フィールド リストを表示しない</translation>
     </message>
     <message>
         <source>Include Hidden Items in Totals</source>
-        <translation>非表示のアイテムを合計に含む </translation>
+        <translation type="obsolete">非表示のアイテムを合計に含む </translation>
     </message>
     <message>
         <source>Move Down</source>
-        <translation>下へ移動</translation>
+        <translation type="obsolete">下へ移動</translation>
     </message>
     <message>
         <source>Move Left</source>
-        <translation>左方向にシフト</translation>
+        <translation type="obsolete">左方向にシフト</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>右方向にシフト</translation>
+        <translation type="obsolete">右方向にシフト</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>1つ上のレベルへ移動</translation>
+        <translation type="obsolete">1つ上のレベルへ移動</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
-        <translation>先頭へ移動</translation>
+        <translation type="obsolete">先頭へ移動</translation>
     </message>
     <message>
         <source>Move to End</source>
-        <translation>末尾に移動</translation>
+        <translation type="obsolete">末尾に移動</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>ピボットテーブル</translation>
+        <translation type="obsolete">ピボットテーブル</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation>ピボットテーブルオプション</translation>
+        <translation type="obsolete">ピボットテーブルオプション</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>データの更新</translation>
+        <translation type="obsolete">データの更新</translation>
     </message>
     <message>
         <source>Show Detail</source>
-        <translation>詳細データの表示</translation>
+        <translation type="obsolete">詳細データの表示</translation>
     </message>
     <message>
         <source>Show Field List</source>
-        <translation>フィールド リストの表示</translation>
+        <translation type="obsolete">フィールド リストの表示</translation>
     </message>
     <message>
         <source>Sort and Top 10</source>
-        <translation>並べ替えてトップテンを表示</translation>
+        <translation type="obsolete">並べ替えてトップテンを表示</translation>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation>集計</translation>
+        <translation type="obsolete">集計</translation>
     </message>
     <message>
         <source>Table Options</source>
@@ -1292,42 +1280,42 @@ Center</source>
     <name>classics.pivot_table.Order</name>
     <message>
         <source>Order</source>
-        <translation>順序</translation>
+        <translation type="obsolete">順序</translation>
     </message>
 </context>
 <context>
     <name>classics.print_preview</name>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation type="obsolete">閉じる</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>横</translation>
+        <translation type="obsolete">横</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation>余白</translation>
+        <translation type="obsolete">余白</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation>次ページ</translation>
+        <translation type="obsolete">次ページ</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>改ページプレビュー</translation>
+        <translation type="obsolete">改ページプレビュー</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>ページ設定</translation>
+        <translation type="obsolete">ページ設定</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>縦</translation>
+        <translation type="obsolete">縦</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation>前ページ</translation>
+        <translation type="obsolete">前ページ</translation>
     </message>
     <message>
         <source>Scaling</source>
@@ -1335,37 +1323,37 @@ Center</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>拡大/縮小</translation>
+        <translation type="obsolete">拡大/縮小</translation>
     </message>
 </context>
 <context>
     <name>classics.protection</name>
     <message>
         <source>Allow User to Edit Ranges</source>
-        <translation>範囲の編集を許可</translation>
+        <translation type="obsolete">範囲の編集を許可</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translation>セルのロック</translation>
+        <translation type="obsolete">セルのロック</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation>シートの保護</translation>
+        <translation type="obsolete">シートの保護</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
-        <translation>ブック</translation>
+        <translation type="obsolete">ブック</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation>ブックの保護と共有</translation>
+        <translation type="obsolete">ブックの保護と共有</translation>
     </message>
 </context>
 <context>
     <name>classics.record_macro</name>
     <message>
         <source>Relative References</source>
-        <translation>相対参照で記録</translation>
+        <translation type="obsolete">相対参照で記録</translation>
     </message>
     <message>
         <source>Relative Refrence</source>
@@ -1377,42 +1365,42 @@ Center</source>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation>マクロの記録を停止</translation>
+        <translation type="obsolete">マクロの記録を停止</translation>
     </message>
 </context>
 <context>
     <name>classics.shadow_settings</name>
     <message>
         <source>More Shadow Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>影の微調整(下)</translation>
+        <translation type="obsolete">影の微調整(下)</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>影の微調整(左)</translation>
+        <translation type="obsolete">影の微調整(左)</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>影の微調整(右)</translation>
+        <translation type="obsolete">影の微調整(右)</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>影の微調整(上)</translation>
+        <translation type="obsolete">影の微調整(上)</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation>半透明の影</translation>
+        <translation type="obsolete">半透明の影</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation>影の色</translation>
+        <translation type="obsolete">影の色</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>影のオン／オフ</translation>
+        <translation type="obsolete">影のオン／オフ</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
@@ -1430,80 +1418,32 @@ Center</source>
         <source>Shift Shadow Up</source>
         <translation type="obsolete">影の微調整(上)</translation>
     </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>classics.standard</name>
     <message>
-        <source>Above Average</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>AutoFilter</source>
-        <translation>自動フィルタ</translation>
+        <translation type="obsolete">自動フィルタ</translation>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation>合計</translation>
+        <translation type="obsolete">合計</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>平均値</translation>
-    </message>
-    <message>
-        <source>Begin with</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Below Average</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Between</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom 10</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">平均値</translation>
     </message>
     <message>
         <source>Chart Wizard</source>
-        <translation>グラフ ウィザード</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">グラフ ウィザード</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>データの個数</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">データの個数</translation>
     </message>
     <message>
         <source>Docer-Online Templates</source>
         <translation type="obsolete">ホーム</translation>
-    </message>
-    <message>
-        <source>Does not contain</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -1514,32 +1454,12 @@ Center</source>
         <translation type="obsolete">Eメール</translation>
     </message>
     <message>
-        <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>End with</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equal to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Equation</source>
-        <translation>数式</translation>
-    </message>
-    <message>
-        <source>Error Value </source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">数式</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDFファイルとして出力(F)</translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">PDFファイルとして出力(F)</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -1547,11 +1467,11 @@ Center</source>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>書式のコピー/貼り付け</translation>
+        <translation type="obsolete">書式のコピー/貼り付け</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation>数式</translation>
+        <translation type="obsolete">数式</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -1562,14 +1482,6 @@ Center</source>
         <translation type="obsolete">Google Docs</translation>
     </message>
     <message>
-        <source>Greater than</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highlight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Highlight Duplicates</source>
         <translation type="obsolete">重複する値を蛍光ペンで表示</translation>
     </message>
@@ -1578,60 +1490,36 @@ Center</source>
         <translation type="obsolete">ホーム</translation>
     </message>
     <message>
-        <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Hyperlink</source>
-        <translation>ハイパーリンク</translation>
-    </message>
-    <message>
-        <source>Last month</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last week</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">ハイパーリンク</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>最大値</translation>
+        <translation type="obsolete">最大値</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>最小値</translation>
+        <translation type="obsolete">最小値</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>Kingsoft情報パネル</translation>
+        <translation type="obsolete">Kingsoft情報パネル</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation>その他の関数</translation>
-    </message>
-    <message>
-        <source>Next month</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">その他の関数</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>枠なし</translation>
+        <translation type="obsolete">枠なし</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>ホーム</translation>
+        <translation type="obsolete">ホーム</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>貼り付け</translation>
+        <translation type="obsolete">貼り付け</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -1639,11 +1527,11 @@ Center</source>
     </message>
     <message>
         <source>Paste as Picture</source>
-        <translation>図として貼り付け</translation>
+        <translation type="obsolete">図として貼り付け</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation>形式なし貼り付け</translation>
+        <translation type="obsolete">形式なし貼り付け</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -1651,11 +1539,11 @@ Center</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>シリアル購入</translation>
+        <translation type="obsolete">シリアル購入</translation>
     </message>
     <message>
         <source>Reapply</source>
-        <translation>再適用</translation>
+        <translation type="obsolete">再適用</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -1667,121 +1555,77 @@ Center</source>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation>Eメール</translation>
+        <translation type="obsolete">Eメール</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
-        <translation>昇順</translation>
+        <translation type="obsolete">昇順</translation>
     </message>
     <message>
         <source>Sort Descending</source>
-        <translation>降順</translation>
-    </message>
-    <message>
-        <source>Special Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">降順</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation>合計</translation>
+        <translation type="obsolete">合計</translation>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation>言語の変更</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This month</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This week</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Today</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top 10</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">言語の変更</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>簡体字中国語​​に翻訳</translation>
+        <translation type="obsolete">簡体字中国語​​に翻訳</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>繁体字中国語に翻訳</translation>
+        <translation type="obsolete">繁体字中国語に翻訳</translation>
     </message>
     <message>
         <source>Transpose</source>
-        <translation>転置</translation>
-    </message>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">転置</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation>値</translation>
+        <translation type="obsolete">値</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation>Kingsoft サポート</translation>
-    </message>
-    <message>
-        <source>Weekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Kingsoft サポート</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>ズーム</translation>
+        <translation type="obsolete">ズーム</translation>
     </message>
 </context>
 <context>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>UI切り替え</translation>
+        <translation type="obsolete">UI切り替え</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
     <name>classics.word_art</name>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation>下アーチ</translation>
+        <translation type="obsolete">下アーチ</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
-        <translation>下アーチ (太)</translation>
+        <translation type="obsolete">下アーチ (太)</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation>右回り</translation>
+        <translation type="obsolete">右回り</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
-        <translation>上アーチ (太)</translation>
+        <translation type="obsolete">上アーチ (太)</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
@@ -1793,11 +1637,11 @@ Center</source>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation>ボタン</translation>
+        <translation type="obsolete">ボタン</translation>
     </message>
     <message>
         <source>Button (Pour)</source>
-        <translation>下 (太)</translation>
+        <translation type="obsolete">下 (太)</translation>
     </message>
     <message>
         <source>Button(Curve)</source>
@@ -1809,264 +1653,264 @@ Center</source>
     </message>
     <message>
         <source>Can Down</source>
-        <translation>下カープ</translation>
+        <translation type="obsolete">下カープ</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation>上カープ</translation>
+        <translation type="obsolete">上カープ</translation>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation>右下がり2</translation>
+        <translation type="obsolete">右下がり2</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation>右上がり2</translation>
+        <translation type="obsolete">右上がり2</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>中央寄せ</translation>
+        <translation type="obsolete">中央寄せ</translation>
     </message>
     <message>
         <source>Chevron Down</source>
-        <translation>逆矢じり</translation>
+        <translation type="obsolete">逆矢じり</translation>
     </message>
     <message>
         <source>Chevron Up</source>
-        <translation>矢じり</translation>
+        <translation type="obsolete">矢じり</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
-        <translation>円</translation>
+        <translation type="obsolete">円</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
-        <translation>円 （太）</translation>
+        <translation type="obsolete">円 （太）</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation>左上がりカーブ</translation>
+        <translation type="obsolete">左上がりカーブ</translation>
     </message>
     <message>
         <source>Curve Up</source>
-        <translation>右上がりカーブ</translation>
+        <translation type="obsolete">右上がりカーブ</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
     <message>
         <source>Deflate</source>
-        <translation>凹レンズ</translation>
+        <translation type="obsolete">凹レンズ</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
-        <translation>下凹レンズ</translation>
+        <translation type="obsolete">下凹レンズ</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
-        <translation>凹凸レンズ1</translation>
+        <translation type="obsolete">凹凸レンズ1</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
-        <translation>凹凸レンズ2</translation>
+        <translation type="obsolete">凹凸レンズ2</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation>上凹レンズ</translation>
+        <translation type="obsolete">上凹レンズ</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
-        <translation>小波1</translation>
+        <translation type="obsolete">小波1</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
-        <translation>小波2</translation>
+        <translation type="obsolete">小波2</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation>テキストの編集</translation>
+        <translation type="obsolete">テキストの編集</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation>フェードダウン</translation>
+        <translation type="obsolete">フェードダウン</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation>フェードレフト</translation>
+        <translation type="obsolete">フェードレフト</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation>フェードライト</translation>
+        <translation type="obsolete">フェードライト</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation>フェードアップ</translation>
+        <translation type="obsolete">フェードアップ</translation>
     </message>
     <message>
         <source>Format WordArt</source>
-        <translation>アート文字の書式設定</translation>
+        <translation type="obsolete">アート文字の書式設定</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation>凸レンズ</translation>
+        <translation type="obsolete">凸レンズ</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
-        <translation>下凸レンズ</translation>
+        <translation type="obsolete">下凸レンズ</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation>上凸レンズ</translation>
+        <translation type="obsolete">上凸レンズ</translation>
     </message>
     <message>
         <source>Left Align</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>両端寄せ（文字単位）</translation>
+        <translation type="obsolete">両端寄せ（文字単位）</translation>
     </message>
     <message>
         <source>Loose</source>
-        <translation>広く</translation>
+        <translation type="obsolete">広く</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>右回り</translation>
+        <translation type="obsolete">右回り</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>左回り</translation>
+        <translation type="obsolete">左回り</translation>
     </message>
     <message>
         <source>Slant Down</source>
-        <translation>右下がり</translation>
+        <translation type="obsolete">右下がり</translation>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation>右上がり</translation>
+        <translation type="obsolete">右上がり</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>停止</translation>
+        <translation type="obsolete">停止</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>両端寄せ</translation>
+        <translation type="obsolete">両端寄せ</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation>逆三角形</translation>
+        <translation type="obsolete">逆三角形</translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation>三角形</translation>
+        <translation type="obsolete">三角形</translation>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation>より広く</translation>
+        <translation type="obsolete">より広く</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>より狭く</translation>
+        <translation type="obsolete">より狭く</translation>
     </message>
     <message>
         <source>Wave 1</source>
-        <translation>大波1</translation>
+        <translation type="obsolete">大波1</translation>
     </message>
     <message>
         <source>Wave 2</source>
-        <translation>大波2</translation>
+        <translation type="obsolete">大波2</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation>両端寄せ（単語単位）</translation>
+        <translation type="obsolete">両端寄せ（単語単位）</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>アート文字の挿入</translation>
+        <translation type="obsolete">アート文字の挿入</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>アート文字:配置</translation>
+        <translation type="obsolete">アート文字:配置</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation>アート文字:文字の間隔</translation>
+        <translation type="obsolete">アート文字:文字の間隔</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>アート文字 ギャラリー</translation>
+        <translation type="obsolete">アート文字 ギャラリー</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation>アート文字：文字の高さを揃える</translation>
+        <translation type="obsolete">アート文字：文字の高さを揃える</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>アート文字：形状</translation>
+        <translation type="obsolete">アート文字：形状</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>アート文字：縦書きテキスト</translation>
+        <translation type="obsolete">アート文字：縦書きテキスト</translation>
     </message>
 </context>
 <context>
     <name>classics.word_art.WordArtCharacterSpacing</name>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>狭く</translation>
+        <translation type="obsolete">狭く</translation>
     </message>
 </context>
 <context>
     <name>etclassics.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation>Spreadsheets</translation>
+        <translation type="obsolete">Spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>etclassics.mainwindow.commands</name>
     <message>
         <source>3-D Settings</source>
-        <translation>3Dの設定</translation>
+        <translation type="obsolete">3Dの設定</translation>
     </message>
     <message>
         <source>Borders</source>
-        <translation>罫線</translation>
+        <translation type="obsolete">罫線</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation>グラフ</translation>
+        <translation type="obsolete">グラフ</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation>コントロール ツールボックス</translation>
+        <translation type="obsolete">コントロール ツールボックス</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation>図形描画</translation>
+        <translation type="obsolete">図形描画</translation>
     </message>
     <message>
         <source>Formatting</source>
-        <translation>書式</translation>
+        <translation type="obsolete">書式</translation>
     </message>
     <message>
         <source>Forms</source>
-        <translation>フォーム</translation>
+        <translation type="obsolete">フォーム</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -2074,7 +1918,7 @@ Center</source>
     </message>
     <message>
         <source>Import Data</source>
-        <translation>外部データ</translation>
+        <translation type="obsolete">外部データ</translation>
     </message>
     <message>
         <source>Menu Bar</source>
@@ -2082,31 +1926,31 @@ Center</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>オフィススペース</translation>
+        <translation type="obsolete">オフィススペース</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>ピボットテーブル</translation>
+        <translation type="obsolete">ピボットテーブル</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>印刷プレビュー</translation>
+        <translation type="obsolete">印刷プレビュー</translation>
     </message>
     <message>
         <source>Protection</source>
-        <translation>保護</translation>
+        <translation type="obsolete">保護</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>影の設定</translation>
+        <translation type="obsolete">影の設定</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Stop Record Macro</source>
@@ -2114,7 +1958,7 @@ Center</source>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation>マクロの記録を停止</translation>
+        <translation type="obsolete">マクロの記録を停止</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -2122,7 +1966,7 @@ Center</source>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>アート文字</translation>
+        <translation type="obsolete">アート文字</translation>
     </message>
     <message>
         <source>Work Space</source>
@@ -2130,7 +1974,7 @@ Center</source>
     </message>
     <message>
         <source>Worksheet Menu Bar</source>
-        <translation>ワークシートメニューバー</translation>
+        <translation type="obsolete">ワークシートメニューバー</translation>
     </message>
 </context>
 <context>
@@ -2141,7 +1985,7 @@ Center</source>
     </message>
     <message>
         <source>ActiveX Controls</source>
-        <translation>ActiveXコントロール ポップアップ メニュー</translation>
+        <translation type="obsolete">ActiveXコントロール ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Auto Shapes</source>
@@ -2149,7 +1993,7 @@ Center</source>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>図形選択</translation>
+        <translation type="obsolete">図形選択</translation>
     </message>
     <message>
         <source>Axis Popup Menu</source>
@@ -2157,7 +2001,7 @@ Center</source>
     </message>
     <message>
         <source>Axis Title</source>
-        <translation>軸タイトル ポップアップ メニュー</translation>
+        <translation type="obsolete">軸タイトル ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Axis Title Popup Menu</source>
@@ -2165,31 +2009,31 @@ Center</source>
     </message>
     <message>
         <source>Backup</source>
-        <translation>バックアップ</translation>
+        <translation type="obsolete">バックアップ</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>ドキュメントの回復</translation>
+        <translation type="obsolete">ドキュメントの回復</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>太字</translation>
+        <translation type="obsolete">太字</translation>
     </message>
     <message>
         <source>Browse Formula Result</source>
-        <translation>数式の結果</translation>
+        <translation type="obsolete">数式の結果</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation>シート再計算</translation>
+        <translation type="obsolete">シート再計算</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>キャンセル</translation>
+        <translation type="obsolete">キャンセル</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation>セル ポップアップ メニュー</translation>
+        <translation type="obsolete">セル ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Cell Popup Menu</source>
@@ -2197,15 +2041,15 @@ Center</source>
     </message>
     <message>
         <source>Cells</source>
-        <translation>セル</translation>
+        <translation type="obsolete">セル</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation>グラフ</translation>
+        <translation type="obsolete">グラフ</translation>
     </message>
     <message>
         <source>Chart Area</source>
-        <translation>グラフ エリアのポップアップ メニュー</translation>
+        <translation type="obsolete">グラフ エリアのポップアップ メニュー</translation>
     </message>
     <message>
         <source>Chart Area Popup Menu</source>
@@ -2213,7 +2057,7 @@ Center</source>
     </message>
     <message>
         <source>Chart Title</source>
-        <translation>グラフ タイトルのポップアップ メニュー</translation>
+        <translation type="obsolete">グラフ タイトルのポップアップ メニュー</translation>
     </message>
     <message>
         <source>Chart Title Popup Menu</source>
@@ -2221,31 +2065,19 @@ Center</source>
     </message>
     <message>
         <source>Check Auto Backup</source>
-        <translation>自動バックアップの確認</translation>
-    </message>
-    <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">自動バックアップの確認</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>クリップアート</translation>
+        <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>クリップボード</translation>
+        <translation type="obsolete">クリップボード</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
         <translation type="obsolete">クリップボード ペイン</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -2253,7 +2085,7 @@ Center</source>
     </message>
     <message>
         <source>Column</source>
-        <translation>列ポップアップ メニュー</translation>
+        <translation type="obsolete">列ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Column Popup Menu</source>
@@ -2261,27 +2093,23 @@ Center</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation>コメント</translation>
+        <translation type="obsolete">コメント</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>図の八宿</translation>
+        <translation type="obsolete">図の八宿</translation>
     </message>
     <message>
         <source>Connector</source>
-        <translation>コネクタポップアップメニュー</translation>
+        <translation type="obsolete">コネクタポップアップメニュー</translation>
     </message>
     <message>
         <source>Connector Popup Menu</source>
         <translation type="obsolete">コネクタポップアップメニュー</translation>
     </message>
     <message>
-        <source>Contents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Copy</source>
-        <translation>コピー</translation>
+        <translation type="obsolete">コピー</translation>
     </message>
     <message>
         <source>Create</source>
@@ -2289,11 +2117,11 @@ Center</source>
     </message>
     <message>
         <source>Curve</source>
-        <translation>曲線のポップアップ メニュー</translation>
+        <translation type="obsolete">曲線のポップアップ メニュー</translation>
     </message>
     <message>
         <source>Curve Point</source>
-        <translation>曲線の頂点のポップアップメニュー</translation>
+        <translation type="obsolete">曲線の頂点のポップアップメニュー</translation>
     </message>
     <message>
         <source>Curve Point Popup Menu</source>
@@ -2305,7 +2133,7 @@ Center</source>
     </message>
     <message>
         <source>Curve Segment</source>
-        <translation>曲線のセグメントのポップアップメニュー</translation>
+        <translation type="obsolete">曲線のセグメントのポップアップメニュー</translation>
     </message>
     <message>
         <source>Curve Segment Popup Menu</source>
@@ -2313,11 +2141,11 @@ Center</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation>切り取り</translation>
+        <translation type="obsolete">切り取り</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>データ</translation>
+        <translation type="obsolete">データ</translation>
     </message>
     <message>
         <source>Data Label Popup Menu</source>
@@ -2325,11 +2153,11 @@ Center</source>
     </message>
     <message>
         <source>Data Labels</source>
-        <translation>データ ラベル ポップアップ メニュー</translation>
+        <translation type="obsolete">データ ラベル ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Data Point</source>
-        <translation>データ ポイント ポップアップ メニュー</translation>
+        <translation type="obsolete">データ ポイント ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Data Point Popup Menu</source>
@@ -2344,12 +2172,8 @@ Center</source>
         <translation type="obsolete">データ ポイント ポップアップ メニュー</translation>
     </message>
     <message>
-        <source>Data Recovery</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Data Table</source>
-        <translation>データ テーブル ポップアップ メニュー</translation>
+        <translation type="obsolete">データ テーブル ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Data Table Popup Menu</source>
@@ -2357,7 +2181,7 @@ Center</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>フォント サイズの縮小</translation>
+        <translation type="obsolete">フォント サイズの縮小</translation>
     </message>
     <message>
         <source>Display Unit Label</source>
@@ -2369,15 +2193,11 @@ Center</source>
     </message>
     <message>
         <source>Display Units Label</source>
-        <translation>表示ユニット ラベル ポップアップ メニュー</translation>
+        <translation type="obsolete">表示ユニット ラベル ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Dlg Formula Box Popup Menu</source>
         <translation type="obsolete">数式バー ポップアップ メニュー</translation>
-    </message>
-    <message>
-        <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document collaboration</source>
@@ -2385,11 +2205,11 @@ Center</source>
     </message>
     <message>
         <source>Down</source>
-        <translation>下方向へコピー</translation>
+        <translation type="obsolete">下方向へコピー</translation>
     </message>
     <message>
         <source>Down Bars</source>
-        <translation>ダウン バー ポップアップ メニュー</translation>
+        <translation type="obsolete">ダウン バー ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Down Bars Popup Menu</source>
@@ -2397,27 +2217,23 @@ Center</source>
     </message>
     <message>
         <source>Drop Line</source>
-        <translation>描線のポップアップ メニュー</translation>
+        <translation type="obsolete">描線のポップアップ メニュー</translation>
     </message>
     <message>
         <source>Drop Line Popup Menu</source>
         <translation type="obsolete">描線のポップアップ メニュー</translation>
     </message>
     <message>
-        <source>Duplicates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Edit</source>
-        <translation>編集</translation>
+        <translation type="obsolete">編集</translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation>入力</translation>
+        <translation type="obsolete">入力</translation>
     </message>
     <message>
         <source>Error Bars</source>
-        <translation>誤差範囲ポップアップ メニュー</translation>
+        <translation type="obsolete">誤差範囲ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Error Bars Popup Menu</source>
@@ -2425,23 +2241,19 @@ Center</source>
     </message>
     <message>
         <source>Exit</source>
-        <translation>終了</translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">終了</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>改善要望</translation>
+        <translation type="obsolete">改善要望</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>ファイル</translation>
+        <translation type="obsolete">ファイル</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>塗りつぶしポップアップ メニュー</translation>
+        <translation type="obsolete">塗りつぶしポップアップ メニュー</translation>
     </message>
     <message>
         <source>Fill Popup Menu</source>
@@ -2449,35 +2261,35 @@ Center</source>
     </message>
     <message>
         <source>Find</source>
-        <translation>検索</translation>
+        <translation type="obsolete">検索</translation>
     </message>
     <message>
         <source>Find All Local Reference</source>
-        <translation>すべてのローカル参照を検索</translation>
+        <translation type="obsolete">すべてのローカル参照を検索</translation>
     </message>
     <message>
         <source>Find Direct Reference</source>
-        <translation>直接参照の検索</translation>
+        <translation type="obsolete">直接参照の検索</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>書式</translation>
+        <translation type="obsolete">書式</translation>
     </message>
     <message>
         <source>Format Axis</source>
-        <translation>軸ポップアップ メニュー</translation>
+        <translation type="obsolete">軸ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Format Data Series</source>
-        <translation>データ ポイント ポップアップ メニュー</translation>
+        <translation type="obsolete">データ ポイント ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Format Legend</source>
-        <translation>凡例項目のポップアップ メニュー</translation>
+        <translation type="obsolete">凡例項目のポップアップ メニュー</translation>
     </message>
     <message>
         <source>Formula Bar</source>
-        <translation>数式バー ポップアップ メニュー</translation>
+        <translation type="obsolete">数式バー ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Formula Box Popup Menu</source>
@@ -2485,7 +2297,7 @@ Center</source>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>全画面</translation>
+        <translation type="obsolete">全画面</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -2493,7 +2305,7 @@ Center</source>
     </message>
     <message>
         <source>Go To</source>
-        <translation>ジャンプ </translation>
+        <translation type="obsolete">ジャンプ </translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -2501,7 +2313,7 @@ Center</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>目盛線ポップアップ メニュー</translation>
+        <translation type="obsolete">目盛線ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Gridlines Popup Menu</source>
@@ -2509,43 +2321,35 @@ Center</source>
     </message>
     <message>
         <source>Help</source>
-        <translation>ヘルプ</translation>
+        <translation type="obsolete">ヘルプ</translation>
     </message>
     <message>
         <source>Hi Lo Line Popup Menu</source>
         <translation type="obsolete">高値-安値のポップアップ メニュー</translation>
     </message>
     <message>
-        <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>High-Low Line</source>
-        <translation>高値-安値のポップアップ メニュー</translation>
-    </message>
-    <message>
-        <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">高値-安値のポップアップ メニュー</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation>ハイパーリンク</translation>
+        <translation type="obsolete">ハイパーリンク</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>フォント サイズの拡大</translation>
+        <translation type="obsolete">フォント サイズの拡大</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>挿入</translation>
+        <translation type="obsolete">挿入</translation>
     </message>
     <message>
         <source>Insert Function</source>
-        <translation>関数の挿入</translation>
+        <translation type="obsolete">関数の挿入</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>斜体</translation>
+        <translation type="obsolete">斜体</translation>
     </message>
     <message>
         <source>Kingsoft Online Template</source>
@@ -2561,7 +2365,7 @@ Center</source>
     </message>
     <message>
         <source>Leader Lines</source>
-        <translation>リード ライン ポップアップ メニュー</translation>
+        <translation type="obsolete">リード ライン ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Legend Entry Popup Menu</source>
@@ -2573,39 +2377,35 @@ Center</source>
     </message>
     <message>
         <source>Legend Keys</source>
-        <translation>凡例マーカーのポップアップ メニュー</translation>
+        <translation type="obsolete">凡例マーカーのポップアップ メニュー</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation>マクロ</translation>
-    </message>
-    <message>
-        <source>MailFeedBack</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">マクロ</translation>
     </message>
     <message>
         <source>More Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>Name Box</source>
-        <translation>名前ボックス</translation>
+        <translation type="obsolete">名前ボックス</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>新規作成</translation>
+        <translation type="obsolete">新規作成</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation>新規作成</translation>
+        <translation type="obsolete">新規作成</translation>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
-        <translation>Excel2007/2010形式で新規作成</translation>
+        <translation type="obsolete">Excel2007/2010形式で新規作成</translation>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook(E)</source>
-        <translation>Excel2007/2010形式で新規作成(E)</translation>
+        <translation type="obsolete">Excel2007/2010形式で新規作成(E)</translation>
     </message>
     <message>
         <source>New From More Template</source>
@@ -2621,27 +2421,27 @@ Center</source>
     </message>
     <message>
         <source>New Workbook</source>
-        <translation>新しいブック</translation>
+        <translation type="obsolete">新しいブック</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation>デフォルトテンプレートから新規作成</translation>
+        <translation type="obsolete">デフォルトテンプレートから新規作成</translation>
     </message>
     <message>
         <source>New from More Template</source>
-        <translation>既定のテンプレート</translation>
+        <translation type="obsolete">既定のテンプレート</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>オンラインテンプレート</translation>
+        <translation type="obsolete">オンラインテンプレート</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation>このコンピュータ上のテンプレート</translation>
+        <translation type="obsolete">このコンピュータ上のテンプレート</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>次へ</translation>
+        <translation type="obsolete">次へ</translation>
     </message>
     <message>
         <source>Next Tab</source>
@@ -2649,15 +2449,15 @@ Center</source>
     </message>
     <message>
         <source>No Tab Page</source>
-        <translation>タグページなし</translation>
+        <translation type="obsolete">タグページなし</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished">ノート</translation>
+        <translation type="obsolete">ノート</translation>
     </message>
     <message>
         <source>Number in cell for text Popup Menu</source>
@@ -2665,43 +2465,31 @@ Center</source>
     </message>
     <message>
         <source>OLE Object</source>
-        <translation>OLEオブジェクト ポップメニュー</translation>
+        <translation type="obsolete">OLEオブジェクト ポップメニュー</translation>
     </message>
     <message>
         <source>OLE Object Popup Menu</source>
         <translation type="obsolete">OLEオブジェクト ポップメニュー</translation>
     </message>
     <message>
-        <source>Office Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open</source>
-        <translation>開く</translation>
+        <translation type="obsolete">開く</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>改ページプレビュー</translation>
-    </message>
-    <message>
-        <source>Page Setup</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">改ページプレビュー</translation>
     </message>
     <message>
         <source>Parse</source>
-        <translation>説明</translation>
+        <translation type="obsolete">説明</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>貼り付け</translation>
-    </message>
-    <message>
-        <source>Paste Special</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">貼り付け</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>図ポップアップ メニュー</translation>
+        <translation type="obsolete">図ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Picture Popup Menu</source>
@@ -2709,11 +2497,11 @@ Center</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>ピボットテーブル</translation>
+        <translation type="obsolete">ピボットテーブル</translation>
     </message>
     <message>
         <source>Plot Area</source>
-        <translation>プロットエリアのポップメニュー</translation>
+        <translation type="obsolete">プロットエリアのポップメニュー</translation>
     </message>
     <message>
         <source>Plot Area Popup Menu</source>
@@ -2721,7 +2509,7 @@ Center</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation>前へ</translation>
+        <translation type="obsolete">前へ</translation>
     </message>
     <message>
         <source>Previous Tab</source>
@@ -2729,28 +2517,24 @@ Center</source>
     </message>
     <message>
         <source>Print</source>
-        <translation>印刷</translation>
+        <translation type="obsolete">印刷</translation>
     </message>
     <message>
         <source>Print 
 Directly</source>
-        <translation type="unfinished">印刷の既定値で直接印刷</translation>
+        <translation type="obsolete">印刷の既定値で直接印刷</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>印刷プレビュー</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">印刷プレビュー</translation>
     </message>
     <message>
         <source>Quick Chart</source>
-        <translation>クイック グラフ</translation>
+        <translation type="obsolete">クイック グラフ</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation>閲覧モード</translation>
+        <translation type="obsolete">閲覧モード</translation>
     </message>
     <message>
         <source>Recalculate Active Book</source>
@@ -2758,7 +2542,7 @@ Directly</source>
     </message>
     <message>
         <source>Recalculate Workbook</source>
-        <translation>再計算実行</translation>
+        <translation type="obsolete">再計算実行</translation>
     </message>
     <message>
         <source>Recent File List</source>
@@ -2766,11 +2550,11 @@ Directly</source>
     </message>
     <message>
         <source>Recently File Management</source>
-        <translation>最近使用したファイル</translation>
+        <translation type="obsolete">最近使用したファイル</translation>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
-        <translation>マクロの記録</translation>
+        <translation type="obsolete">マクロの記録</translation>
     </message>
     <message>
         <source>RecordMacro Statusbar</source>
@@ -2778,32 +2562,19 @@ Directly</source>
     </message>
     <message>
         <source>Redo</source>
-        <translation>やり直し</translation>
-    </message>
-    <message>
-        <source>Refresh
-Data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reject Duplicate Entries</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">やり直し</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>置換</translation>
+        <translation type="obsolete">置換</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>右方向へコピー</translation>
+        <translation type="obsolete">右方向へコピー</translation>
     </message>
     <message>
         <source>Row</source>
-        <translation>行ポップアップ メニュー</translation>
+        <translation type="obsolete">行ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Row Popup Menu</source>
@@ -2811,28 +2582,19 @@ Data</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>上書き保存</translation>
+        <translation type="obsolete">上書き保存</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>名前を付けて保存</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <comment>Menu</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">名前を付けて保存</translation>
     </message>
     <message>
         <source>Select Shape</source>
-        <translation>選択</translation>
+        <translation type="obsolete">選択</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オブジェクトの選択と表示</translation>
+        <translation type="obsolete">オブジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Selection and Visibility</source>
@@ -2840,19 +2602,11 @@ Data</source>
     </message>
     <message>
         <source>Series Line Popup Menu</source>
-        <translation>系列線ポップアップ メニュー</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">系列線ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Set Language</source>
-        <translation>言語の設定</translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">言語の設定</translation>
     </message>
     <message>
         <source>Set Spell Check Language</source>
@@ -2864,7 +2618,7 @@ Data</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation>図形</translation>
+        <translation type="obsolete">図形</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
@@ -2872,7 +2626,7 @@ Data</source>
     </message>
     <message>
         <source>Sheet</source>
-        <translation>シート タブ</translation>
+        <translation type="obsolete">シート タブ</translation>
     </message>
     <message>
         <source>Sheet Tab</source>
@@ -2880,7 +2634,7 @@ Data</source>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>スペルチェック</translation>
+        <translation type="obsolete">スペルチェック</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -2888,7 +2642,7 @@ Data</source>
     </message>
     <message>
         <source>Status Bar</source>
-        <translation>ステータスバー</translation>
+        <translation type="obsolete">ステータスバー</translation>
     </message>
     <message>
         <source>Status Bar Popup Menu</source>
@@ -2896,11 +2650,11 @@ Data</source>
     </message>
     <message>
         <source>Symbol Toolbar</source>
-        <translation>記号と特殊文字</translation>
+        <translation type="obsolete">記号と特殊文字</translation>
     </message>
     <message>
         <source>TStyle</source>
-        <translation>スタイル</translation>
+        <translation type="obsolete">スタイル</translation>
     </message>
     <message>
         <source>Tab Bar New File</source>
@@ -2908,29 +2662,29 @@ Data</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation>表のスタイル</translation>
+        <translation type="obsolete">表のスタイル</translation>
     </message>
     <message>
         <source>Task
 Window</source>
-        <translation type="unfinished">ワーク
+        <translation type="obsolete">ワーク
 ウィンドウ</translation>
     </message>
     <message>
         <source>Task Window</source>
-        <translation>ワークウィンドウ</translation>
+        <translation type="obsolete">ワークウィンドウ</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation>ツール バー</translation>
+        <translation type="obsolete">ツール バー</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>ツール</translation>
+        <translation type="obsolete">ツール</translation>
     </message>
     <message>
         <source>Trendline</source>
-        <translation>近似曲線ポップアップ メニュー</translation>
+        <translation type="obsolete">近似曲線ポップアップ メニュー</translation>
     </message>
     <message>
         <source>Trendline Popup Menu</source>
@@ -2938,15 +2692,15 @@ Window</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>下線</translation>
+        <translation type="obsolete">下線</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>元に戻す</translation>
+        <translation type="obsolete">元に戻す</translation>
     </message>
     <message>
         <source>Up Bars</source>
-        <translation>ローソクポップアップ メニュー</translation>
+        <translation type="obsolete">ローソクポップアップ メニュー</translation>
     </message>
     <message>
         <source>Up Bars Popup Menu</source>
@@ -2954,27 +2708,23 @@ Window</source>
     </message>
     <message>
         <source>View</source>
-        <translation>表示</translation>
+        <translation type="obsolete">表示</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation>Visual Basic エディター</translation>
-    </message>
-    <message>
-        <source>WPS Data Recovery Master</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Visual Basic エディター</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
-        <translation>キングソフト オンライン テンプレート</translation>
+        <translation type="obsolete">キングソフト オンライン テンプレート</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation>ウインドウ</translation>
+        <translation type="obsolete">ウインドウ</translation>
     </message>
     <message>
         <source>WordArt Popup Menu</source>
-        <translation>ワードアート ポップ メニュー</translation>
+        <translation type="obsolete">ワードアート ポップ メニュー</translation>
     </message>
 </context>
 <context>
@@ -2985,7 +2735,7 @@ Window</source>
     </message>
     <message>
         <source>WPS Spreadsheets Help</source>
-        <translation>Kingsoft Spreadsheets ヘルプ(H)</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets ヘルプ(H)</translation>
     </message>
 </context>
 <context>
@@ -2996,21 +2746,21 @@ Window</source>
     </message>
     <message>
         <source>Format Cells</source>
-        <translation>セル</translation>
+        <translation type="obsolete">セル</translation>
     </message>
 </context>
 <context>
     <name>etongmani.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation>Spreadsheets</translation>
+        <translation type="obsolete">Spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>etongmani.mainwindow.commands</name>
     <message>
         <source>Add-Ins</source>
-        <translation>プラグイン</translation>
+        <translation type="obsolete">プラグイン</translation>
     </message>
     <message>
         <source>Add-ons</source>
@@ -3018,7 +2768,7 @@ Window</source>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>アカウントの変更</translation>
+        <translation type="obsolete">アカウントの変更</translation>
     </message>
     <message>
         <source>Change User Info</source>
@@ -3026,15 +2776,15 @@ Window</source>
     </message>
     <message>
         <source>Chart Tools</source>
-        <translation>グラフ ツール</translation>
+        <translation type="obsolete">グラフ ツール</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>閉じる</translation>
+        <translation type="obsolete">閉じる</translation>
     </message>
     <message>
         <source>Custom task window</source>
-        <translation>ワークウィンドウの設定</translation>
+        <translation type="obsolete">ワークウィンドウの設定</translation>
     </message>
     <message>
         <source>Customize</source>
@@ -3042,11 +2792,11 @@ Window</source>
     </message>
     <message>
         <source>Data</source>
-        <translation>データ</translation>
+        <translation type="obsolete">データ</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation>開発ツール</translation>
+        <translation type="obsolete">開発ツール</translation>
     </message>
     <message>
         <source>Docer-Online Templates</source>
@@ -3054,11 +2804,7 @@ Window</source>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation>描画ツール</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">描画ツール</translation>
     </message>
     <message>
         <source>File</source>
@@ -3066,11 +2812,11 @@ Window</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation>効果設定</translation>
+        <translation type="obsolete">効果設定</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation>数式</translation>
+        <translation type="obsolete">数式</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -3078,11 +2824,11 @@ Window</source>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation>ツールバーの非表示</translation>
+        <translation type="obsolete">ツールバーの非表示</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>ホーム</translation>
+        <translation type="obsolete">ホーム</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -3090,7 +2836,7 @@ Window</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation>挿入</translation>
+        <translation type="obsolete">挿入</translation>
     </message>
     <message>
         <source>KOS Hire</source>
@@ -3114,15 +2860,15 @@ Window</source>
     </message>
     <message>
         <source>Maximize Window</source>
-        <translation>最大化</translation>
+        <translation type="obsolete">最大化</translation>
     </message>
     <message>
         <source>Minimize Window</source>
-        <translation>最小化</translation>
+        <translation type="obsolete">最小化</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>Kingsoft情報パネル</translation>
+        <translation type="obsolete">Kingsoft情報パネル</translation>
     </message>
     <message>
         <source>Not Logged in</source>
@@ -3134,39 +2880,39 @@ Window</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>オフィススペース</translation>
+        <translation type="obsolete">オフィススペース</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>ホーム</translation>
+        <translation type="obsolete">ホーム</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>オプション</translation>
+        <translation type="obsolete">オプション</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation>レイアウト</translation>
+        <translation type="obsolete">レイアウト</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation>図形ツール</translation>
+        <translation type="obsolete">図形ツール</translation>
     </message>
     <message>
         <source>Pin the Toolbar</source>
-        <translation>ツールバーの固定</translation>
+        <translation type="obsolete">ツールバーの固定</translation>
     </message>
     <message>
         <source>PivotTable Tools</source>
-        <translation>ピボットテーブル ツール</translation>
+        <translation type="obsolete">ピボットテーブル ツール</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>印刷プレビュー</translation>
+        <translation type="obsolete">印刷プレビュー</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>クイックメニュー</translation>
+        <translation type="obsolete">クイックメニュー</translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
@@ -3178,35 +2924,35 @@ Window</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>クイック ツール バー</translation>
+        <translation type="obsolete">クイック ツール バー</translation>
     </message>
     <message>
         <source>Recently used files</source>
-        <translation>最近使用したファイル</translation>
+        <translation type="obsolete">最近使用したファイル</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>リチャージ</translation>
+        <translation type="obsolete">リチャージ</translation>
     </message>
     <message>
         <source>Restore Window</source>
-        <translation>元に戻す</translation>
+        <translation type="obsolete">元に戻す</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation>校閲</translation>
+        <translation type="obsolete">校閲</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation>ツールバーの表示</translation>
+        <translation type="obsolete">ツールバーの表示</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
-        <translation>ツール バーの表示/非表示</translation>
+        <translation type="obsolete">ツール バーの表示/非表示</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
@@ -3218,11 +2964,11 @@ Window</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>ログイン</translation>
+        <translation type="obsolete">ログイン</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>ログアウト</translation>
+        <translation type="obsolete">ログアウト</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -3234,7 +2980,7 @@ Window</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation>表のスタイル</translation>
+        <translation type="obsolete">表のスタイル</translation>
     </message>
     <message>
         <source>User Login</source>
@@ -3242,27 +2988,27 @@ Window</source>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>サインイン</translation>
+        <translation type="obsolete">サインイン</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>表示</translation>
+        <translation type="obsolete">表示</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation>Kingsoftサポート</translation>
+        <translation type="obsolete">Kingsoftサポート</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Kingsoftビジネス版</translation>
+        <translation type="obsolete">Kingsoftビジネス版</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>更新情報</translation>
+        <translation type="obsolete">更新情報</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>アート文字</translation>
+        <translation type="obsolete">アート文字</translation>
     </message>
     <message>
         <source>Work Space</source>
@@ -3270,7 +3016,7 @@ Window</source>
     </message>
     <message>
         <source>test Rb Tab Widget</source>
-        <translation>RbTabWidgetのテスト</translation>
+        <translation type="obsolete">RbTabWidgetのテスト</translation>
     </message>
 </context>
 <context>
@@ -3280,43 +3026,29 @@ Window</source>
         <translation type="obsolete">UI切り替え</translation>
     </message>
     <message>
-        <source>Switch UI</source>
-        <comment>Personal Version</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch UI</source>
-        <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>false</source>
         <translation type="obsolete">OK</translation>
-    </message>
-    <message>
-        <source>true</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>etongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>言語の変更</translation>
+        <translation type="obsolete">言語の変更</translation>
     </message>
 </context>
 <context>
     <name>etrainbow.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation>Spreadsheets</translation>
+        <translation type="obsolete">Spreadsheets</translation>
     </message>
 </context>
 <context>
     <name>etrainbow.mainwindow.commands</name>
     <message>
         <source>Add-Ins</source>
-        <translation>プラグイン</translation>
+        <translation type="obsolete">プラグイン</translation>
     </message>
     <message>
         <source>Add-ons</source>
@@ -3328,19 +3060,19 @@ Window</source>
     </message>
     <message>
         <source>Chart Tools</source>
-        <translation>グラフ ツール</translation>
+        <translation type="obsolete">グラフ ツール</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>閉じる</translation>
+        <translation type="obsolete">閉じる</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>データ</translation>
+        <translation type="obsolete">データ</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation>開発ツール</translation>
+        <translation type="obsolete">開発ツール</translation>
     </message>
     <message>
         <source>Docer-Online Templates</source>
@@ -3348,11 +3080,7 @@ Window</source>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation>描画ツール</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">描画ツール</translation>
     </message>
     <message>
         <source>File</source>
@@ -3360,11 +3088,11 @@ Window</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation>効果設定</translation>
+        <translation type="obsolete">効果設定</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation>数式</translation>
+        <translation type="obsolete">数式</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -3372,11 +3100,11 @@ Window</source>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation>ツールバーの非表示</translation>
+        <translation type="obsolete">ツールバーの非表示</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>ホーム</translation>
+        <translation type="obsolete">ホーム</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -3384,7 +3112,7 @@ Window</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation>挿入</translation>
+        <translation type="obsolete">挿入</translation>
     </message>
     <message>
         <source>Log off</source>
@@ -3396,15 +3124,15 @@ Window</source>
     </message>
     <message>
         <source>Maximize Window</source>
-        <translation>最大化</translation>
+        <translation type="obsolete">最大化</translation>
     </message>
     <message>
         <source>Minimize Window</source>
-        <translation>最小化</translation>
+        <translation type="obsolete">最小化</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>Kingsoft情報パネル</translation>
+        <translation type="obsolete">Kingsoft情報パネル</translation>
     </message>
     <message>
         <source>Not logged in</source>
@@ -3412,39 +3140,39 @@ Window</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>オフィススペース</translation>
+        <translation type="obsolete">オフィススペース</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>ホーム</translation>
+        <translation type="obsolete">ホーム</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>オプション</translation>
+        <translation type="obsolete">オプション</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation>レイアウト</translation>
+        <translation type="obsolete">レイアウト</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation>図形ツール</translation>
+        <translation type="obsolete">図形ツール</translation>
     </message>
     <message>
         <source>Pin the Toolbar</source>
-        <translation>ツールバーの固定</translation>
+        <translation type="obsolete">ツールバーの固定</translation>
     </message>
     <message>
         <source>PivotTable Tools</source>
-        <translation>ピボットテーブル ツール</translation>
+        <translation type="obsolete">ピボットテーブル ツール</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>印刷プレビュー</translation>
+        <translation type="obsolete">印刷プレビュー</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>クイックメニュー</translation>
+        <translation type="obsolete">クイックメニュー</translation>
     </message>
     <message>
         <source>Quick Tool Bar</source>
@@ -3456,31 +3184,31 @@ Window</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>クイック ツール バー</translation>
+        <translation type="obsolete">クイック ツール バー</translation>
     </message>
     <message>
         <source>Recently used files</source>
-        <translation>最近使用したファイル</translation>
+        <translation type="obsolete">最近使用したファイル</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>リチャージ</translation>
+        <translation type="obsolete">リチャージ</translation>
     </message>
     <message>
         <source>Restore Window</source>
-        <translation>元に戻す</translation>
+        <translation type="obsolete">元に戻す</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation>校閲</translation>
+        <translation type="obsolete">校閲</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation>ツールバーの表示</translation>
+        <translation type="obsolete">ツールバーの表示</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
-        <translation>ツール バーの表示/非表示</translation>
+        <translation type="obsolete">ツール バーの表示/非表示</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
@@ -3488,11 +3216,11 @@ Window</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>ログイン</translation>
+        <translation type="obsolete">ログイン</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>ログアウト</translation>
+        <translation type="obsolete">ログアウト</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -3504,11 +3232,11 @@ Window</source>
     </message>
     <message>
         <source>Switch account</source>
-        <translation>アカウントの切り替え</translation>
+        <translation type="obsolete">アカウントの切り替え</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation>表のスタイル</translation>
+        <translation type="obsolete">表のスタイル</translation>
     </message>
     <message>
         <source>User Login</source>
@@ -3516,27 +3244,27 @@ Window</source>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>サインイン</translation>
+        <translation type="obsolete">サインイン</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>表示</translation>
+        <translation type="obsolete">表示</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation>Kingsoftサポート</translation>
+        <translation type="obsolete">Kingsoftサポート</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Kingsoftビジネス版</translation>
+        <translation type="obsolete">Kingsoftビジネス版</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation>更新情報</translation>
+        <translation type="obsolete">更新情報</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>アート文字</translation>
+        <translation type="obsolete">アート文字</translation>
     </message>
     <message>
         <source>Work Space</source>
@@ -3544,42 +3272,32 @@ Window</source>
     </message>
     <message>
         <source>test Rb Tab Widget</source>
-        <translation>RbTabWidgetのテスト</translation>
+        <translation type="obsolete">RbTabWidgetのテスト</translation>
     </message>
 </context>
 <context>
     <name>etrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>UI切り替え</translation>
-    </message>
-    <message>
-        <source>Switch UI</source>
-        <comment>Personal Version</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch UI</source>
-        <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">UI切り替え</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
     <name>etrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>言語の変更</translation>
+        <translation type="obsolete">言語の変更</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
-        <translation>カスタム ツールバー</translation>
+        <translation type="obsolete">カスタム ツールバー</translation>
     </message>
     <message>
         <source>Customize Toolbar</source>
@@ -3587,11 +3305,11 @@ Window</source>
     </message>
     <message>
         <source>Menu Command</source>
-        <translation>メニューコマンド</translation>
+        <translation type="obsolete">メニューコマンド</translation>
     </message>
     <message>
         <source>Toolbar Commands</source>
-        <translation>ツールバ－コマンド</translation>
+        <translation type="obsolete">ツールバ－コマンド</translation>
     </message>
 </context>
 <context>
@@ -3599,7 +3317,7 @@ Window</source>
     <message>
         <source>Change
 Chart Type</source>
-        <translation type="unfinished">グラフの種類
+        <translation type="obsolete">グラフの種類
 の変更</translation>
     </message>
     <message>
@@ -3608,7 +3326,7 @@ Chart Type</source>
     </message>
     <message>
         <source>Chart Elements</source>
-        <translation>グラフ オブジェクト</translation>
+        <translation type="obsolete">グラフ オブジェクト</translation>
     </message>
     <message>
         <source>Chart Objects</source>
@@ -3620,15 +3338,15 @@ Chart Type</source>
     </message>
     <message>
         <source>Current Selection</source>
-        <translation>内容の選択</translation>
+        <translation type="obsolete">内容の選択</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>データ</translation>
+        <translation type="obsolete">データ</translation>
     </message>
     <message>
         <source>Data Table</source>
-        <translation>データ
+        <translation type="obsolete">データ
 テーブル</translation>
     </message>
     <message>
@@ -3637,20 +3355,20 @@ Chart Type</source>
     </message>
     <message>
         <source>Format Selection</source>
-        <translation>グラフの書式設定</translation>
+        <translation type="obsolete">グラフの書式設定</translation>
     </message>
     <message>
         <source>Labels</source>
-        <translation>タグ</translation>
+        <translation type="obsolete">タグ</translation>
     </message>
     <message>
         <source>Legend</source>
-        <translation>凡例</translation>
+        <translation type="obsolete">凡例</translation>
     </message>
     <message>
         <source>Select
 Data</source>
-        <translation type="unfinished">データの
+        <translation type="obsolete">データの
 選択</translation>
     </message>
     <message>
@@ -3664,13 +3382,13 @@ Data</source>
     <message>
         <source>Switch
 Column</source>
-        <translation type="unfinished">列の
+        <translation type="obsolete">列の
 切り替え</translation>
     </message>
     <message>
         <source>Switch
 Row</source>
-        <translation type="unfinished">行の
+        <translation type="obsolete">行の
 切り替え</translation>
     </message>
     <message>
@@ -3687,23 +3405,23 @@ Row</source>
     </message>
     <message>
         <source>Type</source>
-        <translation>グラフの種類</translation>
+        <translation type="obsolete">グラフの種類</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_data</name>
     <message>
         <source>Advanced</source>
-        <translation>詳細
+        <translation type="obsolete">詳細
 設定</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation>昇順</translation>
+        <translation type="obsolete">昇順</translation>
     </message>
     <message>
         <source>AutoFilter</source>
-        <translation>自動
+        <translation type="obsolete">自動
 フィルタ</translation>
     </message>
     <message>
@@ -3712,23 +3430,23 @@ Row</source>
     </message>
     <message>
         <source>Clear Outline</source>
-        <translation>アウトラインのクリア</translation>
+        <translation type="obsolete">アウトラインのクリア</translation>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation>統合</translation>
+        <translation type="obsolete">統合</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
-        <translation>外部データ範囲のプロパティ</translation>
+        <translation type="obsolete">外部データ範囲のプロパティ</translation>
     </message>
     <message>
         <source>Data Tools</source>
-        <translation>データ ツール</translation>
+        <translation type="obsolete">データ ツール</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation>降順</translation>
+        <translation type="obsolete">降順</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -3741,7 +3459,7 @@ Row</source>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished">OLE
+        <translation type="obsolete">OLE
 DB クエリの編集</translation>
     </message>
     <message>
@@ -3750,7 +3468,7 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Edit Query</source>
-        <translation>OLE DBクエリの編集</translation>
+        <translation type="obsolete">OLE DBクエリの編集</translation>
     </message>
     <message>
         <source>External Data</source>
@@ -3766,19 +3484,19 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation>フォーム</translation>
+        <translation type="obsolete">フォーム</translation>
     </message>
     <message>
         <source>Get External Data</source>
-        <translation>外部データの取り込み</translation>
+        <translation type="obsolete">外部データの取り込み</translation>
     </message>
     <message>
         <source>Goal Seek</source>
-        <translation>ゴールシーク</translation>
+        <translation type="obsolete">ゴールシーク</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation>詳細を表示しない</translation>
+        <translation type="obsolete">詳細を表示しない</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -3787,7 +3505,7 @@ DB クエリの編集</translation>
     <message>
         <source>Import 
 Data</source>
-        <translation type="unfinished">データのインポート</translation>
+        <translation type="obsolete">データのインポート</translation>
     </message>
     <message>
         <source>Import Data</source>
@@ -3795,29 +3513,29 @@ Data</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>アウトライン</translation>
+        <translation type="obsolete">アウトライン</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>ピボット
+        <translation type="obsolete">ピボット
 テーブル</translation>
     </message>
     <message>
         <source>Reapply</source>
-        <translation>再適用</translation>
+        <translation type="obsolete">再適用</translation>
     </message>
     <message>
         <source>Refresh 
 All</source>
-        <translation type="unfinished">すべて更新</translation>
+        <translation type="obsolete">すべて更新</translation>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished">すべて更新</translation>
+        <translation type="obsolete">すべて更新</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>データの更新</translation>
+        <translation type="obsolete">データの更新</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -3829,23 +3547,23 @@ All</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>すべて表示する</translation>
+        <translation type="obsolete">すべて表示する</translation>
     </message>
     <message>
         <source>Show Detail</source>
-        <translation>詳細データの表示</translation>
+        <translation type="obsolete">詳細データの表示</translation>
     </message>
     <message>
         <source>Solver</source>
-        <translation>ソルバー</translation>
+        <translation type="obsolete">ソルバー</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>並べ替え</translation>
+        <translation type="obsolete">並べ替え</translation>
     </message>
     <message>
         <source>Sort &amp; Filter</source>
@@ -3861,16 +3579,16 @@ All</source>
     </message>
     <message>
         <source>Subtotal</source>
-        <translation>集計</translation>
+        <translation type="obsolete">集計</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation>テーブル</translation>
+        <translation type="obsolete">テーブル</translation>
     </message>
     <message>
         <source>Text to
 Columns</source>
-        <translation type="unfinished">区切り
+        <translation type="obsolete">区切り
 位置</translation>
     </message>
     <message>
@@ -3879,23 +3597,23 @@ Columns</source>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化
+        <translation type="obsolete">グループ化
 の解除</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation>入力規則</translation>
+        <translation type="obsolete">入力規則</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation>What-If 分析</translation>
+        <translation type="obsolete">What-If 分析</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
 </context>
 <context>
@@ -3903,7 +3621,7 @@ Columns</source>
     <message>
         <source>Clear
 Table Style</source>
-        <translation type="unfinished">表のスタイル
+        <translation type="obsolete">表のスタイル
 をクリア</translation>
     </message>
     <message>
@@ -3912,39 +3630,39 @@ Table Style</source>
     </message>
     <message>
         <source>Table Style Options</source>
-        <translation>オプション</translation>
+        <translation type="obsolete">オプション</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation>表のスタイル</translation>
+        <translation type="obsolete">表のスタイル</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_developtools</name>
     <message>
         <source>Check Box</source>
-        <translation>チェック ボックス</translation>
+        <translation type="obsolete">チェック ボックス</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation type="obsolete">閉じる</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation>コンボ ボックス</translation>
+        <translation type="obsolete">コンボ ボックス</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation>コマンド ボタン</translation>
+        <translation type="obsolete">コマンド ボタン</translation>
     </message>
     <message>
         <source>Control 
 Properties</source>
-        <translation type="unfinished">プロパティ</translation>
+        <translation type="obsolete">プロパティ</translation>
     </message>
     <message>
         <source>Control List</source>
-        <translation>コントロール リスト</translation>
+        <translation type="obsolete">コントロール リスト</translation>
     </message>
     <message>
         <source>Control Properties</source>
@@ -3952,20 +3670,16 @@ Properties</source>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation>コントロール ツールボックス</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">コントロール ツールボックス</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>デザイン モード</translation>
+        <translation type="obsolete">デザイン モード</translation>
     </message>
     <message>
         <source>Exit
 Design Mode</source>
-        <translation type="unfinished">デザインモード
+        <translation type="obsolete">デザインモード
 の終了</translation>
     </message>
     <message>
@@ -3974,15 +3688,15 @@ Design Mode</source>
     </message>
     <message>
         <source>Image</source>
-        <translation>画像</translation>
+        <translation type="obsolete">画像</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>ラベル</translation>
+        <translation type="obsolete">ラベル</translation>
     </message>
     <message>
         <source>List Box</source>
-        <translation>リスト ボックス</translation>
+        <translation type="obsolete">リスト ボックス</translation>
     </message>
     <message>
         <source>List Button</source>
@@ -3990,24 +3704,24 @@ Design Mode</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation>マクロ</translation>
+        <translation type="obsolete">マクロ</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation>コントロールの選択</translation>
+        <translation type="obsolete">コントロールの選択</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation>オプション ボタン</translation>
+        <translation type="obsolete">オプション ボタン</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>マクロ
+        <translation type="obsolete">マクロ
 の記録</translation>
     </message>
     <message>
         <source>Relative References</source>
-        <translation>相対参照
+        <translation type="obsolete">相対参照
 で記録</translation>
     </message>
     <message>
@@ -4020,33 +3734,33 @@ Design Mode</source>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation>スクロール バー</translation>
+        <translation type="obsolete">スクロール バー</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>セキュリティ</translation>
+        <translation type="obsolete">セキュリティ</translation>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation>スピン ボタン</translation>
+        <translation type="obsolete">スピン ボタン</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>テキスト ボックス</translation>
+        <translation type="obsolete">テキスト ボックス</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation>トグル ボタン</translation>
+        <translation type="obsolete">トグル ボタン</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>コード
+        <translation type="obsolete">コード
 の表示</translation>
     </message>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation type="unfinished">Visual Basic
+        <translation type="obsolete">Visual Basic
 エディター</translation>
     </message>
     <message>
@@ -4062,7 +3776,7 @@ Editor</source>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation>アドイン</translation>
+        <translation type="obsolete">アドイン</translation>
     </message>
 </context>
 <context>
@@ -4084,7 +3798,7 @@ AddIns</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished">COM
+        <translation type="obsolete">COM
 プラグイン</translation>
     </message>
 </context>
@@ -4092,168 +3806,164 @@ Add-Ins</source>
     <name>ongmani.ct_drawingtools</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
+        <translation type="obsolete">0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 pt</translation>
+        <translation type="obsolete"> 0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
+        <translation type="obsolete">0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 pt</translation>
+        <translation type="obsolete">   1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 pt</translation>
+        <translation type="obsolete"> 1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
+        <translation type="obsolete">2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 pt</translation>
+        <translation type="obsolete">   3 pt</translation>
     </message>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished">3Dの表示/非表示</translation>
+        <translation type="obsolete">3Dの表示/非表示</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3D 効果</translation>
+        <translation type="obsolete">3D 効果</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 pt</translation>
+        <translation type="obsolete"> 4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 pt</translation>
+        <translation type="obsolete">   6 pt</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>下寄せ</translation>
+        <translation type="obsolete">下寄せ</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>左右中央寄せ</translation>
+        <translation type="obsolete">左右中央寄せ</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>上下中央寄せ</translation>
+        <translation type="obsolete">上下中央寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>上寄せ</translation>
+        <translation type="obsolete">上寄せ</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation>矢印のスタイル</translation>
+        <translation type="obsolete">矢印のスタイル</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation>矢印のスタイル 1</translation>
+        <translation type="obsolete">矢印のスタイル 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation>矢印のスタイル 10</translation>
+        <translation type="obsolete">矢印のスタイル 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation>矢印のスタイル 11</translation>
+        <translation type="obsolete">矢印のスタイル 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation>矢印のスタイル 2</translation>
+        <translation type="obsolete">矢印のスタイル 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation>矢印のスタイル 3</translation>
+        <translation type="obsolete">矢印のスタイル 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation>矢印のスタイル 4</translation>
+        <translation type="obsolete">矢印のスタイル 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation>矢印のスタイル 5</translation>
+        <translation type="obsolete">矢印のスタイル 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation>矢印のスタイル 6</translation>
+        <translation type="obsolete">矢印のスタイル 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation>矢印のスタイル 7</translation>
+        <translation type="obsolete">矢印のスタイル 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation>矢印のスタイル 8</translation>
+        <translation type="obsolete">矢印のスタイル 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation>矢印のスタイル 9</translation>
+        <translation type="obsolete">矢印のスタイル 9</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>太字</translation>
+        <translation type="obsolete">太字</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>前面へ移動</translation>
+        <translation type="obsolete">前面へ移動</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>最前面へ移動</translation>
+        <translation type="obsolete">最前面へ移動</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>中央寄せ</translation>
-    </message>
-    <message>
-        <source>Change Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">中央寄せ</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>クリア</translation>
+        <translation type="obsolete">クリア</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation>破線</translation>
+        <translation type="obsolete">破線</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>一点鎖線</translation>
+        <translation type="obsolete">一点鎖線</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>実線/点線のスタイル</translation>
+        <translation type="obsolete">実線/点線のスタイル</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -4269,28 +3979,28 @@ On</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>左右に整列</translation>
+        <translation type="obsolete">左右に整列</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>上下に整列</translation>
+        <translation type="obsolete">上下に整列</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation>頂点の
+        <translation type="obsolete">頂点の
 編集</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>高さ揃え</translation>
+        <translation type="obsolete">高さ揃え</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>サイズ揃え</translation>
+        <translation type="obsolete">サイズ揃え</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>幅揃え</translation>
+        <translation type="obsolete">幅揃え</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -4302,52 +4012,52 @@ On</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>図形の
+        <translation type="obsolete">図形の
 塗りつぶし</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>左右反転</translation>
+        <translation type="obsolete">左右反転</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>上下反転</translation>
+        <translation type="obsolete">上下反転</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>フォント</translation>
+        <translation type="obsolete">フォント</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>サイズ</translation>
+        <translation type="obsolete">サイズ</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>オブジェクトの書式設定</translation>
+        <translation type="obsolete">オブジェクトの書式設定</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>自由に回転</translation>
+        <translation type="obsolete">自由に回転</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>グラデーション</translation>
+        <translation type="obsolete">グラデーション</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>横書き</translation>
+        <translation type="obsolete">横書き</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation>図形の挿入</translation>
+        <translation type="obsolete">図形の挿入</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>斜体</translation>
+        <translation type="obsolete">斜体</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -4359,11 +4069,11 @@ On</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>長破線</translation>
+        <translation type="obsolete">長破線</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>長鎖線</translation>
+        <translation type="obsolete">長鎖線</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -4371,73 +4081,73 @@ On</source>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation>その他の矢印</translation>
+        <translation type="obsolete">その他の矢印</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>その他の線</translation>
+        <translation type="obsolete">その他の線</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>図形の
+        <translation type="obsolete">図形の
 輪郭</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>パターン</translation>
+        <translation type="obsolete">パターン</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>線のパターン</translation>
+        <translation type="obsolete">線のパターン</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>回転</translation>
+        <translation type="obsolete">回転</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>左90度回転</translation>
+        <translation type="obsolete">左90度回転</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>右90度回転</translation>
+        <translation type="obsolete">右90度回転</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>点線 (丸)</translation>
+        <translation type="obsolete">点線 (丸)</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オプジェクトの選択と表示</translation>
+        <translation type="obsolete">オプジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>背面へ移動</translation>
+        <translation type="obsolete">背面へ移動</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>最背面へ移動</translation>
+        <translation type="obsolete">最背面へ移動</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished">影の表示/
+        <translation type="obsolete">影の表示/
 非表示</translation>
     </message>
     <message>
@@ -4450,37 +4160,37 @@ On/Off</source>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation>図形の
+        <translation type="obsolete">図形の
 サイズ</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation>図形のスタイル</translation>
+        <translation type="obsolete">図形のスタイル</translation>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation>グリッドの表示</translation>
+        <translation type="obsolete">グリッドの表示</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>グリッド線に合わせる</translation>
+        <translation type="obsolete">グリッド線に合わせる</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>実線</translation>
+        <translation type="obsolete">実線</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>点線 (角)</translation>
+        <translation type="obsolete">点線 (角)</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>テキスト
+        <translation type="obsolete">テキスト
 ボックス</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>フォントの色</translation>
+        <translation type="obsolete">フォントの色</translation>
     </message>
     <message>
         <source>Text Fill</source>
@@ -4488,27 +4198,27 @@ On/Off</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation>テクスチャ</translation>
+        <translation type="obsolete">テクスチャ</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>下線</translation>
+        <translation type="obsolete">下線</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>縦書き</translation>
+        <translation type="obsolete">縦書き</translation>
     </message>
     <message>
         <source>Vertical Center</source>
-        <translation>垂直方向中央寄せ</translation>
+        <translation type="obsolete">垂直方向中央寄せ</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>線の種類</translation>
+        <translation type="obsolete">線の種類</translation>
     </message>
 </context>
 <context>
@@ -4519,23 +4229,23 @@ On/Off</source>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
-        <translation>バージョン情報</translation>
+        <translation type="obsolete">バージョン情報</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>ドキュメントの回復</translation>
+        <translation type="obsolete">ドキュメントの回復</translation>
     </message>
     <message>
         <source>Backup Management and Data Recovery</source>
-        <translation>バックアップとデータ復元</translation>
+        <translation type="obsolete">バックアップとデータ復元</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>バージョンの切り替え</translation>
+        <translation type="obsolete">バージョンの切り替え</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>オンラインアップデート</translation>
+        <translation type="obsolete">オンラインアップデート</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -4547,15 +4257,11 @@ On/Off</source>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation>データ復元</translation>
-    </message>
-    <message>
-        <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">データ復元</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
-        <translation>ファイル情報のタイトル</translation>
+        <translation type="obsolete">ファイル情報のタイトル</translation>
     </message>
     <message>
         <source>Encrypt</source>
@@ -4563,27 +4269,19 @@ On/Off</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>暗号化</translation>
-    </message>
-    <message>
-        <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">暗号化</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDFファイルとして出力(F)</translation>
+        <translation type="obsolete">PDFファイルとして出力(F)</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>ヘルプ</translation>
+        <translation type="obsolete">ヘルプ</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation type="unfinished">改善要望</translation>
+        <translation type="obsolete">改善要望</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
@@ -4591,11 +4289,11 @@ On/Off</source>
     </message>
     <message>
         <source>File Information</source>
-        <translation>情報</translation>
+        <translation type="obsolete">情報</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>ヘルプ</translation>
+        <translation type="obsolete">ヘルプ</translation>
     </message>
     <message>
         <source>Kingsoft Office BBS</source>
@@ -4627,27 +4325,27 @@ On/Off</source>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Files</source>
-        <translation>Excel 2007/2010 ファイル（*.xlsx）</translation>
+        <translation type="obsolete">Excel 2007/2010 ファイル（*.xlsx）</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation>Microsoft Excelファイル(*.xls)</translation>
+        <translation type="obsolete">Microsoft Excelファイル(*.xls)</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation>Microsoft Excelテンプレート(*.xlt)</translation>
+        <translation type="obsolete">Microsoft Excelテンプレート(*.xlt)</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>新規作成</translation>
+        <translation type="obsolete">新規作成</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation>新規作成</translation>
+        <translation type="obsolete">新規作成</translation>
     </message>
     <message>
         <source>New Excel 2007-2010 Workbook</source>
-        <translation>Excel2007/2010形式で新規作成(E)</translation>
+        <translation type="obsolete">Excel2007/2010形式で新規作成(E)</translation>
     </message>
     <message>
         <source>New From Online Templates</source>
@@ -4659,23 +4357,23 @@ On/Off</source>
     </message>
     <message>
         <source>New Workbook</source>
-        <translation>新しいタイトル</translation>
+        <translation type="obsolete">新しいタイトル</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation>既定のテンプレートから新規作成</translation>
+        <translation type="obsolete">既定のテンプレートから新規作成</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>オンラインテンプレート</translation>
+        <translation type="obsolete">オンラインテンプレート</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation>このコンピュータ上のテンプレート</translation>
+        <translation type="obsolete">このコンピュータ上のテンプレート</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>開く</translation>
+        <translation type="obsolete">開く</translation>
     </message>
     <message>
         <source>Open From Klive</source>
@@ -4687,31 +4385,31 @@ On/Off</source>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation>その他</translation>
+        <translation type="obsolete">その他</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>印刷</translation>
+        <translation type="obsolete">印刷</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>印刷プレビュー</translation>
+        <translation type="obsolete">印刷プレビュー</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation>シリアル管理</translation>
+        <translation type="obsolete">シリアル管理</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>プロパティ</translation>
+        <translation type="obsolete">プロパティ</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>シリアル番号の購入</translation>
+        <translation type="obsolete">シリアル番号の購入</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>再ロード</translation>
+        <translation type="obsolete">再ロード</translation>
     </message>
     <message>
         <source>Reload Text File</source>
@@ -4719,11 +4417,11 @@ On/Off</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>上書き保存</translation>
+        <translation type="obsolete">上書き保存</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>名前を付けて保存</translation>
+        <translation type="obsolete">名前を付けて保存</translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -4731,7 +4429,7 @@ On/Off</source>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
-        <translation>形式を選択して保存</translation>
+        <translation type="obsolete">形式を選択して保存</translation>
     </message>
     <message>
         <source>Save to Klive</source>
@@ -4739,15 +4437,15 @@ On/Off</source>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation>ヘルプの検索</translation>
+        <translation type="obsolete">ヘルプの検索</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation>Eメール</translation>
+        <translation type="obsolete">Eメール</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>オンライン学習</translation>
+        <translation type="obsolete">オンライン学習</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -4755,11 +4453,11 @@ On/Off</source>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation>Kingsoft掲示板</translation>
+        <translation type="obsolete">Kingsoft掲示板</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>Kingsoft Data Recovery Master</translation>
+        <translation type="obsolete">Kingsoft Data Recovery Master</translation>
     </message>
     <message>
         <source>WPS Office BBS</source>
@@ -4767,23 +4465,23 @@ On/Off</source>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation>Kingsoftオフィスコミュニティ</translation>
+        <translation type="obsolete">Kingsoftオフィスコミュニティ</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
-        <translation>Kingsoft Office Facebook</translation>
+        <translation type="obsolete">Kingsoft Office Facebook</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>ホームページ</translation>
+        <translation type="obsolete">ホームページ</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
-        <translation>Kingsoftの新機能</translation>
+        <translation type="obsolete">Kingsoftの新機能</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>Kingsoftオフィス プロダクトセンター</translation>
+        <translation type="obsolete">Kingsoftオフィス プロダクトセンター</translation>
     </message>
     <message>
         <source>WPS Online</source>
@@ -4791,11 +4489,11 @@ On/Off</source>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
-        <translation>Kingsoft Spreadsheetsファイル(*.et)</translation>
+        <translation type="obsolete">Kingsoft Spreadsheetsファイル(*.et)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
-        <translation>Kingsoft Spreadsheetsテンプレート(*.ett)</translation>
+        <translation type="obsolete">Kingsoft Spreadsheetsテンプレート(*.ett)</translation>
     </message>
 </context>
 <context>
@@ -4806,51 +4504,51 @@ On/Off</source>
     </message>
     <message>
         <source>WPS Spreadsheets Help</source>
-        <translation>Kingsoft Spreadsheets ヘルプ(H)</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets ヘルプ(H)</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_formulas</name>
     <message>
         <source>All</source>
-        <translation>すべて</translation>
+        <translation type="obsolete">すべて</translation>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation>合計</translation>
+        <translation type="obsolete">合計</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>平均値</translation>
+        <translation type="obsolete">平均値</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation>シート再計算</translation>
+        <translation type="obsolete">シート再計算</translation>
     </message>
     <message>
         <source>Calculation</source>
-        <translation>計算</translation>
+        <translation type="obsolete">計算</translation>
     </message>
     <message>
         <source>Circular References</source>
-        <translation>循環参照</translation>
+        <translation type="obsolete">循環参照</translation>
     </message>
     <message>
         <source>Connections</source>
-        <translation>接続</translation>
+        <translation type="obsolete">接続</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>データの個数</translation>
+        <translation type="obsolete">データの個数</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>作成</translation>
+        <translation type="obsolete">作成</translation>
     </message>
     <message>
         <source>Date and
 Time</source>
-        <translation type="unfinished">日付と
+        <translation type="obsolete">日付と
 時刻</translation>
     </message>
     <message>
@@ -4863,48 +4561,48 @@ Time</source>
     </message>
     <message>
         <source>Define Name</source>
-        <translation>定義</translation>
+        <translation type="obsolete">定義</translation>
     </message>
     <message>
         <source>Defined Names</source>
-        <translation>定義された名前</translation>
+        <translation type="obsolete">定義された名前</translation>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation>リンクの編集</translation>
+        <translation type="obsolete">リンクの編集</translation>
     </message>
     <message>
         <source>Engineering</source>
-        <translation>エンジニアリング</translation>
+        <translation type="obsolete">エンジニアリング</translation>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>エラーチェック</translation>
+        <translation type="obsolete">エラーチェック</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
-        <translation>数式の検証</translation>
+        <translation type="obsolete">数式の検証</translation>
     </message>
     <message>
         <source>Financial</source>
-        <translation>財務</translation>
+        <translation type="obsolete">財務</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
-        <translation>エラーチェック</translation>
+        <translation type="obsolete">エラーチェック</translation>
     </message>
     <message>
         <source>Function Library</source>
-        <translation>関数ライブラリ</translation>
+        <translation type="obsolete">関数ライブラリ</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>情報</translation>
+        <translation type="obsolete">情報</translation>
     </message>
     <message>
         <source>Insert
 Function</source>
-        <translation type="unfinished">関数の
+        <translation type="obsolete">関数の
 挿入</translation>
     </message>
     <message>
@@ -4913,12 +4611,12 @@ Function</source>
     </message>
     <message>
         <source>Logical</source>
-        <translation>論理</translation>
+        <translation type="obsolete">論理</translation>
     </message>
     <message>
         <source>Lookup and
 Reference</source>
-        <translation type="unfinished">検索と
+        <translation type="obsolete">検索と
 参照</translation>
     </message>
     <message>
@@ -4933,7 +4631,7 @@ Trig</source>
     <message>
         <source>Math and
 Trig</source>
-        <translation type="unfinished">数学と
+        <translation type="obsolete">数学と
 三角</translation>
     </message>
     <message>
@@ -4942,16 +4640,16 @@ Trig</source>
     </message>
     <message>
         <source>Max</source>
-        <translation>最大値</translation>
+        <translation type="obsolete">最大値</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>最小値</translation>
+        <translation type="obsolete">最小値</translation>
     </message>
     <message>
         <source>More
 Functions</source>
-        <translation type="unfinished">その他
+        <translation type="obsolete">その他
 の関数</translation>
     </message>
     <message>
@@ -4965,7 +4663,7 @@ Functions</source>
     <message>
         <source>Name
 Manager</source>
-        <translation type="unfinished">名前の
+        <translation type="obsolete">名前の
 管理</translation>
     </message>
     <message>
@@ -4974,12 +4672,12 @@ Manager</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation>貼り付け</translation>
+        <translation type="obsolete">貼り付け</translation>
     </message>
     <message>
         <source>Recalculate
 Workbook</source>
-        <translation type="unfinished">再計算
+        <translation type="obsolete">再計算
 実行</translation>
     </message>
     <message>
@@ -4989,7 +4687,7 @@ Workbook</source>
     <message>
         <source>Recently 
 Used</source>
-        <translation type="unfinished">最近
+        <translation type="obsolete">最近
 使用した</translation>
     </message>
     <message>
@@ -4998,35 +4696,27 @@ Used</source>
     </message>
     <message>
         <source>Statistical</source>
-        <translation>統計</translation>
+        <translation type="obsolete">統計</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation>合計</translation>
+        <translation type="obsolete">合計</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>テキスト</translation>
+        <translation type="obsolete">テキスト</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_home</name>
-    <message>
-        <source>Above Average</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Across 
 Center</source>
         <translation type="obsolete">選択範囲内で中央</translation>
     </message>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Across Sheets</source>
-        <translation>作業グループへコピー</translation>
+        <translation type="obsolete">作業グループへコピー</translation>
     </message>
     <message>
         <source>Advanced Filler</source>
@@ -5034,116 +4724,96 @@ Center</source>
     </message>
     <message>
         <source>Advanced Filter</source>
-        <translation>フィルタオプションの設定</translation>
+        <translation type="obsolete">フィルタオプションの設定</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>下寄せ</translation>
+        <translation type="obsolete">下寄せ</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>上寄せ</translation>
+        <translation type="obsolete">上寄せ</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>すべて</translation>
+        <translation type="obsolete">すべて</translation>
     </message>
     <message>
         <source>All Borders</source>
-        <translation>すべての罫線</translation>
+        <translation type="obsolete">すべての罫線</translation>
     </message>
     <message>
         <source>Angle Clockwise</source>
-        <translation>右回りの角度</translation>
+        <translation type="obsolete">右回りの角度</translation>
     </message>
     <message>
         <source>Angle Countclockwise</source>
-        <translation>左回りの角度</translation>
+        <translation type="obsolete">左回りの角度</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation>昇順</translation>
+        <translation type="obsolete">昇順</translation>
     </message>
     <message>
         <source>AutoFilter</source>
-        <translation>自動
+        <translation type="obsolete">自動
 フィルタ</translation>
     </message>
     <message>
         <source>AutoFit Column Width</source>
-        <translation>選択範囲に​​合わせる</translation>
+        <translation type="obsolete">選択範囲に​​合わせる</translation>
     </message>
     <message>
         <source>AutoFit Row Height</source>
-        <translation>自動調整</translation>
+        <translation type="obsolete">自動調整</translation>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation>合計</translation>
+        <translation type="obsolete">合計</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>平均値</translation>
-    </message>
-    <message>
-        <source>Begin with</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Below Average</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">平均値</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>太字</translation>
-    </message>
-    <message>
-        <source>Bottom 10</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">太字</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>下罫線</translation>
+        <translation type="obsolete">下罫線</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation>下二重罫線</translation>
+        <translation type="obsolete">下二重罫線</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation>セルの削除</translation>
+        <translation type="obsolete">セルの削除</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>中央</translation>
+        <translation type="obsolete">中央</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>クリア</translation>
+        <translation type="obsolete">クリア</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>クリップボード</translation>
+        <translation type="obsolete">クリップボード</translation>
     </message>
     <message>
         <source>Column Width</source>
-        <translation>幅</translation>
+        <translation type="obsolete">幅</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -5155,71 +4825,59 @@ Center</source>
     </message>
     <message>
         <source>Comma Style</source>
-        <translation>桁区切りスタイル</translation>
+        <translation type="obsolete">桁区切りスタイル</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation>コメント</translation>
+        <translation type="obsolete">コメント</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation>条件付き書式の設定</translation>
-    </message>
-    <message>
-        <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">条件付き書式の設定</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation>数式と値</translation>
+        <translation type="obsolete">数式と値</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
-        <translation>テキストをハイパーリンクに変換</translation>
+        <translation type="obsolete">テキストをハイパーリンクに変換</translation>
     </message>
     <message>
         <source>Convert Text to Number</source>
-        <translation>テキストを数値に変換</translation>
+        <translation type="obsolete">テキストを数値に変換</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>コピー</translation>
+        <translation type="obsolete">コピー</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>データの個数</translation>
+        <translation type="obsolete">データの個数</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation>通貨</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">通貨</translation>
     </message>
     <message>
         <source>Custom Sort</source>
-        <translation>並べ替え</translation>
+        <translation type="obsolete">並べ替え</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>切り取り</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">切り取り</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
-        <translation>小数点表示桁下げ</translation>
+        <translation type="obsolete">小数点表示桁下げ</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>フォント サイズの縮小</translation>
+        <translation type="obsolete">フォント サイズの縮小</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation>インデント解除</translation>
+        <translation type="obsolete">インデント解除</translation>
     </message>
     <message>
         <source>Default Width</source>
@@ -5227,79 +4885,59 @@ Center</source>
     </message>
     <message>
         <source>Delete Cells</source>
-        <translation>セルの削除</translation>
+        <translation type="obsolete">セルの削除</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation>列の削除</translation>
+        <translation type="obsolete">列の削除</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation>行の削除</translation>
+        <translation type="obsolete">行の削除</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
-        <translation>シートの削除</translation>
+        <translation type="obsolete">シートの削除</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation>降順</translation>
+        <translation type="obsolete">降順</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
         <translation type="obsolete">設定</translation>
     </message>
     <message>
-        <source>Does not contain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Down</source>
-        <translation>下方向へコピー</translation>
+        <translation type="obsolete">下方向へコピー</translation>
     </message>
     <message>
         <source>Draw Border</source>
-        <translation>罫線の作成</translation>
+        <translation type="obsolete">罫線の作成</translation>
     </message>
     <message>
         <source>Draw Border Grid</source>
-        <translation>罫線グリッドの作成</translation>
+        <translation type="obsolete">罫線グリッドの作成</translation>
     </message>
     <message>
         <source>Editing</source>
-        <translation>編集</translation>
-    </message>
-    <message>
-        <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>End with</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">編集</translation>
     </message>
     <message>
         <source>Erase Border</source>
-        <translation>罫線の削除</translation>
-    </message>
-    <message>
-        <source>Error Value </source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">罫線の削除</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>フィル</translation>
+        <translation type="obsolete">フィル</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>塗りつぶしの色</translation>
+        <translation type="obsolete">塗りつぶしの色</translation>
     </message>
     <message>
         <source>Fill Series</source>
-        <translation>連続データの作成</translation>
+        <translation type="obsolete">連続データの作成</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -5307,7 +4945,7 @@ Center</source>
     </message>
     <message>
         <source>Find</source>
-        <translation>検索</translation>
+        <translation type="obsolete">検索</translation>
     </message>
     <message>
         <source>Find and
@@ -5317,12 +4955,8 @@ Replace</source>
     <message>
         <source>Find and 
 Replace</source>
-        <translation type="unfinished">検索と
+        <translation type="obsolete">検索と
 選択</translation>
-    </message>
-    <message>
-        <source>Find and Replace</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Find&amp;Select</source>
@@ -5330,7 +4964,7 @@ Replace</source>
     </message>
     <message>
         <source>Font</source>
-        <translation>フォント</translation>
+        <translation type="obsolete">フォント</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -5338,16 +4972,16 @@ Replace</source>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>サイズ</translation>
+        <translation type="obsolete">サイズ</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>書式</translation>
+        <translation type="obsolete">書式</translation>
     </message>
     <message>
         <source>Format 
 Painter</source>
-        <translation type="unfinished">書式のコピー/
+        <translation type="obsolete">書式のコピー/
 貼り付け</translation>
     </message>
     <message>
@@ -5356,11 +4990,11 @@ Painter</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation>書式</translation>
+        <translation type="obsolete">書式</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation>数式</translation>
+        <translation type="obsolete">数式</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -5368,15 +5002,11 @@ Painter</source>
     </message>
     <message>
         <source>Go to</source>
-        <translation>ジャンプ </translation>
-    </message>
-    <message>
-        <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">ジャンプ </translation>
     </message>
     <message>
         <source>Hide Columns</source>
-        <translation>列を表示しない</translation>
+        <translation type="obsolete">列を表示しない</translation>
     </message>
     <message>
         <source>Hide Colums</source>
@@ -5384,121 +5014,101 @@ Painter</source>
     </message>
     <message>
         <source>Hide Rows</source>
-        <translation>行を表示しない</translation>
+        <translation type="obsolete">行を表示しない</translation>
     </message>
     <message>
         <source>Hide Sheet</source>
-        <translation>シートを表示しない</translation>
+        <translation type="obsolete">シートを表示しない</translation>
     </message>
     <message>
         <source>Hide and Unhide</source>
-        <translation>非表示/再表示(U)</translation>
+        <translation type="obsolete">非表示/再表示(U)</translation>
     </message>
     <message>
         <source>Hide&amp;Unhide</source>
         <translation type="obsolete">非表示/再表示(U)</translation>
     </message>
     <message>
-        <source>Highlight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Increase Decimal</source>
-        <translation>小数点表示桁上げ</translation>
+        <translation type="obsolete">小数点表示桁上げ</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>フォント サイズの拡大</translation>
+        <translation type="obsolete">フォント サイズの拡大</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation>インデント追加</translation>
+        <translation type="obsolete">インデント追加</translation>
     </message>
     <message>
         <source>Insert Cell</source>
-        <translation>セルの挿入</translation>
+        <translation type="obsolete">セルの挿入</translation>
     </message>
     <message>
         <source>Insert Cells</source>
-        <translation>セルの挿入</translation>
+        <translation type="obsolete">セルの挿入</translation>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation>列の挿入</translation>
+        <translation type="obsolete">列の挿入</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
-        <translation>コピーしたセルの挿入</translation>
+        <translation type="obsolete">コピーしたセルの挿入</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
-        <translation>切り取ったセルの挿入</translation>
+        <translation type="obsolete">切り取ったセルの挿入</translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation>行の挿入</translation>
+        <translation type="obsolete">行の挿入</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
-        <translation>シートの挿入</translation>
+        <translation type="obsolete">シートの挿入</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>斜体</translation>
+        <translation type="obsolete">斜体</translation>
     </message>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished">セルを結合して
+        <translation type="obsolete">セルを結合して
 中央寄せ</translation>
     </message>
     <message>
-        <source>Last month</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last week</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left</source>
-        <translation>左方向へコピー</translation>
+        <translation type="obsolete">左方向へコピー</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>左罫線</translation>
-    </message>
-    <message>
-        <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">左罫線</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation>線の色</translation>
+        <translation type="obsolete">線の色</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>線のスタイル</translation>
+        <translation type="obsolete">線のスタイル</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translation>セルのロック</translation>
+        <translation type="obsolete">セルのロック</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>最大値</translation>
+        <translation type="obsolete">最大値</translation>
     </message>
     <message>
         <source>Merge Across</source>
-        <translation>選択範囲内で結合</translation>
+        <translation type="obsolete">選択範囲内で結合</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation>セルの結合</translation>
+        <translation type="obsolete">セルの結合</translation>
     </message>
     <message>
         <source>Merge and 
@@ -5508,48 +5118,40 @@ Center</source>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation>セルを結合して
+        <translation type="obsolete">セルを結合して
 中央揃え</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>最小値</translation>
+        <translation type="obsolete">最小値</translation>
     </message>
     <message>
         <source>More Borders</source>
-        <translation>その他の線</translation>
+        <translation type="obsolete">その他の線</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation>その他の関数</translation>
+        <translation type="obsolete">その他の関数</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
-        <translation>シートの移動またはコピー</translation>
-    </message>
-    <message>
-        <source>Next month</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">シートの移動またはコピー</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>枠なし</translation>
+        <translation type="obsolete">枠なし</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>数値</translation>
+        <translation type="obsolete">数値</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>外枠</translation>
+        <translation type="obsolete">外枠</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>貼り付け</translation>
+        <translation type="obsolete">貼り付け</translation>
     </message>
     <message>
         <source>Paste As Unformatted Text</source>
@@ -5561,27 +5163,27 @@ Center</source>
     </message>
     <message>
         <source>Paste as Picture</source>
-        <translation>図として貼り付け</translation>
+        <translation type="obsolete">図として貼り付け</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation>形式なし貼り付け</translation>
+        <translation type="obsolete">形式なし貼り付け</translation>
     </message>
     <message>
         <source>Percent Style</source>
-        <translation>パーセント スタイル</translation>
+        <translation type="obsolete">パーセント スタイル</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation>シートの保護</translation>
+        <translation type="obsolete">シートの保護</translation>
     </message>
     <message>
         <source>Reapply</source>
-        <translation>再適用</translation>
+        <translation type="obsolete">再適用</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>名前の変更</translation>
+        <translation type="obsolete">名前の変更</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -5589,23 +5191,23 @@ Center</source>
     </message>
     <message>
         <source>Right</source>
-        <translation>右方向へコピー</translation>
+        <translation type="obsolete">右方向へコピー</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation>右罫線</translation>
+        <translation type="obsolete">右罫線</translation>
     </message>
     <message>
         <source>Rotate Text Down</source>
-        <translation>下に回転</translation>
+        <translation type="obsolete">下に回転</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
-        <translation>上に回転</translation>
+        <translation type="obsolete">上に回転</translation>
     </message>
     <message>
         <source>Row Height</source>
-        <translation>高さ</translation>
+        <translation type="obsolete">高さ</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -5614,31 +5216,27 @@ Center</source>
     <message>
         <source>Rows and 
 Columns</source>
-        <translation type="unfinished">行と列</translation>
-    </message>
-    <message>
-        <source>Rows and Columns</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">行と列</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>オブジェクトの選択</translation>
+        <translation type="obsolete">オブジェクトの選択</translation>
     </message>
     <message>
         <source>Series</source>
-        <translation>系列</translation>
+        <translation type="obsolete">系列</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>すべて表示する</translation>
+        <translation type="obsolete">すべて表示する</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>並べ替え</translation>
+        <translation type="obsolete">並べ替え</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -5649,92 +5247,60 @@ Columns</source>
         <translation type="obsolete">降順</translation>
     </message>
     <message>
-        <source>Special Value</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Standard Width</source>
-        <translation>標準の幅</translation>
+        <translation type="obsolete">標準の幅</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation>スタイル</translation>
+        <translation type="obsolete">スタイル</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation>合計</translation>
+        <translation type="obsolete">合計</translation>
     </message>
     <message>
         <source>Tab Color</source>
-        <translation>シート見出しの色</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">シート見出しの色</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>フォントの色</translation>
+        <translation type="obsolete">フォントの色</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
-        <translation>下太罫線</translation>
+        <translation type="obsolete">下太罫線</translation>
     </message>
     <message>
         <source>Thick Box Border</source>
-        <translation>外枠太罫線</translation>
-    </message>
-    <message>
-        <source>This month</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This week</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Today</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top 10</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">外枠太罫線</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>上罫線</translation>
+        <translation type="obsolete">上罫線</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
-        <translation>上罫線+下罫線</translation>
+        <translation type="obsolete">上罫線+下罫線</translation>
     </message>
     <message>
         <source>Top and Double Bottom Border</source>
-        <translation>上罫線+下二重罫線</translation>
+        <translation type="obsolete">上罫線+下二重罫線</translation>
     </message>
     <message>
         <source>Top and Thick Bottom Border</source>
-        <translation>上罫線+下太罫線</translation>
+        <translation type="obsolete">上罫線+下太罫線</translation>
     </message>
     <message>
         <source>Transpose</source>
-        <translation>変換</translation>
+        <translation type="obsolete">変換</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>下線</translation>
+        <translation type="obsolete">下線</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
-        <translation>列の再表示</translation>
+        <translation type="obsolete">列の再表示</translation>
     </message>
     <message>
         <source>Unhide Colums</source>
@@ -5742,39 +5308,27 @@ Columns</source>
     </message>
     <message>
         <source>Unhide Rows</source>
-        <translation>行の再表示</translation>
+        <translation type="obsolete">行の再表示</translation>
     </message>
     <message>
         <source>Unhide Sheet</source>
-        <translation>シートの再表示</translation>
-    </message>
-    <message>
-        <source>Unmerge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">シートの再表示</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>上方向へコピー</translation>
-    </message>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">上方向へコピー</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation>数値</translation>
+        <translation type="obsolete">数値</translation>
     </message>
     <message>
         <source>Vertical Center</source>
-        <translation>中央寄せ</translation>
+        <translation type="obsolete">中央寄せ</translation>
     </message>
     <message>
         <source>Vertical Text </source>
-        <translation>縦書きテキスト</translation>
-    </message>
-    <message>
-        <source>Weekend</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">縦書きテキスト</translation>
     </message>
     <message>
         <source>WorkSheet</source>
@@ -5782,23 +5336,19 @@ Columns</source>
     </message>
     <message>
         <source>Worksheet</source>
-        <translation>シート</translation>
+        <translation type="obsolete">シート</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>折り返して
+        <translation type="obsolete">折り返して
 全体を表示する</translation>
-    </message>
-    <message>
-        <source>Yesterday</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_home.Alignment</name>
     <message>
         <source>Alignment</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Cell Alignment</source>
@@ -5817,7 +5367,7 @@ Columns</source>
     </message>
     <message>
         <source>Format Cells</source>
-        <translation>セル</translation>
+        <translation type="obsolete">セル</translation>
     </message>
 </context>
 <context>
@@ -5852,7 +5402,7 @@ Columns</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -5864,28 +5414,28 @@ Columns</source>
     </message>
     <message>
         <source>Button</source>
-        <translation>ボタン</translation>
+        <translation type="obsolete">ボタン</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation>カメラ</translation>
+        <translation type="obsolete">カメラ</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation>グラフ</translation>
+        <translation type="obsolete">グラフ</translation>
     </message>
     <message>
         <source>Check Box</source>
-        <translation>チェック ボックス</translation>
+        <translation type="obsolete">チェック ボックス</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>クリップ
+        <translation type="obsolete">クリップ
 アート</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation>コンボ ボックス</translation>
+        <translation type="obsolete">コンボ ボックス</translation>
     </message>
     <message>
         <source>Control
@@ -5895,7 +5445,7 @@ Properties</source>
     <message>
         <source>Control 
 Properties</source>
-        <translation type="unfinished">プロパティ</translation>
+        <translation type="obsolete">プロパティ</translation>
     </message>
     <message>
         <source>Control Properties</source>
@@ -5911,7 +5461,7 @@ Properties</source>
     </message>
     <message>
         <source>Edit Code</source>
-        <translation>コードの
+        <translation type="obsolete">コードの
 編集</translation>
     </message>
     <message>
@@ -5928,27 +5478,27 @@ Properties</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation>数式</translation>
+        <translation type="obsolete">数式</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>ファイルオブジェクト</translation>
+        <translation type="obsolete">ファイルオブジェクト</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>左右反転</translation>
+        <translation type="obsolete">左右反転</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>上下反転</translation>
+        <translation type="obsolete">上下反転</translation>
     </message>
     <message>
         <source>Forms</source>
-        <translation>フォーム ツールボックス</translation>
+        <translation type="obsolete">フォーム ツールボックス</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>自由に回転</translation>
+        <translation type="obsolete">自由に回転</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -5956,16 +5506,16 @@ Properties</source>
     </message>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Group Box</source>
-        <translation>グループ ボックス</translation>
+        <translation type="obsolete">グループ ボックス</translation>
     </message>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished">ヘッダーと
+        <translation type="obsolete">ヘッダーと
 フッター</translation>
     </message>
     <message>
@@ -5978,7 +5528,7 @@ Footer</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>横書き</translation>
+        <translation type="obsolete">横書き</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -5986,82 +5536,74 @@ Footer</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation>ハイパー
+        <translation type="obsolete">ハイパー
 リンク</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="unfinished">クリップアート</translation>
+        <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Label</source>
-        <translation>ラベル</translation>
+        <translation type="obsolete">ラベル</translation>
     </message>
     <message>
         <source>Links</source>
-        <translation>リンク</translation>
+        <translation type="obsolete">リンク</translation>
     </message>
     <message>
         <source>List Box</source>
-        <translation>リスト ボックス</translation>
+        <translation type="obsolete">リスト ボックス</translation>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation>その他の記号と特殊文字</translation>
+        <translation type="obsolete">その他の記号と特殊文字</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation>オブジェクト</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">オブジェクト</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation>オプション ボタン</translation>
+        <translation type="obsolete">オプション ボタン</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>ピボット
+        <translation type="obsolete">ピボット
 テーブル</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>回転</translation>
+        <translation type="obsolete">回転</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>左90度回転</translation>
+        <translation type="obsolete">左90度回転</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>右90度回転</translation>
+        <translation type="obsolete">右90度回転</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation>スクロール バー</translation>
+        <translation type="obsolete">スクロール バー</translation>
     </message>
     <message>
         <source>Selection 
 Pane</source>
-        <translation type="unfinished">オブジェクトの
+        <translation type="obsolete">オブジェクトの
 選択と表示</translation>
     </message>
     <message>
@@ -6078,7 +5620,7 @@ Pane</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation>図形</translation>
+        <translation type="obsolete">図形</translation>
     </message>
     <message>
         <source>Show Grid</source>
@@ -6090,41 +5632,41 @@ Pane</source>
     </message>
     <message>
         <source>Spinner</source>
-        <translation>スピン ボタン</translation>
+        <translation type="obsolete">スピン ボタン</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>記号と
+        <translation type="obsolete">記号と
 特殊文字</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>記号と特殊文字</translation>
+        <translation type="obsolete">記号と特殊文字</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation>テーブル</translation>
+        <translation type="obsolete">テーブル</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>テキスト</translation>
+        <translation type="obsolete">テキスト</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>テキスト
+        <translation type="obsolete">テキスト
 ボックス</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>縦書き</translation>
+        <translation type="obsolete">縦書き</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>アート
+        <translation type="obsolete">アート
 文字</translation>
     </message>
 </context>
@@ -6132,35 +5674,35 @@ Pane</source>
     <name>ongmani.ct_layout</name>
     <message>
         <source>Align</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>下寄せ</translation>
+        <translation type="obsolete">下寄せ</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>左右中央寄せ</translation>
+        <translation type="obsolete">左右中央寄せ</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>上下中央寄せ</translation>
+        <translation type="obsolete">上下中央寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>上寄せ</translation>
+        <translation type="obsolete">上寄せ</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Arrange All</source>
@@ -6168,7 +5710,7 @@ Pane</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>改ページ</translation>
+        <translation type="obsolete">改ページ</translation>
     </message>
     <message>
         <source>Bring
@@ -6178,7 +5720,7 @@ Forward</source>
     <message>
         <source>Bring 
 Forward</source>
-        <translation type="unfinished">前面
+        <translation type="obsolete">前面
 へ移動</translation>
     </message>
     <message>
@@ -6187,7 +5729,7 @@ Forward</source>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>最前面へ移動</translation>
+        <translation type="obsolete">最前面へ移動</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -6195,7 +5737,7 @@ Forward</source>
     </message>
     <message>
         <source>Clear Print Area</source>
-        <translation>印刷範囲の解除</translation>
+        <translation type="obsolete">印刷範囲の解除</translation>
     </message>
     <message>
         <source>Clear Print Region</source>
@@ -6216,11 +5758,11 @@ Other Window</source>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation>拡大/縮小</translation>
+        <translation type="obsolete">拡大/縮小</translation>
     </message>
     <message>
         <source>Delete Page Break</source>
-        <translation>改ページの解除</translation>
+        <translation type="obsolete">改ページの解除</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -6232,35 +5774,35 @@ Other Window</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>左右に整列</translation>
+        <translation type="obsolete">左右に整列</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>上下に整列</translation>
+        <translation type="obsolete">上下に整列</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>高さ揃え</translation>
+        <translation type="obsolete">高さ揃え</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>サイズ揃え</translation>
+        <translation type="obsolete">サイズ揃え</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>幅揃え</translation>
+        <translation type="obsolete">幅揃え</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation>全列を1ページに設定</translation>
+        <translation type="obsolete">全列を1ページに設定</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation>全行を1ページに設定</translation>
+        <translation type="obsolete">全行を1ページに設定</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation>シート全体を1ページに設定</translation>
+        <translation type="obsolete">シート全体を1ページに設定</translation>
     </message>
     <message>
         <source>Fit:</source>
@@ -6268,11 +5810,11 @@ Other Window</source>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>左右反転</translation>
+        <translation type="obsolete">左右反転</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>上下反転</translation>
+        <translation type="obsolete">上下反転</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -6280,7 +5822,7 @@ Other Window</source>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>自由に回転</translation>
+        <translation type="obsolete">自由に回転</translation>
     </message>
     <message>
         <source>Freeze</source>
@@ -6296,7 +5838,7 @@ Other Window</source>
     </message>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -6308,7 +5850,7 @@ Other Window</source>
     </message>
     <message>
         <source>Insert Page Break</source>
-        <translation>改ページの挿入</translation>
+        <translation type="obsolete">改ページの挿入</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -6316,7 +5858,7 @@ Other Window</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation>余白</translation>
+        <translation type="obsolete">余白</translation>
     </message>
     <message>
         <source>More Windows</source>
@@ -6328,7 +5870,7 @@ Other Window</source>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -6336,7 +5878,7 @@ Other Window</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>用紙の
+        <translation type="obsolete">用紙の
 方向</translation>
     </message>
     <message>
@@ -6345,23 +5887,23 @@ Other Window</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>ページの設定</translation>
+        <translation type="obsolete">ページの設定</translation>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation>拡大縮小
+        <translation type="obsolete">拡大縮小
 印刷</translation>
     </message>
     <message>
         <source>Print
 Area</source>
-        <translation type="unfinished">印刷
+        <translation type="obsolete">印刷
 範囲</translation>
     </message>
     <message>
         <source>Print
 Titles</source>
-        <translation type="unfinished">印刷
+        <translation type="obsolete">印刷
 タイトル</translation>
     </message>
     <message>
@@ -6390,19 +5932,19 @@ Titles</source>
     </message>
     <message>
         <source>Reset All Page Breaks</source>
-        <translation>すべての改ページを解除</translation>
+        <translation type="obsolete">すべての改ページを解除</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>回転</translation>
+        <translation type="obsolete">回転</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>左90度回転</translation>
+        <translation type="obsolete">左90度回転</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>右90度回転</translation>
+        <translation type="obsolete">右90度回転</translation>
     </message>
     <message>
         <source>Security</source>
@@ -6410,7 +5952,7 @@ Titles</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オプジェクトの選択と表示</translation>
+        <translation type="obsolete">オプジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Send
@@ -6420,7 +5962,7 @@ Backward</source>
     <message>
         <source>Send 
 Backward</source>
-        <translation type="unfinished">背面
+        <translation type="obsolete">背面
 へ移動</translation>
     </message>
     <message>
@@ -6429,11 +5971,11 @@ Backward</source>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>最背面へ移動</translation>
+        <translation type="obsolete">最背面へ移動</translation>
     </message>
     <message>
         <source>Set Print Area</source>
-        <translation>印刷範囲の設定</translation>
+        <translation type="obsolete">印刷範囲の設定</translation>
     </message>
     <message>
         <source>Set Print Region</source>
@@ -6441,19 +5983,19 @@ Backward</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation>グリッドの表示</translation>
+        <translation type="obsolete">グリッドの表示</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>サイズ</translation>
+        <translation type="obsolete">サイズ</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>グリッド線に合わせる</translation>
+        <translation type="obsolete">グリッド線に合わせる</translation>
     </message>
     <message>
         <source>Split</source>
@@ -6473,7 +6015,7 @@ Backward</source>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
     <message>
         <source>Unsplit</source>
@@ -6505,99 +6047,99 @@ Backward</source>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation>倍率指定</translation>
+        <translation type="obsolete">倍率指定</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_picturetool</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
+        <translation type="obsolete">0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 pt</translation>
+        <translation type="obsolete"> 0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
+        <translation type="obsolete">0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 pt</translation>
+        <translation type="obsolete">   1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 pt</translation>
+        <translation type="obsolete"> 1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
+        <translation type="obsolete">2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 pt</translation>
+        <translation type="obsolete">   3 pt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 pt</translation>
+        <translation type="obsolete"> 4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 pt</translation>
+        <translation type="obsolete">   6 pt</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation>調整</translation>
+        <translation type="obsolete">調整</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
-        <translation>図の調整</translation>
+        <translation type="obsolete">図の調整</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>下寄せ</translation>
+        <translation type="obsolete">下寄せ</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>左右中央寄せ</translation>
+        <translation type="obsolete">左右中央寄せ</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>上下中央寄せ</translation>
+        <translation type="obsolete">上下中央寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>上寄せ</translation>
+        <translation type="obsolete">上寄せ</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>前面へ移動</translation>
+        <translation type="obsolete">前面へ移動</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>最前面へ移動</translation>
+        <translation type="obsolete">最前面へ移動</translation>
     </message>
     <message>
         <source>Change
 Picture</source>
-        <translation type="unfinished">他のグラフィックスに変更する</translation>
+        <translation type="obsolete">他のグラフィックスに変更する</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -6605,13 +6147,13 @@ Picture</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>クリップ
+        <translation type="obsolete">クリップ
 アート</translation>
     </message>
     <message>
         <source>Compress
 Pictures</source>
-        <translation type="unfinished">図の圧縮</translation>
+        <translation type="obsolete">図の圧縮</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -6619,23 +6161,23 @@ Pictures</source>
     </message>
     <message>
         <source>Crop</source>
-        <translation>トリミング</translation>
+        <translation type="obsolete">トリミング</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation>破線</translation>
+        <translation type="obsolete">破線</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>一点鎖線</translation>
+        <translation type="obsolete">一点鎖線</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>実線/点線のスタイル</translation>
+        <translation type="obsolete">実線/点線のスタイル</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -6651,44 +6193,44 @@ Pictures</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>左右に整列</translation>
+        <translation type="obsolete">左右に整列</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>上下に整列</translation>
+        <translation type="obsolete">上下に整列</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>高さ揃え</translation>
+        <translation type="obsolete">高さ揃え</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>サイズ揃え</translation>
+        <translation type="obsolete">サイズ揃え</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>幅揃え</translation>
+        <translation type="obsolete">幅揃え</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>塗り
+        <translation type="obsolete">塗り
 つぶし</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>左右反転</translation>
+        <translation type="obsolete">左右反転</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>上下反転</translation>
+        <translation type="obsolete">上下反転</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>オブジェクトの書式設定</translation>
+        <translation type="obsolete">オブジェクトの書式設定</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>自由に回転</translation>
+        <translation type="obsolete">自由に回転</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -6696,35 +6238,31 @@ Pictures</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>グラデーション</translation>
+        <translation type="obsolete">グラデーション</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>挿入</translation>
+        <translation type="obsolete">挿入</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="unfinished">クリップアート</translation>
+        <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Less Brightness</source>
-        <translation>明るさ(弱)</translation>
+        <translation type="obsolete">明るさ(弱)</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation>コントラスト (弱)</translation>
+        <translation type="obsolete">コントラスト (弱)</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -6736,11 +6274,11 @@ Pictures</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>長破線</translation>
+        <translation type="obsolete">長破線</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>長鎖線</translation>
+        <translation type="obsolete">長鎖線</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -6748,73 +6286,69 @@ Pictures</source>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation>明るさ(強)</translation>
+        <translation type="obsolete">明るさ(強)</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation>コントラスト (強)</translation>
+        <translation type="obsolete">コントラスト (強)</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>その他の線</translation>
+        <translation type="obsolete">その他の線</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>影なし</translation>
+        <translation type="obsolete">影なし</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>影の微調整(下)</translation>
+        <translation type="obsolete">影の微調整(下)</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>影の微調整(左)</translation>
+        <translation type="obsolete">影の微調整(左)</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>影の微調整(右)</translation>
+        <translation type="obsolete">影の微調整(右)</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>影の微調整(上)</translation>
-    </message>
-    <message>
-        <source>Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">影の微調整(上)</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>図の
+        <translation type="obsolete">図の
 外枠</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>パターン</translation>
+        <translation type="obsolete">パターン</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>線のパターン</translation>
+        <translation type="obsolete">線のパターン</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>Picture
 Size</source>
-        <translation type="unfinished">画のサイズ</translation>
+        <translation type="obsolete">画のサイズ</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
@@ -6834,12 +6368,12 @@ Size</source>
     </message>
     <message>
         <source>Picture Styles</source>
-        <translation>画像のスタイル</translation>
+        <translation type="obsolete">画像のスタイル</translation>
     </message>
     <message>
         <source>Reset
 Picture</source>
-        <translation type="unfinished">図のリセット</translation>
+        <translation type="obsolete">図のリセット</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -6847,58 +6381,58 @@ Picture</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>回転</translation>
+        <translation type="obsolete">回転</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>左90度回転</translation>
+        <translation type="obsolete">左90度回転</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>右90度回転</translation>
+        <translation type="obsolete">右90度回転</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>点線 (丸)</translation>
+        <translation type="obsolete">点線 (丸)</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オプジェクトの選択と表示</translation>
+        <translation type="obsolete">オプジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation>半透明の影</translation>
+        <translation type="obsolete">半透明の影</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>背面へ移動</translation>
+        <translation type="obsolete">背面へ移動</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>最背面へ移動</translation>
+        <translation type="obsolete">最背面へ移動</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>透明な色
+        <translation type="obsolete">透明な色
 に設定</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished">影の表示/
+        <translation type="obsolete">影の表示/
 非表示</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation>影の色</translation>
+        <translation type="obsolete">影の色</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>影の
+        <translation type="obsolete">影の
 スタイル</translation>
     </message>
     <message>
@@ -6927,31 +6461,31 @@ On/Off</source>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation>グリッドの表示</translation>
+        <translation type="obsolete">グリッドの表示</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>グリッド線に合わせる</translation>
+        <translation type="obsolete">グリッド線に合わせる</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>実線</translation>
+        <translation type="obsolete">実線</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>点線 (角)</translation>
+        <translation type="obsolete">点線 (角)</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>テクスチャ</translation>
+        <translation type="obsolete">テクスチャ</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>線の種類</translation>
+        <translation type="obsolete">線の種類</translation>
     </message>
 </context>
 <context>
@@ -6962,38 +6496,38 @@ On/Off</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>自動</translation>
+        <translation type="obsolete">自動</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation>白黒</translation>
+        <translation type="obsolete">白黒</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>色</translation>
+        <translation type="obsolete">色</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>グレースケール</translation>
+        <translation type="obsolete">グレースケール</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation>ウォッシュアウト</translation>
+        <translation type="obsolete">ウォッシュアウト</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_pivottabletools</name>
     <message>
         <source>Active Field</source>
-        <translation>アクティブなフィールド</translation>
+        <translation type="obsolete">アクティブなフィールド</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>データ</translation>
+        <translation type="obsolete">データ</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>削除</translation>
+        <translation type="obsolete">削除</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -7002,7 +6536,7 @@ On/Off</source>
     <message>
         <source>Field
 Settings</source>
-        <translation type="unfinished">フィールド設定</translation>
+        <translation type="obsolete">フィールド設定</translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -7010,17 +6544,17 @@ Settings</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation>表示しない</translation>
+        <translation type="obsolete">表示しない</translation>
     </message>
     <message>
         <source>Hide
 Detail</source>
-        <translation type="unfinished">詳細を表示しない</translation>
+        <translation type="obsolete">詳細を表示しない</translation>
     </message>
     <message>
         <source>Hide 
 Field List</source>
-        <translation type="unfinished">フィールド リストを表示しない</translation>
+        <translation type="obsolete">フィールド リストを表示しない</translation>
     </message>
     <message>
         <source>Hide Detail</source>
@@ -7032,12 +6566,12 @@ Field List</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation>レイアウト</translation>
+        <translation type="obsolete">レイアウト</translation>
     </message>
     <message>
         <source>Modify
 PivotTable</source>
-        <translation type="unfinished">ピボットテーブルの変更</translation>
+        <translation type="obsolete">ピボットテーブルの変更</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
@@ -7045,31 +6579,31 @@ PivotTable</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation>下へ移動</translation>
+        <translation type="obsolete">下へ移動</translation>
     </message>
     <message>
         <source>Move Left</source>
-        <translation>左方向にシフト</translation>
+        <translation type="obsolete">左方向にシフト</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>右方向にシフト</translation>
+        <translation type="obsolete">右方向にシフト</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>1つ上のレベルへ移動</translation>
+        <translation type="obsolete">1つ上のレベルへ移動</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
-        <translation>先頭へ移動</translation>
+        <translation type="obsolete">先頭へ移動</translation>
     </message>
     <message>
         <source>Move to End</source>
-        <translation>末尾に移動</translation>
+        <translation type="obsolete">末尾に移動</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation>順序</translation>
+        <translation type="obsolete">順序</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -7078,7 +6612,7 @@ PivotTable</source>
     <message>
         <source>PivotTable
 Options</source>
-        <translation type="unfinished">ピボットテーブルオプション</translation>
+        <translation type="obsolete">ピボットテーブルオプション</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
@@ -7100,12 +6634,12 @@ Data</source>
     <message>
         <source>Show
 Detail</source>
-        <translation type="unfinished">詳細データの表示</translation>
+        <translation type="obsolete">詳細データの表示</translation>
     </message>
     <message>
         <source>Show 
 Field List</source>
-        <translation type="unfinished">フィールド リストの表示</translation>
+        <translation type="obsolete">フィールド リストの表示</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -7117,39 +6651,39 @@ Field List</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation>並べ替え</translation>
+        <translation type="obsolete">並べ替え</translation>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation>集計</translation>
+        <translation type="obsolete">集計</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation type="obsolete">閉じる</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation>拡大/縮小</translation>
+        <translation type="obsolete">拡大/縮小</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation>全列を1ページに設定</translation>
+        <translation type="obsolete">全列を1ページに設定</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation>全行を1ページに設定</translation>
+        <translation type="obsolete">全行を1ページに設定</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation>シート全体を1ページに設定</translation>
+        <translation type="obsolete">シート全体を1ページに設定</translation>
     </message>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="unfinished">ヘッダーとフッター</translation>
+        <translation type="obsolete">ヘッダーとフッター</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -7157,16 +6691,16 @@ Footer</source>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>横</translation>
+        <translation type="obsolete">横</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation>余白</translation>
+        <translation type="obsolete">余白</translation>
     </message>
     <message>
         <source>Next
 Page</source>
-        <translation type="unfinished">次のページ</translation>
+        <translation type="obsolete">次のページ</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -7174,12 +6708,12 @@ Page</source>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Normal
 View</source>
-        <translation type="unfinished">標準ビュー</translation>
+        <translation type="obsolete">標準ビュー</translation>
     </message>
     <message>
         <source>Normal View</source>
@@ -7188,12 +6722,12 @@ View</source>
     <message>
         <source>Page
 Setup</source>
-        <translation type="unfinished">ページの設定</translation>
+        <translation type="obsolete">ページの設定</translation>
     </message>
     <message>
         <source>Page Break
 Preview</source>
-        <translation type="unfinished">改ページプレビュー</translation>
+        <translation type="obsolete">改ページプレビュー</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -7205,16 +6739,16 @@ Preview</source>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation>拡大縮小印刷</translation>
+        <translation type="obsolete">拡大縮小印刷</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>縦</translation>
+        <translation type="obsolete">縦</translation>
     </message>
     <message>
         <source>Previous
 Page</source>
-        <translation type="unfinished">前のページ</translation>
+        <translation type="obsolete">前のページ</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -7222,7 +6756,7 @@ Page</source>
     </message>
     <message>
         <source>Print</source>
-        <translation>印刷</translation>
+        <translation type="obsolete">印刷</translation>
     </message>
     <message>
         <source>Print 
@@ -7239,18 +6773,18 @@ Directly</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>表示</translation>
+        <translation type="obsolete">表示</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_review</name>
     <message>
         <source>Accept Changes</source>
-        <translation>リビジョンを承諾</translation>
+        <translation type="obsolete">リビジョンを承諾</translation>
     </message>
     <message>
         <source>Accept Revisions</source>
@@ -7258,12 +6792,12 @@ Directly</source>
     </message>
     <message>
         <source>Allow Users to Edit Ranges</source>
-        <translation>範囲の編集
+        <translation type="obsolete">範囲の編集
 を許可</translation>
     </message>
     <message>
         <source>Changes</source>
-        <translation>変更</translation>
+        <translation type="obsolete">変更</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -7271,16 +6805,16 @@ Directly</source>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>中国語の翻訳</translation>
+        <translation type="obsolete">中国語の翻訳</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation>コメント</translation>
+        <translation type="obsolete">コメント</translation>
     </message>
     <message>
         <source>Delete 
 Comment</source>
-        <translation type="unfinished">コメント
+        <translation type="obsolete">コメント
 の削除</translation>
     </message>
     <message>
@@ -7290,7 +6824,7 @@ Comment</source>
     <message>
         <source>Edit
 Comment</source>
-        <translation type="unfinished">コメント
+        <translation type="obsolete">コメント
 の編集</translation>
     </message>
     <message>
@@ -7299,17 +6833,17 @@ Comment</source>
     </message>
     <message>
         <source>Highlight Changes</source>
-        <translation>変更箇所の表示</translation>
+        <translation type="obsolete">変更箇所の表示</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translation>セルの
+        <translation type="obsolete">セルの
 ロック</translation>
     </message>
     <message>
         <source>New 
 Comment</source>
-        <translation type="unfinished">コメント
+        <translation type="obsolete">コメント
 の挿入</translation>
     </message>
     <message>
@@ -7318,17 +6852,17 @@ Comment</source>
     </message>
     <message>
         <source>Proofing</source>
-        <translation>文章校正</translation>
+        <translation type="obsolete">文章校正</translation>
     </message>
     <message>
         <source>Protect
 Workbook</source>
-        <translation type="unfinished">ブックの保護</translation>
+        <translation type="obsolete">ブックの保護</translation>
     </message>
     <message>
         <source>Protect 
 Sheet</source>
-        <translation type="unfinished">シートの保護</translation>
+        <translation type="obsolete">シートの保護</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
@@ -7340,11 +6874,11 @@ Sheet</source>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation>ブックの保護と共有</translation>
+        <translation type="obsolete">ブックの保護と共有</translation>
     </message>
     <message>
         <source>Reject Changes</source>
-        <translation>変更を元に戻す</translation>
+        <translation type="obsolete">変更を元に戻す</translation>
     </message>
     <message>
         <source>Reject Revision</source>
@@ -7353,7 +6887,7 @@ Sheet</source>
     <message>
         <source>Share
 Workbook</source>
-        <translation type="unfinished">ブックの共有</translation>
+        <translation type="obsolete">ブックの共有</translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -7361,7 +6895,7 @@ Workbook</source>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>スペル チェック</translation>
+        <translation type="obsolete">スペル チェック</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -7370,7 +6904,7 @@ Workbook</source>
     <message>
         <source>Track
 Changes</source>
-        <translation type="unfinished">変更履歴
+        <translation type="obsolete">変更履歴
 の記録</translation>
     </message>
     <message>
@@ -7379,46 +6913,46 @@ Changes</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>簡体字中国語​​に翻訳</translation>
+        <translation type="obsolete">簡体字中国語​​に翻訳</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>繁体字中国語に翻訳</translation>
+        <translation type="obsolete">繁体字中国語に翻訳</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation>翻訳</translation>
+        <translation type="obsolete">翻訳</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_shadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation>  0 pt(0)</translation>
+        <translation type="obsolete">  0 pt(0)</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation>144 pt(1)</translation>
+        <translation type="obsolete">144 pt(1)</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation>288 pt(2)</translation>
+        <translation type="obsolete">288 pt(2)</translation>
     </message>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished">3Dの色</translation>
+        <translation type="obsolete">3Dの色</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="unfinished">3Dの表示/
+        <translation type="obsolete">3Dの表示/
 非表示</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
-        <translation type="unfinished">3D 効果</translation>
+        <translation type="obsolete">3D 効果</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -7434,115 +6968,115 @@ Effects</source>
     </message>
     <message>
         <source>36 pt</source>
-        <translation> 36 pt(3)</translation>
+        <translation type="obsolete"> 36 pt(3)</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation> 72 pt(7)</translation>
+        <translation type="obsolete"> 72 pt(7)</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation>明るく</translation>
+        <translation type="obsolete">明るく</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>奥行き</translation>
+        <translation type="obsolete">奥行き</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation>暗く​​</translation>
+        <translation type="obsolete">暗く​​</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>方向</translation>
+        <translation type="obsolete">方向</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation>エンドレス</translation>
+        <translation type="obsolete">エンドレス</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation>光源</translation>
+        <translation type="obsolete">光源</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation>つや消し</translation>
+        <translation type="obsolete">つや消し</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation>金属</translation>
+        <translation type="obsolete">金属</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>その他の3Dの色</translation>
+        <translation type="obsolete">その他の3Dの色</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3Dなし</translation>
+        <translation type="obsolete">3Dなし</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>影なし</translation>
+        <translation type="obsolete">影なし</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>影の微調整(下)</translation>
+        <translation type="obsolete">影の微調整(下)</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>影の微調整(左)</translation>
+        <translation type="obsolete">影の微調整(左)</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>影の微調整(右)</translation>
+        <translation type="obsolete">影の微調整(右)</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>影の微調整(上)</translation>
+        <translation type="obsolete">影の微調整(上)</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>平行</translation>
+        <translation type="obsolete">平行</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation>遠近</translation>
+        <translation type="obsolete">遠近</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation>プラスチック</translation>
+        <translation type="obsolete">プラスチック</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation>半透明の影</translation>
+        <translation type="obsolete">半透明の影</translation>
     </message>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished">影の色</translation>
+        <translation type="obsolete">影の色</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished">影の表示/
+        <translation type="obsolete">影の表示/
 非表示</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished">影の
+        <translation type="obsolete">影の
 スタイル</translation>
     </message>
     <message>
@@ -7575,27 +7109,27 @@ Effects</source>
     </message>
     <message>
         <source>Surface</source>
-        <translation>表面</translation>
+        <translation type="obsolete">表面</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>下に傾げる</translation>
+        <translation type="obsolete">下に傾げる</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation>左に傾げる</translation>
+        <translation type="obsolete">左に傾げる</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation>右に傾げる</translation>
+        <translation type="obsolete">右に傾げる</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation>上に傾げる</translation>
+        <translation type="obsolete">上に傾げる</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation>ワイヤーフレーム</translation>
+        <translation type="obsolete">ワイヤーフレーム</translation>
     </message>
 </context>
 <context>
@@ -7603,7 +7137,7 @@ Effects</source>
     <message>
         <source>Arrange
 All</source>
-        <translation type="unfinished">並べて
+        <translation type="obsolete">並べて
 表示</translation>
     </message>
     <message>
@@ -7612,16 +7146,16 @@ All</source>
     </message>
     <message>
         <source>Cascade</source>
-        <translation>重ねて表示</translation>
+        <translation type="obsolete">重ねて表示</translation>
     </message>
     <message>
         <source>Close
 Other Window</source>
-        <translation type="unfinished">他のタブを閉じる</translation>
+        <translation type="obsolete">他のタブを閉じる</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation>他のタブを閉じる</translation>
+        <translation type="obsolete">他のタブを閉じる</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -7629,28 +7163,24 @@ Other Window</source>
     </message>
     <message>
         <source>Developer</source>
-        <translation>開発ツール</translation>
+        <translation type="obsolete">開発ツール</translation>
     </message>
     <message>
         <source>Developer Tools</source>
         <translation type="obsolete">開発ツール</translation>
     </message>
     <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Formula Bar</source>
-        <translation>編集バー</translation>
+        <translation type="obsolete">編集バー</translation>
     </message>
     <message>
         <source>Freeze</source>
-        <translation>固定</translation>
+        <translation type="obsolete">固定</translation>
     </message>
     <message>
         <source>Full 
 Screen</source>
-        <translation type="unfinished">全画面
+        <translation type="obsolete">全画面
 表示</translation>
     </message>
     <message>
@@ -7667,24 +7197,24 @@ Screen</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>上下に並べて表示</translation>
+        <translation type="obsolete">上下に並べて表示</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation>マクロ</translation>
+        <translation type="obsolete">マクロ</translation>
     </message>
     <message>
         <source>More Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Windows</source>
-        <translation>その他タブ</translation>
+        <translation type="obsolete">その他タブ</translation>
     </message>
     <message>
         <source>New
 Window</source>
-        <translation type="unfinished">新しい
+        <translation type="obsolete">新しい
 タブを開く</translation>
     </message>
     <message>
@@ -7693,12 +7223,12 @@ Window</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Page Break 
 Preview</source>
-        <translation type="unfinished">改ページ
+        <translation type="obsolete">改ページ
 プレビュー</translation>
     </message>
     <message>
@@ -7707,16 +7237,16 @@ Preview</source>
     </message>
     <message>
         <source>Print Gridlines</source>
-        <translation>グリッド線の印刷</translation>
+        <translation type="obsolete">グリッド線の印刷</translation>
     </message>
     <message>
         <source>Print Headings</source>
-        <translation>見出しの印刷</translation>
+        <translation type="obsolete">見出しの印刷</translation>
     </message>
     <message>
         <source>Reading
 Layout</source>
-        <translation type="unfinished">閲覧
+        <translation type="obsolete">閲覧
 レイアウト</translation>
     </message>
     <message>
@@ -7725,7 +7255,7 @@ Layout</source>
     </message>
     <message>
         <source>Security</source>
-        <translation>マクロのセキュリティ</translation>
+        <translation type="obsolete">マクロのセキュリティ</translation>
     </message>
     <message>
         <source>Split</source>
@@ -7733,52 +7263,52 @@ Layout</source>
     </message>
     <message>
         <source>Switch Windows</source>
-        <translation>タブの
+        <translation type="obsolete">タブの
 切り替え</translation>
     </message>
     <message>
         <source>Task Window</source>
-        <translation>ワークウィンドウ</translation>
+        <translation type="obsolete">ワークウィンドウ</translation>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation>固定解除</translation>
+        <translation type="obsolete">固定解除</translation>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation>分割を解除</translation>
+        <translation type="obsolete">分割を解除</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>左右に並べて表示</translation>
+        <translation type="obsolete">左右に並べて表示</translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>グリッド線の表示</translation>
+        <translation type="obsolete">グリッド線の表示</translation>
     </message>
     <message>
         <source>View Headings</source>
-        <translation>見出しの表示</translation>
+        <translation type="obsolete">見出しの表示</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation>Visual Basic エディター</translation>
+        <translation type="obsolete">Visual Basic エディター</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation>ウインドウ</translation>
+        <translation type="obsolete">ウインドウ</translation>
     </message>
     <message>
         <source>Workbook Views</source>
-        <translation>ブックの表示</translation>
+        <translation type="obsolete">ブックの表示</translation>
     </message>
     <message>
         <source>Worksheet Options</source>
-        <translation>ワークシートオプション</translation>
+        <translation type="obsolete">ワークシートオプション</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>ズーム</translation>
+        <translation type="obsolete">ズーム</translation>
     </message>
 </context>
 <context>
@@ -7786,48 +7316,48 @@ Layout</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished">COMプラグイン</translation>
+        <translation type="obsolete">COMプラグイン</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_view.window</name>
     <message>
         <source>Close Window</source>
-        <translation>タブを閉じる</translation>
+        <translation type="obsolete">タブを閉じる</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation>分割</translation>
+        <translation type="obsolete">分割</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_washadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation>  0 pt(0)</translation>
+        <translation type="obsolete">  0 pt(0)</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation>144 pt(1)</translation>
+        <translation type="obsolete">144 pt(1)</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation>288 pt(2)</translation>
+        <translation type="obsolete">288 pt(2)</translation>
     </message>
     <message>
         <source>3-D
 Color</source>
-        <translation type="unfinished">3Dの色</translation>
+        <translation type="obsolete">3Dの色</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="unfinished">3D 効果</translation>
+        <translation type="obsolete">3D 効果</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="unfinished">3Dの表示/
+        <translation type="obsolete">3Dの表示/
 非表示</translation>
     </message>
     <message>
@@ -7844,115 +7374,115 @@ On/Off</source>
     </message>
     <message>
         <source>36 pt</source>
-        <translation> 36 pt(3)</translation>
+        <translation type="obsolete"> 36 pt(3)</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation> 72 pt(7)</translation>
+        <translation type="obsolete"> 72 pt(7)</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation>明るく</translation>
+        <translation type="obsolete">明るく</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>奥行き</translation>
+        <translation type="obsolete">奥行き</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation>暗く​​</translation>
+        <translation type="obsolete">暗く​​</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>方向</translation>
+        <translation type="obsolete">方向</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation>エンドレス</translation>
+        <translation type="obsolete">エンドレス</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation>光源</translation>
+        <translation type="obsolete">光源</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation>つや消し</translation>
+        <translation type="obsolete">つや消し</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation>金属</translation>
+        <translation type="obsolete">金属</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>その他の3Dの色</translation>
+        <translation type="obsolete">その他の3Dの色</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3Dなし</translation>
+        <translation type="obsolete">3Dなし</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>影なし</translation>
+        <translation type="obsolete">影なし</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>影の微調整(下)</translation>
+        <translation type="obsolete">影の微調整(下)</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>影の微調整(左)</translation>
+        <translation type="obsolete">影の微調整(左)</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>影の微調整(右)</translation>
+        <translation type="obsolete">影の微調整(右)</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>影の微調整(上)</translation>
+        <translation type="obsolete">影の微調整(上)</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>平行</translation>
+        <translation type="obsolete">平行</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation>遠近</translation>
+        <translation type="obsolete">遠近</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation>プラスチック</translation>
+        <translation type="obsolete">プラスチック</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation>半透明の影</translation>
+        <translation type="obsolete">半透明の影</translation>
     </message>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished">影の色</translation>
+        <translation type="obsolete">影の色</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="unfinished">影の表示/
+        <translation type="obsolete">影の表示/
 非表示</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="unfinished">影の
+        <translation type="obsolete">影の
 スタイル</translation>
     </message>
     <message>
@@ -7985,128 +7515,128 @@ Effects</source>
     </message>
     <message>
         <source>Surface</source>
-        <translation>表面</translation>
+        <translation type="obsolete">表面</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>下に傾げる</translation>
+        <translation type="obsolete">下に傾げる</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation>左に傾げる</translation>
+        <translation type="obsolete">左に傾げる</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation>右に傾げる</translation>
+        <translation type="obsolete">右に傾げる</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation>上に傾げる</translation>
+        <translation type="obsolete">上に傾げる</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation>ワイヤーフレーム</translation>
+        <translation type="obsolete">ワイヤーフレーム</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
+        <translation type="obsolete">0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 pt</translation>
+        <translation type="obsolete"> 0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
+        <translation type="obsolete">0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 pt</translation>
+        <translation type="obsolete">   1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 pt</translation>
+        <translation type="obsolete"> 1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
+        <translation type="obsolete">2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 pt</translation>
+        <translation type="obsolete">   3 pt</translation>
     </message>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished">3Dの表示
+        <translation type="obsolete">3Dの表示
 /非表示</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3D 効果</translation>
+        <translation type="obsolete">3D 効果</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 pt</translation>
+        <translation type="obsolete"> 4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 pt</translation>
+        <translation type="obsolete">   6 pt</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>下寄せ</translation>
+        <translation type="obsolete">下寄せ</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>左右中央寄せ</translation>
+        <translation type="obsolete">左右中央寄せ</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>上下中央寄せ</translation>
+        <translation type="obsolete">上下中央寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>上寄せ</translation>
+        <translation type="obsolete">上寄せ</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation>下アーチ</translation>
+        <translation type="obsolete">下アーチ</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
-        <translation>下アーチ (太)</translation>
+        <translation type="obsolete">下アーチ (太)</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation>右回り</translation>
+        <translation type="obsolete">右回り</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
-        <translation>上アーチ (太)</translation>
+        <translation type="obsolete">上アーチ (太)</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
@@ -8118,19 +7648,19 @@ On</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>前面へ移動</translation>
+        <translation type="obsolete">前面へ移動</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>最前面へ移動</translation>
+        <translation type="obsolete">最前面へ移動</translation>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation>ボタン</translation>
+        <translation type="obsolete">ボタン</translation>
     </message>
     <message>
         <source>Button (Pour)</source>
-        <translation>下 (太)</translation>
+        <translation type="obsolete">下 (太)</translation>
     </message>
     <message>
         <source>Button(Curve)</source>
@@ -8142,73 +7672,73 @@ On</source>
     </message>
     <message>
         <source>Can Down</source>
-        <translation>下カープ</translation>
+        <translation type="obsolete">下カープ</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation>上カープ</translation>
+        <translation type="obsolete">上カープ</translation>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation>右下がり2</translation>
+        <translation type="obsolete">右下がり2</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation>右上がり2</translation>
+        <translation type="obsolete">右上がり2</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>中央</translation>
+        <translation type="obsolete">中央</translation>
     </message>
     <message>
         <source>Character 
 Spacing</source>
-        <translation type="unfinished">文字の
+        <translation type="obsolete">文字の
 間隔</translation>
     </message>
     <message>
         <source>Chevron Down</source>
-        <translation>逆矢じり</translation>
+        <translation type="obsolete">逆矢じり</translation>
     </message>
     <message>
         <source>Chevron Up</source>
-        <translation>矢じり</translation>
+        <translation type="obsolete">矢じり</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
-        <translation>円</translation>
+        <translation type="obsolete">円</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
-        <translation>円 （太）</translation>
+        <translation type="obsolete">円 （太）</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation>左上がりカーブ</translation>
+        <translation type="obsolete">左上がりカーブ</translation>
     </message>
     <message>
         <source>Curve Up</source>
-        <translation>右上がりカーブ</translation>
+        <translation type="obsolete">右上がりカーブ</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation>破線</translation>
+        <translation type="obsolete">破線</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>一点鎖線</translation>
+        <translation type="obsolete">一点鎖線</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>実線/点線のスタイル</translation>
+        <translation type="obsolete">実線/点線のスタイル</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -8220,23 +7750,23 @@ Spacing</source>
     </message>
     <message>
         <source>Deflate</source>
-        <translation>凹レンズ</translation>
+        <translation type="obsolete">凹レンズ</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
-        <translation>下凹レンズ</translation>
+        <translation type="obsolete">下凹レンズ</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
-        <translation>凹凸レンズ1</translation>
+        <translation type="obsolete">凹凸レンズ1</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
-        <translation>凹凸レンズ2</translation>
+        <translation type="obsolete">凹凸レンズ2</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation>上凹レンズ</translation>
+        <translation type="obsolete">上凹レンズ</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -8244,36 +7774,36 @@ Spacing</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>左右に整列</translation>
+        <translation type="obsolete">左右に整列</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>上下に整列</translation>
+        <translation type="obsolete">上下に整列</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
-        <translation>小波1</translation>
+        <translation type="obsolete">小波1</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
-        <translation>小波2</translation>
+        <translation type="obsolete">小波2</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation>テキスト
+        <translation type="obsolete">テキスト
 の編集</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>高さ揃え</translation>
+        <translation type="obsolete">高さ揃え</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>サイズ揃え</translation>
+        <translation type="obsolete">サイズ揃え</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>幅揃え</translation>
+        <translation type="obsolete">幅揃え</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -8285,68 +7815,68 @@ Spacing</source>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation>フェードダウン</translation>
+        <translation type="obsolete">フェードダウン</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation>フェードレフト</translation>
+        <translation type="obsolete">フェードレフト</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation>フェードライト</translation>
+        <translation type="obsolete">フェードライト</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation>フェードアップ</translation>
+        <translation type="obsolete">フェードアップ</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>アート文字の
+        <translation type="obsolete">アート文字の
 塗りつぶし</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>左右反転</translation>
+        <translation type="obsolete">左右反転</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>上下反転</translation>
+        <translation type="obsolete">上下反転</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>オブジェクトの書式設定</translation>
+        <translation type="obsolete">オブジェクトの書式設定</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>自由に回転</translation>
+        <translation type="obsolete">自由に回転</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>グラデーション</translation>
+        <translation type="obsolete">グラデーション</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation>凸レンズ</translation>
+        <translation type="obsolete">凸レンズ</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
-        <translation>下凸レンズ</translation>
+        <translation type="obsolete">下凸レンズ</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation>上凸レンズ</translation>
+        <translation type="obsolete">上凸レンズ</translation>
     </message>
     <message>
         <source>Left Align</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>両端寄せ（文字単位）</translation>
+        <translation type="obsolete">両端寄せ（文字単位）</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -8358,11 +7888,11 @@ Spacing</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>長破線</translation>
+        <translation type="obsolete">長破線</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>長鎖線</translation>
+        <translation type="obsolete">長鎖線</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -8370,184 +7900,184 @@ Spacing</source>
     </message>
     <message>
         <source>Loose</source>
-        <translation>広く</translation>
+        <translation type="obsolete">広く</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>その他の線</translation>
+        <translation type="obsolete">その他の線</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>アート文字
+        <translation type="obsolete">アート文字
 の外枠</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>パターン</translation>
+        <translation type="obsolete">パターン</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>線のパターン</translation>
+        <translation type="obsolete">線のパターン</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>右回り</translation>
+        <translation type="obsolete">右回り</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>左回り</translation>
+        <translation type="obsolete">左回り</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>回転</translation>
+        <translation type="obsolete">回転</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>左90度回転</translation>
+        <translation type="obsolete">左90度回転</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>右90度回転</translation>
+        <translation type="obsolete">右90度回転</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>点線 (丸)</translation>
+        <translation type="obsolete">点線 (丸)</translation>
     </message>
     <message>
         <source>Same Letter Heights</source>
-        <translation>文字の
+        <translation type="obsolete">文字の
 高さを揃える</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オプジェクトの選択と表示</translation>
+        <translation type="obsolete">オプジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>背面へ移動</translation>
+        <translation type="obsolete">背面へ移動</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>最背面へ移動</translation>
+        <translation type="obsolete">最背面へ移動</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation>影の色</translation>
+        <translation type="obsolete">影の色</translation>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation>グリッドの表示</translation>
+        <translation type="obsolete">グリッドの表示</translation>
     </message>
     <message>
         <source>Slant Down</source>
-        <translation>右下がり</translation>
+        <translation type="obsolete">右下がり</translation>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation>右上がり</translation>
+        <translation type="obsolete">右上がり</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>グリッド線に合わせる</translation>
+        <translation type="obsolete">グリッド線に合わせる</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>実線</translation>
+        <translation type="obsolete">実線</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>点線 (角)</translation>
+        <translation type="obsolete">点線 (角)</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>停止</translation>
+        <translation type="obsolete">停止</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>両端寄せ</translation>
+        <translation type="obsolete">両端寄せ</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>テクスチャ</translation>
+        <translation type="obsolete">テクスチャ</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation>逆三角形</translation>
+        <translation type="obsolete">逆三角形</translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation>三角形</translation>
+        <translation type="obsolete">三角形</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
     <message>
         <source>Vertical Text</source>
-        <translation>縦書きテキスト</translation>
+        <translation type="obsolete">縦書きテキスト</translation>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation>より広く</translation>
+        <translation type="obsolete">より広く</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>より狭く</translation>
+        <translation type="obsolete">より狭く</translation>
     </message>
     <message>
         <source>Wave 1</source>
-        <translation>大波1</translation>
+        <translation type="obsolete">大波1</translation>
     </message>
     <message>
         <source>Wave 2</source>
-        <translation>大波2</translation>
+        <translation type="obsolete">大波2</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>線の種類</translation>
+        <translation type="obsolete">線の種類</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation>両端寄せ（単語単位）</translation>
+        <translation type="obsolete">両端寄せ（単語単位）</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>アート
+        <translation type="obsolete">アート
 文字</translation>
     </message>
     <message>
         <source>WordArt</source>
         <comment>Insert</comment>
-        <translation>アート文字</translation>
+        <translation type="obsolete">アート文字</translation>
     </message>
     <message>
         <source>WordArt
 Gallery</source>
-        <translation type="unfinished">アート文字
+        <translation type="obsolete">アート文字
  ギャラリー</translation>
     </message>
     <message>
@@ -8559,7 +8089,7 @@ Size</source>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation type="unfinished">アート文字
+        <translation type="obsolete">アート文字
 の形状</translation>
     </message>
     <message>
@@ -8592,11 +8122,11 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="unfinished">アート文字のサイズ</translation>
+        <translation type="obsolete">アート文字のサイズ</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation>アート文字のスタイル</translation>
+        <translation type="obsolete">アート文字のスタイル</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
@@ -8607,11 +8137,11 @@ Shape</source>
     <name>ongmani.ct_wordart.WordArtCharacterSpacing</name>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>狭く</translation>
+        <translation type="obsolete">狭く</translation>
     </message>
 </context>
 <context>
@@ -8626,15 +8156,15 @@ Shape</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>クラウドリンク</translation>
+        <translation type="obsolete">クラウドリンク</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>自動バージョンの停止</translation>
+        <translation type="obsolete">自動バージョンの停止</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>自動バージョン</translation>
+        <translation type="obsolete">自動バージョン</translation>
     </message>
     <message>
         <source>Explore Backup Dir</source>
@@ -8643,14 +8173,6 @@ Shape</source>
     <message>
         <source>Explore Version</source>
         <translation type="obsolete">バージョンの検索</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -8662,23 +8184,23 @@ Shape</source>
     </message>
     <message>
         <source>File Backup</source>
-        <translation>バックアップ</translation>
+        <translation type="obsolete">バックアップ</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>ファイルローミング</translation>
+        <translation type="obsolete">ファイルローミング</translation>
     </message>
     <message>
         <source>Guide</source>
-        <translation>ガイド</translation>
+        <translation type="obsolete">ガイド</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>ヘルプ</translation>
+        <translation type="obsolete">ヘルプ</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Kingsoft Officeを改良するために支援して下さい</translation>
+        <translation type="obsolete">Kingsoft Officeを改良するために支援して下さい</translation>
     </message>
     <message>
         <source>KOS Cloud Feedback</source>
@@ -8717,10 +8239,6 @@ Shape</source>
         <translation type="obsolete">ユーザークラウド</translation>
     </message>
     <message>
-        <source>KOS User Data Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS User Guid</source>
         <translation type="obsolete">ユーザーガイド</translation>
     </message>
@@ -8733,40 +8251,28 @@ Shape</source>
         <translation type="obsolete">ログイン</translation>
     </message>
     <message>
-        <source>KOS User PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Login</source>
         <translation type="obsolete">ログイン</translation>
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation>バージョンの表示</translation>
+        <translation type="obsolete">バージョンの表示</translation>
     </message>
     <message>
         <source>Mark Version</source>
         <translation type="obsolete">バージョンの表示</translation>
     </message>
     <message>
-        <source>More Colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online Documents</source>
-        <translation>ユーザークラウド</translation>
+        <translation type="obsolete">ユーザークラウド</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>クラウドファイルを開く</translation>
-    </message>
-    <message>
-        <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">クラウドファイルを開く</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>ファイルをクラウドへ保存</translation>
+        <translation type="obsolete">ファイルをクラウドへ保存</translation>
     </message>
     <message>
         <source>Sign In</source>
@@ -8786,7 +8292,7 @@ Shape</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>ヘルプ</translation>
+        <translation type="obsolete">ヘルプ</translation>
     </message>
     <message>
         <source>User Guide</source>
@@ -8794,11 +8300,11 @@ Shape</source>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>バックアップの検索</translation>
+        <translation type="obsolete">バックアップの検索</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>バージョンの検索</translation>
+        <translation type="obsolete">バージョンの検索</translation>
     </message>
     <message>
         <source>WPS Permit</source>
@@ -8808,180 +8314,60 @@ Shape</source>
 <context>
     <name>popupmenu</name>
     <message>
-        <source>0.25 pt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>0.5 pt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>0.75 pt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1 pt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.5 pt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>2.25 pt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3 pt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>4.5 pt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>6 pt.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>About Kingsoft Spreadsheets</source>
         <translation type="obsolete">バージョン情報</translation>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
-        <translation>バージョン情報</translation>
+        <translation type="obsolete">バージョン情報</translation>
     </message>
     <message>
         <source>Accept Changes</source>
-        <translation>リビジョンを承諾</translation>
+        <translation type="obsolete">リビジョンを承諾</translation>
     </message>
     <message>
         <source>Accept Revisions</source>
         <translation type="obsolete">リビジョンを承諾</translation>
     </message>
     <message>
-        <source>Across Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Across Sheets</source>
-        <translation>作業グループへコピー</translation>
+        <translation type="obsolete">作業グループへコピー</translation>
     </message>
     <message>
         <source>Activate WPS Office</source>
-        <translation>Kingsoftオフィスを有効にする</translation>
+        <translation type="obsolete">Kingsoftオフィスを有効にする</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation>頂点の追加</translation>
+        <translation type="obsolete">頂点の追加</translation>
     </message>
     <message>
         <source>Add Text</source>
-        <translation>テキストの追加</translation>
+        <translation type="obsolete">テキストの追加</translation>
     </message>
     <message>
         <source>Add Trendline</source>
-        <translation>近似曲線の追加</translation>
+        <translation type="obsolete">近似曲線の追加</translation>
     </message>
     <message>
         <source>Add-Ins</source>
-        <translation>アドイン</translation>
+        <translation type="obsolete">アドイン</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
-        <translation>フィルタオプションの設定</translation>
-    </message>
-    <message>
-        <source>Align</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align Middle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">フィルタオプションの設定</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>すべて</translation>
-    </message>
-    <message>
-        <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">すべて</translation>
     </message>
     <message>
         <source>Allow User to Edit Ranges</source>
-        <translation>範囲の編集を許可</translation>
-    </message>
-    <message>
-        <source>Arrow Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow Style 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow Style 10</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow Style 11</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow Style 2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow Style 3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow Style 4</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow Style 5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow Style 6</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow Style 7</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow Style 8</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Arrow Style 9</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">範囲の編集を許可</translation>
     </message>
     <message>
         <source>Assign Macro</source>
-        <translation>マクロの登録</translation>
+        <translation type="obsolete">マクロの登録</translation>
     </message>
     <message>
         <source>Auto Backup</source>
@@ -9001,7 +8387,7 @@ Shape</source>
     </message>
     <message>
         <source>AutoFilter</source>
-        <translation>自動フィルタ</translation>
+        <translation type="obsolete">自動フィルタ</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -9010,88 +8396,68 @@ Shape</source>
     </message>
     <message>
         <source>AutoFit Column Width</source>
-        <translation>選択範囲に​​合わせる</translation>
+        <translation type="obsolete">選択範囲に​​合わせる</translation>
     </message>
     <message>
         <source>AutoFit Row Height</source>
-        <translation>自動調整</translation>
+        <translation type="obsolete">自動調整</translation>
     </message>
     <message>
         <source>AutoPoint</source>
-        <translation>頂点の自動設定</translation>
+        <translation type="obsolete">頂点の自動設定</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>平均値</translation>
+        <translation type="obsolete">平均値</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>ドキュメントの回復</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom Double Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">ドキュメントの回復</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>前面へ移動</translation>
+        <translation type="obsolete">前面へ移動</translation>
     </message>
     <message>
         <source>Bring To Front</source>
-        <translation>最前面へ移動</translation>
+        <translation type="obsolete">最前面へ移動</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>最前面へ移動</translation>
-    </message>
-    <message>
-        <source>Buttom Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">最前面へ移動</translation>
     </message>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="unfinished">COMプラグイン</translation>
+        <translation type="obsolete">COMプラグイン</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation>カメラ</translation>
+        <translation type="obsolete">カメラ</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation>重ねて表示</translation>
+        <translation type="obsolete">重ねて表示</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation>セル</translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">セル</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>アカウントの変更</translation>
+        <translation type="obsolete">アカウントの変更</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>他のグラフィックスに変更する</translation>
+        <translation type="obsolete">他のグラフィックスに変更する</translation>
     </message>
     <message>
         <source>Change Points</source>
         <translation type="obsolete">頂点の編集</translation>
     </message>
     <message>
-        <source>Change Shapes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change Version</source>
-        <translation>バージョン変更</translation>
+        <translation type="obsolete">バージョン変更</translation>
     </message>
     <message>
         <source>Change account</source>
@@ -9099,27 +8465,27 @@ Add-Ins</source>
     </message>
     <message>
         <source>Chart</source>
-        <translation>グラフ</translation>
+        <translation type="obsolete">グラフ</translation>
     </message>
     <message>
         <source>Chart Options</source>
-        <translation>グラフのオプション</translation>
+        <translation type="obsolete">グラフのオプション</translation>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation>グラフの種類</translation>
+        <translation type="obsolete">グラフの種類</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>オンラインアップデート</translation>
+        <translation type="obsolete">オンラインアップデート</translation>
     </message>
     <message>
         <source>Chinese Separator</source>
-        <translation>読み方</translation>
+        <translation type="obsolete">読み方</translation>
     </message>
     <message>
         <source>Chinese Transition</source>
-        <translation>中国語の翻訳</translation>
+        <translation type="obsolete">中国語の翻訳</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
@@ -9127,23 +8493,23 @@ Add-Ins</source>
     </message>
     <message>
         <source>Circular References</source>
-        <translation>循環参照</translation>
+        <translation type="obsolete">循環参照</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>クリア</translation>
+        <translation type="obsolete">クリア</translation>
     </message>
     <message>
         <source>Clear Contents</source>
-        <translation>数式と値のクリア</translation>
+        <translation type="obsolete">数式と値のクリア</translation>
     </message>
     <message>
         <source>Clear Outline</source>
-        <translation>アウトラインのクリア</translation>
+        <translation type="obsolete">アウトラインのクリア</translation>
     </message>
     <message>
         <source>Clear Print Area</source>
-        <translation>印刷範囲の解除</translation>
+        <translation type="obsolete">印刷範囲の解除</translation>
     </message>
     <message>
         <source>Clear Print Region</source>
@@ -9151,11 +8517,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>クリップアート</translation>
+        <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>クリップボード</translation>
+        <translation type="obsolete">クリップボード</translation>
     </message>
     <message>
         <source>Close</source>
@@ -9163,43 +8529,39 @@ Add-Ins</source>
     </message>
     <message>
         <source>Close All</source>
-        <translation>すべて閉じる</translation>
+        <translation type="obsolete">すべて閉じる</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation>他のタブを閉じる</translation>
+        <translation type="obsolete">他のタブを閉じる</translation>
     </message>
     <message>
         <source>Close Path</source>
-        <translation>パスを閉じる</translation>
+        <translation type="obsolete">パスを閉じる</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>タブを閉じる</translation>
+        <translation type="obsolete">タブを閉じる</translation>
     </message>
     <message>
         <source>Column Width</source>
-        <translation>幅</translation>
+        <translation type="obsolete">幅</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation>列</translation>
-    </message>
-    <message>
-        <source>Comma Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">列</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation>コメント</translation>
+        <translation type="obsolete">コメント</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation>条件付き書式</translation>
+        <translation type="obsolete">条件付き書式</translation>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation>統合</translation>
+        <translation type="obsolete">統合</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -9215,95 +8577,55 @@ Add-Ins</source>
     </message>
     <message>
         <source>Control Menu List</source>
-        <translation>コントロール メニュー リスト</translation>
+        <translation type="obsolete">コントロール メニュー リスト</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
-        <translation>テキストをハイパーリンクに変換</translation>
+        <translation type="obsolete">テキストをハイパーリンクに変換</translation>
     </message>
     <message>
         <source>Convert Text to Number</source>
-        <translation>テキストを数値に変換</translation>
+        <translation type="obsolete">テキストを数値に変換</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>コピー</translation>
+        <translation type="obsolete">コピー</translation>
     </message>
     <message>
         <source>Copy Cells</source>
-        <translation>セルのコピー</translation>
+        <translation type="obsolete">セルのコピー</translation>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation>頂点を​​基準にする</translation>
+        <translation type="obsolete">頂点を​​基準にする</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>データの個数</translation>
+        <translation type="obsolete">データの個数</translation>
     </message>
     <message>
         <source>Count Numbers</source>
-        <translation>数値の個数</translation>
+        <translation type="obsolete">数値の個数</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>作成</translation>
+        <translation type="obsolete">作成</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation>クラウドリンクを作成</translation>
-    </message>
-    <message>
-        <source>Crop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Crop By Scale</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Crop By Shape</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currency</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">クラウドリンクを作成</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation>曲線コネクタ</translation>
+        <translation type="obsolete">曲線コネクタ</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation>曲線セグメント</translation>
+        <translation type="obsolete">曲線セグメント</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>切り取り</translation>
-    </message>
-    <message>
-        <source>Dash</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Decrease Decimal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">切り取り</translation>
     </message>
     <message>
         <source>Default Width</source>
@@ -9311,43 +8633,35 @@ Add-Ins</source>
     </message>
     <message>
         <source>Define Name</source>
-        <translation>定義</translation>
+        <translation type="obsolete">定義</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>削除</translation>
+        <translation type="obsolete">削除</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>コメントの削除</translation>
+        <translation type="obsolete">コメントの削除</translation>
     </message>
     <message>
         <source>Delete Page Break</source>
-        <translation>改ページ解除</translation>
+        <translation type="obsolete">改ページ解除</translation>
     </message>
     <message>
         <source>Delete Point</source>
-        <translation>ポイントの削除</translation>
+        <translation type="obsolete">ポイントの削除</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation>セグメントの削除</translation>
+        <translation type="obsolete">セグメントの削除</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
-        <translation>シートの削除</translation>
+        <translation type="obsolete">シートの削除</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>自動バージョンの停止</translation>
-    </message>
-    <message>
-        <source>Distribute Horizontally</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Distribute Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">自動バージョンの停止</translation>
     </message>
     <message>
         <source>Docer-Online Templates</source>
@@ -9363,35 +8677,35 @@ Add-Ins</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation>コメントの編集</translation>
+        <translation type="obsolete">コメントの編集</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation>ハイパーリンクの編集</translation>
+        <translation type="obsolete">ハイパーリンクの編集</translation>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation>リンクの編集</translation>
+        <translation type="obsolete">リンクの編集</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation>頂点の編集</translation>
+        <translation type="obsolete">頂点の編集</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation>テキストの編集</translation>
+        <translation type="obsolete">テキストの編集</translation>
     </message>
     <message>
         <source>Edit in Formula Bar</source>
-        <translation>数式バーで編集</translation>
+        <translation type="obsolete">数式バーで編集</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation>カギ線​​コネクタ</translation>
+        <translation type="obsolete">カギ線​​コネクタ</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>自動バージョン</translation>
+        <translation type="obsolete">自動バージョン</translation>
     </message>
     <message>
         <source>Encrypt</source>
@@ -9399,43 +8713,27 @@ Add-Ins</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>暗号化</translation>
-    </message>
-    <message>
-        <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equal Height</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equal Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equal Width</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">暗号化</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation>数式</translation>
+        <translation type="obsolete">数式</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation>クリア</translation>
+        <translation type="obsolete">クリア</translation>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>エラーチェック</translation>
+        <translation type="obsolete">エラーチェック</translation>
     </message>
     <message>
         <source>Error Checking Options</source>
-        <translation>エラーをチェックするオプション</translation>
+        <translation type="obsolete">エラーをチェックするオプション</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
-        <translation>数式の検証</translation>
+        <translation type="obsolete">数式の検証</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
@@ -9443,7 +8741,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Exit Edit Points</source>
-        <translation>変更終了</translation>
+        <translation type="obsolete">変更終了</translation>
     </message>
     <message>
         <source>Explore Backup Dir</source>
@@ -9454,20 +8752,8 @@ Add-Ins</source>
         <translation type="obsolete">バージョンの検索</translation>
     </message>
     <message>
-        <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export to PDF</source>
-        <translation>PDFファイルとして出力(F)</translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feedback by Email</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">PDFファイルとして出力(F)</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
@@ -9475,52 +8761,43 @@ Add-Ins</source>
     </message>
     <message>
         <source>File Object</source>
-        <translation>ファイルオブジェクト</translation>
+        <translation type="obsolete">ファイルオブジェクト</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>フィル</translation>
-    </message>
-    <message>
-        <source>Fill Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">フィル</translation>
     </message>
     <message>
         <source>Fill Days</source>
-        <translation>連続データ (日単位)</translation>
+        <translation type="obsolete">連続データ (日単位)</translation>
     </message>
     <message>
         <source>Fill Formatting Only</source>
-        <translation>書式のみコピー (フィル)</translation>
+        <translation type="obsolete">書式のみコピー (フィル)</translation>
     </message>
     <message>
         <source>Fill Months</source>
-        <translation>連続データ (月単位)</translation>
+        <translation type="obsolete">連続データ (月単位)</translation>
     </message>
     <message>
         <source>Fill Series</source>
-        <translation>連続データの作成</translation>
-    </message>
-    <message>
-        <source>Fill Series</source>
-        <comment>Fill</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">連続データの作成</translation>
     </message>
     <message>
         <source>Fill Weekdays</source>
-        <translation>連続データ (週日単位)</translation>
+        <translation type="obsolete">連続データ (週日単位)</translation>
     </message>
     <message>
         <source>Fill Without Formatting</source>
-        <translation>書式なしコピー (フィル)</translation>
+        <translation type="obsolete">書式なしコピー (フィル)</translation>
     </message>
     <message>
         <source>Fill Years</source>
-        <translation>連続データ (年単位)</translation>
+        <translation type="obsolete">連続データ (年単位)</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>フィルタ</translation>
+        <translation type="obsolete">フィルタ</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -9528,64 +8805,48 @@ Add-Ins</source>
         <translation type="obsolete">自動フィルタ</translation>
     </message>
     <message>
-        <source>Flip Horizontally</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Flip Vertically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Font Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Font Size</source>
-        <translation>サイズ</translation>
+        <translation type="obsolete">サイズ</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation>フォーム</translation>
+        <translation type="obsolete">フォーム</translation>
     </message>
     <message>
         <source>Format Axis</source>
-        <translation>軸の書式設定</translation>
+        <translation type="obsolete">軸の書式設定</translation>
     </message>
     <message>
         <source>Format Axis Title</source>
-        <translation>軸タイトルの書式設定</translation>
+        <translation type="obsolete">軸タイトルの書式設定</translation>
     </message>
     <message>
         <source>Format Cells</source>
-        <translation>セルの書式設定</translation>
+        <translation type="obsolete">セルの書式設定</translation>
     </message>
     <message>
         <source>Format Chart Area</source>
-        <translation>グラフ エリアの書式設定</translation>
+        <translation type="obsolete">グラフ エリアの書式設定</translation>
     </message>
     <message>
         <source>Format Chart Title</source>
-        <translation>グラフ タイトルの書式設定</translation>
+        <translation type="obsolete">グラフ タイトルの書式設定</translation>
     </message>
     <message>
         <source>Format Data Labels</source>
-        <translation>データ ラベルの書式設定</translation>
+        <translation type="obsolete">データ ラベルの書式設定</translation>
     </message>
     <message>
         <source>Format Data Point</source>
-        <translation>データ要素の書式設定</translation>
+        <translation type="obsolete">データ要素の書式設定</translation>
     </message>
     <message>
         <source>Format Data Series</source>
-        <translation>データ系列の書式設定</translation>
+        <translation type="obsolete">データ系列の書式設定</translation>
     </message>
     <message>
         <source>Format Data Table</source>
-        <translation>データ テーブルの書式設定</translation>
+        <translation type="obsolete">データ テーブルの書式設定</translation>
     </message>
     <message>
         <source>Format Display Unit Label</source>
@@ -9593,11 +8854,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Format Down Bars</source>
-        <translation>陰線の書式設定</translation>
+        <translation type="obsolete">陰線の書式設定</translation>
     </message>
     <message>
         <source>Format Drop Lines</source>
-        <translation>降下線の書式設定</translation>
+        <translation type="obsolete">降下線の書式設定</translation>
     </message>
     <message>
         <source>Format Droplines</source>
@@ -9605,95 +8866,87 @@ Add-Ins</source>
     </message>
     <message>
         <source>Format Error Bars</source>
-        <translation>誤差範囲の書式設定</translation>
+        <translation type="obsolete">誤差範囲の書式設定</translation>
     </message>
     <message>
         <source>Format Gridlines</source>
-        <translation>目盛線の書式</translation>
+        <translation type="obsolete">目盛線の書式</translation>
     </message>
     <message>
         <source>Format High-Low Lines</source>
-        <translation>高値-安値の書式設定</translation>
+        <translation type="obsolete">高値-安値の書式設定</translation>
     </message>
     <message>
         <source>Format Label</source>
-        <translation>表示ユニット ラベルの書式設定</translation>
+        <translation type="obsolete">表示ユニット ラベルの書式設定</translation>
     </message>
     <message>
         <source>Format Leader Lines</source>
-        <translation>引き出し線の書式設定</translation>
+        <translation type="obsolete">引き出し線の書式設定</translation>
     </message>
     <message>
         <source>Format Legend</source>
-        <translation>凡例の書式設定</translation>
+        <translation type="obsolete">凡例の書式設定</translation>
     </message>
     <message>
         <source>Format Legend Entry</source>
-        <translation>凡例項目の書式設定</translation>
+        <translation type="obsolete">凡例項目の書式設定</translation>
     </message>
     <message>
         <source>Format Legend Key</source>
-        <translation>凡例マーカーの書式設定</translation>
+        <translation type="obsolete">凡例マーカーの書式設定</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>オブジェクトの書式設定</translation>
-    </message>
-    <message>
-        <source>Format Painter</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">オブジェクトの書式設定</translation>
     </message>
     <message>
         <source>Format Plot Area</source>
-        <translation>プロット エリアの書式設定</translation>
+        <translation type="obsolete">プロット エリアの書式設定</translation>
     </message>
     <message>
         <source>Format Series Lines</source>
-        <translation>区分線の書式設定</translation>
+        <translation type="obsolete">区分線の書式設定</translation>
     </message>
     <message>
         <source>Format Trendline</source>
-        <translation>近似曲線の書式設定</translation>
+        <translation type="obsolete">近似曲線の書式設定</translation>
     </message>
     <message>
         <source>Format Up Bars</source>
-        <translation>陽線の書式設定</translation>
+        <translation type="obsolete">陽線の書式設定</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>書式</translation>
+        <translation type="obsolete">書式</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
-        <translation>エラーチェック</translation>
+        <translation type="obsolete">エラーチェック</translation>
     </message>
     <message>
         <source>Formula Bar</source>
-        <translation>編集バー</translation>
+        <translation type="obsolete">編集バー</translation>
     </message>
     <message>
         <source>Formula Box</source>
         <translation type="obsolete">編集バー</translation>
     </message>
     <message>
-        <source>Free Rotate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Freeze</source>
-        <translation>ウィンドウ枠の固定</translation>
+        <translation type="obsolete">ウィンドウ枠の固定</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation>ファイルから</translation>
+        <translation type="obsolete">ファイルから</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>全画面表示</translation>
+        <translation type="obsolete">全画面表示</translation>
     </message>
     <message>
         <source>Function</source>
-        <translation>関数</translation>
+        <translation type="obsolete">関数</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -9701,15 +8954,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Goal Seek</source>
-        <translation>ゴールシーク</translation>
-    </message>
-    <message>
-        <source>Grab Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">ゴールシーク</translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -9717,35 +8962,35 @@ Add-Ins</source>
     </message>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Group and Outline</source>
-        <translation>アウトラインの設定</translation>
+        <translation type="obsolete">アウトラインの設定</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Growth Trend</source>
-        <translation>連続データ (乗算)</translation>
+        <translation type="obsolete">連続データ (乗算)</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>ヘッダーとフッター</translation>
+        <translation type="obsolete">ヘッダーとフッター</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>表示しない</translation>
+        <translation type="obsolete">表示しない</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation>詳細を表示しない</translation>
+        <translation type="obsolete">詳細を表示しない</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
-        <translation>変更箇所の表示</translation>
+        <translation type="obsolete">変更箇所の表示</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -9757,31 +9002,23 @@ Add-Ins</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>上下に並べて表示</translation>
+        <translation type="obsolete">上下に並べて表示</translation>
     </message>
     <message>
         <source>Import Data</source>
-        <translation>データのインポート</translation>
+        <translation type="obsolete">データのインポート</translation>
     </message>
     <message>
         <source>Import External Data</source>
-        <translation>外部データの取り込み</translation>
-    </message>
-    <message>
-        <source>Increase Decimal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">外部データの取り込み</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>挿入</translation>
+        <translation type="obsolete">挿入</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="unfinished">クリップアート</translation>
+        <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
@@ -9789,35 +9026,27 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>コメントの挿入</translation>
+        <translation type="obsolete">コメントの挿入</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
-        <translation>コピーしたセルの挿入</translation>
+        <translation type="obsolete">コピーしたセルの挿入</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
-        <translation>切り取ったセルの挿入</translation>
+        <translation type="obsolete">切り取ったセルの挿入</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
         <translation type="obsolete">ハイパーリンク</translation>
     </message>
     <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Insert Page Break</source>
-        <translation>改ページの挿入</translation>
+        <translation type="obsolete">改ページの挿入</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
-        <translation>挿入</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">挿入</translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -9881,47 +9110,23 @@ Add-Ins</source>
     </message>
     <message>
         <source>Left</source>
-        <translation>左方向へコピー</translation>
-    </message>
-    <message>
-        <source>Left Border</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Pattern</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Sytle Palette</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">左方向へコピー</translation>
     </message>
     <message>
         <source>Linear Trend</source>
-        <translation>線性趨勢</translation>
+        <translation type="obsolete">線性趨勢</translation>
     </message>
     <message>
         <source>Login</source>
         <translation type="obsolete">ログイン</translation>
     </message>
     <message>
-        <source>Long Dash</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Long Dash-Dot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Macro</source>
-        <translation>マクロ</translation>
-    </message>
-    <message>
-        <source>Manage Credential</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">マクロ</translation>
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation>バージョンの表示</translation>
+        <translation type="obsolete">バージョンの表示</translation>
     </message>
     <message>
         <source>Mark Version</source>
@@ -9929,107 +9134,63 @@ Add-Ins</source>
     </message>
     <message>
         <source>Max</source>
-        <translation>最大値</translation>
-    </message>
-    <message>
-        <source>Merge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge Columns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Merge and Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">最大値</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>最小値</translation>
+        <translation type="obsolete">最小値</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation>Kingsoft情報パネル</translation>
-    </message>
-    <message>
-        <source>More Arrows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Fill Colors</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Kingsoft情報パネル</translation>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation>0 その他の履歴</translation>
+        <translation type="obsolete">0 その他の履歴</translation>
     </message>
     <message>
         <source>More Histories</source>
         <translation type="obsolete">0 その他の履歴</translation>
     </message>
     <message>
-        <source>More Line Colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Move or Copy Sheet</source>
-        <translation>シートの移動またはコピー</translation>
+        <translation type="obsolete">シートの移動またはコピー</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>名前</translation>
+        <translation type="obsolete">名前</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation>新しいタブを開く</translation>
-    </message>
-    <message>
-        <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">新しいタブを開く</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>なし</translation>
+        <translation type="obsolete">なし</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation>オブジェクト</translation>
+        <translation type="obsolete">オブジェクト</translation>
     </message>
     <message>
         <source>Object Menu</source>
-        <translation>オブジェクトメニュー</translation>
+        <translation type="obsolete">オブジェクトメニュー</translation>
     </message>
     <message>
         <source>Object Menu List</source>
-        <translation>オブジェクトメニューリスト</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">オブジェクトメニューリスト</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>ホーム</translation>
+        <translation type="obsolete">ホーム</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
-        <translation>バックアップディレクトリを開く</translation>
+        <translation type="obsolete">バックアップディレクトリを開く</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>フォルダを開く</translation>
+        <translation type="obsolete">フォルダを開く</translation>
     </message>
     <message>
         <source>Open From Klive</source>
@@ -10037,15 +9198,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation>ハイパーリンクを開く</translation>
+        <translation type="obsolete">ハイパーリンクを開く</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation>オープン パス</translation>
+        <translation type="obsolete">オープン パス</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>クラウドファイルを開く</translation>
+        <translation type="obsolete">クラウドファイルを開く</translation>
     </message>
     <message>
         <source>Open from Klive</source>
@@ -10053,23 +9214,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>オプション</translation>
+        <translation type="obsolete">オプション</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation>順序</translation>
-    </message>
-    <message>
-        <source>Other Borders</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Outside Borders</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">順序</translation>
     </message>
     <message>
         <source>Page Break</source>
-        <translation>改ページ</translation>
+        <translation type="obsolete">改ページ</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -10077,7 +9230,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation>貼り付け</translation>
+        <translation type="obsolete">貼り付け</translation>
     </message>
     <message>
         <source>Paste As Picture</source>
@@ -10093,19 +9246,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Paste as Picture</source>
-        <translation>図として貼り付け</translation>
+        <translation type="obsolete">図として貼り付け</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation>形式なし貼り付け</translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Percent Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">形式なし貼り付け</translation>
     </message>
     <message>
         <source>Pick From Drop-down List</source>
@@ -10113,23 +9258,23 @@ Add-Ins</source>
     </message>
     <message>
         <source>Pick from Drop-down List</source>
-        <translation>ドロップダウンリストより選択</translation>
+        <translation type="obsolete">ドロップダウンリストより選択</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>グラフィックス</translation>
+        <translation type="obsolete">グラフィックス</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>ピボットテーブル</translation>
+        <translation type="obsolete">ピボットテーブル</translation>
     </message>
     <message>
         <source>Print Area</source>
-        <translation>印刷する範囲</translation>
+        <translation type="obsolete">印刷する範囲</translation>
     </message>
     <message>
         <source>Print Layout</source>
-        <translation>印刷レイアウト</translation>
+        <translation type="obsolete">印刷レイアウト</translation>
     </message>
     <message>
         <source>Print Region</source>
@@ -10137,51 +9282,47 @@ Add-Ins</source>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation>シリアル管理</translation>
+        <translation type="obsolete">シリアル管理</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>プロパティ</translation>
+        <translation type="obsolete">プロパティ</translation>
     </message>
     <message>
         <source>Protect</source>
-        <translation>保護</translation>
+        <translation type="obsolete">保護</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation>シートの保護</translation>
+        <translation type="obsolete">シートの保護</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
-        <translation>ブック</translation>
+        <translation type="obsolete">ブック</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation>ブックの保護と共有</translation>
+        <translation type="obsolete">ブックの保護と共有</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>シリアル購入</translation>
-    </message>
-    <message>
-        <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">シリアル購入</translation>
     </message>
     <message>
         <source>Reapply</source>
-        <translation>再適用</translation>
+        <translation type="obsolete">再適用</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation>リチャージ</translation>
+        <translation type="obsolete">リチャージ</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>マクロの記録</translation>
+        <translation type="obsolete">マクロの記録</translation>
     </message>
     <message>
         <source>Reject Changes</source>
-        <translation>変更を元に戻す</translation>
+        <translation type="obsolete">変更を元に戻す</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -10193,7 +9334,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation>再ロード</translation>
+        <translation type="obsolete">再ロード</translation>
     </message>
     <message>
         <source>Reload Text File</source>
@@ -10205,63 +9346,39 @@ Add-Ins</source>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation>ハイパーリンクの削除</translation>
+        <translation type="obsolete">ハイパーリンクの削除</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>名前の変更</translation>
+        <translation type="obsolete">名前の変更</translation>
     </message>
     <message>
         <source>Reset All Page Break</source>
-        <translation>すべての改ページの再設定</translation>
-    </message>
-    <message>
-        <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Right Border</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rotate Left 90°</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rotate Right 90°</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Round Dot</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">すべての改ページの再設定</translation>
     </message>
     <message>
         <source>Row Height</source>
-        <translation>高さ</translation>
+        <translation type="obsolete">高さ</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation>行</translation>
+        <translation type="obsolete">行</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation>すべて保存する</translation>
+        <translation type="obsolete">すべて保存する</translation>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation>図として保存</translation>
+        <translation type="obsolete">図として保存</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>ファイルをクラウドへ保存</translation>
+        <translation type="obsolete">ファイルをクラウドへ保存</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation>ファイルへ保存</translation>
+        <translation type="obsolete">ファイルへ保存</translation>
     </message>
     <message>
         <source>Save to Klive</source>
@@ -10269,23 +9386,23 @@ Add-Ins</source>
     </message>
     <message>
         <source>Security</source>
-        <translation>セキュリティ</translation>
+        <translation type="obsolete">セキュリティ</translation>
     </message>
     <message>
         <source>Select All Sheets</source>
-        <translation>すべてのシートを選択</translation>
+        <translation type="obsolete">すべてのシートを選択</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation>データソース</translation>
+        <translation type="obsolete">データソース</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>背面へ移動</translation>
+        <translation type="obsolete">背面へ移動</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation>Eメール</translation>
+        <translation type="obsolete">Eメール</translation>
     </message>
     <message>
         <source>Send To Back</source>
@@ -10293,32 +9410,23 @@ Add-Ins</source>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>最背面へ移動</translation>
+        <translation type="obsolete">最背面へ移動</translation>
     </message>
     <message>
         <source>Series</source>
-        <translation>系列</translation>
-    </message>
-    <message>
-        <source>Series</source>
-        <comment>PopupFillSeries</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">系列</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation>図形の既定値に設定</translation>
-    </message>
-    <message>
-        <source>Set Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">図形の既定値に設定</translation>
     </message>
     <message>
         <source>Set Display Area</source>
-        <translation>表示エリアの設定</translation>
+        <translation type="obsolete">表示エリアの設定</translation>
     </message>
     <message>
         <source>Set Print Area</source>
-        <translation>印刷範囲の設定</translation>
+        <translation type="obsolete">印刷範囲の設定</translation>
     </message>
     <message>
         <source>Set Print Region</source>
@@ -10326,47 +9434,31 @@ Add-Ins</source>
     </message>
     <message>
         <source>Set Timing Backup</source>
-        <translation>バックアップ間隔の設定</translation>
+        <translation type="obsolete">バックアップ間隔の設定</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
-    </message>
-    <message>
-        <source>Shape Fill</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shape Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shape Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation>ブックの共有</translation>
+        <translation type="obsolete">ブックの共有</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation>シート</translation>
+        <translation type="obsolete">シート</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>すべて表示する</translation>
+        <translation type="obsolete">すべて表示する</translation>
     </message>
     <message>
         <source>Show Detail</source>
-        <translation>詳細データの表示</translation>
-    </message>
-    <message>
-        <source>Show Grid</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">詳細データの表示</translation>
     </message>
     <message>
         <source>Show More Windows</source>
-        <translation>その他のタブを表示</translation>
+        <translation type="obsolete">その他のタブを表示</translation>
     </message>
     <message>
         <source>Sign In</source>
@@ -10374,51 +9466,31 @@ Add-Ins</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>ログイン</translation>
+        <translation type="obsolete">ログイン</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>ログアウト</translation>
+        <translation type="obsolete">ログアウト</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation>頂点を中心にスムージングする</translation>
-    </message>
-    <message>
-        <source>Snap to Grid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">頂点を中心にスムージングする</translation>
     </message>
     <message>
         <source>Solver</source>
-        <translation>ソルバー</translation>
+        <translation type="obsolete">ソルバー</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>並べ替え</translation>
+        <translation type="obsolete">並べ替え</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation>分割</translation>
-    </message>
-    <message>
-        <source>Square Dot</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">分割</translation>
     </message>
     <message>
         <source>Standard Width</source>
-        <translation>標準の幅</translation>
-    </message>
-    <message>
-        <source>Start Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">標準の幅</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
@@ -10429,44 +9501,40 @@ Add-Ins</source>
         <translation type="obsolete">自動バージョンの停止</translation>
     </message>
     <message>
-        <source>Stop Reading Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Straight Connector</source>
-        <translation>直線コネクタ</translation>
+        <translation type="obsolete">直線コネクタ</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation>頂点で線分を伸ばす</translation>
+        <translation type="obsolete">頂点で線分を伸ばす</translation>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation>線分を​​伸ばす</translation>
+        <translation type="obsolete">線分を​​伸ばす</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>オンライン学習</translation>
+        <translation type="obsolete">オンライン学習</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>スタイル</translation>
+        <translation type="obsolete">スタイル</translation>
     </message>
     <message>
         <source>Subtotal</source>
-        <translation>集計</translation>
+        <translation type="obsolete">集計</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation>合計</translation>
+        <translation type="obsolete">合計</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>記号と特殊文字</translation>
+        <translation type="obsolete">記号と特殊文字</translation>
     </message>
     <message>
         <source>Tab Color</source>
-        <translation>シート見出しの色</translation>
+        <translation type="obsolete">シート見出しの色</translation>
     </message>
     <message>
         <source>Table</source>
@@ -10474,87 +9542,47 @@ Add-Ins</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation>表のスタイル</translation>
+        <translation type="obsolete">表のスタイル</translation>
     </message>
     <message>
         <source>Ten Thousand Separator</source>
-        <translation>4桁区切りをデフォルトに</translation>
+        <translation type="obsolete">4桁区切りをデフォルトに</translation>
     </message>
     <message>
         <source>Text to Columns</source>
-        <translation>データの列分割</translation>
-    </message>
-    <message>
-        <source>Texture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Thick Bottom Border</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Thick Box Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">データの列分割</translation>
     </message>
     <message>
         <source>Thousand Separator</source>
-        <translation>3桁区切りをデフォルトに</translation>
-    </message>
-    <message>
-        <source>Top Border</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top and Bottom Border</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top and Dlouble Bottom Border</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top and Thick Bottom Border</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">3桁区切りをデフォルトに</translation>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation>変更履歴の記録</translation>
+        <translation type="obsolete">変更履歴の記録</translation>
     </message>
     <message>
         <source>UnSplit</source>
-        <translation>分割の解除</translation>
-    </message>
-    <message>
-        <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">分割の解除</translation>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation>固定解除</translation>
+        <translation type="obsolete">固定解除</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
     <message>
         <source>Ungroup Sheets</source>
-        <translation>作業グループの解除</translation>
+        <translation type="obsolete">作業グループの解除</translation>
     </message>
     <message>
         <source>Unhide</source>
-        <translation>再表示</translation>
-    </message>
-    <message>
-        <source>Unmerge Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">再表示</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>上方向へコピー</translation>
+        <translation type="obsolete">上方向へコピー</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -10566,59 +9594,59 @@ Add-Ins</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>ヘルプ</translation>
+        <translation type="obsolete">ヘルプ</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation>有効性</translation>
+        <translation type="obsolete">有効性</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>左右に並べて表示</translation>
+        <translation type="obsolete">左右に並べて表示</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>コードの表示</translation>
+        <translation type="obsolete">コードの表示</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>バックアップの検索</translation>
+        <translation type="obsolete">バックアップの検索</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>バージョンの検索</translation>
+        <translation type="obsolete">バージョンの検索</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Kingsoftビジネス版</translation>
+        <translation type="obsolete">Kingsoftビジネス版</translation>
     </message>
     <message>
         <source>WPS Office BBS</source>
-        <translation>Kingsoft BBS</translation>
+        <translation type="obsolete">Kingsoft BBS</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation>Kingsoftオフィスコミュニティ</translation>
+        <translation type="obsolete">Kingsoftオフィスコミュニティ</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
-        <translation>Kingsoft マイクロブログ</translation>
+        <translation type="obsolete">Kingsoft マイクロブログ</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>Kingsoft Office ホームページ(O)</translation>
+        <translation type="obsolete">Kingsoft Office ホームページ(O)</translation>
     </message>
     <message>
         <source>WPS Office Microblog</source>
-        <translation>Kingsoftオフィス ブログ</translation>
+        <translation type="obsolete">Kingsoftオフィス ブログ</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
-        <translation>Kingsoftの新機能</translation>
+        <translation type="obsolete">Kingsoftの新機能</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>Kingsoftオフィス プロダクトセンター</translation>
+        <translation type="obsolete">Kingsoftオフィス プロダクトセンター</translation>
     </message>
     <message>
         <source>WPS Online</source>
@@ -10630,48 +9658,44 @@ Add-Ins</source>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>アート文字</translation>
-    </message>
-    <message>
-        <source>Wrap Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">アート文字</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>ズーム</translation>
+        <translation type="obsolete">ズーム</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>UI切り替え</translation>
+        <translation type="obsolete">UI切り替え</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation>言語の変更</translation>
+        <translation type="obsolete">言語の変更</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
-        <translation>カスタム ツールバー</translation>
+        <translation type="obsolete">カスタム ツールバー</translation>
     </message>
     <message>
         <source>Menu Command</source>
-        <translation>メニューコマンド</translation>
+        <translation type="obsolete">メニューコマンド</translation>
     </message>
     <message>
         <source>Toolbar Commands</source>
-        <translation>ツールバーコマンド</translation>
+        <translation type="obsolete">ツールバーコマンド</translation>
     </message>
 </context>
 <context>
@@ -10679,16 +9703,16 @@ Add-Ins</source>
     <message>
         <source>Change
 Chart Type</source>
-        <translation type="unfinished">グラフの種類
+        <translation type="obsolete">グラフの種類
 の変更</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
-        <translation>グラフの種類の変更</translation>
+        <translation type="obsolete">グラフの種類の変更</translation>
     </message>
     <message>
         <source>Chart Elements</source>
-        <translation>グラフ オブジェクト</translation>
+        <translation type="obsolete">グラフ オブジェクト</translation>
     </message>
     <message>
         <source>Chart Objects</source>
@@ -10700,15 +9724,15 @@ Chart Type</source>
     </message>
     <message>
         <source>Current Selection</source>
-        <translation>内容の選択</translation>
+        <translation type="obsolete">内容の選択</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>データ</translation>
+        <translation type="obsolete">データ</translation>
     </message>
     <message>
         <source>Data Table</source>
-        <translation>データ テーブル</translation>
+        <translation type="obsolete">データ テーブル</translation>
     </message>
     <message>
         <source>Format Chart</source>
@@ -10716,15 +9740,15 @@ Chart Type</source>
     </message>
     <message>
         <source>Format Selection</source>
-        <translation>グラフの書式設定</translation>
+        <translation type="obsolete">グラフの書式設定</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>タグ</translation>
+        <translation type="obsolete">タグ</translation>
     </message>
     <message>
         <source>Legend</source>
-        <translation>凡例</translation>
+        <translation type="obsolete">凡例</translation>
     </message>
     <message>
         <source>Select Content</source>
@@ -10732,15 +9756,15 @@ Chart Type</source>
     </message>
     <message>
         <source>Select Data</source>
-        <translation>データの選択</translation>
+        <translation type="obsolete">データの選択</translation>
     </message>
     <message>
         <source>Switch Column</source>
-        <translation>列の切り替え</translation>
+        <translation type="obsolete">列の切り替え</translation>
     </message>
     <message>
         <source>Switch Row</source>
-        <translation>行の切り替え</translation>
+        <translation type="obsolete">行の切り替え</translation>
     </message>
     <message>
         <source>Tag</source>
@@ -10748,22 +9772,22 @@ Chart Type</source>
     </message>
     <message>
         <source>Type</source>
-        <translation>グラフの種類</translation>
+        <translation type="obsolete">グラフの種類</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_data</name>
     <message>
         <source>Advanced</source>
-        <translation>詳細設定</translation>
+        <translation type="obsolete">詳細設定</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation>昇順</translation>
+        <translation type="obsolete">昇順</translation>
     </message>
     <message>
         <source>AutoFilter</source>
-        <translation>自動フィルタ</translation>
+        <translation type="obsolete">自動フィルタ</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -10771,23 +9795,23 @@ Chart Type</source>
     </message>
     <message>
         <source>Clear Outline</source>
-        <translation>アウトラインのクリア</translation>
+        <translation type="obsolete">アウトラインのクリア</translation>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation>統合</translation>
+        <translation type="obsolete">統合</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
-        <translation>外部データ範囲のプロパティ</translation>
+        <translation type="obsolete">外部データ範囲のプロパティ</translation>
     </message>
     <message>
         <source>Data Tools</source>
-        <translation>データ ツール</translation>
+        <translation type="obsolete">データ ツール</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation>降順</translation>
+        <translation type="obsolete">降順</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -10800,7 +9824,7 @@ Chart Type</source>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished">OLE
+        <translation type="obsolete">OLE
 DB クエリの編集</translation>
     </message>
     <message>
@@ -10809,7 +9833,7 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Edit Query</source>
-        <translation>OLE DBクエリの編集</translation>
+        <translation type="obsolete">OLE DBクエリの編集</translation>
     </message>
     <message>
         <source>External Data Range Properties</source>
@@ -10821,19 +9845,19 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation>フォーム</translation>
+        <translation type="obsolete">フォーム</translation>
     </message>
     <message>
         <source>Get External Data</source>
-        <translation>外部データの取り込み</translation>
+        <translation type="obsolete">外部データの取り込み</translation>
     </message>
     <message>
         <source>Goal Seek</source>
-        <translation>ゴールシーク</translation>
+        <translation type="obsolete">ゴールシーク</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation>詳細を表示しない</translation>
+        <translation type="obsolete">詳細を表示しない</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -10841,27 +9865,27 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Import Data</source>
-        <translation>データのインポート</translation>
+        <translation type="obsolete">データのインポート</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>アウトライン</translation>
+        <translation type="obsolete">アウトライン</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>ピボットテーブル</translation>
+        <translation type="obsolete">ピボットテーブル</translation>
     </message>
     <message>
         <source>Reapply</source>
-        <translation>再適用</translation>
+        <translation type="obsolete">再適用</translation>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation>すべて更新</translation>
+        <translation type="obsolete">すべて更新</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>データの更新</translation>
+        <translation type="obsolete">データの更新</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -10873,23 +9897,23 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>すべて表示する</translation>
+        <translation type="obsolete">すべて表示する</translation>
     </message>
     <message>
         <source>Show Detail</source>
-        <translation>詳細データの表示</translation>
+        <translation type="obsolete">詳細データの表示</translation>
     </message>
     <message>
         <source>Solver</source>
-        <translation>ソルバー</translation>
+        <translation type="obsolete">ソルバー</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>並べ替え</translation>
+        <translation type="obsolete">並べ替え</translation>
     </message>
     <message>
         <source>Sort &amp; Filter</source>
@@ -10905,109 +9929,105 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Sort and Filter</source>
-        <translation>並べ替えとフィルタ</translation>
+        <translation type="obsolete">並べ替えとフィルタ</translation>
     </message>
     <message>
         <source>Subtotal</source>
-        <translation>集計</translation>
+        <translation type="obsolete">集計</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation>テーブル</translation>
+        <translation type="obsolete">テーブル</translation>
     </message>
     <message>
         <source>Text to Columns</source>
-        <translation>区切り位置</translation>
+        <translation type="obsolete">区切り位置</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation>入力規則</translation>
+        <translation type="obsolete">入力規則</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation>What-If 分析</translation>
+        <translation type="obsolete">What-If 分析</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_data.DataGroup</name>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_design</name>
     <message>
         <source>Clear Table Style</source>
-        <translation>表のスタイル
+        <translation type="obsolete">表のスタイル
 をクリア</translation>
     </message>
     <message>
         <source>Table Style Options</source>
-        <translation>オプション</translation>
+        <translation type="obsolete">オプション</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation>表のスタイル</translation>
+        <translation type="obsolete">表のスタイル</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_developtools</name>
     <message>
         <source>Check Box</source>
-        <translation>チェック ボックス</translation>
+        <translation type="obsolete">チェック ボックス</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation type="obsolete">閉じる</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation>コンボ ボックス</translation>
+        <translation type="obsolete">コンボ ボックス</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation>コマンド ボタン</translation>
+        <translation type="obsolete">コマンド ボタン</translation>
     </message>
     <message>
         <source>Control List</source>
-        <translation>コントロール リスト</translation>
+        <translation type="obsolete">コントロール リスト</translation>
     </message>
     <message>
         <source>Control Properties</source>
-        <translation>プロパティ</translation>
+        <translation type="obsolete">プロパティ</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation>コントロール ツールボックス</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">コントロール ツールボックス</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>デザイン モード</translation>
+        <translation type="obsolete">デザイン モード</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
-        <translation>デザインモードの終了</translation>
+        <translation type="obsolete">デザインモードの終了</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>画像</translation>
+        <translation type="obsolete">画像</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>ラベル</translation>
+        <translation type="obsolete">ラベル</translation>
     </message>
     <message>
         <source>List Box</source>
-        <translation>リスト ボックス</translation>
+        <translation type="obsolete">リスト ボックス</translation>
     </message>
     <message>
         <source>List Button</source>
@@ -11015,58 +10035,58 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation>マクロ</translation>
+        <translation type="obsolete">マクロ</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation>コントロールの選択</translation>
+        <translation type="obsolete">コントロールの選択</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation>オプション ボタン</translation>
+        <translation type="obsolete">オプション ボタン</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>マクロの記録</translation>
+        <translation type="obsolete">マクロの記録</translation>
     </message>
     <message>
         <source>Relative References</source>
-        <translation>相対参照を利用</translation>
+        <translation type="obsolete">相対参照を利用</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation>スクロール バー</translation>
+        <translation type="obsolete">スクロール バー</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>マクロのセキュリティ</translation>
+        <translation type="obsolete">マクロのセキュリティ</translation>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation>スピン ボタン</translation>
+        <translation type="obsolete">スピン ボタン</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>テキスト ボックス</translation>
+        <translation type="obsolete">テキスト ボックス</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation>トグル ボタン</translation>
+        <translation type="obsolete">トグル ボタン</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>コードの表示</translation>
+        <translation type="obsolete">コードの表示</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation>Visual Basic エディター</translation>
+        <translation type="obsolete">Visual Basic エディター</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_developtools.Add-Ins</name>
     <message>
         <source>Add-Ins</source>
-        <translation>アドイン</translation>
+        <translation type="obsolete">アドイン</translation>
     </message>
 </context>
 <context>
@@ -11078,7 +10098,7 @@ DB クエリの編集</translation>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="unfinished">COMプラグイン</translation>
+        <translation type="obsolete">COMプラグイン</translation>
     </message>
     <message>
         <source>COM
@@ -11087,154 +10107,150 @@ AddIns</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation>COMプラグイン</translation>
+        <translation type="obsolete">COMプラグイン</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_drawingtools</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
+        <translation type="obsolete">0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 pt</translation>
+        <translation type="obsolete"> 0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
+        <translation type="obsolete">0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 pt</translation>
+        <translation type="obsolete">   1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 pt</translation>
+        <translation type="obsolete"> 1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
+        <translation type="obsolete">2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 pt</translation>
+        <translation type="obsolete">   3 pt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 pt</translation>
+        <translation type="obsolete"> 4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 pt</translation>
+        <translation type="obsolete">   6 pt</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>下寄せ</translation>
+        <translation type="obsolete">下寄せ</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>左右中央寄せ</translation>
+        <translation type="obsolete">左右中央寄せ</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>上下中央寄せ</translation>
+        <translation type="obsolete">上下中央寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>上寄せ</translation>
+        <translation type="obsolete">上寄せ</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation>矢印のスタイル</translation>
+        <translation type="obsolete">矢印のスタイル</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation>矢印のスタイル 1</translation>
+        <translation type="obsolete">矢印のスタイル 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation>矢印のスタイル 10</translation>
+        <translation type="obsolete">矢印のスタイル 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation>矢印のスタイル 11</translation>
+        <translation type="obsolete">矢印のスタイル 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation>矢印のスタイル 2</translation>
+        <translation type="obsolete">矢印のスタイル 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation>矢印のスタイル 3</translation>
+        <translation type="obsolete">矢印のスタイル 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation>矢印のスタイル 4</translation>
+        <translation type="obsolete">矢印のスタイル 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation>矢印のスタイル 5</translation>
+        <translation type="obsolete">矢印のスタイル 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation>矢印のスタイル 6</translation>
+        <translation type="obsolete">矢印のスタイル 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation>矢印のスタイル 7</translation>
+        <translation type="obsolete">矢印のスタイル 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation>矢印のスタイル 8</translation>
+        <translation type="obsolete">矢印のスタイル 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation>矢印のスタイル 9</translation>
+        <translation type="obsolete">矢印のスタイル 9</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>前面へ移動</translation>
+        <translation type="obsolete">前面へ移動</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>最前面へ移動</translation>
-    </message>
-    <message>
-        <source>Change Shapes</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">最前面へ移動</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation>破線</translation>
+        <translation type="obsolete">破線</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>一点鎖線</translation>
+        <translation type="obsolete">一点鎖線</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>実線/点線のスタイル</translation>
+        <translation type="obsolete">実線/点線のスタイル</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -11250,27 +10266,27 @@ AddIns</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>左右に整列</translation>
+        <translation type="obsolete">左右に整列</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>上下に整列</translation>
+        <translation type="obsolete">上下に整列</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation>頂点の編集</translation>
+        <translation type="obsolete">頂点の編集</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>高さ揃え</translation>
+        <translation type="obsolete">高さ揃え</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>サイズ揃え</translation>
+        <translation type="obsolete">サイズ揃え</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>幅揃え</translation>
+        <translation type="obsolete">幅揃え</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -11282,35 +10298,35 @@ AddIns</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>図形の塗りつぶし</translation>
+        <translation type="obsolete">図形の塗りつぶし</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>左右反転</translation>
+        <translation type="obsolete">左右反転</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>上下反転</translation>
+        <translation type="obsolete">上下反転</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>オブジェクトの書式設定</translation>
+        <translation type="obsolete">オブジェクトの書式設定</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>自由に回転</translation>
+        <translation type="obsolete">自由に回転</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>グラデーション</translation>
+        <translation type="obsolete">グラデーション</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>横書き</translation>
+        <translation type="obsolete">横書き</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -11318,7 +10334,7 @@ AddIns</source>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation>図形の挿入</translation>
+        <translation type="obsolete">図形の挿入</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -11330,11 +10346,11 @@ AddIns</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>長破線</translation>
+        <translation type="obsolete">長破線</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>長鎖線</translation>
+        <translation type="obsolete">長鎖線</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -11342,71 +10358,71 @@ AddIns</source>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation>その他の矢印</translation>
+        <translation type="obsolete">その他の矢印</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>その他の線</translation>
+        <translation type="obsolete">その他の線</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>図形の輪郭</translation>
+        <translation type="obsolete">図形の輪郭</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>パターン</translation>
+        <translation type="obsolete">パターン</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>線のパターン</translation>
+        <translation type="obsolete">線のパターン</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>回転</translation>
+        <translation type="obsolete">回転</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>左90度回転</translation>
+        <translation type="obsolete">左90度回転</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>右90度回転</translation>
+        <translation type="obsolete">右90度回転</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>点線 (丸)</translation>
+        <translation type="obsolete">点線 (丸)</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オプジェクトの選択と表示</translation>
+        <translation type="obsolete">オプジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>背面へ移動</translation>
+        <translation type="obsolete">背面へ移動</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>最背面へ移動</translation>
+        <translation type="obsolete">最背面へ移動</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation>図形のスタイル</translation>
+        <translation type="obsolete">図形のスタイル</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -11418,7 +10434,7 @@ AddIns</source>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation>図形のサイズ</translation>
+        <translation type="obsolete">図形のサイズ</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -11426,43 +10442,43 @@ AddIns</source>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation>グリッドの表示</translation>
+        <translation type="obsolete">グリッドの表示</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>グリッド線に合わせる</translation>
+        <translation type="obsolete">グリッド線に合わせる</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>実線</translation>
+        <translation type="obsolete">実線</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>点線 (角)</translation>
+        <translation type="obsolete">点線 (角)</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>テキスト ボックス</translation>
+        <translation type="obsolete">テキスト ボックス</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>フォントの色</translation>
+        <translation type="obsolete">フォントの色</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>テクスチャ</translation>
+        <translation type="obsolete">テクスチャ</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>縦書き</translation>
+        <translation type="obsolete">縦書き</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>線の種類</translation>
+        <translation type="obsolete">線の種類</translation>
     </message>
 </context>
 <context>
@@ -11473,35 +10489,31 @@ AddIns</source>
     </message>
     <message>
         <source>About WPS Spreadsheets</source>
-        <translation>バージョン情報</translation>
+        <translation type="obsolete">バージョン情報</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>ドキュメントの回復</translation>
+        <translation type="obsolete">ドキュメントの回復</translation>
     </message>
     <message>
         <source>Backup Management and Data Recovery</source>
-        <translation>バックアップとデータ復元</translation>
+        <translation type="obsolete">バックアップとデータ復元</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation>バージョン変更</translation>
+        <translation type="obsolete">バージョン変更</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>オンラインアップデート</translation>
+        <translation type="obsolete">オンラインアップデート</translation>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation>データ復元</translation>
-    </message>
-    <message>
-        <source>Docer Entrance</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">データ復元</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
-        <translation>文書の情報</translation>
+        <translation type="obsolete">文書の情報</translation>
     </message>
     <message>
         <source>Encrypt</source>
@@ -11509,27 +10521,15 @@ AddIns</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>暗号化</translation>
-    </message>
-    <message>
-        <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">暗号化</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDFファイルとして出力(F)</translation>
+        <translation type="obsolete">PDFファイルとして出力(F)</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>ヘルプ</translation>
-    </message>
-    <message>
-        <source>Feedback by Email</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">ヘルプ</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
@@ -11537,11 +10537,11 @@ AddIns</source>
     </message>
     <message>
         <source>File Information</source>
-        <translation>情報</translation>
+        <translation type="obsolete">情報</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>ヘルプ</translation>
+        <translation type="obsolete">ヘルプ</translation>
     </message>
     <message>
         <source>Kingsoft Office BBS</source>
@@ -11577,27 +10577,27 @@ AddIns</source>
     </message>
     <message>
         <source>Microsoft Excel 2007-2010 Files</source>
-        <translation>Microsoft Excelファイル（*.xlsx）</translation>
+        <translation type="obsolete">Microsoft Excelファイル（*.xlsx）</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation>Microsoft Excelファイル（*.xls）</translation>
+        <translation type="obsolete">Microsoft Excelファイル（*.xls）</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation>Microsoft Excelテンプレート（*.xlt）</translation>
+        <translation type="obsolete">Microsoft Excelテンプレート（*.xlt）</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>新規作成</translation>
+        <translation type="obsolete">新規作成</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation>新規作成</translation>
+        <translation type="obsolete">新規作成</translation>
     </message>
     <message>
         <source>New Excel 2007-2010 Workbook</source>
-        <translation>Excel2007/2010形式で新規作成(E)</translation>
+        <translation type="obsolete">Excel2007/2010形式で新規作成(E)</translation>
     </message>
     <message>
         <source>New From Online Templates</source>
@@ -11609,23 +10609,23 @@ AddIns</source>
     </message>
     <message>
         <source>New Workbook</source>
-        <translation>新しいタイトル</translation>
+        <translation type="obsolete">新しいタイトル</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation>既定のテンプレートから新規作成</translation>
+        <translation type="obsolete">既定のテンプレートから新規作成</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>オンラインテンプレート</translation>
+        <translation type="obsolete">オンラインテンプレート</translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation>このコンピュータ上のテンプレート</translation>
+        <translation type="obsolete">このコンピュータ上のテンプレート</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>開く</translation>
+        <translation type="obsolete">開く</translation>
     </message>
     <message>
         <source>Open From Klive</source>
@@ -11637,31 +10637,31 @@ AddIns</source>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation>その他</translation>
+        <translation type="obsolete">その他</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>印刷</translation>
+        <translation type="obsolete">印刷</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>印刷プレビュー</translation>
+        <translation type="obsolete">印刷プレビュー</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation>シリアル管理</translation>
+        <translation type="obsolete">シリアル管理</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation>プロパティ</translation>
+        <translation type="obsolete">プロパティ</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>シリアル番号の購入</translation>
+        <translation type="obsolete">シリアル番号の購入</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>再ロード</translation>
+        <translation type="obsolete">再ロード</translation>
     </message>
     <message>
         <source>Reload Text File</source>
@@ -11669,11 +10669,11 @@ AddIns</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>上書き保存</translation>
+        <translation type="obsolete">上書き保存</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>名前を付けて保存</translation>
+        <translation type="obsolete">名前を付けて保存</translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -11681,7 +10681,7 @@ AddIns</source>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
-        <translation>形式を選択して保存</translation>
+        <translation type="obsolete">形式を選択して保存</translation>
     </message>
     <message>
         <source>Save to Klive</source>
@@ -11689,15 +10689,15 @@ AddIns</source>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation>ヘルプの検索</translation>
+        <translation type="obsolete">ヘルプの検索</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation>Eメール</translation>
+        <translation type="obsolete">Eメール</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>オンライン学習</translation>
+        <translation type="obsolete">オンライン学習</translation>
     </message>
     <message>
         <source>Update Online</source>
@@ -11705,7 +10705,7 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>Kingsoft Data Recovery Master</translation>
+        <translation type="obsolete">Kingsoft Data Recovery Master</translation>
     </message>
     <message>
         <source>WPS Office BBS</source>
@@ -11713,27 +10713,27 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation>Kingsoftオフィスコミュニティ</translation>
+        <translation type="obsolete">Kingsoftオフィスコミュニティ</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
-        <translation>Kingsoft マイクロブログ</translation>
+        <translation type="obsolete">Kingsoft マイクロブログ</translation>
     </message>
     <message>
         <source>WPS Office Forum</source>
-        <translation>Kingsoftオフィス フォーラム</translation>
+        <translation type="obsolete">Kingsoftオフィス フォーラム</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>ホームページ</translation>
+        <translation type="obsolete">ホームページ</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
-        <translation>Kingsoftの新機能</translation>
+        <translation type="obsolete">Kingsoftの新機能</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>Kingsoftオフィス プロダクトセンター</translation>
+        <translation type="obsolete">Kingsoftオフィス プロダクトセンター</translation>
     </message>
     <message>
         <source>WPS Online</source>
@@ -11741,15 +10741,15 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
-        <translation>Kingsoft Spreadsheetsファイル（*.et）</translation>
+        <translation type="obsolete">Kingsoft Spreadsheetsファイル（*.et）</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Help</source>
-        <translation>Kingsoft Spreadsheets ヘルプ(H)</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets ヘルプ(H)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
-        <translation>Kingsoft Spreadsheetsテンプレート（*.ett）</translation>
+        <translation type="obsolete">Kingsoft Spreadsheetsテンプレート（*.ett）</translation>
     </message>
 </context>
 <context>
@@ -11760,51 +10760,51 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Spreadsheets Help</source>
-        <translation>Kingsoft Spreadsheets ヘルプ(H)</translation>
+        <translation type="obsolete">Kingsoft Spreadsheets ヘルプ(H)</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_formulas</name>
     <message>
         <source>All</source>
-        <translation>すべて</translation>
+        <translation type="obsolete">すべて</translation>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation>合計</translation>
+        <translation type="obsolete">合計</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>平均値</translation>
+        <translation type="obsolete">平均値</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation>シート再計算</translation>
+        <translation type="obsolete">シート再計算</translation>
     </message>
     <message>
         <source>Calculation</source>
-        <translation>計算</translation>
+        <translation type="obsolete">計算</translation>
     </message>
     <message>
         <source>Circular References</source>
-        <translation>循環参照</translation>
+        <translation type="obsolete">循環参照</translation>
     </message>
     <message>
         <source>Connections</source>
-        <translation>接続</translation>
+        <translation type="obsolete">接続</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>データの個数</translation>
+        <translation type="obsolete">データの個数</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation>作成</translation>
+        <translation type="obsolete">作成</translation>
     </message>
     <message>
         <source>Date and
 Time</source>
-        <translation type="unfinished">日付と時刻</translation>
+        <translation type="obsolete">日付と時刻</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -11816,56 +10816,56 @@ Time</source>
     </message>
     <message>
         <source>Define Name</source>
-        <translation>定義</translation>
+        <translation type="obsolete">定義</translation>
     </message>
     <message>
         <source>Defined Names</source>
-        <translation>定義された名前</translation>
+        <translation type="obsolete">定義された名前</translation>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation>リンクの編集</translation>
+        <translation type="obsolete">リンクの編集</translation>
     </message>
     <message>
         <source>Engineering</source>
-        <translation>エンジニアリング</translation>
+        <translation type="obsolete">エンジニアリング</translation>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>エラーチェック</translation>
+        <translation type="obsolete">エラーチェック</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
-        <translation>数式の検証</translation>
+        <translation type="obsolete">数式の検証</translation>
     </message>
     <message>
         <source>Financial</source>
-        <translation>財務</translation>
+        <translation type="obsolete">財務</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
-        <translation>エラーチェック</translation>
+        <translation type="obsolete">エラーチェック</translation>
     </message>
     <message>
         <source>Function Library</source>
-        <translation>関数ライブラリ</translation>
+        <translation type="obsolete">関数ライブラリ</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>情報</translation>
+        <translation type="obsolete">情報</translation>
     </message>
     <message>
         <source>Insert Function</source>
-        <translation>関数の挿入</translation>
+        <translation type="obsolete">関数の挿入</translation>
     </message>
     <message>
         <source>Logical</source>
-        <translation>論理</translation>
+        <translation type="obsolete">論理</translation>
     </message>
     <message>
         <source>Lookup and
 Reference</source>
-        <translation type="unfinished">検索と参照</translation>
+        <translation type="obsolete">検索と参照</translation>
     </message>
     <message>
         <source>Lookup/Reference</source>
@@ -11874,7 +10874,7 @@ Reference</source>
     <message>
         <source>Math and
 Trig</source>
-        <translation type="unfinished">数学と三角</translation>
+        <translation type="obsolete">数学と三角</translation>
     </message>
     <message>
         <source>Math/Trig</source>
@@ -11882,15 +10882,15 @@ Trig</source>
     </message>
     <message>
         <source>Max</source>
-        <translation>最大値</translation>
+        <translation type="obsolete">最大値</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>最小値</translation>
+        <translation type="obsolete">最小値</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation>その他の関数</translation>
+        <translation type="obsolete">その他の関数</translation>
     </message>
     <message>
         <source>More Functoins</source>
@@ -11898,11 +10898,11 @@ Trig</source>
     </message>
     <message>
         <source>Name Manager</source>
-        <translation>名前の管理</translation>
+        <translation type="obsolete">名前の管理</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>貼り付け</translation>
+        <translation type="obsolete">貼り付け</translation>
     </message>
     <message>
         <source>Recalculate Active Book</source>
@@ -11910,150 +10910,126 @@ Trig</source>
     </message>
     <message>
         <source>Recalculate Workbook</source>
-        <translation>再計算実行</translation>
+        <translation type="obsolete">再計算実行</translation>
     </message>
     <message>
         <source>Recently Used</source>
-        <translation>最近使用した</translation>
+        <translation type="obsolete">最近使用した</translation>
     </message>
     <message>
         <source>Statistical</source>
-        <translation>統計</translation>
+        <translation type="obsolete">統計</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation>合計</translation>
+        <translation type="obsolete">合計</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>テキスト</translation>
+        <translation type="obsolete">テキスト</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_home</name>
     <message>
-        <source>Above Average</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Across Center</source>
-        <translation>選択範囲内で中央</translation>
+        <translation type="obsolete">選択範囲内で中央</translation>
     </message>
     <message>
         <source>Across Sheets</source>
-        <translation>作業グループへコピー</translation>
+        <translation type="obsolete">作業グループへコピー</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
-        <translation>フィルタオプションの設定</translation>
+        <translation type="obsolete">フィルタオプションの設定</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>下寄せ</translation>
+        <translation type="obsolete">下寄せ</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>上寄せ</translation>
+        <translation type="obsolete">上寄せ</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>すべて</translation>
+        <translation type="obsolete">すべて</translation>
     </message>
     <message>
         <source>All Borders</source>
-        <translation>すべての罫線</translation>
+        <translation type="obsolete">すべての罫線</translation>
     </message>
     <message>
         <source>Angle Clockwise</source>
-        <translation>右回りの角度</translation>
+        <translation type="obsolete">右回りの角度</translation>
     </message>
     <message>
         <source>Angle Counterclockwise</source>
-        <translation>左回りの角度</translation>
+        <translation type="obsolete">左回りの角度</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation>昇順</translation>
+        <translation type="obsolete">昇順</translation>
     </message>
     <message>
         <source>AutoFilter</source>
-        <translation>自動フィルタ</translation>
+        <translation type="obsolete">自動フィルタ</translation>
     </message>
     <message>
         <source>AutoFit Column Width</source>
-        <translation>選択範囲に​​合わせる</translation>
+        <translation type="obsolete">選択範囲に​​合わせる</translation>
     </message>
     <message>
         <source>AutoFit Row Height</source>
-        <translation>自動調整</translation>
+        <translation type="obsolete">自動調整</translation>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation>合計</translation>
+        <translation type="obsolete">合計</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>平均値</translation>
-    </message>
-    <message>
-        <source>Begin with</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Below Average</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">平均値</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>太字</translation>
-    </message>
-    <message>
-        <source>Bottom 10</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">太字</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>下罫線</translation>
+        <translation type="obsolete">下罫線</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation>下二重罫線</translation>
+        <translation type="obsolete">下二重罫線</translation>
     </message>
     <message>
         <source>Cells</source>
-        <translation>セルの削除</translation>
+        <translation type="obsolete">セルの削除</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>中央</translation>
+        <translation type="obsolete">中央</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>クリア</translation>
+        <translation type="obsolete">クリア</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>クリップボード</translation>
+        <translation type="obsolete">クリップボード</translation>
     </message>
     <message>
         <source>Column Width</source>
-        <translation>幅</translation>
+        <translation type="obsolete">幅</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -12065,19 +11041,15 @@ Trig</source>
     </message>
     <message>
         <source>Comma Style</source>
-        <translation>桁区切りスタイル</translation>
+        <translation type="obsolete">桁区切りスタイル</translation>
     </message>
     <message>
         <source>Comments</source>
-        <translation>コメント</translation>
+        <translation type="obsolete">コメント</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation>条件付き書式の設定</translation>
-    </message>
-    <message>
-        <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">条件付き書式の設定</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -12085,51 +11057,43 @@ Trig</source>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
-        <translation>テキストをハイパーリンクに変換</translation>
+        <translation type="obsolete">テキストをハイパーリンクに変換</translation>
     </message>
     <message>
         <source>Convert Text to Number</source>
-        <translation>テキストを数値に変換</translation>
+        <translation type="obsolete">テキストを数値に変換</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>コピー</translation>
+        <translation type="obsolete">コピー</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>データの個数</translation>
+        <translation type="obsolete">データの個数</translation>
     </message>
     <message>
         <source>Currency</source>
-        <translation>通貨</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">通貨</translation>
     </message>
     <message>
         <source>Custom Sort</source>
-        <translation>並べ替え</translation>
+        <translation type="obsolete">並べ替え</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>切り取り</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">切り取り</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
-        <translation>小数点表示桁下げ</translation>
+        <translation type="obsolete">小数点表示桁下げ</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>フォント サイズの縮小</translation>
+        <translation type="obsolete">フォント サイズの縮小</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation>インデント解除</translation>
+        <translation type="obsolete">インデント解除</translation>
     </message>
     <message>
         <source>Default Width</source>
@@ -12137,79 +11101,59 @@ Trig</source>
     </message>
     <message>
         <source>Delete Cells</source>
-        <translation>セルの削除</translation>
+        <translation type="obsolete">セルの削除</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation>列の削除</translation>
+        <translation type="obsolete">列の削除</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation>行の削除</translation>
+        <translation type="obsolete">行の削除</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
-        <translation>シートの削除</translation>
+        <translation type="obsolete">シートの削除</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation>降順</translation>
+        <translation type="obsolete">降順</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
         <translation type="obsolete">設定</translation>
     </message>
     <message>
-        <source>Does not contain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Down</source>
-        <translation>下方向へコピー</translation>
+        <translation type="obsolete">下方向へコピー</translation>
     </message>
     <message>
         <source>Draw Border</source>
-        <translation>罫線の作成</translation>
+        <translation type="obsolete">罫線の作成</translation>
     </message>
     <message>
         <source>Draw Border Grid</source>
-        <translation>罫線グリッドの作成</translation>
+        <translation type="obsolete">罫線グリッドの作成</translation>
     </message>
     <message>
         <source>Editing</source>
-        <translation>編集</translation>
-    </message>
-    <message>
-        <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>End with</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">編集</translation>
     </message>
     <message>
         <source>Erase Border</source>
-        <translation>罫線の削除</translation>
-    </message>
-    <message>
-        <source>Error Value </source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">罫線の削除</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>フィル</translation>
+        <translation type="obsolete">フィル</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>塗りつぶしの色</translation>
+        <translation type="obsolete">塗りつぶしの色</translation>
     </message>
     <message>
         <source>Fill Series</source>
-        <translation>連続データの作成</translation>
+        <translation type="obsolete">連続データの作成</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -12217,11 +11161,11 @@ Trig</source>
     </message>
     <message>
         <source>Find</source>
-        <translation>検索</translation>
+        <translation type="obsolete">検索</translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation>検索と
+        <translation type="obsolete">検索と
 選択</translation>
     </message>
     <message>
@@ -12230,7 +11174,7 @@ Trig</source>
     </message>
     <message>
         <source>Font</source>
-        <translation>フォント</translation>
+        <translation type="obsolete">フォント</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -12238,23 +11182,23 @@ Trig</source>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>サイズ</translation>
+        <translation type="obsolete">サイズ</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>書式</translation>
+        <translation type="obsolete">書式</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>書式のコピー/貼り付け</translation>
+        <translation type="obsolete">書式のコピー/貼り付け</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>書式</translation>
+        <translation type="obsolete">書式</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation>数式</translation>
+        <translation type="obsolete">数式</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -12262,169 +11206,137 @@ Trig</source>
     </message>
     <message>
         <source>Go to</source>
-        <translation>ジャンプ </translation>
-    </message>
-    <message>
-        <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">ジャンプ </translation>
     </message>
     <message>
         <source>Hide Columns</source>
-        <translation>列を表示しない</translation>
+        <translation type="obsolete">列を表示しない</translation>
     </message>
     <message>
         <source>Hide Rows</source>
-        <translation>行を表示しない</translation>
+        <translation type="obsolete">行を表示しない</translation>
     </message>
     <message>
         <source>Hide Sheet</source>
-        <translation>シートを表示しない</translation>
+        <translation type="obsolete">シートを表示しない</translation>
     </message>
     <message>
         <source>Hide and Unhide</source>
-        <translation>非表示/再表示(U)</translation>
-    </message>
-    <message>
-        <source>Highlight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">非表示/再表示(U)</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
-        <translation>小数点表示桁上げ</translation>
+        <translation type="obsolete">小数点表示桁上げ</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>フォント サイズの拡大</translation>
+        <translation type="obsolete">フォント サイズの拡大</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation>インデント追加</translation>
+        <translation type="obsolete">インデント追加</translation>
     </message>
     <message>
         <source>Insert Cells</source>
-        <translation>セルの挿入</translation>
+        <translation type="obsolete">セルの挿入</translation>
     </message>
     <message>
         <source>Insert Columns</source>
-        <translation>列の挿入</translation>
+        <translation type="obsolete">列の挿入</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
-        <translation>コピーしたセルの挿入</translation>
+        <translation type="obsolete">コピーしたセルの挿入</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
-        <translation>切り取ったセルの挿入</translation>
+        <translation type="obsolete">切り取ったセルの挿入</translation>
     </message>
     <message>
         <source>Insert Rows</source>
-        <translation>行の挿入</translation>
+        <translation type="obsolete">行の挿入</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
-        <translation>シートの挿入</translation>
+        <translation type="obsolete">シートの挿入</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>斜体</translation>
-    </message>
-    <message>
-        <source>Last month</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">斜体</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>左方向へコピー</translation>
+        <translation type="obsolete">左方向へコピー</translation>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>左罫線</translation>
-    </message>
-    <message>
-        <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">左罫線</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation>線の色</translation>
+        <translation type="obsolete">線の色</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>線のスタイル</translation>
+        <translation type="obsolete">線のスタイル</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translation>セルのロック</translation>
+        <translation type="obsolete">セルのロック</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>最大値</translation>
+        <translation type="obsolete">最大値</translation>
     </message>
     <message>
         <source>Merge Across</source>
-        <translation>選択範囲内で結合</translation>
+        <translation type="obsolete">選択範囲内で結合</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation>セルの結合</translation>
+        <translation type="obsolete">セルの結合</translation>
     </message>
     <message>
         <source>Merge and
 Center</source>
-        <translation type="unfinished">セルを結合して
+        <translation type="obsolete">セルを結合して
 中央寄せ</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation>セルを結合して中央揃え</translation>
+        <translation type="obsolete">セルを結合して中央揃え</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>最小値</translation>
+        <translation type="obsolete">最小値</translation>
     </message>
     <message>
         <source>More Borders</source>
-        <translation>その他の線</translation>
+        <translation type="obsolete">その他の線</translation>
     </message>
     <message>
         <source>More Functions</source>
-        <translation>その他の関数</translation>
+        <translation type="obsolete">その他の関数</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
-        <translation>シートの移動またはコピー</translation>
-    </message>
-    <message>
-        <source>Next month</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">シートの移動またはコピー</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>枠なし</translation>
+        <translation type="obsolete">枠なし</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>数値</translation>
+        <translation type="obsolete">数値</translation>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>外枠</translation>
+        <translation type="obsolete">外枠</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>貼り付け</translation>
+        <translation type="obsolete">貼り付け</translation>
     </message>
     <message>
         <source>Paste As Picture</source>
@@ -12440,27 +11352,27 @@ Center</source>
     </message>
     <message>
         <source>Paste as Picture</source>
-        <translation>図として貼り付け</translation>
+        <translation type="obsolete">図として貼り付け</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
-        <translation>形式なし貼り付け</translation>
+        <translation type="obsolete">形式なし貼り付け</translation>
     </message>
     <message>
         <source>Percent Style</source>
-        <translation>パーセント スタイル</translation>
+        <translation type="obsolete">パーセント スタイル</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation>シートの保護</translation>
+        <translation type="obsolete">シートの保護</translation>
     </message>
     <message>
         <source>Reapply</source>
-        <translation>再適用</translation>
+        <translation type="obsolete">再適用</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>名前の変更</translation>
+        <translation type="obsolete">名前の変更</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -12468,23 +11380,23 @@ Center</source>
     </message>
     <message>
         <source>Right</source>
-        <translation>右方向へコピー</translation>
+        <translation type="obsolete">右方向へコピー</translation>
     </message>
     <message>
         <source>Right Border</source>
-        <translation>右罫線</translation>
+        <translation type="obsolete">右罫線</translation>
     </message>
     <message>
         <source>Rotate Text Down</source>
-        <translation>下に回転</translation>
+        <translation type="obsolete">下に回転</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
-        <translation>上に回転</translation>
+        <translation type="obsolete">上に回転</translation>
     </message>
     <message>
         <source>Row Height</source>
-        <translation>高さ</translation>
+        <translation type="obsolete">高さ</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -12492,27 +11404,27 @@ Center</source>
     </message>
     <message>
         <source>Rows and Columns</source>
-        <translation>行と列</translation>
+        <translation type="obsolete">行と列</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation>オブジェクトの選択</translation>
+        <translation type="obsolete">オブジェクトの選択</translation>
     </message>
     <message>
         <source>Series</source>
-        <translation>系列</translation>
+        <translation type="obsolete">系列</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>すべて表示する</translation>
+        <translation type="obsolete">すべて表示する</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>並べ替え</translation>
+        <translation type="obsolete">並べ替え</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -12523,156 +11435,108 @@ Center</source>
         <translation type="obsolete">降順</translation>
     </message>
     <message>
-        <source>Special Value</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Standard Width</source>
-        <translation>標準の幅</translation>
+        <translation type="obsolete">標準の幅</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation>スタイル</translation>
+        <translation type="obsolete">スタイル</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation>合計</translation>
+        <translation type="obsolete">合計</translation>
     </message>
     <message>
         <source>Tab Color</source>
-        <translation>シート見出しの色</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">シート見出しの色</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>フォントの色</translation>
+        <translation type="obsolete">フォントの色</translation>
     </message>
     <message>
         <source>Thick Bottom Border</source>
-        <translation>下太罫線</translation>
+        <translation type="obsolete">下太罫線</translation>
     </message>
     <message>
         <source>Thick Box Border</source>
-        <translation>外枠太罫線</translation>
-    </message>
-    <message>
-        <source>This month</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This week</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Today</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top 10</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">外枠太罫線</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>上罫線</translation>
+        <translation type="obsolete">上罫線</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
-        <translation>上罫線+下罫線</translation>
+        <translation type="obsolete">上罫線+下罫線</translation>
     </message>
     <message>
         <source>Top and Double Bottom Border</source>
-        <translation>上罫線+下二重罫線</translation>
+        <translation type="obsolete">上罫線+下二重罫線</translation>
     </message>
     <message>
         <source>Top and Thick Bottom Border</source>
-        <translation>上罫線+下太罫線</translation>
+        <translation type="obsolete">上罫線+下太罫線</translation>
     </message>
     <message>
         <source>Transpose</source>
-        <translation>変換</translation>
+        <translation type="obsolete">変換</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation>下線</translation>
+        <translation type="obsolete">下線</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
-        <translation>列の再表示</translation>
+        <translation type="obsolete">列の再表示</translation>
     </message>
     <message>
         <source>Unhide Rows</source>
-        <translation>行の再表示</translation>
+        <translation type="obsolete">行の再表示</translation>
     </message>
     <message>
         <source>Unhide Sheet</source>
-        <translation>シートの再表示</translation>
-    </message>
-    <message>
-        <source>Unmerge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">シートの再表示</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>上方向へコピー</translation>
-    </message>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">上方向へコピー</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation>数値</translation>
+        <translation type="obsolete">数値</translation>
     </message>
     <message>
         <source>Vertical Center</source>
-        <translation>中央寄せ</translation>
+        <translation type="obsolete">中央寄せ</translation>
     </message>
     <message>
         <source>Vertical Text </source>
-        <translation>縦書きテキスト</translation>
-    </message>
-    <message>
-        <source>Weekend</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">縦書きテキスト</translation>
     </message>
     <message>
         <source>WorkSheet</source>
-        <translation>シート</translation>
+        <translation type="obsolete">シート</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>折り返して
+        <translation type="obsolete">折り返して
 全体を表示する</translation>
-    </message>
-    <message>
-        <source>Yesterday</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_home.Alignment</name>
     <message>
         <source>Alignment</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Format Cell Alignment</source>
-        <translation>文字の配置</translation>
+        <translation type="obsolete">文字の配置</translation>
     </message>
     <message>
         <source>Text Orientation</source>
-        <translation>文字の制御</translation>
+        <translation type="obsolete">文字の制御</translation>
     </message>
 </context>
 <context>
@@ -12683,54 +11547,54 @@ Center</source>
     </message>
     <message>
         <source>Format Cells</source>
-        <translation>セル</translation>
+        <translation type="obsolete">セル</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_insert</name>
     <message>
         <source>Button</source>
-        <translation>ボタン</translation>
+        <translation type="obsolete">ボタン</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation>カメラ</translation>
+        <translation type="obsolete">カメラ</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation>グラフ</translation>
+        <translation type="obsolete">グラフ</translation>
     </message>
     <message>
         <source>Check Box</source>
-        <translation>チェック ボックス</translation>
+        <translation type="obsolete">チェック ボックス</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>クリップアート</translation>
+        <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation>コンボ ボックス</translation>
+        <translation type="obsolete">コンボ ボックス</translation>
     </message>
     <message>
         <source>Control Properties</source>
-        <translation>プロパティ</translation>
+        <translation type="obsolete">プロパティ</translation>
     </message>
     <message>
         <source>Edit Code</source>
-        <translation>コードの編集</translation>
+        <translation type="obsolete">コードの編集</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation>数式</translation>
+        <translation type="obsolete">数式</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>ファイルオブジェクト</translation>
+        <translation type="obsolete">ファイルオブジェクト</translation>
     </message>
     <message>
         <source>Forms</source>
-        <translation>フォーム ツールボックス</translation>
+        <translation type="obsolete">フォーム ツールボックス</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -12738,11 +11602,11 @@ Center</source>
     </message>
     <message>
         <source>Group Box</source>
-        <translation>グループ ボックス</translation>
+        <translation type="obsolete">グループ ボックス</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>ヘッダーとフッター</translation>
+        <translation type="obsolete">ヘッダーとフッター</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -12750,155 +11614,147 @@ Center</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>横書き</translation>
+        <translation type="obsolete">横書き</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation>ハイパーリンク</translation>
+        <translation type="obsolete">ハイパーリンク</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="unfinished">クリップアートの挿入</translation>
+        <translation type="obsolete">クリップアートの挿入</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">クリップアートの挿入</translation>
     </message>
     <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Label</source>
-        <translation>ラベル</translation>
+        <translation type="obsolete">ラベル</translation>
     </message>
     <message>
         <source>Links</source>
-        <translation>リンク</translation>
+        <translation type="obsolete">リンク</translation>
     </message>
     <message>
         <source>List Box</source>
-        <translation>リスト ボックス</translation>
+        <translation type="obsolete">リスト ボックス</translation>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation>その他の記号と特殊文字</translation>
+        <translation type="obsolete">その他の記号と特殊文字</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation>オブジェクト</translation>
-    </message>
-    <message>
-        <source>Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">オブジェクト</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation>オプション ボタン</translation>
+        <translation type="obsolete">オプション ボタン</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>ピボット
+        <translation type="obsolete">ピボット
 テーブル</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation>スクロール バー</translation>
+        <translation type="obsolete">スクロール バー</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation>図形</translation>
+        <translation type="obsolete">図形</translation>
     </message>
     <message>
         <source>Spinner</source>
-        <translation>スピン ボタン</translation>
+        <translation type="obsolete">スピン ボタン</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>記号と特殊文字</translation>
+        <translation type="obsolete">記号と特殊文字</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>記号と特殊文字</translation>
+        <translation type="obsolete">記号と特殊文字</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation>テーブル</translation>
+        <translation type="obsolete">テーブル</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>テキスト</translation>
+        <translation type="obsolete">テキスト</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>テキスト ボックス</translation>
+        <translation type="obsolete">テキスト ボックス</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>縦書き</translation>
+        <translation type="obsolete">縦書き</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>アート文字</translation>
+        <translation type="obsolete">アート文字</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_layout</name>
     <message>
         <source>Align</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>下寄せ</translation>
+        <translation type="obsolete">下寄せ</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>左右中央寄せ</translation>
+        <translation type="obsolete">左右中央寄せ</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>上下中央寄せ</translation>
+        <translation type="obsolete">上下中央寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>上寄せ</translation>
+        <translation type="obsolete">上寄せ</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>改ページ</translation>
+        <translation type="obsolete">改ページ</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>前面へ移動</translation>
+        <translation type="obsolete">前面へ移動</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>最前面へ移動</translation>
+        <translation type="obsolete">最前面へ移動</translation>
     </message>
     <message>
         <source>Clear Print Area</source>
-        <translation>印刷範囲の解除</translation>
+        <translation type="obsolete">印刷範囲の解除</translation>
     </message>
     <message>
         <source>Clear Print Region</source>
@@ -12906,11 +11762,11 @@ Center</source>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation>拡大/縮小</translation>
+        <translation type="obsolete">拡大/縮小</translation>
     </message>
     <message>
         <source>Delete Page Break</source>
-        <translation>改ページの解除</translation>
+        <translation type="obsolete">改ページの解除</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -12918,87 +11774,87 @@ Center</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>左右に整列</translation>
+        <translation type="obsolete">左右に整列</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>上下に整列</translation>
+        <translation type="obsolete">上下に整列</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>高さ揃え</translation>
+        <translation type="obsolete">高さ揃え</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>サイズ揃え</translation>
+        <translation type="obsolete">サイズ揃え</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>幅揃え</translation>
+        <translation type="obsolete">幅揃え</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation>全列を1ページに設定</translation>
+        <translation type="obsolete">全列を1ページに設定</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation>全行を1ページに設定</translation>
+        <translation type="obsolete">全行を1ページに設定</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation>シート全体を1ページに設定</translation>
+        <translation type="obsolete">シート全体を1ページに設定</translation>
     </message>
     <message>
         <source>Fit:</source>
-        <translation>倍率指定</translation>
+        <translation type="obsolete">倍率指定</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>左右反転</translation>
+        <translation type="obsolete">左右反転</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>上下反転</translation>
+        <translation type="obsolete">上下反転</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>自由に回転</translation>
+        <translation type="obsolete">自由に回転</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Insert Page Break</source>
-        <translation>改ページの挿入</translation>
+        <translation type="obsolete">改ページの挿入</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation>余白</translation>
+        <translation type="obsolete">余白</translation>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>用紙の方向</translation>
+        <translation type="obsolete">用紙の方向</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>ページの設定</translation>
+        <translation type="obsolete">ページの設定</translation>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation>拡大縮小印刷</translation>
+        <translation type="obsolete">拡大縮小印刷</translation>
     </message>
     <message>
         <source>Print Area</source>
-        <translation>印刷範囲</translation>
+        <translation type="obsolete">印刷範囲</translation>
     </message>
     <message>
         <source>Print Titles</source>
-        <translation>印刷 タイトル</translation>
+        <translation type="obsolete">印刷 タイトル</translation>
     </message>
     <message>
         <source>Reset All Page Break</source>
@@ -13006,35 +11862,35 @@ Center</source>
     </message>
     <message>
         <source>Reset All Page Breaks</source>
-        <translation>すべての改ページを解除</translation>
+        <translation type="obsolete">すべての改ページを解除</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>回転</translation>
+        <translation type="obsolete">回転</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>左90度回転</translation>
+        <translation type="obsolete">左90度回転</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>右90度回転</translation>
+        <translation type="obsolete">右90度回転</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オプジェクトの選択と表示</translation>
+        <translation type="obsolete">オプジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>背面へ移動</translation>
+        <translation type="obsolete">背面へ移動</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>最背面へ移動</translation>
+        <translation type="obsolete">最背面へ移動</translation>
     </message>
     <message>
         <source>Set Print Area</source>
-        <translation>印刷範囲の設定</translation>
+        <translation type="obsolete">印刷範囲の設定</translation>
     </message>
     <message>
         <source>Set Print Region</source>
@@ -13042,142 +11898,142 @@ Center</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation>グリッドの表示</translation>
+        <translation type="obsolete">グリッドの表示</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>サイズ</translation>
+        <translation type="obsolete">サイズ</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>グリッド線に合わせる</translation>
+        <translation type="obsolete">グリッド線に合わせる</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
+        <translation type="obsolete">0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 pt</translation>
+        <translation type="obsolete"> 0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
+        <translation type="obsolete">0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 pt</translation>
+        <translation type="obsolete">   1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 pt</translation>
+        <translation type="obsolete"> 1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
+        <translation type="obsolete">2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 pt</translation>
+        <translation type="obsolete">   3 pt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 pt</translation>
+        <translation type="obsolete"> 4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 pt</translation>
+        <translation type="obsolete">   6 pt</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation>調整</translation>
+        <translation type="obsolete">調整</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
-        <translation>図の調整</translation>
+        <translation type="obsolete">図の調整</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>下寄せ</translation>
+        <translation type="obsolete">下寄せ</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>左右中央寄せ</translation>
+        <translation type="obsolete">左右中央寄せ</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>上下中央寄せ</translation>
+        <translation type="obsolete">上下中央寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>上寄せ</translation>
+        <translation type="obsolete">上寄せ</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>前面へ移動</translation>
+        <translation type="obsolete">前面へ移動</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>最前面へ移動</translation>
+        <translation type="obsolete">最前面へ移動</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>他のグラフィックスに変更する</translation>
+        <translation type="obsolete">他のグラフィックスに変更する</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation>クリップアート</translation>
+        <translation type="obsolete">クリップアート</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>図の圧縮</translation>
+        <translation type="obsolete">図の圧縮</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation>トリミング</translation>
+        <translation type="obsolete">トリミング</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation>破線</translation>
+        <translation type="obsolete">破線</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>一点鎖線</translation>
+        <translation type="obsolete">一点鎖線</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>実線/点線のスタイル</translation>
+        <translation type="obsolete">実線/点線のスタイル</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -13193,43 +12049,43 @@ Center</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>左右に整列</translation>
+        <translation type="obsolete">左右に整列</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>上下に整列</translation>
+        <translation type="obsolete">上下に整列</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>高さ揃え</translation>
+        <translation type="obsolete">高さ揃え</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>サイズ揃え</translation>
+        <translation type="obsolete">サイズ揃え</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>幅揃え</translation>
+        <translation type="obsolete">幅揃え</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>塗りつぶし</translation>
+        <translation type="obsolete">塗りつぶし</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>左右反転</translation>
+        <translation type="obsolete">左右反転</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>上下反転</translation>
+        <translation type="obsolete">上下反転</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>オブジェクトの書式設定</translation>
+        <translation type="obsolete">オブジェクトの書式設定</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>自由に回転</translation>
+        <translation type="obsolete">自由に回転</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -13237,35 +12093,31 @@ Center</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>グラデーション</translation>
+        <translation type="obsolete">グラデーション</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation>挿入</translation>
+        <translation type="obsolete">挿入</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="unfinished">クリップアートの挿入</translation>
+        <translation type="obsolete">クリップアートの挿入</translation>
     </message>
     <message>
         <source>Insert Atristic Clip</source>
         <translation type="obsolete">クリップアートの挿入</translation>
     </message>
     <message>
-        <source>Insert Online Pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Less Brightness</source>
-        <translation>明るさ(弱)</translation>
+        <translation type="obsolete">明るさ(弱)</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation>コントラスト (弱)</translation>
+        <translation type="obsolete">コントラスト (弱)</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -13277,11 +12129,11 @@ Center</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>長破線</translation>
+        <translation type="obsolete">長破線</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>長鎖線</translation>
+        <translation type="obsolete">長鎖線</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -13289,67 +12141,63 @@ Center</source>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation>明るさ(強)</translation>
+        <translation type="obsolete">明るさ(強)</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation>コントラスト (強)</translation>
+        <translation type="obsolete">コントラスト (強)</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>その他の線</translation>
+        <translation type="obsolete">その他の線</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>影なし</translation>
+        <translation type="obsolete">影なし</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>影の微調整(下)</translation>
+        <translation type="obsolete">影の微調整(下)</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>影の微調整(左)</translation>
+        <translation type="obsolete">影の微調整(左)</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>影の微調整(右)</translation>
+        <translation type="obsolete">影の微調整(右)</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>影の微調整(上)</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">影の微調整(上)</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>図の外枠</translation>
+        <translation type="obsolete">図の外枠</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>パターン</translation>
+        <translation type="obsolete">パターン</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>線のパターン</translation>
+        <translation type="obsolete">線のパターン</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
@@ -13365,68 +12213,68 @@ Center</source>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>画のサイズ</translation>
+        <translation type="obsolete">画のサイズ</translation>
     </message>
     <message>
         <source>Picture Styles</source>
-        <translation>画像のスタイル</translation>
+        <translation type="obsolete">画像のスタイル</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>図のリセット</translation>
+        <translation type="obsolete">図のリセット</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>回転</translation>
+        <translation type="obsolete">回転</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>左90度回転</translation>
+        <translation type="obsolete">左90度回転</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>右90度回転</translation>
+        <translation type="obsolete">右90度回転</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>点線 (丸)</translation>
+        <translation type="obsolete">点線 (丸)</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オプジェクトの選択と表示</translation>
+        <translation type="obsolete">オプジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation>半透明の影</translation>
+        <translation type="obsolete">半透明の影</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>背面へ移動</translation>
+        <translation type="obsolete">背面へ移動</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>最背面へ移動</translation>
+        <translation type="obsolete">最背面へ移動</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>透明な色に設定</translation>
+        <translation type="obsolete">透明な色に設定</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation>影の色</translation>
+        <translation type="obsolete">影の色</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>影の
+        <translation type="obsolete">影の
 スタイル</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>影のオン／オフ</translation>
+        <translation type="obsolete">影のオン／オフ</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -13450,69 +12298,69 @@ Center</source>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation>グリッドの表示</translation>
+        <translation type="obsolete">グリッドの表示</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>グリッド線に合わせる</translation>
+        <translation type="obsolete">グリッド線に合わせる</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>実線</translation>
+        <translation type="obsolete">実線</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>点線 (角)</translation>
+        <translation type="obsolete">点線 (角)</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>テクスチャ</translation>
+        <translation type="obsolete">テクスチャ</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>線の種類</translation>
+        <translation type="obsolete">線の種類</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.PictureColor</name>
     <message>
         <source>Auto</source>
-        <translation>自動</translation>
+        <translation type="obsolete">自動</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation>白黒</translation>
+        <translation type="obsolete">白黒</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>色</translation>
+        <translation type="obsolete">色</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>グレースケール</translation>
+        <translation type="obsolete">グレースケール</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation>ウォッシュアウト</translation>
+        <translation type="obsolete">ウォッシュアウト</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_pivottabletools</name>
     <message>
         <source>Active Field</source>
-        <translation>アクティブなフィールド</translation>
+        <translation type="obsolete">アクティブなフィールド</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>データ</translation>
+        <translation type="obsolete">データ</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>削除</translation>
+        <translation type="obsolete">削除</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -13520,59 +12368,59 @@ Center</source>
     </message>
     <message>
         <source>Field Settings</source>
-        <translation>フィールド設定</translation>
+        <translation type="obsolete">フィールド設定</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>表示しない</translation>
+        <translation type="obsolete">表示しない</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation>詳細を表示しない</translation>
+        <translation type="obsolete">詳細を表示しない</translation>
     </message>
     <message>
         <source>Hide Field List</source>
-        <translation>フィールド リストを表示しない</translation>
+        <translation type="obsolete">フィールド リストを表示しない</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation>ピボットテーブルの変更</translation>
+        <translation type="obsolete">ピボットテーブルの変更</translation>
     </message>
     <message>
         <source>Move Down</source>
-        <translation>下へ移動</translation>
+        <translation type="obsolete">下へ移動</translation>
     </message>
     <message>
         <source>Move Left</source>
-        <translation>左方向にシフト</translation>
+        <translation type="obsolete">左方向にシフト</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>右方向にシフト</translation>
+        <translation type="obsolete">右方向にシフト</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>1つ上のレベルへ移動</translation>
+        <translation type="obsolete">1つ上のレベルへ移動</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
-        <translation>先頭へ移動</translation>
+        <translation type="obsolete">先頭へ移動</translation>
     </message>
     <message>
         <source>Move to End</source>
-        <translation>末尾に移動</translation>
+        <translation type="obsolete">末尾に移動</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation>順序</translation>
+        <translation type="obsolete">順序</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation>レイアウト</translation>
+        <translation type="obsolete">レイアウト</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation>ピボットテーブルオプション</translation>
+        <translation type="obsolete">ピボットテーブルオプション</translation>
     </message>
     <message>
         <source>PivotTable Order</source>
@@ -13584,90 +12432,90 @@ Center</source>
     </message>
     <message>
         <source>Show Detail</source>
-        <translation>詳細データの表示</translation>
+        <translation type="obsolete">詳細データの表示</translation>
     </message>
     <message>
         <source>Show Field List</source>
-        <translation>フィールド リストの表示</translation>
+        <translation type="obsolete">フィールド リストの表示</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>並べ替え</translation>
+        <translation type="obsolete">並べ替え</translation>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation>集計</translation>
+        <translation type="obsolete">集計</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation type="obsolete">閉じる</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation>拡大/縮小</translation>
+        <translation type="obsolete">拡大/縮小</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation>全列を1ページに設定</translation>
+        <translation type="obsolete">全列を1ページに設定</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation>全行を1ページに設定</translation>
+        <translation type="obsolete">全行を1ページに設定</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation>シート全体を1ページに設定</translation>
+        <translation type="obsolete">シート全体を1ページに設定</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>ヘッダーとフッター</translation>
+        <translation type="obsolete">ヘッダーとフッター</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>横</translation>
+        <translation type="obsolete">横</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation>余白</translation>
+        <translation type="obsolete">余白</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation>次のページ</translation>
+        <translation type="obsolete">次のページ</translation>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Normal View</source>
-        <translation>標準ビュー</translation>
+        <translation type="obsolete">標準ビュー</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>改ページプレビュー</translation>
+        <translation type="obsolete">改ページプレビュー</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>ページの設定</translation>
+        <translation type="obsolete">ページの設定</translation>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation>拡大縮小印刷</translation>
+        <translation type="obsolete">拡大縮小印刷</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>縦</translation>
+        <translation type="obsolete">縦</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation>前のページ</translation>
+        <translation type="obsolete">前のページ</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>印刷</translation>
+        <translation type="obsolete">印刷</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -13679,22 +12527,22 @@ Center</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>表示</translation>
+        <translation type="obsolete">表示</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>拡大/縮小</translation>
+        <translation type="obsolete">拡大/縮小</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_review</name>
     <message>
         <source>Accept Changes</source>
-        <translation>リビジョンを承諾</translation>
+        <translation type="obsolete">リビジョンを承諾</translation>
     </message>
     <message>
         <source>Accept Revisions</source>
@@ -13702,11 +12550,11 @@ Center</source>
     </message>
     <message>
         <source>Allow Users to Edit Ranges</source>
-        <translation>範囲の編集を許可</translation>
+        <translation type="obsolete">範囲の編集を許可</translation>
     </message>
     <message>
         <source>Changes</source>
-        <translation>変更</translation>
+        <translation type="obsolete">変更</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -13714,7 +12562,7 @@ Center</source>
     </message>
     <message>
         <source>Chinese Transition</source>
-        <translation>中国語の翻訳</translation>
+        <translation type="obsolete">中国語の翻訳</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
@@ -13722,7 +12570,7 @@ Center</source>
     </message>
     <message>
         <source>Comments</source>
-        <translation>コメント</translation>
+        <translation type="obsolete">コメント</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -13730,44 +12578,44 @@ Center</source>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation>コメントの削除</translation>
+        <translation type="obsolete">コメントの削除</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation>コメントの編集</translation>
+        <translation type="obsolete">コメントの編集</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
-        <translation>変更箇所の表示</translation>
+        <translation type="obsolete">変更箇所の表示</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translation>セルの
+        <translation type="obsolete">セルの
 ロック</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation>コメント</translation>
+        <translation type="obsolete">コメント</translation>
     </message>
     <message>
         <source>Proofing</source>
-        <translation>文章校正</translation>
+        <translation type="obsolete">文章校正</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
-        <translation>シートの保護</translation>
+        <translation type="obsolete">シートの保護</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
-        <translation>ブックの保護</translation>
+        <translation type="obsolete">ブックの保護</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation>ブックの保護と共有</translation>
+        <translation type="obsolete">ブックの保護と共有</translation>
     </message>
     <message>
         <source>Reject Changes</source>
-        <translation>変更を元に戻す</translation>
+        <translation type="obsolete">変更を元に戻す</translation>
     </message>
     <message>
         <source>Reject Revision</source>
@@ -13775,11 +12623,11 @@ Center</source>
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation>ブックの共有</translation>
+        <translation type="obsolete">ブックの共有</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>スペルチェック</translation>
+        <translation type="obsolete">スペルチェック</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -13787,51 +12635,51 @@ Center</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation>変更履歴の記録</translation>
+        <translation type="obsolete">変更履歴の記録</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>簡体字中国語​​に翻訳</translation>
+        <translation type="obsolete">簡体字中国語​​に翻訳</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>繁体字中国語に翻訳</translation>
+        <translation type="obsolete">繁体字中国語に翻訳</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation>翻訳</translation>
+        <translation type="obsolete">翻訳</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_shadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation>  0 pt(0)</translation>
+        <translation type="obsolete">  0 pt(0)</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation>144 pt(1)</translation>
+        <translation type="obsolete">144 pt(1)</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation>288 pt(2)</translation>
+        <translation type="obsolete">288 pt(2)</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3Dの色</translation>
+        <translation type="obsolete">3Dの色</translation>
     </message>
     <message>
         <source>3-D Effects</source>
-        <translation>3D 効果</translation>
+        <translation type="obsolete">3D 効果</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3Dの表示/
+        <translation type="obsolete">3Dの表示/
 非表示</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>3D 効果</translation>
+        <translation type="obsolete">3D 効果</translation>
     </message>
     <message>
         <source>3-D Style</source>
@@ -13839,116 +12687,116 @@ Center</source>
     </message>
     <message>
         <source>36 pt</source>
-        <translation> 36 pt(3)</translation>
+        <translation type="obsolete"> 36 pt(3)</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation> 72 pt(7)</translation>
+        <translation type="obsolete"> 72 pt(7)</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation>明るく</translation>
+        <translation type="obsolete">明るく</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>奥行き</translation>
+        <translation type="obsolete">奥行き</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation>暗く​​</translation>
+        <translation type="obsolete">暗く​​</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>方向</translation>
+        <translation type="obsolete">方向</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation>エンドレス</translation>
+        <translation type="obsolete">エンドレス</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation>光源</translation>
+        <translation type="obsolete">光源</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation>つや消し</translation>
+        <translation type="obsolete">つや消し</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation>金属</translation>
+        <translation type="obsolete">金属</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>その他の3Dの色</translation>
+        <translation type="obsolete">その他の3Dの色</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3Dなし</translation>
+        <translation type="obsolete">3Dなし</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>影なし</translation>
+        <translation type="obsolete">影なし</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>影の微調整(下)</translation>
+        <translation type="obsolete">影の微調整(下)</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>影の微調整(左)</translation>
+        <translation type="obsolete">影の微調整(左)</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>影の微調整(右)</translation>
+        <translation type="obsolete">影の微調整(右)</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>影の微調整(上)</translation>
+        <translation type="obsolete">影の微調整(上)</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>平行</translation>
+        <translation type="obsolete">平行</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation>遠近</translation>
+        <translation type="obsolete">遠近</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation>プラスチック</translation>
+        <translation type="obsolete">プラスチック</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation>半透明の影</translation>
+        <translation type="obsolete">半透明の影</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation>影の色</translation>
+        <translation type="obsolete">影の色</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation>影の
+        <translation type="obsolete">影の
 スタイル</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>影のオン／オフ</translation>
+        <translation type="obsolete">影のオン／オフ</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>影の設定</translation>
+        <translation type="obsolete">影の設定</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -13972,75 +12820,71 @@ Center</source>
     </message>
     <message>
         <source>Surface</source>
-        <translation>表面</translation>
+        <translation type="obsolete">表面</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>下に傾げる</translation>
+        <translation type="obsolete">下に傾げる</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation>左に傾げる</translation>
+        <translation type="obsolete">左に傾げる</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation>右に傾げる</translation>
+        <translation type="obsolete">右に傾げる</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation>上に傾げる</translation>
+        <translation type="obsolete">上に傾げる</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation>ワイヤーフレーム</translation>
+        <translation type="obsolete">ワイヤーフレーム</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_view</name>
     <message>
         <source>Arrange All</source>
-        <translation>並べて表示</translation>
+        <translation type="obsolete">並べて表示</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation>重ねて表示</translation>
+        <translation type="obsolete">重ねて表示</translation>
     </message>
     <message>
         <source>Close
 Other Windows</source>
-        <translation type="unfinished">他のタブを閉じる</translation>
+        <translation type="obsolete">他のタブを閉じる</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation>他のタブを閉じる</translation>
+        <translation type="obsolete">他のタブを閉じる</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>タブを閉じる</translation>
+        <translation type="obsolete">タブを閉じる</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation>開発ツール</translation>
+        <translation type="obsolete">開発ツール</translation>
     </message>
     <message>
         <source>Developer Tools</source>
         <translation type="obsolete">開発ツール</translation>
     </message>
     <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Formula Bar</source>
-        <translation>編集バー</translation>
+        <translation type="obsolete">編集バー</translation>
     </message>
     <message>
         <source>Freeze</source>
-        <translation>固定</translation>
+        <translation type="obsolete">固定</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation>全画面表示</translation>
+        <translation type="obsolete">全画面表示</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -14052,228 +12896,228 @@ Other Windows</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>上下に並べて表示</translation>
+        <translation type="obsolete">上下に並べて表示</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation>マクロ</translation>
+        <translation type="obsolete">マクロ</translation>
     </message>
     <message>
         <source>More Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Windows</source>
-        <translation>その他のタブ</translation>
+        <translation type="obsolete">その他のタブ</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation>新しいタブを開く</translation>
+        <translation type="obsolete">新しいタブを開く</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>改ページプレビュー</translation>
+        <translation type="obsolete">改ページプレビュー</translation>
     </message>
     <message>
         <source>Print Gridlines</source>
-        <translation>グリッド線の印刷</translation>
+        <translation type="obsolete">グリッド線の印刷</translation>
     </message>
     <message>
         <source>Print Headings</source>
-        <translation>見出しの印刷</translation>
+        <translation type="obsolete">見出しの印刷</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation>閲覧レイアウト</translation>
+        <translation type="obsolete">閲覧レイアウト</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>マクロのセキュリティ</translation>
+        <translation type="obsolete">マクロのセキュリティ</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation>分割</translation>
+        <translation type="obsolete">分割</translation>
     </message>
     <message>
         <source>Switch Windows</source>
-        <translation>タブの切り替え</translation>
+        <translation type="obsolete">タブの切り替え</translation>
     </message>
     <message>
         <source>Task Window</source>
-        <translation>ワークウィンドウ</translation>
+        <translation type="obsolete">ワークウィンドウ</translation>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation>固定解除</translation>
+        <translation type="obsolete">固定解除</translation>
     </message>
     <message>
         <source>Unsplit</source>
-        <translation>分割を解除</translation>
+        <translation type="obsolete">分割を解除</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>左右に並べて表示</translation>
+        <translation type="obsolete">左右に並べて表示</translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>グリッド線の表示</translation>
+        <translation type="obsolete">グリッド線の表示</translation>
     </message>
     <message>
         <source>View Headings</source>
-        <translation>見出しの表示</translation>
+        <translation type="obsolete">見出しの表示</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation>Visual Basic エディター</translation>
+        <translation type="obsolete">Visual Basic エディター</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation>タブ</translation>
+        <translation type="obsolete">タブ</translation>
     </message>
     <message>
         <source>Workbook Views</source>
-        <translation>ブックの表示</translation>
+        <translation type="obsolete">ブックの表示</translation>
     </message>
     <message>
         <source>Worksheet Options</source>
-        <translation>ワークシートオプション</translation>
+        <translation type="obsolete">ワークシートオプション</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>ズーム</translation>
+        <translation type="obsolete">ズーム</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_washadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation>  0 pt(0)</translation>
+        <translation type="obsolete">  0 pt(0)</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation>144 pt(1)</translation>
+        <translation type="obsolete">144 pt(1)</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation>288 pt(2)</translation>
+        <translation type="obsolete">288 pt(2)</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3Dの色</translation>
+        <translation type="obsolete">3Dの色</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3Dの表示/
+        <translation type="obsolete">3Dの表示/
 非表示</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>3D 効果</translation>
+        <translation type="obsolete">3D 効果</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation> 36 pt(3)</translation>
+        <translation type="obsolete"> 36 pt(3)</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation> 72 pt(7)</translation>
+        <translation type="obsolete"> 72 pt(7)</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation>明るく</translation>
+        <translation type="obsolete">明るく</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>奥行き</translation>
+        <translation type="obsolete">奥行き</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation>暗く​​</translation>
+        <translation type="obsolete">暗く​​</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation>方向</translation>
+        <translation type="obsolete">方向</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation>エンドレス</translation>
+        <translation type="obsolete">エンドレス</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation>光源</translation>
+        <translation type="obsolete">光源</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation>つや消し</translation>
+        <translation type="obsolete">つや消し</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation>金属</translation>
+        <translation type="obsolete">金属</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>その他の3Dの色</translation>
+        <translation type="obsolete">その他の3Dの色</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3Dなし</translation>
+        <translation type="obsolete">3Dなし</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation>影なし</translation>
+        <translation type="obsolete">影なし</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation>影の微調整(下)</translation>
+        <translation type="obsolete">影の微調整(下)</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation>影の微調整(左)</translation>
+        <translation type="obsolete">影の微調整(左)</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation>影の微調整(右)</translation>
+        <translation type="obsolete">影の微調整(右)</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation>影の微調整(上)</translation>
+        <translation type="obsolete">影の微調整(上)</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation>平行</translation>
+        <translation type="obsolete">平行</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation>遠近</translation>
+        <translation type="obsolete">遠近</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation>プラスチック</translation>
+        <translation type="obsolete">プラスチック</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation>半透明の影</translation>
+        <translation type="obsolete">半透明の影</translation>
     </message>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="unfinished">影の色</translation>
+        <translation type="obsolete">影の色</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -14281,11 +13125,11 @@ Color</source>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation>影のオン／オフ</translation>
+        <translation type="obsolete">影のオン／オフ</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation>影の設定</translation>
+        <translation type="obsolete">影の設定</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
@@ -14305,114 +13149,114 @@ Color</source>
     </message>
     <message>
         <source>Surface</source>
-        <translation>表面</translation>
+        <translation type="obsolete">表面</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation>下に傾げる</translation>
+        <translation type="obsolete">下に傾げる</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation>左に傾げる</translation>
+        <translation type="obsolete">左に傾げる</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation>右に傾げる</translation>
+        <translation type="obsolete">右に傾げる</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation>上に傾げる</translation>
+        <translation type="obsolete">上に傾げる</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation>ワイヤーフレーム</translation>
+        <translation type="obsolete">ワイヤーフレーム</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pt</translation>
+        <translation type="obsolete">0.25 pt</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation> 0.5 pt</translation>
+        <translation type="obsolete"> 0.5 pt</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pt</translation>
+        <translation type="obsolete">0.75 pt</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>   1 pt</translation>
+        <translation type="obsolete">   1 pt</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation> 1.5 pt</translation>
+        <translation type="obsolete"> 1.5 pt</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pt</translation>
+        <translation type="obsolete">2.25 pt</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>   3 pt</translation>
+        <translation type="obsolete">   3 pt</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation> 4.5 pt</translation>
+        <translation type="obsolete"> 4.5 pt</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>   6 pt</translation>
+        <translation type="obsolete">   6 pt</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>下寄せ</translation>
+        <translation type="obsolete">下寄せ</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>左右中央寄せ</translation>
+        <translation type="obsolete">左右中央寄せ</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>上下中央寄せ</translation>
+        <translation type="obsolete">上下中央寄せ</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>上寄せ</translation>
+        <translation type="obsolete">上寄せ</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation>下アーチ</translation>
+        <translation type="obsolete">下アーチ</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
-        <translation>下アーチ (太)</translation>
+        <translation type="obsolete">下アーチ (太)</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation>右回り</translation>
+        <translation type="obsolete">右回り</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
-        <translation>上アーチ (太)</translation>
+        <translation type="obsolete">上アーチ (太)</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
@@ -14420,7 +13264,7 @@ Color</source>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>下 (太)</translation>
+        <translation type="obsolete">下 (太)</translation>
     </message>
     <message>
         <source>Bottom(Pour)</source>
@@ -14428,15 +13272,15 @@ Color</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>前面へ移動</translation>
+        <translation type="obsolete">前面へ移動</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>最前面へ移動</translation>
+        <translation type="obsolete">最前面へ移動</translation>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation>ボタン</translation>
+        <translation type="obsolete">ボタン</translation>
     </message>
     <message>
         <source>Button(Curve)</source>
@@ -14444,71 +13288,71 @@ Color</source>
     </message>
     <message>
         <source>Can Down</source>
-        <translation>下カープ</translation>
+        <translation type="obsolete">下カープ</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation>上カープ</translation>
+        <translation type="obsolete">上カープ</translation>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation>右下がり2</translation>
+        <translation type="obsolete">右下がり2</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation>右上がり2</translation>
+        <translation type="obsolete">右上がり2</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>中央寄せ</translation>
+        <translation type="obsolete">中央寄せ</translation>
     </message>
     <message>
         <source>Character Spacing</source>
-        <translation>文字の間隔</translation>
+        <translation type="obsolete">文字の間隔</translation>
     </message>
     <message>
         <source>Chevron Down</source>
-        <translation>逆矢じり</translation>
+        <translation type="obsolete">逆矢じり</translation>
     </message>
     <message>
         <source>Chevron Up</source>
-        <translation>矢じり</translation>
+        <translation type="obsolete">矢じり</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
-        <translation>円</translation>
+        <translation type="obsolete">円</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
-        <translation>円 （太）</translation>
+        <translation type="obsolete">円 （太）</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation>左上がりカーブ</translation>
+        <translation type="obsolete">左上がりカーブ</translation>
     </message>
     <message>
         <source>Curve Up</source>
-        <translation>右上がりカーブ</translation>
+        <translation type="obsolete">右上がりカーブ</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>ユーザー設定</translation>
+        <translation type="obsolete">ユーザー設定</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation>破線</translation>
+        <translation type="obsolete">破線</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>一点鎖線</translation>
+        <translation type="obsolete">一点鎖線</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>二点鎖線</translation>
+        <translation type="obsolete">二点鎖線</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>実線/点線のスタイル</translation>
+        <translation type="obsolete">実線/点線のスタイル</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -14520,23 +13364,23 @@ Color</source>
     </message>
     <message>
         <source>Deflate</source>
-        <translation>凹レンズ</translation>
+        <translation type="obsolete">凹レンズ</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
-        <translation>下凹レンズ</translation>
+        <translation type="obsolete">下凹レンズ</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
-        <translation>凹凸レンズ1</translation>
+        <translation type="obsolete">凹凸レンズ1</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
-        <translation>凹凸レンズ2</translation>
+        <translation type="obsolete">凹凸レンズ2</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation>上凹レンズ</translation>
+        <translation type="obsolete">上凹レンズ</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -14544,35 +13388,35 @@ Color</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation>左右に整列</translation>
+        <translation type="obsolete">左右に整列</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation>上下に整列</translation>
+        <translation type="obsolete">上下に整列</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
-        <translation>小波1</translation>
+        <translation type="obsolete">小波1</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
-        <translation>小波2</translation>
+        <translation type="obsolete">小波2</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation>テキストの編集</translation>
+        <translation type="obsolete">テキストの編集</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>高さ揃え</translation>
+        <translation type="obsolete">高さ揃え</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>サイズ揃え</translation>
+        <translation type="obsolete">サイズ揃え</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>幅揃え</translation>
+        <translation type="obsolete">幅揃え</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -14584,19 +13428,19 @@ Color</source>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation>フェードダウン</translation>
+        <translation type="obsolete">フェードダウン</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation>フェードレフト</translation>
+        <translation type="obsolete">フェードレフト</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation>フェードライト</translation>
+        <translation type="obsolete">フェードライト</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation>フェードアップ</translation>
+        <translation type="obsolete">フェードアップ</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -14604,47 +13448,47 @@ Color</source>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation>左右反転</translation>
+        <translation type="obsolete">左右反転</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation>上下反転</translation>
+        <translation type="obsolete">上下反転</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>オブジェクトの書式設定</translation>
+        <translation type="obsolete">オブジェクトの書式設定</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation>自由に回転</translation>
+        <translation type="obsolete">自由に回転</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>グラデーション</translation>
+        <translation type="obsolete">グラデーション</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>グループ化</translation>
+        <translation type="obsolete">グループ化</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation>凸レンズ</translation>
+        <translation type="obsolete">凸レンズ</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
-        <translation>下凸レンズ</translation>
+        <translation type="obsolete">下凸レンズ</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation>上凸レンズ</translation>
+        <translation type="obsolete">上凸レンズ</translation>
     </message>
     <message>
         <source>Left Align</source>
-        <translation>左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>両端寄せ（文字単位）</translation>
+        <translation type="obsolete">両端寄せ（文字単位）</translation>
     </message>
     <message>
         <source>Line Pattern</source>
@@ -14656,11 +13500,11 @@ Color</source>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>長破線</translation>
+        <translation type="obsolete">長破線</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>長鎖線</translation>
+        <translation type="obsolete">長鎖線</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -14668,19 +13512,19 @@ Color</source>
     </message>
     <message>
         <source>Loose</source>
-        <translation>広く</translation>
+        <translation type="obsolete">広く</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation>その他の色</translation>
+        <translation type="obsolete">その他の色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>その他の線</translation>
+        <translation type="obsolete">その他の線</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -14688,152 +13532,152 @@ Color</source>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>パターン</translation>
+        <translation type="obsolete">パターン</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>線のパターン</translation>
+        <translation type="obsolete">線のパターン</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>図</translation>
+        <translation type="obsolete">図</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation>右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation>右回り</translation>
+        <translation type="obsolete">右回り</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation>左回り</translation>
+        <translation type="obsolete">左回り</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>回転</translation>
+        <translation type="obsolete">回転</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation>左90度回転</translation>
+        <translation type="obsolete">左90度回転</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation>右90度回転</translation>
+        <translation type="obsolete">右90度回転</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation>点線 (丸)</translation>
+        <translation type="obsolete">点線 (丸)</translation>
     </message>
     <message>
         <source>Same Letter Heights</source>
-        <translation>文字の高さを揃える</translation>
+        <translation type="obsolete">文字の高さを揃える</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>オプジェクトの選択と表示</translation>
+        <translation type="obsolete">オプジェクトの選択と表示</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>背面へ移動</translation>
+        <translation type="obsolete">背面へ移動</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>最背面へ移動</translation>
+        <translation type="obsolete">最背面へ移動</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設定</translation>
+        <translation type="obsolete">設定</translation>
     </message>
     <message>
         <source>Show Grid</source>
-        <translation>グリッドの表示</translation>
+        <translation type="obsolete">グリッドの表示</translation>
     </message>
     <message>
         <source>Slant Down</source>
-        <translation>右下がり</translation>
+        <translation type="obsolete">右下がり</translation>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation>右上がり</translation>
+        <translation type="obsolete">右上がり</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
-        <translation>グリッド線に合わせる</translation>
+        <translation type="obsolete">グリッド線に合わせる</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>実線</translation>
+        <translation type="obsolete">実線</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>点線 (角)</translation>
+        <translation type="obsolete">点線 (角)</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>停止</translation>
+        <translation type="obsolete">停止</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>両端寄せ</translation>
+        <translation type="obsolete">両端寄せ</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>テクスチャ</translation>
+        <translation type="obsolete">テクスチャ</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation>逆三角形</translation>
+        <translation type="obsolete">逆三角形</translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation>三角形</translation>
+        <translation type="obsolete">三角形</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation>グループ化の解除</translation>
+        <translation type="obsolete">グループ化の解除</translation>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation>より広く</translation>
+        <translation type="obsolete">より広く</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>より狭く</translation>
+        <translation type="obsolete">より狭く</translation>
     </message>
     <message>
         <source>Wave 1</source>
-        <translation>大波1</translation>
+        <translation type="obsolete">大波1</translation>
     </message>
     <message>
         <source>Wave 2</source>
-        <translation>大波2</translation>
+        <translation type="obsolete">大波2</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation>線の種類</translation>
+        <translation type="obsolete">線の種類</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation>両端寄せ（単語単位）</translation>
+        <translation type="obsolete">両端寄せ（単語単位）</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>アート文字</translation>
+        <translation type="obsolete">アート文字</translation>
     </message>
     <message>
         <source>WordArt</source>
         <comment>Insert</comment>
-        <translation>アート文字</translation>
+        <translation type="obsolete">アート文字</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>配置</translation>
+        <translation type="obsolete">配置</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
@@ -14841,15 +13685,15 @@ Color</source>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation>アート文字の塗りつぶし</translation>
+        <translation type="obsolete">アート文字の塗りつぶし</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>アート文字 ギャラリー</translation>
+        <translation type="obsolete">アート文字 ギャラリー</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation>アート文字の外枠</translation>
+        <translation type="obsolete">アート文字の外枠</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -14857,30 +13701,30 @@ Color</source>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation>アート文字：形状</translation>
+        <translation type="obsolete">アート文字：形状</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>アート文字のサイズ</translation>
+        <translation type="obsolete">アート文字のサイズ</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation>アート文字のスタイル</translation>
+        <translation type="obsolete">アート文字のスタイル</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>縦書きテキスト</translation>
+        <translation type="obsolete">縦書きテキスト</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_wordart.WordArtCharacterSpacing</name>
     <message>
         <source>Normal</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation>狭く</translation>
+        <translation type="obsolete">狭く</translation>
     </message>
 </context>
 <context>
@@ -14895,15 +13739,15 @@ Color</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>クラウドリンク</translation>
+        <translation type="obsolete">クラウドリンク</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>自動バックアップの停止</translation>
+        <translation type="obsolete">自動バックアップの停止</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>自動バックアップ</translation>
+        <translation type="obsolete">自動バックアップ</translation>
     </message>
     <message>
         <source>Explore Backup Dir</source>
@@ -14912,14 +13756,6 @@ Color</source>
     <message>
         <source>Explore Version</source>
         <translation type="obsolete">バージョンの検索</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -14931,19 +13767,19 @@ Color</source>
     </message>
     <message>
         <source>File Backup</source>
-        <translation>バックアップ</translation>
+        <translation type="obsolete">バックアップ</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>ファイルローミング</translation>
+        <translation type="obsolete">ファイルローミング</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>ユーザーガイド</translation>
+        <translation type="obsolete">ユーザーガイド</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Kingsoft Officeを改良するために支援して下さい</translation>
+        <translation type="obsolete">Kingsoft Officeを改良するために支援して下さい</translation>
     </message>
     <message>
         <source>KOS Cloud Feedback</source>
@@ -14978,10 +13814,6 @@ Color</source>
         <translation type="obsolete">ユーザークラウド</translation>
     </message>
     <message>
-        <source>KOS User Data Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>KOS User Guid</source>
         <translation type="obsolete">ユーザーガイド</translation>
     </message>
@@ -14994,40 +13826,28 @@ Color</source>
         <translation type="obsolete">ログイン</translation>
     </message>
     <message>
-        <source>Laboratory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Login</source>
         <translation type="obsolete">ログイン</translation>
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation>バージョンの表示</translation>
+        <translation type="obsolete">バージョンの表示</translation>
     </message>
     <message>
         <source>Mark Version</source>
         <translation type="obsolete">バージョンの表示</translation>
     </message>
     <message>
-        <source>More Colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online Documents</source>
-        <translation>ユーザークラウド</translation>
+        <translation type="obsolete">ユーザークラウド</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>クラウドファイルを開く</translation>
-    </message>
-    <message>
-        <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">クラウドファイルを開く</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>ファイルをクラウドへ保存</translation>
+        <translation type="obsolete">ファイルをクラウドへ保存</translation>
     </message>
     <message>
         <source>Sign In</source>
@@ -15047,15 +13867,15 @@ Color</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>ヘルプ</translation>
+        <translation type="obsolete">ヘルプ</translation>
     </message>
     <message>
         <source>User Guide</source>
-        <translation>ユーザーガイド</translation>
+        <translation type="obsolete">ユーザーガイド</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>バックアップの検索</translation>
+        <translation type="obsolete">バックアップの検索</translation>
     </message>
     <message>
         <source>View File Safe </source>
@@ -15063,7 +13883,7 @@ Color</source>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>バージョンの検索</translation>
+        <translation type="obsolete">バージョンの検索</translation>
     </message>
     <message>
         <source>WPS Permit</source>
@@ -18395,11 +17215,11 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <name>workspacemenu</name>
     <message>
         <source>Change Account</source>
-        <translation>アカウントの変更</translation>
+        <translation type="obsolete">アカウントの変更</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>クラウドリンク</translation>
+        <translation type="obsolete">クラウドリンク</translation>
     </message>
     <message>
         <source>Disable Auto Backup</source>
@@ -18407,11 +17227,11 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>自動バックアップの停止</translation>
+        <translation type="obsolete">自動バックアップの停止</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>自動バックアップ</translation>
+        <translation type="obsolete">自動バックアップ</translation>
     </message>
     <message>
         <source>Enable automatic backup</source>
@@ -18430,16 +17250,8 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="obsolete">バージョンの検索</translation>
     </message>
     <message>
-        <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>File Roaming</source>
-        <translation>ローミング</translation>
+        <translation type="obsolete">ローミング</translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -18455,7 +17267,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>KOS Open Cloud File</source>
-        <translation>クラウドファイルを開く</translation>
+        <translation type="obsolete">クラウドファイルを開く</translation>
     </message>
     <message>
         <source>KOS Save File to Cloud</source>
@@ -18475,71 +17287,51 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation>バージョンの表示</translation>
+        <translation type="obsolete">バージョンの表示</translation>
     </message>
     <message>
         <source>Mark Version</source>
         <translation type="obsolete">バージョンの表示</translation>
     </message>
     <message>
-        <source>More Colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Not Logged in</source>
         <translation type="obsolete">ログイン</translation>
     </message>
     <message>
-        <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Recharge</source>
-        <translation>リチャージ</translation>
+        <translation type="obsolete">リチャージ</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>ファイルをクラウドへ保存</translation>
-    </message>
-    <message>
-        <source>Set Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">ファイルをクラウドへ保存</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>ログイン</translation>
+        <translation type="obsolete">ログイン</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation> ログアウト</translation>
-    </message>
-    <message>
-        <source>Start Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete"> ログアウト</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
         <translation type="obsolete">自動バックアップの停止</translation>
     </message>
     <message>
-        <source>Stop Reading Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>User Feedback</source>
-        <translation> ヘルプ</translation>
+        <translation type="obsolete"> ヘルプ</translation>
     </message>
     <message>
         <source>View File Safe </source>
-        <translation>バックアップの検索</translation>
+        <translation type="obsolete">バックアップの検索</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>バージョンの検索</translation>
+        <translation type="obsolete">バージョンの検索</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Kingsoftビジネス版</translation>
+        <translation type="obsolete">Kingsoftビジネス版</translation>
     </message>
 </context>
 </TS>

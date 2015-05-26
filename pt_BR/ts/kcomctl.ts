@@ -3,6 +3,13 @@
 <TS version="2.0" language="pt_BR">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
+    <name>DownloadBubbleWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KApplication</name>
     <message>
         <source>Trial Version</source>
@@ -343,6 +350,11 @@
         <comment>Member user type</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Registered user</source>
+        <comment>Member User type</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMenuWidget</name>
@@ -356,6 +368,43 @@
     <message>
         <source>Text </source>
         <translation>Texto </translation>
+    </message>
+</context>
+<context>
+    <name>KProgressBar</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiple Tasks:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show In Progress Tasks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press &apos;Multiple Task&apos; button to display tasks</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KProgressListGalleryModelItem</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KProxyCommandButton</name>
+    <message>
+        <source>(Download required)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Initializing...)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -435,20 +484,20 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Can not find the file &quot;%1&quot;.
-the file may be renamed,deleted or moved the location.</source>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
 
-modify time: </source>
+Modified time: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
 
-This record is invalid, the file may be renamed,deleted or moved the location</source>
+Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -508,7 +557,7 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
-        <translation>[Device]
+        <translation type="obsolete">[Device]
 pt=pt;p
 in=inch;i
 cm=cm;c
@@ -532,6 +581,36 @@ auto=auto
 [Múltiplo]
 multiple=multiple</translation>
     </message>
+    <message>
+        <source>[Device]
+pt=pt;p
+in=inch;i
+cm=cm;c
+mm=mm;m
+
+[Percentage]
+%=%
+
+[Character]
+ch=char
+
+[Degree]
+degree=degree
+
+[Row]
+line=line
+
+[Auto]
+auto=auto
+
+[Multiple]
+multiple=multiple
+
+[Point]
+point=pt
+</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KWPSCloudSetup</name>
@@ -540,8 +619,8 @@ multiple=multiple</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some components are not installed correctly,
-please reinstall WPS Office!</source>
+        <source>Some components are not installed correctly.
+Please reinstall WPS Office!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
