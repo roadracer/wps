@@ -3082,10 +3082,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Regular</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Regularny</lengthvariant>
-        </translation>
+        <translation>Standardowy</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -4011,7 +4008,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Right</source>
-        <translation>W prawo</translation>
+        <translation>Z prawej</translation>
     </message>
     <message>
         <source>Up</source>
@@ -4019,7 +4016,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Left</source>
-        <translation>W lewo</translation>
+        <translation>Z lewej</translation>
     </message>
     <message>
         <source>Fi&amp;xed decimal</source>
@@ -6728,7 +6725,7 @@ Jeśli tak jest, wybierz przycisk Dalej lub wybierz typ najlepiej opisujący Two
     <name>KxEtChartObjectsCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
+        <translation>Nieprawidłowa liczba całkowita.</translation>
     </message>
 </context>
 <context>
@@ -6971,10 +6968,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <name>KxEtLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation variants="yes">
-            <lengthvariant>Bez linii</lengthvariant>
-            <lengthvariant>Brak linii</lengthvariant>
-        </translation>
+        <translation>Bez linii</translation>
     </message>
 </context>
 <context>
@@ -7246,7 +7240,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <name>KxEtZoomCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
+        <translation>Nieprawidłowa liczba całkowita.</translation>
     </message>
 </context>
 <context>
@@ -7322,10 +7316,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Exporting summary information...</source>
-        <translation variants="yes">
-            <lengthvariant>Informacje podsumowujące eksportowanie...</lengthvariant>
-            <lengthvariant>Podsumowanie eksportowania...</lengthvariant>
-        </translation>
+        <translation>Eksportowanie podsumowania...</translation>
     </message>
     <message>
         <source>Exporting page </source>
@@ -8336,7 +8327,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 32767. Try again by entering a number in this range.</source>
-        <translation>Pomiar musi się zawierać w przedziale między 1 i 32767. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 1 i 32767. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
@@ -8457,19 +8448,19 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>The measurement must be between 7.2 pt and 1584 pt.</source>
-        <translation>Pomiar musi się zawierać w przedziale między 7,2 pkt i 1584 pkt.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 7,2 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.1 inch and 22 inch.</source>
-        <translation>Pomiar musi się zawierać w przedziale między 0,1 cala i 22 cali.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0,1 cala i 22 cali.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.3 cm and 55.8 cm.</source>
-        <translation>Pomiar musi się zawierać w przedziale między 0,3 cm i 55,88 cm.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0,3 cm i 55,88 cm.</translation>
     </message>
     <message>
         <source>The measurement must be between 2.6 mm and 558.8 mm.</source>
-        <translation>Pomiar musi się zawierać w przedziale między 2,6 mm i 558,84 mm.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 2,6 mm i 558,84 mm.</translation>
     </message>
     <message>
         <source>There is no Active Printer available at the moment.</source>
@@ -8503,38 +8494,23 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>75% Gray</source>
-        <translation variants="yes">
-            <lengthvariant>75% szarości</lengthvariant>
-            <lengthvariant>75% szary</lengthvariant>
-        </translation>
+        <translation>75% szary</translation>
     </message>
     <message>
         <source>50% Gray</source>
-        <translation variants="yes">
-            <lengthvariant>50% szarości</lengthvariant>
-            <lengthvariant>50% szary</lengthvariant>
-        </translation>
+        <translation>50% szary</translation>
     </message>
     <message>
         <source>25% Gray</source>
-        <translation variants="yes">
-            <lengthvariant>25% szarości</lengthvariant>
-            <lengthvariant>25% szary</lengthvariant>
-        </translation>
+        <translation>25% szary</translation>
     </message>
     <message>
         <source>12.5% Gray</source>
-        <translation variants="yes">
-            <lengthvariant>12,5% szarości</lengthvariant>
-            <lengthvariant>12,5% szary</lengthvariant>
-        </translation>
+        <translation>12,5% szary</translation>
     </message>
     <message>
         <source>6.5% Gray</source>
-        <translation variants="yes">
-            <lengthvariant>6,5% szarości</lengthvariant>
-            <lengthvariant>6,5% szary</lengthvariant>
-        </translation>
+        <translation>6,5% szary</translation>
     </message>
     <message>
         <source>Horizontal stripe</source>
@@ -9469,10 +9445,7 @@ Jeśli nie chcesz w ogóle pokazywać pola, anuluj bieżącą operację, a nast�
     <name>KxUpdateExternalLinkDlg</name>
     <message>
         <source>SpreadSheets</source>
-        <translation variants="yes">
-            <lengthvariant>Arkusze kalkulacyjne</lengthvariant>
-            <lengthvariant>SpreadSheets</lengthvariant>
-        </translation>
+        <translation>SpreadSheets</translation>
     </message>
     <message>
         <source>There are links to other data sources in this workbook.
@@ -11400,10 +11373,7 @@ t</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation variants="yes">
-            <lengthvariant>Arkusze kalkulacyjne</lengthvariant>
-            <lengthvariant>Spreadsheets</lengthvariant>
-        </translation>
+        <translation>Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -11650,10 +11620,7 @@ t</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Informacje podsumowujące</lengthvariant>
-            <lengthvariant>Podsumowan&amp;ie</lengthvariant>
-        </translation>
+        <translation>Podsumowan&amp;ie</translation>
     </message>
     <message>
         <source>Hyper&amp;link</source>
@@ -11690,10 +11657,7 @@ t</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation variants="yes">
-            <lengthvariant>Drukowanie niedozwolone</lengthvariant>
-            <lengthvariant>Drukowanie nie jest dozwolone</lengthvariant>
-        </translation>
+        <translation>Drukowanie niedozwolone</translation>
     </message>
     <message>
         <source>File password:</source>
@@ -12054,10 +12018,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation variants="yes">
-            <lengthvariant>Arkusze kalkulacyjne</lengthvariant>
-            <lengthvariant>Spreadsheets</lengthvariant>
-        </translation>
+        <translation>Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -12138,10 +12099,7 @@ Do you want to change to Manual Recalculation?</source>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation variants="yes">
-            <lengthvariant>Arkusze kalkulacyjne</lengthvariant>
-            <lengthvariant>Spreadsheets</lengthvariant>
-        </translation>
+        <translation>Spreadsheets</translation>
     </message>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which would cause the current file and other files cannot get the correct results in time during the editing process.

@@ -861,7 +861,6 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>Same as the previous section</source>
         <comment>TxPropmpt_Same_as_Previous</comment>
-        <translatorcomment>Podobnie jak w poprzedniej sekcji</translatorcomment>
         <translation>Tak samo jak w poprzedniej sekcji</translation>
     </message>
 </context>
@@ -1603,15 +1602,12 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Hidden</source>
         <comment>TxRevision_Chp_Hidden</comment>
-        <translation>Ukryty</translation>
+        <translation>Ukrycie</translation>
     </message>
     <message>
         <source>Outline</source>
         <comment>TxRevision_Chp_Outline</comment>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -1651,34 +1647,32 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Expanded by </source>
         <comment>TxRevision_Chp_ExpandedBy</comment>
-        <translatorcomment>Zwiększone przez </translatorcomment>
-        <translation>Rozwinięte przez </translation>
+        <translation>Rozszerzone  </translation>
     </message>
     <message>
         <source>Condensed by </source>
         <comment>TxRevision_Chp_CondensedBy</comment>
-        <translation>Zmniejszone przez </translation>
+        <translation>Zmniejszone </translation>
     </message>
     <message>
         <source>Expanded by/Condensed by</source>
         <comment>TxRevision_Chp_ExpandedByCondensedBy</comment>
-        <translatorcomment>Zwiększone przez / Zmniejszone przez</translatorcomment>
-        <translation>Rozwinięte przez/Zmniejszone przez</translation>
+        <translation>Rozszerzone/Zmniejszone</translation>
     </message>
     <message>
         <source>Raised by </source>
         <comment>TxRevision_Chp_RaisedBy</comment>
-        <translation>Podniesione przez </translation>
+        <translation>Podniesione  </translation>
     </message>
     <message>
         <source>Lowered by </source>
         <comment>TxRevision_Chp_LoweredBy</comment>
-        <translation>Obniżone przez </translation>
+        <translation>Obniżone  </translation>
     </message>
     <message>
         <source>Raised by/Lowered by</source>
         <comment>TxRevision_Chp_RaisedByLoweredBy</comment>
-        <translation>Podniesione przez/Obniżone przez</translation>
+        <translation>Podniesione/Obniżone</translation>
     </message>
     <message>
         <source>Kern at </source>
@@ -1698,7 +1692,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Normal</source>
         <comment>TxRevision_Chp_Normal</comment>
-        <translation>Normalne</translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Heading 1</source>
@@ -2005,12 +1999,12 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Bulleted</source>
         <comment>TxRevision_Pap_Bulleted</comment>
-        <translation>Punktowane</translation>
+        <translation>Punktowanie</translation>
     </message>
     <message>
         <source>Numbered</source>
         <comment>TxRevision_Pap_Numbered</comment>
-        <translation>Numerowane</translation>
+        <translation>Numerowanie</translation>
     </message>
     <message>
         <source>Level</source>
@@ -2040,32 +2034,32 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Aligned at</source>
         <comment>TxRevision_Pap_AlignedAt</comment>
-        <translation>Wyrównanie od</translation>
+        <translation>Wyrównanie</translation>
     </message>
     <message>
         <source>Indent at</source>
         <comment>TxRevision_Pap_IndentAt</comment>
-        <translation>Wcięcie od</translation>
+        <translation>Wcięcie</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TxRevision_Sep_Left</comment>
-        <translation>Lewej</translation>
+        <translation>Do lewej</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Sep_Right</comment>
-        <translation>Prawej</translation>
+        <translation>Do prawej</translation>
     </message>
     <message>
         <source>Top</source>
         <comment>TxRevision_Sep_Top</comment>
-        <translation>Góry</translation>
+        <translation>Do góry</translation>
     </message>
     <message>
         <source>Bottom</source>
         <comment>TxRevision_Sep_Bottom</comment>
-        <translation>Dołu</translation>
+        <translation>Do dołu</translation>
     </message>
     <message>
         <source>Gutter</source>
@@ -2806,7 +2800,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>The measurement must be between 0 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_0_1584</comment>
-        <translation>Pomiar musi się zawierać w przedziale między 0 pkt i 1584 pkt.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>Settings you made for left or right margin, column spacing, or paragraph indent are oversized for the page width in some sections.</source>
@@ -2841,7 +2835,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation>Pomiar musi się zawierać w przedziale między 0,5 i 600.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0,5 i 600.</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
@@ -4112,7 +4106,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The measurement must be between %d and %d.</source>
         <comment>wps_sNumberOutofRange</comment>
-        <translation>Pomiar musi się zawierać w przedziale między %d i %d.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>The number must be between %d and %d.</source>

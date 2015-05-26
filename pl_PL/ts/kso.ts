@@ -6155,10 +6155,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>No Line</source>
         <comment>kso_sNoLine</comment>
-        <translation variants="yes">
-            <lengthvariant>Bez linii</lengthvariant>
-            <lengthvariant>Brak linii</lengthvariant>
-        </translation>
+        <translation>Bez linii</translation>
     </message>
     <message>
         <source>None</source>
@@ -6554,7 +6551,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>This is not a valid integer.</source>
         <comment>kso_sTextDeclined_IntWarning</comment>
-        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
+        <translation>Nieprawidłowa liczba całkowita.</translation>
     </message>
     <message>
         <source>Text</source>

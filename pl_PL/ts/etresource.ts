@@ -1624,7 +1624,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -2143,10 +2143,7 @@ wyśrodkuj</translation>
     <name>etclassics.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation variants="yes">
-            <lengthvariant>Arkusze kalkulacyjne</lengthvariant>
-            <lengthvariant>Spreadsheets</lengthvariant>
-        </translation>
+        <translation>Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -2427,7 +2424,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -2893,10 +2890,7 @@ zadań</translation>
     <name>etongmani.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation variants="yes">
-            <lengthvariant>Arkusze kalkulacyjne</lengthvariant>
-            <lengthvariant>Spreadsheets</lengthvariant>
-        </translation>
+        <translation>Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -2931,10 +2925,7 @@ zadań</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation variants="yes">
-            <lengthvariant>Narzędzia rysowania</lengthvariant>
-            <lengthvariant>Narzędzia do rysowania</lengthvariant>
-        </translation>
+        <translation>Narzędzia rysowania</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -2990,10 +2981,7 @@ zadań</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation variants="yes">
-            <lengthvariant>Narzędzia obrazów</lengthvariant>
-            <lengthvariant>Narzędzia obrazu</lengthvariant>
-        </translation>
+        <translation>Narzędzia obrazów</translation>
     </message>
     <message>
         <source>Pin the Toolbar</source>
@@ -3009,7 +2997,7 @@ zadań</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>Menu szybkiego dostępu</translation>
+        <translation>Menu Szybki dostęp</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -3017,10 +3005,7 @@ zadań</translation>
     </message>
     <message>
         <source>Recently used files</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane pliki</lengthvariant>
-            <lengthvariant>Niedawno używane pliki</lengthvariant>
-        </translation>
+        <translation>Ostatnio używane pliki</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -3032,7 +3017,7 @@ zadań</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation>Przegląd</translation>
+        <translation>Recenzja</translation>
     </message>
     <message>
         <source>Setting</source>
@@ -3128,10 +3113,7 @@ zadań</translation>
     <name>etrainbow.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation variants="yes">
-            <lengthvariant>Arkusze kalkulacyjne</lengthvariant>
-            <lengthvariant>Spreadsheets</lengthvariant>
-        </translation>
+        <translation>Spreadsheets</translation>
     </message>
 </context>
 <context>
@@ -3158,10 +3140,7 @@ zadań</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation variants="yes">
-            <lengthvariant>Narzędzia rysowania</lengthvariant>
-            <lengthvariant>Narzędzia do rysowania</lengthvariant>
-        </translation>
+        <translation>Narzędzia rysowania</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -3217,10 +3196,7 @@ zadań</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation variants="yes">
-            <lengthvariant>Narzędzia obrazów</lengthvariant>
-            <lengthvariant>Narzędzia obrazu</lengthvariant>
-        </translation>
+        <translation>Narzędzia obrazów</translation>
     </message>
     <message>
         <source>Pin the Toolbar</source>
@@ -3236,7 +3212,7 @@ zadań</translation>
     </message>
     <message>
         <source>Quick Menu</source>
-        <translation>Menu szybkiego dostępu</translation>
+        <translation>Menu Szybki dostęp</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -3244,10 +3220,7 @@ zadań</translation>
     </message>
     <message>
         <source>Recently used files</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatnio używane pliki</lengthvariant>
-            <lengthvariant>Niedawno używane pliki</lengthvariant>
-        </translation>
+        <translation>Ostatnio używane pliki</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -3259,7 +3232,7 @@ zadań</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation>Przegląd</translation>
+        <translation>Recenzja</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -4043,10 +4016,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -6101,10 +6071,7 @@ obrazów</lengthvariant>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -6763,7 +6730,7 @@ inne okna</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -7440,10 +7407,7 @@ znakami</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -7677,8 +7641,8 @@ WordArt</lengthvariant>
     <message>
         <source>Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -7699,7 +7663,7 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -7748,8 +7712,8 @@ WordArt</lengthvariant>
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -7774,8 +7738,8 @@ WordArt</lengthvariant>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8214,8 +8178,8 @@ COM</translation>
     <message>
         <source>Create Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Utwórz łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Utwórz łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Utwórz łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Utwórz łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8403,7 +8367,7 @@ COM</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -8978,8 +8942,8 @@ wyśrodkuj</translation>
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -9171,8 +9135,8 @@ wyśrodkuj</translation>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -10224,10 +10188,7 @@ COM</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -11958,10 +11919,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation variants="yes">
-            <lengthvariant>Dopasuj</lengthvariant>
-            <lengthvariant>Dopasowywanie</lengthvariant>
-        </translation>
+        <translation>Dopasuj</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
@@ -12180,10 +12138,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -12767,10 +12722,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation variants="yes">
-            <lengthvariant>Kaskadowo</lengthvariant>
-            <lengthvariant>Kaskada</lengthvariant>
-        </translation>
+        <translation>Kaskadowo</translation>
     </message>
     <message>
         <source>Close
@@ -12792,7 +12744,7 @@ inne okna</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -13660,8 +13612,8 @@ cienia</translation>
     <message>
         <source>Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -13682,7 +13634,7 @@ cienia</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -13731,8 +13683,8 @@ cienia</translation>
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -13757,8 +13709,8 @@ cienia</translation>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -13811,8 +13763,8 @@ cienia</translation>
     <message>
         <source>Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -13833,7 +13785,7 @@ cienia</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -13884,8 +13836,8 @@ cienia</translation>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
