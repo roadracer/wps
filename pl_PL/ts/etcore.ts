@@ -2121,10 +2121,7 @@ Sprawdź serwer bazy danych lub skontaktuj się z administratorem bazy danych. U
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation variants="yes">
-            <lengthvariant>Arkusze kalkulacyjne</lengthvariant>
-            <lengthvariant>Spreadsheets</lengthvariant>
-        </translation>
+        <translation>Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot complete this task with available resources.
@@ -5092,10 +5089,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the Pearson product moment correlation coefficient, r, a dimensionless index that ranges from -1.0 to 1.0 inclusive.</source>
         <comment>PEARSON_REMARK</comment>
-        <translation variants="yes">
-            <lengthvariant>Zwraca współczynnik korelacji liniowej Pearsona.</lengthvariant>
-            <lengthvariant>Zwraca współczynnik korelacji momentów iloczynu Pearsona, r, to bezwymiarowy wskaźnik, który waha się od -1,0 do 1,0 włącznie.</lengthvariant>
-        </translation>
+        <translation>Zwraca współczynnik korelacji momentów iloczynu Pearsona, r, to bezwymiarowy wskaźnik, który waha się od -1,0 do 1,0 włącznie.</translation>
     </message>
     <message>
         <source>PERCENTILE(array,k)</source>
@@ -7233,7 +7227,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>11.0</source>
         <comment>INFO_MSORELEASE</comment>
-        <translation>11.0</translation>
+        <translation>11,0</translation>
     </message>
     <message>
         <source>See Help for help on this function and its arguments.</source>
@@ -15947,7 +15941,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>The measurement must be between %d cm and %f cm.</source>
         <comment>et_sMarginError</comment>
-        <translation>Pomiar musi się zawierać w przedziale między %d cm i %f cm.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między %d cm i %f cm.</translation>
     </message>
     <message>
         <source>Margins do not fit page size.</source>
@@ -16157,7 +16151,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>The measurement must be between %d and %d.</source>
         <comment>et_sNumberOutOfRange</comment>
-        <translation>Pomiar musi się zawierać w przedziale między %d i %d.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>Incorrect input.The value must be a Number.</source>
@@ -16267,10 +16261,7 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Solid, &quot;75% Gray&quot;, &quot;50% Gray&quot;, &quot;25% Gray&quot;, &quot;12.5% Gray&quot;, &quot;6.5% Gray&quot;, &quot;Horizontal stripe&quot;, &quot;Vertical stripe&quot;, &quot;Reverse Diagonal stripe&quot;, &quot;Diagonal stripe&quot;, &quot;Diagonal crosshatch&quot;, &quot;Thick Diagonal crosshatch&quot;, &quot;Thin Horizontal stripe&quot;, &quot;Thin Vertical stripe&quot;, &quot;Thin Reverse Diagonal stripe&quot;, &quot;Thin Diagonal stripe&quot;, &quot;Thin Horizontal crosshatch&quot;, &quot;Thin Diagonal crosshatch&quot;</source>
         <comment>et_sPH_Styles</comment>
-        <translation variants="yes">
-            <lengthvariant>Stały, &quot;75% szarości&quot;, &quot;50% szarości&quot;, &quot;25% szarości&quot;, &quot;12,5% szarości&quot;, &quot;6,5% szarości&quot;, &quot;Poziomy pasek&quot;, &quot;Pionowy pasek&quot;, &quot;Odwróć pasek ukośny&quot;, &quot;Pasek ukośny&quot;, &quot;Kreskowanie ukośne&quot;, &quot;Grube kreskowanie ukośne&quot;, &quot;Cienki pasek poziomy&quot;, &quot;Cienki pasek pionowy&quot;, &quot;Cienki odwrócony pasek ukośny&quot;, &quot;Cienki pasek ukośny&quot;, &quot;Cienkie kreskowanie poziome&quot;, &quot;Cienkie kreskowanie ukośne&quot;</lengthvariant>
-            <lengthvariant>Pełny, &quot;75% szary&quot;, &quot;50% szary&quot;, &quot;25% szary&quot;, &quot;12,5% szary&quot;, &quot;6,5% szary&quot;, &quot;Poziomy pasek&quot;, &quot;Pionowy pasek&quot;, &quot;Odwróć pasek ukośny&quot;, &quot;Pasek ukośny&quot;, &quot;Kreskowanie ukośne&quot;, &quot;Grube kreskowanie ukośne&quot;, &quot;Cienki pasek poziomy&quot;, &quot;Cienki pasek pionowy&quot;, &quot;Cienki odwrócony pasek ukośny&quot;, &quot;Cienki pasek ukośny&quot;, &quot;Cienkie kreskowanie poziome&quot;, &quot;Cienkie kreskowanie ukośne&quot;</lengthvariant>
-        </translation>
+        <translation>Pełny, &quot;75% szary&quot;, &quot;50% szary&quot;, &quot;25% szary&quot;, &quot;12,5% szary&quot;, &quot;6,5% szary&quot;, &quot;Poziomy pasek&quot;, &quot;Pionowy pasek&quot;, &quot;Odwróć pasek ukośny&quot;, &quot;Pasek ukośny&quot;, &quot;Kreskowanie ukośne&quot;, &quot;Grube kreskowanie ukośne&quot;, &quot;Cienki pasek poziomy&quot;, &quot;Cienki pasek pionowy&quot;, &quot;Cienki odwrócony pasek ukośny&quot;, &quot;Cienki pasek ukośny&quot;, &quot;Cienkie kreskowanie poziome&quot;, &quot;Cienkie kreskowanie ukośne&quot;</translation>
     </message>
     <message>
         <source>PivotTable Areas</source>

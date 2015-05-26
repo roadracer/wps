@@ -33,21 +33,15 @@
     <message>
         <source>Homepage link of WPS Office Cloud</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do strony głównej usługi Chmura WPS Office</lengthvariant>
-            <lengthvariant>Łącze do strony głównej Chmury WPS Office</lengthvariant>
-            <lengthvariant>Łącze strony głównej Chmury WPS Office</lengthvariant>
             <lengthvariant>Łącze strony głównej usługi Chmura WPS Office</lengthvariant>
-            <lengthvariant>Łącze do strony głównej usługi Cloud WPS Office</lengthvariant>
+            <lengthvariant>Łącze strony głównej usługi WPS Office Cloud</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Help link of WPS Office Cloud</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do Pomocy usługi Chmura WPS Office</lengthvariant>
-            <lengthvariant>Łącze Pomocy usługi Chmura WPS Office</lengthvariant>
-            <lengthvariant>Łącze do Pomocy Chmury WPS Office</lengthvariant>
-            <lengthvariant>Łącze Pomocy Chmury WPS Office</lengthvariant>
-            <lengthvariant>Łącze do Pomocy usługi Cloud WPS Office</lengthvariant>
+            <lengthvariant>Łącze Pomoc usługi Chmura WPS Office</lengthvariant>
+            <lengthvariant>Łącze Pomoc usługi WPS Office Cloud</lengthvariant>
         </translation>
     </message>
 </context>
@@ -130,7 +124,6 @@
         <source>Checking updates in the cloud</source>
         <translation variants="yes">
             <lengthvariant>Sprawdzanie aktualizacji w usłudze Chmura</lengthvariant>
-            <lengthvariant>Sprawdzanie aktualizacji w Chmurze</lengthvariant>
             <lengthvariant>Sprawdzanie aktualizacji w usłudze Cloud</lengthvariant>
         </translation>
     </message>
@@ -156,11 +149,7 @@
     <message>
         <source>Uploading to cloud</source>
         <translation variants="yes">
-            <lengthvariant>Przekazywanie do usługi Chmura</lengthvariant>
             <lengthvariant>Przesyłanie do usługi Chmura</lengthvariant>
-            <lengthvariant>Przekazywanie do Chmury</lengthvariant>
-            <lengthvariant>Przesyłanie do Chmury</lengthvariant>
-            <lengthvariant>Przekazywanie do usługi Cloud</lengthvariant>
             <lengthvariant>Przesyłanie do usługi Cloud</lengthvariant>
         </translation>
     </message>
@@ -179,14 +168,7 @@
         <source>Consistent with cloud</source>
         <translation variants="yes">
             <lengthvariant>Spójne z usługą Chmura</lengthvariant>
-            <lengthvariant>Spójny z usługą Chmura</lengthvariant>
-            <lengthvariant>Zgodne z usługą Chmura</lengthvariant>
-            <lengthvariant>Spójne z Chmurą</lengthvariant>
-            <lengthvariant>Spójny z Chmurą</lengthvariant>
-            <lengthvariant>Zgodne z Chmurą</lengthvariant>
             <lengthvariant>Spójne z usługą Cloud</lengthvariant>
-            <lengthvariant>Spójny z usługą Cloud</lengthvariant>
-            <lengthvariant>Zgodne z usługą Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -196,10 +178,8 @@
     <message>
         <source>Cloud Docs:</source>
         <translation variants="yes">
-            <lengthvariant>Dokumenty w usłudze Chmura:</lengthvariant>
-            <lengthvariant>Dokumenty w Chmurze:</lengthvariant>
-            <lengthvariant>Chmura Docs:</lengthvariant>
-            <lengthvariant>Usługa Cloud Docs:</lengthvariant>
+            <lengthvariant>Dokumenty usługi Chmura:</lengthvariant>
+            <lengthvariant>Dokumenty usługi Cloud:</lengthvariant>
         </translation>
     </message>
     <message>
@@ -210,7 +190,6 @@
         <source>Cloud path:</source>
         <translation variants="yes">
             <lengthvariant>Ścieżka usługi Chmura:</lengthvariant>
-            <lengthvariant>Ścieżka Chmury:</lengthvariant>
             <lengthvariant>Ścieżka usługi Cloud:</lengthvariant>
         </translation>
     </message>
@@ -320,10 +299,7 @@
     </message>
     <message>
         <source>Explore Versions</source>
-        <translation variants="yes">
-            <lengthvariant>Przeglądaj wersje</lengthvariant>
-            <lengthvariant>Eksploruj wersje</lengthvariant>
-        </translation>
+        <translation>Przeglądaj wersje</translation>
     </message>
     <message>
         <source>Login klive before auto backup.</source>
@@ -428,11 +404,8 @@
     <message>
         <source>Cloud Docs Management</source>
         <translation variants="yes">
-            <lengthvariant>Zarządzanie dokumentami w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zarządzanie usługą Chmura dokumentów</lengthvariant>
-            <lengthvariant>Zarządzanie Chmurą dokumentów</lengthvariant>
-            <lengthvariant>Zarządzanie dokumentami w Chmurze</lengthvariant>
-            <lengthvariant>Zarządzanie usługą Cloud Docs</lengthvariant>
+            <lengthvariant>Zarządzanie dokumentami usługi Chmura</lengthvariant>
+            <lengthvariant>Zarządzanie dokumentami usługi Cloud</lengthvariant>
         </translation>
     </message>
 </context>
@@ -689,8 +662,8 @@
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -896,10 +869,8 @@
     <message>
         <source>Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Dokumenty w usłudze Chmura</lengthvariant>
-            <lengthvariant>Dokumenty w Chmurze</lengthvariant>
-            <lengthvariant>Usługa Chmura Docs</lengthvariant>
-            <lengthvariant>Usługa Cloud Docs</lengthvariant>
+            <lengthvariant>Dokumenty usługi Chmura</lengthvariant>
+            <lengthvariant>Dokumenty usługi Cloud</lengthvariant>
         </translation>
     </message>
 </context>
@@ -919,15 +890,15 @@
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
 </context>
@@ -936,14 +907,8 @@
     <message>
         <source>Please login Cloud Docs manually to use the feature.</source>
         <translation variants="yes">
-            <lengthvariant>Zaloguj się ręcznie do dokumentów w usłudze Chmura, aby użyć funkcji.</lengthvariant>
-            <lengthvariant>Zaloguj się ręcznie do dokumentów w usłudze Chmura, aby korzystać z funkcji.</lengthvariant>
-            <lengthvariant>Zaloguj się ręcznie do dokumentów w Chmurze, aby użyć funkcji.</lengthvariant>
-            <lengthvariant>Zaloguj się ręcznie do Chmury dokumentów, aby użyć funkcji.</lengthvariant>
-            <lengthvariant>Zaloguj się ręcznie do dokumentów w Chmurze, aby korzystać z funkcji.</lengthvariant>
-            <lengthvariant>Zaloguj się ręcznie do Chmury dokumentów, aby korzystać z funkcji.</lengthvariant>
-            <lengthvariant>Zaloguj się ręcznie do usługi Cloud Docs, aby użyć funkcji.</lengthvariant>
-            <lengthvariant>Zaloguj się ręcznie do usługi Cloud Docs, aby korzystać z funkcji.</lengthvariant>
+            <lengthvariant>Zaloguj się ręcznie do dokumentów usługi Chmura, aby użyć funkcji.</lengthvariant>
+            <lengthvariant>Zaloguj się ręcznie do dokumentów usługi Cloud, aby użyć funkcji.</lengthvariant>
         </translation>
     </message>
 </context>
@@ -953,7 +918,6 @@
         <source>New version is available in the cloud. Do you want to update the local document?</source>
         <translation variants="yes">
             <lengthvariant>Nowa wersja jest dostępna w usłudze Chmura. Czy chcesz zaktualizować lokalny dokument?</lengthvariant>
-            <lengthvariant>Nowa wersja jest dostępna w Chmurze. Czy chcesz zaktualizować lokalny dokument?</lengthvariant>
             <lengthvariant>Nowa wersja jest dostępna w usłudze Cloud. Czy chcesz zaktualizować lokalny dokument?</lengthvariant>
         </translation>
     </message>
@@ -1050,11 +1014,6 @@
 &lt;span&gt;Zaleca się, aby go otworzyć bezpośrednio z adresu usługi Chmura WPS Office&lt;/span&gt;
 &lt;/body&gt;&lt;/html&gt;</lengthvariant>
             <lengthvariant>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;span&gt;Adres chmury został otwarty. Można go zapisać w Chmurze, po zmianie.&lt;/span&gt;
-&lt;br/&gt;
-&lt;span&gt;Zaleca się, aby go otworzyć bezpośrednio z adresu Chmury WPS Office&lt;/span&gt;
-&lt;/body&gt;&lt;/html&gt;</lengthvariant>
-            <lengthvariant>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;span&gt;Adres usługi Cloud został otwarty. Można go zapisać w usłudze Cloud, po zmianie.&lt;/span&gt;
 &lt;br/&gt;
 &lt;span&gt;Zaleca się, aby go otworzyć bezpośrednio z adresu usługi WPS Office Cloud&lt;/span&gt;
@@ -1063,12 +1022,7 @@
     </message>
     <message>
         <source>I knew it and do not prompt again</source>
-        <translation variants="yes">
-            <lengthvariant>Wiedziałem to i nie pytaj ponownie</lengthvariant>
-            <lengthvariant>Wiem to i nie pytaj ponownie</lengthvariant>
-            <lengthvariant>Wiedziałem to i nie monituj ponownie</lengthvariant>
-            <lengthvariant>Wiem to i nie monituj ponownie</lengthvariant>
-        </translation>
+        <translation>Wiem to i nie monituj ponownie</translation>
     </message>
 </context>
 <context>
@@ -1076,15 +1030,13 @@
     <message>
         <source>This document is from another device. The cloud document has been automatically called and opened for you.</source>
         <translation variants="yes">
-            <lengthvariant>Ten dokument pochodzi z innego urządzenia. Dokument w usłudze Chmura został automatycznie nazwany i otwarty dla Ciebie.</lengthvariant>
-            <lengthvariant>Ten dokument pochodzi z innego urządzenia. Dokument w Chmurze został automatycznie nazwany i otwarty dla Ciebie.</lengthvariant>
-            <lengthvariant>Ten dokument pochodzi z innego urządzenia. Chmura dokumentu została automatycznie nazwana i otwarta dla Ciebie.</lengthvariant>
-            <lengthvariant>Ten dokument pochodzi z innego urządzenia. Dokument w usłudze Cloud został automatycznie nazwany i otwarty dla Ciebie.</lengthvariant>
+            <lengthvariant>Ten dokument pochodzi z innego urządzenia. Dokument usługi Chmura został automatycznie nazwany i otwarty dla Ciebie.</lengthvariant>
+            <lengthvariant>Ten dokument pochodzi z innego urządzenia. Dokument usługi Cloud został automatycznie nazwany i otwarty dla Ciebie.</lengthvariant>
         </translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>TAK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1375,11 +1327,6 @@ rozmiar:%2
 &lt;span&gt;Adres usługi Chmura został zarejestrowany w Chmura WPS Office.&lt;/span&gt;
 &lt;/body&gt;&lt;/html&gt;</lengthvariant>
             <lengthvariant>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;span&gt;Gratulacje. Utworzono nowy adres Chmury&lt;/span&gt;
-&lt;br/&gt;
-&lt;span&gt;Adres Chmury został zarejestrowany w WPS Office Chmura.&lt;/span&gt;
-&lt;/body&gt;&lt;/html&gt;</lengthvariant>
-            <lengthvariant>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;span&gt;Gratulacje. Utworzono nowy adres usługi Cloud&lt;/span&gt;
 &lt;br/&gt;
 &lt;span&gt;Adres usługi Cloud został zarejestrowany w WPS Office Cloud.&lt;/span&gt;
@@ -1515,7 +1462,6 @@ rozmiar:%2
         <source>Open Cloud</source>
         <translation variants="yes">
             <lengthvariant>Otwórz usługę Chmura</lengthvariant>
-            <lengthvariant>Otwórz Chmurę</lengthvariant>
             <lengthvariant>Otwórz usługę Cloud</lengthvariant>
         </translation>
     </message>
@@ -1523,7 +1469,6 @@ rozmiar:%2
         <source>Save to Cloud</source>
         <translation variants="yes">
             <lengthvariant>Zapisz do usługi Chmura</lengthvariant>
-            <lengthvariant>Zapisz do Chmury</lengthvariant>
             <lengthvariant>Zapisz do usługi Cloud</lengthvariant>
         </translation>
     </message>
@@ -1534,9 +1479,7 @@ rozmiar:%2
         <source>Documents saving to the cloud failed. Please check the internet and retry</source>
         <translation variants="yes">
             <lengthvariant>Zapisywanie dokumentów do usługi Chmura nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</lengthvariant>
-            <lengthvariant>Zapisywanie dokumentów do usługi Chmura nie powiodło się. Proszę sprawdź połączenie internetowe i ponów próbę</lengthvariant>
-            <lengthvariant>Zapisywanie dokumentów do Chmury nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</lengthvariant>
-            <lengthvariant>Zapisywanie dokumentów do Chmury nie powiodło się. Proszę sprawdź połączenie internetowe i ponów próbę</lengthvariant>
+            <lengthvariant>Zapisywanie dokumentów do usługi Cloud nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</lengthvariant>
         </translation>
     </message>
     <message>
@@ -1547,7 +1490,7 @@ rozmiar:%2
         <source>Checking cloud saving permissions. Please wait...</source>
         <translation variants="yes">
             <lengthvariant>Sprawdzanie uprawnienia zapisywania do usługi Chmura. Proszę czekać...</lengthvariant>
-            <lengthvariant>Sprawdzanie uprawnienia zapisywania do Chmury. Proszę czekać...</lengthvariant>
+            <lengthvariant>Sprawdzanie uprawnienia zapisywania do usługi Cloud. Proszę czekać...</lengthvariant>
         </translation>
     </message>
 </context>
@@ -1562,10 +1505,7 @@ rozmiar:%2
     <name>KxDlgCheckUpload</name>
     <message>
         <source>retry</source>
-        <translation variants="yes">
-            <lengthvariant>ponów próbę</lengthvariant>
-            <lengthvariant>ponów</lengthvariant>
-        </translation>
+        <translation>ponów</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -1573,16 +1513,12 @@ rozmiar:%2
     </message>
     <message>
         <source>Submit for review</source>
-        <translation variants="yes">
-            <lengthvariant>Wyślij do sprawdzenia</lengthvariant>
-            <lengthvariant>Wyślij do przeglądu</lengthvariant>
-        </translation>
+        <translation>Prześlij do przeglądu</translation>
     </message>
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
         <translation variants="yes">
             <lengthvariant>Sprawdzanie uprawnienia zapisywania do usługi Chmura. Proszę czekać...</lengthvariant>
-            <lengthvariant>Sprawdzanie uprawnienia zapisywania do Chmury. Proszę czekać...</lengthvariant>
             <lengthvariant>Sprawdzanie uprawnienia zapisywania do usługi Cloud. Proszę czekać...</lengthvariant>
         </translation>
     </message>
@@ -1885,10 +1821,7 @@ rozmiar:%2
     <message>
         <source>File Folder</source>
         <comment>Match Windows Explorer</comment>
-        <translation variants="yes">
-            <lengthvariant>Folder plików</lengthvariant>
-            <lengthvariant>Folder pliku</lengthvariant>
-        </translation>
+        <translation>Folder pliku</translation>
     </message>
     <message>
         <source>Shortcut</source>
@@ -1897,43 +1830,27 @@ rozmiar:%2
     </message>
     <message>
         <source>Unknown</source>
-        <translation variants="yes">
-            <lengthvariant>Nieznany</lengthvariant>
-            <lengthvariant>Nieznane</lengthvariant>
-        </translation>
+        <translation>Nieznany</translation>
     </message>
     <message>
         <source>Private Space</source>
         <comment>FolderType</comment>
-        <translation variants="yes">
-            <lengthvariant>Przestrzeń osobista</lengthvariant>
-            <lengthvariant>Przestrzeń prywatna</lengthvariant>
-            <lengthvariant>Prywatna przestrzeń</lengthvariant>
-        </translation>
+        <translation>Przestrzeń osobista</translation>
     </message>
     <message>
         <source>Qing Address</source>
         <comment>FolderType</comment>
-        <translation variants="yes">
-            <lengthvariant>Przeglądanie</lengthvariant>
-            <lengthvariant>Widok</lengthvariant>
-        </translation>
+        <translation>Adres Qing</translation>
     </message>
     <message>
         <source>Send Address</source>
         <comment>FolderType</comment>
-        <translation variants="yes">
-            <lengthvariant>Przeglądanie</lengthvariant>
-            <lengthvariant>Widok</lengthvariant>
-        </translation>
+        <translation>Wyślij adres</translation>
     </message>
     <message>
         <source>Receive Address</source>
         <comment>FolderType</comment>
-        <translation variants="yes">
-            <lengthvariant>Przeglądanie</lengthvariant>
-            <lengthvariant>Widok</lengthvariant>
-        </translation>
+        <translation>Odbierz adres</translation>
     </message>
     <message>
         <source>My Group</source>
@@ -1943,10 +1860,7 @@ rozmiar:%2
     <message>
         <source>Normal Group</source>
         <comment>FolderType</comment>
-        <translation variants="yes">
-            <lengthvariant>Zwykła grupa</lengthvariant>
-            <lengthvariant>Normalna grupa</lengthvariant>
-        </translation>
+        <translation>Zwykła grupa</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -1962,19 +1876,14 @@ rozmiar:%2
         <source>Cloud Docs</source>
         <comment>Group tab in filedialog</comment>
         <translation variants="yes">
-            <lengthvariant>Dokumenty w usłudze Chmura</lengthvariant>
-            <lengthvariant>Dokumenty w Chmurze</lengthvariant>
-            <lengthvariant>Chmura Docs</lengthvariant>
-            <lengthvariant>Usługa Cloud Docs</lengthvariant>
+            <lengthvariant>Dokumenty usługi Chmura</lengthvariant>
+            <lengthvariant>Dokumenty usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Local document</source>
         <comment>Local tab in filedialog</comment>
-        <translation variants="yes">
-            <lengthvariant>Dokument lokalny</lengthvariant>
-            <lengthvariant>Lokalny dokument</lengthvariant>
-        </translation>
+        <translation>Dokument lokalny</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -2099,17 +2008,13 @@ rozmiar:%2
     <message>
         <source>Files in the Cloud Docs support multi-user collaborations</source>
         <translation variants="yes">
-            <lengthvariant>Pliki dokumentów w usłudze Chmura wspierają współpracę wielu użytkowników</lengthvariant>
-            <lengthvariant>Pliki dokumentów w Chmurze wspierają współpracę wielu użytkowników</lengthvariant>
-            <lengthvariant>Pliki dokumentów usługi Cloud wspierają współpracę wielu użytkowników</lengthvariant>
+            <lengthvariant>Pliki w dokumentach usługi Chmura wspierają współpracę wielu użytkowników</lengthvariant>
+            <lengthvariant>Pliki w dokumentach usługi Cloud wspierają współpracę wielu użytkowników</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Enter here</source>
-        <translation variants="yes">
-            <lengthvariant>Wprowadź tutaj</lengthvariant>
-            <lengthvariant>Wpisz tutaj</lengthvariant>
-        </translation>
+        <translation>Wprowadź tutaj</translation>
     </message>
     <message>
         <source>OK</source>

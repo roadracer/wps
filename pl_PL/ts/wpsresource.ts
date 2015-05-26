@@ -1145,10 +1145,7 @@
     </message>
     <message>
         <source>Insert Time</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw godzinę</lengthvariant>
-            <lengthvariant>Wstaw czas</lengthvariant>
-        </translation>
+        <translation>Wstaw godzinę</translation>
     </message>
     <message>
         <source>Link to Previous</source>
@@ -1172,7 +1169,6 @@
     </message>
     <message>
         <source>Show Previous</source>
-        <translatorcomment>Pokaż poprzedni nagłówek/stopkę</translatorcomment>
         <translation>Pokaż poprzedni</translation>
     </message>
     <message>
@@ -1181,7 +1177,7 @@
     </message>
     <message>
         <source>Total of Y Page</source>
-        <translation>Liczba Y stron(y)</translation>
+        <translation>Całkowita liczba stron Y</translation>
     </message>
 </context>
 <context>
@@ -1691,7 +1687,7 @@
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -1715,7 +1711,7 @@
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>Google Docs</translation>
+        <translation>Dokumenty Google</translation>
     </message>
     <message>
         <source>Insert Horizontal Blank Page</source>
@@ -2388,7 +2384,7 @@ styl tabeli</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>Krawędź wewnętrzna</translation>
+        <translation>Krawędzie wewnętrzne</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
@@ -2948,10 +2944,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -3332,10 +3325,7 @@ tekstu</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation variants="yes">
-            <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obiekt ClipArt</lengthvariant>
-        </translation>
+        <translation>Obiekt ClipArt</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3361,8 +3351,7 @@ godzina</translation>
     </message>
     <message>
         <source>Header Line Color</source>
-        <translatorcomment>Kolor linii nagłówka</translatorcomment>
-        <translation>Kolor wiersza nagłówka</translation>
+        <translation>Kolor linii nagłówka</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -3371,8 +3360,8 @@ godzina</translation>
     <message>
         <source>Header and Footer
 Options</source>
-        <translation>Nagłówek i stopka
-Opcje</translation>
+        <translation>Opcje
+nagłówka i stopki</translation>
     </message>
     <message>
         <source>Header and Footer Options</source>
@@ -3413,8 +3402,6 @@ nagłówek</translation>
     <message>
         <source>Page
 Number</source>
-        <translatorcomment>Strona
-numer</translatorcomment>
         <translation>Numer
 strony</translation>
     </message>
@@ -3438,7 +3425,7 @@ nagłówek</translation>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>Pokaż wiersz nagłówka</translation>
+        <translation>Pokaż linię nagłówka</translation>
     </message>
     <message>
         <source>Switch between
@@ -3448,7 +3435,7 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
-        <translation>Liczba Y stron(y)</translation>
+        <translation>Całkowita liczba stron Y</translation>
     </message>
 </context>
 <context>
@@ -3671,7 +3658,7 @@ formatów</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>Krawędź wewnętrzna</translation>
+        <translation>Krawędzie wewnętrzne</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
@@ -5222,10 +5209,7 @@ obraz</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -5898,14 +5882,13 @@ sekcję</translation>
     </message>
     <message>
         <source>Header Line Color</source>
-        <translatorcomment>Kolor linii nagłówka</translatorcomment>
-        <translation>Kolor wiersza nagłówka</translation>
+        <translation>Kolor linii nagłówka</translation>
     </message>
     <message>
         <source>Header and
 Footer</source>
-        <translation>Nagłówek i
-stopka</translation>
+        <translation>Nagłówek 
+i stopka</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -5966,7 +5949,7 @@ stopka</translation>
     </message>
     <message>
         <source>One</source>
-        <translation>Jeden</translation>
+        <translation>Jedna</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -5986,11 +5969,11 @@ strony</translation>
     </message>
     <message>
         <source>Page Number Start</source>
-        <translation>Rozpocznij numerowanie stron</translation>
+        <translation>Początek numeru strony</translation>
     </message>
     <message>
         <source>Page Number Start:</source>
-        <translation>Rozpocznij numerowanie stron:</translation>
+        <translation>Początek numeru strony:</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -6022,7 +6005,7 @@ sekcji</translation>
         <source>Show
 Header Line</source>
         <translation>Pokaż
-wiersz nagłówka</translation>
+linię nagłówka</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
@@ -6044,7 +6027,7 @@ sekcję</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation>Dwa</translation>
+        <translation>Dwie</translation>
     </message>
 </context>
 <context>
@@ -6785,7 +6768,7 @@ dokumentu</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Full 
@@ -6833,11 +6816,11 @@ okno</translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation>Miejsce po lewej</translation>
+        <translation>Umieść po lewej</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation>Miejsce po prawej</translation>
+        <translation>Umieść po prawej</translation>
     </message>
     <message>
         <source>Print 
@@ -7667,10 +7650,7 @@ znakami</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -7934,8 +7914,8 @@ WordArt</lengthvariant>
     <message>
         <source>Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -7956,7 +7936,7 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -7997,8 +7977,8 @@ WordArt</lengthvariant>
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8011,8 +7991,8 @@ WordArt</lengthvariant>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8539,7 +8519,7 @@ COM</translation>
     <message>
         <source>Create Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Utwórz łącze do usługi Chmura</lengthvariant>
+            <lengthvariant>Utwórz łącze usługi Chmura</lengthvariant>
             <lengthvariant>Utwórz łącze do usługi Cloud</lengthvariant>
         </translation>
     </message>
@@ -8766,7 +8746,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -9295,8 +9275,8 @@ formatów</translation>
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -9380,11 +9360,11 @@ formatów</translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation>Miejsce po lewej</translation>
+        <translation>Umieść po lewej</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation>Miejsce po prawej</translation>
+        <translation>Umieść po prawej</translation>
     </message>
     <message>
         <source>Previous Text Box</source>
@@ -9566,8 +9546,8 @@ formatów</translation>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -10178,7 +10158,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>Krawędź wewnętrzna</translation>
+        <translation>Krawędzie wewnętrzne</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
@@ -10686,10 +10666,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -10868,8 +10845,8 @@ przekątną w komórce</translation>
     <message>
         <source>Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -11097,8 +11074,8 @@ przekątną w komórce</translation>
     <message>
         <source>Header and Footer
 Options</source>
-        <translation>Nagłówek i stopka
-Opcje</translation>
+        <translation>Opcje
+nagłówka i stopki</translation>
     </message>
     <message>
         <source>Header and Footer Options</source>
@@ -11156,7 +11133,7 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
-        <translation>Liczba Y stron(y)</translation>
+        <translation>Całkowita liczba stron Y</translation>
     </message>
 </context>
 <context>
@@ -11365,7 +11342,7 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>Krawędź wewnętrzna</translation>
+        <translation>Krawędzie wewnętrzne</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
@@ -12808,10 +12785,7 @@ tekst</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -13415,7 +13389,6 @@ tekst</translation>
         <source>horzReviewPane</source>
         <translation variants="yes">
             <lengthvariant>poziomeOkienkoRecenzowania</lengthvariant>
-            <lengthvariant>poziomeOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>horzReviewPane</lengthvariant>
         </translation>
     </message>
@@ -13423,7 +13396,6 @@ tekst</translation>
         <source>vertReviewPane</source>
         <translation variants="yes">
             <lengthvariant>pionoweOkienkoRecenzowania</lengthvariant>
-            <lengthvariant>pionoweOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>vertReviewPane</lengthvariant>
         </translation>
     </message>
@@ -13521,7 +13493,7 @@ tekst</translation>
     </message>
     <message>
         <source>One</source>
-        <translation>Jeden</translation>
+        <translation>Jedna</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -13537,11 +13509,11 @@ tekst</translation>
     </message>
     <message>
         <source>Page Number Start</source>
-        <translation>Rozpocznij numerowanie stron</translation>
+        <translation>Początek numeru strony</translation>
     </message>
     <message>
         <source>Page Number Start:</source>
-        <translation>Rozpocznij numerowanie stron:</translation>
+        <translation>Początek numeru strony:</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -13585,7 +13557,7 @@ tekst</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation>Dwa</translation>
+        <translation>Dwie</translation>
     </message>
 </context>
 <context>
@@ -14165,10 +14137,7 @@ tekst</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation variants="yes">
-            <lengthvariant>Kaskadowo</lengthvariant>
-            <lengthvariant>Kaskada</lengthvariant>
-        </translation>
+        <translation>Kaskadowo</translation>
     </message>
     <message>
         <source>Close
@@ -14199,7 +14168,7 @@ inne okna</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -14243,11 +14212,11 @@ inne okna</translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation>Miejsce po lewej</translation>
+        <translation>Umieść po lewej</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation>Miejsce po prawej</translation>
+        <translation>Umieść po prawej</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -15332,8 +15301,8 @@ cienia</translation>
     <message>
         <source>Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -15354,7 +15323,7 @@ cienia</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -15391,8 +15360,8 @@ cienia</translation>
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -15405,8 +15374,8 @@ cienia</translation>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -15510,8 +15479,8 @@ cienia</translation>
     <message>
         <source>Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -15532,7 +15501,7 @@ cienia</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -15545,8 +15514,8 @@ cienia</translation>
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -15563,8 +15532,8 @@ cienia</translation>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -15690,10 +15659,7 @@ cienia</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Standardowe</lengthvariant>
-        </translation>
+        <translation>Standardowy</translation>
     </message>
     <message>
         <source>Stop Recording</source>
@@ -15887,8 +15853,8 @@ cienia</translation>
     <message>
         <source>Create Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Utwórz łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Utwórz łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Utwórz łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Utwórz łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -15968,7 +15934,7 @@ cienia</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb Ochrona oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -16024,8 +15990,7 @@ cienia</translation>
     </message>
     <message>
         <source>Header Line Color</source>
-        <translatorcomment>Kolor linii nagłówka</translatorcomment>
-        <translation>Kolor wiersza nagłówka</translation>
+        <translation>Kolor linii nagłówka</translation>
     </message>
     <message>
         <source>Help</source>
@@ -16298,7 +16263,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>Pokaż wiersz nagłówka</translation>
+        <translation>Pokaż linię nagłówka</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -16605,10 +16570,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation variants="yes">
-            <lengthvariant>Narzędzia obrazów</lengthvariant>
-            <lengthvariant>Narzędzia obrazu</lengthvariant>
-        </translation>
+        <translation>Narzędzia obrazów</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -16636,11 +16598,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation variants="yes">
-            <lengthvariant>Recenzja</lengthvariant>
-            <lengthvariant>Przegląd</lengthvariant>
-            <lengthvariant>Przejrzyj</lengthvariant>
-        </translation>
+        <translation>Recenzja</translation>
     </message>
     <message>
         <source>Section</source>
@@ -16858,10 +16816,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation variants="yes">
-            <lengthvariant>Narzędzia obrazów</lengthvariant>
-            <lengthvariant>Narzędzia obrazu</lengthvariant>
-        </translation>
+        <translation>Narzędzia obrazów</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -16889,11 +16844,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation variants="yes">
-            <lengthvariant>Recenzja</lengthvariant>
-            <lengthvariant>Przegląd</lengthvariant>
-            <lengthvariant>Przejrzyj</lengthvariant>
-        </translation>
+        <translation>Recenzja</translation>
     </message>
     <message>
         <source>Section</source>

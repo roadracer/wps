@@ -1116,10 +1116,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Bulleted</source>
-        <translation variants="yes">
-            <lengthvariant>Punktowane</lengthvariant>
-            <lengthvariant>Punktowany</lengthvariant>
-        </translation>
+        <translation>Punktowanie</translation>
     </message>
     <message>
         <source>S&amp;ize:</source>
@@ -1143,7 +1140,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Numbered</source>
-        <translation>Numerowane</translation>
+        <translation>Numerowanie</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
@@ -1316,10 +1313,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Regular</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Regularny</lengthvariant>
-        </translation>
+        <translation>Standardowy</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1355,7 +1349,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation>&amp;Uwypuklenie</translation>
+        <translation>Uwy&amp;puklenie</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
@@ -1937,10 +1931,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation variants="yes">
-            <lengthvariant>U&amp;ruchomienie okna zadań</lengthvariant>
-            <lengthvariant>Autosta&amp;rt okna zadań</lengthvariant>
-        </translation>
+        <translation>Autosta&amp;rt okna zadań</translation>
     </message>
     <message>
         <source>Show menu on right mouse click(&amp;P)</source>
@@ -2370,10 +2361,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     <name>KxDlgSplitCells</name>
     <message>
         <source>Split Cells</source>
-        <translation variants="yes">
-            <lengthvariant>Podziel komórki</lengthvariant>
-            <lengthvariant>Dzielenie komórek</lengthvariant>
-        </translation>
+        <translation>Dzielenie komórek</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
@@ -4010,7 +3998,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppFontSizeCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
+        <translation>Nieprawidłowa liczba całkowita.</translation>
     </message>
 </context>
 <context>
@@ -4107,10 +4095,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppVpPodium</name>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Konspekt</lengthvariant>
-            <lengthvariant>Kontur</lengthvariant>
-        </translation>
+        <translation>Konspekt</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -4121,10 +4106,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppVpSlideNormal</name>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Konspekt</lengthvariant>
-            <lengthvariant>Kontur</lengthvariant>
-        </translation>
+        <translation>Konspekt</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -4556,10 +4538,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -4851,10 +4830,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation variants="yes">
-            <lengthvariant>Drukowanie niedozwolone</lengthvariant>
-            <lengthvariant>Drukowanie nie jest dozwolone</lengthvariant>
-        </translation>
+        <translation>Drukowanie niedozwolone</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>

@@ -252,8 +252,8 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <message>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
         <translation variants="yes">
-            <lengthvariant>Używając usługi Chmury WPS Office można współpracować w pracy zespołowej.</lengthvariant>
-            <lengthvariant>Używając usługi WPS Office Cloude można współpracować w pracy zespołowej.</lengthvariant>
+            <lengthvariant>Używając usługi Chmura WPS Office można współpracować podczas pracy zespołowej.</lengthvariant>
+            <lengthvariant>Używając usługi WPS Office Cloud można współpracować podczas pracy zespołowej.</lengthvariant>
         </translation>
     </message>
     <message>

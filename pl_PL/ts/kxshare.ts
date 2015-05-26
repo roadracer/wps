@@ -2620,7 +2620,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
+        <translation>Nieprawidłowa liczba całkowita.</translation>
     </message>
 </context>
 <context>
@@ -2983,7 +2983,7 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     <name>KxFontSizeComboboxCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
+        <translation>Nieprawidłowa liczba całkowita.</translation>
     </message>
 </context>
 <context>
@@ -2994,19 +2994,19 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument ma użyte czcionki chmury &quot;%1&quot;. Dla Twojej wygody, proszę pobrać te czcionki chmury.</translation>
+        <translation>Ten dokument wykorzystuje czcionki chmury &quot;%1&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument ma użyte czcionki chmury &quot;%1&quot; i &quot;%2&quot;. Dla Twojej wygody, proszę pobrać te czcionki chmury.</translation>
+        <translation>Ten dokument wykorzystuje czcionki chmury &quot;%1&quot; i &quot;%2&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument ma użyte czcionki chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;. Dla Twojej wygody, proszę pobrać te czcionki chmury.</translation>
+        <translation>Ten dokument wykorzystuje czcionki chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
     <message>
         <source>This document has used cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
-        <translation>Ten dokument ma użyte czcionki chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;, itp. Dla Twojej wygody, proszę pobrać te czcionki chmury.</translation>
+        <translation>Ten dokument wykorzystuje czcionki chmury &quot;%1&quot;, &quot;%2&quot; i &quot;%3&quot;, itp. Dla wygody użytkownika, proszę pobrać te czcionki chmury.</translation>
     </message>
 </context>
 <context>
@@ -3631,7 +3631,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>WPS members enjoy more than 300 cloud font, monthly not regularly updated new font, let your document colorful!</source>
-        <translation>Członkowie WPS korzystają z ponad 300 czcionek chmury, które comiesięcznie, nieregularnie są zaktualizowane o nowe czcionki, niech Twój dokument będzie kolorowy!</translation>
+        <translation>Członkowie WPS korzystają z ponad 300 czcionek chmury, które nie regularnie co miesiąc są aktualizowane o nowe czcionki. Pozwól, aby Twój dokument był kolorowy!</translation>
     </message>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
@@ -3669,7 +3669,7 @@ Kliknij tutaj, aby zalogować się już teraz.</translation>
     <message>
         <source>Sign in to use cloud fonts.
 Click the icon to sign in now.</source>
-        <translation>Zaloguj się, aby korzystać z czcionek w chmurze.
+        <translation>Zaloguj się, aby korzystać z czcionek chmury.
 Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
@@ -3678,7 +3678,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Allow member to enjoy free cloud fonts. Click to sign in.</source>
-        <translation>Zezwól członkom cieszyć się darmowymi czcionkami w chmurze. Kliknij, aby się zalogować.</translation>
+        <translation>Zezwól członkom cieszyć się darmowymi czcionkami chmury. Kliknij, aby zalogować się.</translation>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew.</source>
@@ -3686,11 +3686,11 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>VIP cloud fonts installed</source>
-        <translation>Zainstalowane czcionki chmurze VIP</translation>
+        <translation>Zainstalowane czcionki chmury VIP</translation>
     </message>
     <message>
         <source>Cloud fonts installed</source>
-        <translation>Zainstalowane czcionki w chmurze</translation>
+        <translation>Zainstalowane czcionki chmury</translation>
     </message>
     <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
@@ -3702,11 +3702,11 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Your membership %1 expires now. Please renew to enjoy cloud fonts.</source>
-        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnowić, aby cieszyć się czcionkami w chmurze.</translation>
+        <translation>Twoje członkostwo %1 wygasa teraz. Proszę odnowić, aby cieszyć się czcionkami chmury.</translation>
     </message>
     <message>
         <source>All cloud fonts installed.  Please looking forward to more.</source>
-        <translation>Zainstalowane wszystkie czcionki w chmurze. Proszę, czekamy na więcej.</translation>
+        <translation>Zainstalowano wszystkie czcionki chmury. Proszę, czekać na więcej.</translation>
     </message>
     <message>
         <source>Click to keep cloud fonts on top</source>
@@ -4521,10 +4521,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>Do not report again</source>
-        <translation variants="yes">
-            <lengthvariant>Nie raportuj ponownie</lengthvariant>
-            <lengthvariant>Nie zgłaszaj ponownie</lengthvariant>
-        </translation>
+        <translation>Nie zgłaszaj ponownie</translation>
     </message>
     <message>
         <source>Checking completed!</source>
@@ -4532,10 +4529,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>System Check</source>
-        <translation variants="yes">
-            <lengthvariant>Sprawdzanie systemu</lengthvariant>
-            <lengthvariant>Sprawdź system</lengthvariant>
-        </translation>
+        <translation>Sprawdzanie systemu</translation>
     </message>
     <message>
         <source>Problems below are detected in the system.</source>
@@ -4585,14 +4579,11 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <name>KxTableGalleryModel</name>
     <message>
         <source>Insert Table</source>
-        <translation variants="yes">
-            <lengthvariant>Wstawianie tabeli</lengthvariant>
-            <lengthvariant>Wstaw tabelę</lengthvariant>
-        </translation>
+        <translation>Wstawianie tabeli</translation>
     </message>
     <message>
         <source> %1 * %2 Table</source>
-        <translation> %1 wierszy * %2 kolumn tabeli</translation>
+        <translation>Tabela z %1 wierszy * %2 kolumn</translation>
     </message>
 </context>
 <context>

@@ -2653,7 +2653,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Konspekt</translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3565,10 +3565,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Package into Folder</source>
@@ -4593,10 +4590,7 @@ obrazów</lengthvariant>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -6422,10 +6416,7 @@ znakami</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -6650,8 +6641,8 @@ WordArt</lengthvariant>
     <message>
         <source>Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -6716,8 +6707,8 @@ WordArt</lengthvariant>
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -6727,8 +6718,8 @@ WordArt</lengthvariant>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -7129,8 +7120,8 @@ COM</translation>
     <message>
         <source>Create Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Utwórz łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Utwórz łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Utwórz łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Utwórz łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -7596,10 +7587,7 @@ COM</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation variants="yes">
-            <lengthvariant>Wiersz</lengthvariant>
-            <lengthvariant>Linia</lengthvariant>
-        </translation>
+        <translation>Wiersz</translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -7732,10 +7720,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Normal</source>
-        <translation variants="yes">
-            <lengthvariant>Normalny</lengthvariant>
-            <lengthvariant>Normalne</lengthvariant>
-        </translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Object</source>
@@ -7776,8 +7761,8 @@ wzorzec</lengthvariant>
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -7971,8 +7956,8 @@ wzorzec</lengthvariant>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -10894,10 +10879,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -11711,10 +11693,7 @@ ustawienia</lengthvariant>
     </message>
     <message>
         <source>Cascade</source>
-        <translation variants="yes">
-            <lengthvariant>Kaskadowo</lengthvariant>
-            <lengthvariant>Kaskada</lengthvariant>
-        </translation>
+        <translation>Kaskadowo</translation>
     </message>
     <message>
         <source>Close
@@ -12591,8 +12570,8 @@ cienia</translation>
     <message>
         <source>Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -12657,8 +12636,8 @@ cienia</translation>
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -12668,8 +12647,8 @@ cienia</translation>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -12781,8 +12760,8 @@ cienia</translation>
     <message>
         <source>Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -12808,8 +12787,8 @@ cienia</translation>
     <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -12819,8 +12798,8 @@ cienia</translation>
     <message>
         <source>Save to Cloud Docs</source>
         <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
+            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -12871,7 +12850,7 @@ cienia</translation>
     <name>wppclassics.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation>Prezentacja</translation>
+        <translation>Presentation</translation>
     </message>
 </context>
 <context>
@@ -12910,11 +12889,7 @@ cienia</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation variants="yes">
-            <lengthvariant>Przegląd</lengthvariant>
-            <lengthvariant>Przejrzyj</lengthvariant>
-            <lengthvariant>Recenzja</lengthvariant>
-        </translation>
+        <translation>Recenzja</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -13050,8 +13025,8 @@ cienia</translation>
     <message>
         <source>Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -13080,8 +13055,8 @@ cienia</translation>
     <message>
         <source>Creat Cloud Link</source>
         <translation variants="yes">
-            <lengthvariant>Utwórz łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Utwórz łącze do usługi Cloud</lengthvariant>
+            <lengthvariant>Utwórz łącze usługi Chmura</lengthvariant>
+            <lengthvariant>Utwórz łącze usługi Cloud</lengthvariant>
         </translation>
     </message>
     <message>
@@ -13606,7 +13581,7 @@ slajdu</translation>
     <name>wppongmani.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation>Prezentacja</translation>
+        <translation>Presentation</translation>
     </message>
 </context>
 <context>
@@ -13629,10 +13604,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Customize task window</source>
-        <translation variants="yes">
-            <lengthvariant>Dostosuj okno zadań</lengthvariant>
-            <lengthvariant>Dostosowywanie okna zadań</lengthvariant>
-        </translation>
+        <translation>Dostosuj okno zadań</translation>
     </message>
     <message>
         <source>Design</source>
@@ -13696,10 +13668,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation variants="yes">
-            <lengthvariant>Narzędzia obrazów</lengthvariant>
-            <lengthvariant>Narzędzia obrazu</lengthvariant>
-        </translation>
+        <translation>Narzędzia obrazów</translation>
     </message>
     <message>
         <source>Pin the ToolBar</source>
@@ -13711,10 +13680,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation variants="yes">
-            <lengthvariant>Menu szybkiego dostępu</lengthvariant>
-            <lengthvariant>Menu szybki dostęp</lengthvariant>
-        </translation>
+        <translation>Menu Szybki dostęp</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -13730,11 +13696,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation variants="yes">
-            <lengthvariant>Przegląd</lengthvariant>
-            <lengthvariant>Przejrzyj</lengthvariant>
-            <lengthvariant>Recenzja</lengthvariant>
-        </translation>
+        <translation>Recenzja</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -13850,7 +13812,7 @@ slajdu</translation>
     <name>wpprainbow.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation>Prezentacja</translation>
+        <translation>Presentation</translation>
     </message>
 </context>
 <context>
@@ -13949,10 +13911,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation variants="yes">
-            <lengthvariant>Narzędzia obrazów</lengthvariant>
-            <lengthvariant>Narzędzia obrazu</lengthvariant>
-        </translation>
+        <translation>Narzędzia obrazów</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -13960,10 +13919,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation variants="yes">
-            <lengthvariant>Menu szybkiego dostępu</lengthvariant>
-            <lengthvariant>Menu szybki dostęp</lengthvariant>
-        </translation>
+        <translation>Menu Szybki dostęp</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -13979,11 +13935,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation variants="yes">
-            <lengthvariant>Przegląd</lengthvariant>
-            <lengthvariant>Przejrzyj</lengthvariant>
-            <lengthvariant>Recenzja</lengthvariant>
-        </translation>
+        <translation>Recenzja</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -14011,10 +13963,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation variants="yes">
-            <lengthvariant>Szpilka paska narzędzi</lengthvariant>
-            <lengthvariant>Przypnij pasek narzędzi</lengthvariant>
-        </translation>
+        <translation>Przypnij pasek narzędzi</translation>
     </message>
     <message>
         <source>Table Style</source>
