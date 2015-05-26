@@ -24,6 +24,7 @@ install_file "*.qm"
 install_file res.rcc
 install_file lang.conf
 [ ! -z "$ICO" ] && install_file $ICO
+[ -e "CREDITS" ] && install_file "CREDITS"
 install_dir config
 install_dir data
 install_dir templates

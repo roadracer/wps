@@ -141,7 +141,11 @@
     <message>
         <source>Add &amp;Design</source>
         <translatorcomment>Open WPP-&gt;View tab-&gt;tick Task Window-&gt;Task Window drop-down menu, choose Slide Design-Design Templates-&gt;View tab-&gt;Slide Master-&gt;right-click a design template</translatorcomment>
-        <translation>A&amp;jouter une présentation</translation>
+        <translation type="obsolete">A&amp;jouter une présentation</translation>
+    </message>
+    <message>
+        <source>Add Design</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3896,7 +3900,11 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -2906,6 +2906,85 @@ use buttons to apply borders</source>
     </message>
 </context>
 <context>
+    <name>KxDlgDocumentFields</name>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocumentField Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert</source>
+        <translation type="unfinished">挿入(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Rename</source>
+        <translation type="unfinished">名前の変更(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Go To</source>
+        <translation type="unfinished">ジャンプ(&amp;G)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">削除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Marks Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by:</source>
+        <translation type="unfinished">順序の基準:</translation>
+    </message>
+    <message>
+        <source>&amp;Name</source>
+        <translation type="unfinished">名前(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation type="unfinished">位置(&amp;L)</translation>
+    </message>
+    <message>
+        <source>DocumentField Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Hidden</source>
+        <translation type="unfinished">隠し文字(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read &amp;Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertion Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then counted in. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgDrawingGrid</name>
     <message>
         <source>&amp;Horizontal every:</source>
@@ -3434,6 +3513,10 @@ If unnecessary, please click Cancel.</source>
     <message>
         <source>Suppress all non_&amp;delimiter chars:</source>
         <translation type="obsolete">区切り文字以外を抑制(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Add the &amp;path to the file name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6450,6 +6533,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>File sharing options for this document:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>D&amp;ocument fields</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -8473,6 +8560,29 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxDocumentFieldsDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document field with this name has already existed. Do you want to cover it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field is illegal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field has already existed, please rename it!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDropCapDlg</name>
     <message>
         <source>Number must be between %1 and %2.</source>
@@ -8774,7 +8884,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
         <translatorcomment>ディスクCのKingsoft.wpsファイルを開きます</translatorcomment>
-        <translation>CドライブのKingsoft Officeファイルを開きます</translation>
+        <translation type="obsolete">CドライブのKingsoft Officeファイルを開きます</translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
@@ -8798,7 +8908,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation>ディスクCのKingSoft.wpsファイルを開きます
+        <translation type="obsolete">ディスクCのKingSoft.wpsファイルを開きます
 、フィールドコード： HYPERLINK &quot;C:\\KingSoft.wps&quot;</translation>
     </message>
     <message>
@@ -8919,7 +9029,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation>画像のURLを推定します。&quot;d:\\WPS.jpg&quot; Field code:INCLUDEPICTURE&quot; d:\\WPS.jpg&quot;</translation>
+        <translation type="obsolete">画像のURLを推定します。&quot;d:\\WPS.jpg&quot; Field code:INCLUDEPICTURE&quot; d:\\WPS.jpg&quot;</translation>
     </message>
     <message>
         <source>Insert a picture from a file</source>
@@ -8936,6 +9046,66 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Insert the text from a like-styled paragraph.</source>
         <translation type="obsolete">段落のスタイルをもとに文字列を挿入</translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>root directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D:\\</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D drive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open and activate the file KingSoft.wps under the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IncludeText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text to from a file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert the file name of the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forma&amp;t:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document &amp;property:</source>
+        <translation type="unfinished">文書のプロパティ(&amp;P):</translation>
     </message>
 </context>
 <context>
@@ -11340,6 +11510,10 @@ This change will affect all new documents based on the %1 template.</source>
         <source>Read-only</source>
         <translation>読み取り専用</translation>
     </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpDocProtectionWidget</name>
@@ -11466,6 +11640,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>You may edit in this region,but all changes will be tracked.</source>
         <translation>この範囲は編集可能ですが、すべての変更が記録されます。</translation>
+    </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13126,6 +13304,73 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">表示</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">編集</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">印刷</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">保存</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>Behind Text</source>
@@ -13216,31 +13461,27 @@ Select parts of the document and choose users who are allowed to freely edit the
 <context>
     <name>KxWpsReviewPane</name>
     <message>
-        <source>REVIEWPANE</source>
+        <source>Reviewing Pane</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> Part</source>
+        <source>Insertions: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert: </source>
+        <source>Deletions: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete: </source>
+        <source>Formatting: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Format: </source>
+        <source>Comments: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Comment: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Revision: </source>
+        <source>Revision: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13898,11 +14139,11 @@ Select parts of the document and choose users who are allowed to freely edit the
 <context>
     <name>KxWpsWrapTextWidget</name>
     <message>
-        <source>close</source>
+        <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>title</source>
+        <source>Layout options</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

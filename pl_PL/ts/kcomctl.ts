@@ -271,10 +271,7 @@
     <name>KFilePageCloseButton</name>
     <message>
         <source>Clear Record from List</source>
-        <translation variants="yes">
-            <lengthvariant>Wyczyść wpis z listy</lengthvariant>
-            <lengthvariant>Wyczyść rejestr z listy</lengthvariant>
-        </translation>
+        <translation>Wyczyść wpis z listy</translation>
     </message>
 </context>
 <context>
@@ -474,10 +471,7 @@
     </message>
     <message>
         <source>Clear All</source>
-        <translation variants="yes">
-            <lengthvariant>Wyczyść wszystkie</lengthvariant>
-            <lengthvariant>Wyczyść wszystko</lengthvariant>
-        </translation>
+        <translation>Wyczyść wszystkie</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -750,7 +744,7 @@ proszę ponownie zainstalować WPS Office!</translation>
     </message>
     <message>
         <source>Delete from List</source>
-        <translation>Usuń z Listy</translation>
+        <translation>Usuń z listy</translation>
     </message>
 </context>
 </TS>

@@ -287,18 +287,11 @@
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation variants="yes">
-            <lengthvariant>godzina modyfikacji:</lengthvariant>
-            <lengthvariant>zmiana godziny:</lengthvariant>
-            <lengthvariant>zmiana czasu:</lengthvariant>
-        </translation>
+        <translation>godzina modyfikacji:</translation>
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
-        <translation variants="yes">
-            <lengthvariant>Kingsoft Office automatyczna kopia zapasowa</lengthvariant>
-            <lengthvariant>Automatyczna kopia zapasowa Kingsoft Office</lengthvariant>
-        </translation>
+        <translation>Automatyczna kopia zapasowa Kingsoft Office</translation>
     </message>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
@@ -358,8 +351,6 @@
         <translation variants="yes">
             <lengthvariant>Logowanie pliku w trybie awaryjnym przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
             <lengthvariant>Zaloguj plik w trybie awaryjnym przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
-            <lengthvariant>Logowanie bezpiecznego pliku przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
-            <lengthvariant>Zaloguj bezpieczny plik przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
         </translation>
     </message>
     <message>
@@ -367,8 +358,6 @@
         <translation variants="yes">
             <lengthvariant>Logowanie klive przed przeglądaniem wersji.</lengthvariant>
             <lengthvariant>Zaloguj klive przed przeglądaniem wersji.</lengthvariant>
-            <lengthvariant>Logowanie klive przed eksplorowaniem wersji.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed eksplorowaniem wersji.</lengthvariant>
         </translation>
     </message>
     <message>
@@ -380,10 +369,7 @@
     </message>
     <message>
         <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie istnieje kopia zapasowa dla tego pliku w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie utworzono dla tego pliku kopii zapasowej w bieżącym komputerze.&lt;br /&gt;2. Plik kopii zapasowej został ręcznie wyczyszczony.</lengthvariant>
-            <lengthvariant>Nie ma kopii zapasowej dla tego pliku w katalogu kopii zapasowych.&lt;br /&gt;Może tak być dlatego, że:&lt;br /&gt; 1. Nie utworzono dla tego pliku kopii zapasowej w bieżącym komputerze.&lt;br /&gt;2. Plik kopii zapasowej został ręcznie usunięty.</lengthvariant>
-        </translation>
+        <translation>Nie istnieje kopia zapasowa dla tego pliku w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie utworzono dla tego pliku kopii zapasowej w bieżącym komputerze.&lt;br /&gt;2. Plik kopii zapasowej został ręcznie wyczyszczony.</translation>
     </message>
     <message>
         <source>Login klive before canceling auto backup.</source>
@@ -397,16 +383,11 @@
         <translation variants="yes">
             <lengthvariant>Logowanie klive przed przeglądaniem katalogu kopii zapasowej.</lengthvariant>
             <lengthvariant>Zaloguj klive przed przeglądaniem katalogu kopii zapasowej.</lengthvariant>
-            <lengthvariant>Logowanie klive przed eksplorowaniem katalogu kopii zapasowej.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed eksplorowaniem katalogu kopii zapasowej.</lengthvariant>
         </translation>
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie istnieją kopie zapasowe plików w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie utworzono kopii zapasowych plików w bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</lengthvariant>
-            <lengthvariant>Nie ma kopii zapasowych plików w katalogu kopii zapasowych.&lt;br /&gt;Może tak być dlatego, że:&lt;br /&gt; 1. Nie utworzono kopii zapasowych plików w bieżącym komputerze.&lt;br /&gt;2. Plik kopii zapasowych zostały ręcznie usunięte.</lengthvariant>
-        </translation>
+        <translation>Nie istnieją kopie zapasowe plików w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie utworzono kopii zapasowych plików w bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
     </message>
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
@@ -420,8 +401,6 @@
         <translation variants="yes">
             <lengthvariant>Logowanie klive przed otwarciem plików.</lengthvariant>
             <lengthvariant>Zaloguj klive przed otwarciem plików.</lengthvariant>
-            <lengthvariant>Logowanie klive przed otwieraniem plików.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed otwieraniem plików.</lengthvariant>
         </translation>
     </message>
     <message>
@@ -429,8 +408,6 @@
         <translation variants="yes">
             <lengthvariant>Logowanie klive przed usunięciem plików.</lengthvariant>
             <lengthvariant>Zaloguj klive przed usunięciem plików.</lengthvariant>
-            <lengthvariant>Logowanie klive przed usuwaniem plików.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed usuwaniem plików.</lengthvariant>
         </translation>
     </message>
     <message>
@@ -914,10 +891,7 @@
     </message>
     <message>
         <source>%1 The above file names are not valid.</source>
-        <translation variants="yes">
-            <lengthvariant>%1 Powyższe nazwy plików nie są prawidłowe.</lengthvariant>
-            <lengthvariant>%1 Powyższe nazwy plików są nieprawidłowe.</lengthvariant>
-        </translation>
+        <translation>%1 Powyższe nazwy plików są nieprawidłowe.</translation>
     </message>
     <message>
         <source>Cloud Docs</source>
@@ -1202,10 +1176,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Clear All</source>
-        <translation variants="yes">
-            <lengthvariant>Wyczyść wszystko</lengthvariant>
-            <lengthvariant>Wyczyść wszystkie</lengthvariant>
-        </translation>
+        <translation>Wyczyść wszystkie</translation>
     </message>
     <message>
         <source>Remove From List</source>
@@ -1285,10 +1256,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Clear All</source>
-        <translation variants="yes">
-            <lengthvariant>Wyczyść wszystko</lengthvariant>
-            <lengthvariant>Wyczyść wszystkie</lengthvariant>
-        </translation>
+        <translation>Wyczyść wszystkie</translation>
     </message>
     <message>
         <source>Remove From List</source>
@@ -1370,17 +1338,11 @@ rozmiar:%2
     <name>KRoamingSave2PrivateTip</name>
     <message>
         <source>Document has been saved automatically to the private space root directory</source>
-        <translation variants="yes">
-            <lengthvariant>Dokument został automatycznie zapisany do katalogu głównego przestrzeni osobistej</lengthvariant>
-            <lengthvariant>Dokument został zapisany automatycznie do katalogu głównego przestrzeni prywatnej</lengthvariant>
-        </translation>
+        <translation>Dokument został automatycznie zapisany do katalogu głównego przestrzeni osobistej</translation>
     </message>
     <message>
         <source>Go to view private space</source>
-        <translation variants="yes">
-            <lengthvariant>Przejdź do widoku przestrzeni osobistej</lengthvariant>
-            <lengthvariant>Przejdź do widoku przestrzeni prywatnej</lengthvariant>
-        </translation>
+        <translation>Przejdź do widoku przestrzeni osobistej</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1803,12 +1765,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
-        <translation variants="yes">
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu, aby odtworzyć ten plik na innym komputerze.</lengthvariant>
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
-        </translation>
+        <translation>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego folderu, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -2305,9 +2262,9 @@ Proszę kupić aby kontynuować korzystanie z WPS Office.</lengthvariant>
         <source>Your WPS Office is about to expire. 
 After expiration, some features will not work properly. Renew now and you can get a discount. </source>
         <translation variants="yes">
-            <lengthvariant>Twój WPS Office wkrótce wygaśnie.
+            <lengthvariant>Twój WPS Office wkrótce wygaśnie. 
 Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Odnów teraz i otrzymaj rabat. </lengthvariant>
-            <lengthvariant>Twój WPS Office wkrótce wygaśnie.
+            <lengthvariant>Twój WPS Office wkrótce wygaśnie. 
 Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Odnów teraz i otrzymaj zniżkę. </lengthvariant>
         </translation>
     </message>
@@ -2378,7 +2335,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Odnów tera
     <message>
         <source>Your WPS Office is about to expire. 
 After expiration, some features will not work properly. Please renew now. </source>
-        <translation>Twój WPS Office wkrótce wygaśnie.
+        <translation>Twój WPS Office wkrótce wygaśnie. 
 Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odnów teraz. </translation>
     </message>
     <message>
@@ -2612,10 +2569,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>&apos;%1&apos; already exists. Operation cannot be completed.</source>
-        <translation variants="yes">
-            <lengthvariant>&apos;%1&apos; już istnieje. Nie można ukończyć operacji.</lengthvariant>
-            <lengthvariant>&apos;%1&apos; już istnieje. Operacja nie może być ukończona.</lengthvariant>
-        </translation>
+        <translation>&apos;%1&apos; już istnieje. Nie można ukończyć operacji.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this &apos;%1&apos; item permanently?</source>
@@ -2627,10 +2581,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>&apos;%1&apos; is protected. Operation cannot be completed.</source>
-        <translation variants="yes">
-            <lengthvariant>&apos;%1&apos; jest chroniony. Nie można ukończyć operacji.</lengthvariant>
-            <lengthvariant>&apos;%1&apos; jest chroniony. Operacja nie może być ukończona.</lengthvariant>
-        </translation>
+        <translation>&apos;%1&apos; jest chroniony. Nie można ukończyć operacji.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the file &apos;%1&apos; permanently?</source>
@@ -2638,17 +2589,11 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Failed to delete the following files. Please check if the files were in use.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie udało się usunąć następujących plików. Sprawdź, czy pliki były w użyciu.</lengthvariant>
-            <lengthvariant>Nie udało się usunąć następujących plików. Proszę sprawdzić, czy pliki były w użyciu.</lengthvariant>
-        </translation>
+        <translation>Nie udało się usunąć następujących plików. Proszę sprawdź, czy pliki były w użyciu.</translation>
     </message>
     <message>
         <source>Failed to cut the following files. Please check if the files were in use.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie udało się wyciąć następujących plików. Sprawdź, czy pliki były w użyciu.</lengthvariant>
-            <lengthvariant>Nie udało się wyciąć następujących plików. Proszę sprawdzić, czy pliki były w użyciu.</lengthvariant>
-        </translation>
+        <translation>Nie udało się wyciąć następujących plików. Proszę sprawdź, czy pliki były w użyciu.</translation>
     </message>
 </context>
 <context>
@@ -2710,11 +2655,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>VIP soon to be expired</source>
-        <translation variants="yes">
-            <lengthvariant>VIP wkrótce wygaśnie</lengthvariant>
-            <lengthvariant>VIP wkrótce wygasa</lengthvariant>
-            <lengthvariant>VIP wkrótce będzie wygasły</lengthvariant>
-        </translation>
+        <translation>VIP wkrótce wygaśnie</translation>
     </message>
 </context>
 <context>

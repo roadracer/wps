@@ -129,7 +129,11 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation>Dodaj &amp;projekt</translation>
+        <translation type="obsolete">Dodaj &amp;projekt</translation>
+    </message>
+    <message>
+        <source>Add Design</source>
+        <translation>Dodaj projekt</translation>
     </message>
 </context>
 <context>
@@ -2810,10 +2814,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Input permission password.</source>
-        <translation variants="yes">
-            <lengthvariant>Wprowadź hasło uprawnienia.</lengthvariant>
-            <lengthvariant>Wprowadź hasło dla autoryzacji.</lengthvariant>
-        </translation>
+        <translation>Wprowadź hasło uprawnienia.</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
@@ -2837,10 +2838,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation variants="yes">
-            <lengthvariant>Hasło potwierdzające nie pasuje.</lengthvariant>
-            <lengthvariant>Hasło potwierdzające nie jest zgodne.</lengthvariant>
-        </translation>
+        <translation>Hasło potwierdzające nie pasuje.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
@@ -2889,7 +2887,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Save PDF File</source>
-        <translation>Zapisz plik Adobe PDF</translation>
+        <translation>Zapisz plik PDF</translation>
     </message>
 </context>
 <context>
@@ -2936,7 +2934,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF!</source>
-        <translation>WPS Presentation napotkał błąd podczas próby eksportowania do formatu PDF!</translation>
+        <translation>Program WPS Presentation napotkał błąd podczas próby eksportowania do formatu PDF!</translation>
     </message>
 </context>
 <context>
@@ -2959,15 +2957,15 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document.</source>
-        <translation>WPS Presentation zakończył przeszukiwanie dokumentu.</translation>
+        <translation>Program WPS Presentation zakończył przeszukiwanie dokumentu.</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document. The search item was not found.</source>
-        <translation>WPS Presentation zakończył przeszukiwanie dokumentu. Poszukiwany element nie został znaleziony.</translation>
+        <translation>Program WPS Presentation zakończył przeszukiwanie dokumentu. Poszukiwany element nie został znaleziony.</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document and made %1 replacements.</source>
-        <translation>WPS Presentation zakończył przeszukiwanie dokumentu i wykonał %1 zmian.</translation>
+        <translation>Program WPS Presentation zakończył przeszukiwanie dokumentu i wykonał %1 zmian.</translation>
     </message>
 </context>
 <context>
@@ -3210,12 +3208,8 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  folder, in order to play this file on another computer.</source>
-        <translation variants="yes">
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu, aby odtworzyć ten plik na innym komputerze.</lengthvariant>
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
-        </translation>
+        <translation>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
+folderu, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
 <context>
@@ -3256,12 +3250,8 @@ folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  Zip folder, in order to play this file on another computer.</source>
-        <translation variants="yes">
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu Zip, aby odtworzyć ten plik na innym komputerze.</lengthvariant>
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
-        </translation>
+        <translation>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
+folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
 <context>
@@ -3592,11 +3582,15 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Powiększenie</translation>
+        <translation type="obsolete">Powiększenie</translation>
     </message>
     <message>
         <source>Loop until next sound</source>
         <translation>W pętli do następnego dźwięku</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation>Przejście slajdu</translation>
     </message>
 </context>
 <context>
@@ -4141,10 +4135,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <name>KxWppZoomComboCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation variants="yes">
-            <lengthvariant>Ta wartość nie jest prawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa wielkość.</translation>
     </message>
 </context>
 <context>
@@ -4756,10 +4747,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Export &amp;what:</source>
-        <translation variants="yes">
-            <lengthvariant>Eksportowanie &amp;co:</lengthvariant>
-            <lengthvariant>Eksportuj &amp;co:</lengthvariant>
-        </translation>
+        <translation>&amp;Eksportuj:</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -4870,7 +4858,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation>&amp;Hasło:</translation>
+        <translation>Hasł&amp;o:</translation>
     </message>
     <message>
         <source>Confi&amp;rm:</source>
@@ -4928,7 +4916,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
+        <translation>Uwaga: Tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -4948,7 +4936,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Export PDF File</source>
-        <translation>Eksportuj plik Adobe PDF</translation>
+        <translation>Eksportuj plik PDF</translation>
     </message>
 </context>
 <context>
@@ -4967,7 +4955,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation>Eksportuj do pliku Adobe PDF</translation>
+        <translation>Eksportuj do pliku PDF</translation>
     </message>
 </context>
 <context>
@@ -5137,10 +5125,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Top</source>
-        <translation variants="yes">
-            <lengthvariant>Góra</lengthvariant>
-            <lengthvariant>Górna</lengthvariant>
-        </translation>
+        <translation>Górna</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -5148,10 +5133,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Dół</lengthvariant>
-            <lengthvariant>Dolna</lengthvariant>
-        </translation>
+        <translation>Dolna</translation>
     </message>
     <message>
         <source>Internal margin</source>

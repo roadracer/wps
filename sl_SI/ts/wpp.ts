@@ -212,15 +212,11 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation type="obsolete">Dodaj Načrt</translation>
+        <translation type="unfinished">Dodaj Načrt</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
         <translation>Pokaži ve&amp;like predoglede</translation>
-    </message>
-    <message>
-        <source>Add &amp;Design</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3583,7 +3579,7 @@ If necessary, click Cancel</source>
     <name>KxTpSlideTransition</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished">Povečava</translation>
+        <translation type="obsolete">Povečava</translation>
     </message>
     <message>
         <source>Apply to selected slides:</source>
@@ -3640,6 +3636,10 @@ If necessary, click Cancel</source>
     <message>
         <source>Loop until next sound</source>
         <translation type="unfinished">Ponavljaj do naslednjega zvoka</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

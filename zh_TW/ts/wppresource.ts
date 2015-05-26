@@ -3396,6 +3396,10 @@ On</source>
         <translation type="obsolete">匯出為 PDF</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>匯出為 PDF</translation>
     </message>
@@ -9170,6 +9174,10 @@ Add-Ins</source>
         <translation>匯出為圖片</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>轉存為PDF檔案</translation>
     </message>
@@ -9739,10 +9747,6 @@ Master</source>
         <translation>圖形</translation>
     </message>
     <message>
-        <source>Picture Format Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play</source>
         <translation>播放</translation>
     </message>
@@ -9943,11 +9947,11 @@ Master</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Format Style</source>
+        <source>Shape Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Line</source>
+        <source>Shape Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10077,6 +10081,10 @@ Master</source>
     <message>
         <source>Study Online</source>
         <translation>WPS 學習網站</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -11247,6 +11255,10 @@ AddIns</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export OFD Format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22534,6 +22546,11 @@ Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation type="unfinished">確定</translation>
     </message>
@@ -22886,6 +22903,11 @@ Slide</source>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

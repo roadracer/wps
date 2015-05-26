@@ -1955,7 +1955,7 @@ Microsoft Excel でファイルを開い、保存した後Kingsoft Spreadsheets�
     <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; |.</source>
         <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
-        <translation>·入力した名前に次の文字が含まれていないことを確認してください:  \ / :疑問符（?）、ダブル　フォーテーション（&quot;） 括弧（&lt; &gt;）、 あるいは |。</translation>
+        <translation type="obsolete">·入力した名前に次の文字が含まれていないことを確認してください:  \ / :疑問符（?）、ダブル　フォーテーション（&quot;） 括弧（&lt; &gt;）、 あるいは |。</translation>
     </message>
     <message>
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
@@ -2603,6 +2603,26 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
         <comment>TX_BookReferencingByOther</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; [ ] |.</source>
+        <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
+        <comment>TX_ERROR_INVALIDPASTERG_SHEET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup</source>
+        <comment>TX_SaveAs_CreateBackup</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create a backup file, would you save &quot; %s &quot; without backup ?</source>
+        <comment>TX_CreateBackup_Tip</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8196,6 +8216,16 @@ This backup will be saved to(%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Chinese Office Document Format 2.0(*.uos)</source>
+        <comment>TX_ssDesc_Uof2_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The author supports opening &quot;%s&quot; with read-only way unless you need to modify.Do open with read-only mode?</source>
+        <comment>TX_Recommended_Read_Only</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_render</name>
@@ -10658,7 +10688,7 @@ Workbook</source>
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
-        <translation type="obsolete">Value1,Value2,... 1から30の複素数は、積を計算するために使用されます。</translation>
+        <translation type="unfinished">Value1,Value2,... 1から30の複素数は、積を計算するために使用されます。</translation>
     </message>
     <message>
         <source>Value Date</source>
@@ -10883,7 +10913,7 @@ Workbook</source>
     <message>
         <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
         <comment>TX_ParaDesc_386</comment>
-        <translation type="obsolete">配列1,配列2,...には要素の積の合計を求めたい配列を 2 ～ 255 個まで指定できます。引数となる配列は、行数と列数が等しい配列である必要があります。</translation>
+        <translation type="unfinished">配列1,配列2,...には要素の積の合計を求めたい配列を 2 ～ 255 個まで指定できます。引数となる配列は、行数と列数が等しい配列である必要があります。</translation>
     </message>
     <message>
         <source>binary number</source>
@@ -11893,7 +11923,7 @@ Workbook</source>
     <message>
         <source>is the interest rate per period. For example, use 6%4 for quarterly payment at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
-        <translation type="obsolete">には 1 期間あたりの利率を指定します。たとえば、年率 6% の ローンを四半期払いで返済する場合、利率に  6%/4 を指定します</translation>
+        <translation type="unfinished">には 1 期間あたりの利率を指定します。たとえば、年率 6% の ローンを四半期払いで返済する場合、利率に  6%/4 を指定します</translation>
     </message>
     <message>
         <source>is the interest rate you pay on the money used in the cash flows.</source>
@@ -13043,12 +13073,12 @@ Workbook</source>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
         <comment>TX_ParaDesc_281</comment>
-        <translation type="obsolete">論理式1,論理式2,... には結果が TRUE 又は FALSE になる、 1 ～ 255 個の論理式を指定します</translation>
+        <translation type="unfinished">論理式1,論理式2,... には結果が TRUE 又は FALSE になる、 1 ～ 255 個の論理式を指定します</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
-        <translation type="obsolete">論理式1,論理式2,...には結果が TRUE または FALSE になる、1 から 255 個の条件式を指定できます。</translation>
+        <translation type="unfinished">論理式1,論理式2,...には結果が TRUE または FALSE になる、1 から 255 個の条件式を指定できます。</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
@@ -13073,12 +13103,12 @@ Workbook</source>
     <message>
         <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
-        <translation type="obsolete">数値1,数値2,... には積を積を求めたい数値、論理値又は数値を表す文字列を 1 ～ 255 指定できます</translation>
+        <translation type="unfinished">数値1,数値2,... には積を積を求めたい数値、論理値又は数値を表す文字列を 1 ～ 255 指定できます</translation>
     </message>
     <message>
         <source>number 1,number 2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
-        <translation type="obsolete">数値1,数値2,... には分布の歪度を求めたい数値、名前、配列、又は数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,... には分布の歪度を求めたい数値、名前、配列、又は数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number of payment periods in an investment.</source>
@@ -13093,102 +13123,102 @@ Workbook</source>
     <message>
         <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
-        <translation type="obsolete">数値1,数値2,...には偏差の平方和を求めるために使用する数値を、 1 から 255 個まで指定できます。</translation>
+        <translation type="unfinished">数値1,数値2,...には偏差の平方和を求めるために使用する数値を、 1 から 255 個まで指定できます。</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
-        <translation type="obsolete">数値1,数値2,...には調和平均を求めたい数値、名前、配列、又は数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,...には調和平均を求めたい数値、名前、配列、又は数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
-        <translation type="obsolete">数値1,数値2,...には尖度を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
+        <translation type="unfinished">数値1,数値2,...には尖度を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
-        <translation type="obsolete">数値1,数値2,...には幾何平均を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,...には幾何平均を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 255 values for which you want the least common multiple.</source>
         <comment>TX_ParaDesc_205</comment>
-        <translation type="obsolete">には抽出する値の大きい方から数えた順位を数値で指定します</translation>
+        <translation type="unfinished">には抽出する値の大きい方から数えた順位を数値で指定します</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
-        <translation type="obsolete">数値1,数値2,... には母集団の標本に対応する数値、または数値を含む参照を、1 ～ 255 個まで指定します</translation>
+        <translation type="unfinished">数値1,数値2,... には母集団の標本に対応する数値、または数値を含む参照を、1 ～ 255 個まで指定します</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
         <comment>TX_ParaDesc_382</comment>
-        <translation type="obsolete">数値1,数値1,... には合計を求めたい数値を 1 ～ 255 個まで指定できます。論理値及び文字列が無視されますが、引数として入力されていれば計算の対象となります</translation>
+        <translation type="unfinished">数値1,数値1,... には合計を求めたい数値を 1 ～ 255 個まで指定できます。論理値及び文字列が無視されますが、引数として入力されていれば計算の対象となります</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
-        <translation type="obsolete">数値1,数値2,... には最大値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,... には最大値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
-        <translation type="obsolete">数値1,数値2,...には数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
+        <translation type="unfinished">数値1,数値2,...には数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation type="obsolete">数値1,数値2,... には平均を求めたい数値を、 1 から 255 個まで指定します。</translation>
+        <translation type="unfinished">数値1,数値2,... には平均を求めたい数値を、 1 から 255 個まで指定します。</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
-        <translation type="obsolete">数値1,数値2,... には1～255まで多項式を計算する値を指定します</translation>
+        <translation type="unfinished">数値1,数値2,... には1～255まで多項式を計算する値を指定します</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation type="obsolete">数値1,数値2,... には数値を 255 個まで指定できます。この引数をもとに、絶対偏差の平均が求められます。</translation>
+        <translation type="unfinished">数値1,数値2,... には数値を 255 個まで指定できます。この引数をもとに、絶対偏差の平均が求められます。</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
-        <translation type="obsolete">数値1,数値2,... には母集団の全体に対応する数値、数値を含む参照を、1 ～ 255 個まで指定します</translation>
+        <translation type="unfinished">数値1,数値2,... には母集団の全体に対応する数値、数値を含む参照を、1 ～ 255 個まで指定します</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
-        <translation type="obsolete">数値1,数値2,...には中央値を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
+        <translation type="unfinished">数値1,数値2,...には中央値を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個までを指定できます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
-        <translation type="obsolete">数値1,数値1,... には平方和を求めたい数値、又は数値を含む名前、配列、セル参照を 2 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値1,... には平方和を求めたい数値、又は数値を含む名前、配列、セル参照を 2 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
-        <translation type="obsolete">数値1,数値2,... には最小値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,... には最小値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_423</comment>
-        <translation type="obsolete">数値1,数値2,... には母集団の標本に対応する数値を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,... には母集団の標本に対応する数値を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
-        <translation type="obsolete">数値1,数値2,... には母集団の全体に対応する数値を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,... には母集団の全体に対応する数値を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
-        <translation type="obsolete">数値1,数値2,... には母集団の全体に対応する数値を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,... には母集団の全体に対応する数値を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 values.</source>
         <comment>TX_ParaDesc_152</comment>
-        <translation type="obsolete">数値1,数値2,...には幾何平均を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,...には幾何平均を求めたい数値、名前、配列、数値を含むセル参照を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>period for which you want to find interest.</source>
@@ -13203,7 +13233,7 @@ Workbook</source>
     <message>
         <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
-        <translation type="obsolete">参照1, 参照2, ... には集計するリストの範囲又は参照を 1 ～　29 個まで指定します。</translation>
+        <translation type="unfinished">参照1, 参照2, ... には集計するリストの範囲又は参照を 1 ～　29 個まで指定します。</translation>
     </message>
     <message>
         <source>reference</source>
@@ -13328,7 +13358,7 @@ Workbook</source>
     <message>
         <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
-        <translation type="obsolete">文字列1,文字列2,...には1つにまとめたい文字列を指定します。引数は 1 から 255 個まで指定できます。</translation>
+        <translation type="unfinished">文字列1,文字列2,...には1つにまとめたい文字列を指定します。引数は 1 から 255 個まで指定できます。</translation>
     </message>
     <message>
         <source>the numbers you want to convert.</source>
@@ -13338,62 +13368,62 @@ Workbook</source>
     <message>
         <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
-        <translation type="obsolete">トピック 1,トピック 2,...  にはデータの一部を指定する 1 ～28 個の引数を指定します</translation>
+        <translation type="unfinished">トピック 1,トピック 2,...  にはデータの一部を指定する 1 ～28 個の引数を指定します</translation>
     </message>
     <message>
         <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaInfo_548</comment>
-        <translation type="obsolete">トピック 1,トピック 2,...  にはデータの一部を指定する 1 ～28 個の引数を指定します {1,?} {2,?} {1 ?} {38 ?}</translation>
+        <translation type="unfinished">トピック 1,トピック 2,...  にはデータの一部を指定する 1 ～28 個の引数を指定します {1,?} {2,?} {1 ?} {38 ?}</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
-        <translation type="obsolete">値1,値2,...には  1 から 29 個の引数を指定します。ここからインデックスで指定した値が返されます。</translation>
+        <translation type="unfinished">値1,値2,...には  1 から 29 個の引数を指定します。ここからインデックスで指定した値が返されます。</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
         <comment>TX_ParaDesc_274</comment>
-        <translation type="obsolete">数値1,数値2,... には支払額 と収益額を表す 1 ～ 29 個の引数を指定します。 数値は定期的に、各期末に発生するものです</translation>
+        <translation type="unfinished">数値1,数値2,... には支払額 と収益額を表す 1 ～ 29 個の引数を指定します。 数値は定期的に、各期末に発生するものです</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
-        <translation type="obsolete">値1,値2,...にはカウントしたい値を表す引数を 1 から 255 個まで指定します。</translation>
+        <translation type="unfinished">値1,値2,...にはカウントしたい値を表す引数を 1 から 255 個まで指定します。</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
-        <translation type="obsolete">値1,値2,...にはデータまたはデータが入力したセルの参照を 1 から 255 個まで指定します。数値データだけがカウントされます。</translation>
+        <translation type="unfinished">値1,値2,...にはデータまたはデータが入力したセルの参照を 1 から 255 個まで指定します。数値データだけがカウントされます。</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
-        <translation type="obsolete">数値1,数値2,... には最大値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,... には最大値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
-        <translation type="obsolete">数値1,数値2,... には母集団の標本に対応する数値を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,... には母集団の標本に対応する数値を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
-        <translation type="obsolete">数値1,数値2,... には母集団の標本に対応する値、名前、又は値をへの参照を、1 ～ 255 個まで指定します</translation>
+        <translation type="unfinished">数値1,数値2,... には母集団の標本に対応する値、名前、又は値をへの参照を、1 ～ 255 個まで指定します</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
-        <translation type="obsolete">数値1,数値2,... には平均を算出する値を、 1 から 255 個まで指定します。</translation>
+        <translation type="unfinished">数値1,数値2,... には平均を算出する値を、 1 から 255 個まで指定します。</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
-        <translation type="obsolete">数値1,数値2,... には最小値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
+        <translation type="unfinished">数値1,数値2,... には最小値を 求めたい数値、空白セル、論理値又は数値を表す文字列を 1 ～ 255 個まで指定できます</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
-        <translation type="obsolete">数値1,数値2,... には母集団の全体に対応する数値、名前、又は数値を含む参照を、1 ～ 255 個まで指定します</translation>
+        <translation type="unfinished">数値1,数値2,... には母集団の全体に対応する数値、名前、又は数値を含む参照を、1 ～ 255 個まで指定します</translation>
     </message>
     <message>
         <source>value_if_error</source>
@@ -14422,231 +14452,51 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaInfo_546</comment>
-        <translation type="obsolete">には登録された COM オートメーション アドインのプログラム ProgID の名前を指定します。名前は二重引用符で囲みます</translation>
-    </message>
-    <message>
-        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaInfo_547</comment>
-        <translation type="obsolete">にはアドインを実行するサーバーの名前を指定します。名前は二重引用符で囲みます。アドインをローカルで実行する場合は、空文字列を使用します</translation>
-    </message>
-    <message>
-        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
-        <comment>TX_ParaDesc_009</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
-        <comment>TX_ParaDesc_018</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
-        <comment>TX_ParaDesc_019</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
-        <comment>TX_ParaDesc_020</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
-        <comment>TX_ParaDesc_044</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
-        <comment>TX_ParaDesc_051</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
-        <comment>TX_ParaDesc_059</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1 value2%1... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
-        <comment>TX_ParaDesc_060</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
-        <comment>TX_ParaDesc_094</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
-        <comment>TX_ParaDesc_139</comment>
-        <translation type="unfinished">には 1 期間あたりの利率を指定します。たとえば、年率 6% の ローンを四半期払いで返済する場合、利率に  6%/4 を指定します {6%/4 ?} {6%?}</translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 values.</source>
-        <comment>TX_ParaDesc_152</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
-        <comment>TX_ParaDesc_153</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
-        <comment>TX_ParaDesc_160</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
-        <comment>TX_ParaDesc_203</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 255 values for which you want the least common multiple.</source>
-        <comment>TX_ParaDesc_205</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
-        <comment>TX_ParaDesc_234</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
-        <comment>TX_ParaDesc_235</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
-        <comment>TX_ParaDesc_237</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
-        <comment>TX_ParaDesc_244</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
-        <comment>TX_ParaDesc_245</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
-        <comment>TX_ParaDesc_254</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
-        <comment>TX_ParaDesc_274</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
-        <comment>TX_ParaDesc_281</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
-        <comment>TX_ParaDesc_307</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
-        <comment>TX_ParaDesc_351</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
-        <comment>TX_ParaDesc_360</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
-        <comment>TX_ParaDesc_372</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
-        <comment>TX_ParaDesc_373</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
-        <comment>TX_ParaDesc_374</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
-        <comment>TX_ParaDesc_375</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
-        <comment>TX_ParaDesc_381</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
-        <comment>TX_ParaDesc_382</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
-        <comment>TX_ParaDesc_386</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
-        <comment>TX_ParaDesc_387</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_423</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
-        <comment>TX_ParaDesc_424</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
-        <comment>TX_ParaDesc_425</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
-        <comment>TX_ParaDesc_426</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
-        <comment>TX_ParaDesc_476</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Value 1%1value 2%1...1 to 30 of plural numbers, used to calculate the product.</source>
-        <comment>TX_ParaDesc_522</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
-        <comment>TX_ParaDesc_546</comment>
         <translation type="unfinished">には登録された COM オートメーション アドインのプログラム ProgID の名前を指定します。名前は二重引用符で囲みます</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
-        <comment>TX_ParaDesc_547</comment>
+        <comment>TX_ParaInfo_547</comment>
         <translation type="unfinished">にはアドインを実行するサーバーの名前を指定します。名前は二重引用符で囲みます。アドインをローカルで実行する場合は、空文字列を使用します</translation>
     </message>
     <message>
-        <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
-        <comment>TX_ParaDesc_548</comment>
-        <translation type="unfinished"></translation>
+        <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
+        <comment>TX_ParaDesc_139</comment>
+        <translation type="obsolete">には 1 期間あたりの利率を指定します。たとえば、年率 6% の ローンを四半期払いで返済する場合、利率に  6%/4 を指定します {6%/4 ?} {6%?}</translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaDesc_546</comment>
+        <translation type="obsolete">には登録された COM オートメーション アドインのプログラム ProgID の名前を指定します。名前は二重引用符で囲みます</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaDesc_547</comment>
+        <translation type="obsolete">にはアドインを実行するサーバーの名前を指定します。名前は二重引用符で囲みます。アドインをローカルで実行する場合は、空文字列を使用します</translation>
     </message>
     <message>
         <source>Directory_text</source>
         <comment>TX_ParaInfo_351</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission to this workbook is currently restricted.</source>
+        <comment>TX_IRMReadOnly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Page </source>
+        <comment>TX_CHECKSPELLING_FromFirstPage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Odd Page </source>
+        <comment>TX_CHECKSPELLING_FromOddPage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even Page </source>
+        <comment>TX_CHECKSPELLING_FromEvenPage</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

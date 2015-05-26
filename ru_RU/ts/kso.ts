@@ -2558,7 +2558,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Unicode Text</source>
         <comment>TX_KSO_CF_UNICODE_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Текст в кодировке Unicode</translation>
     </message>
 </context>
 <context>
@@ -5388,7 +5388,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
-        <translation type="unfinished"></translation>
+        <translation>Если не требуется изменений документа, то файл может быть открыт только для чтения. Открыть только для чтения?</translation>
+    </message>
+    <message>
+        <source>Chinese Office Software Document Format 2.0</source>
+        <comment>_WpioDesc_UOF2</comment>
+        <translation>Документ формата Chinese Office 2.0</translation>
     </message>
 </context>
 <context>
@@ -5401,7 +5406,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>&amp;Restrict Permission...</source>
         <comment>TxKRM_Menu_Rights</comment>
-        <translation>Ограничить &amp;разрешения.....</translation>
+        <translation>Ограничить &amp;разрешения...</translation>
     </message>
     <message>
         <source>The number of copies is out of range. Do you want to cut the number of copies or cancel this print task?</source>
@@ -6314,7 +6319,12 @@ You can click the button to recover files you work on.</source>
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s ошибки во время резервного копирования! Попробуйте следующие действия:
+• Проверьте наличие права на запись в каталог резервного копирования, или измените каталог для резервного копирования.
+• Примените [Сохранить как] текстовый файл (*.txt);
+• Примените [Копировать/Вставить] содержимое в новый файл;
+• Откажитесь от изменения файла.
+(%s)</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the  following operations: 
@@ -6324,12 +6334,262 @@ You can click the button to recover files you work on.</source>
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s ошибки во время резервного копирования! Попробуйте следующие действия:
+• Проверьте наличие права на запись в каталог резервного копирования, или измените каталог для резервного копирования.
+• Примените [Отменить] для предыдущих операций и затем [Сохранить];
+• Примените [Копировать/Вставить] содержимое в новый файл;
+• Откажитесь от изменения файла.
+(%s)</translation>
     </message>
     <message>
         <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
         <comment>_kso_FileFormatNotSupport</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выбранный формат файла не  соответствует формату файлов WPS. Сохранить файл в выбранном формате?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove permission?</source>
+        <comment>_kso_kirm_Remove_Permission</comment>
+        <translation>Вы действительно хотите удалить разрешение?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete this stored credential? You will not be able to use this credential unless you re-enable it.</source>
+        <comment>_kso_kirm_Remove_Credential</comment>
+        <translation>Удалить сохраненные учетные сведения? Эти учетные сведения нельзя будет использовать, пока они снова не будут включены.</translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy setting are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_krim_Error_SelectAuthor</comment>
+        <translation>Данная служба временно недоступна. Необходимо убедиться в наличии связи с этим сервером. Возможно, работа выполняется автономно, настройки прокси-сервера запрещают подключение, либо в сети имеются временные неполадки.</translation>
+    </message>
+    <message>
+        <source>E-mail addresses must be in the form of &apos;someone@example.com&apos;. The following e-mail address is not valid or could not be resolved: &apos;%1&apos;. Verify that this is a valid e-mail address.</source>
+        <comment>_kso_krim_Error_EmailFormat</comment>
+        <translation>Адреса электронной почты следует задавать в формате &quot;someone@example.com&quot;. Адрес электронной почты недопустим либо его не удается разрешить: &quot;%1&quot;. Проверьте правильность указания этого адреса электронной почты.</translation>
+    </message>
+    <message>
+        <source>You cannot change your access level. If you want to change your access level, request that another user with Full Control change your access level.</source>
+        <comment>_kso_krim_Error_ChangeOwnPermission</comment>
+        <translation>Пользователь не может изменить свой уровень доступа. Если требуется изменить уровень доступа, попросите сделать это другого пользователя с правом полного доступа.</translation>
+    </message>
+    <message>
+        <source>Everyone</source>
+        <comment>_kso_krim_User_Everyone</comment>
+        <translation>Все</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <comment>_kso_krim_Permission_Read</comment>
+        <translation>Чтение</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <comment>_kso_krim_Permission_Change</comment>
+        <translation>Изменить</translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <comment>_kso_krim_Permission_FullControl</comment>
+        <translation>Полный доступ</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>_kso_krim_Permission_Custom</comment>
+        <translation>Выбор</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <comment>_kso_krim_TableHeader_Name</comment>
+        <translation>Имя</translation>
+    </message>
+    <message>
+        <source>Access Level</source>
+        <comment>_kso_krim_TableHeader_AccessLevel</comment>
+        <translation>Уровень доступа</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove the user?</source>
+        <comment>_kso_krim_Question_RemoveUser</comment>
+        <translation>Удалить пользователя?</translation>
+    </message>
+    <message>
+        <source>This will set the default permission policy for all documents, workbooks, forms and presentations with restricted permission.</source>
+        <comment>_kso_krim_Permission_SetDefault</comment>
+        <translation>Для всех документов, книг, форм и презентаций с ограниченными разрешениями будет применена политика разрешений по умолчанию.</translation>
+    </message>
+    <message>
+        <source>The address to request additional permissions is invalid. Enter a valid e-mail or Web address. Example: someone@example.com.</source>
+        <comment>_kso_krim_Error_EmailInvalid</comment>
+        <translation>Неверный адрес для запроса дополнительных разрешений. Введите допустимый адрес электронной почты или веб-адрес. Пример: someone@example.com.</translation>
+    </message>
+    <message>
+        <source>The expiration date is not valid. Enter a date between tomorrow and 2100/12/31.</source>
+        <comment>_kso_krim_Error_DateInvalid</comment>
+        <translation>Недопустимая дата окончания срока действия. Введите дату между завтрашним числом и 2100/12/31.</translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <comment>_kso_krim_Permission_ChangeUser</comment>
+        <translation>Сменить пользователя...</translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <comment>_kso_krim_Permission_RequestPermission</comment>
+        <translation>Запросить дополнительные разрешения...</translation>
+    </message>
+    <message>
+        <source>Unrestricted</source>
+        <comment>_kso_krim_Permission_NoExpireDate</comment>
+        <translation>Неограниченный</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <comment>_kso_krim_Permission_Yes</comment>
+        <translation>Да</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>_kso_krim_Permission_No</comment>
+        <translation>Нет</translation>
+    </message>
+    <message>
+        <source>Select Names</source>
+        <comment>_kso_krim_Permission_SelectNames</comment>
+        <translation>Выбор имен</translation>
+    </message>
+    <message>
+        <source>&amp;Change User</source>
+        <comment>_kso_irmio_Button_ChangeUser</comment>
+        <translation>С&amp;менить пользователя</translation>
+    </message>
+    <message>
+        <source>R&amp;esquest permissions</source>
+        <comment>_kso_irmio_Button_RequestPermission</comment>
+        <translation>За&amp;просить разрешения</translation>
+    </message>
+    <message>
+        <source>&amp;Yes</source>
+        <comment>_kso_irmio_Button_Yes</comment>
+        <translation>&amp;Да</translation>
+    </message>
+    <message>
+        <source>&amp;No</source>
+        <comment>_kso_irmio_Button_No</comment>
+        <translation>&amp;Нет</translation>
+    </message>
+    <message>
+        <source>Unexpected error occurred. Please try again later or contact your system administrator.</source>
+        <comment>_kso_irmio_Error_Unexpected</comment>
+        <translation>Произошла неожиданная ошибка. Повторите попытку позже или обратитесь к администратору.</translation>
+    </message>
+    <message>
+        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within th Control Panel.</source>
+        <comment>_kso_irmio_Error_Configuration</comment>
+        <translation>Ошибка конфигурации управления правами на доступ к данным (IRM). Повторите попытку или восстановите продукт с помощью панели управления.</translation>
+    </message>
+    <message>
+        <source>Cannot use test manifests against production servers.</source>
+        <comment>_kso_irmio_Error_Production</comment>
+        <translation>Нельзя использовать тестовые манифесты с рабочими серверами.</translation>
+    </message>
+    <message>
+        <source>Information Rights Management cannot operate in the presence of a debugger. Please close your debugger and try again.</source>
+        <comment>_kso_irmio_Error_Debugging</comment>
+        <translation>Средства управления правами на доступ к данным не могут работать при запущенном отладчике. Закройте отладчик и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Connection</comment>
+        <translation>Данная служба временно недоступна. Необходимо убедиться в наличии связи с этим сервером. Возможно, работа выполняется автономно, настройки прокси-сервера запрещают подключение, либо в сети имеются временные неполадки.</translation>
+    </message>
+    <message>
+        <source>The service at %1 temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Location</comment>
+        <translation>Данная служба %1 временно недоступна. Необходимо убедиться в наличии связи с этим сервером. Возможно, работа выполняется автономно, настройки прокси-сервера запрещают подключение, либо в сети имеются временные неполадки.</translation>
+    </message>
+    <message>
+        <source>Cannot user feature without credentials</source>
+        <comment>_kso_irmio_Error_Credentials</comment>
+        <translation>Невозможно использовать пользовательскую функцию без учётных данных</translation>
+    </message>
+    <message>
+        <source>This document is currently restricted. You do not have credentials that allow you to open this document. You can choose 
+~try changing another user to open the document;
+~request updated permission from %1.</source>
+        <comment>_kso_irmio_Error_No_Permission</comment>
+        <translation>В настоящее время доступ к документу ограничен. Ваши учётные данные не позволяют открыть этот документ.
+Можно выбрать следующие действия -
+~ изменить пользователя для открытия документа;
+~ запросите обновлённые разрешения от %1.</translation>
+    </message>
+    <message>
+        <source>You do not have credentials that allow you to open this document.
+Do you want to open it using a different set of credentials?</source>
+        <comment>_kso_irmio_Error_NoPermissionEmail</comment>
+        <translation>У вас нет учетных данных, которые позволяли бы открыть этот файл. Открыть его с использованием другого набора учетных данных?</translation>
+    </message>
+    <message>
+        <source>Verifying your logon information for opening content with restricted permission</source>
+        <comment>_kso_irmio_Verifying</comment>
+        <translation>Проверка указанных при входе сведений для открытия содержимого с ограниченными разрешениями...</translation>
+    </message>
+    <message>
+        <source>Information Rights Management(IRM) in Microsoft Office helps prevent sensitive documents and e-mail messages form being forwarded, edited or copied by unauthorized people.
+
+To use IRM you need to install the Windows Rights Management client. If you have an existing version of the Windows Rights Management client installed you will need to uninstall it first and then download the lastest version of the Windows Rights Management client. Do you want to download the lastest version now? </source>
+        <comment>_kso_irmio_No_Install_IRM</comment>
+        <translation>Управление правами на доступ к данным (IRM) в Microsoft Office помогает предотвратить несанкционированную пересылку, изменение и копирование конфиденциальных документов и сообщений электронной почты.
+
+Для использования IRM необходимо установить клиент управления правами Windows (WRM). Если на компьютере уже установлен клиент управления правами Windows, необходимо сначала удалить его, а затем загрузить его новую версию.Загрузить новую версию клиента управления правами Windows?</translation>
+    </message>
+    <message>
+        <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
+        <comment>_kso_krim_SaveNeedVerifyCredential</comment>
+        <translation>Срок действия вашего сеанса работы с использованием учетной записи %1 истек. Для продолжения служба должна вновь выполнить проверку ваших учетных данных. В ответ на запрос введите имя пользователя и пароль для %1, иначе возможна потеря файла.</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <comment>_kso_kirm_Permission_RestrictedAccess</comment>
+        <translation>Ограниченный доступ</translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted. Only specified users can access this content. </source>
+        <comment>_kso_krim_Permission_PermissionHint</comment>
+        <translation>Разрешения в данный момент ограничены. Доступ к этому содержимому разрешен только указанным пользователям.</translation>
+    </message>
+    <message>
+        <source>Change Permission...</source>
+        <comment>_kso_krim_Permission_ChangePermission</comment>
+        <translation>Изменить разрешение...</translation>
+    </message>
+    <message>
+        <source>View Permission...</source>
+        <comment>_kso_krim_Permission_ViewPermission</comment>
+        <translation>Просмотр разрешений...</translation>
+    </message>
+    <message>
+        <source>Permission will expire within %1 days. </source>
+        <comment>_kso_krim_Permission_ExpirationHint</comment>
+        <translation>Срок действия разрешений: %1 дней.</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <comment>_kso_krim_UnrestrictedAccess</comment>
+        <translation>Неограниченный доступ</translation>
+    </message>
+    <message>
+        <source>Restricted Access(Read)</source>
+        <comment>_kso_krim_RestrictedAccess_Read</comment>
+        <translation>Ограниченный доступ (Чтение)</translation>
+    </message>
+    <message>
+        <source>Restricted Access(Change)</source>
+        <comment>_kso_krim_RestrictedAccess_Change</comment>
+        <translation>Ограниченный доступ (Изменение)</translation>
+    </message>
+    <message>
+        <source>Restricted Access(Full Control)</source>
+        <comment>_kso_krim_RestrictedAccess_FullControl</comment>
+        <translation>Ограниченный доступ (Полный доступ)</translation>
     </message>
 </context>
 <context>
@@ -6388,6 +6648,11 @@ Do you want to continue?</source>
         <translation>Принтер не поддерживает текущий размер бумаги. В случае продолжения, возможно неудовлетворительное качество печати.
 Вы можете добавить в свойствах принтера другой размер бумаги %d mm ×%d mm, и повторить печать.
 Продолжить?</translation>
+    </message>
+    <message>
+        <source>Unable to find the cups library, make sure you have installed!</source>
+        <comment>_ksoErr_Print_NoCupsLibrary</comment>
+        <translation>Не удаётся найти библиотеку: убедитесь, что она установлена!</translation>
     </message>
 </context>
 <context>

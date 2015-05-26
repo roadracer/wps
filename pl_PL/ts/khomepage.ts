@@ -61,5 +61,10 @@
         <comment>title</comment>
         <translation>Szablony online</translation>
     </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
+        <translation>Szablony online Pro</translation>
+    </message>
 </context>
 </TS>

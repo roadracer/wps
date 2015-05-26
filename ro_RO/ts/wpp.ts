@@ -120,7 +120,11 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation>Adaugă &amp;proiect</translation>
+        <translation type="obsolete">Adaugă &amp;proiect</translation>
+    </message>
+    <message>
+        <source>Add Design</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3295,7 +3299,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <name>KxTpSlideTransition</name>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
     </message>
     <message>
         <source>Apply to selected slides:</source>
@@ -3352,6 +3356,10 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     <message>
         <source>Loop until next sound</source>
         <translation>Buclă până la sunetul următor</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

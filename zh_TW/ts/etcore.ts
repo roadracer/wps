@@ -1950,7 +1950,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; |.</source>
         <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
-        <translation>· 確認名稱中不包含以下字元:  \ / : ? &quot; &lt; &gt; 或 |。</translation>
+        <translation type="obsolete">· 確認名稱中不包含以下字元:  \ / : ? &quot; &lt; &gt; 或 |。</translation>
     </message>
     <message>
         <source>• Make sure the name you entered does not exceed 218 characters.</source>
@@ -2591,6 +2591,26 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
         <comment>TX_BookReferencingByOther</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; [ ] |.</source>
+        <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
+        <comment>TX_ERROR_INVALIDPASTERG_SHEET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup</source>
+        <comment>TX_SaveAs_CreateBackup</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create a backup file, would you save &quot; %s &quot; without backup ?</source>
+        <comment>TX_CreateBackup_Tip</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8197,6 +8217,16 @@ This backup will be saved to(%s)</source>
         <comment>TX_ssDesc_Normal_</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Chinese Office Document Format 2.0(*.uos)</source>
+        <comment>TX_ssDesc_Uof2_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The author supports opening &quot;%s&quot; with read-only way unless you need to modify.Do open with read-only mode?</source>
+        <comment>TX_Recommended_Read_Only</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_render</name>
@@ -10654,7 +10684,7 @@ Workbook</source>
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
-        <translation type="obsolete">數字1,數字2,... 1 到 30 個複數，用於求其乘積。</translation>
+        <translation type="unfinished">數字1,數字2,... 1 到 30 個複數，用於求其乘積。</translation>
     </message>
     <message>
         <source>Value Date</source>
@@ -10879,7 +10909,7 @@ Workbook</source>
     <message>
         <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
         <comment>TX_ParaDesc_386</comment>
-        <translation type="obsolete">陣列1,陣列2,... 為 2 到 30 個陣列。所有陣列的大小必須相同</translation>
+        <translation type="unfinished">陣列1,陣列2,... 為 2 到 30 個陣列。所有陣列的大小必須相同</translation>
     </message>
     <message>
         <source>binary number</source>
@@ -11889,7 +11919,7 @@ Workbook</source>
     <message>
         <source>is the interest rate per period. For example, use 6%4 for quarterly payment at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
-        <translation type="obsolete">為每期利率。例如，使用 6%/4 表示 6% 之下的每季付款利率</translation>
+        <translation type="unfinished">為每期利率。例如，使用 6%/4 表示 6% 之下的每季付款利率</translation>
     </message>
     <message>
         <source>is the interest rate you pay on the money used in the cash flows.</source>
@@ -13039,12 +13069,12 @@ Workbook</source>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
         <comment>TX_ParaDesc_281</comment>
-        <translation type="obsolete">邏輯值1,邏輯值2,... 為欲測試之 1 到 30 個條件式，其值可為 TRUE 或 FALSE</translation>
+        <translation type="unfinished">邏輯值1,邏輯值2,... 為欲測試之 1 到 30 個條件式，其值可為 TRUE 或 FALSE</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
-        <translation type="obsolete">邏輯值1, 邏輯值2,... 為要測試的條件，有 1 到 30 個，其結果為 TRUE 或 FALSE，可能為邏輯值、陣列或參照</translation>
+        <translation type="unfinished">邏輯值1, 邏輯值2,... 為要測試的條件，有 1 到 30 個，其結果為 TRUE 或 FALSE，可能為邏輯值、陣列或參照</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
@@ -13069,12 +13099,12 @@ Workbook</source>
     <message>
         <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個欲相乘之引數，其值為數字、邏輯值或數字的文字格式</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 30 個欲相乘之引數，其值為數字、邏輯值或數字的文字格式</translation>
     </message>
     <message>
         <source>number 1,number 2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
-        <translation type="obsolete">數值1,數值2,...為 1 到 255 個引數。可為數值，或是內容為數值的陣列、名稱、儲存格參照，用以求算偏態</translation>
+        <translation type="unfinished">數值1,數值2,...為 1 到 255 個引數。可為數值，或是內容為數值的陣列、名稱、儲存格參照，用以求算偏態</translation>
     </message>
     <message>
         <source>number of payment periods in an investment.</source>
@@ -13089,102 +13119,102 @@ Workbook</source>
     <message>
         <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
-        <translation type="obsolete">數值1,數值2,...計算差異平方和的 1 至 30 個引數，或陣列或陣列參照</translation>
+        <translation type="unfinished">數值1,數值2,...計算差異平方和的 1 至 30 個引數，或陣列或陣列參照</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
-        <translation type="obsolete">數值1,數值2,... 是您想計算其調和平均數的 1 到 30 個引數，可為數字或含有數字的名稱、陣列或參照位址</translation>
+        <translation type="unfinished">數值1,數值2,... 是您想計算其調和平均數的 1 到 30 個引數，可為數字或含有數字的名稱、陣列或參照位址</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個引數。可為數字，或是含有數字的名稱、陣列或參照位址，用以求算其峰度值</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 30 個引數。可為數字，或是含有數字的名稱、陣列或參照位址，用以求算其峰度值</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
-        <translation type="obsolete">數值1,數值2,... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+        <translation type="unfinished">數值1,數值2,... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 255 values for which you want the least common multiple.</source>
         <comment>TX_ParaDesc_205</comment>
-        <translation type="obsolete">為在陣列或儲存格範圍中所欲傳回的位置 (從最大起算)</translation>
+        <translation type="unfinished">為在陣列或儲存格範圍中所欲傳回的位置 (從最大起算)</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個自母體抽樣出來的樣本值。可以直接輸入數值到函數中，或是輸入樣本所在的儲存格參照位址</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 255 個自母體抽樣出來的樣本值。可以直接輸入數值到函數中，或是輸入樣本所在的儲存格參照位址</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
         <comment>TX_ParaDesc_382</comment>
-        <translation type="obsolete">為 1 到 30 個所要加總的數值。在所要加總的儲存格中邏輯值及文字將略過不計，而所要加總的引數如有邏輯值及文字不略過不計</translation>
+        <translation type="unfinished">為 1 到 30 個所要加總的數值。在所要加總的儲存格中邏輯值及文字將略過不計，而所要加總的引數如有邏輯值及文字不略過不計</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
-        <translation type="obsolete">數值1,數值2,...為 1 到 30 個引數。可為數值，或是含有數字的名稱、陣列或參照位址</translation>
+        <translation type="unfinished">數值1,數值2,...為 1 到 30 個引數。可為數值，或是含有數字的名稱、陣列或參照位址</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個欲求其平均值的數值引數</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 30 個欲求其平均值的數值引數</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
-        <translation type="obsolete">數字1,數字2,... 是 1 到 255 您要多項式的值</translation>
+        <translation type="unfinished">數字1,數字2,... 是 1 到 255 您要多項式的值</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個用來求其計算絕對平均差的引數</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 30 個用來求其計算絕對平均差的引數</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
-        <translation type="obsolete">數字1, 數字2, ... 為 1 到 255 個母體數值。可以直接輸入數值到函數中，或是輸入母體所在的儲存格參照</translation>
+        <translation type="unfinished">數字1, 數字2, ... 為 1 到 255 個母體數值。可以直接輸入數值到函數中，或是輸入母體所在的儲存格參照</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個數字、名稱、陣列或參照，其內容包含欲求出中位數的數字</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 30 個數字、名稱、陣列或參照，其內容包含欲求出中位數的數字</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
-        <translation type="obsolete">数字1,数字2, ... 用以求算平方和的 1 至 30 个数字，可以是數字，或是含有數字的名稱、陣列或參照位址</translation>
+        <translation type="unfinished">数字1,数字2, ... 用以求算平方和的 1 至 30 个数字，可以是數字，或是含有數字的名稱、陣列或參照位址</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_423</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個母體樣本資料</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 255 個母體樣本資料</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 values.</source>
         <comment>TX_ParaDesc_152</comment>
-        <translation type="obsolete">數值1,數值2,... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+        <translation type="unfinished">數值1,數值2,... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
     </message>
     <message>
         <source>period for which you want to find interest.</source>
@@ -13199,7 +13229,7 @@ Workbook</source>
     <message>
         <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
-        <translation type="obsolete">Ref1, Ref2, ... 為 1 到 29 個要計算小計的範圍或參照</translation>
+        <translation type="unfinished">Ref1, Ref2, ... 為 1 到 29 個要計算小計的範圍或參照</translation>
     </message>
     <message>
         <source>reference</source>
@@ -13324,7 +13354,7 @@ Workbook</source>
     <message>
         <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
-        <translation type="obsolete">字串1,字串2,... 為1 到 30 個文字串，用以合併為單一字串。它們可以是文字串、數字、或單一儲存格的參照</translation>
+        <translation type="unfinished">字串1,字串2,... 為1 到 30 個文字串，用以合併為單一字串。它們可以是文字串、數字、或單一儲存格的參照</translation>
     </message>
     <message>
         <source>the numbers you want to convert.</source>
@@ -13334,62 +13364,62 @@ Workbook</source>
     <message>
         <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
-        <translation type="obsolete">是個數從 1 到 28 的參數，用來指定一段資料</translation>
+        <translation type="unfinished">是個數從 1 到 28 的參數，用來指定一段資料</translation>
     </message>
     <message>
         <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaInfo_548</comment>
-        <translation type="obsolete">是個數從 1 到 28 的參數，用來指定一段資料 {1,?} {2,?} {1 ?} {38 ?}</translation>
+        <translation type="unfinished">是個數從 1 到 28 的參數，用來指定一段資料 {1,?} {2,?} {1 ?} {38 ?}</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 29 個數值、儲存格參照、名稱、公式、函數、或文字的引數，CHOOSE 函數會依照 Index_num 的值從中取用</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 29 個數值、儲存格參照、名稱、公式、函數、或文字的引數，CHOOSE 函數會依照 Index_num 的值從中取用</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
         <comment>TX_ParaDesc_274</comment>
-        <translation type="obsolete">數值1,數值2, ... 為 1 到 29 個付款或收入的組合。並且此些付款或是收入平均地發生於各期的期末</translation>
+        <translation type="unfinished">數值1,數值2, ... 為 1 到 29 個付款或收入的組合。並且此些付款或是收入平均地發生於各期的期末</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
-        <translation type="obsolete">數值1,數值2,...為 1 到 30 的引數，可以對數值或儲存格進行計算。它們可以是任何形式的資訊 </translation>
+        <translation type="unfinished">數值1,數值2,...為 1 到 30 的引數，可以對數值或儲存格進行計算。它們可以是任何形式的資訊 </translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
-        <translation type="obsolete">數值1,數值2,...為 1 到 30 的引數，可以包含或參照到不同類型的資料，但是只會計算數值資料</translation>
+        <translation type="unfinished">數值1,數值2,...為 1 到 30 的引數，可以包含或參照到不同類型的資料，但是只會計算數值資料</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個母體樣本資料</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 255 個母體樣本資料</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個母體樣本資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 255 個母體樣本資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
-        <translation type="obsolete">數值1,數值2,... 是 1 到 30 個欲求其平均值的引數</translation>
+        <translation type="unfinished">數值1,數值2,... 是 1 到 30 個欲求其平均值的引數</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
-        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個母體資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
+        <translation type="unfinished">數值1,數值2,... 為 1 到 255 個母體資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
     </message>
     <message>
         <source>value_if_error</source>
@@ -14405,12 +14435,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaInfo_546</comment>
-        <translation type="obsolete">是已註冊之 COM Automation 增益集的 ProgID 的名稱。請將執行增益集的伺服器的名稱置於引號內</translation>
+        <translation type="unfinished">是已註冊之 COM Automation 增益集的 ProgID 的名稱。請將執行增益集的伺服器的名稱置於引號內</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaInfo_547</comment>
-        <translation type="obsolete">是要執行增益集的伺服器的名稱。請將此名稱置於引號內。若要在本機執行增益集，請使用空字串</translation>
+        <translation type="unfinished">是要執行增益集的伺服器的名稱。請將此名稱置於引號內。若要在本機執行增益集，請使用空字串</translation>
     </message>
     <message>
         <source>Directory_text</source>
@@ -14420,217 +14450,237 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
-        <translation type="unfinished">邏輯值1%1 邏輯值2%1... 為要測試的條件，有 1 到 30 個，其結果為 TRUE 或 FALSE，可能為邏輯值、陣列或參照</translation>
+        <translation type="obsolete">邏輯值1%1 邏輯值2%1... 為要測試的條件，有 1 到 30 個，其結果為 TRUE 或 FALSE，可能為邏輯值、陣列或參照</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 30 個用來求其計算絕對平均差的引數</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 30 個用來求其計算絕對平均差的引數</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 30 個欲求其平均值的數值引數</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 30 個欲求其平均值的數值引數</translation>
     </message>
     <message>
         <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
-        <translation type="unfinished">數值1%1數值2%1... 是 1 到 30 個欲求其平均值的引數</translation>
+        <translation type="obsolete">數值1%1數值2%1... 是 1 到 30 個欲求其平均值的引數</translation>
     </message>
     <message>
         <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 29 個數值、儲存格參照、名稱、公式、函數、或文字的引數，CHOOSE 函數會依照 Index_num 的值從中取用</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 29 個數值、儲存格參照、名稱、公式、函數、或文字的引數，CHOOSE 函數會依照 Index_num 的值從中取用</translation>
     </message>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
-        <translation type="unfinished">字串1%1字串2%1... 為1 到 30 個文字串，用以合併為單一字串。它們可以是文字串、數字、或單一儲存格的參照</translation>
+        <translation type="obsolete">字串1%1字串2%1... 為1 到 30 個文字串，用以合併為單一字串。它們可以是文字串、數字、或單一儲存格的參照</translation>
     </message>
     <message>
         <source>value1%1value2%1... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
-        <translation type="unfinished">數值1%1數值2%1...為 1 到 30 的引數，可以包含或參照到不同類型的資料，但是只會計算數值資料</translation>
+        <translation type="obsolete">數值1%1數值2%1...為 1 到 30 的引數，可以包含或參照到不同類型的資料，但是只會計算數值資料</translation>
     </message>
     <message>
         <source>value1%1 value2%1... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
-        <translation type="unfinished">數值1%1數值2%1...為 1 到 30 的引數，可以對數值或儲存格進行計算。它們可以是任何形式的資訊 </translation>
+        <translation type="obsolete">數值1%1數值2%1...為 1 到 30 的引數，可以對數值或儲存格進行計算。它們可以是任何形式的資訊 </translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
-        <translation type="unfinished">數值1%1數值2%1...計算差異平方和的 1 至 30 個引數，或陣列或陣列參照</translation>
+        <translation type="obsolete">數值1%1數值2%1...計算差異平方和的 1 至 30 個引數，或陣列或陣列參照</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 values.</source>
         <comment>TX_ParaDesc_152</comment>
-        <translation type="unfinished">數值1%1數值2%1... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+        <translation type="obsolete">數值1%1數值2%1... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
-        <translation type="unfinished">數值1%1數值2%1... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+        <translation type="obsolete">數值1%1數值2%1... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
-        <translation type="unfinished">數值1%1數值2%1... 是您想計算其調和平均數的 1 到 30 個引數，可為數字或含有數字的名稱、陣列或參照位址</translation>
+        <translation type="obsolete">數值1%1數值2%1... 是您想計算其調和平均數的 1 到 30 個引數，可為數字或含有數字的名稱、陣列或參照位址</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 30 個引數。可為數字，或是含有數字的名稱、陣列或參照位址，用以求算其峰度值</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 30 個引數。可為數字，或是含有數字的名稱、陣列或參照位址，用以求算其峰度值</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 255 values for which you want the least common multiple.</source>
         <comment>TX_ParaDesc_205</comment>
-        <translation type="unfinished">為在陣列或儲存格範圍中所欲傳回的位置 (從最大起算)</translation>
+        <translation type="obsolete">為在陣列或儲存格範圍中所欲傳回的位置 (從最大起算)</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
     </message>
     <message>
         <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 30 個數字、名稱、陣列或參照，其內容包含欲求出中位數的數字</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 30 個數字、名稱、陣列或參照，其內容包含欲求出中位數的數字</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
     </message>
     <message>
         <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
-        <translation type="unfinished">數值1%1數值2%1...為 1 到 30 個引數。可為數值，或是含有數字的名稱、陣列或參照位址</translation>
+        <translation type="obsolete">數值1%1數值2%1...為 1 到 30 個引數。可為數值，或是含有數字的名稱、陣列或參照位址</translation>
     </message>
     <message>
         <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
         <comment>TX_ParaDesc_274</comment>
-        <translation type="unfinished">數值1%1數值2%1 ... 為 1 到 29 個付款或收入的組合。並且此些付款或是收入平均地發生於各期的期末</translation>
+        <translation type="obsolete">數值1%1數值2%1 ... 為 1 到 29 個付款或收入的組合。並且此些付款或是收入平均地發生於各期的期末</translation>
     </message>
     <message>
         <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
         <comment>TX_ParaDesc_281</comment>
-        <translation type="unfinished">邏輯值1%1邏輯值2%1... 為欲測試之 1 到 30 個條件式，其值可為 TRUE 或 FALSE</translation>
+        <translation type="obsolete">邏輯值1%1邏輯值2%1... 為欲測試之 1 到 30 個條件式，其值可為 TRUE 或 FALSE</translation>
     </message>
     <message>
         <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 30 個欲相乘之引數，其值為數字、邏輯值或數字的文字格式</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 30 個欲相乘之引數，其值為數字、邏輯值或數字的文字格式</translation>
     </message>
     <message>
         <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
-        <translation type="unfinished">是個數從 1 到 28 的參數，用來指定一段資料</translation>
+        <translation type="obsolete">是個數從 1 到 28 的參數，用來指定一段資料</translation>
     </message>
     <message>
         <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
-        <translation type="unfinished">數值1%1數值2%1...為 1 到 255 個引數。可為數值，或是內容為數值的陣列、名稱、儲存格參照，用以求算偏態</translation>
+        <translation type="obsolete">數值1%1數值2%1...為 1 到 255 個引數。可為數值，或是內容為數值的陣列、名稱、儲存格參照，用以求算偏態</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 255 個自母體抽樣出來的樣本值。可以直接輸入數值到函數中，或是輸入樣本所在的儲存格參照位址</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 255 個自母體抽樣出來的樣本值。可以直接輸入數值到函數中，或是輸入樣本所在的儲存格參照位址</translation>
     </message>
     <message>
         <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 255 個母體樣本資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 255 個母體樣本資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
-        <translation type="unfinished">數字1%1 數字2%1 ... 為 1 到 255 個母體數值。可以直接輸入數值到函數中，或是輸入母體所在的儲存格參照</translation>
+        <translation type="obsolete">數字1%1 數字2%1 ... 為 1 到 255 個母體數值。可以直接輸入數值到函數中，或是輸入母體所在的儲存格參照</translation>
     </message>
     <message>
         <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 255 個母體資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 255 個母體資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
     </message>
     <message>
         <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
-        <translation type="unfinished">Ref1%1 Ref2%1 ... 為 1 到 29 個要計算小計的範圍或參照</translation>
+        <translation type="obsolete">Ref1%1 Ref2%1 ... 為 1 到 29 個要計算小計的範圍或參照</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
         <comment>TX_ParaDesc_382</comment>
-        <translation type="unfinished">為 1 到 30 個所要加總的數值。在所要加總的儲存格中邏輯值及文字將略過不計，而所要加總的引數如有邏輯值及文字不略過不計</translation>
+        <translation type="obsolete">為 1 到 30 個所要加總的數值。在所要加總的儲存格中邏輯值及文字將略過不計，而所要加總的引數如有邏輯值及文字不略過不計</translation>
     </message>
     <message>
         <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
         <comment>TX_ParaDesc_386</comment>
-        <translation type="unfinished">陣列1%1陣列2%1... 為 2 到 30 個陣列。所有陣列的大小必須相同</translation>
+        <translation type="obsolete">陣列1%1陣列2%1... 為 2 到 30 個陣列。所有陣列的大小必須相同</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
-        <translation type="unfinished">数字1%1数字2%1 ... 用以求算平方和的 1 至 30 个数字，可以是數字，或是含有數字的名稱、陣列或參照位址</translation>
+        <translation type="obsolete">数字1%1数字2%1 ... 用以求算平方和的 1 至 30 个数字，可以是數字，或是含有數字的名稱、陣列或參照位址</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_423</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 255 個母體樣本資料</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 255 個母體樣本資料</translation>
     </message>
     <message>
         <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 255 個母體樣本資料</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 255 個母體樣本資料</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
-        <translation type="unfinished">數值1%1數值2%1... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
-        <translation type="unfinished">數字1%1數字2%1... 是 1 到 255 您要多項式的值</translation>
+        <translation type="obsolete">數字1%1數字2%1... 是 1 到 255 您要多項式的值</translation>
     </message>
     <message>
         <source>Value 1%1value 2%1...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
-        <translation type="unfinished">數字1%1數字2%1... 1 到 30 個複數，用於求其乘積。</translation>
+        <translation type="obsolete">數字1%1數字2%1... 1 到 30 個複數，用於求其乘積。</translation>
     </message>
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaDesc_546</comment>
-        <translation type="unfinished">是已註冊之 COM Automation 增益集的 ProgID 的名稱。請將執行增益集的伺服器的名稱置於引號內</translation>
+        <translation type="obsolete">是已註冊之 COM Automation 增益集的 ProgID 的名稱。請將執行增益集的伺服器的名稱置於引號內</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaDesc_547</comment>
-        <translation type="unfinished">是要執行增益集的伺服器的名稱。請將此名稱置於引號內。若要在本機執行增益集，請使用空字串</translation>
+        <translation type="obsolete">是要執行增益集的伺服器的名稱。請將此名稱置於引號內。若要在本機執行增益集，請使用空字串</translation>
     </message>
     <message>
         <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_548</comment>
-        <translation type="unfinished">是個數從 1 到 28 的參數，用來指定一段資料 {1,?} {2,?} {1 ?} {38 ?}</translation>
+        <translation type="obsolete">是個數從 1 到 28 的參數，用來指定一段資料 {1,?} {2,?} {1 ?} {38 ?}</translation>
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
-        <translation type="unfinished">為每期利率。例如，使用 6%/4 表示 6% 之下的每季付款利率</translation>
+        <translation type="obsolete">為每期利率。例如，使用 6%/4 表示 6% 之下的每季付款利率</translation>
+    </message>
+    <message>
+        <source>Permission to this workbook is currently restricted.</source>
+        <comment>TX_IRMReadOnly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Page </source>
+        <comment>TX_CHECKSPELLING_FromFirstPage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Odd Page </source>
+        <comment>TX_CHECKSPELLING_FromOddPage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even Page </source>
+        <comment>TX_CHECKSPELLING_FromEvenPage</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

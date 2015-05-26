@@ -229,6 +229,10 @@
         <source>Online font downloading,click font list see more detail.</source>
         <translation>Pobieranie czcionek online, aby zobaczyć więcej szczegółów kliknij listę czcionek.</translation>
     </message>
+    <message>
+        <source>The layout will take effect after restart or logoff computer</source>
+        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu lub wylogowaniu komputera</translation>
+    </message>
 </context>
 <context>
     <name>KCompressPicturesDlg</name>
@@ -334,7 +338,7 @@
     </message>
     <message>
         <source>about:blank</source>
-        <translation>temat: pusty</translation>
+        <translation type="obsolete">temat: pusty</translation>
     </message>
     <message>
         <source>applying...</source>
@@ -1029,7 +1033,7 @@
     <name>KxAboutDlg</name>
     <message>
         <source>%1%2</source>
-        <translation>%1%2</translation>
+        <translation type="obsolete">%1%2</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1052,7 +1056,7 @@
     </message>
     <message>
         <source>res:/icons/kxshare/%1.png</source>
-        <translation>res:/ikony/kxshare/%1.png</translation>
+        <translation type="obsolete">res:/ikony/kxshare/%1.png</translation>
     </message>
     <message>
         <source>Part of %1 activation version</source>
@@ -1077,6 +1081,54 @@
     <message>
         <source>Cannot find help file or help file encountered an error!</source>
         <translation>Nie można odnaleźć pliku pomocy lub plik pomocy napotkał błąd!</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddRestrictUserDlg</name>
+    <message>
+        <source>Add Users</source>
+        <translation>Dodawanie użytkowników</translation>
+    </message>
+    <message>
+        <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
+Separate names with a semicolon(;).
+To select names from the Address book, click the Read or Change button.</source>
+        <translation>Wprowadź adresy e-mail użytkowników w polach Odczyt i Zmiana (np. osoba@example.com).
+Oddziel nazwy średnikami (;).
+Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</translation>
+    </message>
+    <message>
+        <source>Add users from the Address Book</source>
+        <translation>Dodaj użytkowników z książki adresowej</translation>
+    </message>
+    <message>
+        <source>Read...   </source>
+        <translation>Czytaj... </translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
+        <translation>Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować ani kopiować zawartości.</translation>
+    </message>
+    <message>
+        <source>Give all users Read Access</source>
+        <translation>Daje wszystkim użytkownikom dostęp do odczytu</translation>
+    </message>
+    <message>
+        <source>PI</source>
+        <translatorcomment>Personal Identity</translatorcomment>
+        <translation>Tożsamość osobista</translation>
+    </message>
+    <message>
+        <source>Change...   </source>
+        <translation>Zmień... </translation>
+    </message>
+    <message>
+        <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
+        <translation>Użytkownicy z uprawnieniem do wprowadzania zmian mogą odczytywać i edytować dokument, a także zapisywać w nim zmiany i kopiować z niego zawartość, ale nie mogą drukować zawartości.</translation>
+    </message>
+    <message>
+        <source>Give all users Change Access</source>
+        <translation>Daje wszystkim użytkownikom dostęp do wprowadzania zmian</translation>
     </message>
 </context>
 <context>
@@ -2369,6 +2421,10 @@ p, li { white-space: pre-wrap; }
         <source>Set as &amp;default template</source>
         <translation>Ustaw jako szablon &amp;domyślny</translation>
     </message>
+    <message>
+        <source>pushButton</source>
+        <translation>z przyciskiem</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPrintProgress</name>
@@ -2485,6 +2541,29 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
 </context>
 <context>
+    <name>KxDlgSelectUser</name>
+    <message>
+        <source>Select User</source>
+        <translation>Wybierz użytkownika</translation>
+    </message>
+    <message>
+        <source>&amp;Select one of the following user accounts to create or open content with restricted permission.To use an account not listed below,click Add.</source>
+        <translation>&amp;Wybierz jedno z następujących kont użytkownika, aby utworzyć lub otworzyć zawartość z ograniczonym uprawnieniem. Aby użyć konta niewyświetlonego poniżej, kliknij przycisk Dodaj.</translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation>&amp;Dodaj...</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>&amp;Usuń</translation>
+    </message>
+    <message>
+        <source>A&amp;lways use this account</source>
+        <translation>&amp;Zawsze używaj tego konta</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgTrialExpire</name>
     <message>
         <source>Dialog</source>
@@ -2533,7 +2612,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <name>KxEditWordArtTextDlg</name>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation>Wartość powinna zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość powinna zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
@@ -2563,7 +2642,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>Please input a password between </source>
-        <translation>Proszę wprowadzić hasło pomiędzy </translation>
+        <translation>Proszę wprowadzić hasło między </translation>
     </message>
     <message>
         <source> and </source>
@@ -3136,6 +3215,17 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     </message>
 </context>
 <context>
+    <name>KxLoadingRMSDlg</name>
+    <message>
+        <source>WPS</source>
+        <translation>WPS</translation>
+    </message>
+    <message>
+        <source>Verifying your logon information for opening content with restricted permission...</source>
+        <translation>Trwa weryfikowanie informacji o logowaniu do otwierania zawartości z ograniczonym uprawnieniem...</translation>
+    </message>
+</context>
+<context>
     <name>KxMacroActionButtonCommand</name>
     <message>
         <source>Cannot run the macro &apos;%1&apos;. The macro may not be available in this workbook, or all macros may have been disabled.</source>
@@ -3280,6 +3370,22 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     <message>
         <source>Redo</source>
         <translation>Wykonaj ponownie</translation>
+    </message>
+    <message>
+        <source>Close all tabs or current tab</source>
+        <translation>Zamknij wszystkie karty lub bieżącą kartę</translation>
+    </message>
+    <message>
+        <source>Close all</source>
+        <translation>Zamknij wszystkie</translation>
+    </message>
+    <message>
+        <source>Close current</source>
+        <translation>Zamknij bieżącą</translation>
+    </message>
+    <message>
+        <source>cancel Close</source>
+        <translation>anuluj Zamknij</translation>
     </message>
 </context>
 <context>
@@ -3442,6 +3548,30 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
         <source>Download</source>
         <translation>Pobierz</translation>
     </message>
+    <message>
+        <source>import templates</source>
+        <translation>importuj szablony</translation>
+    </message>
+    <message>
+        <source>template file</source>
+        <translation>plik szablonu</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Template</source>
+        <translation>Szablon programu Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Template</source>
+        <translation>Szablon programu Microsoft PowerPoint 97/2000/XP/2003</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Templates</source>
+        <translation>Szablony programu Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97/2000/XP/2003 Template</source>
+        <translation>Szablon programu Excel 97/2000/XP/2003</translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineFontController</name>
@@ -3588,7 +3718,7 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait…</source>
-        <translation>Pobieranie czcionek, proszę czekać...</translation>
+        <translation type="obsolete">Pobieranie czcionek, proszę czekać...</translation>
     </message>
     <message>
         <source>More Fonts</source>
@@ -3597,6 +3727,10 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     <message>
         <source>(Restart to take effect).</source>
         <translation>(Uruchom ponownie, aby zostały uwzględnione).</translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait?</source>
+        <translation>Pobieranie czcionek, proszę czekać?</translation>
     </message>
 </context>
 <context>
@@ -3663,6 +3797,69 @@ Kliknij ikonę, aby zalogować się już teraz.</translation>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
         <translation>Zostanie utworzony skrót do pliku źródłowego podczas wklejania jako hiperłącze. Zmiany w pliku źródłowym będą uwzględniane w dokumencie.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionOptionDlg</name>
+    <message>
+        <source>Permission</source>
+        <translation>Uprawnienie</translation>
+    </message>
+    <message>
+        <source>&amp;Restrict permission to this document</source>
+        <translation>&amp;Ogranicz uprawnienie do tego dokumentu</translation>
+    </message>
+    <message>
+        <source>The following &amp;users have permission to this document:</source>
+        <translation>Następujący &amp;użytkownicy mają uprawnienia do tego dokumentu:</translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation>&amp;Dodaj...</translation>
+    </message>
+    <message>
+        <source>Remo&amp;ve</source>
+        <translation>U&amp;suń</translation>
+    </message>
+    <message>
+        <source>Additional permissions for users:</source>
+        <translation>Dodatkowe uprawnienia dla użytkowników:</translation>
+    </message>
+    <message>
+        <source>This document expires o&amp;n:</source>
+        <translation>Ten dokument wygasa d&amp;nia:</translation>
+    </message>
+    <message>
+        <source>Enter date in format: yyyy/M/d</source>
+        <translation>Wprowadź datę w formacie: rrrr/M/d</translation>
+    </message>
+    <message>
+        <source>&amp;Print content</source>
+        <translation>&amp;Drukuj zawartość</translation>
+    </message>
+    <message>
+        <source>Allow users with read access to &amp;copy content</source>
+        <translation>Zezwalaj użytkownikom z dostępem do odczytu na &amp;kopiowanie zawartości</translation>
+    </message>
+    <message>
+        <source>Access content pr&amp;ogrammatically</source>
+        <translation>Pr&amp;ogramowy dostęp do zawartości</translation>
+    </message>
+    <message>
+        <source>Additional settings:</source>
+        <translation>Ustawienia dodatkowe:</translation>
+    </message>
+    <message>
+        <source>Users can request additonal per&amp;missions from:</source>
+        <translation>Użytkownicy mogą żądać dodatkowych &amp;uprawnień od:</translation>
+    </message>
+    <message>
+        <source>Re&amp;quire a connection to verify a user&apos;s permission</source>
+        <translation>Wy&amp;magaj połączenia do weryfikacji uprawnienia użytkownika</translation>
+    </message>
+    <message>
+        <source>&amp;Set defaults...</source>
+        <translation>&amp;Ustaw domyślnie...</translation>
     </message>
 </context>
 <context>
@@ -4086,6 +4283,66 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
     </message>
 </context>
 <context>
+    <name>KxRestrictedAccessDlg</name>
+    <message>
+        <source>Permission</source>
+        <translation>Uprawnienie</translation>
+    </message>
+    <message>
+        <source>&amp;Restrict permission to this document</source>
+        <translation>&amp;Ogranicz uprawnienie do tego dokumentu</translation>
+    </message>
+    <message>
+        <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
+Separate names with a semicolon(;).
+To select names from the Address book, click the Read or Change button.</source>
+        <translation>Wprowadź adresy e-mail użytkowników w polach Odczyt i Zmiana (np. osoba@example.com).
+Oddziel nazwy średnikami (;).
+Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</translation>
+    </message>
+    <message>
+        <source>Add users from the Address Book</source>
+        <translation>Dodaj użytkowników z książki adresowej</translation>
+    </message>
+    <message>
+        <source>Read...   </source>
+        <translation>Czytaj... </translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
+        <translation>Użytkownicy z uprawnieniem do odczytu mogą odczytywać ten dokument, ale nie mogą zmieniać, drukować ani kopiować zawartości.</translation>
+    </message>
+    <message>
+        <source>Give all users Read Access</source>
+        <translation>Daje wszystkim użytkownikom dostęp do odczytu</translation>
+    </message>
+    <message>
+        <source>PI</source>
+        <translatorcomment>Personal Identity</translatorcomment>
+        <translation>Tożsamość osobista</translation>
+    </message>
+    <message>
+        <source>Change...   </source>
+        <translation>Zmień... </translation>
+    </message>
+    <message>
+        <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
+        <translation>Użytkownicy z uprawnieniem do wprowadzania zmian mogą odczytywać i edytować dokument, a także zapisywać w nim zmiany i kopiować z niego zawartość, ale nie mogą drukować zawartości.</translation>
+    </message>
+    <message>
+        <source>Give all users Change Access</source>
+        <translation>Daje wszystkim użytkownikom dostęp do wprowadzania zmian</translation>
+    </message>
+    <message>
+        <source>Displays advanced settings dialog</source>
+        <translation>Wyświetla okno dialogowe Ustawienia zaawansowane</translation>
+    </message>
+    <message>
+        <source> More &amp;Options...</source>
+        <translation>Więcej &amp;opcji...</translation>
+    </message>
+</context>
+<context>
     <name>KxRnCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
@@ -4201,6 +4458,10 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <message>
         <source>I already know</source>
         <translation>Już wiem</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restart or logoff computer</source>
+        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu lub wylogowaniu komputera</translation>
     </message>
 </context>
 <context>
@@ -4366,6 +4627,10 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
         <source>Modified</source>
         <translation>Zmodyfikowany</translation>
     </message>
+    <message>
+        <source>browse templates location</source>
+        <translation>przeglądaj lokalizację szablonów</translation>
+    </message>
 </context>
 <context>
     <name>KxTextBoxWidget</name>
@@ -4428,7 +4693,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation>Naciśnij przycisk</translation>
+        <translation>Przycisk polecenia</translation>
     </message>
 </context>
 <context>
@@ -5049,6 +5314,10 @@ Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lok
         <source>Cannot be previewed.</source>
         <translation>Nie można wyświetlić podglądu.</translation>
     </message>
+    <message>
+        <source>PushButton</source>
+        <translation>Przycisk polecenia</translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetTextBox</name>
@@ -5601,11 +5870,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
+        <translation type="obsolete">2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
     </message>
     <message>
         <source>&amp;Technical Support...</source>
         <translation>Pomoc &amp;techniczna...</translation>
+    </message>
+    <message>
+        <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
     </message>
 </context>
 <context>
@@ -5801,10 +6074,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Re&amp;cently used E-mail addresses:</source>
-        <translation variants="yes">
-            <lengthvariant>Os&amp;tatnio używane adresy e-mail:</lengthvariant>
-            <lengthvariant>Ni&amp;edawno używane adresy e-mail:</lengthvariant>
-        </translation>
+        <translation>Ni&amp;edawno używane adresy e-mail:</translation>
     </message>
 </context>
 <context>

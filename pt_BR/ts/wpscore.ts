@@ -129,11 +129,21 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>Wps Escritor Encontrou Um Erro Ao Tentar Atualizar Arquivo de Origem.
+        <translation type="obsolete">Wps Escritor Encontrou Um Erro Ao Tentar Atualizar Arquivo de Origem.
 Tente Uma Ou Mais Das Seguintes Ações:
 1 Verifique Se O Arquivo de Origem Tiver Sido Aberta Ou Ocupada Por Outros Programas.
 2 Verifique Se O Arquivo de Origem É Protegida.
 3 Certifique-Se de Que O Arquivo de Origem É No Diretório Apropriado .</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2630,7 +2640,7 @@ Observe Que Alguns Arquivos Podem Conter Vírus de Macro e Possivelmente Executa
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation>WPSV6-TEXT</translation>
+        <translation type="obsolete">WPSV6-TEXT</translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
@@ -6933,6 +6943,11 @@ Check</source>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

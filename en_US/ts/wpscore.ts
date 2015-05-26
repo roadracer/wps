@@ -127,7 +127,8 @@
 Try one or more of the following:
 1、Check whether the source file has been opened or occupied by other programs.
 2、Check whether the source file is protected.
-3、Ensure that the source file is in the appropriate directory.</source>
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2583,11 +2584,6 @@ Do you want to continue?</source>
     <message>
         <source>WPS document in %s</source>
         <comment>_TxDocument_OnSetHostNames</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPSV6-TEXT</source>
-        <comment>_TxFilter_ConfigKey</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6820,6 +6816,11 @@ Check</source>
     <message>
         <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
         <comment>TxDesc_DataSource_allwps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

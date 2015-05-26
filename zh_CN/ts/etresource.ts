@@ -917,6 +917,10 @@ OLE DB查询</translation>
 <context>
     <name>classics.formatting</name>
     <message>
+        <source>Across Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Align Left</source>
         <translation>左对齐</translation>
     </message>
@@ -930,7 +934,7 @@ OLE DB查询</translation>
     </message>
     <message>
         <source>Cancel Merge</source>
-        <translation>取消合并单元格</translation>
+        <translation type="obsolete">取消合并单元格</translation>
     </message>
     <message>
         <source>Center</source>
@@ -938,7 +942,7 @@ OLE DB查询</translation>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation>跨列居中</translation>
+        <translation type="obsolete">跨列居中</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -1013,6 +1017,10 @@ Center</source>
     <message>
         <source>Snapper</source>
         <translation type="obsolete">取色器</translation>
+    </message>
+    <message>
+        <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -1456,6 +1464,10 @@ Center</source>
 <context>
     <name>classics.standard</name>
     <message>
+        <source>Above Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>AutoFilter</source>
         <translation>自动筛选</translation>
     </message>
@@ -1468,172 +1480,232 @@ Center</source>
         <translation>平均值</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chart Wizard</source>
         <translation>图表向导</translation>
     </message>
     <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>ConditionDate</source>
-        <translation>日期</translation>
+        <translation type="obsolete">日期</translation>
     </message>
     <message>
         <source>ConditionDateLastMonth</source>
-        <translation>上个月</translation>
+        <translation type="obsolete">上个月</translation>
     </message>
     <message>
         <source>ConditionDateLastWeek</source>
-        <translation>上周</translation>
+        <translation type="obsolete">上周</translation>
     </message>
     <message>
         <source>ConditionDateLateSeven</source>
-        <translation>最近7天</translation>
+        <translation type="obsolete">最近7天</translation>
     </message>
     <message>
         <source>ConditionDateMonth</source>
-        <translation>本月</translation>
+        <translation type="obsolete">本月</translation>
     </message>
     <message>
         <source>ConditionDateNextMonth</source>
-        <translation>下个月</translation>
+        <translation type="obsolete">下个月</translation>
     </message>
     <message>
         <source>ConditionDateNextWeek</source>
-        <translation>下周</translation>
+        <translation type="obsolete">下周</translation>
     </message>
     <message>
         <source>ConditionDateToday</source>
-        <translation>今天</translation>
+        <translation type="obsolete">今天</translation>
     </message>
     <message>
         <source>ConditionDateTomorrow</source>
-        <translation>明天</translation>
+        <translation type="obsolete">明天</translation>
     </message>
     <message>
         <source>ConditionDateWeek</source>
-        <translation>本周</translation>
+        <translation type="obsolete">本周</translation>
     </message>
     <message>
         <source>ConditionDateWeekend</source>
-        <translation>周末</translation>
+        <translation type="obsolete">周末</translation>
     </message>
     <message>
         <source>ConditionDateYesterday</source>
-        <translation>昨天</translation>
+        <translation type="obsolete">昨天</translation>
     </message>
     <message>
         <source>ConditionNumerial</source>
-        <translation>数字</translation>
+        <translation type="obsolete">数字</translation>
     </message>
     <message>
         <source>ConditionNumerialAvgAbove</source>
-        <translation>高于平均值</translation>
+        <translation type="obsolete">高于平均值</translation>
     </message>
     <message>
         <source>ConditionNumerialAvgBelow</source>
-        <translation>低于平均值</translation>
+        <translation type="obsolete">低于平均值</translation>
     </message>
     <message>
         <source>ConditionNumerialBetween</source>
-        <translation>介于</translation>
+        <translation type="obsolete">介于</translation>
     </message>
     <message>
         <source>ConditionNumerialEqual</source>
-        <translation>等于</translation>
+        <translation type="obsolete">等于</translation>
     </message>
     <message>
         <source>ConditionNumerialLarge</source>
-        <translation>大于</translation>
+        <translation type="obsolete">大于</translation>
     </message>
     <message>
         <source>ConditionNumerialLess</source>
-        <translation>小于</translation>
+        <translation type="obsolete">小于</translation>
     </message>
     <message>
         <source>ConditionNumerialLowCount</source>
-        <translation>最小的10项</translation>
+        <translation type="obsolete">最小的10项</translation>
     </message>
     <message>
         <source>ConditionNumerialLowPercent</source>
-        <translation>最小的10%项</translation>
+        <translation type="obsolete">最小的10%项</translation>
     </message>
     <message>
         <source>ConditionNumerialTopCount</source>
-        <translation>最大的10项</translation>
+        <translation type="obsolete">最大的10项</translation>
     </message>
     <message>
         <source>ConditionNumerialTopPercent</source>
-        <translation>最大的10%项</translation>
+        <translation type="obsolete">最大的10%项</translation>
     </message>
     <message>
         <source>ConditionSpecial</source>
-        <translation>特殊值</translation>
+        <translation type="obsolete">特殊值</translation>
     </message>
     <message>
         <source>ConditionSpecialEmpty</source>
-        <translation>空单元格</translation>
+        <translation type="obsolete">空单元格</translation>
     </message>
     <message>
         <source>ConditionSpecialError</source>
-        <translation>错误值</translation>
+        <translation type="obsolete">错误值</translation>
     </message>
     <message>
         <source>ConditionText</source>
-        <translation>文本</translation>
+        <translation type="obsolete">文本</translation>
     </message>
     <message>
         <source>ConditionTextBeginWith</source>
-        <translation>开头是</translation>
+        <translation type="obsolete">开头是</translation>
     </message>
     <message>
         <source>ConditionTextContain</source>
-        <translation>包含</translation>
+        <translation type="obsolete">包含</translation>
     </message>
     <message>
         <source>ConditionTextEndWith</source>
-        <translation>结尾是</translation>
+        <translation type="obsolete">结尾是</translation>
     </message>
     <message>
         <source>ConditionTextNoContain</source>
-        <translation>不包含</translation>
+        <translation type="obsolete">不包含</translation>
     </message>
     <message>
         <source>ConditionalClear</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>ConditionalSelf</source>
-        <translation>自定义条件格式</translation>
+        <translation type="obsolete">自定义条件格式</translation>
+    </message>
+    <message>
+        <source>Contain</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Count</source>
         <translation>计数</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does not contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Duplicates</source>
-        <translation>重复项</translation>
+        <translation type="obsolete">重复项</translation>
     </message>
     <message>
         <source>E-mail</source>
         <translation type="obsolete">发送邮件</translation>
     </message>
     <message>
+        <source>Empty Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>EnterpriseMicroblog</source>
         <translation type="obsolete">WPS 售后微博</translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
         <translation>公式</translation>
     </message>
     <message>
+        <source>Error Value </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为PDF格式</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Filter</source>
@@ -1656,20 +1728,44 @@ Center</source>
         <translation type="obsolete">谷歌文档</translation>
     </message>
     <message>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>HighLight</source>
-        <translation>突出显示</translation>
+        <translation type="obsolete">突出显示</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>高亮显示重复项</translation>
+        <translation type="obsolete">高亮显示重复项</translation>
     </message>
     <message>
         <source>Homepage</source>
         <translation type="obsolete">Docer-在线模板</translation>
     </message>
     <message>
+        <source>In the last 7 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Hyperlink</source>
         <translation>超链接</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Max</source>
@@ -1686,6 +1782,14 @@ Center</source>
     <message>
         <source>More Functions</source>
         <translation>其他函数</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Border</source>
@@ -1713,7 +1817,7 @@ Center</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -1725,7 +1829,7 @@ Center</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>拒绝录入重复项</translation>
+        <translation type="obsolete">拒绝录入重复项</translation>
     </message>
     <message>
         <source>Reject Insert Duplicates</source>
@@ -1733,7 +1837,7 @@ Center</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>删除重复项</translation>
+        <translation type="obsolete">删除重复项</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -1741,11 +1845,11 @@ Center</source>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -1756,12 +1860,44 @@ Center</source>
         <translation>降序排序</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sum</source>
         <translation>求和</translation>
     </message>
     <message>
         <source>Switch Language</source>
         <translation>更改语言</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -1776,6 +1912,10 @@ Center</source>
         <translation>转置</translation>
     </message>
     <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Values</source>
         <translation>值</translation>
     </message>
@@ -1784,8 +1924,16 @@ Center</source>
         <translation>WPS 售后微博</translation>
     </message>
     <message>
+        <source>Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WhatNew</source>
         <translation type="obsolete">新消息</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -2270,6 +2418,14 @@ Center</source>
         <translation>单击可打开/关闭自动备份</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clip Art</source>
         <translation>剪贴画</translation>
     </message>
@@ -2446,6 +2602,10 @@ Center</source>
         <translation type="obsolete">垂直线</translation>
     </message>
     <message>
+        <source>Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Edit</source>
         <translation>编辑</translation>
     </message>
@@ -2564,6 +2724,10 @@ Center</source>
     <message>
         <source>High-Low Line</source>
         <translation>高低点连线</translation>
+    </message>
+    <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -2827,6 +2991,19 @@ Directly</source>
         <translation>恢复</translation>
     </message>
     <message>
+        <source>Refresh
+Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Replace</source>
         <translation>替换</translation>
     </message>
@@ -2888,8 +3065,16 @@ Directly</source>
         <translation>系列线</translation>
     </message>
     <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set Language</source>
         <translation>设置拼写检查语言</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Spell Check Language</source>
@@ -3357,12 +3542,17 @@ Window</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>更改界面</translation>
+        <translation type="obsolete">更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
         <translation>皮肤</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -3694,6 +3884,11 @@ Window</source>
         <translation>皮肤</translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>确定</translation>
     </message>
@@ -3839,7 +4034,7 @@ Row</source>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Clear Outline</source>
@@ -3847,7 +4042,7 @@ Row</source>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -3875,7 +4070,7 @@ Row</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>重复项</translation>
+        <translation type="obsolete">重复项</translation>
     </message>
     <message>
         <source>Edit
@@ -3921,7 +4116,7 @@ OLE DB查询</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>高亮显示重复值</translation>
+        <translation type="obsolete">高亮显示重复值</translation>
     </message>
     <message>
         <source>Import 
@@ -3959,19 +4154,19 @@ All</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>拒绝录入重复值</translation>
+        <translation type="obsolete">拒绝录入重复值</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>删除重复值</translation>
+        <translation type="obsolete">删除重复值</translation>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -4743,6 +4938,10 @@ On/Off</source>
         <translation>输入激活码</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为 PDF 格式</translation>
     </message>
@@ -5234,6 +5433,14 @@ Used</source>
 <context>
     <name>ongmani.ct_home</name>
     <message>
+        <source>Above Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Across Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Across Sheets</source>
         <translation>至同组工作表</translation>
     </message>
@@ -5302,8 +5509,28 @@ Used</source>
         <translation>平均值</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>加粗</translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -5315,7 +5542,7 @@ Used</source>
     </message>
     <message>
         <source>Cancel Merge</source>
-        <translation>取消合并单元格</translation>
+        <translation type="obsolete">取消合并单元格</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -5343,7 +5570,7 @@ Used</source>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation>跨列居中</translation>
+        <translation type="obsolete">跨列居中</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -5355,127 +5582,127 @@ Used</source>
     </message>
     <message>
         <source>ConditionDate</source>
-        <translation>日期</translation>
+        <translation type="obsolete">日期</translation>
     </message>
     <message>
         <source>ConditionDateLastMonth</source>
-        <translation>上个月</translation>
+        <translation type="obsolete">上个月</translation>
     </message>
     <message>
         <source>ConditionDateLastWeek</source>
-        <translation>上周</translation>
+        <translation type="obsolete">上周</translation>
     </message>
     <message>
         <source>ConditionDateLateSeven</source>
-        <translation>最近7天</translation>
+        <translation type="obsolete">最近7天</translation>
     </message>
     <message>
         <source>ConditionDateMonth</source>
-        <translation>本月</translation>
+        <translation type="obsolete">本月</translation>
     </message>
     <message>
         <source>ConditionDateNextMonth</source>
-        <translation>下个月</translation>
+        <translation type="obsolete">下个月</translation>
     </message>
     <message>
         <source>ConditionDateNextWeek</source>
-        <translation>下周</translation>
+        <translation type="obsolete">下周</translation>
     </message>
     <message>
         <source>ConditionDateToday</source>
-        <translation>今天</translation>
+        <translation type="obsolete">今天</translation>
     </message>
     <message>
         <source>ConditionDateTomorrow</source>
-        <translation>明天</translation>
+        <translation type="obsolete">明天</translation>
     </message>
     <message>
         <source>ConditionDateWeek</source>
-        <translation>本周</translation>
+        <translation type="obsolete">本周</translation>
     </message>
     <message>
         <source>ConditionDateWeekend</source>
-        <translation>周末</translation>
+        <translation type="obsolete">周末</translation>
     </message>
     <message>
         <source>ConditionDateYesterday</source>
-        <translation>昨天</translation>
+        <translation type="obsolete">昨天</translation>
     </message>
     <message>
         <source>ConditionNumerial</source>
-        <translation>数字</translation>
+        <translation type="obsolete">数字</translation>
     </message>
     <message>
         <source>ConditionNumerialAvgAbove</source>
-        <translation>高于平均值</translation>
+        <translation type="obsolete">高于平均值</translation>
     </message>
     <message>
         <source>ConditionNumerialAvgBelow</source>
-        <translation>低于平均值</translation>
+        <translation type="obsolete">低于平均值</translation>
     </message>
     <message>
         <source>ConditionNumerialBetween</source>
-        <translation>介于</translation>
+        <translation type="obsolete">介于</translation>
     </message>
     <message>
         <source>ConditionNumerialEqual</source>
-        <translation>等于</translation>
+        <translation type="obsolete">等于</translation>
     </message>
     <message>
         <source>ConditionNumerialLarge</source>
-        <translation>大于</translation>
+        <translation type="obsolete">大于</translation>
     </message>
     <message>
         <source>ConditionNumerialLess</source>
-        <translation>小于</translation>
+        <translation type="obsolete">小于</translation>
     </message>
     <message>
         <source>ConditionNumerialLowCount</source>
-        <translation>最小的10项</translation>
+        <translation type="obsolete">最小的10项</translation>
     </message>
     <message>
         <source>ConditionNumerialLowPercent</source>
-        <translation>最小的10%项</translation>
+        <translation type="obsolete">最小的10%项</translation>
     </message>
     <message>
         <source>ConditionNumerialTopCount</source>
-        <translation>最大的10项</translation>
+        <translation type="obsolete">最大的10项</translation>
     </message>
     <message>
         <source>ConditionNumerialTopPercent</source>
-        <translation>最大的10%项</translation>
+        <translation type="obsolete">最大的10%项</translation>
     </message>
     <message>
         <source>ConditionSpecial</source>
-        <translation>特殊值</translation>
+        <translation type="obsolete">特殊值</translation>
     </message>
     <message>
         <source>ConditionSpecialEmpty</source>
-        <translation>空单元格</translation>
+        <translation type="obsolete">空单元格</translation>
     </message>
     <message>
         <source>ConditionSpecialError</source>
-        <translation>错误值</translation>
+        <translation type="obsolete">错误值</translation>
     </message>
     <message>
         <source>ConditionText</source>
-        <translation>文本</translation>
+        <translation type="obsolete">文本</translation>
     </message>
     <message>
         <source>ConditionTextBeginWith</source>
-        <translation>开头是</translation>
+        <translation type="obsolete">开头是</translation>
     </message>
     <message>
         <source>ConditionTextContain</source>
-        <translation>包含</translation>
+        <translation type="obsolete">包含</translation>
     </message>
     <message>
         <source>ConditionTextEndWith</source>
-        <translation>结尾是</translation>
+        <translation type="obsolete">结尾是</translation>
     </message>
     <message>
         <source>ConditionTextNoContain</source>
-        <translation>不包含</translation>
+        <translation type="obsolete">不包含</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
@@ -5483,11 +5710,15 @@ Used</source>
     </message>
     <message>
         <source>ConditionalClear</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>ConditionalSelf</source>
-        <translation>自定义条件格式</translation>
+        <translation type="obsolete">自定义条件格式</translation>
+    </message>
+    <message>
+        <source>Contain</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contents</source>
@@ -5514,12 +5745,20 @@ Used</source>
         <translation>货币样式</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Custom Sort</source>
         <translation>自定义排序</translation>
     </message>
     <message>
         <source>Cut</source>
         <translation>剪切</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -5566,6 +5805,10 @@ Used</source>
         <translation type="obsolete">详细设置</translation>
     </message>
     <message>
+        <source>Does not contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Down</source>
         <translation>向下填充</translation>
     </message>
@@ -5582,8 +5825,24 @@ Used</source>
         <translation>编辑</translation>
     </message>
     <message>
+        <source>Empty Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Erase Border</source>
         <translation>擦除边框</translation>
+    </message>
+    <message>
+        <source>Error Value </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5656,6 +5915,10 @@ Painter</source>
         <translation>定位</translation>
     </message>
     <message>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide Columns</source>
         <translation>隐藏列</translation>
     </message>
@@ -5681,7 +5944,15 @@ Painter</source>
     </message>
     <message>
         <source>HighLight</source>
-        <translation>突出显示</translation>
+        <translation type="obsolete">突出显示</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -5737,12 +6008,24 @@ Center</source>
         <translation>合并居中</translation>
     </message>
     <message>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation>向左填充</translation>
     </message>
     <message>
         <source>Left Border</source>
         <translation>左框线</translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -5787,6 +6070,14 @@ Center</source>
     <message>
         <source>Move or Copy Sheet</source>
         <translation>移动或复制工作表</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Border</source>
@@ -5876,7 +6167,7 @@ Columns</source>
     </message>
     <message>
         <source>Rows and Columns</source>
-        <translation type="obsolete">行和列</translation>
+        <translation type="unfinished">行和列</translation>
     </message>
     <message>
         <source>Rows/Columns</source>
@@ -5888,7 +6179,7 @@ Columns</source>
     </message>
     <message>
         <source>RowsColumn</source>
-        <translation>行列</translation>
+        <translation type="obsolete">行列</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -5927,6 +6218,10 @@ Columns</source>
         <translation type="obsolete">降序排序</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Standard Width</source>
         <translation>标准列宽</translation>
     </message>
@@ -5943,6 +6238,10 @@ Columns</source>
         <translation>工作表标签颜色</translation>
     </message>
     <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Color</source>
         <translation>字体颜色</translation>
     </message>
@@ -5953,6 +6252,30 @@ Columns</source>
     <message>
         <source>Thick Box Border</source>
         <translation>粗匣框线</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -5995,8 +6318,16 @@ Columns</source>
         <translation>取消隐藏工作表</translation>
     </message>
     <message>
+        <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>向上填充</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Values</source>
@@ -6011,6 +6342,10 @@ Columns</source>
         <translation>竖排文字</translation>
     </message>
     <message>
+        <source>Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WorkSheet</source>
         <translation type="obsolete">工作表</translation>
     </message>
@@ -6021,6 +6356,10 @@ Columns</source>
     <message>
         <source>Wrap Text</source>
         <translation>自动换行</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7223,7 +7562,7 @@ Options</source>
     <message>
         <source>Refresh
 Data</source>
-        <translation>刷新数据</translation>
+        <translation type="obsolete">刷新数据</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -7921,6 +8260,10 @@ Other Window</source>
         <translation type="obsolete">开发工具</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Formula Bar</source>
         <translation>编辑栏</translation>
     </message>
@@ -7993,7 +8336,7 @@ Preview</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Reading
@@ -8915,11 +9258,11 @@ Shape</source>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -8931,7 +9274,7 @@ Shape</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>重复项</translation>
+        <translation type="obsolete">重复项</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -8951,7 +9294,7 @@ Shape</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="obsolete">护眼模式</translation>
+        <translation type="unfinished">护眼模式</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -8987,7 +9330,7 @@ Shape</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>高亮显示重复值</translation>
+        <translation type="obsolete">高亮显示重复值</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -9115,7 +9458,7 @@ Shape</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -9123,11 +9466,11 @@ Shape</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>拒绝录入重复值</translation>
+        <translation type="obsolete">拒绝录入重复值</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>删除重复值</translation>
+        <translation type="obsolete">删除重复值</translation>
     </message>
     <message>
         <source>Roaming Files</source>
@@ -9143,11 +9486,11 @@ Shape</source>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Sign In</source>
@@ -9247,6 +9590,10 @@ Shape</source>
     <message>
         <source>Accept Revisions</source>
         <translation type="obsolete">接受修订</translation>
+    </message>
+    <message>
+        <source>Across Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -9461,7 +9808,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Cancel Merge</source>
-        <translation>取消合并单元格</translation>
+        <translation type="obsolete">取消合并单元格</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -9545,7 +9892,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Clear Outline</source>
@@ -9561,7 +9908,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -9597,7 +9944,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation>跨列居中</translation>
+        <translation type="obsolete">跨列居中</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -9765,7 +10112,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>重复项</translation>
+        <translation type="obsolete">重复项</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -9868,8 +10215,16 @@ Add-Ins</source>
         <translation type="obsolete">查看历史备份</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为PDF格式</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -10167,7 +10522,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>高亮显示重复项</translation>
+        <translation type="obsolete">高亮显示重复项</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -10239,16 +10594,16 @@ Add-Ins</source>
     </message>
     <message>
         <source>Join Cells</source>
-        <translation>合并单元格</translation>
+        <translation type="obsolete">合并单元格</translation>
     </message>
     <message>
         <source>Join and
 Center</source>
-        <translation>合并居中</translation>
+        <translation type="obsolete">合并居中</translation>
     </message>
     <message>
         <source>Join and Center</source>
-        <translation>合并居中</translation>
+        <translation type="obsolete">合并居中</translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -10355,6 +10710,10 @@ Center</source>
         <translation>宏</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>手动备份</translation>
     </message>
@@ -10371,16 +10730,20 @@ Center</source>
         <translation>合并</translation>
     </message>
     <message>
+        <source>Merge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge Columns</source>
         <translation>跨列合并</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="obsolete">合并居中</translation>
+        <translation type="unfinished">合并居中</translation>
     </message>
     <message>
         <source>Merge and Center Cells</source>
-        <translation>合并单元格并居中</translation>
+        <translation type="obsolete">合并单元格并居中</translation>
     </message>
     <message>
         <source>Min</source>
@@ -10556,7 +10919,7 @@ Center</source>
     </message>
     <message>
         <source>Picture Format Style</source>
-        <translation>样式</translation>
+        <translation type="obsolete">样式</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -10592,7 +10955,7 @@ Center</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
@@ -10640,7 +11003,7 @@ Center</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>拒绝录入重复项</translation>
+        <translation type="obsolete">拒绝录入重复项</translation>
     </message>
     <message>
         <source>Reject Revision</source>
@@ -10656,7 +11019,7 @@ Center</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>删除重复项</translation>
+        <translation type="obsolete">删除重复项</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
@@ -10669,6 +11032,10 @@ Center</source>
     <message>
         <source>Reset All Page Break</source>
         <translation>重置所有分页符</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -10773,7 +11140,7 @@ Center</source>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Set Print Area</source>
@@ -10785,7 +11152,7 @@ Center</source>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Set Spellcheck Language</source>
@@ -10805,11 +11172,15 @@ Center</source>
     </message>
     <message>
         <source>Shape Format Style</source>
-        <translation>形状样式</translation>
+        <translation type="obsolete">形状样式</translation>
     </message>
     <message>
         <source>Shape Outline</source>
         <translation>形状轮廓</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -11022,6 +11393,10 @@ Center</source>
     <message>
         <source>Unmerge Cells</source>
         <translation>取消合并单元格</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Up</source>
@@ -11246,7 +11621,7 @@ Chart Type</source>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Clear Outline</source>
@@ -11254,7 +11629,7 @@ Chart Type</source>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -11278,7 +11653,7 @@ Chart Type</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>重复项</translation>
+        <translation type="obsolete">重复项</translation>
     </message>
     <message>
         <source>Edit
@@ -11320,7 +11695,7 @@ OLE DB查询</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>高亮显示重复值</translation>
+        <translation type="obsolete">高亮显示重复值</translation>
     </message>
     <message>
         <source>Import Data</source>
@@ -11348,19 +11723,19 @@ OLE DB查询</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>拒绝录入重复值</translation>
+        <translation type="obsolete">拒绝录入重复值</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>删除重复值</translation>
+        <translation type="obsolete">删除重复值</translation>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -12056,6 +12431,10 @@ AddIns</source>
         <translation>输入激活码</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为 PDF 格式</translation>
     </message>
@@ -12522,6 +12901,10 @@ Trig</source>
 <context>
     <name>rainbow.ct_home</name>
     <message>
+        <source>Above Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Across Center</source>
         <translation>跨列居中</translation>
     </message>
@@ -12590,8 +12973,28 @@ Trig</source>
         <translation>平均值</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>加粗</translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -12603,7 +13006,7 @@ Trig</source>
     </message>
     <message>
         <source>Cancel Merge</source>
-        <translation>取消合并单元格</translation>
+        <translation type="obsolete">取消合并单元格</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -12643,127 +13046,127 @@ Trig</source>
     </message>
     <message>
         <source>ConditionDate</source>
-        <translation>日期</translation>
+        <translation type="obsolete">日期</translation>
     </message>
     <message>
         <source>ConditionDateLastMonth</source>
-        <translation>上个月</translation>
+        <translation type="obsolete">上个月</translation>
     </message>
     <message>
         <source>ConditionDateLastWeek</source>
-        <translation>上周</translation>
+        <translation type="obsolete">上周</translation>
     </message>
     <message>
         <source>ConditionDateLateSeven</source>
-        <translation>最近7天</translation>
+        <translation type="obsolete">最近7天</translation>
     </message>
     <message>
         <source>ConditionDateMonth</source>
-        <translation>本月</translation>
+        <translation type="obsolete">本月</translation>
     </message>
     <message>
         <source>ConditionDateNextMonth</source>
-        <translation>下个月</translation>
+        <translation type="obsolete">下个月</translation>
     </message>
     <message>
         <source>ConditionDateNextWeek</source>
-        <translation>下周</translation>
+        <translation type="obsolete">下周</translation>
     </message>
     <message>
         <source>ConditionDateToday</source>
-        <translation>今天</translation>
+        <translation type="obsolete">今天</translation>
     </message>
     <message>
         <source>ConditionDateTomorrow</source>
-        <translation>明天</translation>
+        <translation type="obsolete">明天</translation>
     </message>
     <message>
         <source>ConditionDateWeek</source>
-        <translation>本周</translation>
+        <translation type="obsolete">本周</translation>
     </message>
     <message>
         <source>ConditionDateWeekend</source>
-        <translation>周末</translation>
+        <translation type="obsolete">周末</translation>
     </message>
     <message>
         <source>ConditionDateYesterday</source>
-        <translation>昨天</translation>
+        <translation type="obsolete">昨天</translation>
     </message>
     <message>
         <source>ConditionNumerial</source>
-        <translation>数字</translation>
+        <translation type="obsolete">数字</translation>
     </message>
     <message>
         <source>ConditionNumerialAvgAbove</source>
-        <translation>高于平均值</translation>
+        <translation type="obsolete">高于平均值</translation>
     </message>
     <message>
         <source>ConditionNumerialAvgBelow</source>
-        <translation>低于平均值</translation>
+        <translation type="obsolete">低于平均值</translation>
     </message>
     <message>
         <source>ConditionNumerialBetween</source>
-        <translation>介于</translation>
+        <translation type="obsolete">介于</translation>
     </message>
     <message>
         <source>ConditionNumerialEqual</source>
-        <translation>等于</translation>
+        <translation type="obsolete">等于</translation>
     </message>
     <message>
         <source>ConditionNumerialLarge</source>
-        <translation>大于</translation>
+        <translation type="obsolete">大于</translation>
     </message>
     <message>
         <source>ConditionNumerialLess</source>
-        <translation>小于</translation>
+        <translation type="obsolete">小于</translation>
     </message>
     <message>
         <source>ConditionNumerialLowCount</source>
-        <translation>最小的10项</translation>
+        <translation type="obsolete">最小的10项</translation>
     </message>
     <message>
         <source>ConditionNumerialLowPercent</source>
-        <translation>最小的10%项</translation>
+        <translation type="obsolete">最小的10%项</translation>
     </message>
     <message>
         <source>ConditionNumerialTopCount</source>
-        <translation>最大的10项</translation>
+        <translation type="obsolete">最大的10项</translation>
     </message>
     <message>
         <source>ConditionNumerialTopPercent</source>
-        <translation>最大的10%项</translation>
+        <translation type="obsolete">最大的10%项</translation>
     </message>
     <message>
         <source>ConditionSpecial</source>
-        <translation>特殊值</translation>
+        <translation type="obsolete">特殊值</translation>
     </message>
     <message>
         <source>ConditionSpecialEmpty</source>
-        <translation>空单元格</translation>
+        <translation type="obsolete">空单元格</translation>
     </message>
     <message>
         <source>ConditionSpecialError</source>
-        <translation>错误值</translation>
+        <translation type="obsolete">错误值</translation>
     </message>
     <message>
         <source>ConditionText</source>
-        <translation>文本</translation>
+        <translation type="obsolete">文本</translation>
     </message>
     <message>
         <source>ConditionTextBeginWith</source>
-        <translation>开头是</translation>
+        <translation type="obsolete">开头是</translation>
     </message>
     <message>
         <source>ConditionTextContain</source>
-        <translation>包含</translation>
+        <translation type="obsolete">包含</translation>
     </message>
     <message>
         <source>ConditionTextEndWith</source>
-        <translation>结尾是</translation>
+        <translation type="obsolete">结尾是</translation>
     </message>
     <message>
         <source>ConditionTextNoContain</source>
-        <translation>不包含</translation>
+        <translation type="obsolete">不包含</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
@@ -12771,11 +13174,15 @@ Trig</source>
     </message>
     <message>
         <source>ConditionalClear</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>ConditionalSelf</source>
-        <translation>自定义条件格式</translation>
+        <translation type="obsolete">自定义条件格式</translation>
+    </message>
+    <message>
+        <source>Contain</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contents</source>
@@ -12802,12 +13209,20 @@ Trig</source>
         <translation>货币样式</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Custom Sort</source>
         <translation>自定义排序</translation>
     </message>
     <message>
         <source>Cut</source>
         <translation>剪切</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -12858,6 +13273,10 @@ Trig</source>
         <translation type="obsolete">详细设置</translation>
     </message>
     <message>
+        <source>Does not contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Down</source>
         <translation>向下填充</translation>
     </message>
@@ -12874,8 +13293,24 @@ Trig</source>
         <translation>编辑</translation>
     </message>
     <message>
+        <source>Empty Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Erase Border</source>
         <translation>擦除边框</translation>
+    </message>
+    <message>
+        <source>Error Value </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -12938,6 +13373,10 @@ Trig</source>
         <translation>定位</translation>
     </message>
     <message>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide Columns</source>
         <translation>隐藏列</translation>
     </message>
@@ -12955,7 +13394,15 @@ Trig</source>
     </message>
     <message>
         <source>HighLight</source>
-        <translation>突出显示</translation>
+        <translation type="obsolete">突出显示</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -13006,12 +13453,24 @@ Trig</source>
         <translation>倾斜</translation>
     </message>
     <message>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation>向左填充</translation>
     </message>
     <message>
         <source>Left Border</source>
         <translation>左框线</translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -13061,6 +13520,14 @@ Center</source>
     <message>
         <source>Move or Copy Sheet</source>
         <translation>移动或复制工作表</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Border</source>
@@ -13179,6 +13646,10 @@ Center</source>
         <translation type="obsolete">降序排序</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Standard Width</source>
         <translation>标准列宽</translation>
     </message>
@@ -13195,6 +13666,10 @@ Center</source>
         <translation>工作表标签颜色</translation>
     </message>
     <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Color</source>
         <translation>字体颜色</translation>
     </message>
@@ -13205,6 +13680,30 @@ Center</source>
     <message>
         <source>Thick Box Border</source>
         <translation>粗匣框线</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -13243,8 +13742,16 @@ Center</source>
         <translation>取消隐藏工作表</translation>
     </message>
     <message>
+        <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>向上填充</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Values</source>
@@ -13259,12 +13766,20 @@ Center</source>
         <translation>竖排文字</translation>
     </message>
     <message>
+        <source>Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WorkSheet</source>
         <translation>工作表</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <translation>自动换行</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14189,7 +14704,7 @@ Center</source>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>刷新数据</translation>
+        <translation type="obsolete">刷新数据</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -14642,6 +15157,10 @@ Other Windows</source>
         <translation type="obsolete">开发工具</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Formula Bar</source>
         <translation>编辑栏</translation>
     </message>
@@ -14699,7 +15218,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -15521,11 +16040,11 @@ Color</source>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -15537,7 +16056,7 @@ Color</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>重复项</translation>
+        <translation type="obsolete">重复项</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -15557,7 +16076,7 @@ Color</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="obsolete">护眼模式</translation>
+        <translation type="unfinished">护眼模式</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -15585,7 +16104,7 @@ Color</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>高亮显示重复值</translation>
+        <translation type="obsolete">高亮显示重复值</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -15709,7 +16228,7 @@ Color</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -15717,11 +16236,11 @@ Color</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>拒绝录入重复值</translation>
+        <translation type="obsolete">拒绝录入重复值</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>删除重复值</translation>
+        <translation type="obsolete">删除重复值</translation>
     </message>
     <message>
         <source>Roaming Files</source>
@@ -15737,11 +16256,11 @@ Color</source>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Sign In</source>
@@ -19683,11 +20202,11 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Clear Reject Insert Repeat Items</source>
-        <translation>清除</translation>
+        <translation type="obsolete">清除</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -19703,7 +20222,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>重复项</translation>
+        <translation type="obsolete">重复项</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -19730,12 +20249,16 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation>输出为PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>文档漫游</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>高亮显示重复项</translation>
+        <translation type="obsolete">高亮显示重复项</translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -19815,7 +20338,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>护眼模式</translation>
+        <translation type="obsolete">护眼模式</translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -19827,11 +20350,11 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>拒绝录入重复项</translation>
+        <translation type="obsolete">拒绝录入重复项</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>删除重复项</translation>
+        <translation type="obsolete">删除重复项</translation>
     </message>
     <message>
         <source>Roaming Files</source>
@@ -19851,11 +20374,11 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
-        <translation>设置</translation>
+        <translation type="obsolete">设置</translation>
     </message>
     <message>
         <source>Sign in</source>

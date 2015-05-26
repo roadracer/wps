@@ -1428,7 +1428,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -1472,10 +1472,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
     <message>
         <source>Table</source>
@@ -1498,10 +1495,7 @@ wzorzec</lengthvariant>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
@@ -1973,11 +1967,7 @@ efekty</lengthvariant>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation variants="yes">
-            <lengthvariant>Zestaw ustawienia czcionki</lengthvariant>
-            <lengthvariant>Partia ustawienia czcionki</lengthvariant>
-            <lengthvariant>Wielkość ustawienia czcionki</lengthvariant>
-        </translation>
+        <translation>Partia ustawień czcionki</translation>
     </message>
     <message>
         <source>Color
@@ -2873,8 +2863,12 @@ Włącz</translation>
         <translation>Wprowadź kod aktywacji</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation>Eksportuj do OFD</translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -3817,10 +3811,7 @@ muzyka</lengthvariant>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation variants="yes">
-            <lengthvariant>Data i godzina</lengthvariant>
-            <lengthvariant>Data i czas</lengthvariant>
-        </translation>
+        <translation>Data i godzina</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -6647,11 +6638,7 @@ WordArt</lengthvariant>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Batch Set Font</source>
-        <translation variants="yes">
-            <lengthvariant>Zestaw ustawienia czcionki</lengthvariant>
-            <lengthvariant>Partia ustawienia czcionki</lengthvariant>
-            <lengthvariant>Wielkość ustawienia czcionki</lengthvariant>
-        </translation>
+        <translation>Partia ustawień czcionki</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -6685,7 +6672,7 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -7192,10 +7179,7 @@ COM</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation variants="yes">
-            <lengthvariant>Data i godzina</lengthvariant>
-            <lengthvariant>Data i czas</lengthvariant>
-        </translation>
+        <translation>Data i godzina</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
@@ -7381,8 +7365,12 @@ COM</translation>
         <translation>Eksportuj jako obraz</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation>Eksportuj do OFD</translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Export to Package</source>
@@ -7840,7 +7828,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Picture Format Style</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Styl formatu obrazu</lengthvariant>
             <lengthvariant>Styl formatowania obrazu</lengthvariant>
         </translation>
@@ -8042,11 +8030,15 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Shape Format Style</source>
-        <translation>Styl formatu kształtu</translation>
+        <translation type="obsolete">Styl formatu kształtu</translation>
     </message>
     <message>
         <source>Shape Line</source>
         <translation>Kształt linii</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation>Styl kształtu</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -8166,6 +8158,10 @@ wzorzec</lengthvariant>
     <message>
         <source>Study Online</source>
         <translation>Badania online</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation>Styl</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -8319,10 +8315,7 @@ wzorzec</lengthvariant>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
@@ -8333,10 +8326,7 @@ wzorzec</lengthvariant>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
 </context>
 <context>
@@ -8530,11 +8520,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation variants="yes">
-            <lengthvariant>Zestaw ustawienia czcionki</lengthvariant>
-            <lengthvariant>Partia ustawienia czcionki</lengthvariant>
-            <lengthvariant>Wielkość ustawienia czcionki</lengthvariant>
-        </translation>
+        <translation>Partia ustawień czcionki</translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -9155,8 +9141,12 @@ szablon</lengthvariant>
         <translation>Wprowadź kod aktywacji</translation>
     </message>
     <message>
+        <source>Export OFD Format</source>
+        <translation>Eksportuj do formatu OFD</translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -10116,10 +10106,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation variants="yes">
-            <lengthvariant>Data i godzina</lengthvariant>
-            <lengthvariant>Data i czas</lengthvariant>
-        </translation>
+        <translation>Data i godzina</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -12592,11 +12579,7 @@ cienia</translation>
     <name>rainbow.ct_workspace</name>
     <message>
         <source>Batch Set Font</source>
-        <translation variants="yes">
-            <lengthvariant>Zestaw ustawienia czcionki</lengthvariant>
-            <lengthvariant>Partia ustawienia czcionki</lengthvariant>
-            <lengthvariant>Wielkość ustawienia czcionki</lengthvariant>
-        </translation>
+        <translation>Partia ustawień czcionki</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -12630,7 +12613,7 @@ cienia</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -12812,7 +12795,7 @@ cienia</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -13665,7 +13648,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -13832,18 +13815,17 @@ slajdu</translation>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
@@ -13854,10 +13836,7 @@ slajdu</translation>
     <name>wppongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
 </context>
 <context>
@@ -13906,7 +13885,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -14094,18 +14073,17 @@ slajdu</translation>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
@@ -14116,10 +14094,7 @@ slajdu</translation>
     <name>wpprainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
 </context>
 <context>

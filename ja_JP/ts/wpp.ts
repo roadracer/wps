@@ -188,7 +188,7 @@
     <name>DesignLayoutPanel</name>
     <message>
         <source>Add Design</source>
-        <translation type="obsolete">追加(&amp;D)</translation>
+        <translation type="unfinished">追加(&amp;D)</translation>
     </message>
     <message>
         <source>Apply to &amp;All</source>
@@ -216,7 +216,7 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation>追加(&amp;D)</translation>
+        <translation type="obsolete">追加(&amp;D)</translation>
     </message>
 </context>
 <context>
@@ -3994,7 +3994,7 @@ This wizard will help you to understand the various settings of the double-scree
     </message>
     <message>
         <source>Zoom</source>
-        <translation>ズーム</translation>
+        <translation type="obsolete">ズーム</translation>
     </message>
     <message>
         <source>apply all slides</source>
@@ -4003,6 +4003,10 @@ This wizard will help you to understand the various settings of the double-scree
     <message>
         <source>slide play</source>
         <translation type="obsolete">スライドショー</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

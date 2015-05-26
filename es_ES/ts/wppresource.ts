@@ -2814,6 +2814,10 @@ activado</translation>
         <translation>meter codigo de Activacion</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exportar a PDF</translation>
     </message>
@@ -7592,6 +7596,10 @@ de COM</translation>
         <translation>Exportar como imagen</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exportar a PDF</translation>
     </message>
@@ -8059,10 +8067,6 @@ ventana</translation>
         <translation>Imagen</translation>
     </message>
     <message>
-        <source>Picture Format Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play</source>
         <translation>Reproducir</translation>
     </message>
@@ -8247,11 +8251,11 @@ ventana</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Format Style</source>
+        <source>Shape Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Line</source>
+        <source>Shape Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8370,6 +8374,10 @@ de diapositiva</translation>
     <message>
         <source>Study Online</source>
         <translation>Estudio en línea</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -9334,6 +9342,10 @@ del control</translation>
     <message>
         <source>Enter Activation Code</source>
         <translation>meter codigo de Activacion</translation>
+    </message>
+    <message>
+        <source>Export OFD Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -14393,6 +14405,11 @@ de diapositiva</translation>
         <translation>Cambiar UI</translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>Verdadero</translation>
     </message>
@@ -14650,6 +14667,11 @@ de diapositiva</translation>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
         <translation>Cambiar UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

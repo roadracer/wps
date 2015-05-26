@@ -3220,6 +3220,85 @@ use buttons to apply borders</source>
     </message>
 </context>
 <context>
+    <name>KxDlgDocumentFields</name>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocumentField Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert</source>
+        <translation type="unfinished">插入(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Rename</source>
+        <translation type="unfinished">重命名(R)</translation>
+    </message>
+    <message>
+        <source>&amp;Go To</source>
+        <translation type="unfinished">定位(&amp;G)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Marks Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by:</source>
+        <translation type="unfinished">排序依据:</translation>
+    </message>
+    <message>
+        <source>&amp;Name</source>
+        <translation type="unfinished">名称(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation type="unfinished">位置(&amp;L)</translation>
+    </message>
+    <message>
+        <source>DocumentField Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Hidden</source>
+        <translation type="unfinished">隐藏文字(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read &amp;Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertion Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then counted in. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgDrawingGrid</name>
     <message>
         <source>&amp;Horizontal every:</source>
@@ -3800,6 +3879,10 @@ If unnecessary, please click Cancel.</source>
     <message>
         <source>Suppress all non_&amp;delimiter chars:</source>
         <translation type="obsolete">支持所有非定界符字符(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Add the &amp;path to the file name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7116,6 +7199,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>&amp;Browse...</source>
         <translation>浏览(&amp;B)...</translation>
     </message>
+    <message>
+        <source>D&amp;ocument fields</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -9201,6 +9288,29 @@ Do you want to:</source>
     </message>
 </context>
 <context>
+    <name>KxDocumentFieldsDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">关闭</translation>
+    </message>
+    <message>
+        <source>The document field with this name has already existed. Do you want to cover it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field is illegal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field has already existed, please rename it!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDropCapDlg</name>
     <message>
         <source>Nubber must between %1 and %2.</source>
@@ -9529,7 +9639,7 @@ Do you want to:</source>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
-        <translation>打开并激活C盘下的KingSoft.wps文件。</translation>
+        <translation type="obsolete">打开并激活C盘下的KingSoft.wps文件。</translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
@@ -9553,7 +9663,7 @@ Do you want to:</source>
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation>假设C盘有KingSoft.wps文件。域代码：HYPERLINK &quot;C:\\KingSoft.wps&quot;</translation>
+        <translation type="obsolete">假设C盘有KingSoft.wps文件。域代码：HYPERLINK &quot;C:\\KingSoft.wps&quot;</translation>
     </message>
     <message>
         <source>Presume the author of this document is WPS. Field code: DOCPPROPERTY Author</source>
@@ -9680,7 +9790,7 @@ Do you want to:</source>
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation>假定图片的路径为&quot;d:\\kingsoft.jpg&quot;.域代码:&quot;INCLUDEPICTURE &quot;d:\\kingsoft.jpg&quot;</translation>
+        <translation type="obsolete">假定图片的路径为&quot;d:\\kingsoft.jpg&quot;.域代码:&quot;INCLUDEPICTURE &quot;d:\\kingsoft.jpg&quot;</translation>
     </message>
     <message>
         <source>Insert a picture from a file</source>
@@ -9697,6 +9807,66 @@ Do you want to:</source>
     <message>
         <source>Insert the text from a like-styled paragraph.</source>
         <translation type="obsolete">插入具有类似样式的段落中文本</translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>root directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D:\\</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D drive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open and activate the file KingSoft.wps under the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IncludeText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text to from a file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert the file name of the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forma&amp;t:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document &amp;property:</source>
+        <translation type="unfinished">文档属性(&amp;P):</translation>
     </message>
 </context>
 <context>
@@ -12453,6 +12623,10 @@ This change will affect all new documents based on the %1 template.</source>
         <source>Stop Protection</source>
         <translation type="obsolete">停止保护...</translation>
     </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpDocProtectionWidget</name>
@@ -12585,6 +12759,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>You may edit in this region,but all changes will be tracked.</source>
         <translation>可以在此区域中编辑，但所有更改将作为修订。</translation>
+    </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14447,6 +14625,73 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">视图</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">编辑</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">打印</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">保存</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>Behind Text</source>
@@ -14539,31 +14784,55 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsReviewPane</name>
     <message>
         <source>REVIEWPANE</source>
-        <translation type="unfinished">审阅窗格</translation>
+        <translation type="obsolete">审阅窗格</translation>
     </message>
     <message>
         <source> Part</source>
-        <translation type="unfinished"> 处</translation>
+        <translation type="obsolete"> 处</translation>
     </message>
     <message>
         <source>Insert: </source>
-        <translation type="unfinished">插入： </translation>
+        <translation type="obsolete">插入： </translation>
     </message>
     <message>
         <source>Delete: </source>
-        <translation type="unfinished">删除： </translation>
+        <translation type="obsolete">删除： </translation>
     </message>
     <message>
         <source>Format: </source>
-        <translation type="unfinished">格式： </translation>
+        <translation type="obsolete">格式： </translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="unfinished">批注： </translation>
+        <translation type="obsolete">批注： </translation>
     </message>
     <message>
         <source>Revision: </source>
-        <translation type="unfinished">修订： 共 </translation>
+        <translation type="obsolete">修订： 共 </translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertions: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deletions: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatting: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Revision: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15261,11 +15530,19 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsWrapTextWidget</name>
     <message>
         <source>close</source>
-        <translation>关闭</translation>
+        <translation type="obsolete">关闭</translation>
     </message>
     <message>
         <source>title</source>
-        <translation>布局选项</translation>
+        <translation type="obsolete">布局选项</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">关闭</translation>
+    </message>
+    <message>
+        <source>Layout options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

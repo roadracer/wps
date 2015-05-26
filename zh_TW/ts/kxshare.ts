@@ -478,6 +478,10 @@
         <source>Online font downloading,click font list see more detail.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The layout will take effect after restart or logoff computer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCompressPicturesDlg</name>
@@ -632,10 +636,6 @@
     <message>
         <source>Color Scheme</source>
         <translation>配色方案</translation>
-    </message>
-    <message>
-        <source>about:blank</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>applying...</source>
@@ -1619,7 +1619,7 @@
     <name>KxAboutDlg</name>
     <message>
         <source>%1%2</source>
-        <translation>%1%2</translation>
+        <translation type="obsolete">%1%2</translation>
     </message>
     <message>
         <source>%1(%2)</source>
@@ -1643,7 +1643,7 @@
     </message>
     <message>
         <source>res:/icons/kxshare/%1.png</source>
-        <translation>:/icons/kxshare/%1.bmp</translation>
+        <translation type="obsolete">:/icons/kxshare/%1.bmp</translation>
     </message>
     <message>
         <source>About WPS Writer</source>
@@ -1704,6 +1704,51 @@
     <message>
         <source>aboutwps</source>
         <translation type="obsolete">AbroadAboutWPS</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddRestrictUserDlg</name>
+    <message>
+        <source>Add Users</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
+Separate names with a semicolon(;).
+To select names from the Address book, click the Read or Change button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add users from the Address Book</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read...   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change...   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change Access</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3180,6 +3225,10 @@ p, li { white-space: pre-wrap; }
         <source>Set as &amp;Default Template</source>
         <translation type="obsolete">設為預設範本(&amp;D)</translation>
     </message>
+    <message>
+        <source>pushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPrintProgress</name>
@@ -3327,6 +3376,29 @@ Double click any item can open the file, or you can use the popup menu. This wil
     <message>
         <source>Set Hyperlink ScreenTip</source>
         <translation>設定超連結工具提示</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSelectUser</name>
+    <message>
+        <source>Select User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Select one of the following user accounts to create or open content with restricted permission.To use an account not listed below,click Add.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished">新增(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">移除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>A&amp;lways use this account</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4198,6 +4270,17 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
 </context>
 <context>
+    <name>KxLoadingRMSDlg</name>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying your logon information for opening content with restricted permission...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxMacroActionButtonCommand</name>
     <message>
         <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook or all macros may be disabled.</source>
@@ -4375,6 +4458,22 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <message>
         <source>Undo</source>
         <translation>復原</translation>
+    </message>
+    <message>
+        <source>Close all tabs or current tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cancel Close</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4558,6 +4657,30 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>Download</source>
         <translation>下載</translation>
     </message>
+    <message>
+        <source>import templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>template file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97/2000/XP/2003 Template</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineFontController</name>
@@ -4715,10 +4838,6 @@ Click the icon to sign in now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Downloading fonts, please wait…</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Upgrade to VIP to enjoy VIP fonts.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4748,6 +4867,10 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>(Restart to take effect).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4867,6 +4990,69 @@ Click the icon to sign in now.</source>
     <message>
         <source>WPS hint</source>
         <translation type="obsolete">Kingsoft Writer</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionOptionDlg</name>
+    <message>
+        <source>Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Restrict permission to this document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following &amp;users have permission to this document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished">新增(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>Remo&amp;ve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Additional permissions for users:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document expires o&amp;n:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter date in format: yyyy/M/d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow users with read access to &amp;copy content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access content pr&amp;ogrammatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Additional settings:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users can request additonal per&amp;missions from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;quire a connection to verify a user&apos;s permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Set defaults...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5446,6 +5632,63 @@ the file may be renamed,deleted or moved the location.</source>
     </message>
 </context>
 <context>
+    <name>KxRestrictedAccessDlg</name>
+    <message>
+        <source>Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Restrict permission to this document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
+Separate names with a semicolon(;).
+To select names from the Address book, click the Read or Change button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add users from the Address Book</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read...   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Read Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change...   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Give all users Change Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displays advanced settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> More &amp;Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxRnCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
@@ -5613,6 +5856,10 @@ but the included system package is reserved.</source>
     <message>
         <source>The layout will take effect after restarting</source>
         <translation type="obsolete">介面配置更改將在下次啟動KingSoft Office時生效</translation>
+    </message>
+    <message>
+        <source>The layout will take effect after restart or logoff computer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5860,6 +6107,10 @@ but the included system package is reserved.</source>
     <message>
         <source>Type</source>
         <translation>類型</translation>
+    </message>
+    <message>
+        <source>browse templates location</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6817,6 +7068,10 @@ of services and features.</source>
 cannot be previewed.</source>
         <translation type="obsolete">無法預覽。</translation>
     </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetTextBox</name>
@@ -7464,7 +7719,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation> 2014 北京金山辦公軟件有限公司和珠海金山辦公軟件有限公司。</translation>
+        <translation type="obsolete"> 2014 北京金山辦公軟件有限公司和珠海金山辦公軟件有限公司。</translation>
     </message>
     <message>
         <source>&amp;Technical Support...</source>
@@ -7477,6 +7732,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <message>
         <source> 2013 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation type="obsolete"> 2014 北京金山辦公軟件有限公司和珠海金山辦公軟件有限公司。</translation>
+    </message>
+    <message>
+        <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="unfinished"> 2014 北京金山辦公軟件有限公司和珠海金山辦公軟件有限公司。 {2015 ?}</translation>
     </message>
 </context>
 <context>

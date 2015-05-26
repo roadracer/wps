@@ -212,7 +212,8 @@
 Try one or more of the following:
 1、Check whether the source file has been opened or occupied by other programs.
 2、Check whether the source file is protected.
-3、Ensure that the source file is in the appropriate directory.</source>
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2670,11 +2671,6 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>Cannot paste table to a vertical text box.</source>
         <comment>_TxDocument_TableInVertTextBox</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPSV6-TEXT</source>
-        <comment>_TxFilter_ConfigKey</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6910,6 +6906,11 @@ Check</source>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

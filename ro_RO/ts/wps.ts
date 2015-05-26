@@ -2461,6 +2461,85 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
 </context>
 <context>
+    <name>KxDlgDocumentFields</name>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocumentField Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert</source>
+        <translation type="unfinished">&amp;Introdu</translation>
+    </message>
+    <message>
+        <source>&amp;Rename</source>
+        <translation type="unfinished">&amp;Redenumește</translation>
+    </message>
+    <message>
+        <source>&amp;Go To</source>
+        <translation type="unfinished">&amp;Mergi la</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Șterge</translation>
+    </message>
+    <message>
+        <source>&amp;Marks Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by:</source>
+        <translation type="unfinished">Sortează după:</translation>
+    </message>
+    <message>
+        <source>&amp;Name</source>
+        <translation type="unfinished">&amp;Nume</translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation type="unfinished">&amp;Locație</translation>
+    </message>
+    <message>
+        <source>DocumentField Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Hidden</source>
+        <translation type="unfinished">&amp;Ascuns</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read &amp;Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertion Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then counted in. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulează</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgDrawingGrid</name>
     <message>
         <source>Drawing Grid</source>
@@ -2875,7 +2954,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Number format:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Format &amp;număr:</translation>
     </message>
     <message>
         <source>&amp;Table area:</source>
@@ -2942,6 +3021,10 @@ If unnecessary, please click Cancel.</source>
     <message>
         <source>Document &amp;property:</source>
         <translation>&amp;Proprietate document:</translation>
+    </message>
+    <message>
+        <source>Add the &amp;path to the file name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4472,7 +4555,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Style &amp;type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Tip stil:</translation>
     </message>
     <message>
         <source>cbxStyleType</source>
@@ -4492,7 +4575,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Style &amp;based on:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stil &amp;bazat pe:</translation>
     </message>
     <message>
         <source>cbxStyleBaseOn</source>
@@ -4504,7 +4587,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Style for following paragraph:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Stil pentru următorul paragraf:</translation>
     </message>
     <message>
         <source>cbxStyleFollow</source>
@@ -5609,6 +5692,10 @@ Example: +4 will move forward four items:</source>
         <source>File sharing options for this document:</source>
         <translation>Opțiuni partajare fișier pentru acest document:</translation>
     </message>
+    <message>
+        <source>D&amp;ocument fields</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -5658,7 +5745,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Number &amp;format:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Format număr:</translation>
     </message>
     <message>
         <source>&amp;Show numher on first page</source>
@@ -6312,7 +6399,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Utilizați regulile asiatice pentru controlul primelor și ultimelor caractere</translation>
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
@@ -6320,7 +6407,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Allow ha&amp;nging punctuation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Permite ag&amp;ățarea punctuației</translation>
     </message>
     <message>
         <source>Character spacing</source>
@@ -6364,7 +6451,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Tabs...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;File...</translation>
     </message>
     <message>
         <source>Right-to-le&amp;ft</source>
@@ -6839,19 +6926,19 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dimensiune</translation>
     </message>
     <message>
         <source>Preferred &amp;width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Lățime preferată:</translation>
     </message>
     <message>
         <source>pt, 1, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pct, 1, 0, 1584, 1</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aliniament</translation>
     </message>
     <message>
         <source>Rig&amp;ht</source>
@@ -6863,23 +6950,23 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>pt, 1, -1080, 1080, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pct, 2, -1080, 1080, 1 {1,?}</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Centru</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Stânga</translation>
     </message>
     <message>
         <source>Text wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Încadrarea textului</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Nimic</translation>
     </message>
     <message>
         <source>&amp;Around</source>
@@ -6895,7 +6982,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Opțiuni...</translation>
     </message>
     <message>
         <source>&amp;Row</source>
@@ -6911,7 +6998,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>pt, 1, 1, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pct, 1, 1, 1584, 1</translation>
     </message>
     <message>
         <source>Row height &amp;is:</source>
@@ -6919,15 +7006,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>At least</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cel puțin</translation>
     </message>
     <message>
         <source>Exactly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exact</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opțiuni</translation>
     </message>
     <message>
         <source>Allow row to brea&amp;k across pages</source>
@@ -6955,7 +7042,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>pt, 1, 4.5, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pct, 1, 4.5, 1584, 1</translation>
     </message>
     <message>
         <source>&amp;Previous Column</source>
@@ -6972,7 +7059,7 @@ Example: +4 will move forward four items:</source>
     <message>
         <source>Size</source>
         <comment>Cell</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dimensiune</translation>
     </message>
     <message>
         <source>Vertical alignment</source>
@@ -6980,7 +7067,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Su&amp;s</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -7133,7 +7220,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Calculate on exit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Calculează la ieșire</translation>
     </message>
     <message>
         <source>&amp;Maximum length:</source>
@@ -7477,6 +7564,29 @@ Example: +4 will move forward four items:</source>
     </message>
 </context>
 <context>
+    <name>KxDocumentFieldsDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulează</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Închide</translation>
+    </message>
+    <message>
+        <source>The document field with this name has already existed. Do you want to cover it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field is illegal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field has already existed, please rename it!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDropCapDlg</name>
     <message>
         <source>Number must be between 1 and 10.</source>
@@ -7664,19 +7774,11 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hyperlink</source>
         <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open and activate the file KingSoft.wps under the C drive.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7835,10 +7937,6 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>IncludePicture</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7861,6 +7959,66 @@ Example: +4 will move forward four items:</source>
     <message>
         <source>Insert a document property</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation type="unfinished">/</translation>
+    </message>
+    <message>
+        <source>root directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D:\\</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D drive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open and activate the file KingSoft.wps under the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IncludeText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text to from a file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert the file name of the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forma&amp;t:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document &amp;property:</source>
+        <translation type="unfinished">&amp;Proprietate document:</translation>
     </message>
 </context>
 <context>
@@ -9884,6 +10042,10 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %1.</tra
         <source>Stop Protection...</source>
         <translation>Oprește protecția...</translation>
     </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpDocProtectionWidget</name>
@@ -9972,6 +10134,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Current user</source>
         <translation>Utilizatorul curent</translation>
+    </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11390,6 +11556,73 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Vizualizare</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Editare</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">Tipărește</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Salvează</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>In Line With Text</source>
@@ -11465,31 +11698,55 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsReviewPane</name>
     <message>
         <source>REVIEWPANE</source>
-        <translation>Panou recenzie</translation>
+        <translation type="obsolete">Panou recenzie</translation>
     </message>
     <message>
         <source> Part</source>
-        <translation> Parte</translation>
+        <translation type="obsolete"> Parte</translation>
     </message>
     <message>
         <source>Insert: </source>
-        <translation>Introdu: </translation>
+        <translation type="obsolete">Introdu: </translation>
     </message>
     <message>
         <source>Delete: </source>
-        <translation>Șterge: </translation>
+        <translation type="obsolete">Șterge: </translation>
     </message>
     <message>
         <source>Format: </source>
-        <translation>Format: </translation>
+        <translation type="obsolete">Format: </translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation>Comentariu: </translation>
+        <translation type="obsolete">Comentariu: </translation>
     </message>
     <message>
         <source>Revision: </source>
-        <translation>Revizie: </translation>
+        <translation type="obsolete">Revizie: </translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertions: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deletions: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatting: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Revision: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11918,11 +12175,19 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsWrapTextWidget</name>
     <message>
         <source>close</source>
-        <translation>închide</translation>
+        <translation type="obsolete">închide</translation>
     </message>
     <message>
         <source>title</source>
-        <translation>titlu</translation>
+        <translation type="obsolete">titlu</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Închide</translation>
+    </message>
+    <message>
+        <source>Layout options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

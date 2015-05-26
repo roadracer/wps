@@ -124,7 +124,11 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation>Agregar &amp;diseño</translation>
+        <translation type="obsolete">Agregar &amp;diseño</translation>
+    </message>
+    <message>
+        <source>Add Design</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3767,7 +3771,7 @@ carpeta especificada, para reproducir este archivo en otro ordenador.</translati
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
     </message>
     <message>
         <source>loop play, to the next voice began</source>
@@ -3780,6 +3784,10 @@ carpeta especificada, para reproducir este archivo en otro ordenador.</translati
     <message>
         <source>Loop until next sound</source>
         <translation>Repetir la reproducción hasta el siguiente sonido</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
