@@ -44,12 +44,12 @@
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation type="obsolete">Style foncé 2-Mise en évidence 3/Mise en évidence 4</translation>
+        <translation>Style foncé 2-Mise en évidence 3/Mise en évidence 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
         <translatorcomment>Insert tab-&gt;Table-&gt;insert a table-&gt;Table Style tab-&gt;table styles drop-down menu</translatorcomment>
-        <translation type="obsolete">Style foncé 2-Mise en évidence 1/Mise en évidence 2</translation>
+        <translation>Style foncé 2-Mise en évidence 1/Mise en évidence 2</translation>
     </message>
     <message>
         <source>Emphasize</source>
@@ -105,14 +105,6 @@
         <translatorcomment>Insert tab-&gt;Table-&gt;insert a table-&gt;Table Style tab-&gt;table styles drop-down menu</translatorcomment>
         <translation>Style foncé 2-Mise en évidence 5/Mise en évidence 6</translation>
     </message>
-    <message>
-        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">Style foncé 2-Mise en évidence 5/Mise en évidence 2 {2-?} {1/?}</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">Style foncé 2-Mise en évidence 5/Mise en évidence 4 {2-?} {3/?}</translation>
-    </message>
 </context>
 <context>
     <name>DesignLayoutPanel</name>
@@ -149,7 +141,11 @@
     <message>
         <source>Add &amp;Design</source>
         <translatorcomment>Open WPP-&gt;View tab-&gt;tick Task Window-&gt;Task Window drop-down menu, choose Slide Design-Design Templates-&gt;View tab-&gt;Slide Master-&gt;right-click a design template</translatorcomment>
-        <translation type="unfinished">A&amp;jouter une présentation</translation>
+        <translation type="obsolete">A&amp;jouter une présentation</translation>
+    </message>
+    <message>
+        <source>Add Design</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -731,7 +727,7 @@
     <message>
         <source>UnLocked</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths-&gt;right-click the effect, Effect Options-&gt;dialog box-&gt;Effects tab</translatorcomment>
-        <translation type="obsolete">Déverrouillée</translation>
+        <translation>Déverrouillée</translation>
     </message>
     <message>
         <source>Until End of Slide</source>
@@ -744,10 +740,6 @@
     <message>
         <source>With Previous</source>
         <translation>Avec la précédente</translation>
-    </message>
-    <message>
-        <source>Unlocked</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -880,14 +872,10 @@
     </message>
     <message>
         <source>bgMagic tooltip</source>
-        <translation type="obsolete">bgMagic tooltip</translation>
+        <translation>bgMagic tooltip</translation>
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Try for magic!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1119,14 +1107,10 @@
     </message>
     <message>
         <source>Magic Backgroud</source>
-        <translation type="obsolete">Arrière-plan magique</translation>
+        <translation>Arrière-plan magique</translation>
     </message>
     <message>
         <source>Template Background</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Magic Background</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1354,16 +1338,17 @@ dans le fichier de présentation. Vous pouvez le placer dans le même dossier po
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text Label</source>
+        <source>TextLabel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The document contains cloud fonts. For the convenience of your readers, 
-we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
+        <source>Application documents online font, if your document needs circulated others, 
+we recommend that you saved earlier document fonts. 
+If necessary, click Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <source>Remember this operation, do not remind anymore</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1983,7 +1968,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Gerneral options</source>
         <translatorcomment>Drop-down menu-&gt;Tools-&gt;Options-&gt;Options dialog box-&gt;General and Save</translatorcomment>
-        <translation type="obsolete">Options générales</translation>
+        <translation>Options générales</translation>
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
@@ -2078,7 +2063,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Privacy</source>
         <translatorcomment>Drop-down menu-&gt;Tools-&gt;Options-&gt;Options dialog box-&gt;Privacy</translatorcomment>
-        <translation type="obsolete">Confidentialité</translation>
+        <translation>Confidentialité</translation>
     </message>
     <message>
         <source>Prompt to &amp;keep ink when exiting</source>
@@ -2254,47 +2239,11 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Password protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Mini Toolbar on rig&amp;ht click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscribe WPS Minisite</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show E&amp;veryday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show After One Week (&amp;Y)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never Show &amp;Again</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password protection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2488,113 +2437,6 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
 </context>
 <context>
-    <name>KxDlgParagraph</name>
-    <message>
-        <source>Paragraph</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Indents and Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>point, 2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>line, 2, 0, 9.99, 0.1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;fter:</source>
-        <translation type="unfinished">Ap&amp;rès :</translation>
-    </message>
-    <message>
-        <source>&amp;At:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Before:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Li&amp;ne spacing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ali&amp;gnment:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Indentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Befo&amp;re text:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Special:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Break</source>
-        <translation type="unfinished">Saut de ligne</translation>
-    </message>
-    <message>
-        <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation type="unfinished">Autoriser la césure en &amp;milieu de mot pour le texte en caractères latins</translation>
-    </message>
-    <message>
-        <source>Allow hanging punctuatio&amp;n</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First and last characters</source>
-        <translation type="unfinished">Premier et dernier caractères</translation>
-    </message>
-    <message>
-        <source>&amp;Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custo&amp;m</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot st&amp;art line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cann&amp;ot end line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line-breaking characters currently customized for:</source>
-        <translation type="unfinished">Caractères de saut de ligne personnalisés pour :</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgProgress</name>
     <message>
         <source>Cancel</source>
@@ -2771,10 +2613,6 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <translatorcomment>Insert tab-&gt;Sound-&gt;insert a sound-&gt;right-click the icon-&gt;choose Edit sound object-&gt;Sound Options dialog box</translatorcomment>
         <translation>Durée d&apos;écoute totale :</translation>
     </message>
-    <message>
-        <source>&amp;Hide icon on play</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -2864,7 +2702,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Volume Redress</source>
-        <translation type="obsolete">Ajuster le volume</translation>
+        <translation type="unfinished">Ajuster le volume</translation>
     </message>
     <message>
         <source>cbMute</source>
@@ -2873,10 +2711,6 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>tbVolume</source>
         <translation>tbVolume</translation>
-    </message>
-    <message>
-        <source>Volume Adjustment</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3630,7 +3464,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxOptionsDlg</name>
     <message>
         <source>Comfirmation password does not match.</source>
-        <translation type="obsolete">Le mot de passe de confirmation ne correspond pas.</translation>
+        <translation type="unfinished">Le mot de passe de confirmation ne correspond pas.</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
@@ -3645,20 +3479,16 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <translation>Ouvrir</translation>
     </message>
     <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Folder:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Confirmation password does not match.</source>
-        <translation type="unfinished">Le mot de passe de confirmation ne correspond pas.</translation>
     </message>
 </context>
 <context>
@@ -4070,7 +3900,11 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation type="obsolete">Zoom</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4495,68 +4329,10 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
 </context>
 <context>
-    <name>KxWppFormatRangeSaveAsCommand</name>
-    <message>
-        <source>Preparing for Video Export</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to setup Supporter of Video Export.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
         <translation type="unfinished">Aucune ligne</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppNewSlidesGalleryModel</name>
-    <message>
-        <source>Blank Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Content Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title and Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blank</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cover</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Body</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4609,52 +4385,6 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <source>All slides among this range are marked as hidden!</source>
         <translatorcomment>Open WPP-&gt;right-click the slide-&gt;Hide Slide-&gt;Print button in the quick access toolbar-&gt;Print dialog box-&gt;Print range: choose Slides, type 1-&gt;at the bottom-right corner, click Print hidden slides(it was chosen, do not choose it)-&gt;click OK-&gt;prompt message</translatorcomment>
         <translation>Toutes les diapositives comprises dans cette étendue sont masquées !</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppShowOffscreen</name>
-    <message>
-        <source>An Offscreen Show of this presentation is already running.
-Sure to close?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppSoundBarWidget</name>
-    <message>
-        <source>Move forward 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move back 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play/Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Volume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppStatusZoomOptionGalleryModel</name>
-    <message>
-        <source>Zoom Level</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>P&amp;ercent:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Fit Selection</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4934,7 +4664,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Follow Text and Lines Sheme Color</source>
-        <translation type="obsolete">Suivre la couleur du texte et des traits</translation>
+        <translation>Suivre la couleur du texte et des traits</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
@@ -5128,82 +4858,6 @@ Sure to close?</source>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
         <translation type="unfinished">%1 est déjà ouvert. La réouverture entraînera l&apos;annulation des modifications. Voulez-vous rouvrir %2 ?</translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation type="unfinished">Centre</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Justify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Distributed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(None)</source>
-        <translation type="unfinished">(Aucun)</translation>
-    </message>
-    <message>
-        <source>First line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hanging</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cm</source>
-        <translation type="unfinished">cm</translation>
-    </message>
-    <message>
-        <source>Please input value between 0cm and 21.35cm</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input value between 0 and 9.99</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input value between 0pt and 1584pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.5 times</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Double</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fixed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Multiple</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>按文本和线条配色方案</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5596,11 +5250,7 @@ Sure to close?</source>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
         <translatorcomment>Presentation Button-&gt;Save as-&gt;Export to PDF-&gt;dialog box-&gt;Permission settings tab</translatorcomment>
-        <translation type="obsolete">Remarque : les paramètres suivants deviennent effectifs et ne peuvent être modifiés par d&apos;autres personnes que si vous définissez un mot de passe.</translation>
-    </message>
-    <message>
-        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remarque : les paramètres suivants deviennent effectifs et ne peuvent être modifiés par d&apos;autres personnes que si vous définissez un mot de passe.</translation>
     </message>
 </context>
 <context>

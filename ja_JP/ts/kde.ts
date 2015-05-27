@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ja_JP">
-<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KdeImpl</name>
     <message>
@@ -36,6 +35,11 @@
         <source>Prompt</source>
         <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
         <translation>詳細</translation>
+    </message>
+    <message>
+        <source>The shortcut key must be a letter.</source>
+        <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shortcut key must be a letter.</source>

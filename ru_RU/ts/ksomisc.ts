@@ -111,10 +111,6 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>KS Biaoge.lnk</source>
         <translation></translation>
     </message>
-    <message>
-        <source>WPS Cloud.lnk</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -290,7 +286,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>An error occured when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation type="obsolete">Ошибка восстановления. Повторите процедуру восстановления.</translation>
+        <translation>Ошибка восстановления. Повторите процедуру восстановления.</translation>
     </message>
     <message>
         <source>Repair completed!</source>
@@ -300,11 +296,6 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
         <translation>Вы не зарегистрированы с учётной запись администратора. Некоторые функции могут быть недоступны.</translation>
-    </message>
-    <message>
-        <source>An error occurred when repairing, please retry.</source>
-        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -509,10 +500,6 @@ needs restarting Windows to take effect.</source>
         <translation>Для вступления в силу параметра &quot;Совместимость с программным обеспечением сторонних производителей&quot;
 необходима перезагрузка.</translation>
     </message>
-    <message>
-        <source>&amp;Compatible with Microsoft Office 2010</source>
-        <translation type="unfinished">Со&amp;вместимо с Microsoft Office 2010</translation>
-    </message>
 </context>
 <context>
     <name>KPageHomePage</name>
@@ -522,7 +509,7 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation type="obsolete">Разблокировка домашней страницы IE может привести к её заражению программой-вирусом и несанкционированному доступу к учётной записи.</translation>
+        <translation>Разблокировка домашней страницы IE может привести к её заражению программой-вирусом и несанкционированному доступу к учётной записи.</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
@@ -530,16 +517,7 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>Unlock completed</source>
-        <translation type="obsolete">Разблокировка завершена</translation>
-    </message>
-    <message>
-        <source>You can change the IE homepage anytime.
-Notice that doing so exposes you to risks of virus infection and hacking.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Разблокировка завершена</translation>
     </message>
 </context>
 <context>
@@ -1101,10 +1079,6 @@ The button icon, command group and task window position of each scheme are diffe
         <source>Microsoft PowerPoint Macro-Enabled Slide</source>
         <translation>Слайд Microsoft PowerPoint с поддержкой макросов</translation>
     </message>
-    <message>
-        <source>Microsoft Excel Backup File</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1126,7 +1100,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Programs that can be actiavted</source>
-        <translation type="obsolete">Программы, которые могут быть запущены</translation>
+        <translation>Программы, которые могут быть запущены</translation>
     </message>
     <message>
         <source>Subtotal:</source>
@@ -1135,10 +1109,6 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>Are you sure to delete the serial number?</source>
         <translation>Удалить серийный номер?</translation>
-    </message>
-    <message>
-        <source>Programs that can be activated</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1165,7 +1135,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation type="obsolete">Не проверять наличие обновлений автоматически (не рекомендуется)</translation>
+        <translation>Не проверять наличие обновлений автоматически (не рекомендуется)</translation>
     </message>
     <message>
         <source>Get the latest product news during updates(&amp;K)</source>
@@ -1231,22 +1201,6 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>The port must be a number between 1 and 65535.</source>
         <translation>Номер порта должен быть числом от 0 до 65535.</translation>
-    </message>
-    <message>
-        <source>Do not check for updates automatically (not recommended)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update Items:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All new releases</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recommended new releases</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

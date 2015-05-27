@@ -16,7 +16,7 @@ set g_errstr=cann't find coding directory
 goto ERREXIT
 
 :next
-call %g_coding%\shell2\mui\bin\config_file.bat zh_CN
+call %g_coding%\shell2\mui\bin\config_file.bat 2052
 start %g_tools_bin%\linguist.exe 
 exit /b 0
 

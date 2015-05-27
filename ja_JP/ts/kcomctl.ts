@@ -3,13 +3,6 @@
 <TS version="2.0" language="ja_JP">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
-    <name>DownloadBubbleWidget</name>
-    <message>
-        <source>Download failed due to possible network problems. Please try again later.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KApplication</name>
     <message>
         <source>Critical</source>
@@ -399,11 +392,6 @@
         <comment>Member user type</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Registered user</source>
-        <comment>Member User type</comment>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KMenuWidget</name>
@@ -417,43 +405,6 @@
     <message>
         <source>Text </source>
         <translation>テキスト</translation>
-    </message>
-</context>
-<context>
-    <name>KProgressBar</name>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Multiple Tasks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show In Progress Tasks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Press &apos;Multiple Task&apos; button to display tasks</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KProgressListGalleryModelItem</name>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KProxyCommandButton</name>
-    <message>
-        <source>(Download required)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(Initializing...)</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -556,6 +507,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Can not find the file &quot;%1&quot;.
+the file may be renamed,deleted or moved the location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unpinned from List</source>
         <translation>リストから固定されていない</translation>
     </message>
@@ -572,6 +528,18 @@
         <translation>すべての未固定ファイルをクリアする</translation>
     </message>
     <message>
+        <source>
+
+modify time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This record is invalid, the file may be renamed,deleted or moved the location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clear pinned files</source>
         <translation type="obsolete">すべての固定ファイルをクリアする</translation>
     </message>
@@ -586,23 +554,6 @@
     <message>
         <source>Unpinned from list</source>
         <translation type="obsolete">リストから固定されていない</translation>
-    </message>
-    <message>
-        <source>Unable to open &quot;%1&quot;.
-This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Modified time: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -669,7 +620,7 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
-        <translation type="obsolete">[Device]
+        <translation>[Device]
 pt=pt;p
 in=inch;i
 cm=cm;c
@@ -693,36 +644,6 @@ auto=auto
 [Multiple]
 multiple=multiple</translation>
     </message>
-    <message>
-        <source>[Device]
-pt=pt;p
-in=inch;i
-cm=cm;c
-mm=mm;m
-
-[Percentage]
-%=%
-
-[Character]
-ch=char
-
-[Degree]
-degree=degree
-
-[Row]
-line=line
-
-[Auto]
-auto=auto
-
-[Multiple]
-multiple=multiple
-
-[Point]
-point=pt
-</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KWPSCloudSetup</name>
@@ -731,8 +652,8 @@ point=pt
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Some components are not installed correctly.
-Please reinstall WPS Office!</source>
+        <source>Some components are not installed correctly,
+please reinstall WPS Office!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -125,11 +125,11 @@
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation type="obsolete">深色样式 2-强调 3/强调 4</translation>
+        <translation>深色样式 2-强调 3/强调 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation type="obsolete">深色样式 2-强调 1/强调 2</translation>
+        <translation>深色样式 2-强调 1/强调 2</translation>
     </message>
     <message>
         <source>Emphasize</source>
@@ -179,14 +179,6 @@
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translation>深色样式 2-强调 5/强调 6</translation>
     </message>
-    <message>
-        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished">深色样式 2-强调 5/强调 2 {2-?} {1/?}</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished">深色样式 2-强调 5/强调 4 {2-?} {3/?}</translation>
-    </message>
 </context>
 <context>
     <name>Deletebkmusic</name>
@@ -215,7 +207,7 @@
     <name>DesignLayoutPanel</name>
     <message>
         <source>Add Design</source>
-        <translation type="obsolete">添加设计方案(D)</translation>
+        <translation type="unfinished">添加设计方案(D)</translation>
     </message>
     <message>
         <source>Apply to &amp;All</source>
@@ -243,7 +235,7 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation type="unfinished">添加设计方案(D)</translation>
+        <translation type="obsolete">添加设计方案(D)</translation>
     </message>
 </context>
 <context>
@@ -838,7 +830,7 @@
     </message>
     <message>
         <source>UnLocked</source>
-        <translation type="obsolete">解除锁定</translation>
+        <translation>解除锁定</translation>
     </message>
     <message>
         <source>Until End of Slide</source>
@@ -859,10 +851,6 @@
     <message>
         <source>Sound &amp;volume:</source>
         <translation>声音音量(&amp;V):</translation>
-    </message>
-    <message>
-        <source>Unlocked</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1181,15 +1169,11 @@
     </message>
     <message>
         <source>bgMagic tooltip</source>
-        <translation type="obsolete">试试手气，相信奇迹会出现</translation>
+        <translation>试试手气，相信奇迹会出现</translation>
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation>成千上万的时尚模板帮您打造不一样的演示稿</translation>
-    </message>
-    <message>
-        <source>Try for magic!</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1449,7 +1433,7 @@
     </message>
     <message>
         <source>Magic Backgroud</source>
-        <translation type="obsolete">魔法换背景</translation>
+        <translation>魔法换背景</translation>
     </message>
     <message>
         <source>I&amp;gnore the background of master slide</source>
@@ -1458,10 +1442,6 @@
     <message>
         <source>Template Background</source>
         <translation>背景模板</translation>
-    </message>
-    <message>
-        <source>Magic Background</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1744,29 +1724,20 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation>对话框</translation>
     </message>
     <message>
+        <source>TextLabel</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Application documents online font, if your document needs circulated others, 
 we recommend that you saved earlier document fonts. 
 If necessary, click Cancel</source>
-        <translation type="obsolete">文档中应用了“云字体”，若您的文档需要传阅他人，
+        <translation>文档中应用了“云字体”，若您的文档需要传阅他人，
 我们建议您将字体保存到文档中。
 是否将云字体保存到文档中？</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation type="obsolete">记住此操作，不再提醒</translation>
-    </message>
-    <message>
-        <source>Text Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The document contains cloud fonts. For the convenience of your readers, 
-we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remember my choice, and don&apos;t prompt me again.</source>
-        <translation type="unfinished"></translation>
+        <translation>记住此操作，不再提醒</translation>
     </message>
 </context>
 <context>
@@ -2403,7 +2374,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Gerneral options</source>
-        <translation type="obsolete">常规选项</translation>
+        <translation>常规选项</translation>
     </message>
     <message>
         <source>Gray</source>
@@ -2675,7 +2646,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="obsolete">隐私</translation>
+        <translation>隐私</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
@@ -2707,7 +2678,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Password protect</source>
-        <translation type="obsolete">密码保护</translation>
+        <translation>密码保护</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -2716,46 +2687,6 @@ be recovered.</source>
     <message>
         <source>&amp;Browse...</source>
         <translation>浏览(&amp;B)...</translation>
-    </message>
-    <message>
-        <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Mini Toolbar on rig&amp;ht click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscribe WPS Minisite</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show E&amp;veryday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show After One Week (&amp;Y)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never Show &amp;Again</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password protection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feedback</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2977,113 +2908,6 @@ be recovered.</source>
     </message>
 </context>
 <context>
-    <name>KxDlgParagraph</name>
-    <message>
-        <source>Paragraph</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Indents and Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>point, 2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>line, 2, 0, 9.99, 0.1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;fter:</source>
-        <translation type="unfinished">在(&amp;F):</translation>
-    </message>
-    <message>
-        <source>&amp;At:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Before:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Li&amp;ne spacing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spacing</source>
-        <translation type="unfinished">磅</translation>
-    </message>
-    <message>
-        <source>Ali&amp;gnment:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Indentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Befo&amp;re text:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Special:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Break</source>
-        <translation type="unfinished">换行</translation>
-    </message>
-    <message>
-        <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation type="unfinished">允许西文在单词中间换行(&amp;W)</translation>
-    </message>
-    <message>
-        <source>Allow hanging punctuatio&amp;n</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First and last characters</source>
-        <translation type="unfinished">首尾字符</translation>
-    </message>
-    <message>
-        <source>&amp;Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custo&amp;m</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot st&amp;art line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cann&amp;ot end line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line-breaking characters currently customized for:</source>
-        <translation type="unfinished">分行符当前被自定义为:</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgProgress</name>
     <message>
         <source>Cancel</source>
@@ -3281,10 +3105,6 @@ be recovered.</source>
         <source>Total Playing Time:</source>
         <translation>播放时间总和:</translation>
     </message>
-    <message>
-        <source>&amp;Hide icon on play</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -3376,7 +3196,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Volume Redress</source>
-        <translation type="obsolete">音量调整</translation>
+        <translation>音量调整</translation>
     </message>
     <message>
         <source>cbMute</source>
@@ -3385,10 +3205,6 @@ be recovered.</source>
     <message>
         <source>tbVolume</source>
         <translation></translation>
-    </message>
-    <message>
-        <source>Volume Adjustment</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4403,7 +4219,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Comfirmation password does not match.</source>
-        <translation type="obsolete">密码确认不符。</translation>
+        <translation>密码确认不符。</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -4419,15 +4235,7 @@ be recovered.</source>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="obsolete">您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
-    </message>
-    <message>
-        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Confirmation password does not match.</source>
-        <translation type="unfinished">密码确认不符。</translation>
+        <translation>您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
     </message>
 </context>
 <context>
@@ -5003,7 +4811,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="obsolete">幻灯片切换</translation>
+        <translation type="unfinished">幻灯片切换</translation>
     </message>
     <message>
         <source>Sound:</source>
@@ -5015,7 +4823,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished">缩放</translation>
+        <translation type="obsolete">缩放</translation>
     </message>
     <message>
         <source>loop play, to the next voice began</source>
@@ -5634,17 +5442,6 @@ be recovered.</source>
     </message>
 </context>
 <context>
-    <name>KxWppFormatRangeSaveAsCommand</name>
-    <message>
-        <source>Preparing for Video Export</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to setup Supporter of Video Export.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>Line Effect</source>
@@ -5669,53 +5466,6 @@ be recovered.</source>
     <message>
         <source>No Line</source>
         <translation>无线条颜色</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppNewSlidesGalleryModel</name>
-    <message>
-        <source>Blank Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Content Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title and Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blank</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cover</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Body</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6048,52 +5798,6 @@ be recovered.</source>
     <message>
         <source>Shadow Effects</source>
         <translation type="obsolete">阴影效果</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppShowOffscreen</name>
-    <message>
-        <source>An Offscreen Show of this presentation is already running.
-Sure to close?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppSoundBarWidget</name>
-    <message>
-        <source>Move forward 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move back 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play/Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Volume</source>
-        <translation type="unfinished">音量</translation>
-    </message>
-    <message>
-        <source>Setting</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppStatusZoomOptionGalleryModel</name>
-    <message>
-        <source>Zoom Level</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>P&amp;ercent:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Fit Selection</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6652,7 +6356,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Follow Text and Lines Sheme Color</source>
-        <translation type="obsolete">按文本和线条配色方案</translation>
+        <translation>按文本和线条配色方案</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
@@ -6737,82 +6441,6 @@ Sure to close?</source>
     <message>
         <source>&quot;%1&quot; is already open. Opening again will cause the changes made to the document to be discarded. Continue to open &quot;%2&quot;?</source>
         <translation type="obsolete">&quot;%1&quot; 已经打开。重新执行打开操作会造成前面所做的更改被放弃，是否重新打开 &quot;%2&quot;</translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation type="unfinished">居中</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Justify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Distributed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(None)</source>
-        <translation type="unfinished">(无)</translation>
-    </message>
-    <message>
-        <source>First line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hanging</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cm</source>
-        <translation type="unfinished">厘米</translation>
-    </message>
-    <message>
-        <source>Please input value between 0cm and 21.35cm</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input value between 0 and 9.99</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input value between 0pt and 1584pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.5 times</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Double</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fixed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Multiple</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>按文本和线条配色方案</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7398,7 +7026,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="obsolete">注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
+        <translation>注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -7419,10 +7047,6 @@ Sure to close?</source>
     <message>
         <source>Note: Only setting password, the following options can be valid on note, and prevented others changing on note.</source>
         <translation type="obsolete">注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
-    </message>
-    <message>
-        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

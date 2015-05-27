@@ -6,192 +6,192 @@
     <name>classics.3d_settings</name>
     <message>
         <source>0 pt</source>
-        <translation type="obsolete">0 磅</translation>
+        <translation>0 磅</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="obsolete">144 磅</translation>
+        <translation>144 磅</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="obsolete">288 磅</translation>
+        <translation>288 磅</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="obsolete">三维颜色</translation>
+        <translation>三维颜色</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation type="obsolete">设置/取消三维效果</translation>
+        <translation>设置/取消三维效果</translation>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="obsolete">36 磅</translation>
+        <translation>36 磅</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="obsolete">72 磅</translation>
+        <translation>72 磅</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="obsolete">明亮</translation>
+        <translation>明亮</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">自定义</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="obsolete">深度</translation>
+        <translation>深度</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation type="obsolete">阴暗</translation>
+        <translation>阴暗</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="obsolete">方向</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation type="obsolete">无穷</translation>
+        <translation>无穷</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="obsolete">照明角度</translation>
+        <translation>照明角度</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation type="obsolete">亚光效果</translation>
+        <translation>亚光效果</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation type="obsolete">金属效果</translation>
+        <translation>金属效果</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation type="obsolete">其他三维颜色</translation>
+        <translation>其他三维颜色</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation type="obsolete">平行</translation>
+        <translation>平行</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="obsolete">透视</translation>
+        <translation>透视</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation type="obsolete">塑料效果</translation>
+        <translation>塑料效果</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Surface</source>
-        <translation type="obsolete">表面效果</translation>
+        <translation>表面效果</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation type="obsolete">下俯</translation>
+        <translation>下俯</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation type="obsolete">左偏</translation>
+        <translation>左偏</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation type="obsolete">右偏</translation>
+        <translation>右偏</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation type="obsolete">上翘</translation>
+        <translation>上翘</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="obsolete">透明框架</translation>
+        <translation>透明框架</translation>
     </message>
 </context>
 <context>
     <name>classics.control_toolbox</name>
     <message>
         <source>Check Box</source>
-        <translation type="obsolete">复选框</translation>
+        <translation>复选框</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation type="obsolete">组合框</translation>
+        <translation>组合框</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation type="obsolete">命令按钮</translation>
+        <translation>命令按钮</translation>
     </message>
     <message>
         <source>Controls List</source>
-        <translation type="obsolete">控件列表</translation>
+        <translation>控件列表</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="obsolete">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="obsolete">标签</translation>
+        <translation>标签</translation>
     </message>
     <message>
         <source>List Box</source>
-        <translation type="obsolete">列表框</translation>
+        <translation>列表框</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="obsolete">其他控件</translation>
+        <translation>其他控件</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="obsolete">选项按钮</translation>
+        <translation>选项按钮</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="obsolete">属性</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="obsolete">滚动条</translation>
+        <translation>滚动条</translation>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation type="obsolete">数值调节按钮</translation>
+        <translation>数值调节按钮</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="obsolete">文本框</translation>
+        <translation>文本框</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="obsolete">切换按钮</translation>
+        <translation>切换按钮</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="obsolete">查看代码</translation>
+        <translation>查看代码</translation>
     </message>
 </context>
 <context>
     <name>classics.diagram</name>
     <message>
         <source>Change To</source>
-        <translation type="obsolete">更改为</translation>
+        <translation>更改为</translation>
     </message>
 </context>
 <context>
     <name>classics.diagram.OrgChartAndDiagram</name>
     <message>
         <source>Auto Format</source>
-        <translation type="obsolete">自动套用格式</translation>
+        <translation>自动套用格式</translation>
     </message>
     <message>
         <source>Change to Cycle</source>
@@ -215,166 +215,166 @@
     </message>
     <message>
         <source>Cycle</source>
-        <translation type="obsolete">循环型</translation>
+        <translation>循环型</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation type="obsolete">插入形状</translation>
+        <translation>插入形状</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
-        <translation type="obsolete">后移形状</translation>
+        <translation>后移形状</translation>
     </message>
     <message>
         <source>Move Shape Forward</source>
-        <translation type="obsolete">前移形状</translation>
+        <translation>前移形状</translation>
     </message>
     <message>
         <source>Pyramid</source>
-        <translation type="obsolete">棱锥型</translation>
+        <translation>棱锥型</translation>
     </message>
     <message>
         <source>Radial</source>
-        <translation type="obsolete">射线型</translation>
+        <translation>射线型</translation>
     </message>
     <message>
         <source>Reverse Diagram</source>
-        <translation type="obsolete">反转图示</translation>
+        <translation>反转图示</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation type="obsolete">目标图</translation>
+        <translation>目标图</translation>
     </message>
     <message>
         <source>Venn</source>
-        <translation type="obsolete">维恩型</translation>
+        <translation>维恩型</translation>
     </message>
 </context>
 <context>
     <name>classics.drawing</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="obsolete"> 0.5 磅</translation>
+        <translation> 0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="obsolete">   1 磅</translation>
+        <translation>   1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="obsolete"> 1.5 磅</translation>
+        <translation> 1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="obsolete">   3 磅</translation>
+        <translation>   3 磅</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation type="obsolete">三维效果样式</translation>
+        <translation>三维效果样式</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation type="obsolete">三维样式 1</translation>
+        <translation>三维样式 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation type="obsolete">三维样式 10</translation>
+        <translation>三维样式 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation type="obsolete">三维样式 11</translation>
+        <translation>三维样式 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation type="obsolete">三维样式 12</translation>
+        <translation>三维样式 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation type="obsolete">三维样式 13</translation>
+        <translation>三维样式 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation type="obsolete">三维样式 14</translation>
+        <translation>三维样式 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation type="obsolete">三维样式 15</translation>
+        <translation>三维样式 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation type="obsolete">三维样式 16</translation>
+        <translation>三维样式 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation type="obsolete">三维样式 17</translation>
+        <translation>三维样式 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation type="obsolete">三维样式 18</translation>
+        <translation>三维样式 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation type="obsolete">三维样式 19</translation>
+        <translation>三维样式 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation type="obsolete">三维样式 2</translation>
+        <translation>三维样式 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation type="obsolete">三维样式 20</translation>
+        <translation>三维样式 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation type="obsolete">三维样式 3</translation>
+        <translation>三维样式 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation type="obsolete">三维样式 4</translation>
+        <translation>三维样式 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation type="obsolete">三维样式 5</translation>
+        <translation>三维样式 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation type="obsolete">三维样式 6</translation>
+        <translation>三维样式 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation type="obsolete">三维样式 7</translation>
+        <translation>三维样式 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation type="obsolete">三维样式 8</translation>
+        <translation>三维样式 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation type="obsolete">三维样式 9</translation>
+        <translation>三维样式 9</translation>
     </message>
     <message>
         <source>3-D ToolBar</source>
-        <translation type="obsolete">三维设置</translation>
+        <translation>三维设置</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="obsolete"> 4.5 磅</translation>
+        <translation> 4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="obsolete">   6 磅</translation>
+        <translation>   6 磅</translation>
     </message>
     <message>
         <source>Align / Distribute / Equalize</source>
@@ -382,83 +382,83 @@
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="obsolete">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Align or Distribute</source>
-        <translation type="obsolete">对齐或分布</translation>
+        <translation>对齐或分布</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="obsolete">箭头</translation>
+        <translation>箭头</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="obsolete">箭头样式</translation>
+        <translation>箭头样式</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="obsolete">箭头样式 1</translation>
+        <translation>箭头样式 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="obsolete">箭头样式 10</translation>
+        <translation>箭头样式 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="obsolete">箭头样式 11</translation>
+        <translation>箭头样式 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="obsolete">箭头样式 2</translation>
+        <translation>箭头样式 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="obsolete">箭头样式 3</translation>
+        <translation>箭头样式 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="obsolete">箭头样式 4</translation>
+        <translation>箭头样式 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="obsolete">箭头样式 5</translation>
+        <translation>箭头样式 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="obsolete">箭头样式 6</translation>
+        <translation>箭头样式 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="obsolete">箭头样式 7</translation>
+        <translation>箭头样式 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="obsolete">箭头样式 8</translation>
+        <translation>箭头样式 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="obsolete">箭头样式 9</translation>
+        <translation>箭头样式 9</translation>
     </message>
     <message>
         <source>Auto Shapes</source>
@@ -466,31 +466,31 @@
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation type="obsolete">自选图形</translation>
+        <translation>自选图形</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="obsolete">上移一层</translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="obsolete">置于顶层</translation>
+        <translation>置于顶层</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -502,39 +502,39 @@
     </message>
     <message>
         <source>Diagram</source>
-        <translation type="obsolete">图示</translation>
+        <translation>图示</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="obsolete">横向分布</translation>
+        <translation>横向分布</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="obsolete">纵向分布</translation>
+        <translation>纵向分布</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="obsolete">向下</translation>
+        <translation>向下</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="obsolete">绘图</translation>
+        <translation>绘图</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation type="obsolete">编辑顶点</translation>
+        <translation>编辑顶点</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="obsolete">等尺寸</translation>
+        <translation>等尺寸</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="obsolete">等宽</translation>
+        <translation>等宽</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -546,27 +546,27 @@
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="obsolete">填充颜色</translation>
+        <translation>填充颜色</translation>
     </message>
     <message>
         <source>Fill Effects</source>
-        <translation type="obsolete">填充效果</translation>
+        <translation>填充效果</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="obsolete">水平翻转</translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="obsolete">垂直翻转</translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="obsolete">字体颜色</translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="obsolete">自由旋转</translation>
+        <translation>自由旋转</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -574,11 +574,11 @@
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格和参考线</translation>
+        <translation>网格和参考线</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="obsolete">组合</translation>
+        <translation>组合</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -586,23 +586,23 @@
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation type="obsolete">横向文本框</translation>
+        <translation>横向文本框</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
-        <translation type="obsolete">插入剪贴画</translation>
+        <translation>插入剪贴画</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="obsolete">插入图片</translation>
+        <translation>插入图片</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="obsolete">插入艺术字</translation>
+        <translation>插入艺术字</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -610,11 +610,11 @@
     </message>
     <message>
         <source>Line</source>
-        <translation type="obsolete">直线</translation>
+        <translation>直线</translation>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="obsolete">线条颜色</translation>
+        <translation>线条颜色</translation>
     </message>
     <message>
         <source>Lines</source>
@@ -622,11 +622,11 @@
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="obsolete">长划线-点</translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -634,35 +634,35 @@
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="obsolete">其他箭头</translation>
+        <translation>其他箭头</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="obsolete">其他字体颜色</translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="obsolete">无三维效果</translation>
+        <translation>无三维效果</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="obsolete">无阴影</translation>
+        <translation>无阴影</translation>
     </message>
     <message>
         <source>Nudge</source>
-        <translation type="obsolete">微移</translation>
+        <translation>微移</translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -670,27 +670,27 @@
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="obsolete">叠放次序</translation>
+        <translation>叠放次序</translation>
     </message>
     <message>
         <source>Oval</source>
-        <translation type="obsolete">椭圆</translation>
+        <translation>椭圆</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="obsolete">矩形</translation>
+        <translation>矩形</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="obsolete">相对于幻灯片</translation>
+        <translation>相对于幻灯片</translation>
     </message>
     <message>
         <source>Rotate / Flip</source>
@@ -698,47 +698,47 @@
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="obsolete">向左旋转 90°</translation>
+        <translation>向左旋转 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="obsolete">向右旋转 90°</translation>
+        <translation>向右旋转 90°</translation>
     </message>
     <message>
         <source>Rotate or Flip</source>
-        <translation type="obsolete">旋转或翻转</translation>
+        <translation>旋转或翻转</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Select Objects</source>
-        <translation type="obsolete">选择对象</translation>
+        <translation>选择对象</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">选择窗格</translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="obsolete">下移一层</translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="obsolete">置于底层</translation>
+        <translation>置于底层</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation type="obsolete">设置自选图形的默认效果</translation>
+        <translation>设置自选图形的默认效果</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="obsolete">阴影设置</translation>
+        <translation>阴影设置</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -746,83 +746,83 @@
     </message>
     <message>
         <source>Shadow Style 1</source>
-        <translation type="obsolete">阴影样式 1</translation>
+        <translation>阴影样式 1</translation>
     </message>
     <message>
         <source>Shadow Style 10</source>
-        <translation type="obsolete">阴影样式 10</translation>
+        <translation>阴影样式 10</translation>
     </message>
     <message>
         <source>Shadow Style 11</source>
-        <translation type="obsolete">阴影样式 11</translation>
+        <translation>阴影样式 11</translation>
     </message>
     <message>
         <source>Shadow Style 12</source>
-        <translation type="obsolete">阴影样式 12</translation>
+        <translation>阴影样式 12</translation>
     </message>
     <message>
         <source>Shadow Style 13</source>
-        <translation type="obsolete">阴影样式 13</translation>
+        <translation>阴影样式 13</translation>
     </message>
     <message>
         <source>Shadow Style 14</source>
-        <translation type="obsolete">阴影样式 14</translation>
+        <translation>阴影样式 14</translation>
     </message>
     <message>
         <source>Shadow Style 15</source>
-        <translation type="obsolete">阴影样式 15</translation>
+        <translation>阴影样式 15</translation>
     </message>
     <message>
         <source>Shadow Style 16</source>
-        <translation type="obsolete">阴影样式 16</translation>
+        <translation>阴影样式 16</translation>
     </message>
     <message>
         <source>Shadow Style 17</source>
-        <translation type="obsolete">阴影样式 17</translation>
+        <translation>阴影样式 17</translation>
     </message>
     <message>
         <source>Shadow Style 18</source>
-        <translation type="obsolete">阴影样式 18</translation>
+        <translation>阴影样式 18</translation>
     </message>
     <message>
         <source>Shadow Style 19</source>
-        <translation type="obsolete">阴影样式 19</translation>
+        <translation>阴影样式 19</translation>
     </message>
     <message>
         <source>Shadow Style 2</source>
-        <translation type="obsolete">阴影样式 2</translation>
+        <translation>阴影样式 2</translation>
     </message>
     <message>
         <source>Shadow Style 20</source>
-        <translation type="obsolete">阴影样式 20</translation>
+        <translation>阴影样式 20</translation>
     </message>
     <message>
         <source>Shadow Style 3</source>
-        <translation type="obsolete">阴影样式 3</translation>
+        <translation>阴影样式 3</translation>
     </message>
     <message>
         <source>Shadow Style 4</source>
-        <translation type="obsolete">阴影样式 4</translation>
+        <translation>阴影样式 4</translation>
     </message>
     <message>
         <source>Shadow Style 5</source>
-        <translation type="obsolete">阴影样式 5</translation>
+        <translation>阴影样式 5</translation>
     </message>
     <message>
         <source>Shadow Style 6</source>
-        <translation type="obsolete">阴影样式 6</translation>
+        <translation>阴影样式 6</translation>
     </message>
     <message>
         <source>Shadow Style 7</source>
-        <translation type="obsolete">阴影样式 7</translation>
+        <translation>阴影样式 7</translation>
     </message>
     <message>
         <source>Shadow Style 8</source>
-        <translation type="obsolete">阴影样式 8</translation>
+        <translation>阴影样式 8</translation>
     </message>
     <message>
         <source>Shadow Style 9</source>
-        <translation type="obsolete">阴影样式 9</translation>
+        <translation>阴影样式 9</translation>
     </message>
     <message>
         <source>Shift</source>
@@ -830,23 +830,23 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="obsolete">取消组合</translation>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="obsolete">向上</translation>
+        <translation>向上</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -854,124 +854,124 @@
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation type="obsolete">竖向文本框</translation>
+        <translation>竖向文本框</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
 </context>
 <context>
     <name>classics.drawing.NudgeLeft</name>
     <message>
         <source>Left</source>
-        <translation type="obsolete">向左</translation>
+        <translation>向左</translation>
     </message>
 </context>
 <context>
     <name>classics.drawing.NudgeRight</name>
     <message>
         <source>Right</source>
-        <translation type="obsolete">向右</translation>
+        <translation>向右</translation>
     </message>
 </context>
 <context>
     <name>classics.formatting</name>
     <message>
         <source>108</source>
-        <translation type="obsolete">108</translation>
+        <translation>108</translation>
     </message>
     <message>
         <source>110</source>
-        <translation type="obsolete">110</translation>
+        <translation>110</translation>
     </message>
     <message>
         <source>117</source>
-        <translation type="obsolete">117</translation>
+        <translation>117</translation>
     </message>
     <message>
         <source>118</source>
-        <translation type="obsolete">118</translation>
+        <translation>118</translation>
     </message>
     <message>
         <source>216</source>
-        <translation type="obsolete">216</translation>
+        <translation>216</translation>
     </message>
     <message>
         <source>252</source>
-        <translation type="obsolete">252</translation>
+        <translation>252</translation>
     </message>
     <message>
         <source>8226</source>
-        <translation type="obsolete">8226</translation>
+        <translation>8226</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="obsolete">背景</translation>
+        <translation>背景</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="obsolete">项目符号</translation>
+        <translation>项目符号</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation type="obsolete">改变文字方向</translation>
+        <translation>改变文字方向</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="obsolete">减少段落间距</translation>
+        <translation>减少段落间距</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="obsolete">分散对齐</translation>
+        <translation>分散对齐</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="obsolete">字体</translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="obsolete">字体颜色</translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="obsolete">字号</translation>
+        <translation>字号</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="obsolete">增大段落间距</translation>
+        <translation>增大段落间距</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="obsolete">其他项目符号</translation>
+        <translation>其他项目符号</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="obsolete">其他字体颜色</translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="obsolete">新建幻灯片</translation>
+        <translation>新建幻灯片</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="obsolete">阴影</translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Slide Design</source>
-        <translation type="obsolete">幻灯片设计</translation>
+        <translation>幻灯片设计</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="obsolete">幻灯片版式</translation>
+        <translation>幻灯片版式</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="obsolete">表格样式</translation>
+        <translation>表格样式</translation>
     </message>
     <message>
         <source>bullets_0</source>
@@ -1010,35 +1010,35 @@
     <name>classics.formatting.Num</name>
     <message>
         <source>0</source>
-        <translation type="obsolete">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="obsolete">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="obsolete">18</translation>
+        <translation>18</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="obsolete">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="obsolete">38</translation>
+        <translation>38</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="obsolete">7</translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="obsolete">9</translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="obsolete">其他编号</translation>
+        <translation>其他编号</translation>
     </message>
     <message>
         <source>Number</source>
@@ -1046,7 +1046,7 @@
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="obsolete">编号</translation>
+        <translation>编号</translation>
     </message>
     <message>
         <source>numbering_0</source>
@@ -1085,133 +1085,133 @@
     <name>classics.org_chart</name>
     <message>
         <source>Insert Shapes</source>
-        <translation type="obsolete">插入形状</translation>
+        <translation>插入形状</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="obsolete">版式</translation>
+        <translation>版式</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="obsolete">选择</translation>
+        <translation>选择</translation>
     </message>
 </context>
 <context>
     <name>classics.org_chart.OrgChartAndDiagram</name>
     <message>
         <source>All Assistants</source>
-        <translation type="obsolete">所有助手</translation>
+        <translation>所有助手</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="obsolete">所有连接线</translation>
+        <translation>所有连接线</translation>
     </message>
     <message>
         <source>Assistant</source>
-        <translation type="obsolete">助手</translation>
+        <translation>助手</translation>
     </message>
     <message>
         <source>Auto Format</source>
-        <translation type="obsolete">自动套用格式</translation>
+        <translation>自动套用格式</translation>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="obsolete">两边悬挂</translation>
+        <translation>两边悬挂</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation type="obsolete">分支</translation>
+        <translation>分支</translation>
     </message>
     <message>
         <source>Coworker</source>
-        <translation type="obsolete">同事</translation>
+        <translation>同事</translation>
     </message>
     <message>
         <source>Fit Text</source>
-        <translation type="obsolete">适应文字</translation>
+        <translation>适应文字</translation>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="obsolete">左悬挂</translation>
+        <translation>左悬挂</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation type="obsolete">级别</translation>
+        <translation>级别</translation>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="obsolete">右悬挂</translation>
+        <translation>右悬挂</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">标准</translation>
+        <translation>标准</translation>
     </message>
     <message>
         <source>Subordinate</source>
-        <translation type="obsolete">下属</translation>
+        <translation>下属</translation>
     </message>
 </context>
 <context>
     <name>classics.picture</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="obsolete"> 0.5 磅</translation>
+        <translation> 0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="obsolete">   1 磅</translation>
+        <translation>   1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="obsolete"> 1.5 磅</translation>
+        <translation> 1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="obsolete">   3 磅</translation>
+        <translation>   3 磅</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="obsolete"> 4.5 磅</translation>
+        <translation> 4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="obsolete">   6 磅</translation>
+        <translation>   6 磅</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="obsolete">自动</translation>
+        <translation>自动</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="obsolete">黑白</translation>
+        <translation>黑白</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="obsolete">更改图片</translation>
+        <translation>更改图片</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="obsolete">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="obsolete">裁剪</translation>
+        <translation>裁剪</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">设置对象格式</translation>
+        <translation>设置对象格式</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -1219,94 +1219,94 @@
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="obsolete">灰度</translation>
+        <translation>灰度</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="obsolete">插入图片</translation>
+        <translation>插入图片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation type="obsolete">降低亮度</translation>
+        <translation>降低亮度</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation type="obsolete">降低对比度</translation>
+        <translation>降低对比度</translation>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation type="obsolete">增加亮度</translation>
+        <translation>增加亮度</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation type="obsolete">增加对比度</translation>
+        <translation>增加对比度</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="obsolete">重设图片</translation>
+        <translation>重设图片</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="obsolete">向左旋转 90°</translation>
+        <translation>向左旋转 90°</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation type="obsolete">设置透明色</translation>
+        <translation>设置透明色</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="obsolete">冲蚀</translation>
+        <translation>冲蚀</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
 </context>
 <context>
     <name>classics.print_preview</name>
     <message>
         <source>Close</source>
-        <translation type="obsolete">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="obsolete">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Frame Slides</source>
-        <translation type="obsolete">幻灯片加框</translation>
+        <translation>幻灯片加框</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="obsolete">页眉和页脚</translation>
+        <translation>页眉和页脚</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="obsolete">横向</translation>
+        <translation>横向</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="obsolete">下一页</translation>
+        <translation>下一页</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="obsolete">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="obsolete">纵向</translation>
+        <translation>纵向</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="obsolete">上一页</translation>
+        <translation>上一页</translation>
     </message>
     <message>
         <source>Print Hidden Slides</source>
-        <translation type="obsolete">打印隐藏幻灯片</translation>
+        <translation>打印隐藏幻灯片</translation>
     </message>
     <message>
         <source>Print Skipped Slides</source>
@@ -1314,15 +1314,15 @@
     </message>
     <message>
         <source>Print What</source>
-        <translation type="obsolete">打印内容</translation>
+        <translation>打印内容</translation>
     </message>
     <message>
         <source>Printing Order</source>
-        <translation type="obsolete">打印顺序</translation>
+        <translation>打印顺序</translation>
     </message>
     <message>
         <source>Pure Black and White</source>
-        <translation type="obsolete">纯黑白</translation>
+        <translation>纯黑白</translation>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -1330,91 +1330,91 @@
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="obsolete">显示比例</translation>
+        <translation>显示比例</translation>
     </message>
 </context>
 <context>
     <name>classics.print_preview.PrevPrintHorizontal</name>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">水平</translation>
+        <translation>水平</translation>
     </message>
 </context>
 <context>
     <name>classics.print_preview.PrevPrintVertical</name>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">垂直</translation>
+        <translation>垂直</translation>
     </message>
 </context>
 <context>
     <name>classics.review</name>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Delete All Markup in this Presentation</source>
-        <translation type="obsolete">删除演示文稿中所有标记</translation>
+        <translation>删除演示文稿中所有标记</translation>
     </message>
     <message>
         <source>Delete All Markup on the Current Slide</source>
-        <translation type="obsolete">删除当前幻灯片中所有标记</translation>
+        <translation>删除当前幻灯片中所有标记</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="obsolete">编辑批注</translation>
+        <translation>编辑批注</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="obsolete">插入批注</translation>
+        <translation>插入批注</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="obsolete">下一条</translation>
+        <translation>下一条</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="obsolete">上一条</translation>
+        <translation>上一条</translation>
     </message>
     <message>
         <source>Show/Hide Markup</source>
-        <translation type="obsolete">显示/隐藏标记</translation>
+        <translation>显示/隐藏标记</translation>
     </message>
 </context>
 <context>
     <name>classics.shadow_settings</name>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="obsolete">其他阴影颜色</translation>
+        <translation>其他阴影颜色</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="obsolete">略向下移</translation>
+        <translation>略向下移</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="obsolete">略向左移</translation>
+        <translation>略向左移</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="obsolete">略向右移</translation>
+        <translation>略向右移</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="obsolete">略向上移</translation>
+        <translation>略向上移</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="obsolete">半透明阴影</translation>
+        <translation>半透明阴影</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="obsolete">阴影颜色</translation>
+        <translation>阴影颜色</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="obsolete">设置/取消阴影</translation>
+        <translation>设置/取消阴影</translation>
     </message>
     <message>
         <source>Shift Shadow Down</source>
@@ -1434,7 +1434,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
 </context>
 <context>
@@ -1445,71 +1445,71 @@
     </message>
     <message>
         <source>Close Master View</source>
-        <translation type="obsolete">关闭母版视图</translation>
+        <translation>关闭母版视图</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="obsolete">删除母版</translation>
+        <translation>删除母版</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="obsolete">母版版式</translation>
+        <translation>母版版式</translation>
     </message>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="obsolete">新幻灯片
+        <translation>新幻灯片
 母版</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="obsolete">新幻灯片母版</translation>
+        <translation>新幻灯片母版</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="obsolete">新标题母版</translation>
+        <translation>新标题母版</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="obsolete">保护母版</translation>
+        <translation>保护母版</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="obsolete">重命名母版</translation>
+        <translation>重命名母版</translation>
     </message>
 </context>
 <context>
     <name>classics.slide_sorter</name>
     <message>
         <source>Hide Slide</source>
-        <translation type="obsolete">隐藏幻灯片</translation>
+        <translation>隐藏幻灯片</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="obsolete">新建幻灯片</translation>
+        <translation>新建幻灯片</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="obsolete">排练计时</translation>
+        <translation>排练计时</translation>
     </message>
     <message>
         <source>Slide Design</source>
-        <translation type="obsolete">幻灯片设计</translation>
+        <translation>幻灯片设计</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="obsolete">演讲者备注</translation>
+        <translation>演讲者备注</translation>
     </message>
 </context>
 <context>
     <name>classics.standard</name>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation type="obsolete">转换为简体中文</translation>
+        <translation>转换为简体中文</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation type="obsolete">转换为繁体中文</translation>
+        <translation>转换为繁体中文</translation>
     </message>
     <message>
         <source>Covert to Simplified Chinese</source>
@@ -1533,19 +1533,19 @@ Master</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="obsolete">公式</translation>
+        <translation>公式</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="obsolete">输出为PDF格式</translation>
+        <translation>输出为PDF格式</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="obsolete">格式刷</translation>
+        <translation>格式刷</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation type="obsolete">带格式文本</translation>
+        <translation>带格式文本</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -1561,7 +1561,7 @@ Master</source>
     </message>
     <message>
         <source>Insert Chart</source>
-        <translation type="obsolete">插入图表</translation>
+        <translation>插入图表</translation>
     </message>
     <message>
         <source>Insert Data Chart</source>
@@ -1569,23 +1569,23 @@ Master</source>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="obsolete">插入超链接</translation>
+        <translation>插入超链接</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="obsolete">插入表格</translation>
+        <translation>插入表格</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation type="obsolete">WPS热点</translation>
+        <translation>WPS热点</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="obsolete">Docer-在线模板</translation>
+        <translation>Docer-在线模板</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="obsolete">选择性粘贴</translation>
+        <translation>选择性粘贴</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -1593,19 +1593,19 @@ Master</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="obsolete">购买序列号</translation>
+        <translation>购买序列号</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="obsolete">发送邮件</translation>
+        <translation>发送邮件</translation>
     </message>
     <message>
         <source>Switch Language</source>
-        <translation type="obsolete">更改语言</translation>
+        <translation>更改语言</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="obsolete">表格</translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Text</source>
@@ -1613,11 +1613,11 @@ Master</source>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation type="obsolete">无格式文本</translation>
+        <translation>无格式文本</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation type="obsolete">WPS 售后微博</translation>
+        <translation>WPS 售后微博</translation>
     </message>
     <message>
         <source>With Text Format</source>
@@ -1625,7 +1625,7 @@ Master</source>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="obsolete">显示比例</translation>
+        <translation>显示比例</translation>
     </message>
 </context>
 <context>
@@ -1636,34 +1636,34 @@ Master</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="obsolete">更改界面</translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="obsolete">确定</translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
     <name>classics.tables_and_borders</name>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
-        <translation type="obsolete">边框和填充</translation>
+        <translation>边框和填充</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation type="obsolete">改变文字方向</translation>
+        <translation>改变文字方向</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -1671,55 +1671,55 @@ Master</source>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="obsolete">删除列</translation>
+        <translation>删除列</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation type="obsolete">删除行</translation>
+        <translation>删除行</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation type="obsolete">平均分布各列</translation>
+        <translation>平均分布各列</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation type="obsolete">平均分布各行</translation>
+        <translation>平均分布各行</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation type="obsolete">填充颜色</translation>
+        <translation>填充颜色</translation>
     </message>
     <message>
         <source>Fill Effects</source>
-        <translation type="obsolete">填充效果</translation>
+        <translation>填充效果</translation>
     </message>
     <message>
         <source>Insert Above</source>
-        <translation type="obsolete">在上方插入行</translation>
+        <translation>在上方插入行</translation>
     </message>
     <message>
         <source>Insert Below</source>
-        <translation type="obsolete">在下方插入行</translation>
+        <translation>在下方插入行</translation>
     </message>
     <message>
         <source>Insert Left</source>
-        <translation type="obsolete">在左侧插入列</translation>
+        <translation>在左侧插入列</translation>
     </message>
     <message>
         <source>Insert Right</source>
-        <translation type="obsolete">在右侧插入列</translation>
+        <translation>在右侧插入列</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="obsolete">插入表格</translation>
+        <translation>插入表格</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="obsolete">合并单元格</translation>
+        <translation>合并单元格</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -1727,23 +1727,23 @@ Master</source>
     </message>
     <message>
         <source>Select Column</source>
-        <translation type="obsolete">选择列</translation>
+        <translation>选择列</translation>
     </message>
     <message>
         <source>Select Row</source>
-        <translation type="obsolete">选择行</translation>
+        <translation>选择行</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="obsolete">选择表格</translation>
+        <translation>选择表格</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="obsolete">拆分单元格</translation>
+        <translation>拆分单元格</translation>
     </message>
     <message>
         <source>Split Horizontal</source>
@@ -1755,26 +1755,26 @@ Master</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="obsolete">表格</translation>
+        <translation>表格</translation>
     </message>
 </context>
 <context>
     <name>classics.word_art</name>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation type="obsolete">细下弯弧</translation>
+        <translation>细下弯弧</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
-        <translation type="obsolete">粗下弯弧</translation>
+        <translation>粗下弯弧</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation type="obsolete">细上弯弧</translation>
+        <translation>细上弯弧</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
-        <translation type="obsolete">粗上弯弧</translation>
+        <translation>粗上弯弧</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
@@ -1786,11 +1786,11 @@ Master</source>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation type="obsolete">细旋钮形</translation>
+        <translation>细旋钮形</translation>
     </message>
     <message>
         <source>Button (Pour)</source>
-        <translation type="obsolete">粗旋钮形</translation>
+        <translation>粗旋钮形</translation>
     </message>
     <message>
         <source>Button(Curve)</source>
@@ -1802,230 +1802,230 @@ Master</source>
     </message>
     <message>
         <source>Can Down</source>
-        <translation type="obsolete">两端远</translation>
+        <translation>两端远</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation type="obsolete">两端近</translation>
+        <translation>两端近</translation>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation type="obsolete">前远后近</translation>
+        <translation>前远后近</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation type="obsolete">前近后远</translation>
+        <translation>前近后远</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Chevron Down</source>
-        <translation type="obsolete">正V形</translation>
+        <translation>正V形</translation>
     </message>
     <message>
         <source>Chevron Up</source>
-        <translation type="obsolete">倒V形</translation>
+        <translation>倒V形</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
-        <translation type="obsolete">细环形</translation>
+        <translation>细环形</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
-        <translation type="obsolete">粗环形</translation>
+        <translation>粗环形</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation type="obsolete">右牛角形</translation>
+        <translation>右牛角形</translation>
     </message>
     <message>
         <source>Curve Up</source>
-        <translation type="obsolete">左牛角形</translation>
+        <translation>左牛角形</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">自定义</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Deflate</source>
-        <translation type="obsolete">朝鲜鼓</translation>
+        <translation>朝鲜鼓</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
-        <translation type="obsolete">桥形</translation>
+        <translation>桥形</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
-        <translation type="obsolete">单地道</translation>
+        <translation>单地道</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
-        <translation type="obsolete">双地道</translation>
+        <translation>双地道</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation type="obsolete">槽形</translation>
+        <translation>槽形</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
-        <translation type="obsolete">双波形1</translation>
+        <translation>双波形1</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
-        <translation type="obsolete">双波形2</translation>
+        <translation>双波形2</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="obsolete">编辑文字</translation>
+        <translation>编辑文字</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation type="obsolete">倒梯形</translation>
+        <translation>倒梯形</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation type="obsolete">左远右近</translation>
+        <translation>左远右近</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation type="obsolete">左近右远</translation>
+        <translation>左近右远</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation type="obsolete">正梯形</translation>
+        <translation>正梯形</translation>
     </message>
     <message>
         <source>Format WordArt</source>
-        <translation type="obsolete">设置艺术字格式</translation>
+        <translation>设置艺术字格式</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="obsolete">腰鼓</translation>
+        <translation>腰鼓</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
-        <translation type="obsolete">陀螺形</translation>
+        <translation>陀螺形</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation type="obsolete">山形</translation>
+        <translation>山形</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="obsolete">插入艺术字</translation>
+        <translation>插入艺术字</translation>
     </message>
     <message>
         <source>Left Align</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation type="obsolete">字母调整</translation>
+        <translation>字母调整</translation>
     </message>
     <message>
         <source>Loose</source>
-        <translation type="obsolete">稀疏</translation>
+        <translation>稀疏</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="obsolete">纯文本</translation>
+        <translation>纯文本</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation type="obsolete">顺时针</translation>
+        <translation>顺时针</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation type="obsolete">逆时针</translation>
+        <translation>逆时针</translation>
     </message>
     <message>
         <source>Slant Down</source>
-        <translation type="obsolete">右领章</translation>
+        <translation>右领章</translation>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation type="obsolete">左领章</translation>
+        <translation>左领章</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="obsolete">八边形</translation>
+        <translation>八边形</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation type="obsolete">延伸调整</translation>
+        <translation>延伸调整</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="obsolete">紧密</translation>
+        <translation>紧密</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation type="obsolete">倒三角</translation>
+        <translation>倒三角</translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation type="obsolete">正三角</translation>
+        <translation>正三角</translation>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation type="obsolete">很松</translation>
+        <translation>很松</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation type="obsolete">很紧</translation>
+        <translation>很紧</translation>
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="obsolete">波形1</translation>
+        <translation>波形1</translation>
     </message>
     <message>
         <source>Wave 2</source>
-        <translation type="obsolete">波形2</translation>
+        <translation>波形2</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation type="obsolete">单词调整</translation>
+        <translation>单词调整</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation type="obsolete">艺术字对齐方式</translation>
+        <translation>艺术字对齐方式</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
-        <translation type="obsolete">艺术字字符间距</translation>
+        <translation>艺术字字符间距</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="obsolete">艺术字库</translation>
+        <translation>艺术字库</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
-        <translation type="obsolete">艺术字字母高度相同</translation>
+        <translation>艺术字字母高度相同</translation>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation type="obsolete">艺术字形状</translation>
+        <translation>艺术字形状</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="obsolete">艺术字竖排文字</translation>
+        <translation>艺术字竖排文字</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
-        <translation type="obsolete">自定义工具栏</translation>
+        <translation>自定义工具栏</translation>
     </message>
     <message>
         <source>Customize Toolbar</source>
@@ -2036,12 +2036,12 @@ Master</source>
     <name>ongmani.ct_animation</name>
     <message>
         <source>Animation</source>
-        <translation type="obsolete">动画</translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Animation
 Schemes</source>
-        <translation type="obsolete">动画方案</translation>
+        <translation>动画方案</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
@@ -2050,7 +2050,7 @@ Schemes</source>
     <message>
         <source>Custom
 Animation</source>
-        <translation type="obsolete">自定义动画</translation>
+        <translation>自定义动画</translation>
     </message>
     <message>
         <source>Custom Animation</source>
@@ -2058,7 +2058,7 @@ Animation</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="obsolete">预览效果</translation>
+        <translation>预览效果</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -2066,12 +2066,12 @@ Animation</source>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="obsolete">切换</translation>
+        <translation>切换</translation>
     </message>
     <message>
         <source>Transition
 Effects</source>
-        <translation type="obsolete">切换效果</translation>
+        <translation>切换效果</translation>
     </message>
     <message>
         <source>Transition Effect</source>
@@ -2082,16 +2082,16 @@ Effects</source>
     <name>ongmani.ct_design</name>
     <message>
         <source>Background</source>
-        <translation type="obsolete">背景</translation>
+        <translation>背景</translation>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation type="obsolete">批量设置字体</translation>
+        <translation>批量设置字体</translation>
     </message>
     <message>
         <source>Color
 Schemes</source>
-        <translation type="obsolete">配色方案</translation>
+        <translation>配色方案</translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -2099,16 +2099,16 @@ Schemes</source>
     </message>
     <message>
         <source>Custom Text Format</source>
-        <translation type="obsolete">自定义母版字体</translation>
+        <translation>自定义母版字体</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation type="obsolete">设计模板</translation>
+        <translation>设计模板</translation>
     </message>
     <message>
         <source>Edit
 Slide Master</source>
-        <translation type="obsolete">编辑母版</translation>
+        <translation>编辑母版</translation>
     </message>
     <message>
         <source>Edit Slide Master</source>
@@ -2116,21 +2116,21 @@ Slide Master</source>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="obsolete">分页插入图片</translation>
+        <translation>分页插入图片</translation>
     </message>
     <message>
         <source>Involved
 Template</source>
-        <translation type="obsolete">本文模板</translation>
+        <translation>本文模板</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="obsolete">横向</translation>
+        <translation>横向</translation>
     </message>
     <message>
         <source>Page
 Setup</source>
-        <translation type="obsolete">页面设置</translation>
+        <translation>页面设置</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -2138,25 +2138,25 @@ Setup</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="obsolete">纵向</translation>
+        <translation>纵向</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="obsolete">演示工具</translation>
+        <translation>演示工具</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="obsolete">背景另存为图片</translation>
+        <translation>背景另存为图片</translation>
     </message>
     <message>
         <source>Slide
 Layout</source>
-        <translation type="obsolete">幻灯片版式</translation>
+        <translation>幻灯片版式</translation>
     </message>
     <message>
         <source>Slide
 Orientation</source>
-        <translation type="obsolete">幻灯片方向</translation>
+        <translation>幻灯片方向</translation>
     </message>
     <message>
         <source>Slide Layout</source>
@@ -2184,19 +2184,19 @@ Orientation</source>
     </message>
     <message>
         <source>import templates</source>
-        <translation type="obsolete">导入模板</translation>
+        <translation>导入模板</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_designtable</name>
     <message>
         <source>Borders</source>
-        <translation type="obsolete">边框</translation>
+        <translation>边框</translation>
     </message>
     <message>
         <source>Clear
 Table Style</source>
-        <translation type="obsolete">清除表格样式</translation>
+        <translation>清除表格样式</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
@@ -2208,50 +2208,50 @@ Table Style</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation type="obsolete">填充</translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Table Style Options</source>
-        <translation type="obsolete">表格样式</translation>
+        <translation>表格样式</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation type="obsolete">表格样式选项</translation>
+        <translation>表格样式选项</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_designtable.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_developtools</name>
     <message>
         <source>Add-Ins</source>
-        <translation type="obsolete">加载项</translation>
+        <translation>加载项</translation>
     </message>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="obsolete">COM 加载项</translation>
+        <translation>COM 加载项</translation>
     </message>
     <message>
         <source>COM
@@ -2265,24 +2265,24 @@ AddIns</source>
     </message>
     <message>
         <source>Check Box</source>
-        <translation type="obsolete">复选框</translation>
+        <translation>复选框</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="obsolete">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation type="obsolete">组合框</translation>
+        <translation>组合框</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation type="obsolete">命令按钮</translation>
+        <translation>命令按钮</translation>
     </message>
     <message>
         <source>Control 
 Properties</source>
-        <translation type="obsolete">控件属性</translation>
+        <translation>控件属性</translation>
     </message>
     <message>
         <source>Control Properties</source>
@@ -2290,68 +2290,68 @@ Properties</source>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="obsolete">控件工具箱</translation>
+        <translation>控件工具箱</translation>
     </message>
     <message>
         <source>Controls List</source>
-        <translation type="obsolete">控件列表</translation>
+        <translation>控件列表</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="obsolete">说明</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="obsolete">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="obsolete">标签</translation>
+        <translation>标签</translation>
     </message>
     <message>
         <source>List Box</source>
-        <translation type="obsolete">列表框</translation>
+        <translation>列表框</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="obsolete">宏</translation>
+        <translation>宏</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="obsolete">其他控件</translation>
+        <translation>其他控件</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="obsolete">选项按钮</translation>
+        <translation>选项按钮</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="obsolete">滚动条</translation>
+        <translation>滚动条</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="obsolete">宏安全性</translation>
+        <translation>宏安全性</translation>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation type="obsolete">数值调节按钮</translation>
+        <translation>数值调节按钮</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="obsolete">文本框</translation>
+        <translation>文本框</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="obsolete">切换按钮</translation>
+        <translation>切换按钮</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="obsolete">查看代码</translation>
+        <translation>查看代码</translation>
     </message>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation type="obsolete">VB 编辑器</translation>
+        <translation>VB 编辑器</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -2362,185 +2362,233 @@ Editor</source>
     <name>ongmani.ct_drawingtool</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="obsolete"> 0.5 磅</translation>
+        <translation> 0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="obsolete">   1 磅</translation>
+        <translation>   1 磅</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation></translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="obsolete"> 1.5 磅</translation>
+        <translation> 1.5 磅</translation>
+    </message>
+    <message>
+        <source>108</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>110</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>117</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>118</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation></translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>216</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>252</source>
+        <translation></translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="obsolete">   3 磅</translation>
+        <translation>   3 磅</translation>
     </message>
     <message>
         <source>3-D
 On</source>
-        <translation type="obsolete">设置
+        <translation>设置
 三维效果</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation type="obsolete">设置三维效果</translation>
+        <translation>设置三维效果</translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation></translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="obsolete"> 4.5 磅</translation>
+        <translation> 4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="obsolete">   6 磅</translation>
+        <translation>   6 磅</translation>
+    </message>
+    <message>
+        <source>8226</source>
+        <translation></translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="obsolete">对齐</translation>
+        <translation>对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="obsolete">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="obsolete">字体对齐方式</translation>
+        <translation>字体对齐方式</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="obsolete">对齐文本</translation>
+        <translation>对齐文本</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="obsolete">排列</translation>
+        <translation>排列</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="obsolete">箭头样式</translation>
+        <translation>箭头样式</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="obsolete">箭头样式 1</translation>
+        <translation>箭头样式 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="obsolete">箭头样式 10</translation>
+        <translation>箭头样式 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="obsolete">箭头样式 11</translation>
+        <translation>箭头样式 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="obsolete">箭头样式 2</translation>
+        <translation>箭头样式 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="obsolete">箭头样式 3</translation>
+        <translation>箭头样式 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="obsolete">箭头样式 4</translation>
+        <translation>箭头样式 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="obsolete">箭头样式 5</translation>
+        <translation>箭头样式 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="obsolete">箭头样式 6</translation>
+        <translation>箭头样式 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="obsolete">箭头样式 7</translation>
+        <translation>箭头样式 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="obsolete">箭头样式 8</translation>
+        <translation>箭头样式 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="obsolete">箭头样式 9</translation>
+        <translation>箭头样式 9</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="obsolete">加粗</translation>
+        <translation>加粗</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="obsolete">上移一层</translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="obsolete">项目符号</translation>
+        <translation>项目符号</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="obsolete">更改形状</translation>
+        <translation>更改形状</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation type="obsolete">改变文字方向</translation>
+        <translation>改变文字方向</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -2552,15 +2600,15 @@ On</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="obsolete">减小字号</translation>
+        <translation>减小字号</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="obsolete">减少缩进量</translation>
+        <translation>减少缩进量</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="obsolete">减少段落间距</translation>
+        <translation>减少段落间距</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -2568,63 +2616,63 @@ On</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="obsolete">横向分布</translation>
+        <translation>横向分布</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="obsolete">纵向分布</translation>
+        <translation>纵向分布</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="obsolete">分散对齐</translation>
+        <translation>分散对齐</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation type="obsolete">编辑顶点</translation>
+        <translation>编辑顶点</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="obsolete">等尺寸</translation>
+        <translation>等尺寸</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="obsolete">等宽</translation>
+        <translation>等宽</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="obsolete">填充</translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="obsolete">水平翻转</translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="obsolete">垂直翻转</translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="obsolete">字体</translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="obsolete">字体颜色</translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="obsolete">字号</translation>
+        <translation>字号</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">设置对象格式</translation>
+        <translation>设置对象格式</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="obsolete">自由旋转</translation>
+        <translation>自由旋转</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -2632,23 +2680,23 @@ On</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格线和参考线</translation>
+        <translation>网格线和参考线</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="obsolete">网格线</translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="obsolete">组合</translation>
+        <translation>组合</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="obsolete">顶端对齐</translation>
+        <translation>顶端对齐</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -2656,51 +2704,51 @@ On</source>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation type="obsolete">横向文本框</translation>
+        <translation>横向文本框</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="obsolete">增大字号</translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="obsolete">增加缩进量</translation>
+        <translation>增加缩进量</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="obsolete">增大段落间距</translation>
+        <translation>增大段落间距</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation type="obsolete">插入形状</translation>
+        <translation>插入形状</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="obsolete">倾斜</translation>
+        <translation>倾斜</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="obsolete">两端对齐</translation>
+        <translation>两端对齐</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="obsolete">换行</translation>
+        <translation>换行</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="obsolete">行距</translation>
+        <translation>行距</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="obsolete">长划线-点</translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -2708,91 +2756,91 @@ On</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="obsolete">更多</translation>
+        <translation>更多</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="obsolete">其他箭头</translation>
+        <translation>其他箭头</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="obsolete">更多项目符号</translation>
+        <translation>更多项目符号</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="obsolete">其他字体颜色</translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="obsolete">轮廓</translation>
+        <translation>轮廓</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="obsolete">段落</translation>
+        <translation>段落</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="obsolete">相对于幻灯片</translation>
+        <translation>相对于幻灯片</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="obsolete">罗马方式对齐</translation>
+        <translation>罗马方式对齐</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="obsolete">旋转</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="obsolete">向左旋转 90°</translation>
+        <translation>向左旋转 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="obsolete">向右旋转 90°</translation>
+        <translation>向右旋转 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="obsolete">下移一层</translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">详细设置</translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="obsolete">阴影</translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation type="obsolete">设置阴影</translation>
+        <translation>设置阴影</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -2804,31 +2852,31 @@ On</source>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation type="obsolete">形状大小</translation>
+        <translation>形状大小</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation type="obsolete">形状样式</translation>
+        <translation>形状样式</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="obsolete">下标</translation>
+        <translation>下标</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="obsolete">上标</translation>
+        <translation>上标</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="obsolete">文本框</translation>
+        <translation>文本框</translation>
     </message>
     <message>
         <source>Text Font Color</source>
@@ -2836,45 +2884,73 @@ On</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="obsolete">下划线</translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="obsolete">取消组合</translation>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation type="obsolete">底端对齐</translation>
+        <translation>底端对齐</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">竖向文本框</translation>
+        <translation>竖向文本框</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtool.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtool.Num</name>
     <message>
+        <source>0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>7</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
-        <translation type="obsolete">其他编号</translation>
+        <translation>其他编号</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation type="obsolete">编号</translation>
+        <translation>编号</translation>
     </message>
 </context>
 <context>
@@ -2885,11 +2961,11 @@ On</source>
     </message>
     <message>
         <source>About WPS Presentation</source>
-        <translation type="obsolete">关于 WPS 演示</translation>
+        <translation>关于 WPS 演示</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="obsolete">备份管理</translation>
+        <translation>备份管理</translation>
     </message>
     <message>
         <source>Backup Management And Data Recovery</source>
@@ -2901,15 +2977,15 @@ On</source>
     </message>
     <message>
         <source>Backup Management and Data Recovery</source>
-        <translation type="obsolete">备份管理与数据恢复</translation>
+        <translation>备份管理与数据恢复</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">切换版本</translation>
+        <translation>切换版本</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="obsolete">检查更新</translation>
+        <translation>检查更新</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -2921,7 +2997,7 @@ On</source>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation type="obsolete">数据恢复</translation>
+        <translation>数据恢复</translation>
     </message>
     <message>
         <source>DataRecover</source>
@@ -2933,11 +3009,11 @@ On</source>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="obsolete">Docer稻壳儿</translation>
+        <translation>Docer稻壳儿</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
-        <translation type="obsolete">文档保护及属性</translation>
+        <translation>文档保护及属性</translation>
     </message>
     <message>
         <source>Encrypt</source>
@@ -2945,15 +3021,19 @@ On</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="obsolete">文件加密</translation>
+        <translation>文件加密</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="obsolete">输入激活码</translation>
+        <translation>输入激活码</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="obsolete">输出为 PDF 格式</translation>
+        <translation>输出为 PDF 格式</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -2961,11 +3041,11 @@ On</source>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation type="obsolete">问题反馈及产品信息</translation>
+        <translation>问题反馈及产品信息</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation type="obsolete">WPS 客服邮箱</translation>
+        <translation>WPS 客服邮箱</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
@@ -2973,15 +3053,15 @@ On</source>
     </message>
     <message>
         <source>File Information</source>
-        <translation type="obsolete">文件信息</translation>
+        <translation>文件信息</translation>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="obsolete">文件打包</translation>
+        <translation>文件打包</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="obsolete">帮助</translation>
+        <translation>帮助</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -3009,19 +3089,19 @@ On</source>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
-        <translation type="obsolete">PowerPoint 文件（*.ppt）</translation>
+        <translation>PowerPoint 文件（*.ppt）</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation Template</source>
-        <translation type="obsolete">PowerPoint 模板文件（*.pot）</translation>
+        <translation>PowerPoint 模板文件（*.pot）</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
-        <translation type="obsolete">PowerPoint 放映文件（*.pps）</translation>
+        <translation>PowerPoint 放映文件（*.pps）</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="obsolete">新建</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <source>New Blank File</source>
@@ -3029,11 +3109,11 @@ On</source>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="obsolete">新建</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="obsolete">新建空白文档</translation>
+        <translation>新建空白文档</translation>
     </message>
     <message>
         <source>New From Default Template</source>
@@ -3045,11 +3125,11 @@ On</source>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="obsolete">从这里新建文档</translation>
+        <translation>从这里新建文档</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="obsolete">从默认模板新建</translation>
+        <translation>从默认模板新建</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -3057,7 +3137,7 @@ On</source>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="obsolete">本机上的模板...</translation>
+        <translation>本机上的模板...</translation>
     </message>
     <message>
         <source>New from Templates</source>
@@ -3065,11 +3145,11 @@ On</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="obsolete">打开</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation type="obsolete">其他格式</translation>
+        <translation>其他格式</translation>
     </message>
     <message>
         <source>Package Presentation into compress file</source>
@@ -3077,19 +3157,19 @@ On</source>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation type="obsolete">将演示文档打包成压缩文件</translation>
+        <translation>将演示文档打包成压缩文件</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="obsolete">将演示文档打包成文件夹</translation>
+        <translation>将演示文档打包成文件夹</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="obsolete">打印</translation>
+        <translation>打印</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="obsolete">打印预览</translation>
+        <translation>打印预览</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -3097,43 +3177,43 @@ On</source>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="obsolete">产品管理中心</translation>
+        <translation>产品管理中心</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="obsolete">属性</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="obsolete">购买序列号</translation>
+        <translation>购买序列号</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="obsolete">保存</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="obsolete">另存为</translation>
+        <translation>另存为</translation>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
-        <translation type="obsolete">保存文档副本</translation>
+        <translation>保存文档副本</translation>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation type="obsolete">微博求助</translation>
+        <translation>微博求助</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="obsolete">发送邮件</translation>
+        <translation>发送邮件</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="obsolete">WPS 学习网站</translation>
+        <translation>WPS 学习网站</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
-        <translation type="obsolete">转为 WPS 文字文档</translation>
+        <translation>转为 WPS 文字文档</translation>
     </message>
     <message>
         <source>Translate to Document</source>
@@ -3145,11 +3225,11 @@ On</source>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation type="obsolete">WPS 论坛</translation>
+        <translation>WPS 论坛</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="obsolete">金山数据恢复大师</translation>
+        <translation>金山数据恢复大师</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -3157,19 +3237,23 @@ On</source>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="obsolete">WPS Office 社区</translation>
+        <translation>WPS Office 社区</translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation type="obsolete">WPS Office 主页</translation>
+        <translation>WPS Office 主页</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation type="obsolete">WPS Office 新特性</translation>
+        <translation>WPS Office 新特性</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation type="obsolete">WPS Office 产品中心</translation>
+        <translation>WPS Office 产品中心</translation>
     </message>
     <message>
         <source>WPS Online</source>
@@ -3177,11 +3261,15 @@ On</source>
     </message>
     <message>
         <source>WPS Presentation File</source>
-        <translation type="obsolete">WPS 演示 文件（*.dps）</translation>
+        <translation>WPS 演示 文件（*.dps）</translation>
     </message>
     <message>
         <source>WPS Presentation Template</source>
-        <translation type="obsolete">WPS 演示 模板文件（*.dpt）</translation>
+        <translation>WPS 演示 模板文件（*.dpt）</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3192,176 +3280,196 @@ On</source>
     </message>
     <message>
         <source>WPS Presentation Help</source>
-        <translation type="obsolete">WPS 演示 帮助</translation>
+        <translation>WPS 演示 帮助</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_home</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="obsolete"> 0.5 磅</translation>
+        <translation> 0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="obsolete">   1 磅</translation>
+        <translation>   1 磅</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation></translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="obsolete"> 1.5 磅</translation>
+        <translation> 1.5 磅</translation>
     </message>
     <message>
         <source>108</source>
-        <translation type="obsolete">108</translation>
+        <translation>108</translation>
     </message>
     <message>
         <source>110</source>
-        <translation type="obsolete">110</translation>
+        <translation>110</translation>
     </message>
     <message>
         <source>117</source>
-        <translation type="obsolete">117</translation>
+        <translation>117</translation>
     </message>
     <message>
         <source>118</source>
-        <translation type="obsolete">118</translation>
+        <translation>118</translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation></translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation></translation>
     </message>
     <message>
         <source>216</source>
-        <translation type="obsolete">216</translation>
+        <translation>216</translation>
     </message>
     <message>
         <source>252</source>
-        <translation type="obsolete">252</translation>
+        <translation>252</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="obsolete">   3 磅</translation>
+        <translation>   3 磅</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="obsolete">三维效果</translation>
+        <translation>三维效果</translation>
     </message>
     <message>
         <source>3-D Style</source>
         <translation type="obsolete">三维效果</translation>
     </message>
     <message>
+        <source>3.0</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>4.5 pt</source>
-        <translation type="obsolete"> 4.5 磅</translation>
+        <translation> 4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="obsolete">   6 磅</translation>
+        <translation>   6 磅</translation>
     </message>
     <message>
         <source>8226</source>
-        <translation type="obsolete">8226</translation>
+        <translation>8226</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="obsolete">对齐</translation>
+        <translation>对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>Font Alignment</comment>
-        <translation type="obsolete">底端对齐</translation>
+        <translation>底端对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="obsolete">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="obsolete">字体对齐方式</translation>
+        <translation>字体对齐方式</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="obsolete">对齐文本</translation>
+        <translation>对齐文本</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="obsolete">排列</translation>
+        <translation>排列</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="obsolete">箭头样式</translation>
+        <translation>箭头样式</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="obsolete">箭头样式 1</translation>
+        <translation>箭头样式 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="obsolete">箭头样式 10</translation>
+        <translation>箭头样式 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="obsolete">箭头样式 11</translation>
+        <translation>箭头样式 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="obsolete">箭头样式 2</translation>
+        <translation>箭头样式 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="obsolete">箭头样式 3</translation>
+        <translation>箭头样式 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="obsolete">箭头样式 4</translation>
+        <translation>箭头样式 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="obsolete">箭头样式 5</translation>
+        <translation>箭头样式 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="obsolete">箭头样式 6</translation>
+        <translation>箭头样式 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="obsolete">箭头样式 7</translation>
+        <translation>箭头样式 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="obsolete">箭头样式 8</translation>
+        <translation>箭头样式 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="obsolete">箭头样式 9</translation>
+        <translation>箭头样式 9</translation>
     </message>
     <message>
         <source>Background Music</source>
@@ -3369,31 +3477,31 @@ Effects</source>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="obsolete">加粗</translation>
+        <translation>加粗</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="obsolete">上移一层</translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="obsolete">置于顶层</translation>
+        <translation>置于顶层</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="obsolete">项目符号</translation>
+        <translation>项目符号</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete">手机遥控</translation>
+        <translation>手机遥控</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -3401,35 +3509,35 @@ Effects</source>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation type="obsolete">改变文字方向</translation>
+        <translation>改变文字方向</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="obsolete">剪贴板</translation>
+        <translation>剪贴板</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="obsolete">复制</translation>
+        <translation>复制</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="obsolete">剪切</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -3441,15 +3549,15 @@ Effects</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="obsolete">减小字号</translation>
+        <translation>减小字号</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="obsolete">减少缩进量</translation>
+        <translation>减少缩进量</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="obsolete">减少段落间距</translation>
+        <translation>减少段落间距</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -3457,47 +3565,47 @@ Effects</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="obsolete">横向分布</translation>
+        <translation>横向分布</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="obsolete">纵向分布</translation>
+        <translation>纵向分布</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="obsolete">分散对齐</translation>
+        <translation>分散对齐</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="obsolete">绘图</translation>
+        <translation>绘图</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="obsolete">幻灯片副本</translation>
+        <translation>幻灯片副本</translation>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="obsolete">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="obsolete">等尺寸</translation>
+        <translation>等尺寸</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="obsolete">等宽</translation>
+        <translation>等宽</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="obsolete">填充</translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="obsolete">查找</translation>
+        <translation>查找</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -3505,15 +3613,15 @@ Effects</source>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="obsolete">水平翻转</translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="obsolete">垂直翻转</translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="obsolete">字体</translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -3521,16 +3629,16 @@ Effects</source>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="obsolete">字号</translation>
+        <translation>字号</translation>
     </message>
     <message>
         <source>Format 
 Painter</source>
-        <translation type="obsolete">格式刷</translation>
+        <translation>格式刷</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">设置对象格式</translation>
+        <translation>设置对象格式</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -3538,25 +3646,25 @@ Painter</source>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation type="obsolete">带格式文本</translation>
+        <translation>带格式文本</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="obsolete">自由旋转</translation>
+        <translation>自由旋转</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="obsolete">从头开始</translation>
+        <translation>从头开始</translation>
     </message>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="obsolete">从当前开始</translation>
+        <translation>从当前开始</translation>
     </message>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="obsolete">从当前开始</translation>
+        <translation>从当前开始</translation>
     </message>
     <message>
         <source>From Current Slide</source>
@@ -3572,23 +3680,23 @@ Slide</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格线和参考线</translation>
+        <translation>网格线和参考线</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="obsolete">网格线</translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="obsolete">组合</translation>
+        <translation>组合</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="obsolete">顶端对齐</translation>
+        <translation>顶端对齐</translation>
     </message>
     <message>
         <source>Home_Shape Fill</source>
@@ -3600,63 +3708,63 @@ Slide</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">横向文本框</translation>
+        <translation>横向文本框</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="obsolete">增大字号</translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="obsolete">增加缩进量</translation>
+        <translation>增加缩进量</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="obsolete">增大段落间距</translation>
+        <translation>增大段落间距</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="obsolete">插入图片</translation>
+        <translation>插入图片</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="obsolete">分页插入图片</translation>
+        <translation>分页插入图片</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="obsolete">倾斜</translation>
+        <translation>倾斜</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="obsolete">两端对齐</translation>
+        <translation>两端对齐</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="obsolete">换行</translation>
+        <translation>换行</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="obsolete">行距</translation>
+        <translation>行距</translation>
     </message>
     <message>
         <source>Local Picture</source>
-        <translation type="obsolete">本地图片</translation>
+        <translation>本地图片</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="obsolete">长划线-点</translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -3668,31 +3776,31 @@ Slide</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="obsolete">其他行距</translation>
+        <translation>其他行距</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="obsolete">其他箭头</translation>
+        <translation>其他箭头</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="obsolete">其他项目符号</translation>
+        <translation>其他项目符号</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="obsolete">其他字体颜色</translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -3700,19 +3808,19 @@ Slide</source>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="obsolete">新建幻灯片</translation>
+        <translation>新建幻灯片</translation>
     </message>
     <message>
         <source>New Slide Online</source>
-        <translation type="obsolete">从幻灯片库新建</translation>
+        <translation>从幻灯片库新建</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="obsolete">无三维效果</translation>
+        <translation>无三维效果</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="obsolete">无阴影</translation>
+        <translation>无阴影</translation>
     </message>
     <message>
         <source>Object Select</source>
@@ -3720,15 +3828,15 @@ Slide</source>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="obsolete">轮廓</translation>
+        <translation>轮廓</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="obsolete">打包成文件夹</translation>
+        <translation>打包成文件夹</translation>
     </message>
     <message>
         <source>PackageFile</source>
@@ -3736,55 +3844,55 @@ Slide</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="obsolete">段落</translation>
+        <translation>段落</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="obsolete">粘贴</translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="obsolete">选择性粘贴</translation>
+        <translation>选择性粘贴</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="obsolete">相对于幻灯片</translation>
+        <translation>相对于幻灯片</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="obsolete">替换</translation>
+        <translation>替换</translation>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="obsolete">替换字体</translation>
+        <translation>替换字体</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="obsolete">罗马方式对齐</translation>
+        <translation>罗马方式对齐</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="obsolete">旋转</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="obsolete">向左旋转 90°</translation>
+        <translation>向左旋转 90°</translation>
     </message>
     <message>
         <source>Rotate Left 90掳</source>
@@ -3792,7 +3900,7 @@ Slide</source>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="obsolete">向右旋转 90°</translation>
+        <translation>向右旋转 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90掳</source>
@@ -3800,15 +3908,15 @@ Slide</source>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="obsolete">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="obsolete">全选</translation>
+        <translation>全选</translation>
     </message>
     <message>
         <source>Selection
@@ -3817,28 +3925,28 @@ Pane</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">选择窗格</translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="obsolete">下移一层</translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="obsolete">置于底层</translation>
+        <translation>置于底层</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">详细设置</translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="obsolete">阴影</translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -3858,11 +3966,11 @@ Effects</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="obsolete">形状</translation>
+        <translation>形状</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="obsolete">幻灯片</translation>
+        <translation>幻灯片</translation>
     </message>
     <message>
         <source>Slide Show From Beginning</source>
@@ -3870,7 +3978,7 @@ Effects</source>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -3878,15 +3986,15 @@ Effects</source>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="obsolete">下标</translation>
+        <translation>下标</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="obsolete">上标</translation>
+        <translation>上标</translation>
     </message>
     <message>
         <source>Text</source>
@@ -3894,27 +4002,27 @@ Effects</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="obsolete">文本框</translation>
+        <translation>文本框</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="obsolete">字体颜色</translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="obsolete">下划线</translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation type="obsolete">无格式文本</translation>
+        <translation>无格式文本</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="obsolete">取消组合</translation>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Unholding Fixed</source>
@@ -3922,11 +4030,11 @@ Effects</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">竖向文本框</translation>
+        <translation>竖向文本框</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
     <message>
         <source>With Text Format</source>
@@ -3969,42 +4077,42 @@ Effects</source>
     <name>ongmani.ct_home.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_home.Num</name>
     <message>
         <source>0</source>
-        <translation type="obsolete">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="obsolete">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="obsolete">18</translation>
+        <translation>18</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="obsolete">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="obsolete">38</translation>
+        <translation>38</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="obsolete">7</translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="obsolete">9</translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="obsolete">其他编号</translation>
+        <translation>其他编号</translation>
     </message>
     <message>
         <source>Number</source>
@@ -4012,7 +4120,7 @@ Effects</source>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="obsolete">编号</translation>
+        <translation>编号</translation>
     </message>
     <message>
         <source>numbering_0</source>
@@ -4051,7 +4159,7 @@ Effects</source>
     <name>ongmani.ct_insert</name>
     <message>
         <source>Action</source>
-        <translation type="obsolete">动作</translation>
+        <translation>动作</translation>
     </message>
     <message>
         <source>Action Settings</source>
@@ -4059,12 +4167,12 @@ Effects</source>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation type="obsolete">剪贴画</translation>
+        <translation>剪贴画</translation>
     </message>
     <message>
         <source>Background
 Music</source>
-        <translation type="obsolete">背景音乐</translation>
+        <translation>背景音乐</translation>
     </message>
     <message>
         <source>Background Music</source>
@@ -4072,7 +4180,7 @@ Music</source>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="obsolete">图表</translation>
+        <translation>图表</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -4080,7 +4188,7 @@ Music</source>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="obsolete">日期和时间</translation>
+        <translation>日期和时间</translation>
     </message>
     <message>
         <source>Date/Time</source>
@@ -4088,15 +4196,15 @@ Music</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="obsolete">公式</translation>
+        <translation>公式</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation type="obsolete">附件</translation>
+        <translation>附件</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="obsolete">Flash</translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -4105,7 +4213,7 @@ Music</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="obsolete">页眉和页脚</translation>
+        <translation>页眉和页脚</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -4117,11 +4225,11 @@ Footer</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">横向文本框</translation>
+        <translation>横向文本框</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="obsolete">超链接</translation>
+        <translation>超链接</translation>
     </message>
     <message>
         <source>Illustrations</source>
@@ -4129,15 +4237,15 @@ Footer</source>
     </message>
     <message>
         <source>Images</source>
-        <translation type="obsolete">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="obsolete">插入剪贴画</translation>
+        <translation>插入剪贴画</translation>
     </message>
     <message>
         <source>Insert Chart</source>
-        <translation type="obsolete">插入图表</translation>
+        <translation>插入图表</translation>
     </message>
     <message>
         <source>Insert Data Chart</source>
@@ -4145,31 +4253,31 @@ Footer</source>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="obsolete">插入超链接 (Ctrl+K)</translation>
+        <translation>插入超链接 (Ctrl+K)</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
-        <translation type="obsolete">插入组织结构图</translation>
+        <translation>插入组织结构图</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="obsolete">插入图片</translation>
+        <translation>插入图片</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="obsolete">分页插入图片</translation>
+        <translation>分页插入图片</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="obsolete">插入表格</translation>
+        <translation>插入表格</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="obsolete">插入艺术字</translation>
+        <translation>插入艺术字</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -4177,23 +4285,23 @@ Footer</source>
     </message>
     <message>
         <source>Links</source>
-        <translation type="obsolete">链接</translation>
+        <translation>链接</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="obsolete">媒体</translation>
+        <translation>媒体</translation>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation type="obsolete">其他符号</translation>
+        <translation>其他符号</translation>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="obsolete">影片</translation>
+        <translation>影片</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation type="obsolete">对象</translation>
+        <translation>对象</translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -4201,12 +4309,12 @@ Footer</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Organization
 Chart</source>
-        <translation type="obsolete">组织结构图</translation>
+        <translation>组织结构图</translation>
     </message>
     <message>
         <source>Organization Chart</source>
@@ -4214,15 +4322,15 @@ Chart</source>
     </message>
     <message>
         <source>Package File</source>
-        <translation type="obsolete">文件打包</translation>
+        <translation>文件打包</translation>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation type="obsolete">将演示文档打包成压缩文件</translation>
+        <translation>将演示文档打包成压缩文件</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="obsolete">打包成文件夹</translation>
+        <translation>打包成文件夹</translation>
     </message>
     <message>
         <source>Packge into zip</source>
@@ -4230,16 +4338,16 @@ Chart</source>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="obsolete">形状</translation>
+        <translation>形状</translation>
     </message>
     <message>
         <source>Slide
 Number</source>
-        <translation type="obsolete">幻灯片编号</translation>
+        <translation>幻灯片编号</translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -4247,154 +4355,154 @@ Number</source>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation type="obsolete">幻灯片库</translation>
+        <translation>幻灯片库</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="obsolete">声音</translation>
+        <translation>声音</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="obsolete">符号</translation>
+        <translation>符号</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="obsolete">符号</translation>
+        <translation>符号</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="obsolete">表格</translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="obsolete">表格</translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="obsolete">文本</translation>
+        <translation>文本</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="obsolete">文本框</translation>
+        <translation>文本框</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">竖向文本框</translation>
+        <translation>竖向文本框</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="obsolete">艺术字</translation>
+        <translation>艺术字</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_orgchart</name>
     <message>
         <source>0.25 pt.</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="obsolete">0.5 磅</translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="obsolete">1 磅</translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="obsolete">1.5 磅</translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="obsolete">3 磅</translation>
+        <translation>3 磅</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="obsolete">4.5 磅</translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="obsolete">6 磅</translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
-        <translation type="obsolete">结构调整</translation>
+        <translation>结构调整</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="obsolete">箭头样式</translation>
+        <translation>箭头样式</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="obsolete">箭头样式 1</translation>
+        <translation>箭头样式 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="obsolete">箭头样式 10</translation>
+        <translation>箭头样式 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="obsolete">箭头样式 11</translation>
+        <translation>箭头样式 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="obsolete">箭头样式 2</translation>
+        <translation>箭头样式 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="obsolete">箭头样式 3</translation>
+        <translation>箭头样式 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="obsolete">箭头样式 4</translation>
+        <translation>箭头样式 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="obsolete">箭头样式 5</translation>
+        <translation>箭头样式 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="obsolete">箭头样式 6</translation>
+        <translation>箭头样式 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="obsolete">箭头样式 7</translation>
+        <translation>箭头样式 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="obsolete">箭头样式 8</translation>
+        <translation>箭头样式 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="obsolete">箭头样式 9</translation>
+        <translation>箭头样式 9</translation>
     </message>
     <message>
         <source>Choice</source>
-        <translation type="obsolete">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -4410,47 +4518,51 @@ Number</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="obsolete">布局</translation>
+        <translation>布局</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="obsolete">线条样式</translation>
+        <translation>线条样式</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation></translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="obsolete">其他箭头</translation>
+        <translation>其他箭头</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="obsolete">其他字体颜色</translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>OrgChart Layout</source>
@@ -4458,19 +4570,19 @@ Number</source>
     </message>
     <message>
         <source>Organization Chart Layout</source>
-        <translation type="obsolete">布局</translation>
+        <translation>布局</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="obsolete">形状填充</translation>
+        <translation>形状填充</translation>
     </message>
     <message>
         <source>Shape Line</source>
@@ -4478,23 +4590,23 @@ Number</source>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation type="obsolete">智能选择</translation>
+        <translation>智能选择</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="obsolete">文本</translation>
+        <translation>文本</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="obsolete">文本颜色</translation>
+        <translation>文本颜色</translation>
     </message>
     <message>
         <source>Text Font Color</source>
@@ -4506,29 +4618,29 @@ Number</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="obsolete">主题</translation>
+        <translation>主题</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_orgchart.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_orgchart.OrgChartAndDiagram</name>
     <message>
         <source>Add Assistant</source>
-        <translation type="obsolete">增加助手</translation>
+        <translation>增加助手</translation>
     </message>
     <message>
         <source>Add Coworker</source>
-        <translation type="obsolete">增加同事</translation>
+        <translation>增加同事</translation>
     </message>
     <message>
         <source>Add One Assistant</source>
@@ -4544,15 +4656,15 @@ Number</source>
     </message>
     <message>
         <source>Add Subordinate</source>
-        <translation type="obsolete">增加下属</translation>
+        <translation>增加下属</translation>
     </message>
     <message>
         <source>All Assistants</source>
-        <translation type="obsolete">所有助手</translation>
+        <translation>所有助手</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="obsolete">所有连接线</translation>
+        <translation>所有连接线</translation>
     </message>
     <message>
         <source>All OrgChart</source>
@@ -4560,39 +4672,43 @@ Number</source>
     </message>
     <message>
         <source>All Organization Chart</source>
-        <translation type="obsolete">整图</translation>
+        <translation>整图</translation>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="obsolete">两边悬挂</translation>
+        <translation>两边悬挂</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation type="obsolete">分支</translation>
+        <translation>分支</translation>
     </message>
     <message>
         <source>Delete Member</source>
-        <translation type="obsolete">删除成员</translation>
+        <translation>删除成员</translation>
     </message>
     <message>
         <source>Fit Text</source>
-        <translation type="obsolete">适应文字</translation>
+        <translation>适应文字</translation>
+    </message>
+    <message>
+        <source>FitText Tip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="obsolete">左悬挂</translation>
+        <translation>左悬挂</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation type="obsolete">级别</translation>
+        <translation>级别</translation>
     </message>
     <message>
         <source>Reset Layout</source>
-        <translation type="obsolete">重置布局</translation>
+        <translation>重置布局</translation>
     </message>
     <message>
         <source>Reset Shape</source>
-        <translation type="obsolete">重置图形</translation>
+        <translation>重置图形</translation>
     </message>
     <message>
         <source>ResetLayout</source>
@@ -4600,11 +4716,11 @@ Number</source>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="obsolete">右悬挂</translation>
+        <translation>右悬挂</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">标准</translation>
+        <translation>标准</translation>
     </message>
     <message>
         <source>level</source>
@@ -4615,96 +4731,96 @@ Number</source>
     <name>ongmani.ct_picturetool</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="obsolete"> 0.5 磅</translation>
+        <translation> 0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="obsolete">   1 磅</translation>
+        <translation>   1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="obsolete"> 1.5 磅</translation>
+        <translation> 1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="obsolete">   3 磅</translation>
+        <translation>   3 磅</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="obsolete"> 4.5 磅</translation>
+        <translation> 4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="obsolete">   6 磅</translation>
+        <translation>   6 磅</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
-        <translation type="obsolete">图片调整</translation>
+        <translation>图片调整</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="obsolete">对齐</translation>
+        <translation>对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="obsolete">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="obsolete">排列</translation>
+        <translation>排列</translation>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation type="obsolete">剪贴画</translation>
+        <translation>剪贴画</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="obsolete">自动</translation>
+        <translation>自动</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="obsolete">黑白</translation>
+        <translation>黑白</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="obsolete">上移一层</translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Change
 Picture</source>
-        <translation type="obsolete">更改图片</translation>
+        <translation>更改图片</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -4712,12 +4828,12 @@ Picture</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="obsolete">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Compress
 Pictures</source>
-        <translation type="obsolete">压缩图片</translation>
+        <translation>压缩图片</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -4725,23 +4841,23 @@ Pictures</source>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="obsolete">裁剪</translation>
+        <translation>裁剪</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -4757,43 +4873,43 @@ Pictures</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="obsolete">横向分布</translation>
+        <translation>横向分布</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="obsolete">纵向分布</translation>
+        <translation>纵向分布</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="obsolete">等尺寸</translation>
+        <translation>等尺寸</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="obsolete">等宽</translation>
+        <translation>等宽</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="obsolete">填充</translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="obsolete">水平翻转</translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="obsolete">垂直翻转</translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">设置对象格式</translation>
+        <translation>设置对象格式</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="obsolete">自由旋转</translation>
+        <translation>自由旋转</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -4805,55 +4921,55 @@ Pictures</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="obsolete">灰度</translation>
+        <translation>灰度</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格线和参考线</translation>
+        <translation>网格线和参考线</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="obsolete">网格线</translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="obsolete">组合</translation>
+        <translation>组合</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="obsolete">插入</translation>
+        <translation>插入</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="obsolete">插入剪贴画</translation>
+        <translation>插入剪贴画</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="obsolete">插入图片</translation>
+        <translation>插入图片</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation type="obsolete">降低亮度</translation>
+        <translation>降低亮度</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation type="obsolete">降低对比度</translation>
+        <translation>降低对比度</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="obsolete">长划线-点</translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -4861,72 +4977,72 @@ Pictures</source>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation type="obsolete">增加亮度</translation>
+        <translation>增加亮度</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation type="obsolete">增加对比度</translation>
+        <translation>增加对比度</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="obsolete">其他阴影颜色</translation>
+        <translation>其他阴影颜色</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="obsolete">无阴影</translation>
+        <translation>无阴影</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="obsolete">略向下移</translation>
+        <translation>略向下移</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="obsolete">略向左移</translation>
+        <translation>略向左移</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="obsolete">略向右移</translation>
+        <translation>略向右移</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="obsolete">略向上移</translation>
+        <translation>略向上移</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="obsolete">轮廓</translation>
+        <translation>轮廓</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Picture
 Size</source>
-        <translation type="obsolete">图片大小</translation>
+        <translation>图片大小</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
@@ -4950,16 +5066,16 @@ Size</source>
     </message>
     <message>
         <source>Picture Styles</source>
-        <translation type="obsolete">图片样式</translation>
+        <translation>图片样式</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="obsolete">相对于幻灯片</translation>
+        <translation>相对于幻灯片</translation>
     </message>
     <message>
         <source>Reset
 Picture</source>
-        <translation type="obsolete">重设图片</translation>
+        <translation>重设图片</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -4967,52 +5083,52 @@ Picture</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="obsolete">旋转</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="obsolete">向左旋转 90°</translation>
+        <translation>向左旋转 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="obsolete">向右旋转 90°</translation>
+        <translation>向右旋转 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">选择窗格</translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="obsolete">半透明阴影</translation>
+        <translation>半透明阴影</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="obsolete">下移一层</translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation type="obsolete">设置透明色</translation>
+        <translation>设置透明色</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">详细设置</translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="obsolete">设置阴影</translation>
+        <translation>设置阴影</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="obsolete">阴影颜色</translation>
+        <translation>阴影颜色</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -5044,38 +5160,38 @@ On/Off</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="obsolete">取消组合</translation>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="obsolete">冲蚀</translation>
+        <translation>冲蚀</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_picturetool.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
@@ -5089,16 +5205,16 @@ On/Off</source>
     <name>ongmani.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation type="obsolete">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="obsolete">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Frame
 Slides</source>
-        <translation type="obsolete">幻灯片加框</translation>
+        <translation>幻灯片加框</translation>
     </message>
     <message>
         <source>Frame Slides</source>
@@ -5106,32 +5222,32 @@ Slides</source>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
-        <translation type="obsolete">讲义（每页1张幻灯片）</translation>
+        <translation>讲义（每页1张幻灯片）</translation>
     </message>
     <message>
         <source>Handouts (2 slides per page)</source>
-        <translation type="obsolete">讲义（每页2张幻灯片）</translation>
+        <translation>讲义（每页2张幻灯片）</translation>
     </message>
     <message>
         <source>Handouts (3 slides per page)</source>
-        <translation type="obsolete">讲义（每页3张幻灯片）</translation>
+        <translation>讲义（每页3张幻灯片）</translation>
     </message>
     <message>
         <source>Handouts (4 slides per page)</source>
-        <translation type="obsolete">讲义（每页4张幻灯片）</translation>
+        <translation>讲义（每页4张幻灯片）</translation>
     </message>
     <message>
         <source>Handouts (6 slides per page)</source>
-        <translation type="obsolete">讲义（每页6张幻灯片）</translation>
+        <translation>讲义（每页6张幻灯片）</translation>
     </message>
     <message>
         <source>Handouts (9 slides per page)</source>
-        <translation type="obsolete">讲义（每页9张幻灯片）</translation>
+        <translation>讲义（每页9张幻灯片）</translation>
     </message>
     <message>
         <source>Header and 
 Footer</source>
-        <translation type="obsolete">页眉和页脚</translation>
+        <translation>页眉和页脚</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -5139,12 +5255,12 @@ Footer</source>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="obsolete">横向</translation>
+        <translation>横向</translation>
     </message>
     <message>
         <source>Next
 Page</source>
-        <translation type="obsolete">下一页</translation>
+        <translation>下一页</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -5152,15 +5268,15 @@ Page</source>
     </message>
     <message>
         <source>Notes pages (1 slide per page)</source>
-        <translation type="obsolete">备注页（每页1张备注页）</translation>
+        <translation>备注页（每页1张备注页）</translation>
     </message>
     <message>
         <source>Notes pages (3 slides per page)</source>
-        <translation type="obsolete">备注页（每页3张备注页）</translation>
+        <translation>备注页（每页3张备注页）</translation>
     </message>
     <message>
         <source>Outline View</source>
-        <translation type="obsolete">大纲视图</translation>
+        <translation>大纲视图</translation>
     </message>
     <message>
         <source>Outline view</source>
@@ -5168,12 +5284,12 @@ Page</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="obsolete">纵向</translation>
+        <translation>纵向</translation>
     </message>
     <message>
         <source>Previous
 Page</source>
-        <translation type="obsolete">上一页</translation>
+        <translation>上一页</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -5181,17 +5297,17 @@ Page</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="obsolete">打印</translation>
+        <translation>打印</translation>
     </message>
     <message>
         <source>Print
 Hidden Slides</source>
-        <translation type="obsolete">打印隐藏幻灯片</translation>
+        <translation>打印隐藏幻灯片</translation>
     </message>
     <message>
         <source>Print 
 Directly</source>
-        <translation type="obsolete">直接打印</translation>
+        <translation>直接打印</translation>
     </message>
     <message>
         <source>Print Directly</source>
@@ -5204,7 +5320,7 @@ Directly</source>
     <message>
         <source>Printing
 Order</source>
-        <translation type="obsolete">打印顺序</translation>
+        <translation>打印顺序</translation>
     </message>
     <message>
         <source>Printing Order</source>
@@ -5212,7 +5328,7 @@ Order</source>
     </message>
     <message>
         <source>Pure Black and White</source>
-        <translation type="obsolete">纯黑白</translation>
+        <translation>纯黑白</translation>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -5220,19 +5336,19 @@ Order</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="obsolete">显示</translation>
+        <translation>显示</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="obsolete">幻灯片</translation>
+        <translation>幻灯片</translation>
     </message>
     <message>
         <source>Zoom:</source>
-        <translation type="obsolete">缩放比例:</translation>
+        <translation>缩放比例:</translation>
     </message>
     <message>
         <source>ZoomPercent</source>
@@ -5243,14 +5359,14 @@ Order</source>
     <name>ongmani.ct_printpreview.PrevPrintHorizontal</name>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">水平</translation>
+        <translation>水平</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_printpreview.PrevPrintVertical</name>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">垂直</translation>
+        <translation>垂直</translation>
     </message>
 </context>
 <context>
@@ -5261,7 +5377,7 @@ Order</source>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation type="obsolete">中文简繁转换</translation>
+        <translation>中文简繁转换</translation>
     </message>
     <message>
         <source>Conversion</source>
@@ -5269,11 +5385,11 @@ Order</source>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation type="obsolete">繁转简</translation>
+        <translation>繁转简</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation type="obsolete">简转繁</translation>
+        <translation>简转繁</translation>
     </message>
     <message>
         <source>Covert to Simplified Chinese</source>
@@ -5286,7 +5402,7 @@ Order</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation type="obsolete">删除批注</translation>
+        <translation>删除批注</translation>
     </message>
     <message>
         <source>Delete All Mark In Current Presentation</source>
@@ -5298,11 +5414,11 @@ Comment</source>
     </message>
     <message>
         <source>Delete All Mark in this Presentation</source>
-        <translation type="obsolete">删除演示文稿中所有标记</translation>
+        <translation>删除演示文稿中所有标记</translation>
     </message>
     <message>
         <source>Delete All Mark on the Current Slide</source>
-        <translation type="obsolete">删除当前幻灯片中所有标记</translation>
+        <translation>删除当前幻灯片中所有标记</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -5311,7 +5427,7 @@ Comment</source>
     <message>
         <source>Edit
 Comment</source>
-        <translation type="obsolete">编辑批注</translation>
+        <translation>编辑批注</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -5319,20 +5435,20 @@ Comment</source>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="obsolete">删除所有墨迹对象</translation>
+        <translation>删除所有墨迹对象</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="obsolete">删除本页的墨迹对象</translation>
+        <translation>删除本页的墨迹对象</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="obsolete">标记</translation>
+        <translation>标记</translation>
     </message>
     <message>
         <source>New 
 Comment</source>
-        <translation type="obsolete">插入批注</translation>
+        <translation>插入批注</translation>
     </message>
     <message>
         <source>New Comment</source>
@@ -5340,7 +5456,7 @@ Comment</source>
     </message>
     <message>
         <source>Next</source>
-        <translation type="obsolete">下一条</translation>
+        <translation>下一条</translation>
     </message>
     <message>
         <source>Next Comment</source>
@@ -5348,7 +5464,7 @@ Comment</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="obsolete">上一条</translation>
+        <translation>上一条</translation>
     </message>
     <message>
         <source>Previous Comment</source>
@@ -5356,12 +5472,12 @@ Comment</source>
     </message>
     <message>
         <source>Proofing</source>
-        <translation type="obsolete">校对</translation>
+        <translation>校对</translation>
     </message>
     <message>
         <source>Show/Hide
 Mark</source>
-        <translation type="obsolete">显示/隐藏标记</translation>
+        <translation>显示/隐藏标记</translation>
     </message>
     <message>
         <source>Show/Hide Mark</source>
@@ -5369,7 +5485,7 @@ Mark</source>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="obsolete">拼写检查</translation>
+        <translation>拼写检查</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -5380,35 +5496,35 @@ Mark</source>
     <name>ongmani.ct_shadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation type="obsolete">0 磅</translation>
+        <translation>0 磅</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="obsolete">144 磅</translation>
+        <translation>144 磅</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="obsolete">288 磅</translation>
+        <translation>288 磅</translation>
     </message>
     <message>
         <source>3-D
 Color</source>
-        <translation type="obsolete">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="obsolete">三维效果</translation>
+        <translation>三维效果</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="obsolete">设置三维效果</translation>
+        <translation>设置三维效果</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
-        <translation type="obsolete">三维效果</translation>
+        <translation>三维效果</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -5428,119 +5544,119 @@ Effects</source>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="obsolete">36 磅</translation>
+        <translation>36 磅</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="obsolete">72磅</translation>
+        <translation>72磅</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="obsolete">明亮</translation>
+        <translation>明亮</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">自定义</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="obsolete">深度</translation>
+        <translation>深度</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation type="obsolete">阴暗</translation>
+        <translation>阴暗</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="obsolete">方向</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation type="obsolete">无穷</translation>
+        <translation>无穷</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="obsolete">照明</translation>
+        <translation>照明</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation type="obsolete">亚光效果</translation>
+        <translation>亚光效果</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation type="obsolete">金属效果</translation>
+        <translation>金属效果</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation type="obsolete">其他三维颜色</translation>
+        <translation>其他三维颜色</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="obsolete">其他阴影颜色</translation>
+        <translation>其他阴影颜色</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="obsolete">无三维效果</translation>
+        <translation>无三维效果</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="obsolete">无阴影</translation>
+        <translation>无阴影</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="obsolete">略向下移</translation>
+        <translation>略向下移</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="obsolete">略向左移</translation>
+        <translation>略向左移</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="obsolete">略向右移</translation>
+        <translation>略向右移</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="obsolete">略向上移</translation>
+        <translation>略向上移</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation type="obsolete">平行</translation>
+        <translation>平行</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="obsolete">透视</translation>
+        <translation>透视</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation type="obsolete">塑料效果</translation>
+        <translation>塑料效果</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="obsolete">半透明阴影</translation>
+        <translation>半透明阴影</translation>
     </message>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="obsolete">阴影颜色</translation>
+        <translation>阴影颜色</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="obsolete">设置阴影</translation>
+        <translation>设置阴影</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -5576,65 +5692,93 @@ Effects</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Surface</source>
-        <translation type="obsolete">表面</translation>
+        <translation>表面</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation type="obsolete">下俯</translation>
+        <translation>下俯</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation type="obsolete">左偏</translation>
+        <translation>左偏</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation type="obsolete">右偏</translation>
+        <translation>右偏</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation type="obsolete">上翘</translation>
+        <translation>上翘</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="obsolete">透明框架</translation>
+        <translation>透明框架</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_slidemaster</name>
+    <message>
+        <source>108</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>110</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>117</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>118</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>216</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>252</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>8226</source>
+        <translation></translation>
+    </message>
     <message>
         <source>Backdrop</source>
         <translation type="obsolete">背景</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="obsolete">背景</translation>
+        <translation>背景</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="obsolete">加粗</translation>
+        <translation>加粗</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="obsolete">项目符号</translation>
+        <translation>项目符号</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="obsolete">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Close
 Master View</source>
-        <translation type="obsolete">关闭
+        <translation>关闭
 母版视图</translation>
     </message>
     <message>
         <source>Delete 
 Master</source>
-        <translation type="obsolete">删除母版</translation>
+        <translation>删除母版</translation>
     </message>
     <message>
         <source>Delete Master</source>
@@ -5642,28 +5786,28 @@ Master</source>
     </message>
     <message>
         <source>Edit Master</source>
-        <translation type="obsolete">编辑母版</translation>
+        <translation>编辑母版</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="obsolete">字体</translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="obsolete">字体颜色</translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="obsolete">字号</translation>
+        <translation>字号</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="obsolete">倾斜</translation>
+        <translation>倾斜</translation>
     </message>
     <message>
         <source>Master 
 Layout</source>
-        <translation type="obsolete">母版版式</translation>
+        <translation>母版版式</translation>
     </message>
     <message>
         <source>Master Layout</source>
@@ -5671,11 +5815,11 @@ Layout</source>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="obsolete">其他项目符号</translation>
+        <translation>其他项目符号</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="obsolete">其他字体颜色</translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>New Slide
@@ -5686,7 +5830,7 @@ Master</source>
     <message>
         <source>New Slide 
 Master</source>
-        <translation type="obsolete">新幻灯片
+        <translation>新幻灯片
 母版</translation>
     </message>
     <message>
@@ -5696,7 +5840,7 @@ Master</source>
     <message>
         <source>New Title 
 Master</source>
-        <translation type="obsolete">新标题母版</translation>
+        <translation>新标题母版</translation>
     </message>
     <message>
         <source>New Title Master</source>
@@ -5705,7 +5849,7 @@ Master</source>
     <message>
         <source>Preserve 
 Master</source>
-        <translation type="obsolete">保护母版</translation>
+        <translation>保护母版</translation>
     </message>
     <message>
         <source>Preserve Master</source>
@@ -5714,7 +5858,7 @@ Master</source>
     <message>
         <source>Rename 
 Master</source>
-        <translation type="obsolete">重命名母版</translation>
+        <translation>重命名母版</translation>
     </message>
     <message>
         <source>Rename Master</source>
@@ -5727,22 +5871,50 @@ Background Picture</source>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="obsolete">另存背景</translation>
+        <translation>另存背景</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="obsolete">阴影</translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="obsolete">下划线</translation>
+        <translation>下划线</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_slidemaster.Num</name>
     <message>
+        <source>0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>7</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
-        <translation type="obsolete">其他编号</translation>
+        <translation>其他编号</translation>
     </message>
     <message>
         <source>Number</source>
@@ -5750,19 +5922,19 @@ Background Picture</source>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="obsolete">编号</translation>
+        <translation>编号</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_slideshow</name>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete">手机遥控</translation>
+        <translation>手机遥控</translation>
     </message>
     <message>
         <source>Custom 
 Slide Shows</source>
-        <translation type="obsolete">自定义放映</translation>
+        <translation>自定义放映</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -5771,11 +5943,11 @@ Slide Shows</source>
     <message>
         <source>From
 Beginning</source>
-        <translation type="obsolete">从头开始</translation>
+        <translation>从头开始</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="obsolete">从头开始</translation>
+        <translation>从头开始</translation>
     </message>
     <message>
         <source>From Current
@@ -5788,12 +5960,12 @@ Slide</source>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="obsolete">隐藏幻灯片</translation>
+        <translation>隐藏幻灯片</translation>
     </message>
     <message>
         <source>Rehearse 
 Timings</source>
-        <translation type="obsolete">排练计时</translation>
+        <translation>排练计时</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
@@ -5801,11 +5973,11 @@ Timings</source>
     </message>
     <message>
         <source>Set Up</source>
-        <translation type="obsolete">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Set Up Show</source>
-        <translation type="obsolete">设置放映方式</translation>
+        <translation>设置放映方式</translation>
     </message>
     <message>
         <source>Set Up Slide Show</source>
@@ -5814,12 +5986,12 @@ Timings</source>
     <message>
         <source>Slide
 Transition</source>
-        <translation type="obsolete">幻灯片切换</translation>
+        <translation>幻灯片切换</translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation type="obsolete">放映设置</translation>
+        <translation>放映设置</translation>
     </message>
     <message>
         <source>Slide Show From Beginning</source>
@@ -5832,7 +6004,7 @@ Settings</source>
     <message>
         <source>Speaker
 Notes</source>
-        <translation type="obsolete">演讲者备注</translation>
+        <translation>演讲者备注</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
@@ -5840,74 +6012,74 @@ Notes</source>
     </message>
     <message>
         <source>Start Slide Show</source>
-        <translation type="obsolete">开始放映幻灯片</translation>
+        <translation>开始放映幻灯片</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_tabletool</name>
     <message>
         <source>Adjust</source>
-        <translation type="obsolete">调整</translation>
+        <translation>调整</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="obsolete">对齐</translation>
+        <translation>对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="obsolete">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="obsolete">对齐方式</translation>
+        <translation>对齐方式</translation>
     </message>
     <message>
         <source>Alilgn Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="obsolete">排列</translation>
+        <translation>排列</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="obsolete">加粗</translation>
+        <translation>加粗</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="obsolete">上移一层</translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="obsolete">置于顶层</translation>
+        <translation>置于顶层</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -5915,103 +6087,103 @@ Notes</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">自定义</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="obsolete">减小字号</translation>
+        <translation>减小字号</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="obsolete">减少段落间距</translation>
+        <translation>减少段落间距</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="obsolete">删除列</translation>
+        <translation>删除列</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation type="obsolete">删除行</translation>
+        <translation>删除行</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation type="obsolete">平均分布各列</translation>
+        <translation>平均分布各列</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="obsolete">横向分布</translation>
+        <translation>横向分布</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation type="obsolete">平均分布各行</translation>
+        <translation>平均分布各行</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="obsolete">纵向分布</translation>
+        <translation>纵向分布</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="obsolete">等尺寸</translation>
+        <translation>等尺寸</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="obsolete">等宽</translation>
+        <translation>等宽</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="obsolete">字体</translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="obsolete">字体颜色</translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="obsolete">字号</translation>
+        <translation>字号</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格线和参考线</translation>
+        <translation>网格线和参考线</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="obsolete">网格线</translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="obsolete">增大字号</translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="obsolete">增大段落间距</translation>
+        <translation>增大段落间距</translation>
     </message>
     <message>
         <source>Insert Above</source>
-        <translation type="obsolete">在上方插入行</translation>
+        <translation>在上方插入行</translation>
     </message>
     <message>
         <source>Insert Below</source>
-        <translation type="obsolete">在下方插入行</translation>
+        <translation>在下方插入行</translation>
     </message>
     <message>
         <source>Insert Left</source>
-        <translation type="obsolete">在左侧插入列</translation>
+        <translation>在左侧插入列</translation>
     </message>
     <message>
         <source>Insert Right</source>
-        <translation type="obsolete">在右侧插入列</translation>
+        <translation>在右侧插入列</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="obsolete">倾斜</translation>
+        <translation>倾斜</translation>
     </message>
     <message>
         <source>Left</source>
@@ -6019,16 +6191,16 @@ Notes</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="obsolete">单元格边距</translation>
+        <translation>单元格边距</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="obsolete">合并</translation>
+        <translation>合并</translation>
     </message>
     <message>
         <source>Merge
 Cells</source>
-        <translation type="obsolete">合并单元格</translation>
+        <translation>合并单元格</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -6036,27 +6208,27 @@ Cells</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="obsolete">其他字体颜色</translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>Narrow</source>
-        <translation type="obsolete">窄边距</translation>
+        <translation>窄边距</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="obsolete">无边距</translation>
+        <translation>无边距</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">正常</translation>
+        <translation>正常</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="obsolete">相对于幻灯片</translation>
+        <translation>相对于幻灯片</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -6064,7 +6236,7 @@ Cells</source>
     </message>
     <message>
         <source>Rows and Columns</source>
-        <translation type="obsolete">行和列</translation>
+        <translation>行和列</translation>
     </message>
     <message>
         <source>Rows/Columns</source>
@@ -6072,36 +6244,36 @@ Cells</source>
     </message>
     <message>
         <source>Select</source>
-        <translation type="obsolete">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Select Column</source>
-        <translation type="obsolete">选择列</translation>
+        <translation>选择列</translation>
     </message>
     <message>
         <source>Select Row</source>
-        <translation type="obsolete">选择行</translation>
+        <translation>选择行</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="obsolete">选择表格</translation>
+        <translation>选择表格</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="obsolete">下移一层</translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="obsolete">置于底层</translation>
+        <translation>置于底层</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="obsolete">阴影</translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Split
 Cells</source>
-        <translation type="obsolete">拆分单元格</translation>
+        <translation>拆分单元格</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -6117,20 +6289,20 @@ Cells</source>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="obsolete">下标</translation>
+        <translation>下标</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="obsolete">上标</translation>
+        <translation>上标</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="obsolete">表格</translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Text
 Direction</source>
-        <translation type="obsolete">文字方向</translation>
+        <translation>文字方向</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -6162,11 +6334,11 @@ Direction</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="obsolete">下划线</translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Wide</source>
-        <translation type="obsolete">宽边距</translation>
+        <translation>宽边距</translation>
     </message>
 </context>
 <context>
@@ -6174,7 +6346,7 @@ Direction</source>
     <message>
         <source>Arrange
 All</source>
-        <translation type="obsolete">重排窗口</translation>
+        <translation>重排窗口</translation>
     </message>
     <message>
         <source>Arrange All</source>
@@ -6183,7 +6355,7 @@ All</source>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation type="obsolete">COM 加载项</translation>
+        <translation>COM 加载项</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -6191,25 +6363,25 @@ Add-Ins</source>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="obsolete">层叠</translation>
+        <translation>层叠</translation>
     </message>
     <message>
         <source>Close
 Other Window</source>
-        <translation type="obsolete">关闭
+        <translation>关闭
 其他窗口</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation type="obsolete">关闭其他窗口</translation>
+        <translation>关闭其他窗口</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="obsolete">关闭当前窗口</translation>
+        <translation>关闭当前窗口</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="obsolete">开发工具</translation>
+        <translation>开发工具</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -6228,12 +6400,12 @@ Other Window</source>
     <message>
         <source>Fit to
 Window</source>
-        <translation type="obsolete">适应窗口大小</translation>
+        <translation>适应窗口大小</translation>
     </message>
     <message>
         <source>Grid and
 Guides</source>
-        <translation type="obsolete">网格和参考线</translation>
+        <translation>网格和参考线</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -6253,16 +6425,16 @@ Guides</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="obsolete">宏</translation>
+        <translation>宏</translation>
     </message>
     <message>
         <source>Master View</source>
-        <translation type="obsolete">母版视图</translation>
+        <translation>母版视图</translation>
     </message>
     <message>
         <source>New
 Window</source>
-        <translation type="obsolete">新建窗口</translation>
+        <translation>新建窗口</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -6270,37 +6442,37 @@ Window</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Presentation View</source>
-        <translation type="obsolete">演示文稿视图</translation>
+        <translation>演示文稿视图</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="obsolete">标尺</translation>
+        <translation>标尺</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="obsolete">宏安全性</translation>
+        <translation>宏安全性</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="obsolete">显示</translation>
+        <translation>显示</translation>
     </message>
     <message>
         <source>Show More Windows</source>
-        <translation type="obsolete">其他窗口</translation>
+        <translation>其他窗口</translation>
     </message>
     <message>
         <source>Slide 
 Master</source>
-        <translation type="obsolete">幻灯片母版</translation>
+        <translation>幻灯片母版</translation>
     </message>
     <message>
         <source>Slide 
 Sorter</source>
-        <translation type="obsolete">幻灯片浏览</translation>
+        <translation>幻灯片浏览</translation>
     </message>
     <message>
         <source>Slide Master</source>
@@ -6313,7 +6485,7 @@ Sorter</source>
     <message>
         <source>Switch
 Window</source>
-        <translation type="obsolete">切换窗口</translation>
+        <translation>切换窗口</translation>
     </message>
     <message>
         <source>Switch
@@ -6326,15 +6498,15 @@ Windows</source>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="obsolete">任务窗格</translation>
+        <translation>任务窗格</translation>
     </message>
     <message>
         <source>Tile Horizontal</source>
-        <translation type="obsolete">水平平铺</translation>
+        <translation>水平平铺</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">垂直平铺</translation>
+        <translation>垂直平铺</translation>
     </message>
     <message>
         <source>Vertical Tile</source>
@@ -6342,49 +6514,49 @@ Windows</source>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation type="obsolete">网格线</translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="obsolete">Visual Basic 编辑器</translation>
+        <translation>Visual Basic 编辑器</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation type="obsolete">窗口</translation>
+        <translation>窗口</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="obsolete">显示比例</translation>
+        <translation>显示比例</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_washadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation type="obsolete">0 磅</translation>
+        <translation>0 磅</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="obsolete">144 磅</translation>
+        <translation>144 磅</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="obsolete">288 磅</translation>
+        <translation>288 磅</translation>
     </message>
     <message>
         <source>3-D
 Color</source>
-        <translation type="obsolete">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="obsolete">三维效果</translation>
+        <translation>三维效果</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation type="obsolete">设置三维效果</translation>
+        <translation>设置三维效果</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -6396,7 +6568,7 @@ On/Off</source>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="obsolete">三维效果</translation>
+        <translation>三维效果</translation>
     </message>
     <message>
         <source>3-D Style</source>
@@ -6404,99 +6576,99 @@ On/Off</source>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="obsolete">36 磅</translation>
+        <translation>36 磅</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="obsolete">72磅</translation>
+        <translation>72磅</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="obsolete">明亮</translation>
+        <translation>明亮</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">自定义</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="obsolete">深度</translation>
+        <translation>深度</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation type="obsolete">阴暗</translation>
+        <translation>阴暗</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="obsolete">方向</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation type="obsolete">无穷</translation>
+        <translation>无穷</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="obsolete">照明</translation>
+        <translation>照明</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation type="obsolete">亚光效果</translation>
+        <translation>亚光效果</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation type="obsolete">金属效果</translation>
+        <translation>金属效果</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation type="obsolete">其他三维颜色</translation>
+        <translation>其他三维颜色</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="obsolete">其他阴影颜色</translation>
+        <translation>其他阴影颜色</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="obsolete">无三维效果</translation>
+        <translation>无三维效果</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="obsolete">无阴影</translation>
+        <translation>无阴影</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="obsolete">略向下移</translation>
+        <translation>略向下移</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="obsolete">略向左移</translation>
+        <translation>略向左移</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="obsolete">略向右移</translation>
+        <translation>略向右移</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="obsolete">略向上移</translation>
+        <translation>略向上移</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation type="obsolete">平行</translation>
+        <translation>平行</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="obsolete">透视</translation>
+        <translation>透视</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation type="obsolete">塑料效果</translation>
+        <translation>塑料效果</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="obsolete">半透明阴影</translation>
+        <translation>半透明阴影</translation>
     </message>
     <message>
         <source>Shadow
@@ -6506,21 +6678,21 @@ Color</source>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation type="obsolete">设置阴影</translation>
+        <translation>设置阴影</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="obsolete">阴影颜色</translation>
+        <translation>阴影颜色</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
@@ -6552,132 +6724,132 @@ Effects</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Surface</source>
-        <translation type="obsolete">表面</translation>
+        <translation>表面</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation type="obsolete">下俯</translation>
+        <translation>下俯</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation type="obsolete">左偏</translation>
+        <translation>左偏</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation type="obsolete">右偏</translation>
+        <translation>右偏</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation type="obsolete">上翘</translation>
+        <translation>上翘</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="obsolete">透明框架</translation>
+        <translation>透明框架</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="obsolete"> 0.5 磅</translation>
+        <translation> 0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="obsolete">   1 磅</translation>
+        <translation>   1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="obsolete"> 1.5 磅</translation>
+        <translation> 1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="obsolete">   3 磅</translation>
+        <translation>   3 磅</translation>
     </message>
     <message>
         <source>3-D
 On</source>
-        <translation type="obsolete">设置
+        <translation>设置
 三维效果</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation type="obsolete">设置三维效果</translation>
+        <translation>设置三维效果</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="obsolete"> 4.5 磅</translation>
+        <translation> 4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="obsolete">   6 磅</translation>
+        <translation>   6 磅</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="obsolete">对齐</translation>
+        <translation>对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="obsolete">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="obsolete">对齐</translation>
+        <translation>对齐</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation type="obsolete">细下弯弧</translation>
+        <translation>细下弯弧</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
-        <translation type="obsolete">粗下弯弧</translation>
+        <translation>粗下弯弧</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation type="obsolete">细上弯弧</translation>
+        <translation>细上弯弧</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
-        <translation type="obsolete">粗上弯弧</translation>
+        <translation>粗上弯弧</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="obsolete">排列</translation>
+        <translation>排列</translation>
     </message>
     <message>
         <source>Artistic Word Same Letter Heights</source>
@@ -6697,15 +6869,15 @@ On</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="obsolete">上移一层</translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation type="obsolete">细旋钮形</translation>
+        <translation>细旋钮形</translation>
     </message>
     <message>
         <source>Button (Pour)</source>
-        <translation type="obsolete">粗旋钮形</translation>
+        <translation>粗旋钮形</translation>
     </message>
     <message>
         <source>Button(Curve)</source>
@@ -6717,72 +6889,72 @@ On</source>
     </message>
     <message>
         <source>Can Down</source>
-        <translation type="obsolete">两端远</translation>
+        <translation>两端远</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation type="obsolete">两端近</translation>
+        <translation>两端近</translation>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation type="obsolete">前远后近</translation>
+        <translation>前远后近</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation type="obsolete">前近后远</translation>
+        <translation>前近后远</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Character 
 Spacing</source>
-        <translation type="obsolete">字符间距</translation>
+        <translation>字符间距</translation>
     </message>
     <message>
         <source>Chevron Down</source>
-        <translation type="obsolete">正V形</translation>
+        <translation>正V形</translation>
     </message>
     <message>
         <source>Chevron Up</source>
-        <translation type="obsolete">倒V形</translation>
+        <translation>倒V形</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
-        <translation type="obsolete">细环形</translation>
+        <translation>细环形</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
-        <translation type="obsolete">粗环形</translation>
+        <translation>粗环形</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation type="obsolete">右牛角形</translation>
+        <translation>右牛角形</translation>
     </message>
     <message>
         <source>Curve Up</source>
-        <translation type="obsolete">左牛角形</translation>
+        <translation>左牛角形</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">自定义</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -6794,23 +6966,23 @@ Spacing</source>
     </message>
     <message>
         <source>Deflate</source>
-        <translation type="obsolete">朝鲜鼓</translation>
+        <translation>朝鲜鼓</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
-        <translation type="obsolete">桥形</translation>
+        <translation>桥形</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
-        <translation type="obsolete">单地道</translation>
+        <translation>单地道</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
-        <translation type="obsolete">双地道</translation>
+        <translation>双地道</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation type="obsolete">槽形</translation>
+        <translation>槽形</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -6818,35 +6990,35 @@ Spacing</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="obsolete">横向分布</translation>
+        <translation>横向分布</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="obsolete">纵向分布</translation>
+        <translation>纵向分布</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
-        <translation type="obsolete">双波形1</translation>
+        <translation>双波形1</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
-        <translation type="obsolete">双波形2</translation>
+        <translation>双波形2</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="obsolete">编辑文字</translation>
+        <translation>编辑文字</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="obsolete">等尺寸</translation>
+        <translation>等尺寸</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="obsolete">等宽</translation>
+        <translation>等宽</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -6858,39 +7030,39 @@ Spacing</source>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation type="obsolete">倒梯形</translation>
+        <translation>倒梯形</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation type="obsolete">左远右近</translation>
+        <translation>左远右近</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation type="obsolete">左近右远</translation>
+        <translation>左近右远</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation type="obsolete">正梯形</translation>
+        <translation>正梯形</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="obsolete">填充</translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="obsolete">水平翻转</translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="obsolete">垂直翻转</translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">设置对象格式</translation>
+        <translation>设置对象格式</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="obsolete">自由旋转</translation>
+        <translation>自由旋转</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -6898,31 +7070,31 @@ Spacing</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格线和参考线</translation>
+        <translation>网格线和参考线</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="obsolete">网格线</translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="obsolete">组合</translation>
+        <translation>组合</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="obsolete">腰鼓</translation>
+        <translation>腰鼓</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
-        <translation type="obsolete">陀螺形</translation>
+        <translation>陀螺形</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation type="obsolete">山形</translation>
+        <translation>山形</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -6930,19 +7102,19 @@ Spacing</source>
     </message>
     <message>
         <source>Left Align</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation type="obsolete">字母调整</translation>
+        <translation>字母调整</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="obsolete">长划线-点</translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -6950,177 +7122,177 @@ Spacing</source>
     </message>
     <message>
         <source>Loose</source>
-        <translation type="obsolete">稀疏</translation>
+        <translation>稀疏</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="obsolete">轮廓</translation>
+        <translation>轮廓</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="obsolete">纯文本</translation>
+        <translation>纯文本</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="obsolete">相对于幻灯片</translation>
+        <translation>相对于幻灯片</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation type="obsolete">顺时针</translation>
+        <translation>顺时针</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation type="obsolete">逆时针</translation>
+        <translation>逆时针</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="obsolete">旋转</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="obsolete">向左旋转 90°</translation>
+        <translation>向左旋转 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="obsolete">向右旋转 90°</translation>
+        <translation>向右旋转 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Same Letter Heights</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">选择窗格</translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="obsolete">下移一层</translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">详细设置</translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation type="obsolete">设置阴影</translation>
+        <translation>设置阴影</translation>
     </message>
     <message>
         <source>Slant Down</source>
-        <translation type="obsolete">右领章</translation>
+        <translation>右领章</translation>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation type="obsolete">左领章</translation>
+        <translation>左领章</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="obsolete">八边形</translation>
+        <translation>八边形</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation type="obsolete">延伸调整</translation>
+        <translation>延伸调整</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="obsolete">紧密</translation>
+        <translation>紧密</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation type="obsolete">倒三角</translation>
+        <translation>倒三角</translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation type="obsolete">正三角</translation>
+        <translation>正三角</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="obsolete">取消组合</translation>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Vertical Text</source>
-        <translation type="obsolete">竖排</translation>
+        <translation>竖排</translation>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation type="obsolete">很松</translation>
+        <translation>很松</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation type="obsolete">很紧</translation>
+        <translation>很紧</translation>
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="obsolete">波形1</translation>
+        <translation>波形1</translation>
     </message>
     <message>
         <source>Wave 2</source>
-        <translation type="obsolete">波形2</translation>
+        <translation>波形2</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation type="obsolete">单词调整</translation>
+        <translation>单词调整</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="obsolete">艺术字</translation>
+        <translation>艺术字</translation>
     </message>
     <message>
         <source>WordArt</source>
         <comment>Insert</comment>
-        <translation type="obsolete">插入艺术字</translation>
+        <translation>插入艺术字</translation>
     </message>
     <message>
         <source>WordArt
 Gallery</source>
-        <translation type="obsolete">艺术字库</translation>
+        <translation>艺术字库</translation>
     </message>
     <message>
         <source>WordArt
@@ -7130,7 +7302,7 @@ Size</source>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation type="obsolete">艺术字形状</translation>
+        <translation>艺术字形状</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
@@ -7158,18 +7330,18 @@ Shape</source>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">艺术字大小</translation>
+        <translation>艺术字大小</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation type="obsolete">艺术字样式</translation>
+        <translation>艺术字样式</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_wordart.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
@@ -7184,27 +7356,27 @@ Shape</source>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation type="obsolete">批量设置字体</translation>
+        <translation>批量设置字体</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete">手机遥控</translation>
+        <translation>手机遥控</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation type="obsolete">轻地址</translation>
+        <translation>轻地址</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
-        <translation type="obsolete">自定义母版字体</translation>
+        <translation>自定义母版字体</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation type="obsolete">关闭自动备份</translation>
+        <translation>关闭自动备份</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation type="obsolete">开启自动备份</translation>
+        <translation>开启自动备份</translation>
     </message>
     <message>
         <source>Explor Backup Dir</source>
@@ -7216,11 +7388,11 @@ Shape</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="obsolete">输出为图片</translation>
+        <translation>输出为图片</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="obsolete">输出为PDF</translation>
+        <translation>输出为PDF</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -7232,11 +7404,11 @@ Shape</source>
     </message>
     <message>
         <source>File Backup</source>
-        <translation type="obsolete">文件备份</translation>
+        <translation>文件备份</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="obsolete">文档漫游</translation>
+        <translation>文档漫游</translation>
     </message>
     <message>
         <source>File backup</source>
@@ -7244,15 +7416,15 @@ Shape</source>
     </message>
     <message>
         <source>Guide</source>
-        <translation type="obsolete">新手指引</translation>
+        <translation>新手指引</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="obsolete">站点</translation>
+        <translation>站点</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="obsolete">你提我改，帮助我们改进产品。</translation>
+        <translation>你提我改，帮助我们改进产品。</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -7260,7 +7432,7 @@ Shape</source>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="obsolete">分页插入图片</translation>
+        <translation>分页插入图片</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -7344,7 +7516,7 @@ Shape</source>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation type="obsolete">实验室</translation>
+        <translation>实验室</translation>
     </message>
     <message>
         <source>Login</source>
@@ -7352,7 +7524,7 @@ Shape</source>
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation type="obsolete">手动备份</translation>
+        <translation>手动备份</translation>
     </message>
     <message>
         <source>Mark Version</source>
@@ -7364,7 +7536,7 @@ Shape</source>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation type="obsolete">云文档</translation>
+        <translation>云文档</translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -7380,11 +7552,11 @@ Shape</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="obsolete">打开云文档</translation>
+        <translation>打开云文档</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="obsolete">演示工具</translation>
+        <translation>演示工具</translation>
     </message>
     <message>
         <source>Roaming Files</source>
@@ -7396,15 +7568,15 @@ Shape</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="obsolete">保存云文档</translation>
+        <translation>保存云文档</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation type="obsolete">分享到微博</translation>
+        <translation>分享到微博</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation type="obsolete">网页版微博分享</translation>
+        <translation>网页版微博分享</translation>
     </message>
     <message>
         <source>Sign In</source>
@@ -7416,11 +7588,11 @@ Shape</source>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation type="obsolete">幻灯片库</translation>
+        <translation>幻灯片库</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="obsolete">特色功能</translation>
+        <translation>特色功能</translation>
     </message>
     <message>
         <source>Special tool</source>
@@ -7436,7 +7608,7 @@ Shape</source>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation type="obsolete">转为文字文档</translation>
+        <translation>转为文字文档</translation>
     </message>
     <message>
         <source>Unite Document Font</source>
@@ -7444,15 +7616,15 @@ Shape</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="obsolete">用户反馈</translation>
+        <translation>用户反馈</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="obsolete">文件保险箱</translation>
+        <translation>文件保险箱</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="obsolete">查看历史备份</translation>
+        <translation>查看历史备份</translation>
     </message>
     <message>
         <source>WPS Permit</source>
@@ -7475,6 +7647,10 @@ Shape</source>
         <translation type="obsolete">网页版微博分享</translation>
     </message>
     <message>
+        <source>true</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>weiboshare</source>
         <translation type="obsolete">分享到微博</translation>
     </message>
@@ -7491,39 +7667,39 @@ Shape</source>
     </message>
     <message>
         <source>0.25 pt.</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="obsolete">0.5 磅</translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="obsolete">1 磅</translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="obsolete">1.5 磅</translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="obsolete">3 磅</translation>
+        <translation>3 磅</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="obsolete">4.5 磅</translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="obsolete">6 磅</translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>About Kingsoft Presentation</source>
@@ -7531,132 +7707,132 @@ Shape</source>
     </message>
     <message>
         <source>About WPS Presentation</source>
-        <translation type="obsolete">关于 WPS 演示</translation>
+        <translation>关于 WPS 演示</translation>
     </message>
     <message>
         <source>Action Buttons</source>
-        <translation type="obsolete">动作按钮</translation>
+        <translation>动作按钮</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="obsolete">动作设置</translation>
+        <translation>动作设置</translation>
     </message>
     <message>
         <source>Activate WPS Office</source>
-        <translation type="obsolete">激活 WPS Office</translation>
+        <translation>激活 WPS Office</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="obsolete">添加顶点</translation>
+        <translation>添加顶点</translation>
     </message>
     <message>
         <source>Add Text</source>
-        <translation type="obsolete">添加文字</translation>
+        <translation>添加文字</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="obsolete">对齐方式</translation>
+        <translation>对齐方式</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">底端对齐</translation>
+        <translation>底端对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>Font Alignment</comment>
-        <translation type="obsolete">底端对齐</translation>
+        <translation>底端对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="obsolete">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="obsolete">字体对齐方式</translation>
+        <translation>字体对齐方式</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>All Slides</source>
-        <translation type="obsolete">幻灯片漫游</translation>
+        <translation>幻灯片漫游</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="obsolete">动画方案</translation>
+        <translation>动画方案</translation>
     </message>
     <message>
         <source>Arrow</source>
-        <translation type="obsolete">箭头</translation>
+        <translation>箭头</translation>
     </message>
     <message>
         <source>Arrow Options</source>
-        <translation type="obsolete">箭头选项</translation>
+        <translation>箭头选项</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="obsolete">箭头样式</translation>
+        <translation>箭头样式</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="obsolete">箭头样式 1</translation>
+        <translation>箭头样式 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="obsolete">箭头样式 10</translation>
+        <translation>箭头样式 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="obsolete">箭头样式 11</translation>
+        <translation>箭头样式 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="obsolete">箭头样式 2</translation>
+        <translation>箭头样式 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="obsolete">箭头样式 3</translation>
+        <translation>箭头样式 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="obsolete">箭头样式 4</translation>
+        <translation>箭头样式 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="obsolete">箭头样式 5</translation>
+        <translation>箭头样式 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="obsolete">箭头样式 6</translation>
+        <translation>箭头样式 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="obsolete">箭头样式 7</translation>
+        <translation>箭头样式 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="obsolete">箭头样式 8</translation>
+        <translation>箭头样式 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="obsolete">箭头样式 9</translation>
+        <translation>箭头样式 9</translation>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation type="obsolete">剪贴画</translation>
+        <translation>剪贴画</translation>
     </message>
     <message>
         <source>Auto Backup</source>
@@ -7672,27 +7848,27 @@ Shape</source>
     </message>
     <message>
         <source>AutoPoint</source>
-        <translation type="obsolete">自动顶点</translation>
+        <translation>自动顶点</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="obsolete">自动</translation>
+        <translation>自动</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="obsolete">背景</translation>
+        <translation>背景</translation>
     </message>
     <message>
         <source>Background Music</source>
-        <translation type="obsolete">背景音乐</translation>
+        <translation>背景音乐</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="obsolete">备份管理</translation>
+        <translation>备份管理</translation>
     </message>
     <message>
         <source>Ball Pen</source>
-        <translation type="obsolete">圆珠笔</translation>
+        <translation>圆珠笔</translation>
     </message>
     <message>
         <source>Ballpoint Pen</source>
@@ -7700,35 +7876,35 @@ Shape</source>
     </message>
     <message>
         <source>Black Screen</source>
-        <translation type="obsolete">黑屏</translation>
+        <translation>黑屏</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="obsolete">加粗</translation>
+        <translation>加粗</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="obsolete">边框</translation>
+        <translation>边框</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
-        <translation type="obsolete">边框和填充</translation>
+        <translation>边框和填充</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="obsolete">上移一层</translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="obsolete">置于顶层</translation>
+        <translation>置于顶层</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
-        <translation type="obsolete">项目符号和编号</translation>
+        <translation>项目符号和编号</translation>
     </message>
     <message>
         <source>By Title</source>
-        <translation type="obsolete">按标题</translation>
+        <translation>按标题</translation>
     </message>
     <message>
         <source>COM
@@ -7738,7 +7914,7 @@ Add-Ins</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation type="obsolete">COM 加载项</translation>
+        <translation>COM 加载项</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -7746,27 +7922,27 @@ Add-Ins</source>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="obsolete">层叠</translation>
+        <translation>层叠</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Center Tab</source>
-        <translation type="obsolete">制表位（居中对齐）</translation>
+        <translation>制表位（居中对齐）</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="obsolete">切换帐号</translation>
+        <translation>切换帐号</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="obsolete">更改图片</translation>
+        <translation>更改图片</translation>
     </message>
     <message>
         <source>Change Points</source>
@@ -7774,55 +7950,55 @@ Add-Ins</source>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="obsolete">更改形状</translation>
+        <translation>更改形状</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">切换版本</translation>
+        <translation>切换版本</translation>
     </message>
     <message>
         <source>Change to</source>
-        <translation type="obsolete">更改为</translation>
+        <translation>更改为</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="obsolete">图表</translation>
+        <translation>图表</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="obsolete">检查更新</translation>
+        <translation>检查更新</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation type="obsolete">中文简繁转换</translation>
+        <translation>中文简繁转换</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="obsolete">剪贴板</translation>
+        <translation>剪贴板</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="obsolete">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Close All</source>
-        <translation type="obsolete">关闭所有文档</translation>
+        <translation>关闭所有文档</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation type="obsolete">关闭其他窗口</translation>
+        <translation>关闭其他窗口</translation>
     </message>
     <message>
         <source>Close Path</source>
-        <translation type="obsolete">关闭路径</translation>
+        <translation>关闭路径</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="obsolete">关闭窗口</translation>
+        <translation>关闭窗口</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="obsolete">批注</translation>
+        <translation>批注</translation>
     </message>
     <message>
         <source>Control</source>
@@ -7834,75 +8010,75 @@ Add-Ins</source>
     </message>
     <message>
         <source>Control Menu List</source>
-        <translation type="obsolete">控件菜单列表</translation>
+        <translation>控件菜单列表</translation>
     </message>
     <message>
         <source>Convert Markup to Object</source>
-        <translation type="obsolete">转换为普通对象</translation>
+        <translation>转换为普通对象</translation>
     </message>
     <message>
         <source>Convert Path to AutoShape</source>
-        <translation type="obsolete">路径转换为自选图形</translation>
+        <translation>路径转换为自选图形</translation>
     </message>
     <message>
         <source>Copy Comment</source>
-        <translation type="obsolete">复制文字</translation>
+        <translation>复制文字</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
-        <translation type="obsolete">复制超链接</translation>
+        <translation>复制超链接</translation>
     </message>
     <message>
         <source>Corner Point</source>
-        <translation type="obsolete">角部顶点</translation>
+        <translation>角部顶点</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation type="obsolete">轻地址</translation>
+        <translation>轻地址</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="obsolete">裁剪</translation>
+        <translation>裁剪</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation type="obsolete">按比例裁剪</translation>
+        <translation>按比例裁剪</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation type="obsolete">形状裁剪</translation>
+        <translation>形状裁剪</translation>
     </message>
     <message>
         <source>Curved Connector</source>
-        <translation type="obsolete">曲线连接符</translation>
+        <translation>曲线连接符</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation type="obsolete">曲线段</translation>
+        <translation>曲线段</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="obsolete">自定义动画</translation>
+        <translation>自定义动画</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="obsolete">自定义放映</translation>
+        <translation>自定义放映</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Data Chart</source>
@@ -7914,79 +8090,79 @@ Add-Ins</source>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="obsolete">日期和时间</translation>
+        <translation>日期和时间</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
-        <translation type="obsolete">制表位（小数点对齐）</translation>
+        <translation>制表位（小数点对齐）</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="obsolete">减小字号</translation>
+        <translation>减小字号</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="obsolete">减少缩进量</translation>
+        <translation>减少缩进量</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="obsolete">删除列</translation>
+        <translation>删除列</translation>
     </message>
     <message>
         <source>Delete Current Comment</source>
-        <translation type="obsolete">删除批注</translation>
+        <translation>删除批注</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="obsolete">删除母版</translation>
+        <translation>删除母版</translation>
     </message>
     <message>
         <source>Delete Point</source>
-        <translation type="obsolete">删除顶点</translation>
+        <translation>删除顶点</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation type="obsolete">删除行</translation>
+        <translation>删除行</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation type="obsolete">删除线段</translation>
+        <translation>删除线段</translation>
     </message>
     <message>
         <source>Delete Slide</source>
-        <translation type="obsolete">删除幻灯片</translation>
+        <translation>删除幻灯片</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation type="obsolete">幻灯片设计</translation>
+        <translation>幻灯片设计</translation>
     </message>
     <message>
         <source>Diagram</source>
-        <translation type="obsolete">图示</translation>
+        <translation>图示</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation type="obsolete">关闭自动备份</translation>
+        <translation>关闭自动备份</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="obsolete">横向分布</translation>
+        <translation>横向分布</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="obsolete">纵向分布</translation>
+        <translation>纵向分布</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="obsolete">分散对齐</translation>
+        <translation>分散对齐</translation>
     </message>
     <message>
         <source>Draw Shapes</source>
-        <translation type="obsolete">绘制形状</translation>
+        <translation>绘制形状</translation>
     </message>
     <message>
         <source>DrawShapes</source>
@@ -7994,43 +8170,43 @@ Add-Ins</source>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="obsolete">幻灯片副本</translation>
+        <translation>幻灯片副本</translation>
     </message>
     <message>
         <source>Duplicate Slide Master</source>
-        <translation type="obsolete">复制幻灯片母版</translation>
+        <translation>复制幻灯片母版</translation>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="obsolete">编辑批注</translation>
+        <translation>编辑批注</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
-        <translation type="obsolete">编辑超链接</translation>
+        <translation>编辑超链接</translation>
     </message>
     <message>
         <source>Edit Movie Object</source>
-        <translation type="obsolete">编辑影片对象</translation>
+        <translation>编辑影片对象</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation type="obsolete">编辑顶点</translation>
+        <translation>编辑顶点</translation>
     </message>
     <message>
         <source>Edit Sound Object</source>
-        <translation type="obsolete">编辑声音对象</translation>
+        <translation>编辑声音对象</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="obsolete">编辑文字</translation>
+        <translation>编辑文字</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
-        <translation type="obsolete">肘形连接符</translation>
+        <translation>肘形连接符</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation type="obsolete">开启自动备份</translation>
+        <translation>开启自动备份</translation>
     </message>
     <message>
         <source>Encrypt</source>
@@ -8038,59 +8214,59 @@ Add-Ins</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="obsolete">文件加密</translation>
+        <translation>文件加密</translation>
     </message>
     <message>
         <source>End Show</source>
-        <translation type="obsolete">结束放映</translation>
+        <translation>结束放映</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="obsolete">输入激活码</translation>
+        <translation>输入激活码</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="obsolete">等尺寸</translation>
+        <translation>等尺寸</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="obsolete">等宽</translation>
+        <translation>等宽</translation>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="obsolete">公式</translation>
+        <translation>公式</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="obsolete">清除</translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Erase All Inks on Slide</source>
-        <translation type="obsolete">擦除幻灯片上的所有墨迹</translation>
+        <translation>擦除幻灯片上的所有墨迹</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="obsolete">删除所有墨迹对象</translation>
+        <translation>删除所有墨迹对象</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="obsolete">删除本页的墨迹对象</translation>
+        <translation>删除本页的墨迹对象</translation>
     </message>
     <message>
         <source>Exit Edit Point</source>
-        <translation type="obsolete">退出顶点编辑</translation>
+        <translation>退出顶点编辑</translation>
     </message>
     <message>
         <source>Exit Edit Text</source>
-        <translation type="obsolete">退出文本编辑</translation>
+        <translation>退出文本编辑</translation>
     </message>
     <message>
         <source>Exit Rotate Mode</source>
-        <translation type="obsolete">退出旋转</translation>
+        <translation>退出旋转</translation>
     </message>
     <message>
         <source>Explor Backup Dir</source>
@@ -8106,19 +8282,23 @@ Add-Ins</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="obsolete">输出为图片</translation>
+        <translation>输出为图片</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="obsolete">输出为PDF格式</translation>
+        <translation>输出为PDF格式</translation>
     </message>
     <message>
         <source>Export to Package</source>
-        <translation type="obsolete">打包</translation>
+        <translation>打包</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation type="obsolete">WPS 客服邮箱</translation>
+        <translation>WPS 客服邮箱</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
@@ -8126,59 +8306,59 @@ Add-Ins</source>
     </message>
     <message>
         <source>File Object</source>
-        <translation type="obsolete">插入附件</translation>
+        <translation>插入附件</translation>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="obsolete">文件打包</translation>
+        <translation>文件打包</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="obsolete">填充</translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>First Slide</source>
-        <translation type="obsolete">第一页</translation>
+        <translation>第一页</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="obsolete">Flash</translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
-        <translation type="obsolete">水平翻转</translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation type="obsolete">垂直翻转</translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="obsolete">字体</translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="obsolete">字体颜色</translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="obsolete">字号</translation>
+        <translation>字号</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">设置对象格式</translation>
+        <translation>设置对象格式</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="obsolete">格式刷</translation>
+        <translation>格式刷</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="obsolete">自由旋转</translation>
+        <translation>自由旋转</translation>
     </message>
     <message>
         <source>From File</source>
-        <translation type="obsolete">来自文件</translation>
+        <translation>来自文件</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -8186,7 +8366,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Go to Slide</source>
-        <translation type="obsolete">定位</translation>
+        <translation>定位</translation>
     </message>
     <message>
         <source>Grab Screen</source>
@@ -8194,7 +8374,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -8202,27 +8382,27 @@ Add-Ins</source>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格和参考线</translation>
+        <translation>网格和参考线</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="obsolete">组合</translation>
+        <translation>组合</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="obsolete">组合</translation>
+        <translation>组合</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="obsolete">顶端对齐</translation>
+        <translation>顶端对齐</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="obsolete">页眉和页脚</translation>
+        <translation>页眉和页脚</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="obsolete">幻灯片放映帮助</translation>
+        <translation>幻灯片放映帮助</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -8230,11 +8410,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="obsolete">隐藏幻灯片</translation>
+        <translation>隐藏幻灯片</translation>
     </message>
     <message>
         <source>Highlighter</source>
-        <translation type="obsolete">荧光笔</translation>
+        <translation>荧光笔</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -8242,35 +8422,35 @@ Add-Ins</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">横向文本框</translation>
+        <translation>横向文本框</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="obsolete">超链接</translation>
+        <translation>超链接</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="obsolete">增大字号</translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="obsolete">增加缩进量</translation>
+        <translation>增加缩进量</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="obsolete">增大段落间距</translation>
+        <translation>增大段落间距</translation>
     </message>
     <message>
         <source>Ink Color</source>
-        <translation type="obsolete">墨迹颜色</translation>
+        <translation>墨迹颜色</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="obsolete">插入</translation>
+        <translation>插入</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="obsolete">插入剪贴画</translation>
+        <translation>插入剪贴画</translation>
     </message>
     <message>
         <source>Insert Columns</source>
@@ -8278,31 +8458,31 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Columns Left</source>
-        <translation type="obsolete">在左侧插入列</translation>
+        <translation>在左侧插入列</translation>
     </message>
     <message>
         <source>Insert Columns Right</source>
-        <translation type="obsolete">在右侧插入列</translation>
+        <translation>在右侧插入列</translation>
     </message>
     <message>
         <source>Insert Columns to the Left</source>
-        <translation type="obsolete">在左侧插入</translation>
+        <translation>在左侧插入</translation>
     </message>
     <message>
         <source>Insert Columns to the Right</source>
-        <translation type="obsolete">在右侧插入</translation>
+        <translation>在右侧插入</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Insert Row Above</source>
-        <translation type="obsolete">在上方插入</translation>
+        <translation>在上方插入</translation>
     </message>
     <message>
         <source>Insert Row Below</source>
-        <translation type="obsolete">在下方插入</translation>
+        <translation>在下方插入</translation>
     </message>
     <message>
         <source>Insert Rows</source>
@@ -8310,11 +8490,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Rows Above</source>
-        <translation type="obsolete">在上方插入行</translation>
+        <translation>在上方插入行</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
-        <translation type="obsolete">在下方插入行</translation>
+        <translation>在下方插入行</translation>
     </message>
     <message>
         <source>Insert Tab</source>
@@ -8326,11 +8506,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="obsolete">永远隐藏</translation>
+        <translation>永远隐藏</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="obsolete">倾斜</translation>
+        <translation>倾斜</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -8394,59 +8574,59 @@ Add-Ins</source>
     </message>
     <message>
         <source>Last Slide</source>
-        <translation type="obsolete">最后一页</translation>
+        <translation>最后一页</translation>
     </message>
     <message>
         <source>Last Viewed</source>
-        <translation type="obsolete">以前查看过的</translation>
+        <translation>以前查看过的</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="obsolete">版式</translation>
+        <translation>版式</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Left Tab</source>
-        <translation type="obsolete">制表位（左对齐）</translation>
+        <translation>制表位（左对齐）</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="obsolete">直线</translation>
+        <translation>直线</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="obsolete">换行</translation>
+        <translation>换行</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="obsolete">行距</translation>
+        <translation>行距</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation type="obsolete">长划线-点</translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation type="obsolete">宏</translation>
+        <translation>宏</translation>
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation type="obsolete">手动备份</translation>
+        <translation>手动备份</translation>
     </message>
     <message>
         <source>Mark Version</source>
@@ -8454,15 +8634,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="obsolete">标记</translation>
+        <translation>标记</translation>
     </message>
     <message>
         <source>Master</source>
-        <translation type="obsolete">母版</translation>
+        <translation>母版</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="obsolete">母版版式</translation>
+        <translation>母版版式</translation>
     </message>
     <message>
         <source>Menu Edit Comment</source>
@@ -8474,27 +8654,27 @@ Add-Ins</source>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="obsolete">合并单元格</translation>
+        <translation>合并单元格</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation type="obsolete">WPS热点</translation>
+        <translation>WPS热点</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="obsolete">其他箭头</translation>
+        <translation>其他箭头</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="obsolete">其他字体颜色</translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation type="obsolete">更多历史记录</translation>
+        <translation>更多历史记录</translation>
     </message>
     <message>
         <source>More Histories</source>
@@ -8502,11 +8682,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -8514,11 +8694,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Movie from File</source>
-        <translation type="obsolete">文件中的影片</translation>
+        <translation>文件中的影片</translation>
     </message>
     <message>
         <source>Movies and Sounds</source>
-        <translation type="obsolete">影片和声音</translation>
+        <translation>影片和声音</translation>
     </message>
     <message>
         <source>New Blank Master</source>
@@ -8530,16 +8710,16 @@ Add-Ins</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="obsolete">插入批注</translation>
+        <translation>插入批注</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="obsolete">新建幻灯片</translation>
+        <translation>新建幻灯片</translation>
     </message>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="obsolete">新幻灯片
+        <translation>新幻灯片
 母版</translation>
     </message>
     <message>
@@ -8548,31 +8728,31 @@ Master</source>
     </message>
     <message>
         <source>New Slide From Online</source>
-        <translation type="obsolete">从幻灯片库新建</translation>
+        <translation>从幻灯片库新建</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="obsolete">新幻灯片母版</translation>
+        <translation>新幻灯片母版</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="obsolete">新标题母版</translation>
+        <translation>新标题母版</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="obsolete">新建窗口</translation>
+        <translation>新建窗口</translation>
     </message>
     <message>
         <source>NewFromDuplicate</source>
-        <translation type="obsolete">新建幻灯片副本</translation>
+        <translation>新建幻灯片副本</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="obsolete">下一页</translation>
+        <translation>下一页</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Notes</source>
@@ -8580,7 +8760,15 @@ Master</source>
     </message>
     <message>
         <source>Object</source>
-        <translation type="obsolete">对象</translation>
+        <translation>对象</translation>
+    </message>
+    <message>
+        <source>Object Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Object Menu List</source>
+        <translation></translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -8588,19 +8776,19 @@ Master</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="obsolete">Docer-在线模板</translation>
+        <translation>Docer-在线模板</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
-        <translation type="obsolete">打开备份文件夹</translation>
+        <translation>打开备份文件夹</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="obsolete">打开所在文件夹</translation>
+        <translation>打开所在文件夹</translation>
     </message>
     <message>
         <source>Open From Cloud</source>
@@ -8608,23 +8796,23 @@ Master</source>
     </message>
     <message>
         <source>Open Hyperlink</source>
-        <translation type="obsolete">打开超链接</translation>
+        <translation>打开超链接</translation>
     </message>
     <message>
         <source>Open Path</source>
-        <translation type="obsolete">开放路径</translation>
+        <translation>开放路径</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="obsolete">从云文档打开</translation>
+        <translation>从云文档打开</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="obsolete">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="obsolete">叠放次序</translation>
+        <translation>叠放次序</translation>
     </message>
     <message>
         <source>Org Chart Layout</source>
@@ -8640,7 +8828,7 @@ Master</source>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="obsolete">组织结构图</translation>
+        <translation>组织结构图</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
@@ -8648,31 +8836,31 @@ Master</source>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation type="obsolete">将演示文档打包成压缩文件</translation>
+        <translation>将演示文档打包成压缩文件</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="obsolete">打包成文件夹</translation>
+        <translation>打包成文件夹</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="obsolete">选择性粘贴</translation>
+        <translation>选择性粘贴</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="obsolete">暂停</translation>
+        <translation>暂停</translation>
     </message>
     <message>
         <source>Pause Background Music</source>
-        <translation type="obsolete">暂停播放背景音乐</translation>
+        <translation>暂停播放背景音乐</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Picture Format Style</source>
@@ -8680,31 +8868,31 @@ Master</source>
     </message>
     <message>
         <source>Play</source>
-        <translation type="obsolete">观看放映</translation>
+        <translation>观看放映</translation>
     </message>
     <message>
         <source>Play Back</source>
-        <translation type="obsolete">回退</translation>
+        <translation>回退</translation>
     </message>
     <message>
         <source>Play Movie</source>
-        <translation type="obsolete">播放影片</translation>
+        <translation>播放影片</translation>
     </message>
     <message>
         <source>Play Sound</source>
-        <translation type="obsolete">播放声音</translation>
+        <translation>播放声音</translation>
     </message>
     <message>
         <source>Pointer Options</source>
-        <translation type="obsolete">指针选项</translation>
+        <translation>指针选项</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="obsolete">保护母版</translation>
+        <translation>保护母版</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="obsolete">上一页</translation>
+        <translation>上一页</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -8712,99 +8900,99 @@ Master</source>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="obsolete">产品管理中心</translation>
+        <translation>产品管理中心</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="obsolete">属性</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="obsolete">购买序列号</translation>
+        <translation>购买序列号</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation type="obsolete">充值稻米</translation>
+        <translation>充值稻米</translation>
     </message>
     <message>
         <source>Reconvert</source>
-        <translation type="obsolete">通过输入法重选文字</translation>
+        <translation>通过输入法重选文字</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="obsolete">矩形</translation>
+        <translation>矩形</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="obsolete">排练计时</translation>
+        <translation>排练计时</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="obsolete">相对于幻灯片</translation>
+        <translation>相对于幻灯片</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
-        <translation type="obsolete">取消超链接</translation>
+        <translation>取消超链接</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="obsolete">重命名母版</translation>
+        <translation>重命名母版</translation>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="obsolete">替换字体</translation>
+        <translation>替换字体</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="obsolete">继续执行</translation>
+        <translation>继续执行</translation>
     </message>
     <message>
         <source>Resume Background Music</source>
-        <translation type="obsolete">继续播放背景音乐</translation>
+        <translation>继续播放背景音乐</translation>
     </message>
     <message>
         <source>Reverse Path Direction</source>
-        <translation type="obsolete">反转路径方向</translation>
+        <translation>反转路径方向</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Right Tab</source>
-        <translation type="obsolete">制表位（右对齐）</translation>
+        <translation>制表位（右对齐）</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="obsolete">罗马方式对齐</translation>
+        <translation>罗马方式对齐</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="obsolete">旋转</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="obsolete">向左旋转 90°</translation>
+        <translation>向左旋转 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="obsolete">向右旋转 90°</translation>
+        <translation>向右旋转 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="obsolete">标尺</translation>
+        <translation>标尺</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="obsolete">保存所有文档</translation>
+        <translation>保存所有文档</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="obsolete">背景另存为图片</translation>
+        <translation>背景另存为图片</translation>
     </message>
     <message>
         <source>Save To Cloud</source>
@@ -8812,63 +9000,63 @@ Master</source>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation type="obsolete">另存为图片</translation>
+        <translation>另存为图片</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="obsolete">保存到云文档</translation>
+        <translation>保存到云文档</translation>
     </message>
     <message>
         <source>Save to File</source>
-        <translation type="obsolete">保存到文件</translation>
+        <translation>保存到文件</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="obsolete">屏幕</translation>
+        <translation>屏幕</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="obsolete">截屏</translation>
+        <translation>截屏</translation>
     </message>
     <message>
         <source>Scribble</source>
-        <translation type="obsolete">自由曲线</translation>
+        <translation>自由曲线</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="obsolete">安全性</translation>
+        <translation>安全性</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="obsolete">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="obsolete">选择表格</translation>
+        <translation>选择表格</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="obsolete">下移一层</translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="obsolete">发送邮件</translation>
+        <translation>发送邮件</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="obsolete">置于底层</translation>
+        <translation>置于底层</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
-        <translation type="obsolete">设置自选图形的默认效果</translation>
+        <translation>设置自选图形的默认效果</translation>
     </message>
     <message>
         <source>Set Up Show</source>
-        <translation type="obsolete">设置放映方式</translation>
+        <translation>设置放映方式</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="obsolete">形状填充</translation>
+        <translation>形状填充</translation>
     </message>
     <message>
         <source>Shape Format Style</source>
@@ -8876,15 +9064,19 @@ Master</source>
     </message>
     <message>
         <source>Shape Line</source>
-        <translation type="obsolete">轮廓</translation>
+        <translation>轮廓</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation type="obsolete">分享到微博</translation>
+        <translation>分享到微博</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation type="obsolete">网页版微博分享</translation>
+        <translation>网页版微博分享</translation>
     </message>
     <message>
         <source>Share to Weibo</source>
@@ -8892,15 +9084,15 @@ Master</source>
     </message>
     <message>
         <source>Show / Hide Grid</source>
-        <translation type="obsolete">显示/隐藏网格</translation>
+        <translation>显示/隐藏网格</translation>
     </message>
     <message>
         <source>Show / Hide Ink Markup</source>
-        <translation type="obsolete">显示/隐藏墨迹标记</translation>
+        <translation>显示/隐藏墨迹标记</translation>
     </message>
     <message>
         <source>Show More Windows</source>
-        <translation type="obsolete">其他窗口</translation>
+        <translation>其他窗口</translation>
     </message>
     <message>
         <source>Sign In</source>
@@ -8908,31 +9100,31 @@ Master</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="obsolete">登录</translation>
+        <translation>登录</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation type="obsolete">注销</translation>
+        <translation>注销</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="obsolete">幻灯片版式</translation>
+        <translation>幻灯片版式</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="obsolete">幻灯片母版</translation>
+        <translation>幻灯片母版</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="obsolete">幻灯片编号</translation>
+        <translation>幻灯片编号</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="obsolete">幻灯片放映</translation>
+        <translation>幻灯片放映</translation>
     </message>
     <message>
         <source>Slide Show List</source>
-        <translation type="obsolete">幻灯片播放列表</translation>
+        <translation>幻灯片播放列表</translation>
     </message>
     <message>
         <source>Slide Show Settings</source>
@@ -8940,11 +9132,11 @@ Master</source>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="obsolete">幻灯片浏览</translation>
+        <translation>幻灯片浏览</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="obsolete">幻灯片切换</translation>
+        <translation>幻灯片切换</translation>
     </message>
     <message>
         <source>SlideShow</source>
@@ -8952,19 +9144,19 @@ Master</source>
     </message>
     <message>
         <source>Slides List</source>
-        <translation type="obsolete">幻灯片列表</translation>
+        <translation>幻灯片列表</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation type="obsolete">平滑顶点</translation>
+        <translation>平滑顶点</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -8972,19 +9164,19 @@ Master</source>
     </message>
     <message>
         <source>Sound from File</source>
-        <translation type="obsolete">文件中的声音</translation>
+        <translation>文件中的声音</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="obsolete">演讲者备注</translation>
+        <translation>演讲者备注</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="obsolete">拆分单元格</translation>
+        <translation>拆分单元格</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Stop Auto Backup</source>
@@ -8996,43 +9188,47 @@ Master</source>
     </message>
     <message>
         <source>Straight Connector</source>
-        <translation type="obsolete">直线连接符</translation>
+        <translation>直线连接符</translation>
     </message>
     <message>
         <source>Straight Point</source>
-        <translation type="obsolete">直线点</translation>
+        <translation>直线点</translation>
     </message>
     <message>
         <source>Straight Segment</source>
-        <translation type="obsolete">抻直弓形</translation>
+        <translation>抻直弓形</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="obsolete">WPS 学习网站</translation>
+        <translation>WPS 学习网站</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="obsolete">符号</translation>
+        <translation>符号</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="obsolete">表格</translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="obsolete">表格样式</translation>
+        <translation>表格样式</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="obsolete">文本框</translation>
+        <translation>文本框</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
-        <translation type="obsolete">转为WPS文字文档</translation>
+        <translation>转为WPS文字文档</translation>
     </message>
     <message>
         <source>Translate to Document</source>
@@ -9040,15 +9236,15 @@ Master</source>
     </message>
     <message>
         <source>Typography</source>
-        <translation type="obsolete">版式</translation>
+        <translation>版式</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="obsolete">下划线</translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="obsolete">取消组合</translation>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Unholding Fixed</source>
@@ -9064,43 +9260,43 @@ Master</source>
     </message>
     <message>
         <source>Use Magnifier</source>
-        <translation type="obsolete">使用放大镜</translation>
+        <translation>使用放大镜</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="obsolete">用户反馈</translation>
+        <translation>用户反馈</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">竖向文本框</translation>
+        <translation>竖向文本框</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="obsolete">查看代码</translation>
+        <translation>查看代码</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="obsolete">文件保险箱</translation>
+        <translation>文件保险箱</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="obsolete">查看历史备份</translation>
+        <translation>查看历史备份</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="obsolete">可见</translation>
+        <translation>可见</translation>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation type="obsolete">WPS 论坛</translation>
+        <translation>WPS 论坛</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete">商业授权</translation>
+        <translation>商业授权</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
-        <translation type="obsolete">微博求助</translation>
+        <translation>微博求助</translation>
     </message>
     <message>
         <source>WPS New features</source>
@@ -9108,19 +9304,23 @@ Master</source>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="obsolete">WPS Office 社区</translation>
+        <translation>WPS Office 社区</translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation type="obsolete">WPS Office 主页</translation>
+        <translation>WPS Office 主页</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
-        <translation type="obsolete">WPS Office 新特性</translation>
+        <translation>WPS Office 新特性</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation type="obsolete">WPS Office 产品中心</translation>
+        <translation>WPS Office 产品中心</translation>
     </message>
     <message>
         <source>WPS Online</source>
@@ -9128,23 +9328,23 @@ Master</source>
     </message>
     <message>
         <source>Watercolor Pen</source>
-        <translation type="obsolete">水彩笔</translation>
+        <translation>水彩笔</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="obsolete">波浪线</translation>
+        <translation>波浪线</translation>
     </message>
     <message>
         <source>White Screen</source>
-        <translation type="obsolete">白屏</translation>
+        <translation>白屏</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="obsolete">艺术字</translation>
+        <translation>艺术字</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="obsolete">显示比例</translation>
+        <translation>显示比例</translation>
     </message>
     <message>
         <source>exportweiboimage</source>
@@ -9152,7 +9352,7 @@ Master</source>
     </message>
     <message>
         <source>import templates</source>
-        <translation type="obsolete">导入模板</translation>
+        <translation>导入模板</translation>
     </message>
     <message>
         <source>login</source>
@@ -9163,6 +9363,10 @@ Master</source>
         <translation type="obsolete">网页版微博分享</translation>
     </message>
     <message>
+        <source>true</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>weiboshare</source>
         <translation type="obsolete">分享到微博</translation>
     </message>
@@ -9171,7 +9375,7 @@ Master</source>
     <name>popupmenu.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
@@ -9182,45 +9386,45 @@ Master</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="obsolete">更改界面</translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="obsolete">确定</translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="obsolete">更改语言</translation>
+        <translation>更改语言</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.OrgChartAndDiagram</name>
     <message>
         <source>All Assistants</source>
-        <translation type="obsolete">所有助手</translation>
+        <translation>所有助手</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="obsolete">所有连接线</translation>
+        <translation>所有连接线</translation>
     </message>
     <message>
         <source>Assistant</source>
-        <translation type="obsolete">助手</translation>
+        <translation>助手</translation>
     </message>
     <message>
         <source>Auto Format</source>
-        <translation type="obsolete">自动套用格式</translation>
+        <translation>自动套用格式</translation>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="obsolete">两边悬挂</translation>
+        <translation>两边悬挂</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation type="obsolete">分支</translation>
+        <translation>分支</translation>
     </message>
     <message>
         <source>Change to Cycle</source>
@@ -9244,79 +9448,79 @@ Master</source>
     </message>
     <message>
         <source>Coworker</source>
-        <translation type="obsolete">同事</translation>
+        <translation>同事</translation>
     </message>
     <message>
         <source>Cycle</source>
-        <translation type="obsolete">循环型</translation>
+        <translation>循环型</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="obsolete">编辑文字</translation>
+        <translation>编辑文字</translation>
     </message>
     <message>
         <source>Format AutoShape</source>
-        <translation type="obsolete">设置自选图形格式</translation>
+        <translation>设置自选图形格式</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation type="obsolete">插入形状</translation>
+        <translation>插入形状</translation>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="obsolete">左悬挂</translation>
+        <translation>左悬挂</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation type="obsolete">级别</translation>
+        <translation>级别</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
-        <translation type="obsolete">后移形状</translation>
+        <translation>后移形状</translation>
     </message>
     <message>
         <source>Move Shape Forward</source>
-        <translation type="obsolete">前移形状</translation>
+        <translation>前移形状</translation>
     </message>
     <message>
         <source>Pyramid</source>
-        <translation type="obsolete">棱锥型</translation>
+        <translation>棱锥型</translation>
     </message>
     <message>
         <source>Radial</source>
-        <translation type="obsolete">射线型</translation>
+        <translation>射线型</translation>
     </message>
     <message>
         <source>Reverse Diagram</source>
-        <translation type="obsolete">反转图示</translation>
+        <translation>反转图示</translation>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="obsolete">右悬挂</translation>
+        <translation>右悬挂</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">标准</translation>
+        <translation>标准</translation>
     </message>
     <message>
         <source>Subordinate</source>
-        <translation type="obsolete">下属</translation>
+        <translation>下属</translation>
     </message>
     <message>
         <source>Target</source>
-        <translation type="obsolete">目标图</translation>
+        <translation>目标图</translation>
     </message>
     <message>
         <source>Use AutoFormat</source>
-        <translation type="obsolete">自动套用格式</translation>
+        <translation>自动套用格式</translation>
     </message>
     <message>
         <source>Venn</source>
-        <translation type="obsolete">维恩型</translation>
+        <translation>维恩型</translation>
     </message>
     <message>
         <source>level</source>
@@ -9331,116 +9535,116 @@ Master</source>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="obsolete">橡皮擦</translation>
+        <translation>橡皮擦</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.window</name>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">水平平铺</translation>
+        <translation>水平平铺</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">垂直平铺</translation>
+        <translation>垂直平铺</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
-        <translation type="obsolete">自定义工具栏</translation>
+        <translation>自定义工具栏</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_animation</name>
     <message>
         <source>Animation</source>
-        <translation type="obsolete">动画</translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation type="obsolete">动画方案</translation>
+        <translation>动画方案</translation>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="obsolete">自定义动画</translation>
+        <translation>自定义动画</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="obsolete">预览</translation>
+        <translation>预览</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="obsolete">切换</translation>
+        <translation>切换</translation>
     </message>
     <message>
         <source>Transition Effects</source>
-        <translation type="obsolete">切换效果</translation>
+        <translation>切换效果</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_design</name>
     <message>
         <source>Background</source>
-        <translation type="obsolete">背景</translation>
+        <translation>背景</translation>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation type="obsolete">批量设置字体</translation>
+        <translation>批量设置字体</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation type="obsolete">配色方案</translation>
+        <translation>配色方案</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
-        <translation type="obsolete">自定义母版字体</translation>
+        <translation>自定义母版字体</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation type="obsolete">设计模板</translation>
+        <translation>设计模板</translation>
     </message>
     <message>
         <source>Edit Slide Master</source>
-        <translation type="obsolete">编辑母版</translation>
+        <translation>编辑母版</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="obsolete">分页插入图片</translation>
+        <translation>分页插入图片</translation>
     </message>
     <message>
         <source>Involved
 Template</source>
-        <translation type="obsolete">本文模板</translation>
+        <translation>本文模板</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="obsolete">横向</translation>
+        <translation>横向</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="obsolete">页面设置</translation>
+        <translation>页面设置</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="obsolete">纵向</translation>
+        <translation>纵向</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="obsolete">演示工具</translation>
+        <translation>演示工具</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation type="obsolete">背景另存为图片</translation>
+        <translation>背景另存为图片</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="obsolete">幻灯片版式</translation>
+        <translation>幻灯片版式</translation>
     </message>
     <message>
         <source>Slide Orientation</source>
-        <translation type="obsolete">幻灯片方向</translation>
+        <translation>幻灯片方向</translation>
     </message>
     <message>
         <source>Slide Size</source>
@@ -9460,18 +9664,18 @@ Template</source>
     </message>
     <message>
         <source>import templates</source>
-        <translation type="obsolete">导入模板</translation>
+        <translation>导入模板</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_designtable</name>
     <message>
         <source>Borders</source>
-        <translation type="obsolete">边框</translation>
+        <translation>边框</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="obsolete">清除表格样式</translation>
+        <translation>清除表格样式</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -9479,45 +9683,45 @@ Template</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Shading</source>
-        <translation type="obsolete">填充</translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Table Style Options</source>
-        <translation type="obsolete">表格样式</translation>
+        <translation>表格样式</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation type="obsolete">表格样式选项</translation>
+        <translation>表格样式选项</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_designtable.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_developtools</name>
     <message>
         <source>Add-Ins</source>
-        <translation type="obsolete">加载项</translation>
+        <translation>加载项</translation>
     </message>
     <message>
         <source>COM
@@ -9527,238 +9731,238 @@ AddIns</source>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation type="obsolete">COM 加载项</translation>
+        <translation>COM 加载项</translation>
     </message>
     <message>
         <source>Check Box</source>
-        <translation type="obsolete">复选框</translation>
+        <translation>复选框</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="obsolete">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Combo Box</source>
-        <translation type="obsolete">组合框</translation>
+        <translation>组合框</translation>
     </message>
     <message>
         <source>Command Button</source>
-        <translation type="obsolete">命令按钮</translation>
+        <translation>命令按钮</translation>
     </message>
     <message>
         <source>Control Properties</source>
-        <translation type="obsolete">控件属性</translation>
+        <translation>控件属性</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="obsolete">控件工具箱</translation>
+        <translation>控件工具箱</translation>
     </message>
     <message>
         <source>Controls List</source>
-        <translation type="obsolete">控件列表</translation>
+        <translation>控件列表</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="obsolete">说明</translation>
+        <translation>说明</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="obsolete">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="obsolete">标签</translation>
+        <translation>标签</translation>
     </message>
     <message>
         <source>List Box</source>
-        <translation type="obsolete">列表框</translation>
+        <translation>列表框</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="obsolete">宏</translation>
+        <translation>宏</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translation type="obsolete">其他控件</translation>
+        <translation>其他控件</translation>
     </message>
     <message>
         <source>Option Button</source>
-        <translation type="obsolete">选项按钮</translation>
+        <translation>选项按钮</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
-        <translation type="obsolete">滚动条</translation>
+        <translation>滚动条</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="obsolete">宏安全性</translation>
+        <translation>宏安全性</translation>
     </message>
     <message>
         <source>Spin Button</source>
-        <translation type="obsolete">数值调节按钮</translation>
+        <translation>数值调节按钮</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="obsolete">文本框</translation>
+        <translation>文本框</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="obsolete">切换按钮</translation>
+        <translation>切换按钮</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation type="obsolete">查看代码</translation>
+        <translation>查看代码</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="obsolete">Visual Basic 编辑器</translation>
+        <translation>Visual Basic 编辑器</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_drawingtool</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="obsolete"> 0.5 磅</translation>
+        <translation> 0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="obsolete">   1 磅</translation>
+        <translation>   1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="obsolete"> 1.5 磅</translation>
+        <translation> 1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="obsolete">   3 磅</translation>
+        <translation>   3 磅</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="obsolete"> 4.5 磅</translation>
+        <translation> 4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="obsolete">   6 磅</translation>
+        <translation>   6 磅</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="obsolete">对齐</translation>
+        <translation>对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="obsolete">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="obsolete">排列</translation>
+        <translation>排列</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="obsolete">箭头样式</translation>
+        <translation>箭头样式</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="obsolete">箭头样式 1</translation>
+        <translation>箭头样式 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="obsolete">箭头样式 10</translation>
+        <translation>箭头样式 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="obsolete">箭头样式 11</translation>
+        <translation>箭头样式 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="obsolete">箭头样式 2</translation>
+        <translation>箭头样式 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="obsolete">箭头样式 3</translation>
+        <translation>箭头样式 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="obsolete">箭头样式 4</translation>
+        <translation>箭头样式 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="obsolete">箭头样式 5</translation>
+        <translation>箭头样式 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="obsolete">箭头样式 6</translation>
+        <translation>箭头样式 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="obsolete">箭头样式 7</translation>
+        <translation>箭头样式 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="obsolete">箭头样式 8</translation>
+        <translation>箭头样式 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="obsolete">箭头样式 9</translation>
+        <translation>箭头样式 9</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="obsolete">上移一层</translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="obsolete">置于顶层</translation>
+        <translation>置于顶层</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="obsolete">更改形状</translation>
+        <translation>更改形状</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -9774,43 +9978,43 @@ AddIns</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="obsolete">横向分布</translation>
+        <translation>横向分布</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="obsolete">纵向分布</translation>
+        <translation>纵向分布</translation>
     </message>
     <message>
         <source>Edit Points</source>
-        <translation type="obsolete">编辑顶点</translation>
+        <translation>编辑顶点</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="obsolete">等尺寸</translation>
+        <translation>等尺寸</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="obsolete">等宽</translation>
+        <translation>等宽</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="obsolete">水平翻转</translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="obsolete">垂直翻转</translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">设置对象格式</translation>
+        <translation>设置对象格式</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="obsolete">自由旋转</translation>
+        <translation>自由旋转</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -9818,31 +10022,31 @@ AddIns</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格线和参考线</translation>
+        <translation>网格线和参考线</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="obsolete">网格线</translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="obsolete">组合</translation>
+        <translation>组合</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation type="obsolete">插入形状</translation>
+        <translation>插入形状</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="obsolete">长划线-点</translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -9850,122 +10054,122 @@ AddIns</source>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="obsolete">其他箭头</translation>
+        <translation>其他箭头</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="obsolete">其他字体颜色</translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="obsolete">相对于幻灯片</translation>
+        <translation>相对于幻灯片</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="obsolete">旋转</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="obsolete">向左旋转 90°</translation>
+        <translation>向左旋转 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="obsolete">向右旋转 90°</translation>
+        <translation>向右旋转 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">选择窗格</translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="obsolete">下移一层</translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="obsolete">置于底层</translation>
+        <translation>置于底层</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">详细设置</translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="obsolete">形状填充</translation>
+        <translation>形状填充</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="obsolete">形状轮廓</translation>
+        <translation>形状轮廓</translation>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation type="obsolete">形状大小</translation>
+        <translation>形状大小</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation type="obsolete">形状样式</translation>
+        <translation>形状样式</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="obsolete">文本框</translation>
+        <translation>文本框</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="obsolete">文本颜色</translation>
+        <translation>文本颜色</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="obsolete">取消组合</translation>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">竖向文本框</translation>
+        <translation>竖向文本框</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_drawingtool.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
@@ -9976,11 +10180,11 @@ AddIns</source>
     </message>
     <message>
         <source>About WPS Presentation</source>
-        <translation type="obsolete">关于 WPS 演示</translation>
+        <translation>关于 WPS 演示</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="obsolete">备份管理</translation>
+        <translation>备份管理</translation>
     </message>
     <message>
         <source>Backup Management And Data Recovery</source>
@@ -9992,15 +10196,15 @@ AddIns</source>
     </message>
     <message>
         <source>Backup Management and Data Recovery</source>
-        <translation type="obsolete">备份管理与数据恢复</translation>
+        <translation>备份管理与数据恢复</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">切换版本</translation>
+        <translation>切换版本</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="obsolete">检查更新</translation>
+        <translation>检查更新</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -10012,7 +10216,7 @@ AddIns</source>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation type="obsolete">数据恢复</translation>
+        <translation>数据恢复</translation>
     </message>
     <message>
         <source>DataRecover</source>
@@ -10024,11 +10228,11 @@ AddIns</source>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="obsolete">Docer稻壳儿</translation>
+        <translation>Docer稻壳儿</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
-        <translation type="obsolete">文档保护及属性</translation>
+        <translation>文档保护及属性</translation>
     </message>
     <message>
         <source>Encrypt</source>
@@ -10036,15 +10240,19 @@ AddIns</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="obsolete">文件加密</translation>
+        <translation>文件加密</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="obsolete">输入激活码</translation>
+        <translation>输入激活码</translation>
+    </message>
+    <message>
+        <source>Export OFD Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="obsolete">输出为 PDF 格式</translation>
+        <translation>输出为 PDF 格式</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -10052,11 +10260,11 @@ AddIns</source>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation type="obsolete">问题反馈及产品信息</translation>
+        <translation>问题反馈及产品信息</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation type="obsolete">WPS 客服邮箱</translation>
+        <translation>WPS 客服邮箱</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
@@ -10064,15 +10272,15 @@ AddIns</source>
     </message>
     <message>
         <source>File Information</source>
-        <translation type="obsolete">文件信息</translation>
+        <translation>文件信息</translation>
     </message>
     <message>
         <source>File Package</source>
-        <translation type="obsolete">文件打包</translation>
+        <translation>文件打包</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="obsolete">帮助</translation>
+        <translation>帮助</translation>
     </message>
     <message>
         <source>Kingsoft Office Community</source>
@@ -10100,27 +10308,27 @@ AddIns</source>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
-        <translation type="obsolete">PowerPoint 文件（*.ppt）</translation>
+        <translation>PowerPoint 文件（*.ppt）</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation Template</source>
-        <translation type="obsolete">PowerPoint 模板文件（*.pot）</translation>
+        <translation>PowerPoint 模板文件（*.pot）</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
-        <translation type="obsolete">PowerPoint 放映文件（*.pps）</translation>
+        <translation>PowerPoint 放映文件（*.pps）</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="obsolete">新建</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="obsolete">新建</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="obsolete">新建空白文档</translation>
+        <translation>新建空白文档</translation>
     </message>
     <message>
         <source>New From Templates</source>
@@ -10128,11 +10336,11 @@ AddIns</source>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="obsolete">从这里新建文档</translation>
+        <translation>从这里新建文档</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="obsolete">从默认模板新建</translation>
+        <translation>从默认模板新建</translation>
     </message>
     <message>
         <source>New from Local Templates</source>
@@ -10152,15 +10360,15 @@ AddIns</source>
     </message>
     <message>
         <source>New from Other Templates...</source>
-        <translation type="obsolete">本机上的模板...</translation>
+        <translation>本机上的模板...</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="obsolete">打开</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation type="obsolete">其他格式</translation>
+        <translation>其他格式</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
@@ -10168,19 +10376,19 @@ AddIns</source>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation type="obsolete">将演示文档打包成压缩文件</translation>
+        <translation>将演示文档打包成压缩文件</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="obsolete">将演示文档打包成文件夹</translation>
+        <translation>将演示文档打包成文件夹</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="obsolete">打印</translation>
+        <translation>打印</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="obsolete">打印预览</translation>
+        <translation>打印预览</translation>
     </message>
     <message>
         <source>Product Center</source>
@@ -10188,43 +10396,43 @@ AddIns</source>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="obsolete">产品管理中心</translation>
+        <translation>产品管理中心</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="obsolete">属性</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="obsolete">购买序列号</translation>
+        <translation>购买序列号</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="obsolete">保存</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="obsolete">另存为</translation>
+        <translation>另存为</translation>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
-        <translation type="obsolete">保存文档副本</translation>
+        <translation>保存文档副本</translation>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation type="obsolete">微博求助</translation>
+        <translation>微博求助</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="obsolete">发送邮件</translation>
+        <translation>发送邮件</translation>
     </message>
     <message>
         <source>Study Online</source>
-        <translation type="obsolete">WPS 学习网站</translation>
+        <translation>WPS 学习网站</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
-        <translation type="obsolete">转为 WPS 文字文档</translation>
+        <translation>转为 WPS 文字文档</translation>
     </message>
     <message>
         <source>Translate to Document</source>
@@ -10240,7 +10448,7 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="obsolete">金山数据恢复大师</translation>
+        <translation>金山数据恢复大师</translation>
     </message>
     <message>
         <source>WPS Microblog</source>
@@ -10252,23 +10460,27 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Office Community</source>
-        <translation type="obsolete">WPS Office 社区</translation>
+        <translation>WPS Office 社区</translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Office Forum</source>
-        <translation type="obsolete">WPS 论坛</translation>
+        <translation>WPS 论坛</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation type="obsolete">WPS Office 主页</translation>
+        <translation>WPS Office 主页</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
-        <translation type="obsolete">WPS Office 新特性</translation>
+        <translation>WPS Office 新特性</translation>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation type="obsolete">WPS Office 产品中心</translation>
+        <translation>WPS Office 产品中心</translation>
     </message>
     <message>
         <source>WPS Online</source>
@@ -10276,15 +10488,19 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Presentation File</source>
-        <translation type="obsolete">WPS 演示 文件（*.dps）</translation>
+        <translation>WPS 演示 文件（*.dps）</translation>
     </message>
     <message>
         <source>WPS Presentation Help</source>
-        <translation type="obsolete">WPS 演示 帮助</translation>
+        <translation>WPS 演示 帮助</translation>
     </message>
     <message>
         <source>WPS Presentation Template</source>
-        <translation type="obsolete">WPS 演示 模板文件（*.dpt）</translation>
+        <translation>WPS 演示 模板文件（*.dpt）</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -10295,207 +10511,227 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Presentation Help</source>
-        <translation type="obsolete">WPS 演示 帮助</translation>
+        <translation>WPS 演示 帮助</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_home</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="obsolete"> 0.5 磅</translation>
+        <translation> 0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="obsolete">   1 磅</translation>
+        <translation>   1 磅</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation></translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="obsolete"> 1.5 磅</translation>
+        <translation> 1.5 磅</translation>
     </message>
     <message>
         <source>108</source>
-        <translation type="obsolete">108</translation>
+        <translation>108</translation>
     </message>
     <message>
         <source>110</source>
-        <translation type="obsolete">110</translation>
+        <translation>110</translation>
     </message>
     <message>
         <source>117</source>
-        <translation type="obsolete">117</translation>
+        <translation>117</translation>
     </message>
     <message>
         <source>118</source>
-        <translation type="obsolete">118</translation>
+        <translation>118</translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation></translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation></translation>
     </message>
     <message>
         <source>216</source>
-        <translation type="obsolete">216</translation>
+        <translation>216</translation>
     </message>
     <message>
         <source>252</source>
-        <translation type="obsolete">252</translation>
+        <translation>252</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="obsolete">   3 磅</translation>
+        <translation>   3 磅</translation>
     </message>
     <message>
         <source>3-D Effects</source>
-        <translation type="obsolete">三维效果</translation>
+        <translation>三维效果</translation>
     </message>
     <message>
         <source>3-D Style</source>
         <translation type="obsolete">三维效果</translation>
     </message>
     <message>
+        <source>3.0</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>4.5 pt</source>
-        <translation type="obsolete"> 4.5 磅</translation>
+        <translation> 4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="obsolete">   6 磅</translation>
+        <translation>   6 磅</translation>
     </message>
     <message>
         <source>8226</source>
-        <translation type="obsolete">8226</translation>
+        <translation>8226</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="obsolete">对齐</translation>
+        <translation>对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>Font Alignment</comment>
-        <translation type="obsolete">底端对齐</translation>
+        <translation>底端对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="obsolete">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Align Font</source>
-        <translation type="obsolete">字体对齐方式</translation>
+        <translation>字体对齐方式</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align Text</source>
-        <translation type="obsolete">对齐文本</translation>
+        <translation>对齐文本</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="obsolete">排列</translation>
+        <translation>排列</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="obsolete">箭头样式</translation>
+        <translation>箭头样式</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="obsolete">箭头样式 1</translation>
+        <translation>箭头样式 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="obsolete">箭头样式 10</translation>
+        <translation>箭头样式 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="obsolete">箭头样式 11</translation>
+        <translation>箭头样式 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="obsolete">箭头样式 2</translation>
+        <translation>箭头样式 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="obsolete">箭头样式 3</translation>
+        <translation>箭头样式 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="obsolete">箭头样式 4</translation>
+        <translation>箭头样式 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="obsolete">箭头样式 5</translation>
+        <translation>箭头样式 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="obsolete">箭头样式 6</translation>
+        <translation>箭头样式 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="obsolete">箭头样式 7</translation>
+        <translation>箭头样式 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="obsolete">箭头样式 8</translation>
+        <translation>箭头样式 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="obsolete">箭头样式 9</translation>
+        <translation>箭头样式 9</translation>
     </message>
     <message>
         <source>Background Music</source>
-        <translation type="obsolete">背景音乐</translation>
+        <translation>背景音乐</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="obsolete">加粗</translation>
+        <translation>加粗</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="obsolete">上移一层</translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="obsolete">置于顶层</translation>
+        <translation>置于顶层</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="obsolete">项目符号</translation>
+        <translation>项目符号</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete">手机遥控</translation>
+        <translation>手机遥控</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -10503,35 +10739,35 @@ AddIns</source>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation type="obsolete">改变文字方向</translation>
+        <translation>改变文字方向</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="obsolete">剪贴板</translation>
+        <translation>剪贴板</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="obsolete">复制</translation>
+        <translation>复制</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="obsolete">剪切</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -10543,15 +10779,15 @@ AddIns</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="obsolete">减小字号</translation>
+        <translation>减小字号</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="obsolete">减少缩进量</translation>
+        <translation>减少缩进量</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
-        <translation type="obsolete">减少段落间距</translation>
+        <translation>减少段落间距</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -10559,59 +10795,59 @@ AddIns</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="obsolete">横向分布</translation>
+        <translation>横向分布</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="obsolete">纵向分布</translation>
+        <translation>纵向分布</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="obsolete">分散对齐</translation>
+        <translation>分散对齐</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="obsolete">绘图</translation>
+        <translation>绘图</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="obsolete">幻灯片副本</translation>
+        <translation>幻灯片副本</translation>
     </message>
     <message>
         <source>Editing</source>
-        <translation type="obsolete">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="obsolete">等尺寸</translation>
+        <translation>等尺寸</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="obsolete">等宽</translation>
+        <translation>等宽</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="obsolete">查找</translation>
+        <translation>查找</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="obsolete">Flash</translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="obsolete">水平翻转</translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="obsolete">垂直翻转</translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="obsolete">字体</translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -10619,37 +10855,37 @@ AddIns</source>
     </message>
     <message>
         <source>Font Size</source>
-        <translation type="obsolete">字号</translation>
+        <translation>字号</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">设置对象格式</translation>
+        <translation>设置对象格式</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="obsolete">格式刷</translation>
+        <translation>格式刷</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation type="obsolete">带格式文本</translation>
+        <translation>带格式文本</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="obsolete">自由旋转</translation>
+        <translation>自由旋转</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="obsolete">从头开始</translation>
+        <translation>从头开始</translation>
     </message>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="obsolete">从当前幻灯片
+        <translation>从当前幻灯片
 开始</translation>
     </message>
     <message>
         <source>From Current Slide</source>
-        <translation type="obsolete">从当前幻灯片开始</translation>
+        <translation>从当前幻灯片开始</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -10661,79 +10897,79 @@ Slide</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格线和参考线</translation>
+        <translation>网格线和参考线</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="obsolete">网格线</translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="obsolete">组合</translation>
+        <translation>组合</translation>
     </message>
     <message>
         <source>Hanging</source>
-        <translation type="obsolete">顶端对齐</translation>
+        <translation>顶端对齐</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">横向文本框</translation>
+        <translation>横向文本框</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="obsolete">增大字号</translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="obsolete">增加缩进量</translation>
+        <translation>增加缩进量</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation type="obsolete">增大段落间距</translation>
+        <translation>增大段落间距</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="obsolete">插入图片</translation>
+        <translation>插入图片</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="obsolete">分页插入图片</translation>
+        <translation>分页插入图片</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="obsolete">倾斜</translation>
+        <translation>倾斜</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="obsolete">两端对齐</translation>
+        <translation>两端对齐</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation type="obsolete">换行</translation>
+        <translation>换行</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation type="obsolete">行距</translation>
+        <translation>行距</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="obsolete">长划线-点</translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -10741,63 +10977,63 @@ Slide</source>
     </message>
     <message>
         <source>Media</source>
-        <translation type="obsolete">媒体</translation>
+        <translation>媒体</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="obsolete">其他行距</translation>
+        <translation>其他行距</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="obsolete">其他箭头</translation>
+        <translation>其他箭头</translation>
     </message>
     <message>
         <source>More Bullets</source>
-        <translation type="obsolete">其他项目符号</translation>
+        <translation>其他项目符号</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="obsolete">其他字体颜色</translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="obsolete">影片</translation>
+        <translation>影片</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="obsolete">新建幻灯片</translation>
+        <translation>新建幻灯片</translation>
     </message>
     <message>
         <source>New Slide Online</source>
-        <translation type="obsolete">从幻灯片库新建</translation>
+        <translation>从幻灯片库新建</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="obsolete">无三维效果</translation>
+        <translation>无三维效果</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="obsolete">无阴影</translation>
+        <translation>无阴影</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Package File</source>
-        <translation type="obsolete">文件打包</translation>
+        <translation>文件打包</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
@@ -10805,103 +11041,103 @@ Slide</source>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation type="obsolete">将演示文档打包成压缩文件</translation>
+        <translation>将演示文档打包成压缩文件</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="obsolete">打包成文件夹</translation>
+        <translation>打包成文件夹</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="obsolete">段落</translation>
+        <translation>段落</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="obsolete">粘贴</translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="obsolete">选择性粘贴</translation>
+        <translation>选择性粘贴</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="obsolete">相对于幻灯片</translation>
+        <translation>相对于幻灯片</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="obsolete">替换</translation>
+        <translation>替换</translation>
     </message>
     <message>
         <source>Replace Font</source>
-        <translation type="obsolete">替换字体</translation>
+        <translation>替换字体</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Roman</source>
-        <translation type="obsolete">罗马方式对齐</translation>
+        <translation>罗马方式对齐</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="obsolete">旋转</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="obsolete">向左旋转 90°</translation>
+        <translation>向左旋转 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="obsolete">向右旋转 90°</translation>
+        <translation>向右旋转 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="obsolete">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="obsolete">全选</translation>
+        <translation>全选</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">选择窗格</translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="obsolete">下移一层</translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="obsolete">置于底层</translation>
+        <translation>置于底层</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">详细设置</translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="obsolete">阴影</translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -10909,43 +11145,43 @@ Slide</source>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation type="obsolete">形状效果</translation>
+        <translation>形状效果</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="obsolete">形状填充</translation>
+        <translation>形状填充</translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation type="obsolete">形状轮廓</translation>
+        <translation>形状轮廓</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="obsolete">形状</translation>
+        <translation>形状</translation>
     </message>
     <message>
         <source>Slide</source>
-        <translation type="obsolete">幻灯片</translation>
+        <translation>幻灯片</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="obsolete">声音</translation>
+        <translation>声音</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="obsolete">下标</translation>
+        <translation>下标</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="obsolete">上标</translation>
+        <translation>上标</translation>
     </message>
     <message>
         <source>Text</source>
@@ -10953,27 +11189,27 @@ Slide</source>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="obsolete">文本框</translation>
+        <translation>文本框</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="obsolete">字体颜色</translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="obsolete">下划线</translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation type="obsolete">无格式文本</translation>
+        <translation>无格式文本</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="obsolete">取消组合</translation>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Unholding Fixed</source>
@@ -10981,11 +11217,11 @@ Slide</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">竖向文本框</translation>
+        <translation>竖向文本框</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
     <message>
         <source>With Text Format</source>
@@ -11028,42 +11264,42 @@ Slide</source>
     <name>rainbow.ct_home.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_home.Num</name>
     <message>
         <source>0</source>
-        <translation type="obsolete">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="obsolete">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="obsolete">18</translation>
+        <translation>18</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="obsolete">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="obsolete">38</translation>
+        <translation>38</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="obsolete">7</translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="obsolete">9</translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>More Numbering</source>
-        <translation type="obsolete">其他编号</translation>
+        <translation>其他编号</translation>
     </message>
     <message>
         <source>Number</source>
@@ -11071,7 +11307,7 @@ Slide</source>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="obsolete">编号</translation>
+        <translation>编号</translation>
     </message>
     <message>
         <source>numbering_0</source>
@@ -11110,7 +11346,7 @@ Slide</source>
     <name>rainbow.ct_insert</name>
     <message>
         <source>Action</source>
-        <translation type="obsolete">动作</translation>
+        <translation>动作</translation>
     </message>
     <message>
         <source>Action Settings</source>
@@ -11118,19 +11354,19 @@ Slide</source>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation type="obsolete">剪贴画</translation>
+        <translation>剪贴画</translation>
     </message>
     <message>
         <source>Background Music</source>
-        <translation type="obsolete">背景音乐</translation>
+        <translation>背景音乐</translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation type="obsolete">图表</translation>
+        <translation>图表</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation type="obsolete">日期和时间</translation>
+        <translation>日期和时间</translation>
     </message>
     <message>
         <source>Date/Time</source>
@@ -11138,15 +11374,15 @@ Slide</source>
     </message>
     <message>
         <source>Equation</source>
-        <translation type="obsolete">公式</translation>
+        <translation>公式</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation type="obsolete">插入附件</translation>
+        <translation>插入附件</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="obsolete">Flash</translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -11154,7 +11390,7 @@ Slide</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="obsolete">页眉和页脚</translation>
+        <translation>页眉和页脚</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -11162,27 +11398,27 @@ Slide</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">横向文本框</translation>
+        <translation>横向文本框</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="obsolete">超链接</translation>
+        <translation>超链接</translation>
     </message>
     <message>
         <source>Illustrations</source>
-        <translation type="obsolete">插图</translation>
+        <translation>插图</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="obsolete">图像</translation>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="obsolete">插入剪贴画</translation>
+        <translation>插入剪贴画</translation>
     </message>
     <message>
         <source>Insert Chart</source>
-        <translation type="obsolete">插入图表</translation>
+        <translation>插入图表</translation>
     </message>
     <message>
         <source>Insert Data Chart</source>
@@ -11190,63 +11426,63 @@ Slide</source>
     </message>
     <message>
         <source>Insert Hyperlink</source>
-        <translation type="obsolete">插入超链接 (Ctrl+K)</translation>
+        <translation>插入超链接 (Ctrl+K)</translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
-        <translation type="obsolete">插入组织结构图</translation>
+        <translation>插入组织结构图</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="obsolete">插入图片</translation>
+        <translation>插入图片</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="obsolete">分页插入图片</translation>
+        <translation>分页插入图片</translation>
     </message>
     <message>
         <source>Insert Table</source>
-        <translation type="obsolete">插入表格</translation>
+        <translation>插入表格</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="obsolete">插入艺术字</translation>
+        <translation>插入艺术字</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Links</source>
-        <translation type="obsolete">链接</translation>
+        <translation>链接</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="obsolete">媒体</translation>
+        <translation>媒体</translation>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation type="obsolete">其他符号</translation>
+        <translation>其他符号</translation>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="obsolete">影片</translation>
+        <translation>影片</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation type="obsolete">对象</translation>
+        <translation>对象</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="obsolete">组织结构图</translation>
+        <translation>组织结构图</translation>
     </message>
     <message>
         <source>Package File</source>
-        <translation type="obsolete">文件打包</translation>
+        <translation>文件打包</translation>
     </message>
     <message>
         <source>Package into Compress File</source>
@@ -11254,70 +11490,70 @@ Slide</source>
     </message>
     <message>
         <source>Package into Compressed File</source>
-        <translation type="obsolete">将演示文档打包成压缩文件</translation>
+        <translation>将演示文档打包成压缩文件</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation type="obsolete">打包成文件夹</translation>
+        <translation>打包成文件夹</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="obsolete">形状</translation>
+        <translation>形状</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation type="obsolete">幻灯片编号</translation>
+        <translation>幻灯片编号</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation type="obsolete">幻灯片库</translation>
+        <translation>幻灯片库</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="obsolete">声音</translation>
+        <translation>声音</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="obsolete">符号</translation>
+        <translation>符号</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="obsolete">符号</translation>
+        <translation>符号</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="obsolete">表格</translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="obsolete">表格</translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="obsolete">文本</translation>
+        <translation>文本</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="obsolete">文本框</translation>
+        <translation>文本框</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">竖向文本框</translation>
+        <translation>竖向文本框</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="obsolete">艺术字</translation>
+        <translation>艺术字</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_orgchart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
@@ -11325,7 +11561,7 @@ Slide</source>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="obsolete">0.5 磅</translation>
+        <translation>0.5 磅</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
@@ -11333,7 +11569,7 @@ Slide</source>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
@@ -11341,7 +11577,7 @@ Slide</source>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="obsolete">1 磅</translation>
+        <translation>1 磅</translation>
     </message>
     <message>
         <source>1 pt.</source>
@@ -11349,7 +11585,7 @@ Slide</source>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="obsolete">1.5 磅</translation>
+        <translation>1.5 磅</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
@@ -11357,7 +11593,7 @@ Slide</source>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
@@ -11365,7 +11601,7 @@ Slide</source>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="obsolete">3 磅</translation>
+        <translation>3 磅</translation>
     </message>
     <message>
         <source>3 pt.</source>
@@ -11373,7 +11609,7 @@ Slide</source>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="obsolete">4.5 磅</translation>
+        <translation>4.5 磅</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
@@ -11381,7 +11617,7 @@ Slide</source>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="obsolete">6 磅</translation>
+        <translation>6 磅</translation>
     </message>
     <message>
         <source>6 pt.</source>
@@ -11389,75 +11625,75 @@ Slide</source>
     </message>
     <message>
         <source>Adjust Structure</source>
-        <translation type="obsolete">结构调整</translation>
+        <translation>结构调整</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation type="obsolete">箭头样式</translation>
+        <translation>箭头样式</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation type="obsolete">箭头样式 1</translation>
+        <translation>箭头样式 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation type="obsolete">箭头样式 10</translation>
+        <translation>箭头样式 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation type="obsolete">箭头样式 11</translation>
+        <translation>箭头样式 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation type="obsolete">箭头样式 2</translation>
+        <translation>箭头样式 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation type="obsolete">箭头样式 3</translation>
+        <translation>箭头样式 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation type="obsolete">箭头样式 4</translation>
+        <translation>箭头样式 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation type="obsolete">箭头样式 5</translation>
+        <translation>箭头样式 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation type="obsolete">箭头样式 6</translation>
+        <translation>箭头样式 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation type="obsolete">箭头样式 7</translation>
+        <translation>箭头样式 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation type="obsolete">箭头样式 8</translation>
+        <translation>箭头样式 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation type="obsolete">箭头样式 9</translation>
+        <translation>箭头样式 9</translation>
     </message>
     <message>
         <source>Choice</source>
-        <translation type="obsolete">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -11477,31 +11713,31 @@ Slide</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="obsolete">布局</translation>
+        <translation>布局</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="obsolete">线条样式</translation>
+        <translation>线条样式</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="obsolete">长划线-点</translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -11509,23 +11745,23 @@ Slide</source>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation type="obsolete">其他箭头</translation>
+        <translation>其他箭头</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation type="obsolete">其他字体颜色</translation>
+        <translation>其他字体颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>OrgChart Layout</source>
@@ -11533,19 +11769,19 @@ Slide</source>
     </message>
     <message>
         <source>Organization Chart Layout</source>
-        <translation type="obsolete">布局</translation>
+        <translation>布局</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="obsolete">形状填充</translation>
+        <translation>形状填充</translation>
     </message>
     <message>
         <source>Shape Line</source>
@@ -11553,23 +11789,23 @@ Slide</source>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation type="obsolete">智能选择</translation>
+        <translation>智能选择</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="obsolete">文本</translation>
+        <translation>文本</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="obsolete">文本颜色</translation>
+        <translation>文本颜色</translation>
     </message>
     <message>
         <source>Text Font Color</source>
@@ -11577,18 +11813,18 @@ Slide</source>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="obsolete">主题</translation>
+        <translation>主题</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_orgchart.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
@@ -11596,27 +11832,27 @@ Slide</source>
     <message>
         <source>Add
 Subordinate</source>
-        <translation type="obsolete">增加下属</translation>
+        <translation>增加下属</translation>
     </message>
     <message>
         <source>Add Assistant</source>
-        <translation type="obsolete">增加助手</translation>
+        <translation>增加助手</translation>
     </message>
     <message>
         <source>Add Coworker</source>
-        <translation type="obsolete">增加同事</translation>
+        <translation>增加同事</translation>
     </message>
     <message>
         <source>Add Subordinate</source>
-        <translation type="obsolete">增加下属</translation>
+        <translation>增加下属</translation>
     </message>
     <message>
         <source>All Assistants</source>
-        <translation type="obsolete">所有助手</translation>
+        <translation>所有助手</translation>
     </message>
     <message>
         <source>All Connecting Lines</source>
-        <translation type="obsolete">所有连接线</translation>
+        <translation>所有连接线</translation>
     </message>
     <message>
         <source>All OrgChart</source>
@@ -11624,19 +11860,19 @@ Subordinate</source>
     </message>
     <message>
         <source>All Organization Chart</source>
-        <translation type="obsolete">整图</translation>
+        <translation>整图</translation>
     </message>
     <message>
         <source>Both Hanging</source>
-        <translation type="obsolete">两边悬挂</translation>
+        <translation>两边悬挂</translation>
     </message>
     <message>
         <source>Branch</source>
-        <translation type="obsolete">分支</translation>
+        <translation>分支</translation>
     </message>
     <message>
         <source>Delete Member</source>
-        <translation type="obsolete">删除成员</translation>
+        <translation>删除成员</translation>
     </message>
     <message>
         <source>Delete One Node</source>
@@ -11644,158 +11880,162 @@ Subordinate</source>
     </message>
     <message>
         <source>Fit Text</source>
-        <translation type="obsolete">适应文字</translation>
+        <translation>适应文字</translation>
+    </message>
+    <message>
+        <source>FitText Tip</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left Hanging</source>
-        <translation type="obsolete">左悬挂</translation>
+        <translation>左悬挂</translation>
     </message>
     <message>
         <source>Level</source>
-        <translation type="obsolete">级别</translation>
+        <translation>级别</translation>
     </message>
     <message>
         <source>Reset Layout</source>
-        <translation type="obsolete">重置布局</translation>
+        <translation>重置布局</translation>
     </message>
     <message>
         <source>Reset Shape</source>
-        <translation type="obsolete">重置图形</translation>
+        <translation>重置图形</translation>
     </message>
     <message>
         <source>Right Hanging</source>
-        <translation type="obsolete">右悬挂</translation>
+        <translation>右悬挂</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">标准</translation>
+        <translation>标准</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="obsolete"> 0.5 磅</translation>
+        <translation> 0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="obsolete">   1 磅</translation>
+        <translation>   1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="obsolete"> 1.5 磅</translation>
+        <translation> 1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="obsolete">   3 磅</translation>
+        <translation>   3 磅</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="obsolete"> 4.5 磅</translation>
+        <translation> 4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="obsolete">   6 磅</translation>
+        <translation>   6 磅</translation>
     </message>
     <message>
         <source>Adjust Picture</source>
-        <translation type="obsolete">图片调整</translation>
+        <translation>图片调整</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="obsolete">对齐</translation>
+        <translation>对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="obsolete">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="obsolete">排列</translation>
+        <translation>排列</translation>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation type="obsolete">剪贴画</translation>
+        <translation>剪贴画</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="obsolete">自动</translation>
+        <translation>自动</translation>
     </message>
     <message>
         <source>Black and White</source>
-        <translation type="obsolete">黑白</translation>
+        <translation>黑白</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="obsolete">上移一层</translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="obsolete">置于顶层</translation>
+        <translation>置于顶层</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="obsolete">更改图片</translation>
+        <translation>更改图片</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="obsolete">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="obsolete">压缩图片</translation>
+        <translation>压缩图片</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation type="obsolete">裁剪</translation>
+        <translation>裁剪</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -11811,43 +12051,43 @@ Subordinate</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="obsolete">横向分布</translation>
+        <translation>横向分布</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="obsolete">纵向分布</translation>
+        <translation>纵向分布</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="obsolete">等尺寸</translation>
+        <translation>等尺寸</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="obsolete">等宽</translation>
+        <translation>等宽</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="obsolete">图片填充</translation>
+        <translation>图片填充</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="obsolete">水平翻转</translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="obsolete">垂直翻转</translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">设置对象格式</translation>
+        <translation>设置对象格式</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="obsolete">自由旋转</translation>
+        <translation>自由旋转</translation>
     </message>
     <message>
         <source>Gallery</source>
@@ -11859,39 +12099,39 @@ Subordinate</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="obsolete">灰度</translation>
+        <translation>灰度</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格线和参考线</translation>
+        <translation>网格线和参考线</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="obsolete">网格线</translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="obsolete">组合</translation>
+        <translation>组合</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="obsolete">插入</translation>
+        <translation>插入</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation type="obsolete">插入剪贴画</translation>
+        <translation>插入剪贴画</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="obsolete">插入图片</translation>
+        <translation>插入图片</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -11899,19 +12139,19 @@ Subordinate</source>
     </message>
     <message>
         <source>Less Brightness</source>
-        <translation type="obsolete">降低亮度</translation>
+        <translation>降低亮度</translation>
     </message>
     <message>
         <source>Less Contrast</source>
-        <translation type="obsolete">降低对比度</translation>
+        <translation>降低对比度</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="obsolete">长划线-点</translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -11919,47 +12159,47 @@ Subordinate</source>
     </message>
     <message>
         <source>More Brightness</source>
-        <translation type="obsolete">增加亮度</translation>
+        <translation>增加亮度</translation>
     </message>
     <message>
         <source>More Contrast</source>
-        <translation type="obsolete">增加对比度</translation>
+        <translation>增加对比度</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="obsolete">其他阴影颜色</translation>
+        <translation>其他阴影颜色</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="obsolete">无阴影</translation>
+        <translation>无阴影</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="obsolete">略向下移</translation>
+        <translation>略向下移</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="obsolete">略向左移</translation>
+        <translation>略向左移</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="obsolete">略向右移</translation>
+        <translation>略向右移</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="obsolete">略向上移</translation>
+        <translation>略向上移</translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -11967,23 +12207,23 @@ Subordinate</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation>在线图片</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="obsolete">图片轮廓</translation>
+        <translation>图片轮廓</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
@@ -11999,71 +12239,71 @@ Subordinate</source>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation type="obsolete">图片大小</translation>
+        <translation>图片大小</translation>
     </message>
     <message>
         <source>Picture Styles</source>
-        <translation type="obsolete">图片样式</translation>
+        <translation>图片样式</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="obsolete">相对于幻灯片</translation>
+        <translation>相对于幻灯片</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="obsolete">重设图片</translation>
+        <translation>重设图片</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="obsolete">旋转</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="obsolete">向左旋转 90°</translation>
+        <translation>向左旋转 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="obsolete">向右旋转 90°</translation>
+        <translation>向右旋转 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">选择窗格</translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="obsolete">半透明阴影</translation>
+        <translation>半透明阴影</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="obsolete">下移一层</translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="obsolete">置于底层</translation>
+        <translation>置于底层</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation type="obsolete">设置透明色</translation>
+        <translation>设置透明色</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">详细设置</translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="obsolete">阴影颜色</translation>
+        <translation>阴影颜色</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="obsolete">设置/取消阴影</translation>
+        <translation>设置/取消阴影</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
@@ -12091,104 +12331,104 @@ Subordinate</source>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="obsolete">取消组合</translation>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Washout</source>
-        <translation type="obsolete">冲蚀</translation>
+        <translation>冲蚀</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.Picture</name>
     <message>
         <source>Adjust</source>
-        <translation type="obsolete">更正</translation>
+        <translation>更正</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_printpreview</name>
     <message>
         <source>Close</source>
-        <translation type="obsolete">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="obsolete">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>Frame Slides</source>
-        <translation type="obsolete">幻灯片加框</translation>
+        <translation>幻灯片加框</translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
-        <translation type="obsolete">讲义（每页1张幻灯片）</translation>
+        <translation>讲义（每页1张幻灯片）</translation>
     </message>
     <message>
         <source>Handouts (2 slides per page)</source>
-        <translation type="obsolete">讲义（每页2张幻灯片）</translation>
+        <translation>讲义（每页2张幻灯片）</translation>
     </message>
     <message>
         <source>Handouts (3 slides per page)</source>
-        <translation type="obsolete">讲义（每页3张幻灯片）</translation>
+        <translation>讲义（每页3张幻灯片）</translation>
     </message>
     <message>
         <source>Handouts (4 slides per page)</source>
-        <translation type="obsolete">讲义（每页4张幻灯片）</translation>
+        <translation>讲义（每页4张幻灯片）</translation>
     </message>
     <message>
         <source>Handouts (6 slides per page)</source>
-        <translation type="obsolete">讲义（每页6张幻灯片）</translation>
+        <translation>讲义（每页6张幻灯片）</translation>
     </message>
     <message>
         <source>Handouts (9 slides per page)</source>
-        <translation type="obsolete">讲义（每页9张幻灯片）</translation>
+        <translation>讲义（每页9张幻灯片）</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="obsolete">页眉和页脚</translation>
+        <translation>页眉和页脚</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="obsolete">横向</translation>
+        <translation>横向</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="obsolete">下一页</translation>
+        <translation>下一页</translation>
     </message>
     <message>
         <source>Notes pages (1 slide per page)</source>
-        <translation type="obsolete">备注页（每页1张备注页）</translation>
+        <translation>备注页（每页1张备注页）</translation>
     </message>
     <message>
         <source>Notes pages (3 slides per page)</source>
-        <translation type="obsolete">备注页（每页3张备注页）</translation>
+        <translation>备注页（每页3张备注页）</translation>
     </message>
     <message>
         <source>Outline View</source>
-        <translation type="obsolete">大纲视图</translation>
+        <translation>大纲视图</translation>
     </message>
     <message>
         <source>Outline view</source>
@@ -12196,23 +12436,23 @@ Subordinate</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="obsolete">纵向</translation>
+        <translation>纵向</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="obsolete">上一页</translation>
+        <translation>上一页</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="obsolete">打印</translation>
+        <translation>打印</translation>
     </message>
     <message>
         <source>Print Directly</source>
-        <translation type="obsolete">直接打印</translation>
+        <translation>直接打印</translation>
     </message>
     <message>
         <source>Print Hidden Slides</source>
-        <translation type="obsolete">打印隐藏幻灯片</translation>
+        <translation>打印隐藏幻灯片</translation>
     </message>
     <message>
         <source>Print Skipped Slides</source>
@@ -12220,11 +12460,11 @@ Subordinate</source>
     </message>
     <message>
         <source>Printing Order</source>
-        <translation type="obsolete">打印顺序</translation>
+        <translation>打印顺序</translation>
     </message>
     <message>
         <source>Pure Black and White</source>
-        <translation type="obsolete">纯黑白</translation>
+        <translation>纯黑白</translation>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -12232,29 +12472,29 @@ Subordinate</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="obsolete">显示</translation>
+        <translation>显示</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation type="obsolete">幻灯片</translation>
+        <translation>幻灯片</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_printpreview.PrevPrintHorizontal</name>
     <message>
         <source>Horizontal</source>
-        <translation type="obsolete">水平</translation>
+        <translation>水平</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_printpreview.PrevPrintVertical</name>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">垂直</translation>
+        <translation>垂直</translation>
     </message>
 </context>
 <context>
@@ -12265,19 +12505,19 @@ Subordinate</source>
     </message>
     <message>
         <source>Chinese Conversion</source>
-        <translation type="obsolete">中文简繁转换</translation>
+        <translation>中文简繁转换</translation>
     </message>
     <message>
         <source>Conversion</source>
-        <translation type="obsolete">简繁转换</translation>
+        <translation>简繁转换</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation type="obsolete">繁转简</translation>
+        <translation>繁转简</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation type="obsolete">简转繁</translation>
+        <translation>简转繁</translation>
     </message>
     <message>
         <source>Copy Comment</source>
@@ -12297,15 +12537,15 @@ Subordinate</source>
     </message>
     <message>
         <source>Delete All Markup in this Presentation</source>
-        <translation type="obsolete">删除演示文稿中所有标记</translation>
+        <translation>删除演示文稿中所有标记</translation>
     </message>
     <message>
         <source>Delete All Markup on the Current Slide</source>
-        <translation type="obsolete">删除当前幻灯片中所有标记</translation>
+        <translation>删除当前幻灯片中所有标记</translation>
     </message>
     <message>
         <source>Delete Comment</source>
-        <translation type="obsolete">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Delete Current Comment</source>
@@ -12313,43 +12553,43 @@ Subordinate</source>
     </message>
     <message>
         <source>Edit Comment</source>
-        <translation type="obsolete">编辑批注</translation>
+        <translation>编辑批注</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation type="obsolete">删除所有墨迹对象</translation>
+        <translation>删除所有墨迹对象</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
-        <translation type="obsolete">删除本页的墨迹对象</translation>
+        <translation>删除本页的墨迹对象</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="obsolete">标记</translation>
+        <translation>标记</translation>
     </message>
     <message>
         <source>New Comment</source>
-        <translation type="obsolete">插入批注</translation>
+        <translation>插入批注</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="obsolete">下一条</translation>
+        <translation>下一条</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="obsolete">上一条</translation>
+        <translation>上一条</translation>
     </message>
     <message>
         <source>Proofing</source>
-        <translation type="obsolete">校对</translation>
+        <translation>校对</translation>
     </message>
     <message>
         <source>Show/Hide Markup</source>
-        <translation type="obsolete">显示/隐藏标记</translation>
+        <translation>显示/隐藏标记</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="obsolete">拼写检查</translation>
+        <translation>拼写检查</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -12360,31 +12600,31 @@ Subordinate</source>
     <name>rainbow.ct_shadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation type="obsolete">0 磅</translation>
+        <translation>0 磅</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="obsolete">144 磅</translation>
+        <translation>144 磅</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="obsolete">288 磅</translation>
+        <translation>288 磅</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="obsolete">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>3-D Effects</source>
-        <translation type="obsolete">三维效果</translation>
+        <translation>三维效果</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation type="obsolete">设置/取消三维效果</translation>
+        <translation>设置/取消三维效果</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="obsolete">三维效果</translation>
+        <translation>三维效果</translation>
     </message>
     <message>
         <source>3-D Style</source>
@@ -12392,115 +12632,115 @@ Subordinate</source>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="obsolete">36 磅</translation>
+        <translation>36 磅</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="obsolete">72磅</translation>
+        <translation>72磅</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="obsolete">明亮</translation>
+        <translation>明亮</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">自定义</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="obsolete">深度</translation>
+        <translation>深度</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation type="obsolete">阴暗</translation>
+        <translation>阴暗</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="obsolete">方向</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation type="obsolete">无穷</translation>
+        <translation>无穷</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="obsolete">照明</translation>
+        <translation>照明</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation type="obsolete">亚光效果</translation>
+        <translation>亚光效果</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation type="obsolete">金属效果</translation>
+        <translation>金属效果</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation type="obsolete">其他三维颜色</translation>
+        <translation>其他三维颜色</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="obsolete">其他阴影颜色</translation>
+        <translation>其他阴影颜色</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="obsolete">无三维效果</translation>
+        <translation>无三维效果</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="obsolete">无阴影</translation>
+        <translation>无阴影</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="obsolete">略向下移</translation>
+        <translation>略向下移</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="obsolete">略向左移</translation>
+        <translation>略向左移</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="obsolete">略向右移</translation>
+        <translation>略向右移</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="obsolete">略向上移</translation>
+        <translation>略向上移</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation type="obsolete">平行</translation>
+        <translation>平行</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="obsolete">透视</translation>
+        <translation>透视</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation type="obsolete">塑料效果</translation>
+        <translation>塑料效果</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="obsolete">半透明阴影</translation>
+        <translation>半透明阴影</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="obsolete">阴影颜色</translation>
+        <translation>阴影颜色</translation>
     </message>
     <message>
         <source>Shadow Effects</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="obsolete">设置/取消阴影</translation>
+        <translation>设置/取消阴影</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -12524,87 +12764,87 @@ Subordinate</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Surface</source>
-        <translation type="obsolete">表面</translation>
+        <translation>表面</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation type="obsolete">下俯</translation>
+        <translation>下俯</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation type="obsolete">左偏</translation>
+        <translation>左偏</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation type="obsolete">右偏</translation>
+        <translation>右偏</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation type="obsolete">上翘</translation>
+        <translation>上翘</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="obsolete">透明框架</translation>
+        <translation>透明框架</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_slidemaster</name>
     <message>
         <source>Close</source>
-        <translation type="obsolete">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="obsolete">删除母版</translation>
+        <translation>删除母版</translation>
     </message>
     <message>
         <source>Edit Master</source>
-        <translation type="obsolete">编辑母版</translation>
+        <translation>编辑母版</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="obsolete">母版版式</translation>
+        <translation>母版版式</translation>
     </message>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="obsolete">新幻灯片
+        <translation>新幻灯片
 母版</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="obsolete">新幻灯片母版</translation>
+        <translation>新幻灯片母版</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation type="obsolete">新标题母版</translation>
+        <translation>新标题母版</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="obsolete">保护母版</translation>
+        <translation>保护母版</translation>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation type="obsolete">重命名母版</translation>
+        <translation>重命名母版</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_slideshow</name>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete">手机遥控</translation>
+        <translation>手机遥控</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation type="obsolete">自定义放映</translation>
+        <translation>自定义放映</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation type="obsolete">从头开始</translation>
+        <translation>从头开始</translation>
     </message>
     <message>
         <source>From Current
@@ -12618,19 +12858,19 @@ Slide</source>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation type="obsolete">隐藏幻灯片</translation>
+        <translation>隐藏幻灯片</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
-        <translation type="obsolete">排练计时</translation>
+        <translation>排练计时</translation>
     </message>
     <message>
         <source>Set Up</source>
-        <translation type="obsolete">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Set Up Show</source>
-        <translation type="obsolete">设置放映方式</translation>
+        <translation>设置放映方式</translation>
     </message>
     <message>
         <source>Set Up Slide Show</source>
@@ -12639,65 +12879,65 @@ Slide</source>
     <message>
         <source>Slide
 Transition</source>
-        <translation type="obsolete">幻灯片
+        <translation>幻灯片
 切换</translation>
     </message>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation type="obsolete">设置
+        <translation>设置
 幻灯片放映</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="obsolete">幻灯片切换</translation>
+        <translation>幻灯片切换</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
-        <translation type="obsolete">演讲者备注</translation>
+        <translation>演讲者备注</translation>
     </message>
     <message>
         <source>Start Slide Show</source>
-        <translation type="obsolete">开始放映幻灯片</translation>
+        <translation>开始放映幻灯片</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_tabletool</name>
     <message>
         <source>Adjust</source>
-        <translation type="obsolete">调整</translation>
+        <translation>调整</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="obsolete">对齐方式</translation>
+        <translation>对齐方式</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="obsolete">排列</translation>
+        <translation>排列</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation type="obsolete">上移一层</translation>
+        <translation>上移一层</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation type="obsolete">置于顶层</translation>
+        <translation>置于顶层</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -12705,75 +12945,75 @@ Settings</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">自定义</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="obsolete">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="obsolete">删除列</translation>
+        <translation>删除列</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation type="obsolete">删除行</translation>
+        <translation>删除行</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation type="obsolete">平均分布各列</translation>
+        <translation>平均分布各列</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation type="obsolete">平均分布各行</translation>
+        <translation>平均分布各行</translation>
     </message>
     <message>
         <source>Insert Above</source>
-        <translation type="obsolete">在上方插入行</translation>
+        <translation>在上方插入行</translation>
     </message>
     <message>
         <source>Insert Below</source>
-        <translation type="obsolete">在下方插入行</translation>
+        <translation>在下方插入行</translation>
     </message>
     <message>
         <source>Insert Left</source>
-        <translation type="obsolete">在左侧插入列</translation>
+        <translation>在左侧插入列</translation>
     </message>
     <message>
         <source>Insert Right</source>
-        <translation type="obsolete">在右侧插入列</translation>
+        <translation>在右侧插入列</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="obsolete">单元格边距</translation>
+        <translation>单元格边距</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="obsolete">合并</translation>
+        <translation>合并</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="obsolete">合并单元格</translation>
+        <translation>合并单元格</translation>
     </message>
     <message>
         <source>Narrow</source>
-        <translation type="obsolete">窄边距</translation>
+        <translation>窄边距</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="obsolete">无边距</translation>
+        <translation>无边距</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">正常</translation>
+        <translation>正常</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -12781,7 +13021,7 @@ Settings</source>
     </message>
     <message>
         <source>Rows and Columns</source>
-        <translation type="obsolete">行和列</translation>
+        <translation>行和列</translation>
     </message>
     <message>
         <source>Rows/Columns</source>
@@ -12789,31 +13029,31 @@ Settings</source>
     </message>
     <message>
         <source>Select</source>
-        <translation type="obsolete">选择</translation>
+        <translation>选择</translation>
     </message>
     <message>
         <source>Select Column</source>
-        <translation type="obsolete">选择列</translation>
+        <translation>选择列</translation>
     </message>
     <message>
         <source>Select Row</source>
-        <translation type="obsolete">选择行</translation>
+        <translation>选择行</translation>
     </message>
     <message>
         <source>Select Table</source>
-        <translation type="obsolete">选择表格</translation>
+        <translation>选择表格</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation type="obsolete">下移一层</translation>
+        <translation>下移一层</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation type="obsolete">置于底层</translation>
+        <translation>置于底层</translation>
     </message>
     <message>
         <source>Split Cells</source>
-        <translation type="obsolete">拆分单元格</translation>
+        <translation>拆分单元格</translation>
     </message>
     <message>
         <source>Split Horizontal</source>
@@ -12825,11 +13065,11 @@ Settings</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="obsolete">表格</translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="obsolete">文字方向</translation>
+        <translation>文字方向</translation>
     </message>
     <message>
         <source>Text Margin</source>
@@ -12837,18 +13077,18 @@ Settings</source>
     </message>
     <message>
         <source>Wide</source>
-        <translation type="obsolete">宽边距</translation>
+        <translation>宽边距</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_view</name>
     <message>
         <source>Arrange All</source>
-        <translation type="obsolete">重排窗口</translation>
+        <translation>重排窗口</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation type="obsolete">层叠</translation>
+        <translation>层叠</translation>
     </message>
     <message>
         <source>Close
@@ -12859,20 +13099,20 @@ Other Window</source>
     <message>
         <source>Close
 Other Windows</source>
-        <translation type="obsolete">关闭
+        <translation>关闭
 其他窗口</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation type="obsolete">关闭其他窗口</translation>
+        <translation>关闭其他窗口</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="obsolete">关闭窗口</translation>
+        <translation>关闭窗口</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="obsolete">开发工具</translation>
+        <translation>开发工具</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -12880,17 +13120,17 @@ Other Windows</source>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="obsolete">适应窗口大小</translation>
+        <translation>适应窗口大小</translation>
     </message>
     <message>
         <source>Fit
 </source>
-        <translation type="obsolete">适应
+        <translation>适应
 窗口大小</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格线和参考线</translation>
+        <translation>网格线和参考线</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -12902,47 +13142,47 @@ Other Windows</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="obsolete">宏</translation>
+        <translation>宏</translation>
     </message>
     <message>
         <source>Master View</source>
-        <translation type="obsolete">母版视图</translation>
+        <translation>母版视图</translation>
     </message>
     <message>
         <source>New Window</source>
-        <translation type="obsolete">新建窗口</translation>
+        <translation>新建窗口</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Presentation View</source>
-        <translation type="obsolete">演示文稿视图</translation>
+        <translation>演示文稿视图</translation>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="obsolete">标尺</translation>
+        <translation>标尺</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="obsolete">宏安全性</translation>
+        <translation>宏安全性</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="obsolete">显示</translation>
+        <translation>显示</translation>
     </message>
     <message>
         <source>Show More Windows</source>
-        <translation type="obsolete">其他窗口</translation>
+        <translation>其他窗口</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="obsolete">幻灯片母版</translation>
+        <translation>幻灯片母版</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="obsolete">幻灯片浏览</translation>
+        <translation>幻灯片浏览</translation>
     </message>
     <message>
         <source>Switch Window</source>
@@ -12950,19 +13190,19 @@ Other Windows</source>
     </message>
     <message>
         <source>Switch Windows</source>
-        <translation type="obsolete">切换窗口</translation>
+        <translation>切换窗口</translation>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="obsolete">任务窗格</translation>
+        <translation>任务窗格</translation>
     </message>
     <message>
         <source>Tile Horizontal</source>
-        <translation type="obsolete">水平平铺</translation>
+        <translation>水平平铺</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="obsolete">垂直平铺</translation>
+        <translation>垂直平铺</translation>
     </message>
     <message>
         <source>Vertical Tile</source>
@@ -12970,51 +13210,51 @@ Other Windows</source>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation type="obsolete">网格线</translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="obsolete">Visual Basic 编辑器</translation>
+        <translation>Visual Basic 编辑器</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation type="obsolete">窗口</translation>
+        <translation>窗口</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="obsolete">显示比例</translation>
+        <translation>显示比例</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_washadowdrawingtools</name>
     <message>
         <source>0 pt</source>
-        <translation type="obsolete">0 磅</translation>
+        <translation>0 磅</translation>
     </message>
     <message>
         <source>144 pt</source>
-        <translation type="obsolete">144 磅</translation>
+        <translation>144 磅</translation>
     </message>
     <message>
         <source>288 pt</source>
-        <translation type="obsolete">288 磅</translation>
+        <translation>288 磅</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation type="obsolete">三维效果</translation>
+        <translation>三维效果</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation type="obsolete">颜色</translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation type="obsolete">设置/取消三维效果</translation>
+        <translation>设置/取消三维效果</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="obsolete">三维效果</translation>
+        <translation>三维效果</translation>
     </message>
     <message>
         <source>3-D Style</source>
@@ -13022,109 +13262,109 @@ Effects</source>
     </message>
     <message>
         <source>36 pt</source>
-        <translation type="obsolete">36 磅</translation>
+        <translation>36 磅</translation>
     </message>
     <message>
         <source>72 pt</source>
-        <translation type="obsolete">72磅</translation>
+        <translation>72磅</translation>
     </message>
     <message>
         <source>Bright</source>
-        <translation type="obsolete">明亮</translation>
+        <translation>明亮</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">自定义</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation type="obsolete">深度</translation>
+        <translation>深度</translation>
     </message>
     <message>
         <source>Dim</source>
-        <translation type="obsolete">阴暗</translation>
+        <translation>阴暗</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="obsolete">方向</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <source>Infinity</source>
-        <translation type="obsolete">无穷</translation>
+        <translation>无穷</translation>
     </message>
     <message>
         <source>Lighting</source>
-        <translation type="obsolete">照明</translation>
+        <translation>照明</translation>
     </message>
     <message>
         <source>Matte</source>
-        <translation type="obsolete">亚光效果</translation>
+        <translation>亚光效果</translation>
     </message>
     <message>
         <source>Metal</source>
-        <translation type="obsolete">金属效果</translation>
+        <translation>金属效果</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation type="obsolete">其他三维颜色</translation>
+        <translation>其他三维颜色</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
-        <translation type="obsolete">其他阴影颜色</translation>
+        <translation>其他阴影颜色</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation type="obsolete">无三维效果</translation>
+        <translation>无三维效果</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="obsolete">无阴影</translation>
+        <translation>无阴影</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
-        <translation type="obsolete">略向下移</translation>
+        <translation>略向下移</translation>
     </message>
     <message>
         <source>Nudge Shadow Left</source>
-        <translation type="obsolete">略向左移</translation>
+        <translation>略向左移</translation>
     </message>
     <message>
         <source>Nudge Shadow Right</source>
-        <translation type="obsolete">略向右移</translation>
+        <translation>略向右移</translation>
     </message>
     <message>
         <source>Nudge Shadow Up</source>
-        <translation type="obsolete">略向上移</translation>
+        <translation>略向上移</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation type="obsolete">平行</translation>
+        <translation>平行</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="obsolete">透视</translation>
+        <translation>透视</translation>
     </message>
     <message>
         <source>Plastic</source>
-        <translation type="obsolete">塑料效果</translation>
+        <translation>塑料效果</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
-        <translation type="obsolete">半透明阴影</translation>
+        <translation>半透明阴影</translation>
     </message>
     <message>
         <source>Shadow
 Color</source>
-        <translation type="obsolete">阴影颜色</translation>
+        <translation>阴影颜色</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -13132,11 +13372,11 @@ Effects</source>
     </message>
     <message>
         <source>Shadow On/Off</source>
-        <translation type="obsolete">设置/取消阴影</translation>
+        <translation>设置/取消阴影</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="obsolete">阴影效果</translation>
+        <translation>阴影效果</translation>
     </message>
     <message>
         <source>Shadow Style</source>
@@ -13160,118 +13400,118 @@ Effects</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation type="obsolete">取色器</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Surface</source>
-        <translation type="obsolete">表面</translation>
+        <translation>表面</translation>
     </message>
     <message>
         <source>Tilt Down</source>
-        <translation type="obsolete">下俯</translation>
+        <translation>下俯</translation>
     </message>
     <message>
         <source>Tilt Left</source>
-        <translation type="obsolete">左偏</translation>
+        <translation>左偏</translation>
     </message>
     <message>
         <source>Tilt Right</source>
-        <translation type="obsolete">右偏</translation>
+        <translation>右偏</translation>
     </message>
     <message>
         <source>Tilt Up</source>
-        <translation type="obsolete">上翘</translation>
+        <translation>上翘</translation>
     </message>
     <message>
         <source>Wire Frame</source>
-        <translation type="obsolete">透明框架</translation>
+        <translation>透明框架</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_wordart</name>
     <message>
         <source>0.25 pt</source>
-        <translation type="obsolete">0.25 磅</translation>
+        <translation>0.25 磅</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation type="obsolete"> 0.5 磅</translation>
+        <translation> 0.5 磅</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation type="obsolete">0.75 磅</translation>
+        <translation>0.75 磅</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation type="obsolete">   1 磅</translation>
+        <translation>   1 磅</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation type="obsolete"> 1.5 磅</translation>
+        <translation> 1.5 磅</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation type="obsolete">2.25 磅</translation>
+        <translation>2.25 磅</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation type="obsolete">   3 磅</translation>
+        <translation>   3 磅</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation type="obsolete"> 4.5 磅</translation>
+        <translation> 4.5 磅</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation type="obsolete">   6 磅</translation>
+        <translation>   6 磅</translation>
     </message>
     <message>
         <source>Align</source>
-        <translation type="obsolete">对齐</translation>
+        <translation>对齐</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="obsolete">靠下对齐</translation>
+        <translation>靠下对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="obsolete">水平居中</translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="obsolete">垂直居中</translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="obsolete">靠上对齐</translation>
+        <translation>靠上对齐</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
-        <translation type="obsolete">细下弯弧</translation>
+        <translation>细下弯弧</translation>
     </message>
     <message>
         <source>Arch Down (Pour)</source>
-        <translation type="obsolete">粗下弯弧</translation>
+        <translation>粗下弯弧</translation>
     </message>
     <message>
         <source>Arch Up (Curve)</source>
-        <translation type="obsolete">细上弯弧</translation>
+        <translation>细上弯弧</translation>
     </message>
     <message>
         <source>Arch Up (Pour)</source>
-        <translation type="obsolete">粗上弯弧</translation>
+        <translation>粗上弯弧</translation>
     </message>
     <message>
         <source>Arrange</source>
-        <translation type="obsolete">排列</translation>
+        <translation>排列</translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
@@ -13279,7 +13519,7 @@ Effects</source>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation type="obsolete">粗旋钮形</translation>
+        <translation>粗旋钮形</translation>
     </message>
     <message>
         <source>Bottom(Pour)</source>
@@ -13287,7 +13527,7 @@ Effects</source>
     </message>
     <message>
         <source>Button (Curve)</source>
-        <translation type="obsolete">细旋钮形</translation>
+        <translation>细旋钮形</translation>
     </message>
     <message>
         <source>Button(Curve)</source>
@@ -13295,71 +13535,71 @@ Effects</source>
     </message>
     <message>
         <source>Can Down</source>
-        <translation type="obsolete">两端远</translation>
+        <translation>两端远</translation>
     </message>
     <message>
         <source>Can Up</source>
-        <translation type="obsolete">两端近</translation>
+        <translation>两端近</translation>
     </message>
     <message>
         <source>Cascade Down</source>
-        <translation type="obsolete">前远后近</translation>
+        <translation>前远后近</translation>
     </message>
     <message>
         <source>Cascade Up</source>
-        <translation type="obsolete">前近后远</translation>
+        <translation>前近后远</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Character Spacing</source>
-        <translation type="obsolete">字符间距</translation>
+        <translation>字符间距</translation>
     </message>
     <message>
         <source>Chevron Down</source>
-        <translation type="obsolete">正V形</translation>
+        <translation>正V形</translation>
     </message>
     <message>
         <source>Chevron Up</source>
-        <translation type="obsolete">倒V形</translation>
+        <translation>倒V形</translation>
     </message>
     <message>
         <source>Circle (Curve)</source>
-        <translation type="obsolete">细环形</translation>
+        <translation>细环形</translation>
     </message>
     <message>
         <source>Circle (Pour)</source>
-        <translation type="obsolete">粗环形</translation>
+        <translation>粗环形</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation type="obsolete">右牛角形</translation>
+        <translation>右牛角形</translation>
     </message>
     <message>
         <source>Curve Up</source>
-        <translation type="obsolete">左牛角形</translation>
+        <translation>左牛角形</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">自定义</translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation type="obsolete">短划线</translation>
+        <translation>短划线</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation type="obsolete">划线-点</translation>
+        <translation>划线-点</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="obsolete">长划线-点-点</translation>
+        <translation>长划线-点-点</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation type="obsolete">虚线线型</translation>
+        <translation>虚线线型</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -13371,23 +13611,23 @@ Effects</source>
     </message>
     <message>
         <source>Deflate</source>
-        <translation type="obsolete">朝鲜鼓</translation>
+        <translation>朝鲜鼓</translation>
     </message>
     <message>
         <source>Deflate Bottom</source>
-        <translation type="obsolete">桥形</translation>
+        <translation>桥形</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
-        <translation type="obsolete">单地道</translation>
+        <translation>单地道</translation>
     </message>
     <message>
         <source>Deflate Inflate Deflate</source>
-        <translation type="obsolete">双地道</translation>
+        <translation>双地道</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation type="obsolete">槽形</translation>
+        <translation>槽形</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -13395,35 +13635,35 @@ Effects</source>
     </message>
     <message>
         <source>Distribute Horizontally</source>
-        <translation type="obsolete">横向分布</translation>
+        <translation>横向分布</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
-        <translation type="obsolete">纵向分布</translation>
+        <translation>纵向分布</translation>
     </message>
     <message>
         <source>Double Wave 1</source>
-        <translation type="obsolete">双波形1</translation>
+        <translation>双波形1</translation>
     </message>
     <message>
         <source>Double Wave 2</source>
-        <translation type="obsolete">双波形2</translation>
+        <translation>双波形2</translation>
     </message>
     <message>
         <source>Edit Text</source>
-        <translation type="obsolete">编辑文字</translation>
+        <translation>编辑文字</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation type="obsolete">等尺寸</translation>
+        <translation>等尺寸</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation type="obsolete">等宽</translation>
+        <translation>等宽</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -13435,19 +13675,19 @@ Effects</source>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation type="obsolete">倒梯形</translation>
+        <translation>倒梯形</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation type="obsolete">左远右近</translation>
+        <translation>左远右近</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation type="obsolete">左近右远</translation>
+        <translation>左近右远</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation type="obsolete">正梯形</translation>
+        <translation>正梯形</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -13455,19 +13695,19 @@ Effects</source>
     </message>
     <message>
         <source>Flip Horizontal</source>
-        <translation type="obsolete">水平翻转</translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
-        <translation type="obsolete">垂直翻转</translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">设置对象格式</translation>
+        <translation>设置对象格式</translation>
     </message>
     <message>
         <source>Free Rotate</source>
-        <translation type="obsolete">自由旋转</translation>
+        <translation>自由旋转</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -13475,31 +13715,31 @@ Effects</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="obsolete">渐变</translation>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
-        <translation type="obsolete">网格线和参考线</translation>
+        <translation>网格线和参考线</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation type="obsolete">网格线</translation>
+        <translation>网格线</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="obsolete">组合</translation>
+        <translation>组合</translation>
     </message>
     <message>
         <source>Inflate</source>
-        <translation type="obsolete">腰鼓</translation>
+        <translation>腰鼓</translation>
     </message>
     <message>
         <source>Inflate Bottom</source>
-        <translation type="obsolete">陀螺形</translation>
+        <translation>陀螺形</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation type="obsolete">山形</translation>
+        <translation>山形</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -13507,19 +13747,19 @@ Effects</source>
     </message>
     <message>
         <source>Left Align</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation type="obsolete">字母调整</translation>
+        <translation>字母调整</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation type="obsolete">长划线</translation>
+        <translation>长划线</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation type="obsolete">长划线-点</translation>
+        <translation>长划线-点</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -13527,23 +13767,23 @@ Effects</source>
     </message>
     <message>
         <source>Loose</source>
-        <translation type="obsolete">稀疏</translation>
+        <translation>稀疏</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation type="obsolete">其他填充颜色</translation>
+        <translation>其他填充颜色</translation>
     </message>
     <message>
         <source>More Line Colors</source>
-        <translation type="obsolete">其他线条颜色</translation>
+        <translation>其他线条颜色</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation type="obsolete">其他线条</translation>
+        <translation>其他线条</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -13551,140 +13791,140 @@ Effects</source>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="obsolete">图案</translation>
+        <translation>图案</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation type="obsolete">带图案线条</translation>
+        <translation>带图案线条</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="obsolete">纯文本</translation>
+        <translation>纯文本</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
-        <translation type="obsolete">相对于幻灯片</translation>
+        <translation>相对于幻灯片</translation>
     </message>
     <message>
         <source>Right Align</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translation type="obsolete">顺时针</translation>
+        <translation>顺时针</translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translation type="obsolete">逆时针</translation>
+        <translation>逆时针</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="obsolete">旋转</translation>
+        <translation>旋转</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
-        <translation type="obsolete">向左旋转 90°</translation>
+        <translation>向左旋转 90°</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
-        <translation type="obsolete">向右旋转 90°</translation>
+        <translation>向右旋转 90°</translation>
     </message>
     <message>
         <source>Round Dot</source>
-        <translation type="obsolete">圆点</translation>
+        <translation>圆点</translation>
     </message>
     <message>
         <source>Same Letter Heights</source>
-        <translation type="obsolete">等高</translation>
+        <translation>等高</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation type="obsolete">选择窗格</translation>
+        <translation>选择窗格</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">详细设置</translation>
+        <translation>详细设置</translation>
     </message>
     <message>
         <source>Slant Down</source>
-        <translation type="obsolete">右领章</translation>
+        <translation>右领章</translation>
     </message>
     <message>
         <source>Slant Up</source>
-        <translation type="obsolete">左领章</translation>
+        <translation>左领章</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="obsolete">实线</translation>
+        <translation>实线</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation type="obsolete">方点</translation>
+        <translation>方点</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="obsolete">八边形</translation>
+        <translation>八边形</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation type="obsolete">延伸调整</translation>
+        <translation>延伸调整</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation type="obsolete">纹理</translation>
+        <translation>纹理</translation>
     </message>
     <message>
         <source>Tight</source>
-        <translation type="obsolete">紧密</translation>
+        <translation>紧密</translation>
     </message>
     <message>
         <source>Triangle Down</source>
-        <translation type="obsolete">倒三角</translation>
+        <translation>倒三角</translation>
     </message>
     <message>
         <source>Triangle Up</source>
-        <translation type="obsolete">正三角</translation>
+        <translation>正三角</translation>
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="obsolete">取消组合</translation>
+        <translation>取消组合</translation>
     </message>
     <message>
         <source>Very Loose</source>
-        <translation type="obsolete">很松</translation>
+        <translation>很松</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation type="obsolete">很紧</translation>
+        <translation>很紧</translation>
     </message>
     <message>
         <source>Wave 1</source>
-        <translation type="obsolete">波形1</translation>
+        <translation>波形1</translation>
     </message>
     <message>
         <source>Wave 2</source>
-        <translation type="obsolete">波形2</translation>
+        <translation>波形2</translation>
     </message>
     <message>
         <source>Weight</source>
-        <translation type="obsolete">线型</translation>
+        <translation>线型</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation type="obsolete">单词调整</translation>
+        <translation>单词调整</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="obsolete">艺术字</translation>
+        <translation>艺术字</translation>
     </message>
     <message>
         <source>WordArt</source>
         <comment>Insert</comment>
-        <translation type="obsolete">插入艺术字</translation>
+        <translation>插入艺术字</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation type="obsolete">对齐</translation>
+        <translation>对齐</translation>
     </message>
     <message>
         <source>WordArt Character Spacing</source>
@@ -13692,15 +13932,15 @@ Effects</source>
     </message>
     <message>
         <source>WordArt Fill</source>
-        <translation type="obsolete">艺术字填充</translation>
+        <translation>艺术字填充</translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation type="obsolete">艺术字库</translation>
+        <translation>艺术字库</translation>
     </message>
     <message>
         <source>WordArt Outline</source>
-        <translation type="obsolete">艺术字轮廓</translation>
+        <translation>艺术字轮廓</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -13708,26 +13948,26 @@ Effects</source>
     </message>
     <message>
         <source>WordArt Shape</source>
-        <translation type="obsolete">艺术字形状</translation>
+        <translation>艺术字形状</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation type="obsolete">艺术字大小</translation>
+        <translation>艺术字大小</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation type="obsolete">艺术字样式</translation>
+        <translation>艺术字样式</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation type="obsolete">竖排</translation>
+        <translation>竖排</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_wordart.Fill</name>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
 </context>
 <context>
@@ -13742,27 +13982,27 @@ Effects</source>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation type="obsolete">批量设置字体</translation>
+        <translation>批量设置字体</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete">手机遥控</translation>
+        <translation>手机遥控</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation type="obsolete">轻地址</translation>
+        <translation>轻地址</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
-        <translation type="obsolete">自定义母版字体</translation>
+        <translation>自定义母版字体</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation type="obsolete">关闭自动备份</translation>
+        <translation>关闭自动备份</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation type="obsolete">开启自动备份</translation>
+        <translation>开启自动备份</translation>
     </message>
     <message>
         <source>Explor Backup Dir</source>
@@ -13778,11 +14018,11 @@ Effects</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="obsolete">输出为图片</translation>
+        <translation>输出为图片</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="obsolete">输出为PDF</translation>
+        <translation>输出为PDF</translation>
     </message>
     <message>
         <source>File Auto Backup</source>
@@ -13794,23 +14034,23 @@ Effects</source>
     </message>
     <message>
         <source>File Backup</source>
-        <translation type="obsolete">文件备份</translation>
+        <translation>文件备份</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="obsolete">文档漫游</translation>
+        <translation>文档漫游</translation>
     </message>
     <message>
         <source>Guide</source>
-        <translation type="obsolete">新手指引</translation>
+        <translation>新手指引</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="obsolete">站点</translation>
+        <translation>站点</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="obsolete">你提我改，帮助我们改进产品。</translation>
+        <translation>你提我改，帮助我们改进产品。</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -13818,7 +14058,7 @@ Effects</source>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="obsolete">分页插入图片</translation>
+        <translation>分页插入图片</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -13902,7 +14142,7 @@ Effects</source>
     </message>
     <message>
         <source>Laboratory</source>
-        <translation type="obsolete">实验室</translation>
+        <translation>实验室</translation>
     </message>
     <message>
         <source>Login</source>
@@ -13910,7 +14150,7 @@ Effects</source>
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation type="obsolete">手动备份</translation>
+        <translation>手动备份</translation>
     </message>
     <message>
         <source>Mark Version</source>
@@ -13922,7 +14162,7 @@ Effects</source>
     </message>
     <message>
         <source>Online Documents</source>
-        <translation type="obsolete">云文档</translation>
+        <translation>云文档</translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -13938,11 +14178,11 @@ Effects</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="obsolete">打开云文档</translation>
+        <translation>打开云文档</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation type="obsolete">演示工具</translation>
+        <translation>演示工具</translation>
     </message>
     <message>
         <source>Roaming Files</source>
@@ -13954,15 +14194,15 @@ Effects</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="obsolete">保存云文档</translation>
+        <translation>保存云文档</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
-        <translation type="obsolete">分享到微博</translation>
+        <translation>分享到微博</translation>
     </message>
     <message>
         <source>Share to Microblog Webpage</source>
-        <translation type="obsolete">网页版微博分享</translation>
+        <translation>网页版微博分享</translation>
     </message>
     <message>
         <source>Sign In</source>
@@ -13974,11 +14214,11 @@ Effects</source>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation type="obsolete">幻灯片库</translation>
+        <translation>幻灯片库</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation type="obsolete">特色功能</translation>
+        <translation>特色功能</translation>
     </message>
     <message>
         <source>Special tool</source>
@@ -13994,7 +14234,7 @@ Effects</source>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation type="obsolete">转为文字文档</translation>
+        <translation>转为文字文档</translation>
     </message>
     <message>
         <source>Unite Document Font</source>
@@ -14002,11 +14242,11 @@ Effects</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="obsolete">用户反馈</translation>
+        <translation>用户反馈</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="obsolete">文件保险箱</translation>
+        <translation>文件保险箱</translation>
     </message>
     <message>
         <source>WPS Permit</source>
@@ -14031,6 +14271,10 @@ Effects</source>
     <message>
         <source>openwebweibo</source>
         <translation type="obsolete">网页版微博分享</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation></translation>
     </message>
     <message>
         <source>weiboshare</source>
@@ -17394,15 +17638,15 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>AutoBackup</source>
-        <translation type="obsolete">开启自动备份</translation>
+        <translation>开启自动备份</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="obsolete">切换帐号</translation>
+        <translation>切换帐号</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation type="obsolete">轻地址</translation>
+        <translation>轻地址</translation>
     </message>
     <message>
         <source>Disable Auto Backup</source>
@@ -17410,7 +17654,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation type="obsolete">关闭自动备份</translation>
+        <translation>关闭自动备份</translation>
     </message>
     <message>
         <source>Enable Auto Backup</source>
@@ -17430,15 +17674,15 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Export as Images</source>
-        <translation type="obsolete">输出为图片</translation>
+        <translation>输出为图片</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="obsolete">输出为PDF格式</translation>
+        <translation>输出为PDF格式</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="obsolete">文档漫游</translation>
+        <translation>文档漫游</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -17498,7 +17742,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Manual Backup</source>
-        <translation type="obsolete">手动备份</translation>
+        <translation>手动备份</translation>
     </message>
     <message>
         <source>Mark Version</source>
@@ -17522,11 +17766,11 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation type="obsolete">打开云文档</translation>
+        <translation>打开云文档</translation>
     </message>
     <message>
         <source>Recharge</source>
-        <translation type="obsolete">充值稻米</translation>
+        <translation>充值稻米</translation>
     </message>
     <message>
         <source>Roaming Files</source>
@@ -17538,7 +17782,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation type="obsolete">保存云文档</translation>
+        <translation>保存云文档</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -17566,15 +17810,15 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="obsolete">登录</translation>
+        <translation>登录</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation type="obsolete">注销</translation>
+        <translation>注销</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation type="obsolete">幻灯片库</translation>
+        <translation>幻灯片库</translation>
     </message>
     <message>
         <source>Stop Auto Version</source>
@@ -17582,23 +17826,23 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation type="obsolete">转为WPS文字文档</translation>
+        <translation>转为WPS文字文档</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="obsolete">用户反馈</translation>
+        <translation>用户反馈</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation type="obsolete">文件保险箱</translation>
+        <translation>文件保险箱</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation type="obsolete">查看历史备份</translation>
+        <translation>查看历史备份</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete">商业授权</translation>
+        <translation>商业授权</translation>
     </message>
     <message>
         <source>exportweiboimage</source>
@@ -17613,6 +17857,10 @@ Click the arrow to choose more outline styles.</source>
         <translation type="obsolete">网页版微博分享</translation>
     </message>
     <message>
+        <source>true</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>weiboshare</source>
         <translation type="obsolete">分享到微博</translation>
     </message>
@@ -17621,62 +17869,62 @@ Click the arrow to choose more outline styles.</source>
     <name>wppclassics.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation type="obsolete">WPS 演示</translation>
+        <translation>WPS 演示</translation>
     </message>
 </context>
 <context>
     <name>wppclassics.mainwindow.commands</name>
     <message>
         <source>3-D Settings</source>
-        <translation type="obsolete">三维设置</translation>
+        <translation>三维设置</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="obsolete">控件工具箱</translation>
+        <translation>控件工具箱</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="obsolete">绘图</translation>
+        <translation>绘图</translation>
     </message>
     <message>
         <source>Formatting</source>
-        <translation type="obsolete">格式</translation>
+        <translation>格式</translation>
     </message>
     <message>
         <source>Menu Bar</source>
-        <translation type="obsolete">菜单栏</translation>
+        <translation>菜单栏</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation type="obsolete">特色功能</translation>
+        <translation>特色功能</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="obsolete">打印预览</translation>
+        <translation>打印预览</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="obsolete">审阅</translation>
+        <translation>审阅</translation>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="obsolete">阴影设置</translation>
+        <translation>阴影设置</translation>
     </message>
     <message>
         <source>Slide Master View</source>
-        <translation type="obsolete">幻灯片母版视图</translation>
+        <translation>幻灯片母版视图</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="obsolete">幻灯片浏览视图</translation>
+        <translation>幻灯片浏览视图</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">常用</translation>
+        <translation>常用</translation>
     </message>
     <message>
         <source>Stop Record Macro</source>
@@ -17684,15 +17932,15 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation type="obsolete">停止录制</translation>
+        <translation>停止录制</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
-        <translation type="obsolete">表格和边框</translation>
+        <translation>表格和边框</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="obsolete">艺术字</translation>
+        <translation>艺术字</translation>
     </message>
     <message>
         <source>Work Space</source>
@@ -17703,7 +17951,7 @@ Click the arrow to choose more outline styles.</source>
     <name>wppclassics.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>Diagram</source>
-        <translation type="obsolete">图示</translation>
+        <translation>图示</translation>
     </message>
     <message>
         <source>OrgChart</source>
@@ -17711,14 +17959,14 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="obsolete">组织结构图</translation>
+        <translation>组织结构图</translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands</name>
     <message>
         <source>ActiveX Control</source>
-        <translation type="obsolete">ActiveX 控件</translation>
+        <translation>ActiveX 控件</translation>
     </message>
     <message>
         <source>ActiveX Control Popup Menu</source>
@@ -17726,11 +17974,11 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="obsolete">左对齐</translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="obsolete">右对齐</translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>AniSchemes</source>
@@ -17742,11 +17990,11 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="obsolete">动画</translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Arrow Options</source>
-        <translation type="obsolete">箭头选项</translation>
+        <translation>箭头选项</translation>
     </message>
     <message>
         <source>Arrow Options Popup Menu</source>
@@ -17758,7 +18006,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation type="obsolete">自选图形</translation>
+        <translation>自选图形</translation>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
@@ -17766,19 +18014,19 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Backup</source>
-        <translation type="obsolete">备份</translation>
+        <translation>备份</translation>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation type="obsolete">备份管理</translation>
+        <translation>备份管理</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="obsolete">加粗</translation>
+        <translation>加粗</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="obsolete">居中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>Chang AutoShape</source>
@@ -17786,7 +18034,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Change AutoShape</source>
-        <translation type="obsolete">更改自选图形</translation>
+        <translation>更改自选图形</translation>
     </message>
     <message>
         <source>ChangeAutoShape</source>
@@ -17798,11 +18046,11 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="obsolete">拼写检查</translation>
+        <translation>拼写检查</translation>
     </message>
     <message>
         <source>Click to turn on/off AutoBackup</source>
-        <translation type="obsolete">单击可打开/关闭自动备份</translation>
+        <translation>单击可打开/关闭自动备份</translation>
     </message>
     <message>
         <source>Click to turn on/off auto backup</source>
@@ -17810,23 +18058,23 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation type="obsolete">插入剪贴画</translation>
+        <translation>插入剪贴画</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="obsolete">剪贴板</translation>
+        <translation>剪贴板</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation type="obsolete">剪贴板</translation>
+        <translation>剪贴板</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="obsolete">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation type="obsolete">发射轻地址</translation>
+        <translation>发射轻地址</translation>
     </message>
     <message>
         <source>CloudLink</source>
@@ -17834,19 +18082,23 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation type="obsolete">配色</translation>
+        <translation>配色</translation>
     </message>
     <message>
         <source>Colorize</source>
         <translation type="obsolete">配色</translation>
     </message>
     <message>
+        <source>Comment</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Compress Pictures</source>
-        <translation type="obsolete">压缩图片</translation>
+        <translation>压缩图片</translation>
     </message>
     <message>
         <source>Connector</source>
-        <translation type="obsolete">连接符</translation>
+        <translation>连接符</translation>
     </message>
     <message>
         <source>Connector Popup Menu</source>
@@ -17854,19 +18106,19 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="obsolete">复制</translation>
+        <translation>复制</translation>
     </message>
     <message>
         <source>Creat Cloud Link</source>
-        <translation type="obsolete">发射</translation>
+        <translation>发射</translation>
     </message>
     <message>
         <source>Curve</source>
-        <translation type="obsolete">曲线</translation>
+        <translation>曲线</translation>
     </message>
     <message>
         <source>Curve Point</source>
-        <translation type="obsolete">曲线顶点</translation>
+        <translation>曲线顶点</translation>
     </message>
     <message>
         <source>Curve Point Popup Menu</source>
@@ -17878,7 +18130,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Curve Segment</source>
-        <translation type="obsolete">曲线段</translation>
+        <translation>曲线段</translation>
     </message>
     <message>
         <source>Curve Segment Popup Menu</source>
@@ -17890,15 +18142,15 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation type="obsolete">自定义动画</translation>
+        <translation>自定义动画</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="obsolete">剪切</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation type="obsolete">立即恢复</translation>
+        <translation>立即恢复</translation>
     </message>
     <message>
         <source>DataRecover</source>
@@ -17910,11 +18162,11 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="obsolete">减小字号</translation>
+        <translation>减小字号</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="obsolete">减少缩进量</translation>
+        <translation>减少缩进量</translation>
     </message>
     <message>
         <source>DesignS</source>
@@ -17922,7 +18174,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation type="obsolete">Docer稻壳儿</translation>
+        <translation>Docer稻壳儿</translation>
     </message>
     <message>
         <source>Document collaboration</source>
@@ -17938,11 +18190,15 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Draw Shapes</source>
-        <translation type="obsolete">绘制形状</translation>
+        <translation>绘制形状</translation>
+    </message>
+    <message>
+        <source>Dynamic Shapes</source>
+        <translation></translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="obsolete">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Effect</source>
@@ -17950,11 +18206,11 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="obsolete">效果</translation>
+        <translation>效果</translation>
     </message>
     <message>
         <source>Eraser</source>
-        <translation type="obsolete">清除</translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Eraser Popup Menu</source>
@@ -17962,7 +18218,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="obsolete">退出</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -17970,25 +18226,25 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>File</source>
-        <translation type="obsolete">文件</translation>
+        <translation>文件</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="obsolete">查找</translation>
+        <translation>查找</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="obsolete">格式</translation>
+        <translation>格式</translation>
     </message>
     <message>
         <source>From Current
 Slide</source>
-        <translation type="obsolete">从当前开始</translation>
+        <translation>从当前开始</translation>
     </message>
     <message>
         <source>From Current 
 Slide</source>
-        <translation type="obsolete">从当前开始</translation>
+        <translation>从当前开始</translation>
     </message>
     <message>
         <source>From Current Slide</source>
@@ -18004,7 +18260,7 @@ Slide</source>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="obsolete">截屏时隐藏当前窗口</translation>
+        <translation>截屏时隐藏当前窗口</translation>
     </message>
     <message>
         <source>Hide While Grabbing Screen</source>
@@ -18012,19 +18268,19 @@ Slide</source>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="obsolete">超链接</translation>
+        <translation>超链接</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="obsolete">增大字号</translation>
+        <translation>增大字号</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="obsolete">增加缩进量</translation>
+        <translation>增加缩进量</translation>
     </message>
     <message>
         <source>Ink Color</source>
-        <translation type="obsolete">墨迹颜色</translation>
+        <translation>墨迹颜色</translation>
     </message>
     <message>
         <source>Ink Color Popup Menu</source>
@@ -18032,15 +18288,15 @@ Slide</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="obsolete">插入</translation>
+        <translation>插入</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="obsolete">倾斜</translation>
+        <translation>倾斜</translation>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="obsolete">两端对齐</translation>
+        <translation>两端对齐</translation>
     </message>
     <message>
         <source>Kingsoft Online Template</source>
@@ -18048,7 +18304,7 @@ Slide</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="obsolete">版式</translation>
+        <translation>版式</translation>
     </message>
     <message>
         <source>Left</source>
@@ -18056,15 +18312,15 @@ Slide</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="obsolete">宏</translation>
+        <translation>宏</translation>
     </message>
     <message>
         <source>MailFeedBack</source>
-        <translation type="obsolete">邮件反馈</translation>
+        <translation>邮件反馈</translation>
     </message>
     <message>
         <source>Master Miniature</source>
-        <translation type="obsolete">母板缩图弹出对话框</translation>
+        <translation>母板缩图弹出对话框</translation>
     </message>
     <message>
         <source>Master Miniature Popup Menu</source>
@@ -18072,15 +18328,15 @@ Slide</source>
     </message>
     <message>
         <source>Materials</source>
-        <translation type="obsolete">形状</translation>
+        <translation>形状</translation>
     </message>
     <message>
         <source>Motion Path</source>
-        <translation type="obsolete">动作路径</translation>
+        <translation>动作路径</translation>
     </message>
     <message>
         <source>Motion Path Point</source>
-        <translation type="obsolete">动作路径顶点</translation>
+        <translation>动作路径顶点</translation>
     </message>
     <message>
         <source>Motion Path Point Popup Menu</source>
@@ -18092,7 +18348,7 @@ Slide</source>
     </message>
     <message>
         <source>Motion Path Segment</source>
-        <translation type="obsolete">动作路径线段</translation>
+        <translation>动作路径线段</translation>
     </message>
     <message>
         <source>Motion Path Segment Popup Menu</source>
@@ -18104,7 +18360,7 @@ Slide</source>
     </message>
     <message>
         <source>New</source>
-        <translation type="obsolete">新建</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -18112,19 +18368,19 @@ Slide</source>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="obsolete">新建</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <source>New Blank Slide</source>
-        <translation type="obsolete">新建空白幻灯片</translation>
+        <translation>新建空白幻灯片</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation type="obsolete">新建空白文档</translation>
+        <translation>新建空白文档</translation>
     </message>
     <message>
         <source>New From Default Template</source>
-        <translation type="obsolete">从默认模板新建</translation>
+        <translation>从默认模板新建</translation>
     </message>
     <message>
         <source>New From Online Templates</source>
@@ -18132,19 +18388,19 @@ Slide</source>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation type="obsolete">新建演示文稿</translation>
+        <translation>新建演示文稿</translation>
     </message>
     <message>
         <source>New Slide From Library</source>
-        <translation type="obsolete">从幻灯片库新建</translation>
+        <translation>从幻灯片库新建</translation>
     </message>
     <message>
         <source>New from Default Template</source>
-        <translation type="obsolete">从默认模板新建</translation>
+        <translation>从默认模板新建</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="obsolete">从更多模板新建</translation>
+        <translation>从更多模板新建</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -18152,7 +18408,11 @@ Slide</source>
     </message>
     <message>
         <source>New from Other Templates</source>
-        <translation type="obsolete">本机上的模板</translation>
+        <translation>本机上的模板</translation>
+    </message>
+    <message>
+        <source>No Tab Page</source>
+        <translation></translation>
     </message>
     <message>
         <source>None Slide Miniature Popup Menu</source>
@@ -18160,11 +18420,11 @@ Slide</source>
     </message>
     <message>
         <source>Not Slide Miniature</source>
-        <translation type="obsolete">非幻灯片缩图</translation>
+        <translation>非幻灯片缩图</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="obsolete">文档备注</translation>
+        <translation>文档备注</translation>
     </message>
     <message>
         <source>Note View Visible</source>
@@ -18172,11 +18432,11 @@ Slide</source>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="obsolete">备注</translation>
+        <translation>备注</translation>
     </message>
     <message>
         <source>Notes Pane</source>
-        <translation type="obsolete">注释窗格</translation>
+        <translation>注释窗格</translation>
     </message>
     <message>
         <source>Notes Pane Popup Menu</source>
@@ -18184,7 +18444,7 @@ Slide</source>
     </message>
     <message>
         <source>OLE Object</source>
-        <translation type="obsolete">OLE对象</translation>
+        <translation>OLE对象</translation>
     </message>
     <message>
         <source>OLE Object Popup Menu</source>
@@ -18192,7 +18452,7 @@ Slide</source>
     </message>
     <message>
         <source>Office Space</source>
-        <translation type="obsolete">备注</translation>
+        <translation>备注</translation>
     </message>
     <message>
         <source>OnlineT</source>
@@ -18200,15 +18460,15 @@ Slide</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="obsolete">打开</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="obsolete">页面设置</translation>
+        <translation>页面设置</translation>
     </message>
     <message>
         <source>Paint Brush</source>
-        <translation type="obsolete">画笔按钮</translation>
+        <translation>画笔按钮</translation>
     </message>
     <message>
         <source>Paint Brush Popup Menu</source>
@@ -18216,11 +18476,11 @@ Slide</source>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="obsolete">粘贴</translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="obsolete">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Picture Popup Menu</source>
@@ -18228,31 +18488,31 @@ Slide</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="obsolete">打印</translation>
+        <translation>打印</translation>
     </message>
     <message>
         <source>Print Directly</source>
-        <translation type="obsolete">直接打印</translation>
+        <translation>直接打印</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="obsolete">打印预览</translation>
+        <translation>打印预览</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="obsolete">属性</translation>
+        <translation>属性</translation>
     </message>
     <message>
         <source>Recent File List</source>
-        <translation type="obsolete">最近文档列表</translation>
+        <translation>最近文档列表</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="obsolete">恢复</translation>
+        <translation>恢复</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="obsolete">替换</translation>
+        <translation>替换</translation>
     </message>
     <message>
         <source>Right</source>
@@ -18260,7 +18520,7 @@ Slide</source>
     </message>
     <message>
         <source>Rotate Mode</source>
-        <translation type="obsolete">旋转方式</translation>
+        <translation>旋转方式</translation>
     </message>
     <message>
         <source>Rotate Mode Popup Menu</source>
@@ -18268,7 +18528,7 @@ Slide</source>
     </message>
     <message>
         <source>Ruler</source>
-        <translation type="obsolete">标尺</translation>
+        <translation>标尺</translation>
     </message>
     <message>
         <source>Ruler Popup Menu</source>
@@ -18288,28 +18548,28 @@ Slide</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="obsolete">保存</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="obsolete">另存为</translation>
+        <translation>另存为</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="obsolete">屏幕截图</translation>
+        <translation>屏幕截图</translation>
     </message>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation type="obsolete">截屏</translation>
+        <translation>截屏</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="obsolete">全选</translation>
+        <translation>全选</translation>
     </message>
     <message>
         <source>Set Language</source>
-        <translation type="obsolete">设置拼写检查语言</translation>
+        <translation>设置拼写检查语言</translation>
     </message>
     <message>
         <source>Set Spell Check Language</source>
@@ -18329,7 +18589,7 @@ Slide</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="obsolete">形状</translation>
+        <translation>形状</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
@@ -18341,11 +18601,11 @@ Slide</source>
     </message>
     <message>
         <source>Show/Hide Grid</source>
-        <translation type="obsolete">显示/隐藏网格</translation>
+        <translation>显示/隐藏网格</translation>
     </message>
     <message>
         <source>Show/Hide Slide Note</source>
-        <translation type="obsolete">隐藏或显示备注面板</translation>
+        <translation>隐藏或显示备注面板</translation>
     </message>
     <message>
         <source>Shpaes</source>
@@ -18353,7 +18613,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Background</source>
-        <translation type="obsolete">幻灯片背景</translation>
+        <translation>幻灯片背景</translation>
     </message>
     <message>
         <source>Slide Background Popup Menu</source>
@@ -18361,23 +18621,23 @@ Slide</source>
     </message>
     <message>
         <source>Slide Design - Animation Schemes</source>
-        <translation type="obsolete">幻灯片设计 - 动画方案</translation>
+        <translation>幻灯片设计 - 动画方案</translation>
     </message>
     <message>
         <source>Slide Design - Color Schemes</source>
-        <translation type="obsolete">幻灯片设计 - 配色方案</translation>
+        <translation>幻灯片设计 - 配色方案</translation>
     </message>
     <message>
         <source>Slide Design - Design Templates</source>
-        <translation type="obsolete">幻灯片设计 - 设计模板</translation>
+        <translation>幻灯片设计 - 设计模板</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation type="obsolete">幻灯片版式</translation>
+        <translation>幻灯片版式</translation>
     </message>
     <message>
         <source>Slide Miniature</source>
-        <translation type="obsolete">幻灯片缩图</translation>
+        <translation>幻灯片缩图</translation>
     </message>
     <message>
         <source>Slide Miniature Popup Menu</source>
@@ -18385,7 +18645,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Object in Slide Sorter</source>
-        <translation type="obsolete">幻灯片浏览中的幻灯片对象</translation>
+        <translation>幻灯片浏览中的幻灯片对象</translation>
     </message>
     <message>
         <source>Slide Object in Slide Sorter Popup Menu</source>
@@ -18393,7 +18653,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="obsolete">幻灯片放映</translation>
+        <translation>幻灯片放映</translation>
     </message>
     <message>
         <source>Slide Show Popup Menu</source>
@@ -18401,35 +18661,39 @@ Slide</source>
     </message>
     <message>
         <source>Slide Show Short Popup Menu</source>
-        <translation type="obsolete">幻灯放映简短快捷菜单</translation>
+        <translation>幻灯放映简短快捷菜单</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="obsolete">幻灯片切换</translation>
+        <translation>幻灯片切换</translation>
     </message>
     <message>
         <source>SlideT</source>
         <translation type="obsolete">切换</translation>
     </message>
     <message>
+        <source>Style</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Subscript</source>
-        <translation type="obsolete">下标</translation>
+        <translation>下标</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="obsolete">上标</translation>
+        <translation>上标</translation>
     </message>
     <message>
         <source>Switch</source>
-        <translation type="obsolete">切换</translation>
+        <translation>切换</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
-        <translation type="obsolete">符号栏</translation>
+        <translation>符号栏</translation>
     </message>
     <message>
         <source>Table Cell</source>
-        <translation type="obsolete">表格单元格</translation>
+        <translation>表格单元格</translation>
     </message>
     <message>
         <source>Table Cell Popup Menu</source>
@@ -18437,11 +18701,11 @@ Slide</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="obsolete">表格样式</translation>
+        <translation>表格样式</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation type="obsolete">表格</translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Tables Popup Menu</source>
@@ -18449,7 +18713,7 @@ Slide</source>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="obsolete">任务窗格</translation>
+        <translation>任务窗格</translation>
     </message>
     <message>
         <source>Template</source>
@@ -18457,7 +18721,7 @@ Slide</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="obsolete">模板</translation>
+        <translation>模板</translation>
     </message>
     <message>
         <source>Text Edit Popup Menu</source>
@@ -18465,7 +18729,7 @@ Slide</source>
     </message>
     <message>
         <source>Text Editing</source>
-        <translation type="obsolete">文字编辑</translation>
+        <translation>文字编辑</translation>
     </message>
     <message>
         <source>ToolBars</source>
@@ -18473,11 +18737,11 @@ Slide</source>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="obsolete">工具栏</translation>
+        <translation>工具栏</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="obsolete">工具</translation>
+        <translation>工具</translation>
     </message>
     <message>
         <source>Transition</source>
@@ -18485,39 +18749,39 @@ Slide</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="obsolete">下划线</translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="obsolete">撤消</translation>
+        <translation>撤消</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="obsolete">用户反馈</translation>
+        <translation>用户反馈</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">视图</translation>
+        <translation>视图</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="obsolete">Visual Basic 编辑器</translation>
+        <translation>Visual Basic 编辑器</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="obsolete">金山数据恢复大师</translation>
+        <translation>金山数据恢复大师</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
-        <translation type="obsolete">WPS在线模板</translation>
+        <translation>WPS在线模板</translation>
     </message>
     <message>
         <source>Window</source>
-        <translation type="obsolete">窗口</translation>
+        <translation>窗口</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="obsolete">艺术字</translation>
+        <translation>艺术字</translation>
     </message>
     <message>
         <source>WordArt Popup Menu</source>
@@ -18525,11 +18789,15 @@ Slide</source>
     </message>
     <message>
         <source>change template</source>
-        <translation type="obsolete">更换模板</translation>
+        <translation>更换模板</translation>
     </message>
     <message>
         <source>magic</source>
-        <translation type="obsolete">魔法</translation>
+        <translation>魔法</translation>
+    </message>
+    <message>
+        <source>statusbar</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -18540,14 +18808,14 @@ Slide</source>
     </message>
     <message>
         <source>WPS Presentation Help</source>
-        <translation type="obsolete">WPS 演示 帮助</translation>
+        <translation>WPS 演示 帮助</translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>Diagram</source>
-        <translation type="obsolete">图示</translation>
+        <translation>图示</translation>
     </message>
     <message>
         <source>OrgChart</source>
@@ -18555,21 +18823,21 @@ Slide</source>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="obsolete">组织结构图</translation>
+        <translation>组织结构图</translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands.helpmenu</name>
     <message>
         <source>Help</source>
-        <translation type="obsolete">帮助</translation>
+        <translation>帮助</translation>
     </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands.status bar</name>
     <message>
         <source>Normal</source>
-        <translation type="obsolete">普通视图</translation>
+        <translation>普通视图</translation>
     </message>
     <message>
         <source>Slide Show From Current</source>
@@ -18581,25 +18849,25 @@ Slide</source>
     </message>
     <message>
         <source>Slide Show from Current(Shift+F5)</source>
-        <translation type="obsolete">从当前幻灯片开始播放(Shift+F5)</translation>
+        <translation>从当前幻灯片开始播放(Shift+F5)</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
-        <translation type="obsolete">幻灯片浏览</translation>
+        <translation>幻灯片浏览</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation type="obsolete">WPS 演示</translation>
+        <translation>WPS 演示</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow.commands</name>
     <message>
         <source>Add-Ins</source>
-        <translation type="obsolete">加载项</translation>
+        <translation>加载项</translation>
     </message>
     <message>
         <source>Add-ins</source>
@@ -18607,19 +18875,19 @@ Slide</source>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="obsolete">动画</translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="obsolete">切换帐号</translation>
+        <translation>切换帐号</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="obsolete">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Customize task window</source>
-        <translation type="obsolete">自定义任务窗格</translation>
+        <translation>自定义任务窗格</translation>
     </message>
     <message>
         <source>Customize taskpane</source>
@@ -18627,11 +18895,11 @@ Slide</source>
     </message>
     <message>
         <source>Design</source>
-        <translation type="obsolete">设计</translation>
+        <translation>设计</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="obsolete">开发工具</translation>
+        <translation>开发工具</translation>
     </message>
     <message>
         <source>Drawing Tool</source>
@@ -18639,7 +18907,7 @@ Slide</source>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation type="obsolete">绘图工具</translation>
+        <translation>绘图工具</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
@@ -18647,7 +18915,7 @@ Slide</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="obsolete">输出为PDF</translation>
+        <translation>输出为PDF</translation>
     </message>
     <message>
         <source>File</source>
@@ -18655,15 +18923,15 @@ Slide</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="obsolete">效果设置</translation>
+        <translation>效果设置</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="obsolete">隐藏功能区</translation>
+        <translation>隐藏功能区</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="obsolete">开始</translation>
+        <translation>开始</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -18671,7 +18939,7 @@ Slide</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="obsolete">插入</translation>
+        <translation>插入</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -18707,27 +18975,27 @@ Slide</source>
     </message>
     <message>
         <source>Maximize Window</source>
-        <translation type="obsolete">最大化</translation>
+        <translation>最大化</translation>
     </message>
     <message>
         <source>Minimize Window</source>
-        <translation type="obsolete">最小化</translation>
+        <translation>最小化</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation type="obsolete">WPS热点</translation>
+        <translation>WPS热点</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation type="obsolete">特色功能</translation>
+        <translation>特色功能</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation type="obsolete">Docer-在线模板</translation>
+        <translation>Docer-在线模板</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="obsolete">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Org Chart</source>
@@ -18735,7 +19003,7 @@ Slide</source>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="obsolete">组织结构图</translation>
+        <translation>组织结构图</translation>
     </message>
     <message>
         <source>Picture Tool</source>
@@ -18743,19 +19011,19 @@ Slide</source>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation type="obsolete">图片工具</translation>
+        <translation>图片工具</translation>
     </message>
     <message>
         <source>Pin the ToolBar</source>
-        <translation type="obsolete">固定功能区</translation>
+        <translation>固定功能区</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="obsolete">打印预览</translation>
+        <translation>打印预览</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation type="obsolete">快速访问菜单</translation>
+        <translation>快速访问菜单</translation>
     </message>
     <message>
         <source>Quick Menu</source>
@@ -18767,7 +19035,7 @@ Slide</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="obsolete">最近所用文件</translation>
+        <translation>最近所用文件</translation>
     </message>
     <message>
         <source>Recent documents</source>
@@ -18775,39 +19043,39 @@ Slide</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation type="obsolete">充值稻米</translation>
+        <translation>充值稻米</translation>
     </message>
     <message>
         <source>Restore Window</source>
-        <translation type="obsolete">向下还原</translation>
+        <translation>向下还原</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="obsolete">审阅</translation>
+        <translation>审阅</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="obsolete">显示功能区</translation>
+        <translation>显示功能区</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="obsolete">显示/隐藏功能区</translation>
+        <translation>显示/隐藏功能区</translation>
     </message>
     <message>
         <source>Sign Out</source>
-        <translation type="obsolete">注销</translation>
+        <translation>注销</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="obsolete">登录</translation>
+        <translation>登录</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="obsolete">幻灯片母版</translation>
+        <translation>幻灯片母版</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="obsolete">幻灯片放映</translation>
+        <translation>幻灯片放映</translation>
     </message>
     <message>
         <source>Stick the ToolBar</source>
@@ -18819,31 +19087,31 @@ Slide</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="obsolete">表格样式</translation>
+        <translation>表格样式</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="obsolete">表格工具</translation>
+        <translation>表格工具</translation>
     </message>
     <message>
         <source>User Sign In</source>
-        <translation type="obsolete">未登录</translation>
+        <translation>未登录</translation>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation type="obsolete">用户登录</translation>
+        <translation>用户登录</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">视图</translation>
+        <translation>视图</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation type="obsolete">WPS 售后微博</translation>
+        <translation>WPS 售后微博</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete">商业授权</translation>
+        <translation>商业授权</translation>
     </message>
     <message>
         <source>What News</source>
@@ -18851,7 +19119,7 @@ Slide</source>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="obsolete">新消息</translation>
+        <translation>新消息</translation>
     </message>
     <message>
         <source>Window Close</source>
@@ -18871,7 +19139,7 @@ Slide</source>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="obsolete">艺术字</translation>
+        <translation>艺术字</translation>
     </message>
     <message>
         <source>Work Space</source>
@@ -18883,7 +19151,11 @@ Slide</source>
     </message>
     <message>
         <source>setting</source>
-        <translation type="obsolete">设置</translation>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <source>testRbTabWidget</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -18894,23 +19166,28 @@ Slide</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="obsolete">更改界面</translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation type="obsolete">皮肤</translation>
+        <translation>皮肤</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="obsolete">确定</translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
     <name>wppongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="obsolete">更改语言</translation>
+        <translation>更改语言</translation>
     </message>
 </context>
 <context>
@@ -18921,21 +19198,21 @@ Slide</source>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="obsolete">组织结构图</translation>
+        <translation>组织结构图</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow</name>
     <message>
         <source>Presentation</source>
-        <translation type="obsolete">WPS 演示</translation>
+        <translation>WPS 演示</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands</name>
     <message>
         <source>Add-Ins</source>
-        <translation type="obsolete">加载项</translation>
+        <translation>加载项</translation>
     </message>
     <message>
         <source>Add-ins</source>
@@ -18943,27 +19220,27 @@ Slide</source>
     </message>
     <message>
         <source>Animation</source>
-        <translation type="obsolete">动画</translation>
+        <translation>动画</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation type="obsolete">切换帐号</translation>
+        <translation>切换帐号</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation type="obsolete">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation type="obsolete">设计</translation>
+        <translation>设计</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation type="obsolete">开发工具</translation>
+        <translation>开发工具</translation>
     </message>
     <message>
         <source>Drawing Tools</source>
-        <translation type="obsolete">绘图工具</translation>
+        <translation>绘图工具</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
@@ -18971,7 +19248,7 @@ Slide</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="obsolete">输出为PDF</translation>
+        <translation>输出为PDF</translation>
     </message>
     <message>
         <source>File</source>
@@ -18979,23 +19256,23 @@ Slide</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="obsolete">效果设置</translation>
+        <translation>效果设置</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="obsolete">隐藏功能区</translation>
+        <translation>隐藏功能区</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="obsolete">开始</translation>
+        <translation>开始</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="obsolete">Docer-在线模板</translation>
+        <translation>Docer-在线模板</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="obsolete">插入</translation>
+        <translation>插入</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -19027,15 +19304,15 @@ Slide</source>
     </message>
     <message>
         <source>Maximize Window</source>
-        <translation type="obsolete">最大化</translation>
+        <translation>最大化</translation>
     </message>
     <message>
         <source>Minimize Window</source>
-        <translation type="obsolete">最小化</translation>
+        <translation>最小化</translation>
     </message>
     <message>
         <source>Minisite</source>
-        <translation type="obsolete">WPS热点</translation>
+        <translation>WPS热点</translation>
     </message>
     <message>
         <source>New Blank File</source>
@@ -19043,27 +19320,31 @@ Slide</source>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation type="obsolete">新建空白文档</translation>
+        <translation>新建空白文档</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="obsolete">从更多模板新建</translation>
+        <translation>从更多模板新建</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
         <translation type="obsolete">本机上的模板</translation>
     </message>
     <message>
+        <source>No Tab Page</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Office Space</source>
-        <translation type="obsolete">特色功能</translation>
+        <translation>特色功能</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="obsolete">打开</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="obsolete">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>OrgChart</source>
@@ -19071,19 +19352,19 @@ Slide</source>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="obsolete">组织结构图</translation>
+        <translation>组织结构图</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation type="obsolete">图片工具</translation>
+        <translation>图片工具</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="obsolete">打印预览</translation>
+        <translation>打印预览</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
-        <translation type="obsolete">快速访问菜单</translation>
+        <translation>快速访问菜单</translation>
     </message>
     <message>
         <source>Quick Menu</source>
@@ -19095,7 +19376,7 @@ Slide</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation type="obsolete">最近所用文件</translation>
+        <translation>最近所用文件</translation>
     </message>
     <message>
         <source>Recent documents</source>
@@ -19103,43 +19384,43 @@ Slide</source>
     </message>
     <message>
         <source>Recharge</source>
-        <translation type="obsolete">充值稻米</translation>
+        <translation>充值稻米</translation>
     </message>
     <message>
         <source>Restore Window</source>
-        <translation type="obsolete">向下还原</translation>
+        <translation>向下还原</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="obsolete">审阅</translation>
+        <translation>审阅</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="obsolete">显示功能区</translation>
+        <translation>显示功能区</translation>
     </message>
     <message>
         <source>Show/Hide the Toolbar</source>
-        <translation type="obsolete">显示/隐藏功能区</translation>
+        <translation>显示/隐藏功能区</translation>
     </message>
     <message>
         <source>Sign Out</source>
-        <translation type="obsolete">注销</translation>
+        <translation>注销</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="obsolete">登录</translation>
+        <translation>登录</translation>
     </message>
     <message>
         <source>Slide Master</source>
-        <translation type="obsolete">幻灯片母版</translation>
+        <translation>幻灯片母版</translation>
     </message>
     <message>
         <source>Slide Show</source>
-        <translation type="obsolete">幻灯片放映</translation>
+        <translation>幻灯片放映</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="obsolete">固定功能区</translation>
+        <translation>固定功能区</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -19147,27 +19428,27 @@ Slide</source>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="obsolete">表格样式</translation>
+        <translation>表格样式</translation>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation type="obsolete">表格工具</translation>
+        <translation>表格工具</translation>
     </message>
     <message>
         <source>User Sign In</source>
-        <translation type="obsolete">用户登录</translation>
+        <translation>用户登录</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="obsolete">视图</translation>
+        <translation>视图</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
-        <translation type="obsolete">WPS 售后微博</translation>
+        <translation>WPS 售后微博</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation type="obsolete">商业授权</translation>
+        <translation>商业授权</translation>
     </message>
     <message>
         <source>What News</source>
@@ -19175,7 +19456,7 @@ Slide</source>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="obsolete">新消息</translation>
+        <translation>新消息</translation>
     </message>
     <message>
         <source>Window Close</source>
@@ -19195,18 +19476,22 @@ Slide</source>
     </message>
     <message>
         <source>WordArt</source>
-        <translation type="obsolete">艺术字</translation>
+        <translation>艺术字</translation>
     </message>
     <message>
         <source>Work Space</source>
         <translation type="obsolete">特色功能</translation>
+    </message>
+    <message>
+        <source>testRbTabWidget</source>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.Diagram</name>
     <message>
         <source>Diagram</source>
-        <translation type="obsolete">图示</translation>
+        <translation>图示</translation>
     </message>
 </context>
 <context>
@@ -19217,23 +19502,28 @@ Slide</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="obsolete">更改界面</translation>
+        <translation>更改界面</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation type="obsolete">皮肤</translation>
+        <translation>皮肤</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
-        <translation type="obsolete">确定</translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation type="obsolete">更改语言</translation>
+        <translation>更改语言</translation>
     </message>
 </context>
 <context>
@@ -19244,7 +19534,7 @@ Slide</source>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="obsolete">组织结构图</translation>
+        <translation>组织结构图</translation>
     </message>
 </context>
 </TS>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sample">
-<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>BulletNumberGridWidget</name>
     <message>
@@ -37,6 +36,14 @@
     </message>
     <message>
         <source>Dark Style 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -81,14 +88,6 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -260,29 +259,6 @@
     </message>
     <message>
         <source>Slides in &amp;presentation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>DlgKxInvolvedTemplate</name>
-    <message>
-        <source>Involved Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select Involved Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply Current</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply Master</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -635,6 +611,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>UnLocked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Until End of Slide</source>
         <translation type="unfinished"></translation>
     </message>
@@ -644,10 +624,6 @@
     </message>
     <message>
         <source>With Previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unlocked</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -773,14 +749,6 @@
     <name>KxBackgroundDlg</name>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Try for magic!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -975,18 +943,6 @@
         <source>I&amp;gnore the background of master slide</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Template Background</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Magic Background</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgBkgndMusicTip</name>
@@ -1168,26 +1124,6 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgEmbedPrivateFonts</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The document contains cloud fonts. For the convenience of your readers, 
-we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remember my choice, and don&apos;t prompt me again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1617,10 +1553,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>&amp;Vertical ruler</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Show &amp;windows in taskbar</source>
-        <translation type="unfinished"></translation>
-    </message>
+	<message>
+		<source>Show &amp;windows in taskbar</source>
+		<translation type="unfinished"></translation>
+	</message>
     <message>
         <source>...</source>
         <translation type="unfinished"></translation>
@@ -1674,6 +1610,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enter a password below to protect this document.
+The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File encryption options for this document</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1687,6 +1628,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>General and Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gerneral options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1759,6 +1704,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Print &amp;what:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1865,78 +1814,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Spell Check</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Mini Toolbar on rig&amp;ht click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscribe WPS Minisite</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show E&amp;veryday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show After One Week (&amp;Y)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never Show &amp;Again</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto&amp;Recover file location:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Preserve &amp;fidelity when sharing this document:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Embed fon&amp;ts in the file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Embed &amp;only the characters used in the document (best for reducing file size)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Embed all &amp;characters (best for editing by other people)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remind &amp;Me When Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password protection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feedback</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -2040,6 +1917,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>On-screen show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Orientation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2056,6 +1937,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Projector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slides</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2065,133 +1950,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fullscreen(4:3)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Overhead</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fullscreen(16:9)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fullscreen(16:10)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Widescreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgParagraph</name>
-    <message>
-        <source>Paragraph</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Indents and Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>point, 2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>line, 2, 0, 9.99, 0.1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;fter:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;At:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Before:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Li&amp;ne spacing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ali&amp;gnment:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Indentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Befo&amp;re text:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Special:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Break</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow hanging punctuatio&amp;n</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First and last characters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custo&amp;m</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot st&amp;art line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cann&amp;ot end line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line-breaking characters currently customized for:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2341,10 +2099,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <source>Total Playing Time:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&amp;Hide icon on play</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -2419,15 +2173,15 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Volume Redress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>cbMute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>tbVolume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Volume Adjustment</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2799,6 +2553,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Save Adobe PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The directory you specified does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2820,10 +2578,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3018,20 +2772,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
-    <name>KxInvolvedTemplateDlg</name>
-    <message>
-        <source>Blank Design</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxInvolvedTemplateView</name>
-    <message>
-        <source>Use Blank Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Banded Columns</source>
@@ -3092,6 +2832,10 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
 <context>
     <name>KxOptionsDlg</name>
     <message>
+        <source>Comfirmation password does not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Please select one &amp;folder:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3101,22 +2845,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Confirmation password does not match.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select Folder:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3867,67 +3595,9 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
 </context>
 <context>
-    <name>KxWppFormatRangeSaveAsCommand</name>
-    <message>
-        <source>Preparing for Video Export</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to setup Supporter of Video Export.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppNewSlidesGalleryModel</name>
-    <message>
-        <source>Blank Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Content Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title and Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blank</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cover</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Body</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3975,52 +3645,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>All slides among this range are marked as hidden!</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppShowOffscreen</name>
-    <message>
-        <source>An Offscreen Show of this presentation is already running.
-Sure to close?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppSoundBarWidget</name>
-    <message>
-        <source>Move forward 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move back 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play/Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Volume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppStatusZoomOptionGalleryModel</name>
-    <message>
-        <source>Zoom Level</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>P&amp;ercent:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Fit Selection</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4285,6 +3909,10 @@ Sure to close?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Follow Text and Lines Sheme Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Follow Title Text Scheme Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4474,82 +4102,6 @@ Sure to close?</source>
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Justify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Distributed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(None)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hanging</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cm</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input value between 0cm and 21.35cm</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input value between 0 and 9.99</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please input value between 0pt and 1584pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1.5 times</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Double</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fixed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Multiple</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>按文本和线条配色方案</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4753,6 +4305,10 @@ Sure to close?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export Adobe PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4860,12 +4416,8 @@ Sure to close?</source>
         <source>Slides p&amp;er page:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Export PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+    <message utf8="true">
+        <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4880,11 +4432,11 @@ Sure to close?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preparing for exporting PDF file...</source>
+        <source>Export to Adobe PDF File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export to PDF File</source>
+        <source>Preparing for exporting PDF file...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

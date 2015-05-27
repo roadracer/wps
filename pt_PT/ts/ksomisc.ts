@@ -111,10 +111,6 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>KS Biaoge.lnk</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>WPS Cloud.lnk</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -286,17 +282,17 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>An error occured when repairing, please retry.</source>
+        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Repair completed!</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred when repairing, please retry.</source>
-        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -500,10 +496,6 @@ needs restarting Windows to take effect.</source>
         <extracomment>ksomisc -&gt; Advanced -&gt; File Asso -&gt; Check/Uncheck compat with mso.</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&amp;Compatible with Microsoft Office 2010</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KPageHomePage</name>
@@ -512,16 +504,15 @@ needs restarting Windows to take effect.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unlock the website navigation page(&amp;R)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can change the IE homepage anytime.
-Notice that doing so exposes you to risks of virus infection and hacking.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
+        <source>Unlock completed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1083,10 +1074,6 @@ The button icon, command group and task window position of each scheme are diffe
         <source>Microsoft PowerPoint Macro-Enabled Slide</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Microsoft Excel Backup File</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1107,15 +1094,15 @@ The button icon, command group and task window position of each scheme are diffe
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Programs that can be actiavted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Subtotal:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure to delete the serial number?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Programs that can be activated</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1139,6 +1126,10 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not check for updates automatically (not recommanded)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1204,22 +1195,6 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>The port must be a number between 1 and 65535.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do not check for updates automatically (not recommended)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update Items:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All new releases</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recommended new releases</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

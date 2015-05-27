@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Use ODBC data source connection guide(W)</source>
-        <translation type="obsolete">Использовать ODBC руководство по соединению с источником данных(W)</translation>
+        <translation>Использовать ODBC руководство по соединению с источником данных(W)</translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
@@ -131,10 +131,6 @@
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
         <translation>Можно выбрать один из трех способов подключения к выбранному источнику данных.</translation>
-    </message>
-    <message>
-        <source>Use ODBC data source connection guide (&amp;W)</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -357,11 +353,7 @@ condition is true:</source>
     <name>InsertFunctionLabel</name>
     <message>
         <source>I want to comment function</source>
-        <translation type="obsolete">Хочу добавить примечание к функции</translation>
-    </message>
-    <message>
-        <source>Comment function</source>
-        <translation type="unfinished"></translation>
+        <translation>Хочу добавить примечание к функции</translation>
     </message>
 </context>
 <context>
@@ -721,7 +713,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Number Filter(F)</source>
-        <translation type="obsolete">Фильтровать по номеру(F)</translation>
+        <translation>Фильтровать по номеру(F)</translation>
     </message>
     <message>
         <source>Date Filter</source>
@@ -729,7 +721,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Date Filter(F)</source>
-        <translation type="obsolete">Фильтровать по дате(F)</translation>
+        <translation>Фильтровать по дате(F)</translation>
     </message>
     <message>
         <source>Text Filter</source>
@@ -737,7 +729,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Text Filter(F)</source>
-        <translation type="obsolete">Фильтровать по тексту(F)</translation>
+        <translation>Фильтровать по тексту(F)</translation>
     </message>
     <message>
         <source>Not Equal To</source>
@@ -777,15 +769,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation type="obsolete">По возрастанию(S)</translation>
+        <translation>По возрастанию(S)</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation type="obsolete">По убыванию(O)</translation>
+        <translation>По убыванию(O)</translation>
     </message>
     <message>
         <source>Clear(C)</source>
-        <translation type="obsolete">Очистить(C)</translation>
+        <translation>Очистить(C)</translation>
     </message>
     <message>
         <source>Filter by Value</source>
@@ -806,30 +798,6 @@ condition is true:</source>
     <message>
         <source>Top 10</source>
         <translation>Первые 10</translation>
-    </message>
-    <message>
-        <source>Number &amp;Filter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Date &amp;Filter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text &amp;Filter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;scending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Descending (&amp;O)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Clear</source>
-        <translation type="unfinished">&amp;Очистить</translation>
     </message>
 </context>
 <context>
@@ -970,7 +938,7 @@ condition is true:</source>
     </message>
     <message>
         <source>You need to have the right to access the database:</source>
-        <translation type="obsolete">Вы должны иметь права доступа к базе данных:</translation>
+        <translation>Вы должны иметь права доступа к базе данных:</translation>
     </message>
     <message>
         <source>&amp;Username:</source>
@@ -979,10 +947,6 @@ condition is true:</source>
     <message>
         <source>&amp;Password:</source>
         <translation>&amp;Пароль:</translation>
-    </message>
-    <message>
-        <source>Valid username and password required to access the database:</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1090,7 +1054,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Highlight-Value</source>
-        <translation type="obsolete">Выделить значение</translation>
+        <translation>Выделить значение</translation>
     </message>
     <message>
         <source>Equal to</source>
@@ -1106,7 +1070,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Greater than or equal</source>
-        <translation type="obsolete">Больше или равно</translation>
+        <translation>Больше или равно</translation>
     </message>
     <message>
         <source>Less than</source>
@@ -1114,7 +1078,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Less than or equal</source>
-        <translation type="obsolete">Меньше или равно</translation>
+        <translation>Меньше или равно</translation>
     </message>
     <message>
         <source>and</source>
@@ -1158,11 +1122,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Highlight-Text</source>
-        <translation type="obsolete">Выделить текст</translation>
+        <translation>Выделить текст</translation>
     </message>
     <message>
         <source>Contain</source>
-        <translation type="obsolete">Содержит</translation>
+        <translation>Содержит</translation>
     </message>
     <message>
         <source>Does not contain</source>
@@ -1170,15 +1134,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Begin with</source>
-        <translation type="obsolete">Начинается на</translation>
+        <translation>Начинается на</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation type="obsolete">Заканчивается на</translation>
+        <translation>Заканчивается на</translation>
     </message>
     <message>
         <source>Highlight-Date</source>
-        <translation type="obsolete">Выделить дату</translation>
+        <translation>Выделить дату</translation>
     </message>
     <message>
         <source>A Date Occurring</source>
@@ -1230,7 +1194,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Highlight-Special Value</source>
-        <translation type="obsolete">Выделить специальное значение</translation>
+        <translation>Выделить специальное значение</translation>
     </message>
     <message>
         <source>Empty Cell</source>
@@ -1247,42 +1211,6 @@ condition is true:</source>
     <message>
         <source>The required range value is insufficient</source>
         <translation>Недостаточная величина требуемого диапазона</translation>
-    </message>
-    <message>
-        <source>Highlight - Value</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Greater than or equal to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Less than or equal to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highlight - Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contains</source>
-        <translation type="unfinished">Содержит</translation>
-    </message>
-    <message>
-        <source>Begins with</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ends with</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highlight - Date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highlight - Special Value</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1413,7 +1341,7 @@ condition is true:</source>
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation type="obsolete">Невозможно создать сводную таблицу с этими данными. Проверьте анализируемые данные на соответствовие следующим условиям: 
+        <translation>Невозможно создать сводную таблицу с этими данными. Проверьте анализируемые данные на соответствовие следующим условиям: 
 1. убедитесь, что ссылка существует. Если это имя, оно должно быть в допустимом диапазоне; 
 2. убедитесь, что ссылка на один диапазон, содержащий, по крайней мере, две строки;
 3. убедитесь, что первая строка диапазона не содержит пустых ячеек или ошибочных значений, и каждая ячейка содержит не более 255 знаков.</translation>
@@ -1445,13 +1373,6 @@ condition is true:</source>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
         <translation>Невоможно создать сводную таблицу с этими данными. Проверьте правильность диапазона ссылки, и существет ли данный лист.</translation>
-    </message>
-    <message>
-        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
-1.Make sure that the reference exists. If it is a name, it must be a valid range;
-2.Make sure that the reference is a single range, and it must contain two rows at least;
-3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1574,11 +1495,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>An error occurred when deleted.</source>
-        <translation type="obsolete">Ошибка при удалении.</translation>
-    </message>
-    <message>
-        <source>An error occurred when delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при удалении.</translation>
     </message>
 </context>
 <context>
@@ -2075,11 +1992,11 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Use another &amp;pivotTable:</source>
-        <translation type="obsolete">Использовать другую &amp;сводную таблицу:</translation>
+        <translation>Использовать другую &amp;сводную таблицу:</translation>
     </message>
     <message>
         <source>Choose where you want the pivotTable to be placed</source>
-        <translation type="obsolete">Выберите место для размещения сводной таблицы</translation>
+        <translation>Выберите место для размещения сводной таблицы</translation>
     </message>
     <message>
         <source>&amp;New worksheet</source>
@@ -2088,14 +2005,6 @@ To keep existing picture, press Cancel.</source>
     <message>
         <source>&amp;Existing worksheet:</source>
         <translation>&amp;Существующий лист:</translation>
-    </message>
-    <message>
-        <source>Use another &amp;PivotTable:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose where you want the PivotTable report to be placed</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2168,8 +2077,8 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation type="obsolete">Имя листа</translation>
     </message>
     <message>
-        <source>Header and Footer</source>
-        <translation type="unfinished">Колонтитулы</translation>
+        <source>headerfooter</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3080,7 +2989,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Custom lists from</source>
-        <translation type="obsolete">Списки</translation>
+        <translation>Списки</translation>
     </message>
     <message>
         <source>&amp;Row</source>
@@ -3089,10 +2998,6 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>&amp;Column</source>
         <translation>&amp;Столбец</translation>
-    </message>
-    <message>
-        <source>Import lists from</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4006,7 +3911,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="obsolete">Конфиденциальность</translation>
+        <translation>Конфиденциальность</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
@@ -4030,7 +3935,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation type="obsolete">&amp;Показывать окна на панели задач</translation>
+        <translation>&amp;Показывать окна на панели задач</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -4046,51 +3951,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>SaveAsCreateBackup</source>
-        <translation type="obsolete">Сохранить как с резервным копированием</translation>
+        <translation>Сохранить как с резервным копированием</translation>
     </message>
     <message>
         <source>Create&amp;Backup</source>
-        <translation type="obsolete">Создать &amp;резервную копию</translation>
+        <translation>Создать &amp;резервную копию</translation>
     </message>
     <message>
         <source>RecommendedReadOnlyOption</source>
-        <translation type="obsolete">Параметр Рекомендуемо только для чтения</translation>
+        <translation>Параметр Рекомендуемо только для чтения</translation>
     </message>
     <message>
         <source>&amp;RecommendedReadOnly</source>
-        <translation type="obsolete">Рекомендуемо только для &amp;чтения</translation>
-    </message>
-    <message>
-        <source>Subscribe WPS Minisite</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show E&amp;veryday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show After One Week (&amp;Y)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never Show &amp;Again</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Mini Toolbar on rig&amp;ht click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Рекомендуемо только для &amp;чтения</translation>
     </message>
 </context>
 <context>
@@ -4853,17 +4726,12 @@ prior to sharing the workbook.</source>
     <message>
         <source>%d duplicates are found;
 Only %d unique value can be keep after delete.</source>
-        <translation type="obsolete">найдено %d повторений; 
+        <translation>найдено %d повторений; 
 Только %d уникальные значения будут оставлены после удаления.</translation>
     </message>
     <message>
         <source>&amp;Remove Duplicates</source>
         <translation>&amp;Удалить повторения</translation>
-    </message>
-    <message>
-        <source>%1 duplicates are found;
-Only %2 unique values will be left after delete.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4912,7 +4780,7 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>YourChange</source>
-        <translation type="obsolete">Ваше изменение</translation>
+        <translation>Ваше изменение</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4932,23 +4800,11 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>Accept All for Current User</source>
-        <translation type="obsolete">Принять все для данного пользователя</translation>
+        <translation>Принять все для данного пользователя</translation>
     </message>
     <message>
         <source>Accept All Other Users</source>
-        <translation type="obsolete">Принять всехдругих пользователей</translation>
-    </message>
-    <message>
-        <source>Your Changes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Accept All of Current User</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accept All of Other U&amp;sers</source>
-        <translation type="unfinished"></translation>
+        <translation>Принять всехдругих пользователей</translation>
     </message>
 </context>
 <context>
@@ -4963,7 +4819,7 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="obsolete">Сохранить как</translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4971,15 +4827,7 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>Other users may have committed some changes which cannot be identified by WPS Spreadsheets. Click Continue will save the file and discard the changes, while click Save As will save a copy of the current file.</source>
-        <translation type="obsolete">Другие пользователи, возможно, внесли исправления, которые невозможно определить в WPS Spreadsheets. Нажмите кнопку &quot;Продолжить&quot; для сохранения файла и отмены исправлений, или нажмите &quot;Сохранить как&quot; для сохранения копии текущего файла.</translation>
-    </message>
-    <message>
-        <source>&amp;Save As</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other users may have submmitted some changes which cannot be identified by WPS Spreadsheets. To save the file and discard the changes, click Continue; to save a copy of the current file, click Save As.</source>
-        <translation type="unfinished"></translation>
+        <translation>Другие пользователи, возможно, внесли исправления, которые невозможно определить в WPS Spreadsheets. Нажмите кнопку &quot;Продолжить&quot; для сохранения файла и отмены исправлений, или нажмите &quot;Сохранить как&quot; для сохранения копии текущего файла.</translation>
     </message>
 </context>
 <context>
@@ -5673,17 +5521,12 @@ This also allows workbook merging.</source>
     <message>
         <source>The Text Wizard has determined that your data is Delimited. 
 If this is correct, choose Next, or choose the data type that best describes your data.</source>
-        <translation type="obsolete">Мастер Текстов определил данные с разделителями.
+        <translation>Мастер Текстов определил данные с разделителями.
 Если это так, выберите &quot;Далее&quot;, или наиболее подходящий тип данных.</translation>
     </message>
     <message>
         <source>{None}</source>
         <translation>{нет}</translation>
-    </message>
-    <message>
-        <source>The Text Wizard has determined that your data is Delimited. 
-If this is correct, choose Next. If not, choose the data type that best describes your data.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5999,11 +5842,7 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
     <message>
         <source>A query with this name already exist on this worksheet.</source>
-        <translation type="obsolete">Запрос с таким именем уже существует на данном листе.</translation>
-    </message>
-    <message>
-        <source>A query with this name already exists on this worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрос с таким именем уже существует на данном листе.</translation>
     </message>
 </context>
 <context>
@@ -6416,6 +6255,10 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <translation>В настоящее время вы имеете разрения на просмотр документа как: 	</translation>
     </message>
     <message>
+        <source>userName</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Change user...</source>
         <translation>Поменять пользователя...</translation>
     </message>
@@ -6457,7 +6300,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Permission expiration date:</source>
-        <translation type="obsolete">Дата окончания срока действия разрешения:</translation>
+        <translation>Дата окончания срока действия разрешения:</translation>
     </message>
     <message>
         <source>(N/A)</source>
@@ -6465,19 +6308,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Resquest additional permissions... </source>
-        <translation type="obsolete">Запрос дополнительных разрешений...</translation>
-    </message>
-    <message>
-        <source>Username</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission expires on:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Request additional permissions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрос дополнительных разрешений...</translation>
     </message>
 </context>
 <context>
@@ -6539,22 +6370,6 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <source>Switch Sheet</source>
         <translation>Перейти на другой лист</translation>
     </message>
-    <message>
-        <source>To Start</source>
-        <translation type="unfinished">К началу</translation>
-    </message>
-    <message>
-        <source>To End</source>
-        <translation type="unfinished">К концу</translation>
-    </message>
-    <message>
-        <source>Backward</source>
-        <translation type="unfinished">Назад</translation>
-    </message>
-    <message>
-        <source>Forward</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxEtSmartLabelAutoFill</name>
@@ -6593,21 +6408,6 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Fill &amp;Years</source>
         <translation>Заполнить по &amp;годам</translation>
-    </message>
-</context>
-<context>
-    <name>KxEtStatusZoomOptionGalleryModel</name>
-    <message>
-        <source>Zoom Level</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Custom:</source>
-        <translation type="unfinished">&amp;Выбор:</translation>
-    </message>
-    <message>
-        <source>&amp;Fit Selection</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7158,19 +6958,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Help about this Function</source>
-        <translation type="obsolete">Справка по этой функции</translation>
+        <translation>Справка по этой функции</translation>
     </message>
     <message>
         <source>No futher information.</source>
-        <translation type="obsolete">Нет дополнительной информации.</translation>
-    </message>
-    <message>
-        <source>&amp;Help about this Function</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No further information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет дополнительной информации.</translation>
     </message>
 </context>
 <context>
@@ -7242,11 +7034,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Goal Seeking with Cell %1 still can not find a solution.</source>
-        <translation type="obsolete">Подбор параметра для ячейки %1 не нашёл решение.</translation>
-    </message>
-    <message>
-        <source>Goal Seeking with Cell %1 may not have found a solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подбор параметра для ячейки %1 не нашёл решение.</translation>
     </message>
 </context>
 <context>
@@ -7513,15 +7301,11 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>To enter a reference using the mouse,click in the edit box, and then click the cell in the sheet you want to refer to,or drag through the range you want to select.</source>
-        <translation type="obsolete">Неверная ссылка или ссылка отсутствует. Чтобы ввести ссылку с помощью мыши, щелкните строку ввода, а затем щелкните ячейку листа, или выделите диапазон.</translation>
+        <translation>Неверная ссылка или ссылка отсутствует. Чтобы ввести ссылку с помощью мыши, щелкните строку ввода, а затем щелкните ячейку листа, или выделите диапазон.</translation>
     </message>
     <message>
         <source>A range with the title  &quot;%1&quot; already exists. Please enter a new title for the range.</source>
         <translation>Диапазон с названием &quot;%1&quot; уже существует. Введите другое название диапазона.</translation>
-    </message>
-    <message>
-        <source>To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7571,7 +7355,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others is no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
-        <translation type="obsolete">%1 Если нужно внести изменения в этот файл в WPS Spreadsheets, убедитесь, что другие его не редактируют, и преобразуйте файл %2 в общую книгу %3 WPS Spreadsheets.</translation>
+        <translation>%1 Если нужно внести изменения в этот файл в WPS Spreadsheets, убедитесь, что другие его не редактируют, и преобразуйте файл %2 в общую книгу %3 WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>%1 If you only need to view content, please select %2 Read-only %3.</source>
@@ -7588,10 +7372,6 @@ To keep existing picture, press Cancel.</source>
     <message>
         <source>This file is currently being edited by %1 users:</source>
         <translation>В настоящий момент этот файл редактируется %1 пользователями:</translation>
-    </message>
-    <message>
-        <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others are no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7746,7 +7526,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="obsolete">Нет разрешения на запись файлов резервных копий в &quot;%1&quot;.</translation>
+        <translation>Нет разрешения на запись файлов резервных копий в &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
@@ -7755,10 +7535,6 @@ To keep existing picture, press Cancel.</source>
     <message>
         <source>Select Folder:</source>
         <translation>Выбрать папку:</translation>
-    </message>
-    <message>
-        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8225,21 +8001,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>%1 duplicates are found;
 Only %2 unique value can be keep after delete.</source>
-        <translation type="obsolete">найдено %1 повторений; 
+        <translation>найдено %1 повторений; 
 Только %2 уникальные значения будут оставлены после удаления.</translation>
     </message>
     <message>
         <source>%1 duplicates are found, which have been deleted; Only keep %2 unique value.</source>
-        <translation type="obsolete">найдено %1 повторений, которые будут удалены. Только %2 уникальные значения будут оставлены после удаления.</translation>
-    </message>
-    <message>
-        <source>%1 duplicates are found;
-%2 unique values will be left after delete.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 duplicates are found and have been deleted, %2 unique values are remained.</source>
-        <translation type="unfinished"></translation>
+        <translation>найдено %1 повторений, которые будут удалены. Только %2 уникальные значения будут оставлены после удаления.</translation>
     </message>
 </context>
 <context>
@@ -8281,17 +8048,10 @@ the cells will be set in orange background.
 system will remind checking the correctness of the contents.
 
 (Note: The function only supports single range)</source>
-        <translation type="obsolete">При вводе повторяющегося содержания в диапазоне, 
+        <translation>При вводе повторяющегося содержания в диапазоне, 
 будет предложено проверить правильность ввода. 
 
 (Примечание: функция поддерживает только один диапазон)</translation>
-    </message>
-    <message>
-        <source>When duplicate content is entered in the following range, the
-system will remind you to check the correctness of the contents.
-
-(Note: The function only supports single range)</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8718,7 +8478,7 @@ system will remind you to check the correctness of the contents.
     <name>KxTpEtPivotTable</name>
     <message>
         <source>Drag items to the pivotTable areas</source>
-        <translation type="obsolete">Перетащите элементы в области сводной таблицы</translation>
+        <translation>Перетащите элементы в области сводной таблицы</translation>
     </message>
     <message>
         <source>Drag fields between areas below</source>
@@ -8820,10 +8580,6 @@ system will remind you to check the correctness of the contents.
         <source>At least one item must be showing. 
 If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
         <translation>По крайней мере, один элемент должен быть показан. Если вы не хотите показывать поле, то отмените текущую операцию, и затем перетащите поле из отчета.</translation>
-    </message>
-    <message>
-        <source>Drag fields onto PivotTable area</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9608,11 +9364,11 @@ t</source>
     </message>
     <message>
         <source>Shrink To fit</source>
-        <translation type="obsolete">Автоподбор ширины</translation>
+        <translation>Автоподбор ширины</translation>
     </message>
     <message>
         <source>Context Reading Order</source>
-        <translation type="obsolete">Порядок чтения контекста</translation>
+        <translation>Порядок чтения контекста</translation>
     </message>
     <message>
         <source>Rotated down %1 Degrees</source>
@@ -10152,19 +9908,19 @@ t</source>
     </message>
     <message>
         <source>To Start</source>
-        <translation type="obsolete">К началу</translation>
+        <translation>К началу</translation>
     </message>
     <message>
         <source>To End</source>
-        <translation type="obsolete">К концу</translation>
+        <translation>К концу</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation type="obsolete">Назад</translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="obsolete">Вперёд</translation>
+        <translation>Вперёд</translation>
     </message>
     <message>
         <source>integer</source>
@@ -10288,7 +10044,7 @@ t</source>
     </message>
     <message>
         <source>Switch Sheet</source>
-        <translation type="obsolete">Перейти на другой лист</translation>
+        <translation>Перейти на другой лист</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot complete this task with available resources. Choose less data or close other applications.</source>
@@ -10364,19 +10120,7 @@ t</source>
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation type="obsolete">В данный момент нет записи макроса. Щёлкните, чтобы начать запись нового макроса.</translation>
-    </message>
-    <message>
-        <source>Shrink to Fit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Context</source>
-        <translation type="unfinished">Контекст</translation>
-    </message>
-    <message>
-        <source>No macro is currently recording. Click to begin recording a new macro.</source>
-        <translation type="unfinished"></translation>
+        <translation>В данный момент нет записи макроса. Щёлкните, чтобы начать запись нового макроса.</translation>
     </message>
 </context>
 <context>
@@ -10446,11 +10190,7 @@ t</source>
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box, all fieldss will be listed in the left list box, select the fields needed to be imported there, the selected fields will be listed in the right list box.</source>
-        <translation type="obsolete">Выберите из выпадающего списка целевую таблицу для импорта, все поля будут перечислены в левом списке. Выберите импортируемые поля, выбранные поля будут перечислены в правом списке.</translation>
-    </message>
-    <message>
-        <source>Please select the target table to be imported from the combo box. All fields will be listed in the left list box. Select the fields needed to be imported there, and the selected fields will be listed in the right list box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите из выпадающего списка целевую таблицу для импорта, все поля будут перечислены в левом списке. Выберите импортируемые поля, выбранные поля будут перечислены в правом списке.</translation>
     </message>
 </context>
 <context>
@@ -10587,7 +10327,7 @@ t</source>
     </message>
     <message>
         <source>S&amp;ubject to the Constraint:</source>
-        <translation type="obsolete">С у&amp;четом ограничения:</translation>
+        <translation>С у&amp;четом ограничения:</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -10636,10 +10376,6 @@ t</source>
     <message>
         <source>&amp;Reset All</source>
         <translation>&amp;Восстановить все начальные настройки</translation>
-    </message>
-    <message>
-        <source>S&amp;ubject to the Constraints:</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10981,7 +10717,7 @@ t</source>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="obsolete">Пароль для защиты настроек разрешений</translation>
+        <translation>Пароль для защиты настроек разрешений</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
@@ -11006,10 +10742,6 @@ t</source>
     <message>
         <source>Export to PDF File</source>
         <translation>Преобразование в файл PDF</translation>
-    </message>
-    <message>
-        <source>Password to protect pe&amp;rmission settings</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11061,7 +10793,7 @@ Document</source>
     </message>
     <message>
         <source>Email Buttion</source>
-        <translation type="obsolete">Кнопка электронной почты</translation>
+        <translation>Кнопка электронной почты</translation>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
@@ -11105,10 +10837,6 @@ or Web Page</source>
         <source>Re&amp;cently used E-mail addresses:</source>
         <translation>&amp;Список недавно использованных адресов:</translation>
     </message>
-    <message>
-        <source>Email Button</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>kxUiHyperlinket</name>
@@ -11137,7 +10865,7 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;UnChecked</source>
-        <translation type="obsolete">&amp;Неотмеченные</translation>
+        <translation>&amp;Неотмеченные</translation>
     </message>
     <message>
         <source>&amp;Checked</source>
@@ -11177,11 +10905,11 @@ or Web Page</source>
     </message>
     <message>
         <source>Step s&amp;ize:</source>
-        <translation type="obsolete">&amp;Величина шага:</translation>
+        <translation>&amp;Величина шага:</translation>
     </message>
     <message>
         <source>&amp;Page step size:</source>
-        <translation type="obsolete">Размер шага &amp;страницы:</translation>
+        <translation>Размер шага &amp;страницы:</translation>
     </message>
     <message>
         <source>&amp;3-D shading</source>
@@ -11206,18 +10934,6 @@ or Web Page</source>
     <message>
         <source>Ma&amp;ximum value:</source>
         <translation>&amp;Максимальное значение:</translation>
-    </message>
-    <message>
-        <source>&amp;Unchecked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>By (&amp;I):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Page change:</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11394,7 +11110,7 @@ or Web Page</source>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which would cause the current file and other files cannot get the correct results in time during the editing process.
 Do you want to change to Manual?</source>
-        <translation type="obsolete">Открываемый файл измененяет параметр &quot;Автоматически&quot; на &quot;Вручную&quot;. Это может привести к тому, что текущий и другие файлы могут своевремено не получить правильные результаты в процессе редактирования. 
+        <translation>Открываемый файл измененяет параметр &quot;Автоматически&quot; на &quot;Вручную&quot;. Это может привести к тому, что текущий и другие файлы могут своевремено не получить правильные результаты в процессе редактирования. 
 Хотите изменить на &quot;Вручную&quot;?</translation>
     </message>
     <message>
@@ -11404,11 +11120,6 @@ Do you want to change to Manual?</source>
     <message>
         <source>Automatic(Recommend)</source>
         <translation>Автоматически (рекомендуется)</translation>
-    </message>
-    <message>
-        <source>The file you are opening changes the option of Automatic to Manual, which will prevent the current file and other files from getting the correct results in time during the editing process.
-Do you want to change to Manual?</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

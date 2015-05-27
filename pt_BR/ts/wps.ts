@@ -2210,15 +2210,11 @@ usar os botões para aplicar bordas</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="obsolete">cancelar</translation>
+        <translation>cancelar</translation>
     </message>
     <message>
         <source>&amp;Paragraphs</source>
         <translation>parágrafos</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2471,40 +2467,80 @@ usar os botões para aplicar bordas</translation>
 <context>
     <name>KxDlgDocumentFields</name>
     <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocumentField Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Insert</source>
-        <translation type="obsolete">Inserir</translation>
+        <translation type="unfinished">Inserir</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="obsolete">renomear</translation>
+        <translation type="unfinished">renomear</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="obsolete">ir para página</translation>
+        <translation type="unfinished">ir para página</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Marks Only</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="obsolete">Ordenar Por:</translation>
+        <translation type="unfinished">Ordenar Por:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="obsolete">Nome</translation>
+        <translation type="unfinished">Nome</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="obsolete">Localização</translation>
+        <translation type="unfinished">Localização</translation>
+    </message>
+    <message>
+        <source>DocumentField Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="obsolete">escondido</translation>
+        <translation type="unfinished">escondido</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read &amp;Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertion Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then counted in. </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="obsolete">OK</translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">Cancelar</translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2749,11 +2785,7 @@ Se Necessário , Por Favor, Clique Em Cancelar.</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation type="obsolete">Lembre-Se Esta Operação , Não Lembrar Mais</translation>
-    </message>
-    <message>
-        <source>Remember my choice, and don&apos;t prompt me again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lembre-Se Esta Operação , Não Lembrar Mais</translation>
     </message>
 </context>
 <context>
@@ -2995,7 +3027,7 @@ Se Necessário , Por Favor, Clique Em Cancelar.</translation>
         <translation>Propriedade Do Documento :</translation>
     </message>
     <message>
-        <source>Add &amp;path to filename</source>
+        <source>Add the &amp;path to the file name</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3087,7 +3119,7 @@ Se Necessário , Por Favor, Clique Em Cancelar.</translation>
     </message>
     <message>
         <source>replace options</source>
-        <translation type="obsolete">substituir opções</translation>
+        <translation>substituir opções</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -3258,10 +3290,6 @@ Exemplo: 4 Vai Avançar Quatro Itens :</translation>
     <message>
         <source>Find Previous(&amp;B)</source>
         <translation>Localizar Anterior (B)</translation>
-    </message>
-    <message>
-        <source>Replace options</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3640,7 +3668,7 @@ Exemplo: 4 Vai Avançar Quatro Itens :</translation>
     </message>
     <message>
         <source>UnderLine</source>
-        <translation type="obsolete">Sublinhado</translation>
+        <translation>Sublinhado</translation>
     </message>
     <message>
         <source>Border</source>
@@ -3681,10 +3709,6 @@ Exemplo: 4 Vai Avançar Quatro Itens :</translation>
     <message>
         <source>Allow ha&amp;nging punctuation</source>
         <translation>Permitir Pontuação Deslocada</translation>
-    </message>
-    <message>
-        <source>Underline</source>
-        <translation type="unfinished">Sublinhe</translation>
     </message>
 </context>
 <context>
@@ -4827,11 +4851,11 @@ Exemplo: 4 Vai Avançar Quatro Itens :</translation>
     </message>
     <message>
         <source>Discern &amp;person</source>
-        <translation type="obsolete">Discernir Pessoa</translation>
+        <translation>Discernir Pessoa</translation>
     </message>
     <message>
         <source>Discern &amp;location</source>
-        <translation type="obsolete">Localização Discern</translation>
+        <translation>Localização Discern</translation>
     </message>
     <message>
         <source>Bl&amp;ue background, white text</source>
@@ -5625,7 +5649,7 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="obsolete">Privacidade</translation>
+        <translation>Privacidade</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
@@ -5648,6 +5672,10 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>F&amp;onts Preview Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>AutoNumber</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5665,6 +5693,10 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     </message>
     <message>
         <source>Do &amp;not compress images in file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5692,47 +5724,7 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Font Preview Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Mini Toolbar on rig&amp;ht click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscribe WPS Minisite</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show E&amp;veryday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show After One Week (&amp;Y)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never Show &amp;Again</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Discern &amp;person(only effective in Chinese)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Discern &amp;location(only effective in Chinese)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feedback</source>
+        <source>D&amp;ocument fields</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7361,6 +7353,18 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
 <context>
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
+        <source>Field name record delimiter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field delimiter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>(None)</source>
         <translation type="unfinished">(Nenhum)</translation>
     </message>
@@ -7489,19 +7493,7 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Header Record Delimiters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Field delimiter: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Record delimiter:</source>
+        <source>Record delimiter:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7606,11 +7598,23 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     <name>KxDocumentFieldsDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">Cancelar</translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="obsolete">Fechar</translation>
+        <translation type="unfinished">Fechar</translation>
+    </message>
+    <message>
+        <source>The document field with this name has already existed. Do you want to cover it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field is illegal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field has already existed, please rename it!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7806,7 +7810,7 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation type="unfinished">Presumir A Kingsoft.Wps Está Na Unidade C. Código de Campo : Hyperlink C : \\\\ Kingsoft.Wps</translation>
+        <translation type="obsolete">Presumir A Kingsoft.Wps Está Na Unidade C. Código de Campo : Hyperlink C : \\\\ Kingsoft.Wps</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -7818,7 +7822,7 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
-        <translation type="unfinished">Abra e Ative Os Kingsoft.Wps Arquivo Sob O Rígido C.</translation>
+        <translation type="obsolete">Abra e Ative Os Kingsoft.Wps Arquivo Sob O Rígido C.</translation>
     </message>
     <message>
         <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
@@ -7977,7 +7981,7 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation type="unfinished">Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</translation>
+        <translation type="obsolete">Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</translation>
     </message>
     <message>
         <source>IncludePicture</source>
@@ -8004,11 +8008,55 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
         <translation>Insira Uma Propriedade de Documento</translation>
     </message>
     <message>
+        <source>/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>root directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D:\\</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D drive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open and activate the file KingSoft.wps under the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IncludeText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text to from a file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>FileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert the file name of the document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8018,22 +8066,6 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     <message>
         <source>Document &amp;property:</source>
         <translation type="unfinished">Propriedade Do Documento :</translation>
-    </message>
-    <message>
-        <source>Presume a file&apos;s url is &quot;d:\\wps.doc&quot;. Field code: INCLUDETEXT &quot;d:\\wps.doc&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert text from file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert file name of the document</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9018,7 +9050,7 @@ Esta Alteração Afetará Todos Os Novos Documentos Baseados No Modelo %1 .</tra
     </message>
     <message>
         <source>Itatic, </source>
-        <translation type="obsolete">Itatic ,</translation>
+        <translation>Itatic ,</translation>
     </message>
     <message>
         <source>0#</source>
@@ -9190,10 +9222,6 @@ Cancelar : Retorna Ao Diálogo.</translation>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>Salvar Falhou. Modelo Normal Está Ocupada .</translation>
     </message>
-    <message>
-        <source>Italic, </source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxNewLabelDlg</name>
@@ -9218,7 +9246,7 @@ Cancelar : Retorna Ao Diálogo.</translation>
     </message>
     <message>
         <source>Itatic, </source>
-        <translation type="obsolete">Itatic ,</translation>
+        <translation>Itatic ,</translation>
     </message>
     <message>
         <source>Bold, </source>
@@ -9250,7 +9278,7 @@ Cancelar : Retorna Ao Diálogo.</translation>
     </message>
     <message>
         <source>LeftAndRight</source>
-        <translation type="obsolete">Leftandright</translation>
+        <translation>Leftandright</translation>
     </message>
     <message>
         <source>Dispersion</source>
@@ -9426,14 +9454,6 @@ Cancelar : Retorna Ao Diálogo.</translation>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>Salvar Falhou. Modelo Normal Está Ocupada .</translation>
     </message>
-    <message>
-        <source>Italic, </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Left and Right</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
@@ -9478,11 +9498,11 @@ Cancelar : Retorna Ao Diálogo.</translation>
         <translation>Etapas Max Undo /Redo Deve Estar Entre %1 e %2 .</translation>
     </message>
     <message>
-        <source>The directory &quot;%1&quot; is not valid.</source>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+        <source>The directory &quot;%1&quot; is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11171,7 +11191,7 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
 <context>
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
-        <source>The field delimiter cannot be the same as the record delimiter.</source>
+        <source>Field delimiter and record delimiter cannot be same.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11643,6 +11663,10 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>userName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change user...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11683,19 +11707,15 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Permission expiration date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>(N/A)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission expires on:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Request additional permissions…</source>
+        <source>Resquest additional permissions... </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11703,7 +11723,7 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>In Line With Text</source>
-        <translation type="obsolete">Na linha do Texto</translation>
+        <translation>Na linha do Texto</translation>
     </message>
     <message>
         <source>Square</source>
@@ -11728,10 +11748,6 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     <message>
         <source>Top and Bottom</source>
         <translation>Superior e Inferior</translation>
-    </message>
-    <message>
-        <source>In Line with Text</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11798,7 +11814,7 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Revisions: %1</source>
+        <source>Revision: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12071,29 +12087,6 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     </message>
 </context>
 <context>
-    <name>KxWpsStatusZoomOptionGalleryModel</name>
-    <message>
-        <source>Zoom Level</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>P&amp;ercent:</source>
-        <translation type="unfinished">Porcentagem :</translation>
-    </message>
-    <message>
-        <source>&amp;Whole Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Page Width</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Text Width</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxWpsStyleGalleryModel</name>
     <message>
         <source>Styles</source>
@@ -12311,14 +12304,10 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation type="obsolete">Não Macros Está Gravando . Clique Para Começar A Gravar Uma Novo Macro .</translation>
+        <translation>Não Macros Está Gravando . Clique Para Começar A Gravar Uma Novo Macro .</translation>
     </message>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No macro is currently recording. Click to begin recording a new macro.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12458,11 +12447,11 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="obsolete">Senha Para Proteger As Configurações de Permissão</translation>
+        <translation>Senha Para Proteger As Configurações de Permissão</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="obsolete">Nota: Só Senha Definição Pode O Efeito Configurações Abaixo e Evitar Ser Alterados Por Outros.</translation>
+        <translation>Nota: Só Senha Definição Pode O Efeito Configurações Abaixo e Evitar Ser Alterados Por Outros.</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -12486,14 +12475,6 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     </message>
     <message>
         <source>Export PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password to prot&amp;ect permission settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

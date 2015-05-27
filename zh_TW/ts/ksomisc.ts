@@ -119,10 +119,6 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>KS Biaoge.lnk</source>
         <translation>金山表格.lnk</translation>
     </message>
-    <message>
-        <source>WPS Cloud.lnk</source>
-        <translation type="unfinished">WPS轻办公.lnk</translation>
-    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -261,7 +257,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <message>
         <source>An error occured when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation type="obsolete">修補時出現異常，請重試！</translation>
+        <translation>修補時出現異常，請重試！</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -321,11 +317,6 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred when repairing, please retry.</source>
-        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -557,16 +548,12 @@ needs restarting Windows to take effect.</source>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
         <translation>WPS Writer 新增立檔案預設儲存為*.doc格式(&amp;D)</translation>
     </message>
-    <message>
-        <source>&amp;Compatible with Microsoft Office 2010</source>
-        <translation type="unfinished">與 Microsoft Office 2010 兼容(&amp;R)</translation>
-    </message>
 </context>
 <context>
     <name>KPageHomePage</name>
     <message>
         <source>Unlock completed</source>
-        <translation type="obsolete">解除主頁鎖定成功</translation>
+        <translation type="unfinished">解除主頁鎖定成功</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
@@ -578,16 +565,7 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation type="obsolete">如果你不喜歡金山網址大全，可解除IE主頁鎖定。溫馨提示：解除主頁鎖定將面臨感染病毒、帳號被盜的風險。</translation>
-    </message>
-    <message>
-        <source>You can change the IE homepage anytime.
-Notice that doing so exposes you to risks of virus infection and hacking.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果你不喜歡金山網址大全，可解除IE主頁鎖定。溫馨提示：解除主頁鎖定將面臨感染病毒、帳號被盜的風險。</translation>
     </message>
 </context>
 <context>
@@ -1167,10 +1145,6 @@ The button icon, command group and task window position of each scheme are diffe
         <source>Microsoft Office Excel Data Interchange Format</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Microsoft Excel Backup File</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1192,7 +1166,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Programs that can be actiavted</source>
-        <translation type="obsolete">可啟動程式</translation>
+        <translation>可啟動程式</translation>
     </message>
     <message>
         <source>Serial Number</source>
@@ -1201,10 +1175,6 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>Subtotal:</source>
         <translation>小計:</translation>
-    </message>
-    <message>
-        <source>Programs that can be activated</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1227,7 +1197,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation type="obsolete">關閉自動升級</translation>
+        <translation>關閉自動升級</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
@@ -1308,22 +1278,6 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do not check for updates automatically (not recommended)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update Items:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All new releases</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recommended new releases</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
