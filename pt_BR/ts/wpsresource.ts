@@ -53,6 +53,10 @@
         <translation>Direção</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Infinito</translation>
     </message>
@@ -87,10 +91,6 @@
     <message>
         <source>Plastic</source>
         <translation>Plástico</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -979,6 +979,10 @@
         <translation>Tamanho da Letra</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Font</source>
         <translation>Fonte</translation>
     </message>
@@ -1009,10 +1013,6 @@
     <message>
         <source>More Font Colors</source>
         <translation>Mais Cores de Fontes</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Styles</source>
@@ -1514,11 +1514,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show FormatChange</source>
+        <source>Show Formatting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show InsAndDel</source>
+        <source>Show Insertions and Deletions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1548,6 +1548,10 @@
 </context>
 <context>
     <name>classics.shadow_settings</name>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>More Shadow Colors</source>
         <translation>Mais Cores de Sombreado</translation>
@@ -1579,10 +1583,6 @@
     <message>
         <source>Shadow On/Off</source>
         <translation>Ligar/Desligar Sombreado</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1736,7 +1736,17 @@
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Alterar UI</translation>
+        <translation type="obsolete">Alterar UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1811,6 +1821,10 @@
         <translation>Borracha</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fast Calculation</source>
         <translation>Cálculos Rápidos</translation>
     </message>
@@ -1865,10 +1879,6 @@
     <message>
         <source>Shading</source>
         <translation>Sombras</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -2243,7 +2253,12 @@
     <message>
         <source>Clear
 Table Style</source>
-        <translation>Limpar
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear
+Table Style</source>
+        <translation type="obsolete">Limpar
 Estilo de Tabela</translation>
     </message>
     <message>
@@ -2348,7 +2363,12 @@ Estilo de Tabela</translation>
     <message>
         <source>Control 
 Properties</source>
-        <translation>Controle
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Control 
+Properties</source>
+        <translation type="obsolete">Controle
 Propriedades</translation>
     </message>
     <message>
@@ -2360,17 +2380,18 @@ Propriedades</translation>
         <translation>Ferramentas de Controlo</translation>
     </message>
     <message>
-        <source>Description</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Design Mode</source>
         <translation>Modo de Edição</translation>
     </message>
     <message>
         <source>Exit
 Design Mode</source>
-        <translation>Sair do Modo 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit
+Design Mode</source>
+        <translation type="obsolete">Sair do Modo 
 Design</translation>
     </message>
     <message>
@@ -2428,7 +2449,12 @@ Design</translation>
     <message>
         <source>Visual Basic
 Editor</source>
-        <translation>Editor do Visual Basic</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visual Basic
+Editor</source>
+        <translation type="obsolete">Editor do Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -2480,7 +2506,12 @@ Editor</source>
     <message>
         <source>3-D
 On</source>
-        <translation>3-D
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On</source>
+        <translation type="obsolete">3-D
 Ligado</translation>
     </message>
     <message>
@@ -2862,7 +2893,12 @@ Ligado</translation>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation>Sombra ligada/desligada</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation type="obsolete">Sombra ligada/desligada</translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -2895,7 +2931,12 @@ On/Off</source>
     <message>
         <source>Text
 Direction</source>
-        <translation>Direção do
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text
+Direction</source>
+        <translation type="obsolete">Direção do
 Texto</translation>
     </message>
     <message>
@@ -2975,8 +3016,12 @@ Texto</translation>
         <translation>Gerenciador de Backup e Recuperação de Dados</translation>
     </message>
     <message>
+        <source>Backup and Recover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
-        <translation>Alterar Versão</translation>
+        <translation type="obsolete">Alterar Versão</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -3003,10 +3048,6 @@ Texto</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export to PDF</source>
         <translation>Exportar para PDF</translation>
     </message>
@@ -3029,6 +3070,10 @@ Texto</translation>
     <message>
         <source>Help</source>
         <translation>Ajuda</translation>
+    </message>
+    <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
@@ -3099,6 +3144,14 @@ Texto</translation>
         <translation>Recarregar</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Gravar</translation>
     </message>
@@ -3121,6 +3174,14 @@ Texto</translation>
     <message>
         <source>Study Online</source>
         <translation>Pesquisar na Internet</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -3187,7 +3248,12 @@ Texto</translation>
     <message>
         <source>Date and
 Time</source>
-        <translation>Data e
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date and
+Time</source>
+        <translation type="obsolete">Data e
 Hora</translation>
     </message>
     <message>
@@ -3213,7 +3279,12 @@ Hora</translation>
     <message>
         <source>Header and Footer
 Options</source>
-        <translation>Opções de 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and Footer
+Options</source>
+        <translation type="obsolete">Opções de 
 Cabeçalho e Rodapé</translation>
     </message>
     <message>
@@ -3235,7 +3306,12 @@ Cabeçalho e Rodapé</translation>
     <message>
         <source>Link to
 Previous</source>
-        <translation>Ir para 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link to
+Previous</source>
+        <translation type="obsolete">Ir para 
 Anterior</translation>
     </message>
     <message>
@@ -3249,13 +3325,23 @@ Anterior</translation>
     <message>
         <source>Next
 Header</source>
-        <translation>Próximo
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next
+Header</source>
+        <translation type="obsolete">Próximo
 Cabeçalho</translation>
     </message>
     <message>
         <source>Page
 Number</source>
-        <translation>Numero de
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page
+Number</source>
+        <translation type="obsolete">Numero de
 Página</translation>
     </message>
     <message>
@@ -3273,7 +3359,12 @@ Página</translation>
     <message>
         <source>Previous
 Header</source>
-        <translation>Cabeçalho
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous
+Header</source>
+        <translation type="obsolete">Cabeçalho
 Anterior</translation>
     </message>
     <message>
@@ -3283,7 +3374,12 @@ Anterior</translation>
     <message>
         <source>Switch between
 Header and Footer</source>
-        <translation>Alternar entre 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch between
+Header and Footer</source>
+        <translation type="obsolete">Alternar entre 
 Cabeçalho e Rodapé</translation>
     </message>
     <message>
@@ -3456,7 +3552,12 @@ Cabeçalho e Rodapé</translation>
     <message>
         <source>Find and 
 Replace</source>
-        <translation>Procurar e 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find and 
+Replace</source>
+        <translation type="obsolete">Procurar e 
 substituir</translation>
     </message>
     <message>
@@ -3474,13 +3575,23 @@ substituir</translation>
     <message>
         <source>Format
 Painter</source>
-        <translation>Pincel 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format
+Painter</source>
+        <translation type="obsolete">Pincel 
 de Formatação</translation>
     </message>
     <message>
         <source>Format 
 Painter</source>
-        <translation>Pincel 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format 
+Painter</source>
+        <translation type="obsolete">Pincel 
 de Formatação</translation>
     </message>
     <message>
@@ -3776,10 +3887,6 @@ Style</source>
         <translation>Data e Hora</translation>
     </message>
     <message>
-        <source>DocumentField</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Draw Table</source>
         <translation>Desenhar Tabela</translation>
     </message>
@@ -3838,7 +3945,12 @@ Style</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>Cabeçalho e
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and 
+Footer</source>
+        <translation type="obsolete">Cabeçalho e
 Rodapé</translation>
     </message>
     <message>
@@ -3912,13 +4024,23 @@ Rodapé</translation>
     <message>
         <source>Page
 Number</source>
-        <translation>Número de Página
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page
+Number</source>
+        <translation type="obsolete">Número de Página
 </translation>
     </message>
     <message>
         <source>Page 
 Break</source>
-        <translation>Quebra de Página</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation type="obsolete">Quebra de Página</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -4262,6 +4384,10 @@ Break</source>
         <translation>Quebra de seção em Páginas Pares</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flip Horizontal</source>
         <translation>Inverter Horizontalmente</translation>
     </message>
@@ -4348,7 +4474,12 @@ Break</source>
     <message>
         <source>Page
 Borders</source>
-        <translation>Bordas da Página</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page
+Borders</source>
+        <translation type="obsolete">Bordas da Página</translation>
     </message>
     <message>
         <source>Page
@@ -4358,7 +4489,12 @@ Color</source>
     <message>
         <source>Page 
 Break</source>
-        <translation>Quebra de Página</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation type="obsolete">Quebra de Página</translation>
     </message>
     <message>
         <source>Page Background</source>
@@ -4433,10 +4569,6 @@ Break</source>
         <translation>Tamanho</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Square</source>
         <translation>Quadrado</translation>
     </message>
@@ -4447,7 +4579,12 @@ Break</source>
     <message>
         <source>Text
 Direction</source>
-        <translation>Direção do Texto
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text
+Direction</source>
+        <translation type="obsolete">Direção do Texto
 </translation>
     </message>
     <message>
@@ -4546,6 +4683,10 @@ Direction</source>
         <translation>Linhas de Grade do Documento</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Font</source>
         <translation>Fonte</translation>
     </message>
@@ -4640,10 +4781,6 @@ Direction</source>
     <message>
         <source>Snap to Grid</source>
         <translation>Alinhar À Grade</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Style</source>
@@ -4782,7 +4919,12 @@ Direction</source>
     <message>
         <source>Change
 Picture</source>
-        <translation>Alterar
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change
+Picture</source>
+        <translation type="obsolete">Alterar
 Imagem</translation>
     </message>
     <message>
@@ -4796,7 +4938,12 @@ Imagem</translation>
     <message>
         <source>Compress
 Pictures</source>
-        <translation>Comprimir
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compress
+Pictures</source>
+        <translation type="obsolete">Comprimir
 Imagens</translation>
     </message>
     <message>
@@ -4834,6 +4981,10 @@ Imagens</translation>
     <message>
         <source>Even Width</source>
         <translation>Mesma Largura</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5004,7 +5155,12 @@ Imagem</translation>
     <message>
         <source>Picture
 Size</source>
-        <translation>Tamanho da Imagem
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture
+Size</source>
+        <translation type="obsolete">Tamanho da Imagem
 </translation>
     </message>
     <message>
@@ -5018,7 +5174,12 @@ Size</source>
     <message>
         <source>Reset
 Picture</source>
-        <translation>Redefinir
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset
+Picture</source>
+        <translation type="obsolete">Redefinir
 Imagem</translation>
     </message>
     <message>
@@ -5040,7 +5201,12 @@ Imagem</translation>
     <message>
         <source>Selection
 Pane</source>
-        <translation>Painel de Seleção
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection
+Pane</source>
+        <translation type="obsolete">Painel de Seleção
 </translation>
     </message>
     <message>
@@ -5070,7 +5236,12 @@ Pane</source>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation>Ativar/Desativar Sombra
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation type="obsolete">Ativar/Desativar Sombra
 </translation>
     </message>
     <message>
@@ -5164,10 +5335,6 @@ On/Off</source>
     <message>
         <source>Shadow Style 9</source>
         <translation>Estilo de Sombreado 9</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5433,7 +5600,12 @@ de Notas de Fim
     <message>
         <source>Delete 
 Comment</source>
-        <translation>Excluir
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete 
+Comment</source>
+        <translation type="obsolete">Excluir
 Comentário</translation>
     </message>
     <message>
@@ -5455,7 +5627,12 @@ Comentário</translation>
     <message>
         <source>New
 Comment</source>
-        <translation>Novo
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New
+Comment</source>
+        <translation type="obsolete">Novo
 Comentário</translation>
     </message>
     <message>
@@ -5535,11 +5712,11 @@ Comentário</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show FormatChange</source>
+        <source>Show Formatting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show InsAndDel</source>
+        <source>Show Insertions and Deletions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5561,7 +5738,12 @@ Comentário</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation>Controlar 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Track
+Changes</source>
+        <translation type="obsolete">Controlar 
 Alterações</translation>
     </message>
     <message>
@@ -5579,7 +5761,12 @@ Alterações</translation>
     <message>
         <source>Word
 Count</source>
-        <translation>Contar
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word
+Count</source>
+        <translation type="obsolete">Contar
 Palavras</translation>
     </message>
 </context>
@@ -5592,7 +5779,12 @@ Palavras</translation>
     <message>
         <source>Contents
 Page</source>
-        <translation>Conteúdo
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contents
+Page</source>
+        <translation type="obsolete">Conteúdo
 da página</translation>
     </message>
     <message>
@@ -5602,7 +5794,12 @@ da página</translation>
     <message>
         <source>Cover
 Pages</source>
-        <translation>Páginas de
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover
+Pages</source>
+        <translation type="obsolete">Páginas de
  Rosto</translation>
     </message>
     <message>
@@ -5612,7 +5809,12 @@ Pages</source>
     <message>
         <source>Delete
 Section</source>
-        <translation>Excluir
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete
+Section</source>
+        <translation type="obsolete">Excluir
 Seção</translation>
     </message>
     <message>
@@ -5634,7 +5836,12 @@ Seção</translation>
     <message>
         <source>Header and
 Footer</source>
-        <translation>Cabeçalho e
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and
+Footer</source>
+        <translation type="obsolete">Cabeçalho e
 Rodapé</translation>
     </message>
     <message>
@@ -5704,13 +5911,23 @@ Rodapé</translation>
     <message>
         <source>Page
 Number</source>
-        <translation>Números de
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page
+Number</source>
+        <translation type="obsolete">Números de
 Página</translation>
     </message>
     <message>
         <source>Page Number
 Format</source>
-        <translation>Formato do Número
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Number
+Format</source>
+        <translation type="obsolete">Formato do Número
 de Página</translation>
     </message>
     <message>
@@ -5736,7 +5953,12 @@ de Página</translation>
     <message>
         <source>Section
 Navigation</source>
-        <translation>Navegador de
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section
+Navigation</source>
+        <translation type="obsolete">Navegador de
 Seções</translation>
     </message>
     <message>
@@ -5750,7 +5972,12 @@ Seções</translation>
     <message>
         <source>Show
 Header Line</source>
-        <translation>Mostrar
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show
+Header Line</source>
+        <translation type="obsolete">Mostrar
 Linha de Cabeçalho</translation>
     </message>
     <message>
@@ -5764,7 +5991,12 @@ Linha de Cabeçalho</translation>
     <message>
         <source>Split
 Section</source>
-        <translation>Dividir
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split
+Section</source>
+        <translation type="obsolete">Dividir
 Seção</translation>
     </message>
     <message>
@@ -5793,25 +6025,45 @@ Seção</translation>
     <message>
         <source>3-D
 Color</source>
-        <translation>Cor
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+Color</source>
+        <translation type="obsolete">Cor
 3D</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation>Efeitos
+        <translation type="obsolete">Efeitos
 3D</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation>3D 
+        <translation type="obsolete">3D 
 Ligado/Desligado</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
-        <translation>Efeitos 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D 
+Effects</source>
+        <translation type="obsolete">Efeitos 
 3D</translation>
     </message>
     <message>
@@ -5923,6 +6175,10 @@ Effects</source>
         <translation>Direcção</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Infinidade</translation>
     </message>
@@ -5993,25 +6249,45 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation>Cor de
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Color</source>
+        <translation type="obsolete">Cor de
 sombra</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation>Efeitos de
+        <translation type="obsolete">Efeitos de
 sombra</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation>Sombra
+        <translation type="obsolete">Sombra
 Ligar/Desligar</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation>Efeitos de
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow 
+Effects</source>
+        <translation type="obsolete">Efeitos de
 sombra</translation>
     </message>
     <message>
@@ -6093,10 +6369,6 @@ sombra</translation>
     <message>
         <source>Shadow Style 9</source>
         <translation>Estilo de Sombreado 9</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -6246,6 +6518,10 @@ sombra</translation>
         <translation>Borracha</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fast Calculation</source>
         <translation>Cálculo Rápido</translation>
     </message>
@@ -6354,13 +6630,14 @@ sombra</translation>
         <translation>Seleccionar Tabela com Limite Tracejado</translation>
     </message>
     <message>
-        <source>Snapper</source>
+        <source>Split
+Cells</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Split
 Cells</source>
-        <translation>Dividir
+        <translation type="obsolete">Dividir
 Células</translation>
     </message>
     <message>
@@ -6435,13 +6712,23 @@ Texto</translation>
     <message>
         <source>Arrange
 All</source>
-        <translation>Organizar 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrange
+All</source>
+        <translation type="obsolete">Organizar 
 Tudo</translation>
     </message>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation>COM
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COM
+Add-Ins</source>
+        <translation type="obsolete">COM
 Add-Ins</translation>
     </message>
     <message>
@@ -6463,7 +6750,12 @@ Add-Ins</translation>
     <message>
         <source>Document
 Map</source>
-        <translation>Mapa do
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document
+Map</source>
+        <translation type="obsolete">Mapa do
 Documento</translation>
     </message>
     <message>
@@ -6477,7 +6769,12 @@ Documento</translation>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Tela 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full 
+Screen</source>
+        <translation type="obsolete">Tela 
 Cheia</translation>
     </message>
     <message>
@@ -6503,7 +6800,12 @@ Cheia</translation>
     <message>
         <source>New
 Window</source>
-        <translation>Nova
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New
+Window</source>
+        <translation type="obsolete">Nova
 Janela</translation>
     </message>
     <message>
@@ -6529,7 +6831,12 @@ Janela</translation>
     <message>
         <source>Print 
 Layout</source>
-        <translation>Esquema de
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print 
+Layout</source>
+        <translation type="obsolete">Esquema de
 Impressão</translation>
     </message>
     <message>
@@ -6559,7 +6866,12 @@ Impressão</translation>
     <message>
         <source>Switch
 Window</source>
-        <translation>Alterar
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch
+Window</source>
+        <translation type="obsolete">Alterar
 Janela</translation>
     </message>
     <message>
@@ -6585,7 +6897,12 @@ Janela</translation>
     <message>
         <source>View
 Side by Side</source>
-        <translation>Exibir
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View
+Side by Side</source>
+        <translation type="obsolete">Exibir
 Lado a Lado</translation>
     </message>
     <message>
@@ -6626,19 +6943,34 @@ Lado a Lado</translation>
     <message>
         <source>3-D
 Color</source>
-        <translation>Cor
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+Color</source>
+        <translation type="obsolete">Cor
 3D</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
-        <translation>Efeitos
+        <translation type="obsolete">Efeitos
 3D</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
-        <translation>3D 
+        <translation type="obsolete">3D 
 Ligado/Desligado</translation>
     </message>
     <message>
@@ -6754,6 +7086,10 @@ Ligado/Desligado</translation>
         <translation>Direcção</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Infinidade</translation>
     </message>
@@ -6824,25 +7160,45 @@ Ligado/Desligado</translation>
     <message>
         <source>Shadow
 Color</source>
-        <translation>Cor de
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Color</source>
+        <translation type="obsolete">Cor de
 sombra</translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation>Efeitos de
+        <translation type="obsolete">Efeitos de
 sombra</translation>
     </message>
     <message>
         <source>Shadow
 On/Off</source>
-        <translation>Sombra
+        <translation type="obsolete">Sombra
 Ligar/Desligar</translation>
     </message>
     <message>
         <source>Shadow 
 Effects</source>
-        <translation>Efeitos de 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow 
+Effects</source>
+        <translation type="obsolete">Efeitos de 
 sombra</translation>
     </message>
     <message>
@@ -6926,10 +7282,6 @@ sombra</translation>
         <translation>Estilo de Sombreado 9</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Surface</source>
         <translation>Superficie</translation>
     </message>
@@ -6987,7 +7339,12 @@ sombra</translation>
     <message>
         <source>3-D
 On</source>
-        <translation>3-D
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On</source>
+        <translation type="obsolete">3-D
 Ligado</translation>
     </message>
     <message>
@@ -7101,7 +7458,12 @@ Ligado</translation>
     <message>
         <source>Character 
 Spacing</source>
-        <translation>Espaçamento entre
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Character 
+Spacing</source>
+        <translation type="obsolete">Espaçamento entre
 Caracteres</translation>
     </message>
     <message>
@@ -7498,7 +7860,12 @@ Caracteres</translation>
     <message>
         <source>WordArt
 Gallery</source>
-        <translation>Galeria do Wordart</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt
+Gallery</source>
+        <translation type="obsolete">Galeria do Wordart</translation>
     </message>
     <message>
         <source>WordArt
@@ -7508,7 +7875,12 @@ Size</source>
     <message>
         <source>WordArt 
 Shape</source>
-        <translation>Forma do WordArt</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt 
+Shape</source>
+        <translation type="obsolete">Forma do WordArt</translation>
     </message>
     <message>
         <source>WordArt Size</source>
@@ -7547,6 +7919,10 @@ Shape</source>
         <translation>Desativar Autobackup</translation>
     </message>
     <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation>Habilitar Autobackup</translation>
     </message>
@@ -7556,10 +7932,6 @@ Shape</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7603,6 +7975,10 @@ Shape</source>
         <translation>Abrir dos Documentos na Nuvem</translation>
     </message>
     <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save to Cloud Docs</source>
         <translation>Salve Documentos na Nuvem</translation>
     </message>
@@ -7620,6 +7996,10 @@ Shape</source>
     </message>
     <message>
         <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7648,21 +8028,40 @@ Shape</source>
     </message>
 </context>
 <context>
+    <name>ongmani.proxycommands</name>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>popupmenu</name>
     <message>
-        <source>0.25 pt.</source>
+        <source>0.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt.</source>
+        <source>0.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.75 pt.</source>
+        <source>0.75 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt.</source>
+        <source>1 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7674,7 +8073,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt.</source>
+        <source>1.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7682,7 +8081,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2.25 pt.</source>
+        <source>2.25 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7690,7 +8089,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt.</source>
+        <source>3 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7698,7 +8097,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt.</source>
+        <source>4.5 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7706,7 +8105,7 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt.</source>
+        <source>6 pt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7916,7 +8315,12 @@ Shape</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation>COM 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COM 
+Add-Ins</source>
+        <translation type="obsolete">COM 
 Add-Ins</translation>
     </message>
     <message>
@@ -7944,16 +8348,12 @@ Add-Ins</translation>
         <translation>Células</translation>
     </message>
     <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Center Tab</source>
         <translation>Centralizar Tabulação</translation>
-    </message>
-    <message>
-        <source>Centered</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change Account</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Accout</source>
@@ -7974,6 +8374,10 @@ Add-Ins</translation>
     <message>
         <source>Change Version</source>
         <translation>Alterar Versão</translation>
+    </message>
+    <message>
+        <source>Character Shading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chart</source>
@@ -8092,6 +8496,10 @@ Add-Ins</translation>
         <translation>&quot;Converter para Nota de Rodapé&quot;</translation>
     </message>
     <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copy Here</source>
         <translation>Copiar para Aqui</translation>
     </message>
@@ -8140,15 +8548,19 @@ Add-Ins</translation>
         <translation>Segmento Curvo</translation>
     </message>
     <message>
+        <source>Cut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash Style</source>
+        <source>Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash-Dot</source>
+        <source>Dash Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8216,6 +8628,10 @@ Add-Ins</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Do not Show Line Number for Blank Line</source>
         <translation>Não Mostrar Número de Linha em Linhas em Branco</translation>
     </message>
@@ -8226,7 +8642,12 @@ Add-Ins</translation>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>Desenhar Linha Diagonal Na Célula</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw
+Diagonal Line in Cell</source>
+        <translation type="obsolete">Desenhar Linha Diagonal Na Célula</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
@@ -8313,15 +8734,15 @@ Diagonal Line in Cell</source>
         <translation>Exportar Como Imagem</translation>
     </message>
     <message>
-        <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export to PDF</source>
         <translation>Exportar para PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8353,11 +8774,11 @@ Diagonal Line in Cell</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Horizontally</source>
+        <source>Flip Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flip Vertically</source>
+        <source>Flip Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8460,10 +8881,6 @@ Painter</source>
     <message>
         <source>Go to Footnote</source>
         <translation>Ir para a Nota de Rodapé</translation>
-    </message>
-    <message>
-        <source>Gradiant</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -8611,16 +9028,16 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left Tab</source>
         <translation>&quot;Separador Esquerdo&quot;</translation>
-    </message>
-    <message>
-        <source>Line Effects</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Number</source>
@@ -8639,7 +9056,7 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Sytle Palette</source>
+        <source>Line Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8647,11 +9064,11 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot</source>
+        <source>Long Dash Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Long Dash-Dot-Dot</source>
+        <source>Long Dash Dot Dot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8663,7 +9080,7 @@ Painter</source>
         <translation>Barra Ferramentas de E-mail</translation>
     </message>
     <message>
-        <source>Manage Credential</source>
+        <source>Manage Credentials</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8843,6 +9260,10 @@ Painter</source>
         <translation>Sobre o tipo</translation>
     </message>
     <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page Area</source>
         <translation>Área da Página</translation>
     </message>
@@ -8867,6 +9288,10 @@ Painter</source>
         <translation>Parágrafo</translation>
     </message>
     <message>
+        <source>Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Paste Column</source>
         <translation>&quot;Colar Coluna&quot;</translation>
     </message>
@@ -8881,6 +9306,14 @@ Painter</source>
     <message>
         <source>Pattern</source>
         <translation>Padrão</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
@@ -8989,6 +9422,10 @@ Painter</source>
     <message>
         <source>Restrict Editing</source>
         <translation>&quot;Restingir Edição&quot;</translation>
+    </message>
+    <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -9115,6 +9552,10 @@ Painter</source>
         <translation>Alterar Parâmetros Iniciais das Formas Automáticas</translation>
     </message>
     <message>
+        <source>Set Default Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shading Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9173,10 +9614,6 @@ Painter</source>
     <message>
         <source>Smooth Point</source>
         <translation>&quot;Inflexão Suave&quot;</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -9355,12 +9792,16 @@ Painter</source>
         <translation>Exibir Histórico de Backup</translation>
     </message>
     <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View Shortcut</source>
         <translation>Exibir Atalho</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>WPS Versão Comercial</translation>
+        <translation type="obsolete">WPS Versão Comercial</translation>
     </message>
     <message>
         <source>WPS Forum</source>
@@ -9426,38 +9867,6 @@ Painter</source>
         <source>Zoom Slider</source>
         <translation>Zoom Slider</translation>
     </message>
-    <message>
-        <source>bullets_0</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_4</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>bullets_6</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_0</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>popupmenu.InsertBlankPage</name>
@@ -9485,7 +9894,17 @@ Painter</source>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Alterar IU</translation>
+        <translation type="obsolete">Alterar IU</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -9507,38 +9926,6 @@ Painter</source>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_0</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_4</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_6</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>numbering_7</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9582,7 +9969,12 @@ Painter</source>
     <message>
         <source>Draw
 Diagonal Line in Cell</source>
-        <translation>Desenhar
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw
+Diagonal Line in Cell</source>
+        <translation type="obsolete">Desenhar
 Linha Diagonal Na Célula</translation>
     </message>
     <message>
@@ -9596,6 +9988,10 @@ Linha Diagonal Na Célula</translation>
     <message>
         <source>Eraser</source>
         <translation>Borracha</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Inside Border</source>
@@ -9644,10 +10040,6 @@ Linha Diagonal Na Célula</translation>
     <message>
         <source>Shading Color</source>
         <translation>Cor do Sombreamento</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Border</source>
@@ -9703,10 +10095,6 @@ Linha Diagonal Na Célula</translation>
     <message>
         <source>Control Toolbox</source>
         <translation>Controle de Caixa de Ferramentas</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Design Mode</source>
@@ -9969,6 +10357,10 @@ Design</translation>
         <translation>Largura Igual</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fill</source>
         <translation>Preencha</translation>
     </message>
@@ -10157,10 +10549,6 @@ Design</translation>
         <translation>Diminuir Fonte</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation>Solido</translation>
     </message>
@@ -10249,8 +10637,12 @@ Design</translation>
         <translation>Gerenciar Backup e Recuperação de Dados</translation>
     </message>
     <message>
+        <source>Backup and Recover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
-        <translation>Alterar Versão</translation>
+        <translation type="obsolete">Alterar Versão</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -10281,10 +10673,6 @@ Design</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export to PDF</source>
         <translation>Exportar para PDF</translation>
     </message>
@@ -10307,6 +10695,10 @@ Design</translation>
     <message>
         <source>Help</source>
         <translation>Ajuda</translation>
+    </message>
+    <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
@@ -10377,6 +10769,14 @@ Design</translation>
         <translation>Atualizar</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Salvar</translation>
     </message>
@@ -10399,6 +10799,14 @@ Design</translation>
     <message>
         <source>Study Online</source>
         <translation>Pesquisar na Internet</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -10485,7 +10893,12 @@ Design</translation>
     <message>
         <source>Header and Footer
 Options</source>
-        <translation>Opções de Cabeçalho e 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and Footer
+Options</source>
+        <translation type="obsolete">Opções de Cabeçalho e 
 Rodapé
 </translation>
     </message>
@@ -10536,7 +10949,12 @@ Rodapé
     <message>
         <source>Switch between
 Header and Footer</source>
-        <translation>Alternar Entre
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch between
+Header and Footer</source>
+        <translation type="obsolete">Alternar Entre
 Cabeçalho e Rodapé</translation>
     </message>
     <message>
@@ -10705,6 +11123,10 @@ Cabeçalho e Rodapé</translation>
     <message>
         <source>Enclose Characters...</source>
         <translation>Anexar caracteres...</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Find and Replace</source>
@@ -10888,10 +11310,6 @@ Formatação</translation>
         <translation>Diminuir Fonte</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Strikethrough</source>
         <translation>Riscar</translation>
     </message>
@@ -11014,10 +11432,6 @@ Formatação</translation>
         <translation>Data e Hora</translation>
     </message>
     <message>
-        <source>DocumentField</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Draw Table</source>
         <translation>&quot;Desenhar Tabela&quot;</translation>
     </message>
@@ -11090,6 +11504,10 @@ Formatação</translation>
         <translation>Inserir Clip Art</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Inserir Imagem</translation>
     </message>
@@ -11108,10 +11526,6 @@ Formatação</translation>
     <message>
         <source>Insert WordArt</source>
         <translation>Inserir WordArt</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
@@ -11148,7 +11562,12 @@ Formatação</translation>
     <message>
         <source>Page 
 Break</source>
-        <translation>Quebra de Página</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation type="obsolete">Quebra de Página</translation>
     </message>
     <message>
         <source>Page Number</source>
@@ -11290,13 +11709,23 @@ Break</source>
     <message>
         <source>Merge
 to Email</source>
-        <translation>Adicionar tudo
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge
+to Email</source>
+        <translation type="obsolete">Adicionar tudo
  a E-mail</translation>
     </message>
     <message>
         <source>Merge to
 Different New Document</source>
-        <translation>Juntar para
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge to
+Different New Document</source>
+        <translation type="obsolete">Juntar para
 Outro Novo Documento</translation>
     </message>
     <message>
@@ -11338,7 +11767,12 @@ Outro Novo Documento</translation>
     <message>
         <source>View
 Merged Data</source>
-        <translation>Exibir
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View
+Merged Data</source>
+        <translation type="obsolete">Exibir
 Dados Mesclados</translation>
     </message>
     <message>
@@ -11746,7 +12180,12 @@ Dados Mesclados</translation>
     <message>
         <source>Wrap
 Text</source>
-        <translation>Quebra de 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap
+Text</source>
+        <translation type="obsolete">Quebra de 
 Texto</translation>
     </message>
 </context>
@@ -11998,6 +12437,10 @@ Texto</translation>
     <message>
         <source>Equal Width</source>
         <translation>Largura Igual</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -12316,10 +12759,6 @@ Texto</translation>
         <translation>Estilo de Sombreado 9</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation>Solido</translation>
     </message>
@@ -12534,12 +12973,12 @@ Texto</translation>
         <translation>Aceitar Alteração</translation>
     </message>
     <message>
-        <source>Accept Selected Change</source>
-        <translation type="obsolete">Aceitar Alteração Selecionada</translation>
+        <source>Accept Changes Selected</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Accept Selection Change</source>
-        <translation type="unfinished"></translation>
+        <source>Accept Selected Change</source>
+        <translation type="obsolete">Aceitar Alteração Selecionada</translation>
     </message>
     <message>
         <source>All Reviewers</source>
@@ -12659,12 +13098,20 @@ Texto</translation>
         <translation>Restringir Edição</translation>
     </message>
     <message>
-        <source>ReviewPane</source>
+        <source>Reviewers</source>
+        <translation>Revisores</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reviewers</source>
-        <translation>Revisores</translation>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -12687,11 +13134,11 @@ Texto</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show FormatChange</source>
+        <source>Show Formatting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show InsAndDel</source>
+        <source>Show Insertions and Deletions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12729,14 +13176,6 @@ Texto</translation>
     <message>
         <source>Word Count</source>
         <translation>Contar Palavras</translation>
-    </message>
-    <message>
-        <source>horzReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>vertReviewPane</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13037,6 +13476,10 @@ Texto</translation>
         <translation>Direcção</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Infinidade</translation>
     </message>
@@ -13199,10 +13642,6 @@ Texto</translation>
     <message>
         <source>Shadow Style 9</source>
         <translation>Estilo de Sombreado 9</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -13457,7 +13896,12 @@ Texto</translation>
     <message>
         <source>Close
 Other Windows</source>
-        <translation>Fechar
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close
+Other Windows</source>
+        <translation type="obsolete">Fechar
 outras janelas</translation>
     </message>
     <message>
@@ -13479,10 +13923,6 @@ outras janelas</translation>
     <message>
         <source>Document Views</source>
         <translation>Visualizações de Documentos</translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -13626,7 +14066,12 @@ outras janelas</translation>
     <message>
         <source>3-D
 Effects</source>
-        <translation>Efeitos 3D</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+Effects</source>
+        <translation type="obsolete">Efeitos 3D</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -13749,6 +14194,10 @@ Effects</source>
         <translation>Direcção</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Infinidade</translation>
     </message>
@@ -13819,14 +14268,24 @@ Effects</source>
     <message>
         <source>Shadow
 Color</source>
-        <translation>Cor da 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+Color</source>
+        <translation type="obsolete">Cor da 
 Sombra
 </translation>
     </message>
     <message>
         <source>Shadow
 Effects</source>
-        <translation>Efeitos de 
+        <translation type="obsolete">Efeitos de 
 Sombra</translation>
     </message>
     <message>
@@ -13916,10 +14375,6 @@ Sombra</translation>
     <message>
         <source>Shadow Style 9</source>
         <translation>Estilo de Sombreado 9</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Surface</source>
@@ -14173,6 +14628,10 @@ Sombra</translation>
         <translation>Largura Igual</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fade Down</source>
         <translation>Aparecer para Baixo</translation>
     </message>
@@ -14361,10 +14820,6 @@ Sombra</translation>
         <translation>Enclinar para Cima</translation>
     </message>
     <message>
-        <source>Snapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid</source>
         <translation>Solido</translation>
     </message>
@@ -14520,6 +14975,10 @@ Sombra</translation>
         <translation>Desabilitar Backup Automático</translation>
     </message>
     <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation>Habilitar Backup Automático</translation>
     </message>
@@ -14529,10 +14988,6 @@ Sombra</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Eye Protection Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14572,6 +15027,10 @@ Sombra</translation>
         <translation>Abrir do Cloud Docs</translation>
     </message>
     <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save to Cloud Docs</source>
         <translation>Salvar para Cloud Docs</translation>
     </message>
@@ -14589,6 +15048,10 @@ Sombra</translation>
     </message>
     <message>
         <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14617,6 +15080,25 @@ Sombra</translation>
     </message>
     <message>
         <source>Word Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.proxycommands</name>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15745,7 +16227,7 @@ Sombra</translation>
     <name>workspacemenu</name>
     <message>
         <source>Change Account</source>
-        <translation>Alterar Conta</translation>
+        <translation type="obsolete">Alterar Conta</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -15754,6 +16236,10 @@ Sombra</translation>
     <message>
         <source>Disable AutoBackup</source>
         <translation>Desativar Backup Automático</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -15782,6 +16268,10 @@ Sombra</translation>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>Abrir do Cloud Docs</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -15829,7 +16319,7 @@ Sombra</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>WPS Versão Comercial</translation>
+        <translation type="obsolete">WPS Versão Comercial</translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
@@ -15887,7 +16377,7 @@ Sombra</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>Espaço Office</translation>
+        <translation type="obsolete">Espaço Office</translation>
     </message>
     <message>
         <source>Outlining</source>
@@ -15908,6 +16398,10 @@ Sombra</translation>
     <message>
         <source>Shadow Settings</source>
         <translation>Opções da Sombra</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard</source>
@@ -16025,6 +16519,10 @@ Sombra</translation>
         <translation>Centralizar</translation>
     </message>
     <message>
+        <source>Click to adjust Zoom level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Click to turn on/off AutoBackup</source>
         <translation>Clique para ligar/desligar o backup automático</translation>
     </message>
@@ -16050,10 +16548,6 @@ Sombra</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Collaboration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16141,10 +16635,6 @@ Sombra</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DocumentField</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Edit</source>
         <translation>Editar</translation>
     </message>
@@ -16165,8 +16655,16 @@ Sombra</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Night Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Feedback</source>
         <translation>Enviar Comentários</translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fields</source>
@@ -16226,6 +16724,10 @@ Sombra</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16329,8 +16831,17 @@ Sombra</translation>
         <translation>Novo de Outros Modelos...</translation>
     </message>
     <message>
+        <source>Night Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Note</source>
         <translation>Nota</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <comment>shortHint</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OLE Object</source>
@@ -16341,13 +16852,22 @@ Sombra</translation>
         <translation>Abrir</translation>
     </message>
     <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Vista de Esboço</translation>
     </message>
     <message>
         <source>Page 
 Break</source>
-        <translation>Quebra de Página</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page 
+Break</source>
+        <translation type="obsolete">Quebra de Página</translation>
     </message>
     <message>
         <source>Page Area Number. Click to open &quot;Go To&quot; dialog.</source>
@@ -16380,7 +16900,12 @@ Break</source>
     <message>
         <source>Print 
 Directly</source>
-        <translation>Imprimir 
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print 
+Directly</source>
+        <translation type="obsolete">Imprimir 
 Diretamente</translation>
     </message>
     <message>
@@ -16605,6 +17130,10 @@ Diretamente</translation>
         <translation>Actualizar Campo</translation>
     </message>
     <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View</source>
         <translation>Exibir</translation>
     </message>
@@ -16648,6 +17177,14 @@ Diretamente</translation>
         <source>Zoom</source>
         <translation>Ampliar</translation>
     </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpscommon.mainwindow.commands.Help</name>
@@ -16671,7 +17208,7 @@ Diretamente</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Mudar de Conta</translation>
+        <translation type="obsolete">Mudar de Conta</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -16747,7 +17284,7 @@ Diretamente</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>Espaço Office</translation>
+        <translation type="obsolete">Espaço Office</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -16772,6 +17309,10 @@ Diretamente</translation>
     <message>
         <source>Paragraph Layout</source>
         <translation>Esquema do Parágrafo</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -16830,6 +17371,10 @@ Diretamente</translation>
         <translation>Sair</translation>
     </message>
     <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stick the Toolbar</source>
         <translation>Afixar a Barra de Ferramentas</translation>
     </message>
@@ -16847,7 +17392,7 @@ Diretamente</translation>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>Entrar</translation>
+        <translation type="obsolete">Entrar</translation>
     </message>
     <message>
         <source>View</source>
@@ -16859,7 +17404,7 @@ Diretamente</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>WPS Versão Comercial</translation>
+        <translation type="obsolete">WPS Versão Comercial</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -16917,7 +17462,7 @@ Diretamente</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Mudar de Conta</translation>
+        <translation type="obsolete">Mudar de Conta</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -16981,7 +17526,7 @@ Diretamente</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>Espaço Office</translation>
+        <translation type="obsolete">Espaço Office</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -17002,6 +17547,10 @@ Diretamente</translation>
     <message>
         <source>Paragraph Layout</source>
         <translation>Esquema do Parágrafo</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -17053,11 +17602,15 @@ Diretamente</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Entrar</translation>
+        <translation type="obsolete">Entrar</translation>
     </message>
     <message>
         <source>Sign out</source>
         <translation>Sair</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -17089,7 +17642,7 @@ Diretamente</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>WPS Versão Comercial</translation>
+        <translation type="obsolete">WPS Versão Comercial</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -17112,7 +17665,7 @@ Diretamente</translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished">Alterar IU</translation>
+        <translation type="obsolete">Alterar IU</translation>
     </message>
     <message>
         <source>Switch UI</source>

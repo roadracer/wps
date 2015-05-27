@@ -162,7 +162,12 @@
     <message>
         <source>This function is offered in WPS Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation>此功能在 WPS Office 2013 專業版 中提供!</translation>
+        <translation type="obsolete">此功能在 WPS Office 2013 專業版 中提供!</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Professional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -624,6 +629,16 @@ Would you like to open this file?
         <source>Upholding Fixed</source>
         <comment>TXTRANS_PARA_TEXTALIGN_UPHOLDINGFIXED</comment>
         <translation>向下</translation>
+    </message>
+    <message>
+        <source>Left Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Line Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_FIRSTLINE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1606,7 +1621,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="obsolete">簡報</translation>
+        <translation type="unfinished">簡報</translation>
     </message>
     <message>
         <source>Presentation</source>
@@ -1615,7 +1630,7 @@ Please try one of the following.
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation>簡報</translation>
+        <translation type="obsolete">簡報</translation>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
@@ -2592,12 +2607,12 @@ Please try one of the following.
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation>您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想；為避免資料遺失，將以瀏覽模式開啟此文件 (不支援編輯和儲存)。</translation>
+        <translation type="obsolete">您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想；為避免資料遺失，將以瀏覽模式開啟此文件 (不支援編輯和儲存)。</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation>您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想且不支援儲存。</translation>
+        <translation type="obsolete">您正在開啟由 Microsoft Office 2007 以上版本生成的文件，可能存在局部相容效果不理想且不支援儲存。</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
@@ -2608,6 +2623,16 @@ Please try one of the following.
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>WP_SAVE_PPT_FAILURE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3452,7 +3477,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cancelled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation>使用者取消作業。</translation>
+        <translation type="obsolete">使用者取消作業。</translation>
     </message>
     <message>
         <source>Cannot add word“%s”.</source>
@@ -3467,7 +3492,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation>無法開啟資料夾 %s。資料夾位於無法使用的位置，資料夾受密碼保護或資料夾名稱不存在或超長。</translation>
+        <translation type="obsolete">無法開啟資料夾 %s。資料夾位於無法使用的位置，資料夾受密碼保護或資料夾名稱不存在或超長。</translation>
     </message>
     <message>
         <source>Center Revolve</source>
@@ -4683,7 +4708,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Out Slightlly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation>略微向內</translation>
+        <translation type="obsolete">略微向內</translation>
     </message>
     <message>
         <source>Out To Screen Bottom</source>
@@ -5694,6 +5719,21 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <comment>wpp_sRemoveDefaultDict</comment>
         <translation>刪除該自訂詞典可能會影響其他 WPS Office 程式所用的自訂詞典。想要繼續?</translation>
     </message>
+    <message>
+        <source>Out Slightly</source>
+        <comment>wpp_sAnimDirectionInSlightly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled by user.</source>
+        <comment>wpp_sCancelByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>
@@ -6018,7 +6058,7 @@ Spelling</source>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
-        <translation>簡報中的每張投影片都個別存檔到資料夾 %s 。</translation>
+        <translation type="obsolete">簡報中的每張投影片都個別存檔到資料夾 %s 。</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -6716,7 +6756,7 @@ Layout</source>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation type="obsolete">所有檔案 (*.*)|*.*|常用檔案 (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 2007/2010 簡報 (*.pptx; *.ppsx)|*.pptx; *.ppsx|中文辦公軟體文件格式 (*.uof)|*.uof</translation>
+        <translation type="unfinished">所有檔案 (*.*)|*.*|常用檔案 (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 2007/2010 簡報 (*.pptx; *.ppsx)|*.pptx; *.ppsx|中文辦公軟體文件格式 (*.uof)|*.uof</translation>
     </message>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
@@ -6774,78 +6814,59 @@ This backup will be saved to(%s)</source>
 此次備份將保存到(%s)。</translation>
     </message>
     <message>
-        <source>All Files(*.*)</source>
-        <comment>WpDescAll</comment>
+        <source>Paragraphs</source>
+        <comment>WpPARAGRAPHS</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
-        <comment>WpDescCommon</comment>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps</source>
+        <comment>WP_SAVEFILE</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Presentation Files(*.dps)</source>
-        <comment>WpDescWPP</comment>
+        <source>JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <comment>WP_SAVEFILE_IMAGES</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Presentation Templates(*.dpt)</source>
-        <comment>WpDescWPPTemp</comment>
+        <source>MPEG-4 Video(*.mp4)|*.mp4</source>
+        <comment>WP_SAVEFILE_VIDEO_MP4</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
-        <comment>WpDescPptPps</comment>
+        <source>Windows Media Video(*.wmv)|*.wmv</source>
+        <comment>WP_SAVEFILE_VIDEO_WMV</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
-        <comment>WpDescPpt</comment>
+        <source>Audio Video Interleave(*.avi)|*.avi</source>
+        <comment>WP_SAVEFILE_VIDEO_AVI</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
-        <comment>WpDescPps</comment>
+        <source>Open Web Media Video(*.webm)|*.webm</source>
+        <comment>WP_SAVEFILE_VIDEO_WEBM</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
-        <comment>WpDescPptTemp</comment>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
-        <comment>WpDescPptx</comment>
+        <source>|</source>
+        <comment>WpOpenSaveFilterSeperator</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chinese Office Document Format(*.uof)</source>
-        <comment>WpDescUOF</comment>
+        <source>\WPS Video\WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chinese Office Document Format 2.0(*.uop)</source>
-        <comment>WpDescUOF2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>JPEG File Interchange Format(*.jpg)</source>
-        <comment>WpDescJPEG</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PNG Portable Network Graphics Format(*.png)</source>
-        <comment>WpDescPNG</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TIFF Tag Image File Format(*.tif)</source>
-        <comment>WpDescTIFF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device Independent Bitmap(*.bmp)</source>
-        <comment>WpDescBMP</comment>
+        <source>\WPS Image\WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

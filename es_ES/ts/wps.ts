@@ -2350,7 +2350,7 @@ use los botones para aplicar bordes</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation>cancelar</translation>
+        <translation type="obsolete">cancelar</translation>
     </message>
     <message>
         <source>ed1</source>
@@ -2403,6 +2403,10 @@ use los botones para aplicar bordes</translation>
     <message>
         <source>&amp;Paragraphs</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2659,80 +2663,36 @@ use los botones para aplicar bordes</translation>
 <context>
     <name>KxDlgDocumentFields</name>
     <message>
-        <source>DocumentField</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DocumentField Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished">&amp;Insertar</translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Insertar</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished">Ir a(&amp;G)</translation>
+        <translation type="obsolete">Ir a(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">Eliminar(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Marks Only</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Eliminar(&amp;D)</translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="unfinished">Ordenar según:</translation>
+        <translation type="obsolete">Ordenar según:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">&amp;Nombre</translation>
+        <translation type="obsolete">&amp;Nombre</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished">&amp;Locación</translation>
-    </message>
-    <message>
-        <source>DocumentField Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Hidden</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Read &amp;Only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Apply All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insertion Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>When inserted at beginning and end, then counted in. </source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Locación</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Aceptar</translation>
+        <translation type="obsolete">Aceptar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation type="obsolete">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2987,7 +2947,7 @@ use los botones para aplicar bordes</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation>Recuerde esta opción, no se va a avisar más</translation>
+        <translation type="obsolete">Recuerde esta opción, no se va a avisar más</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -2998,6 +2958,10 @@ use los botones para aplicar bordes</translation>
 If unnecessary, please click Cancel.</source>
         <translation>Este documento ha aplicado fuente en línea. Si sy documento necesita ser circulado, recomendamos que gurade la fuente en documento. 
 Si es necesaio, por favor haga clic Cancelar.</translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3248,7 +3212,7 @@ Si es necesaio, por favor haga clic Cancelar.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add the &amp;path to the file name</source>
+        <source>Add &amp;path to filename</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3491,10 +3455,6 @@ Si es necesaio, por favor haga clic Cancelar.</translation>
         <translation type="obsolete">&amp;Reading Highlight</translation>
     </message>
     <message>
-        <source>replace options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Format:</source>
         <translation>Formato:</translation>
     </message>
@@ -3569,6 +3529,10 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Find Previous(&amp;B)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace options</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4032,7 +3996,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>UnderLine</source>
-        <translation>Subrayado</translation>
+        <translation type="obsolete">Subrayado</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished">Subrayado</translation>
     </message>
 </context>
 <context>
@@ -5375,11 +5343,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Discern &amp;location</source>
-        <translation>Distinguir &amp;locación</translation>
+        <translation type="obsolete">Distinguir &amp;locación</translation>
     </message>
     <message>
         <source>Discern &amp;person</source>
-        <translation>Distinguir &amp;persona</translation>
+        <translation type="obsolete">Distinguir &amp;persona</translation>
     </message>
     <message>
         <source>Display the &amp;Close button in the active tab</source>
@@ -6118,7 +6086,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>Privacy</source>
-        <translation>Privacidad</translation>
+        <translation type="obsolete">Privacidad</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
@@ -6145,10 +6113,6 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>F&amp;onts Preview Box</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>AutoNumber</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6166,10 +6130,6 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>Do &amp;not compress images in file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show &amp;windows in taskbar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6197,7 +6157,47 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>D&amp;ocument fields</source>
+        <source>&amp;Font Preview Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discern &amp;person(only effective in Chinese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discern &amp;location(only effective in Chinese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7854,18 +7854,6 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
 <context>
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
-        <source>Field name record delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Field delimiter:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(None)</source>
         <translation type="unfinished">(Ninguno)</translation>
     </message>
@@ -7994,7 +7982,19 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Record delimiter:</source>
+        <source>Header Record Delimiters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record delimiter:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8103,23 +8103,11 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     <name>KxDocumentFieldsDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation type="obsolete">Cancelar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
-    </message>
-    <message>
-        <source>The document field with this name has already existed. Do you want to cover it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The name of the document field is illegal.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The name of the document field has already existed, please rename it!</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Cerrar</translation>
     </message>
 </context>
 <context>
@@ -8411,7 +8399,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
-        <translation type="obsolete">Abra y active el archivo KingSoft.wps bajo la unidad C.</translation>
+        <translation type="unfinished">Abra y active el archivo KingSoft.wps bajo la unidad C.</translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
@@ -8435,7 +8423,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation type="obsolete">Presume que el KingSoft.wps está en la unidad C. Campo de código:HYPERLINK C:\\KingSoft.wps</translation>
+        <translation type="unfinished">Presume que el KingSoft.wps está en la unidad C. Campo de código:HYPERLINK C:\\KingSoft.wps</translation>
     </message>
     <message>
         <source>Presume the author of this document is WPS. Field code: DOCPPROPERTY Author</source>
@@ -8550,7 +8538,7 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation type="obsolete">Presume que un URL de la imagen es &quot;d:\\kingsoft.jpg&quot;. Código de campo:&quot;INCLUDEPICTURE &quot;d:\\kingsoft.jpg&quot;</translation>
+        <translation type="unfinished">Presume que un URL de la imagen es &quot;d:\\kingsoft.jpg&quot;. Código de campo:&quot;INCLUDEPICTURE &quot;d:\\kingsoft.jpg&quot;</translation>
     </message>
     <message>
         <source>Insert a picture from a file</source>
@@ -8565,46 +8553,6 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
         <translation>Insertar una propiedad de documento</translation>
     </message>
     <message>
-        <source>/</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>root directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>D:\\</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>D drive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open and activate the file KingSoft.wps under the %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>IncludeText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert text to from a file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8613,15 +8561,27 @@ El Botón avanzado permite que seleccione desde diferentes tipos de cifrado.</tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert the file name of the document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Forma&amp;t:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document &amp;property:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;d:\\wps.doc&quot;. Field code: INCLUDETEXT &quot;d:\\wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert file name of the document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9972,10 +9932,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Itatic, </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Justify alignment</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10042,6 +9998,10 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>Error al guardar. La plantilla normal está ocupada.</translation>
+    </message>
+    <message>
+        <source>Italic, </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10195,10 +10155,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Itatic, </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Justify alignment</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10208,10 +10164,6 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Left alignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LeftAndRight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10274,6 +10226,14 @@ Cancel:	Return to the dialog.</source>
         <source>Save failed. Normal Template is occupied.</source>
         <translation type="unfinished">Error al guardar. La plantilla normal está ocupada.</translation>
     </message>
+    <message>
+        <source>Italic, </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left and Right</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
@@ -10326,11 +10286,11 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <source>The directory &quot;%1&quot; is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The directory &quot;%1&quot; is not valid.</source>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12158,7 +12118,7 @@ Select parts of the document and choose users who are allowed to freely edit the
 <context>
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
-        <source>Field delimiter and record delimiter cannot be same.</source>
+        <source>The field delimiter cannot be the same as the record delimiter.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12612,10 +12572,6 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>userName</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change user...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12656,15 +12612,19 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Permission expiration date:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(N/A)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resquest additional permissions... </source>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12676,10 +12636,6 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In Line With Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12696,6 +12652,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Top and Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12763,7 +12723,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Revision: %1</source>
+        <source>Revisions: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13072,6 +13032,29 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation type="unfinished">Porc&amp;entaje:</translation>
+    </message>
+    <message>
+        <source>&amp;Whole Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Page Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Text Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsStyleGalleryModel</name>
     <message>
         <source>Styles</source>
@@ -13300,7 +13283,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No macros is currently recording. Click to begin recording a new macro.</source>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13495,14 +13478,6 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Password to protect permission settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>P&amp;rinting permission:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13524,6 +13499,14 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Export PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

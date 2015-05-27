@@ -29,21 +29,4 @@
         <translation type="unfinished"></translation>
     </message>
 </context>
-<context>
-    <name>QObject</name>
-    <message>
-        <source>Usage: %1 
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>    or %1 &lt;wps|wpp|et&gt; [document_path]
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:/qm/%1.qm</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
 </TS>

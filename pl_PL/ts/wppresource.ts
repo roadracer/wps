@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
@@ -62,6 +62,10 @@
         <translation>Kierunek</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Nieskończoność</translation>
     </message>
@@ -102,7 +106,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
@@ -492,7 +496,7 @@
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -536,6 +540,10 @@
     <message>
         <source>Equal Width</source>
         <translation>Równa szerokość</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -613,6 +621,10 @@
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -802,7 +814,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
@@ -903,6 +915,10 @@
         <translation>Rozłożone</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Font</source>
         <translation>Czcionka</translation>
     </message>
@@ -944,7 +960,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
@@ -1306,6 +1322,10 @@
 <context>
     <name>classics.shadow_settings</name>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Shadow Colors</source>
         <translation>Więcej kolorów cienia</translation>
     </message>
@@ -1339,7 +1359,7 @@
     </message>
     <message>
         <source>Snapper</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
@@ -1495,7 +1515,17 @@ wzorzec</lengthvariant>
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownika</translation>
+        <translation type="obsolete">Przełącz interfejs użytkownika</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -1545,6 +1575,10 @@ wzorzec</lengthvariant>
     <message>
         <source>Distribute Rows Evenly</source>
         <translation>Rozłóż wiersze równomiernie</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -1602,7 +1636,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Snapper</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
@@ -1967,7 +2001,11 @@ efekty</lengthvariant>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation>Partia ustawień czcionki</translation>
+        <translation type="obsolete">Partia ustawień czcionki</translation>
+    </message>
+    <message>
+        <source>Bulk Font Setting</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color
@@ -1992,6 +2030,10 @@ schematy</lengthvariant>
 Slide Master</source>
         <translation>Edytuj
 wzorzec slajdów</translation>
+    </message>
+    <message>
+        <source>Import Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
@@ -2071,7 +2113,7 @@ orientacja</lengthvariant>
     </message>
     <message>
         <source>import templates</source>
-        <translation>importuj szablony</translation>
+        <translation type="obsolete">importuj szablony</translation>
     </message>
 </context>
 <context>
@@ -2169,7 +2211,7 @@ formantu</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Opis</translation>
+        <translation type="obsolete">Opis</translation>
     </message>
     <message>
         <source>Image</source>
@@ -2467,7 +2509,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -2531,7 +2573,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Kolor czcionki</translation>
+        <translation type="obsolete">Kolor czcionki</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -2609,7 +2651,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation>Podział wiersza</translation>
+        <translation type="obsolete">Podział wiersza</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -2622,6 +2664,10 @@ Włącz</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More</source>
@@ -2747,6 +2793,10 @@ Włącz</translation>
         <translation>Pole tekstowe</translation>
     </message>
     <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Texture</source>
         <translation>Tekstura</translation>
     </message>
@@ -2760,7 +2810,11 @@ Włącz</translation>
     </message>
     <message>
         <source>Unholding Fixed</source>
-        <translation>Stałe podstawy</translation>
+        <translation type="obsolete">Stałe podstawy</translation>
+    </message>
+    <message>
+        <source>Upholding Fixed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -2835,8 +2889,12 @@ Włącz</translation>
         <translation>Zarządzanie kopią zapasową i odzyskiwanie danych</translation>
     </message>
     <message>
+        <source>Backup and Recover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
-        <translation>Zmień wersję</translation>
+        <translation type="obsolete">Zmień wersję</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -2864,7 +2922,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation>Eksportuj do OFD</translation>
+        <translation type="obsolete">Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -2908,11 +2966,11 @@ Włącz</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation>Nowa pusta prezentacja</translation>
+        <translation type="obsolete">Nowa pusta prezentacja</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation>Nowy dokument</translation>
+        <translation type="obsolete">Nowy dokument</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -2924,6 +2982,10 @@ Włącz</translation>
     <message>
         <source>New from Default Template</source>
         <translation>Nowy z szablonu domyślnego</translation>
+    </message>
+    <message>
+        <source>New from Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -3253,7 +3315,7 @@ Effects</source>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
             <lengthvariant>Kontrola komórki</lengthvariant>
         </translation>
@@ -3298,7 +3360,7 @@ Effects</source>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -3453,6 +3515,10 @@ slajdu</translation>
         <translation>Zwiększ odstępy</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Wstaw obraz</translation>
     </message>
@@ -3465,7 +3531,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
             <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
         </translation>
@@ -3488,7 +3554,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation>Podział wiersza</translation>
+        <translation type="obsolete">Podział wiersza</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -3511,6 +3577,14 @@ slajdu</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Model Essay</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More</source>
@@ -3546,7 +3620,7 @@ slajdu</translation>
     </message>
     <message>
         <source>New Slide Online</source>
-        <translation>Nowy slajd online</translation>
+        <translation type="obsolete">Nowy slajd online</translation>
     </message>
     <message>
         <source>No 3-D</source>
@@ -3790,7 +3864,7 @@ cienia</translation>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation>Klip artystyczny</translation>
+        <translation type="obsolete">Klip artystyczny</translation>
     </message>
     <message>
         <source>Background
@@ -3803,12 +3877,32 @@ muzyka</lengthvariant>
         </translation>
     </message>
     <message>
+        <source>Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chart</source>
         <translation>Wykres</translation>
     </message>
     <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Date and Time</source>
         <translation>Data i godzina</translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equation</source>
@@ -3848,11 +3942,15 @@ stopka</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>Wstaw klip artystyczny</translation>
+        <translation type="obsolete">Wstaw klip artystyczny</translation>
     </message>
     <message>
         <source>Insert Chart</source>
         <translation>Wstaw wykres</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -3993,6 +4091,10 @@ numer</lengthvariant>
         <translation>Pole tekstowe</translation>
     </message>
     <message>
+        <source>Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Vertical</source>
         <translation>Pionowo</translation>
     </message>
@@ -4007,40 +4109,76 @@ numer</lengthvariant>
 <context>
     <name>ongmani.ct_orgchart</name>
     <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>0.25 pt.</source>
-        <translation>0,25 pkt</translation>
+        <translation type="obsolete">0,25 pkt</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0,5 pkt</translation>
+        <translation type="obsolete">0,5 pkt</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0,75 pkt</translation>
+        <translation type="obsolete">0,75 pkt</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation>1 pkt</translation>
+        <translation type="obsolete">1 pkt</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation>1,5 pkt</translation>
+        <translation type="obsolete">1,5 pkt</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2,25 pkt</translation>
+        <translation type="obsolete">2,25 pkt</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>3 pkt</translation>
+        <translation type="obsolete">3 pkt</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4,5 pkt</translation>
+        <translation type="obsolete">4,5 pkt</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>6 pkt</translation>
+        <translation type="obsolete">6 pkt</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
@@ -4108,7 +4246,7 @@ numer</lengthvariant>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -4124,15 +4262,19 @@ numer</lengthvariant>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation>Efekty linii</translation>
+        <translation type="obsolete">Efekty linii</translation>
     </message>
     <message>
         <source>Line Style</source>
         <translation>Styl linii</translation>
     </message>
     <message>
+        <source>Line Style Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Sytle Palette</source>
-        <translation>Paleta stylu linii</translation>
+        <translation type="obsolete">Paleta stylu linii</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -4141,6 +4283,10 @@ numer</lengthvariant>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -4169,6 +4315,10 @@ numer</lengthvariant>
     <message>
         <source>Pattern</source>
         <translation>Deseń</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -4274,7 +4424,7 @@ numer</lengthvariant>
     </message>
     <message>
         <source>FitText Tip</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Dopasuj tekst Porada</lengthvariant>
             <lengthvariant>Dopasowanie tekstu Porada</lengthvariant>
             <lengthvariant>Dopasuj tekst Wskazówka</lengthvariant>
@@ -4296,6 +4446,10 @@ numer</lengthvariant>
     <message>
         <source>Reset Shape</source>
         <translation>Resetuj kształt</translation>
+    </message>
+    <message>
+        <source>Resize shape to fit text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Hanging</source>
@@ -4385,7 +4539,7 @@ numer</lengthvariant>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation>Klip artystyczny</translation>
+        <translation type="obsolete">Klip artystyczny</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -4404,6 +4558,10 @@ numer</lengthvariant>
 Picture</source>
         <translation>Zmień
 obraz</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color</source>
@@ -4433,7 +4591,7 @@ obrazów</lengthvariant>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -4458,6 +4616,10 @@ obrazów</lengthvariant>
     <message>
         <source>Equal Width</source>
         <translation>Równa szerokość</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4508,7 +4670,15 @@ obrazów</lengthvariant>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>Wstaw klip artystyczny</translation>
+        <translation type="obsolete">Wstaw klip artystyczny</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4516,7 +4686,7 @@ obrazów</lengthvariant>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
             <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
         </translation>
@@ -4539,6 +4709,10 @@ obrazów</lengthvariant>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -4676,7 +4850,7 @@ włącz/wyłącz</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
@@ -5009,6 +5183,10 @@ Effects</source>
         <translation>Kierunek</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Nieskończoność</translation>
     </message>
@@ -5108,7 +5286,7 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
@@ -5331,8 +5509,12 @@ wzorca</translation>
 <context>
     <name>ongmani.ct_slideshow</name>
     <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>CellphoneControl</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
             <lengthvariant>Kontrola komórki</lengthvariant>
         </translation>
@@ -5452,7 +5634,7 @@ notatki</lengthvariant>
     </message>
     <message>
         <source>Alilgn Left</source>
-        <translation>Wyrównaj do lewej</translation>
+        <translation type="obsolete">Wyrównaj do lewej</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -5929,6 +6111,10 @@ On/Off</source>
         <translation>Kierunek</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Nieskończoność</translation>
     </message>
@@ -6026,7 +6212,7 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
@@ -6235,7 +6421,7 @@ znakami</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -6390,6 +6576,10 @@ znakami</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loose</source>
@@ -6629,11 +6819,19 @@ WordArt</lengthvariant>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Batch Set Font</source>
-        <translation>Partia ustawień czcionki</translation>
+        <translation type="obsolete">Partia ustawień czcionki</translation>
+    </message>
+    <message>
+        <source>Bulk Font Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
             <lengthvariant>Kontrola komórki</lengthvariant>
         </translation>
@@ -6652,6 +6850,10 @@ WordArt</lengthvariant>
     <message>
         <source>Disable AutoBackup</source>
         <translation>Wyłącz automatyczne tworzenie kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -6686,6 +6888,10 @@ WordArt</lengthvariant>
         <translation>Pomóż nam ulepszyć WPS Office</translation>
     </message>
     <message>
+        <source>Image Exporting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture To Multiple Slides</source>
         <translation variants="yes">
             <lengthvariant>Wstaw obraz do wielu slajdów</lengthvariant>
@@ -6699,6 +6905,10 @@ WordArt</lengthvariant>
     <message>
         <source>Manual Backup</source>
         <translation>Ręczna kopia zapasowa</translation>
+    </message>
+    <message>
+        <source>Model Essay</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Online Documents</source>
@@ -6750,6 +6960,10 @@ WordArt</lengthvariant>
         <translation>Opinie użytkowników</translation>
     </message>
     <message>
+        <source>Video Exporting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View File Safe</source>
         <translation>Wyświetl plik w trybie awaryjnym</translation>
     </message>
@@ -6763,42 +6977,85 @@ WordArt</lengthvariant>
     </message>
 </context>
 <context>
+    <name>ongmani.proxycommands</name>
+    <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>popupmenu</name>
     <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>0.25 pt.</source>
-        <translation>0,25 pkt</translation>
+        <translation type="obsolete">0,25 pkt</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0,5 pkt</translation>
+        <translation type="obsolete">0,5 pkt</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0,75 pkt</translation>
+        <translation type="obsolete">0,75 pkt</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation>1 pkt</translation>
+        <translation type="obsolete">1 pkt</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation>1,5 pkt</translation>
+        <translation type="obsolete">1,5 pkt</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2,25 pkt</translation>
+        <translation type="obsolete">2,25 pkt</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation>3 pkt</translation>
+        <translation type="obsolete">3 pkt</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4,5 pkt</translation>
+        <translation type="obsolete">4,5 pkt</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation>6 pkt</translation>
+        <translation type="obsolete">6 pkt</translation>
     </message>
     <message>
         <source>About WPS Presentation</source>
@@ -6927,7 +7184,7 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation>Klip artystyczny</translation>
+        <translation type="obsolete">Klip artystyczny</translation>
     </message>
     <message>
         <source>AutoPoint</source>
@@ -7029,7 +7286,7 @@ COM</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Zmień konto</translation>
+        <translation type="obsolete">Zmień konto</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -7061,6 +7318,10 @@ COM</translation>
     <message>
         <source>Chinese Conversion</source>
         <translation>Konwersja języka chińskiego</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -7104,6 +7365,10 @@ COM</translation>
     <message>
         <source>Convert Path to AutoShape</source>
         <translation>Konwertuj ścieżkę do autokształtu</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy Comment</source>
@@ -7153,8 +7418,16 @@ COM</translation>
         <translation>Niestandardowe pokazy slajdów</translation>
     </message>
     <message>
+        <source>Cut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Dash</source>
         <translation>Kreska</translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -7162,11 +7435,11 @@ COM</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Kreska-kropka</translation>
+        <translation type="obsolete">Kreska-kropka</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -7183,6 +7456,10 @@ COM</translation>
     <message>
         <source>Decrease Indent</source>
         <translation>Zmniejsz wcięcie</translation>
+    </message>
+    <message>
+        <source>Decrease Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7357,7 +7634,7 @@ COM</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation>Eksportuj do OFD</translation>
+        <translation type="obsolete">Eksportuj do OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -7369,6 +7646,10 @@ COM</translation>
             <lengthvariant>Eksportuj pakiet</lengthvariant>
             <lengthvariant>Eksportowanie pakietu</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -7401,12 +7682,20 @@ COM</translation>
         </translation>
     </message>
     <message>
+        <source>Flip Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flip Horizontally</source>
-        <translation>Przerzuć w poziomie</translation>
+        <translation type="obsolete">Przerzuć w poziomie</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation>Przerzuć w pionie</translation>
+        <translation type="obsolete">Przerzuć w pionie</translation>
     </message>
     <message>
         <source>Font</source>
@@ -7432,6 +7721,10 @@ COM</translation>
         <translation>Malarz formatów</translation>
     </message>
     <message>
+        <source>Formatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>Obrót dowolny</translation>
     </message>
@@ -7445,7 +7738,11 @@ COM</translation>
     </message>
     <message>
         <source>Gradiant</source>
-        <translation>Gradient</translation>
+        <translation type="obsolete">Gradient</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -7491,6 +7788,10 @@ COM</translation>
         <translation>Hiperłącze</translation>
     </message>
     <message>
+        <source>Import Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Font Size</source>
         <translation>Zwiększ rozmiar czcionki</translation>
     </message>
@@ -7512,7 +7813,11 @@ COM</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>Wstaw klip artystyczny</translation>
+        <translation type="obsolete">Wstaw klip artystyczny</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Columns Left</source>
@@ -7558,6 +7863,11 @@ COM</translation>
         <translation>Niewidoczny</translation>
     </message>
     <message>
+        <source>Involved
+Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Italic</source>
         <translation>Kursywa</translation>
     </message>
@@ -7595,15 +7905,19 @@ COM</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation>Efekty linii</translation>
+        <translation type="obsolete">Efekty linii</translation>
     </message>
     <message>
         <source>Line Spacing</source>
         <translation>Interlinia</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Sytle Palette</source>
-        <translation>Paleta stylu linii</translation>
+        <translation type="obsolete">Paleta stylu linii</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -7613,8 +7927,16 @@ COM</translation>
         </translation>
     </message>
     <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash-Dot</source>
-        <translation>Długa kreska-kropka-kreska</translation>
+        <translation type="obsolete">Długa kreska-kropka-kreska</translation>
     </message>
     <message>
         <source>Macro</source>
@@ -7696,11 +8018,15 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>New Slide From Online</source>
-        <translation>Nowy slajd z online</translation>
+        <translation type="obsolete">Nowy slajd z online</translation>
     </message>
     <message>
         <source>New Slide Master</source>
         <translation>Nowy wzorzec slajdów</translation>
+    </message>
+    <message>
+        <source>New Slide Online</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Title Master</source>
@@ -7792,6 +8118,14 @@ wzorzec</lengthvariant>
         </translation>
     </message>
     <message>
+        <source>Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Paste Special</source>
         <translation>Wklej specjalnie</translation>
     </message>
@@ -7800,12 +8134,20 @@ wzorzec</lengthvariant>
         <translation>Deseń</translation>
     </message>
     <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Pause</source>
         <translation>Wstrzymaj</translation>
     </message>
     <message>
         <source>Pause Background Music</source>
         <translation>Wstrzymaj muzykę w tle</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture</source>
@@ -8100,7 +8442,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Snapper</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
@@ -8184,6 +8526,10 @@ wzorzec</lengthvariant>
         <translation>Podkreślenie</translation>
     </message>
     <message>
+        <source>Unformatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ungroup</source>
         <translation>Rozgrupuj</translation>
     </message>
@@ -8228,7 +8574,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wersja biznesowa WPS</lengthvariant>
             <lengthvariant>WPS dla firm</lengthvariant>
         </translation>
@@ -8282,7 +8628,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>import templates</source>
-        <translation>importuj szablony</translation>
+        <translation type="obsolete">importuj szablony</translation>
     </message>
     <message>
         <source>true</source>
@@ -8300,7 +8646,17 @@ wzorzec</lengthvariant>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownika</translation>
+        <translation type="obsolete">Przełącz interfejs użytkownika</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -8505,7 +8861,11 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Batch Set Font</source>
-        <translation>Partia ustawień czcionki</translation>
+        <translation type="obsolete">Partia ustawień czcionki</translation>
+    </message>
+    <message>
+        <source>Bulk Font Setting</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -8522,6 +8882,10 @@ wzorzec</lengthvariant>
     <message>
         <source>Edit Slide Master</source>
         <translation>Edytuj wzorzec slajdów</translation>
+    </message>
+    <message>
+        <source>Import Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
@@ -8587,7 +8951,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>import templates</source>
-        <translation>importuj szablony</translation>
+        <translation type="obsolete">importuj szablony</translation>
     </message>
 </context>
 <context>
@@ -8679,7 +9043,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Description</source>
-        <translation>Opis</translation>
+        <translation type="obsolete">Opis</translation>
     </message>
     <message>
         <source>Image</source>
@@ -8880,7 +9244,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -8959,6 +9323,10 @@ szablon</lengthvariant>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -9098,8 +9466,12 @@ szablon</lengthvariant>
         <translation>Zarządzanie kopią zapasową i odzyskiwanie danych</translation>
     </message>
     <message>
+        <source>Backup and Recover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Version</source>
-        <translation>Zmień wersję</translation>
+        <translation type="obsolete">Zmień wersję</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -9127,7 +9499,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Export OFD Format</source>
-        <translation>Eksportuj do formatu OFD</translation>
+        <translation type="obsolete">Eksportuj do formatu OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -9171,11 +9543,11 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>New Blank Presentation</source>
-        <translation>Nowa pusta prezentacja</translation>
+        <translation type="obsolete">Nowa pusta prezentacja</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation>Nowy dokument</translation>
+        <translation type="obsolete">Nowy dokument</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -9187,6 +9559,10 @@ szablon</lengthvariant>
     <message>
         <source>New from Default Template</source>
         <translation>Nowy z szablonu domyślnego</translation>
+    </message>
+    <message>
+        <source>New from Online Templates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New from Other Templates...</source>
@@ -9522,7 +9898,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
             <lengthvariant>Kontrola komórki</lengthvariant>
         </translation>
@@ -9567,7 +9943,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -9718,6 +10094,10 @@ slajdu</translation>
         <translation>Zwiększ odstępy</translation>
     </message>
     <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Wstaw obraz</translation>
     </message>
@@ -9730,7 +10110,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
             <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
         </translation>
@@ -9753,7 +10133,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Line Break</source>
-        <translation>Podział wiersza</translation>
+        <translation type="obsolete">Podział wiersza</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -9769,6 +10149,10 @@ slajdu</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Media</source>
@@ -10079,7 +10463,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation>Klip artystyczny</translation>
+        <translation type="obsolete">Klip artystyczny</translation>
     </message>
     <message>
         <source>Background Music</source>
@@ -10088,6 +10472,10 @@ slajdu</translation>
     <message>
         <source>Chart</source>
         <translation>Wykres</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -10133,15 +10521,23 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>Wstaw klip artystyczny</translation>
+        <translation type="obsolete">Wstaw klip artystyczny</translation>
     </message>
     <message>
         <source>Insert Chart</source>
         <translation>Wstaw wykres</translation>
     </message>
     <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Hyperlink</source>
         <translation>Wstaw hiperłącze</translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
@@ -10171,7 +10567,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wstaw obraz w trybie online</lengthvariant>
             <lengthvariant>Wstawianie obrazu w trybie online</lengthvariant>
         </translation>
@@ -10385,7 +10781,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -10401,7 +10797,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation>Efekty linii</translation>
+        <translation type="obsolete">Efekty linii</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -10409,7 +10805,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation>Paleta stylu linii</translation>
+        <translation type="obsolete">Paleta stylu linii</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -10418,6 +10814,10 @@ slajdu</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -10446,6 +10846,10 @@ slajdu</translation>
     <message>
         <source>Pattern</source>
         <translation>Deseń</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -10675,7 +11079,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Artistic Clip</source>
-        <translation>Klip artystyczny</translation>
+        <translation type="obsolete">Klip artystyczny</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -10696,6 +11100,10 @@ podrzędnego</lengthvariant>
     <message>
         <source>Change Picture</source>
         <translation>Zmień obraz</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color</source>
@@ -10722,7 +11130,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -10797,7 +11205,11 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Insert Artistic Clip</source>
-        <translation>Wstaw klip artystyczny</translation>
+        <translation type="obsolete">Wstaw klip artystyczny</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -10828,6 +11240,10 @@ podrzędnego</lengthvariant>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -11265,6 +11681,10 @@ podrzędnego</lengthvariant>
         <translation>Kierunek</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Nieskończoność</translation>
     </message>
@@ -11353,7 +11773,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Snapper</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
@@ -11431,8 +11851,12 @@ wzorzec</lengthvariant>
 <context>
     <name>rainbow.ct_slideshow</name>
     <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>CellphoneControl</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
             <lengthvariant>Kontrola komórki</lengthvariant>
         </translation>
@@ -11877,6 +12301,10 @@ Effects</source>
         <translation>Kierunek</translation>
     </message>
     <message>
+        <source>Eyedropper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Infinity</source>
         <translation>Nieskończoność</translation>
     </message>
@@ -11972,7 +12400,7 @@ cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kroplomierz</lengthvariant>
             <lengthvariant>Wybór koloru</lengthvariant>
         </translation>
@@ -12164,7 +12592,7 @@ cienia</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Dash Style</source>
@@ -12315,6 +12743,10 @@ cienia</translation>
     <message>
         <source>Long Dash Dot</source>
         <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loose</source>
@@ -12558,11 +12990,19 @@ cienia</translation>
     <name>rainbow.ct_workspace</name>
     <message>
         <source>Batch Set Font</source>
-        <translation>Partia ustawień czcionki</translation>
+        <translation type="obsolete">Partia ustawień czcionki</translation>
+    </message>
+    <message>
+        <source>Bulk Font Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Kontrola telefonu komórkowego</lengthvariant>
             <lengthvariant>Kontrola komórki</lengthvariant>
         </translation>
@@ -12581,6 +13021,10 @@ cienia</translation>
     <message>
         <source>Disable AutoBackup</source>
         <translation>Wyłącz automatyczne tworzenie kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -12615,6 +13059,10 @@ cienia</translation>
         <translation>Pomóż nam ulepszyć WPS Office</translation>
     </message>
     <message>
+        <source>Image Exporting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture To Multiple Slides</source>
         <translation variants="yes">
             <lengthvariant>Wstaw obraz do wielu slajdów</lengthvariant>
@@ -12628,6 +13076,10 @@ cienia</translation>
     <message>
         <source>Manual Backup</source>
         <translation>Ręczna kopia zapasowa</translation>
+    </message>
+    <message>
+        <source>Model Essay</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Online Documents</source>
@@ -12679,12 +13131,23 @@ cienia</translation>
         <translation>Opinie użytkowników</translation>
     </message>
     <message>
+        <source>Video Exporting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View File Safe</source>
         <translation>Wyświetl plik w trybie awaryjnym</translation>
     </message>
     <message>
         <source>true</source>
         <translation>prawda</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.proxycommands</name>
+    <message>
+        <source>Cellphone Control</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12755,7 +13218,7 @@ cienia</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Zmień konto</translation>
+        <translation type="obsolete">Zmień konto</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -12767,6 +13230,10 @@ cienia</translation>
     <message>
         <source>Disable AutoBackup</source>
         <translation>Wyłącz automatyczne tworzenie kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export as Images</source>
@@ -12785,11 +13252,19 @@ cienia</translation>
         <translation>Ręczna kopia zapasowa</translation>
     </message>
     <message>
+        <source>Model Essay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Open from Cloud Docs</source>
         <translation variants="yes">
             <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
             <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -12835,7 +13310,7 @@ cienia</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wersja biznesowa WPS</lengthvariant>
             <lengthvariant>WPS dla firm</lengthvariant>
             <lengthvariant></lengthvariant>
@@ -12877,7 +13352,7 @@ cienia</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>Przestrzeń biurowa</translation>
+        <translation type="obsolete">Przestrzeń biurowa</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -12902,6 +13377,10 @@ cienia</translation>
     <message>
         <source>Slide Sorter</source>
         <translation>Sortowanie slajdów</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Standard</source>
@@ -13000,6 +13479,10 @@ cienia</translation>
         </translation>
     </message>
     <message>
+        <source>Click to adjust Zoom level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Click to turn on/off AutoBackup</source>
         <translation>Kliknij, aby włączyć/wyłączyć automatyczne tworzenie kopii zapasowej</translation>
     </message>
@@ -13054,10 +13537,14 @@ cienia</translation>
     </message>
     <message>
         <source>Creat Cloud Link</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Utwórz łącze usługi Chmura</lengthvariant>
             <lengthvariant>Utwórz łącze usługi Cloud</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Create Cloud Link</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Curve</source>
@@ -13124,6 +13611,14 @@ cienia</translation>
         <translation>Zakończ</translation>
     </message>
     <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File</source>
         <translation>Plik</translation>
     </message>
@@ -13159,6 +13654,10 @@ slajdu</translation>
         <translation>Hiperłącze</translation>
     </message>
     <message>
+        <source>Image Exporting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Font Size</source>
         <translation>Zwiększ rozmiar czcionki</translation>
     </message>
@@ -13189,6 +13688,10 @@ slajdu</translation>
     <message>
         <source>Macros</source>
         <translation>Makra</translation>
+    </message>
+    <message>
+        <source>Magic</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>MailFeedBack</source>
@@ -13227,15 +13730,23 @@ slajdu</translation>
     </message>
     <message>
         <source>New Blank Slide</source>
-        <translation>Nowy pusty slajd</translation>
+        <translation type="obsolete">Nowy pusty slajd</translation>
     </message>
     <message>
         <source>New Document</source>
-        <translation>Nowy dokument</translation>
+        <translation type="obsolete">Nowy dokument</translation>
     </message>
     <message>
         <source>New From Default Template</source>
         <translation>Nowy z szablonu domyślnego</translation>
+    </message>
+    <message>
+        <source>New From Online Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Next Slide</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -13246,7 +13757,7 @@ slajdu</translation>
     </message>
     <message>
         <source>New Slide From Library</source>
-        <translation>Nowy slajd z biblioteki</translation>
+        <translation type="obsolete">Nowy slajd z biblioteki</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -13273,6 +13784,11 @@ slajdu</translation>
         <translation>Notatka</translation>
     </message>
     <message>
+        <source>Note</source>
+        <comment>shortHint</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Notes</source>
         <translation>Notatki</translation>
     </message>
@@ -13286,11 +13802,15 @@ slajdu</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>Przestrzeń biurowa</translation>
+        <translation type="obsolete">Przestrzeń biurowa</translation>
     </message>
     <message>
         <source>Open</source>
         <translation>Otwórz</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -13422,6 +13942,10 @@ slajdu</translation>
         <translation>Przejście slajdu</translation>
     </message>
     <message>
+        <source>Status Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Style</source>
         <translation>Styl</translation>
     </message>
@@ -13486,6 +14010,10 @@ slajdu</translation>
         <translation>Opinie użytkowników</translation>
     </message>
     <message>
+        <source>Video Exporting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>View</source>
         <translation>Widok</translation>
     </message>
@@ -13513,6 +14041,18 @@ slajdu</translation>
         </translation>
     </message>
     <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>change template</source>
         <translation variants="yes">
             <lengthvariant>zmień szablon</lengthvariant>
@@ -13521,14 +14061,14 @@ slajdu</translation>
     </message>
     <message>
         <source>magic</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>magia</lengthvariant>
             <lengthvariant>magic</lengthvariant>
         </translation>
     </message>
     <message>
         <source>statusbar</source>
-        <translation>pasek stanu</translation>
+        <translation type="obsolete">pasek stanu</translation>
     </message>
 </context>
 <context>
@@ -13596,7 +14136,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Zmień konto</translation>
+        <translation type="obsolete">Zmień konto</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -13652,7 +14192,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>Przestrzeń biurowa</translation>
+        <translation type="obsolete">Przestrzeń biurowa</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -13665,6 +14205,14 @@ slajdu</translation>
     <message>
         <source>Organization Chart</source>
         <translation>Schemat organizacyjny</translation>
+    </message>
+    <message>
+        <source>Output Shape Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -13712,7 +14260,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translation type="obsolete">Zaloguj</translation>
     </message>
     <message>
         <source>Slide Master</source>
@@ -13721,6 +14269,10 @@ slajdu</translation>
     <message>
         <source>Slide Show</source>
         <translation>Pokaz slajdów</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -13736,7 +14288,7 @@ slajdu</translation>
     </message>
     <message>
         <source>User Sign in</source>
-        <translation>Logowanie użytkownika</translation>
+        <translation type="obsolete">Logowanie użytkownika</translation>
     </message>
     <message>
         <source>View</source>
@@ -13748,7 +14300,7 @@ slajdu</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wersja biznesowa WPS</lengthvariant>
             <lengthvariant>WPS dla firm</lengthvariant>
         </translation>
@@ -13777,7 +14329,7 @@ slajdu</translation>
     <name>wppongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownika</translation>
+        <translation type="obsolete">Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -13827,7 +14379,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Change Account</source>
-        <translation>Zmień konto</translation>
+        <translation type="obsolete">Zmień konto</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -13895,7 +14447,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Office Space</source>
-        <translation>Przestrzeń biurowa</translation>
+        <translation type="obsolete">Przestrzeń biurowa</translation>
     </message>
     <message>
         <source>Open</source>
@@ -13908,6 +14460,10 @@ slajdu</translation>
     <message>
         <source>Organization Chart</source>
         <translation>Schemat organizacyjny</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -13951,7 +14507,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translation type="obsolete">Zaloguj</translation>
     </message>
     <message>
         <source>Slide Master</source>
@@ -13960,6 +14516,10 @@ slajdu</translation>
     <message>
         <source>Slide Show</source>
         <translation>Pokaz slajdów</translation>
+    </message>
+    <message>
+        <source>Special Features</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -13987,7 +14547,7 @@ slajdu</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wersja biznesowa WPS</lengthvariant>
             <lengthvariant>WPS dla firm</lengthvariant>
         </translation>
@@ -14022,7 +14582,7 @@ slajdu</translation>
     <name>wpprainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Przełącz interfejs użytkownika</translation>
+        <translation type="obsolete">Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>

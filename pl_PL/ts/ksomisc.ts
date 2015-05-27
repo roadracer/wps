@@ -114,6 +114,13 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>KS Biaoge.lnk</source>
         <translation>Formularz KS.lnk</translation>
     </message>
+    <message>
+        <source>WPS Cloud.lnk</source>
+        <translation type="unfinished" variants="yes">
+            <lengthvariant>WPS Chmura.lnk</lengthvariant>
+            <lengthvariant>WPS Cloud.lnk</lengthvariant>
+        </translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -316,7 +323,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>An error occured when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation>Wystąpił błąd podczas naprawiania, spróbuj ponownie.</translation>
+        <translation type="obsolete">Wystąpił błąd podczas naprawiania, spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Repair completed!</source>
@@ -329,6 +336,11 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
             <lengthvariant>Nie używasz konta administratora. Niektóre funkcje są niedostępne.</lengthvariant>
             <lengthvariant>Nie używasz konta administratora. Niektóre funkcje nie są dostępne.</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>An error occurred when repairing, please retry.</source>
+        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -557,6 +569,10 @@ needs restarting Windows to take effect.</source>
         <translation>Opcja &quot;Zgodny z oprogramowaniem firm trzecich&quot;
 wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</translation>
     </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2010</source>
+        <translation type="unfinished">&amp;Zgodny z pakietem Microsoft Office 2010</translation>
+    </message>
 </context>
 <context>
     <name>KPageHomePage</name>
@@ -566,7 +582,7 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation>Możesz odblokować stronę główną IE, jeśli Ci się nie podoba. Uwaga: Odblokowanie strony głównej może powodować ryzyko zainfekowania wirusem i kradzieży konta.</translation>
+        <translation type="obsolete">Możesz odblokować stronę główną IE, jeśli Ci się nie podoba. Uwaga: Odblokowanie strony głównej może powodować ryzyko zainfekowania wirusem i kradzieży konta.</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
@@ -574,10 +590,19 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     </message>
     <message>
         <source>Unlock completed</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Odblokowanie ukończone</lengthvariant>
             <lengthvariant>Odblokowanie zakończone</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>You can change the IE homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1145,6 +1170,10 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
         <source>Microsoft PowerPoint Macro-Enabled Slide</source>
         <translation>Slajd programu Microsoft PowerPoint z obsługą makr</translation>
     </message>
+    <message>
+        <source>Microsoft Excel Backup File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1166,7 +1195,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Programs that can be actiavted</source>
-        <translation>Programy, które mogą być aktywowane</translation>
+        <translation type="obsolete">Programy, które mogą być aktywowane</translation>
     </message>
     <message>
         <source>Subtotal:</source>
@@ -1175,6 +1204,10 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     <message>
         <source>Are you sure to delete the serial number?</source>
         <translation>Czy na pewno chcesz usunąć ten numer seryjny?</translation>
+    </message>
+    <message>
+        <source>Programs that can be activated</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1201,7 +1234,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation>Nie sprawdzaj aktualizacji automatycznie (niezalecane)</translation>
+        <translation type="obsolete">Nie sprawdzaj aktualizacji automatycznie (niezalecane)</translation>
     </message>
     <message>
         <source>Get the latest product news during updates(&amp;K)</source>
@@ -1267,6 +1300,22 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     <message>
         <source>The port must be a number between 1 and 65535.</source>
         <translation>Port musi być liczbą z przedziału od 1 do 65535.</translation>
+    </message>
+    <message>
+        <source>Do not check for updates automatically (not recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Items:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All new releases</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommended new releases</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

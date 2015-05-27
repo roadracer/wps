@@ -742,10 +742,10 @@ Versuchen Sie Folgendes:
     <message>
         <source>WPS Writer encountered an error when trying to update source file.
 Try one or more of the following:
-1、Check whether the source file has been opened or occupied by other programs.
-2、Check whether the source file is protected.
-3、Ensure that the source file is in the appropriate directory.
-4、Ensure that the source file can be supported by WPS.</source>
+1. Check whether the source file has been opened or occupied by other programs.
+2. Check whether the source file is protected.
+3. Make sure that the source file is in the appropriate directory.
+4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2958,28 +2958,37 @@ Do you want to replace it?</source>
         <translation>Keine Dokumentprüfung</translation>
     </message>
     <message>
-        <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS konnte das Hauptdokument nicht mit der Datenquelle verbinden, da entweder die Datensätze leer waren oder kein Datensatz den Abfrageoptionen entsprach.</translation>
     </message>
     <message>
-        <source>Recorded %d too much data fields.</source>
+        <source>Record %d contained too many data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recorded %d too few data fields.</source>
+        <source>Record %d contained too few data fields.</source>
         <comment>_TxMailMerge_FieldsTooFew</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recorded %d is empty.</source>
+        <source>Record %d is empty.</source>
         <comment>_TxMailMerge_FieldsEmpty</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
+        <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3045,12 +3054,12 @@ Verwenden Sie die Schaltfläche &quot;Nächster bearbeitbarer Bereich&quot;, um 
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation>Das Maß muss zwischen -1584 pt und 1584 pt liegen.</translation>
+        <translation type="obsolete">Das Maß muss zwischen -1584 pt und 1584 pt liegen.</translation>
     </message>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation>Das Maß muss zwischen 5 und 600 liegen.</translation>
+        <translation type="obsolete">Das Maß muss zwischen 5 und 600 liegen.</translation>
     </message>
     <message>
         <source>The password is not correct.</source>
@@ -3101,6 +3110,16 @@ Verwenden Sie die Schaltfläche &quot;Nächster bearbeitbarer Bereich&quot;, um 
         <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
         <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
         <translation>Sie versuchen, eine oder mehrere Tabellen in ein vertikales Textfeld zu kopieren. Ein Textfeld oder Rahmen mit vertikaler Textausrichtung kann keine Tabellen enthalten. Die Tabelle wird gelöscht. Möchten Sie den Vorgang fortsetzen?</translation>
+    </message>
+    <message>
+        <source>The measurement must be between -1584 pt and 1584 pt.</source>
+        <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The measurement must be between 0.5 and 600.</source>
+        <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3197,7 +3216,7 @@ Verwenden Sie die Schaltfläche &quot;Nächster bearbeitbarer Bereich&quot;, um 
     <message>
         <source>Normal.wpt</source>
         <comment>_TxDocument_NormalTemplate</comment>
-        <translation>Normal.wpt</translation>
+        <translation type="obsolete">Normal.wpt</translation>
     </message>
     <message>
         <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
@@ -3312,12 +3331,12 @@ Do you want to continue?</source>
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation type="obsolete">WPSV6-TEXT</translation>
+        <translation type="unfinished">WPSV6-TEXT</translation>
     </message>
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation>builtin.wpt</translation>
+        <translation type="obsolete">builtin.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -3436,8 +3455,8 @@ Geben Sie einen anderen Namen für das Dokument ein.
         <translation>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</translation>
     </message>
     <message>
-        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
-This backup will be saved to(%s)</source>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -5008,7 +5027,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     <message>
         <source>This shortcut key already exists. Please set aonther key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation>Die Tastenkombination ist schon vorhanden.Legen Sie bitte eine andere Tastenkombination. </translation>
+        <translation type="obsolete">Die Tastenkombination ist schon vorhanden.Legen Sie bitte eine andere Tastenkombination. </translation>
     </message>
     <message>
         <source>This style name already exists or is reserved for a built-in style.</source>
@@ -5258,7 +5277,7 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation>Fehler beim Setzen der Makro-Sicherheitseinstellung wurde gefunden, weil das VBA-Objektmodell nicht installiert werden kann. </translation>
+        <translation type="obsolete">Fehler beim Setzen der Makro-Sicherheitseinstellung wurde gefunden, weil das VBA-Objektmodell nicht installiert werden kann. </translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
@@ -5356,6 +5375,16 @@ Abbrechen:	Zum Konfigurationsdialogfeld zurückkehren.</translation>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sValidValue</comment>
         <translation type="unfinished">Die Zahl muss zwischen %d und %d liegen.</translation>
+    </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This shortcut key already exists. Please set another key.</source>
+        <comment>wps_sAppShortcutExisted</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6350,7 +6379,7 @@ Protection</source>
     <message>
         <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation>Persönliche Outlook-Adressbuch(*.pab) | *.pab; |</translation>
+        <translation type="obsolete">Persönliche Outlook-Adressbuch(*.pab) | *.pab; |</translation>
     </message>
     <message>
         <source>Outside Border</source>
@@ -7696,8 +7725,8 @@ Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert DocumentField</source>
-        <comment>TxVersion_InsDocumentField</comment>
+        <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
+        <comment>TxDesc_DataSource_pab</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

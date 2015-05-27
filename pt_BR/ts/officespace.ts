@@ -6,7 +6,7 @@
     <name>KActiveDialogAtStartup</name>
     <message>
         <source>https://vip.wps.cn/api/card/activate</source>
-        <translation>https://vip.wps.cn/api/card/activate</translation>
+        <translation type="obsolete">https://vip.wps.cn/api/card/activate</translation>
     </message>
 </context>
 <context>
@@ -170,11 +170,11 @@
         <translation>Verificado há %1 minutos</translation>
     </message>
     <message>
-        <source>New version is available, Please Refresh</source>
+        <source>New version is available. Please refresh.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New version is available, Please Check</source>
+        <source>New version is available. Please check.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -215,7 +215,7 @@
     </message>
     <message>
         <source>modifyTime:</source>
-        <translation>Hora de modificação:</translation>
+        <translation type="obsolete">Hora de modificação:</translation>
     </message>
     <message>
         <source>http://www.kingsoftstore.com/support/pc-office</source>
@@ -223,19 +223,19 @@
     </message>
     <message>
         <source>Kingsoft Office auto backup</source>
-        <translation>Backup automático do Kingsoft Office</translation>
+        <translation type="obsolete">Backup automático do Kingsoft Office</translation>
     </message>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Desktop.ini nome.</translation>
+        <translation type="obsolete">\Kingsoft Office\Desktop.ini nome.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\Desktop.ini nome.</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\Desktop.ini nome.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Auto Backup\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\AppData\Auto Backup\Desktop.ini nome.</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\Auto Backup\Desktop.ini nome.</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -255,7 +255,7 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Seu documento habilitou o backup automático agora!&lt;br /&gt;Arquivo de backup será criado no Office Space cada vez que o documento for fechado.</translation>
+        <translation type="obsolete">Seu documento habilitou o backup automático agora!&lt;br /&gt;Arquivo de backup será criado no Office Space cada vez que o documento for fechado.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
@@ -267,11 +267,11 @@
     </message>
     <message>
         <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
-        <translation>Este documento não ativou o backup automático, então o arquivo de backup está indisponível.</translation>
+        <translation type="obsolete">Este documento não ativou o backup automático, então o arquivo de backup está indisponível.</translation>
     </message>
     <message>
         <source>There is no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup is created for this file in the current computer.&lt;br /&gt;2. Backup file is manually cleared.</source>
-        <translation>Não há backup para este arquivo no diretório de backup.&lt;br /&gt;Isto pode ser:&lt;br /&gt;1.Nenhum backup foi criado para este arquivo no computador atual.&lt;br /&gt;2. Arquivo de backup foi apagado manualmente.</translation>
+        <translation type="obsolete">Não há backup para este arquivo no diretório de backup.&lt;br /&gt;Isto pode ser:&lt;br /&gt;1.Nenhum backup foi criado para este arquivo no computador atual.&lt;br /&gt;2. Arquivo de backup foi apagado manualmente.</translation>
     </message>
     <message>
         <source>Login klive before canceling auto backup.</source>
@@ -279,11 +279,11 @@
     </message>
     <message>
         <source>Login klive before explor backup dir.</source>
-        <translation>Acessar klive antes de explorar o diretório de backup.</translation>
+        <translation type="obsolete">Acessar klive antes de explorar o diretório de backup.</translation>
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files is created in the current computer.&lt;br /&gt;2. Backup files are manually cleared.</source>
-        <translation>Não há arquivos de backup no diretório de backup.&lt;br /&gt;Isto pode ser:&lt;br /&gt;1. Nenhum arquivo de backup foi criado no computador atual.&lt;br /&gt;2. Arquivos de backup foram manualmente apagados.</translation>
+        <translation type="obsolete">Não há arquivos de backup no diretório de backup.&lt;br /&gt;Isto pode ser:&lt;br /&gt;1. Nenhum arquivo de backup foi criado no computador atual.&lt;br /&gt;2. Arquivos de backup foram manualmente apagados.</translation>
     </message>
     <message>
         <source>Important! Don&apos;t delete this directory.txt</source>
@@ -299,11 +299,62 @@
     </message>
     <message>
         <source>netbackup recover file</source>
-        <translation>Arquivo de recuperação netbackup</translation>
+        <translation type="obsolete">Arquivo de recuperação netbackup</translation>
     </message>
     <message>
         <source>netbackup rollback failed.</source>
-        <translation>Reversão de netbackup falhou.</translation>
+        <translation type="obsolete">Reversão de netbackup falhou.</translation>
+    </message>
+    <message>
+        <source>Modify Time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto bakcup has been enabled for the document now.&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto backup has not been activated for this document. So there is no backup file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created for this file on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login klive before exploring backup directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to recover the file. The source file will be opened instead.
+This may because:
+1. The source file has been occupied by another program;
+2. Permission restricted in source file directory.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -464,7 +515,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>&amp;Encrypt</source>
-        <translation>&amp;Criptografar</translation>
+        <translation type="obsolete">&amp;Criptografar</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -480,7 +531,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>rena&amp;me</source>
-        <translation>renomear</translation>
+        <translation type="obsolete">renomear</translation>
     </message>
     <message>
         <source>F2</source>
@@ -488,7 +539,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>r&amp;efresh</source>
-        <translation>atualizar</translation>
+        <translation type="obsolete">atualizar</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
@@ -564,7 +615,7 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>new &amp;folder</source>
-        <translation>&amp;nova pasta</translation>
+        <translation type="obsolete">&amp;nova pasta</translation>
     </message>
     <message>
         <source>Live state init, please wait...</source>
@@ -722,6 +773,22 @@ Você tem certeza aque quer mudar?</translation>
         <source>Cloud Docs</source>
         <translation>Cloud Docs</translation>
     </message>
+    <message>
+        <source>&amp;Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rena&amp;me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;efresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KForceCloseFailTip</name>
@@ -799,13 +866,6 @@ Você tem certeza aque quer mudar?</translation>
     </message>
     <message>
         <source>UC_Feature_More</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KLoginUserCenterCommand</name>
-    <message>
-        <source>You have signed in WPS Office. Click here for more information.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -922,23 +982,19 @@ caminho:%3</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="obsolete">Abrir Pasta</translation>
-    </message>
-    <message>
-        <source>Remove From List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open File Location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Invalid Records</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abrir Pasta</translation>
     </message>
     <message>
         <source>File Roaming</source>
         <translation type="unfinished">Arquivo de Compartilhamento Remoto</translation>
+    </message>
+    <message>
+        <source>Delete from the List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -960,7 +1016,11 @@ caminho:%3</translation>
     </message>
     <message>
         <source>Cacel</source>
-        <translation>Cacel</translation>
+        <translation type="obsolete">Cacel</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -1003,18 +1063,14 @@ caminho:%3</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="obsolete">Abrir Pasta</translation>
+        <translation type="unfinished">Abrir Pasta</translation>
     </message>
     <message>
-        <source>Remove From List</source>
+        <source>Delete from the List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open File Location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Invalid Records</source>
+        <source>Clear Invalid File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1143,11 +1199,15 @@ caminho:%3</translation>
     <name>KTpRoamingPage</name>
     <message>
         <source>You have opened File Roaming:</source>
-        <translation>Você abriu Roaming arquivo:</translation>
+        <translation type="obsolete">Você abriu Roaming arquivo:</translation>
     </message>
     <message>
         <source>Look up my File Roaming</source>
         <translation>Olha a minha Roaming Arquivo</translation>
+    </message>
+    <message>
+        <source>You have enabled File Roaming:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1160,10 +1220,6 @@ caminho:%3</translation>
     <message>
         <source>&quot;%1&quot; contains macros.</source>
         <extracomment>open a document contains macros</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you want to use marcos, please upgrade to professional or commercial version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1182,6 +1238,10 @@ caminho:%3</translation>
     </message>
     <message>
         <source>The file you would like to open contains macros.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want to use macros, please upgrade to professional or commercial version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1218,7 +1278,7 @@ caminho:%3</translation>
     <name>KxCheckUploadDlg</name>
     <message>
         <source>Documents saving to the cloud failed. Please check the internet and retry</source>
-        <translation>Guardar documentos para a nuvem falhou. Por favor verifique a internet e tente novamente</translation>
+        <translation type="obsolete">Guardar documentos para a nuvem falhou. Por favor verifique a internet e tente novamente</translation>
     </message>
     <message>
         <source>Checking completed and will upload it at background</source>
@@ -1228,11 +1288,8 @@ caminho:%3</translation>
         <source>Checking cloud saving permissions. Please wait...</source>
         <translation>Verificando permissões de poupança em nuvem. Por favor, aguarde ...</translation>
     </message>
-</context>
-<context>
-    <name>KxDaysRemainWidget</name>
     <message>
-        <source>Days Remaining</source>
+        <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1253,29 +1310,6 @@ caminho:%3</translation>
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
         <translation>Verificando permissões de poupança em nuvem. Por favor, aguarde ...</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgExpirationReminder</name>
-    <message>
-        <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List of limited features in free version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your subscription for WPS Office or %1-day trial expries now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The program will switch to a free version. Some features cannot work properly. We recommend you purchase WPS Office or renew now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy/Renew Now</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1321,160 +1355,6 @@ caminho:%3</translation>
     </message>
     <message>
         <source>Syncing, please wait…</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgVbaInstallation</name>
-    <message>
-        <source>Macro</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Macros depend on VBA support to function correctly. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please download and install VBA to allow all macros to run if you need. If you have installed VBA, please restart WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxExpirationReminderDlg</name>
-    <message>
-        <source>Writer:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mail Merge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Watermark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presentation:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spreadsheets:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Track Changes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose revision markups and comment formatting, or to change reviewer information.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fields Protection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert ghosted text and picture behind the content on the page.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Restrict Editing Content.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Macros</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View the list of macros, from which you can run, create, or delete a macro.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Developer tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert the Option Button, Check Box and more.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PivotTable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Make it easy to arrange and summarize complicated data and drill down on details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Consolidate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Combine values from multiple ranges into one new range.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text to Columns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Separate the contents of one Spreadsheets cell into separate columns.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Solver</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Find the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Find the right input when you know the result you want.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Share Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow multiple people to work in a workbook at the same time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save as docx format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable/Disable Online Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package to Folder/Compressed File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save as xlsx/xlsm format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Goal Seek</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1668,7 +1548,7 @@ caminho:%3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
+        <source>If you have purchased subscription, please sign in to use WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1723,226 +1603,39 @@ caminho:%3</translation>
     <name>KxQingActiveCodeDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
-    </message>
-    <message>
-        <source>WPS Office Activation Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter your activation code here:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid activation code.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The activation code does not exist.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The activation code has expired.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The activation code has exceeded the maximum number of activations.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please update your system time to connect to server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please check your network connection and %1try again%2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The server is busy. Please %1try again%2 later.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
     <name>KxQingActiveSucceedDialog</name>
     <message>
-        <source>WPS Office activation is successful</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
-    </message>
-</context>
-<context>
-    <name>KxQingAuthorize</name>
-    <message>
-        <source>Trial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
     <name>KxQingBuyTooltip</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulário</translation>
-    </message>
-    <message>
-        <source>To purchase WPS Office, click here to visit the purchase page for more information. 
-You need to sign in before you buy. </source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Formulário</translation>
     </message>
     <message>
         <source>TextLabel</source>
         <translation type="obsolete">Etiqueta de texto</translation>
     </message>
-    <message>
-        <source>After the trial expires, some features will not work properly. 
-Please purchase to continue using WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your WPS Office is about to expire. 
-After expiration, some features will not work properly. Renew now and you can get a discount. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your %1-day trial expires</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your %1-day trial expires after 1 day</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your %1-day trial expires after %2 days</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy Now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscription will expire after %1 days</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Renew Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your subscription has expired</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Again &gt;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscription will expire today</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your WPS Office is about to expire. 
-After expiration, some features will not work properly. Please renew now. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some features will not work properly. &lt;br/&gt;Please renew now.  %1View details%2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verification Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot connect to the server so that activation fails. Please check your network connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KxQingRestrictDlg</name>
     <message>
-        <source>WPS Office Limited Features</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office Disable Features</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sign in</source>
-        <translation type="unfinished">Entrar</translation>
-    </message>
-    <message>
-        <source>If you have purchased subscription for individuals,  sign in to enjoy the service.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter your activation code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The feature is not available in free version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you are a paid subscriber, you can use this feature in either way:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Buy/Renew Now</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Entrar</translation>
     </message>
 </context>
 <context>
     <name>KxQingWelcomeDlg</name>
     <message>
-        <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Trial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sign in</source>
-        <translation type="unfinished">Entrar</translation>
-    </message>
-    <message>
-        <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start your free %1-day trial.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you have purchased subscription for individuals, sign in to enjoy the service.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Entrar</translation>
     </message>
 </context>
 <context>
@@ -1953,68 +1646,10 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
 </context>
 <context>
-    <name>KxVbaBuyDlg</name>
-    <message>
-        <source>Macro</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Buy Now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Macros depend on VBA support to function correctly. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your subscription does not include VBA. Macro in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Macros depend on VBA support to function correctly.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This document contains macros.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Trial version does not support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office Free cannot support VBA so that macros in the document cannot work properly. Please purchase WPS Office to enable macro if you need.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your subscription does not include VBA so that macros in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxVbaInstallationDlg</name>
-    <message>
-        <source>This document contains macros. Macros depend on VBA support to function correctly.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxVbaReminderDlg</name>
     <message>
-        <source>Macro</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Macros depend on VBA support to function correctly. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Currently the trial, free and home versions of WPS Office cannot support VBA so that macros in the document cannot work properly.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
 </context>
 <context>
@@ -2102,11 +1737,11 @@ After expiration, some features will not work properly. Please renew now. </sour
     <name>kxKOSHireCommand</name>
     <message>
         <source>Authorization update</source>
-        <translation>Atualização de autorização</translation>
+        <translation type="obsolete">Atualização de autorização</translation>
     </message>
     <message>
         <source>Business authorization</source>
-        <translation>Autorização comercial</translation>
+        <translation type="obsolete">Autorização comercial</translation>
     </message>
 </context>
 <context>
@@ -2116,7 +1751,8 @@ After expiration, some features will not work properly. Please renew now. </sour
         <translation type="obsolete">Entrar para mais serviços gratuitos como &lt;br/&gt;documentos, modelos online e coleções de materiais.</translation>
     </message>
     <message>
-        <source>If you have purchased subscription,  please sign in to enjoy the service.</source>
+        <source>If you have purchased subscription, 
+please sign in to use WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2146,11 +1782,19 @@ After expiration, some features will not work properly. Please renew now. </sour
     <name>tips.DataRecover</name>
     <message>
         <source>Data Recovery Title</source>
-        <translation>Título de Recuperação de Dados</translation>
+        <translation type="obsolete">Título de Recuperação de Dados</translation>
     </message>
     <message>
         <source>Data Recovery Content</source>
-        <translation>Conteúdo de Recuperação de Dados</translation>
+        <translation type="obsolete">Conteúdo de Recuperação de Dados</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help you resume lost files due to disk corruption or accidental delete</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

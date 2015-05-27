@@ -37,16 +37,16 @@
     <message>
         <source>Usage: %1 
 </source>
-        <translation>Użycie: %1 </translation>
+        <translation type="obsolete">Użycie: %1 </translation>
     </message>
     <message>
         <source>    or %1 &lt;wps|wpp|et&gt; [document_path]
 </source>
-        <translation>    lub %1 &lt;wps|wpp|et&gt; [dokument_ściażka]</translation>
+        <translation type="obsolete">    lub %1 &lt;wps|wpp|et&gt; [dokument_ściażka]</translation>
     </message>
     <message>
         <source>:/qm/%1.qm</source>
-        <translation>:/qm/%1.qm</translation>
+        <translation type="obsolete">:/qm/%1.qm</translation>
     </message>
 </context>
 </TS>

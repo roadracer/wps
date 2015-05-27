@@ -60,7 +60,7 @@ Please check your system settings and ensure the temporary directory under the c
     <message>
         <source>Value Out Of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation>数值超出范围</translation>
+        <translation type="obsolete">数值超出范围</translation>
     </message>
     <message>
         <source>Temporary directory does not exist or failed to create temporary directory.
@@ -76,9 +76,21 @@ Please check your system settings and ensure the temporary directory under the c
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
-        <translation>当前用户对临时目录无可写权限。
+        <translation type="obsolete">当前用户对临时目录无可写权限。
 
 请检查您的系统设置，并确保临时目录在当前用户下可用，再重新启动WPS Office。</translation>
+    </message>
+    <message>
+        <source>Value Out of Range</source>
+        <comment>_ksoErr_Basic_ValueOutOfRange</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The current user does not have the permission to write to the temporary directory.
+
+Please check your system settings and ensure that the temporary directory under the current user is available, and then restart WPS Office.</source>
+        <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3257,11 +3269,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
-        <translation>作者希望您以只读方式打开此文件，除非您需要进行更改。是否以只读方式打开?</translation>
+        <translation type="obsolete">作者希望您以只读方式打开此文件，除非您需要进行更改。是否以只读方式打开?</translation>
     </message>
     <message>
-        <source>Chinese Office Software Document Format 2.0</source>
-        <comment>_WpioDesc_UOF2</comment>
+        <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
+        <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4034,62 +4046,62 @@ File: %s
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PER_VN</comment>
-        <translation>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</translation>
+        <translation type="obsolete">This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_Debug</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_EDU_CHN</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_OEM_CHN</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_CHN</comment>
-        <translation>本软件产品仅限于个人用户基于个人目的使用，禁止将本软件用于生产、经营等商业用途或者其它用途。||本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件产品仅限于个人用户基于个人目的使用，禁止将本软件用于生产、经营等商业用途或者其它用途。||本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_USA</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN_TEST</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_JPN</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_USA</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_VN</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation>本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
@@ -4099,17 +4111,17 @@ File: %s
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT</comment>
-        <translation>本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
+        <translation type="obsolete">本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Home</comment>
-        <translation>本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
+        <translation type="obsolete">本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Standard</comment>
-        <translation>本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
+        <translation type="obsolete">本軟體包括：The FreeType Project，根據其The FreeType License的授權條款獲得免費授權； 哈工大資訊檢索研究所提供中文分詞、拼寫檢查、拼音標注和中文簡繁轉換技術。</translation>
     </message>
     <message>
         <source>Visio Files</source>
@@ -4256,257 +4268,257 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office (Beta)</source>
         <comment>_kso_ksoProductName_Debug</comment>
-        <translation>WPS Office (Beta)</translation>
+        <translation type="obsolete">WPS Office (Beta)</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHN</comment>
-        <translation>WPS Office 专业版</translation>
+        <translation type="obsolete">WPS Office 专业版</translation>
     </message>
     <message>
         <source>WPS Office (test)</source>
         <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Office (测试版)</translation>
+        <translation type="obsolete">WPS Office (测试版)</translation>
     </message>
     <message>
         <source>WPS Office OEM</source>
         <comment>_kso_ksoProductName_OEM_CHN</comment>
-        <translation>WPS Office OEM版</translation>
+        <translation type="obsolete">WPS Office OEM版</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_CHN</comment>
-        <translation>WPS Office 个人版</translation>
+        <translation type="obsolete">WPS Office 个人版</translation>
     </message>
     <message>
         <source>WPS Office Education</source>
         <comment>_kso_ksoProductName_EDU_CHN</comment>
-        <translation>WPS Office 教育版</translation>
+        <translation type="obsolete">WPS Office 教育版</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_USA</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PER_USA</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_JPN</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_VN</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer (Beta)</source>
         <comment>_kso_wpsProductName_Debug</comment>
-        <translation>WPS Writer (Beta)</translation>
+        <translation type="obsolete">WPS Writer (Beta)</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_OEM_CHN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_CHN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_EDU_CHN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_USA</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_USA</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_JPN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_VN</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Presentation (Beta)</source>
         <comment>_kso_wppProductName_Debug</comment>
-        <translation>WPS Presentation (Beta)</translation>
+        <translation type="obsolete">WPS Presentation (Beta)</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_OEM_CHN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_CHN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_EDU_CHN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_USA</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_USA</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wpp_ProductName_PRO_JPN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_VN</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Spreadsheets (Beta)</source>
         <comment>_kso_etProductName_Debug</comment>
-        <translation>WPS Spreadsheets (Beta)</translation>
+        <translation type="obsolete">WPS Spreadsheets (Beta)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN_TEST</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_OEM_CHN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_CHN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_EDU_CHN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_USA</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_USA</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_JPN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_VN</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHT</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHT</comment>
-        <translation>WPS 文字</translation>
+        <translation type="obsolete">WPS 文字</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHT</comment>
-        <translation>WPS 演示</translation>
+        <translation type="obsolete">WPS 演示</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHT</comment>
-        <translation>WPS 表格</translation>
+        <translation type="obsolete">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_VN</comment>
-        <translation>WPS Office Personal</translation>
+        <translation type="obsolete">WPS Office Personal</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_VN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRE_VN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRE_VN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office 2010 Professional Edition</source>
         <comment>_kso_ksoProductName_dev_cn</comment>
-        <translation>WPS Office 2009 专业增强版</translation>
+        <translation type="obsolete">WPS Office 2009 专业增强版</translation>
     </message>
     <message>
         <source>WPS Office Standard</source>
         <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
-        <translation>WPS Office 标准版</translation>
+        <translation type="obsolete">WPS Office 标准版</translation>
     </message>
     <message>
         <source>WPS Office Home</source>
         <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
-        <translation>WPS Office 家庭版</translation>
+        <translation type="obsolete">WPS Office 家庭版</translation>
     </message>
     <message>
         <source>WPS Office Crashing Information</source>
@@ -4544,7 +4556,7 @@ You can click the button to recover files you work on.</source>
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation>%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
+        <translation type="obsolete">%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
 ·检查备份目录的是否具有可写权限，或尝试更改备份目录；
 ·[撤消]之前的操作，然后执行[保存]；
 ·[另存为...]文本文件（*.txt）；
@@ -4559,7 +4571,7 @@ You can click the button to recover files you work on.</source>
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation>%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
+        <translation type="obsolete">%s 在进行定时备份操作时发生错误！您可以尝试以下操作：
 ·检查备份目录的是否具有可写权限，或尝试更改备份目录；
 ·[撤消]之前的操作，然后执行[保存]；
 ·将内容[复制/粘贴]到新文件；
@@ -4658,11 +4670,6 @@ You can click the button to recover files you work on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resquest additional permissions... </source>
-        <comment>_kso_krim_Permission_RequestPermission</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unrestricted</source>
         <comment>_kso_krim_Permission_NoExpireDate</comment>
         <translation type="unfinished"></translation>
@@ -4688,11 +4695,6 @@ You can click the button to recover files you work on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>R&amp;esquest permissions</source>
-        <comment>_kso_irmio_Button_RequestPermission</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Yes</source>
         <comment>_kso_irmio_Button_Yes</comment>
         <translation type="unfinished"></translation>
@@ -4708,11 +4710,6 @@ You can click the button to recover files you work on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within th Control Panel.</source>
-        <comment>_kso_irmio_Error_Configuration</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cannot use test manifests against production servers.</source>
         <comment>_kso_irmio_Error_Production</comment>
         <translation type="unfinished"></translation>
@@ -4720,28 +4717,6 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Information Rights Management cannot operate in the presence of a debugger. Please close your debugger and try again.</source>
         <comment>_kso_irmio_Error_Debugging</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This service is temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
-        <comment>_kso_irmio_Error_Connection</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The service at %1 temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
-        <comment>_kso_irmio_Error_Location</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot user feature without credentials</source>
-        <comment>_kso_irmio_Error_Credentials</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This document is currently restricted. You do not have credentials that allow you to open this document. You can choose 
-~try changing another user to open the document;
-~request updated permission from %1.</source>
-        <comment>_kso_irmio_Error_No_Permission</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4810,6 +4785,74 @@ To use IRM you need to install the Windows Rights Management client. If you have
     <message>
         <source>Restricted Access(Full Control)</source>
         <comment>_kso_krim_RestrictedAccess_FullControl</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files (*.txt); 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PRO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions...</source>
+        <comment>_kso_krim_Permission_RequestPermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;equest permissions</source>
+        <comment>_kso_irmio_Button_RequestPermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
+        <comment>_kso_irmio_Error_Configuration</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Connection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Location</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot use feature without credentials</source>
+        <comment>_kso_irmio_Error_Credentials</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
+1. Try changing to another user account to open the document;
+2. Request permission update from %1.</source>
+        <comment>_kso_irmio_Error_No_Permission</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4887,13 +4930,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
 You can add the customized paper %dmm x %dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation>打印机对当前的纸型不支持！继续打印，效果可能不理想。
+        <translation type="obsolete">打印机对当前的纸型不支持！继续打印，效果可能不理想。
 您可以在打印机属性中，添加大小为%dmm×%dmm的自定义纸张后再打印。
 是否继续打印？</translation>
     </message>
     <message>
-        <source>Unable to find the cups library, make sure you have installed!</source>
-        <comment>_ksoErr_Print_NoCupsLibrary</comment>
+        <source>The printer does not support the current paper size. Continue printing may not result in satisfying quality.
+You can add the customized paper %dmm x %dmm in printer properties and print again.
+Continue printing?</source>
+        <comment>_ksoErr_Print_PaperNoSupport</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5626,12 +5671,12 @@ cycle</source>
     <message>
         <source>Dash-Dot</source>
         <comment>kso_sLineDashDot</comment>
-        <translation>划线-点</translation>
+        <translation type="obsolete">划线-点</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
         <comment>kso_sLineDashDotDot</comment>
-        <translation>长划线-点-点</translation>
+        <translation type="obsolete">长划线-点-点</translation>
     </message>
     <message>
         <source>Dashed downward diagonal</source>
@@ -5811,12 +5856,12 @@ cycle</source>
     <message>
         <source>Error happens when application trys to logout. Error code: 0x%8.8x.</source>
         <comment>kso_sAppUnRegisterError</comment>
-        <translation>应用程序尝试注销时发生错误。错误码：0x%8.8x。</translation>
+        <translation type="obsolete">应用程序尝试注销时发生错误。错误码：0x%8.8x。</translation>
     </message>
     <message>
         <source>Error happens when application trys to register. Error code: 0x%8.8x.</source>
         <comment>kso_sAppRegisterError</comment>
-        <translation>应用程序尝试注册时发生错误。错误码：0x%8.8x。</translation>
+        <translation type="obsolete">应用程序尝试注册时发生错误。错误码：0x%8.8x。</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -5891,7 +5936,7 @@ cycle</source>
     <message>
         <source>Forword</source>
         <comment>kso_Nav_Forword</comment>
-        <translation>前进</translation>
+        <translation type="obsolete">前进</translation>
     </message>
     <message>
         <source>Fro&amp;m center</source>
@@ -6051,7 +6096,7 @@ cycle</source>
     <message>
         <source>Help file does not exist or occurs an error!</source>
         <comment>kso_sHelpNotFound</comment>
-        <translation>没有找到帮助文件或帮助文件出错！</translation>
+        <translation type="obsolete">没有找到帮助文件或帮助文件出错！</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
@@ -6156,7 +6201,7 @@ cycle</source>
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation>将代表文件内容的图标插入到您的文档，对源文件的更改将反映到您的文档中。</translation>
+        <translation type="obsolete">将代表文件内容的图标插入到您的文档，对源文件的更改将反映到您的文档中。</translation>
     </message>
     <message>
         <source>Insert the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
@@ -6341,7 +6386,7 @@ cycle</source>
     <message>
         <source>Long Dash-Dot</source>
         <comment>kso_sLineLongDashDot</comment>
-        <translation>长划线-点</translation>
+        <translation type="obsolete">长划线-点</translation>
     </message>
     <message>
         <source>MB</source>
@@ -6697,7 +6742,7 @@ Used to show relationships of core elements</source>
     <message>
         <source>Refercence is not valid.</source>
         <comment>kso_sRefIsNotValid</comment>
-        <translation>引用无效。</translation>
+        <translation type="obsolete">引用无效。</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -6837,7 +6882,7 @@ Used to show relationships of core elements</source>
     <message>
         <source>Soild</source>
         <comment>kso_sLineSolid</comment>
-        <translation>实线</translation>
+        <translation type="obsolete">实线</translation>
     </message>
     <message>
         <source>Solid diamond</source>
@@ -6847,7 +6892,7 @@ Used to show relationships of core elements</source>
     <message>
         <source>Some files cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation>一些文件无法删除，可能正被占用。</translation>
+        <translation type="obsolete">一些文件无法删除，可能正被占用。</translation>
     </message>
     <message>
         <source>Sphere</source>
@@ -6968,7 +7013,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>The file cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation>该文件无法删除，可能正被占用。</translation>
+        <translation type="obsolete">该文件无法删除，可能正被占用。</translation>
     </message>
     <message>
         <source>The file name is incorrect. Please input the file name with correct format.</source>
@@ -7110,7 +7155,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Unkown Format Source.</source>
         <comment>kso_sErrPasteLink</comment>
-        <translation>未知格式粘贴源。</translation>
+        <translation type="obsolete">未知格式粘贴源。</translation>
     </message>
     <message>
         <source>Value should be between %d and %d.</source>
@@ -7231,7 +7276,7 @@ elements</source>
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation>您选择的数据透视表的数据源不正确。
+        <translation type="obsolete">您选择的数据透视表的数据源不正确。
 请检查您要分析的数据是否满足以下几个条件：
 1.确认引用区域是存在的，如果是名称，请确认该名称引用的是一个合法的区域。
 2.确认引用区域是单一的区域，并且至少有两行。
@@ -7252,7 +7297,7 @@ elements</source>
     <message>
         <source>You have reached the max retry step, program will terminate.</source>
         <comment>kso_sMaxStep</comment>
-        <translation>您的输入不正确，程序将退出。</translation>
+        <translation type="obsolete">您的输入不正确，程序将退出。</translation>
     </message>
     <message>
         <source>You will close %d tabs, are you sure you want to continue?</source>
@@ -7448,7 +7493,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation>不能在新工作表上创建数据透视表，因为当前工作薄已经被保护。请您选择一个已经存在的工作表或者取消工作薄保护。</translation>
+        <translation type="obsolete">不能在新工作表上创建数据透视表，因为当前工作薄已经被保护。请您选择一个已经存在的工作表或者取消工作薄保护。</translation>
     </message>
     <message>
         <source>Please input the password of permission setting.</source>
@@ -7474,6 +7519,89 @@ For better service, please update the trial edition to standard edition by:
         <source>%1 is running into problems with the %2 add-in. If this keeps happening, disable this add-in and check for available updates. Do you want to disable it now?</source>
         <comment>kso_COM_Addins_Crash_Alerts</comment>
         <translation>%1的&quot;%2&quot;加载项出现问题，如果一直出现此问题，请禁用此加载项并检查可用更新。是否要立即禁用它？</translation>
+    </message>
+    <message>
+        <source>Error happens when application tries to register. Error code: 0x%8.8x.</source>
+        <comment>kso_sAppRegisterError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error happens when application tries to logout. Error code: 0x%8.8x.</source>
+        <comment>kso_sAppUnRegisterError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
+1.Make sure that the reference exists. If it is a name, it must be a valid range;
+2.Make sure that the reference is a single range, and it must contain two rows at least;
+3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
+        <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown Format Source.</source>
+        <comment>kso_sErrPasteLink</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help file does not exist or encounters an error.</source>
+        <comment>kso_sHelpNotFound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>kso_sLineDashDot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>kso_sLineDashDotDot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>kso_sLineLongDashDot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <comment>kso_sLineSolid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have reached the maximum number of retries. Program will terminate.</source>
+        <comment>kso_sMaxStep</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <comment>kso_sRefIsNotValid</comment>
+        <translation type="unfinished">引用无效。</translation>
+    </message>
+    <message>
+        <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
+        <comment>kso_sWpsLinkAsIcon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an existing sheet or unprotect this book.</source>
+        <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <comment>kso_Nav_Forword</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file cannot be deleted. It may be occupied.</source>
+        <comment>kso_sCannotRemoveBackupFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some files cannot be deleted. They may be occupied.</source>
+        <comment>kso_sCannotRemoveAllBackupFiles</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

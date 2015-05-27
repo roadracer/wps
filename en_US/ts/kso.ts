@@ -42,20 +42,20 @@ Please check your system settings and ensure the temporary directory under the c
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The current user does not have the permission to write in the temporary directory.
-
-Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
-        <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unknown Error</source>
         <comment>_ksoErr_Basic_UnknownError</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Value Out Of Range</source>
+        <source>Value Out of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The current user does not have the permission to write to the temporary directory.
+
+Please check your system settings and ensure that the temporary directory under the current user is available, and then restart WPS Office.</source>
+        <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3097,13 +3097,8 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
+        <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese Office Software Document Format 2.0</source>
-        <comment>_WpioDesc_UOF2</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3356,51 +3351,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PER_USA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_USA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <comment>_kso_ksoProductName_PRO_VN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office (Beta)</source>
-        <comment>_kso_ksoProductName_Debug</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office (test)</source>
-        <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office 2010 Professional Edition</source>
-        <comment>_kso_ksoProductName_dev_cn</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Office Business Version</source>
         <comment>_kso_ksoProductName_TRADE_CHN</comment>
         <translation type="unfinished"></translation>
@@ -3411,36 +3361,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Office Education</source>
-        <comment>_kso_ksoProductName_EDU_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office Home</source>
-        <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office OEM</source>
-        <comment>_kso_ksoProductName_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office Personal</source>
-        <comment>_kso_ksoProductName_PER_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office Personal</source>
-        <comment>_kso_ksoProductName_PER_VN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Office Standard</source>
-        <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Presentation</source>
         <comment>_kso_SN_WPP</comment>
         <translation type="unfinished"></translation>
@@ -3448,66 +3368,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_EDU_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PER_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PER_USA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRE_VN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_USA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wppProductName_PRO_VN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation</source>
-        <comment>_kso_wpp_ProductName_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation (Beta)</source>
-        <comment>_kso_wppProductName_Debug</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3541,66 +3401,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_EDU_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PER_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PER_USA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRE_VN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_USA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <comment>_kso_etProductName_PRO_VN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets (Beta)</source>
-        <comment>_kso_etProductName_Debug</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Spreadsheets Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_et</comment>
         <translation type="unfinished"></translation>
@@ -3618,66 +3418,6 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_EDU_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PER_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PER_USA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PER_VN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_USA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <comment>_kso_wpsProductName_PRO_VN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Writer (Beta)</source>
-        <comment>_kso_wpsProductName_Debug</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3837,83 +3577,8 @@ File: %s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
-        <comment>_kso_ksoThankTo_PER_VN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_Debug</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_EDU_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_OEM_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_PER_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_PER_USA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_PRO_CHN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_PRO_CHN_TEST</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_PRO_JPN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_PRO_USA</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_PRO_VN</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
         <comment>_kso_ksoThanksTo_for_linux_version</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
-        <comment>_kso_ksoThankTo_PRO_CHT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
-        <comment>_kso_ksoThankTo_PRO_CHT_Home</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
-        <comment>_kso_ksoThankTo_PRO_CHT_Standard</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3985,27 +3650,6 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>File Name</source>
         <comment>_kso_filesearch_FileName</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%s Errors occur when regular backup is running! Please try the following operations: 
-•Please check the backup directory is writable permissions, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Save As...] text files（*.txt）; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
-•Please check the backup directory is writable permissions, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4099,11 +3743,6 @@ You can choose Read-only button to open it as read-only.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Resquest additional permissions... </source>
-        <comment>_kso_krim_Permission_RequestPermission</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unrestricted</source>
         <comment>_kso_krim_Permission_NoExpireDate</comment>
         <translation type="unfinished"></translation>
@@ -4129,11 +3768,6 @@ You can choose Read-only button to open it as read-only.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>R&amp;esquest permissions</source>
-        <comment>_kso_irmio_Button_RequestPermission</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Yes</source>
         <comment>_kso_irmio_Button_Yes</comment>
         <translation type="unfinished"></translation>
@@ -4149,11 +3783,6 @@ You can choose Read-only button to open it as read-only.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within th Control Panel.</source>
-        <comment>_kso_irmio_Error_Configuration</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cannot use test manifests against production servers.</source>
         <comment>_kso_irmio_Error_Production</comment>
         <translation type="unfinished"></translation>
@@ -4161,28 +3790,6 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>Information Rights Management cannot operate in the presence of a debugger. Please close your debugger and try again.</source>
         <comment>_kso_irmio_Error_Debugging</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This service is temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
-        <comment>_kso_irmio_Error_Connection</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The service at %1 temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
-        <comment>_kso_irmio_Error_Location</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot user feature without credentials</source>
-        <comment>_kso_irmio_Error_Credentials</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This document is currently restricted. You do not have credentials that allow you to open this document. You can choose 
-~try changing another user to open the document;
-~request updated permission from %1.</source>
-        <comment>_kso_irmio_Error_No_Permission</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4253,6 +3860,74 @@ To use IRM you need to install the Windows Rights Management client. If you have
         <comment>_kso_krim_RestrictedAccess_FullControl</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files (*.txt); 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PRO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions...</source>
+        <comment>_kso_krim_Permission_RequestPermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;equest permissions</source>
+        <comment>_kso_irmio_Button_RequestPermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
+        <comment>_kso_irmio_Error_Configuration</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Connection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Location</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot use feature without credentials</source>
+        <comment>_kso_irmio_Error_Credentials</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
+1. Try changing to another user account to open the document;
+2. Request permission update from %1.</source>
+        <comment>_kso_irmio_Error_No_Permission</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_print</name>
@@ -4293,15 +3968,10 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The printer does not support the current paper size. Continue printing, the quality may not satisfy you.
-You can add the customized paper %dmm x %dmm in printer properties and print it again.
-Do you want to continue?</source>
+        <source>The printer does not support the current paper size. Continue printing may not result in satisfying quality.
+You can add the customized paper %dmm x %dmm in printer properties and print again.
+Continue printing?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to find the cups library, make sure you have installed!</source>
-        <comment>_ksoErr_Print_NoCupsLibrary</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4980,16 +4650,6 @@ cycle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Dash-Dot</source>
-        <comment>kso_sLineDashDot</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash-Dot-Dot</source>
-        <comment>kso_sLineDashDotDot</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Dashed downward diagonal</source>
         <comment>kso_sDashedDownwardDiagonal</comment>
         <translation type="unfinished"></translation>
@@ -5165,16 +4825,6 @@ cycle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error happens when application trys to logout. Error code: 0x%8.8x.</source>
-        <comment>kso_sAppUnRegisterError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error happens when application trys to register. Error code: 0x%8.8x.</source>
-        <comment>kso_sAppRegisterError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Fade Down</source>
         <comment>kso_sWASFadeDown</comment>
         <translation type="unfinished"></translation>
@@ -5237,11 +4887,6 @@ cycle</source>
     <message>
         <source>Folder</source>
         <comment>kso_sFolder</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Forword</source>
-        <comment>kso_Nav_Forword</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5400,11 +5045,6 @@ cycle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Help file does not exist or occurs an error!</source>
-        <comment>kso_sHelpNotFound</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Horizontal brick</source>
         <comment>kso_sHorizontalBrick</comment>
         <translation type="unfinished"></translation>
@@ -5492,11 +5132,6 @@ cycle</source>
     <message>
         <source>Insert an icon that represents the contents of the file into your document.</source>
         <comment>kso_sWpsInsertAsIcon</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
-        <comment>kso_sWpsLinkAsIcon</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5662,11 +5297,6 @@ cycle</source>
     <message>
         <source>Long Dash</source>
         <comment>kso_sLineLongDash</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Long Dash-Dot</source>
-        <comment>kso_sLineLongDashDot</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5993,11 +5623,6 @@ Used to show relationships of core elements</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Refercence is not valid.</source>
-        <comment>kso_sRefIsNotValid</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reference is not valid.</source>
         <comment>kso_sErrorRangeNotValid</comment>
         <translation type="unfinished"></translation>
@@ -6133,18 +5758,8 @@ Used to show relationships of core elements</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Soild</source>
-        <comment>kso_sLineSolid</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Solid diamond</source>
         <comment>kso_sSolidDiamond</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Some files cannot be deleted, which may be occupied.</source>
-        <comment>kso_sCannotRemoveAllBackupFiles</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6253,11 +5868,6 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>The control name cannot be blank. Type a name please.</source>
         <comment>kso_SCmdBarNameCanEmpty</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The file cannot be deleted, which may be occupied.</source>
-        <comment>kso_sCannotRemoveBackupFile</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6391,11 +6001,6 @@ If you are changing the name of a PivotTable field, you must type a new name for
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unkown Format Source.</source>
-        <comment>kso_sErrPasteLink</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Value should be between %d and %d.</source>
         <comment>kso_sValueDeclined_IntBTWarning</comment>
         <translation type="unfinished"></translation>
@@ -6508,21 +6113,8 @@ elements</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
-1.Make sure that the reference exists. If it is a name, it must be a valid range;
-2.Make sure that the reference is a single range, and it must contain two rows at least;
-3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
-        <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <comment>kso_sErrorWhenCreateTable_General</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have reached the max retry step, program will terminate.</source>
-        <comment>kso_sMaxStep</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6658,11 +6250,6 @@ Please check your data and make sure that the reference is valid and the workshe
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
-        <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please input the password of permission setting.</source>
         <comment>kso_sNoPasswordInput</comment>
         <translation type="unfinished"></translation>
@@ -6680,6 +6267,89 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>%1 is running into problems with the %2 add-in. If this keeps happening, disable this add-in and check for available updates. Do you want to disable it now?</source>
         <comment>kso_COM_Addins_Crash_Alerts</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error happens when application tries to register. Error code: 0x%8.8x.</source>
+        <comment>kso_sAppRegisterError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error happens when application tries to logout. Error code: 0x%8.8x.</source>
+        <comment>kso_sAppUnRegisterError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
+1.Make sure that the reference exists. If it is a name, it must be a valid range;
+2.Make sure that the reference is a single range, and it must contain two rows at least;
+3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
+        <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown Format Source.</source>
+        <comment>kso_sErrPasteLink</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help file does not exist or encounters an error.</source>
+        <comment>kso_sHelpNotFound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>kso_sLineDashDot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>kso_sLineDashDotDot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>kso_sLineLongDashDot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <comment>kso_sLineSolid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have reached the maximum number of retries. Program will terminate.</source>
+        <comment>kso_sMaxStep</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <comment>kso_sRefIsNotValid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
+        <comment>kso_sWpsLinkAsIcon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an existing sheet or unprotect this book.</source>
+        <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <comment>kso_Nav_Forword</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file cannot be deleted. It may be occupied.</source>
+        <comment>kso_sCannotRemoveBackupFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some files cannot be deleted. They may be occupied.</source>
+        <comment>kso_sCannotRemoveAllBackupFiles</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
