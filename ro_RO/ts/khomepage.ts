@@ -48,7 +48,7 @@
     <message>
         <source>Online Templates Pro</source>
         <comment>title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Șabloane profesionale online</translation>
     </message>
 </context>
 </TS>

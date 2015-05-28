@@ -1703,7 +1703,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>Include &amp;chapter number;</source>
-        <translation>Include număr &amp;capitol;</translation>
+        <translation>Include număr &amp;capitol,</translation>
     </message>
     <message>
         <source>Cha&amp;pter starts with style:</source>
@@ -2080,7 +2080,7 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>&amp;Swap footnotes and endnotes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Schimbă note de subsol și note de final</translation>
     </message>
 </context>
 <context>
@@ -2464,67 +2464,67 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     <name>KxDlgDocumentFields</name>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp document</translation>
     </message>
     <message>
         <source>DocumentField Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume câmp document</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished">&amp;Introdu</translation>
+        <translation>&amp;Introdu</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished">&amp;Redenumește</translation>
+        <translation>&amp;Redenumește</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished">&amp;Mergi la</translation>
+        <translation>&amp;Mergi la</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Șterge</translation>
+        <translation>&amp;Șterge</translation>
     </message>
     <message>
         <source>&amp;Marks Only</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Marchează numai</translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="unfinished">Sortează după:</translation>
+        <translation>Sortează după:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">&amp;Nume</translation>
+        <translation>&amp;Nume</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished">&amp;Locație</translation>
+        <translation>&amp;Locație</translation>
     </message>
     <message>
         <source>DocumentField Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprietăți câmp document</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished">&amp;Ascuns</translation>
+        <translation>&amp;Ascuns</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tipărește</translation>
     </message>
     <message>
         <source>Read &amp;Only</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;oar-citire</translation>
     </message>
     <message>
         <source>&amp;Apply All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aplică tot</translation>
     </message>
     <message>
         <source>Insertion Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod inserare</translation>
     </message>
     <message>
         <source>When inserted at beginning and end, then counted in. </source>
@@ -2532,11 +2532,11 @@ utilizați butoanele pentru aplicarea chenarelor</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>

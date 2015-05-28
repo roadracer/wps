@@ -169,7 +169,12 @@ Try one or more of the following:
 3、Ensure that the source file is in the appropriate directory.
 4、Ensure that the source file can be supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer a întâmpinat o eroare la încercarea de actualizare a fișierului sursă.
+Încercați una sau mai multe dintre următoarele:
+1、Verificați dacă fișierul sursă a fost deschis sau ocupat de alte programe.
+2、Verificați dacă fișierul sursă este protejat.
+3、Asigurați-vă că fișierul sursă este în directorul corespunzător.
+4、Asigurați-vă că fișierul sursă poate fi suportat de WPS.</translation>
     </message>
 </context>
 <context>
@@ -2244,7 +2249,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>The Replace With text contains a group number which is out of range.</source>
         <comment>_TxFind_MoreReplacementGroups</comment>
-        <translation type="unfinished">Textul Înlocuiește cu conține un număr grup care este în afara intervalului.</translation>
+        <translation>Textul Înlocuiește cu conține un număr grup care este în afara intervalului.</translation>
     </message>
     <message>
         <source>Invalid Add-In Template.</source>
@@ -2408,7 +2413,7 @@ Doriți să-l înlocuiți?</translation>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
         <comment>_TxErr_ChangeTextboxToResizeOrRotateWarning</comment>
-        <translation type="unfinished">Caseta text conține obiecte sau tabele care vor fi șterse dacă veți configura proprietățile acestora, fiindcă toate casetele text redimensionabile sau care se rotesc  nu trebuie să conțină nici un obiect sau tabel. Doriți să continuați?</translation>
+        <translation>Caseta text conține obiecte sau tabele care vor fi șterse dacă veți configura proprietățile acestora, fiindcă toate casetele text redimensionabile sau care se rotesc  nu trebuie să conțină nici un obiect sau tabel. Doriți să continuați?</translation>
     </message>
     <message>
         <source>Cannot insert any object to the text box which can be resized or rotated.</source>
@@ -2659,7 +2664,7 @@ Rețineți că unele fișiere pot conține macro-viruși și pot efectua alte ac
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
         <comment>_TxDocument_KRM_RightsWillLost</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permisiunile pentru acest fișier sunt curent restricționate. Numai formatul de fișier WPS Writter poate păstra aceste configurări. Dacă îl salvați ca tipul de fișier curent, toate configurările permisiunilor se vor pierde. Doriți să continuați?</translation>
     </message>
     <message>
         <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
@@ -2702,7 +2707,7 @@ Do you want to continue?</source>
         <source>
 • Multi-Diagonal cell</source>
         <comment>_TxDocument_FormatNotCompatible_MultiDiagonalCell</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> </translation>
     </message>
     <message>
         <source>
@@ -2936,7 +2941,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
         <comment>wps_sChangeTextboxToResizeOrRotateWarning</comment>
-        <translation type="unfinished">Caseta text conține obiecte sau tabele care vor fi șterse dacă veți configura proprietățile acestora, fiindcă toate casetele text redimensionabile sau care se rotesc  nu trebuie să conțină nici un obiect sau tabel. Doriți să continuați?</translation>
+        <translation>Caseta text conține obiecte sau tabele care vor fi șterse dacă veți configura proprietățile acestora, fiindcă toate casetele text redimensionabile sau care se rotesc  nu trebuie să conțină nici un obiect sau tabel. Doriți să continuați?</translation>
     </message>
     <message>
         <source>City</source>
@@ -3168,7 +3173,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>Insert an automatic sequence number</source>
         <comment>wps_sFieldInfoSeq</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un număr de secvență automată</translation>
     </message>
     <message>
         <source>Mark a table of contents entry</source>
@@ -3238,7 +3243,7 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>WPS Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
         <comment>wps_sHasCheckedSelection</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer a terminat de verificat selecția. Doriți să continue verificarea porțiunii rămase din document?</translation>
     </message>
     <message>
         <source>height</source>
@@ -4183,12 +4188,12 @@ Această modificare va afecta toate documentele noi bazate pe șablonul %s.</tra
     <message>
         <source>You can have no more than 25 items in your drop-down list box.</source>
         <comment>wps_sMaxItems</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu puteți avea mai mult de 25 de elemente în caseta listă desfășurată.</translation>
     </message>
     <message>
         <source>The %d Drop-down item is not allow to be empty.</source>
         <comment>wps_sValidItem</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu este permis ca elementul desfășurat %d să fie gol.</translation>
     </message>
     <message>
         <source>This shortcut key already exists. Please set aonther key.</source>
@@ -5654,7 +5659,7 @@ document</translation>
     <message>
         <source>Remove Cell Partition</source>
         <comment>TxVersion_EraserCells</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elimină partiționarea celulei</translation>
     </message>
     <message>
         <source>Add Vertical Border</source>
@@ -5709,37 +5714,37 @@ document</translation>
     <message>
         <source>Mail Merge Insert Fields</source>
         <comment>TxVersion_InsertMergeFields</comment>
-        <translation type="unfinished"></translation>
+        <translation>Combină corespondența introdu câmpuri</translation>
     </message>
     <message>
         <source>Mail Merge View Data</source>
         <comment>TxVersion_ViewMergedData</comment>
-        <translation type="unfinished"></translation>
+        <translation>Combină corespondenșa vizualizare date</translation>
     </message>
     <message>
         <source>Mail Merge Next Record</source>
         <comment>TxVersion_NextRecord</comment>
-        <translation type="unfinished"></translation>
+        <translation>Combină corespondența înregistrarea următoare</translation>
     </message>
     <message>
         <source>Mail Merge Previous Record</source>
         <comment>TxVersion_PreviousRecord</comment>
-        <translation type="unfinished"></translation>
+        <translation>Combină corespondența înregistrarea anterioară</translation>
     </message>
     <message>
         <source>Mail Merge First Record</source>
         <comment>TxVersion_FirstRecord</comment>
-        <translation type="unfinished"></translation>
+        <translation>Combină corespondența prima înregistrare</translation>
     </message>
     <message>
         <source>Mail Merge Last Record</source>
         <comment>TxVersion_LastRecord</comment>
-        <translation type="unfinished"></translation>
+        <translation>Combină corespondența ultima înregistrare</translation>
     </message>
     <message>
         <source>Mail Merge Goto Record</source>
         <comment>TxVersion_GotoRecord</comment>
-        <translation type="unfinished"></translation>
+        <translation>Combină corespondența mergi la înregistrare</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -5806,7 +5811,7 @@ modificările</translation>
     <message>
         <source>Mail Merge Toolbar</source>
         <comment>TXShell_MailMerge_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bara de unelte combină corespondența</translation>
     </message>
     <message>
         <source>Spell 
@@ -6343,7 +6348,7 @@ ortografică</translation>
     <message>
         <source>Table Contemporary</source>
         <comment>TxTableStyle_TableContemporary</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabel actual</translation>
     </message>
     <message>
         <source>Table Elegant</source>
@@ -6913,7 +6918,7 @@ ortografică</translation>
     <message>
         <source>Insert DocumentField</source>
         <comment>TxVersion_InsDocumentField</comment>
-        <translation type="unfinished"></translation>
+        <translation>Introdu câmp document</translation>
     </message>
 </context>
 </TS>

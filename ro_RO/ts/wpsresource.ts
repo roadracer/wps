@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ro_RO" sourcelanguage="ro_RO">
 <defaultcodec>UTF-8</defaultcodec>
@@ -1503,7 +1503,7 @@
     </message>
     <message>
         <source>Show Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată comentarii</translation>
     </message>
     <message>
         <source>Show Date</source>
@@ -1511,15 +1511,15 @@
     </message>
     <message>
         <source>Show FormatChange</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată modificare format</translation>
     </message>
     <message>
         <source>Show InsAndDel</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată introdu și șterge</translation>
     </message>
     <message>
         <source>Show Reviewers</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată comentatorii</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -1617,7 +1617,7 @@
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -2336,7 +2336,7 @@ Properties</source>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Bară unelte control</translation>
     </message>
     <message>
         <source>Description</source>
@@ -2851,7 +2851,7 @@ Pornit/Oprit</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation>Stil formă</translation>
+        <translation>Stiluri formă</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -2977,7 +2977,7 @@ text</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă ca OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -3736,7 +3736,7 @@ formatare</translation>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp document</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -5436,15 +5436,15 @@ nou</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou revizuire</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou revizuire orizontal</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou revizuire vertical</translation>
     </message>
     <message>
         <source>Show</source>
@@ -5460,7 +5460,7 @@ nou</translation>
     </message>
     <message>
         <source>Show Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată comentarii</translation>
     </message>
     <message>
         <source>Show Date</source>
@@ -5468,11 +5468,11 @@ nou</translation>
     </message>
     <message>
         <source>Show FormatChange</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată modificare format</translation>
     </message>
     <message>
         <source>Show InsAndDel</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată introdu și șterge</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -5498,7 +5498,7 @@ modificările</translation>
     </message>
     <message>
         <source>Track Changes Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni urmărire modificări...</translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -6406,7 +6406,7 @@ document</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>Full 
@@ -7480,7 +7480,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -8219,7 +8219,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă ca OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -8227,7 +8227,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -8251,7 +8251,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Fixed Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text fix</translation>
     </message>
     <message>
         <source>FixedText</source>
@@ -8462,7 +8462,7 @@ formatare</translation>
     </message>
     <message>
         <source>In line with text</source>
-        <translation type="unfinished"></translation>
+        <translation>în linie cu textul</translation>
     </message>
     <message>
         <source>InlineWrapText</source>
@@ -8654,7 +8654,7 @@ formatare</translation>
     </message>
     <message>
         <source>Move With Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută cu textul</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -8906,7 +8906,7 @@ formatare</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acces restricționat</translation>
     </message>
     <message>
         <source>ReviewPane</source>
@@ -8914,15 +8914,15 @@ formatare</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou revizuire</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou revizuire orizontal</translation>
     </message>
     <message>
         <source>Reviewing Pane Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Panou revizuire vertical</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -9050,7 +9050,7 @@ formatare</translation>
     </message>
     <message>
         <source>Shape Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil formă</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -9246,7 +9246,7 @@ formatare</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acces nerestricționat</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -9628,7 +9628,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Bară unelte control</translation>
     </message>
     <message>
         <source>Description</source>
@@ -10203,7 +10203,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă ca OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -10926,7 +10926,7 @@ antet și subsol</translation>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp document</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -12568,7 +12568,7 @@ text</translation>
     </message>
     <message>
         <source>Show Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată comentarii</translation>
     </message>
     <message>
         <source>Show Date</source>
@@ -12576,11 +12576,11 @@ text</translation>
     </message>
     <message>
         <source>Show FormatChange</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată modificare format</translation>
     </message>
     <message>
         <source>Show InsAndDel</source>
-        <translation type="unfinished"></translation>
+        <translation>Arată introdu și șterge</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -12604,7 +12604,7 @@ text</translation>
     </message>
     <message>
         <source>Track Changes Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiuni urmărire modificări...</translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -13372,7 +13372,7 @@ Alte ferestre</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -14411,7 +14411,7 @@ umbră</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -14569,7 +14569,7 @@ umbră</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -14659,7 +14659,7 @@ umbră</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Bară unelte control</translation>
     </message>
     <message>
         <source>Drawing</source>
@@ -14946,7 +14946,7 @@ umbră</translation>
     </message>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp document</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -15675,12 +15675,12 @@ Directly</source>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comutare UI</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comutare UI</translation>
     </message>
     <message>
         <source>true</source>
@@ -15896,7 +15896,7 @@ Directly</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Comutare UI</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -15906,7 +15906,7 @@ Directly</source>
     <message>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comutare UI</translation>
     </message>
     <message>
         <source>true</source>

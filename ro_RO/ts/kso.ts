@@ -2386,7 +2386,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Door leaf</source>
         <comment>DRAWINGSTR_DOOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ușă întredeschisă</translation>
     </message>
     <message>
         <source>Down Ribbon Sharp</source>
@@ -3109,7 +3109,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Chinese Office Software Document Format 2.0</source>
         <comment>_WpioDesc_UOF2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Format document Chinese Office Software 2.0</translation>
     </message>
 </context>
 <context>
@@ -4052,42 +4052,42 @@ Puteți apăsa butonul pentru recuperarea fișierelor la care lucrați.</transla
     <message>
         <source>Everyone</source>
         <comment>_kso_krim_User_Everyone</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oricine</translation>
     </message>
     <message>
         <source>Read</source>
         <comment>_kso_krim_Permission_Read</comment>
-        <translation type="unfinished"></translation>
+        <translation>Citire</translation>
     </message>
     <message>
         <source>Change</source>
         <comment>_kso_krim_Permission_Change</comment>
-        <translation type="unfinished"></translation>
+        <translation>Modificare</translation>
     </message>
     <message>
         <source>Full Control</source>
         <comment>_kso_krim_Permission_FullControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>Control total</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>_kso_krim_Permission_Custom</comment>
-        <translation type="unfinished">Personalizat</translation>
+        <translation>Personalizat</translation>
     </message>
     <message>
         <source>Name</source>
         <comment>_kso_krim_TableHeader_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <source>Access Level</source>
         <comment>_kso_krim_TableHeader_AccessLevel</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nivel acces</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the user?</source>
         <comment>_kso_krim_Question_RemoveUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sigur doriți să eliminați utilizatorul?</translation>
     </message>
     <message>
         <source>This will set the default permission policy for all documents, workbooks, forms and presentations with restricted permission.</source>
@@ -4107,52 +4107,52 @@ Puteți apăsa butonul pentru recuperarea fișierelor la care lucrați.</transla
     <message>
         <source>Change user...</source>
         <comment>_kso_krim_Permission_ChangeUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă utilizator...</translation>
     </message>
     <message>
         <source>Resquest additional permissions... </source>
         <comment>_kso_krim_Permission_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Solicită permisiuni suplimentare... </translation>
     </message>
     <message>
         <source>Unrestricted</source>
         <comment>_kso_krim_Permission_NoExpireDate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nerestricționat</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>_kso_krim_Permission_Yes</comment>
-        <translation type="unfinished">Da</translation>
+        <translation>Da</translation>
     </message>
     <message>
         <source>No</source>
         <comment>_kso_krim_Permission_No</comment>
-        <translation type="unfinished">Nu</translation>
+        <translation>Nu</translation>
     </message>
     <message>
         <source>Select Names</source>
         <comment>_kso_krim_Permission_SelectNames</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selectează denumirile</translation>
     </message>
     <message>
         <source>&amp;Change User</source>
         <comment>_kso_irmio_Button_ChangeUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Schimbă utilizator</translation>
     </message>
     <message>
         <source>R&amp;esquest permissions</source>
         <comment>_kso_irmio_Button_RequestPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;olicită permisiuni</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <comment>_kso_irmio_Button_Yes</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
         <comment>_kso_irmio_Button_No</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nu</translation>
     </message>
     <message>
         <source>Unexpected error occurred. Please try again later or contact your system administrator.</source>
@@ -4222,7 +4222,7 @@ To use IRM you need to install the Windows Rights Management client. If you have
     <message>
         <source>Restricted Access</source>
         <comment>_kso_kirm_Permission_RestrictedAccess</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acces restricționat</translation>
     </message>
     <message>
         <source>Permission is currently restricted. Only specified users can access this content. </source>
@@ -4232,12 +4232,12 @@ To use IRM you need to install the Windows Rights Management client. If you have
     <message>
         <source>Change Permission...</source>
         <comment>_kso_krim_Permission_ChangePermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă permisiunile...</translation>
     </message>
     <message>
         <source>View Permission...</source>
         <comment>_kso_krim_Permission_ViewPermission</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizare permisiuni...</translation>
     </message>
     <message>
         <source>Permission will expire within %1 days. </source>
@@ -4247,22 +4247,22 @@ To use IRM you need to install the Windows Rights Management client. If you have
     <message>
         <source>Unrestricted Access</source>
         <comment>_kso_krim_UnrestrictedAccess</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acces nerestricționat</translation>
     </message>
     <message>
         <source>Restricted Access(Read)</source>
         <comment>_kso_krim_RestrictedAccess_Read</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acces restricționat(Citire)</translation>
     </message>
     <message>
         <source>Restricted Access(Change)</source>
         <comment>_kso_krim_RestrictedAccess_Change</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acces restricționat(Modificare)</translation>
     </message>
     <message>
         <source>Restricted Access(Full Control)</source>
         <comment>_kso_krim_RestrictedAccess_FullControl</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acces restricționat(Control total)</translation>
     </message>
 </context>
 <context>
@@ -4316,7 +4316,7 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
     <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <comment>_ksoErr_Print_NoCupsLibrary</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate găsi biblioteca cups, asigurați-vă că este instalată!</translation>
     </message>
 </context>
 <context>
@@ -5488,7 +5488,7 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>You have reached the max retry step, program will terminate.</source>
         <comment>kso_sMaxStep</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ați atins maximul de pași pentru reâncercare, programul se va închide.</translation>
     </message>
     <message>
         <source>MB</source>
