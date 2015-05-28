@@ -111,6 +111,10 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>KS Biaoge.lnk</source>
         <translation>KS Biaoge.lnk</translation>
     </message>
+    <message>
+        <source>WPS Cloud.lnk</source>
+        <translation type="unfinished">WPS Nuvem.lnk</translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -274,7 +278,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>An error occured when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation>Ocorreu um erro ao reparar , por favor, tente novamente.</translation>
+        <translation type="obsolete">Ocorreu um erro ao reparar , por favor, tente novamente.</translation>
     </message>
     <message>
         <source>Repair completed!</source>
@@ -295,6 +299,11 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when repairing, please retry.</source>
+        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -500,6 +509,10 @@ needs restarting Windows to take effect.</source>
         <source>&amp;Compatible with Microsoft Office 2007</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2010</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KPageHomePage</name>
@@ -513,11 +526,20 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>Unlock completed</source>
-        <translation>desbloquear concluída</translation>
+        <translation type="obsolete">desbloquear concluída</translation>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation>Você pode desbloquear a página inicial do IE , se você não gosta . Nota: desbloquear a página pode ter infecção por vírus e suas contas cortado.</translation>
+        <translation type="obsolete">Você pode desbloquear a página inicial do IE , se você não gosta . Nota: desbloquear a página pode ter infecção por vírus e suas contas cortado.</translation>
+    </message>
+    <message>
+        <source>You can change the IE homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1086,6 +1108,10 @@ The button icon, command group and task window position of each scheme are diffe
         <source>Microsoft PowerPoint Macro-Enabled Slide</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Microsoft Excel Backup File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1107,7 +1133,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Programs that can be actiavted</source>
-        <translation>Programas que podem ser actiavted</translation>
+        <translation type="obsolete">Programas que podem ser actiavted</translation>
     </message>
     <message>
         <source>Subtotal:</source>
@@ -1116,6 +1142,10 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>Are you sure to delete the serial number?</source>
         <translation>Tem certeza que deseja excluir o número de série?</translation>
+    </message>
+    <message>
+        <source>Programs that can be activated</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1142,7 +1172,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation>Não verificar se há atualizações automaticamente ( não recommanded )</translation>
+        <translation type="obsolete">Não verificar se há atualizações automaticamente ( não recommanded )</translation>
     </message>
     <message>
         <source>Internet Connection:</source>
@@ -1207,6 +1237,22 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>The port must be a number between 1 and 65535.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not check for updates automatically (not recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Items:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All new releases</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommended new releases</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

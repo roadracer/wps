@@ -2,25 +2,25 @@
 @REM 配置文件，所有脚本的运行时需要配置文件内的信息。
 @REM 输入参数: language,[qm output path]
 
-@REM init global env var
-set g_qm_path=
-
+@REM TODO 现在传参数好麻烦
 @REM input param
-set g_lang=%1
-if not "%2" == "" set g_qm_path=%2
+set g_target_lang=%1
+
+if not "%2" == "" set g_coding=%2
+if "%g_coding%" == "" (
+	set g_coding=..\..\..\
+)
+
+if not "%3" == "" set g_qm_path=%3
+if "%g_qm_path%" == "" (
+	set g_qm_path=..\%g_target_lang%
+)
 
 @REM error Description
 set g_errstr=
 
-@REM g_env_tools: wpsenv\tools目录
-for /F "tokens=3" %%i in ('reg query HKCU\Software\Trolltech\Versions\wpsenv /v toolsDir') do set g_env_tools=%%i
-if "%g_env_tools%" == "" (
-	set g_errstr=get wpsenv toolsDir directory form register failure
-	exit /b 1
-)
-
 @REM =======================================全局参数设置==================================================
-set g_tools_bin=%g_env_tools%\translator\bin
+set g_tools_bin=%~dp0
 set g_mui_path=%g_coding%\shell2\mui
 
 @REM kui[p] files
@@ -29,72 +29,51 @@ set g_ui2ts_version=2
 
 @REM projects 需要产生ts文件的工程, ts文件名为工程名.ts
 set g_projs_path=%g_coding%\shell2
-set g_projs=kcomctl kxshare kole et wpp wps plugins\wpstablestyle plugins\ettablestyle plugins\khomepage plugins\ktreasurebox plugins\wpp2doc plugins\wpponlinetemplate plugins\officespace plugins\PersonlGallery\WPSGallery
+set g_projs=kcomctl kxshare kole et wpp wps plugins\wpstablestyle plugins\ettablestyle plugins\khomepage plugins\ktreasurebox plugins\wpp2doc plugins\wpponlinetemplate plugins\officespace plugins\multiclipboard plugins\kscreengrab ..\support\ksomisc plugins\protecteyes plugins\kwpsassist plugins\wppencoder plugins\wpppresentationtool plugins\wpsspeaker plugins\launcher plugins\kfeedback plugins\shareplay
+set g_core_projs_path=%g_coding%\include\kso\l10n
+set g_kde_projs_path=%g_coding%\office\kde\kde_coreapi
+set g_auth_projs_path=%g_coding%\shell2\auth
+set q_qing_projs_path=%g_coding%\shell2\plugins\kwpslive\qing
+
+@REM tips
+set g_tips_path=%g_coding%\shell2\include\tips
+set g_tips=et wps wpp kso
 
 @REM ts files
-set g_ts_path=%g_coding%\shell2\mui\%g_lang%
-set g_et_ts=kxshare.ts kcomctl.ts kole.ts et.ts etresource.ts ettablestyle.ts khomepage.ts ktreasurebox.ts wpp2doc.ts officespace.ts wpsgallery.ts
-set g_wps_ts=kxshare.ts kcomctl.ts kole.ts wps.ts wpsresource.ts wpstablestyle.ts khomepage.ts ktreasurebox.ts wpp2doc.ts officespace.ts wpsgallery.ts
-set g_wpp_ts=kxshare.ts kcomctl.ts kole.ts wpp.ts wppresource.ts khomepage.ts ktreasurebox.ts wpp2doc.ts wpponlinetemplate.ts officespace.ts wpsgallery.ts
-set g_qt_ts=qt.ts
-
-@REM ts 文件的目标语言
-set g_ts_target_lang=
-if "%g_lang%"=="1028" set g_ts_target_lang=zh_TW
-if "%g_lang%"=="1033" set g_ts_target_lang=en
-if "%g_lang%"=="1041" set g_ts_target_lang=ja
-if "%g_lang%"=="1066" set g_ts_target_lang=vi
-if "%g_lang%"=="2052" set g_ts_target_lang=zh_CN
-if "%g_lang%"=="1031" set g_ts_target_lang=de
+@REM 重要：每个工程的ts文件生成qm文件的流程已经移到每个语言工程的cmakelist中，如有新加ts需要修改
+@REM Coding/shell2/mui/CMakeLists.txt中维护的ts列表，同时在语言目录的CMakeLists.txt中配置使用
+@REM cmake宏wps_custom_compile调用lrelease来生成，才能在构建时生成qm翻译文件
+set g_ts_path=..\%g_target_lang%\ts
+set g_et_ts=et.ts etresource.ts ettablestyle.ts etcore.ts protecteyes.ts
+set g_wps_ts=wps.ts wpsresource.ts wpstablestyle.ts wpscore.ts protecteyes.ts
+set g_wpp_ts=wpp.ts wppresource.ts wpp2doc.ts wpponlinetemplate.ts wppcore.ts
+set g_kso_ts=qt.ts kxshare.ts kcomctl.ts kole.ts khomepage.ts ktreasurebox.ts officespace.ts multiclipboard.ts kso.ts kscreengrab.ts shareplay.ts kwpsassist.ts wppencoder.ts wpppresentationtool.ts wpsspeaker.ts 
+set g_ksomisc_ts=ksomisc.ts
+set g_launcher_ts=launcher.ts
+set g_kde_ts=kde.ts
+set g_auth_ts=auth.ts
+set g_qing_ts=qing.ts
+set g_et_tips_ts=ettips.ts
+set g_wps_tips_ts=wpstips.ts
+set g_wpp_tips_ts=wpptips.ts
+set g_kso_tips_ts=ksotips.ts
 
 @REM qm files
 set g_et_qm_name=et.qm
 set g_wps_qm_name=wps.qm
 set g_wpp_qm_name=wpp.qm
-set g_qt_qm_name=qt.qm
-if "%g_qm_path%" == "" (
-	set g_qm_path=%g_coding%\shell2\mui\%g_lang%
-)
+set g_kso_qm_name=kso.qm
+set g_ksomisc_qm_name=ksomisc.qm
+set g_launcher_qm_name=launcher.qm
+set g_qing_qm_name=qing.qm
+set g_et_tips_qm_name=ettips.qm
+set g_wps_tips_qm_name=wpstips.qm
+set g_wpp_tips_qm_name=wpptips.qm
+set g_kso_tips_qm_name=ksotips.qm
 
-@REM ui2ts option. defaultcodec可以为空.
+@REM option. defaultcodec可以为空.
 @REM location type: 0: no location, 1:relative location, 2:absolute location
 set g_obsolete=false
 set g_defaultcodec=UTF-8
 set g_locationType=0
 
-@REM ====================================================================================================
-@REM 检查变量有效性
-@REM kui[p] files, project ts files
-for %%i in (%g_et_uis%) do (
-	if not exist %g_uis_path%\%%i (
-		set g_errstr=%cd%\%g_uis_path%\%%i does not exist
-		exit /b 1
-	)
-)
-for %%i in (%g_wps_uis%) do (
-	if not exist %g_uis_path%\%%i (
-		set g_errstr=%cd%\%g_uis_path%\%%i does not exist
-		exit /b 1
-	)
-)
-for %%i in (%g_wpp_uis%) do (
-	if not exist %g_uis_path%\%%i (
-		set g_errstr=%cd%\%g_uis_path%\%%i does not exist
-		exit /b 1
-	)
-)
-for %%i in (%g_projs%) do (
-	if not exist %g_projs_path%\%%i (
-		set g_errstr=%cd%\%g_projs_path%\%%i does not exist
-		exit /b 1
-	)
-)
-
-if not exist %g_ts_path% (
-	set g_errstr=%cd%\%g_ts_path% does not exist
-	exit /b 1
-)
-if not exist %g_qm_path% (
-	set g_errstr=%cd%\%g_qm_path% does not exist
-	exit /b 1
-)

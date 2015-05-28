@@ -6,7 +6,7 @@
     <name>DlgBatchSetFont</name>
     <message>
         <source>Batch Set Font</source>
-        <translation>Partia ustawień czcionki</translation>
+        <translation type="obsolete">Partia ustawień czcionki</translation>
     </message>
     <message>
         <source>1</source>
@@ -76,19 +76,19 @@
     </message>
     <message>
         <source>ChineseFont</source>
-        <translation>Czcionka chińska</translation>
+        <translation type="obsolete">Czcionka chińska</translation>
     </message>
     <message>
         <source>WesternFont</source>
-        <translation>Czcionka zachodnia</translation>
+        <translation type="obsolete">Czcionka zachodnia</translation>
     </message>
     <message>
         <source>Font Format</source>
-        <translation>Format czcionki</translation>
+        <translation type="obsolete">Format czcionki</translation>
     </message>
     <message>
         <source>|</source>
-        <translation>|</translation>
+        <translation type="obsolete">|</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -97,6 +97,58 @@
     <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>Bulk Font Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Western Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unbold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Un-underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unitalicize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -118,7 +170,7 @@
     </message>
     <message>
         <source>·Content and textbox</source>
-        <translation>·Zawartość i pole tekstowe</translation>
+        <translation type="obsolete">·Zawartość i pole tekstowe</translation>
     </message>
     <message>
         <source>Set text format</source>
@@ -135,6 +187,10 @@
     <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>Content and textbox</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -171,7 +227,7 @@
     <name>KxInsertPicturesToMultiSlide</name>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Niezidentyfikowany format obrazu.</lengthvariant>
             <lengthvariant>Nieidentyfikowalny format obrazu.</lengthvariant>
         </translation>
@@ -179,41 +235,41 @@
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
-        <translation>Obraz, który wstawiłeś jest zbyt duży. Proszę skompresuj go, aby zaoszczędzić miejsce na dysku.
+        <translation type="obsolete">Obraz, który wstawiłeś jest zbyt duży. Proszę skompresuj go, aby zaoszczędzić miejsce na dysku.
 Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz kompresować go(je)?</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation>Wszystkie obrazy (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation type="obsolete">Wszystkie obrazy (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
         <comment>DgUil_EnhancedMetaFiles</comment>
-        <translation>Rozszerzony Metaplik Windows (*.emf)|*.emf</translation>
+        <translation type="obsolete">Rozszerzony Metaplik Windows (*.emf)|*.emf</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation>Metaplik Windows (*.wmf)|*.wmf</translation>
+        <translation type="obsolete">Metaplik Windows (*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
-        <translation>Format wymiany plików JPEG (*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
+        <translation type="obsolete">Format wymiany plików JPEG (*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
-        <translation>Przenośna grafika sieciowa PNG (*.png)|*.png</translation>
+        <translation type="obsolete">Przenośna grafika sieciowa PNG (*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation>Mapa bitowa Windows (*.bmp)|*.bmp</translation>
+        <translation type="obsolete">Mapa bitowa Windows (*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
-        <translation>Format wymiany grafiki GIF (*.gif)|*.gif</translation>
+        <translation type="obsolete">Format wymiany grafiki GIF (*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
-        <translation>Znacznikowy format pliku obrazu TIF (*.tif;*.tiff)|*.tif;*.tiff</translation>
+        <translation type="obsolete">Znacznikowy format pliku obrazu TIF (*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
 </context>
 <context>
@@ -227,7 +283,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <name>QObject</name>
     <message>
         <source>There is no %1 font on your system,the text will be shown in a substitute font, do you want to use it anyway?</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>W tym systemie czcionka %1 jest niedostępna. Tekst zostanie wyświetlony w czcionce zastępczej. Czy chcesz mimo tego zastosować tę czcionkę?</lengthvariant>
             <lengthvariant>W tym systemie czcionka %1 jest niedostępna. Tekst zostanie wyświetlony w czcionce podstawianej. Czy chcesz mimo tego zastosować tę czcionkę?</lengthvariant>
         </translation>
@@ -239,6 +295,42 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Recent Fonts</source>
         <translation>Ostatnio używane czcionki</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation type="unfinished">Interlinia</translation>
     </message>
 </context>
 </TS>

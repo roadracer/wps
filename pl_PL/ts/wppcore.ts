@@ -164,7 +164,12 @@
     <message>
         <source>This function is offered in WPS Office 2009 Prefessional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation>Ta funkcja jest oferowana w WPS Office 2009 Prefessional.</translation>
+        <translation type="obsolete">Ta funkcja jest oferowana w WPS Office 2009 Prefessional.</translation>
+    </message>
+    <message>
+        <source>This function is offered in WPS Office 2009 Professional.</source>
+        <comment>AEO_SHIELD_ObjectPathConvert</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -652,6 +657,16 @@ Czy chcesz otworzyć ten plik?</translation>
             <lengthvariant>Zastosuj formatowanie tekstu</lengthvariant>
             <lengthvariant>Zastosuj format tekstu</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Left Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Line Indent</source>
+        <comment>TXTRANS_PARA_TEXTINDENT_FIRSTLINE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2674,16 +2689,16 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
         <comment>WP_ReadOnlyOpenOoxml</comment>
-        <translation>Obecnie WPS Office obsługuje tylko przeglądanie dokumentów pakietu Microsoft Office 2010, których nie możesz edytować i zapisywać. Czy chcesz otworzyć ten dokument w trybie przeglądarki?</translation>
+        <translation type="obsolete">Obecnie WPS Office obsługuje tylko przeglądanie dokumentów pakietu Microsoft Office 2010, których nie możesz edytować i zapisywać. Czy chcesz otworzyć ten dokument w trybie przeglądarki?</translation>
     </message>
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation>Obecnie WPS Office obsługuje tylko przeglądanie dokumentów pakietu Microsoft Office 2010, których nie możesz zapisywać.</translation>
+        <translation type="obsolete">Obecnie WPS Office obsługuje tylko przeglądanie dokumentów pakietu Microsoft Office 2010, których nie możesz zapisywać.</translation>
     </message>
     <message>
         <source>Presentation Caption</source>
-        <translation>Podpis prezentacji</translation>
+        <translation type="obsolete">Podpis prezentacji</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
@@ -2702,6 +2717,20 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
 Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lub docelowy dysk, na którym chcesz zapisać plik, nie jest zapełniony lub uszkodzony.
 (%s)</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot edit or save. Do you want to open the document in viewer mode?</source>
+        <comment>WP_ReadOnlyOpenOoxml</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently WPS Office only supports viewing Microsoft Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="unfinished">Prezentacja</translation>
     </message>
 </context>
 <context>
@@ -3254,7 +3283,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Out Slightlly</source>
         <comment>wpp_sAnimDirectionInSlightly</comment>
-        <translation>Nieznacznie zewnątrz</translation>
+        <translation type="obsolete">Nieznacznie zewnątrz</translation>
     </message>
     <message>
         <source>O&amp;ut Slightly</source>
@@ -4755,7 +4784,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Cancelled by user.</source>
         <comment>wpp_sCancelByUser</comment>
-        <translation>Anulowane przez użytkownika.</translation>
+        <translation type="obsolete">Anulowane przez użytkownika.</translation>
     </message>
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
@@ -5922,7 +5951,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Cannot open the folder %s. It might be in a unavailable path, or proteced by password, or the folder path does not exist or the folder path is too long.</source>
         <comment>wpp_sCanNotOpenFolder</comment>
-        <translation>Nie można otworzyć folderu %s. Może to być spowodowane przez niedostępność ścieżki, ochronę przez hasło, nieistniejącą ścieżką folderu lub zbyt długą ścieżkę tego folderu.</translation>
+        <translation type="obsolete">Nie można otworzyć folderu %s. Może to być spowodowane przez niedostępność ścieżki, ochronę przez hasło, nieistniejącą ścieżką folderu lub zbyt długą ścieżkę tego folderu.</translation>
     </message>
     <message>
         <source>Folder name cannot contain the characters bellow:
@@ -6011,6 +6040,21 @@ Czy chcesz zmienić nazwę folderu z &quot;%s&quot;  na &quot;%s&quot;?</transla
         <source>Modify Motion Paths</source>
         <comment>wpp_sModifyMotionPathEffect</comment>
         <translation>Modyfikuj ścieżki ruchu</translation>
+    </message>
+    <message>
+        <source>Out Slightly</source>
+        <comment>wpp_sAnimDirectionInSlightly</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled by user.</source>
+        <comment>wpp_sCancelByUser</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6523,7 +6567,7 @@ układ</lengthvariant>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation type="obsolete">Wszystkie pliki (*.*)|*.*|Wspólne pliki (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Pliki programu WPS Presentation (*.dps)|*.dps|Szablony programu WPS Presentation (*.dpt)|*.dpt|Prezentacje programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt; *.pps)|*.ppt; *.pps|Szablony prezentacji programu Microsoft PowerPoint 97/2000/XP/2003 (*.pot)|*.pot|Prezentacje programu Microsoft PowerPoint 2007/2010 (*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+        <translation type="unfinished">Wszystkie pliki (*.*)|*.*|Wspólne pliki (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|Pliki programu WPS Presentation (*.dps)|*.dps|Szablony programu WPS Presentation (*.dpt)|*.dpt|Prezentacje programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt; *.pps)|*.ppt; *.pps|Szablony prezentacji programu Microsoft PowerPoint 97/2000/XP/2003 (*.pot)|*.pot|Prezentacje programu Microsoft PowerPoint 2007/2010 (*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
     </message>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
@@ -7040,7 +7084,7 @@ pisowni</translation>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
-        <translation>Każdy slajd prezentacji został zapisany jako oddzielny plik w folderze %s .</translation>
+        <translation type="obsolete">Każdy slajd prezentacji został zapisany jako oddzielny plik w folderze %s .</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -7100,77 +7144,133 @@ Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
     <message>
         <source>All Files(*.*)</source>
         <comment>WpDescAll</comment>
-        <translation>Wszystkie pliki (*.*)</translation>
+        <translation type="obsolete">Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
         <comment>WpDescCommon</comment>
-        <translation>Wspólne pliki (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</translation>
+        <translation type="obsolete">Wspólne pliki (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</translation>
     </message>
     <message>
         <source>WPS Presentation Files(*.dps)</source>
         <comment>WpDescWPP</comment>
-        <translation>Pliki programu WPS Presentation (*.dps)</translation>
+        <translation type="obsolete">Pliki programu WPS Presentation (*.dps)</translation>
     </message>
     <message>
         <source>WPS Presentation Templates(*.dpt)</source>
         <comment>WpDescWPPTemp</comment>
-        <translation>Szablony programu WPS Presentation (*.dpt)</translation>
+        <translation type="obsolete">Szablony programu WPS Presentation (*.dpt)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
         <comment>WpDescPptPps</comment>
-        <translation>Prezentacje programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt; *.pps)</translation>
+        <translation type="obsolete">Prezentacje programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt; *.pps)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
         <comment>WpDescPpt</comment>
-        <translation>Prezentacja programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)</translation>
+        <translation type="obsolete">Prezentacja programu Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
         <comment>WpDescPps</comment>
-        <translation>Pokaz programu Microsoft PowerPoint 97/2000/XP/2003 (*.pps)</translation>
+        <translation type="obsolete">Pokaz programu Microsoft PowerPoint 97/2000/XP/2003 (*.pps)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
         <comment>WpDescPptTemp</comment>
-        <translation>Szablony prezentacji programu Microsoft PowerPoint 97/2000/XP/2003 (*.pot)</translation>
+        <translation type="obsolete">Szablony prezentacji programu Microsoft PowerPoint 97/2000/XP/2003 (*.pot)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
         <comment>WpDescPptx</comment>
-        <translation>Prezentacje programu Microsoft PowerPoint 2007/2010 (*.pptx; *.ppsx)</translation>
+        <translation type="obsolete">Prezentacje programu Microsoft PowerPoint 2007/2010 (*.pptx; *.ppsx)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
         <comment>WpDescUOF</comment>
-        <translation>Format chińskiego dokumentu Office (*.uof)</translation>
+        <translation type="obsolete">Format chińskiego dokumentu Office (*.uof)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uop)</source>
         <comment>WpDescUOF2</comment>
-        <translation>Format chińskiego dokumentu Office 2.0 (*.uop)</translation>
+        <translation type="obsolete">Format chińskiego dokumentu Office 2.0 (*.uop)</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)</source>
         <comment>WpDescJPEG</comment>
-        <translation>Format wymiany plików JPEG (*.jpg)</translation>
+        <translation type="obsolete">Format wymiany plików JPEG (*.jpg)</translation>
     </message>
     <message>
         <source>PNG Portable Network Graphics Format(*.png)</source>
         <comment>WpDescPNG</comment>
-        <translation>Przenośna grafika sieciowa PNG (*.png)</translation>
+        <translation type="obsolete">Przenośna grafika sieciowa PNG (*.png)</translation>
     </message>
     <message>
         <source>TIFF Tag Image File Format(*.tif)</source>
         <comment>WpDescTIFF</comment>
-        <translation>Znacznikowy format pliku obrazu TIF (*.tif)</translation>
+        <translation type="obsolete">Znacznikowy format pliku obrazu TIF (*.tif)</translation>
     </message>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
-        <translation>Mapa bitowa niezależna od urządzenia (*.bmp)</translation>
+        <translation type="obsolete">Mapa bitowa niezależna od urządzenia (*.bmp)</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <comment>WpPARAGRAPHS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps</source>
+        <comment>WP_SAVEFILE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
+        <comment>WP_SAVEFILE_IMAGES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG-4 Video(*.mp4)|*.mp4</source>
+        <comment>WP_SAVEFILE_VIDEO_MP4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Media Video(*.wmv)|*.wmv</source>
+        <comment>WP_SAVEFILE_VIDEO_WMV</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Video Interleave(*.avi)|*.avi</source>
+        <comment>WP_SAVEFILE_VIDEO_AVI</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Web Media Video(*.webm)|*.webm</source>
+        <comment>WP_SAVEFILE_VIDEO_WEBM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>|</source>
+        <comment>WpOpenSaveFilterSeperator</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\WPS Video\WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\WPS Image\WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -590,12 +590,22 @@ Try one or more of the following:
 3、Ensure that the source file is in the appropriate directory.
 4、Ensure that the source file can be supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>WPS Writer napotkał błąd podczas próby aktualizacji pliku źródłowego.
+        <translation type="obsolete">WPS Writer napotkał błąd podczas próby aktualizacji pliku źródłowego.
 Spróbuj wykonać jedną lub więcej z następujących czynności:
 1、Sprawdź czy plik źródłowy jest otwarty lub używany przez inne programy.
 2、Sprawdź czy plik źródłowy jest chroniony.
 3、Upewnij się, że plik źródłowy jest w odpowiednim katalogu.
 4、Upewnij się, że plik źródłowy może być obsługiwany przez WPS.</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1. Check whether the source file has been opened or occupied by other programs.
+2. Check whether the source file is protected.
+3. Make sure that the source file is in the appropriate directory.
+4. Make sure that the source file&apos;s format is supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2739,12 +2749,12 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
         <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation>Program WPS Writer nie może scalić źródła danych z dokumentem głównym korespondencji seryjnej, ponieważ rekord jest pusty, albo żaden z rekordów nie spełnia warunków kwerendy.</translation>
+        <translation type="obsolete">Program WPS Writer nie może scalić źródła danych z dokumentem głównym korespondencji seryjnej, ponieważ rekord jest pusty, albo żaden z rekordów nie spełnia warunków kwerendy.</translation>
     </message>
     <message>
         <source>Recorded %d too much data fields.</source>
         <comment>_TxMailMerge_FieldsTooMuch</comment>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Nagrano %d zbyt wiele pól danych.</lengthvariant>
             <lengthvariant>Zarejestrowano %d zbyt wiele pól danych.</lengthvariant>
         </translation>
@@ -2752,7 +2762,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Recorded %d too few data fields.</source>
         <comment>_TxMailMerge_FieldsTooFew</comment>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Nagrano %d zbyt mało pól danych.</lengthvariant>
             <lengthvariant>Zarejestrowano %d zbyt mało pól danych.</lengthvariant>
         </translation>
@@ -2760,12 +2770,12 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Recorded %d is empty.</source>
         <comment>_TxMailMerge_FieldsEmpty</comment>
-        <translation>Nagranie %d jest puste.</translation>
+        <translation type="obsolete">Nagranie %d jest puste.</translation>
     </message>
     <message>
         <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
-        <translation>Program WPS Writer nie może otworzyć pliku %s jako źródła danych lub nagłówka, ponieważ jest to aktywny dokument główny korespondencji seryjnej.</translation>
+        <translation type="obsolete">Program WPS Writer nie może otworzyć pliku %s jako źródła danych lub nagłówka, ponieważ jest to aktywny dokument główny korespondencji seryjnej.</translation>
     </message>
     <message>
         <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
@@ -2794,6 +2804,40 @@ Czy chcesz go zamienić?</lengthvariant>
         <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
         <translation>Ten dokument zawiera łącza, które mogą się odwoływać do innych plików. Czy chcesz zaktualizować ten dokument danymi pochodzącymi z połączonych plików?</translation>
     </message>
+    <message>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="unfinished">Program WPS Writer nie może scalić źródła danych z dokumentem głównym korespondencji seryjnej, ponieważ wszystkie rekordy są puste, albo żaden z rekordów nie spełnia warunków kwerendy.</translation>
+    </message>
+    <message>
+        <source>Record %d contained too many data fields.</source>
+        <comment>_TxMailMerge_FieldsTooMuch</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record %d contained too few data fields.</source>
+        <comment>_TxMailMerge_FieldsTooFew</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record %d is empty.</source>
+        <comment>_TxMailMerge_FieldsEmpty</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_err</name>
@@ -2815,7 +2859,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation>Pomiar musi się zawierać w przedziale między -1584 pkt i 1584 pkt.</translation>
+        <translation type="obsolete">Pomiar musi się zawierać w przedziale między -1584 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
@@ -2835,7 +2879,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation>Wielkość musi się zawierać w przedziale między 0,5 i 600.</translation>
+        <translation type="obsolete">Wielkość musi się zawierać w przedziale między 0,5 i 600.</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
@@ -2908,6 +2952,16 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <comment>_TxErr_InvalidAnchorPosition</comment>
         <translation>Nie możesz umieszczać obiektów rysunkowych w polu tekstowym, objaśnieniu, komentarzu i w przypisie dolnym lub końcowym.</translation>
     </message>
+    <message>
+        <source>The measurement must be between -1584 pt and 1584 pt.</source>
+        <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The measurement must be between 0.5 and 600.</source>
+        <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_persist</name>
@@ -2924,12 +2978,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Normal.wpt</source>
         <comment>_TxDocument_NormalTemplate</comment>
-        <translation>Normalny.wpt</translation>
+        <translation type="obsolete">Normalny.wpt</translation>
     </message>
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation>wbudowany.wpt</translation>
+        <translation type="obsolete">wbudowany.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -3142,7 +3196,7 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation type="obsolete">WPSV6-TEKST</translation>
+        <translation type="unfinished">WPSV6-TEKST</translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
@@ -3293,12 +3347,18 @@ Proszę wypróbuj jedną z następujących czynności:
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog dla kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog dla kopii zapasowych.
 Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
             <lengthvariant>Występują błędy, gdy kopia zapasowa jest uruchomiona! Prawdopodobnie dzieje się tak, ponieważ katalog kopii zapasowych, który ustawiłeś nie ma uprawnienia do zapisu, proszę spróbuj zmienić katalog kopii zapasowych.
 Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <comment>_TxDocument_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4586,7 +4646,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation>Program WPS Writer napotkał błąd podczas dostosowywania zabezpieczeń makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane.</translation>
+        <translation type="obsolete">Program WPS Writer napotkał błąd podczas dostosowywania zabezpieczeń makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane.</translation>
     </message>
     <message>
         <source>Web Page</source>
@@ -4737,7 +4797,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>This shortcut key already exists. Please set aonther key.</source>
         <comment>wps_sAppShortcutExisted</comment>
-        <translation>Ten skrót klawiaturowy już istnieje. Proszę ustawić inny klawisz.</translation>
+        <translation type="obsolete">Ten skrót klawiaturowy już istnieje. Proszę ustawić inny klawisz.</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
@@ -5213,6 +5273,16 @@ Anuluj:	Wróć do okna dialogowego.</translation>
         <comment>wps_sFinishHighlightAllNotFound</comment>
         <translation>Program zakończył wyszukiwanie &quot;%s&quot;. Szukany element nie został znaleziony.</translation>
     </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This shortcut key already exists. Please set another key.</source>
+        <comment>wps_sAppShortcutExisted</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpsuil</name>
@@ -5309,7 +5379,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation>Osobista książka adresowa programu Outlook (*.pab) | *.pab; |</translation>
+        <translation type="obsolete">Osobista książka adresowa programu Outlook (*.pab) | *.pab; |</translation>
     </message>
     <message>
         <source>Lotus 1-2-3 Files(*.wk?; *.wj?) | *.wk?; *.wj?; |</source>
@@ -7585,7 +7655,12 @@ pisowni</translation>
     <message>
         <source>Insert DocumentField</source>
         <comment>TxVersion_InsDocumentField</comment>
-        <translation>Wstaw pole dokumentu</translation>
+        <translation type="obsolete">Wstaw pole dokumentu</translation>
+    </message>
+    <message>
+        <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
+        <comment>TxDesc_DataSource_pab</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -2292,11 +2292,15 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation>anuluj</translation>
+        <translation type="obsolete">anuluj</translation>
     </message>
     <message>
         <source>&amp;Paragraphs</source>
         <translation>&amp;Akapity</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -2569,79 +2573,79 @@ lub użyj odpowiedniego przycisku</translation>
     <name>KxDlgDocumentFields</name>
     <message>
         <source>DocumentField</source>
-        <translation>Pole dokumentu</translation>
+        <translation type="obsolete">Pole dokumentu</translation>
     </message>
     <message>
         <source>DocumentField Name</source>
-        <translation>Nazwa pola dokumentu</translation>
+        <translation type="obsolete">Nazwa pola dokumentu</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation>&amp;Wstaw</translation>
+        <translation type="obsolete">&amp;Wstaw</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>&amp;Zmień nazwę</translation>
+        <translation type="obsolete">&amp;Zmień nazwę</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation>&amp;Przejdź do</translation>
+        <translation type="obsolete">&amp;Przejdź do</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Usuń</translation>
+        <translation type="obsolete">&amp;Usuń</translation>
     </message>
     <message>
         <source>&amp;Marks Only</source>
-        <translation>Tylko &amp;znaczniki</translation>
+        <translation type="obsolete">Tylko &amp;znaczniki</translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation>Sortuj według:</translation>
+        <translation type="obsolete">Sortuj według:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation>&amp;Nazwa</translation>
+        <translation type="obsolete">&amp;Nazwa</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation>&amp;Lokalizacja</translation>
+        <translation type="obsolete">&amp;Lokalizacja</translation>
     </message>
     <message>
         <source>DocumentField Properties</source>
-        <translation>Właściwości pola dokumentu</translation>
+        <translation type="obsolete">Właściwości pola dokumentu</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation>&amp;Ukryte</translation>
+        <translation type="obsolete">&amp;Ukryte</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation>&amp;Drukuj</translation>
+        <translation type="obsolete">&amp;Drukuj</translation>
     </message>
     <message>
         <source>Read &amp;Only</source>
-        <translation>Tylko do &amp;odczytu</translation>
+        <translation type="obsolete">Tylko do &amp;odczytu</translation>
     </message>
     <message>
         <source>&amp;Apply All</source>
-        <translation>&amp;Zastosuj wszystkie</translation>
+        <translation type="obsolete">&amp;Zastosuj wszystkie</translation>
     </message>
     <message>
         <source>Insertion Mode</source>
-        <translation>Tryb wstawiania</translation>
+        <translation type="obsolete">Tryb wstawiania</translation>
     </message>
     <message>
         <source>When inserted at beginning and end, then counted in. </source>
-        <translation>Po wstawieniu na początku i na końcu, następnie zliczone w </translation>
+        <translation type="obsolete">Po wstawieniu na początku i na końcu, następnie zliczone w </translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation type="obsolete">Anuluj</translation>
     </message>
 </context>
 <context>
@@ -2907,10 +2911,14 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Zapamiętaj tą operację, nie przypominaj mi ponownie</lengthvariant>
             <lengthvariant>Pamiętam tą operację, nie przypominaj mi ponownie</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3154,7 +3162,11 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Add the &amp;path to the file name</source>
-        <translation>Dodaj ś&amp;cieżkę do nazwy pliku</translation>
+        <translation type="obsolete">Dodaj ś&amp;cieżkę do nazwy pliku</translation>
+    </message>
+    <message>
+        <source>Add &amp;path to filename</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3269,7 +3281,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>replace options</source>
-        <translation>opcje zamiany</translation>
+        <translation type="obsolete">opcje zamiany</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -3445,6 +3457,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <message>
         <source>Find Previous(&amp;B)</source>
         <translation>Znajdź poprzedni(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Replace options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3836,7 +3852,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>UnderLine</source>
-        <translation>Podkreślenie</translation>
+        <translation type="obsolete">Podkreślenie</translation>
     </message>
     <message>
         <source>Border</source>
@@ -3880,6 +3896,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <message>
         <source>Allow ha&amp;nging punctuation</source>
         <translation>&amp;Zezwalaj na wysuniętą interpunkcję</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished">Podkreślenie</translation>
     </message>
 </context>
 <context>
@@ -5115,11 +5135,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Discern &amp;person</source>
-        <translation>Wykryj &amp;osobę</translation>
+        <translation type="obsolete">Wykryj &amp;osobę</translation>
     </message>
     <message>
         <source>Discern &amp;location</source>
-        <translation>Wykryj &amp;lokalizację</translation>
+        <translation type="obsolete">Wykryj &amp;lokalizację</translation>
     </message>
     <message>
         <source>Bl&amp;ue background, white text</source>
@@ -5952,7 +5972,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Privacy</source>
-        <translation>Prywatność</translation>
+        <translation type="obsolete">Prywatność</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
@@ -5960,14 +5980,14 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Pokaż &amp;okna na pasku zadań</lengthvariant>
             <lengthvariant>Pokaż &amp;okna w pasku zadań</lengthvariant>
         </translation>
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
-        <translation>Pole podglądu czci&amp;onek</translation>
+        <translation type="obsolete">Pole podglądu czci&amp;onek</translation>
     </message>
     <message>
         <source>AutoNumber</source>
@@ -6040,7 +6060,51 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>D&amp;ocument fields</source>
-        <translation>Pola d&amp;okumentu</translation>
+        <translation type="obsolete">Pola d&amp;okumentu</translation>
+    </message>
+    <message>
+        <source>&amp;Font Preview Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discern &amp;person(only effective in Chinese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discern &amp;location(only effective in Chinese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7716,18 +7780,18 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Field name record delimiter</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Ograniczniki rekordu Nazwa pola</lengthvariant>
             <lengthvariant>Ograniczniki rekordu nagłówka</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
-        <translation>Pola danych muszą użyć znaków (o nazwie &quot;ogranicznik&quot;), aby oddzielić każde od siebie; Podobnie rekordy danych muszą być oddzielone znakiem ogranicznika rekordu. Proszę użyj poniższej listy, aby wybrać odpowiedni ogranicznik.</translation>
+        <translation type="obsolete">Pola danych muszą użyć znaków (o nazwie &quot;ogranicznik&quot;), aby oddzielić każde od siebie; Podobnie rekordy danych muszą być oddzielone znakiem ogranicznika rekordu. Proszę użyj poniższej listy, aby wybrać odpowiedni ogranicznik.</translation>
     </message>
     <message>
         <source>Field delimiter:</source>
-        <translation>Ogranicznik pola:</translation>
+        <translation type="obsolete">Ogranicznik pola:</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -7859,7 +7923,23 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Record delimiter:</source>
-        <translation>Ogranicznik rekordu:</translation>
+        <translation type="obsolete">Ogranicznik rekordu:</translation>
+    </message>
+    <message>
+        <source>Header Record Delimiters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record delimiter:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7967,23 +8047,23 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxDocumentFieldsDlg</name>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation type="obsolete">Anuluj</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Zamknij</translation>
+        <translation type="obsolete">Zamknij</translation>
     </message>
     <message>
         <source>The document field with this name has already existed. Do you want to cover it?</source>
-        <translation>Pole dokumentu o tej nazwie już istnieje. Czy chcesz je przykryć?</translation>
+        <translation type="obsolete">Pole dokumentu o tej nazwie już istnieje. Czy chcesz je przykryć?</translation>
     </message>
     <message>
         <source>The name of the document field is illegal.</source>
-        <translation>Nazwa pola dokumentu jest niedozwolona.</translation>
+        <translation type="obsolete">Nazwa pola dokumentu jest niedozwolona.</translation>
     </message>
     <message>
         <source>The name of the document field has already existed, please rename it!</source>
-        <translation>Nazwa pola dokumentu już istnieje, proszę zmień nazwę pola!</translation>
+        <translation type="obsolete">Nazwa pola dokumentu już istnieje, proszę zmień nazwę pola!</translation>
     </message>
 </context>
 <context>
@@ -8197,7 +8277,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation type="obsolete" variants="yes">
+        <translation type="unfinished" variants="yes">
             <lengthvariant>Przypuszczam, że KingSoft.wps jest na dysk C. Kod pola:HIPERŁĄCZE &quot;C:\\KingSoft.wps&quot;</lengthvariant>
             <lengthvariant>Przypuszczam, że KingSoft.wps jest na dysk C. Kod pola:HYPERLINK &quot;C:\\KingSoft.wps&quot;</lengthvariant>
         </translation>
@@ -8215,7 +8295,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
-        <translation type="obsolete">Otwórz i aktywuj plik KingSoft.wps na dysku C.</translation>
+        <translation type="unfinished">Otwórz i aktywuj plik KingSoft.wps na dysku C.</translation>
     </message>
     <message>
         <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
@@ -8410,7 +8490,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation type="obsolete" variants="yes">
+        <translation type="unfinished" variants="yes">
             <lengthvariant>Przypuszczam, że adres url obrazu jest &quot;d:\\WPS.jpg&quot;.Kod pola: DOŁĄCZOBRAZ &quot;d:\\WPS.jpg&quot;</lengthvariant>
             <lengthvariant>Przypuszczam, że adres url obrazu jest &quot;d:\\WPS.jpg&quot;.Kod pola: INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</lengthvariant>
         </translation>
@@ -8447,46 +8527,46 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>/</source>
-        <translation>/</translation>
+        <translation type="obsolete">/</translation>
     </message>
     <message>
         <source>root directory</source>
-        <translation>katalog główny</translation>
+        <translation type="obsolete">katalog główny</translation>
     </message>
     <message>
         <source>D:\\</source>
-        <translation>D:\\</translation>
+        <translation type="obsolete">D:\\</translation>
     </message>
     <message>
         <source>D drive</source>
-        <translation>Dysk D</translation>
+        <translation type="obsolete">Dysk D</translation>
     </message>
     <message>
         <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
-        <translation>Załóżmy, że KingSoft.wps jest w %1. Kod pola: HYPERLINK %2KingSoft.wps</translation>
+        <translation type="obsolete">Załóżmy, że KingSoft.wps jest w %1. Kod pola: HYPERLINK %2KingSoft.wps</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the %1.</source>
-        <translation>Otwórz i aktywuj plik KingSoft.wps na %1.</translation>
+        <translation type="obsolete">Otwórz i aktywuj plik KingSoft.wps na %1.</translation>
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
-        <translation>Załóżmy, że adres url obrazu to &quot;%1WPS.jpg&quot;. Kod pola: INCLUDEPICTURE &quot;%2WPS.jpg&quot;</translation>
+        <translation type="obsolete">Załóżmy, że adres url obrazu to &quot;%1WPS.jpg&quot;. Kod pola: INCLUDEPICTURE &quot;%2WPS.jpg&quot;</translation>
     </message>
     <message>
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation>Załóżmy, że adres url pliku to &quot;%1wps.doc&quot;. Kod pola: INCLUDETEXT &quot;%2wps.doc&quot;</translation>
+        <translation type="obsolete">Załóżmy, że adres url pliku to &quot;%1wps.doc&quot;. Kod pola: INCLUDETEXT &quot;%2wps.doc&quot;</translation>
     </message>
     <message>
         <source>IncludeText</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>IncludeText</lengthvariant>
             <lengthvariant>Dołącz_tekst</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Insert text to from a file</source>
-        <translation>Wstawia tekst z pliku</translation>
+        <translation type="obsolete">Wstawia tekst z pliku</translation>
     </message>
     <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
@@ -8501,7 +8581,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Insert the file name of the document</source>
-        <translation>Wstawia nazwę pliku dokumentu</translation>
+        <translation type="obsolete">Wstawia nazwę pliku dokumentu</translation>
     </message>
     <message>
         <source>Forma&amp;t:</source>
@@ -8510,6 +8590,22 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>Document &amp;property:</source>
         <translation>&amp;Właściwość dokumentu:</translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;d:\\wps.doc&quot;. Field code: INCLUDETEXT &quot;d:\\wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert file name of the document</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9536,7 +9632,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Itatic, </source>
-        <translation>Kursywa, </translation>
+        <translation type="obsolete">Kursywa, </translation>
     </message>
     <message>
         <source>0#</source>
@@ -9711,6 +9807,10 @@ Anuluj:	Powrót do okna dialogowego.</translation>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>Zapisywanie nie powiodło się. Szablon Normaly jest zajęty.</translation>
     </message>
+    <message>
+        <source>Italic, </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxNewLabelDlg</name>
@@ -9735,7 +9835,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Itatic, </source>
-        <translation>Kursywa, </translation>
+        <translation type="obsolete">Kursywa, </translation>
     </message>
     <message>
         <source>Bold, </source>
@@ -9770,7 +9870,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>LeftAndRight</source>
-        <translation>Z lewej i prawej</translation>
+        <translation type="obsolete">Z lewej i prawej</translation>
     </message>
     <message>
         <source>Dispersion</source>
@@ -9949,6 +10049,14 @@ Anuluj:	Powrót do okna dialogowego.</translation>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>Zapisywanie nie powiodło się. Szablon Normaly jest zajęty.</translation>
     </message>
+    <message>
+        <source>Italic, </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left and Right</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
@@ -9997,7 +10105,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</lengthvariant>
             <lengthvariant>Nie masz uprawnień do zapisu plików kopii zapasowej w &quot;%1&quot;.</lengthvariant>
         </translation>
@@ -10005,6 +10113,10 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
         <translation>Nieprawidłowy katalog &quot;%1&quot;.</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11741,7 +11853,11 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>Field delimiter and record delimiter cannot be same.</source>
-        <translation>Ogranicznik pola i ogranicznika rekordu nie mogą być takie same.</translation>
+        <translation type="obsolete">Ogranicznik pola i ogranicznika rekordu nie mogą być takie same.</translation>
+    </message>
+    <message>
+        <source>The field delimiter cannot be the same as the record delimiter.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12244,7 +12360,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>userName</source>
-        <translation>Nazwa użytkownika</translation>
+        <translation type="obsolete">Nazwa użytkownika</translation>
     </message>
     <message>
         <source>Change user...</source>
@@ -12288,7 +12404,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Permission expiration date:</source>
-        <translation>Data wygaśnięcia uprawnienia:</translation>
+        <translation type="obsolete">Data wygaśnięcia uprawnienia:</translation>
     </message>
     <message>
         <source>(N/A)</source>
@@ -12296,14 +12412,26 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Resquest additional permissions... </source>
-        <translation>Zażądaj dodatkowych uprawnień... </translation>
+        <translation type="obsolete">Zażądaj dodatkowych uprawnień... </translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>In Line With Text</source>
-        <translation>Równo z tekstem</translation>
+        <translation type="obsolete">Równo z tekstem</translation>
     </message>
     <message>
         <source>Square</source>
@@ -12328,6 +12456,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>Top and Bottom</source>
         <translation>Od góry i od dołu</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12429,7 +12561,11 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Revision: %1</source>
-        <translation>Poprawka: %1</translation>
+        <translation type="obsolete">Poprawka: %1</translation>
+    </message>
+    <message>
+        <source>Revisions: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12701,6 +12837,29 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>KxWpsStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation type="unfinished">&amp;Procent:</translation>
+    </message>
+    <message>
+        <source>&amp;Whole Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Page Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Text Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsStyleGalleryModel</name>
     <message>
         <source>Styles</source>
@@ -12930,11 +13089,15 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation>W tej chwili nie są rejestrowane żadne makra. Kliknij, aby rozpocząć rejestrowanie nowego makra.</translation>
+        <translation type="obsolete">W tej chwili nie są rejestrowane żadne makra. Kliknij, aby rozpocząć rejestrowanie nowego makra.</translation>
     </message>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
         <translation>Szablon programu Kingsoft Writer 2007/2010(*.wptx)</translation>
+    </message>
+    <message>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13112,11 +13275,11 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation>Hasło do ochrony ustawienia uprawnień</translation>
+        <translation type="obsolete">Hasło do ochrony ustawienia uprawnień</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: Tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
+        <translation type="obsolete">Uwaga: Tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -13141,6 +13304,14 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>Export PDF File</source>
         <translation>Eksportuj plik PDF</translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

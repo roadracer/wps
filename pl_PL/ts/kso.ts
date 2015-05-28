@@ -310,7 +310,7 @@ Proszę sprawdź ustawienia systemowe i upewnij się, że katalog tymczasowy akt
     <message>
         <source>Value Out Of Range</source>
         <comment>_ksoErr_Basic_ValueOutOfRange</comment>
-        <translation>Wartość spoza zakresu</translation>
+        <translation type="obsolete">Wartość spoza zakresu</translation>
     </message>
     <message>
         <source>Invalid Parameter</source>
@@ -354,9 +354,21 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
-        <translation>Bieżący użytkownik nie ma uprawnień do zapisu w katalogu tymczasowym.
+        <translation type="obsolete">Bieżący użytkownik nie ma uprawnień do zapisu w katalogu tymczasowym.
 
 Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczasowego katalogu dla bieżącego użytkownika, a następnie ponownie uruchom program WPS Office.</translation>
+    </message>
+    <message>
+        <source>Value Out of Range</source>
+        <comment>_ksoErr_Basic_ValueOutOfRange</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The current user does not have the permission to write to the temporary directory.
+
+Please check your system settings and ensure that the temporary directory under the current user is available, and then restart WPS Office.</source>
+        <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3562,12 +3574,17 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
-        <translation>Plik powinien zostać otwarty tylko do odczytu, chyba że będzie konieczne zapisanie w nim zmian. Czy otworzyć go tylko do odczytu?</translation>
+        <translation type="obsolete">Plik powinien zostać otwarty tylko do odczytu, chyba że będzie konieczne zapisanie w nim zmian. Czy otworzyć go tylko do odczytu?</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format 2.0</source>
         <comment>_WpioDesc_UOF2</comment>
-        <translation>Format dokumentu chińskiego oprogramowania biurowego 2.0</translation>
+        <translation type="obsolete">Format dokumentu chińskiego oprogramowania biurowego 2.0</translation>
+    </message>
+    <message>
+        <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
+        <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3909,7 +3926,7 @@ Możesz wybrać przycisk Tylko do odczytu, aby otworzyć go w trybie tylko do od
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_for_windows_version</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder.</source>
@@ -3919,327 +3936,327 @@ Możesz wybrać przycisk Tylko do odczytu, aby otworzyć go w trybie tylko do od
     <message>
         <source>WPS Office (Beta)</source>
         <comment>_kso_ksoProductName_Debug</comment>
-        <translation>WPS Office (Beta)</translation>
+        <translation type="obsolete">WPS Office (Beta)</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHN</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office (test)</source>
         <comment>_kso_ksoProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Office (test)</translation>
+        <translation type="obsolete">WPS Office (test)</translation>
     </message>
     <message>
         <source>WPS Office OEM</source>
         <comment>_kso_ksoProductName_OEM_CHN</comment>
-        <translation>WPS Office OEM</translation>
+        <translation type="obsolete">WPS Office OEM</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_CHN</comment>
-        <translation>WPS Office Personal</translation>
+        <translation type="obsolete">WPS Office Personal</translation>
     </message>
     <message>
         <source>WPS Office Education</source>
         <comment>_kso_ksoProductName_EDU_CHN</comment>
-        <translation>WPS Office Edukacyjny</translation>
+        <translation type="obsolete">WPS Office Edukacyjny</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_USA</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PER_USA</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_JPN</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_VN</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_Debug</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_CHN_TEST</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_OEM_CHN</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_CHN</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_EDU_CHN</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_USA</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER_USA</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_JPN</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PRO_VN</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>WPS Writer (Beta)</source>
         <comment>_kso_wpsProductName_Debug</comment>
-        <translation>WPS Writer (Beta)</translation>
+        <translation type="obsolete">WPS Writer (Beta)</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_OEM_CHN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_CHN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_EDU_CHN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_USA</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_USA</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_JPN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_VN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation (Beta)</source>
         <comment>_kso_wppProductName_Debug</comment>
-        <translation>WPS Presentation (Beta)</translation>
+        <translation type="obsolete">WPS Presentation (Beta)</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_OEM_CHN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_CHN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_EDU_CHN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_USA</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PER_USA</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wpp_ProductName_PRO_JPN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_VN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets (Beta)</source>
         <comment>_kso_etProductName_Debug</comment>
-        <translation>WPS Spreadsheets (Beta)</translation>
+        <translation type="obsolete">WPS Spreadsheets (Beta)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHN_TEST</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_OEM_CHN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_CHN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_EDU_CHN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_USA</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PER_USA</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_JPN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_VN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName_PRO_CHT</comment>
-        <translation>WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PRO_CHT</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRO_CHT</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRO_CHT</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office Personal</source>
         <comment>_kso_ksoProductName_PER_VN</comment>
-        <translation>WPS Office Personal</translation>
+        <translation type="obsolete">WPS Office Personal</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PER_VN</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName_PER_VN</comment>
-        <translation>WPS Writer</translation>
+        <translation type="obsolete">WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName_PRE_VN</comment>
-        <translation>WPS Presentation</translation>
+        <translation type="obsolete">WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName_PRE_VN</comment>
-        <translation>WPS Spreadsheets</translation>
+        <translation type="obsolete">WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office 2010 Professional Edition</source>
         <comment>_kso_ksoProductName_dev_cn</comment>
-        <translation>WPS Office 2010 Professional Edition</translation>
+        <translation type="obsolete">WPS Office 2010 Professional Edition</translation>
     </message>
     <message>
         <source>WPS Office Standard</source>
         <comment>_kso_ksoProductName_PRO_CHT_Standard</comment>
-        <translation>WPS Office Standard</translation>
+        <translation type="obsolete">WPS Office Standard</translation>
     </message>
     <message>
         <source>WPS Office Home</source>
         <comment>_kso_ksoProductName_PRO_CHT_Home</comment>
-        <translation>WPS Office Home</translation>
+        <translation type="obsolete">WPS Office Home</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Home</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>This software includes: the FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Check Spelling, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Lab, Harbin Institute of Technology.</source>
         <comment>_kso_ksoThankTo_PRO_CHT_Standard</comment>
-        <translation>Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology.</translation>
+        <translation type="obsolete">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology.</translation>
     </message>
     <message>
         <source>New Workbook.xls</source>
@@ -4487,7 +4504,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</length
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
 •Sprawdź czy katalog dla kopii zapasowych jest z uprawnieniami do zapisywania lub spróbuj zmienić katalog dla kopii zapasowych. 
 •[Cofnij] poprzednie operacje i [Zapisz] go; 
@@ -4512,7 +4529,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</length
 •Give up revising the file. 
 (%s)</source>
         <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wystąpiły błędy podczas regularnego tworzenia kopii zapasowych %s! Proszę wypróbuj następujące operacje: 
 •Sprawdź czy katalog dla kopii zapasowych jest z uprawnieniami do zapisywania lub spróbuj zmienić katalog dla kopii zapasowych. 
 •[Cofnij] poprzednie operacje i [Zapisz] go; 
@@ -4623,7 +4640,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</length
     <message>
         <source>Resquest additional permissions... </source>
         <comment>_kso_krim_Permission_RequestPermission</comment>
-        <translation>Zażądaj dodatkowych uprawnień... </translation>
+        <translation type="obsolete">Zażądaj dodatkowych uprawnień... </translation>
     </message>
     <message>
         <source>Unrestricted</source>
@@ -4653,7 +4670,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</length
     <message>
         <source>R&amp;esquest permissions</source>
         <comment>_kso_irmio_Button_RequestPermission</comment>
-        <translation>Z&amp;ażądaj uprawnień</translation>
+        <translation type="obsolete">Z&amp;ażądaj uprawnień</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -4673,7 +4690,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</length
     <message>
         <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within th Control Panel.</source>
         <comment>_kso_irmio_Error_Configuration</comment>
-        <translation>Pakiet WPS wykrył problem z konfiguracją usługi Zarządzanie prawami do informacji. Jeśli ten problem będzie się powtarzać, napraw produkt za pomocą Panelu sterowania.</translation>
+        <translation type="obsolete">Pakiet WPS wykrył problem z konfiguracją usługi Zarządzanie prawami do informacji. Jeśli ten problem będzie się powtarzać, napraw produkt za pomocą Panelu sterowania.</translation>
     </message>
     <message>
         <source>Cannot use test manifests against production servers.</source>
@@ -4688,24 +4705,24 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</length
     <message>
         <source>This service is temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Connection</comment>
-        <translation>Ta usługa jest tymczasowo niedostępna. Upewnij się, że masz łączność z tym serwerem. Ten błąd może być spowodowany pracą w trybie offline, ustawieniami serwera proxy uniemożliwiającymi połączenie lub sporadycznymi problemami z siecią.</translation>
+        <translation type="obsolete">Ta usługa jest tymczasowo niedostępna. Upewnij się, że masz łączność z tym serwerem. Ten błąd może być spowodowany pracą w trybie offline, ustawieniami serwera proxy uniemożliwiającymi połączenie lub sporadycznymi problemami z siecią.</translation>
     </message>
     <message>
         <source>The service at %1 temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
         <comment>_kso_irmio_Error_Location</comment>
-        <translation>Ta usługa %1 jest tymczasowo niedostępna. Upewnij się, że masz łączność z tym serwerem. Ten błąd może być spowodowany pracą w trybie offline, ustawieniami serwera proxy uniemożliwiającymi połączenie lub sporadycznymi problemami z siecią.</translation>
+        <translation type="obsolete">Ta usługa %1 jest tymczasowo niedostępna. Upewnij się, że masz łączność z tym serwerem. Ten błąd może być spowodowany pracą w trybie offline, ustawieniami serwera proxy uniemożliwiającymi połączenie lub sporadycznymi problemami z siecią.</translation>
     </message>
     <message>
         <source>Cannot user feature without credentials</source>
         <comment>_kso_irmio_Error_Credentials</comment>
-        <translation>Nie można używać funkcji bez poświadczeń</translation>
+        <translation type="obsolete">Nie można używać funkcji bez poświadczeń</translation>
     </message>
     <message>
         <source>This document is currently restricted. You do not have credentials that allow you to open this document. You can choose 
 ~try changing another user to open the document;
 ~request updated permission from %1.</source>
         <comment>_kso_irmio_Error_No_Permission</comment>
-        <translation>Ten dokument jest obecnie ograniczony. Nie masz poświadczeń umożliwiających otwarcie tego dokumentu. Możesz wybrać 
+        <translation type="obsolete">Ten dokument jest obecnie ograniczony. Nie masz poświadczeń umożliwiających otwarcie tego dokumentu. Możesz wybrać 
 ~ spróbuj zmienić użytkownika do otwarcia dokumentu;
 ~ zażądaj zaktualizowanego uprawnienia od %1.</translation>
     </message>
@@ -4780,6 +4797,74 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
         <comment>_kso_krim_RestrictedAccess_FullControl</comment>
         <translation>Dostęp ograniczony (pełna kontrola)</translation>
     </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files (*.txt); 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PRO</comment>
+        <translation type="unfinished">Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+    </message>
+    <message>
+        <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions...</source>
+        <comment>_kso_krim_Permission_RequestPermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;equest permissions</source>
+        <comment>_kso_irmio_Button_RequestPermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
+        <comment>_kso_irmio_Error_Configuration</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Connection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Location</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot use feature without credentials</source>
+        <comment>_kso_irmio_Error_Credentials</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
+1. Try changing to another user account to open the document;
+2. Request permission update from %1.</source>
+        <comment>_kso_irmio_Error_No_Permission</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_print</name>
@@ -4831,14 +4916,21 @@ Jeśli problem nadal występuje, można wydrukować stronę testową, klikając 
 You can add the customized paper %dmm x %dmm in printer properties and print it again.
 Do you want to continue?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
-        <translation>Drukarka nie obsługuje bieżącego rozmiaru papieru. Kontynuowanie drukowania, może spowodować, że jakość wydruku może być niezadowalająca.
+        <translation type="obsolete">Drukarka nie obsługuje bieżącego rozmiaru papieru. Kontynuowanie drukowania, może spowodować, że jakość wydruku może być niezadowalająca.
 Możesz dodać niestandardowy papier%dmm x% dmm w właściwościach drukarki i wydrukować to ponownie.
 Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <comment>_ksoErr_Print_NoCupsLibrary</comment>
-        <translation>Nie można odnaleźć biblioteki cups, upewnij się, że została zainstalowana!</translation>
+        <translation type="obsolete">Nie można odnaleźć biblioteki cups, upewnij się, że została zainstalowana!</translation>
+    </message>
+    <message>
+        <source>The printer does not support the current paper size. Continue printing may not result in satisfying quality.
+You can add the customized paper %dmm x %dmm in printer properties and print again.
+Continue printing?</source>
+        <comment>_ksoErr_Print_PaperNoSupport</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5017,12 +5109,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <source>Error happens when application trys to register. Error code: 0x%8.8x.</source>
         <comment>kso_sAppRegisterError</comment>
-        <translation>Występuje błąd podczas próby zarejestrowania aplikacji. Kod błędu: 0x%8.8X.</translation>
+        <translation type="obsolete">Występuje błąd podczas próby zarejestrowania aplikacji. Kod błędu: 0x%8.8X.</translation>
     </message>
     <message>
         <source>Error happens when application trys to logout. Error code: 0x%8.8x.</source>
         <comment>kso_sAppUnRegisterError</comment>
-        <translation>Występuje błąd podczas próby wylogowania aplikacji. Kod błędu: 0x%8.8x.</translation>
+        <translation type="obsolete">Występuje błąd podczas próby wylogowania aplikacji. Kod błędu: 0x%8.8x.</translation>
     </message>
     <message>
         <source>Arrow Style %d</source>
@@ -5419,7 +5511,7 @@ Proszę upewnij się, że zakres odwołania jest prawidłowy i nie znajduje się
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy dane, które chcesz analizować spełniają następujące warunki:
+        <translation type="obsolete">Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy dane, które chcesz analizować spełniają następujące warunki:
 1.Upewnij się, że istnieje odwołanie. Jeżeli jest to nazwa, to musi być prawidłowym zakresem;
 2.Upewnij się, że odwołanie jest pojedynczym zakresem i musi zawierać co najmniej dwa wiersze;
 3.Upewnij się, że pierwszy wiersz zakresu odwołania nie zawiera żadnych pustych komórek, nie ma wartości błędu, a każda komórka zawiera nie więcej niż 255 znaków.</translation>
@@ -5434,7 +5526,7 @@ Proszę sprawdź swoje dane i upewnij się, że odwołanie jest prawidłowe oraz
     <message>
         <source>Unkown Format Source.</source>
         <comment>kso_sErrPasteLink</comment>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Nieznany format źródła.</lengthvariant>
             <lengthvariant>Nieznany format źródłowy.</lengthvariant>
         </translation>
@@ -5545,7 +5637,7 @@ Proszę sprawdź swoje dane i upewnij się, że odwołanie jest prawidłowe oraz
     <message>
         <source>Help file does not exist or occurs an error!</source>
         <comment>kso_sHelpNotFound</comment>
-        <translation>Plik pomocy nie istnieje lub występuje błąd!</translation>
+        <translation type="obsolete">Plik pomocy nie istnieje lub występuje błąd!</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
@@ -6009,12 +6101,12 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Dash-Dot</source>
         <comment>kso_sLineDashDot</comment>
-        <translation>Kreska-kropka</translation>
+        <translation type="obsolete">Kreska-kropka</translation>
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
         <comment>kso_sLineDashDotDot</comment>
-        <translation>Kreska-kropka-kropka</translation>
+        <translation type="obsolete">Kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -6032,7 +6124,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Long Dash-Dot</source>
         <comment>kso_sLineLongDashDot</comment>
-        <translation>Długa kreska-kropka-kropka</translation>
+        <translation type="obsolete">Długa kreska-kropka-kropka</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -6042,7 +6134,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Soild</source>
         <comment>kso_sLineSolid</comment>
-        <translation>Ciągła</translation>
+        <translation type="obsolete">Ciągła</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -6080,7 +6172,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>You have reached the max retry step, program will terminate.</source>
         <comment>kso_sMaxStep</comment>
-        <translation>Osiągnięto maksymalny krok próby ponowień, program zostanie zakończony.</translation>
+        <translation type="obsolete">Osiągnięto maksymalny krok próby ponowień, program zostanie zakończony.</translation>
     </message>
     <message>
         <source>MB</source>
@@ -6281,7 +6373,7 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>Refercence is not valid.</source>
         <comment>kso_sRefIsNotValid</comment>
-        <translation>Nieprawidłowe odwołanie.</translation>
+        <translation type="obsolete">Nieprawidłowe odwołanie.</translation>
     </message>
     <message>
         <source>Are you sure you have saved these files you need?</source>
@@ -7036,7 +7128,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflectd in your document.</source>
         <comment>kso_sWpsLinkAsIcon</comment>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Wstawia do dokumentu ikonę reprezentującą zawartość pliku. Zmiany w pliku źródłowym będą uwzględniane w dokumencie.</lengthvariant>
             <lengthvariant>Wstawia do dokumentu ikonę reprezentującą zawartość pliku. Zmiany w pliku źródłowym będą odzwierciedlane w dokumencie.</lengthvariant>
         </translation>
@@ -7084,7 +7176,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an exsiting sheet or unprotect this book.</source>
         <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
-        <translation>Nie można utworzyć tabeli przestawnej w nowym arkuszu, ponieważ ten skoroszyt jest chroniony. Proszę wybierz istniejący  arkusz lub wyłącz ochronę tego skoroszytu.</translation>
+        <translation type="obsolete">Nie można utworzyć tabeli przestawnej w nowym arkuszu, ponieważ ten skoroszyt jest chroniony. Proszę wybierz istniejący  arkusz lub wyłącz ochronę tego skoroszytu.</translation>
     </message>
     <message>
         <source>Please input the password of permission setting.</source>
@@ -7104,7 +7196,7 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>Forword</source>
         <comment>kso_Nav_Forword</comment>
-        <translation>Dalej</translation>
+        <translation type="obsolete">Dalej</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -7332,12 +7424,12 @@ Służy do pokazywania kroków zmierzających do celu</translation>
     <message>
         <source>The file cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveBackupFile</comment>
-        <translation>Nie można usunąć plików, które mogą być zajęte.</translation>
+        <translation type="obsolete">Nie można usunąć plików, które mogą być zajęte.</translation>
     </message>
     <message>
         <source>Some files cannot be deleted, which may be occupied.</source>
         <comment>kso_sCannotRemoveAllBackupFiles</comment>
-        <translation>Niektóre pliki nie mogą być usunięte, ponieważ mogą być zajęte.</translation>
+        <translation type="obsolete">Niektóre pliki nie mogą być usunięte, ponieważ mogą być zajęte.</translation>
     </message>
     <message>
         <source>Viewer Mode</source>
@@ -7363,6 +7455,89 @@ Służy do pokazywania kroków zmierzających do celu</translation>
         <source>%1 is running into problems with the %2 add-in. If this keeps happening, disable this add-in and check for available updates. Do you want to disable it now?</source>
         <comment>kso_COM_Addins_Crash_Alerts</comment>
         <translation>W programie %1 wystąpił problem z dodatkiem %2. Jeśli ten komunikat występuje wiele razy, wyłącz ten dodatek i sprawdź, czy jest dostępna jego aktualizacja. Czy chcesz wyłączyć ten dodatek?</translation>
+    </message>
+    <message>
+        <source>Error happens when application tries to register. Error code: 0x%8.8x.</source>
+        <comment>kso_sAppRegisterError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error happens when application tries to logout. Error code: 0x%8.8x.</source>
+        <comment>kso_sAppUnRegisterError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
+1.Make sure that the reference exists. If it is a name, it must be a valid range;
+2.Make sure that the reference is a single range, and it must contain two rows at least;
+3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
+        <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown Format Source.</source>
+        <comment>kso_sErrPasteLink</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help file does not exist or encounters an error.</source>
+        <comment>kso_sHelpNotFound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>kso_sLineDashDot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>kso_sLineDashDotDot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>kso_sLineLongDashDot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <comment>kso_sLineSolid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have reached the maximum number of retries. Program will terminate.</source>
+        <comment>kso_sMaxStep</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <comment>kso_sRefIsNotValid</comment>
+        <translation type="unfinished">Nieprawidłowe odwołanie.</translation>
+    </message>
+    <message>
+        <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
+        <comment>kso_sWpsLinkAsIcon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an existing sheet or unprotect this book.</source>
+        <comment>kso_sErrorWhenCreateTable_BookProtected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <comment>kso_Nav_Forword</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file cannot be deleted. It may be occupied.</source>
+        <comment>kso_sCannotRemoveBackupFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some files cannot be deleted. They may be occupied.</source>
+        <comment>kso_sCannotRemoveAllBackupFiles</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

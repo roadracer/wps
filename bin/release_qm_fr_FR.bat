@@ -1,0 +1,1 @@
+call release_qm.bat fr_FR

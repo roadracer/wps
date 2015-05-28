@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sample">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>BordersAndShadingWidget</name>
     <message>
@@ -867,11 +868,11 @@
         <source>Heading</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>– (En dash)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>— (Em dash)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2135,10 +2136,6 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Co&amp;mmas</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2160,10 +2157,6 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Table size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2212,6 +2205,10 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>sp2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2702,7 +2699,7 @@ If unnecessary, please click Cancel.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remember this operation, do not remind anymore</source>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2760,15 +2757,15 @@ If unnecessary, please click Cancel.</source>
         <source>a</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>一</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>印</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>壹</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2941,7 +2938,11 @@ If unnecessary, please click Cancel.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Suppress all non_&amp;delimiter chars:</source>
+        <source>Support all non_&amp;delimiter chars:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add &amp;path to filename</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3196,12 +3197,12 @@ If unnecessary, please click Cancel.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>replace options</source>
+        <source>Enter + and - to move relative to the current location. 
+Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter + and - to move relative to the current location. 
-Example: +4 will move forward four items:</source>
+        <source>Replace options</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3620,7 +3621,7 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UnderLine</source>
+        <source>Underline</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4113,6 +4114,93 @@ Example: +4 will move forward four items:</source>
     </message>
 </context>
 <context>
+    <name>KxDlgMergeCompare</name>
+    <message>
+        <source>&amp;Original document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Revised document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comparison settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertions and Deletions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;ables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comme&amp;nts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Footnotes and en&amp;dnotes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Te&amp;xtboxes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Case chan&amp;ges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field&amp;s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>White s&amp;pace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes at:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show changes in:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Character level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original documen&amp;t</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Word level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rev&amp;ised document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New doc&amp;ument</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgMergeToDiffNewDoc</name>
     <message>
         <source>&amp;All</source>
@@ -4524,10 +4612,6 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Create backup file at the first save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Default paste format:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4724,10 +4808,6 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>AutoFormat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Automatic</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4840,14 +4920,6 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Discern &amp;location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Discern &amp;person</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Display the &amp;Close button in the active tab</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4925,14 +4997,6 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>File Locations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File encryption options for this document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File sharing options for this document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5252,15 +5316,7 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Privacy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Privacy options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recent documents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5456,11 +5512,6 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter a password below to protect this document.
-The Advanced button allows you to choose from different encryption types.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Security threats</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5478,6 +5529,110 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Font Preview Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoNumber</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discern &amp;person(only effective in Chinese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discern &amp;location(only effective in Chinese)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create &amp;backup files on first save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reminder for embedding &amp;cloud fonts in the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do &amp;not compress images in file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set default target out&amp;put to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>220 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>150 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>96 ppi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File encryption options for this document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File sharing options for this document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6459,10 +6614,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
 <context>
     <name>KxDlgProtectDocument</name>
     <message>
-        <source>&amp;Enter new passowrd(optional):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Protection password</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6476,6 +6627,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>The document is not encrypted. Malicious users can edit the file and remove the password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Enter new password(optional):</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7104,6 +7259,153 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxDlgWpsFieldNameDelimiter</name>
+    <message>
+        <source>Header Record Delimiters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Paragraph mark)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Tabs)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>$</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>@</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>^</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>_</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>`</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>{</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>|</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>~</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Record delimiter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgWpsPrintSetup</name>
     <message>
         <source>&amp;Options...</source>
@@ -7314,10 +7616,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save Adobe PDF File As</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The directory you specified does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7331,6 +7629,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save PDF File As</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7584,6 +7886,38 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Insert the text from a like-styled paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;d:\\wps.doc&quot;. Field code: INCLUDETEXT &quot;d:\\wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert file name of the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forma&amp;t:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document &amp;property:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7870,10 +8204,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sounds like(English)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sounds like(Japanese)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8131,15 +8461,15 @@ This change will affect all new documents based on the %1 template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This document may contain formatting or styles that arent&apos;t allowed.Do you want to remove them?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Used in this document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User-defined styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document may contain formatting or styles that are not allowed. Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8413,6 +8743,65 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
 </context>
 <context>
+    <name>KxMergeCompareDlg</name>
+    <message>
+        <source>Compare Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lab&amp;el changes with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>La&amp;bel changes with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lab&amp;el unmarked changes with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>La&amp;bel unmarked changes with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;More&gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;&lt; &amp;Less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer found no differences between the two documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot compare the unsaved read-only document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxMergeToDiffNewDocDlg</name>
     <message>
         <source>Browse Folder</source>
@@ -8465,7 +8854,7 @@ This change will affect all new documents based on the %1 template.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The number must not be nil</source>
+        <source>The value must not be blank.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8609,10 +8998,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Itatic, </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Justify alignment</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8674,6 +9059,10 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>This style contains cycle base style table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic, </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8828,10 +9217,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Itatic, </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Justify alignment</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8841,10 +9226,6 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Left alignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LeftAndRight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8903,6 +9284,14 @@ Cancel:	Return to the dialog.</source>
         <source>This style name already exists or is reserved for a built-in style.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Italic, </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left and Right</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
@@ -8944,6 +9333,14 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Document path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9049,10 +9446,6 @@ Cancel:	Return to the dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Read Number Format Error!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9074,6 +9467,46 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>The measurement must be between 1 and 754.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>①</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>②</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>③</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>④</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>⑤</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>⑥</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>⑦</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>⑧</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>⑨</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>⑩</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9158,6 +9591,10 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9507,6 +9944,10 @@ This change will affect all new documents based on the %1 template.</source>
         <source>Stop Protection...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpDocProtectionWidget</name>
@@ -9594,6 +10035,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>You may only view this region.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict permission...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9779,6 +10224,13 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsApplication</name>
+    <message>
+        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10564,6 +11016,13 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsFieldNameDelimiterDlg</name>
+    <message>
+        <source>The field delimiter cannot be the same as the record delimiter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsFillColorModel</name>
     <message>
         <source>No Fill</source>
@@ -10581,6 +11040,13 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsGalleryFontComboBox</name>
+    <message>
+        <source>Simsun</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10609,7 +11075,7 @@ Select parts of the document and choose users who are allowed to freely edit the
 <context>
     <name>KxWpsHeaderLineBaseCommand</name>
     <message>
-        <source>Show header line</source>
+        <source>Show Header Line</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10635,13 +11101,6 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsInsertPictureCommand</name>
-    <message>
-        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10707,13 +11166,6 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
-    <name>KxWpsLocateCloseBtn</name>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxWpsLocateWidget</name>
     <message>
         <source>%1 hours ago</source>
@@ -10747,8 +11199,19 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>to previous position</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>KxWpsMainWindow</name>
     <message>
-        <source>yyyy years MM months dd days</source>
+        <source>Command name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Editing tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10995,6 +11458,73 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>Behind Text</source>
@@ -11002,10 +11532,6 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>In Front of Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In Line With Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11022,6 +11548,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Top and Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11054,11 +11584,42 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>The name you entered is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You cannot record a macro to a locked file</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsRestartPageNumCommand</name>
     <message>
         <source>Restart Page Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewPane</name>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertions: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deletions: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatting: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comments: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Revisions: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11331,6 +11892,29 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Whole Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Page Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Text Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsStyleGalleryModel</name>
     <message>
         <source>Styles</source>
@@ -11430,15 +12014,15 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate All Text 270°</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate All Text 90°</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate Asian Character 270°</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11485,6 +12069,17 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsWrapTextWidget</name>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Layout options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsZoomCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
@@ -11516,10 +12111,6 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Spell Check</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11537,6 +12128,14 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>The number input must be between 1 and 63.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11623,10 +12222,6 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Adobe PDF File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11656,10 +12251,6 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password to protect permission settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11698,8 +12289,16 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>New &amp;Comment</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
-        <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
+    <message>
+        <source>Export PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11714,7 +12313,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export to Adobe PDF File</source>
+        <source>Export to PDF File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

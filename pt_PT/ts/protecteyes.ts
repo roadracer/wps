@@ -2,4 +2,16 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="pt_PT">
 <defaultcodec>UTF-8</defaultcodec>
+<context>
+    <name>BubbleWidget</name>
+    <message>
+        <source>Never show again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can also click here to switch to 
+Eye Protection Mode or Night Mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

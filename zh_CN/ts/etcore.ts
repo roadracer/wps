@@ -718,7 +718,7 @@ Please try one of the following.
     <message>
         <source>Invaild Cell Reference Error</source>
         <comment>TX_ERRORCHECK_ERR_REF</comment>
-        <translation>无效的单元格引用错误</translation>
+        <translation type="obsolete">无效的单元格引用错误</translation>
     </message>
     <message>
         <source>Invalid Name Error</source>
@@ -1412,7 +1412,7 @@ Select a single range and click the command again.</source>
     <message>
         <source>The formula in this cell differs from the formulas in this aera of the spreadsheet.</source>
         <comment>TX_ERRORCHECK_ERRDESC_InconsistentFormula</comment>
-        <translation>此单元格中的公式与电子表格中该区域中的公式不同。</translation>
+        <translation type="obsolete">此单元格中的公式与电子表格中该区域中的公式不同。</translation>
     </message>
     <message>
         <source>The formula in this cell refers to a range that has additional numbers adjacent to it.</source>
@@ -2408,7 +2408,7 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>The data not within the worksheet will be lost.</source>
         <comment>TX_TextToColumns_Tip2</comment>
-        <translation>数据长度超出工作表外,会丢失部分数据</translation>
+        <translation type="obsolete">数据长度超出工作表外,会丢失部分数据</translation>
     </message>
     <message>
         <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
@@ -2584,14 +2584,14 @@ Please try one of the following.
         <source>The data not within the worksheet will be lost.
 If you want to continue importing the data can be accommodated, click &quot;OK&quot;</source>
         <comment>TX_ImportText_Overflowed_Tip</comment>
-        <translation type="unfinished">数据长度超出工作表外，会丢失部分数据.
+        <translation type="obsolete">数据长度超出工作表外，会丢失部分数据.
 如要继续导入可容纳的数据，请单击&quot;是&quot;.</translation>
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
-        <translation>在进行文件备份时发生错误！可能是由于您设置的备份目录没有写权限，请尝试更改备份目录。
+        <translation type="obsolete">在进行文件备份时发生错误！可能是由于您设置的备份目录没有写权限，请尝试更改备份目录。
 此次备份将保存到(%s)。</translation>
     </message>
     <message>
@@ -2600,7 +2600,7 @@ This backup will be saved to(%s)</source>
 To continue operating, and show as much data, click &quot;OK&quot;.
 To cancel the query, click &quot;Cancel&quot;.</source>
         <comment>TX_ImportOtherData_Overflowed_Tip</comment>
-        <translation>查询所返回的数据太多,一个工作表无法容纳.
+        <translation type="obsolete">查询所返回的数据太多,一个工作表无法容纳.
 
 若要继续操作,并显示尽可能多的数据,请单击&quot;确定&quot;.
 若要取消查询操作,请单击&quot;取消&quot;</translation>
@@ -2608,16 +2608,16 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>macrosheet can not be save as xml, prn, dbf fileformat. please choose another format.</source>
         <comment>TX_MacroSheet_CannotSave_As</comment>
-        <translation>活动工作表为宏表时不能另存为xml、prn、dbf文件格式。请选择其它格式另存。</translation>
+        <translation type="obsolete">活动工作表为宏表时不能另存为xml、prn、dbf文件格式。请选择其它格式另存。</translation>
     </message>
     <message>
         <source>The query does not return data columns that can be used in WPS Spreadsheets.</source>
-        <translation>此次查询没有返回 WPS 表格 可以使用的数据列.</translation>
+        <translation type="obsolete">此次查询没有返回 WPS 表格 可以使用的数据列.</translation>
     </message>
     <message>
         <source>Since the last one column contains data, WPS Spreadsheets can not insert columns. You will not get any data.</source>
         <comment>TX_No_Available_Sheet_Columns</comment>
-        <translation>由于最后一列包含有数据,WPS表格不能插入列. 您将不会得到任何数据.</translation>
+        <translation type="obsolete">由于最后一列包含有数据,WPS表格不能插入列. 您将不会得到任何数据.</translation>
     </message>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
@@ -2630,17 +2630,59 @@ To cancel the query, click &quot;Cancel&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
-        <comment>TX_ERROR_INVALIDPASTERG_SHEET</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Backup</source>
         <comment>TX_SaveAs_CreateBackup</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to create a backup file, would you save &quot; %s &quot; without backup ?</source>
+        <source>The text file contains more data than will fit on a single worksheet. </source>
+        <comment>TX_TextToColumns_Tip2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Cell Reference Error</source>
+        <comment>TX_ERRORCHECK_ERR_REF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_InconsistentFormula</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The text file contains more data than will fit on a single worksheet. To continue and import as much of the data as will fit, click OK. </source>
+        <comment>TX_ImportText_Overflowed_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error occurred during file backup. The backup directory might not have write permission. Try to change the backup directory.
+Save backup files to (%s).</source>
+        <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The query returned more data than will fit on a worksheet.
+To continue and display as much of the data as will fit, click OK.
+To cancel the query, click Cancel. </source>
+        <comment>TX_ImportOtherData_Overflowed_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When the active sheet is a macro sheet, it cannot be saved as xml, prn, or dbf. Please save as other formats. </source>
+        <comment>TX_MacroSheet_CannotSave_As</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No columns that WPS Spreadsheets can use were returned from this query.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot insert columns because the last column contains data. You will not get any data.</source>
+        <comment>TX_No_Available_Sheet_Columns</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create backup file. Save &quot;%s&quot; without backup?</source>
         <comment>TX_CreateBackup_Tip</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -2915,7 +2957,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>The selected range contains pivotTable.</source>
         <comment>TX_RepeatWord_PivotTable</comment>
-        <translation>删除重复项区域存在数据透视表。</translation>
+        <translation type="obsolete">删除重复项区域存在数据透视表。</translation>
     </message>
     <message>
         <source>This operation requires the merged cells to be identically sized.</source>
@@ -2985,7 +3027,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>（Showing all）</source>
         <comment>TX_Show_All_DateItems</comment>
-        <translation>（全部显示）</translation>
+        <translation type="obsolete">（全部显示）</translation>
     </message>
     <message>
         <source>You cannot change part of an array.</source>
@@ -3016,6 +3058,16 @@ To cancel the query, click &quot;Cancel&quot;.</source>
         <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
         <comment>TX_RepeatWord_Group_Range</comment>
         <translation>当范围具有大纲时无法删除重复项信息。若在删除重复，请清除大纲然后再次执行删除重复操作。</translation>
+    </message>
+    <message>
+        <source>(Showing all)</source>
+        <comment>TX_Show_All_DateItems</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicates that you want to remove contain PivotTable.</source>
+        <comment>TX_RepeatWord_PivotTable</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3169,12 +3221,17 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>No RETURN() or HALT() function fount on macro sheet.</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
-        <translation>宏表内找不到 RETURN() 或者 HALT() 函数。</translation>
+        <translation type="obsolete">宏表内找不到 RETURN() 或者 HALT() 函数。</translation>
     </message>
     <message>
         <source>Invalid reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
         <translation>无效的引用参数，位于：</translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function found on macro sheet!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3743,7 +3800,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source.The connection string is blank.The string you typed is not corret.The generated connection failed.</source>
         <comment>TX_ETDBE_ERR_CONNECTFAIL</comment>
-        <translation>无法进行下一步操作，可能存在以下问题之一：
+        <translation type="obsolete">无法进行下一步操作，可能存在以下问题之一：
  
 1. 未选择数据源或者连接字符串为空。
  
@@ -3869,7 +3926,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation>打开xml数据文件时失败。文件不存在或xml语法错误。</translation>
+        <translation type="obsolete">打开xml数据文件时失败。文件不存在或xml语法错误。</translation>
     </message>
     <message>
         <source>Map</source>
@@ -3889,12 +3946,27 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>This action will cancel a pending Refresh Data command. Continue?</source>
         <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
-        <translation>这将取消挂起的数据刷新。是否继续？</translation>
+        <translation type="obsolete">这将取消挂起的数据刷新。是否继续？</translation>
     </message>
     <message>
         <source>:Getting Data ...</source>
         <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
         <translation>: 正在获取数据 ...</translation>
+    </message>
+    <message>
+        <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source. The connection string is blank. The string you typed is not correct. The generated connection failed.</source>
+        <comment>TX_ETDBE_ERR_CONNECTFAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open XML file. File does not exit or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_OPENXML_FAILD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This will cancel a pending data refresh. Continue?</source>
+        <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4207,7 +4279,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COUPDAYBS Returns the number of days from the beginning of the coupon periond to the settlement date.</source>
         <comment>COUPDAYBS_DESCRIPTION</comment>
-        <translation>COUPDAYBS 函数返回从付息期开始到结算日的天数。</translation>
+        <translation type="obsolete">COUPDAYBS 函数返回从付息期开始到结算日的天数。</translation>
     </message>
     <message>
         <source>COUPDAYBS(settlement, maturity, frequency, [basis])</source>
@@ -6137,12 +6209,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive).</source>
         <comment>SEARCH_REMARK</comment>
-        <translation>返回一个指定字符或文本字符串在字符串中第一次出现的位置，从左到右查找。（忽略大小写）</translation>
+        <translation type="obsolete">返回一个指定字符或文本字符串在字符串中第一次出现的位置，从左到右查找。（忽略大小写）</translation>
     </message>
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
         <comment>SEARCHB_REMARK</comment>
-        <translation>返回一个指定字符或文本字符串在字符串中第一次出现的位置，从左到右查找（忽略大小写）。与双字节字符集(DBCS)一起使用</translation>
+        <translation type="obsolete">返回一个指定字符或文本字符串在字符串中第一次出现的位置，从左到右查找（忽略大小写）。与双字节字符集(DBCS)一起使用</translation>
     </message>
     <message>
         <source>Returns the formula in a cell.</source>
@@ -6297,7 +6369,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution fuction with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSINV_DESCRIPTION</comment>
-        <translation>返回标准正态累积分布函数的反函数。该分布的平均值为 0，标准偏差为 1。</translation>
+        <translation type="obsolete">返回标准正态累积分布函数的反函数。该分布的平均值为 0，标准偏差为 1。</translation>
     </message>
     <message>
         <source>Returns the k-th largest value in a data set. For example, it indicates the fourth largest number if k equals 4.</source>
@@ -6487,7 +6559,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of charcters in the text. Use with double-byte characters(DBCS).</source>
         <comment>LENB_REMARK</comment>
-        <translation>返回文本中的字符个数。与双字节字符集(DBCS)一起使用</translation>
+        <translation type="obsolete">返回文本中的字符个数。与双字节字符集(DBCS)一起使用</translation>
     </message>
     <message>
         <source>Returns the number of columns in an array or reference.</source>
@@ -6792,7 +6864,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contian numbers.</source>
         <comment>SUMSQ_REMARK</comment>
-        <translation>返回所有参数的平方和。参数可以是数值、数组、名称，或者是对数值单元格的引用。</translation>
+        <translation type="obsolete">返回所有参数的平方和。参数可以是数值、数组、名称，或者是对数值单元格的引用。</translation>
     </message>
     <message>
         <source>Returns the sum of the sum squares of corresponding values in two arrays.</source>
@@ -7696,7 +7768,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
         <comment>RANKAVG_REMARK</comment>
-        <translation>返回某数字在一列数字中相对于其他数值的大小排名；如果多个数值排名相同，则返回平均值排名</translation>
+        <translation type="obsolete">返回某数字在一列数字中相对于其他数值的大小排名；如果多个数值排名相同，则返回平均值排名</translation>
     </message>
     <message>
         <source>RANK.EQ(number,ref,order)</source>
@@ -7706,22 +7778,72 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
         <comment>RANKEQ_REMARK</comment>
-        <translation>返回某数字在一列数字中相对于其他数值的大小排名；如果多个数值排名相同，则返回该组数值的最佳排名</translation>
+        <translation type="obsolete">返回某数字在一列数字中相对于其他数值的大小排名；如果多个数值排名相同，则返回该组数值的最佳排名</translation>
     </message>
     <message>
         <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
         <comment>VOLATILE_SYNTAX</comment>
-        <translation>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</translation>
+        <translation type="obsolete">YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</translation>
     </message>
     <message>
         <source>Returns the yields of regular payment securities.</source>
         <comment>VOLATILE_SYNTAX</comment>
-        <translation>返回定期付息有价证券的收益率。</translation>
+        <translation type="obsolete">返回定期付息有价证券的收益率。</translation>
     </message>
     <message>
         <source>FILES(directory_text)</source>
         <comment>FILES_SYNTAX</comment>
         <translation></translation>
+    </message>
+    <message>
+        <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contain numbers.</source>
+        <comment>SUMSQ_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the inverse of the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
+        <comment>NORMSINV_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
+        <comment>RANKAVG_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
+        <comment>RANKEQ_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive).</source>
+        <comment>SEARCH_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the number of characters in the text. Use with double-byte characters(DBCS).</source>
+        <comment>LENB_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
+        <comment>SEARCHB_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COUPDAYBS Returns the number of days from the beginning of the coupon period to the settlement date.</source>
+        <comment>COUPDAYBS_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
+        <comment>YIELD_SYNTAX</comment>
+        <translation type="unfinished">YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</translation>
+    </message>
+    <message>
+        <source>Returns the yields of regular payment securities.</source>
+        <comment>YIELD_DESCRIPTION</comment>
+        <translation type="unfinished">返回定期付息有价证券的收益率。</translation>
     </message>
 </context>
 <context>
@@ -8280,7 +8402,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <source>The following features cannot be saved in macro-disabled workbooks:
 </source>
         <comment>TX_Save_Xlsx_Warning_1</comment>
-        <translation>无法在未启用宏的工作簿中保存以下功能：
+        <translation type="obsolete">无法在未启用宏的工作簿中保存以下功能：
 
 </translation>
     </message>
@@ -8288,7 +8410,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-disabled workbook, click Yes.</source>
         <comment>TX_Save_Xlsx_Warning_2</comment>
-        <translation>
+        <translation type="obsolete">
 若要使保存的文件具有这些功能，请单击“否”，然后从“文件类型”列表中选择一个启用宏的文件类型。
 若要继续保存为未启用宏的工作簿，请单击“是”。</translation>
     </message>
@@ -8317,7 +8439,7 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
-        <translation>在进行文件备份时发生错误！可能是由于您设置的备份目录没有写权限，请尝试更改备份目录。
+        <translation type="obsolete">在进行文件备份时发生错误！可能是由于您设置的备份目录没有写权限，请尝试更改备份目录。
 此次备份将保存到(%s)。</translation>
     </message>
     <message>
@@ -8326,12 +8448,23 @@ This backup will be saved to(%s)</source>
         <translation>常用文件(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</translation>
     </message>
     <message>
-        <source>Chinese Office Document Format 2.0(*.uos)</source>
-        <comment>TX_ssDesc_Uof2_</comment>
+        <source>The following features cannot be saved in macro-free workbooks:</source>
+        <comment>TX_Save_Xlsx_Warning_1</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The author supports opening &quot;%s&quot; with read-only way unless you need to modify.Do open with read-only mode?</source>
+        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list. To continue saving as a macro-free workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <comment>TX_Persist_MsgBackupToDef</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The author would like you to open &quot;%s&quot; as read-only unless you need to make changes. Open as read-only?</source>
         <comment>TX_Recommended_Read_Only</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -8743,7 +8876,7 @@ Continue ?</source>
     <message>
         <source>Arithmetic Average</source>
         <comment>TX_ParaInfo_117</comment>
-        <translation>算术平均值</translation>
+        <translation type="obsolete">算术平均值</translation>
     </message>
     <message>
         <source>Array</source>
@@ -8938,7 +9071,7 @@ Continue ?</source>
     <message>
         <source>Cannot find the named range you specified.</source>
         <comment>TX_DV_List</comment>
-        <translation>指定的命名区域不存在。</translation>
+        <translation type="obsolete">指定的命名区域不存在。</translation>
     </message>
     <message>
         <source>Cell </source>
@@ -8999,7 +9132,7 @@ Spelling</source>
     <message>
         <source>Close the Track Change is to remove all the recorded changes. Do you want to close it anyway?</source>
         <comment>TX_RevisionMsgUnTrackChanges</comment>
-        <translation>关闭修订将删除所有修订记录，确定关闭修订吗？</translation>
+        <translation type="obsolete">关闭修订将删除所有修订记录，确定关闭修订吗？</translation>
     </message>
     <message>
         <source>Coefficients</source>
@@ -9204,7 +9337,7 @@ Spelling</source>
     <message>
         <source>Every data series in a 2-D chart can hold at most 32,000 data points. If more data points are to be analyzed, two or more data series are required.</source>
         <comment>TX_Chart_DataOverflow</comment>
-        <translation>二维图表中每个数据系列最多允许有32,000个数据点。如果需要分析的数据点超过这一数量，必须创建两个或更多的数据系列。</translation>
+        <translation type="obsolete">二维图表中每个数据系列最多允许有32,000个数据点。如果需要分析的数据点超过这一数量，必须创建两个或更多的数据系列。</translation>
     </message>
     <message>
         <source>Expected_range</source>
@@ -9329,7 +9462,7 @@ Spelling</source>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
         <comment>TX_Help_NoHelpFile</comment>
-        <translation>没有找到帮助文件或帮助文件出错！</translation>
+        <translation type="obsolete">没有找到帮助文件或帮助文件出错！</translation>
     </message>
     <message>
         <source>Hex</source>
@@ -9843,7 +9976,7 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Please enter a valid reference or a valid name of the selection.</source>
         <comment>TX_Invalid_Name</comment>
-        <translation>请输入有效的引用位置或选定区域的一个有效名称。</translation>
+        <translation type="obsolete">请输入有效的引用位置或选定区域的一个有效名称。</translation>
     </message>
     <message>
         <source>Please exit editing cell or formula first before closing the window.</source>
@@ -9888,7 +10021,7 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Press Alt and click the mouse to trace the link</source>
         <comment>TX_Hyperlink_Alt_Tip</comment>
-        <translation>按Alt+单击鼠标可以跟踪链接</translation>
+        <translation type="obsolete">按Alt+单击鼠标可以跟踪链接</translation>
     </message>
     <message>
         <source>Prob_range</source>
@@ -10010,7 +10143,7 @@ Workbook</source>
     <message>
         <source>References to other workbooks cannot be used for Data Validation criteria.</source>
         <comment>TX_DV_CrossSheet</comment>
-        <translation>在数据有效性条件中不能使用对其他工作簿的引用。</translation>
+        <translation type="obsolete">在数据有效性条件中不能使用对其他工作簿的引用。</translation>
     </message>
     <message>
         <source>Reinvest_rate</source>
@@ -10275,7 +10408,7 @@ Workbook</source>
     <message>
         <source>The List Source must be a delimited data list, or a reference to a single row or column.</source>
         <comment>TX_DV_ListMustSingleLine</comment>
-        <translation>“列表源”必须是划定分界后的数据列表，或是对单一行或一列的引用。</translation>
+        <translation type="obsolete">“列表源”必须是划定分界后的数据列表，或是对单一行或一列的引用。</translation>
     </message>
     <message>
         <source>The Maximum contains an error now. Do you want to continue?</source>
@@ -10305,12 +10438,12 @@ Workbook</source>
     <message>
         <source>The Minimum must be a integer, numeric expression, or reference to a cell containing numeric values.</source>
         <comment>TX_DV_WholeNumber1</comment>
-        <translation>最小值必须是整数、数值表达式或对包含数值单元格的引用。</translation>
+        <translation type="obsolete">最小值必须是整数、数值表达式或对包含数值单元格的引用。</translation>
     </message>
     <message>
         <source>The Minumum contains an error now. Do you want to continue?</source>
         <comment>TX_DV_WholeNumberErr1</comment>
-        <translation>最小值目前包含错误。是否继续？</translation>
+        <translation type="obsolete">最小值目前包含错误。是否继续？</translation>
     </message>
     <message>
         <source>The Start Date contains an error now. Do you want to continue?</source>
@@ -10350,7 +10483,7 @@ Workbook</source>
     <message>
         <source>The Value must be a integer, numeric expression, or reference to a cell containing  numeric values.</source>
         <comment>TX_DV_WholeNumber</comment>
-        <translation>数值必须是整数、数值表达式或对包含数值单元格的引用。</translation>
+        <translation type="obsolete">数值必须是整数、数值表达式或对包含数值单元格的引用。</translation>
     </message>
     <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
@@ -10501,7 +10634,7 @@ If you do not wish to use a formula, insert a single quotation mark before your 
     <message>
         <source>The number used to be converted to chinese string.</source>
         <comment>TX_ParaDesc_541</comment>
-        <translation>被转换为中文字符串的数值</translation>
+        <translation type="obsolete">被转换为中文字符串的数值</translation>
     </message>
     <message>
         <source>The octal number to convert</source>
@@ -10561,7 +10694,7 @@ If you do not wish to use a formula, insert a single quotation mark before your 
     <message>
         <source>The selection contains some cells without Data Validation settings. Do you want to make this Data Validation settings to these cells too?</source>
         <comment>TX_DV_APPLYVALIDATION</comment>
-        <translation>选中区域包含多种类型的数据有效性或某些单元格尚未设置“数据有效性”。是否对其施用当前的“数据有效性”设置？</translation>
+        <translation type="obsolete">选中区域包含多种类型的数据有效性或某些单元格尚未设置“数据有效性”。是否对其施用当前的“数据有效性”设置？</translation>
     </message>
     <message>
         <source>The selection is invalid.
@@ -10572,7 +10705,7 @@ There are several possible reasons:
 •If the specified name is in a row or column, you must select more than one rows or columns.
 •If you click the Table command on Data menu, the selected range must be a single rectangle, and the number of rows or columns must be greater than one.</source>
         <comment>TX_DESC_Paste_OverlapRange_ET</comment>
-        <translation>选定的区域无效。
+        <translation type="obsolete">选定的区域无效。
 可能原因有：
 
 . 如果大小和形状不同，复制与粘贴区域不允许有重叠。
@@ -10583,7 +10716,7 @@ There are several possible reasons:
     <message>
         <source>The sheet(s) you are deleting is not empty. If you want to delete the data permanently, please click OK or press Enter on the keyboard.</source>
         <comment>TX_Sheet_DEL_ContainsData_ET</comment>
-        <translation>要删除的工作表中可能存在数据。如果要永久删除这些数据，请按“确定”。</translation>
+        <translation type="obsolete">要删除的工作表中可能存在数据。如果要永久删除这些数据，请按“确定”。</translation>
     </message>
     <message>
         <source>The upper limit of the integrated ERF</source>
@@ -10623,7 +10756,7 @@ There are several possible reasons:
     <message>
         <source>This command cannot be used on multiple selections. Select a single region and then perform this command again.</source>
         <comment>TX_DS_MULSEL</comment>
-        <translation>不能对多重选定区域使用此命令。
+        <translation type="obsolete">不能对多重选定区域使用此命令。
 请选定单一区域后再执行此命令。</translation>
     </message>
     <message>
@@ -10639,7 +10772,7 @@ There are several possible reasons:
     <message>
         <source>This word you used does not exist in both main dictionary and custom dictionary. Do you want to add it to the custom dictionary?</source>
         <comment>TX_CHECKSPELLING_ADDTODICTIONARY</comment>
-        <translation>你使用了一个在主字典和自定义字典中都没有的单词，是否将该单词添加到自定义字典？</translation>
+        <translation type="obsolete">你使用了一个在主字典和自定义字典中都没有的单词，是否将该单词添加到自定义字典？</translation>
     </message>
     <message>
         <source>Threshold</source>
@@ -10817,7 +10950,7 @@ Workbook</source>
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
-        <translation type="unfinished">数值1,数值2,... 1 到 30 个复数，用于求其乘积</translation>
+        <translation type="obsolete">数值1,数值2,... 1 到 30 个复数，用于求其乘积</translation>
     </message>
     <message>
         <source>Value Date</source>
@@ -10926,7 +11059,7 @@ Workbook</source>
     <message>
         <source>You cannot modify the read-only cells in the protected worksheet.</source>
         <comment>TX_CanNotEdit</comment>
-        <translation>不能在保护的工作表上修改被保护的只读单元格。</translation>
+        <translation type="obsolete">不能在保护的工作表上修改被保护的只读单元格。</translation>
     </message>
     <message>
         <source>You have not selected the data to be parsed.</source>
@@ -11051,7 +11184,7 @@ Workbook</source>
     <message>
         <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
         <comment>TX_ParaDesc_386</comment>
-        <translation type="unfinished">数组1,数组2,... 2 到 255 个数组。所有数组的维数必须一样</translation>
+        <translation type="obsolete">数组1,数组2,... 2 到 255 个数组。所有数组的维数必须一样</translation>
     </message>
     <message>
         <source>binary number</source>
@@ -11171,7 +11304,7 @@ Workbook</source>
     <message>
         <source>is a logical value: return additonal regression statistics = TRUE; return m-coefficient and the constant b = FALSE or omitted.</source>
         <comment>TX_ParaDesc_213</comment>
-        <translation>逻辑值，如果返回附加的回归统计值，返回 TRUE；如果返回系数 m 和常数 b，返回 FALSE</translation>
+        <translation type="obsolete">逻辑值，如果返回附加的回归统计值，返回 TRUE；如果返回系数 m 和常数 b，返回 FALSE</translation>
     </message>
     <message>
         <source>is a logical value: return the cumulative distribution function = TRUE; return the probability mass function = FALSE or omitted.</source>
@@ -11321,7 +11454,7 @@ Workbook</source>
     <message>
         <source>is a number, a reference to a cell containing a number, or a formula that evalueates to a number, 2 if omitted.</source>
         <comment>TX_ParaDesc_337</comment>
-        <translation>指定小数点右边的位数。如果必要，数字将四舍五入；如果忽略，decimals = 2</translation>
+        <translation type="obsolete">指定小数点右边的位数。如果必要，数字将四舍五入；如果忽略，decimals = 2</translation>
     </message>
     <message>
         <source>is a number: for Sunday = 1 through Saturday = 7, use 1; for Monday = 1 through Sunday = 7, use 2; for Monday = 0 through Sunday = 6, use 3.</source>
@@ -11626,17 +11759,17 @@ Workbook</source>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range =0.</source>
         <comment>TX_ParaDesc_024</comment>
-        <translation>数值 x 的可选上界，如果忽略 x 上界默认为 1，下界默认为 0</translation>
+        <translation type="obsolete">数值 x 的可选上界，如果忽略 x 上界默认为 1，下界默认为 0</translation>
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range =0.</source>
         <comment>TX_ParaDesc_027</comment>
-        <translation>数值x的可选上界，如果忽略x上界默认为1，下界默认为0；</translation>
+        <translation type="obsolete">数值x的可选上界，如果忽略x上界默认为1，下界默认为0；</translation>
     </message>
     <message>
         <source>is an optional value that identifies the number of singnificant digits for the returned percentage, three digits if omitted(0.xxx%).</source>
         <comment>TX_ParaDesc_288</comment>
-        <translation>待返回百分比值的有效位数。此参数是可选的。如果忽略，则默认为 3 为(0.XXX%)</translation>
+        <translation type="obsolete">待返回百分比值的有效位数。此参数是可选的。如果忽略，则默认为 3 为(0.XXX%)</translation>
     </message>
     <message>
         <source>is any real number between -1 and 1 excluding -1 and 1.</source>
@@ -11646,7 +11779,7 @@ Workbook</source>
     <message>
         <source>is any real number equal or greater than 1.</source>
         <comment>TX_ParaDesc_013</comment>
-        <translation>大于等于 1 的任何实数</translation>
+        <translation type="obsolete">大于等于 1 的任何实数</translation>
     </message>
     <message>
         <source>is any real number equal to or greater than 1</source>
@@ -11781,12 +11914,12 @@ Workbook</source>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_359</comment>
-        <translation>以弧度表示的，准备求其正弦值的角度。角度 * PI()/180 = 弧度</translation>
+        <translation type="obsolete">以弧度表示的，准备求其正弦值的角度。角度 * PI()/180 = 弧度</translation>
     </message>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_395</comment>
-        <translation>以弧度表示，准备求其正弦值的角度。角度*PI()/180=弧度</translation>
+        <translation type="obsolete">以弧度表示，准备求其正弦值的角度。角度*PI()/180=弧度</translation>
     </message>
     <message>
         <source>is the angle in radians that you want to convert.</source>
@@ -11886,12 +12019,12 @@ Workbook</source>
     <message>
         <source>is the condition or criteria in the form of a number, experession, or text that defines which cells will be used to find the average.</source>
         <comment>TX_ParaDesc_063</comment>
-        <translation>以数字、表达式或文本形式定义的条件</translation>
+        <translation type="obsolete">以数字、表达式或文本形式定义的条件</translation>
     </message>
     <message>
         <source>is the condition or criteria in the form of a number, experession, or text that defines which cells will be used to find the average.</source>
         <comment>TX_ParaDesc_384</comment>
-        <translation>以数字、表达式或文本形式定义的条件</translation>
+        <translation type="obsolete">以数字、表达式或文本形式定义的条件</translation>
     </message>
     <message>
         <source>is the cosine of the angle you want and must be from -1 to 1.</source>
@@ -12061,7 +12194,7 @@ Workbook</source>
     <message>
         <source>is the interest rate per period. For example, use 6%4 for quarterly payment at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
-        <translation type="unfinished">各期利率。例如，当利率为 6% 时，使用 6%/4 计算一个季度的还款额</translation>
+        <translation type="obsolete">各期利率。例如，当利率为 6% 时，使用 6%/4 计算一个季度的还款额</translation>
     </message>
     <message>
         <source>is the interest rate you pay on the money used in the cash flows.</source>
@@ -12241,12 +12374,12 @@ Workbook</source>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero or omitted, to the nearst integer.</source>
         <comment>TX_ParaDesc_343</comment>
-        <translation>舍入后的数字位数。如果此参数为负数，则将小数舍入到小数点左边一位；如果此参数为零，则将小数转换为最接近的整数</translation>
+        <translation type="obsolete">舍入后的数字位数。如果此参数为负数，则将小数舍入到小数点左边一位；如果此参数为零，则将小数转换为最接近的整数</translation>
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero to the nearst integer.</source>
         <comment>TX_ParaDesc_341</comment>
-        <translation>执行四舍五入时采用的位数。如果此参数为负数，则取整到小数点左边,如果此参数为0，则取整到最接近的整数</translation>
+        <translation type="obsolete">执行四舍五入时采用的位数。如果此参数为负数，则取整到小数点左边,如果此参数为0，则取整到最接近的整数</translation>
     </message>
     <message>
         <source>is the number of events.</source>
@@ -12411,7 +12544,7 @@ Workbook</source>
     <message>
         <source>is the population standard deviation for the data range and is assumed to be know. Standard_dev must be greater than 0.</source>
         <comment>TX_ParaDesc_053</comment>
-        <translation>假设为已知的总体标准方差，必须大于 0</translation>
+        <translation type="obsolete">假设为已知的总体标准方差，必须大于 0</translation>
     </message>
     <message>
         <source>is the position (from the smallest) in the array or range of the value to return.</source>
@@ -13221,12 +13354,12 @@ Workbook</source>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
         <comment>TX_ParaDesc_281</comment>
-        <translation type="unfinished">逻辑值1,逻辑值2,... 1 到 255 个结果是 TRUE 或 FALSE 的检测条件</translation>
+        <translation type="obsolete">逻辑值1,逻辑值2,... 1 到 255 个结果是 TRUE 或 FALSE 的检测条件</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
-        <translation type="unfinished">逻辑值1, 逻辑值2,... 1 到 255 个结果是 TRUE 或 FALSE 的检测条件，检测内容可以是逻辑值、数组或引用</translation>
+        <translation type="obsolete">逻辑值1, 逻辑值2,... 1 到 255 个结果是 TRUE 或 FALSE 的检测条件，检测内容可以是逻辑值、数组或引用</translation>
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
@@ -13251,12 +13384,12 @@ Workbook</source>
     <message>
         <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
-        <translation type="unfinished">数值1,数值2,... 要计算乘积的 1 到 255 个数值、逻辑值或者代表数值的字符串</translation>
+        <translation type="obsolete">数值1,数值2,... 要计算乘积的 1 到 255 个数值、逻辑值或者代表数值的字符串</translation>
     </message>
     <message>
         <source>number 1,number 2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
-        <translation type="unfinished">数值1,数值2,... 要计算不对称度的 1 到 255 个参数，可以是数值、名称、数组、或者是数值的引用</translation>
+        <translation type="obsolete">数值1,数值2,... 要计算不对称度的 1 到 255 个参数，可以是数值、名称、数组、或者是数值的引用</translation>
     </message>
     <message>
         <source>number of payment periods in an investment.</source>
@@ -13271,102 +13404,102 @@ Workbook</source>
     <message>
         <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
-        <translation type="unfinished">数值1,数值2,...用于计算偏差平方和的 1 到 255 个参数，或者是一个数组或数组引用</translation>
+        <translation type="obsolete">数值1,数值2,...用于计算偏差平方和的 1 到 255 个参数，或者是一个数组或数组引用</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
-        <translation type="unfinished">数值1,数值2,... 用来计算调和平均数的 1 到 255 个数值、名称、数组，或者是对数值的引用</translation>
+        <translation type="obsolete">数值1,数值2,... 用来计算调和平均数的 1 到 255 个数值、名称、数组，或者是对数值的引用</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
-        <translation type="unfinished">数值1,数值2,... 用于峰值计算的 1 到 255 个参数，可以是数值、名称、数组、或者数值的引用</translation>
+        <translation type="obsolete">数值1,数值2,... 用于峰值计算的 1 到 255 个参数，可以是数值、名称、数组、或者数值的引用</translation>
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
-        <translation type="unfinished">数值1，数值2...用于计算几何平均数的 1 到 255 个数值、名称、数组，或是对数值的引用</translation>
+        <translation type="obsolete">数值1，数值2...用于计算几何平均数的 1 到 255 个数值、名称、数组，或是对数值的引用</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 255 values for which you want the least common multiple.</source>
         <comment>TX_ParaDesc_205</comment>
-        <translation type="unfinished">所要返回的最大值点在数组或数据区中的位置(从最大值开始)</translation>
+        <translation type="obsolete">所要返回的最大值点在数组或数据区中的位置(从最大值开始)</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
-        <translation type="unfinished">数值1,数值2,... 与总体抽样样本相应的 1 到 255 个参数，可以是数值，也可以是包含数值的引用</translation>
+        <translation type="obsolete">数值1,数值2,... 与总体抽样样本相应的 1 到 255 个参数，可以是数值，也可以是包含数值的引用</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
         <comment>TX_ParaDesc_382</comment>
-        <translation type="unfinished">数值1,数值2,... 1 到 255 个待求和的数值。单元格中的逻辑值和文本将被忽略。但当作为参数键入时，逻辑值和文本有效</translation>
+        <translation type="obsolete">数值1,数值2,... 1 到 255 个待求和的数值。单元格中的逻辑值和文本将被忽略。但当作为参数键入时，逻辑值和文本有效</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
-        <translation type="unfinished">数值1,数值2,... 准备从中求取最大值的 1 到 255 个数值、空单元格、逻辑值或文本数值</translation>
+        <translation type="obsolete">数值1,数值2,... 准备从中求取最大值的 1 到 255 个数值、空单元格、逻辑值或文本数值</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
-        <translation type="unfinished">数值1,数值2,... 1 到 255 个数字、名称、数组或对数值的引用</translation>
+        <translation type="obsolete">数值1,数值2,... 1 到 255 个数字、名称、数组或对数值的引用</translation>
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation type="unfinished">数值1,数值2,... 用于计算平均值的 1 到 255 个数值参数</translation>
+        <translation type="obsolete">数值1,数值2,... 用于计算平均值的 1 到 255 个数值参数</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
-        <translation type="unfinished">数值1,数值2,... 是 1 到 255 个用于计算多项式的值</translation>
+        <translation type="obsolete">数值1,数值2,... 是 1 到 255 个用于计算多项式的值</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation type="unfinished">数值1,数值2,... 要计算绝对偏差平均值的 1 到 255 个数值</translation>
+        <translation type="obsolete">数值1,数值2,... 要计算绝对偏差平均值的 1 到 255 个数值</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
-        <translation type="unfinished">数值1,数值2,... 对应于样本总体的 1 到 255 个数值，或数值引用</translation>
+        <translation type="obsolete">数值1,数值2,... 对应于样本总体的 1 到 255 个数值，或数值引用</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
-        <translation type="unfinished">数值1,数值2,... 用于中值计算的 1 到 255 个数字、名称、数组，或者是数值引用</translation>
+        <translation type="obsolete">数值1,数值2,... 用于中值计算的 1 到 255 个数字、名称、数组，或者是数值引用</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
-        <translation type="unfinished">数值1,数值2, ... 用于平方和计算的 1 至 255 个参数，可以是数值、数组、名称，或者是数组的引用</translation>
+        <translation type="obsolete">数值1,数值2, ... 用于平方和计算的 1 至 255 个参数，可以是数值、数组、名称，或者是数组的引用</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
-        <translation type="unfinished">数值1,数值2,... 准备从中求最小值的 1 到 255 个数值、空单元格、逻辑值或文本数值</translation>
+        <translation type="obsolete">数值1,数值2,... 准备从中求最小值的 1 到 255 个数值、空单元格、逻辑值或文本数值</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_423</comment>
-        <translation type="unfinished">数值1,数值2,... 与总体抽样样本相应的 1 到 255 个数值参数</translation>
+        <translation type="obsolete">数值1,数值2,... 与总体抽样样本相应的 1 到 255 个数值参数</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
-        <translation type="unfinished">数值1,数值2,... 构成样本总体的 1 到 255 个数值参数</translation>
+        <translation type="obsolete">数值1,数值2,... 构成样本总体的 1 到 255 个数值参数</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
-        <translation type="unfinished">数值1,数值2,... 构成样本总体的 1 到 255 个数值参数</translation>
+        <translation type="obsolete">数值1,数值2,... 构成样本总体的 1 到 255 个数值参数</translation>
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 values.</source>
         <comment>TX_ParaDesc_152</comment>
-        <translation type="unfinished">数值1,数值2,... 用于计算几何平均数的 1 到 255 个数值、名称、数组，或者是对数值的引用</translation>
+        <translation type="obsolete">数值1,数值2,... 用于计算几何平均数的 1 到 255 个数值、名称、数组，或者是对数值的引用</translation>
     </message>
     <message>
         <source>period for which you want to find interest.</source>
@@ -13381,7 +13514,7 @@ Workbook</source>
     <message>
         <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
-        <translation type="unfinished">引用1, 引用2, ... 为 1 到 254 个要进行分类汇总的区域或引用</translation>
+        <translation type="obsolete">引用1, 引用2, ... 为 1 到 254 个要进行分类汇总的区域或引用</translation>
     </message>
     <message>
         <source>reference</source>
@@ -13466,7 +13599,7 @@ Workbook</source>
     <message>
         <source>specifies the number of distribution tails to return: ont-tailed distribution = 1; tow-tailed distribution = 2.</source>
         <comment>TX_ParaDesc_398</comment>
-        <translation>指定返回的分布函数是单边还是双边分布: 单边分布=1；双边分布=2</translation>
+        <translation type="obsolete">指定返回的分布函数是单边还是双边分布: 单边分布=1；双边分布=2</translation>
     </message>
     <message>
         <source>specifies the period and must be in the range 1 to nper.</source>
@@ -13506,7 +13639,7 @@ Workbook</source>
     <message>
         <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
-        <translation type="unfinished">字符串1,字符串2,... 1 到 255 个要合并的文本字符串，可以是字符串、数字或对单个单元格的引用</translation>
+        <translation type="obsolete">字符串1,字符串2,... 1 到 255 个要合并的文本字符串，可以是字符串、数字或对单个单元格的引用</translation>
     </message>
     <message>
         <source>the numbers you want to convert.</source>
@@ -13516,62 +13649,62 @@ Workbook</source>
     <message>
         <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
-        <translation type="unfinished">topic1,topic2,... 用于指定数据的 1 到 253 个参数</translation>
+        <translation type="obsolete">topic1,topic2,... 用于指定数据的 1 到 253 个参数</translation>
     </message>
     <message>
         <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaInfo_548</comment>
-        <translation type="unfinished">topic1,topic2,... 用于指定数据的 1 到 38个参数</translation>
+        <translation type="obsolete">topic1,topic2,... 用于指定数据的 1 到 38个参数</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
-        <translation type="unfinished">数值1,数值2,... 1 到 254 个数值参数，单元格引用、已定义的名称、公式、函数，或者是 CHOOSE 从中选定的文本参数</translation>
+        <translation type="obsolete">数值1,数值2,... 1 到 254 个数值参数，单元格引用、已定义的名称、公式、函数，或者是 CHOOSE 从中选定的文本参数</translation>
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
         <comment>TX_ParaDesc_274</comment>
-        <translation type="unfinished">数值1,数值2, ... 代表支出和收入的 1 到 254 个参数，时间均匀分布并出现在每期末尾</translation>
+        <translation type="obsolete">数值1,数值2, ... 代表支出和收入的 1 到 254 个参数，时间均匀分布并出现在每期末尾</translation>
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
-        <translation type="unfinished">数值1,数值2,... 1 到 255 个用于对值和单元格进行计数的参数。它们可以是任何形式的信息</translation>
+        <translation type="obsolete">数值1,数值2,... 1 到 255 个用于对值和单元格进行计数的参数。它们可以是任何形式的信息</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
-        <translation type="unfinished">数值1,数值2,... 1 到 255 个可以包含的引用各种不同类型数据的参数，但只对数字型数据进行计数</translation>
+        <translation type="obsolete">数值1,数值2,... 1 到 255 个可以包含的引用各种不同类型数据的参数，但只对数字型数据进行计数</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
-        <translation type="unfinished">数值1,数值2,... 要求最大值的 1 到 255 个参数，可以是数值、空单元格、逻辑值或文本数值</translation>
+        <translation type="obsolete">数值1,数值2,... 要求最大值的 1 到 255 个参数，可以是数值、空单元格、逻辑值或文本数值</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
-        <translation type="unfinished">数值1,数值2,... 构成总体抽样样本的 1 到 255 个数值参数</translation>
+        <translation type="obsolete">数值1,数值2,... 构成总体抽样样本的 1 到 255 个数值参数</translation>
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
-        <translation type="unfinished">数值1,数值2,... 构成总体抽样样本的 1 到 255 个数值参数，可以是数字、名称或对数字的引用</translation>
+        <translation type="obsolete">数值1,数值2,... 构成总体抽样样本的 1 到 255 个数值参数，可以是数字、名称或对数字的引用</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
-        <translation type="unfinished">数值1,数值2,... 要求平均值的 1 到 255 个参数</translation>
+        <translation type="obsolete">数值1,数值2,... 要求平均值的 1 到 255 个参数</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
-        <translation type="unfinished">数值1,数值2,... 要求最小值的 1 到 255 个参数，可以是数值、空单元格、逻辑值或文本数值</translation>
+        <translation type="obsolete">数值1,数值2,... 要求最小值的 1 到 255 个参数，可以是数值、空单元格、逻辑值或文本数值</translation>
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
-        <translation type="unfinished">数值1,数值2,... 构成样本总体的 1 到 255 个数值参数，这些参数可以是数值、名称或对一个值的引用</translation>
+        <translation type="obsolete">数值1,数值2,... 构成样本总体的 1 到 255 个数值参数，这些参数可以是数值、名称或对一个值的引用</translation>
     </message>
     <message>
         <source>value_if_error</source>
@@ -14104,14 +14237,14 @@ Workbook</source>
 .Click a single cell, and then paste. 
 .Select a rectangle that&apos;s the same size and shape, and then paste.</source>
         <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
-        <translation>WPS表格 不能粘贴信息，原因是复制区域与粘贴区域形状不同。要继续粘贴操作，请尝试：	
+        <translation type="obsolete">WPS表格 不能粘贴信息，原因是复制区域与粘贴区域形状不同。要继续粘贴操作，请尝试：	
 . 单击某个单元格，然后重新粘贴。
 . 选定一矩形区域，使该区域与原区域的大小和形状完全一致，然后重新粘贴。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot remove grouping. To start an outline, select the detail rows or columns and group them.</source>
         <comment>TX_Data_Cannot_Ungroup</comment>
-        <translation>WPS表格 不能取消组合。请选定明细数据行或者列，再进行分组，可以建立分级显示。</translation>
+        <translation type="obsolete">WPS表格 不能取消组合。请选定明细数据行或者列，再进行分组，可以建立分级显示。</translation>
     </message>
     <message>
         <source>The formula you typed contains errors. WPS Spreadsheets will automatically correct it as: 
@@ -14120,7 +14253,7 @@ Workbook</source>
 •If you want to close this message and correct the formula by yourself, click Cancel.
 • If you are not typing a formula, please avoid using a equal sign(=), plus sign(+) or minus sign(-) at the beginning.</source>
         <comment>TX_InputFormula_Error</comment>
-        <translation>您输入的公式存在错误，WPS表格 将自动更正为：
+        <translation type="obsolete">您输入的公式存在错误，WPS表格 将自动更正为：
 &apos;%s
 · 要接受更正，请单击“确定”。
 · 要关闭此信息框，由您自己来更正公式，请单击“取消”。
@@ -14133,7 +14266,7 @@ Workbook</source>
 • To close this message and correct the formula by yourself, click Cancel.
 • If you are not typing a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
         <comment>TX_InputFormulaStringTooLong_Error</comment>
-        <translation>您输入的公式中，常量字符串太长，WPS表格 将自动更正为：
+        <translation type="obsolete">您输入的公式中，常量字符串太长，WPS表格 将自动更正为：
 &apos;%s
 · 要接受更正，请单击“确定”。
 · 要关闭此信息框，由您自己来更正公式，请单击“取消”。
@@ -14149,7 +14282,7 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>The Maximum must be a whole number, numeric expression, or reference to a cell containing numeric values.</source>
         <comment>TX_DV_WholeNumber2</comment>
-        <translation>最大值必须是整数、数值表达式或对包含数值单元格的引用。</translation>
+        <translation type="obsolete">最大值必须是整数、数值表达式或对包含数值单元格的引用。</translation>
     </message>
     <message>
         <source>Format Text box</source>
@@ -14162,7 +14295,7 @@ Please make sure the selected regions are continuous cells.</source>
 •If you do not want to  create the circular reference, click OK, and correct the formula.
 •If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
         <comment>TX_FORMULA_RECURSION</comment>
-        <translation>WPS表格 不能计算该公式。公式中的单元格引用指向的是公式的结果，从而造成循环引用。请尝试：
+        <translation type="obsolete">WPS表格 不能计算该公式。公式中的单元格引用指向的是公式的结果，从而造成循环引用。请尝试：
 
 · 如属意外，请返回上一步操作的单元格改正公式。
 · 如果您期望通过循环引用返回正确的计算结果，请选择“选项”中的“迭代计算”。</translation>
@@ -14170,7 +14303,7 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>WPS Spreadsheets only can convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
         <comment>TX_DS_MULCOLS</comment>
-        <translation>WPS表格 一次只能转换一列数据。选定区域可以有多行，但不能有多列。请选定单列区域后再试。</translation>
+        <translation type="obsolete">WPS表格 一次只能转换一列数据。选定区域可以有多行，但不能有多列。请选定单列区域后再试。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find a default custom dictionary. Please select one from Settings and perform the command again.</source>
@@ -14582,12 +14715,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaInfo_546</comment>
-        <translation type="unfinished">一个注册 COM 自动化加载项的 ProgID 名称，名称放在双引号中</translation>
+        <translation type="obsolete">一个注册 COM 自动化加载项的 ProgID 名称，名称放在双引号中</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaInfo_547</comment>
-        <translation type="unfinished">运行该加载项的服务器名称，服务器名称放在双引号中。如果加载项在本地运行，请使用空字符串</translation>
+        <translation type="obsolete">运行该加载项的服务器名称，服务器名称放在双引号中。如果加载项在本地运行，请使用空字符串</translation>
     </message>
     <message>
         <source>Directory_text</source>
@@ -14597,47 +14730,47 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
-        <translation type="obsolete">逻辑值1%1 逻辑值2%1... 1 到 255 个结果是 TRUE 或 FALSE 的检测条件，检测内容可以是逻辑值、数组或引用</translation>
+        <translation type="unfinished">逻辑值1%1 逻辑值2%1... 1 到 255 个结果是 TRUE 或 FALSE 的检测条件，检测内容可以是逻辑值、数组或引用</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
-        <translation type="obsolete">数值1%1数值2%1... 要计算绝对偏差平均值的 1 到 255 个数值</translation>
+        <translation type="unfinished">数值1%1数值2%1... 要计算绝对偏差平均值的 1 到 255 个数值</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
-        <translation type="obsolete">数值1%1数值2%1... 用于计算平均值的 1 到 255 个数值参数</translation>
+        <translation type="unfinished">数值1%1数值2%1... 用于计算平均值的 1 到 255 个数值参数</translation>
     </message>
     <message>
         <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
-        <translation type="obsolete">数值1%1数值2%1... 要求平均值的 1 到 255 个参数</translation>
+        <translation type="unfinished">数值1%1数值2%1... 要求平均值的 1 到 255 个参数</translation>
     </message>
     <message>
         <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
-        <translation type="obsolete">数值1%1数值2%1... 1 到 254 个数值参数，单元格引用、已定义的名称、公式、函数，或者是 CHOOSE 从中选定的文本参数</translation>
+        <translation type="unfinished">数值1%1数值2%1... 1 到 254 个数值参数，单元格引用、已定义的名称、公式、函数，或者是 CHOOSE 从中选定的文本参数</translation>
     </message>
     <message>
         <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
-        <translation type="obsolete">字符串1%1字符串2%1... 1 到 255 个要合并的文本字符串，可以是字符串、数字或对单个单元格的引用</translation>
+        <translation type="unfinished">字符串1%1字符串2%1... 1 到 255 个要合并的文本字符串，可以是字符串、数字或对单个单元格的引用</translation>
     </message>
     <message>
         <source>value1%1value2%1... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
-        <translation type="obsolete">数值1%1数值2%1... 1 到 255 个可以包含的引用各种不同类型数据的参数，但只对数字型数据进行计数</translation>
+        <translation type="unfinished">数值1%1数值2%1... 1 到 255 个可以包含的引用各种不同类型数据的参数，但只对数字型数据进行计数</translation>
     </message>
     <message>
         <source>value1%1 value2%1... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
-        <translation type="obsolete">数值1%1数值2%1... 1 到 255 个用于对值和单元格进行计数的参数。它们可以是任何形式的信息</translation>
+        <translation type="unfinished">数值1%1数值2%1... 1 到 255 个用于对值和单元格进行计数的参数。它们可以是任何形式的信息</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
-        <translation type="obsolete">数值1%1数值2%1...用于计算偏差平方和的 1 到 255 个参数，或者是一个数组或数组引用</translation>
+        <translation type="unfinished">数值1%1数值2%1...用于计算偏差平方和的 1 到 255 个参数，或者是一个数组或数组引用</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 values.</source>
@@ -14647,17 +14780,17 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
-        <translation type="obsolete">数值1%1数值2%1...用于计算几何平均数的 1 到 255 个数值、名称、数组，或是对数值的引用</translation>
+        <translation type="unfinished">数值1%1数值2%1...用于计算几何平均数的 1 到 255 个数值、名称、数组，或是对数值的引用</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
-        <translation type="obsolete">数值1%1数值2%1... 用来计算调和平均数的 1 到 255 个数值、名称、数组，或者是对数值的引用</translation>
+        <translation type="unfinished">数值1%1数值2%1... 用来计算调和平均数的 1 到 255 个数值、名称、数组，或者是对数值的引用</translation>
     </message>
     <message>
         <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
-        <translation type="obsolete">数值1%1数值2%1... 用于峰值计算的 1 到 255 个参数，可以是数值、名称、数组、或者数值的引用</translation>
+        <translation type="unfinished">数值1%1数值2%1... 用于峰值计算的 1 到 255 个参数，可以是数值、名称、数组、或者数值的引用</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 255 values for which you want the least common multiple.</source>
@@ -14667,87 +14800,87 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
-        <translation type="obsolete">数值1%1数值2%1... 准备从中求取最大值的 1 到 255 个数值、空单元格、逻辑值或文本数值</translation>
+        <translation type="unfinished">数值1%1数值2%1... 准备从中求取最大值的 1 到 255 个数值、空单元格、逻辑值或文本数值</translation>
     </message>
     <message>
         <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
-        <translation type="obsolete">数值1%1数值2%1... 要求最大值的 1 到 255 个参数，可以是数值、空单元格、逻辑值或文本数值</translation>
+        <translation type="unfinished">数值1%1数值2%1... 要求最大值的 1 到 255 个参数，可以是数值、空单元格、逻辑值或文本数值</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
-        <translation type="obsolete">数值1%1数值2%1... 用于中值计算的 1 到 255 个数字、名称、数组，或者是数值引用</translation>
+        <translation type="unfinished">数值1%1数值2%1... 用于中值计算的 1 到 255 个数字、名称、数组，或者是数值引用</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
-        <translation type="obsolete">数值1%1数值2%1... 准备从中求最小值的 1 到 255 个数值、空单元格、逻辑值或文本数值</translation>
+        <translation type="unfinished">数值1%1数值2%1... 准备从中求最小值的 1 到 255 个数值、空单元格、逻辑值或文本数值</translation>
     </message>
     <message>
         <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
-        <translation type="obsolete">数值1%1数值2%1... 要求最小值的 1 到 255 个参数，可以是数值、空单元格、逻辑值或文本数值</translation>
+        <translation type="unfinished">数值1%1数值2%1... 要求最小值的 1 到 255 个参数，可以是数值、空单元格、逻辑值或文本数值</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
-        <translation type="obsolete">数值1%1数值2%1... 1 到 255 个数字、名称、数组或对数值的引用</translation>
+        <translation type="unfinished">数值1%1数值2%1... 1 到 255 个数字、名称、数组或对数值的引用</translation>
     </message>
     <message>
         <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
         <comment>TX_ParaDesc_274</comment>
-        <translation type="obsolete">数值1%1数值2%1 ... 代表支出和收入的 1 到 254 个参数，时间均匀分布并出现在每期末尾</translation>
+        <translation type="unfinished">数值1%1数值2%1 ... 代表支出和收入的 1 到 254 个参数，时间均匀分布并出现在每期末尾</translation>
     </message>
     <message>
         <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
         <comment>TX_ParaDesc_281</comment>
-        <translation type="obsolete">逻辑值1%1逻辑值2%1... 1 到 255 个结果是 TRUE 或 FALSE 的检测条件</translation>
+        <translation type="unfinished">逻辑值1%1逻辑值2%1... 1 到 255 个结果是 TRUE 或 FALSE 的检测条件</translation>
     </message>
     <message>
         <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
-        <translation type="obsolete">数值1%1数值2%1... 要计算乘积的 1 到 255 个数值、逻辑值或者代表数值的字符串</translation>
+        <translation type="unfinished">数值1%1数值2%1... 要计算乘积的 1 到 255 个数值、逻辑值或者代表数值的字符串</translation>
     </message>
     <message>
         <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
-        <translation type="obsolete">topic1%1topic2%1... 用于指定数据的 1 到 253 个参数</translation>
+        <translation type="unfinished">topic1%1topic2%1... 用于指定数据的 1 到 253 个参数</translation>
     </message>
     <message>
         <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
-        <translation type="obsolete">数值1%1数值2%1... 要计算不对称度的 1 到 255 个参数，可以是数值、名称、数组、或者是数值的引用</translation>
+        <translation type="unfinished">数值1%1数值2%1... 要计算不对称度的 1 到 255 个参数，可以是数值、名称、数组、或者是数值的引用</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
-        <translation type="obsolete">数值1%1数值2%1... 与总体抽样样本相应的 1 到 255 个参数，可以是数值，也可以是包含数值的引用</translation>
+        <translation type="unfinished">数值1%1数值2%1... 与总体抽样样本相应的 1 到 255 个参数，可以是数值，也可以是包含数值的引用</translation>
     </message>
     <message>
         <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
-        <translation type="obsolete">数值1%1数值2%1... 构成总体抽样样本的 1 到 255 个数值参数，可以是数字、名称或对数字的引用</translation>
+        <translation type="unfinished">数值1%1数值2%1... 构成总体抽样样本的 1 到 255 个数值参数，可以是数字、名称或对数字的引用</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
-        <translation type="obsolete">数值1%1数值2%1... 对应于样本总体的 1 到 255 个数值，或数值引用</translation>
+        <translation type="unfinished">数值1%1数值2%1... 对应于样本总体的 1 到 255 个数值，或数值引用</translation>
     </message>
     <message>
         <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
-        <translation type="obsolete">数值1%1数值2%1... 构成样本总体的 1 到 255 个数值参数，这些参数可以是数值、名称或对一个值的引用</translation>
+        <translation type="unfinished">数值1%1数值2%1... 构成样本总体的 1 到 255 个数值参数，这些参数可以是数值、名称或对一个值的引用</translation>
     </message>
     <message>
         <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
-        <translation type="obsolete">引用1%1 引用2%1 ... 为 1 到 254 个要进行分类汇总的区域或引用</translation>
+        <translation type="unfinished">引用1%1 引用2%1 ... 为 1 到 254 个要进行分类汇总的区域或引用</translation>
     </message>
     <message>
         <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
         <comment>TX_ParaDesc_382</comment>
-        <translation type="obsolete">数值1%1数值2%1... 1 到 255 个待求和的数值。单元格中的逻辑值和文本将被忽略。但当作为参数键入时，逻辑值和文本有效</translation>
+        <translation type="unfinished">数值1%1数值2%1... 1 到 255 个待求和的数值。单元格中的逻辑值和文本将被忽略。但当作为参数键入时，逻辑值和文本有效</translation>
     </message>
     <message>
         <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
@@ -14757,7 +14890,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
-        <translation type="obsolete">数值1%1数值2%1 ... 用于平方和计算的 1 至 255 个参数，可以是数值、数组、名称，或者是数组的引用</translation>
+        <translation type="unfinished">数值1%1数值2%1 ... 用于平方和计算的 1 至 255 个参数，可以是数值、数组、名称，或者是数组的引用</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
@@ -14767,22 +14900,22 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
-        <translation type="obsolete">数值1%1数值2%1... 构成总体抽样样本的 1 到 255 个数值参数</translation>
+        <translation type="unfinished">数值1%1数值2%1... 构成总体抽样样本的 1 到 255 个数值参数</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
-        <translation type="obsolete">数值1%1数值2%1... 构成样本总体的 1 到 255 个数值参数</translation>
+        <translation type="unfinished">数值1%1数值2%1... 构成样本总体的 1 到 255 个数值参数</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
-        <translation type="obsolete">数值1%1数值2%1... 构成样本总体的 1 到 255 个数值参数</translation>
+        <translation type="unfinished">数值1%1数值2%1... 构成样本总体的 1 到 255 个数值参数</translation>
     </message>
     <message>
         <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
-        <translation type="obsolete">数值1%1数值2%1... 是 1 到 255 个用于计算多项式的值</translation>
+        <translation type="unfinished">数值1%1数值2%1... 是 1 到 255 个用于计算多项式的值</translation>
     </message>
     <message>
         <source>Value 1%1value 2%1...1 to 30 of plural numbers, used to calculate the product.</source>
@@ -14792,17 +14925,17 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
         <comment>TX_ParaDesc_546</comment>
-        <translation type="obsolete">一个注册 COM 自动化加载项的 ProgID 名称，名称放在双引号中</translation>
+        <translation type="unfinished">一个注册 COM 自动化加载项的 ProgID 名称，名称放在双引号中</translation>
     </message>
     <message>
         <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
         <comment>TX_ParaDesc_547</comment>
-        <translation type="obsolete">运行该加载项的服务器名称，服务器名称放在双引号中。如果加载项在本地运行，请使用空字符串</translation>
+        <translation type="unfinished">运行该加载项的服务器名称，服务器名称放在双引号中。如果加载项在本地运行，请使用空字符串</translation>
     </message>
     <message>
         <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_548</comment>
-        <translation type="obsolete">topic1%1topic2%1... 用于指定数据的 1 到 38个参数</translation>
+        <translation type="unfinished">topic1%1topic2%1... 用于指定数据的 1 到 38个参数</translation>
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
@@ -14827,6 +14960,256 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Even Page </source>
         <comment>TX_CHECKSPELLING_FromEvenPage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The information cannot be pasted because the copy area and the paste area are not of the same size and shape. Try one of the following: 
+
+.Click a single cell, and then paste. 
+.Select a rectangle area of the same size and shape, and then paste.</source>
+        <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selection is invalid.
+There are several possible reasons:
+
+•Copy and paste areas cannot be overlapping unless they have the same size and shape.
+•If you select Name on the Insert menu and then click the Create command, the rows or columns containing the names will not be included in the named range.
+•If the specified name is in a row or a column, you must select more than one row or column.
+•If you click the Table command on the Data menu, the selected range must be a single rectangle, and the number of rows or columns must not be smaller than one.</source>
+        <comment>TX_DESC_Paste_OverlapRange_ET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data may exist in the sheet(s) selected for deletion. To permanently delete the data, click OK or press Enter on the keyboard.</source>
+        <comment>TX_Sheet_DEL_ContainsData_ET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot ungroup. To start an outline, select the detail rows or columns and group them.</source>
+        <comment>TX_Data_Cannot_Ungroup</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula you entered contains errors. WPS Spreadsheets will automatically correct it as: 
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel.
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormula_Error</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormulaStringTooLong_Error</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot modify the read-only cells on protected worksheet.</source>
+        <comment>TX_CanNotEdit</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a valid reference you want to go to, or type a valid name for the selection.</source>
+        <comment>TX_Invalid_Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum number of data points you can use in a data series for a 2-D chart is 32,000. If you want to use more than 32,000 data points, you must create two or more series.</source>
+        <comment>TX_Chart_DataOverflow</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot find help files, or help files encounter an error.</source>
+        <comment>TX_Help_NoHelpFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You may not use references to other workbooks for Data Validation criteria.</source>
+        <comment>TX_DV_CrossSheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Minimum contains an error now. Do you want to continue?</source>
+        <comment>TX_DV_WholeNumberErr1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Value must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
+        <comment>TX_DV_WholeNumber</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Minimum must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
+        <comment>TX_DV_WholeNumber1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Maximum must be an integer, numeric expression, or reference to a cell containing a numeric value.</source>
+        <comment>TX_DV_WholeNumber2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A named range you specified cannot be found.</source>
+        <comment>TX_DV_List</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The List Source must be a delimited list, or a reference to single row or column.</source>
+        <comment>TX_DV_ListMustSingleLine</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, creating a circular reference. Try one of the following:
+
+•If you do not want to create the circular reference, click OK, and correct the formula.
+•If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
+        <comment>TX_FORMULA_RECURSION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arithmetic Mean</source>
+        <comment>TX_ParaInfo_117</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selection contains some cells without Data Validation settings. Do you want to extend Data Validation to these cells?</source>
+        <comment>TX_DV_APPLYVALIDATION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The command you chose cannot be performed with multiple selections. Select a single range and click the command again.</source>
+        <comment>TX_DS_MULSEL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets can only convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
+        <comment>TX_DS_MULCOLS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The word you used exists in neither main dictionary or custom dictionary. Do you want to add it to the custom dictionary?</source>
+        <comment>TX_CHECKSPELLING_ADDTODICTIONARY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Closing the Track Change is to remove all the recorded changes. Do you want to close it anyway?</source>
+        <comment>TX_RevisionMsgUnTrackChanges</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Press Alt and click the mouse to follow the link</source>
+        <comment>TX_Hyperlink_Alt_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is any real number equal to or greater than 1.</source>
+        <comment>TX_ParaDesc_013</comment>
+        <translation type="unfinished">大于或等于 1. 的任何实数</translation>
+    </message>
+    <message>
+        <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
+        <comment>TX_ParaDesc_024</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
+        <comment>TX_ParaDesc_027</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the population standard deviation for the data range and is assumed to be known. Standard_dev must be greater than 0.</source>
+        <comment>TX_ParaDesc_053</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the condition or criteria in the form of a number, expression, or text that defines which cells will be used to find the average.</source>
+        <comment>TX_ParaDesc_063</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the interest rate per period. For example, use 6%/4 for quarterly payments at 6% APR.</source>
+        <comment>TX_ParaDesc_139</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1…are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the average.</source>
+        <comment>TX_ParaDesc_152</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the position (from the largest) in the array or cell range of the value to return</source>
+        <comment>TX_ParaDesc_205</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a logical value: return additional regression statistics = TRUE; return m-coefficient and the constant b = FALSE or omitted.</source>
+        <comment>TX_ParaDesc_213</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an optional value that identifies the number of significant digits for the returned percentage, three digits if omitted(0.xxx%).</source>
+        <comment>TX_ParaDesc_288</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a number, a reference to a cell containing a number, or a formula that evaluates to a number, 2 if omitted.</source>
+        <comment>TX_ParaDesc_337</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero to the nearest integer.</source>
+        <comment>TX_ParaDesc_341</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero or omitted, to the nearest integer.</source>
+        <comment>TX_ParaDesc_343</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
+        <comment>TX_ParaDesc_359</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the condition or criteria in the form of a number, expression, or text that defines which cells will be used to find the average.</source>
+        <comment>TX_ParaDesc_384</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have the same dimensions.</source>
+        <comment>TX_ParaDesc_386</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
+        <comment>TX_ParaDesc_395</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>specifies the number of distribution tails to return: one-tailed distribution = 1; tow-tailed distribution = 2.</source>
+        <comment>TX_ParaDesc_398</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 numeric arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value 1%1value 2%1… are 1 to 30 plural numbers, used to calculate the product.</source>
+        <comment>TX_ParaDesc_522</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number used to be converted to Chinese string.</source>
+        <comment>TX_ParaDesc_541</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15768,7 +16151,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Across Center</source>
         <comment>et_sCenterAcross</comment>
-        <translation>跨列居中</translation>
+        <translation type="obsolete">跨列居中</translation>
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
@@ -17459,6 +17842,11 @@ the category you want, and then choose the other options.</source>
         <source>The range is not in active sheet. WPS Spreadsheets cannot import data.</source>
         <comment>et_sRangeNotInActiveSheet</comment>
         <translation>区域不在活动工作表上，ET不能导入数据。</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <comment>et_sCenterAcross</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

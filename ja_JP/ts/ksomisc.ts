@@ -119,6 +119,10 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>KS Biaoge.lnk</source>
         <translation>WPS Spreadsheets.lnk</translation>
     </message>
+    <message>
+        <source>WPS Cloud.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -253,7 +257,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <message>
         <source>An error occured when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
-        <translation>修復するときに、エラーが発生しました。再度やってみてください。</translation>
+        <translation type="obsolete">修復するときに、エラーが発生しました。再度やってみてください。</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -313,6 +317,11 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when repairing, please retry.</source>
+        <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -542,12 +551,16 @@ needs restarting Windows to take effect.</source>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
         <translation>Kingsoft Writer 新規文書のデフォルト形式*.doc(&amp;D)</translation>
     </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2010</source>
+        <translation type="unfinished">Microsoft Office 2003などとの互換性(&amp;R) {2010?}</translation>
+    </message>
 </context>
 <context>
     <name>KPageHomePage</name>
     <message>
         <source>Unlock completed</source>
-        <translation>ホームページのロックを解除しました</translation>
+        <translation type="obsolete">ホームページのロックを解除しました</translation>
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
@@ -559,8 +572,17 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>You can unlock the IE homepage if you don&apos;t like. Note: unlock the homepage may have virus infection and your accounts hacked.</source>
-        <translation>IEホームページが気に入らない場合、IEホームページのロックを解除できます。
+        <translation type="obsolete">IEホームページが気に入らない場合、IEホームページのロックを解除できます。
 注意： ホームページのロックを解除することにより、ウィルス感染、アカウント情報が漏えいすることもございます。</translation>
+    </message>
+    <message>
+        <source>You can change the IE homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1135,6 +1157,10 @@ The button icon, command group and task window position of each scheme are diffe
         <source>Microsoft PowerPoint Macro-Enabled Slide</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Microsoft Excel Backup File</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1156,7 +1182,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Programs that can be actiavted</source>
-        <translation>起動可能なプログラム</translation>
+        <translation type="obsolete">起動可能なプログラム</translation>
     </message>
     <message>
         <source>Serial Number</source>
@@ -1165,6 +1191,10 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>Subtotal:</source>
         <translation>現状：</translation>
+    </message>
+    <message>
+        <source>Programs that can be activated</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1187,7 +1217,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Do not check for updates automatically (not recommanded)</source>
-        <translation>自動アップデートを行わない(&amp;C)</translation>
+        <translation type="obsolete">自動アップデートを行わない(&amp;C)</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
@@ -1268,6 +1298,22 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>The port must be a number between 1 and 65535.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not check for updates automatically (not recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Items:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All new releases</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommended new releases</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
