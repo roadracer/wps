@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ro_RO" sourcelanguage="ro">
 <defaultcodec>UTF-8</defaultcodec>
@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legendă</translation>
     </message>
 </context>
 <context>
@@ -912,7 +912,7 @@ Center</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează combinare celule</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -943,7 +943,7 @@ Center</source>
     </message>
     <message>
         <source>Group Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Casetă grup</translation>
     </message>
     <message>
         <source>Label</source>
@@ -1213,7 +1213,7 @@ Center</source>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>Previzualizare întrerupere de linie</translation>
+        <translation>Previzualizare întrerupere de pagină</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -1309,7 +1309,7 @@ Center</source>
     <name>classics.standard</name>
     <message>
         <source>Above Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste medie</translation>
     </message>
     <message>
         <source>AutoFilter</source>
@@ -1325,23 +1325,23 @@ Center</source>
     </message>
     <message>
         <source>Begin with</source>
-        <translation type="unfinished"></translation>
+        <translation>Începe cu</translation>
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub medie</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Între</translation>
     </message>
     <message>
         <source>Bottom 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub 10</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub 10 %</translation>
     </message>
     <message>
         <source>Chart Wizard</source>
@@ -1349,11 +1349,11 @@ Center</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăță</translation>
     </message>
     <message>
         <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Conține</translation>
     </message>
     <message>
         <source>Count</source>
@@ -1361,15 +1361,15 @@ Center</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizat</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu conține</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -1377,15 +1377,15 @@ Center</source>
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Celulă goală</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminat cu</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Egal cu</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -1393,7 +1393,7 @@ Center</source>
     </message>
     <message>
         <source>Error Value </source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare eroare </translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -1401,7 +1401,7 @@ Center</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -1413,7 +1413,7 @@ Center</source>
     </message>
     <message>
         <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mare decât</translation>
     </message>
     <message>
         <source>HighLight</source>
@@ -1421,7 +1421,7 @@ Center</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -1429,7 +1429,7 @@ Center</source>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
+        <translation>În ultimele 7 zile</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -1437,15 +1437,15 @@ Center</source>
     </message>
     <message>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima lună</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima săptămână</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mic decât</translation>
     </message>
     <message>
         <source>Max</source>
@@ -1465,11 +1465,11 @@ Center</source>
     </message>
     <message>
         <source>Next month</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarea lună</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarea săptămână</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -1525,7 +1525,7 @@ Center</source>
     </message>
     <message>
         <source>Special Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare specială</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -1537,31 +1537,31 @@ Center</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation type="unfinished"></translation>
+        <translation>Luna aceasta</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation type="unfinished"></translation>
+        <translation>Săptămâna aceasta</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Azi</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Mâine</translation>
     </message>
     <message>
         <source>Top 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Primele 10</translation>
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Primele 10 %</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -1577,7 +1577,7 @@ Center</source>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare</translation>
     </message>
     <message>
         <source>Values</source>
@@ -1589,11 +1589,11 @@ Center</source>
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"></translation>
+        <translation>Weekend</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieri</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -2111,7 +2111,7 @@ Center</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicate</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -2171,7 +2171,7 @@ Center</source>
     </message>
     <message>
         <source>Format Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Format legendă</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -2203,7 +2203,7 @@ Center</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiază duplicatele</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -2315,7 +2315,7 @@ Center</source>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>Previzualizare întrerupere de linie</translation>
+        <translation>Previzualizare întrerupere de pagină</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -2372,7 +2372,7 @@ Directly</source>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Recalculate Workbook</source>
@@ -2393,15 +2393,16 @@ Directly</source>
     <message>
         <source>Refresh
 Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Reâmprospătează
+data</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Respinge intrările duplicate</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimină duplicatele</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -2757,7 +2758,7 @@ Window</source>
     <message>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comutare UI</translation>
     </message>
     <message>
         <source>true</source>
@@ -2963,7 +2964,7 @@ Window</source>
     <message>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comutare UI</translation>
     </message>
     <message>
         <source>true</source>
@@ -3026,7 +3027,7 @@ tipul graficului</translation>
     </message>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legendă</translation>
     </message>
     <message>
         <source>Select
@@ -3772,7 +3773,7 @@ pornit/oprit</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă ca OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -4091,11 +4092,11 @@ recent</translation>
     <name>ongmani.ct_home</name>
     <message>
         <source>Above Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste medie</translation>
     </message>
     <message>
         <source>Across Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste centru</translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -4127,7 +4128,7 @@ recent</translation>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate chenarele</translation>
     </message>
     <message>
         <source>Angle Clockwise</source>
@@ -4163,15 +4164,15 @@ recent</translation>
     </message>
     <message>
         <source>Begin with</source>
-        <translation type="unfinished"></translation>
+        <translation>Începe cu</translation>
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub medie</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Între</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4179,11 +4180,11 @@ recent</translation>
     </message>
     <message>
         <source>Bottom 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub 10</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub 10 %</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -4231,11 +4232,11 @@ recent</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatarea condițională</translation>
     </message>
     <message>
         <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Conține</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -4263,7 +4264,7 @@ recent</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizat</translation>
     </message>
     <message>
         <source>Custom Sort</source>
@@ -4275,7 +4276,7 @@ recent</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -4311,7 +4312,7 @@ recent</translation>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu conține</translation>
     </message>
     <message>
         <source>Down</source>
@@ -4331,15 +4332,15 @@ recent</translation>
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Celulă goală</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminat cu</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Egal cu</translation>
     </message>
     <message>
         <source>Erase Border</source>
@@ -4347,7 +4348,7 @@ recent</translation>
     </message>
     <message>
         <source>Error Value </source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare eroare </translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4406,7 +4407,7 @@ formatare</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mare decât</translation>
     </message>
     <message>
         <source>Hide Columns</source>
@@ -4430,11 +4431,11 @@ formatare</translation>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
+        <translation>În ultimele 7 zile</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -4487,11 +4488,11 @@ Center</source>
     </message>
     <message>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima lună</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima săptămână</translation>
     </message>
     <message>
         <source>Left</source>
@@ -4503,7 +4504,7 @@ Center</source>
     </message>
     <message>
         <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mic decât</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -4551,11 +4552,11 @@ Center</source>
     </message>
     <message>
         <source>Next month</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarea lună</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarea săptămână</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -4625,7 +4626,7 @@ coloane</translation>
     </message>
     <message>
         <source>Rows and Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Rânduri și coloane</translation>
     </message>
     <message>
         <source>RowsColumn</source>
@@ -4653,7 +4654,7 @@ coloane</translation>
     </message>
     <message>
         <source>Special Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare specială</translation>
     </message>
     <message>
         <source>Standard Width</source>
@@ -4673,7 +4674,7 @@ coloane</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -4689,27 +4690,27 @@ coloane</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation type="unfinished"></translation>
+        <translation>Luna aceasta</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation type="unfinished"></translation>
+        <translation>Săptămâna aceasta</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Azi</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Mâine</translation>
     </message>
     <message>
         <source>Top 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Primele 10</translation>
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Primele 10 %</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -4749,7 +4750,7 @@ coloane</translation>
     </message>
     <message>
         <source>Unmerge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează combinare celule</translation>
     </message>
     <message>
         <source>Up</source>
@@ -4757,7 +4758,7 @@ coloane</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare</translation>
     </message>
     <message>
         <source>Values</source>
@@ -4773,7 +4774,7 @@ coloane</translation>
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"></translation>
+        <translation>Weekend</translation>
     </message>
     <message>
         <source>Worksheet</source>
@@ -4785,7 +4786,7 @@ coloane</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieri</translation>
     </message>
 </context>
 <context>
@@ -5057,7 +5058,7 @@ Forward</source>
     </message>
     <message>
         <source>Delete Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge întreruperea de pagină</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -5145,7 +5146,7 @@ titlurile</translation>
     </message>
     <message>
         <source>Reset All Page Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetează toate întreruperile de pagină</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -5751,7 +5752,8 @@ pagină</translation>
     <message>
         <source>Page Break
 Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare
+întrerupere de pagină</translation>
     </message>
     <message>
         <source>Page Zoom</source>
@@ -6078,7 +6080,7 @@ alte ferestre</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -6123,7 +6125,8 @@ nouă</translation>
     <message>
         <source>Page Break 
 Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare
+întrerupere de pagină</translation>
     </message>
     <message>
         <source>Print Gridlines</source>
@@ -6140,7 +6143,8 @@ Preview</source>
     <message>
         <source>Reading
 Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește
+aspectul</translation>
     </message>
     <message>
         <source>Security</source>
@@ -6925,7 +6929,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -6981,7 +6985,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -7056,7 +7060,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Across Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste centru</translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -7574,7 +7578,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă ca OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -7582,7 +7586,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -7711,7 +7715,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Format Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Format linii grilă</translation>
     </message>
     <message>
         <source>Format High-Low Lines</source>
@@ -7719,7 +7723,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Format Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Format etichetă</translation>
     </message>
     <message>
         <source>Format Leader Lines</source>
@@ -7727,11 +7731,11 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Format Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Format legendă</translation>
     </message>
     <message>
         <source>Format Legend Entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Format intrare legendă</translation>
     </message>
     <message>
         <source>Format Legend Key</source>
@@ -7947,7 +7951,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Combină celulele</translation>
     </message>
     <message>
         <source>Merge Columns</source>
@@ -7955,7 +7959,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Combină și centrează</translation>
     </message>
     <message>
         <source>Merge and Center Cells</source>
@@ -8095,7 +8099,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Pick from Drop-down List</source>
-        <translation type="unfinished"></translation>
+        <translation>Alege din lista desfășurată</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -8153,7 +8157,7 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -8197,7 +8201,7 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Restricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acces restricționat</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -8286,7 +8290,7 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Set Display Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurează zona de afișat</translation>
     </message>
     <message>
         <source>Set Print Area</source>
@@ -8314,7 +8318,7 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Shape Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiluri formă</translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -8386,11 +8390,11 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Start Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornește citirea aspectului</translation>
     </message>
     <message>
         <source>Stop Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprește citirea aspectului</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -8506,7 +8510,7 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Acces nerestricționat</translation>
     </message>
     <message>
         <source>Up</source>
@@ -8652,7 +8656,7 @@ tipul graficului</translation>
     </message>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legendă</translation>
     </message>
     <message>
         <source>Select Data</source>
@@ -8695,11 +8699,11 @@ tipul graficului</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietăți interval date</translation>
     </message>
     <message>
         <source>Data Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Unelte date</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -9335,7 +9339,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă ca OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -9617,7 +9621,7 @@ Trig</source>
     </message>
     <message>
         <source>Name Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume administrator</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -9648,7 +9652,7 @@ Trig</source>
     <name>rainbow.ct_home</name>
     <message>
         <source>Above Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste medie</translation>
     </message>
     <message>
         <source>Across Center</source>
@@ -9688,11 +9692,11 @@ Trig</source>
     </message>
     <message>
         <source>Angle Clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Unghi în sens orar</translation>
     </message>
     <message>
         <source>Angle Counterclockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Unghi antiorar</translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -9720,15 +9724,15 @@ Trig</source>
     </message>
     <message>
         <source>Begin with</source>
-        <translation type="unfinished"></translation>
+        <translation>Începe cu</translation>
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub medie</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Între</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -9736,11 +9740,11 @@ Trig</source>
     </message>
     <message>
         <source>Bottom 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub 10</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub 10 %</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -9784,11 +9788,11 @@ Trig</source>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatarea condițională</translation>
     </message>
     <message>
         <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Conține</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
@@ -9812,7 +9816,7 @@ Trig</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizat</translation>
     </message>
     <message>
         <source>Custom Sort</source>
@@ -9824,7 +9828,7 @@ Trig</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -9860,7 +9864,7 @@ Trig</source>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu conține</translation>
     </message>
     <message>
         <source>Down</source>
@@ -9880,15 +9884,15 @@ Trig</source>
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Celulă goală</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminat cu</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Egal cu</translation>
     </message>
     <message>
         <source>Erase Border</source>
@@ -9896,7 +9900,7 @@ Trig</source>
     </message>
     <message>
         <source>Error Value </source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare eroare </translation>
     </message>
     <message>
         <source>Fill</source>
@@ -9948,7 +9952,7 @@ Trig</source>
     </message>
     <message>
         <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mare decât</translation>
     </message>
     <message>
         <source>Hide Columns</source>
@@ -9972,11 +9976,11 @@ Trig</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
+        <translation>În ultimele 7 zile</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -10020,11 +10024,11 @@ Trig</source>
     </message>
     <message>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima lună</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima săptămână</translation>
     </message>
     <message>
         <source>Left</source>
@@ -10036,7 +10040,7 @@ Trig</source>
     </message>
     <message>
         <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mic decât</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -10090,11 +10094,11 @@ centrează</translation>
     </message>
     <message>
         <source>Next month</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarea lună</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Următoarea săptămână</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -10182,7 +10186,7 @@ centrează</translation>
     </message>
     <message>
         <source>Special Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare specială</translation>
     </message>
     <message>
         <source>Standard Width</source>
@@ -10202,7 +10206,7 @@ centrează</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -10218,27 +10222,27 @@ centrează</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation type="unfinished"></translation>
+        <translation>Luna aceasta</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation type="unfinished"></translation>
+        <translation>Săptămâna aceasta</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Azi</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Mâine</translation>
     </message>
     <message>
         <source>Top 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Primele 10</translation>
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation type="unfinished"></translation>
+        <translation>Primele 10 %</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -10278,7 +10282,7 @@ centrează</translation>
     </message>
     <message>
         <source>Unmerge Cells</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează combinare celule</translation>
     </message>
     <message>
         <source>Up</source>
@@ -10286,7 +10290,7 @@ centrează</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare</translation>
     </message>
     <message>
         <source>Values</source>
@@ -10302,7 +10306,7 @@ centrează</translation>
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"></translation>
+        <translation>Weekend</translation>
     </message>
     <message>
         <source>WorkSheet</source>
@@ -10314,7 +10318,7 @@ centrează</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieri</translation>
     </message>
 </context>
 <context>
@@ -10546,7 +10550,7 @@ centrează</translation>
     </message>
     <message>
         <source>Delete Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge întreruperea de pagină</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -10634,7 +10638,7 @@ centrează</translation>
     </message>
     <message>
         <source>Reset All Page Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetează toate întreruperile de pagină</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -11198,7 +11202,7 @@ centrează</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>Previzualizare întrerupere de linie</translation>
+        <translation>Previzualizare întrerupere de pagină</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -11516,7 +11520,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -11556,7 +11560,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>Previzualizare întrerupere de linie</translation>
+        <translation>Previzualizare întrerupere de pagină</translation>
     </message>
     <message>
         <source>Print Gridlines</source>
@@ -11572,7 +11576,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Security</source>
@@ -12311,7 +12315,7 @@ umbră</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -12363,7 +12367,7 @@ umbră</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -12422,7 +12426,7 @@ umbră</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -12450,7 +12454,7 @@ umbră</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -12482,11 +12486,11 @@ umbră</translation>
     </message>
     <message>
         <source>Start Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornește citirea aspectului</translation>
     </message>
     <message>
         <source>Stop Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprește citirea aspectului</translation>
     </message>
     <message>
         <source>User Feedback</source>
