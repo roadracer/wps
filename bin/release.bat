@@ -43,6 +43,11 @@ cd %g_ts_path%
 %g_tools_bin%\lrelease %g_wpp_ts% -qm %g_wpp_qm_name%
 %g_tools_bin%\lrelease %g_kso_ts% %g_auth_ts% %g_kde_ts% -qm %g_kso_qm_name%
 %g_tools_bin%\lrelease %g_ksomisc_ts% -qm %g_ksomisc_qm_name%
+%g_tools_bin%\lrelease %g_qing_ts% -qm %g_qing_qm_name%
+%g_tools_bin%\lrelease -idbased -nountranslatedwhenidbased %g_et_tips_ts% -qm %g_et_tips_qm_name%
+%g_tools_bin%\lrelease -idbased -nountranslatedwhenidbased %g_wps_tips_ts% -qm %g_wps_tips_qm_name%
+%g_tools_bin%\lrelease -idbased -nountranslatedwhenidbased %g_wpp_tips_ts% -qm %g_wpp_tips_qm_name%
+%g_tools_bin%\lrelease -idbased -nountranslatedwhenidbased %g_kso_tips_ts% -qm %g_kso_tips_qm_name%
 cd %oldPwd%
 
 @REM move file
@@ -51,6 +56,11 @@ move /y %g_ts_path%\%g_wps_qm_name% %g_qm_path%\%g_wps_qm_name%
 move /y %g_ts_path%\%g_wpp_qm_name% %g_qm_path%\%g_wpp_qm_name%
 move /y %g_ts_path%\%g_kso_qm_name% %g_qm_path%\%g_kso_qm_name%
 move /y %g_ts_path%\%g_ksomisc_qm_name% %g_qm_path%\%g_ksomisc_qm_name%
+move /y %g_ts_path%\%g_qing_qm_name% %g_qm_path%\%g_qing_qm_name%
+move /y %g_ts_path%\%g_et_tips_qm_name% %g_qm_path%\%g_et_tips_qm_name%
+move /y %g_ts_path%\%g_wps_tips_qm_name% %g_qm_path%\%g_wps_tips_qm_name%
+move /y %g_ts_path%\%g_wpp_tips_qm_name% %g_qm_path%\%g_wpp_tips_qm_name%
+move /y %g_ts_path%\%g_kso_tips_qm_name% %g_qm_path%\%g_kso_tips_qm_name%
 
 @exit /b 0
 :ERREXIT

@@ -53,6 +53,10 @@ set g_launcher_ts=launcher.ts
 set g_kde_ts=kde.ts
 set g_auth_ts=auth.ts
 set g_qing_ts=qing.ts
+set g_et_tips_ts=ettips.ts
+set g_wps_tips_ts=wpstips.ts
+set g_wpp_tips_ts=wpptips.ts
+set g_kso_tips_ts=ksotips.ts
 
 @REM qm files
 set g_et_qm_name=et.qm
@@ -62,6 +66,10 @@ set g_kso_qm_name=kso.qm
 set g_ksomisc_qm_name=ksomisc.qm
 set g_launcher_qm_name=launcher.qm
 set g_qing_qm_name=qing.qm
+set g_et_tips_qm_name=ettips.qm
+set g_wps_tips_qm_name=wpstips.qm
+set g_wpp_tips_qm_name=wpptips.qm
+set g_kso_tips_qm_name=ksotips.qm
 
 @REM option. defaultcodecø…“‘Œ™ø’.
 @REM location type: 0: no location, 1:relative location, 2:absolute location
