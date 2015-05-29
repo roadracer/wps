@@ -885,7 +885,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>Roaming your document...</source>
-        <translation type="unfinished"></translation>
+        <translation>Document în roaming...</translation>
     </message>
     <message>
         <source>Remove star</source>

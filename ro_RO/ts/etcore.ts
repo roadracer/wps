@@ -1100,7 +1100,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
         <comment>TX_ETDataForm_NoValue</comment>
-        <translation type="unfinished">Comanda nu poate fi finalizată utilizând intervalul specificat. Selectați o singură celulă în interval și încercați comanda din nou.</translation>
+        <translation>Comanda nu poate fi finalizată utilizând intervalul specificat. Selectați o singură celulă în interval și încercați comanda din nou.</translation>
     </message>
     <message>
         <source>You cannot use this command on a list or range that contains merged cells.</source>
@@ -1110,7 +1110,7 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>The command you choose cannot be performed with multiple selections. Select a single range and click the command again.</source>
         <comment>TX_ETDataForm_MutiAreas</comment>
-        <translation type="unfinished"></translation>
+        <translation>Comanda pe care ați ales-o nu poate fi executată cu secțiuni multiple. Selectați un singur interval și apăsați pe comandă din nou.</translation>
     </message>
     <message>
         <source>Can not create data form for a database in which all columns are hidden.</source>
@@ -1591,7 +1591,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Population Size</source>
         <comment>TX_SOLVER_POPULATION_SIZE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mărime populație</translation>
     </message>
     <message>
         <source>Random Seed</source>
@@ -1779,7 +1779,7 @@ Se continuă fără Anulează?</translation>
     <message>
         <source>The ranges in the formula do not intersect.</source>
         <comment>TX_ERRORCHECK_ERRDESC_NULL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Intervalele în formulă nu se intersectează.</translation>
     </message>
     <message>
         <source>The formula or function used is dividing by zero or empty cells.</source>
@@ -2480,22 +2480,22 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Top %s items</source>
         <comment>TX_Top10Items</comment>
-        <translation type="unfinished"></translation>
+        <translation>Peste %s elemente</translation>
     </message>
     <message>
         <source>Top %s percent</source>
         <comment>TX_Top10Percent</comment>
-        <translation type="unfinished"></translation>
+        <translation>Peste %s procent</translation>
     </message>
     <message>
         <source>Bottom %s items</source>
         <comment>TX_Bottom10Items</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sub %s elemente</translation>
     </message>
     <message>
         <source>Bottom %s percent</source>
         <comment>TX_Bottom10Percent</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sub %s procent</translation>
     </message>
     <message>
         <source>Or</source>
@@ -3066,7 +3066,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Operation condition</source>
         <comment>TX_ETDBE_STR_OPR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Condiție operație</translation>
     </message>
     <message>
         <source> &gt;,</source>
@@ -3254,12 +3254,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>The following data range failed to refresh:</source>
         <comment>TX_ETDBE_STR_REFRESHFAIL_1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Următorul interval de date a eșuat la reâmprospătare:</translation>
     </message>
     <message>
         <source>Continue to refresh all?</source>
         <comment>TX_ETDBE_STR_REFRESHFAIL_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Se continuă reâmprospătarea la tot?</translation>
     </message>
     <message>
         <source>Connection</source>
@@ -3309,7 +3309,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>:Getting Data ...</source>
         <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
-        <translation type="unfinished"></translation>
+        <translation>:Se obțin date ...</translation>
     </message>
 </context>
 <context>
@@ -5082,7 +5082,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LEN(text)</source>
         <comment>LEN_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>LEN(text)</translation>
     </message>
     <message>
         <source>Returns the length of a text string.</source>
@@ -5102,7 +5102,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>LTRIM(text)</translation>
     </message>
     <message>
         <source>Removes left spaces of the specified text string.</source>
@@ -5152,7 +5152,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>RTRIM(text)</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
@@ -5192,7 +5192,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>TRIM(text)</source>
         <comment>TRIM_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>TRIM(text)</translation>
     </message>
     <message>
         <source>Returns text with only single spaces between words.</source>
@@ -5202,7 +5202,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>UPPER(text)</source>
         <comment>UPPER_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>UPPER(text)</translation>
     </message>
     <message>
         <source>Returns the upper-case version of a text string.</source>
@@ -5212,7 +5212,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>VALUE(text)</source>
         <comment>VALUE_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>VALUE(text)</translation>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
@@ -5222,7 +5222,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>PROPER(text)</source>
         <comment>PROPER_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>PROPER(text)</translation>
     </message>
     <message>
         <source>Capitalizes the initials of all the words.</source>
@@ -5232,7 +5232,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DOLLAR(number,decimals)</source>
         <comment>DOLLAR_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>DOLLAR(număr,zecimale)</translation>
     </message>
     <message>
         <source>Converts a number to text, using currency format and the specified digits.</source>
@@ -5252,7 +5252,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>FALSE()</source>
         <comment>FALSE_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>FALSE()</translation>
     </message>
     <message>
         <source>Returns the logical value FALSE.</source>
@@ -5272,7 +5272,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>NOT(logical)</source>
         <comment>NOT_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>NOT(logic)</translation>
     </message>
     <message>
         <source>Reverses the logical value of the argument.</source>
@@ -5292,7 +5292,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>TRUE()</source>
         <comment>TRUE_GRAMMER</comment>
-        <translation type="unfinished"></translation>
+        <translation>TRUE()</translation>
     </message>
     <message>
         <source>Returns the logical value TRUE.</source>
@@ -7450,12 +7450,12 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Data Interchange Format (*.dif)</source>
         <comment>TX_ssDesc_Dif_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Data Interchange Format (*.dif)</translation>
     </message>
     <message>
         <source>DIF (Data Interchange Format)(*.dif)</source>
         <comment>TX_ssDesc_Dif_Exp_</comment>
-        <translation type="unfinished"></translation>
+        <translation>DIF (Data Interchange Format)(*.dif)</translation>
     </message>
     <message>
         <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
@@ -7511,7 +7511,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Chinese Office Document Format 2.0(*.uos)</source>
         <comment>TX_ssDesc_Uof2_</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chinese Office Document Format 2.0(*.uos)</translation>
     </message>
     <message>
         <source>The author supports opening &quot;%s&quot; with read-only way unless you need to modify.Do open with read-only mode?</source>
@@ -7754,7 +7754,7 @@ There are several possible reasons:
     <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
         <comment>TX_DESC_Sort_singleCell_ET</comment>
-        <translation type="unfinished">Comanda nu poate fi finalizată utilizând intervalul specificat. Selectați o singură celulă în interval și încercați comanda din nou.</translation>
+        <translation>Comanda nu poate fi finalizată utilizând intervalul specificat. Selectați o singură celulă în interval și încercați comanda din nou.</translation>
     </message>
     <message>
         <source>The sheet(s) you are deleting is not empty. If you want to delete the data permanently, please click OK or press Enter on the keyboard.</source>
@@ -8729,7 +8729,7 @@ Se continuă?</translation>
     <message>
         <source>Cost</source>
         <comment>TX_ParaInfo_090</comment>
-        <translation type="unfinished">Cost</translation>
+        <translation>Cost</translation>
     </message>
     <message>
         <source>Salvage</source>
@@ -8849,7 +8849,7 @@ Se continuă?</translation>
     <message>
         <source>Const</source>
         <comment>TX_ParaInfo_114</comment>
-        <translation type="unfinished">Const</translation>
+        <translation>Const</translation>
     </message>
     <message>
         <source>New_x&apos;s</source>
@@ -8929,7 +8929,7 @@ Se continuă?</translation>
     <message>
         <source>Number_population</source>
         <comment>TX_ParaInfo_130</comment>
-        <translation type="unfinished"></translation>
+        <translation>Număr_populație</translation>
     </message>
     <message>
         <source>Alpha</source>
@@ -12439,12 +12439,12 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>is the date of the end of the first period.</source>
         <comment>TX_ParaDesc_539</comment>
-        <translation type="unfinished"></translation>
+        <translation>este data sfârșitului primei perioade.</translation>
     </message>
     <message>
         <source>Numbers from 1 to 66, used to specify what type of cell information you want.</source>
         <comment>TX_ParaDesc_540</comment>
-        <translation type="unfinished"></translation>
+        <translation>Numere de la 1 la 66, utilizate pentru a specifica ce tip de informație celulă doriți.</translation>
     </message>
     <message>
         <source>The number used to be converted to chinese string.</source>
@@ -13172,22 +13172,22 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Permission to this workbook is currently restricted.</source>
         <comment>TX_IRMReadOnly</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permisiunea la acest registru de lucru este curent restricționată.</translation>
     </message>
     <message>
         <source>First Page </source>
         <comment>TX_CHECKSPELLING_FromFirstPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prima pagină</translation>
     </message>
     <message>
         <source>Odd Page </source>
         <comment>TX_CHECKSPELLING_FromOddPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagină impară </translation>
     </message>
     <message>
         <source>Even Page </source>
         <comment>TX_CHECKSPELLING_FromEvenPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pagină pară </translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>

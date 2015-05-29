@@ -814,7 +814,7 @@ interogare OLE DB</translation>
     <name>classics.formatting</name>
     <message>
         <source>Across Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Peste centru</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -887,7 +887,8 @@ interogare OLE DB</translation>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alătură și
+centrează</translation>
     </message>
     <message>
         <source>Merge Across</source>
