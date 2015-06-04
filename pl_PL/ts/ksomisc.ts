@@ -244,17 +244,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
-        <translation variants="yes">
-            <lengthvariant>WPS Chmura.lnk</lengthvariant>
-            <lengthvariant>WPS Cloud.lnk</lengthvariant>
-        </translation>
+        <translation>WPS Cloud.lnk</translation>
     </message>
     <message>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
-        <translation variants="yes">
-            <lengthvariant>Używając usługi Chmura WPS Office można współpracować podczas pracy zespołowej.</lengthvariant>
-            <lengthvariant>Używając usługi WPS Office Cloud można współpracować podczas pracy zespołowej.</lengthvariant>
-        </translation>
+        <translation>Używając usługi WPS Office Cloud można współpracować podczas pracy zespołowej.</translation>
     </message>
     <message>
         <source>WPS Office.lnk</source>
@@ -402,10 +396,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>WPS &amp;Presentation Backup Files</source>
-        <translation variants="yes">
-            <lengthvariant>Pliki kopii zapasowych WPS &amp;Presentation</lengthvariant>
-            <lengthvariant>Kopia zapasowa plików WPS &amp;Presentation</lengthvariant>
-        </translation>
+        <translation>Pliki kopii zapasowych WPS &amp;Presentation</translation>
     </message>
     <message>
         <source>WPS &amp;Spreadsheets Backup Files</source>

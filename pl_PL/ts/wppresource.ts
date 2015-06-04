@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -404,7 +404,7 @@
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -527,15 +527,15 @@
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -567,7 +567,7 @@
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -809,10 +809,7 @@
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -824,10 +821,7 @@
     </message>
     <message>
         <source>Up</source>
-        <translation variants="yes">
-            <lengthvariant>W górę</lengthvariant>
-            <lengthvariant>Do góry</lengthvariant>
-        </translation>
+        <translation>W górę</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
@@ -1730,31 +1724,19 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w dół</lengthvariant>
-            <lengthvariant>Oddalanie w dół</lengthvariant>
-        </translation>
+        <translation>Zanikanie w dół</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w lewo</lengthvariant>
-            <lengthvariant>Oddalanie w lewo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w lewo</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w prawo</lengthvariant>
-            <lengthvariant>Oddalanie w prawo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w prawo</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w górę</lengthvariant>
-            <lengthvariant>Oddalanie w górę</lengthvariant>
-        </translation>
+        <translation>Zanikanie w górę</translation>
     </message>
     <message>
         <source>Format WordArt</source>
@@ -2003,20 +1985,8 @@ wzorzec slajdów</translation>
     <message>
         <source>Involved
 Template</source>
-        <translation variants="yes">
-            <lengthvariant>Szablon
-powiązany</lengthvariant>
-            <lengthvariant>Szablon
-zaangażowany</lengthvariant>
-            <lengthvariant>Szablon
-uwzględniany</lengthvariant>
-            <lengthvariant>Powiązany
-szablon</lengthvariant>
-            <lengthvariant>Zaangażowany
-szablon</lengthvariant>
-            <lengthvariant>Uwzględniany
-szablon</lengthvariant>
-        </translation>
+        <translation>Szablon
+powiązany</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -2335,7 +2305,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Font</source>
@@ -2347,7 +2317,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -2503,15 +2473,15 @@ Włącz</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -2562,7 +2532,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -2916,10 +2886,7 @@ Włącz</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation variants="yes">
-            <lengthvariant>Nowa prezentacja</lengthvariant>
-            <lengthvariant>Nowy plik prezentacji</lengthvariant>
-        </translation>
+        <translation>Nowa prezentacja</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -2946,10 +2913,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation variants="yes">
-            <lengthvariant>Pakiet do folderu</lengthvariant>
-            <lengthvariant>Pakiet w folderze</lengthvariant>
-        </translation>
+        <translation>Pakiet do folderu</translation>
     </message>
     <message>
         <source>Print</source>
@@ -3032,11 +2996,11 @@ Włącz</translation>
     </message>
     <message>
         <source>WPS Presentation File</source>
-        <translation>Plik WPS Presentation</translation>
+        <translation>Plik programu WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation Template</source>
-        <translation>Szablon WPS Presentation</translation>
+        <translation>Szablon programu WPS Presentation</translation>
     </message>
     <message>
         <source>true</source>
@@ -3157,7 +3121,7 @@ Effects</source>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Font</source>
@@ -3169,7 +3133,7 @@ Effects</source>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -3342,15 +3306,15 @@ Effects</source>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -3427,7 +3391,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -3569,10 +3533,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation variants="yes">
-            <lengthvariant>Pakiet do folderu</lengthvariant>
-            <lengthvariant>Pakiet w folderze</lengthvariant>
-        </translation>
+        <translation>Pakiet do folderu</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -3683,10 +3644,7 @@ cienia</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -3937,10 +3895,7 @@ organizacyjny</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation variants="yes">
-            <lengthvariant>Pakiet do folderu</lengthvariant>
-            <lengthvariant>Pakiet w folderze</lengthvariant>
-        </translation>
+        <translation>Pakiet do folderu</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -4180,17 +4135,11 @@ numer</lengthvariant>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation variants="yes">
-            <lengthvariant>Inteligentny wybór</lengthvariant>
-            <lengthvariant>Wybór inteligentny</lengthvariant>
-        </translation>
+        <translation>Wybór inteligentny</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagłe</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -4361,7 +4310,7 @@ numer</lengthvariant>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -4369,7 +4318,7 @@ numer</lengthvariant>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -4449,15 +4398,15 @@ obrazów</lengthvariant>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4683,10 +4632,7 @@ włącz/wyłącz</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciągłe</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -4877,11 +4823,11 @@ komentarz</translation>
     </message>
     <message>
         <source>Delete All Mark in this Presentation</source>
-        <translation>Usuń wszystkie oznaczenia w tej prezentacji</translation>
+        <translation>Usuń wszystkie komentarze w tej prezentacji</translation>
     </message>
     <message>
         <source>Delete All Mark on the Current Slide</source>
-        <translation>Usuń wszystkie oznaczenia na bieżącym slajdzie</translation>
+        <translation>Usuń wszystkie komentarze na bieżącym slajdzie</translation>
     </message>
     <message>
         <source>Edit
@@ -4891,10 +4837,7 @@ komentarz</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation variants="yes">
-            <lengthvariant>Wymaż wszystką adiustację</lengthvariant>
-            <lengthvariant>Wymaż całą adiustację</lengthvariant>
-        </translation>
+        <translation>Wymaż całą adiustację</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
@@ -4926,7 +4869,7 @@ komentarz</translation>
         <source>Show/Hide
 Mark</source>
         <translation>Pokaż/Ukryj
-oznacz</translation>
+Komentarze</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -5428,7 +5371,7 @@ notatki</lengthvariant>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -5436,7 +5379,7 @@ notatki</lengthvariant>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -5526,15 +5469,15 @@ notatki</lengthvariant>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Font</source>
@@ -6114,7 +6057,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -6122,7 +6065,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -6283,43 +6226,31 @@ znakami</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w dół</lengthvariant>
-            <lengthvariant>Oddalanie w dół</lengthvariant>
-        </translation>
+        <translation>Zanikanie w dół</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w lewo</lengthvariant>
-            <lengthvariant>Oddalanie w lewo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w lewo</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w prawo</lengthvariant>
-            <lengthvariant>Oddalanie w prawo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w prawo</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w górę</lengthvariant>
-            <lengthvariant>Oddalanie w górę</lengthvariant>
-        </translation>
+        <translation>Zanikanie w górę</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -6409,10 +6340,7 @@ znakami</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation variants="yes">
-            <lengthvariant>Normalne</lengthvariant>
-            <lengthvariant>Normalny</lengthvariant>
-        </translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -6498,10 +6426,7 @@ znakami</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciągłe</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -6640,10 +6565,7 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -6706,10 +6628,7 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
-            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Otwórz z Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -6717,10 +6636,7 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -6839,7 +6755,7 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Font</source>
@@ -6851,7 +6767,7 @@ WordArt</lengthvariant>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -7004,10 +6920,7 @@ COM</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation variants="yes">
-            <lengthvariant>Kaskadowo</lengthvariant>
-            <lengthvariant>Kaskada</lengthvariant>
-        </translation>
+        <translation>Kaskadowo</translation>
     </message>
     <message>
         <source>Center</source>
@@ -7119,10 +7032,7 @@ COM</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Utwórz łącze usługi Chmura</lengthvariant>
-            <lengthvariant>Utwórz łącze usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Utwórz łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -7306,15 +7216,15 @@ COM</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -7330,10 +7240,7 @@ COM</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation variants="yes">
-            <lengthvariant>Wymaż wszystką adiustację</lengthvariant>
-            <lengthvariant>Wymaż całą adiustację</lengthvariant>
-        </translation>
+        <translation>Wymaż całą adiustację</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
@@ -7760,10 +7667,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
-            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Otwórz z Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Options</source>
@@ -7786,10 +7690,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation variants="yes">
-            <lengthvariant>Pakiet do folderu</lengthvariant>
-            <lengthvariant>Pakiet w folderze</lengthvariant>
-        </translation>
+        <translation>Pakiet do folderu</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -7955,10 +7856,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -8107,10 +8005,7 @@ wzorzec</lengthvariant>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciagły</lengthvariant>
-            <lengthvariant>Ciągłe</lengthvariant>
-        </translation>
+        <translation>Ciągłe</translation>
     </message>
     <message>
         <source>Sound from File</source>
@@ -8533,20 +8428,8 @@ wzorzec</lengthvariant>
     <message>
         <source>Involved
 Template</source>
-        <translation variants="yes">
-            <lengthvariant>Szablon
-powiązany</lengthvariant>
-            <lengthvariant>Szablon
-zaangażowany</lengthvariant>
-            <lengthvariant>Szablon
-uwzględniany</lengthvariant>
-            <lengthvariant>Powiązany
-szablon</lengthvariant>
-            <lengthvariant>Zaangażowany
-szablon</lengthvariant>
-            <lengthvariant>Uwzględniany
-szablon</lengthvariant>
-        </translation>
+        <translation>Szablon
+powiązany</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -8785,7 +8668,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -8793,7 +8676,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -8900,15 +8783,15 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -8943,7 +8826,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -9179,10 +9062,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation variants="yes">
-            <lengthvariant>Nowa prezentacja</lengthvariant>
-            <lengthvariant>Nowy plik prezentacji</lengthvariant>
-        </translation>
+        <translation>Nowa prezentacja</translation>
     </message>
     <message>
         <source>New from Default Template</source>
@@ -9209,10 +9089,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation variants="yes">
-            <lengthvariant>Pakiet do folderu</lengthvariant>
-            <lengthvariant>Pakiet w folderze</lengthvariant>
-        </translation>
+        <translation>Pakiet do folderu</translation>
     </message>
     <message>
         <source>Print</source>
@@ -9295,7 +9172,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>WPS Presentation File</source>
-        <translation>Plik WPS Presentation</translation>
+        <translation>Plik programu WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Presentation Help</source>
@@ -9303,7 +9180,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>WPS Presentation Template</source>
-        <translation>Szablon WPS Presentation</translation>
+        <translation>Szablon programu WPS Presentation</translation>
     </message>
     <message>
         <source>true</source>
@@ -9422,7 +9299,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Font</source>
@@ -9434,7 +9311,7 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -9611,15 +9488,15 @@ szablon</lengthvariant>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Find</source>
@@ -9845,10 +9722,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation variants="yes">
-            <lengthvariant>Pakiet do folderu</lengthvariant>
-            <lengthvariant>Pakiet w folderze</lengthvariant>
-        </translation>
+        <translation>Pakiet do folderu</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -9968,10 +9842,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciągłe</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -10220,10 +10091,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Package into Folder</source>
-        <translation variants="yes">
-            <lengthvariant>Pakiet do folderu</lengthvariant>
-            <lengthvariant>Pakiet w folderze</lengthvariant>
-        </translation>
+        <translation>Pakiet do folderu</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -10457,17 +10325,11 @@ slajdu</translation>
     </message>
     <message>
         <source>Smart Choice</source>
-        <translation variants="yes">
-            <lengthvariant>Inteligentny wybór</lengthvariant>
-            <lengthvariant>Wybór inteligentny</lengthvariant>
-        </translation>
+        <translation>Wybór inteligentny</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -10651,7 +10513,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -10659,7 +10521,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -10738,15 +10600,15 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -10963,10 +10825,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciagły</lengthvariant>
-            <lengthvariant>Ciągłe</lengthvariant>
-        </translation>
+        <translation>Ciągłe</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -11162,10 +11021,7 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Erase All Markups</source>
-        <translation variants="yes">
-            <lengthvariant>Wymaż wszystką adiustację</lengthvariant>
-            <lengthvariant>Wymaż całą adiustację</lengthvariant>
-        </translation>
+        <translation>Wymaż całą adiustację</translation>
     </message>
     <message>
         <source>Erase Markups on Slide</source>
@@ -11181,11 +11037,11 @@ podrzędnego</lengthvariant>
     </message>
     <message>
         <source>Next</source>
-        <translation>Następny</translation>
+        <translation>Następne</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Poprzedni</translation>
+        <translation>Poprzednie</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -11733,10 +11589,7 @@ inne okna</translation>
     </message>
     <message>
         <source>Master View</source>
-        <translation variants="yes">
-            <lengthvariant>Widok główny</lengthvariant>
-            <lengthvariant>Widok wzorca</lengthvariant>
-        </translation>
+        <translation>Widok główny</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -12050,7 +11903,7 @@ cienia</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -12058,7 +11911,7 @@ cienia</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -12212,43 +12065,31 @@ cienia</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w dół</lengthvariant>
-            <lengthvariant>Oddalanie w dół</lengthvariant>
-        </translation>
+        <translation>Zanikanie w dół</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w lewo</lengthvariant>
-            <lengthvariant>Oddalanie w lewo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w lewo</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w prawo</lengthvariant>
-            <lengthvariant>Oddalanie w prawo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w prawo</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w górę</lengthvariant>
-            <lengthvariant>Oddalanie w górę</lengthvariant>
-        </translation>
+        <translation>Zanikanie w górę</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -12411,10 +12252,7 @@ cienia</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciagły</lengthvariant>
-            <lengthvariant>Ciągłe</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -12569,10 +12407,7 @@ cienia</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -12635,10 +12470,7 @@ cienia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
-            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Otwórz z Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -12646,10 +12478,7 @@ cienia</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -12759,10 +12588,7 @@ cienia</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -12786,10 +12612,7 @@ cienia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
-            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Otwórz z Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -12797,10 +12620,7 @@ cienia</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -13024,10 +12844,7 @@ cienia</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -13054,10 +12871,7 @@ cienia</translation>
     </message>
     <message>
         <source>Creat Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Utwórz łącze usługi Chmura</lengthvariant>
-            <lengthvariant>Utwórz łącze usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Utwórz łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -13149,10 +12963,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation variants="yes">
-            <lengthvariant>Ukryj bieżące okno, podczas zrzutu ekranu</lengthvariant>
-            <lengthvariant>Ukryj bieżące okno, podczas pobierania ekranu</lengthvariant>
-        </translation>
+        <translation>Ukryj bieżące okno, podczas wykonywania zrzutu ekranu</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -13239,10 +13050,7 @@ slajdu</translation>
     </message>
     <message>
         <source>New Presentation</source>
-        <translation variants="yes">
-            <lengthvariant>Nowa prezentacja</lengthvariant>
-            <lengthvariant>Nowy plik prezentacji</lengthvariant>
-        </translation>
+        <translation>Nowa prezentacja</translation>
     </message>
     <message>
         <source>New Slide From Library</source>
@@ -13823,7 +13631,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translation>Animacja</translation>
+        <translation>Animacje</translation>
     </message>
     <message>
         <source>Change Account</source>
@@ -13835,7 +13643,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Design</source>
-        <translation>Projekt</translation>
+        <translation>Projektowanie</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -13887,7 +13695,7 @@ slajdu</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>Nowy z innych szablonów</translation>
+        <translation>Nowa z innych szablonów</translation>
     </message>
     <message>
         <source>No Tab Page</source>

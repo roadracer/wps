@@ -6,10 +6,7 @@
     <name>KApplication</name>
     <message>
         <source>Trial Version</source>
-        <translation variants="yes">
-            <lengthvariant>Wersja próbna</lengthvariant>
-            <lengthvariant>Trial</lengthvariant>
-        </translation>
+        <translation>Wersja próbna</translation>
     </message>
 </context>
 <context>

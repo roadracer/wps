@@ -91,7 +91,7 @@
     </message>
     <message>
         <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
-        <translation>Aktualizacje pakietu WPS Office zostały pobrane. Czy chcesz je teraz zainstalować?</translation>
+        <translation>Aktualizacje dla pakietu WPS Office zostały pobrane. Czy chcesz je teraz zainstalować?</translation>
     </message>
 </context>
 <context>
@@ -200,10 +200,7 @@
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
-        <translation variants="yes">
-            <lengthvariant>Dokument, który nie został zapisany przy ostatnim zakończeniu, został przywrócony.(Jeżeli nie potrzebujesz przywróconego pliku, zamknij go bezpośrednio i ponownie otwórz oryginalny dokument.)</lengthvariant>
-            <lengthvariant>Dokument, który nie został zapisany przy ostatnim wyjściu, został przywrócony.(Jeżeli nie potrzebujesz przywróconego pliku, zamknij go bezpośrednio i ponownie otwórz oryginalny dokument.)</lengthvariant>
-        </translation>
+        <translation>Dokument, który nie został zapisany przy ostatnim wyjściu, został przywrócony.(Jeżeli nie potrzebujesz przywróconego pliku, zamknij go bezpośrednio i ponownie otwórz oryginalny dokument.)</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
@@ -1367,7 +1364,6 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>Full path: </source>
-        <translatorcomment>aa-wszystko ok</translatorcomment>
         <translation>Pełna ścieżka: </translation>
     </message>
     <message>
@@ -1384,10 +1380,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Create Custom Dictionary</source>
-        <translation variants="yes">
-            <lengthvariant>Utwórz słownik niestandardowy</lengthvariant>
-            <lengthvariant>Tworzenie słownika niestandardowego</lengthvariant>
-        </translation>
+        <translation>Tworzenie słownika niestandardowego</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)</source>
@@ -1395,7 +1388,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation>Dodaj słownik niestandardowy</translation>
+        <translation>Dodawanie słownika niestandardowego</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -1411,10 +1404,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation variants="yes">
-            <lengthvariant>Nie można usunąć ostatniego słownika!</lengthvariant>
-            <lengthvariant>Ostatni słownik nie może być usunięty!</lengthvariant>
-        </translation>
+        <translation>Nie można usunąć ostatniego słownika!</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
@@ -3577,7 +3567,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     <name>KxOnlineFontController</name>
     <message>
         <source>Cloud font reserves to the upper (%1), please go to the &quot;management of cloud font&quot; page for details.</source>
-        <translation>Rezerwa czcionki chmury osiągnie górny limit (%1), proszę przejdź do &quot;zarządzanie czcionkami chmury&quot;. Szczegóły na stronie.</translation>
+        <translation>Rezerwa czcionki chmury osiągnie górny limit (%1), proszę przejdź do &quot;Zarządzanie czcionkami chmury&quot;. Szczegóły na stronie.</translation>
     </message>
     <message>
         <source>View Now</source>
@@ -6017,7 +6007,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Link to:</source>
-        <translation>Łącze do:</translation>
+        <translation>Połącz z:</translation>
     </message>
     <message>
         <source>&amp;Text to display:</source>
@@ -6110,10 +6100,7 @@ lub strona sieci Web</translation>
     <name>pasteSpecial</name>
     <message>
         <source>Paste Special</source>
-        <translation variants="yes">
-            <lengthvariant>Wklej specjalnie</lengthvariant>
-            <lengthvariant>Wklejanie specjalne</lengthvariant>
-        </translation>
+        <translation>Wklej specjalnie</translation>
     </message>
     <message>
         <source>Source:</source>

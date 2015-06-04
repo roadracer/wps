@@ -317,7 +317,7 @@ Esc					Zakończ bieżący pokaz slajdów</translation>
     <message>
         <source>WPS Presentation cannot be found or start %s. </source>
         <comment>WpInvalidateProgram</comment>
-        <translation>WPS Presentation nie możne znaleźć lub uruchomić %s. </translation>
+        <translation>Program WPS Presentation nie możne znaleźć lub uruchomić %s. </translation>
     </message>
     <message>
         <source>Custom Shows“</source>
@@ -846,7 +846,7 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Cut</source>
         <comment>WP_EFFECT_CUT</comment>
-        <translation>Wytnij</translation>
+        <translation>Wycinanie</translation>
     </message>
     <message>
         <source>Cut Through Black</source>
@@ -861,7 +861,7 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Fade Smoothly</source>
         <comment>WP_EFFECT_FADESMOOTHLY</comment>
-        <translation>Zanikanie łagodne</translation>
+        <translation>Zanikanie gładkie</translation>
     </message>
     <message>
         <source>Fade Through Black</source>
@@ -876,10 +876,7 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Push Down</source>
         <comment>WP_EFFECT_PUSHDOWN</comment>
-        <translation variants="yes">
-            <lengthvariant>Wypychanie do dołu</lengthvariant>
-            <lengthvariant>Wypychanie w dół</lengthvariant>
-        </translation>
+        <translation>Wypychanie w dół</translation>
     </message>
     <message>
         <source>Push Left</source>
@@ -894,10 +891,7 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Push Up</source>
         <comment>WP_EFFECT_PUSHUP</comment>
-        <translation variants="yes">
-            <lengthvariant>Wypychanie w górę</lengthvariant>
-            <lengthvariant>Wypychanie do góry</lengthvariant>
-        </translation>
+        <translation>Wypychanie w górę</translation>
     </message>
     <message>
         <source>Random Bars Horizontal</source>
@@ -927,28 +921,22 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Split Horizontal In</source>
         <comment>WP_EFFECT_SPLITHORIZONTALIN</comment>
-        <translation variants="yes">
-            <lengthvariant>Zwijanie poziome</lengthvariant>
-            <lengthvariant>Podziel w poziomie wewnątrz</lengthvariant>
-        </translation>
+        <translation>Podziel w poziomie wewnątrz</translation>
     </message>
     <message>
         <source>Split Horizontal Out</source>
         <comment>WP_EFFECT_SPLITHORIZONTALOUT</comment>
-        <translation>Podziel w poziomie zewnątrz</translation>
+        <translation>Podziel w poziomie na zewnątrz</translation>
     </message>
     <message>
         <source>Split Vertical In</source>
         <comment>WP_EFFECT_SPLITVERTICALIN</comment>
-        <translation variants="yes">
-            <lengthvariant>Zwijanie pionowe</lengthvariant>
-            <lengthvariant>Podziel w pionie wewnątrz</lengthvariant>
-        </translation>
+        <translation>Podziel w pionie wewnątrz</translation>
     </message>
     <message>
         <source>Split Vertical Out</source>
         <comment>WP_EFFECT_SPLITVERTICALOUT</comment>
-        <translation>Podziel w pionie zewnątrz</translation>
+        <translation>Podziel w pionie na zewnątrz</translation>
     </message>
     <message>
         <source>Strips Left-Down</source>
@@ -1043,34 +1031,22 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Wipe Down</source>
         <comment>WP_EFFECT_WIPEDOWN</comment>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w dół</lengthvariant>
-            <lengthvariant>Ścieranie w dół</lengthvariant>
-        </translation>
+        <translation>Ścieranie w dół</translation>
     </message>
     <message>
         <source>Wipe Left</source>
         <comment>WP_EFFECT_WIPELEFT</comment>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w lewo</lengthvariant>
-            <lengthvariant>Ścieranie w lewo</lengthvariant>
-        </translation>
+        <translation>Ścieranie w lewo</translation>
     </message>
     <message>
         <source>Wipe Right</source>
         <comment>WP_EFFECT_WIPERIGHT</comment>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w prawo</lengthvariant>
-            <lengthvariant>Ścieranie w prawo</lengthvariant>
-        </translation>
+        <translation>Ścieranie w prawo</translation>
     </message>
     <message>
         <source>Wipe Up</source>
         <comment>WP_EFFECT_WIPEUP</comment>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w górę</lengthvariant>
-            <lengthvariant>Ścieranie w górę</lengthvariant>
-        </translation>
+        <translation>Ścieranie w górę</translation>
     </message>
     <message>
         <source>Random Transition</source>
@@ -1212,10 +1188,7 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Used in This Presentation</source>
         <comment>WP_TP_DESIGNCATEGORY1</comment>
-        <translation variants="yes">
-            <lengthvariant>Używany w tej prezentacji</lengthvariant>
-            <lengthvariant>Używane w tej prezentacji</lengthvariant>
-        </translation>
+        <translation>Używany w tej prezentacji</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -1297,10 +1270,7 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>Faded Wipe</source>
         <comment>WP_ANIMATIONTYPE_FADEDWIPE</comment>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj</lengthvariant>
-            <lengthvariant>Ścieranie</lengthvariant>
-        </translation>
+        <translation>Ścieranie z rozmyciem</translation>
     </message>
     <message>
         <source>Faded Zoom</source>
@@ -1543,12 +1513,8 @@ Tekst podstawowy: Losowe pasy</translation>
         <source>Title: Fade
 Body: Wipe</source>
         <comment>WP_ANIMATIONTYPE_WIPE_TIP</comment>
-        <translation variants="yes">
-            <lengthvariant>Tytuł: Zanikanie
-Tekst podstawowy: Zetrzyj</lengthvariant>
-            <lengthvariant>Tytuł: Zanikanie
-Tekst podstawowy: Ścieranie</lengthvariant>
-        </translation>
+        <translation>Tytuł: Zanikanie
+Tekst podstawowy: Ścieranie</translation>
     </message>
     <message>
         <source>Body: Ascend</source>
@@ -1565,27 +1531,16 @@ Tekst podstawowy: Ścieranie</lengthvariant>
 Title: Compress
 Body: Compress</source>
         <comment>WP_ANIMATIONTYPE_COMPRESS_TIP</comment>
-        <translation variants="yes">
-            <lengthvariant>Przejście slajdu: Zwijanie pionowe
-Tytuł: Kompresja
-Tekst podstawowy: Kompresja</lengthvariant>
-            <lengthvariant>Przejście slajdu: Zwijanie pionowe
+        <translation>Przejście slajdu: Podziel w pionie wewnątrz
 Tytuł: Kompresuj
-Tekst podstawowy: Kompresuj</lengthvariant>
-            <lengthvariant>Przejście slajdu: Podziel w pionie wewnątrz
-Tytuł: Kompresja
-Tekst podstawowy: Kompresja</lengthvariant>
-            <lengthvariant>Przejście slajdu: Podziel w pionie wewnątrz
-Tytuł: Kompresuj
-Tekst podstawowy: Kompresuj</lengthvariant>
-        </translation>
+Tekst podstawowy: Kompresuj</translation>
     </message>
     <message>
         <source>Slide Transition: Fade Smoothly
 Title: Ease In
 Body: Custom</source>
         <comment>WP_ANIMATIONTYPE_ELEGANT_TIP</comment>
-        <translation>Przejście slajdu: Zanikanie łagodne
+        <translation>Przejście slajdu: Zanikanie gładkie
 Tytuł: Łagodne wejście
 Tekst podstawowy: Niestandardowy</translation>
     </message>
@@ -1594,14 +1549,9 @@ Tekst podstawowy: Niestandardowy</translation>
 Title: Rise Up
 Body: Rise Up</source>
         <comment>WP_ANIMATIONTYPE_RISEUP_TIP</comment>
-        <translation variants="yes">
-            <lengthvariant>Przejście slajdu: Zetrzyj w dół
+        <translation>Przejście slajdu: Ścieranie w dół
 Tytuł: Wznios w górę
-Tekst podstawowy: Wznios w górę</lengthvariant>
-            <lengthvariant>Przejście slajdu: Ścieranie w dół
-Tytuł: Wznios w górę
-Tekst podstawowy: Wznios w górę</lengthvariant>
-        </translation>
+Tekst podstawowy: Wznios w górę</translation>
     </message>
     <message>
         <source>Title: Descend
@@ -1712,14 +1662,9 @@ Tekst podstawowy: Wkraczanie</lengthvariant>
 Title: Curve Up
 Body: Wipe</source>
         <comment>WP_ANIMATIONTYPE_TITLEARC_TIP</comment>
-        <translation variants="yes">
-            <lengthvariant>Przejście slajdu: Zakrywanie w dół
+        <translation>Przejście slajdu: Zakrywanie w dół
 Tytuł: Krzywa wygięta w górę
-Tekst podstawowy: Zetrzyj</lengthvariant>
-            <lengthvariant>Przejście slajdu: Zakrywanie w dół
-Tytuł: Krzywa wygięta w górę
-Tekst podstawowy: Ścieranie</lengthvariant>
-        </translation>
+Tekst podstawowy: Ścieranie</translation>
     </message>
     <message>
         <source>Slide Transition: Uncover Down
@@ -1929,7 +1874,7 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
     <message>
         <source>WPS Presentation Slide Show - </source>
         <comment>WPPlayerCation</comment>
-        <translation>WPS Presentation pokaz slajdów -</translation>
+        <translation>Pokaz slajdów WPS Presentation - </translation>
     </message>
     <message>
         <source>The contents you pasted contains tabs. Do you want to paste tabs as a table?</source>
@@ -3208,28 +3153,22 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Split Horizontal In</source>
         <comment>wpp_sAnimDirectionHorizontalIn</comment>
-        <translation variants="yes">
-            <lengthvariant>Zwijanie poziome</lengthvariant>
-            <lengthvariant>Podziel w poziomie wewnątrz</lengthvariant>
-        </translation>
+        <translation>Podziel w poziomie wewnątrz</translation>
     </message>
     <message>
         <source>Split &amp;Horizontal In</source>
         <comment>wpp_sAnimDirectionHorizontalIn2</comment>
-        <translation variants="yes">
-            <lengthvariant>Zwijanie p&amp;oziome</lengthvariant>
-            <lengthvariant>Podziel w p&amp;oziomie wewnątrz</lengthvariant>
-        </translation>
+        <translation>Podziel w p&amp;oziomie wewnątrz</translation>
     </message>
     <message>
         <source>Split Horizontal Out</source>
         <comment>wpp_sAnimDirectionHorizontalOut</comment>
-        <translation>Podziel w poziomie zewnątrz</translation>
+        <translation>Podziel w poziomie na zewnątrz</translation>
     </message>
     <message>
         <source>Split H&amp;orizontal Out</source>
         <comment>wpp_sAnimDirectionHorizontalOut2</comment>
-        <translation>Podziel w po&amp;ziomie zewnątrz</translation>
+        <translation>Podziel w po&amp;ziomie na zewnątrz</translation>
     </message>
     <message>
         <source>In</source>
@@ -3454,28 +3393,22 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Split Vertical In</source>
         <comment>wpp_sAnimDirectionVerticalIn</comment>
-        <translation variants="yes">
-            <lengthvariant>Zwijanie pionowe</lengthvariant>
-            <lengthvariant>Podziel w pionie wewnątrz</lengthvariant>
-        </translation>
+        <translation>Podziel w pionie wewnątrz</translation>
     </message>
     <message>
         <source>Split &amp;Vertical In</source>
         <comment>wpp_sAnimDirectionVerticalIn2</comment>
-        <translation variants="yes">
-            <lengthvariant>Zwijanie p&amp;ionowe</lengthvariant>
-            <lengthvariant>Podziel w p&amp;ionie wewnątrz</lengthvariant>
-        </translation>
+        <translation>Podziel w p&amp;ionie wewnątrz</translation>
     </message>
     <message>
         <source>Split Vertical Out</source>
         <comment>wpp_sAnimDirectionVerticalOut</comment>
-        <translation>Podziel w pionie zewnątrz</translation>
+        <translation>Podziel w pionie na zewnątrz</translation>
     </message>
     <message>
         <source>Split V&amp;ertical Out</source>
         <comment>wpp_sAnimDirectionVerticalOut2</comment>
-        <translation>Podziel w pio&amp;nie zewnątrz</translation>
+        <translation>Podziel w pio&amp;nie na zewnątrz</translation>
     </message>
     <message>
         <source>Blast</source>
@@ -4014,7 +3947,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Blinds</source>
         <comment>wpp_sAnimEnterEffectTextBlinds</comment>
-        <translation>Żaluzja</translation>
+        <translation>Żaluzje</translation>
     </message>
     <message>
         <source>Boomerang</source>
@@ -4323,7 +4256,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>Blinds</source>
         <comment>wpp_sAnimExitEffectTextBlinds</comment>
-        <translation>Żaluzja</translation>
+        <translation>Żaluzje</translation>
     </message>
     <message>
         <source>Boomerang</source>
@@ -4760,10 +4693,7 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
         <comment>wpp_sCannotBeDelete</comment>
-        <translation variants="yes">
-            <lengthvariant>Ostatni schemat kolorów nie może być usunięty. Prezentacja musi zawsze zawierać co najmniej jeden standardowy schemat kolorów.</lengthvariant>
-            <lengthvariant>Ostatni schemat kolorów nie może być usunięty. Prezentacja zawsze musi zawierać co najmniej jeden standardowy schemat kolorów.</lengthvariant>
-        </translation>
+        <translation>Ostatni schemat kolorów nie może być usunięty. Prezentacja musi zawsze zawierać co najmniej jeden standardowy schemat kolorów.</translation>
     </message>
     <message>
         <source>You cannot use a date format in a different language than the slide master. The current date on the master is formatted for %s. To change the master, click Apply to All instead of Apply.</source>
@@ -5491,8 +5421,8 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
         <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
         <comment>wpp_sReplaceAllFound</comment>
         <translation variants="yes">
-            <lengthvariant>WPS Presentation zakończył przeszukiwanie prezentacji. Wykonano %d zamian.</lengthvariant>
-            <lengthvariant>WPS Presentation zakończył przeszukiwanie prezentacji. Wykonano następującą liczbę zamian: %d.</lengthvariant>
+            <lengthvariant>Program WPS Presentation zakończył przeszukiwanie prezentacji. Wykonano %d zamian.</lengthvariant>
+            <lengthvariant>Program WPS Presentation zakończył przeszukiwanie prezentacji. Wykonano następującą liczbę zamian: %d.</lengthvariant>
         </translation>
     </message>
     <message>
@@ -6982,12 +6912,12 @@ pisowni</translation>
     <message>
         <source>WPS Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
         <comment>WP_Cannot_InsertSound</comment>
-        <translation>WPS Presentation nie może wstawić dźwięku z wybranego pliku. Sprawdź ścieżkę i nazwę pliku, a następnie spróbuj ponownie.</translation>
+        <translation>Program WPS Presentation nie może wstawić dźwięku z wybranego pliku. Sprawdź ścieżkę i nazwę pliku, a następnie spróbuj ponownie.</translation>
     </message>
     <message>
         <source>WPS Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
         <comment>WP_Cannot_InsertMovie</comment>
-        <translation>WPS Presentation nie może wstawić filmu z wybranego pliku. Sprawdź ścieżkę i nazwę pliku, a następnie spróbuj ponownie.</translation>
+        <translation>Program WPS Presentation nie może wstawić filmu z wybranego pliku. Sprawdź ścieżkę i nazwę pliku, a następnie spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Chinese Conversion...</source>
@@ -7080,11 +7010,7 @@ pisowni</translation>
     <message>
         <source>Involved Template</source>
         <comment>WpINVOLVEDTEMPLATE</comment>
-        <translation variants="yes">
-            <lengthvariant>Szablon powiązany</lengthvariant>
-            <lengthvariant>Szablon zaangażowany</lengthvariant>
-            <lengthvariant>Szablon uwzględniany</lengthvariant>
-        </translation>
+        <translation>Szablon powiązany</translation>
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
