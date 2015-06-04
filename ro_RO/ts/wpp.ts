@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă proiect</translation>
     </message>
 </context>
 <context>
@@ -3359,7 +3359,7 @@ dimensiunea documentului sau dimensiunea imaginii.</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Tranziție diapozitiv</translation>
     </message>
 </context>
 <context>

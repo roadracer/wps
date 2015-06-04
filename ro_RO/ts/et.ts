@@ -952,7 +952,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Queries currently being executed in the background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interogările sunt executate actualmente în fundal:</translation>
     </message>
 </context>
 <context>
@@ -1185,95 +1185,95 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Highlight-Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat-Valoare</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Egal cu</translation>
     </message>
     <message>
         <source>Not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu este egal cu</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mare decât</translation>
     </message>
     <message>
         <source>Greater than or equal</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mare decât sau egal cu</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mic decât</translation>
     </message>
     <message>
         <source>Less than or equal</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai mic decât sau egal cu</translation>
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished">și</translation>
+        <translation>și</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished">Între</translation>
+        <translation>Între</translation>
     </message>
     <message>
         <source>Not between</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu este între</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished">Sus</translation>
+        <translation>Sus</translation>
     </message>
     <message>
         <source>Items</source>
-        <translation type="unfinished">Elemente</translation>
+        <translation>Elemente</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished">Dedesubt</translation>
+        <translation>Dedesubt</translation>
     </message>
     <message>
         <source>% Items</source>
-        <translation type="unfinished"></translation>
+        <translation>% elemente</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished">Medie</translation>
+        <translation>Medie</translation>
     </message>
     <message>
         <source>Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Deasupra</translation>
     </message>
     <message>
         <source>Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Dedesubt</translation>
     </message>
     <message>
         <source>Highlight-Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat-Text</translation>
     </message>
     <message>
         <source>Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Conține</translation>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu conține</translation>
     </message>
     <message>
         <source>Begin with</source>
-        <translation type="unfinished"></translation>
+        <translation>Începe cu</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation type="unfinished"></translation>
+        <translation>Se termină cu</translation>
     </message>
     <message>
         <source>Highlight-Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat-Dată</translation>
     </message>
     <message>
         <source>A Date Occurring</source>
@@ -1281,59 +1281,59 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished">Ieri</translation>
+        <translation>Ieri</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished">Azi</translation>
+        <translation>Azi</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished">Mâine</translation>
+        <translation>Mâine</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation type="unfinished"></translation>
+        <translation>În ultimele 7 zile</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima săptămână</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation type="unfinished"></translation>
+        <translation>Această săptămână</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Săptămâna următoare</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima lună</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation type="unfinished"></translation>
+        <translation>Luna aceasta</translation>
     </message>
     <message>
         <source>Next month</source>
-        <translation type="unfinished"></translation>
+        <translation>Luna următoare</translation>
     </message>
     <message>
         <source>Weekend</source>
-        <translation type="unfinished"></translation>
+        <translation>Weekend</translation>
     </message>
     <message>
         <source>Highlight-Special Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiat-Valoare specială</translation>
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Celulă goală</translation>
     </message>
     <message>
         <source>Error value </source>
-        <translation type="unfinished"></translation>
+        <translation>Valoare eroare </translation>
     </message>
     <message>
         <source>Lack input value</source>
@@ -1341,7 +1341,7 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>The required range value is insufficient</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalul de valoare solicitat este insuficient</translation>
     </message>
 </context>
 <context>
@@ -1969,7 +1969,7 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Condition Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Subliniere condiție</translation>
     </message>
     <message>
         <source>Cells subjected to the following conditions</source>
@@ -1977,11 +1977,11 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>Keep the cell to its former setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Păstrează celula la fosta configurare</translation>
     </message>
     <message>
         <source>Display the following effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează următorul efect</translation>
     </message>
 </context>
 <context>
@@ -2234,7 +2234,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>headerfooter</source>
-        <translation type="unfinished"></translation>
+        <translation>antetsubsol</translation>
     </message>
 </context>
 <context>
@@ -3071,71 +3071,70 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgHeaderFooterWidget</name>
     <message>
         <source>input</source>
-        <translation type="unfinished">intrare</translation>
+        <translation>intrare</translation>
     </message>
     <message>
         <source>To format text: select the text, then click the font button.</source>
-        <translation type="unfinished">Pentru formatarea textului: selectați textul, apoi apăsați butonul font.</translation>
+        <translation>Pentru formatarea textului: selectați textul, apoi apăsați butonul font.</translation>
     </message>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
 box, then choose the appropriate button.</source>
-        <translation type="unfinished">Pentru a introduce un număr de pagină, dată, oră, nume fișier: poziționați punctul de introducere în caseta de editare,
-apoi alegeți butonul corespunzător.</translation>
+        <translation>Pentru a introduce un număr de pagină, dată, oră, nume fișier: poziționați punctul de introducere în caseta de editare,apoi alegeți butonul corespunzător.</translation>
     </message>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation type="unfinished">Pentru a introduce o poză: apăsați butonul Introducere poză. Pentru a formata poza, plasați cursorul
+        <translation>Pentru a introduce o poză: apăsați butonul Introducere poză. Pentru a formata poza, plasați cursorul
 în caseta editare și apăsați butonul Formatare poză.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished">Font</translation>
+        <translation>Font</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished">Număr pagină</translation>
+        <translation>Număr pagină</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished">Număr de pagini</translation>
+        <translation>Număr de pagini</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Dată</translation>
+        <translation>Dată</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished">Timp</translation>
+        <translation>Timp</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Fișier</translation>
+        <translation>Fișier</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation type="unfinished">Nume foaie</translation>
+        <translation>Nume foaie</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation type="unfinished">Introduceți poză</translation>
+        <translation>Introduceți poză</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="unfinished">Resetare poză</translation>
+        <translation>Resetare poză</translation>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation type="unfinished">Secțiunea din &amp;stânga:</translation>
+        <translation>Secțiunea din &amp;stânga:</translation>
     </message>
     <message>
         <source>&amp;Center section:</source>
-        <translation type="unfinished">Secțiunea din &amp;centru:</translation>
+        <translation>Secțiunea din &amp;centru:</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
-        <translation type="unfinished">Secțiunea din d&amp;reapta:</translation>
+        <translation>Secțiunea din d&amp;reapta:</translation>
     </message>
 </context>
 <context>
@@ -4112,15 +4111,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create&amp;Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Creează&amp;Backup</translation>
     </message>
     <message>
         <source>RecommendedReadOnlyOption</source>
-        <translation type="unfinished"></translation>
+        <translation>Opțiune recomandată doar citire</translation>
     </message>
     <message>
         <source>&amp;RecommendedReadOnly</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Recomandat doar citire</translation>
     </message>
 </context>
 <context>
@@ -4383,19 +4382,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Different odd and even pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagini pare și impare &amp;diferite</translation>
     </message>
     <message>
         <source>D&amp;ifferent first page</source>
-        <translation type="unfinished"></translation>
+        <translation>Prima pagină d&amp;iferită</translation>
     </message>
     <message>
         <source>Sca&amp;le with document</source>
-        <translation type="unfinished"></translation>
+        <translation>Sca&amp;lează cu document</translation>
     </message>
     <message>
         <source>Align with page &amp;margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliniază cu pagină &amp;margini</translation>
     </message>
 </context>
 <context>
@@ -4564,7 +4563,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>For error &amp;values, show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru &amp;valorile de eroare, arată:</translation>
     </message>
     <message>
         <source>&amp;Refresh on open</source>
@@ -6399,47 +6398,47 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     <name>KxEtPermissionInformationDlg</name>
     <message>
         <source>My Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisiunea mea</translation>
     </message>
     <message>
         <source>You are currently authenticated to view this document as:	</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunteți autentificat curent să vizualizați documentul ca:	</translation>
     </message>
     <message>
         <source>userName</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume utilizator</translation>
     </message>
     <message>
         <source>Change user...</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă utilizatorul...</translation>
     </message>
     <message>
         <source>You have the following permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aveți următoarele permisiuni:</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Vizualizare</translation>
+        <translation>Vizualizare</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Editare</translation>
+        <translation>Editare</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiază</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Tipărește</translation>
+        <translation>Tipărește</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Salvează</translation>
+        <translation>Salvează</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă</translation>
     </message>
     <message>
         <source>Access the document programmatically</source>
@@ -6447,19 +6446,19 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
     <message>
         <source>Full Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control total</translation>
     </message>
     <message>
         <source>Permission expiration date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dată expirare permisiune:</translation>
     </message>
     <message>
         <source>(N/A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(N/A)</translation>
     </message>
     <message>
         <source>Resquest additional permissions... </source>
-        <translation type="unfinished"></translation>
+        <translation>Solicită permisiuni suplimentare... </translation>
     </message>
 </context>
 <context>
@@ -7186,105 +7185,105 @@ on iteration #%2.</source>
     <name>KxHeaderFooterDlg</name>
     <message>
         <source>Header</source>
-        <translation type="unfinished">Antet</translation>
+        <translation>Antet</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished">Subsol</translation>
+        <translation>Subsol</translation>
     </message>
     <message>
         <source>Odd Page %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagină impară %1</translation>
     </message>
     <message>
         <source>Even Page %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagină pară %1</translation>
     </message>
     <message>
         <source>First Page %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Prima pagină %1</translation>
     </message>
 </context>
 <context>
     <name>KxHeaderFooterWidget</name>
     <message>
         <source>File</source>
-        <translation type="unfinished">Fișier</translation>
+        <translation>Fișier</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished">Număr pagină</translation>
+        <translation>Număr pagină</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished">Număr de pagini</translation>
+        <translation>Număr de pagini</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Dată</translation>
+        <translation>Dată</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished">Timp</translation>
+        <translation>Timp</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation type="unfinished">Nume foaie</translation>
+        <translation>Nume foaie</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished">Poză</translation>
+        <translation>Poză</translation>
     </message>
     <message>
         <source>&amp;[%1]</source>
-        <translation type="unfinished">&amp;[%1]</translation>
+        <translation>&amp;[%1]</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Deschide</translation>
+        <translation>Deschide</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished">Toate pozele</translation>
+        <translation>Toate pozele</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished">Windows Enhanced Metafile</translation>
+        <translation>Windows Enhanced Metafile</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished">Windows Metafile</translation>
+        <translation>Windows Metafile</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished">JPEG File InterChange Format</translation>
+        <translation>JPEG File InterChange Format</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished">Portable Network Graphics</translation>
+        <translation>Portable Network Graphics</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation type="unfinished">Windows Bitmap</translation>
+        <translation>Windows Bitmap</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished">Graphics Interchange Format</translation>
+        <translation>Graphics Interchange Format</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished">Tag Image File Format</translation>
+        <translation>Tag Image File Format</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation type="unfinished">Antetul sau subsolul (totalsecțiuni din stânga,centru și dreapta) nu pot fi mai lungi de 255 caractere. Ștergeți ceva text, sau faceți formatarea mai puțin complexă.</translation>
+        <translation>Antetul sau subsolul (totalsecțiuni din stânga,centru și dreapta) nu pot fi mai lungi de 255 caractere. Ștergeți ceva text, sau faceți formatarea mai puțin complexă.</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
 
 To replace existing picture, press OK.
 To keep existing picture, press Cancel.</source>
-        <translation type="unfinished">Numai o poză poate fi introdusă în fiecare secțiune a %1.
+        <translation>Numai o poză poate fi introdusă în fiecare secțiune a %1.
 
 Pentru a înlocui poza existentă, apăsați OK.
 Pentru a păstra poza existentă, apăsați Anulează.</translation>
@@ -8807,107 +8806,107 @@ You may still need to manually update any references to this name used in VBA co
     <name>KxValidationDlg</name>
     <message>
         <source>&amp;Minimum:</source>
-        <translation type="unfinished">&amp;Minim:</translation>
+        <translation>&amp;Minim:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation type="unfinished">Ma&amp;xim:</translation>
+        <translation>Ma&amp;xim:</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation type="unfinished">&amp;Sursă:</translation>
+        <translation>&amp;Sursă:</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation type="unfinished">Dată &amp;pornire:</translation>
+        <translation>Dată &amp;pornire:</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation type="unfinished">Dată termi&amp;nare:</translation>
+        <translation>Dată termi&amp;nare:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
-        <translation type="unfinished">Timp &amp;pornire:</translation>
+        <translation>Timp &amp;pornire:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
-        <translation type="unfinished">Timp termi&amp;nare:</translation>
+        <translation>Timp termi&amp;nare:</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation type="unfinished">&amp;Formulă:</translation>
+        <translation>&amp;Formulă:</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation type="unfinished">&amp;Valoare:</translation>
+        <translation>&amp;Valoare:</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation type="unfinished">&amp;Timp:</translation>
+        <translation>&amp;Timp:</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
-        <translation type="unfinished">Da&amp;tă:</translation>
+        <translation>Da&amp;tă:</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation type="unfinished">Trebuie să introduceți un Maxim și un Minim.</translation>
+        <translation>Trebuie să introduceți un Maxim și un Minim.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation type="unfinished">Trebuie să introduceți o valoare.</translation>
+        <translation>Trebuie să introduceți o valoare.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation type="unfinished">Trebuie să introduceți un Minim.</translation>
+        <translation>Trebuie să introduceți un Minim.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation type="unfinished">Trebuie să introduceți un Maxim.</translation>
+        <translation>Trebuie să introduceți un Maxim.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation type="unfinished">Trebuie să introduceți o Sursă.</translation>
+        <translation>Trebuie să introduceți o Sursă.</translation>
     </message>
     <message>
         <source>The Formula cannot be longer than 255 characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formula nu poate fi mai lungă de 255 caractere.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation type="unfinished">Trebuie să introduceți o Dată.</translation>
+        <translation>Trebuie să introduceți o Dată.</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
-        <translation type="unfinished">Trebuie să introduceți o dată de oprire cât și o dată de pornire.</translation>
+        <translation>Trebuie să introduceți o dată de oprire cât și o dată de pornire.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
-        <translation type="unfinished">Trebuie să introduceți o dată de oprire.</translation>
+        <translation>Trebuie să introduceți o dată de oprire.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
-        <translation type="unfinished">Trebuie să introduceți o dată de pornire.</translation>
+        <translation>Trebuie să introduceți o dată de pornire.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
-        <translation type="unfinished">Trebuie să introduceți un timp de oprire cât și un timp de pornire.</translation>
+        <translation>Trebuie să introduceți un timp de oprire cât și un timp de pornire.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation type="unfinished">Trebuie să introduceți o Oră.</translation>
+        <translation>Trebuie să introduceți o Oră.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
-        <translation type="unfinished">Trebuie să introduceți un timp de pornire.</translation>
+        <translation>Trebuie să introduceți un timp de pornire.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
-        <translation type="unfinished">Trebuie să introduceți un timp de oprire.</translation>
+        <translation>Trebuie să introduceți un timp de oprire.</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
-        <translation type="unfinished">Trebuie să introduceți o Formulă.</translation>
+        <translation>Trebuie să introduceți o Formulă.</translation>
     </message>
 </context>
 <context>
@@ -10409,7 +10408,7 @@ t</translation>
     </message>
     <message>
         <source>Population Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mărime populație:</translation>
     </message>
     <message>
         <source>Random Seed:</source>

@@ -5499,7 +5499,7 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Align Center</source>
         <comment>TxVersion_AlignCenter</comment>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Distribute</source>
@@ -6470,14 +6470,12 @@ dokumentu</translation>
     <message>
         <source>Deleted</source>
         <comment>TxBalloon_RevisionDeleted</comment>
-        <translatorcomment>Usunięto</translatorcomment>
-        <translation>Usunięte</translation>
+        <translation>Usunięto</translation>
     </message>
     <message>
         <source>Inserted</source>
         <comment>TxBalloon_RevisionInserted</comment>
-        <translatorcomment>Wstawiono</translatorcomment>
-        <translation>Wstawione</translation>
+        <translation>Wstawiono</translation>
     </message>
     <message>
         <source>Close Compare Side by Side</source>
@@ -6774,26 +6772,17 @@ pisowni</translation>
     <message>
         <source>Before Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaMarginBefore</comment>
-        <translation variants="yes">
-            <lengthvariant>Odstępy przed: %.2f wiersze</lengthvariant>
-            <lengthvariant>Odstępy przed: %.2f linie</lengthvariant>
-        </translation>
+        <translation>Odstępy przed: %.2f wiersze</translation>
     </message>
     <message>
         <source>After Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaMarginAfter</comment>
-        <translation variants="yes">
-            <lengthvariant>Odstępy po: %.2f wiersze</lengthvariant>
-            <lengthvariant>Odstępy po: %.2f linie</lengthvariant>
-        </translation>
+        <translation>Odstępy po: %.2f wiersze</translation>
     </message>
     <message>
         <source>Line Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaLineSpacing</comment>
-        <translation variants="yes">
-            <lengthvariant>Interlinia %.2f wiersze</lengthvariant>
-            <lengthvariant>Interlinia %.2f linie</lengthvariant>
-        </translation>
+        <translation>Interlinia %.2f wiersze</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
@@ -6938,7 +6927,6 @@ pisowni</translation>
         <comment>TxTableStyle_TableNormal</comment>
         <translation variants="yes">
             <lengthvariant>Zwykła tabela</lengthvariant>
-            <lengthvariant>Normalna tabela</lengthvariant>
             <lengthvariant>Standardowy</lengthvariant>
         </translation>
     </message>
