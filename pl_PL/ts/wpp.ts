@@ -294,19 +294,11 @@
     <name>DlgKxInvolvedTemplate</name>
     <message>
         <source>Involved Template</source>
-        <translation variants="yes">
-            <lengthvariant>Szablon powiązany</lengthvariant>
-            <lengthvariant>Szablon zaangażowany</lengthvariant>
-            <lengthvariant>Szablon uwzględniany</lengthvariant>
-        </translation>
+        <translation>Szablon powiązany</translation>
     </message>
     <message>
         <source>Select Involved Template</source>
-        <translation variants="yes">
-            <lengthvariant>Wybierz szablon powiązany</lengthvariant>
-            <lengthvariant>Wybierz szablon zaangażowany</lengthvariant>
-            <lengthvariant>Wybierz szablon uwzględniany</lengthvariant>
-        </translation>
+        <translation>Wybierz szablon powiązany</translation>
     </message>
     <message>
         <source>Apply Current</source>
@@ -345,7 +337,7 @@
     </message>
     <message>
         <source>Show options</source>
-        <translation>Pokaż opcje</translation>
+        <translation>Opcje pokazu</translation>
     </message>
     <message>
         <source>&amp;Loop continuously until &apos;Esc&apos;</source>
@@ -762,10 +754,7 @@
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation variants="yes">
-            <lengthvariant>Ładowanie KUI</lengthvariant>
-            <lengthvariant>Wczytywanie KUI</lengthvariant>
-        </translation>
+        <translation>Ładowanie GUI</translation>
     </message>
 </context>
 <context>
@@ -800,10 +789,7 @@
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation variants="yes">
-            <lengthvariant>&amp;Kreskowany:</lengthvariant>
-            <lengthvariant>&amp;Kreskowana:</lengthvariant>
-        </translation>
+        <translation>&amp;Kreskowany:</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
@@ -1201,7 +1187,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation>Zamień w&amp;szystkie</translation>
+        <translation>Zamień w&amp;szystko</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
@@ -1209,7 +1195,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation>I&amp;gnoruj ​​wszystkie</translation>
+        <translation>I&amp;gnoruj ​​wszystko</translation>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
@@ -1256,10 +1242,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Aktualizuj automatycznie</lengthvariant>
-            <lengthvariant>&amp;Automatyczna aktualizacja</lengthvariant>
-        </translation>
+        <translation>&amp;Automatyczna aktualizacja</translation>
     </message>
 </context>
 <context>
@@ -1526,10 +1509,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Aktualizuj automatycznie</lengthvariant>
-            <lengthvariant>&amp;Automatyczna aktualizacja</lengthvariant>
-        </translation>
+        <translation>&amp;Automatyczna aktualizacja</translation>
     </message>
     <message>
         <source>&amp;Language:</source>
@@ -1614,10 +1594,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxDlgInsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw tabelę</lengthvariant>
-            <lengthvariant>Wstawianie tabeli</lengthvariant>
-        </translation>
+        <translation>Wstawianie tabeli</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
@@ -1786,10 +1763,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Ostatnio używane pliki:</lengthvariant>
-            <lengthvariant>Lista &amp;ostatnio używanych plików:</lengthvariant>
-        </translation>
+        <translation>&amp;Ostatnio używane pliki:</translation>
     </message>
     <message>
         <source>Recovery options</source>
@@ -1797,10 +1771,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation variants="yes">
-            <lengthvariant>Utwórz &amp;plik kopii zapasowej przy pierwszym zapisie</lengthvariant>
-            <lengthvariant>Tworzenie &amp;pliku kopii zapasowej podczas pierwszego zapisywania</lengthvariant>
-        </translation>
+        <translation>Utwórz &amp;plik kopii zapasowej przy pierwszym zapisie</translation>
     </message>
     <message>
         <source>&amp;Save backup file every:</source>
@@ -1994,21 +1965,15 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>WPS Presentation File</source>
-        <translation>Plik WPS Presentation</translation>
+        <translation>Plik programu WPS Presentation</translation>
     </message>
     <message>
         <source>Start with</source>
-        <translation variants="yes">
-            <lengthvariant>Rozpocznij od</lengthvariant>
-            <lengthvariant>Początek od</lengthvariant>
-        </translation>
+        <translation>Rozpocznij od</translation>
     </message>
     <message>
         <source>Start with:</source>
-        <translation variants="yes">
-            <lengthvariant>Rozpocznij od:</lengthvariant>
-            <lengthvariant>Początek od:</lengthvariant>
-        </translation>
+        <translation>Rozpocznij od:</translation>
     </message>
     <message>
         <source>Online Templates(&amp;G)</source>
@@ -2064,10 +2029,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation variants="yes">
-            <lengthvariant>Pokaż &amp;okna na pasku zadań</lengthvariant>
-            <lengthvariant>Pokaż &amp;okna w pasku zadań</lengthvariant>
-        </translation>
+        <translation>Pokaż &amp;okna na pasku zadań</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -2083,17 +2045,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Password protect</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Chroń hasłem</lengthvariant>
-            <lengthvariant>Hasło ochrony</lengthvariant>
-        </translation>
+        <translation>Chroń hasłem</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation variants="yes">
-            <lengthvariant>Przycisk Zaawansowane pozwala wybrać spośród różnych typów szyfrowania.</lengthvariant>
-            <lengthvariant>Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.</lengthvariant>
-        </translation>
+        <translation>Przycisk Zaawansowane pozwala wybrać spośród różnych typów szyfrowania.</translation>
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
@@ -2210,7 +2166,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowe</translation>
+        <translation>Niestandardowy</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -2287,113 +2243,6 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <message>
         <source>Widescreen</source>
         <translation>Panoramiczny</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgParagraph</name>
-    <message>
-        <source>Paragraph</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Indents and Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>point, 2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>line, 2, 0, 9.99, 0.1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;fter:</source>
-        <translation type="unfinished">P&amp;o:</translation>
-    </message>
-    <message>
-        <source>&amp;At:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Before:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Li&amp;ne spacing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spacing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ali&amp;gnment:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Indentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Befo&amp;re text:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Special:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>B&amp;y:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line Break</source>
-        <translation type="unfinished">Podział wiersza</translation>
-    </message>
-    <message>
-        <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
-        <translation type="unfinished">Zezwalaj na &amp;zawijanie tekstu łacińskiego w środku wyrazu</translation>
-    </message>
-    <message>
-        <source>Allow hanging punctuatio&amp;n</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First and last characters</source>
-        <translation type="unfinished">Pierwsze i ostatnie znaki</translation>
-    </message>
-    <message>
-        <source>&amp;Standard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custo&amp;m</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot st&amp;art line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cann&amp;ot end line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line-breaking characters currently customized for:</source>
-        <translation type="unfinished">Znaki podziału wierszy są aktualnie dostosowane dla języka:</translation>
     </message>
 </context>
 <context>
@@ -2668,7 +2517,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>&amp;Hyperlink to:</source>
-        <translation>&amp;Hiperłącze do:</translation>
+        <translation>&amp;Hiperłącze z:</translation>
     </message>
     <message>
         <source>Next slide</source>
@@ -2959,17 +2808,11 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Lines</source>
-        <translation variants="yes">
-            <lengthvariant>Wiersze</lengthvariant>
-            <lengthvariant>Linie</lengthvariant>
-        </translation>
+        <translation>Wiersze</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation variants="yes">
-            <lengthvariant>Punkty</lengthvariant>
-            <lengthvariant>Punktów</lengthvariant>
-        </translation>
+        <translation>Punkty</translation>
     </message>
     <message>
         <source>&amp;Before paragraph</source>
@@ -3969,10 +3812,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatni schemat kolorów nie może być usunięty. Prezentacja musi zawsze zawierać co najmniej jeden standardowy schemat kolorów.</lengthvariant>
-            <lengthvariant>Ostatni schemat kolorów nie może być usunięty. Prezentacja zawsze musi zawierać co najmniej jeden standardowy schemat kolorów.</lengthvariant>
-        </translation>
+        <translation>Ostatni schemat kolorów nie może być usunięty. Prezentacja musi zawsze zawierać co najmniej jeden standardowy schemat kolorów.</translation>
     </message>
 </context>
 <context>
@@ -4204,68 +4044,10 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
 <context>
-    <name>KxWppFormatRangeSaveAsCommand</name>
-    <message>
-        <source>Preparing for Video Export</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to setup Supporter of Video Export.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
         <translation>Bez linii</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppNewSlidesGalleryModel</name>
-    <message>
-        <source>Blank Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Content Slides</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title and Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Title Slide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blank</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cover</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Catalog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Body</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ending</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4322,52 +4104,6 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
 <context>
-    <name>KxWppShowOffscreen</name>
-    <message>
-        <source>An Offscreen Show of this presentation is already running.
-Sure to close?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppSoundBarWidget</name>
-    <message>
-        <source>Move forward 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move back 0.25 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play/Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Volume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxWppStatusZoomOptionGalleryModel</name>
-    <message>
-        <source>Zoom Level</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>P&amp;ercent:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Fit Selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxWppTransModel</name>
     <message>
         <source>None</source>
@@ -4379,10 +4115,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Wipe</source>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj</lengthvariant>
-            <lengthvariant>Ścieranie</lengthvariant>
-        </translation>
+        <translation>Ścieranie</translation>
     </message>
     <message>
         <source>Push and Cover</source>
@@ -4495,11 +4228,11 @@ Sure to close?</source>
     </message>
     <message>
         <source>Blinds 1</source>
-        <translation>Żaluzja 1</translation>
+        <translation>Żaluzje 1</translation>
     </message>
     <message>
         <source>Blinds 2</source>
-        <translation>Żaluzja 2</translation>
+        <translation>Żaluzje 2</translation>
     </message>
     <message>
         <source>Box In</source>
@@ -4543,27 +4276,27 @@ Sure to close?</source>
     </message>
     <message>
         <source>Cover 1</source>
-        <translation>Okładka 1</translation>
+        <translation>Zakrywanie 1</translation>
     </message>
     <message>
         <source>Cover 2</source>
-        <translation>Okładka 2</translation>
+        <translation>Zakrywanie 2</translation>
     </message>
     <message>
         <source>Cover 3</source>
-        <translation>Okładka 3</translation>
+        <translation>Zakrywanie 3</translation>
     </message>
     <message>
         <source>Cover 4</source>
-        <translation>Okładka 4</translation>
+        <translation>Zakrywanie 4</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Wytnij</translation>
+        <translation>Wycinanie</translation>
     </message>
     <message>
         <source>Cut Black</source>
-        <translation>Wytnij czarny</translation>
+        <translation>Wycinanie poprzez czerń</translation>
     </message>
     <message>
         <source>Dissolve</source>
@@ -4571,7 +4304,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Fade Smooth</source>
-        <translation>Zanikanie łagodne</translation>
+        <translation>Zanikanie gładkie</translation>
     </message>
     <message>
         <source>Fade</source>
@@ -4579,11 +4312,11 @@ Sure to close?</source>
     </message>
     <message>
         <source>News</source>
-        <translation>Wiadomości</translation>
+        <translation>Czołówka</translation>
     </message>
     <message>
         <source>Push Down</source>
-        <translation>Wypychanie do dołu</translation>
+        <translation>Wypychanie w dół</translation>
     </message>
     <message>
         <source>Push Left</source>
@@ -4595,10 +4328,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Push Up</source>
-        <translation variants="yes">
-            <lengthvariant>Wypychanie w górę</lengthvariant>
-            <lengthvariant>Wypychanie do góry</lengthvariant>
-        </translation>
+        <translation>Wypychanie w górę</translation>
     </message>
     <message>
         <source>Random 1</source>
@@ -4614,11 +4344,11 @@ Sure to close?</source>
     </message>
     <message>
         <source>Diamond Out</source>
-        <translation>Diament na zewnątrz</translation>
+        <translation>Karo na zewnątrz</translation>
     </message>
     <message>
         <source>Plus Out</source>
-        <translation>Najbardziej zewnętrzne</translation>
+        <translation>Plus na zewnątrz</translation>
     </message>
     <message>
         <source>Split 1</source>
@@ -4690,66 +4420,39 @@ Sure to close?</source>
     </message>
     <message>
         <source>Wheel 1</source>
-        <translation variants="yes">
-            <lengthvariant>Koło 1</lengthvariant>
-            <lengthvariant>Kółko 1</lengthvariant>
-        </translation>
+        <translation>Koło 1</translation>
     </message>
     <message>
         <source>Wheel 2</source>
-        <translation variants="yes">
-            <lengthvariant>Koło 2</lengthvariant>
-            <lengthvariant>Kółko 2</lengthvariant>
-        </translation>
+        <translation>Koło 2</translation>
     </message>
     <message>
         <source>Wheel 3</source>
-        <translation variants="yes">
-            <lengthvariant>Koło 3</lengthvariant>
-            <lengthvariant>Kółko 3</lengthvariant>
-        </translation>
+        <translation>Koło 3</translation>
     </message>
     <message>
         <source>Wheel 4</source>
-        <translation variants="yes">
-            <lengthvariant>Koło 4</lengthvariant>
-            <lengthvariant>Kółko 4</lengthvariant>
-        </translation>
+        <translation>Koło 4</translation>
     </message>
     <message>
         <source>Wheel 8</source>
-        <translation variants="yes">
-            <lengthvariant>Koło 8</lengthvariant>
-            <lengthvariant>Kółko 8</lengthvariant>
-        </translation>
+        <translation>Koło 8</translation>
     </message>
     <message>
         <source>Wipe Down</source>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w dół</lengthvariant>
-            <lengthvariant>Ścieranie w dół</lengthvariant>
-        </translation>
+        <translation>Ścieranie w dół</translation>
     </message>
     <message>
         <source>Wipe Left</source>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w lewo</lengthvariant>
-            <lengthvariant>Ścieranie w lewo</lengthvariant>
-        </translation>
+        <translation>Ścieranie w lewo</translation>
     </message>
     <message>
         <source>Wipe Right</source>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w prawo</lengthvariant>
-            <lengthvariant>Ścieranie w prawo</lengthvariant>
-        </translation>
+        <translation>Ścieranie w prawo</translation>
     </message>
     <message>
         <source>Wipe Up</source>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w górę</lengthvariant>
-            <lengthvariant>Ścieranie w górę</lengthvariant>
-        </translation>
+        <translation>Ścieranie w górę</translation>
     </message>
     <message>
         <source>Random</source>
@@ -4805,7 +4508,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Default</source>
-        <translation>Domyślny</translation>
+        <translation>Domyślnie</translation>
     </message>
     <message>
         <source>Primary Colors</source>
@@ -4833,10 +4536,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Braces</source>
-        <translation variants="yes">
-            <lengthvariant>Nawias klamrowy</lengthvariant>
-            <lengthvariant>Nawiasy klamrowe</lengthvariant>
-        </translation>
+        <translation>Nawias klamrowy</translation>
     </message>
     <message>
         <source>Thick Outline</source>
@@ -4856,7 +4556,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Classics</source>
-        <translation>Klasyki</translation>
+        <translation>Klasyczne</translation>
     </message>
     <message>
         <source>Double Outline</source>
@@ -5194,24 +4894,15 @@ Sure to close?</source>
     </message>
     <message>
         <source>Permit to modify</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na modyfikowanie</lengthvariant>
-            <lengthvariant>Dozwolone modyfikowanie</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na modyfikowanie</translation>
     </message>
     <message>
         <source>Permit to copy</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na kopiowanie</lengthvariant>
-            <lengthvariant>Dozwolone kopiowanie</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na kopiowanie</translation>
     </message>
     <message>
         <source>Permit to add comments</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na dodawanie komentarzy</lengthvariant>
-            <lengthvariant>Dozwolone dodawanie komentarzy</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na dodawanie komentarzy</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
@@ -5596,6 +5287,217 @@ Sure to close?</source>
     <message>
         <source>WPS Presentation</source>
         <translation>WPS Presentation</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgParagraph</name>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Indents and Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>point, 2, 0, 1584, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>line, 2, 0, 9.99, 0.1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;fter:</source>
+        <translation type="unfinished">P&amp;o:</translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Before:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Li&amp;ne spacing:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Indentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Befo&amp;re text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Special:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B&amp;y:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="unfinished">Podział wiersza</translation>
+    </message>
+    <message>
+        <source>&amp;Use Asian rules for controlling first and last characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <translation type="unfinished">Zezwalaj na &amp;zawijanie tekstu łacińskiego w środku wyrazu</translation>
+    </message>
+    <message>
+        <source>Allow hanging punctuatio&amp;n</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First and last characters</source>
+        <translation type="unfinished">Pierwsze i ostatnie znaki</translation>
+    </message>
+    <message>
+        <source>&amp;Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custo&amp;m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot st&amp;art line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cann&amp;ot end line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line-breaking characters currently customized for:</source>
+        <translation type="unfinished">Znaki podziału wierszy są aktualnie dostosowane dla języka:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSoundBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

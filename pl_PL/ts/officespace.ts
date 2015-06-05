@@ -32,17 +32,11 @@
     </message>
     <message>
         <source>Homepage link of WPS Office Cloud</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze strony głównej usługi Chmura WPS Office</lengthvariant>
-            <lengthvariant>Łącze strony głównej usługi WPS Office Cloud</lengthvariant>
-        </translation>
+        <translation>Łącze Strony głównej usługi WPS Office Cloud</translation>
     </message>
     <message>
         <source>Help link of WPS Office Cloud</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze Pomoc usługi Chmura WPS Office</lengthvariant>
-            <lengthvariant>Łącze Pomoc usługi WPS Office Cloud</lengthvariant>
-        </translation>
+        <translation>Łącze Pomocy usługi WPS Office Cloud</translation>
     </message>
 </context>
 <context>
@@ -113,19 +107,11 @@
     </message>
     <message>
         <source>Manually stopped uploading</source>
-        <translation variants="yes">
-            <lengthvariant>Ręczne zatrzymanie przekazywania</lengthvariant>
-            <lengthvariant>Ręcznie zatrzymane przekazywanie</lengthvariant>
-            <lengthvariant>Ręczne zatrzymanie przesyłania</lengthvariant>
-            <lengthvariant>Ręcznie zatrzymane przesyłanie</lengthvariant>
-        </translation>
+        <translation>Ręczne zatrzymanie przekazywania</translation>
     </message>
     <message>
         <source>Checking updates in the cloud</source>
-        <translation variants="yes">
-            <lengthvariant>Sprawdzanie aktualizacji w usłudze Chmura</lengthvariant>
-            <lengthvariant>Sprawdzanie aktualizacji w usłudze Cloud</lengthvariant>
-        </translation>
+        <translation>Sprawdzanie aktualizacji w usłudze Cloud</translation>
     </message>
     <message>
         <source>Uploading to File Roaming</source>
@@ -148,10 +134,7 @@
     </message>
     <message>
         <source>Uploading to cloud</source>
-        <translation variants="yes">
-            <lengthvariant>Przesyłanie do usługi Chmura</lengthvariant>
-            <lengthvariant>Przesyłanie do usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Przesyłanie do usługi Cloud</translation>
     </message>
     <message>
         <source>This is a historical version</source>
@@ -166,10 +149,7 @@
     </message>
     <message>
         <source>Consistent with cloud</source>
-        <translation variants="yes">
-            <lengthvariant>Spójne z usługą Chmura</lengthvariant>
-            <lengthvariant>Spójne z usługą Cloud</lengthvariant>
-        </translation>
+        <translation>Spójne z usługą Cloud</translation>
     </message>
     <message>
         <source>File name:</source>
@@ -177,10 +157,7 @@
     </message>
     <message>
         <source>Cloud Docs:</source>
-        <translation variants="yes">
-            <lengthvariant>Dokumenty usługi Chmura:</lengthvariant>
-            <lengthvariant>Dokumenty usługi Cloud:</lengthvariant>
-        </translation>
+        <translation>Dokumenty usługi Cloud:</translation>
     </message>
     <message>
         <source>Source path:</source>
@@ -188,10 +165,7 @@
     </message>
     <message>
         <source>Cloud path:</source>
-        <translation variants="yes">
-            <lengthvariant>Ścieżka usługi Chmura:</lengthvariant>
-            <lengthvariant>Ścieżka usługi Cloud:</lengthvariant>
-        </translation>
+        <translation>Ścieżka usługi Cloud:</translation>
     </message>
     <message>
         <source>Share Link</source>
@@ -325,10 +299,7 @@
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Dokument ma teraz włączone automatyczne tworzenie kopii zapasowych!&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w obszarze biurowym za każdym razem, gdy dokument zostanie zamknięty.</lengthvariant>
-            <lengthvariant>Dokument ma teraz włączone automatyczne tworzenie kopii zapasowych!&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</lengthvariant>
-        </translation>
+        <translation>Dokument ma teraz włączone automatyczne tworzenie kopii zapasowych!&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
@@ -462,10 +433,7 @@ This may because:
     <name>KCouldFastLinkButton</name>
     <message>
         <source>Cloud Docs Management</source>
-        <translation variants="yes">
-            <lengthvariant>Zarządzanie dokumentami usługi Chmura</lengthvariant>
-            <lengthvariant>Zarządzanie dokumentami usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Zarządzanie Dokumentami usługi Cloud</translation>
     </message>
 </context>
 <context>
@@ -495,10 +463,7 @@ This may because:
     <name>KDataRecoverDownloadTip</name>
     <message>
         <source>Loading the Data Recovery Master. Please wait...</source>
-        <translation variants="yes">
-            <lengthvariant>Ładowanie wzorca odzyskiwania danych. Proszę czekać...</lengthvariant>
-            <lengthvariant>Ładowanie wzorca do odzyskiwania danych. Proszę czekać...</lengthvariant>
-        </translation>
+        <translation>Ładowanie wzorca odzyskiwania danych. Proszę czekać...</translation>
     </message>
 </context>
 <context>
@@ -720,10 +685,7 @@ This may because:
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Zapisz do dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Go to the previous folder</source>
@@ -927,10 +889,7 @@ This may because:
     </message>
     <message>
         <source>Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Dokumenty usługi Chmura</lengthvariant>
-            <lengthvariant>Dokumenty usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Dokumenty usługi Cloud</translation>
     </message>
     <message>
         <source>&amp;Encryption</source>
@@ -964,37 +923,25 @@ This may because:
     <name>KLiveEmbedDialogImpl</name>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów usługi Chmura</lengthvariant>
-            <lengthvariant>Otwórz z dokumentów usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Otwórz z Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów usługi Chmura</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
 </context>
 <context>
     <name>KLiveSvr</name>
     <message>
         <source>Please login Cloud Docs manually to use the feature.</source>
-        <translation variants="yes">
-            <lengthvariant>Zaloguj się ręcznie do dokumentów usługi Chmura, aby użyć funkcji.</lengthvariant>
-            <lengthvariant>Zaloguj się ręcznie do dokumentów usługi Cloud, aby użyć funkcji.</lengthvariant>
-        </translation>
+        <translation>Zaloguj się ręcznie do Dokumentów usługi Cloud, aby użyć tej funkcji.</translation>
     </message>
 </context>
 <context>
     <name>KLocalNewVersionTip</name>
     <message>
         <source>New version is available in the cloud. Do you want to update the local document?</source>
-        <translation variants="yes">
-            <lengthvariant>Nowa wersja jest dostępna w usłudze Chmura. Czy chcesz zaktualizować lokalny dokument?</lengthvariant>
-            <lengthvariant>Nowa wersja jest dostępna w usłudze Cloud. Czy chcesz zaktualizować lokalny dokument?</lengthvariant>
-        </translation>
+        <translation>Nowa wersja jest dostępna w usłudze Cloud. Czy chcesz zaktualizować lokalny dokument?</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -1082,18 +1029,11 @@ This may because:
 &lt;br/&gt;
 &lt;span&gt;open_ok_tip_2&lt;/span&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation variants="yes">
-            <lengthvariant>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;span&gt;Adres usługi Chmura został otwarty. Można go zapisać w usłudze Chmura, po zmianie.&lt;/span&gt;
-&lt;br/&gt;
-&lt;span&gt;Zaleca się, aby go otworzyć bezpośrednio z adresu usługi Chmura WPS Office&lt;/span&gt;
-&lt;/body&gt;&lt;/html&gt;</lengthvariant>
-            <lengthvariant>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;span&gt;Adres usługi Cloud został otwarty. Można go zapisać w usłudze Cloud, po zmianie.&lt;/span&gt;
 &lt;br/&gt;
 &lt;span&gt;Zaleca się, aby go otworzyć bezpośrednio z adresu usługi WPS Office Cloud&lt;/span&gt;
-&lt;/body&gt;&lt;/html&gt;</lengthvariant>
-        </translation>
+&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>I knew it and do not prompt again</source>
@@ -1104,10 +1044,7 @@ This may because:
     <name>KOpenFromOtherDeviceTip</name>
     <message>
         <source>This document is from another device. The cloud document has been automatically called and opened for you.</source>
-        <translation variants="yes">
-            <lengthvariant>Ten dokument pochodzi z innego urządzenia. Dokument usługi Chmura został automatycznie nazwany i otwarty dla Ciebie.</lengthvariant>
-            <lengthvariant>Ten dokument pochodzi z innego urządzenia. Dokument usługi Cloud został automatycznie nazwany i otwarty dla Ciebie.</lengthvariant>
-        </translation>
+        <translation>Ten dokument pochodzi z innego urządzenia. Dokument usługi Cloud został automatycznie nazwany i otwarty dla Ciebie.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1275,7 +1212,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Roam to mobile</source>
-        <translation>Mobilny dostęp do roamingu</translation>
+        <translation>Roaming do telefonu</translation>
     </message>
     <message>
         <source>Recent documents</source>
@@ -1393,11 +1330,11 @@ rozmiar:%2
     <name>KRoamingSave2PrivateTip</name>
     <message>
         <source>Document has been saved automatically to the private space root directory</source>
-        <translation>Dokument został automatycznie zapisany do katalogu głównego przestrzeni osobistej</translation>
+        <translation>Dokument został automatycznie zapisany do katalogu głównego przestrzeni prywatnej</translation>
     </message>
     <message>
         <source>Go to view private space</source>
-        <translation>Przejdź do widoku przestrzeni osobistej</translation>
+        <translation>Przejdź do widoku przestrzeni prywatnej</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1423,18 +1360,11 @@ rozmiar:%2
 &lt;br/&gt;
 &lt;span&gt;send_ok_tip_2&lt;/span&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation variants="yes">
-            <lengthvariant>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;span&gt;Gratulacje. Utworzono nowy adres usługi Chmura&lt;/span&gt;
-&lt;br/&gt;
-&lt;span&gt;Adres usługi Chmura został zarejestrowany w Chmura WPS Office.&lt;/span&gt;
-&lt;/body&gt;&lt;/html&gt;</lengthvariant>
-            <lengthvariant>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
 &lt;span&gt;Gratulacje. Utworzono nowy adres usługi Cloud&lt;/span&gt;
 &lt;br/&gt;
 &lt;span&gt;Adres usługi Cloud został zarejestrowany w WPS Office Cloud.&lt;/span&gt;
-&lt;/body&gt;&lt;/html&gt;</lengthvariant>
-        </translation>
+&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Do not prompt again</source>
@@ -1445,10 +1375,7 @@ rozmiar:%2
     </message>
     <message>
         <source>View my Share Link</source>
-        <translation variants="yes">
-            <lengthvariant>Wyświetl moje udostępnione łącze</lengthvariant>
-            <lengthvariant>Wyświetl mój udostępniony link</lengthvariant>
-        </translation>
+        <translation>Wyświetl moje Udostępnione łącze</translation>
     </message>
 </context>
 <context>
@@ -1571,38 +1498,26 @@ rozmiar:%2
     <name>KWebviewDialogImpl</name>
     <message>
         <source>Open Cloud</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz usługę Chmura</lengthvariant>
-            <lengthvariant>Otwórz usługę Cloud</lengthvariant>
-        </translation>
+        <translation>Otwórz usługę Cloud</translation>
     </message>
     <message>
         <source>Save to Cloud</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz do usługi Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Zapisz do usługi Cloud</translation>
     </message>
 </context>
 <context>
     <name>KxCheckUploadDlg</name>
     <message>
         <source>Documents saving to the cloud failed. Please check the internet and retry</source>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Zapisywanie dokumentów do usługi Chmura nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</lengthvariant>
-            <lengthvariant>Zapisywanie dokumentów do usługi Cloud nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</lengthvariant>
-        </translation>
+        <translation>Zapisywanie dokumentów do usługi Cloud nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</translation>
     </message>
     <message>
         <source>Checking completed and will upload it at background</source>
-        <translation>Sprawdzanie zostało zakończone i jego aktualizcja będzie w tle</translation>
+        <translation>Sprawdzanie zostało zakończone i będzie on przesłany w tle</translation>
     </message>
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
-        <translation variants="yes">
-            <lengthvariant>Sprawdzanie uprawnienia zapisywania do usługi Chmura. Proszę czekać...</lengthvariant>
-            <lengthvariant>Sprawdzanie uprawnienia zapisywania do usługi Cloud. Proszę czekać...</lengthvariant>
-        </translation>
+        <translation>Sprawdzanie uprawnień zapisywania do usługi Cloud. Proszę czekać...</translation>
     </message>
     <message>
         <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
@@ -1632,10 +1547,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
-        <translation variants="yes">
-            <lengthvariant>Sprawdzanie uprawnienia zapisywania do usługi Chmura. Proszę czekać...</lengthvariant>
-            <lengthvariant>Sprawdzanie uprawnienia zapisywania do usługi Cloud. Proszę czekać...</lengthvariant>
-        </translation>
+        <translation>Sprawdzanie uprawnień zapisywania do usługi Cloud. Proszę czekać...</translation>
     </message>
 </context>
 <context>
@@ -1950,12 +1862,12 @@ rozmiar:%2
     <message>
         <source>Private Space</source>
         <comment>FolderType</comment>
-        <translation>Przestrzeń osobista</translation>
+        <translation>Przestrzeń prywatna</translation>
     </message>
     <message>
         <source>Qing Address</source>
         <comment>FolderType</comment>
-        <translation>Adres Qing</translation>
+        <translation>Adres usługi WPS Cloud</translation>
     </message>
     <message>
         <source>Send Address</source>
@@ -1990,10 +1902,7 @@ rozmiar:%2
     <message>
         <source>Cloud Docs</source>
         <comment>Group tab in filedialog</comment>
-        <translation variants="yes">
-            <lengthvariant>Dokumenty usługi Chmura</lengthvariant>
-            <lengthvariant>Dokumenty usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Dokumenty usługi Cloud</translation>
     </message>
     <message>
         <source>Local document</source>
@@ -2126,10 +2035,7 @@ rozmiar:%2
     <name>KxLiveTabDialogExControl</name>
     <message>
         <source>Files in the Cloud Docs support multi-user collaborations</source>
-        <translation variants="yes">
-            <lengthvariant>Pliki w dokumentach usługi Chmura wspierają współpracę wielu użytkowników</lengthvariant>
-            <lengthvariant>Pliki w dokumentach usługi Cloud wspierają współpracę wielu użytkowników</lengthvariant>
-        </translation>
+        <translation>Pliki w Dokumentach usługi Cloud wspierają współpracę wielu użytkowników</translation>
     </message>
     <message>
         <source>Enter here</source>
@@ -2543,11 +2449,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Your subscription does not include VBA so that macros in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
-        <translatorcomment>Program WPS Office Free nie obsługuje języka VBA, </translatorcomment>
-        <translation type="obsolete" variants="yes">
-            <lengthvariant>Twoja subskrypcja nie uwzględnia VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić oddzielnie, aby włączyć makro, jeżeli potrzebujesz.</lengthvariant>
-            <lengthvariant>Twoja subskrypcja nie obejmuje VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić oddzielnie, aby włączyć makro, jeżeli potrzebujesz.</lengthvariant>
-        </translation>
+        <translation>Twoja subskrypcja nie obejmuje VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić oddzielnie, aby włączyć makro, jeżeli potrzebujesz.</translation>
     </message>
 </context>
 <context>

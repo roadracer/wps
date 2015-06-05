@@ -749,10 +749,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Group </source>
         <comment>DgUil_KSO_Cmd_Group</comment>
-        <translation variants="yes">
-            <lengthvariant>Grupa </lengthvariant>
-            <lengthvariant>Grupuj </lengthvariant>
-        </translation>
+        <translation>Grupuj </translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -812,7 +809,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Align Center</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value1</comment>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -827,7 +824,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Align Middle</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value4</comment>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Bottom</source>
@@ -2540,34 +2537,22 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>WordArt: Fade Right</source>
         <comment>DRAWINGSTR_TEXTFADERIGHT</comment>
-        <translation variants="yes">
-            <lengthvariant>WordArt: zanikanie w prawo</lengthvariant>
-            <lengthvariant>WordArt: oddalanie w prawo</lengthvariant>
-        </translation>
+        <translation>WordArt: zanikanie w prawo</translation>
     </message>
     <message>
         <source>WordArt: Fade Left</source>
         <comment>DRAWINGSTR_TEXTFADELEFT</comment>
-        <translation variants="yes">
-            <lengthvariant>WordArt: zanikanie w lewo</lengthvariant>
-            <lengthvariant>WordArt: oddalanie w lewo</lengthvariant>
-        </translation>
+        <translation>WordArt: zanikanie w lewo</translation>
     </message>
     <message>
         <source>WordArt: Fade Up</source>
         <comment>DRAWINGSTR_TEXTFADEUP</comment>
-        <translation variants="yes">
-            <lengthvariant>WordArt: zanikanie w górę</lengthvariant>
-            <lengthvariant>WordArt: oddalanie w górę</lengthvariant>
-        </translation>
+        <translation>WordArt: zanikanie w górę</translation>
     </message>
     <message>
         <source>WordArt: Fade Down</source>
         <comment>DRAWINGSTR_TEXTFADEDOWN</comment>
-        <translation variants="yes">
-            <lengthvariant>WordArt: zanikanie w dół</lengthvariant>
-            <lengthvariant>WordArt: oddalanie w dół</lengthvariant>
-        </translation>
+        <translation>WordArt: zanikanie w dół</translation>
     </message>
     <message>
         <source>WordArt: Slant Up</source>
@@ -2727,10 +2712,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPSHAPE</comment>
-        <translation variants="yes">
-            <lengthvariant>Grupa</lengthvariant>
-            <lengthvariant>Grupuj</lengthvariant>
-        </translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>CD Drive</source>
@@ -2755,10 +2737,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Cloud</source>
         <comment>DRAWINGSTR_CLOUD</comment>
-        <translation variants="yes">
-            <lengthvariant>Chmura</lengthvariant>
-            <lengthvariant>Cloud</lengthvariant>
-        </translation>
+        <translation>Chmura</translation>
     </message>
     <message>
         <source>Desktop computer</source>
@@ -3144,10 +3123,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPNAME</comment>
-        <translation variants="yes">
-            <lengthvariant>Grupa</lengthvariant>
-            <lengthvariant>Grupuj</lengthvariant>
-        </translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Mixed texture</source>
@@ -4547,10 +4523,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</length
     <message>
         <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
         <comment>_kso_FileFormatNotSupport</comment>
-        <translation variants="yes">
-            <lengthvariant>Format pliku, który wybrałeś nie jest formatem pliku WPS, co może być niezgodne z wymaganiami Twojej organizacji. Czy jesteś pewien, że chcesz kontynuować zapisywanie w tym formacie?</lengthvariant>
-            <lengthvariant>Wybrany format pliku nie jest formatem pliku WPS, co może być niezgodne z wymaganiami Twojej organizacji. Czy jesteś pewien, że chcesz kontynuować zapisywanie w tym formacie?</lengthvariant>
-        </translation>
+        <translation>Wybrany format pliku nie jest formatem pliku WPS, co może być niezgodne z wymaganiami Twojej organizacji. Czy jesteś pewien, że chcesz kontynuować zapisywanie w tym formacie?</translation>
     </message>
     <message>
         <source>Are you sure you want to remove permission?</source>
@@ -5423,10 +5396,7 @@ Continue printing?</source>
     <message>
         <source>Modify PivotTable</source>
         <comment>kso_sDlgCaptionModify</comment>
-        <translation variants="yes">
-            <lengthvariant>Modyfikowanie tabeli przestawnej</lengthvariant>
-            <lengthvariant>Modyfikuj tabelę przestawną</lengthvariant>
-        </translation>
+        <translation>Modyfikowanie tabeli przestawnej</translation>
     </message>
     <message>
         <source>Document</source>
@@ -6919,34 +6889,22 @@ Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard 
     <message>
         <source>Fade Down</source>
         <comment>kso_sWASFadeDown</comment>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w dół</lengthvariant>
-            <lengthvariant>Oddalanie w dół</lengthvariant>
-        </translation>
+        <translation>Zanikanie w dół</translation>
     </message>
     <message>
         <source>Fade Left</source>
         <comment>kso_sWASFadeLeft</comment>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w lewo</lengthvariant>
-            <lengthvariant>Oddalanie w lewo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w lewo</translation>
     </message>
     <message>
         <source>Fade Right</source>
         <comment>kso_sWASFadeRight</comment>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w prawo</lengthvariant>
-            <lengthvariant>Oddalanie w prawo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w prawo</translation>
     </message>
     <message>
         <source>Fade Up</source>
         <comment>kso_sWASFadeUp</comment>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w górę</lengthvariant>
-            <lengthvariant>Oddalanie w górę</lengthvariant>
-        </translation>
+        <translation>Zanikanie w górę</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -7439,7 +7397,7 @@ Służy do pokazywania kroków zmierzających do celu</translation>
     <message>
         <source>WPS Office updates have been downloaded, do you want to install them now?</source>
         <comment>sHaveNewUpdatePatchTip</comment>
-        <translation>Aktualizacje pakietu WPS Office zostały pobrane. Czy chcesz je teraz zainstalować?</translation>
+        <translation>Aktualizacje dla pakietu WPS Office zostały pobrane. Czy chcesz je teraz zainstalować?</translation>
     </message>
     <message>
         <source>Part of %s</source>
