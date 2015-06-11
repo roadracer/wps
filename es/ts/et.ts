@@ -5,7 +5,7 @@
     <name>AdvQueryDlgUi</name>
     <message>
         <source>Advanced Query</source>
-        <translation></translation>
+        <translation>Consulta Avanzada</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -13,42 +13,42 @@
     </message>
     <message>
         <source>&amp;Add to the list</source>
-        <translation></translation>
+        <translation>Agregar a la lista</translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation></translation>
+        <translation>Eliminar de la lista</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation></translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation></translation>
+        <translation>Infotip</translation>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation></translation>
+        <translation>Agregar a la lista</translation>
     </message>
     <message>
         <source>D&amp;elete from the list</source>
-        <translation></translation>
+        <translation>Eliminar de la lista</translation>
     </message>
 </context>
 <context>
     <name>ChangeFileAccess</name>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation></translation>
+        <translation>Usted ha realizado cambios a &quot;%s&quot;</translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation></translation>
+        <translation>Otro usuario también ha realizado cambios. ¿Qué le gustaría hacer?</translation>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
