@@ -121,7 +121,7 @@
     </message>
     <message>
         <source>Input &amp;connection string manually</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bağlantı dizisini elle girin</translation>
     </message>
     <message>
         <source>Select data source</source>
@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>The third step: Data filtering and sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Üçüncü adım: Veri süzme ve sıralama</translation>
     </message>
     <message>
         <source>You can click Advanced Query to sort and filter more complicated data, if it still cannot satisfy your requirement, you can input the query statement directly.</source>
@@ -295,11 +295,11 @@
     <name>GrpboxCondition</name>
     <message>
         <source>Cell value is</source>
-        <translation type="unfinished"></translation>
+        <translation>Hücre değeri</translation>
     </message>
     <message>
         <source>Formula is</source>
-        <translation type="unfinished"></translation>
+        <translation>Formül</translation>
     </message>
     <message>
         <source>Grpbox Condition</source>
@@ -320,39 +320,39 @@ condition is true:</source>
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"></translation>
+        <translation>ve</translation>
     </message>
     <message>
         <source>between</source>
-        <translation type="unfinished"></translation>
+        <translation>arasında</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>eşittir</translation>
     </message>
     <message>
         <source>greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>den büyük</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>den büyük veya eşit</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation type="unfinished"></translation>
+        <translation>den az</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>den az veya eşit</translation>
     </message>
     <message>
         <source>not between</source>
-        <translation type="unfinished"></translation>
+        <translation>arasında değil</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>eşit değil</translation>
     </message>
 </context>
 <context>
@@ -373,7 +373,7 @@ condition is true:</source>
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"></translation>
+        <translation>KUI yükleniyor</translation>
     </message>
 </context>
 <context>
@@ -387,7 +387,7 @@ condition is true:</source>
     <name>KDateEdit</name>
     <message>
         <source>%1-%2-%3</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -395,7 +395,7 @@ condition is true:</source>
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Başlangıç Biçemi:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
@@ -405,32 +405,32 @@ condition is true:</source>
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bitirme Biç&amp;emi:</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Biçem:</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Başlangıç &amp;boyutu:</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yeni nesneler için &amp;varsayılan</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bitirme &amp;boyutu:</translation>
     </message>
     <message>
         <source>Scale</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ölçek</translation>
     </message>
     <message>
         <source>Size</source>
@@ -449,7 +449,7 @@ condition is true:</source>
     <name>KSelectSheetPage</name>
     <message>
         <source>&amp;Activate:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Etkinleştir:</translation>
     </message>
 </context>
 <context>
@@ -464,35 +464,35 @@ condition is true:</source>
     </message>
     <message>
         <source>Add current selection to filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçerli seçimi süzgece ekle</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"></translation>
+        <translation>Gün</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Dakika</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Ay</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Saniye</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Yıl</translation>
     </message>
 </context>
 <context>
@@ -507,15 +507,15 @@ condition is true:</source>
     </message>
     <message>
         <source>Above Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortalamanın Üzerinde</translation>
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonra</translation>
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"></translation>
+        <translation>Ve</translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -527,35 +527,35 @@ condition is true:</source>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"></translation>
+        <translation>Önce</translation>
     </message>
     <message>
         <source>Begin With</source>
-        <translation type="unfinished"></translation>
+        <translation>İle başlayan</translation>
     </message>
     <message>
         <source>Begins with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; ile başlayan</translation>
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortalamanın Altında</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation type="unfinished"></translation>
+        <translation>Arasında</translation>
     </message>
     <message>
         <source>Bottom %1 Items</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Ögelerinin altında</translation>
     </message>
     <message>
         <source>Bottom %1 Percent</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Yüzdesinin altında</translation>
     </message>
     <message>
         <source>Can display up to 10000 items.</source>
-        <translation type="unfinished"></translation>
+        <translation>10000 ögeye kadar gösterebilir.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -567,7 +567,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Clear(C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Temizle(C)</translation>
     </message>
     <message>
         <source>Color Sort</source>
@@ -575,23 +575,23 @@ condition is true:</source>
     </message>
     <message>
         <source>Contains</source>
-        <translation type="unfinished"></translation>
+        <translation>İçerir</translation>
     </message>
     <message>
         <source>Contains &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; içerir</translation>
     </message>
     <message>
         <source>Custom Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel Süzgeç</translation>
     </message>
     <message>
         <source>Date Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarih süzgeci</translation>
     </message>
     <message>
         <source>Date Filter(F)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarih Süzgeci (F)</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -599,63 +599,63 @@ condition is true:</source>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation type="unfinished"></translation>
+        <translation>Azalan (O)</translation>
     </message>
     <message>
         <source>Does Not Contain</source>
-        <translation type="unfinished"></translation>
+        <translation>İçermeyen</translation>
     </message>
     <message>
         <source>Does not begin with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; ile başlamayan</translation>
     </message>
     <message>
         <source>Does not contain &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; içermeyen</translation>
     </message>
     <message>
         <source>Does not end with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; ile bitmeyen</translation>
     </message>
     <message>
         <source>End With</source>
-        <translation type="unfinished"></translation>
+        <translation>İle biten</translation>
     </message>
     <message>
         <source>Ends with &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; ile biten</translation>
     </message>
     <message>
         <source>Equals</source>
-        <translation type="unfinished"></translation>
+        <translation>Eşittir</translation>
     </message>
     <message>
         <source>Equals &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Eşittir &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Fill by Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Renk ile doldur</translation>
     </message>
     <message>
         <source>Filter by Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Değer ile süz</translation>
     </message>
     <message>
         <source>Greater Than</source>
-        <translation type="unfinished"></translation>
+        <translation>den daha büyük</translation>
     </message>
     <message>
         <source>Greater Than Or Equal To</source>
-        <translation type="unfinished"></translation>
+        <translation>den daha bütük veya eşit</translation>
     </message>
     <message>
         <source>Greater than &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; den daha büyük</translation>
     </message>
     <message>
         <source>Greater than or equal to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; den daha büyük veya eşit</translation>
     </message>
     <message>
         <source>Is after &quot;%1&quot;</source>
@@ -667,35 +667,35 @@ condition is true:</source>
     </message>
     <message>
         <source>Last Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçen Ay</translation>
     </message>
     <message>
         <source>Last Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Çeyrek</translation>
     </message>
     <message>
         <source>Last Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Hafta</translation>
     </message>
     <message>
         <source>Last Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçen Yıl</translation>
     </message>
     <message>
         <source>Less Than</source>
-        <translation type="unfinished"></translation>
+        <translation>den az</translation>
     </message>
     <message>
         <source>Less Than Or Equal To</source>
-        <translation type="unfinished"></translation>
+        <translation>den az veya eşit</translation>
     </message>
     <message>
         <source>Less than &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; den az</translation>
     </message>
     <message>
         <source>Less than or equal to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; den az veya eşit</translation>
     </message>
     <message>
         <source>More</source>
@@ -703,39 +703,39 @@ condition is true:</source>
     </message>
     <message>
         <source>Next Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelecek Ay</translation>
     </message>
     <message>
         <source>Next Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonraki Çeyrek</translation>
     </message>
     <message>
         <source>Next Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelecek Hafta</translation>
     </message>
     <message>
         <source>Next Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelecek Yıl</translation>
     </message>
     <message>
         <source>No items match your search.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aradığınızla eşleşen bir öge yok.</translation>
     </message>
     <message>
         <source>Not Equal To</source>
-        <translation type="unfinished"></translation>
+        <translation>eşit değil</translation>
     </message>
     <message>
         <source>Not equal to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>é%1&quot; e eşit değil</translation>
     </message>
     <message>
         <source>Number Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayı Süzgeci</translation>
     </message>
     <message>
         <source>Number Filter(F)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayı Süzgeci (F)</translation>
     </message>
     <message>
         <source>OK</source>
@@ -743,7 +743,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"></translation>
+        <translation>veya</translation>
     </message>
     <message>
         <source>Search</source>
@@ -751,35 +751,35 @@ condition is true:</source>
     </message>
     <message>
         <source>Text Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin Süzgeci</translation>
     </message>
     <message>
         <source>Text Filter(F)</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin Süzgeci (F)</translation>
     </message>
     <message>
         <source>This Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Ay</translation>
     </message>
     <message>
         <source>This Quarter</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Çeyrek</translation>
     </message>
     <message>
         <source>This Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Hafta</translation>
     </message>
     <message>
         <source>This Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Yıl</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Bugün</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Yarın</translation>
     </message>
     <message>
         <source>Top %1 Items</source>
@@ -795,7 +795,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Dün</translation>
     </message>
 </context>
 <context>
@@ -837,7 +837,7 @@ condition is true:</source>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm Dosyalar</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -864,18 +864,18 @@ condition is true:</source>
     </message>
     <message>
         <source>Clear Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Süzgeci Temizle</translation>
     </message>
 </context>
 <context>
     <name>KxAfTreeViewHeaderWidget</name>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Çoklu</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"></translation>
+        <translation>Tek</translation>
     </message>
 </context>
 <context>
@@ -886,7 +886,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Value should be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Değer %1 ve %2 arasında olmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -1002,7 +1002,7 @@ condition is true:</source>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation>Tüm Dosyalar(*.*?</translation>
+        <translation>Tüm Dosyalar(*.*)</translation>
     </message>
     <message>
         <source>Average</source>
@@ -1034,7 +1034,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Product</source>
-        <translation type="unfinished"></translation>
+        <translation>Ürün</translation>
     </message>
     <message>
         <source>StdDev</source>
@@ -1042,7 +1042,7 @@ condition is true:</source>
     </message>
     <message>
         <source>StdDevp</source>
-        <translation type="unfinished"></translation>
+        <translation>StdSap</translation>
     </message>
     <message>
         <source>Sum</source>
@@ -1161,7 +1161,7 @@ condition is true:</source>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm Resimler</translation>
     </message>
     <message>
         <source>Date</source>
@@ -1173,7 +1173,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt Bilgi</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
@@ -1181,7 +1181,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Üst Bilgi</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
@@ -1189,7 +1189,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayfaların Sayısı</translation>
     </message>
     <message>
         <source>Open</source>
@@ -1197,11 +1197,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Page Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayfa Numarası</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Resim</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
@@ -1209,7 +1209,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayfa Adı</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
@@ -1221,7 +1221,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaman</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
@@ -1251,7 +1251,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Database Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Veritabanı Parolası</translation>
     </message>
 </context>
 <context>
@@ -6957,7 +6957,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Solid</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Thick Diagonal crosshatch</source>
@@ -8707,7 +8707,7 @@ t</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Horizontal Distributed</source>

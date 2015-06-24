@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="tr_TR">
+<TS version="2.1" language="tr_TR">
 <context>
     <name>BordersAndShadingWidget</name>
     <message>
@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished">Siyah</translation>
+        <translation>Siyah</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Kahve rengi</translation>
     </message>
     <message>
         <source>Cyan</source>
@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished">Koyu Mavi</translation>
+        <translation>Koyu Mavi</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
@@ -57,31 +57,31 @@
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-%10</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-%12.5</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-%15</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-%20</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-%25</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-%30</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-%35</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
@@ -197,7 +197,7 @@
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Pembe</translation>
     </message>
     <message>
         <source>Plum</source>
@@ -233,18 +233,18 @@
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Beyaz</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Sarı</translation>
     </message>
 </context>
 <context>
     <name>ChangeCaseDlg</name>
     <message>
         <source>&amp;Full-width</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tam genişlik</translation>
     </message>
     <message>
         <source>&amp;Hiragana</source>
@@ -276,7 +276,7 @@
     </message>
     <message>
         <source>Half-&amp;width</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yarı genişlik</translation>
     </message>
     <message>
         <source>To&amp;ggle case</source>
@@ -314,49 +314,49 @@
     <name>CustomPreView</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiç</translation>
     </message>
 </context>
 <context>
     <name>DlgColumnsManager</name>
     <message>
         <source>&amp;Spacing:</source>
-        <translation></translation>
+        <translation>&amp;Boşluk:</translation>
     </message>
     <message>
         <source>1:</source>
-        <translation type="unfinished"></translation>
+        <translation>1:</translation>
     </message>
     <message>
         <source>Col #:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kol #:</translation>
     </message>
     <message>
         <source>W&amp;idth:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Genişlik:</translation>
     </message>
     <message>
         <source>Columns Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Sütun Yönetimi</translation>
     </message>
 </context>
 <context>
     <name>DlgKxAdvancedLayout</name>
     <message>
         <source>&amp;Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hizalama</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
-        <translation type="unfinished"></translation>
+        <translation>Metnin &amp;Arkasında</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
-        <translation type="unfinished"></translation>
+        <translation>Mentnin &amp;Önünde</translation>
     </message>
     <message>
         <source>&amp;Left only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sadece &amp;sol</translation>
     </message>
     <message>
         <source>&amp;Lock anchor</source>
@@ -364,11 +364,11 @@
     </message>
     <message>
         <source>&amp;Move object with text</source>
-        <translation type="unfinished"></translation>
+        <translation>Nesneyi metinle birlikte &amp;taşı</translation>
     </message>
     <message>
         <source>&amp;Right only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sadece &amp;sağda</translation>
     </message>
     <message>
         <source>&amp;Tight</source>
@@ -384,19 +384,19 @@
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation type="unfinished"></translation>
+        <translation>Tam &amp;konum</translation>
     </message>
     <message>
         <source>Absolute po&amp;sition</source>
-        <translation type="unfinished"></translation>
+        <translation>Tam ko&amp;num</translation>
     </message>
     <message>
         <source>Advanced Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelişmiş Düzen</translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hizalama</translation>
     </message>
     <message>
         <source>Allow o&amp;verlap</source>
@@ -404,11 +404,11 @@
     </message>
     <message>
         <source>Both &amp;sides</source>
-        <translation type="unfinished"></translation>
+        <translation>İkisi &amp;yanyana</translation>
     </message>
     <message>
         <source>Botto&amp;m</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Altta</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -416,7 +416,7 @@
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortalı</translation>
     </message>
     <message>
         <source>Character</source>
@@ -424,11 +424,11 @@
     </message>
     <message>
         <source>Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Sütun</translation>
     </message>
     <message>
         <source>Distance from text</source>
-        <translation type="unfinished"></translation>
+        <translation>Metinden uzaklık</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -436,19 +436,19 @@
     </message>
     <message>
         <source>In fro&amp;nt of text</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin &amp;önünde</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"></translation>
+        <translation>İçerde</translation>
     </message>
     <message>
         <source>L&amp;argest only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sadece en &amp;büyük</translation>
     </message>
     <message>
         <source>L&amp;eft</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sol</translation>
     </message>
     <message>
         <source>Left</source>
@@ -456,11 +456,11 @@
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Satır</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazdırma aralığı</translation>
     </message>
     <message>
         <source>Options</source>
@@ -468,7 +468,7 @@
     </message>
     <message>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Dışarda</translation>
     </message>
     <message>
         <source>Page</source>
@@ -476,15 +476,15 @@
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf</translation>
     </message>
     <message>
         <source>Picture Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Resim Konumu</translation>
     </message>
     <message>
         <source>Ri&amp;ght</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sağda</translation>
     </message>
     <message>
         <source>Right</source>
@@ -492,23 +492,23 @@
     </message>
     <message>
         <source>S&amp;quare</source>
-        <translation type="unfinished"></translation>
+        <translation>Kare</translation>
     </message>
     <message>
         <source>T&amp;hrough</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tam</translation>
     </message>
     <message>
         <source>T&amp;op and bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Üst ve alt</translation>
     </message>
     <message>
         <source>Text wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin sarma</translation>
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Üst</translation>
     </message>
     <message>
         <source>Top</source>
@@ -520,23 +520,23 @@
     </message>
     <message>
         <source>Wrap text</source>
-        <translation type="unfinished"></translation>
+        <translation>Metni sar</translation>
     </message>
     <message>
         <source>Wrapping style</source>
-        <translation type="unfinished"></translation>
+        <translation>Sarma biçemi</translation>
     </message>
     <message>
         <source>belo&amp;w</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;alt</translation>
     </message>
     <message>
         <source>pt, 2, -1596, 1596, 1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>r&amp;elative to</source>
@@ -547,7 +547,7 @@
     <name>DlgKxColumns</name>
     <message>
         <source>&amp;Apply to:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uygula:</translation>
     </message>
     <message>
         <source>&amp;Equal column width</source>
@@ -555,23 +555,23 @@
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sol</translation>
     </message>
     <message>
         <source>&amp;Number of columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sütun Sayı&amp;sı:</translation>
     </message>
     <message>
         <source>&amp;One</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bir</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sağ</translation>
     </message>
     <message>
         <source>&amp;Three</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Üç</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -579,11 +579,11 @@
     </message>
     <message>
         <source>Line &amp;between</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar&amp;asındaki satır</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Önayarlar</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -591,26 +591,26 @@
     </message>
     <message>
         <source>Start new col&amp;umn</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni süt&amp;un başlat</translation>
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;İki</translation>
     </message>
     <message>
         <source>Width and spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Genişlik ve boşluk</translation>
     </message>
 </context>
 <context>
     <name>DlgKxOutlineNumber</name>
     <message>
         <source>&amp;Aligned at:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hizalandı:</translation>
     </message>
     <message>
         <source>&amp;Font...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yazıtipi...</translation>
     </message>
     <message>
         <source>&amp;Indent at:</source>
@@ -634,11 +634,11 @@
     </message>
     <message>
         <source>Advanced(&amp;M)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gelişmiş</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortalandı</translation>
     </message>
     <message>
         <source>Customize Outline Numbered List</source>
@@ -771,7 +771,7 @@
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik</translation>
     </message>
 </context>
 <context>
@@ -807,15 +807,15 @@
     <name>KxBordersAndShadingDlg</name>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Hücre</translation>
     </message>
     <message>
         <source>No content</source>
-        <translation type="unfinished"></translation>
+        <translation>İçerik yok</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf</translation>
     </message>
     <message>
         <source>Pt</source>
@@ -823,26 +823,26 @@
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablo</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin</translation>
     </message>
     <message>
         <source>Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelime İşlemci</translation>
     </message>
 </context>
 <context>
     <name>KxCaptionDlg</name>
     <message>
         <source>Above selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen ögenin üstünde</translation>
     </message>
     <message>
         <source>Below selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen ögenin altında</translation>
     </message>
     <message>
         <source>Close</source>
@@ -867,11 +867,11 @@
         <source>Heading</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>– (En dash)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>— (Em dash)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -923,22 +923,22 @@
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer imi adı geçersiz.</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Girilen değer %1 ve %2 arasında olmalıdır.</translation>
     </message>
 </context>
 <context>
     <name>KxColumnsDlg</name>
     <message>
         <source>Selected sections</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen bölümler</translation>
     </message>
     <message>
         <source>Selected text</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen metin</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
@@ -950,29 +950,29 @@
     </message>
     <message>
         <source>This section</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu bölüm</translation>
     </message>
     <message>
         <source>Whole document</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm belge</translation>
     </message>
 </context>
 <context>
     <name>KxCombineCharactersDlg</name>
     <message>
         <source>Value must be between 1 and 16838.</source>
-        <translation type="unfinished"></translation>
+        <translation>Değer 1 ve 16838 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>What you entered is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Girdiğiniz değer geçersiz.</translation>
     </message>
 </context>
 <context>
     <name>KxContentsDlg</name>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen içindekiler tablosunu değiştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -980,7 +980,7 @@
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş %1 ve %2 arasında olmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -991,25 +991,25 @@
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş %1 ve %2 arasında olmalıdır.</translation>
     </message>
 </context>
 <context>
     <name>KxConvertTabletoTextDlg</name>
     <message>
         <source>You must type a character for the custom separator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel ayraç için bir karakter girmelisiniz.</translation>
     </message>
 </context>
 <context>
     <name>KxCoverSectionGalleryCommand</name>
     <message>
         <source>Cover Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapak Sayfası</translation>
     </message>
     <message>
         <source>Remove Cover Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapak Sayfasını Kaldır</translation>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
@@ -1020,27 +1020,27 @@
     <name>KxCrossReferenceDlg</name>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ekle</translation>
     </message>
     <message>
         <source>Above/below</source>
-        <translation type="unfinished"></translation>
+        <translation>Yukarı/aşağı</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer imi</translation>
     </message>
     <message>
         <source>Bookmark text</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer imi metni</translation>
     </message>
     <message>
         <source>Endnote number</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonnot numarası</translation>
     </message>
     <message>
         <source>Endnote number (formatted)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonnot numarası (biçimlendirilmiş)</translation>
     </message>
     <message>
         <source>Entire caption</source>
@@ -1048,11 +1048,11 @@
     </message>
     <message>
         <source>Footnote number</source>
-        <translation type="unfinished"></translation>
+        <translation>Altbilgi numarası</translation>
     </message>
     <message>
         <source>Footnote number (formatted)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altbilgi numarası (biçimlendirilmiş)</translation>
     </message>
     <message>
         <source>For &amp;which bookmark:</source>
@@ -1104,23 +1104,23 @@
     </message>
     <message>
         <source>Page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayfa numarası</translation>
     </message>
     <message>
         <source>Paragraph number</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf numarası</translation>
     </message>
     <message>
         <source>Paragraph number (full context)</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf numarası (tüm içerik)</translation>
     </message>
     <message>
         <source>Paragraph number (no context)</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf numarası (içerik yok)</translation>
     </message>
     <message>
         <source>Paragraph text</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf metni</translation>
     </message>
     <message>
         <source>The referenced content is empty.</source>
@@ -1128,7 +1128,7 @@
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Kelime İşlemci</translation>
     </message>
     <message>
         <source>For &amp;which numbered item:</source>
@@ -1139,23 +1139,23 @@
     <name>KxCustomBackgroundColorDlgClass</name>
     <message>
         <source>&amp;Background color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Arkaplan rengi:</translation>
     </message>
     <message>
         <source>&amp;Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Özel</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Öntanımlı</translation>
     </message>
     <message>
         <source>&amp;Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Şemalar</translation>
     </message>
     <message>
         <source>&amp;Text color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Metin rengi:</translation>
     </message>
     <message>
         <source>Custom background color and text color(design)</source>
@@ -1163,27 +1163,27 @@
     </message>
     <message>
         <source>Scheme&amp;1</source>
-        <translation type="unfinished"></translation>
+        <translation>Şemalar&amp;1</translation>
     </message>
     <message>
         <source>Scheme&amp;2</source>
-        <translation type="unfinished"></translation>
+        <translation>Şemalar&amp;2</translation>
     </message>
     <message>
         <source>Scheme&amp;3</source>
-        <translation type="unfinished"></translation>
+        <translation>Şemalar&amp;3</translation>
     </message>
     <message>
         <source>Scheme&amp;4</source>
-        <translation type="unfinished"></translation>
+        <translation>Şemalar&amp;4</translation>
     </message>
     <message>
         <source>Scheme&amp;5</source>
-        <translation type="unfinished"></translation>
+        <translation>Şemalar&amp;5</translation>
     </message>
     <message>
         <source>Scheme&amp;6</source>
-        <translation type="unfinished"></translation>
+        <translation>Şemalar&amp;6</translation>
     </message>
     <message>
         <source>Set the background color to white and the text color to black as default.</source>
@@ -1191,7 +1191,7 @@
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Kelime İşlemci</translation>
     </message>
 </context>
 <context>
@@ -1202,7 +1202,7 @@
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel Sözlük Ekle</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
@@ -1214,15 +1214,15 @@
     </message>
     <message>
         <source>Create Custom Dictionary</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel Sözlük Oluştur</translation>
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
-        <translation type="unfinished"></translation>
+        <translation>Sözlük dosyası (*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Full path: </source>
-        <translation type="unfinished"></translation>
+        <translation>Tam dosya yolu:</translation>
     </message>
     <message>
         <source>Removing the custom dictionary might remove the custom dictionary used by other WPS programs. Do you want to continue?</source>
@@ -1234,37 +1234,37 @@
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Son sözlük silinemedi!</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sözlük Dosyası(*.dic)</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm Dosyalar(*.*)</translation>
     </message>
 </context>
 <context>
     <name>KxCustomizeBulletedlistDlg</name>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Az</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Daha fazla</translation>
     </message>
 </context>
 <context>
     <name>KxCustomizeNumberedListDlg</name>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Az</translation>
     </message>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Daha fazla</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -1275,26 +1275,26 @@
     <name>KxDlgAddUsers</name>
     <message>
         <source>Add Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanıcı Ekle</translation>
     </message>
     <message>
         <source>Example:user1;DOMAIN\name;someone@example.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Örnek:kullanıcı1;DOMAIN\name;someone@example.com</translation>
     </message>
     <message>
         <source>Enter user names, separated by semicolons:</source>
-        <translation type="unfinished"></translation>
+        <translation>Noktalı virgülle ayrılmış olarak kullanıcı adını girin:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgBookmarks</name>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ekle</translation>
     </message>
     <message>
         <source>&amp;Bookmark name:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yer imi adı:</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -1302,23 +1302,23 @@
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Git</translation>
     </message>
     <message>
         <source>&amp;Hidden bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gizli yer imleri</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Konum</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ad</translation>
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer imi</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1326,7 +1326,7 @@
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sırala:</translation>
     </message>
 </context>
 <context>
@@ -2760,15 +2760,15 @@ If unnecessary, please click Cancel.</source>
         <source>a</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>一</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>印</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>壹</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8266,7 +8266,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Home phone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ev telefonu</translation>
     </message>
     <message>
         <source>Job title</source>
@@ -8274,127 +8274,127 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Last name</source>
-        <translation type="unfinished"></translation>
+        <translation>Soyadı</translation>
     </message>
     <message>
         <source>Middle name</source>
-        <translation type="unfinished"></translation>
+        <translation>İkinci adı</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Phonetic guide for first name</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Phonetic guide for last name</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation type="unfinished"></translation>
+        <translation>Posta kodu</translation>
     </message>
     <message>
         <source>Spouse courtesy title</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Spouse first name</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Spouse last name</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Spouse middle name</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Spouse nickname</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Suffix</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Unique identifier</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Web page</source>
-        <translation type="unfinished"></translation>
+        <translation>Web sayfası</translation>
     </message>
 </context>
 <context>
     <name>KxInsertNumberDlg</name>
     <message>
         <source>Input a correct number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Doğru bir sayı girin.</translation>
     </message>
     <message>
         <source>The value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Değer %1 ve %2 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>Use Default Numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan numaralandırmayı kullan</translation>
     </message>
 </context>
 <context>
     <name>KxInsertTableDlg</name>
     <message>
         <source>The input value must be between 1 and 600.</source>
-        <translation type="unfinished"></translation>
+        <translation>Değer 1 ve 600 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>The input value must be between 1 and 63.</source>
-        <translation type="unfinished"></translation>
+        <translation>Değer 1 ve 63 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.07 in and 22 in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ölçü 0.07 inç ve 22 inç arasında olmalıdır.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.16 cm and 55.88 cm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ölçü 0.16 cm ve 55.88 cm arasında olmalıdır.</translation>
     </message>
     <message>
         <source>The measurement must be between 1.59 mm and 558.84 mm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ölçü 1.59 mm ve 558.84 mm arasında olmalıdır.</translation>
     </message>
     <message>
         <source>The measurement must be between 4.5 pt and 1584 pt.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ölçü 4.5 pt ve 1584 pt arasında olmalıdır.</translation>
     </message>
 </context>
 <context>
     <name>KxInsertTableRowsDlg</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Değer %1 ve %2 arasında olmalıdır.</translation>
     </message>
 </context>
 <context>
     <name>KxMailMergeTableDlg</name>
     <message>
         <source>Created Time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oluşturulma Zamanı</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanım</translation>
     </message>
     <message>
         <source>Modified Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Değiştirilme Zamanı</translation>
     </message>
     <message>
         <source>Name</source>
@@ -8409,60 +8409,60 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxMatchFieldsDlg</name>
     <message>
         <source>(Not matched)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Eşleşmedi)</translation>
     </message>
 </context>
 <context>
     <name>KxMergeToDiffNewDocDlg</name>
     <message>
         <source>Browse Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dizine Gözat</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayı %1 ve %2 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>The number must not be nil</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxMergeToEmailDlg</name>
     <message>
         <source>Number is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayı geçersiz.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Kelime İşlemci</translation>
     </message>
     <message>
         <source>WPS Writer cannot merge documents that can be distributed by mail without a valid mail address.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxMergeToNewDocOrPrinterDlg</name>
     <message>
         <source>Merge to New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Belgeye Birleştir</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayı %1 ve %2 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>The number must not be nil</source>
@@ -8473,27 +8473,27 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxModifyStyleDlg</name>
     <message>
         <source>&amp;Border...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kenarlık...</translation>
     </message>
     <message>
         <source>&amp;Font...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yazıtipi...</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Numaralandırma...</translation>
     </message>
     <message>
         <source>&amp;Paragraph...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Paragraf...</translation>
     </message>
     <message>
         <source>&amp;Shortcut...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kısayollar...</translation>
     </message>
     <message>
         <source>&amp;Tabs...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sekmeler...</translation>
     </message>
     <message>
         <source>(No style)</source>
@@ -8505,11 +8505,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>0#</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>0-#</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1#</source>
@@ -8517,11 +8517,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>1-#</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>1.5 line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 satır boşluk</translation>
     </message>
     <message>
         <source>2#</source>
@@ -8569,23 +8569,23 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Bold, </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Koyu</translation>
     </message>
     <message>
         <source>Center alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortala</translation>
     </message>
     <message>
         <source>Decrease indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Girintiyi azalt</translation>
     </message>
     <message>
         <source>Decrease paragraph space</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf boşluğunu azalt</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan Paragraf Yazıtipi</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
@@ -8594,19 +8594,24 @@ This change will affect all the new documents based on the %1 template.
 Yes:	Save to template;
 No:	Do not save to template;
 Cancel:	Return to the dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Biçem için varsayılan ayarları değiştirmek istiyor musunuz?
+Bu değişiklik %1 şablonu ile oluşturulan tüm yeni belgeleri etkileyecektir.
+
+Evet:	Şablona kaydet;
+Hayır:	Şablona kaydetme;
+İptal:	Pencereye geri dön.</translation>
     </message>
     <message>
         <source>Double line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>İki satır boşluk</translation>
     </message>
     <message>
         <source>Increase indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Girintiyi artır</translation>
     </message>
     <message>
         <source>Increase paragraph space</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf boşluğunu artır</translation>
     </message>
     <message>
         <source>Itatic, </source>
@@ -8614,31 +8619,31 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Justify alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>İki yana yasla</translation>
     </message>
     <message>
         <source>Left alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Sola hizala</translation>
     </message>
     <message>
         <source>Line spacing: 1.5 lines, </source>
-        <translation type="unfinished"></translation>
+        <translation>Satır boşluğu: 1.5 satır,</translation>
     </message>
     <message>
         <source>Line spacing: Double, </source>
-        <translation type="unfinished"></translation>
+        <translation>Satır boşluğu:2 satır</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiç</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Right alignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sağa hizala</translation>
     </message>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
@@ -8646,27 +8651,27 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Single line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Tek satır boşluk</translation>
     </message>
     <message>
         <source>Space Before: %1 pt, after %2 pt, </source>
-        <translation type="unfinished"></translation>
+        <translation>Önceki boşluk: %1 pt, sonraki boşluk %2 pt,</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Biçem</translation>
     </message>
     <message>
         <source>The font &apos;%1&apos; is not available in your system. Do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; yazıtipi sisteminizde bulunmamaktadır. Yinede kullanmak ister misiniz?</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayı %1 ve %2 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu geçerli bir sayı değil.</translation>
     </message>
     <message>
         <source>This style name already exists or is reserved for a built-in style.</source>
@@ -8688,19 +8693,19 @@ Cancel:	Return to the dialog.</source>
     <name>KxNewStyleDlg</name>
     <message>
         <source>&amp;Border...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kenarlık...</translation>
     </message>
     <message>
         <source>&amp;Font...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yazıtipi...</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Numaralandırma...</translation>
     </message>
     <message>
         <source>&amp;Paragraph...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Paragraf...</translation>
     </message>
     <message>
         <source>&amp;Shortcut...</source>
@@ -8736,7 +8741,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>1.5 line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 satır boşluk</translation>
     </message>
     <message>
         <source>2#</source>
@@ -8784,23 +8789,23 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Bold, </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kalın,</translation>
     </message>
     <message>
         <source>Center alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortala</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortalı</translation>
     </message>
     <message>
         <source>Decrease indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Girintiyi azalt</translation>
     </message>
     <message>
         <source>Decrease paragraph space</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf boşluğunu azalt</translation>
     </message>
     <message>
         <source>Dispersion</source>
@@ -8813,19 +8818,24 @@ This change will affect all the new documents based on the %1 template.
 Yes:	Save to template;
 No:	Do not save to template;
 Cancel:	Return to the dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Biçem için varsayılan ayarları değiştirmek istiyor musunuz?
+Bu değişiklik %1 şablonu ile oluşturulan tüm yeni belgeleri etkileyecektir.
+
+Evet:	Şablona kaydet;
+Hayır:	Şablona kaydetme;
+İptal:	Pencereye geri dön.</translation>
     </message>
     <message>
         <source>Double line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>İki satır boşluk</translation>
     </message>
     <message>
         <source>Increase indent</source>
-        <translation type="unfinished"></translation>
+        <translation>Girintiyi artır</translation>
     </message>
     <message>
         <source>Increase paragraph space</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragraf boşluğunu artır</translation>
     </message>
     <message>
         <source>Itatic, </source>
@@ -8833,7 +8843,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Justify alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>İki yana yasla</translation>
     </message>
     <message>
         <source>Left</source>
@@ -8841,7 +8851,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Left alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Sola hizala</translation>
     </message>
     <message>
         <source>LeftAndRight</source>
@@ -8849,19 +8859,19 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Line spacing: 1.5 lines, </source>
-        <translation type="unfinished"></translation>
+        <translation>Satır boşluğu: 1.5 satır,</translation>
     </message>
     <message>
         <source>Line spacing: Double, </source>
-        <translation type="unfinished"></translation>
+        <translation>Satır boşluğu:2 satır</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiç</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Right</source>
@@ -8869,7 +8879,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Right alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağa hizala</translation>
     </message>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
@@ -11430,15 +11440,15 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Horizontal</source>
         <translation></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate All Text 270°</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate All Text 90°</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Rotate Asian Character 270°</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11502,7 +11512,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>MultSpinbox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -11698,7 +11708,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>New &amp;Comment</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
         <translation type="unfinished"></translation>
     </message>
