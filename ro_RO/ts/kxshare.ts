@@ -225,6 +225,10 @@
         <source>Online font downloading,click font list see more detail.</source>
         <translation>Se descarcă font online,apăsați pe lista fontului pentru a vedea mai multe detalii.</translation>
     </message>
+    <message>
+        <source>The layout will take effect after restart or logoff computer</source>
+        <translation>Aspectul va avea efect după ce reporniți computerul sau vă sau deautentificați</translation>
+    </message>
 </context>
 <context>
     <name>KCompressPicturesDlg</name>
@@ -322,7 +326,7 @@
     </message>
     <message>
         <source>about:blank</source>
-        <translation>about:blank</translation>
+        <translation type="obsolete">about:blank</translation>
     </message>
     <message>
         <source>applying...</source>
@@ -1022,7 +1026,7 @@
     <name>KxAboutDlg</name>
     <message>
         <source>%1%2</source>
-        <translation>%1%2</translation>
+        <translation type="obsolete">%1%2</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1058,7 +1062,7 @@
     </message>
     <message>
         <source>res:/icons/kxshare/%1.png</source>
-        <translation>res:/icons/kxshare/%1.png</translation>
+        <translation type="obsolete">res:/icons/kxshare/%1.png</translation>
     </message>
     <message>
         <source>Cannot find help file or help file encountered an error!</source>
@@ -1067,6 +1071,51 @@
     <message>
         <source>Part of %1 activation version</source>
         <translation>Parte a %1 activare versiune</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddRestrictUserDlg</name>
+    <message>
+        <source>Add Users</source>
+        <translation>Adaugă utilizatori</translation>
+    </message>
+    <message>
+        <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
+Separate names with a semicolon(;).
+To select names from the Address book, click the Read or Change button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add users from the Address Book</source>
+        <translation>Adaugă utilizatori din agendă</translation>
+    </message>
+    <message>
+        <source>Read...   </source>
+        <translation>Citește... </translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
+        <translation>Utilizatorii cu permisiuni de citire pot citi acest document,   dar nu pot modifica, tipări sau copia conținutul.</translation>
+    </message>
+    <message>
+        <source>Give all users Read Access</source>
+        <translation>Dă tuturor utilizatorilor acces de citire</translation>
+    </message>
+    <message>
+        <source>PI</source>
+        <translation>PI</translation>
+    </message>
+    <message>
+        <source>Change...   </source>
+        <translation>Modifică... </translation>
+    </message>
+    <message>
+        <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
+        <translation>Utilizatorii cu permisiune de modificare pot citi, edita, copia conținutul de la document și pot salva modificările la acest document, dar nu pot tipări conținutul.</translation>
+    </message>
+    <message>
+        <source>Give all users Change Access</source>
+        <translation>Dă tuturor utilizatorilor acces de modificare</translation>
     </message>
 </context>
 <context>
@@ -2339,6 +2388,10 @@ p, li { white-space: pre-wrap; }
         <source>Set as &amp;default template</source>
         <translation>Configurează ca șablon &amp;implicit</translation>
     </message>
+    <message>
+        <source>pushButton</source>
+        <translation>Buton apăsare</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPrintProgress</name>
@@ -2443,6 +2496,29 @@ Click-dublu sau utilizați meniul desfășurător pentru a deschide fișierul. A
     <message>
         <source>Screen&amp;Tip text:</source>
         <translation>Text &amp;sfat pe ecran:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSelectUser</name>
+    <message>
+        <source>Select User</source>
+        <translation>Selectare utilizator</translation>
+    </message>
+    <message>
+        <source>&amp;Select one of the following user accounts to create or open content with restricted permission.To use an account not listed below,click Add.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation>&amp;Adaugă...</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>&amp;Elimină</translation>
+    </message>
+    <message>
+        <source>A&amp;lways use this account</source>
+        <translation>Utilizează m&amp;ereu acest cont</translation>
     </message>
 </context>
 <context>
@@ -2708,7 +2784,7 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Divot</source>
-        <translation type="unfinished"></translation>
+        <translation>Divot</translation>
     </message>
     <message>
         <source>Dotted grid</source>
@@ -2720,7 +2796,7 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
     <message>
         <source>Shingle</source>
-        <translation type="unfinished"></translation>
+        <translation>Șindrilă</translation>
     </message>
     <message>
         <source>Trellis</source>
@@ -3074,6 +3150,17 @@ Această înregistrare nu este validă, fișierul poate a fost redenumit,șters 
     </message>
 </context>
 <context>
+    <name>KxLoadingRMSDlg</name>
+    <message>
+        <source>WPS</source>
+        <translation>WPS</translation>
+    </message>
+    <message>
+        <source>Verifying your logon information for opening content with restricted permission...</source>
+        <translation>Se verifică informația de autentificare pentru deschiderea conținutului cu permisiuni restricționate...</translation>
+    </message>
+</context>
+<context>
     <name>KxMacroActionButtonCommand</name>
     <message>
         <source>Cannot run the macro &apos;%1&apos;. The macro may not be available in this workbook, or all macros may have been disabled.</source>
@@ -3218,6 +3305,22 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <message>
         <source>Redo</source>
         <translation>Refă</translation>
+    </message>
+    <message>
+        <source>Close all tabs or current tab</source>
+        <translation>Închide toate filele sau fila curentă</translation>
+    </message>
+    <message>
+        <source>Close all</source>
+        <translation>Închide tot</translation>
+    </message>
+    <message>
+        <source>Close current</source>
+        <translation>Închide curenta</translation>
+    </message>
+    <message>
+        <source>cancel Close</source>
+        <translation>anulează Închide</translation>
     </message>
 </context>
 <context>
@@ -3377,6 +3480,30 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>Download</source>
         <translation>Descărcare</translation>
     </message>
+    <message>
+        <source>import templates</source>
+        <translation>importă șabloane</translation>
+    </message>
+    <message>
+        <source>template file</source>
+        <translation>fișier șablon</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation Template</source>
+        <translation>Șablon Kingsoft Presentation</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Template</source>
+        <translation>Șablon Microsoft PowerPoint 97/2000/XP/2003</translation>
+    </message>
+    <message>
+        <source>Kingsoft Spreadsheets Templates</source>
+        <translation>Șablon Kingsoft Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97/2000/XP/2003 Template</source>
+        <translation>Șablon Microsoft Excel 97/2000/XP/2003</translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineFontController</name>
@@ -3405,7 +3532,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Complet</translation>
     </message>
 </context>
 <context>
@@ -3523,7 +3650,7 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait…</source>
-        <translation>Se descarcă fonturi, așteptați...</translation>
+        <translation type="obsolete">Se descarcă fonturi, așteptați...</translation>
     </message>
     <message>
         <source>More Fonts</source>
@@ -3532,6 +3659,10 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     <message>
         <source>(Restart to take effect).</source>
         <translation>(Reporniți pentru a avea efect).</translation>
+    </message>
+    <message>
+        <source>Downloading fonts, please wait?</source>
+        <translation>Se descarcă fonturi, așteptați?</translation>
     </message>
 </context>
 <context>
@@ -3598,6 +3729,69 @@ Apăsați pictograma pentru a vă autentifica acum.</translation>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionOptionDlg</name>
+    <message>
+        <source>Permission</source>
+        <translation>Permisiune</translation>
+    </message>
+    <message>
+        <source>&amp;Restrict permission to this document</source>
+        <translation>&amp;Restricționează permisiunea la acest document</translation>
+    </message>
+    <message>
+        <source>The following &amp;users have permission to this document:</source>
+        <translation>Următorii &amp;utilizatori au permisiuni la acest document:</translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation>&amp;Adaugă...</translation>
+    </message>
+    <message>
+        <source>Remo&amp;ve</source>
+        <translation>Elim&amp;ină</translation>
+    </message>
+    <message>
+        <source>Additional permissions for users:</source>
+        <translation>Permisiuni suplimentare pentru utilizatori:</translation>
+    </message>
+    <message>
+        <source>This document expires o&amp;n:</source>
+        <translation>Acest document expiră p&amp;e:</translation>
+    </message>
+    <message>
+        <source>Enter date in format: yyyy/M/d</source>
+        <translation>Introduceți data în format: aaaa/l/z</translation>
+    </message>
+    <message>
+        <source>&amp;Print content</source>
+        <translation>Ti&amp;părește conținutul</translation>
+    </message>
+    <message>
+        <source>Allow users with read access to &amp;copy content</source>
+        <translation>Permite utilizatorilor cu acces de citire să &amp;copieze conținut</translation>
+    </message>
+    <message>
+        <source>Access content pr&amp;ogrammatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Additional settings:</source>
+        <translation>Configurări suplimentare:</translation>
+    </message>
+    <message>
+        <source>Users can request additonal per&amp;missions from:</source>
+        <translation>Utilizatorii pot solicita per&amp;misiuni suplimentare de la:</translation>
+    </message>
+    <message>
+        <source>Re&amp;quire a connection to verify a user&apos;s permission</source>
+        <translation>So&amp;licită o conexiune pentru a verifica permisiunile utilizatorului</translation>
+    </message>
+    <message>
+        <source>&amp;Set defaults...</source>
+        <translation>&amp;Configurează implicite...</translation>
     </message>
 </context>
 <context>
@@ -4007,6 +4201,63 @@ fișierul este posibil să fie redenumit,șters sau mutat.</translation>
     </message>
 </context>
 <context>
+    <name>KxRestrictedAccessDlg</name>
+    <message>
+        <source>Permission</source>
+        <translation>Permisiune</translation>
+    </message>
+    <message>
+        <source>&amp;Restrict permission to this document</source>
+        <translation>&amp;Restricționează permisiunea la acest document</translation>
+    </message>
+    <message>
+        <source>Enter the e-mail addresses of users in the Read and Change boxes (exapmle: &apos;tommy@qq.com&apos;).
+Separate names with a semicolon(;).
+To select names from the Address book, click the Read or Change button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add users from the Address Book</source>
+        <translation>Adaugă utilizatori din agendă</translation>
+    </message>
+    <message>
+        <source>Read...   </source>
+        <translation>Citește... </translation>
+    </message>
+    <message>
+        <source>Users with Read permission can read this document,   but cannot change, print or copy content.</source>
+        <translation>Utilizatorii cu permisiuni de citire pot citi acest document,   dar nu pot modifica, tipări sau copia conținutul.</translation>
+    </message>
+    <message>
+        <source>Give all users Read Access</source>
+        <translation>Dă tuturor utilizatorilor acces de citire</translation>
+    </message>
+    <message>
+        <source>PI</source>
+        <translation>PI</translation>
+    </message>
+    <message>
+        <source>Change...   </source>
+        <translation>Modifică... </translation>
+    </message>
+    <message>
+        <source>Users with Change permission can read, edit, copy content from, and save changes to this document, but cannot print content.</source>
+        <translation>Utilizatorii cu permisiune de modificare pot citi, edita, copia conținutul de la document și pot salva modificările la acest document, dar nu pot tipări conținutul.</translation>
+    </message>
+    <message>
+        <source>Give all users Change Access</source>
+        <translation>Dă tuturor utilizatorilor acces de modificare</translation>
+    </message>
+    <message>
+        <source>Displays advanced settings dialog</source>
+        <translation>Afișează dialogul configurări avansate</translation>
+    </message>
+    <message>
+        <source> More &amp;Options...</source>
+        <translation> Mai multe &amp;opțiuni...</translation>
+    </message>
+</context>
+<context>
     <name>KxRnCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
@@ -4123,6 +4374,10 @@ dar pachetul de sistem instalat este rezervat.</translation>
         <source>I already know</source>
         <translation>Știu deja</translation>
     </message>
+    <message>
+        <source>The layout will take effect after restart or logoff computer</source>
+        <translation>Aspectul va avea efect după ce reporniți computerul sau vă sau deautentificați</translation>
+    </message>
 </context>
 <context>
     <name>KxSwitchView</name>
@@ -4212,11 +4467,11 @@ dar pachetul de sistem instalat este rezervat.</translation>
     </message>
     <message>
         <source>Disable Title Switching in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezactivează comutarea titlului în fereastra de sarcini</translation>
     </message>
     <message>
         <source>Enable Title Switching in Task Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Activează comutarea titlului în fereastra de sarcini</translation>
     </message>
     <message>
         <source>Show Icon Only</source>
@@ -4278,12 +4533,16 @@ dar pachetul de sistem instalat este rezervat.</translation>
         <source>Modified</source>
         <translation>Modificat</translation>
     </message>
+    <message>
+        <source>browse templates location</source>
+        <translation>navighează amplasarea șabloanelor</translation>
+    </message>
 </context>
 <context>
     <name>KxTextBoxWidget</name>
     <message>
         <source>The objects or tables in a scalable or rotatable text box will be removed. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Obiectele sau tabelele într-o casetă text scalabilă sau care se poate roti vor fi eliminate. Doriți să continuați?</translation>
     </message>
 </context>
 <context>
@@ -4887,6 +5146,10 @@ Fișierul poate a fost redenumit , șters sau mutat.</translation>
         <source>Cannot be previewed.</source>
         <translation>Nu poate fi previzualizat.</translation>
     </message>
+    <message>
+        <source>PushButton</source>
+        <translation>Buton apăsare</translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetTextBox</name>
@@ -5374,11 +5637,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
+        <translation type="obsolete">2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
     </message>
     <message>
         <source>&amp;Technical Support...</source>
         <translation>Suport &amp;tehnic...</translation>
+    </message>
+    <message>
+        <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
     </message>
 </context>
 <context>

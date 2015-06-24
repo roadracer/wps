@@ -21,7 +21,6 @@
     </message>
     <message>
         <source>Emphasize</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Wyróżnienie</lengthvariant>
             <lengthvariant>Uwydatnienie</lengthvariant>
@@ -93,7 +92,10 @@
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</translation>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 5/Uwydatnienie 6</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -127,7 +129,11 @@
     </message>
     <message>
         <source>Add &amp;Design</source>
-        <translation>Dodaj &amp;projekt</translation>
+        <translation type="obsolete">Dodaj &amp;projekt</translation>
+    </message>
+    <message>
+        <source>Add Design</source>
+        <translation>Dodaj projekt</translation>
     </message>
 </context>
 <context>
@@ -274,19 +280,11 @@
     <name>DlgKxInvolvedTemplate</name>
     <message>
         <source>Involved Template</source>
-        <translation variants="yes">
-            <lengthvariant>Szablon powiązany</lengthvariant>
-            <lengthvariant>Szablon zaangażowany</lengthvariant>
-            <lengthvariant>Szablon uwzględniany</lengthvariant>
-        </translation>
+        <translation>Szablon powiązany</translation>
     </message>
     <message>
         <source>Select Involved Template</source>
-        <translation variants="yes">
-            <lengthvariant>Wybierz szablon powiązany</lengthvariant>
-            <lengthvariant>Wybierz szablon zaangażowany</lengthvariant>
-            <lengthvariant>Wybierz szablon uwzględniany</lengthvariant>
-        </translation>
+        <translation>Wybierz szablon powiązany</translation>
     </message>
     <message>
         <source>Apply Current</source>
@@ -325,7 +323,7 @@
     </message>
     <message>
         <source>Show options</source>
-        <translation>Pokaż opcje</translation>
+        <translation>Opcje pokazu</translation>
     </message>
     <message>
         <source>&amp;Loop continuously until &apos;Esc&apos;</source>
@@ -738,10 +736,7 @@
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation variants="yes">
-            <lengthvariant>Ładowanie KUI</lengthvariant>
-            <lengthvariant>Wczytywanie KUI</lengthvariant>
-        </translation>
+        <translation>Ładowanie GUI</translation>
     </message>
 </context>
 <context>
@@ -776,10 +771,7 @@
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation variants="yes">
-            <lengthvariant>&amp;Kreskowany:</lengthvariant>
-            <lengthvariant>&amp;Kreskowana:</lengthvariant>
-        </translation>
+        <translation>&amp;Kreskowany:</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
@@ -840,9 +832,7 @@
     <message>
         <source>bgMagic tooltip</source>
         <translation variants="yes">
-            <lengthvariant>bgEtykietka narzędzia Magia</lengthvariant>
             <lengthvariant>bgEtykietka narzędzia Magic</lengthvariant>
-            <lengthvariant>bgMagiczna etykietka narzędzia</lengthvariant>
             <lengthvariant>bgMagic tooltip</lengthvariant>
         </translation>
     </message>
@@ -1112,10 +1102,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Bulleted</source>
-        <translation variants="yes">
-            <lengthvariant>Punktowane</lengthvariant>
-            <lengthvariant>Punktowany</lengthvariant>
-        </translation>
+        <translation>Punktowanie</translation>
     </message>
     <message>
         <source>S&amp;ize:</source>
@@ -1139,7 +1126,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Numbered</source>
-        <translation>Numerowane</translation>
+        <translation>Numerowanie</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
@@ -1174,7 +1161,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation>Zamień w&amp;szystkie</translation>
+        <translation>Zamień w&amp;szystko</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
@@ -1182,7 +1169,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation>I&amp;gnoruj ​​wszystkie</translation>
+        <translation>I&amp;gnoruj ​​wszystko</translation>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
@@ -1229,10 +1216,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Aktualizuj automatycznie</lengthvariant>
-            <lengthvariant>&amp;Automatyczna aktualizacja</lengthvariant>
-        </translation>
+        <translation>&amp;Automatyczna aktualizacja</translation>
     </message>
 </context>
 <context>
@@ -1312,10 +1296,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Regular</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Regularny</lengthvariant>
-        </translation>
+        <translation>Standardowy</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -1351,7 +1332,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation>&amp;Uwypuklenie</translation>
+        <translation>Uwy&amp;puklenie</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
@@ -1462,7 +1443,6 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Set as Default(&amp;C)</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Ustaw jako domyślny (&amp;C)</lengthvariant>
             <lengthvariant>Ustaw jako domyślną (&amp;C)</lengthvariant>
@@ -1490,10 +1470,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Aktualizuj automatycznie</lengthvariant>
-            <lengthvariant>&amp;Automatyczna aktualizacja</lengthvariant>
-        </translation>
+        <translation>&amp;Automatyczna aktualizacja</translation>
     </message>
     <message>
         <source>&amp;Language:</source>
@@ -1578,10 +1555,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     <name>KxDlgInsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw tabelę</lengthvariant>
-            <lengthvariant>Wstawianie tabeli</lengthvariant>
-        </translation>
+        <translation>Wstawianie tabeli</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
@@ -1750,10 +1724,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Ostatnio używane pliki:</lengthvariant>
-            <lengthvariant>Lista &amp;ostatnio używanych plików:</lengthvariant>
-        </translation>
+        <translation>&amp;Ostatnio używane pliki:</translation>
     </message>
     <message>
         <source>Recovery options</source>
@@ -1761,10 +1732,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
-        <translation variants="yes">
-            <lengthvariant>Utwórz &amp;plik kopii zapasowej przy pierwszym zapisie</lengthvariant>
-            <lengthvariant>Tworzenie &amp;pliku kopii zapasowej podczas pierwszego zapisywania</lengthvariant>
-        </translation>
+        <translation>Utwórz &amp;plik kopii zapasowej przy pierwszym zapisie</translation>
     </message>
     <message>
         <source>&amp;Save backup file every:</source>
@@ -1934,10 +1902,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation variants="yes">
-            <lengthvariant>U&amp;ruchomienie okna zadań</lengthvariant>
-            <lengthvariant>Autosta&amp;rt okna zadań</lengthvariant>
-        </translation>
+        <translation>Autosta&amp;rt okna zadań</translation>
     </message>
     <message>
         <source>Show menu on right mouse click(&amp;P)</source>
@@ -1961,21 +1926,15 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>WPS Presentation File</source>
-        <translation>Plik WPS Presentation</translation>
+        <translation>Plik programu WPS Presentation</translation>
     </message>
     <message>
         <source>Start with</source>
-        <translation variants="yes">
-            <lengthvariant>Rozpocznij od</lengthvariant>
-            <lengthvariant>Początek od</lengthvariant>
-        </translation>
+        <translation>Rozpocznij od</translation>
     </message>
     <message>
         <source>Start with:</source>
-        <translation variants="yes">
-            <lengthvariant>Rozpocznij od:</lengthvariant>
-            <lengthvariant>Początek od:</lengthvariant>
-        </translation>
+        <translation>Rozpocznij od:</translation>
     </message>
     <message>
         <source>Online Templates(&amp;G)</source>
@@ -1995,7 +1954,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Caution: please keep your password properly. File will never be recovered if you lose or forget the password.(Remember that passwords are case-sensitive.)</source>
-        <translation>Uwaga: Proszę zachowaj swoje poprawne hasło. Pliku nigdy nie będzie można odzyskać, jeżeli zapomnisz lub zgubisz hasło.(Pamiętaj, że w hasłach jest rozróżniana wielkość liter.)</translation>
+        <translation>Ostrzeżenie: Proszę zachowaj swoje poprawne hasło. Pliku nigdy nie będzie można odzyskać, jeżeli zapomnisz lub zgubisz hasło.(Pamiętaj, że w hasłach jest rozróżniana wielkość liter.)</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -2031,10 +1990,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation variants="yes">
-            <lengthvariant>Pokaż &amp;okna na pasku zadań</lengthvariant>
-            <lengthvariant>Pokaż &amp;okna w pasku zadań</lengthvariant>
-        </translation>
+        <translation>Pokaż &amp;okna na pasku zadań</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -2050,17 +2006,11 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Password protect</source>
-        <translation variants="yes">
-            <lengthvariant>Chroń hasłem</lengthvariant>
-            <lengthvariant>Hasło ochrony</lengthvariant>
-        </translation>
+        <translation>Chroń hasłem</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation variants="yes">
-            <lengthvariant>Przycisk Zaawansowane pozwala wybrać spośród różnych typów szyfrowania.</lengthvariant>
-            <lengthvariant>Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.</lengthvariant>
-        </translation>
+        <translation>Przycisk Zaawansowane pozwala wybrać spośród różnych typów szyfrowania.</translation>
     </message>
 </context>
 <context>
@@ -2137,7 +2087,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowe</translation>
+        <translation>Niestandardowy</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -2367,10 +2317,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     <name>KxDlgSplitCells</name>
     <message>
         <source>Split Cells</source>
-        <translation variants="yes">
-            <lengthvariant>Podziel komórki</lengthvariant>
-            <lengthvariant>Dzielenie komórek</lengthvariant>
-        </translation>
+        <translation>Dzielenie komórek</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
@@ -2483,7 +2430,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>&amp;Hyperlink to:</source>
-        <translation>&amp;Hiperłącze do:</translation>
+        <translation>&amp;Hiperłącze z:</translation>
     </message>
     <message>
         <source>Next slide</source>
@@ -2774,17 +2721,11 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Lines</source>
-        <translation variants="yes">
-            <lengthvariant>Wiersze</lengthvariant>
-            <lengthvariant>Linie</lengthvariant>
-        </translation>
+        <translation>Wiersze</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation variants="yes">
-            <lengthvariant>Punkty</lengthvariant>
-            <lengthvariant>Punktów</lengthvariant>
-        </translation>
+        <translation>Punkty</translation>
     </message>
     <message>
         <source>&amp;Before paragraph</source>
@@ -2811,10 +2752,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Input permission password.</source>
-        <translation variants="yes">
-            <lengthvariant>Wprowadź hasło uprawnienia.</lengthvariant>
-            <lengthvariant>Wprowadź hasło dla autoryzacji.</lengthvariant>
-        </translation>
+        <translation>Wprowadź hasło uprawnienia.</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
@@ -2838,10 +2776,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation variants="yes">
-            <lengthvariant>Hasło potwierdzające nie pasuje.</lengthvariant>
-            <lengthvariant>Hasło potwierdzające nie jest zgodne.</lengthvariant>
-        </translation>
+        <translation>Hasło potwierdzające nie pasuje.</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
@@ -2890,7 +2825,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>Save PDF File</source>
-        <translation>Zapisz plik Adobe PDF</translation>
+        <translation>Zapisz plik PDF</translation>
     </message>
 </context>
 <context>
@@ -2937,7 +2872,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF!</source>
-        <translation>WPS Presentation napotkał błąd podczas próby eksportowania do formatu PDF!</translation>
+        <translation>Program WPS Presentation napotkał błąd podczas próby eksportowania do formatu PDF!</translation>
     </message>
 </context>
 <context>
@@ -2960,15 +2895,15 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document.</source>
-        <translation>WPS Presentation zakończył przeszukiwanie dokumentu.</translation>
+        <translation>Program WPS Presentation zakończył przeszukiwanie dokumentu.</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document. The search item was not found.</source>
-        <translation>WPS Presentation zakończył przeszukiwanie dokumentu. Poszukiwany element nie został znaleziony.</translation>
+        <translation>Program WPS Presentation zakończył przeszukiwanie dokumentu. Poszukiwany element nie został znaleziony.</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document and made %1 replacements.</source>
-        <translation>WPS Presentation zakończył przeszukiwanie dokumentu i wykonał %1 zmian.</translation>
+        <translation>Program WPS Presentation zakończył przeszukiwanie dokumentu i wykonał %1 zmian.</translation>
     </message>
 </context>
 <context>
@@ -3192,11 +3127,7 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation variants="yes">
-            <lengthvariant>Katalog &quot;%1&quot; jest nieprawidłowy.</lengthvariant>
-            <lengthvariant>Katalog &quot;%1&quot; nie jest poprawny.</lengthvariant>
-            <lengthvariant>Katalog &quot;%1&quot; nie jest prawidłowy.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowy katalog &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Select Folder:</source>
@@ -3215,12 +3146,8 @@ Jeżeli jest to konieczne, kliknij przycisk Anuluj</lengthvariant>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  folder, in order to play this file on another computer.</source>
-        <translation variants="yes">
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu, aby odtworzyć ten plik na innym komputerze.</lengthvariant>
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
-        </translation>
+        <translation>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
+folderu, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
 <context>
@@ -3261,12 +3188,8 @@ folderu, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <message>
         <source>Copy the presentation file and related media items, such as video, audio, etc. into the specified
  Zip folder, in order to play this file on another computer.</source>
-        <translation variants="yes">
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu Zip, aby odtworzyć ten plik na innym komputerze.</lengthvariant>
-            <lengthvariant>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
-folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
-        </translation>
+        <translation>Skopiuj plik prezentacji i związane z nim elementy mediów, takie jak wideo, audio, itp. do określonego
+folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
 <context>
@@ -3597,11 +3520,15 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Powiększenie</translation>
+        <translation type="obsolete">Powiększenie</translation>
     </message>
     <message>
         <source>Loop until next sound</source>
         <translation>W pętli do następnego dźwięku</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation>Przejście slajdu</translation>
     </message>
 </context>
 <context>
@@ -3790,10 +3717,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
-        <translation variants="yes">
-            <lengthvariant>Ostatni schemat kolorów nie może być usunięty. Prezentacja musi zawsze zawierać co najmniej jeden standardowy schemat kolorów.</lengthvariant>
-            <lengthvariant>Ostatni schemat kolorów nie może być usunięty. Prezentacja zawsze musi zawierać co najmniej jeden standardowy schemat kolorów.</lengthvariant>
-        </translation>
+        <translation>Ostatni schemat kolorów nie może być usunięty. Prezentacja musi zawsze zawierać co najmniej jeden standardowy schemat kolorów.</translation>
     </message>
 </context>
 <context>
@@ -4021,7 +3945,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <name>KxWppFontSizeCommand</name>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>To nie jest prawidłową liczbą całkowitą.</translation>
+        <translation>Nieprawidłowa liczba całkowita.</translation>
     </message>
 </context>
 <context>
@@ -4096,10 +4020,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Wipe</source>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj</lengthvariant>
-            <lengthvariant>Ścieranie</lengthvariant>
-        </translation>
+        <translation>Ścieranie</translation>
     </message>
     <message>
         <source>Push and Cover</source>
@@ -4118,10 +4039,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <name>KxWppVpPodium</name>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Konspekt</lengthvariant>
-            <lengthvariant>Kontur</lengthvariant>
-        </translation>
+        <translation>Konspekt</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -4132,10 +4050,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <name>KxWppVpSlideNormal</name>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Konspekt</lengthvariant>
-            <lengthvariant>Kontur</lengthvariant>
-        </translation>
+        <translation>Konspekt</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -4146,10 +4061,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     <name>KxWppZoomComboCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa wielkość.</translation>
     </message>
 </context>
 <context>
@@ -4221,11 +4133,11 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Blinds 1</source>
-        <translation>Żaluzja 1</translation>
+        <translation>Żaluzje 1</translation>
     </message>
     <message>
         <source>Blinds 2</source>
-        <translation>Żaluzja 2</translation>
+        <translation>Żaluzje 2</translation>
     </message>
     <message>
         <source>Box In</source>
@@ -4269,27 +4181,27 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Cover 1</source>
-        <translation>Okładka 1</translation>
+        <translation>Zakrywanie 1</translation>
     </message>
     <message>
         <source>Cover 2</source>
-        <translation>Okładka 2</translation>
+        <translation>Zakrywanie 2</translation>
     </message>
     <message>
         <source>Cover 3</source>
-        <translation>Okładka 3</translation>
+        <translation>Zakrywanie 3</translation>
     </message>
     <message>
         <source>Cover 4</source>
-        <translation>Okładka 4</translation>
+        <translation>Zakrywanie 4</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Wytnij</translation>
+        <translation>Wycinanie</translation>
     </message>
     <message>
         <source>Cut Black</source>
-        <translation>Wytnij czarny</translation>
+        <translation>Wycinanie poprzez czerń</translation>
     </message>
     <message>
         <source>Dissolve</source>
@@ -4297,7 +4209,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Fade Smooth</source>
-        <translation>Zanikanie łagodne</translation>
+        <translation>Zanikanie gładkie</translation>
     </message>
     <message>
         <source>Fade</source>
@@ -4305,11 +4217,11 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>News</source>
-        <translation>Wiadomości</translation>
+        <translation>Czołówka</translation>
     </message>
     <message>
         <source>Push Down</source>
-        <translation>Wypychanie do dołu</translation>
+        <translation>Wypychanie w dół</translation>
     </message>
     <message>
         <source>Push Left</source>
@@ -4321,10 +4233,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Push Up</source>
-        <translation variants="yes">
-            <lengthvariant>Wypychanie w górę</lengthvariant>
-            <lengthvariant>Wypychanie do góry</lengthvariant>
-        </translation>
+        <translation>Wypychanie w górę</translation>
     </message>
     <message>
         <source>Random 1</source>
@@ -4340,11 +4249,11 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Diamond Out</source>
-        <translation>Diament na zewnątrz</translation>
+        <translation>Karo na zewnątrz</translation>
     </message>
     <message>
         <source>Plus Out</source>
-        <translation>Najbardziej zewnętrzne</translation>
+        <translation>Plus na zewnątrz</translation>
     </message>
     <message>
         <source>Split 1</source>
@@ -4416,66 +4325,39 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Wheel 1</source>
-        <translation variants="yes">
-            <lengthvariant>Koło 1</lengthvariant>
-            <lengthvariant>Kółko 1</lengthvariant>
-        </translation>
+        <translation>Koło 1</translation>
     </message>
     <message>
         <source>Wheel 2</source>
-        <translation variants="yes">
-            <lengthvariant>Koło 2</lengthvariant>
-            <lengthvariant>Kółko 2</lengthvariant>
-        </translation>
+        <translation>Koło 2</translation>
     </message>
     <message>
         <source>Wheel 3</source>
-        <translation variants="yes">
-            <lengthvariant>Koło 3</lengthvariant>
-            <lengthvariant>Kółko 3</lengthvariant>
-        </translation>
+        <translation>Koło 3</translation>
     </message>
     <message>
         <source>Wheel 4</source>
-        <translation variants="yes">
-            <lengthvariant>Koło 4</lengthvariant>
-            <lengthvariant>Kółko 4</lengthvariant>
-        </translation>
+        <translation>Koło 4</translation>
     </message>
     <message>
         <source>Wheel 8</source>
-        <translation variants="yes">
-            <lengthvariant>Koło 8</lengthvariant>
-            <lengthvariant>Kółko 8</lengthvariant>
-        </translation>
+        <translation>Koło 8</translation>
     </message>
     <message>
         <source>Wipe Down</source>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w dół</lengthvariant>
-            <lengthvariant>Ścieranie w dół</lengthvariant>
-        </translation>
+        <translation>Ścieranie w dół</translation>
     </message>
     <message>
         <source>Wipe Left</source>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w lewo</lengthvariant>
-            <lengthvariant>Ścieranie w lewo</lengthvariant>
-        </translation>
+        <translation>Ścieranie w lewo</translation>
     </message>
     <message>
         <source>Wipe Right</source>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w prawo</lengthvariant>
-            <lengthvariant>Ścieranie w prawo</lengthvariant>
-        </translation>
+        <translation>Ścieranie w prawo</translation>
     </message>
     <message>
         <source>Wipe Up</source>
-        <translation variants="yes">
-            <lengthvariant>Zetrzyj w górę</lengthvariant>
-            <lengthvariant>Ścieranie w górę</lengthvariant>
-        </translation>
+        <translation>Ścieranie w górę</translation>
     </message>
     <message>
         <source>Random</source>
@@ -4531,7 +4413,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Default</source>
-        <translation>Domyślny</translation>
+        <translation>Domyślnie</translation>
     </message>
     <message>
         <source>Primary Colors</source>
@@ -4559,10 +4441,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Braces</source>
-        <translation variants="yes">
-            <lengthvariant>Nawias klamrowy</lengthvariant>
-            <lengthvariant>Nawiasy klamrowe</lengthvariant>
-        </translation>
+        <translation>Nawias klamrowy</translation>
     </message>
     <message>
         <source>Thick Outline</source>
@@ -4570,14 +4449,11 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Outline</source>
-        <translation variants="yes">
-            <lengthvariant>Kontur</lengthvariant>
-            <lengthvariant>Konspekt</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Kolor 3D</translation>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>Bookend Fills</source>
@@ -4585,7 +4461,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Classics</source>
-        <translation>Klasyki</translation>
+        <translation>Klasyczne</translation>
     </message>
     <message>
         <source>Double Outline</source>
@@ -4761,10 +4637,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Export &amp;what:</source>
-        <translation variants="yes">
-            <lengthvariant>Eksportowanie &amp;co:</lengthvariant>
-            <lengthvariant>Eksportuj &amp;co:</lengthvariant>
-        </translation>
+        <translation>&amp;Eksportuj:</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -4847,35 +4720,23 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Permit to modify</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na modyfikowanie</lengthvariant>
-            <lengthvariant>Dozwolone modyfikowanie</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na modyfikowanie</translation>
     </message>
     <message>
         <source>Permit to copy</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na kopiowanie</lengthvariant>
-            <lengthvariant>Dozwolone kopiowanie</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na kopiowanie</translation>
     </message>
     <message>
         <source>Permit to add comments</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na dodawanie komentarzy</lengthvariant>
-            <lengthvariant>Dozwolone dodawanie komentarzy</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na dodawanie komentarzy</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation variants="yes">
-            <lengthvariant>Drukowanie niedozwolone</lengthvariant>
-            <lengthvariant>Drukowanie nie jest dozwolone</lengthvariant>
-        </translation>
+        <translation>Drukowanie niedozwolone</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation>&amp;Hasło:</translation>
+        <translation>Hasł&amp;o:</translation>
     </message>
     <message>
         <source>Confi&amp;rm:</source>
@@ -4933,7 +4794,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
+        <translation>Uwaga: Tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -4953,7 +4814,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Export PDF File</source>
-        <translation>Eksportuj plik Adobe PDF</translation>
+        <translation>Eksportuj plik PDF</translation>
     </message>
 </context>
 <context>
@@ -4972,7 +4833,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation>Eksportuj do pliku Adobe PDF</translation>
+        <translation>Eksportuj do pliku PDF</translation>
     </message>
 </context>
 <context>
@@ -5142,10 +5003,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Top</source>
-        <translation variants="yes">
-            <lengthvariant>Góra</lengthvariant>
-            <lengthvariant>Górna</lengthvariant>
-        </translation>
+        <translation>Górna</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -5153,10 +5011,7 @@ folderu Zip, w celu odtworzenia tego pliku na innym komputerze.</lengthvariant>
     </message>
     <message>
         <source>Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Dół</lengthvariant>
-            <lengthvariant>Dolna</lengthvariant>
-        </translation>
+        <translation>Dolna</translation>
     </message>
     <message>
         <source>Internal margin</source>

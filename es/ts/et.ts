@@ -5,7 +5,7 @@
     <name>AdvQueryDlgUi</name>
     <message>
         <source>Advanced Query</source>
-        <translation></translation>
+        <translation>Consulta Avanzada</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -13,42 +13,42 @@
     </message>
     <message>
         <source>&amp;Add to the list</source>
-        <translation></translation>
+        <translation>Agregar a la lista</translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation></translation>
+        <translation>Eliminar de la lista</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation></translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation></translation>
+        <translation>Infotip</translation>
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation></translation>
+        <translation>Agregar a la lista</translation>
     </message>
     <message>
         <source>D&amp;elete from the list</source>
-        <translation></translation>
+        <translation>Eliminar de la lista</translation>
     </message>
 </context>
 <context>
     <name>ChangeFileAccess</name>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation></translation>
+        <translation>Usted ha realizado cambios a &quot;%s&quot;</translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation></translation>
+        <translation>Otro usuario también ha realizado cambios. ¿Qué le gustaría hacer?</translation>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
@@ -508,10 +508,6 @@ condition is true:</source>
 <context>
     <name>KValuesWidget</name>
     <message>
-        <source>Top 10...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Above Average</source>
         <translation>Sobre la media</translation>
     </message>
@@ -855,6 +851,10 @@ condition is true:</source>
         <source>Filter by Color</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Top 10</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
@@ -980,25 +980,6 @@ condition is true:</source>
     </message>
 </context>
 <context>
-    <name>KxAlignmentWidget</name>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtHori_0.png</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_0.png</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_1.png</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>:/dialog/et_DlgFormatShape_ilOtVert_2.png</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KxApplication</name>
     <message>
         <source>Save As</source>
@@ -1022,6 +1003,44 @@ condition is true:</source>
     <message>
         <source>&amp;Password:</source>
         <translation type="unfinished">&amp;Contraseña:</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackgroundQueryMonitorUI</name>
+    <message>
+        <source>External Data Refresh Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Queries currently being executed in the background:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Estado</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackgroundQuery_monitor</name>
+    <message>
+        <source>&amp;Stop Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elapsed time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetching data...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of rows fetched:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please close this dialog to continue fetching data</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1084,6 +1103,173 @@ condition is true:</source>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxConditionHighLightDlg</name>
+    <message>
+        <source>Highlight-Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater than</source>
+        <translation type="unfinished">mayor que</translation>
+    </message>
+    <message>
+        <source>Greater than or equal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished">menor que</translation>
+    </message>
+    <message>
+        <source>Less than or equal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation type="unfinished">y</translation>
+    </message>
+    <message>
+        <source>Numerial_BetweenSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished">entre</translation>
+    </message>
+    <message>
+        <source>Not between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Items</source>
+        <translation type="unfinished">Objetos</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation type="unfinished">Media</translation>
+    </message>
+    <message>
+        <source>Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight-Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does not contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight-Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A Date Occurring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation type="unfinished">Ayer</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished">Hoy</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished">Mañana</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight-Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error value </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lack input value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The required range value is insufficient</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1281,7 +1467,7 @@ condition is true:</source>
     <name>KxCustomHeaderFooterDlg</name>
     <message>
         <source>File</source>
-        <translation>Archivo</translation>
+        <translation type="obsolete">Archivo</translation>
     </message>
     <message>
         <source>Page</source>
@@ -1293,67 +1479,35 @@ condition is true:</source>
     </message>
     <message>
         <source>Date</source>
-        <translation>Fecha</translation>
+        <translation type="obsolete">Fecha</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Hora</translation>
+        <translation type="obsolete">Hora</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Imagen</translation>
+        <translation type="obsolete">Imagen</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>Encabezado</translation>
+        <translation type="obsolete">Encabezado</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation>Pie de página</translation>
+        <translation type="obsolete">Pie de página</translation>
     </message>
     <message>
         <source>&amp;[%1]</source>
-        <translation>&amp;[%1]</translation>
+        <translation type="obsolete">&amp;[%1]</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Abrir</translation>
+        <translation type="obsolete">Abrir</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation>Todas las imágenes</translation>
-    </message>
-    <message>
-        <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Windows Metafile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Portable Network Graphics</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Windows Bitmap</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Graphics Interchange Format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tag Image File Format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Todas las imágenes</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
@@ -1364,25 +1518,6 @@ To keep existing picture, click Cancel button.</source>
 
 Para reemplazar la imagen existente, haga clic en Aceptar.
 Para mantener la imagen existente, haga clic en el botón Cancelar.</translation>
-    </message>
-    <message>
-        <source>Page Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sheet Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Only one picture can be inserted in each section of the %1.
-
-To replace existing picture, press OK.
-To keep existing picture, press Cancel.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1712,6 +1847,49 @@ To keep existing picture, press Cancel.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgConditionHighLight</name>
+    <message>
+        <source>Condition Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cells subjected to the following conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep the cell to its former setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>spinPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>spinSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>directPrefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>directSuffix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>123</source>
+        <translation type="unfinished">123</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display the following effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgConfirmPasswordOfRange</name>
     <message>
         <source>&amp;Reenter password to proceed.</source>
@@ -1935,18 +2113,8 @@ place.(Remember that passwords are case-sensitive.)</source>
         <translation type="obsolete">Diálogo</translation>
     </message>
     <message>
-        <source>To insert a page number, date, time, filename: position the insertion point in the  edit
-box, then choose the appropriate button.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To insert picture: press the Insert Picture button. To format your picture, place the
-cursor in the edit box and press the Format Picture button.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Font</source>
-        <translation>Fuente</translation>
+        <translation type="obsolete">Fuente</translation>
     </message>
     <message>
         <source>Page</source>
@@ -1958,54 +2126,22 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Date</source>
-        <translation>Fecha</translation>
+        <translation type="obsolete">Fecha</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Hora</translation>
+        <translation type="obsolete">Hora</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Archivo</translation>
+        <translation type="obsolete">Archivo</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Insertar imagen</translation>
+        <translation type="obsolete">Insertar imagen</translation>
     </message>
     <message>
-        <source>Reset Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Left section:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Center section:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Right section:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>input</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To format text: select the text, then click the font button.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Number of Pages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sheet Name</source>
+        <source>headerfooter</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2874,6 +3010,75 @@ impresora y su pantalla.</translation>
     </message>
     <message>
         <source>Summary columns to &amp;right of detail</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgHeaderFooterWidget</name>
+    <message>
+        <source>input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To format text: select the text, then click the font button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To insert a page number, date, time, filename: position the insertion point in the  edit
+box, then choose the appropriate button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To insert picture: press the Insert Picture button. To format your picture, place the
+cursor in the edit box and press the Format Picture button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished">Fuente</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Fecha</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished">Hora</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Archivo</translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished">Insertar imagen</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left section:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Center section:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Right section:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3873,6 +4078,38 @@ p, li { white-space: pre-wrap; }
         <source>Create &amp;backup files on first save</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show &amp;windows in taskbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto&amp;Recover file location:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveAsCreateBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create&amp;Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RecommendedReadOnlyOption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;RecommendedReadOnly</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -4134,6 +4371,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Different odd and even pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D&amp;ifferent first page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sca&amp;le with document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align with page &amp;margins</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4433,15 +4686,15 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Entire Workbook</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Acti&amp;ve sheet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entire Wor&amp;kbook</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5818,6 +6071,10 @@ protected.</source>
         <source>Connection string or SQL has errors. WPS Spreadsheets can not import the data.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit Query</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxEt3DColorModel</name>
@@ -6160,6 +6417,25 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxEtMacroErrorDlg</name>
+    <message>
+        <source>Macro Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>H&amp;alt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation type="unfinished">&amp;Continuar</translation>
+    </message>
+    <message>
+        <source>&amp;Goto</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtOleSetDisplayAreaCommand</name>
     <message>
         <source>The OLE display area cannot be objects, please select again.</source>
@@ -6175,6 +6451,73 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Landscape</source>
         <translation>Horizontal</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Editar</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">Imprimir</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Guardar</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6994,6 +7337,111 @@ on iteration #%2.</source>
     </message>
 </context>
 <context>
+    <name>KxHeaderFooterDlg</name>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Encabezado</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation type="unfinished">Pie de página</translation>
+    </message>
+    <message>
+        <source>Odd Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Page %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHeaderFooterWidget</name>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Archivo</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Fecha</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished">Hora</translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">Imagen</translation>
+    </message>
+    <message>
+        <source>&amp;[%1]</source>
+        <translation type="unfinished">&amp;[%1]</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Abrir</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation type="unfinished">Todas las imágenes</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only one picture can be inserted in each section of the %1.
+
+To replace existing picture, press OK.
+To keep existing picture, press Cancel.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxHyperlinkEtPage</name>
     <message>
         <source>&lt;&lt;Selection in document&gt;&gt;</source>
@@ -7459,6 +7907,18 @@ on iteration #%2.</source>
     <message>
         <source>Options</source>
         <translation type="unfinished">Opciones</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The directory &quot;%1&quot; is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8520,6 +8980,30 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     </message>
 </context>
 <context>
+    <name>KxUpdateExternalLinkDlg</name>
+    <message>
+        <source>SpreadSheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <source>There are links to other data sources in this workbook.
+
+•If you update the links, WPS Spreadsheets will try to get the latest data.
+•If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
+
+Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Don&apos;t Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxUrlParameterPrompt</name>
     <message>
         <source>Enter Parameter Value</source>
@@ -8574,6 +9058,113 @@ Click OK, and then select a single cell in the Get The Value From The Following 
 
 You may still need to manually update any references to this name used in VBA code or as text arguments in functions. You must close and reopen the workbook before these changes take effect.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxValidationDlg</name>
+    <message>
+        <source>&amp;Minimum:</source>
+        <translation type="unfinished">&amp;Mínimo:</translation>
+    </message>
+    <message>
+        <source>Ma&amp;ximum:</source>
+        <translation type="unfinished">Má&amp;ximo:</translation>
+    </message>
+    <message>
+        <source>&amp;Source:</source>
+        <translation type="unfinished">&amp;Fuente:</translation>
+    </message>
+    <message>
+        <source>&amp;Start date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E&amp;nd date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Start time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E&amp;nd time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Formula:</source>
+        <translation type="unfinished">&amp;Fórmula:</translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation type="unfinished">&amp;Valor:</translation>
+    </message>
+    <message>
+        <source>&amp;Time:</source>
+        <translation type="unfinished">&amp;Hora:</translation>
+    </message>
+    <message>
+        <source>Da&amp;te:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter both a Maximum and a Minimum.</source>
+        <translation type="unfinished">Debe introducir tanto máximo como mínimo.</translation>
+    </message>
+    <message>
+        <source>You must enter a Value.</source>
+        <translation type="unfinished">Debe introducir un valor.</translation>
+    </message>
+    <message>
+        <source>You must enter a Minimum.</source>
+        <translation type="unfinished">Debe introducir un mínimo.</translation>
+    </message>
+    <message>
+        <source>You must enter a Maximum.</source>
+        <translation type="unfinished">Debe introducir un máximo.</translation>
+    </message>
+    <message>
+        <source>You must enter a Source.</source>
+        <translation type="unfinished">Debe introducir una fuente.</translation>
+    </message>
+    <message>
+        <source>The Formula cannot be longer than 255 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must enter a Date.</source>
+        <translation type="unfinished">Debe introducir una fecha.</translation>
+    </message>
+    <message>
+        <source>You must enter both an End Date and a Start Date.</source>
+        <translation type="unfinished">Debe introducir tanto fecha de fin como fecha de inicio.</translation>
+    </message>
+    <message>
+        <source>You must enter an End Date.</source>
+        <translation type="unfinished">Debe introducir una fecha de fin.</translation>
+    </message>
+    <message>
+        <source>You must enter a Start Date.</source>
+        <translation type="unfinished">Debe introducir una fecha de inicio.</translation>
+    </message>
+    <message>
+        <source>You must enter both an End Time and a Start Time.</source>
+        <translation type="unfinished">Debe introducir tanto hora de fin como hora de inicio.</translation>
+    </message>
+    <message>
+        <source>You must enter a Time.</source>
+        <translation type="unfinished">Debe introducir una hora.</translation>
+    </message>
+    <message>
+        <source>You must enter a Start Time.</source>
+        <translation type="unfinished">Debe introducir una hora de inicio.</translation>
+    </message>
+    <message>
+        <source>You must enter an End Time.</source>
+        <translation type="unfinished">Debe introducir una hora de fin.</translation>
+    </message>
+    <message>
+        <source>You must enter a Formula.</source>
+        <translation type="unfinished">Debe introducir una fórmula.</translation>
     </message>
 </context>
 <context>
@@ -9580,103 +10171,83 @@ t</source>
     </message>
     <message>
         <source>&amp;Minimum:</source>
-        <translation>&amp;Mínimo:</translation>
+        <translation type="obsolete">&amp;Mínimo:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation type="unfinished">Má&amp;ximo:</translation>
+        <translation type="obsolete">Má&amp;ximo:</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation>&amp;Fuente:</translation>
-    </message>
-    <message>
-        <source>&amp;Start date:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E&amp;nd date:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Start time:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E&amp;nd time:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Fuente:</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation>&amp;Fórmula:</translation>
+        <translation type="obsolete">&amp;Fórmula:</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation>&amp;Valor:</translation>
+        <translation type="obsolete">&amp;Valor:</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation>&amp;Hora:</translation>
-    </message>
-    <message>
-        <source>Da&amp;te:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Hora:</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation>Debe introducir tanto máximo como mínimo.</translation>
+        <translation type="obsolete">Debe introducir tanto máximo como mínimo.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation>Debe introducir un valor.</translation>
+        <translation type="obsolete">Debe introducir un valor.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation>Debe introducir un mínimo.</translation>
+        <translation type="obsolete">Debe introducir un mínimo.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation>Debe introducir un máximo.</translation>
+        <translation type="obsolete">Debe introducir un máximo.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation>Debe introducir una fuente.</translation>
+        <translation type="obsolete">Debe introducir una fuente.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation>Debe introducir una fecha.</translation>
+        <translation type="obsolete">Debe introducir una fecha.</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
-        <translation>Debe introducir tanto fecha de fin como fecha de inicio.</translation>
+        <translation type="obsolete">Debe introducir tanto fecha de fin como fecha de inicio.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
-        <translation>Debe introducir una fecha de fin.</translation>
+        <translation type="obsolete">Debe introducir una fecha de fin.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
-        <translation>Debe introducir una fecha de inicio.</translation>
+        <translation type="obsolete">Debe introducir una fecha de inicio.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
-        <translation>Debe introducir tanto hora de fin como hora de inicio.</translation>
+        <translation type="obsolete">Debe introducir tanto hora de fin como hora de inicio.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation>Debe introducir una hora.</translation>
+        <translation type="obsolete">Debe introducir una hora.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
-        <translation>Debe introducir una hora de inicio.</translation>
+        <translation type="obsolete">Debe introducir una hora de inicio.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
-        <translation>Debe introducir una hora de fin.</translation>
+        <translation type="obsolete">Debe introducir una hora de fin.</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
-        <translation>Debe introducir una fórmula.</translation>
+        <translation type="obsolete">Debe introducir una fórmula.</translation>
     </message>
     <message>
         <source>%1 is read-only.  If you want to save a copy,  Click OK,  then give a new name for this workbook in the Save As dialog box.</source>

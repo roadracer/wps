@@ -6014,12 +6014,12 @@ Layout</source>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation>Toate fișierele(*.*)|*.*|Fișiere comune(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Fișiere prezentare(*.dps)|*.dps|Șabloane WPS Presentation(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+        <translation type="obsolete">Toate fișierele(*.*)|*.*|Fișiere comune(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Fișiere prezentare(*.dps)|*.dps|Șabloane WPS Presentation(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
     </message>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
         <comment>WP_SAVEFILE</comment>
-        <translation>Fișier WPS Presentation(*.dps)|*.dps|Șablon WPS Presentation(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</translation>
+        <translation type="obsolete">Fișier WPS Presentation(*.dps)|*.dps|Șablon WPS Presentation(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx</source>
@@ -6551,6 +6551,81 @@ ortografică</translation>
 This backup will be saved to(%s)</source>
         <comment>WpMsgBackupToDef</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <comment>WpDescAll</comment>
+        <translation>Toate fișierele(*.*)</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
+        <comment>WpDescCommon</comment>
+        <translation>Fișiere comune(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Files(*.dps)</source>
+        <comment>WpDescWPP</comment>
+        <translation>Fișiere WPS Presentation(*.dps)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Templates(*.dpt)</source>
+        <comment>WpDescWPPTemp</comment>
+        <translation>Șabloane WPS Presentations(*.dpt)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescPptPps</comment>
+        <translation>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
+        <comment>WpDescPpt</comment>
+        <translation>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
+        <comment>WpDescPps</comment>
+        <translation>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPptTemp</comment>
+        <translation>Șabloane Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.pot)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
+        <comment>WpDescPptx</comment>
+        <translation>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format(*.uof)</source>
+        <comment>WpDescUOF</comment>
+        <translation>Format Chinese Office Document(*.uof)</translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format 2.0(*.uop)</source>
+        <comment>WpDescUOF2</comment>
+        <translation>Format Chinese Office Document 2.0(*.uop)</translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)</source>
+        <comment>WpDescJPEG</comment>
+        <translation>Format JPEG File Interchange(*.jpg)</translation>
+    </message>
+    <message>
+        <source>PNG Portable Network Graphics Format(*.png)</source>
+        <comment>WpDescPNG</comment>
+        <translation>Format PNG Portable Network Graphics(*.png)</translation>
+    </message>
+    <message>
+        <source>TIFF Tag Image File Format(*.tif)</source>
+        <comment>WpDescTIFF</comment>
+        <translation>Format TIFF Tag Image File(*.tif)</translation>
+    </message>
+    <message>
+        <source>Device Independent Bitmap(*.bmp)</source>
+        <comment>WpDescBMP</comment>
+        <translation>Dispozitiv independent Bitmap(*.bmp)</translation>
     </message>
 </context>
 </TS>

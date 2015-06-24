@@ -6,11 +6,11 @@
     <name>CEtTableStyle</name>
     <message>
         <source>1-</source>
-        <translation type="unfinished">1-</translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished">2-</translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>First Row</source>
@@ -18,15 +18,15 @@
     </message>
     <message>
         <source>Last Row</source>
-        <translation>Ostawni wiersz</translation>
+        <translation>Ostatni wiersz</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiersze naprzemienne</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumny naprzemienne</translation>
     </message>
     <message>
         <source>First Column</source>
@@ -38,15 +38,17 @@
     </message>
     <message>
         <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez stylu, bez siatki</translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Styl kompozycji</lengthvariant>
+            <lengthvariant>Styl motywu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translatorcomment>a</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Wyróżnienie</lengthvariant>
             <lengthvariant>Uwydatnienie</lengthvariant>
@@ -54,42 +56,51 @@
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak stylu, z siatką</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation>Jasny styl</translation>
+        <translation>Styl jasny</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation>Średni styl</translation>
+        <translation>Styl pośredni</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation>Ciemny styl</translation>
+        <translation>Styl ciemny</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation>Ciemny styl 2</translation>
+        <translation>Styl ciemny 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 1/Wyróżnienie 2</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 1/Uwydatnienie 2</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 3/Uwydatnienie 4</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 5/Uwydatnienie 6</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished">Najlepsze dopasowanie</translation>
+        <translation>Najlepsze dopasowanie</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -97,11 +108,11 @@
     </message>
     <message>
         <source>1-</source>
-        <translation type="unfinished">1-</translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished">2-</translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>First Row</source>
@@ -121,110 +132,11 @@
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiersze naprzemienne</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First Row And First Column</source>
-        <translation type="unfinished">Pierwszy wiersz i pierwsza kolumna</translation>
-    </message>
-    <message>
-        <source>First Row And Last Row</source>
-        <translation type="unfinished">Pierwszy wiersz i ostatnia kolumna</translation>
-    </message>
-    <message>
-        <source>Light</source>
-        <translation type="unfinished">Jasny</translation>
-    </message>
-    <message>
-        <source>Medium</source>
-        <translation type="unfinished">Średni</translation>
-    </message>
-    <message>
-        <source>Dark</source>
-        <translation type="unfinished">Ciemny</translation>
-    </message>
-    <message>
-        <source>No Style, No Grid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Theme Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Emphasize</source>
-        <translatorcomment>a</translatorcomment>
-        <translation variants="yes">
-            <lengthvariant>Wyróżnienie</lengthvariant>
-            <lengthvariant>Uwydatnienie</lengthvariant>
-        </translation>
-    </message>
-    <message>
-        <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Light Style</source>
-        <translation type="unfinished">Jasny styl</translation>
-    </message>
-    <message>
-        <source>Medium Style</source>
-        <translation type="unfinished">Średni styl</translation>
-    </message>
-    <message>
-        <source>Dark Style</source>
-        <translation type="unfinished">Ciemny styl</translation>
-    </message>
-    <message>
-        <source>Dark Style 2</source>
-        <translation type="unfinished">Ciemny styl 2</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KxStylesPanel</name>
-    <message>
-        <source>Best Match</source>
-        <translation type="unfinished">Najlepsze dopasowanie</translation>
-    </message>
-    <message>
-        <source>First Row</source>
-        <translation>Pierwszy wiersz</translation>
-    </message>
-    <message>
-        <source>First Column</source>
-        <translation>Pierwsza kolumna</translation>
-    </message>
-    <message>
-        <source>Last Row</source>
-        <translation>Ostatni wiersz</translation>
-    </message>
-    <message>
-        <source>Last Column</source>
-        <translation>Ostatnia kolumna</translation>
-    </message>
-    <message>
-        <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumny naprzemienne</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
@@ -232,36 +144,143 @@
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation>Pierwszy wiersz i ostatnia kolumna</translation>
+        <translation>Pierwszy wiersz i ostatni wiersz</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">Jasny</translation>
+        <translation>Jasny</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished">Średni</translation>
+        <translation>Pośredni</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished">Ciemny</translation>
+        <translation>Ciemny</translation>
+    </message>
+    <message>
+        <source>No Style, No Grid</source>
+        <translation>Bez stylu, bez siatki</translation>
+    </message>
+    <message>
+        <source>Theme Style</source>
+        <translation variants="yes">
+            <lengthvariant>Styl kompozycji</lengthvariant>
+            <lengthvariant>Styl motywu</lengthvariant>
+        </translation>
+    </message>
+    <message>
+        <source>Emphasize</source>
+        <translation variants="yes">
+            <lengthvariant>Wyróżnienie</lengthvariant>
+            <lengthvariant>Uwydatnienie</lengthvariant>
+        </translation>
+    </message>
+    <message>
+        <source>No Style, Gridded</source>
+        <translation>Brak stylu, z siatką</translation>
+    </message>
+    <message>
+        <source>Light Style</source>
+        <translation>Styl jasny</translation>
+    </message>
+    <message>
+        <source>Medium Style</source>
+        <translation>Styl pośredni</translation>
+    </message>
+    <message>
+        <source>Dark Style</source>
+        <translation>Styl ciemny</translation>
+    </message>
+    <message>
+        <source>Dark Style 2</source>
+        <translation>Styl ciemny 2</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 1/Wyróżnienie 2</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 1/Uwydatnienie 2</lengthvariant>
+        </translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 3/Uwydatnienie 4</lengthvariant>
+        </translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
+        <translation variants="yes">
+            <lengthvariant>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</lengthvariant>
+            <lengthvariant>Styl ciemny 2-Uwydatnienie 5/Uwydatnienie 6</lengthvariant>
+        </translation>
+    </message>
+</context>
+<context>
+    <name>KxStylesPanel</name>
+    <message>
+        <source>Best Match</source>
+        <translation>Najlepsze dopasowanie</translation>
+    </message>
+    <message>
+        <source>First Row</source>
+        <translation>Pierwszy wiersz</translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation>Pierwsza kolumna</translation>
+    </message>
+    <message>
+        <source>Last Row</source>
+        <translation>Ostatni wiersz</translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation>Ostatnia kolumna</translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation>Wiersze naprzemienne</translation>
+    </message>
+    <message>
+        <source>Banded Columns</source>
+        <translation>Kolumny naprzemienne</translation>
+    </message>
+    <message>
+        <source>First Row And First Column</source>
+        <translation>Pierwszy wiersz i pierwsza kolumna</translation>
+    </message>
+    <message>
+        <source>First Row And Last Row</source>
+        <translation>Pierwszy wiersz i ostatni wiersz</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>Jasny</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation>Pośredni</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation>Ciemny</translation>
     </message>
 </context>
 <context>
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Styl tabeli:</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Opcje stylu tabeli:</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translatorcomment>a</translatorcomment>
         <translation>Wyczyść styl tabeli</translation>
     </message>
 </context>

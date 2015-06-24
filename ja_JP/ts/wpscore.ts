@@ -157,11 +157,21 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>Kingsoft文字在试图更新源文件时遇到错误。
+        <translation type="obsolete">Kingsoft文字在试图更新源文件时遇到错误。
 请尝试下列方法：
 1、检查源文件是否已被打开或被其它程序占用。
 2、检查源文件是否处于保护状态。
 3、确保源文件存在相应目录下。</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2918,7 +2928,7 @@ Do you want to continue?</source>
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation>WPSV6-TEXT</translation>
+        <translation type="obsolete">WPSV6-TEXT</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -7578,6 +7588,11 @@ Check</source>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

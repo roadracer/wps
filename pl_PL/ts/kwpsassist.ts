@@ -6,7 +6,7 @@
     <name>KTemplateDetailHeaderButton</name>
     <message>
         <source>back</source>
-        <translation type="unfinished"></translation>
+        <translation>wstecz</translation>
     </message>
 </context>
 <context>
@@ -24,33 +24,33 @@
     <name>KTemplateDlgDetailHeader</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy</translation>
     </message>
 </context>
 <context>
     <name>KTemplateDlgHeader</name>
     <message>
         <source>standard</source>
-        <translation type="unfinished"></translation>
+        <translation>standardowy</translation>
     </message>
     <message>
         <source>widescreen</source>
-        <translation type="unfinished"></translation>
+        <translation>panoramiczny</translation>
     </message>
     <message>
         <source>classify</source>
-        <translation type="unfinished"></translation>
+        <translation>klasyfikuj</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy</translation>
     </message>
 </context>
 <context>
     <name>KWpsAssistMagicOnTabbarCommand</name>
     <message>
         <source>magic tooltip</source>
-        <translation type="unfinished"></translation>
+        <translation>etykietka narzędzia magic</translation>
     </message>
 </context>
 </TS>

@@ -73,6 +73,11 @@
         <source>docerhomepage</source>
         <translation type="obsolete">Docer-在线模板</translation>
     </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KHomwPageButtom</name>

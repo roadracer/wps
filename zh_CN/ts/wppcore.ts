@@ -6743,12 +6743,12 @@ Layout</source>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILE</comment>
-        <translation>所有文件(*.*)|*.*|常用文件(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS演示 文件(*.dps)|*.dps|WPS演示 模板文件(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 文件(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 模板文件(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 文件(*.pptx; *.ppsx)|*.pptx; *.ppsx|中文办公软件文档格式(*.uof)|*.uof</translation>
+        <translation type="obsolete">所有文件(*.*)|*.*|常用文件(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx|WPS演示 文件(*.dps)|*.dps|WPS演示 模板文件(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 文件(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 模板文件(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 文件(*.pptx; *.ppsx)|*.pptx; *.ppsx|中文办公软件文档格式(*.uof)|*.uof</translation>
     </message>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
         <comment>WP_SAVEFILE</comment>
-        <translation>WPS演示 文件(*.dps)|*.dps|WPS演示 模板文件(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 文件(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 模板文件(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 放映文件(*.pps)|*.pps|JPEG 文件交换格式(*.jpg)|*.jpg|PNG 可移植网络图形格式(*.png)|*.png|TIFF Tag图像文件格式(*.tif)|*.tif|设备无关位图(*.bmp)|*.bmp|中文办公软件文档格式(*.uof)|*.uof</translation>
+        <translation type="obsolete">WPS演示 文件(*.dps)|*.dps|WPS演示 模板文件(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 文件(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 模板文件(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 放映文件(*.pps)|*.pps|JPEG 文件交换格式(*.jpg)|*.jpg|PNG 可移植网络图形格式(*.png)|*.png|TIFF Tag图像文件格式(*.tif)|*.tif|设备无关位图(*.bmp)|*.bmp|中文办公软件文档格式(*.uof)|*.uof</translation>
     </message>
     <message>
         <source>WPS Presentation Template(*.dpt)|*.dpt|WPS Presentation(*.dps)|*.dps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt</source>
@@ -6782,6 +6782,81 @@ This backup will be saved to(%s)</source>
         <comment>WpMsgBackupToDef</comment>
         <translation>在进行文件备份时发生错误！可能是由于您设置的备份目录没有写权限，请尝试更改备份目录。
 此次备份将保存到(%s)。</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <comment>WpDescAll</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx)</source>
+        <comment>WpDescCommon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Files(*.dps)</source>
+        <comment>WpDescWPP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Templates(*.dpt)</source>
+        <comment>WpDescWPPTemp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescPptPps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
+        <comment>WpDescPpt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
+        <comment>WpDescPps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPptTemp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)</source>
+        <comment>WpDescPptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format(*.uof)</source>
+        <comment>WpDescUOF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format 2.0(*.uop)</source>
+        <comment>WpDescUOF2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)</source>
+        <comment>WpDescJPEG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PNG Portable Network Graphics Format(*.png)</source>
+        <comment>WpDescPNG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TIFF Tag Image File Format(*.tif)</source>
+        <comment>WpDescTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device Independent Bitmap(*.bmp)</source>
+        <comment>WpDescBMP</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

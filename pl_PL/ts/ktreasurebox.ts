@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>All right</source>
-        <translation>Dobrze</translation>
+        <translation>Tak, chcę</translation>
     </message>
     <message>
         <source>No thanks.</source>

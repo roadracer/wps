@@ -18,11 +18,11 @@
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Kolor 3D</translation>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Włącz/Wyłącz 3D</translation>
+        <translation>Włącz/Wyłącz 3-D</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -38,11 +38,14 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowe</translation>
+        <translation>Niestandardowy</translation>
     </message>
     <message>
         <source>Depth</source>
-        <translation>Głębokość</translation>
+        <translation variants="yes">
+            <lengthvariant>Głębokość</lengthvariant>
+            <lengthvariant>Głębia</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dim</source>
@@ -73,11 +76,11 @@
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Więcej kolorów 3D</translation>
+        <translation>Więcej kolorów 3-D</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -131,7 +134,7 @@
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -139,7 +142,7 @@
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -171,7 +174,7 @@
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -241,8 +244,7 @@
     </message>
     <message>
         <source>More Controls</source>
-        <translatorcomment>Inne formanty</translatorcomment>
-        <translation>Więcej formant</translation>
+        <translation>Inne formanty</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -270,7 +272,10 @@
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -305,91 +310,91 @@
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Ustawienia 3D</translation>
+        <translation>Ustawienia 3-D</translation>
     </message>
     <message>
         <source>3-D Style</source>
-        <translation>Styl 3D</translation>
+        <translation>Styl 3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation>Styl 3D 1</translation>
+        <translation>Styl 3-D 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation>Styl 3D 10</translation>
+        <translation>Styl 3-D 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation>Styl 3D 11</translation>
+        <translation>Styl 3-D 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation>Styl 3D 12</translation>
+        <translation>Styl 3-D 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation>Styl 3D 13</translation>
+        <translation>Styl 3-D 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation>Styl 3D 14</translation>
+        <translation>Styl 3-D 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation>Styl 3D 15</translation>
+        <translation>Styl 3-D 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation>Styl 3D 16</translation>
+        <translation>Styl 3-D 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation>Styl 3D 17</translation>
+        <translation>Styl 3-D 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation>Styl 3D 18</translation>
+        <translation>Styl 3-D 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation>Styl 3D 19</translation>
+        <translation>Styl 3-D 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation>Styl 3D 2</translation>
+        <translation>Styl 3-D 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation>Styl 3D 20</translation>
+        <translation>Styl 3-D 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation>Styl 3D 3</translation>
+        <translation>Styl 3-D 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation>Styl 3D 4</translation>
+        <translation>Styl 3-D 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation>Styl 3D 5</translation>
+        <translation>Styl 3-D 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation>Styl 3D 6</translation>
+        <translation>Styl 3-D 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation>Styl 3D 7</translation>
+        <translation>Styl 3-D 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation>Styl 3D 8</translation>
+        <translation>Styl 3-D 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation>Styl 3D 9</translation>
+        <translation>Styl 3-D 9</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -405,7 +410,7 @@
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -413,7 +418,7 @@
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -521,10 +526,7 @@
     </message>
     <message>
         <source>Down</source>
-        <translation variants="yes">
-            <lengthvariant>W dół</lengthvariant>
-            <lengthvariant>Na dół</lengthvariant>
-        </translation>
+        <translation>W dół</translation>
     </message>
     <message>
         <source>Draw</source>
@@ -536,15 +538,15 @@
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -580,7 +582,7 @@
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -592,7 +594,6 @@
     </message>
     <message>
         <source>In Line with Text</source>
-        <translatorcomment>Zgodnie z tekstem</translatorcomment>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
@@ -619,7 +620,7 @@
     </message>
     <message>
         <source>Left</source>
-        <translation>Po lewej</translation>
+        <translation>W lewo</translation>
     </message>
     <message>
         <source>Line</source>
@@ -631,8 +632,10 @@
     </message>
     <message>
         <source>Long Dash</source>
-        <translatorcomment>Myślnik</translatorcomment>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -668,7 +671,10 @@
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -688,7 +694,10 @@
     </message>
     <message>
         <source>Oval</source>
-        <translation>Elipsa</translation>
+        <translation variants="yes">
+            <lengthvariant>Owal</lengthvariant>
+            <lengthvariant>Elipsa</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -704,7 +713,7 @@
     </message>
     <message>
         <source>Right</source>
-        <translation>Po prawej</translation>
+        <translation>W prawo</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -836,10 +845,7 @@
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square</source>
@@ -851,7 +857,7 @@
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -859,10 +865,7 @@
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -870,10 +873,7 @@
     </message>
     <message>
         <source>Up</source>
-        <translation variants="yes">
-            <lengthvariant>W górę</lengthvariant>
-            <lengthvariant>Do góry</lengthvariant>
-        </translation>
+        <translation>W górę</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
@@ -1136,10 +1136,7 @@
     </message>
     <message>
         <source>Insert Time</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw godzinę</lengthvariant>
-            <lengthvariant>Wstaw czas</lengthvariant>
-        </translation>
+        <translation>Wstaw godzinę</translation>
     </message>
     <message>
         <source>Link to Previous</source>
@@ -1163,7 +1160,6 @@
     </message>
     <message>
         <source>Show Previous</source>
-        <translatorcomment>Pokaż poprzedni nagłówek/stopkę</translatorcomment>
         <translation>Pokaż poprzedni</translation>
     </message>
     <message>
@@ -1172,7 +1168,7 @@
     </message>
     <message>
         <source>Total of Y Page</source>
-        <translation>Liczba Y stron(y)</translation>
+        <translation>Całkowita liczba stron Y</translation>
     </message>
 </context>
 <context>
@@ -1372,7 +1368,6 @@
     </message>
     <message>
         <source>In Line with Text</source>
-        <translatorcomment>Zgodnie z tekstem</translatorcomment>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
@@ -1417,7 +1412,7 @@
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -1425,10 +1420,7 @@
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Washout</source>
@@ -1539,7 +1531,7 @@
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Okienko recenzowania</lengthvariant>
             <lengthvariant>Okienko przeglądu</lengthvariant>
         </translation>
@@ -1549,20 +1541,40 @@
         <translation>Recenzenci</translation>
     </message>
     <message>
+        <source>Reviewing Pane</source>
+        <translation>Okienko recenzowania</translation>
+    </message>
+    <message>
         <source>Show</source>
         <translation>Pokaż</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
-        <translation>Pokaż wszystkie poprawki w wierszu</translation>
+        <translation>Pokaż wszystkie poprawki w wierszach</translation>
     </message>
     <message>
         <source>Show Author</source>
-        <translation>Pokaż autora</translation>
+        <translation type="obsolete">Pokaż autora</translation>
+    </message>
+    <message>
+        <source>Show Comments</source>
+        <translation>Pokaż komentarze</translation>
     </message>
     <message>
         <source>Show Date</source>
         <translation>Pokaż datę</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation>Pokaż zmianę formatu</translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation>Pokaż wstawienia i usunięcia</translation>
+    </message>
+    <message>
+        <source>Show Reviewers</source>
+        <translation>Pokaż recenzentów</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -1662,7 +1674,11 @@
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -1686,7 +1702,7 @@
     </message>
     <message>
         <source>Google Docs</source>
-        <translation>Google Docs</translation>
+        <translation>Dokumenty Google</translation>
     </message>
     <message>
         <source>Insert Horizontal Blank Page</source>
@@ -1710,11 +1726,11 @@
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>Minisite</source>
@@ -1734,7 +1750,10 @@
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Tryb ochrony Oczu</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Tryb ochrony oczu</lengthvariant>
+            <lengthvariant>Tryb Ochrona oczu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -1763,10 +1782,7 @@
     </message>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
@@ -1785,10 +1801,7 @@
     <name>classics.standard.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
 </context>
 <context>
@@ -1893,7 +1906,7 @@
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -1901,7 +1914,7 @@
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -2046,10 +2059,7 @@
     </message>
     <message>
         <source>Curve Down</source>
-        <translation variants="yes">
-            <lengthvariant>Krzywa wygięta w dół</lengthvariant>
-            <lengthvariant>Zakręt w dół</lengthvariant>
-        </translation>
+        <translation>Krzywa wygięta w dół</translation>
     </message>
     <message>
         <source>Curve Up</source>
@@ -2093,31 +2103,19 @@
     </message>
     <message>
         <source>Fade Down</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w dół</lengthvariant>
-            <lengthvariant>Oddalanie w dół</lengthvariant>
-        </translation>
+        <translation>Zanikanie w dół</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w lewo</lengthvariant>
-            <lengthvariant>Oddalanie w lewo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w lewo</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w prawo</lengthvariant>
-            <lengthvariant>Oddalanie w prawo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w prawo</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w górę</lengthvariant>
-            <lengthvariant>Oddalanie w górę</lengthvariant>
-        </translation>
+        <translation>Zanikanie w górę</translation>
     </message>
     <message>
         <source>Format WordArt</source>
@@ -2132,7 +2130,6 @@
     </message>
     <message>
         <source>In Line with Text</source>
-        <translatorcomment>Zgodnie z tekstem</translatorcomment>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
@@ -2210,7 +2207,7 @@
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -2232,10 +2229,7 @@
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -2257,8 +2251,10 @@
     </message>
     <message>
         <source>Very Tight</source>
-        <translatorcomment>Zwarte</translatorcomment>
-        <translation>Bardzo przyległe</translation>
+        <translation variants="yes">
+            <lengthvariant>Bardzo przyległe</lengthvariant>
+            <lengthvariant>Zwarte</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -2318,7 +2314,7 @@
     </message>
     <message>
         <source>Menu Command</source>
-        <translation>Polecenia menu</translation>
+        <translation>Polecenie menu</translation>
     </message>
     <message>
         <source>Toolbar Commands</source>
@@ -2367,7 +2363,7 @@ styl tabeli</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>Krawędź wewnętrzna</translation>
+        <translation>Krawędzie wewnętrzne</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
@@ -2498,8 +2494,7 @@ tryb projektowania</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translatorcomment>Inne formanty</translatorcomment>
-        <translation>Więcej formant</translation>
+        <translation>Inne formanty</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -2531,8 +2526,10 @@ tryb projektowania</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translatorcomment>Pokaż kod</translatorcomment>
-        <translation>Wyświetl kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Visual Basic
@@ -2590,12 +2587,12 @@ Visual Basic</translation>
     <message>
         <source>3-D
 On</source>
-        <translation>3D
+        <translation>3-D
 Włącz</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3D Włącz</translation>
+        <translation>3-D Włącz</translation>
     </message>
     <message>
         <source>3.0</source>
@@ -2623,7 +2620,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -2631,7 +2628,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -2769,15 +2766,15 @@ Włącz</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -2828,7 +2825,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -2840,7 +2837,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Poziome</translation>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -2848,13 +2845,12 @@ Włącz</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translatorcomment>Zgodnie z tekstem</translatorcomment>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
         <translation variants="yes">
-            <lengthvariant>Wstawianie kształtów</lengthvariant>
+            <lengthvariant>Wstaw kształty</lengthvariant>
             <lengthvariant>Wstawianie kształtów</lengthvariant>
         </translation>
     </message>
@@ -2872,7 +2868,10 @@ Włącz</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -2924,7 +2923,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Konspekt</translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -3002,10 +3001,7 @@ włącz/wyłącz</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square</source>
@@ -3043,7 +3039,7 @@ tekstu</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -3051,10 +3047,7 @@ tekstu</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -3133,8 +3126,12 @@ tekstu</translation>
         <translation>Wprowadź kod aktywacji</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation>Eksportuj do OFD</translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -3158,15 +3155,15 @@ tekstu</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
-        <translation>Dokument Microsoft Word 2007-2010</translation>
+        <translation>Dokument programu Microsoft Word 2007–2010</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
-        <translation>Dokument Microsoft Word 97-2003</translation>
+        <translation>Dokument programu Microsoft Word 97–2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Template</source>
-        <translation>Szablon Microsoft Word 97-2003</translation>
+        <translation>Szablon programu Microsoft Word 97–2003</translation>
     </message>
     <message>
         <source>New</source>
@@ -3238,7 +3235,6 @@ tekstu</translation>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translatorcomment>Szukaj pomocy przez Microblog</translatorcomment>
         <translation>Wyszukaj pomoc przez Microblog</translation>
     </message>
     <message>
@@ -3251,7 +3247,6 @@ tekstu</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translatorcomment>Maska do odzyskiwania danych WPS</translatorcomment>
         <translation>Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
@@ -3280,18 +3275,18 @@ tekstu</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
-        <translation>Dokument WPS Writer</translation>
+        <translation>Dokument programu WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
-        <translation>Szablon WPS Writer</translation>
+        <translation>Szablon programu WPS Writer</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>WPS Writer Help</source>
-        <translation>Pomoc WPS Writer</translation>
+        <translation>Pomoc programu WPS Writer</translation>
     </message>
 </context>
 <context>
@@ -3306,10 +3301,7 @@ tekstu</translation>
     </message>
     <message>
         <source>Clip Art</source>
-        <translation variants="yes">
-            <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obiekt ClipArt</lengthvariant>
-        </translation>
+        <translation>Obiekt ClipArt</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3318,10 +3310,8 @@ tekstu</translation>
     <message>
         <source>Date and
 Time</source>
-        <translatorcomment>Data i
-godzina</translatorcomment>
         <translation>Data i
-czas</translation>
+godzina</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -3337,8 +3327,7 @@ czas</translation>
     </message>
     <message>
         <source>Header Line Color</source>
-        <translatorcomment>Kolor linii nagłówka</translatorcomment>
-        <translation>Kolor wiersza nagłówka</translation>
+        <translation>Kolor linii nagłówka</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -3347,8 +3336,8 @@ czas</translation>
     <message>
         <source>Header and Footer
 Options</source>
-        <translation>Nagłówek i stopka
-Opcje</translation>
+        <translation>Opcje
+nagłówka i stopki</translation>
     </message>
     <message>
         <source>Header and Footer Options</source>
@@ -3389,8 +3378,6 @@ nagłówek</translation>
     <message>
         <source>Page
 Number</source>
-        <translatorcomment>Strona
-numer</translatorcomment>
         <translation>Numer
 strony</translation>
     </message>
@@ -3414,7 +3401,7 @@ nagłówek</translation>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>Pokaż wiersz nagłówka</translation>
+        <translation>Pokaż linię nagłówka</translation>
     </message>
     <message>
         <source>Switch between
@@ -3424,7 +3411,7 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
-        <translation>Liczba Y stron(y)</translation>
+        <translation>Całkowita liczba stron Y</translation>
     </message>
 </context>
 <context>
@@ -3647,7 +3634,7 @@ formatów</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>Krawędź wewnętrzna</translation>
+        <translation>Krawędzie wewnętrzne</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
@@ -3818,8 +3805,10 @@ styl</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translatorcomment>Karty?</translatorcomment>
-        <translation>Tabulatory</translation>
+        <translation variants="yes">
+            <lengthvariant>Tabulatory</lengthvariant>
+            <lengthvariant>Karty</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -3883,8 +3872,7 @@ styl</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translatorcomment>Znaki podziału</translatorcomment>
-        <translation>Podziały</translation>
+        <translation>Znaki podziału</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -3898,7 +3886,7 @@ styl</translation>
         <source>Clip Art</source>
         <translation variants="yes">
             <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obraz ClipArt</lengthvariant>
+            <lengthvariant>Obiekt ClipArt</lengthvariant>
         </translation>
     </message>
     <message>
@@ -3927,10 +3915,11 @@ styl</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation variants="yes">
-            <lengthvariant>Data i godzina</lengthvariant>
-            <lengthvariant>Data i czas</lengthvariant>
-        </translation>
+        <translation>Data i godzina</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation>Pole dokumentu</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -3962,8 +3951,10 @@ styl</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translatorcomment>Obiekt pliku</translatorcomment>
-        <translation>Plik obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Obiekt pliku</lengthvariant>
+            <lengthvariant>Załącznik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Form Field Options</source>
@@ -4040,7 +4031,7 @@ stopka</translation>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation>Więcej symboli</translation>
+        <translation>Inne symbole</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
@@ -4144,7 +4135,10 @@ strony</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
@@ -4335,7 +4329,7 @@ strony</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -4343,7 +4337,7 @@ strony</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -4363,8 +4357,7 @@ strony</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translatorcomment>Znaki podziału</translatorcomment>
-        <translation>Podziały</translation>
+        <translation>Znaki podziału</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -4416,15 +4409,15 @@ strony</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -4444,7 +4437,7 @@ strony</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation>Ustawienia trybu Genko</translation>
+        <translation>Ustawienia Genko</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -4460,7 +4453,7 @@ strony</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -4468,16 +4461,15 @@ strony</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translatorcomment>Zgodnie z tekstem</translatorcomment>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
         <source>Line Number Options</source>
-        <translation>Opcje numeru wiersza</translation>
+        <translation>Opcje numeracji wierszy</translation>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation>Numery wiersza</translation>
+        <translation>Numery wierszy</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -4493,7 +4485,6 @@ strony</translation>
     </message>
     <message>
         <source>More Paper Sizes</source>
-        <translatorcomment>Więcej formatów papieru</translatorcomment>
         <translation>Więcej rozmiarów papieru</translation>
     </message>
     <message>
@@ -4510,7 +4501,7 @@ strony</translation>
     </message>
     <message>
         <source>One</source>
-        <translation>Jeden</translation>
+        <translation>Jedna</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -4519,12 +4510,8 @@ strony</translation>
     <message>
         <source>Page
 Borders</source>
-        <translation variants="yes">
-            <lengthvariant>Obramowania
-strony</lengthvariant>
-            <lengthvariant>Krawędzie
-strony</lengthvariant>
-        </translation>
+        <translation>Obramowania
+stron</translation>
     </message>
     <message>
         <source>Page
@@ -4649,7 +4636,7 @@ tekstu</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -4657,14 +4644,11 @@ tekstu</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation>Dwa</translation>
+        <translation>Dwie</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -4929,7 +4913,7 @@ tekstu</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -4937,7 +4921,7 @@ tekstu</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -4985,7 +4969,7 @@ obraz</translation>
         <source>Clip Art</source>
         <translation variants="yes">
             <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obraz ClipArt</lengthvariant>
+            <lengthvariant>Obiekt ClipArt</lengthvariant>
         </translation>
     </message>
     <message>
@@ -5028,7 +5012,7 @@ obrazów</lengthvariant>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Even Height</source>
@@ -5091,7 +5075,7 @@ obrazów</lengthvariant>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -5099,7 +5083,6 @@ obrazów</lengthvariant>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translatorcomment>Zgodnie z tekstem</translatorcomment>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
@@ -5197,7 +5180,7 @@ obraz</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Konspekt</translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -5403,7 +5386,7 @@ włącz/wyłącz</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -5411,10 +5394,7 @@ włącz/wyłącz</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -5622,7 +5602,7 @@ Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>Opcje śledzenia zmian...</translation>
+        <translation type="obsolete">Opcje śledzenia zmian...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -5721,7 +5701,7 @@ komentarz</translation>
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Okienko recenzowania</lengthvariant>
             <lengthvariant>Okienko przeglądu</lengthvariant>
         </translation>
@@ -5731,20 +5711,44 @@ komentarz</translation>
         <translation>Recenzenci</translation>
     </message>
     <message>
+        <source>Reviewing Pane</source>
+        <translation>Okienko recenzowania</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation>Poziome okienko recenzowania</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation>Pionowe okienko recenzowania</translation>
+    </message>
+    <message>
         <source>Show</source>
         <translation>Pokaż</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
-        <translation>Pokaż wszystkie poprawki w wierszu</translation>
+        <translation>Pokaż wszystkie poprawki w wierszach</translation>
     </message>
     <message>
         <source>Show Author</source>
         <translation>Pokaż autora</translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation>Pokaż komentarze</translation>
+    </message>
+    <message>
         <source>Show Date</source>
         <translation>Pokaż datę</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation>Pokaż zmianę formatu</translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation>Pokaż wstawienia i usunięcia</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -5769,6 +5773,10 @@ Changes</source>
 zmiany</translation>
     </message>
     <message>
+        <source>Track Changes Options...</source>
+        <translation>Opcje śledzenia zmian...</translation>
+    </message>
+    <message>
         <source>Tracking</source>
         <translation>Śledzenie</translation>
     </message>
@@ -5784,7 +5792,7 @@ wyrazów</translation>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>poziomeOkienkoRecenzowania</lengthvariant>
             <lengthvariant>poziomeOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>horzReviewPane</lengthvariant>
@@ -5792,7 +5800,7 @@ wyrazów</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>pionoweOkienkoRecenzowania</lengthvariant>
             <lengthvariant>pionoweOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>vertReviewPane</lengthvariant>
@@ -5823,7 +5831,6 @@ tytułowe</translation>
     </message>
     <message>
         <source>Cover and TOC</source>
-        <translatorcomment>Okładka i spis treści</translatorcomment>
         <translation>Strona tytułowa i spis treści</translation>
     </message>
     <message>
@@ -5846,14 +5853,13 @@ sekcję</translation>
     </message>
     <message>
         <source>Header Line Color</source>
-        <translatorcomment>Kolor linii nagłówka</translatorcomment>
-        <translation>Kolor wiersza nagłówka</translation>
+        <translation>Kolor linii nagłówka</translation>
     </message>
     <message>
         <source>Header and
 Footer</source>
-        <translation>Nagłówek i
-stopka</translation>
+        <translation>Nagłówek 
+i stopka</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -5914,7 +5920,7 @@ stopka</translation>
     </message>
     <message>
         <source>One</source>
-        <translation>Jeden</translation>
+        <translation>Jedna</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -5934,11 +5940,11 @@ strony</translation>
     </message>
     <message>
         <source>Page Number Start</source>
-        <translation>Rozpocznij numerowanie stron</translation>
+        <translation>Początek numeru strony</translation>
     </message>
     <message>
         <source>Page Number Start:</source>
-        <translation>Rozpocznij numerowanie stron:</translation>
+        <translation>Początek numeru strony:</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -5970,7 +5976,7 @@ sekcji</translation>
         <source>Show
 Header Line</source>
         <translation>Pokaż
-wiersz nagłówka</translation>
+linię nagłówka</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
@@ -5983,8 +5989,8 @@ wiersz nagłówka</translation>
     <message>
         <source>Split
 Section</source>
-        <translation>Podział
-sekcji</translation>
+        <translation>Podziel
+sekcję</translation>
     </message>
     <message>
         <source>Three</source>
@@ -5992,7 +5998,7 @@ sekcji</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation>Dwa</translation>
+        <translation>Dwie</translation>
     </message>
 </context>
 <context>
@@ -6013,105 +6019,105 @@ sekcji</translation>
         <source>3-D
 Color</source>
         <translation>Kolor
-3D</translation>
+3-D</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
         <translation>Efekty
-3D</translation>
+3-D</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
         <translation>Włącz/Wyłącz
-3D</translation>
+3-D</translation>
     </message>
     <message>
         <source>3-D 
 Effects</source>
         <translation>Efekty 
-3D</translation>
+3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation>Styl 3D 1</translation>
+        <translation>Styl 3-D 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation>Styl 3D 10</translation>
+        <translation>Styl 3-D 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation>Styl 3D 11</translation>
+        <translation>Styl 3-D 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation>Styl 3D 12</translation>
+        <translation>Styl 3-D 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation>Styl 3D 13</translation>
+        <translation>Styl 3-D 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation>Styl 3D 14</translation>
+        <translation>Styl 3-D 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation>Styl 3D 15</translation>
+        <translation>Styl 3-D 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation>Styl 3D 16</translation>
+        <translation>Styl 3-D 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation>Styl 3D 17</translation>
+        <translation>Styl 3-D 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation>Styl 3D 18</translation>
+        <translation>Styl 3-D 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation>Styl 3D 19</translation>
+        <translation>Styl 3-D 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation>Styl 3D 2</translation>
+        <translation>Styl 3-D 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation>Styl 3D 20</translation>
+        <translation>Styl 3-D 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation>Styl 3D 3</translation>
+        <translation>Styl 3-D 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation>Styl 3D 4</translation>
+        <translation>Styl 3-D 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation>Styl 3D 5</translation>
+        <translation>Styl 3-D 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation>Styl 3D 6</translation>
+        <translation>Styl 3-D 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation>Styl 3D 7</translation>
+        <translation>Styl 3-D 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation>Styl 3D 8</translation>
+        <translation>Styl 3-D 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation>Styl 3D 9</translation>
+        <translation>Styl 3-D 9</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -6127,7 +6133,10 @@ Effects</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Depth</source>
@@ -6165,7 +6174,7 @@ Effects</source>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Więcej kolorów 3D</translation>
+        <translation>Więcej kolorów 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -6173,7 +6182,10 @@ Effects</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -6181,7 +6193,10 @@ Effects</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
@@ -6375,7 +6390,7 @@ cienia</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Center Justified</source>
@@ -6529,7 +6544,7 @@ cienia</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -6541,7 +6556,7 @@ cienia</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -6694,8 +6709,8 @@ COM</translation>
     <message>
         <source>Cascade</source>
         <translation variants="yes">
-            <lengthvariant>Kaskada</lengthvariant>
             <lengthvariant>Kaskadowo</lengthvariant>
+            <lengthvariant>Kaskada</lengthvariant>
         </translation>
     </message>
     <message>
@@ -6723,9 +6738,13 @@ dokumentu</translation>
         <translation>Widoki dokumentu</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Tryb ochrony oczu</translation>
+    </message>
+    <message>
         <source>Full 
 Screen</source>
-        <translation>Pełny
+        <translation>Pełny 
 ekran</translation>
     </message>
     <message>
@@ -6768,11 +6787,11 @@ okno</translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation>Miejsce po lewej</translation>
+        <translation>Umieść po lewej</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation>Miejsce po prawej</translation>
+        <translation>Umieść po prawej</translation>
     </message>
     <message>
         <source>Print 
@@ -6782,7 +6801,10 @@ wydruku</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Tryb ochrony Oczu</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Tryb ochrony oczu</lengthvariant>
+            <lengthvariant>Tryb Ochrona oczu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -6880,103 +6902,103 @@ obok siebie</translation>
         <source>3-D
 Color</source>
         <translation>Kolor
-3D</translation>
+3-D</translation>
     </message>
     <message>
         <source>3-D
 Effects</source>
         <translation>Efekty
-3D</translation>
+3-D</translation>
     </message>
     <message>
         <source>3-D
 On/Off</source>
         <translation>Włącz/Wyłącz
-3D</translation>
+3-D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Ustawienia 3D</translation>
+        <translation>Ustawienia 3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation>Styl 3D 1</translation>
+        <translation>Styl 3-D 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation>Styl 3D 10</translation>
+        <translation>Styl 3-D 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation>Styl 3D 11</translation>
+        <translation>Styl 3-D 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation>Styl 3D 12</translation>
+        <translation>Styl 3-D 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation>Styl 3D 13</translation>
+        <translation>Styl 3-D 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation>Styl 3D 14</translation>
+        <translation>Styl 3-D 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation>Styl 3D 15</translation>
+        <translation>Styl 3-D 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation>Styl 3D 16</translation>
+        <translation>Styl 3-D 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation>Styl 3D 17</translation>
+        <translation>Styl 3-D 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation>Styl 3D 18</translation>
+        <translation>Styl 3-D 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation>Styl 3D 19</translation>
+        <translation>Styl 3-D 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation>Styl 3D 2</translation>
+        <translation>Styl 3-D 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation>Styl 3D 20</translation>
+        <translation>Styl 3-D 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation>Styl 3D 3</translation>
+        <translation>Styl 3-D 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation>Styl 3D 4</translation>
+        <translation>Styl 3-D 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation>Styl 3D 5</translation>
+        <translation>Styl 3-D 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation>Styl 3D 6</translation>
+        <translation>Styl 3-D 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation>Styl 3D 7</translation>
+        <translation>Styl 3-D 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation>Styl 3D 8</translation>
+        <translation>Styl 3-D 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation>Styl 3D 9</translation>
+        <translation>Styl 3-D 9</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -6992,7 +7014,10 @@ On/Off</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Depth</source>
@@ -7003,8 +7028,10 @@ On/Off</source>
     </message>
     <message>
         <source>Dim</source>
-        <translatorcomment>Przyciemniony</translatorcomment>
-        <translation>Przygaszone</translation>
+        <translation variants="yes">
+            <lengthvariant>Przygaszone</lengthvariant>
+            <lengthvariant>Przyciemniony</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Direction</source>
@@ -7028,7 +7055,7 @@ On/Off</source>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Więcej kolorów 3D</translation>
+        <translation>Więcej kolorów 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -7036,7 +7063,10 @@ On/Off</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -7044,7 +7074,10 @@ On/Off</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
@@ -7247,12 +7280,12 @@ cienia</translation>
     <message>
         <source>3-D
 On</source>
-        <translation>3D
+        <translation>3-D
 Włącz</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3D Włącz</translation>
+        <translation>3-D Włącz</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -7272,7 +7305,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -7280,7 +7313,7 @@ Włącz</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -7390,7 +7423,7 @@ znakami</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowe</translation>
+        <translation>Niestandardowy</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -7446,34 +7479,30 @@ znakami</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translatorcomment>Oddalanie w dół</translatorcomment>
         <translation>Zanikanie w dół</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translatorcomment>Oddalanie w lewo</translatorcomment>
         <translation>Zanikanie w lewo</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translatorcomment>Oddalanie w prawo</translatorcomment>
         <translation>Zanikanie w prawo</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translatorcomment>Oddalanie w górę</translatorcomment>
         <translation>Zanikanie w górę</translation>
     </message>
     <message>
@@ -7490,7 +7519,10 @@ znakami</translation>
     </message>
     <message>
         <source>Format Object</source>
-        <translation>Formatuj obiekt</translation>
+        <translation variants="yes">
+            <lengthvariant>Formatuj obiekt</lengthvariant>
+            <lengthvariant>Formatowanie obiektu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -7518,7 +7550,6 @@ znakami</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translatorcomment>Zgodnie z tekstem</translatorcomment>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
@@ -7543,7 +7574,10 @@ znakami</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -7571,11 +7605,11 @@ znakami</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Konspekt</translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -7603,13 +7637,17 @@ znakami</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translatorcomment>Pierścień-strona wewnętrzna</translatorcomment>
-        <translation>Wnętrze pierścienia</translation>
+        <translation variants="yes">
+            <lengthvariant>Wnętrze pierścienia</lengthvariant>
+            <lengthvariant>Pierścień-strona wewnętrzna</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translatorcomment>Pierścień-strona zewnętrzna</translatorcomment>
-        <translation>Zewnętrze pierścienia</translation>
+        <translation variants="yes">
+            <lengthvariant>Zewnętrze pierścienia</lengthvariant>
+            <lengthvariant>Pierścień-strona zewnętrzna</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -7689,7 +7727,7 @@ znakami</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -7711,10 +7749,7 @@ znakami</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -7740,7 +7775,10 @@ znakami</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Bardzo przyległe</translation>
+        <translation variants="yes">
+            <lengthvariant>Bardzo przyległe</lengthvariant>
+            <lengthvariant>Zwarte</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -7760,8 +7798,10 @@ znakami</translation>
     </message>
     <message>
         <source>WordArt</source>
-        <translatorcomment>Obiekt WordArt</translatorcomment>
-        <translation>WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>WordArt</lengthvariant>
+            <lengthvariant>Obiekt WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -7786,10 +7826,12 @@ WordArt</translation>
     <message>
         <source>WordArt 
 Shape</source>
-        <translatorcomment>Kształt tekstu 
-WordArt</translatorcomment>
-        <translation>Kształt  
-WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Kształt  
+WordArt</lengthvariant>
+            <lengthvariant>Kształt tekstu 
+WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Size</source>
@@ -7800,8 +7842,10 @@ WordArt</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translatorcomment>Style WordArt</translatorcomment>
-        <translation>Style tekstu WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Style tekstu WordArt</lengthvariant>
+            <lengthvariant>Style WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt@Insert</source>
@@ -7825,14 +7869,7 @@ WordArt</translation>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Link do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do Chmury</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
-            <lengthvariant>Link do Chmury</lengthvariant>
-            <lengthvariant>Link do usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -7848,7 +7885,11 @@ WordArt</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -7888,27 +7929,18 @@ WordArt</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Chmura dokumentów</lengthvariant>
-            <lengthvariant>Otwórz z Chmury dokumentów</lengthvariant>
-            <lengthvariant>Otwórz z dokumentów w Chmurze</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
-        </translation>
+        <translation>Otwórz z Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Tryb ochrony Oczu</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Tryb ochrony oczu</lengthvariant>
+            <lengthvariant>Tryb Ochrona oczu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Chmura dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do Chmury dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów w Chmurze</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
-        </translation>
+        <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -8063,7 +8095,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -8071,7 +8103,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -8201,8 +8233,7 @@ WordArt</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translatorcomment>Znaki podziału</translatorcomment>
-        <translation>Podziały</translation>
+        <translation>Znaki podziału</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -8240,8 +8271,7 @@ COM</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translatorcomment>Kaskadowo</translatorcomment>
-        <translation>Kaskada</translation>
+        <translation>Kaskadowo</translation>
     </message>
     <message>
         <source>Cell</source>
@@ -8316,7 +8346,7 @@ COM</translation>
         <source>Clip Art</source>
         <translation variants="yes">
             <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obraz ClipArt</lengthvariant>
+            <lengthvariant>Obiekt ClipArt</lengthvariant>
         </translation>
     </message>
     <message>
@@ -8432,11 +8462,7 @@ COM</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Utwórz łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Utwórz łącze do Chmury</lengthvariant>
-            <lengthvariant>Utwórz łącze do usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Utwórz łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -8452,7 +8478,7 @@ COM</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation>Przytnij według skali</translation>
+        <translation>Przytnij według kształtu</translation>
     </message>
     <message>
         <source>Cross Border</source>
@@ -8487,10 +8513,7 @@ COM</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation variants="yes">
-            <lengthvariant>Data i godzina</lengthvariant>
-            <lengthvariant>Data i czas</lengthvariant>
-        </translation>
+        <translation>Data i godzina</translation>
     </message>
     <message>
         <source>Decimal Tab</source>
@@ -8526,7 +8549,10 @@ COM</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation>Usuń segment</translation>
+        <translation variants="yes">
+            <lengthvariant>Usuń segment</lengthvariant>
+            <lengthvariant>Usuń odcinek</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Delete Table</source>
@@ -8621,15 +8647,15 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -8652,8 +8678,16 @@ przekątną w komórce</translation>
         <translation>Eksportuj jako obraz</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation>Eksportuj do OFD</translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -8673,16 +8707,22 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translatorcomment>Obiekt pliku</translatorcomment>
-        <translation>Plik obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Obiekt pliku</lengthvariant>
+            <lengthvariant>Załącznik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>First Line Indent</source>
         <translation>Wcięcie pierwszego wiersza</translation>
     </message>
     <message>
+        <source>Fixed Text</source>
+        <translation>Stały tekst</translation>
+    </message>
+    <message>
         <source>FixedText</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Stały tekst</lengthvariant>
             <lengthvariant>Stały format tekstu</lengthvariant>
         </translation>
@@ -8697,7 +8737,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>FollowText</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Śledź tekst</lengthvariant>
             <lengthvariant>Śledź edycję tekstu</lengthvariant>
         </translation>
@@ -8797,7 +8837,7 @@ formatów</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation>Ustawienia trybu Genko</translation>
+        <translation>Ustawienia Genko</translation>
     </message>
     <message>
         <source>Go to Endnote</source>
@@ -8878,7 +8918,7 @@ formatów</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Poziome</translation>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Horizontal Middle Border</source>
@@ -8901,8 +8941,12 @@ formatów</translation>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
+        <source>In line with text</source>
+        <translation>Równo z tekstem</translation>
+    </message>
+    <message>
         <source>InlineWrapText</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Zawijaj tekst w tym samym wierszu</lengthvariant>
             <lengthvariant>Wbudowane zawijanie tekstu</lengthvariant>
         </translation>
@@ -8996,7 +9040,10 @@ formatów</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -9015,6 +9062,10 @@ formatów</translation>
         <translation>Pasek narzędzi korespondencji seryjnej</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation>Zarządzaj poświadczeniami</translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>Ręczna kopia zapasowa</translation>
     </message>
@@ -9028,7 +9079,7 @@ formatów</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Merge Cells</source>
@@ -9036,7 +9087,7 @@ formatów</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>Minisite</source>
@@ -9089,6 +9140,10 @@ formatów</translation>
     <message>
         <source>Move Here</source>
         <translation>Przenieś tutaj</translation>
+    </message>
+    <message>
+        <source>Move With Text</source>
+        <translation>Przenieś z tekstem</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -9160,13 +9215,7 @@ formatów</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Chmura dokumentów</lengthvariant>
-            <lengthvariant>Otwórz z Chmury dokumentów</lengthvariant>
-            <lengthvariant>Otwórz z dokumentów w Chmurze</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
-        </translation>
+        <translation>Otwórz z Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Option</source>
@@ -9242,18 +9291,18 @@ formatów</translation>
     </message>
     <message>
         <source>Picture Format Style</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Styl formatu obrazu</lengthvariant>
             <lengthvariant>Styl formatowania obrazu</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation>Miejsce po lewej</translation>
+        <translation>Umieść po lewej</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation>Miejsce po prawej</translation>
+        <translation>Umieść po prawej</translation>
     </message>
     <message>
         <source>Previous Text Box</source>
@@ -9273,7 +9322,10 @@ formatów</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Tryb ochrony Oczu</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Tryb ochrony oczu</lengthvariant>
+            <lengthvariant>Tryb Ochrona oczu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -9355,11 +9407,27 @@ formatów</translation>
         <translation>Ogranicz edytowanie</translation>
     </message>
     <message>
+        <source>Restricted Access</source>
+        <translation>Dostęp ograniczony</translation>
+    </message>
+    <message>
         <source>ReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Okienko recenzowania</lengthvariant>
             <lengthvariant>Okienko przeglądu</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation>Okienko recenzowania</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation>Poziome okienko recenzowania</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation>Pionowe okienko recenzowania</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -9415,13 +9483,7 @@ formatów</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Chmura dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do Chmury dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów w Chmurze</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
-        </translation>
+        <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -9487,11 +9549,15 @@ formatów</translation>
     </message>
     <message>
         <source>Shape Format Style</source>
-        <translation>Styl formatu kształtu</translation>
+        <translation type="obsolete">Styl formatu kształtu</translation>
     </message>
     <message>
         <source>Shape Outline</source>
         <translation>Kontur kształtu</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation>Styl kształtu</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -9535,7 +9601,10 @@ formatów</translation>
     </message>
     <message>
         <source>Smooth Point</source>
-        <translation>Gładki punkt</translation>
+        <translation variants="yes">
+            <lengthvariant>Punkt gładki</lengthvariant>
+            <lengthvariant>Gładki punkt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -9546,14 +9615,10 @@ formatów</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciągłe</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translatorcomment>Pisownia</translatorcomment>
         <translation>Sprawdzanie pisowni</translation>
     </message>
     <message>
@@ -9655,7 +9720,7 @@ formatów</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -9667,10 +9732,7 @@ formatów</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Track</source>
@@ -9701,6 +9763,10 @@ formatów</translation>
         <translation>Jednostka</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation>Dostęp nieograniczony</translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Opinie użytkowników</translation>
     </message>
@@ -9714,7 +9780,10 @@ formatów</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -9726,12 +9795,14 @@ formatów</translation>
     </message>
     <message>
         <source>View Shortcut</source>
-        <translatorcomment>Pokaż skrót</translatorcomment>
         <translation>Wyświetl skrót</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPS</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WPS Forum</source>
@@ -9830,7 +9901,7 @@ formatów</translation>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>poziomeOkienkoRecenzowania</lengthvariant>
             <lengthvariant>poziomeOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>horzReviewPane</lengthvariant>
@@ -9845,7 +9916,7 @@ formatów</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>pionoweOkienkoRecenzowania</lengthvariant>
             <lengthvariant>pionoweOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>vertReviewPane</lengthvariant>
@@ -9878,24 +9949,18 @@ formatów</translation>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>prawda</translation>
+        <translation>ustal</translation>
     </message>
 </context>
 <context>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
 </context>
 <context>
@@ -9976,7 +10041,7 @@ formatów</translation>
     </message>
     <message>
         <source>Menu Command</source>
-        <translation>Polecenia menu</translation>
+        <translation>Polecenie menu</translation>
     </message>
     <message>
         <source>Toolbar Commands</source>
@@ -10025,7 +10090,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>Krawędź wewnętrzna</translation>
+        <translation>Krawędzie wewnętrzne</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
@@ -10164,8 +10229,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>More Controls</source>
-        <translatorcomment>Inne formanty</translatorcomment>
-        <translation>Więcej formant</translation>
+        <translation>Inne formanty</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -10197,7 +10261,10 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kod</translation>
+        <translation variants="yes">
+            <lengthvariant>Wyświetl kod</lengthvariant>
+            <lengthvariant>Pokaż kod</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -10252,7 +10319,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -10260,7 +10327,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -10394,15 +10461,15 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -10461,7 +10528,6 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translatorcomment>Zgodnie z tekstem</translatorcomment>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
@@ -10481,7 +10547,10 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -10529,7 +10598,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Konspekt</translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -10609,8 +10678,8 @@ przekątną w komórce</translation>
     <message>
         <source>Solid</source>
         <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
             <lengthvariant>Ciagły</lengthvariant>
+            <lengthvariant>Ciągłe</lengthvariant>
         </translation>
     </message>
     <message>
@@ -10639,7 +10708,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -10647,10 +10716,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -10710,14 +10776,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Link do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do Chmury</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
-            <lengthvariant>Link do Chmury</lengthvariant>
-            <lengthvariant>Link do usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -10740,8 +10799,12 @@ przekątną w komórce</translation>
         <translation>Wprowadź kod aktywacji</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation>Eksportuj do OFD</translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -10765,15 +10828,15 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Microsoft Word 2007-2010 Document</source>
-        <translation>Dokument Microsoft Word 2007-2010</translation>
+        <translation>Dokument programu Microsoft Word 2007–2010</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
-        <translation>Dokument Microsoft Word 97-2003</translation>
+        <translation>Dokument programu Microsoft Word 97–2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Template</source>
-        <translation>Szablon Microsoft Word 97-2003</translation>
+        <translation>Szablon programu Microsoft Word 97–2003</translation>
     </message>
     <message>
         <source>New</source>
@@ -10857,7 +10920,6 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translatorcomment>Maska do odzyskiwania danych WPS</translatorcomment>
         <translation>Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
@@ -10886,22 +10948,22 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
-        <translation>Dokument WPS Writer</translation>
+        <translation>Dokument programu WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Help</source>
-        <translation>Pomoc WPS Writer</translation>
+        <translation>Pomoc programu WPS Writer</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
-        <translation>Szablon WPS Writer</translation>
+        <translation>Szablon programu WPS Writer</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_file.Help</name>
     <message>
         <source>WPS Writer Help</source>
-        <translation>Pomoc WPS Writer</translation>
+        <translation>Pomoc programu WPS Writer</translation>
     </message>
 </context>
 <context>
@@ -10920,10 +10982,7 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation variants="yes">
-            <lengthvariant>Data i godzina</lengthvariant>
-            <lengthvariant>Data i czas</lengthvariant>
-        </translation>
+        <translation>Data i godzina</translation>
     </message>
     <message>
         <source>Fields</source>
@@ -10944,8 +11003,8 @@ przekątną w komórce</translation>
     <message>
         <source>Header and Footer
 Options</source>
-        <translation>Nagłówek i stopka
-Opcje</translation>
+        <translation>Opcje
+nagłówka i stopki</translation>
     </message>
     <message>
         <source>Header and Footer Options</source>
@@ -11003,7 +11062,7 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>Total of Y Page</source>
-        <translation>Liczba Y stron(y)</translation>
+        <translation>Całkowita liczba stron Y</translation>
     </message>
 </context>
 <context>
@@ -11212,7 +11271,7 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>Inside Border</source>
-        <translation>Krawędź wewnętrzna</translation>
+        <translation>Krawędzie wewnętrzne</translation>
     </message>
     <message>
         <source>Inside Horizontal Border</source>
@@ -11439,8 +11498,7 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translatorcomment>Znaki podziału</translatorcomment>
-        <translation>Podziały</translation>
+        <translation>Znaki podziału</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -11454,7 +11512,7 @@ nagłówek i stopka</translation>
         <source>Clip Art</source>
         <translation variants="yes">
             <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obraz ClipArt</lengthvariant>
+            <lengthvariant>Obiekt ClipArt</lengthvariant>
         </translation>
     </message>
     <message>
@@ -11487,10 +11545,11 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation variants="yes">
-            <lengthvariant>Data i godzina</lengthvariant>
-            <lengthvariant>Data i czas</lengthvariant>
-        </translation>
+        <translation>Data i godzina</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation>Pole dokumentu</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -11522,8 +11581,10 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translatorcomment>Obiekt pliku</translatorcomment>
-        <translation>Plik obiektu</translation>
+        <translation variants="yes">
+            <lengthvariant>Obiekt pliku</lengthvariant>
+            <lengthvariant>Załącznik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Form Field Options</source>
@@ -11601,7 +11662,7 @@ nagłówek i stopka</translation>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation>Więcej symboli</translation>
+        <translation>Inne symbole</translation>
     </message>
     <message>
         <source>Multi-line Text</source>
@@ -11929,7 +11990,7 @@ scalone dane</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -11937,7 +11998,7 @@ scalone dane</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -11961,8 +12022,7 @@ scalone dane</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translatorcomment>Znaki podziału</translatorcomment>
-        <translation>Podziały</translation>
+        <translation>Znaki podziału</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -12014,15 +12074,15 @@ scalone dane</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Even Page Section Break</source>
@@ -12042,7 +12102,7 @@ scalone dane</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation>Ustawienia trybu Genko</translation>
+        <translation>Ustawienia Genko</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -12058,7 +12118,7 @@ scalone dane</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -12066,16 +12126,15 @@ scalone dane</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translatorcomment>Zgodnie z tekstem</translatorcomment>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
         <source>Line Number Options</source>
-        <translation>Opcje numeru wiersza</translation>
+        <translation>Opcje numeracji wierszy</translation>
     </message>
     <message>
         <source>Line Numbers</source>
-        <translation>Numery wiersza</translation>
+        <translation>Numery wierszy</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -12091,7 +12150,6 @@ scalone dane</translation>
     </message>
     <message>
         <source>More Paper Sizes</source>
-        <translatorcomment>Więcej formatów papieru</translatorcomment>
         <translation>Więcej rozmiarów papieru</translation>
     </message>
     <message>
@@ -12108,7 +12166,7 @@ scalone dane</translation>
     </message>
     <message>
         <source>One</source>
-        <translation>Jeden</translation>
+        <translation>Jedna</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -12120,10 +12178,7 @@ scalone dane</translation>
     </message>
     <message>
         <source>Page Borders</source>
-        <translation variants="yes">
-            <lengthvariant>Obramowania strony</lengthvariant>
-            <lengthvariant>Krawędzie strony</lengthvariant>
-        </translation>
+        <translation>Obramowania stron</translation>
     </message>
     <message>
         <source>Page Break</source>
@@ -12223,7 +12278,7 @@ scalone dane</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -12231,14 +12286,11 @@ scalone dane</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation>Dwa</translation>
+        <translation>Dwie</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -12402,7 +12454,7 @@ tekst</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -12410,7 +12462,7 @@ tekst</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -12456,7 +12508,7 @@ tekst</translation>
         <source>Clip Art</source>
         <translation variants="yes">
             <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obraz ClipArt</lengthvariant>
+            <lengthvariant>Obiekt ClipArt</lengthvariant>
         </translation>
     </message>
     <message>
@@ -12496,15 +12548,15 @@ tekst</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -12559,7 +12611,7 @@ tekst</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupa</translation>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -12567,7 +12619,6 @@ tekst</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translatorcomment>Zgodnie z tekstem</translatorcomment>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
@@ -12659,7 +12710,7 @@ tekst</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Konspekt</translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -12838,10 +12889,7 @@ tekst</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square</source>
@@ -12857,7 +12905,7 @@ tekst</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
@@ -12865,10 +12913,7 @@ tekst</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -12912,10 +12957,7 @@ tekst</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation variants="yes">
-            <lengthvariant>Pokaż</lengthvariant>
-            <lengthvariant>Pokaz</lengthvariant>
-        </translation>
+        <translation>Pokaż</translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -13073,7 +13115,7 @@ tekst</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>Opcje śledzenia zmian...</translation>
+        <translation type="obsolete">Opcje śledzenia zmian...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -13089,10 +13131,7 @@ tekst</translation>
     </message>
     <message>
         <source>Compare</source>
-        <translation variants="yes">
-            <lengthvariant>Porównaj</lengthvariant>
-            <lengthvariant>Porównanie</lengthvariant>
-        </translation>
+        <translation>Porównaj</translation>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
@@ -13141,7 +13180,7 @@ tekst</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Następny</translation>
+        <translation>Następne</translation>
     </message>
     <message>
         <source>Next Change</source>
@@ -13153,7 +13192,7 @@ tekst</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Poprzedni</translation>
+        <translation>Poprzednie</translation>
     </message>
     <message>
         <source>Previous Change</source>
@@ -13189,10 +13228,7 @@ tekst</translation>
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation variants="yes">
-            <lengthvariant>Okienko recenzowania</lengthvariant>
-            <lengthvariant>Okienko przeglądu</lengthvariant>
-        </translation>
+        <translation>Okienko recenzowania</translation>
     </message>
     <message>
         <source>Reviewers</source>
@@ -13204,15 +13240,27 @@ tekst</translation>
     </message>
     <message>
         <source>Show All Revisions Inline</source>
-        <translation>Pokaż wszystkie poprawki w wierszu</translation>
+        <translation>Pokaż wszystkie poprawki w wierszach</translation>
     </message>
     <message>
         <source>Show Author</source>
         <translation>Pokaż autora</translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation>Pokaż komentarze</translation>
+    </message>
+    <message>
         <source>Show Date</source>
         <translation>Pokaż datę</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation>Pokaż zmianę formatu</translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation>Pokaż wstawienia i usunięcia</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -13232,7 +13280,14 @@ tekst</translation>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation>Śledź zmiany</translation>
+        <translation variants="yes">
+            <lengthvariant>Śledź zmiany</lengthvariant>
+            <lengthvariant>Śledzenie zmian</lengthvariant>
+        </translation>
+    </message>
+    <message>
+        <source>Track Changes Options...</source>
+        <translation>Opcje śledzenia zmian...</translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -13250,7 +13305,6 @@ tekst</translation>
         <source>horzReviewPane</source>
         <translation variants="yes">
             <lengthvariant>poziomeOkienkoRecenzowania</lengthvariant>
-            <lengthvariant>poziomeOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>horzReviewPane</lengthvariant>
         </translation>
     </message>
@@ -13258,7 +13312,6 @@ tekst</translation>
         <source>vertReviewPane</source>
         <translation variants="yes">
             <lengthvariant>pionoweOkienkoRecenzowania</lengthvariant>
-            <lengthvariant>pionoweOkienkoPrzeglądu</lengthvariant>
             <lengthvariant>vertReviewPane</lengthvariant>
         </translation>
     </message>
@@ -13283,7 +13336,6 @@ tekst</translation>
     </message>
     <message>
         <source>Cover and TOC</source>
-        <translatorcomment>Okładka i spis treści</translatorcomment>
         <translation>Strona tytułowa i spis treści</translation>
     </message>
     <message>
@@ -13357,7 +13409,7 @@ tekst</translation>
     </message>
     <message>
         <source>One</source>
-        <translation>Jeden</translation>
+        <translation>Jedna</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -13373,11 +13425,11 @@ tekst</translation>
     </message>
     <message>
         <source>Page Number Start</source>
-        <translation>Rozpocznij numerowanie stron</translation>
+        <translation>Początek numeru strony</translation>
     </message>
     <message>
         <source>Page Number Start:</source>
-        <translation>Rozpocznij numerowanie stron:</translation>
+        <translation>Początek numeru strony:</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -13413,7 +13465,7 @@ tekst</translation>
     </message>
     <message>
         <source>Split Section</source>
-        <translation>Podział sekcji</translation>
+        <translation>Podziel sekcję</translation>
     </message>
     <message>
         <source>Three</source>
@@ -13421,7 +13473,7 @@ tekst</translation>
     </message>
     <message>
         <source>Two</source>
-        <translation>Dwa</translation>
+        <translation>Dwie</translation>
     </message>
 </context>
 <context>
@@ -13440,99 +13492,99 @@ tekst</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Kolor 3D</translation>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>3-D Effects</source>
-        <translation>Efekty 3D</translation>
+        <translation>Efekty 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Włącz/Wyłącz 3D</translation>
+        <translation>Włącz/Wyłącz 3-D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Ustawienia 3D</translation>
+        <translation>Ustawienia 3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation>Styl 3D 1</translation>
+        <translation>Styl 3-D 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation>Styl 3D 10</translation>
+        <translation>Styl 3-D 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation>Styl 3D 11</translation>
+        <translation>Styl 3-D 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation>Styl 3D 12</translation>
+        <translation>Styl 3-D 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation>Styl 3D 13</translation>
+        <translation>Styl 3-D 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation>Styl 3D 14</translation>
+        <translation>Styl 3-D 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation>Styl 3D 15</translation>
+        <translation>Styl 3-D 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation>Styl 3D 16</translation>
+        <translation>Styl 3-D 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation>Styl 3D 17</translation>
+        <translation>Styl 3-D 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation>Styl 3D 18</translation>
+        <translation>Styl 3-D 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation>Styl 3D 19</translation>
+        <translation>Styl 3-D 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation>Styl 3D 2</translation>
+        <translation>Styl 3-D 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation>Styl 3D 20</translation>
+        <translation>Styl 3-D 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation>Styl 3D 3</translation>
+        <translation>Styl 3-D 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation>Styl 3D 4</translation>
+        <translation>Styl 3-D 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation>Styl 3D 5</translation>
+        <translation>Styl 3-D 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation>Styl 3D 6</translation>
+        <translation>Styl 3-D 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation>Styl 3D 7</translation>
+        <translation>Styl 3-D 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation>Styl 3D 8</translation>
+        <translation>Styl 3-D 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation>Styl 3D 9</translation>
+        <translation>Styl 3-D 9</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -13548,7 +13600,7 @@ tekst</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowe</translation>
+        <translation>Niestandardowy</translation>
     </message>
     <message>
         <source>Depth</source>
@@ -13583,7 +13635,7 @@ tekst</translation>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Więcej kolorów 3D</translation>
+        <translation>Więcej kolorów 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -13591,7 +13643,10 @@ tekst</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -13599,7 +13654,7 @@ tekst</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
@@ -13781,7 +13836,7 @@ tekst</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Center Justified</source>
@@ -13883,7 +13938,7 @@ tekst</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Merge</source>
@@ -13895,7 +13950,7 @@ tekst</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>Min</translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>Repeat Header Rows</source>
@@ -13998,10 +14053,7 @@ tekst</translation>
     </message>
     <message>
         <source>Cascade</source>
-        <translation variants="yes">
-            <lengthvariant>Kaskada</lengthvariant>
-            <lengthvariant>Kaskadowo</lengthvariant>
-        </translation>
+        <translation>Kaskadowo</translation>
     </message>
     <message>
         <source>Close
@@ -14029,6 +14081,10 @@ inne okna</translation>
     <message>
         <source>Document Views</source>
         <translation>Widoki dokumentu</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Full Screen</source>
@@ -14072,11 +14128,11 @@ inne okna</translation>
     </message>
     <message>
         <source>Place on Left</source>
-        <translation>Miejsce po lewej</translation>
+        <translation>Umieść po lewej</translation>
     </message>
     <message>
         <source>Place on Right</source>
-        <translation>Miejsce po prawej</translation>
+        <translation>Umieść po prawej</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -14084,7 +14140,10 @@ inne okna</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Tryb ochrony Oczu</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Tryb ochrony oczu</lengthvariant>
+            <lengthvariant>Tryb Ochrona oczu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -14178,99 +14237,99 @@ inne okna</translation>
         <source>3-D
 Effects</source>
         <translation>Efekty
-3D</translation>
+3-D</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>Kolor 3D</translation>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>Włącz/Wyłącz 3D</translation>
+        <translation>Włącz/Wyłącz 3-D</translation>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation>Ustawienia 3D</translation>
+        <translation>Ustawienia 3-D</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
-        <translation>Styl 3D 1</translation>
+        <translation>Styl 3-D 1</translation>
     </message>
     <message>
         <source>3-D Style 10</source>
-        <translation>Styl 3D 10</translation>
+        <translation>Styl 3-D 10</translation>
     </message>
     <message>
         <source>3-D Style 11</source>
-        <translation>Styl 3D 11</translation>
+        <translation>Styl 3-D 11</translation>
     </message>
     <message>
         <source>3-D Style 12</source>
-        <translation>Styl 3D 12</translation>
+        <translation>Styl 3-D 12</translation>
     </message>
     <message>
         <source>3-D Style 13</source>
-        <translation>Styl 3D 13</translation>
+        <translation>Styl 3-D 13</translation>
     </message>
     <message>
         <source>3-D Style 14</source>
-        <translation>Styl 3D 14</translation>
+        <translation>Styl 3-D 14</translation>
     </message>
     <message>
         <source>3-D Style 15</source>
-        <translation>Styl 3D 15</translation>
+        <translation>Styl 3-D 15</translation>
     </message>
     <message>
         <source>3-D Style 16</source>
-        <translation>Styl 3D 16</translation>
+        <translation>Styl 3-D 16</translation>
     </message>
     <message>
         <source>3-D Style 17</source>
-        <translation>Styl 3D 17</translation>
+        <translation>Styl 3-D 17</translation>
     </message>
     <message>
         <source>3-D Style 18</source>
-        <translation>Styl 3D 18</translation>
+        <translation>Styl 3-D 18</translation>
     </message>
     <message>
         <source>3-D Style 19</source>
-        <translation>Styl 3D 19</translation>
+        <translation>Styl 3-D 19</translation>
     </message>
     <message>
         <source>3-D Style 2</source>
-        <translation>Styl 3D 2</translation>
+        <translation>Styl 3-D 2</translation>
     </message>
     <message>
         <source>3-D Style 20</source>
-        <translation>Styl 3D 20</translation>
+        <translation>Styl 3-D 20</translation>
     </message>
     <message>
         <source>3-D Style 3</source>
-        <translation>Styl 3D 3</translation>
+        <translation>Styl 3-D 3</translation>
     </message>
     <message>
         <source>3-D Style 4</source>
-        <translation>Styl 3D 4</translation>
+        <translation>Styl 3-D 4</translation>
     </message>
     <message>
         <source>3-D Style 5</source>
-        <translation>Styl 3D 5</translation>
+        <translation>Styl 3-D 5</translation>
     </message>
     <message>
         <source>3-D Style 6</source>
-        <translation>Styl 3D 6</translation>
+        <translation>Styl 3-D 6</translation>
     </message>
     <message>
         <source>3-D Style 7</source>
-        <translation>Styl 3D 7</translation>
+        <translation>Styl 3-D 7</translation>
     </message>
     <message>
         <source>3-D Style 8</source>
-        <translation>Styl 3D 8</translation>
+        <translation>Styl 3-D 8</translation>
     </message>
     <message>
         <source>3-D Style 9</source>
-        <translation>Styl 3D 9</translation>
+        <translation>Styl 3-D 9</translation>
     </message>
     <message>
         <source>36 pt</source>
@@ -14286,7 +14345,10 @@ Effects</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Depth</source>
@@ -14324,7 +14386,7 @@ Effects</source>
     </message>
     <message>
         <source>More 3-D Colors</source>
-        <translation>Więcej kolorów 3D</translation>
+        <translation>Więcej kolorów 3-D</translation>
     </message>
     <message>
         <source>More Shadow Colors</source>
@@ -14332,7 +14394,10 @@ Effects</source>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>Bez efektu 3D</translation>
+        <translation variants="yes">
+            <lengthvariant>Bez efektu 3-D</lengthvariant>
+            <lengthvariant>Bez 3-D</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -14340,7 +14405,10 @@ Effects</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalny</lengthvariant>
+            <lengthvariant>Normalne</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Nudge Shadow Down</source>
@@ -14554,7 +14622,7 @@ cienia</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -14562,7 +14630,7 @@ cienia</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -14658,10 +14726,7 @@ cienia</translation>
     </message>
     <message>
         <source>Curve Down</source>
-        <translation variants="yes">
-            <lengthvariant>Krzywa wygięta w dół</lengthvariant>
-            <lengthvariant>Zakręt w dół</lengthvariant>
-        </translation>
+        <translation>Krzywa wygięta w dół</translation>
     </message>
     <message>
         <source>Curve Up</source>
@@ -14669,7 +14734,10 @@ cienia</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Niestandardowe</translation>
+        <translation variants="yes">
+            <lengthvariant>Niestandardowy</lengthvariant>
+            <lengthvariant>Niestandardowe</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Dash</source>
@@ -14725,43 +14793,31 @@ cienia</translation>
     </message>
     <message>
         <source>Equal Height</source>
-        <translation>Równa wysokość</translation>
+        <translation>Jednakowa wysokość</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Równy rozmiar</translation>
+        <translation>Jednakowa wielkość</translation>
     </message>
     <message>
         <source>Equal Width</source>
-        <translation>Równa szerokość</translation>
+        <translation>Jednakowa szerokość</translation>
     </message>
     <message>
         <source>Fade Down</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w dół</lengthvariant>
-            <lengthvariant>Oddalanie w dół</lengthvariant>
-        </translation>
+        <translation>Zanikanie w dół</translation>
     </message>
     <message>
         <source>Fade Left</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w lewo</lengthvariant>
-            <lengthvariant>Oddalanie w lewo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w lewo</translation>
     </message>
     <message>
         <source>Fade Right</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w prawo</lengthvariant>
-            <lengthvariant>Oddalanie w prawo</lengthvariant>
-        </translation>
+        <translation>Zanikanie w prawo</translation>
     </message>
     <message>
         <source>Fade Up</source>
-        <translation variants="yes">
-            <lengthvariant>Zanikanie w górę</lengthvariant>
-            <lengthvariant>Oddalanie w górę</lengthvariant>
-        </translation>
+        <translation>Zanikanie w górę</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -14804,7 +14860,6 @@ cienia</translation>
     </message>
     <message>
         <source>In Line with Text</source>
-        <translatorcomment>Zgodnie z tekstem</translatorcomment>
         <translation>Równo z tekstem</translation>
     </message>
     <message>
@@ -14829,7 +14884,10 @@ cienia</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Długa kreska</translation>
+        <translation variants="yes">
+            <lengthvariant>Długa kreska</lengthvariant>
+            <lengthvariant>Myślnik</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -14857,7 +14915,10 @@ cienia</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translation variants="yes">
+            <lengthvariant>Normalne</lengthvariant>
+            <lengthvariant>Normalny</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -14885,13 +14946,17 @@ cienia</translation>
     </message>
     <message>
         <source>Ring Inside</source>
-        <translatorcomment>Pierścień-strona wewnętrzna</translatorcomment>
-        <translation>Wnętrze pierścienia</translation>
+        <translation variants="yes">
+            <lengthvariant>Wnętrze pierścienia</lengthvariant>
+            <lengthvariant>Pierścień-strona wewnętrzna</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Ring Outside</source>
-        <translatorcomment>Pierścień-strona zewnętrzna</translatorcomment>
-        <translation>Zewnętrze pierścienia</translation>
+        <translation variants="yes">
+            <lengthvariant>Zewnętrze pierścienia</lengthvariant>
+            <lengthvariant>Pierścień-strona zewnętrzna</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -14950,10 +15015,7 @@ cienia</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation variants="yes">
-            <lengthvariant>Ciągłe</lengthvariant>
-            <lengthvariant>Ciagły</lengthvariant>
-        </translation>
+        <translation>Ciagły</translation>
     </message>
     <message>
         <source>Square</source>
@@ -14977,23 +15039,17 @@ cienia</translation>
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Tight</source>
         <comment>Spacing</comment>
-        <translation variants="yes">
-            <lengthvariant>Przyległe</lengthvariant>
-            <lengthvariant>Przylegle</lengthvariant>
-        </translation>
+        <translation>Przylegle</translation>
     </message>
     <message>
         <source>Tight</source>
         <comment>Wrapping</comment>
-        <translation variants="yes">
-            <lengthvariant>Przyległe</lengthvariant>
-            <lengthvariant>Przylegle</lengthvariant>
-        </translation>
+        <translation>Przylegle</translation>
     </message>
     <message>
         <source>Tight@Spacing</source>
@@ -15005,10 +15061,7 @@ cienia</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation variants="yes">
-            <lengthvariant>Do góry i do dołu</lengthvariant>
-            <lengthvariant>U góry i u dołu</lengthvariant>
-        </translation>
+        <translation>Góra i dół</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -15034,7 +15087,10 @@ cienia</translation>
     </message>
     <message>
         <source>Very Tight</source>
-        <translation>Bardzo przyległe</translation>
+        <translation variants="yes">
+            <lengthvariant>Bardzo przyległe</lengthvariant>
+            <lengthvariant>Zwarte</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Wave 1</source>
@@ -15108,7 +15164,10 @@ cienia</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
-        <translation>Style tekstu WordArt</translation>
+        <translation variants="yes">
+            <lengthvariant>Style tekstu WordArt</lengthvariant>
+            <lengthvariant>Style WordArt</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
@@ -15136,14 +15195,7 @@ cienia</translation>
     <name>rainbow.ct_workspace</name>
     <message>
         <source>Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Link do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do Chmury</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
-            <lengthvariant>Link do Chmury</lengthvariant>
-            <lengthvariant>Link do usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -15159,7 +15211,11 @@ cienia</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -15195,27 +15251,18 @@ cienia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Chmura dokumentów</lengthvariant>
-            <lengthvariant>Otwórz z Chmury dokumentów</lengthvariant>
-            <lengthvariant>Otwórz z dokumentów w Chmurze</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
-        </translation>
+        <translation>Otwórz z Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Tryb ochrony Oczu</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Tryb ochrony oczu</lengthvariant>
+            <lengthvariant>Tryb Ochrona oczu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Chmura dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do Chmury dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów w Chmurze</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
-        </translation>
+        <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -15239,7 +15286,6 @@ cienia</translation>
     </message>
     <message>
         <source>User Guide</source>
-        <translatorcomment>Przewodnik użytkownika</translatorcomment>
         <translation>Podręcznik użytkownika</translation>
     </message>
     <message>
@@ -15318,14 +15364,7 @@ cienia</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Link do usługi Chmura</lengthvariant>
-            <lengthvariant>Łącze do Chmury</lengthvariant>
-            <lengthvariant>Łącze do usługi Cloud</lengthvariant>
-            <lengthvariant>Link do Chmury</lengthvariant>
-            <lengthvariant>Link do usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -15341,7 +15380,11 @@ cienia</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -15353,17 +15396,14 @@ cienia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Otwórz z dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Otwórz z usługi Chmura dokumentów</lengthvariant>
-            <lengthvariant>Otwórz z Chmury dokumentów</lengthvariant>
-            <lengthvariant>Otwórz z dokumentów w Chmurze</lengthvariant>
-            <lengthvariant>Otwórz z usługi Cloud Docs</lengthvariant>
-        </translation>
+        <translation>Otwórz z Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Tryb ochrony Oczu</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Tryb ochrony oczu</lengthvariant>
+            <lengthvariant>Tryb Ochrona oczu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -15371,13 +15411,7 @@ cienia</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz do dokumentów w usłudze Chmura</lengthvariant>
-            <lengthvariant>Zapisz do usługi Chmura dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do Chmury dokumentów</lengthvariant>
-            <lengthvariant>Zapisz do dokumentów w Chmurze</lengthvariant>
-            <lengthvariant>Zapisz do usługi Cloud Docs</lengthvariant>
-        </translation>
+        <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -15417,7 +15451,10 @@ cienia</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPS</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>WPS Microblog Layout</source>
@@ -15435,7 +15472,7 @@ cienia</translation>
     <name>wpsclassics.mainwindow.commands</name>
     <message>
         <source>3-D Settings</source>
-        <translation>Ustawienia 3D</translation>
+        <translation>Ustawienia 3-D</translation>
     </message>
     <message>
         <source>Align Objects</source>
@@ -15499,17 +15536,11 @@ cienia</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Standardowe</lengthvariant>
-        </translation>
+        <translation>Standardowy</translation>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation variants="yes">
-            <lengthvariant>Zatrzymaj nagrywanie</lengthvariant>
-            <lengthvariant>Zatrzymaj rejestrowanie</lengthvariant>
-        </translation>
+        <translation>Zatrzymaj rejestrowanie</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
@@ -15647,7 +15678,7 @@ cienia</translation>
         <source>Clip Art</source>
         <translation variants="yes">
             <lengthvariant>ClipArt</lengthvariant>
-            <lengthvariant>Obraz ClipArt</lengthvariant>
+            <lengthvariant>Obiekt ClipArt</lengthvariant>
         </translation>
     </message>
     <message>
@@ -15698,11 +15729,7 @@ cienia</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation variants="yes">
-            <lengthvariant>Utwórz łącze do usługi Chmura</lengthvariant>
-            <lengthvariant>Utwórz łącze do Chmury</lengthvariant>
-            <lengthvariant>Utwórz łącze do usługi Cloud</lengthvariant>
-        </translation>
+        <translation>Utwórz łącze usługi Cloud</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -15760,6 +15787,10 @@ cienia</translation>
         <translation>Dokument współpracy</translation>
     </message>
     <message>
+        <source>DocumentField</source>
+        <translation>Pole dokumentu</translation>
+    </message>
+    <message>
         <source>Edit</source>
         <translation>Edytuj</translation>
     </message>
@@ -15777,7 +15808,7 @@ cienia</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Tryb ochrony Oczu</translation>
+        <translation>Tryb ochrony oczu</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -15833,8 +15864,7 @@ cienia</translation>
     </message>
     <message>
         <source>Header Line Color</source>
-        <translatorcomment>Kolor linii nagłówka</translatorcomment>
-        <translation>Kolor wiersza nagłówka</translation>
+        <translation>Kolor linii nagłówka</translation>
     </message>
     <message>
         <source>Help</source>
@@ -15842,10 +15872,7 @@ cienia</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation variants="yes">
-            <lengthvariant>Ukryj bieżące okno, podczas zrzutu ekranu</lengthvariant>
-            <lengthvariant>Ukryj bieżące okno, podczas pobierania ekranu</lengthvariant>
-        </translation>
+        <translation>Ukryj bieżące okno, podczas wykonywania zrzutu ekranu</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -15943,7 +15970,7 @@ cienia</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>Nowy z więcej szablonów</translation>
+        <translation>Nowy z innych szablonów</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -16107,7 +16134,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>Pokaż wiersz nagłówka</translation>
+        <translation>Pokaż linię nagłówka</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -16261,7 +16288,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
-        <translation>Szablon Online WPS</translation>
+        <translation>Szablon WPS online</translation>
     </message>
     <message>
         <source>Web Layout</source>
@@ -16292,7 +16319,7 @@ bezpośrednio</translation>
     <name>wpscommon.mainwindow.commands.Help</name>
     <message>
         <source>WPS Writer Help</source>
-        <translation>Pomoc WPS Writer</translation>
+        <translation>Pomoc programu WPS Writer</translation>
     </message>
 </context>
 <context>
@@ -16330,7 +16357,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>File</source>
@@ -16414,10 +16441,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation variants="yes">
-            <lengthvariant>Narzędzia obrazów</lengthvariant>
-            <lengthvariant>Narzędzia obrazu</lengthvariant>
-        </translation>
+        <translation>Narzędzia obrazów</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -16445,11 +16469,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation variants="yes">
-            <lengthvariant>Recenzja</lengthvariant>
-            <lengthvariant>Przegląd</lengthvariant>
-            <lengthvariant>Przejrzyj</lengthvariant>
-        </translation>
+        <translation>Recenzja</translation>
     </message>
     <message>
         <source>Section</source>
@@ -16505,7 +16525,10 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPS</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -16527,31 +16550,38 @@ bezpośrednio</translation>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Professional - Przełącz interfejs użytkownika</lengthvariant>
             <lengthvariant>Professional - Zmiana interfejsu użytkownika</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
             <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
         </translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation>Przełącz interfejs użytkownika</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation>Przełącz interfejs użytkownika</translation>
+    </message>
+    <message>
         <source>true</source>
-        <translation>prawda</translation>
+        <translation>ustal</translation>
     </message>
 </context>
 <context>
     <name>wpsongmani.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
 </context>
 <context>
@@ -16585,7 +16615,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>File</source>
@@ -16657,10 +16687,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Picture Tools</source>
-        <translation variants="yes">
-            <lengthvariant>Narzędzia obrazów</lengthvariant>
-            <lengthvariant>Narzędzia obrazu</lengthvariant>
-        </translation>
+        <translation>Narzędzia obrazów</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -16688,11 +16715,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation variants="yes">
-            <lengthvariant>Recenzja</lengthvariant>
-            <lengthvariant>Przegląd</lengthvariant>
-            <lengthvariant>Przejrzyj</lengthvariant>
-        </translation>
+        <translation>Recenzja</translation>
     </message>
     <message>
         <source>Section</source>
@@ -16748,7 +16771,10 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>WPS Business Version</source>
-        <translation>Wersja biznesowa WPS</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja biznesowa WPS</lengthvariant>
+            <lengthvariant>WPS dla firm</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -16774,36 +16800,35 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Professional Switch UI</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Professional - Przełącz interfejs użytkownika</lengthvariant>
             <lengthvariant>Professional - Zmiana interfejsu użytkownika</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation type="obsolete">Przełącz interfejs użytkownika</translation>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation variants="yes">
-            <lengthvariant>Przełącz interfejs użytkownika</lengthvariant>
-            <lengthvariant>Zmiana interfejsu użytkownika</lengthvariant>
-        </translation>
+        <translation>Przełącz interfejs użytkownika</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation>Przełącz interfejs użytkownika</translation>
     </message>
     <message>
         <source>true</source>
-        <translation>prawda</translation>
+        <translation>ustal</translation>
     </message>
 </context>
 <context>
     <name>wpsrainbow.mainwindow.commands.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz język</lengthvariant>
-            <lengthvariant>Zmień język</lengthvariant>
-        </translation>
+        <translation>Przełącz język</translation>
     </message>
 </context>
 </TS>

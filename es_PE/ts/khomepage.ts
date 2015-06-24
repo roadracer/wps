@@ -45,5 +45,10 @@
         <comment>title</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

@@ -90,7 +90,10 @@
     </message>
     <message>
         <source>Theme Style</source>
-        <translation>Styl motywu</translation>
+        <translation variants="yes">
+            <lengthvariant>Style kompozycji</lengthvariant>
+            <lengthvariant>Styl motywu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
@@ -218,7 +221,10 @@
     </message>
     <message>
         <source>Theme Style</source>
-        <translation>Styl motywu</translation>
+        <translation variants="yes">
+            <lengthvariant>Styl kompozycji</lengthvariant>
+            <lengthvariant>Styl motywu</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>No Style, Gridded</source>

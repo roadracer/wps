@@ -3028,6 +3028,10 @@ On</source>
         <translation>输入激活码</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为 PDF 格式</translation>
     </message>
@@ -8281,6 +8285,10 @@ Add-Ins</source>
         <translation>输出为图片</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>输出为PDF格式</translation>
     </message>
@@ -8856,7 +8864,7 @@ Master</source>
     </message>
     <message>
         <source>Picture Format Style</source>
-        <translation>样式</translation>
+        <translation type="obsolete">样式</translation>
     </message>
     <message>
         <source>Play</source>
@@ -9052,11 +9060,15 @@ Master</source>
     </message>
     <message>
         <source>Shape Format Style</source>
-        <translation>样式</translation>
+        <translation type="obsolete">样式</translation>
     </message>
     <message>
         <source>Shape Line</source>
         <translation>轮廓</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -9189,6 +9201,10 @@ Master</source>
     <message>
         <source>Study Online</source>
         <translation>WPS 学习网站</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -10229,6 +10245,10 @@ AddIns</source>
     <message>
         <source>Enter Activation Code</source>
         <translation>输入激活码</translation>
+    </message>
+    <message>
+        <source>Export OFD Format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -19154,6 +19174,11 @@ Slide</source>
         <translation>皮肤</translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>确定</translation>
     </message>
@@ -19483,6 +19508,11 @@ Slide</source>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
         <translation>皮肤</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>

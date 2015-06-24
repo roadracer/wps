@@ -1479,11 +1479,15 @@
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation>Panou recenzie</translation>
+        <translation type="obsolete">Panou recenzie</translation>
     </message>
     <message>
         <source>Reviewers</source>
         <translation>Comentatori</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -1495,11 +1499,27 @@
     </message>
     <message>
         <source>Show Author</source>
-        <translation>Arată autorul</translation>
+        <translation type="obsolete">Arată autorul</translation>
+    </message>
+    <message>
+        <source>Show Comments</source>
+        <translation>Arată comentarii</translation>
     </message>
     <message>
         <source>Show Date</source>
         <translation>Arată data</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation>Arată modificare format</translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation>Arată introdu și șterge</translation>
+    </message>
+    <message>
+        <source>Show Reviewers</source>
+        <translation>Arată comentatorii</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -1596,6 +1616,10 @@
         <translation>Exportă ca PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
+    </message>
+    <message>
         <source>Fast Calculation</source>
         <translation>Calculare rapidă</translation>
     </message>
@@ -1657,7 +1681,7 @@
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -2312,7 +2336,7 @@ Properties</source>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Bară unelte control</translation>
     </message>
     <message>
         <source>Description</source>
@@ -2827,7 +2851,7 @@ Pornit/Oprit</translation>
     </message>
     <message>
         <source>Shape Styles</source>
-        <translation>Stil formă</translation>
+        <translation>Stiluri formă</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -2950,6 +2974,10 @@ text</translation>
     <message>
         <source>Enter Activation Code</source>
         <translation>Introduceți codul de activare</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>Exportă ca OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -3705,6 +3733,10 @@ formatare</translation>
     <message>
         <source>Date and Time</source>
         <translation>Data și ora</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation>Câmp document</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -5300,7 +5332,7 @@ Pornit/Oprit</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>Modifică opțiunile de urmărire...</translation>
+        <translation type="obsolete">Modifică opțiunile de urmărire...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -5396,11 +5428,23 @@ nou</translation>
     </message>
     <message>
         <source>ReviewPane</source>
-        <translation>Panou recenzie</translation>
+        <translation type="obsolete">Panou recenzie</translation>
     </message>
     <message>
         <source>Reviewers</source>
         <translation>Comentatori</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation>Panou revizuire</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation>Panou revizuire orizontal</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation>Panou revizuire vertical</translation>
     </message>
     <message>
         <source>Show</source>
@@ -5415,8 +5459,20 @@ nou</translation>
         <translation>Arată autorul</translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation>Arată comentarii</translation>
+    </message>
+    <message>
         <source>Show Date</source>
         <translation>Arată data</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation>Arată modificare format</translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation>Arată introdu și șterge</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -5441,6 +5497,10 @@ Changes</source>
 modificările</translation>
     </message>
     <message>
+        <source>Track Changes Options...</source>
+        <translation>Opțiuni urmărire modificări...</translation>
+    </message>
+    <message>
         <source>Tracking</source>
         <translation>Urmărire</translation>
     </message>
@@ -5456,11 +5516,11 @@ de cuvinte</translation>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation>orizPanou recenzie</translation>
+        <translation type="obsolete">orizPanou recenzie</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation>vertPanou recenzie</translation>
+        <translation type="obsolete">vertPanou recenzie</translation>
     </message>
 </context>
 <context>
@@ -6345,6 +6405,10 @@ document</translation>
         <translation>Vizualizări document</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
+    </message>
+    <message>
         <source>Full 
 Screen</source>
         <translation>Ecran 
@@ -6404,7 +6468,7 @@ tipărire</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -7415,6 +7479,10 @@ Cuvânt stilizat</translation>
         <translation>Exportă ca PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
+    </message>
+    <message>
         <source>File Backup</source>
         <translation>Fișier backup</translation>
     </message>
@@ -7456,7 +7524,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -8150,8 +8218,16 @@ linie diagonală în celulă</translation>
         <translation>Exportă ca imagine</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation>Exportă ca OFD</translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exportă ca PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -8174,8 +8250,12 @@ linie diagonală în celulă</translation>
         <translation>Indentare prima linie</translation>
     </message>
     <message>
+        <source>Fixed Text</source>
+        <translation>Text fix</translation>
+    </message>
+    <message>
         <source>FixedText</source>
-        <translation>Găsește textul</translation>
+        <translation type="obsolete">Găsește textul</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
@@ -8187,7 +8267,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>FollowText</source>
-        <translation>Urmează textul</translation>
+        <translation type="obsolete">Urmează textul</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -8381,8 +8461,12 @@ formatare</translation>
         <translation>În linie cu textul</translation>
     </message>
     <message>
+        <source>In line with text</source>
+        <translation>în linie cu textul</translation>
+    </message>
+    <message>
         <source>InlineWrapText</source>
-        <translation>Încadrare text în linie</translation>
+        <translation type="obsolete">Încadrare text în linie</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -8489,6 +8573,10 @@ formatare</translation>
         <translation>Bară de unelte combinare poștă</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>Backup manual</translation>
     </message>
@@ -8563,6 +8651,10 @@ formatare</translation>
     <message>
         <source>Move Here</source>
         <translation>Mută aici</translation>
+    </message>
+    <message>
+        <source>Move With Text</source>
+        <translation>Mută cu textul</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -8706,7 +8798,7 @@ formatare</translation>
     </message>
     <message>
         <source>Picture Format Style</source>
-        <translation>Stil format poză</translation>
+        <translation type="obsolete">Stil format poză</translation>
     </message>
     <message>
         <source>Place on Left</source>
@@ -8734,7 +8826,7 @@ formatare</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -8813,8 +8905,24 @@ formatare</translation>
         <translation>Restricționează editarea</translation>
     </message>
     <message>
+        <source>Restricted Access</source>
+        <translation>Acces restricționat</translation>
+    </message>
+    <message>
         <source>ReviewPane</source>
-        <translation>Panou recenzie</translation>
+        <translation type="obsolete">Panou recenzie</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation>Panou revizuire</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation>Panou revizuire orizontal</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation>Panou revizuire vertical</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -8934,11 +9042,15 @@ formatare</translation>
     </message>
     <message>
         <source>Shape Format Style</source>
-        <translation>Stil format formă</translation>
+        <translation type="obsolete">Stil format formă</translation>
     </message>
     <message>
         <source>Shape Outline</source>
         <translation>Contur formă</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation>Stil formă</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -9133,6 +9245,10 @@ formatare</translation>
         <translation>Unitate</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation>Acces nerestricționat</translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Opinie utilizator</translation>
     </message>
@@ -9258,7 +9374,7 @@ formatare</translation>
     </message>
     <message>
         <source>horzReviewPane</source>
-        <translation>orizPanou recenzie</translation>
+        <translation type="obsolete">orizPanou recenzie</translation>
     </message>
     <message>
         <source>numbering_0</source>
@@ -9266,7 +9382,7 @@ formatare</translation>
     </message>
     <message>
         <source>vertReviewPane</source>
-        <translation>vertPanou recenzie</translation>
+        <translation type="obsolete">vertPanou recenzie</translation>
     </message>
 </context>
 <context>
@@ -9512,7 +9628,7 @@ linie diagonală în celulă</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Bară unelte control</translation>
     </message>
     <message>
         <source>Description</source>
@@ -10084,6 +10200,10 @@ linie diagonală în celulă</translation>
     <message>
         <source>Enter Activation Code</source>
         <translation>Introduceți codul de activare</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>Exportă ca OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -10803,6 +10923,10 @@ antet și subsol</translation>
     <message>
         <source>Date and Time</source>
         <translation>Data și ora</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation>Câmp document</translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -12315,7 +12439,7 @@ text</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>Modifică opțiunile de urmărire...</translation>
+        <translation type="obsolete">Modifică opțiunile de urmărire...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -12443,8 +12567,20 @@ text</translation>
         <translation>Arată autorul</translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation>Arată comentarii</translation>
+    </message>
+    <message>
         <source>Show Date</source>
         <translation>Arată data</translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation>Arată modificare format</translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation>Arată introdu și șterge</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -12465,6 +12601,10 @@ text</translation>
     <message>
         <source>Track Changes</source>
         <translation>Urmărește modificările</translation>
+    </message>
+    <message>
+        <source>Track Changes Options...</source>
+        <translation>Opțiuni urmărire modificări...</translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -13231,6 +13371,10 @@ Alte ferestre</translation>
         <translation>Vizualizări document</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
+    </message>
+    <message>
         <source>Full Screen</source>
         <translation>Ecran complet</translation>
     </message>
@@ -13284,7 +13428,7 @@ Alte ferestre</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -14266,6 +14410,10 @@ umbră</translation>
         <translation>Exportă ca PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
+    </message>
+    <message>
         <source>File Backup</source>
         <translation>Fișier backup</translation>
     </message>
@@ -14303,7 +14451,7 @@ umbră</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -14420,6 +14568,10 @@ umbră</translation>
         <translation>Exportă ca PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>Roaming fișier</translation>
     </message>
@@ -14433,7 +14585,7 @@ umbră</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -14507,7 +14659,7 @@ umbră</translation>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Bară unelte control</translation>
     </message>
     <message>
         <source>Drawing</source>
@@ -14791,6 +14943,10 @@ umbră</translation>
     <message>
         <source>Document Collaboration</source>
         <translation>Colaborare document</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation>Câmp document</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -15510,10 +15666,20 @@ Directly</source>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation>Comutare UI profesional</translation>
+        <translation type="obsolete">Comutare UI profesional</translation>
     </message>
     <message>
         <source>Switch UI</source>
+        <translation type="obsolete">Comutare UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation>Comutare UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation>Comutare UI</translation>
     </message>
     <message>
@@ -15726,11 +15892,20 @@ Directly</source>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Professional Switch UI</source>
-        <translation>Comutare UI profesională</translation>
+        <translation type="obsolete">Comutare UI profesională</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <translation>Comutare UI</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
+        <translation>Comutare UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation>Comutare UI</translation>
     </message>
     <message>

@@ -2386,7 +2386,7 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
     <message>
         <source>Door leaf</source>
         <comment>DRAWINGSTR_DOOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ușă întredeschisă</translation>
     </message>
     <message>
         <source>Down Ribbon Sharp</source>
@@ -3105,6 +3105,11 @@ Rețineți că dacă veți comprima poza se poate reduce calitatea pozei. Doriț
         <source>This file should be opened as read-only unless changes to it need to be saved. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
         <translation>Acest fișier ar trebui deschis ca doar-citire cu excepția cazului încare modificările aduse trebuie salvate. Se deschide doar pentru citire?</translation>
+    </message>
+    <message>
+        <source>Chinese Office Software Document Format 2.0</source>
+        <comment>_WpioDesc_UOF2</comment>
+        <translation>Format document Chinese Office Software 2.0</translation>
     </message>
 </context>
 <context>
@@ -4019,6 +4024,246 @@ Puteți apăsa butonul pentru recuperarea fișierelor la care lucrați.</transla
         <comment>_kso_FileFormatNotSupport</comment>
         <translation>Formatul fișierului pe care l-ați selectat nu este format fișier WPS, aceasta poate să nu fie conform organizației dumneavoastră, veți confirma salvarea cu formatul fișierului?</translation>
     </message>
+    <message>
+        <source>Are you sure you want to remove permission?</source>
+        <comment>_kso_kirm_Remove_Permission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete this stored credential? You will not be able to use this credential unless you re-enable it.</source>
+        <comment>_kso_kirm_Remove_Credential</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy setting are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_krim_Error_SelectAuthor</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E-mail addresses must be in the form of &apos;someone@example.com&apos;. The following e-mail address is not valid or could not be resolved: &apos;%1&apos;. Verify that this is a valid e-mail address.</source>
+        <comment>_kso_krim_Error_EmailFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot change your access level. If you want to change your access level, request that another user with Full Control change your access level.</source>
+        <comment>_kso_krim_Error_ChangeOwnPermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Everyone</source>
+        <comment>_kso_krim_User_Everyone</comment>
+        <translation>Oricine</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <comment>_kso_krim_Permission_Read</comment>
+        <translation>Citire</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <comment>_kso_krim_Permission_Change</comment>
+        <translation>Modificare</translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <comment>_kso_krim_Permission_FullControl</comment>
+        <translation>Control total</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>_kso_krim_Permission_Custom</comment>
+        <translation>Personalizat</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <comment>_kso_krim_TableHeader_Name</comment>
+        <translation>Nume</translation>
+    </message>
+    <message>
+        <source>Access Level</source>
+        <comment>_kso_krim_TableHeader_AccessLevel</comment>
+        <translation>Nivel acces</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove the user?</source>
+        <comment>_kso_krim_Question_RemoveUser</comment>
+        <translation>Sigur doriți să eliminați utilizatorul?</translation>
+    </message>
+    <message>
+        <source>This will set the default permission policy for all documents, workbooks, forms and presentations with restricted permission.</source>
+        <comment>_kso_krim_Permission_SetDefault</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The address to request additional permissions is invalid. Enter a valid e-mail or Web address. Example: someone@example.com.</source>
+        <comment>_kso_krim_Error_EmailInvalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The expiration date is not valid. Enter a date between tomorrow and 2100/12/31.</source>
+        <comment>_kso_krim_Error_DateInvalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <comment>_kso_krim_Permission_ChangeUser</comment>
+        <translation>Schimbă utilizator...</translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <comment>_kso_krim_Permission_RequestPermission</comment>
+        <translation>Solicită permisiuni suplimentare... </translation>
+    </message>
+    <message>
+        <source>Unrestricted</source>
+        <comment>_kso_krim_Permission_NoExpireDate</comment>
+        <translation>Nerestricționat</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <comment>_kso_krim_Permission_Yes</comment>
+        <translation>Da</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>_kso_krim_Permission_No</comment>
+        <translation>Nu</translation>
+    </message>
+    <message>
+        <source>Select Names</source>
+        <comment>_kso_krim_Permission_SelectNames</comment>
+        <translation>Selectează denumirile</translation>
+    </message>
+    <message>
+        <source>&amp;Change User</source>
+        <comment>_kso_irmio_Button_ChangeUser</comment>
+        <translation>&amp;Schimbă utilizator</translation>
+    </message>
+    <message>
+        <source>R&amp;esquest permissions</source>
+        <comment>_kso_irmio_Button_RequestPermission</comment>
+        <translation>S&amp;olicită permisiuni</translation>
+    </message>
+    <message>
+        <source>&amp;Yes</source>
+        <comment>_kso_irmio_Button_Yes</comment>
+        <translation>&amp;Da</translation>
+    </message>
+    <message>
+        <source>&amp;No</source>
+        <comment>_kso_irmio_Button_No</comment>
+        <translation>&amp;Nu</translation>
+    </message>
+    <message>
+        <source>Unexpected error occurred. Please try again later or contact your system administrator.</source>
+        <comment>_kso_irmio_Error_Unexpected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within th Control Panel.</source>
+        <comment>_kso_irmio_Error_Configuration</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot use test manifests against production servers.</source>
+        <comment>_kso_irmio_Error_Production</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Information Rights Management cannot operate in the presence of a debugger. Please close your debugger and try again.</source>
+        <comment>_kso_irmio_Error_Debugging</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Connection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The service at %1 temporarily unavaiable.Ensure that you have connectivity to this server. This error could be caused because you are working offline,your proxy settings are preventing your connection,or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Location</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot user feature without credentials</source>
+        <comment>_kso_irmio_Error_Credentials</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document is currently restricted. You do not have credentials that allow you to open this document. You can choose 
+~try changing another user to open the document;
+~request updated permission from %1.</source>
+        <comment>_kso_irmio_Error_No_Permission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You do not have credentials that allow you to open this document.
+Do you want to open it using a different set of credentials?</source>
+        <comment>_kso_irmio_Error_NoPermissionEmail</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying your logon information for opening content with restricted permission</source>
+        <comment>_kso_irmio_Verifying</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Information Rights Management(IRM) in Microsoft Office helps prevent sensitive documents and e-mail messages form being forwarded, edited or copied by unauthorized people.
+
+To use IRM you need to install the Windows Rights Management client. If you have an existing version of the Windows Rights Management client installed you will need to uninstall it first and then download the lastest version of the Windows Rights Management client. Do you want to download the lastest version now? </source>
+        <comment>_kso_irmio_No_Install_IRM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
+        <comment>_kso_krim_SaveNeedVerifyCredential</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <comment>_kso_kirm_Permission_RestrictedAccess</comment>
+        <translation>Acces restricționat</translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted. Only specified users can access this content. </source>
+        <comment>_kso_krim_Permission_PermissionHint</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Permission...</source>
+        <comment>_kso_krim_Permission_ChangePermission</comment>
+        <translation>Schimbă permisiunile...</translation>
+    </message>
+    <message>
+        <source>View Permission...</source>
+        <comment>_kso_krim_Permission_ViewPermission</comment>
+        <translation>Vizualizare permisiuni...</translation>
+    </message>
+    <message>
+        <source>Permission will expire within %1 days. </source>
+        <comment>_kso_krim_Permission_ExpirationHint</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <comment>_kso_krim_UnrestrictedAccess</comment>
+        <translation>Acces nerestricționat</translation>
+    </message>
+    <message>
+        <source>Restricted Access(Read)</source>
+        <comment>_kso_krim_RestrictedAccess_Read</comment>
+        <translation>Acces restricționat(Citire)</translation>
+    </message>
+    <message>
+        <source>Restricted Access(Change)</source>
+        <comment>_kso_krim_RestrictedAccess_Change</comment>
+        <translation>Acces restricționat(Modificare)</translation>
+    </message>
+    <message>
+        <source>Restricted Access(Full Control)</source>
+        <comment>_kso_krim_RestrictedAccess_FullControl</comment>
+        <translation>Acces restricționat(Control total)</translation>
+    </message>
 </context>
 <context>
     <name>kso_print</name>
@@ -4067,6 +4312,11 @@ Dacă problema încă persistă, puteți imprima o pagină de test executând cl
         <source>All Files(*.*)|*.*|Printer Files(*.prn)|*.prn</source>
         <comment>_kso_Print_OutputFileDialog_Filter</comment>
         <translation>Toate fișierele(*.*)|*.*|Fișiere imprimantă(*.prn)|*.prn</translation>
+    </message>
+    <message>
+        <source>Unable to find the cups library, make sure you have installed!</source>
+        <comment>_ksoErr_Print_NoCupsLibrary</comment>
+        <translation>Nu se poate găsi biblioteca cups, asigurați-vă că este instalată!</translation>
     </message>
 </context>
 <context>
@@ -5238,7 +5488,7 @@ Dacă ați modificat numele unui câmp tabel pivot, trebuie să introduceți un 
     <message>
         <source>You have reached the max retry step, program will terminate.</source>
         <comment>kso_sMaxStep</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ați atins maximul de pași pentru reâncercare, programul se va închide.</translation>
     </message>
     <message>
         <source>MB</source>

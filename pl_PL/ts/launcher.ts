@@ -7,8 +7,8 @@
     <message>
         <source>KLauncherWidget</source>
         <translation variants="yes">
-            <lengthvariant>KLauncherWidget</lengthvariant>
             <lengthvariant>KUruchamianieWidget</lengthvariant>
+            <lengthvariant>KLauncherWidget</lengthvariant>
         </translation>
     </message>
     <message>

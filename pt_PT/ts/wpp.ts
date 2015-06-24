@@ -119,7 +119,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add &amp;Design</source>
+        <source>Add Design</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3298,7 +3298,7 @@ If necessary, click Cancel</source>
     <name>KxTpSlideTransition</name>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished">Ampliar</translation>
+        <translation type="obsolete">Ampliar</translation>
     </message>
     <message>
         <source>Apply to selected slides:</source>
@@ -3354,6 +3354,10 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Loop until next sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

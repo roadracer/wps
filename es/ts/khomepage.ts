@@ -48,5 +48,10 @@
         <comment>title</comment>
         <translation>Plantillas en línea</translation>
     </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

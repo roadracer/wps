@@ -6,238 +6,238 @@
     <name>BordersAndShadingWidget</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Ні</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Білий</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-5%</translation>
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-12.5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-37.5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-45%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Сірий-95%</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Чорний</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-блакитний</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-синій</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Індіґо</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Синій</translation>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blue-Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Світло-синій</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Лаванда</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Синьо-зелений</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>Водяний</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Небесна синь</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Світло-бірюзовий</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Рожевий</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Троянда</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Морська зелень</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Бірюзовий</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Світло-зелений</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Світло-жовтий</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation type="unfinished"></translation>
+        <translation>Жовто-коричнеий</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Пурпурний</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-зелений</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Яскраво-зелений</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Жовтий</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Золотий</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Світло-помаранчевий</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Червоний</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Сливовий</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Зелений</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Салатовий</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-жовтий</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Маслиновий</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Помаранчевий</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Коричневий</translation>
     </message>
     <message>
         <source>Dark Red</source>
+        <translation>Темно-червоний</translation>
+    </message>
+    <message>
+        <source>Blue-Gray</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -245,7 +245,7 @@
     <name>ChangeCaseDlg</name>
     <message>
         <source>Change Case</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміна регістру</translation>
     </message>
     <message>
         <source>&amp;Sentence case</source>
@@ -253,23 +253,23 @@
     </message>
     <message>
         <source>Half-&amp;width</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;широчина</translation>
     </message>
     <message>
         <source>&amp;Lowercase</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Нижній регістр</translation>
     </message>
     <message>
         <source>&amp;Full-width</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Повна-широчина</translation>
     </message>
     <message>
         <source>&amp;Uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Верхній регістр</translation>
     </message>
     <message>
         <source>&amp;Katakana</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Катакана</translation>
     </message>
     <message>
         <source>To&amp;ggle case</source>
@@ -288,7 +288,7 @@
     <name>ColumnsManagerCtrl</name>
     <message>
         <source>%1:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1:</translation>
     </message>
     <message>
         <source>pt, 2, %1,</source>
@@ -353,7 +353,7 @@
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Позем</translation>
     </message>
     <message>
         <source>&amp;Alignment</source>
@@ -592,7 +592,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередній перегляд</translation>
     </message>
     <message>
         <source>&amp;Apply to:</source>
@@ -639,7 +639,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередній перегляд</translation>
     </message>
     <message>
         <source>Advanced(&amp;M)</source>
@@ -710,7 +710,7 @@
     <name>FootAndEndnoteSpinBox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1</translation>
     </message>
 </context>
 <context>
@@ -772,7 +772,7 @@
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Самостійно</translation>
     </message>
 </context>
 <context>
@@ -797,11 +797,11 @@
     <name>KxBookmarksDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скасувати</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
 </context>
 <context>
@@ -847,7 +847,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
 </context>
 <context>
@@ -1327,7 +1327,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скасувати</translation>
     </message>
 </context>
 <context>
@@ -1371,7 +1371,7 @@
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Колір</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
@@ -1379,7 +1379,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередній перегляд</translation>
     </message>
     <message>
         <source>   Click on diagram below or
@@ -1756,7 +1756,7 @@ use buttons to apply borders</source>
     <name>KxDlgCheckSpelling</name>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перевірка правопису</translation>
     </message>
     <message>
         <source>&amp;Paragraph:</source>
@@ -1894,11 +1894,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Черенки</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Розмір</translation>
     </message>
     <message>
         <source>4</source>
@@ -2271,7 +2271,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Змінити...</translation>
     </message>
     <message>
         <source>Set Default(&amp;C)</source>
@@ -2279,7 +2279,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Новий...</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -2295,7 +2295,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
 </context>
 <context>
@@ -2318,7 +2318,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередній перегляд</translation>
     </message>
     <message>
         <source>Bullet position</source>
@@ -2385,7 +2385,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередній перегляд</translation>
     </message>
     <message>
         <source>N&amp;umber position</source>
@@ -2457,6 +2457,85 @@ use buttons to apply borders</source>
     <message>
         <source>Delete entire &amp;column</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgDocumentFields</name>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocumentField Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Go To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Marks Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocumentField Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Hidden</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read &amp;Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertion Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then counted in. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">Добре</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Скасувати</translation>
     </message>
 </context>
 <context>
@@ -2562,7 +2641,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Черенки</translation>
     </message>
     <message>
         <source>&amp;Lines to drop:</source>
@@ -2680,7 +2759,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
 </context>
 <context>
@@ -2941,6 +3020,10 @@ If unnecessary, please click Cancel.</source>
         <source>Document &amp;property:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Add the &amp;path to the file name</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgFindReplace</name>
@@ -3183,7 +3266,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
@@ -3237,7 +3320,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Розмір</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
@@ -3249,7 +3332,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Черенки</translation>
     </message>
     <message>
         <source>Font sty&amp;le:</source>
@@ -3329,7 +3412,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередній перегляд</translation>
     </message>
     <message>
         <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
@@ -3503,7 +3586,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Стилі</translation>
     </message>
     <message>
         <source>By restricting formatting to the styles you select,you prevent the ability to modify styles and the ability to apply direct formatting to the document.Select the styles you want to allow to be used in this document.</source>
@@ -3704,7 +3787,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередній перегляд</translation>
     </message>
 </context>
 <context>
@@ -3797,7 +3880,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скасувати</translation>
     </message>
 </context>
 <context>
@@ -4121,11 +4204,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Добре</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скасувати</translation>
     </message>
     <message>
         <source>Comparison settings</source>
@@ -4224,7 +4307,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Змінити...</translation>
     </message>
     <message>
         <source>Merge records</source>
@@ -4361,7 +4444,7 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgModifyStyle</name>
     <message>
         <source>Modify Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Редагувати стиль</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -5081,7 +5164,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Колір</translation>
     </message>
     <message>
         <source>&amp;Deletions:</source>
@@ -5185,7 +5268,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Самостійно</translation>
     </message>
     <message>
         <source>Preserve</source>
@@ -5269,7 +5352,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Змінити...</translation>
     </message>
     <message>
         <source>User Information</source>
@@ -5409,7 +5492,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перевірка правопису</translation>
     </message>
     <message>
         <source>Check s&amp;pelling as you type</source>
@@ -5589,7 +5672,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Проглянути</translation>
     </message>
     <message>
         <source>Password protect</source>
@@ -5605,6 +5688,10 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>File sharing options for this document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D&amp;ocument fields</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5652,7 +5739,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередній перегляд</translation>
     </message>
     <message>
         <source>Number &amp;format:</source>
@@ -5775,7 +5862,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Самостійно</translation>
     </message>
     <message>
         <source>All</source>
@@ -5823,7 +5910,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередній перегляд</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
@@ -6238,7 +6325,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередній перегляд</translation>
     </message>
     <message>
         <source>&amp;Outline level:</source>
@@ -6366,7 +6453,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Самостійно</translation>
     </message>
     <message>
         <source>&amp;Tabs...</source>
@@ -6413,7 +6500,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Черенки</translation>
     </message>
     <message>
         <source>&amp;Offset:</source>
@@ -6425,7 +6512,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Розмір</translation>
     </message>
     <message>
         <source>Preview </source>
@@ -6660,7 +6747,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
 </context>
 <context>
@@ -6710,7 +6797,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Позем</translation>
     </message>
     <message>
         <source>Left</source>
@@ -7405,7 +7492,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скасувати</translation>
     </message>
 </context>
 <context>
@@ -7471,6 +7558,29 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDocumentFieldsDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Скасувати</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Закрити</translation>
+    </message>
+    <message>
+        <source>The document field with this name has already existed. Do you want to cover it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field is illegal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field has already existed, please rename it!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7628,7 +7738,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
@@ -7662,19 +7772,11 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hyperlink</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open and activate the file KingSoft.wps under the C drive.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7829,10 +7931,6 @@ Example: +4 will move forward four items:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>IncludePicture</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7858,6 +7956,66 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Formula:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>root directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D:\\</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D drive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open and activate the file KingSoft.wps under the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IncludeText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text to from a file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert the file name of the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forma&amp;t:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document &amp;property:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8347,7 +8505,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -8596,7 +8754,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
 </context>
 <context>
@@ -8718,7 +8876,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкрити</translation>
     </message>
     <message>
         <source>WPS Writer found no differences between the two documents.</source>
@@ -9237,7 +9395,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Самостійно</translation>
     </message>
     <message>
         <source>Document path</source>
@@ -9300,7 +9458,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -9343,7 +9501,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1</translation>
     </message>
     <message>
         <source>①</source>
@@ -9560,11 +9718,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxPrintDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скасувати</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
     <message>
         <source>No scaling</source>
@@ -9647,7 +9805,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вставити номер сторінки</translation>
     </message>
     <message>
         <source>Modify page number</source>
@@ -9662,7 +9820,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вставити номер сторінки</translation>
     </message>
 </context>
 <context>
@@ -9880,6 +10038,10 @@ This change will affect all new documents based on the %1 template.</source>
         <source>Stop Protection...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpDocProtectionWidget</name>
@@ -9967,6 +10129,10 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Current user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict permission...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10145,14 +10311,14 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
 </context>
 <context>
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Самостійно</translation>
     </message>
 </context>
 <context>
@@ -10282,7 +10448,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsBrowserModel</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скасувати</translation>
     </message>
 </context>
 <context>
@@ -10524,7 +10690,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Позем</translation>
     </message>
     <message>
         <source>Diagonal</source>
@@ -10968,7 +11134,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Самостійно</translation>
     </message>
 </context>
 <context>
@@ -10997,7 +11163,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вставити номер сторінки</translation>
     </message>
 </context>
 <context>
@@ -11011,7 +11177,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsHeaderLineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Самостійно</translation>
     </message>
 </context>
 <context>
@@ -11025,11 +11191,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsInsertKeyCommand</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкрити</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
 </context>
 <context>
@@ -11386,6 +11552,73 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxWpsPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>In Line With Text</source>
@@ -11420,7 +11653,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsPrintSetupDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрити</translation>
     </message>
 </context>
 <context>
@@ -11460,31 +11693,27 @@ Select parts of the document and choose users who are allowed to freely edit the
 <context>
     <name>KxWpsReviewPane</name>
     <message>
-        <source>REVIEWPANE</source>
+        <source>Reviewing Pane</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> Part</source>
+        <source>Insertions: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert: </source>
+        <source>Deletions: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete: </source>
+        <source>Formatting: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Format: </source>
+        <source>Comments: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Comment: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Revision: </source>
+        <source>Revision: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11547,11 +11776,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Добре</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скасувати</translation>
     </message>
     <message>
         <source>Delete current page&apos;s page number</source>
@@ -11574,265 +11803,265 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsSmartPageNumInsertPane</name>
     <message>
         <source>Page number &amp;format</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Page number &amp;position</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Положення номерів сторінок</translation>
     </message>
     <message>
         <source>Appl&amp;y to</source>
-        <translation type="unfinished"></translation>
+        <translation>Примінит&amp;и до</translation>
     </message>
     <message>
         <source>Page number &amp;restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Пронументувати сторінки знову</translation>
     </message>
     <message>
         <source>Page Number &amp;Start</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Пронумерувати сторінки</translation>
     </message>
     <message>
         <source>Header: </source>
-        <translation type="unfinished"></translation>
+        <translation>Верхній: </translation>
     </message>
     <message>
         <source>Footer: </source>
-        <translation type="unfinished"></translation>
+        <translation>Нижній: </translation>
     </message>
     <message>
         <source>Align left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ліворуч</translation>
     </message>
     <message>
         <source>Align center</source>
-        <translation type="unfinished"></translation>
+        <translation>По центру</translation>
     </message>
     <message>
         <source>Align right</source>
-        <translation type="unfinished"></translation>
+        <translation>Праворуч</translation>
     </message>
     <message>
         <source>Align inside</source>
-        <translation type="unfinished"></translation>
+        <translation>В середині</translation>
     </message>
     <message>
         <source>Align outside</source>
-        <translation type="unfinished"></translation>
+        <translation>На зовні</translation>
     </message>
     <message>
         <source>Current page</source>
-        <translation type="unfinished"></translation>
+        <translation>Поточна сторінка</translation>
     </message>
     <message>
         <source>Below pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Сторінки нижче</translation>
     </message>
     <message>
         <source>All pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Всі сторінки</translation>
     </message>
     <message>
         <source>Current section pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Поточні сторінки розділу</translation>
     </message>
     <message>
         <source>Page X of y</source>
-        <translation type="unfinished"></translation>
+        <translation>Сторінка Х з У</translation>
     </message>
     <message>
         <source>Page X</source>
-        <translation type="unfinished"></translation>
+        <translation>Сторінка Х</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Page X of Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Сторінка Х з У</translation>
     </message>
     <message>
         <source>Insert page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставити номер сторінки</translation>
     </message>
     <message>
         <source>0;57;1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Page 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Сторінка 1</translation>
     </message>
     <message>
         <source>Page 1 of x</source>
-        <translation type="unfinished"></translation>
+        <translation>Сторінка 1 з х</translation>
     </message>
     <message>
         <source>Page 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Сторінка 2</translation>
     </message>
     <message>
         <source>Page 2 of X</source>
-        <translation type="unfinished"></translation>
+        <translation>Сторінка 2 з Х</translation>
     </message>
     <message>
         <source>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KxWpsSpecialPopupWidget</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Добре</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSpellCheckCommand</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusColumnInfoCommand</name>
     <message>
         <source>Column: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Стовпець: %1</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusPageAreaInfoCommand</name>
     <message>
         <source>Page: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Сторінка: %1</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusPageNumberInfoCommand</name>
     <message>
         <source>Page Num: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Сторінка №: %1</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusRowInfoCommand</name>
     <message>
         <source>Row: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Рядок: %1</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusSectionInfoCommand</name>
     <message>
         <source>Section: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Розділ: %1</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusTrackCommand</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStatusWordCountInfoCommand</name>
     <message>
         <source>Words: </source>
-        <translation type="unfinished"></translation>
+        <translation>К-сть слів: </translation>
     </message>
 </context>
 <context>
     <name>KxWpsStyleGalleryModel</name>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Стилі</translation>
     </message>
 </context>
 <context>
     <name>KxWpsStyleGalleryModelItem</name>
     <message>
         <source>Modify Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Редагувати стиль</translation>
     </message>
     <message>
         <source>Delete Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Стерти стиль</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Самостійно</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTableFillColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Без заливки</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTemplateAndAddinDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Word Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Зразоки Word</translation>
     </message>
     <message>
         <source>All Word Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Всі документи Word</translation>
     </message>
     <message>
         <source>Word Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Документи Word</translation>
     </message>
     <message>
         <source>XML Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Файли XML</translation>
     </message>
     <message>
         <source>All Web Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Всі Web-сторінки</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Всі файли</translation>
     </message>
     <message>
         <source>Attach Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Приєднати зразок</translation>
     </message>
     <message>
         <source>Add Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати зразок</translation>
     </message>
     <message>
         <source>Word Templates(*.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Зразки Word(*.wpt);;Налаштування Word(*.wll);;Всі файли(*.*)</translation>
     </message>
     <message>
         <source>Common Template Normal.WPT has opened to load.</source>
@@ -11854,34 +12083,34 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsTextOrientationModel</name>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Позем</translation>
     </message>
     <message>
         <source>Vertical from Right to Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Поземно справа на ліво</translation>
     </message>
     <message>
         <source>Vertical from Left to Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Поземно з ліва на право</translation>
     </message>
     <message>
         <source>Rotate All Text 90°</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути весь текст на 90°</translation>
     </message>
     <message>
         <source>Rotate All Text 270°</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути весь текст на 270°</translation>
     </message>
     <message>
         <source>Rotate Asian Character 270°</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернути східно-азійські символи на 270°</translation>
     </message>
 </context>
 <context>
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Самостійно</translation>
     </message>
 </context>
 <context>
@@ -11899,25 +12128,33 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Apply to This Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Примінити до цього розділу</translation>
     </message>
     <message>
         <source>Edit Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Редагувати водяний знак</translation>
     </message>
     <message>
         <source>Delete Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити водяний знак</translation>
     </message>
 </context>
 <context>
     <name>KxWpsWrapTextWidget</name>
     <message>
         <source>close</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">закрити</translation>
     </message>
     <message>
         <source>title</source>
+        <translation type="obsolete">заголовок</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Закрити</translation>
+    </message>
+    <message>
+        <source>Layout options</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11939,7 +12176,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>MultSpinbox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -11958,15 +12195,15 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>WPS Writer 2007-2010 File(*.wpsx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл WPS Writer 2007-2010(*.wpsx)</translation>
     </message>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Зразок Kingsoft Writer 2007/2010(*.wptx)</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірка правопису</translation>
     </message>
     <message>
         <source>A macro is currently recording. Click to stop recording.</source>
@@ -11978,7 +12215,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Track</source>
-        <translation type="unfinished"></translation>
+        <translation>Враховувати</translation>
     </message>
 </context>
 <context>
@@ -11989,22 +12226,22 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Новий...</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Змінити...</translation>
     </message>
 </context>
 <context>
     <name>StyleFormatPanel</name>
     <message>
         <source>&amp;Modify...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Змінити...</translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Стерти...</translation>
     </message>
 </context>
 <context>
@@ -12025,7 +12262,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>kdlgExportToPDF</name>
     <message>
         <source>Export PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти як PDF</translation>
     </message>
     <message>
         <source>General</source>
@@ -12033,11 +12270,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти &amp;в</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Проглянути</translation>
     </message>
     <message>
         <source>Export options</source>
@@ -12148,7 +12385,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>kdlgExportToPDFProgress</name>
     <message>
         <source>Export to PDF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти як PDF</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
@@ -12156,7 +12393,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -12170,27 +12407,27 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>waterMarkDlg</name>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Водяний знак</translation>
     </message>
     <message>
         <source>Watermark setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування водяного знаку</translation>
     </message>
     <message>
         <source>P&amp;icture watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>З&amp;ображення водяного знаку</translation>
     </message>
     <message>
         <source>Select &amp;Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибрати &amp;Зображення</translation>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Позем</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Дозем</translation>
     </message>
     <message>
         <source>F&amp;ormat:</source>
@@ -12198,35 +12435,35 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Zoom:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Мірило</translation>
     </message>
     <message>
         <source>&amp;Washout</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Розмитий</translation>
     </message>
     <message>
         <source>Te&amp;xt watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Те&amp;кст водяного знаку</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Conten&amp;t:</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміс&amp;т</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Черенки</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Розмір</translation>
     </message>
     <message>
         <source>&amp;Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Колір</translation>
     </message>
     <message>
         <source>T&amp;ransparency:</source>
@@ -12234,7 +12471,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Попередній перегляд</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>

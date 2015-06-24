@@ -1725,12 +1725,12 @@ Merged Data</source>
         <translation>選択された変更箇所を元に戻す</translation>
     </message>
     <message>
-        <source>ReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reviewers</source>
         <translation>校閲者</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -1741,11 +1741,23 @@ Merged Data</source>
         <translation>行内の方式ですべての変更履歴を表示する</translation>
     </message>
     <message>
-        <source>Show Author</source>
+        <source>Show Comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Reviewers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1883,6 +1895,10 @@ Merged Data</source>
         <translation>PDFファイルとして出力(F)</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fast Calculation</source>
         <translation>オート計算</translation>
     </message>
@@ -1961,10 +1977,6 @@ Merged Data</source>
     <message>
         <source>Print Directly</source>
         <translation type="obsolete">印刷の既定値で直接印刷</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -3500,6 +3512,10 @@ Direction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>PDFファイルとして出力(F)</translation>
     </message>
@@ -4555,6 +4571,10 @@ Painter</source>
     <message>
         <source>Date/Time</source>
         <translation type="obsolete">日時</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -6533,7 +6553,7 @@ Footnote/Endnote</source>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>オプション...</translation>
+        <translation type="obsolete">オプション...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -6669,12 +6689,20 @@ Comment</source>
 制限</translation>
     </message>
     <message>
-        <source>ReviewPane</source>
+        <source>Reviewers</source>
+        <translation>校閲者</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reviewers</source>
-        <translation>校閲者</translation>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -6689,7 +6717,19 @@ Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6726,6 +6766,10 @@ Changes</source>
         <translation type="obsolete">変更履歴の記録</translation>
     </message>
     <message>
+        <source>Track Changes Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tracking</source>
         <translation>変更箇所/コメント</translation>
     </message>
@@ -6742,14 +6786,6 @@ Count</source>
     <message>
         <source>Word Count</source>
         <translation type="obsolete">文字カウント</translation>
-    </message>
-    <message>
-        <source>horzReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>vertReviewPane</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7784,6 +7820,10 @@ Map</source>
         <translation>文書の表示</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full 
 Screen</source>
         <translation type="unfinished">全画面
@@ -7861,10 +7901,6 @@ Layout</source>
     <message>
         <source>Print Layout</source>
         <translation type="obsolete">印刷レイアウト</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -9071,6 +9107,10 @@ Shape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">ファイルの自動バックアップ</translation>
     </message>
@@ -9157,10 +9197,6 @@ Shape</source>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>クラウドファイルを開く</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
@@ -9997,8 +10033,16 @@ Diagonal Line in Cell</source>
         <translation>Weibo画像を出力</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>PDFファイルとして出力(F)</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -10025,7 +10069,7 @@ Diagonal Line in Cell</source>
         <translation>1行目のインデント</translation>
     </message>
     <message>
-        <source>FixedText</source>
+        <source>Fixed Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10034,10 +10078,6 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FollowText</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10251,7 +10291,7 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>InlineWrapText</source>
+        <source>In line with text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10383,6 +10423,10 @@ Painter</source>
         <translation>差し込み印刷 ツールバー</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>バージョンの表示</translation>
     </message>
@@ -10461,6 +10505,10 @@ Painter</source>
     <message>
         <source>Move Here</source>
         <translation>ここに移動</translation>
+    </message>
+    <message>
+        <source>Move With Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New From Other Templates</source>
@@ -10636,10 +10684,6 @@ Painter</source>
         <translation>グラフィックス</translation>
     </message>
     <message>
-        <source>Picture Format Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Place on Left</source>
         <translation>左寄せ</translation>
     </message>
@@ -10662,10 +10706,6 @@ Painter</source>
     <message>
         <source>Properties</source>
         <translation>プロパティ</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -10752,7 +10792,19 @@ Painter</source>
         <translation>編集の制限</translation>
     </message>
     <message>
-        <source>ReviewPane</source>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10880,11 +10932,11 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Format Style</source>
+        <source>Shape Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Outline</source>
+        <source>Shape Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11100,6 +11152,10 @@ Painter</source>
         <translation>単位</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">オンラインアップデート</translation>
     </message>
@@ -11256,10 +11312,6 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>horzReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>login</source>
         <translation type="obsolete">ログイン</translation>
     </message>
@@ -11270,10 +11322,6 @@ Painter</source>
     <message>
         <source>openwebweibo</source>
         <translation type="obsolete">Weiboを開く</translation>
-    </message>
-    <message>
-        <source>vertReviewPane</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>wpsweibolayout</source>
@@ -12189,6 +12237,10 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13158,6 +13210,10 @@ Header and Footer</source>
     <message>
         <source>Date/Time</source>
         <translation type="obsolete">日時</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -14952,7 +15008,7 @@ and Endnote</source>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>オプション...</translation>
+        <translation type="obsolete">オプション...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -15110,7 +15166,19 @@ and Endnote</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15140,6 +15208,10 @@ and Endnote</source>
     <message>
         <source>Track Changes</source>
         <translation>変更履歴の記録</translation>
+    </message>
+    <message>
+        <source>Track Changes Options...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -15978,6 +16050,10 @@ Other Windows</source>
         <translation>文書の表示</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full Screen</source>
         <translation>全画面表示</translation>
     </message>
@@ -16038,10 +16114,6 @@ Other Windows</source>
     <message>
         <source>Print Layout</source>
         <translation>印刷レイアウト</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -17151,6 +17223,10 @@ Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Auto Backup</source>
         <translation type="obsolete">ファイルの自動バックアップ</translation>
     </message>
@@ -17217,10 +17293,6 @@ Effects</source>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>クラウドファイルを開く</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save File to Cloud</source>
@@ -21666,6 +21738,10 @@ You can also center them or distribute them evenly across the page.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>ファイルローミング</translation>
     </message>
@@ -21696,10 +21772,6 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>クラウドファイルを開く</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -22141,6 +22213,10 @@ You can also center them or distribute them evenly across the page.</source>
     <message>
         <source>Document Collaboration</source>
         <translation type="unfinished">ドキュメント共同作業</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
@@ -22960,12 +23036,18 @@ Directly</source>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
+        <source>Switch UI</source>
+        <translation type="obsolete">UI切り替え</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>UI切り替え</translation>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>false</source>
@@ -23232,16 +23314,17 @@ Directly</source>
         <translation type="obsolete">OK</translation>
     </message>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
-        <translation type="obsolete">UI切り替え</translation>
+        <translation type="unfinished">UI切り替え</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

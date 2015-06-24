@@ -511,7 +511,6 @@
     <message>
         <source>Insert WordArt</source>
         <comment>TxVersion_InsertTextEffect</comment>
-        <translatorcomment>Wstaw obiekt WordArt</translatorcomment>
         <translation variants="yes">
             <lengthvariant>Wstaw WordArt</lengthvariant>
             <lengthvariant>Wstaw obiekt WordArt</lengthvariant>
@@ -577,11 +576,26 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>WPS Writer napotkał błąd podczas próby aktualizacji pliku źródłowego.
+        <translation type="obsolete">WPS Writer napotkał błąd podczas próby aktualizacji pliku źródłowego.
 Spróbuj wykonać jedną lub więcej z następujących czynności:
 1、Sprawdź czy plik źródłowy jest otwarty lub używany przez inne programy.
 2、Sprawdź czy plik źródłowy jest chroniony.
 3、Upewnij się, że plik źródłowy jest w odpowiednim katalogu.</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation>WPS Writer napotkał błąd podczas próby aktualizacji pliku źródłowego.
+Spróbuj wykonać jedną lub więcej z następujących czynności:
+1、Sprawdź czy plik źródłowy jest otwarty lub używany przez inne programy.
+2、Sprawdź czy plik źródłowy jest chroniony.
+3、Upewnij się, że plik źródłowy jest w odpowiednim katalogu.
+4、Upewnij się, że plik źródłowy może być obsługiwany przez WPS.</translation>
     </message>
 </context>
 <context>
@@ -847,7 +861,6 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>Same as the previous section</source>
         <comment>TxPropmpt_Same_as_Previous</comment>
-        <translatorcomment>Podobnie jak w poprzedniej sekcji</translatorcomment>
         <translation>Tak samo jak w poprzedniej sekcji</translation>
     </message>
 </context>
@@ -1055,7 +1068,7 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>The number of rows to be split must be between %d and %d.</source>
         <comment>_TxSplitCells_RowCntLimitError</comment>
-        <translation>Liczba wierszy, które mają być podzielone musi być w przedziale od %d do %d.</translation>
+        <translation>Liczba wierszy, które mają być podzielone musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>The number of rows to be split must be a divisor of %d.</source>
@@ -1065,7 +1078,7 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>The number of columns to be split must be between %d and %d.</source>
         <comment>_TxSplitCells_ColumnCntLimitError</comment>
-        <translation>Liczba kolumn, które mają być podzielone musi być w przedziale od %d do %d.</translation>
+        <translation>Liczba kolumn, które mają być podzielone musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>The number of columns is out of range.</source>
@@ -1181,7 +1194,7 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>OVR</source>
         <comment>_TxStatusBar_OvertypeInfo</comment>
-        <translation>ZAM</translation>
+        <translation>NAD</translation>
     </message>
     <message>
         <source>Previous Paragraph</source>
@@ -1297,7 +1310,7 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>WPS Writer document data</source>
         <comment>_TxClipboardDesc_Xml</comment>
-        <translation>Dane dokumentu WPS Writer</translation>
+        <translation>Dane dokumentu programu WPS Writer</translation>
     </message>
     <message>
         <source>Invalid e-mail address, sending failed.</source>
@@ -1312,7 +1325,7 @@ Spróbuj wykonać jedną lub więcej z następujących czynności:
     <message>
         <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
         <comment>_TxMailMerge_NoRecordExecute</comment>
-        <translation>WPS Writer nie może scalić źródła danych z dokumentem głównym korespondencji seryjnej, ponieważ wszystkie rekordy są puste, albo żaden z rekordów nie spełnia warunków kwerendy.</translation>
+        <translation>Program WPS Writer nie może scalić źródła danych z dokumentem głównym korespondencji seryjnej, ponieważ wszystkie rekordy są puste, albo żaden z rekordów nie spełnia warunków kwerendy.</translation>
     </message>
     <message>
         <source>WPS Writer cannot open the Data Source.</source>
@@ -1589,15 +1602,12 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Hidden</source>
         <comment>TxRevision_Chp_Hidden</comment>
-        <translation>Ukryty</translation>
+        <translation>Ukrycie</translation>
     </message>
     <message>
         <source>Outline</source>
         <comment>TxRevision_Chp_Outline</comment>
-        <translation variants="yes">
-            <lengthvariant>Konspekt</lengthvariant>
-            <lengthvariant>Kontur</lengthvariant>
-        </translation>
+        <translation>Kontur</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -1637,34 +1647,32 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Expanded by </source>
         <comment>TxRevision_Chp_ExpandedBy</comment>
-        <translatorcomment>Zwiększone przez </translatorcomment>
-        <translation>Rozwinięte przez </translation>
+        <translation>Rozszerzone  </translation>
     </message>
     <message>
         <source>Condensed by </source>
         <comment>TxRevision_Chp_CondensedBy</comment>
-        <translation>Zmniejszone przez </translation>
+        <translation>Zmniejszone </translation>
     </message>
     <message>
         <source>Expanded by/Condensed by</source>
         <comment>TxRevision_Chp_ExpandedByCondensedBy</comment>
-        <translatorcomment>Zwiększone przez / Zmniejszone przez</translatorcomment>
-        <translation>Rozwinięte przez/Zmniejszone przez</translation>
+        <translation>Rozszerzone/Zmniejszone</translation>
     </message>
     <message>
         <source>Raised by </source>
         <comment>TxRevision_Chp_RaisedBy</comment>
-        <translation>Podniesione przez </translation>
+        <translation>Podniesione  </translation>
     </message>
     <message>
         <source>Lowered by </source>
         <comment>TxRevision_Chp_LoweredBy</comment>
-        <translation>Obniżone przez </translation>
+        <translation>Obniżone  </translation>
     </message>
     <message>
         <source>Raised by/Lowered by</source>
         <comment>TxRevision_Chp_RaisedByLoweredBy</comment>
-        <translation>Podniesione przez/Obniżone przez</translation>
+        <translation>Podniesione/Obniżone</translation>
     </message>
     <message>
         <source>Kern at </source>
@@ -1684,7 +1692,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Normal</source>
         <comment>TxRevision_Chp_Normal</comment>
-        <translation>Normalne</translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>Heading 1</source>
@@ -1991,12 +1999,12 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Bulleted</source>
         <comment>TxRevision_Pap_Bulleted</comment>
-        <translation>Punktowane</translation>
+        <translation>Punktowanie</translation>
     </message>
     <message>
         <source>Numbered</source>
         <comment>TxRevision_Pap_Numbered</comment>
-        <translation>Numerowane</translation>
+        <translation>Numerowanie</translation>
     </message>
     <message>
         <source>Level</source>
@@ -2026,32 +2034,32 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Aligned at</source>
         <comment>TxRevision_Pap_AlignedAt</comment>
-        <translation>Wyrównanie od</translation>
+        <translation>Wyrównanie</translation>
     </message>
     <message>
         <source>Indent at</source>
         <comment>TxRevision_Pap_IndentAt</comment>
-        <translation>Wcięcie od</translation>
+        <translation>Wcięcie</translation>
     </message>
     <message>
         <source>Left</source>
         <comment>TxRevision_Sep_Left</comment>
-        <translation>Lewej</translation>
+        <translation>Do lewej</translation>
     </message>
     <message>
         <source>Right</source>
         <comment>TxRevision_Sep_Right</comment>
-        <translation>Prawej</translation>
+        <translation>Do prawej</translation>
     </message>
     <message>
         <source>Top</source>
         <comment>TxRevision_Sep_Top</comment>
-        <translation>Góry</translation>
+        <translation>Do góry</translation>
     </message>
     <message>
         <source>Bottom</source>
         <comment>TxRevision_Sep_Bottom</comment>
-        <translation>Dółu</translation>
+        <translation>Do dołu</translation>
     </message>
     <message>
         <source>Gutter</source>
@@ -2151,18 +2159,12 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Line between</source>
         <comment>TxRevision_Sep_LineBetween</comment>
-        <translation variants="yes">
-            <lengthvariant>Linia oddzielająca</lengthvariant>
-            <lengthvariant>Wiersz oddzielający</lengthvariant>
-        </translation>
+        <translation>Linia oddzielająca</translation>
     </message>
     <message>
         <source>No line between</source>
         <comment>TxRevision_Sep_NoLineBetween</comment>
-        <translation variants="yes">
-            <lengthvariant>Bez linii oddzielającej</lengthvariant>
-            <lengthvariant>Bez wiersza oddzielającego</lengthvariant>
-        </translation>
+        <translation>Bez linii oddzielającej</translation>
     </message>
     <message>
         <source>Single solid line</source>
@@ -2532,10 +2534,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>Center</source>
         <comment>TxRevision_Pap_AlignmentCenter</comment>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkuj</lengthvariant>
-            <lengthvariant>Środek</lengthvariant>
-        </translation>
+        <translation>Wyśrodkuj</translation>
     </message>
     <message>
         <source>Right</source>
@@ -2801,7 +2800,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>The measurement must be between 0 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_0_1584</comment>
-        <translation>Pomiar musi być pomiędzy 0 pkt i 1584 pkt.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>Settings you made for left or right margin, column spacing, or paragraph indent are oversized for the page width in some sections.</source>
@@ -2816,7 +2815,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>The mesurement must be between -1584 pt and 1584 pt.</source>
         <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
-        <translation>Pomiar musi być pomiędzy -1584 pkt i 1584 pkt.</translation>
+        <translation>Pomiar musi się zawierać w przedziale między -1584 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>This style name is already in use or reserved for a built-in style.</source>
@@ -2836,7 +2835,7 @@ Czy chcesz go zamienić?</lengthvariant>
     <message>
         <source>The mesurement must be between 0.5 and 600.</source>
         <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
-        <translation>Pomiar musi być pomiędzy 0,5 a 600.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0,5 i 600.</translation>
     </message>
     <message>
         <source>This style has a circulatory Based On styles list.</source>
@@ -2950,7 +2949,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>All Files(*.*)</source>
         <comment>TxDesc_All</comment>
-        <translation>Wszystkie pliki(*.*)</translation>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -3104,7 +3103,7 @@ Please make sure the file is not locked by another user, or the target disk is n
         <translation>%s może zawierać pewne funkcje, które są niezgodne z formatem %s. Czy chcesz zachować dokument w tym formacie?
 
 •Jeżelii chcesz zachować ten format, kliknij przycisk Tak.
-•Jeżeli chcesz zachować elementy formatowania, kliknij przycisk Nie. Następnie zapisz kopię dokumentu w formacie najnowszej wersji WPS Writer.</translation>
+•Jeżeli chcesz zachować elementy formatowania, kliknij przycisk Nie. Następnie zapisz kopię dokumentu w formacie najnowszej wersji programu WPS Writer.</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -3116,7 +3115,7 @@ Do you still want to open this file?
 Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
 (%s)</source>
         <comment>_TxDocument_AVFailed</comment>
-        <translation>Twój program antywirusowy napotkał błędy podczas skanowania tego pliku (kod błędu: 0x%08X). Proszę skontaktuj się z agentem oprogramowania antywirusowego. 
+        <translation>Twój program antywirusowy napotkał błędy podczas skanowania tego pliku (kod błędu: 0x%08X). Proszę skontaktuj się z dostawcą oprogramowania antywirusowego. 
 Czy nadal chcesz otworzyć ten plik?
 
 •Kliknij przycisk Tak, program WPS Writer będzie kontynował otwieranie tego pliku.
@@ -3143,7 +3142,7 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation>WPSV6-TEKST</translation>
+        <translation type="obsolete">WPSV6-TEKST</translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
@@ -3332,10 +3331,7 @@ Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
     <message>
         <source>Centered</source>
         <comment>wps_sAlignCenter</comment>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Left</source>
@@ -3453,7 +3449,7 @@ Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
     <message>
         <source>WPS Writer cannot replace the found item with text containing a break.</source>
         <comment>wps_sCantReplaceBreak</comment>
-        <translation>WPS Writer nie może zamienić znalezionego elementu tekstem zawierającym podział.</translation>
+        <translation>Program WPS Writer nie może zamienić znalezionego elementu tekstem zawierającym podział.</translation>
     </message>
     <message>
         <source>Cell</source>
@@ -3516,7 +3512,6 @@ Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
     <message>
         <source>Created Time</source>
         <comment>wps_sCreateTime</comment>
-        <translatorcomment>Czas utworzenia</translatorcomment>
         <translation>Godzina utworzenia</translation>
     </message>
     <message>
@@ -3644,7 +3639,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Start at must be between %d and %d for this format.</source>
         <comment>wps_sErrorStart</comment>
-        <translation>Dla tego formatu wartość w polu Rozpocznij od musi zawierać się między %d a %d.</translation>
+        <translation>Dla tego formatu wartość w polu Rozpocznij od musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>Errors occurred while opening Font dialog box!</source>
@@ -3654,7 +3649,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>WPS Writer encountered an error while trying exporting to PDF.</source>
         <comment>wps_sExportPDFError</comment>
-        <translation>WPS Writer napotkał błąd podczas próby eksportowania do formatu PDF.</translation>
+        <translation>Program WPS Writer napotkał błąd podczas próby eksportowania do formatu PDF.</translation>
     </message>
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
@@ -3669,7 +3664,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Insert the value of the document variable named NAME</source>
         <comment>wps_sFieldInfoDocVariable</comment>
-        <translation>Wstawia wartość zmiennej dokumentu o nazwie NAZWA</translation>
+        <translation>Wstawia wartość zmiennej dokumentu o nazwie NAME</translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
@@ -3744,12 +3739,12 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>WPS Writer has finished searching the document. The search item was not found.</source>
         <comment>wps_sFinishedNoItem</comment>
-        <translation>WPS Writer zakończył przeszukiwanie dokumentu. Poszukiwany element nie został znaleziony.</translation>
+        <translation>Program WPS Writer zakończył przeszukiwanie dokumentu. Poszukiwany element nie został znaleziony.</translation>
     </message>
     <message>
         <source>WPS Writer has finished searching the document.</source>
         <comment>wps_sFinishedSearch</comment>
-        <translation>WPS Writer zakończył przeszukiwanie dokumentu.</translation>
+        <translation>Program WPS Writer zakończył przeszukiwanie dokumentu.</translation>
     </message>
     <message>
         <source>First Name</source>
@@ -3769,7 +3764,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>WPS Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
         <comment>wps_sHasCheckedSelection</comment>
-        <translation>WPS Writer zakończył sprawdzanie zaznaczonego obszaru. Czy chcesz sprawdzić resztę dokumentu?</translation>
+        <translation>Program WPS Writer zakończył sprawdzanie zaznaczonego obszaru. Czy chcesz sprawdzić resztę dokumentu?</translation>
     </message>
     <message>
         <source>height</source>
@@ -3779,7 +3774,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
         <comment>wps_sHint</comment>
-        <translation>WPS Writer zamierza zaktualizować spis treści. Wybierz jedną z poniższych opcji:</translation>
+        <translation>Program WPS Writer zamierza zaktualizować spis treści. Wybierz jedną z poniższych opcji:</translation>
     </message>
     <message>
         <source>Home Fax</source>
@@ -3822,12 +3817,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>This is not a valid number.</source>
         <comment>wps_sInvalidInt</comment>
-        <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>You must type a character for the custom separator.</source>
@@ -4071,8 +4061,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>WPS Writer could not determine the destination.</source>
         <comment>wps_sNotDetermine</comment>
-        <translatorcomment>WPS Writer nie może odnaleźć miejsca.</translatorcomment>
-        <translation>WPS Writer nie może określić miejsca docelowego.</translation>
+        <translation>Program WPS Writer nie może określić miejsca docelowego.</translation>
     </message>
     <message>
         <source>(not matched)</source>
@@ -4087,10 +4076,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>This is not a valid measurement.</source>
         <comment>wps_sNotMeasureMent</comment>
-        <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa wielkość.</translation>
     </message>
     <message>
         <source>Please choose the base text for the Phonetic Guide.</source>
@@ -4100,7 +4086,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sNotNumberRange</comment>
-        <translation>Liczba musi być pomiędzy %d a %d.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>This caption label is not valid.</source>
@@ -4110,12 +4096,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>This is not a valid number.</source>
         <comment>wps_sNotValidFontSize</comment>
-        <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>The number must be a divisor of %d.</source>
@@ -4125,17 +4106,17 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The measurement must be between %d and %d.</source>
         <comment>wps_sNumberOutofRange</comment>
-        <translation>Pomiar musi być pomiędzy %d a %d.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sNumberOutofRange1</comment>
-        <translation>Liczba musi być pomiędzy %d a %d.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>The number must be between 1 and 10.</source>
         <comment>wps_sNumberRange</comment>
-        <translation>Liczba musi być pomiędzy 1 a 10.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 1 i 10.</translation>
     </message>
     <message>
         <source>Encountered an error when opening PDF file.</source>
@@ -4185,7 +4166,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Exporting summary information...</source>
         <comment>wps_spdfSummaryInfo</comment>
-        <translation>Eksportowanie informacji podsumowujących...</translation>
+        <translation>Eksportowanie podsumowania...</translation>
     </message>
     <message>
         <source>5%</source>
@@ -4355,7 +4336,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Orientation setting does not work for some reasons, such as too little column width. Please adjust your settings.</source>
         <comment>wps_sPutOrientationError</comment>
-        <translation>Ustawienie orientacji nie działa z jakichś powodów, takich jak zbyt mała szerokość kolumny. Proszę dostosuj ustawienia.</translation>
+        <translation>Ustawienie orientacji nie działa z jakiś powodów, takich jak zbyt mała szerokość kolumny. Proszę dostosuj ustawienia.</translation>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
@@ -4370,7 +4351,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>WPS Writer has finished searching the document and made %d replacements.</source>
         <comment>wps_sReplaceAllWithCount</comment>
-        <translation>WPS Writer zakończył przeszukiwanie dokumentu i wykonał %d zmian.</translation>
+        <translation>Program WPS Writer zakończył przeszukiwanie dokumentu i wykonał %d zmian.</translation>
     </message>
     <message>
         <source>Rows %s</source>
@@ -4380,10 +4361,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Save Adobe PDF File As</source>
         <comment>wps_sSaveAsPDFFile</comment>
-        <translation variants="yes">
-            <lengthvariant>Zapisz plik Adobe PDF jako</lengthvariant>
-            <lengthvariant>Zapisz jako plik Adobe PDF</lengthvariant>
-        </translation>
+        <translation>Zapisz plik Adobe PDF jako</translation>
     </message>
     <message>
         <source>Search Down</source>
@@ -4423,10 +4401,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Solid(100%)</source>
         <comment>wps_sSolid</comment>
-        <translation variants="yes">
-            <lengthvariant>Pełny(100%)</lengthvariant>
-            <lengthvariant>Ciągłe(100%)</lengthvariant>
-        </translation>
+        <translation>Ciągłe(100%)</translation>
     </message>
     <message>
         <source>Sounds Like(English)</source>
@@ -4441,10 +4416,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The spelling check is complete.</source>
         <comment>wps_sSpellingCheckComplete</comment>
-        <translation variants="yes">
-            <lengthvariant>Sprawdzanie pisowni zostało ukończone.</lengthvariant>
-            <lengthvariant>Sprawdzanie pisowni zostało zakończone.</lengthvariant>
-        </translation>
+        <translation>Sprawdzanie pisowni zostało ukończone.</translation>
     </message>
     <message>
         <source>S&amp;plit</source>
@@ -4479,7 +4451,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Start at must be between %d and %d for this format.</source>
         <comment>wps_sStartAtError</comment>
-        <translation>Dla tego formatu wartość w polu Rozpocznij od musi zawierać się między %d a %d.</translation>
+        <translation>Dla tego formatu wartość w polu Rozpocznij od musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>State</source>
@@ -4579,7 +4551,6 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Unpro&amp;tect Document</source>
         <comment>wps_sUnProtectDocument</comment>
-        <translatorcomment>Nie&amp;chronienie dokumentu</translatorcomment>
         <translation>Nie &amp;chroń dokumentu</translation>
     </message>
     <message>
@@ -4610,12 +4581,12 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The number must be between 1 and %d.</source>
         <comment>wps_sValueOutofRange</comment>
-        <translation>Liczba musi być pomiędzy 1 a %d.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 1 i %d.</translation>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
         <comment>wps_sVBAMacroSecurityError</comment>
-        <translation>WPS Writer napotkał błąd podczas dostosowywania zabezpieczeń makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane.</translation>
+        <translation>Program WPS Writer napotkał błąd podczas dostosowywania zabezpieczeń makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane.</translation>
     </message>
     <message>
         <source>Web Page</source>
@@ -4693,10 +4664,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>What you print has errors with Format.</source>
         <comment>wps_sFormatError</comment>
-        <translation variants="yes">
-            <lengthvariant>Twój wydruk zawiera błędy formatowania.</lengthvariant>
-            <lengthvariant>To co drukujesz zawiera błędy formatowania.</lengthvariant>
-        </translation>
+        <translation>Twój wydruk zawiera błędy formatowania.</translation>
     </message>
     <message>
         <source>The number must be %d and %d.</source>
@@ -4754,7 +4722,6 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Time &amp;Format:</source>
         <comment>wps_sTimeTextFormat</comment>
-        <translatorcomment>&amp;Format czasu:</translatorcomment>
         <translation>&amp;Format godziny:</translation>
     </message>
     <message>
@@ -4765,10 +4732,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>The %d Drop-down item is not allow to be empty.</source>
         <comment>wps_sValidItem</comment>
-        <translation variants="yes">
-            <lengthvariant>Element %d listy rozwijanej nie może być pusty.</lengthvariant>
-            <lengthvariant>Element listy rozwijanej %d nie może być pusty.</lengthvariant>
-        </translation>
+        <translation>Element listy rozwijanej %d nie może być pusty.</translation>
     </message>
     <message>
         <source>This shortcut key already exists. Please set aonther key.</source>
@@ -4795,8 +4759,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
 
 Tak:	Zapisz do szablonu;
 Nie:	Nie zapisuj do szablonu;
-Anuluj:	Wróć do okna dialogowego.
-</translation>
+Anuluj:	Wróć do okna dialogowego.</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -4817,85 +4780,82 @@ Anuluj:	Wróć do okna dialogowego.
         <source>Page</source>
         <comment>wps_sFieldPage</comment>
         <translation variants="yes">
-            <lengthvariant>Strona</lengthvariant>
             <lengthvariant>Page</lengthvariant>
+            <lengthvariant>Strona</lengthvariant>
         </translation>
     </message>
     <message>
         <source>PageRef</source>
         <comment>wps_sPageRef</comment>
         <translation variants="yes">
-            <lengthvariant>OdwołanieStrony</lengthvariant>
             <lengthvariant>PageRef</lengthvariant>
+            <lengthvariant>Odwołanie_strony</lengthvariant>
         </translation>
     </message>
     <message>
         <source>SectionPages</source>
         <comment>wps_sFieldSectionPages</comment>
         <translation variants="yes">
-            <lengthvariant>StronySekcji</lengthvariant>
             <lengthvariant>SectionPages</lengthvariant>
+            <lengthvariant>Strony_sekcji</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Seq</source>
         <comment>wps_sFieldSeq</comment>
         <translation variants="yes">
-            <lengthvariant>Sekwencja</lengthvariant>
             <lengthvariant>Seq</lengthvariant>
+            <lengthvariant>Sekwencja</lengthvariant>
         </translation>
     </message>
     <message>
         <source>TC</source>
         <comment>wps_sFieldTc</comment>
         <translation variants="yes">
-            <lengthvariant>poleSpisuTreści</lengthvariant>
             <lengthvariant>TC</lengthvariant>
+            <lengthvariant>Pole_spisu_treści</lengthvariant>
         </translation>
     </message>
     <message>
         <source>DocVariable</source>
         <comment>wps_sFieldDocVariable</comment>
         <translation variants="yes">
-            <lengthvariant>DocZmienna</lengthvariant>
             <lengthvariant>DocVariable</lengthvariant>
+            <lengthvariant>Zmienna_dokumentu</lengthvariant>
         </translation>
     </message>
     <message>
         <source>TOC</source>
         <comment>wps_sFieldToc</comment>
         <translation variants="yes">
-            <lengthvariant>SpisTreści</lengthvariant>
             <lengthvariant>TOC</lengthvariant>
+            <lengthvariant>Spis_treści</lengthvariant>
         </translation>
     </message>
     <message>
         <source>NumPages</source>
         <comment>wps_sFieldNumPages</comment>
         <translation variants="yes">
-            <lengthvariant>LiczbaStron</lengthvariant>
             <lengthvariant>NumPages</lengthvariant>
+            <lengthvariant>Liczba_stron</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>wps_sFieldHyperlink</comment>
-        <translation variants="yes">
-            <lengthvariant>Hiperłącze</lengthvariant>
-            <lengthvariant>Hyperlink</lengthvariant>
-        </translation>
+        <translation>Hiperłącze</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
         <comment>wps_sFieldInfoFormula</comment>
-        <translation>Edytuj oraz oblicz formułę i wyświetl wyniki w oknie podglądu.</translation>
+        <translation>Edytuj i oblicz formułę oraz wyświetl wyniki w oknie podglądu.</translation>
     </message>
     <message>
         <source>Time</source>
         <comment>wps_sFieldTime</comment>
         <translation variants="yes">
-            <lengthvariant>Godzina</lengthvariant>
             <lengthvariant>Time</lengthvariant>
+            <lengthvariant>Godzina</lengthvariant>
         </translation>
     </message>
     <message>
@@ -4915,90 +4875,57 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK &quot;C:\\KingSoft.wps&quot;</source>
         <comment>wps_sHyperLinkExample</comment>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że KingSoft.wps jest na dysk C. Kod pola:HIPERŁĄCZE &quot;C:\\KingSoft.wps&quot;</lengthvariant>
-            <lengthvariant>Przypuszczam, że KingSoft.wps jest na dysk C. Kod pola:HYPERLINK &quot;C:\\KingSoft.wps&quot;</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że KingSoft.wps jest na dysku C. Kod pola: HYPERLINK &quot;C:\\KingSoft.wps&quot;</translation>
     </message>
     <message>
         <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
         <comment>wps_sPageExample</comment>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że pozycja wstawienia tego pola jest na stronie trzeciej. Kod pola:STRONA \* CHINESENUM2</lengthvariant>
-            <lengthvariant>Przypuszczam, że pozycja wstawienia tego pola jest na stronie trzeciej. Kod pola:PAGE \* CHINESENUM2</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że pozycja wstawienia tego pola jest na stronie trzeciej. Kod pola: PAGE \* CHINESENUM2</translation>
     </message>
     <message>
         <source>Presume the page number of the bookmark myEndPage is 5. Field code:PAGEREF myEndPage</source>
         <comment>wps_sPageRefExample</comment>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że numer strony zakładki mojej końcowej strony jest 5. Kod pola:ODWOŁANIESTRONY mójKoniecStrony</lengthvariant>
-            <lengthvariant>Przypuszczam, że numer strony zakładki mojej końcowej strony jest 5. Kod pola:PAGEREF myEndPage</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że numer strony zakładki myEndPage to 5. Kod pola: PAGEREF myEndPage</translation>
     </message>
     <message>
         <source>Presume there are 10 pages in the section where this field is inserted. Field code:SECTIONPAGES</source>
         <comment>wps_sSectionExample</comment>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że w sekcji jest 10 stron, gdzie jest wstawiane to pole. Kod pola:STRONYSEKCJI</lengthvariant>
-            <lengthvariant>Przypuszczam, że w sekcji jest 10 stron, gdzie jest wstawiane to pole. Kod pola:SECTIONPAGES</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że w sekcji, gdzie jest wstawiane to pole, jest 10 stron. Kod pola: SECTIONPAGES</translation>
     </message>
     <message>
         <source>The display result of the first place. Field code:SEQ KGS</source>
         <comment>wps_sSeqExample</comment>
-        <translation variants="yes">
-            <lengthvariant>Wyświetlanie wyników pierwszego miejsca. Kod pola:SEKWENCJA KGS</lengthvariant>
-            <lengthvariant>Wyświetlanie wyników pierwszego miejsca. Kod pola:SEQ KGS</lengthvariant>
-        </translation>
+        <translation>Wyświetla w pierwszej kolejności wynik. Kod pola: SEQ KGS</translation>
     </message>
     <message>
         <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents,  click Options, then select Table entry fields. Field code: TC</source>
         <comment>wps_sTcExample</comment>
-        <translation variants="yes">
-            <lengthvariant>Domyślnie wstawione pole Spisu treści jest ukrytym tekstem. Aby wyświetlić to pole, wybierz Wstaw/Odwołanie/Spis treści,  kliknij polecenie Opcje, a następnie wybierz Pola wpisów spisu treści. Kod pola: poleSpisuTreści</lengthvariant>
-            <lengthvariant>Domyślnie wstawione pole TC jest ukrytym tekstem. Aby wyświetlić to pole, wybierz Wstaw/Odwołanie/Spis treści,  kliknij polecenie Opcje, a następnie wybierz Pola wpisów spisu treści. Kod pola: TC</lengthvariant>
-        </translation>
+        <translation>Domyślnie wstawione pole TC jest ukrytym tekstem. Aby wyświetlić to pole, wybierz Wstaw/Odwołanie/Spis treści, kliknij polecenie Opcje, a następnie wybierz Pola wpisów spisu treści. Kod pola: TC</translation>
     </message>
     <message>
         <source>Presume it is August 8 of 2008. Field code:Time \@ &quot;yyyy-M-d&quot;</source>
         <comment>wps_sTimeExample</comment>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że jest to 08 sierpnia 2008 r. Kod pola:Czas \@ &quot;rrrr-M-d&quot;</lengthvariant>
-            <lengthvariant>Przypuszczam, że jest to 08 sierpnia 2008 r. Kod pola:Time \@ &quot;yyyy-M-d&quot;</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że jest to 08 sierpnia 2008 r. Kod pola: Time \@ &quot;rrrr-M-d&quot;</translation>
     </message>
     <message>
         <source>Presume there are styles from Heading1 to Heading3 or there are outline levels from paragraph 1 to paragraph 3. Field code:TOC \o &quot;1-3&quot; \h  \u</source>
         <comment>wps_sTocExample</comment>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że są style od Nagłówek 1 do Nagłówek 3 lub istnieją poziomy konspektu od Akapit 1 do Akapit 3. Kod pola:SpisTreści \o &quot;1-3&quot; \h  \u</lengthvariant>
-            <lengthvariant>Przypuszczam, że są style od Nagłówek 1 do Nagłówek 3 lub istnieją poziomy konspektu od Akapit 1 do Akapit 3. Kod pola:TOC \o &quot;1-3&quot; \h  \u</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że dokument ma style od Nagłówek 1 do Nagłówek 3 lub istnieją poziomy konspektu od Akapit 1 do Akapit 3. Kod pola: TOC \o &quot;1-3&quot; \h  \u</translation>
     </message>
     <message>
         <source>Presume there are 20 pages of the current document. Field code:NumPages</source>
         <comment>wps_sNumPagesExample</comment>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że jest 20 stron bieżącego dokumentu. Kod pola:LiczbaStron</lengthvariant>
-            <lengthvariant>Przypuszczam, że jest 20 stron bieżącego dokumentu. Kod pola:NumPages</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że bieżący dokument ma 20 stron. Kod pola: NumPages</translation>
     </message>
     <message>
         <source>Presume set the KingSoft variable assignment as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
         <comment>wps_sDocVariableExalple</comment>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola:DOCZMIENNA KingSoft</lengthvariant>
-            <lengthvariant>Przypuszczam, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola:DOCVARIABLE KingSoft</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola: DOCVARIABLE KingSoft</translation>
     </message>
     <message>
         <source>THREE</source>
         <comment>wps_sPreviewPage</comment>
-        <translation variants="yes">
-            <lengthvariant>TRZY</lengthvariant>
-            <lengthvariant>THREE</lengthvariant>
-        </translation>
+        <translation>TRZY</translation>
     </message>
     <message>
         <source>5</source>
@@ -5033,7 +4960,7 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>The value must be between %d and %d.</source>
         <comment>wps_sNumberRangeErro</comment>
-        <translation>Wartość musi być pomiędzy %d a %d.</translation>
+        <translation>Wartość musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>Input a correct number.</source>
@@ -5086,7 +5013,6 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>Diagram</source>
         <comment>TxCrossRefType_Figure</comment>
-        <translatorcomment>Schemat</translatorcomment>
         <translation>Diagram</translation>
     </message>
     <message>
@@ -5228,8 +5154,8 @@ Anuluj:	Wróć do okna dialogowego.
         <source>StyleRef</source>
         <comment>wps_sStyleRef</comment>
         <translation variants="yes">
-            <lengthvariant>OdwołanieStylu</lengthvariant>
             <lengthvariant>StyleRef</lengthvariant>
+            <lengthvariant>Odwołanie_stylu</lengthvariant>
         </translation>
     </message>
     <message>
@@ -5280,7 +5206,7 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>The number must be between %d and %d.</source>
         <comment>wps_sValidValue</comment>
-        <translation>Liczba musi być pomiędzy %d a %d.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %d i %d.</translation>
     </message>
     <message>
         <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
@@ -5503,7 +5429,7 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>Align Center</source>
         <comment>TxVersion_AlignCenter</comment>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align Distribute</source>
@@ -5606,7 +5532,7 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>3-D Color</source>
         <comment>TxVersion_3DColor</comment>
-        <translation>Kolor 3D</translation>
+        <translation>Kolor 3-D</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -5692,8 +5618,8 @@ Anuluj:	Wróć do okna dialogowego.
         <source>Simplified/Traditional Chinese Translation</source>
         <comment>TxTooltip_TSCS</comment>
         <translation variants="yes">
-            <lengthvariant>Tłumaczenie między chińskim uproszczonym/tradycyjnym</lengthvariant>
-            <lengthvariant>Uproszczony/Tradycyjny chińskie tłumaczenie</lengthvariant>
+            <lengthvariant>Translacja między chińskim uproszczonym a tradycyjnym</lengthvariant>
+            <lengthvariant>Tłumaczenie chiński uproszczony/tradycyjny</lengthvariant>
         </translation>
     </message>
     <message>
@@ -5750,8 +5676,8 @@ Anuluj:	Wróć do okna dialogowego.
         <source>Simplified/Traditional Chinese Translation</source>
         <comment>_TxTcscConvert</comment>
         <translation variants="yes">
-            <lengthvariant>Tłumaczenie między chińskim uproszczonym/tradycyjnym</lengthvariant>
-            <lengthvariant>Uproszczony/Tradycyjny chińskie tłumaczenie</lengthvariant>
+            <lengthvariant>Translacja między chińskim uproszczonym a tradycyjnym</lengthvariant>
+            <lengthvariant>Tłumaczenie chiński uproszczony/tradycyjny</lengthvariant>
         </translation>
     </message>
     <message>
@@ -5886,7 +5812,7 @@ Anuluj:	Wróć do okna dialogowego.
     <message>
         <source>Genko Setting</source>
         <comment>TxVersion_SetGenkoSetting</comment>
-        <translation>Ustawienie Genko</translation>
+        <translation>Ustawienia Genko</translation>
     </message>
     <message>
         <source>Insert Break</source>
@@ -6163,12 +6089,12 @@ Aby dodać nowe pole tekstowe do dokumentu, kliknij pozycję Pole tekstowe w men
     <message>
         <source>The number must be between 1 and 1638.</source>
         <comment>TxMessage_FontSizeError1</comment>
-        <translation>Liczba musi być pomiędzy 1 a 1638.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 1 i 1638.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 500.</source>
         <comment>TxMessge_ZoomError1</comment>
-        <translation>Liczba musi być pomiędzy 10 a 500.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 10 i 500.</translation>
     </message>
     <message>
         <source>Are you sure to delete style %s?</source>
@@ -6223,10 +6149,7 @@ Aby dodać nowe pole tekstowe do dokumentu, kliknij pozycję Pole tekstowe w men
     <message>
         <source>The font &apos;</source>
         <comment>TxMessage_FontNameNotExisitFirstHalf</comment>
-        <translation variants="yes">
-            <lengthvariant>Czcionka &apos;</lengthvariant>
-            <lengthvariant>Ta czcionka &apos;</lengthvariant>
-        </translation>
+        <translation>Czcionka &apos;</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
@@ -6477,22 +6400,17 @@ dokumentu</translation>
     <message>
         <source>Deleted</source>
         <comment>TxBalloon_RevisionDeleted</comment>
-        <translatorcomment>Usunięto</translatorcomment>
-        <translation>Usunięte</translation>
+        <translation>Usunięto</translation>
     </message>
     <message>
         <source>Inserted</source>
         <comment>TxBalloon_RevisionInserted</comment>
-        <translatorcomment>Wstawiono</translatorcomment>
-        <translation>Wstawione</translation>
+        <translation>Wstawiono</translation>
     </message>
     <message>
         <source>Close Compare Side by Side</source>
         <comment>TxWindow_Close_CompareSideBySide</comment>
-        <translation variants="yes">
-            <lengthvariant>Zamknij porównywanie obok siebie</lengthvariant>
-            <lengthvariant>Zamknij porównanie obok siebie</lengthvariant>
-        </translation>
+        <translation>Zamknij porównywanie obok siebie</translation>
     </message>
     <message>
         <source>Compare with %s Side by Side</source>
@@ -6502,10 +6420,7 @@ dokumentu</translation>
     <message>
         <source>Compare Side by Side</source>
         <comment>TxWindow_CompareSideBySide</comment>
-        <translation variants="yes">
-            <lengthvariant>Porównaj obok siebie</lengthvariant>
-            <lengthvariant>Porównywanie obok siebie</lengthvariant>
-        </translation>
+        <translation>Porównaj obok siebie</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
@@ -6667,7 +6582,6 @@ pisowni</translation>
     <message>
         <source>Update Table of Contents</source>
         <comment>TxVersion_UpdateTOC</comment>
-        <translatorcomment>Aktualizowanie spisu treści</translatorcomment>
         <translation>Aktualizuj spis treści</translation>
     </message>
     <message>
@@ -6788,26 +6702,17 @@ pisowni</translation>
     <message>
         <source>Before Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaMarginBefore</comment>
-        <translation variants="yes">
-            <lengthvariant>Odstępy przed: %.2f wiersze</lengthvariant>
-            <lengthvariant>Odstępy przed: %.2f linie</lengthvariant>
-        </translation>
+        <translation>Odstępy przed: %.2f wiersze</translation>
     </message>
     <message>
         <source>After Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaMarginAfter</comment>
-        <translation variants="yes">
-            <lengthvariant>Odstępy po: %.2f wiersze</lengthvariant>
-            <lengthvariant>Odstępy po: %.2f linie</lengthvariant>
-        </translation>
+        <translation>Odstępy po: %.2f wiersze</translation>
     </message>
     <message>
         <source>Line Spacing: %.2f Lines</source>
         <comment>TxTooltip_ParaLineSpacing</comment>
-        <translation variants="yes">
-            <lengthvariant>Interlinia %.2f wiersze</lengthvariant>
-            <lengthvariant>Interlinia %.2f linie</lengthvariant>
-        </translation>
+        <translation>Interlinia %.2f wiersze</translation>
     </message>
     <message>
         <source>Paragraph Layout</source>
@@ -6897,10 +6802,7 @@ pisowni</translation>
     <message>
         <source>Stop Recording</source>
         <comment>TXWps_RecordMacro_Stop</comment>
-        <translation variants="yes">
-            <lengthvariant>Zatrzymaj nagrywanie</lengthvariant>
-            <lengthvariant>Zatrzymaj rejestrowanie</lengthvariant>
-        </translation>
+        <translation>Zatrzymaj rejestrowanie</translation>
     </message>
     <message>
         <source>Record Macro</source>
@@ -6955,7 +6857,6 @@ pisowni</translation>
         <comment>TxTableStyle_TableNormal</comment>
         <translation variants="yes">
             <lengthvariant>Zwykła tabela</lengthvariant>
-            <lengthvariant>Normalna tabela</lengthvariant>
             <lengthvariant>Standardowy</lengthvariant>
         </translation>
     </message>
@@ -7668,6 +7569,11 @@ pisowni</translation>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
         <translation>Kolorowa siatka - akcent 6</translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
+        <translation>Wstaw pole dokumentu</translation>
     </message>
 </context>
 <context>

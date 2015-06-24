@@ -894,7 +894,7 @@ DB クエリの編集</translation>
     <name>classics.formatting</name>
     <message>
         <source>Across Center</source>
-        <translation type="obsolete">選択範囲内で中央</translation>
+        <translation type="unfinished">選択範囲内で中央</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -909,16 +909,12 @@ DB クエリの編集</translation>
         <translation>罫線</translation>
     </message>
     <message>
-        <source>Cancel Merge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Center</source>
         <translation>中央寄せ</translation>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation type="unfinished">選択範囲内で中央</translation>
+        <translation type="obsolete">選択範囲内で中央</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -995,6 +991,10 @@ Center</source>
     <message>
         <source>Percent Style</source>
         <translation>パーセント スタイル</translation>
+    </message>
+    <message>
+        <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -1438,6 +1438,10 @@ Center</source>
 <context>
     <name>classics.standard</name>
     <message>
+        <source>Above Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>AutoFilter</source>
         <translation>自動フィルタ</translation>
     </message>
@@ -1450,147 +1454,35 @@ Center</source>
         <translation>平均値</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chart Wizard</source>
         <translation>グラフ ウィザード</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
+        <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLateSeven</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateToday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateTomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateYesterday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgAbove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgBelow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialBetween</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLarge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLess</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialEmpty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialError</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextBeginWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextEndWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextNoContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalClear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalSelf</source>
+        <source>Contain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1598,24 +1490,56 @@ Center</source>
         <translation>データの個数</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Docer-Online Templates</source>
         <translation type="obsolete">ホーム</translation>
     </message>
     <message>
+        <source>Does not contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Duplicates</source>
-        <translation>重複</translation>
+        <translation type="obsolete">重複</translation>
     </message>
     <message>
         <source>E-mail</source>
         <translation type="obsolete">Eメール</translation>
     </message>
     <message>
+        <source>Empty Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equation</source>
         <translation>数式</translation>
     </message>
     <message>
+        <source>Error Value </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>PDFファイルとして出力(F)</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Filter</source>
@@ -1638,20 +1562,40 @@ Center</source>
         <translation type="obsolete">Google Docs</translation>
     </message>
     <message>
-        <source>HighLight</source>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>重複する値を蛍光ペンで表示</translation>
+        <translation type="obsolete">重複する値を蛍光ペンで表示</translation>
     </message>
     <message>
         <source>Homepage</source>
         <translation type="obsolete">ホーム</translation>
     </message>
     <message>
+        <source>In the last 7 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Hyperlink</source>
         <translation>ハイパーリンク</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Max</source>
@@ -1668,6 +1612,14 @@ Center</source>
     <message>
         <source>More Functions</source>
         <translation>その他の関数</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Border</source>
@@ -1698,10 +1650,6 @@ Center</source>
         <translation type="obsolete">印刷の既定値で直接印刷</translation>
     </message>
     <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Purchase Serial Number</source>
         <translation>シリアル購入</translation>
     </message>
@@ -1711,23 +1659,15 @@ Center</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>重複する値の入力を拒否</translation>
+        <translation type="obsolete">重複する値の入力を拒否</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>重複する値を削除</translation>
+        <translation type="obsolete">重複する値を削除</translation>
     </message>
     <message>
         <source>Send E-mail</source>
         <translation>Eメール</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -1738,12 +1678,44 @@ Center</source>
         <translation>降順</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sum</source>
         <translation>合計</translation>
     </message>
     <message>
         <source>Switch Language</source>
         <translation>言語の変更</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -1758,12 +1730,24 @@ Center</source>
         <translation>転置</translation>
     </message>
     <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Values</source>
         <translation>値</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
         <translation>Kingsoft サポート</translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -2240,6 +2224,14 @@ Center</source>
         <translation>自動バックアップの確認</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clip Art</source>
         <translation>クリップアート</translation>
     </message>
@@ -2412,6 +2404,10 @@ Center</source>
         <translation type="obsolete">描線のポップアップ メニュー</translation>
     </message>
     <message>
+        <source>Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Edit</source>
         <translation>編集</translation>
     </message>
@@ -2526,6 +2522,10 @@ Center</source>
     <message>
         <source>High-Low Line</source>
         <translation>高値-安値のポップアップ メニュー</translation>
+    </message>
+    <message>
+        <source>Highlight Duplicates</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -2781,6 +2781,19 @@ Directly</source>
         <translation>やり直し</translation>
     </message>
     <message>
+        <source>Refresh
+Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Replace</source>
         <translation>置換</translation>
     </message>
@@ -2830,8 +2843,16 @@ Directly</source>
         <translation>系列線ポップアップ メニュー</translation>
     </message>
     <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set Language</source>
         <translation>言語の設定</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Spell Check Language</source>
@@ -3256,11 +3277,16 @@ Window</source>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>UI切り替え</translation>
+        <translation type="obsolete">UI切り替え</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3533,6 +3559,11 @@ Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>OK</translation>
     </message>
@@ -3680,16 +3711,8 @@ Row</source>
         <translation type="obsolete">すべて表示する</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear Outline</source>
         <translation>アウトラインのクリア</translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -3713,7 +3736,7 @@ Row</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>重複</translation>
+        <translation type="obsolete">重複</translation>
     </message>
     <message>
         <source>Edit
@@ -3759,7 +3782,7 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>重複する値を蛍光ペンで表示</translation>
+        <translation type="obsolete">重複する値を蛍光ペンで表示</translation>
     </message>
     <message>
         <source>Import 
@@ -3798,19 +3821,11 @@ All</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>重複する値の入力を拒否</translation>
+        <translation type="obsolete">重複する値の入力を拒否</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>重複する値を削除</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">重複する値を削除</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -4555,6 +4570,10 @@ On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>PDFファイルとして出力(F)</translation>
     </message>
@@ -4993,9 +5012,17 @@ Used</source>
 <context>
     <name>ongmani.ct_home</name>
     <message>
+        <source>Above Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Across 
 Center</source>
         <translation type="obsolete">選択範囲内で中央</translation>
+    </message>
+    <message>
+        <source>Across Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -5067,8 +5094,28 @@ Center</source>
         <translation>平均値</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>太字</translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -5077,10 +5124,6 @@ Center</source>
     <message>
         <source>Bottom Double Border</source>
         <translation>下二重罫線</translation>
-    </message>
-    <message>
-        <source>Cancel Merge</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cells</source>
@@ -5108,7 +5151,7 @@ Center</source>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation type="unfinished">選択範囲内で中央</translation>
+        <translation type="obsolete">選択範囲内で中央</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -5119,139 +5162,11 @@ Center</source>
         <translation>コメント</translation>
     </message>
     <message>
-        <source>ConditionDate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLateSeven</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateToday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateTomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateYesterday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgAbove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgBelow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialBetween</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLarge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLess</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialEmpty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialError</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextBeginWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextEndWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextNoContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Conditional Formatting</source>
         <translation>条件付き書式の設定</translation>
     </message>
     <message>
-        <source>ConditionalClear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalSelf</source>
+        <source>Contain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5279,12 +5194,20 @@ Center</source>
         <translation>通貨</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Custom Sort</source>
         <translation>並べ替え</translation>
     </message>
     <message>
         <source>Cut</source>
         <translation>切り取り</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -5327,6 +5250,10 @@ Center</source>
         <translation type="obsolete">設定</translation>
     </message>
     <message>
+        <source>Does not contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Down</source>
         <translation>下方向へコピー</translation>
     </message>
@@ -5343,8 +5270,24 @@ Center</source>
         <translation>編集</translation>
     </message>
     <message>
+        <source>Empty Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Erase Border</source>
         <translation>罫線の削除</translation>
+    </message>
+    <message>
+        <source>Error Value </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5428,6 +5371,10 @@ Painter</source>
         <translation>ジャンプ </translation>
     </message>
     <message>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide Columns</source>
         <translation>列を表示しない</translation>
     </message>
@@ -5452,7 +5399,11 @@ Painter</source>
         <translation type="obsolete">非表示/再表示(U)</translation>
     </message>
     <message>
-        <source>HighLight</source>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5506,12 +5457,24 @@ Center</source>
 中央寄せ</translation>
     </message>
     <message>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation>左方向へコピー</translation>
     </message>
     <message>
         <source>Left Border</source>
         <translation>左罫線</translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -5563,6 +5526,14 @@ Center</source>
     <message>
         <source>Move or Copy Sheet</source>
         <translation>シートの移動またはコピー</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Border</source>
@@ -5646,7 +5617,7 @@ Columns</source>
         <translation type="unfinished">行と列</translation>
     </message>
     <message>
-        <source>RowsColumn</source>
+        <source>Rows and Columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5678,6 +5649,10 @@ Columns</source>
         <translation type="obsolete">降順</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Standard Width</source>
         <translation>標準の幅</translation>
     </message>
@@ -5694,6 +5669,10 @@ Columns</source>
         <translation>シート見出しの色</translation>
     </message>
     <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Color</source>
         <translation>フォントの色</translation>
     </message>
@@ -5704,6 +5683,30 @@ Columns</source>
     <message>
         <source>Thick Box Border</source>
         <translation>外枠太罫線</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -5746,8 +5749,16 @@ Columns</source>
         <translation>シートの再表示</translation>
     </message>
     <message>
+        <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>上方向へコピー</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Values</source>
@@ -5762,6 +5773,10 @@ Columns</source>
         <translation>縦書きテキスト</translation>
     </message>
     <message>
+        <source>Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WorkSheet</source>
         <translation type="obsolete">ワークシート</translation>
     </message>
@@ -5773,6 +5788,10 @@ Columns</source>
         <source>Wrap Text</source>
         <translation>折り返して
 全体を表示する</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7072,7 +7091,7 @@ Options</source>
     <message>
         <source>Refresh
 Data</source>
-        <translation type="unfinished">データの更新</translation>
+        <translation type="obsolete">データの更新</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -7617,6 +7636,10 @@ Other Window</source>
         <translation type="obsolete">開発ツール</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Formula Bar</source>
         <translation>編集バー</translation>
     </message>
@@ -7689,10 +7712,6 @@ Preview</source>
     <message>
         <source>Print Headings</source>
         <translation>見出しの印刷</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reading
@@ -8606,24 +8625,12 @@ Shape</source>
         <translation type="obsolete">自動バージョン</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cloud Link</source>
         <translation>クラウドリンク</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
         <translation>自動バージョンの停止</translation>
-    </message>
-    <message>
-        <source>Duplicates</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -8639,6 +8646,10 @@ Shape</source>
     </message>
     <message>
         <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8668,10 +8679,6 @@ Shape</source>
     <message>
         <source>Help us to improve WPS Office</source>
         <translation>Kingsoft Officeを改良するために支援して下さい</translation>
-    </message>
-    <message>
-        <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Cloud Feedback</source>
@@ -8754,32 +8761,12 @@ Shape</source>
         <translation>クラウドファイルを開く</translation>
     </message>
     <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reject Duplicate Entries</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove Duplicates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
         <translation>ファイルをクラウドへ保存</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sign In</source>
@@ -8871,6 +8858,10 @@ Shape</source>
     <message>
         <source>Accept Revisions</source>
         <translation type="obsolete">リビジョンを承諾</translation>
+    </message>
+    <message>
+        <source>Across Center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -9071,10 +9062,6 @@ Add-Ins</source>
         <translation>カメラ</translation>
     </message>
     <message>
-        <source>Cancel Merge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cascade</source>
         <translation>重ねて表示</translation>
     </message>
@@ -9151,10 +9138,6 @@ Add-Ins</source>
         <translation>数式と値のクリア</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear Outline</source>
         <translation>アウトラインのクリア</translation>
     </message>
@@ -9165,10 +9148,6 @@ Add-Ins</source>
     <message>
         <source>Clear Print Region</source>
         <translation type="obsolete">印刷範囲の解除</translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -9205,10 +9184,6 @@ Add-Ins</source>
     <message>
         <source>Columns</source>
         <translation>列</translation>
-    </message>
-    <message>
-        <source>Columns Center</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -9384,7 +9359,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>重複</translation>
+        <translation type="obsolete">重複</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -9479,8 +9454,16 @@ Add-Ins</source>
         <translation type="obsolete">バージョンの検索</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>PDFファイルとして出力(F)</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -9766,7 +9749,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>重複する値を蛍光ペンで表示</translation>
+        <translation type="obsolete">重複する値を蛍光ペンで表示</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -9834,19 +9817,6 @@ Add-Ins</source>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join and
-Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join and Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9946,6 +9916,10 @@ Center</source>
         <translation>マクロ</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>バージョンの表示</translation>
     </message>
@@ -9962,11 +9936,15 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Merge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge Columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Merge and Center Cells</source>
+        <source>Merge and Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10142,10 +10120,6 @@ Center</source>
         <translation>グラフィックス</translation>
     </message>
     <message>
-        <source>Picture Format Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>PivotTable</source>
         <translation>ピボットテーブル</translation>
     </message>
@@ -10172,10 +10146,6 @@ Center</source>
     <message>
         <source>Protect</source>
         <translation>保護</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Protect Sheet</source>
@@ -10215,7 +10185,7 @@ Center</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>重複する値の入力を拒否</translation>
+        <translation type="obsolete">重複する値の入力を拒否</translation>
     </message>
     <message>
         <source>Reject Revision</source>
@@ -10231,7 +10201,7 @@ Center</source>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>重複する値を削除</translation>
+        <translation type="obsolete">重複する値を削除</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
@@ -10244,6 +10214,10 @@ Center</source>
     <message>
         <source>Reset All Page Break</source>
         <translation>すべての改ページの再設定</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -10343,20 +10317,12 @@ Center</source>
         <translation>表示エリアの設定</translation>
     </message>
     <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Set Print Area</source>
         <translation>印刷範囲の設定</translation>
     </message>
     <message>
         <source>Set Print Region</source>
         <translation type="obsolete">印刷範囲の設定</translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Timing Backup</source>
@@ -10371,11 +10337,11 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Format Style</source>
+        <source>Shape Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Outline</source>
+        <source>Shape Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10580,6 +10546,10 @@ Center</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10800,16 +10770,8 @@ Chart Type</source>
         <translation type="obsolete">すべて表示する</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear Outline</source>
         <translation>アウトラインのクリア</translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -10833,7 +10795,7 @@ Chart Type</source>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>重複</translation>
+        <translation type="obsolete">重複</translation>
     </message>
     <message>
         <source>Edit
@@ -10875,7 +10837,7 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>重複する値を蛍光ペンで表示</translation>
+        <translation type="obsolete">重複する値を蛍光ペンで表示</translation>
     </message>
     <message>
         <source>Import Data</source>
@@ -10903,19 +10865,11 @@ DB クエリの編集</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>重複する値の入力を拒否</translation>
+        <translation type="obsolete">重複する値の入力を拒否</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>重複する値を削除</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">重複する値を削除</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -11562,6 +11516,10 @@ AddIns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>PDFファイルとして出力(F)</translation>
     </message>
@@ -11974,6 +11932,10 @@ Trig</source>
 <context>
     <name>rainbow.ct_home</name>
     <message>
+        <source>Above Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Across Center</source>
         <translation>選択範囲内で中央</translation>
     </message>
@@ -12042,8 +12004,28 @@ Trig</source>
         <translation>平均値</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>太字</translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -12052,10 +12034,6 @@ Trig</source>
     <message>
         <source>Bottom Double Border</source>
         <translation>下二重罫線</translation>
-    </message>
-    <message>
-        <source>Cancel Merge</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cells</source>
@@ -12094,139 +12072,11 @@ Trig</source>
         <translation>コメント</translation>
     </message>
     <message>
-        <source>ConditionDate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLateSeven</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateToday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateTomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateYesterday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgAbove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgBelow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialBetween</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLarge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLess</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialEmpty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialError</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextBeginWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextEndWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextNoContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Conditional Formatting</source>
         <translation>条件付き書式の設定</translation>
     </message>
     <message>
-        <source>ConditionalClear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalSelf</source>
+        <source>Contain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12254,12 +12104,20 @@ Trig</source>
         <translation>通貨</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Custom Sort</source>
         <translation>並べ替え</translation>
     </message>
     <message>
         <source>Cut</source>
         <translation>切り取り</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -12302,6 +12160,10 @@ Trig</source>
         <translation type="obsolete">設定</translation>
     </message>
     <message>
+        <source>Does not contain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Down</source>
         <translation>下方向へコピー</translation>
     </message>
@@ -12318,8 +12180,24 @@ Trig</source>
         <translation>編集</translation>
     </message>
     <message>
+        <source>Empty Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Erase Border</source>
         <translation>罫線の削除</translation>
+    </message>
+    <message>
+        <source>Error Value </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fill</source>
@@ -12387,6 +12265,10 @@ Trig</source>
         <translation>ジャンプ </translation>
     </message>
     <message>
+        <source>Greater than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hide Columns</source>
         <translation>列を表示しない</translation>
     </message>
@@ -12403,7 +12285,11 @@ Trig</source>
         <translation>非表示/再表示(U)</translation>
     </message>
     <message>
-        <source>HighLight</source>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12447,12 +12333,24 @@ Trig</source>
         <translation>斜体</translation>
     </message>
     <message>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation>左方向へコピー</translation>
     </message>
     <message>
         <source>Left Border</source>
         <translation>左罫線</translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -12503,6 +12401,14 @@ Center</source>
     <message>
         <source>Move or Copy Sheet</source>
         <translation>シートの移動またはコピー</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Border</source>
@@ -12617,6 +12523,10 @@ Center</source>
         <translation type="obsolete">降順</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Standard Width</source>
         <translation>標準の幅</translation>
     </message>
@@ -12633,6 +12543,10 @@ Center</source>
         <translation>シート見出しの色</translation>
     </message>
     <message>
+        <source>Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Text Color</source>
         <translation>フォントの色</translation>
     </message>
@@ -12643,6 +12557,30 @@ Center</source>
     <message>
         <source>Thick Box Border</source>
         <translation>外枠太罫線</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -12681,8 +12619,16 @@ Center</source>
         <translation>シートの再表示</translation>
     </message>
     <message>
+        <source>Unmerge Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>上方向へコピー</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Values</source>
@@ -12697,6 +12643,10 @@ Center</source>
         <translation>縦書きテキスト</translation>
     </message>
     <message>
+        <source>Weekend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WorkSheet</source>
         <translation>シート</translation>
     </message>
@@ -12704,6 +12654,10 @@ Center</source>
         <source>Wrap Text</source>
         <translation>折り返して
 全体を表示する</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13626,7 +13580,7 @@ Center</source>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>データの更新</translation>
+        <translation type="obsolete">データの更新</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -14073,6 +14027,10 @@ Other Windows</source>
         <translation type="obsolete">開発ツール</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Formula Bar</source>
         <translation>編集バー</translation>
     </message>
@@ -14127,10 +14085,6 @@ Other Windows</source>
     <message>
         <source>Print Headings</source>
         <translation>見出しの印刷</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -14940,24 +14894,12 @@ Color</source>
         <translation type="obsolete">自動バックアップ</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cloud Link</source>
         <translation>クラウドリンク</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
         <translation>自動バックアップの停止</translation>
-    </message>
-    <message>
-        <source>Duplicates</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -14973,6 +14915,10 @@ Color</source>
     </message>
     <message>
         <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14998,10 +14944,6 @@ Color</source>
     <message>
         <source>Help us to improve WPS Office</source>
         <translation>Kingsoft Officeを改良するために支援して下さい</translation>
-    </message>
-    <message>
-        <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KOS Cloud Feedback</source>
@@ -15080,32 +15022,12 @@ Color</source>
         <translation>クラウドファイルを開く</translation>
     </message>
     <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reject Duplicate Entries</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove Duplicates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
         <translation>ファイルをクラウドへ保存</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sign In</source>
@@ -18476,14 +18398,6 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation>アカウントの変更</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cloud Link</source>
         <translation>クラウドリンク</translation>
     </message>
@@ -18494,10 +18408,6 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <message>
         <source>Disable AutoBackup</source>
         <translation>自動バックアップの停止</translation>
-    </message>
-    <message>
-        <source>Duplicates</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -18524,12 +18434,12 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File Roaming</source>
-        <translation>ローミング</translation>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Highlight Duplicates</source>
-        <translation type="unfinished"></translation>
+        <source>File Roaming</source>
+        <translation>ローミング</translation>
     </message>
     <message>
         <source>KOS Change Login</source>
@@ -18580,10 +18490,6 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation type="obsolete">ログイン</translation>
     </message>
     <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reading Layout</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18592,27 +18498,11 @@ In most cases, you can also use the zoom controls in the status bar at the botto
         <translation>リチャージ</translation>
     </message>
     <message>
-        <source>Reject Duplicate Entries</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save to Cloud Docs</source>
         <translation>ファイルをクラウドへ保存</translation>
     </message>
     <message>
         <source>Set Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

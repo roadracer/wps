@@ -2465,6 +2465,85 @@ usar os botões para aplicar bordas</translation>
     </message>
 </context>
 <context>
+    <name>KxDlgDocumentFields</name>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocumentField Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert</source>
+        <translation type="unfinished">Inserir</translation>
+    </message>
+    <message>
+        <source>&amp;Rename</source>
+        <translation type="unfinished">renomear</translation>
+    </message>
+    <message>
+        <source>&amp;Go To</source>
+        <translation type="unfinished">ir para página</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Marks Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by:</source>
+        <translation type="unfinished">Ordenar Por:</translation>
+    </message>
+    <message>
+        <source>&amp;Name</source>
+        <translation type="unfinished">Nome</translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation type="unfinished">Localização</translation>
+    </message>
+    <message>
+        <source>DocumentField Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Hidden</source>
+        <translation type="unfinished">escondido</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read &amp;Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Apply All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insertion Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then counted in. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgDrawingGrid</name>
     <message>
         <source>Drawing Grid</source>
@@ -2946,6 +3025,10 @@ Se Necessário , Por Favor, Clique Em Cancelar.</translation>
     <message>
         <source>Document &amp;property:</source>
         <translation>Propriedade Do Documento :</translation>
+    </message>
+    <message>
+        <source>Add the &amp;path to the file name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5640,6 +5723,10 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
         <source>File sharing options for this document:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>D&amp;ocument fields</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -7508,6 +7595,29 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     </message>
 </context>
 <context>
+    <name>KxDocumentFieldsDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Fechar</translation>
+    </message>
+    <message>
+        <source>The document field with this name has already existed. Do you want to cover it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field is illegal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name of the document field has already existed, please rename it!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDropCapDlg</name>
     <message>
         <source>Number must be between 1 and 10.</source>
@@ -7700,7 +7810,7 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation>Presumir A Kingsoft.Wps Está Na Unidade C. Código de Campo : Hyperlink C : \\\\ Kingsoft.Wps</translation>
+        <translation type="obsolete">Presumir A Kingsoft.Wps Está Na Unidade C. Código de Campo : Hyperlink C : \\\\ Kingsoft.Wps</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -7712,7 +7822,7 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
-        <translation>Abra e Ative Os Kingsoft.Wps Arquivo Sob O Rígido C.</translation>
+        <translation type="obsolete">Abra e Ative Os Kingsoft.Wps Arquivo Sob O Rígido C.</translation>
     </message>
     <message>
         <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
@@ -7871,7 +7981,7 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</translation>
+        <translation type="obsolete">Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</translation>
     </message>
     <message>
         <source>IncludePicture</source>
@@ -7896,6 +8006,66 @@ O Botão Advanced Permite-Lhe Escolher Entre Diferentes Tipos de Criptografia .<
     <message>
         <source>Insert a document property</source>
         <translation>Insira Uma Propriedade de Documento</translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>root directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D:\\</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D drive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open and activate the file KingSoft.wps under the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IncludeText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert text to from a file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert the file name of the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forma&amp;t:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document &amp;property:</source>
+        <translation type="unfinished">Propriedade Do Documento :</translation>
     </message>
 </context>
 <context>
@@ -9941,6 +10111,10 @@ Esta Alteração Afetará Todos Os Novos Documentos Baseados No Modelo %1 .</tra
         <source>Read-only</source>
         <translation>Somente Leitura</translation>
     </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpDocProtectionWidget</name>
@@ -10035,6 +10209,10 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     <message>
         <source>You may edit in this region,but all changes will be tracked.</source>
         <translation>Você Pode Editar Nesta Região , Mas Todas As Alterações Serão Rastreadas.</translation>
+    </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11475,6 +11653,73 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
     </message>
 </context>
 <context>
+    <name>KxWpsPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Exibir</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Editar</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">Imprimir</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Salvar</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>In Line With Text</source>
@@ -11549,31 +11794,27 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
 <context>
     <name>KxWpsReviewPane</name>
     <message>
-        <source>REVIEWPANE</source>
+        <source>Reviewing Pane</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> Part</source>
+        <source>Insertions: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert: </source>
+        <source>Deletions: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete: </source>
+        <source>Formatting: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Format: </source>
+        <source>Comments: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Comment: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Revision: </source>
+        <source>Revision: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12002,11 +12243,11 @@ Selecione As Partes Do Documento e Selecione Os Usuários Que Têm Permissão Pa
 <context>
     <name>KxWpsWrapTextWidget</name>
     <message>
-        <source>close</source>
-        <translation type="unfinished"></translation>
+        <source>Close</source>
+        <translation type="unfinished">Fechar</translation>
     </message>
     <message>
-        <source>title</source>
+        <source>Layout options</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

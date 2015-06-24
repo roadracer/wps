@@ -6,14 +6,17 @@
     <name>KHomepage</name>
     <message>
         <source>Failed in downloading &quot;%1&quot;.</source>
-        <translation>Nieudane pobieranie &quot;%1&quot;.</translation>
+        <translation variants="yes">
+            <lengthvariant>Pobieranie &quot;%1&quot; nie powiodło się.</lengthvariant>
+            <lengthvariant>Nie udało się pobrać &quot;% 1&quot;.</lengthvariant>
+        </translation>
     </message>
 </context>
 <context>
     <name>KHomepageMainWindow</name>
     <message>
         <source>Create a blank document at startup</source>
-        <translation>Utwórz pusty dokument na starcie</translation>
+        <translation>Utwórz pusty dokument przy starcie</translation>
     </message>
     <message>
         <source>Current version:</source>
@@ -21,11 +24,17 @@
     </message>
     <message>
         <source>This is the latest version.</source>
-        <translation>To jest najnowsza wersja.</translation>
+        <translation variants="yes">
+            <lengthvariant>To jest najnowsza wersja.</lengthvariant>
+            <lengthvariant>Jest to najnowsza wersja.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Version is too old.</source>
-        <translation>Stara Wersja.</translation>
+        <translation variants="yes">
+            <lengthvariant>Wersja jest zbyt stara.</lengthvariant>
+            <lengthvariant>Wersja jest przestarzała.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
@@ -33,7 +42,10 @@
     </message>
     <message>
         <source>Restart to use newer version.</source>
-        <translation>Uruchom ponownie aby użyć nowej wersji.</translation>
+        <translation variants="yes">
+            <lengthvariant>Uruchom ponownie, aby użyć nowszej wersji.</lengthvariant>
+            <lengthvariant>Uruchom ponownie, aby korzystać z nowszej wersji.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -42,14 +54,17 @@
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translatorcomment>a</translatorcomment>
-        <translation>Sprawdź szablony Online</translation>
+        <translation>Sprawdź szablony online</translation>
     </message>
     <message>
         <source>Online Templates</source>
         <comment>title</comment>
-        <translatorcomment>a</translatorcomment>
         <translation>Szablony online</translation>
+    </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
+        <translation>Szablony online Pro</translation>
     </message>
 </context>
 </TS>

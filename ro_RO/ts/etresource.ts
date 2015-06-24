@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legendă</translation>
     </message>
 </context>
 <context>
@@ -813,6 +813,10 @@ interogare OLE DB</translation>
 <context>
     <name>classics.formatting</name>
     <message>
+        <source>Across Center</source>
+        <translation>Peste centru</translation>
+    </message>
+    <message>
         <source>Align Left</source>
         <translation>Aliniază la stânga</translation>
     </message>
@@ -826,7 +830,7 @@ interogare OLE DB</translation>
     </message>
     <message>
         <source>Cancel Merge</source>
-        <translation>Anulează combinarea</translation>
+        <translation type="obsolete">Anulează combinarea</translation>
     </message>
     <message>
         <source>Center</source>
@@ -834,7 +838,7 @@ interogare OLE DB</translation>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation>Centu coloane</translation>
+        <translation type="obsolete">Centu coloane</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -883,7 +887,8 @@ interogare OLE DB</translation>
     <message>
         <source>Join and
 Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Alătură și
+centrează</translation>
     </message>
     <message>
         <source>Merge Across</source>
@@ -905,6 +910,10 @@ Center</source>
     <message>
         <source>Percent Style</source>
         <translation>Stil procent</translation>
+    </message>
+    <message>
+        <source>Unmerge Cells</source>
+        <translation>Anulează combinare celule</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -935,7 +944,7 @@ Center</source>
     </message>
     <message>
         <source>Group Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Casetă grup</translation>
     </message>
     <message>
         <source>Label</source>
@@ -1205,7 +1214,7 @@ Center</source>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>Previzualizare întrerupere de linie</translation>
+        <translation>Previzualizare întrerupere de pagină</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -1300,6 +1309,10 @@ Center</source>
 <context>
     <name>classics.standard</name>
     <message>
+        <source>Above Average</source>
+        <translation>Peste medie</translation>
+    </message>
+    <message>
         <source>AutoFilter</source>
         <translation>Filtru automat</translation>
     </message>
@@ -1312,164 +1325,84 @@ Center</source>
         <translation>Medie</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation>Începe cu</translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation>Sub medie</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation>Între</translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation>Sub 10</translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation>Sub 10 %</translation>
+    </message>
+    <message>
         <source>Chart Wizard</source>
         <translation>Asistent grafic</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <source>Clear</source>
+        <translation>Curăță</translation>
     </message>
     <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLateSeven</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateToday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateTomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateYesterday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgAbove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgBelow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialBetween</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLarge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLess</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialEmpty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialError</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextBeginWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextEndWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextNoContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalClear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalSelf</source>
-        <translation type="unfinished"></translation>
+        <source>Contain</source>
+        <translation>Conține</translation>
     </message>
     <message>
         <source>Count</source>
         <translation>Calcul</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation>Personalizat</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>Data</translation>
+    </message>
+    <message>
+        <source>Does not contain</source>
+        <translation>Nu conține</translation>
+    </message>
+    <message>
         <source>Duplicates</source>
-        <translation>Duplicate</translation>
+        <translation type="obsolete">Duplicate</translation>
+    </message>
+    <message>
+        <source>Empty Cell</source>
+        <translation>Celulă goală</translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation>Terminat cu</translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation>Egal cu</translation>
     </message>
     <message>
         <source>Equation</source>
         <translation>Ecuație</translation>
     </message>
     <message>
+        <source>Error Value </source>
+        <translation>Valoare eroare </translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exportă ca PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -1480,16 +1413,40 @@ Center</source>
         <translation>Formule</translation>
     </message>
     <message>
+        <source>Greater than</source>
+        <translation>Mai mare decât</translation>
+    </message>
+    <message>
         <source>HighLight</source>
+        <translation type="obsolete">Evidențiat</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
         <translation>Evidențiat</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Evidențiază duplicatele</translation>
+        <translation type="obsolete">Evidențiază duplicatele</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation>În ultimele 7 zile</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
         <translation>Introdu Hyperlink</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation>Ultima lună</translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation>Ultima săptămână</translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation>Mai mic decât</translation>
     </message>
     <message>
         <source>Max</source>
@@ -1506,6 +1463,14 @@ Center</source>
     <message>
         <source>More Functions</source>
         <translation>Mai multe funcții</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation>Următoarea lună</translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation>Următoarea săptămână</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -1529,7 +1494,7 @@ Center</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -1541,23 +1506,15 @@ Center</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Respinge intrările duplicate</translation>
+        <translation type="obsolete">Respinge intrările duplicate</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Elimină duplicatele</translation>
+        <translation type="obsolete">Elimină duplicatele</translation>
     </message>
     <message>
         <source>Send E-mail</source>
         <translation>Trimite email</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -1568,12 +1525,44 @@ Center</source>
         <translation>Sortează descrescător</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation>Valoare specială</translation>
+    </message>
+    <message>
         <source>Sum</source>
         <translation>Sum</translation>
     </message>
     <message>
         <source>Switch Language</source>
         <translation>Comutare limbă</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Text</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation>Luna aceasta</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation>Săptămâna aceasta</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>Azi</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation>Mâine</translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation>Primele 10</translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation>Primele 10 %</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -1588,12 +1577,24 @@ Center</source>
         <translation>Transpune</translation>
     </message>
     <message>
+        <source>Value</source>
+        <translation>Valoare</translation>
+    </message>
+    <message>
         <source>Values</source>
         <translation>Valori</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
         <translation>Microblog WPS după vânzare</translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <translation>Weekend</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation>Ieri</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -2006,6 +2007,14 @@ Center</source>
         <translation>Verifică backup automat</translation>
     </message>
     <message>
+        <source>Clear Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Clip Art</source>
         <translation>Miniatură artistică</translation>
     </message>
@@ -2102,6 +2111,10 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Duplicates</source>
+        <translation>Duplicate</translation>
+    </message>
+    <message>
         <source>Edit</source>
         <translation>Editare</translation>
     </message>
@@ -2159,7 +2172,7 @@ Center</source>
     </message>
     <message>
         <source>Format Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Format legendă</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -2188,6 +2201,10 @@ Center</source>
     <message>
         <source>High-Low Line</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight Duplicates</source>
+        <translation>Evidențiază duplicatele</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -2299,7 +2316,7 @@ Center</source>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>Previzualizare întrerupere de linie</translation>
+        <translation>Previzualizare întrerupere de pagină</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -2356,7 +2373,7 @@ Directly</source>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Recalculate Workbook</source>
@@ -2373,6 +2390,20 @@ Directly</source>
     <message>
         <source>Redo</source>
         <translation>Refă</translation>
+    </message>
+    <message>
+        <source>Refresh
+Data</source>
+        <translation>Reâmprospătează
+data</translation>
+    </message>
+    <message>
+        <source>Reject Duplicate Entries</source>
+        <translation>Respinge intrările duplicate</translation>
+    </message>
+    <message>
+        <source>Remove Duplicates</source>
+        <translation>Elimină duplicatele</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -2416,8 +2447,16 @@ Directly</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Set Highlight Repeat Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set Language</source>
         <translation>Configurează limba</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -2710,11 +2749,16 @@ Window</source>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>Comutare UI</translation>
+        <translation type="obsolete">Comutare UI</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
+        <translation>Comutare UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation>Comutare UI</translation>
     </message>
     <message>
@@ -2919,6 +2963,11 @@ Window</source>
         <translation>Comutare UI</translation>
     </message>
     <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation>Comutare UI</translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>adevărat</translation>
     </message>
@@ -2979,7 +3028,7 @@ tipul graficului</translation>
     </message>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legendă</translation>
     </message>
     <message>
         <source>Select
@@ -3018,16 +3067,8 @@ rând</translation>
         <translation>Filtru automat</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear Outline</source>
         <translation>Curăță chenar</translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -3047,7 +3088,7 @@ rând</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Duplicate</translation>
+        <translation type="obsolete">Duplicate</translation>
     </message>
     <message>
         <source>Edit
@@ -3077,7 +3118,7 @@ interogare OLE DB</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Evidențiază duplicatele</translation>
+        <translation type="obsolete">Evidențiază duplicatele</translation>
     </message>
     <message>
         <source>Import 
@@ -3113,19 +3154,11 @@ tot</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Respinge intrările duplicate</translation>
+        <translation type="obsolete">Respinge intrările duplicate</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Elimină duplicatele</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Elimină duplicatele</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -3740,6 +3773,10 @@ pornit/oprit</translation>
         <translation>Introduceți codul de activare</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation>Exportă ca OFD</translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exportă ca PDF</translation>
     </message>
@@ -4055,6 +4092,14 @@ recent</translation>
 <context>
     <name>ongmani.ct_home</name>
     <message>
+        <source>Above Average</source>
+        <translation>Peste medie</translation>
+    </message>
+    <message>
+        <source>Across Center</source>
+        <translation>Peste centru</translation>
+    </message>
+    <message>
         <source>Across Sheets</source>
         <translation>Peste foi</translation>
     </message>
@@ -4084,7 +4129,7 @@ recent</translation>
     </message>
     <message>
         <source>All Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate chenarele</translation>
     </message>
     <message>
         <source>Angle Clockwise</source>
@@ -4119,8 +4164,28 @@ recent</translation>
         <translation>Medie</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation>Începe cu</translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation>Sub medie</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation>Între</translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>Aldin</translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation>Sub 10</translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation>Sub 10 %</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -4132,7 +4197,7 @@ recent</translation>
     </message>
     <message>
         <source>Cancel Merge</source>
-        <translation>Anulează combinarea</translation>
+        <translation type="obsolete">Anulează combinarea</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -4156,7 +4221,7 @@ recent</translation>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation>Centu coloane</translation>
+        <translation type="obsolete">Centu coloane</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -4167,140 +4232,12 @@ recent</translation>
         <translation>Comentarii</translation>
     </message>
     <message>
-        <source>ConditionDate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLateSeven</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateToday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateTomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateYesterday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgAbove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgBelow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialBetween</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLarge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLess</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialEmpty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialError</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextBeginWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextEndWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextNoContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatarea condițională</translation>
     </message>
     <message>
-        <source>ConditionalClear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalSelf</source>
-        <translation type="unfinished"></translation>
+        <source>Contain</source>
+        <translation>Conține</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -4327,12 +4264,20 @@ recent</translation>
         <translation>Monedă</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation>Personalizat</translation>
+    </message>
+    <message>
         <source>Custom Sort</source>
         <translation>Sortare personalizată</translation>
     </message>
     <message>
         <source>Cut</source>
         <translation>Taie</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -4367,6 +4312,10 @@ recent</translation>
         <translation>Descrescător</translation>
     </message>
     <message>
+        <source>Does not contain</source>
+        <translation>Nu conține</translation>
+    </message>
+    <message>
         <source>Down</source>
         <translation>Jos</translation>
     </message>
@@ -4383,8 +4332,24 @@ recent</translation>
         <translation>Se editează</translation>
     </message>
     <message>
+        <source>Empty Cell</source>
+        <translation>Celulă goală</translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation>Terminat cu</translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation>Egal cu</translation>
+    </message>
+    <message>
         <source>Erase Border</source>
         <translation>Șterge chenar</translation>
+    </message>
+    <message>
+        <source>Error Value </source>
+        <translation>Valoare eroare </translation>
     </message>
     <message>
         <source>Fill</source>
@@ -4442,6 +4407,10 @@ formatare</translation>
         <translation></translation>
     </message>
     <message>
+        <source>Greater than</source>
+        <translation>Mai mare decât</translation>
+    </message>
+    <message>
         <source>Hide Columns</source>
         <translation>Ascunde coloane</translation>
     </message>
@@ -4459,7 +4428,15 @@ formatare</translation>
     </message>
     <message>
         <source>HighLight</source>
+        <translation type="obsolete">Evidențiat</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
         <translation>Evidențiat</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation>În ultimele 7 zile</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -4511,12 +4488,24 @@ Center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Last month</source>
+        <translation>Ultima lună</translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation>Ultima săptămână</translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation>Stânga</translation>
     </message>
     <message>
         <source>Left Border</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation>Mai mic decât</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -4561,6 +4550,14 @@ Center</source>
     <message>
         <source>Move or Copy Sheet</source>
         <translation>Mută sau copiază foaia</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation>Următoarea lună</translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation>Următoarea săptămână</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -4629,8 +4626,12 @@ Columns</source>
 coloane</translation>
     </message>
     <message>
+        <source>Rows and Columns</source>
+        <translation>Rânduri și coloane</translation>
+    </message>
+    <message>
         <source>RowsColumn</source>
-        <translation>Rânduricoloană</translation>
+        <translation type="obsolete">Rânduricoloană</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -4653,6 +4654,10 @@ coloane</translation>
         <translation>Sortează</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation>Valoare specială</translation>
+    </message>
+    <message>
         <source>Standard Width</source>
         <translation>Lățime standard</translation>
     </message>
@@ -4669,6 +4674,10 @@ coloane</translation>
         <translation>Culoare filă</translation>
     </message>
     <message>
+        <source>Text</source>
+        <translation>Text</translation>
+    </message>
+    <message>
         <source>Text Color</source>
         <translation>Culoare text</translation>
     </message>
@@ -4679,6 +4688,30 @@ coloane</translation>
     <message>
         <source>Thick Box Border</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation>Luna aceasta</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation>Săptămâna aceasta</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>Azi</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation>Mâine</translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation>Primele 10</translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation>Primele 10 %</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -4717,8 +4750,16 @@ coloane</translation>
         <translation>Arată foaia</translation>
     </message>
     <message>
+        <source>Unmerge Cells</source>
+        <translation>Anulează combinare celule</translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>Sus</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation>Valoare</translation>
     </message>
     <message>
         <source>Values</source>
@@ -4733,12 +4774,20 @@ coloane</translation>
         <translation>Text vertical</translation>
     </message>
     <message>
+        <source>Weekend</source>
+        <translation>Weekend</translation>
+    </message>
+    <message>
         <source>Worksheet</source>
         <translation>Foaie de lucru</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <translation>Încadrare text</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation>Ieri</translation>
     </message>
 </context>
 <context>
@@ -5010,7 +5059,7 @@ Forward</source>
     </message>
     <message>
         <source>Delete Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge întreruperea de pagină</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -5098,7 +5147,7 @@ titlurile</translation>
     </message>
     <message>
         <source>Reset All Page Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetează toate întreruperile de pagină</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -5621,7 +5670,7 @@ tabel pivot</translation>
     <message>
         <source>Refresh
 Data</source>
-        <translation>Reâmprospătează data</translation>
+        <translation type="obsolete">Reâmprospătează data</translation>
     </message>
     <message>
         <source>Show
@@ -5704,7 +5753,8 @@ pagină</translation>
     <message>
         <source>Page Break
 Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare
+întrerupere de pagină</translation>
     </message>
     <message>
         <source>Page Zoom</source>
@@ -6030,6 +6080,10 @@ alte ferestre</translation>
         <translation>Dezvoltator</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
+    </message>
+    <message>
         <source>Formula Bar</source>
         <translation>Bara formulei</translation>
     </message>
@@ -6072,7 +6126,8 @@ nouă</translation>
     <message>
         <source>Page Break 
 Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previzualizare
+întrerupere de pagină</translation>
     </message>
     <message>
         <source>Print Gridlines</source>
@@ -6084,12 +6139,13 @@ Preview</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Reading
 Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește
+aspectul</translation>
     </message>
     <message>
         <source>Security</source>
@@ -6853,14 +6909,6 @@ Cuvânt stilizat</translation>
 <context>
     <name>ongmani.ct_workspace</name>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cloud Link</source>
         <translation>Link nor</translation>
     </message>
@@ -6870,7 +6918,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Duplicate</translation>
+        <translation type="obsolete">Duplicate</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -6879,6 +6927,10 @@ Cuvânt stilizat</translation>
     <message>
         <source>Export to PDF</source>
         <translation>Exportă ca PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -6902,7 +6954,7 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Evidențiază duplicatele</translation>
+        <translation type="obsolete">Evidențiază duplicatele</translation>
     </message>
     <message>
         <source>KOS User Data Tools</source>
@@ -6930,31 +6982,23 @@ Cuvânt stilizat</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Respinge intrările duplicate</translation>
+        <translation type="obsolete">Respinge intrările duplicate</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Elimină duplicatele</translation>
+        <translation type="obsolete">Elimină duplicatele</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
         <translation>Salvează în norul documentelor</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -7014,6 +7058,10 @@ Cuvânt stilizat</translation>
     <message>
         <source>Accept Changes</source>
         <translation>Accept modificările</translation>
+    </message>
+    <message>
+        <source>Across Center</source>
+        <translation>Peste centru</translation>
     </message>
     <message>
         <source>Across Sheets</source>
@@ -7195,7 +7243,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Cancel Merge</source>
-        <translation>Anulează combinarea</translation>
+        <translation type="obsolete">Anulează combinarea</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -7262,20 +7310,12 @@ Add-Ins</translation>
         <translation>Curăță conținutul</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear Outline</source>
         <translation>Curăță chenar</translation>
     </message>
     <message>
         <source>Clear Print Area</source>
         <translation>Curăță zona de tipărit</translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -7311,7 +7351,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Columns Center</source>
-        <translation>Centu coloane</translation>
+        <translation type="obsolete">Centu coloane</translation>
     </message>
     <message>
         <source>Comma Style</source>
@@ -7462,10 +7502,6 @@ Add-Ins</translation>
         <translation>Distribuie vertical</translation>
     </message>
     <message>
-        <source>Duplicates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Edit Comment</source>
         <translation>Editare comentariu</translation>
     </message>
@@ -7542,8 +7578,16 @@ Add-Ins</translation>
         <translation>Ieșire editare punct</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation>Exportă ca OFD</translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exportă ca PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -7672,7 +7716,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Format Gridlines</source>
-        <translation type="unfinished"></translation>
+        <translation>Format linii grilă</translation>
     </message>
     <message>
         <source>Format High-Low Lines</source>
@@ -7680,7 +7724,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Format Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Format etichetă</translation>
     </message>
     <message>
         <source>Format Leader Lines</source>
@@ -7688,11 +7732,11 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Format Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Format legendă</translation>
     </message>
     <message>
         <source>Format Legend Entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Format intrare legendă</translation>
     </message>
     <message>
         <source>Format Legend Key</source>
@@ -7800,7 +7844,7 @@ Add-Ins</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Evidențiază duplicatele</translation>
+        <translation type="obsolete">Evidențiază duplicatele</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -7859,19 +7903,6 @@ Add-Ins</translation>
         <translation>Cursiv</translation>
     </message>
     <message>
-        <source>Join Cells</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join and
-Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join and Center</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Left</source>
         <translation>Stânga</translation>
     </message>
@@ -7904,6 +7935,10 @@ Center</source>
         <translation>Macrocomandă</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>Backup manual</translation>
     </message>
@@ -7916,12 +7951,20 @@ Center</source>
         <translation>Combină</translation>
     </message>
     <message>
+        <source>Merge Cells</source>
+        <translation>Combină celulele</translation>
+    </message>
+    <message>
         <source>Merge Columns</source>
         <translation>Combină coloane</translation>
     </message>
     <message>
+        <source>Merge and Center</source>
+        <translation>Combină și centrează</translation>
+    </message>
+    <message>
         <source>Merge and Center Cells</source>
-        <translation>Combină și centrează celule</translation>
+        <translation type="obsolete">Combină și centrează celule</translation>
     </message>
     <message>
         <source>Min</source>
@@ -8057,7 +8100,7 @@ Center</source>
     </message>
     <message>
         <source>Pick from Drop-down List</source>
-        <translation type="unfinished"></translation>
+        <translation>Alege din lista desfășurată</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -8065,7 +8108,7 @@ Center</source>
     </message>
     <message>
         <source>Picture Format Style</source>
-        <translation>Stil format poză</translation>
+        <translation type="obsolete">Stil format poză</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -8093,7 +8136,7 @@ Center</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Protect Sheet</source>
@@ -8115,7 +8158,7 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -8135,7 +8178,7 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Respinge intrările duplicate</translation>
+        <translation type="obsolete">Respinge intrările duplicate</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -8143,7 +8186,7 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Elimină duplicatele</translation>
+        <translation type="obsolete">Elimină duplicatele</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
@@ -8156,6 +8199,10 @@ registrul de lucru</translation>
     <message>
         <source>Reset All Page Break</source>
         <translation>Resetează toate întreruperile de pagină</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation>Acces restricționat</translation>
     </message>
     <message>
         <source>Right Border</source>
@@ -8244,19 +8291,11 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Set Display Area</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurează zona de afișat</translation>
     </message>
     <message>
         <source>Set Print Area</source>
         <translation>Configurează zona de tipărit</translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Timing Backup</source>
@@ -8272,11 +8311,15 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Shape Format Style</source>
-        <translation>Stil format formă</translation>
+        <translation type="obsolete">Stil format formă</translation>
     </message>
     <message>
         <source>Shape Outline</source>
         <translation>Contur formă</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation>Stiluri formă</translation>
     </message>
     <message>
         <source>Share Workbook</source>
@@ -8348,11 +8391,11 @@ registrul de lucru</translation>
     </message>
     <message>
         <source>Start Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornește citirea aspectului</translation>
     </message>
     <message>
         <source>Stop Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprește citirea aspectului</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -8465,6 +8508,10 @@ registrul de lucru</translation>
     <message>
         <source>Unmerge Cells</source>
         <translation>Anulează combinare celule</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation>Acces nerestricționat</translation>
     </message>
     <message>
         <source>Up</source>
@@ -8610,7 +8657,7 @@ tipul graficului</translation>
     </message>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legendă</translation>
     </message>
     <message>
         <source>Select Data</source>
@@ -8644,16 +8691,8 @@ tipul graficului</translation>
         <translation>Filtru automat</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Clear Outline</source>
         <translation>Curăță chenar</translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -8661,11 +8700,11 @@ tipul graficului</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietăți interval date</translation>
     </message>
     <message>
         <source>Data Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Unelte date</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -8673,7 +8712,7 @@ tipul graficului</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Duplicate</translation>
+        <translation type="obsolete">Duplicate</translation>
     </message>
     <message>
         <source>Edit
@@ -8702,7 +8741,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Evidențiază duplicatele</translation>
+        <translation type="obsolete">Evidențiază duplicatele</translation>
     </message>
     <message>
         <source>Import Data</source>
@@ -8730,19 +8769,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Respinge intrările duplicate</translation>
+        <translation type="obsolete">Respinge intrările duplicate</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Elimină duplicatele</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Elimină duplicatele</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9308,6 +9339,10 @@ Add-Ins</translation>
         <translation>Introduceți codul de activare</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation>Exportă ca OFD</translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exportă ca PDF</translation>
     </message>
@@ -9587,7 +9622,7 @@ Trig</source>
     </message>
     <message>
         <source>Name Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume administrator</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -9616,6 +9651,10 @@ Trig</source>
 </context>
 <context>
     <name>rainbow.ct_home</name>
+    <message>
+        <source>Above Average</source>
+        <translation>Peste medie</translation>
+    </message>
     <message>
         <source>Across Center</source>
         <translation>Peste centru</translation>
@@ -9654,11 +9693,11 @@ Trig</source>
     </message>
     <message>
         <source>Angle Clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Unghi în sens orar</translation>
     </message>
     <message>
         <source>Angle Counterclockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Unghi antiorar</translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -9685,8 +9724,28 @@ Trig</source>
         <translation>Medie</translation>
     </message>
     <message>
+        <source>Begin with</source>
+        <translation>Începe cu</translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation>Sub medie</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation>Între</translation>
+    </message>
+    <message>
         <source>Bold</source>
         <translation>Aldin</translation>
+    </message>
+    <message>
+        <source>Bottom 10</source>
+        <translation>Sub 10</translation>
+    </message>
+    <message>
+        <source>Bottom 10 %</source>
+        <translation>Sub 10 %</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -9698,7 +9757,7 @@ Trig</source>
     </message>
     <message>
         <source>Cancel Merge</source>
-        <translation>Anulează combinarea</translation>
+        <translation type="obsolete">Anulează combinarea</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -9729,140 +9788,12 @@ Trig</source>
         <translation>Comentarii</translation>
     </message>
     <message>
-        <source>ConditionDate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLastWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateLateSeven</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextMonth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateNextWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateToday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateTomorrow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeek</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateWeekend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionDateYesterday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgAbove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialAvgBelow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialBetween</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialEqual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLarge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLess</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialLowPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopCount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionNumerialTopPercent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialEmpty</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionSpecialError</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextBeginWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextEndWith</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionTextNoContain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Conditional Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatarea condițională</translation>
     </message>
     <message>
-        <source>ConditionalClear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ConditionalSelf</source>
-        <translation type="unfinished"></translation>
+        <source>Contain</source>
+        <translation>Conține</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
@@ -9885,12 +9816,20 @@ Trig</source>
         <translation>Monedă</translation>
     </message>
     <message>
+        <source>Custom</source>
+        <translation>Personalizat</translation>
+    </message>
+    <message>
         <source>Custom Sort</source>
         <translation>Sortare personalizată</translation>
     </message>
     <message>
         <source>Cut</source>
         <translation>Taie</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -9925,6 +9864,10 @@ Trig</source>
         <translation>Descrescător</translation>
     </message>
     <message>
+        <source>Does not contain</source>
+        <translation>Nu conține</translation>
+    </message>
+    <message>
         <source>Down</source>
         <translation>Jos</translation>
     </message>
@@ -9941,8 +9884,24 @@ Trig</source>
         <translation>Se editează</translation>
     </message>
     <message>
+        <source>Empty Cell</source>
+        <translation>Celulă goală</translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation>Terminat cu</translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation>Egal cu</translation>
+    </message>
+    <message>
         <source>Erase Border</source>
         <translation>Șterge chenar</translation>
+    </message>
+    <message>
+        <source>Error Value </source>
+        <translation>Valoare eroare </translation>
     </message>
     <message>
         <source>Fill</source>
@@ -9993,6 +9952,10 @@ Trig</source>
         <translation>Mergi la</translation>
     </message>
     <message>
+        <source>Greater than</source>
+        <translation>Mai mare decât</translation>
+    </message>
+    <message>
         <source>Hide Columns</source>
         <translation>Ascunde coloane</translation>
     </message>
@@ -10010,7 +9973,15 @@ Trig</source>
     </message>
     <message>
         <source>HighLight</source>
+        <translation type="obsolete">Evidențiat</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
         <translation>Evidențiat</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation>În ultimele 7 zile</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -10053,12 +10024,24 @@ Trig</source>
         <translation>Cursiv</translation>
     </message>
     <message>
+        <source>Last month</source>
+        <translation>Ultima lună</translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation>Ultima săptămână</translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation>Stânga</translation>
     </message>
     <message>
         <source>Left Border</source>
         <translation>Chenar stâng</translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation>Mai mic decât</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -10109,6 +10092,14 @@ centrează</translation>
     <message>
         <source>Move or Copy Sheet</source>
         <translation>Mută sau copiază foaia</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation>Următoarea lună</translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation>Următoarea săptămână</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -10195,6 +10186,10 @@ centrează</translation>
         <translation>Sortează</translation>
     </message>
     <message>
+        <source>Special Value</source>
+        <translation>Valoare specială</translation>
+    </message>
+    <message>
         <source>Standard Width</source>
         <translation>Lățime standard</translation>
     </message>
@@ -10211,6 +10206,10 @@ centrează</translation>
         <translation>Culoare filă</translation>
     </message>
     <message>
+        <source>Text</source>
+        <translation>Text</translation>
+    </message>
+    <message>
         <source>Text Color</source>
         <translation>Culoare text</translation>
     </message>
@@ -10221,6 +10220,30 @@ centrează</translation>
     <message>
         <source>Thick Box Border</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation>Luna aceasta</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation>Săptămâna aceasta</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>Azi</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation>Mâine</translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation>Primele 10</translation>
+    </message>
+    <message>
+        <source>Top 10 %</source>
+        <translation>Primele 10 %</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -10259,8 +10282,16 @@ centrează</translation>
         <translation>Arată foaia</translation>
     </message>
     <message>
+        <source>Unmerge Cells</source>
+        <translation>Anulează combinare celule</translation>
+    </message>
+    <message>
         <source>Up</source>
         <translation>Sus</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation>Valoare</translation>
     </message>
     <message>
         <source>Values</source>
@@ -10275,12 +10306,20 @@ centrează</translation>
         <translation>Text vertical</translation>
     </message>
     <message>
+        <source>Weekend</source>
+        <translation>Weekend</translation>
+    </message>
+    <message>
         <source>WorkSheet</source>
         <translation>Foaie de lucru</translation>
     </message>
     <message>
         <source>Wrap Text</source>
         <translation>Încadrare text</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation>Ieri</translation>
     </message>
 </context>
 <context>
@@ -10512,7 +10551,7 @@ centrează</translation>
     </message>
     <message>
         <source>Delete Page Break</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge întreruperea de pagină</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -10600,7 +10639,7 @@ centrează</translation>
     </message>
     <message>
         <source>Reset All Page Breaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetează toate întreruperile de pagină</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -11097,7 +11136,7 @@ centrează</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>Reâmprospătează data</translation>
+        <translation type="obsolete">Reâmprospătează data</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -11164,7 +11203,7 @@ centrează</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>Previzualizare întrerupere de linie</translation>
+        <translation>Previzualizare întrerupere de pagină</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -11481,6 +11520,10 @@ Other Windows</source>
         <translation>Dezvoltator</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
+    </message>
+    <message>
         <source>Formula Bar</source>
         <translation>Bara formulei</translation>
     </message>
@@ -11518,7 +11561,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>Previzualizare întrerupere de linie</translation>
+        <translation>Previzualizare întrerupere de pagină</translation>
     </message>
     <message>
         <source>Print Gridlines</source>
@@ -11530,11 +11573,11 @@ Other Windows</source>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Security</source>
@@ -12252,14 +12295,6 @@ umbră</translation>
 <context>
     <name>rainbow.ct_workspace</name>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cloud Link</source>
         <translation>Link nor</translation>
     </message>
@@ -12269,7 +12304,7 @@ umbră</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Duplicate</translation>
+        <translation type="obsolete">Duplicate</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -12278,6 +12313,10 @@ umbră</translation>
     <message>
         <source>Export to PDF</source>
         <translation>Exportă ca PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -12297,7 +12336,7 @@ umbră</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Evidențiază duplicatele</translation>
+        <translation type="obsolete">Evidențiază duplicatele</translation>
     </message>
     <message>
         <source>KOS User Data Tools</source>
@@ -12325,31 +12364,23 @@ umbră</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Respinge intrările duplicate</translation>
+        <translation type="obsolete">Respinge intrările duplicate</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Elimină duplicatele</translation>
+        <translation type="obsolete">Elimină duplicatele</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
         <translation>Salvează în norul documentelor</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -12375,14 +12406,6 @@ umbră</translation>
         <translation>Schimbă contul</translation>
     </message>
     <message>
-        <source>Clear Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cloud Link</source>
         <translation>Link nor</translation>
     </message>
@@ -12392,7 +12415,7 @@ umbră</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Duplicate</translation>
+        <translation type="obsolete">Duplicate</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -12403,12 +12426,16 @@ umbră</translation>
         <translation>Exportă ca PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation>Mod protejare vedere</translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>Roaming fișier</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Evidențiază duplicatele</translation>
+        <translation type="obsolete">Evidențiază duplicatele</translation>
     </message>
     <message>
         <source>KOS Open Cloud File</source>
@@ -12424,11 +12451,11 @@ umbră</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation>Mod protejare vedere</translation>
+        <translation type="obsolete">Mod protejare vedere</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește aspectul</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -12436,11 +12463,11 @@ umbră</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
-        <translation>Respinge intrările duplicate</translation>
+        <translation type="obsolete">Respinge intrările duplicate</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation>Elimină duplicatele</translation>
+        <translation type="obsolete">Elimină duplicatele</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -12449,14 +12476,6 @@ umbră</translation>
     <message>
         <source>Set Color</source>
         <translation>Configurează culoare</translation>
-    </message>
-    <message>
-        <source>Set Highlight Repeat Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Reject Insert Repeat Items</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -12468,11 +12487,11 @@ umbră</translation>
     </message>
     <message>
         <source>Start Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Pornește citirea aspectului</translation>
     </message>
     <message>
         <source>Stop Reading Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprește citirea aspectului</translation>
     </message>
     <message>
         <source>User Feedback</source>

@@ -1854,13 +1854,13 @@
         <translation>Refuser le commentaire sélectionné</translation>
     </message>
     <message>
-        <source>ReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reviewers</source>
         <translatorcomment>View-&gt;Toolbars-&gt;Reviewing-&gt;Show</translatorcomment>
         <translation>Relecteurs</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -1873,11 +1873,23 @@
         <translation>Afficher toutes les révisions dans le texte</translation>
     </message>
     <message>
-        <source>Show Author</source>
+        <source>Show Comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Reviewers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1995,6 +2007,10 @@
         <translation>Exporter au format PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Fast Calculation</source>
         <translatorcomment>View-&gt;Toolbars-&gt;Standard</translatorcomment>
         <translation>Calcul rapide</translation>
@@ -2077,10 +2093,6 @@
         <source>Paste Special</source>
         <translatorcomment>View-&gt;Toolbars-&gt;Standard-&gt;Paste</translatorcomment>
         <translation type="obsolete">Collage spécial</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -3674,6 +3686,10 @@ du texte</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translatorcomment>Title bar-&gt;Click Application buttonw-&gt;In the drop down menu,Click Save as</translatorcomment>
         <translation>Exporter au format PDF</translation>
@@ -4592,6 +4608,10 @@ style</translation>
         <source>Date and Time</source>
         <translatorcomment>Insert tab</translatorcomment>
         <translation>Date et heure</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -6561,7 +6581,7 @@ la table des matières</translation>
     <message>
         <source>Change Tracking Options...</source>
         <translatorcomment>Review tab-&gt;Track Changes</translatorcomment>
-        <translation>Modifier les options de suivi...</translation>
+        <translation type="obsolete">Modifier les options de suivi...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -6678,13 +6698,21 @@ commentaire</translation>
 la modification</translation>
     </message>
     <message>
-        <source>ReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reviewers</source>
         <translatorcomment>Review tab-&gt;Show</translatorcomment>
         <translation>Relecteurs</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -6701,7 +6729,19 @@ la modification</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6731,6 +6771,10 @@ Changes</source>
 des modifications</translation>
     </message>
     <message>
+        <source>Track Changes Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tracking</source>
         <translatorcomment>Review tab(visible in 2012 skin of Chinese version)</translatorcomment>
         <translation>Suivi</translation>
@@ -6745,14 +6789,6 @@ des modifications</translation>
 Count</source>
         <translatorcomment>Review tab</translatorcomment>
         <translation>Statistiques</translation>
-    </message>
-    <message>
-        <source>horzReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>vertReviewPane</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7843,6 +7879,10 @@ de documents</translation>
         <translation>Affichages du document</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full 
 Screen</source>
         <translatorcomment>View tab</translatorcomment>
@@ -7912,10 +7952,6 @@ Layout</source>
         <translatorcomment>View tab</translatorcomment>
         <translation>Mode 
 Page</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -9083,6 +9119,10 @@ automatiquement</translation>
         <translation>Exporter au format PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Backup</source>
         <translation>Sauvegarde de fichier</translation>
     </message>
@@ -9143,7 +9183,7 @@ automatiquement</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation type="unfinished">Mode de protection des yeux</translation>
+        <translation type="obsolete">Mode de protection des yeux</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -9902,8 +9942,16 @@ une diagonale dans la cellule</translation>
         <translation>Exporter en tant qu&apos;image</translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exporter au format PDF</translation>
+    </message>
+    <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -9930,7 +9978,7 @@ une diagonale dans la cellule</translation>
         <translation>Retrait de la première ligne</translation>
     </message>
     <message>
-        <source>FixedText</source>
+        <source>Fixed Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9939,10 +9987,6 @@ une diagonale dans la cellule</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FollowText</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10147,7 +10191,7 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>InlineWrapText</source>
+        <source>In line with text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10260,6 +10304,10 @@ Painter</source>
         <translation>Barre d’outils Fusion et publipostage</translation>
     </message>
     <message>
+        <source>Manage Credential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manual Backup</source>
         <translation>Sauvegarde manuelle</translation>
     </message>
@@ -10334,6 +10382,10 @@ Painter</source>
     <message>
         <source>Move Here</source>
         <translation>Déplacer ici</translation>
+    </message>
+    <message>
+        <source>Move With Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Window</source>
@@ -10485,10 +10537,6 @@ Painter</source>
         <translation>Image</translation>
     </message>
     <message>
-        <source>Picture Format Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Place on Left</source>
         <translation>Placer à gauche</translation>
     </message>
@@ -10511,10 +10559,6 @@ Painter</source>
     <message>
         <source>Properties</source>
         <translation>Propriétés</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -10593,7 +10637,19 @@ Painter</source>
         <translation>Restreindre la modification</translation>
     </message>
     <message>
-        <source>ReviewPane</source>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10718,11 +10774,11 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Format Style</source>
+        <source>Shape Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Shape Outline</source>
+        <source>Shape Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10925,6 +10981,10 @@ Painter</source>
         <translation>Unité</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation>Commentaires des utilisateur</translation>
     </message>
@@ -11049,15 +11109,7 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>horzReviewPane</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>numbering_0</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>vertReviewPane</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11878,6 +11930,10 @@ une diagonale dans la cellule</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exporter au format PDF</translation>
     </message>
@@ -12603,6 +12659,10 @@ en-tête/pied de page</translation>
     <message>
         <source>Date and Time</source>
         <translation>Date et heure</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Draw Table</source>
@@ -14137,7 +14197,7 @@ la table des matières</translation>
     </message>
     <message>
         <source>Change Tracking Options...</source>
-        <translation>Modifier les options de suivi...</translation>
+        <translation type="obsolete">Modifier les options de suivi...</translation>
     </message>
     <message>
         <source>Change User Name...</source>
@@ -14266,7 +14326,19 @@ la modification</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show FormatChange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show InsAndDel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14288,6 +14360,10 @@ la modification</translation>
     <message>
         <source>Track Changes</source>
         <translation>Suivi des modifications</translation>
+    </message>
+    <message>
+        <source>Track Changes Options...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tracking</source>
@@ -15052,6 +15128,10 @@ les autres fenêtres</translation>
         <translation>Affichages du document</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Full Screen</source>
         <translation>Plein écran</translation>
     </message>
@@ -15102,10 +15182,6 @@ les autres fenêtres</translation>
     <message>
         <source>Print Layout</source>
         <translation>Mode Page</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -16089,6 +16165,10 @@ automatiquement</translation>
         <translation>Exporter au format PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Backup</source>
         <translation>Sauvegarde de fichier</translation>
     </message>
@@ -16142,7 +16222,7 @@ automatiquement</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
-        <translation type="unfinished">Mode de protection des yeux</translation>
+        <translation type="obsolete">Mode de protection des yeux</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -16276,6 +16356,10 @@ des utilisateurs</translation>
         <translation>Exporter au format PDF</translation>
     </message>
     <message>
+        <source>Eye Protection Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>File Roaming</source>
         <translation>File Roaming</translation>
     </message>
@@ -16294,10 +16378,6 @@ des utilisateurs</translation>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>Ouvrir à partir de Cloud Docs</translation>
-    </message>
-    <message>
-        <source>Protect Eyes Mode</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -16667,6 +16747,10 @@ des utilisateurs</translation>
     <message>
         <source>Document Collaboration</source>
         <translation type="unfinished">Collaboration sur les documents</translation>
+    </message>
+    <message>
+        <source>DocumentField</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
@@ -17418,12 +17502,18 @@ directement</translation>
 <context>
     <name>wpsongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
-        <source>Professional Switch UI</source>
+        <source>Switch UI</source>
+        <translation type="obsolete">Changer d&apos;interface utilisateur</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Changer d&apos;interface utilisateur</translation>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>true</source>
@@ -17646,16 +17736,17 @@ directement</translation>
         <translation type="obsolete">OK</translation>
     </message>
     <message>
-        <source>Professional Switch UI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Switch UI</source>
-        <translation type="obsolete">Changer d&apos;interface utilisateur</translation>
+        <translation type="unfinished">Changer d&apos;interface utilisateur</translation>
     </message>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>

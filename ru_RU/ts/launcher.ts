@@ -6,27 +6,27 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>KLauncherWidget</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Добро пожаловать в WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать ярлыки на рабочем столе</translation>
     </message>
 </context>
 <context>
@@ -34,16 +34,16 @@
     <message>
         <source>Usage: %1 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Использование: %1</translation>
     </message>
     <message>
         <source>    or %1 &lt;wps|wpp|et&gt; [document_path]
 </source>
-        <translation type="unfinished"></translation>
+        <translation>   или %1 &lt;wps|wpp|et&gt; [document_path]</translation>
     </message>
     <message>
         <source>:/qm/%1.qm</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 </TS>

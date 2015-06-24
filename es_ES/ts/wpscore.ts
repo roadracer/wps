@@ -161,11 +161,21 @@ Try one or more of the following:
 2、Check whether the source file is protected.
 3、Ensure that the source file is in the appropriate directory.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>WPS Writer encontró un error cuando intentaba actualizar archivo de origen.
+        <translation type="obsolete">WPS Writer encontró un error cuando intentaba actualizar archivo de origen.
 Intente uno o más de los siguientes:
 1.Compruebe si el archivo de origen está abierto o ocupado por otros programas.
 2.Compruebe si el archivo de origen está protegido.
 3.Asegure que el archivo de origen está en el directorio correcto.</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2682,7 +2692,7 @@ Do you want to continue?</source>
     <message>
         <source>WPSV6-TEXT</source>
         <comment>_TxFilter_ConfigKey</comment>
-        <translation>WPSV6-TEXT</translation>
+        <translation type="obsolete">WPSV6-TEXT</translation>
     </message>
     <message>
         <source>builtin.wpt</source>
@@ -6985,6 +6995,11 @@ Check</source>
     <message>
         <source>Colorful Grid Accent 6</source>
         <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

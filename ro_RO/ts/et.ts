@@ -944,11 +944,15 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Queries currently being excuted in the background:</source>
-        <translation>Interogările sunt executate actualmente în fundal:</translation>
+        <translation type="obsolete">Interogările sunt executate actualmente în fundal:</translation>
     </message>
     <message>
         <source>Status</source>
         <translation>Stare</translation>
+    </message>
+    <message>
+        <source>Queries currently being executed in the background:</source>
+        <translation>Interogările sunt executate actualmente în fundal:</translation>
     </message>
 </context>
 <context>
@@ -1037,35 +1041,35 @@ condiția este adevărată:</translation>
     <name>KxConditionHighLightDlg</name>
     <message>
         <source>HighLight - Numerial</source>
-        <translation>Evidențiat - Numeric</translation>
+        <translation type="obsolete">Evidențiat - Numeric</translation>
     </message>
     <message>
         <source>Numerial_Equal</source>
-        <translation>Numeric_Egal</translation>
+        <translation type="obsolete">Numeric_Egal</translation>
     </message>
     <message>
         <source>Numerial_NoEqual</source>
-        <translation>Numeric_Inegal</translation>
+        <translation type="obsolete">Numeric_Inegal</translation>
     </message>
     <message>
         <source>Numerial_Large</source>
-        <translation>Numeric_Larg</translation>
+        <translation type="obsolete">Numeric_Larg</translation>
     </message>
     <message>
         <source>Numerial_LargeEqual</source>
-        <translation>Numeric_LargEgal</translation>
+        <translation type="obsolete">Numeric_LargEgal</translation>
     </message>
     <message>
         <source>Numerial_Less</source>
-        <translation>Numeric_Puțin</translation>
+        <translation type="obsolete">Numeric_Puțin</translation>
     </message>
     <message>
         <source>Numerial_LessEqual</source>
-        <translation>Numeric_PuținEgal</translation>
+        <translation type="obsolete">Numeric_PuținEgal</translation>
     </message>
     <message>
         <source>Numerial_BetweenMidfix</source>
-        <translation>Numeric_Întremijloc</translation>
+        <translation type="obsolete">Numeric_Întremijloc</translation>
     </message>
     <message>
         <source>Numerial_BetweenSuffix</source>
@@ -1073,147 +1077,271 @@ condiția este adevărată:</translation>
     </message>
     <message>
         <source>Numerial_Between</source>
-        <translation>Numeric_Între</translation>
+        <translation type="obsolete">Numeric_Între</translation>
     </message>
     <message>
         <source>Numerial_NoBetween</source>
-        <translation>Numeric_NuÎntre</translation>
-    </message>
-    <message>
-        <source>Numerial_TopCountPrefix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_TopCountSuffix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_LowCountPrefix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_LowCountSuffix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_TopPercentPrefix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_TopPercentSuffix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_LowPercentPrefix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_LowPercentSuffix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Numerial_AvgSuffix</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Numeric_NuÎntre</translation>
     </message>
     <message>
         <source>Numerial_AvgAbove</source>
-        <translation>Numeric_PesteMedie</translation>
+        <translation type="obsolete">Numeric_PesteMedie</translation>
     </message>
     <message>
         <source>Numerial_AvgBelow</source>
-        <translation>Numeric_SubMedie</translation>
+        <translation type="obsolete">Numeric_SubMedie</translation>
     </message>
     <message>
         <source>HighLight - Text</source>
-        <translation>Evidențiat - Text</translation>
+        <translation type="obsolete">Evidențiat - Text</translation>
     </message>
     <message>
         <source>Text_Contain</source>
-        <translation>Text_conține</translation>
+        <translation type="obsolete">Text_conține</translation>
     </message>
     <message>
         <source>Text_NoContain</source>
-        <translation>Text_nuconține</translation>
+        <translation type="obsolete">Text_nuconține</translation>
     </message>
     <message>
         <source>Text_BeginWith</source>
-        <translation>Text_începecu</translation>
+        <translation type="obsolete">Text_începecu</translation>
     </message>
     <message>
         <source>Text_EndWith</source>
-        <translation>Text_seterminăcu</translation>
+        <translation type="obsolete">Text_seterminăcu</translation>
     </message>
     <message>
         <source>HighLight - Date</source>
-        <translation>Evidențiat - Dată</translation>
+        <translation type="obsolete">Evidențiat - Dată</translation>
     </message>
     <message>
         <source>Date_Prefix</source>
-        <translation>Dată_Prefix</translation>
+        <translation type="obsolete">Dată_Prefix</translation>
     </message>
     <message>
         <source>Date_Yesterday</source>
-        <translation>Dată_Ieri</translation>
+        <translation type="obsolete">Dată_Ieri</translation>
     </message>
     <message>
         <source>Date_Today</source>
-        <translation>Dată-Azi</translation>
+        <translation type="obsolete">Dată-Azi</translation>
     </message>
     <message>
         <source>Date_Tomorrow</source>
-        <translation>Dată_Mâine</translation>
+        <translation type="obsolete">Dată_Mâine</translation>
     </message>
     <message>
         <source>Date_LateSeven</source>
-        <translation>Dată_Ultimele7zile</translation>
+        <translation type="obsolete">Dată_Ultimele7zile</translation>
     </message>
     <message>
         <source>Date_LastWeek</source>
-        <translation>Dată_Ultimasăptămână</translation>
+        <translation type="obsolete">Dată_Ultimasăptămână</translation>
     </message>
     <message>
         <source>Date_Week</source>
-        <translation>Dată_Săptămână</translation>
+        <translation type="obsolete">Dată_Săptămână</translation>
     </message>
     <message>
         <source>Date_NextWeek</source>
-        <translation>Dată_Săptămânaurmătoare</translation>
+        <translation type="obsolete">Dată_Săptămânaurmătoare</translation>
     </message>
     <message>
         <source>Date_LastMonth</source>
-        <translation>Dată_Ultimalună</translation>
+        <translation type="obsolete">Dată_Ultimalună</translation>
     </message>
     <message>
         <source>Date_Month</source>
-        <translation>Dată_Lună</translation>
+        <translation type="obsolete">Dată_Lună</translation>
     </message>
     <message>
         <source>Date_NextMonth</source>
-        <translation>Dată_Lunaviitoare</translation>
+        <translation type="obsolete">Dată_Lunaviitoare</translation>
     </message>
     <message>
         <source>Date_Weekend</source>
-        <translation>Dată_Weekend</translation>
+        <translation type="obsolete">Dată_Weekend</translation>
     </message>
     <message>
         <source>HighLight - Special</source>
-        <translation>Evidențiat - Special</translation>
+        <translation type="obsolete">Evidențiat - Special</translation>
     </message>
     <message>
         <source>Special_Empty</source>
-        <translation>Special_Gol</translation>
+        <translation type="obsolete">Special_Gol</translation>
     </message>
     <message>
         <source>Special_Error</source>
-        <translation>Special_Eroare</translation>
+        <translation type="obsolete">Special_Eroare</translation>
     </message>
     <message>
         <source>A required input value is missing</source>
-        <translation>O valoare de intrare necesară lipsește</translation>
+        <translation type="obsolete">O valoare de intrare necesară lipsește</translation>
     </message>
     <message>
         <source>required range values is not enough</source>
-        <translation>intervalul valorilor necesare nu este suficient</translation>
+        <translation type="obsolete">intervalul valorilor necesare nu este suficient</translation>
+    </message>
+    <message>
+        <source>Highlight-Value</source>
+        <translation>Evidențiat-Valoare</translation>
+    </message>
+    <message>
+        <source>Equal to</source>
+        <translation>Egal cu</translation>
+    </message>
+    <message>
+        <source>Not equal to</source>
+        <translation>Nu este egal cu</translation>
+    </message>
+    <message>
+        <source>Greater than</source>
+        <translation>Mai mare decât</translation>
+    </message>
+    <message>
+        <source>Greater than or equal</source>
+        <translation>Mai mare decât sau egal cu</translation>
+    </message>
+    <message>
+        <source>Less than</source>
+        <translation>Mai mic decât</translation>
+    </message>
+    <message>
+        <source>Less than or equal</source>
+        <translation>Mai mic decât sau egal cu</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation>și</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation>Între</translation>
+    </message>
+    <message>
+        <source>Not between</source>
+        <translation>Nu este între</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>Sus</translation>
+    </message>
+    <message>
+        <source>Items</source>
+        <translation>Elemente</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>Dedesubt</translation>
+    </message>
+    <message>
+        <source>% Items</source>
+        <translation>% elemente</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation>Medie</translation>
+    </message>
+    <message>
+        <source>Above</source>
+        <translation>Deasupra</translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation>Dedesubt</translation>
+    </message>
+    <message>
+        <source>Highlight-Text</source>
+        <translation>Evidențiat-Text</translation>
+    </message>
+    <message>
+        <source>Contain</source>
+        <translation>Conține</translation>
+    </message>
+    <message>
+        <source>Does not contain</source>
+        <translation>Nu conține</translation>
+    </message>
+    <message>
+        <source>Begin with</source>
+        <translation>Începe cu</translation>
+    </message>
+    <message>
+        <source>End with</source>
+        <translation>Se termină cu</translation>
+    </message>
+    <message>
+        <source>Highlight-Date</source>
+        <translation>Evidențiat-Dată</translation>
+    </message>
+    <message>
+        <source>A Date Occurring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation>Ieri</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>Azi</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation>Mâine</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation>În ultimele 7 zile</translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation>Ultima săptămână</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation>Această săptămână</translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation>Săptămâna următoare</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation>Ultima lună</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation>Luna aceasta</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation>Luna următoare</translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <translation>Weekend</translation>
+    </message>
+    <message>
+        <source>Highlight-Special Value</source>
+        <translation>Evidențiat-Valoare specială</translation>
+    </message>
+    <message>
+        <source>Empty Cell</source>
+        <translation>Celulă goală</translation>
+    </message>
+    <message>
+        <source>Error value </source>
+        <translation>Valoare eroare </translation>
+    </message>
+    <message>
+        <source>Lack input value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The required range value is insufficient</source>
+        <translation>Intervalul de valoare solicitat este insuficient</translation>
     </message>
 </context>
 <context>
@@ -1382,90 +1510,90 @@ condiția este adevărată:</translation>
     <name>KxCustomHeaderFooterDlg</name>
     <message>
         <source>File</source>
-        <translation>Fișier</translation>
+        <translation type="obsolete">Fișier</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Dată</translation>
+        <translation type="obsolete">Dată</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Timp</translation>
+        <translation type="obsolete">Timp</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Poză</translation>
+        <translation type="obsolete">Poză</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation>Antet</translation>
+        <translation type="obsolete">Antet</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation>Subsol</translation>
+        <translation type="obsolete">Subsol</translation>
     </message>
     <message>
         <source>&amp;[%1]</source>
-        <translation>&amp;[%1]</translation>
+        <translation type="obsolete">&amp;[%1]</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Deschide</translation>
+        <translation type="obsolete">Deschide</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation>Toate pozele</translation>
+        <translation type="obsolete">Toate pozele</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation>Windows Enhanced Metafile</translation>
+        <translation type="obsolete">Windows Enhanced Metafile</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation>Windows Metafile</translation>
+        <translation type="obsolete">Windows Metafile</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation>JPEG File InterChange Format</translation>
+        <translation type="obsolete">JPEG File InterChange Format</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation>Portable Network Graphics</translation>
+        <translation type="obsolete">Portable Network Graphics</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation>Windows Bitmap</translation>
+        <translation type="obsolete">Windows Bitmap</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation>Graphics Interchange Format</translation>
+        <translation type="obsolete">Graphics Interchange Format</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation>Tag Image File Format</translation>
+        <translation type="obsolete">Tag Image File Format</translation>
     </message>
     <message>
         <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
-        <translation>Antetul sau subsolul (totalsecțiuni din stânga,centru și dreapta) nu pot fi mai lungi de 255 caractere. Ștergeți ceva text, sau faceți formatarea mai puțin complexă.</translation>
+        <translation type="obsolete">Antetul sau subsolul (totalsecțiuni din stânga,centru și dreapta) nu pot fi mai lungi de 255 caractere. Ștergeți ceva text, sau faceți formatarea mai puțin complexă.</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>Număr pagină</translation>
+        <translation type="obsolete">Număr pagină</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation>Număr de pagini</translation>
+        <translation type="obsolete">Număr de pagini</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation>Nume foaie</translation>
+        <translation type="obsolete">Nume foaie</translation>
     </message>
     <message>
         <source>Only one picture can be inserted in each section of the %1.
 
 To replace existing picture, press OK.
 To keep existing picture, press Cancel.</source>
-        <translation>Numai o poză poate fi introdusă în fiecare secțiune a %1.
+        <translation type="obsolete">Numai o poză poate fi introdusă în fiecare secțiune a %1.
 
 Pentru a înlocui poza existentă, apăsați OK.
 Pentru a păstra poza existentă, apăsați Anulează.</translation>
@@ -1793,23 +1921,23 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <name>KxDlgConditionHighLight</name>
     <message>
         <source>Condition HighLight</source>
-        <translation>Subliniere condiție</translation>
+        <translation type="obsolete">Subliniere condiție</translation>
     </message>
     <message>
         <source>cells with following condition</source>
-        <translation>celule cu următoarea condiție</translation>
+        <translation type="obsolete">celule cu următoarea condiție</translation>
     </message>
     <message>
         <source>original setting</source>
-        <translation>configurare originală</translation>
+        <translation type="obsolete">configurare originală</translation>
     </message>
     <message>
         <source>and</source>
-        <translation>și</translation>
+        <translation type="obsolete">și</translation>
     </message>
     <message>
         <source>inside</source>
-        <translation>înăuntru</translation>
+        <translation type="obsolete">înăuntru</translation>
     </message>
     <message>
         <source>spinPrefix</source>
@@ -1837,7 +1965,23 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
     <message>
         <source>show following effect</source>
-        <translation>arată efectul următor</translation>
+        <translation type="obsolete">arată efectul următor</translation>
+    </message>
+    <message>
+        <source>Condition Highlight</source>
+        <translation>Subliniere condiție</translation>
+    </message>
+    <message>
+        <source>Cells subjected to the following conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep the cell to its former setting</source>
+        <translation>Păstrează celula la fosta configurare</translation>
+    </message>
+    <message>
+        <source>Display the following effect</source>
+        <translation>Afișează următorul efect</translation>
     </message>
 </context>
 <context>
@@ -2023,70 +2167,74 @@ Pentru a păstra poza existentă, apăsați Anulează.</translation>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
 box, then choose the appropriate button.</source>
-        <translation>Pentru a introduce un număr de pagină, dată, oră, nume fișier: poziționați punctul de introducere în caseta de editare,
+        <translation type="obsolete">Pentru a introduce un număr de pagină, dată, oră, nume fișier: poziționați punctul de introducere în caseta de editare,
 apoi alegeți butonul corespunzător.</translation>
     </message>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation>Pentru a introduce o poză: apăsați butonul Introducere poză. Pentru a formata poza, plasați cursorul
+        <translation type="obsolete">Pentru a introduce o poză: apăsați butonul Introducere poză. Pentru a formata poza, plasați cursorul
 în caseta editare și apăsați butonul Formatare poză.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Font</translation>
+        <translation type="obsolete">Font</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Dată</translation>
+        <translation type="obsolete">Dată</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Timp</translation>
+        <translation type="obsolete">Timp</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Fișier</translation>
+        <translation type="obsolete">Fișier</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Introduceți poză</translation>
+        <translation type="obsolete">Introduceți poză</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation>Resetare poză</translation>
+        <translation type="obsolete">Resetare poză</translation>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation>Secțiunea din &amp;stânga:</translation>
+        <translation type="obsolete">Secțiunea din &amp;stânga:</translation>
     </message>
     <message>
         <source>&amp;Center section:</source>
-        <translation>Secțiunea din &amp;centru:</translation>
+        <translation type="obsolete">Secțiunea din &amp;centru:</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
-        <translation>Secțiunea din d&amp;reapta:</translation>
+        <translation type="obsolete">Secțiunea din d&amp;reapta:</translation>
     </message>
     <message>
         <source>input</source>
-        <translation>intrare</translation>
+        <translation type="obsolete">intrare</translation>
     </message>
     <message>
         <source>To format text: select the text, then click the font button.</source>
-        <translation>Pentru formatarea textului: selectați textul, apoi apăsați butonul font.</translation>
+        <translation type="obsolete">Pentru formatarea textului: selectați textul, apoi apăsați butonul font.</translation>
     </message>
     <message>
         <source>Page Number</source>
-        <translation>Număr pagină</translation>
+        <translation type="obsolete">Număr pagină</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation>Număr de pagini</translation>
+        <translation type="obsolete">Număr de pagini</translation>
     </message>
     <message>
         <source>Sheet Name</source>
-        <translation>Nume foaie</translation>
+        <translation type="obsolete">Nume foaie</translation>
+    </message>
+    <message>
+        <source>headerfooter</source>
+        <translation>antetsubsol</translation>
     </message>
 </context>
 <context>
@@ -2917,6 +3065,76 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Summary columns to &amp;right of detail</source>
         <translation>Rezumatul coloanelor la d&amp;reapta detaliului</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgHeaderFooterWidget</name>
+    <message>
+        <source>input</source>
+        <translation>intrare</translation>
+    </message>
+    <message>
+        <source>To format text: select the text, then click the font button.</source>
+        <translation>Pentru formatarea textului: selectați textul, apoi apăsați butonul font.</translation>
+    </message>
+    <message>
+        <source>To insert a page number, date, time, filename: position the insertion point in the  edit
+box, then choose the appropriate button.</source>
+        <translation>Pentru a introduce un număr de pagină, dată, oră, nume fișier: poziționați punctul de introducere în caseta de editare,apoi alegeți butonul corespunzător.</translation>
+    </message>
+    <message>
+        <source>To insert picture: press the Insert Picture button. To format your picture, place the
+cursor in the edit box and press the Format Picture button.</source>
+        <translation>Pentru a introduce o poză: apăsați butonul Introducere poză. Pentru a formata poza, plasați cursorul
+în caseta editare și apăsați butonul Formatare poză.</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>Font</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation>Număr pagină</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation>Număr de pagini</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>Dată</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation>Timp</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>Fișier</translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation>Nume foaie</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation>Introduceți poză</translation>
+    </message>
+    <message>
+        <source>Reset Picture</source>
+        <translation>Resetare poză</translation>
+    </message>
+    <message>
+        <source>&amp;Left section:</source>
+        <translation>Secțiunea din &amp;stânga:</translation>
+    </message>
+    <message>
+        <source>&amp;Center section:</source>
+        <translation>Secțiunea din &amp;centru:</translation>
+    </message>
+    <message>
+        <source>&amp;Right section:</source>
+        <translation>Secțiunea din d&amp;reapta:</translation>
     </message>
 </context>
 <context>
@@ -3887,6 +4105,22 @@ p, li { white-space: pre-wrap; }
         <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation>Butonul avansat vă permite să alegeți dintre tipuri diferite de criptare.</translation>
     </message>
+    <message>
+        <source>SaveAsCreateBackup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create&amp;Backup</source>
+        <translation>Creează&amp;Backup</translation>
+    </message>
+    <message>
+        <source>RecommendedReadOnlyOption</source>
+        <translation>Opțiune recomandată doar citire</translation>
+    </message>
+    <message>
+        <source>&amp;RecommendedReadOnly</source>
+        <translation>&amp;Recomandat doar citire</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -4146,6 +4380,22 @@ p, li { white-space: pre-wrap; }
         <source>Header and Footer</source>
         <translation>Antet și subsol</translation>
     </message>
+    <message>
+        <source>&amp;Different odd and even pages</source>
+        <translation>Pagini pare și impare &amp;diferite</translation>
+    </message>
+    <message>
+        <source>D&amp;ifferent first page</source>
+        <translation>Prima pagină d&amp;iferită</translation>
+    </message>
+    <message>
+        <source>Sca&amp;le with document</source>
+        <translation>Sca&amp;lează cu document</translation>
+    </message>
+    <message>
+        <source>Align with page &amp;margins</source>
+        <translation>Aliniază cu pagină &amp;margini</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPasteName</name>
@@ -4313,7 +4563,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>For error &amp;values, show:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pentru &amp;valorile de eroare, arată:</translation>
     </message>
     <message>
         <source>&amp;Refresh on open</source>
@@ -6145,6 +6395,73 @@ Pentru a modifica o celulă sau grafic protejat, întâi eliminați protecția u
     </message>
 </context>
 <context>
+    <name>KxEtPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation>Permisiunea mea</translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation>Sunteți autentificat curent să vizualizați documentul ca:	</translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation>Nume utilizator</translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation>Schimbă utilizatorul...</translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation>Aveți următoarele permisiuni:</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>Vizualizare</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Editare</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Copiază</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Tipărește</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Salvează</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Exportă</translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation>Control total</translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation>Dată expirare permisiune:</translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation>(N/A)</translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation>Solicită permisiuni suplimentare... </translation>
+    </message>
+</context>
+<context>
     <name>KxEtPrintPreviewZoomCommand</name>
     <message>
         <source>Zoom:</source>
@@ -6862,6 +7179,114 @@ on iteration #%2.</source>
     <message>
         <source>Goal Seeking with Cell %1 still can not find a solution.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHeaderFooterDlg</name>
+    <message>
+        <source>Header</source>
+        <translation>Antet</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation>Subsol</translation>
+    </message>
+    <message>
+        <source>Odd Page %1</source>
+        <translation>Pagină impară %1</translation>
+    </message>
+    <message>
+        <source>Even Page %1</source>
+        <translation>Pagină pară %1</translation>
+    </message>
+    <message>
+        <source>First Page %1</source>
+        <translation>Prima pagină %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxHeaderFooterWidget</name>
+    <message>
+        <source>File</source>
+        <translation>Fișier</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation>Număr pagină</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <translation>Număr de pagini</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>Dată</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation>Timp</translation>
+    </message>
+    <message>
+        <source>Sheet Name</source>
+        <translation>Nume foaie</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>Poză</translation>
+    </message>
+    <message>
+        <source>&amp;[%1]</source>
+        <translation>&amp;[%1]</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Deschide</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation>Toate pozele</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation>Windows Enhanced Metafile</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation>Windows Metafile</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation>JPEG File InterChange Format</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation>Portable Network Graphics</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation>Windows Bitmap</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation>Graphics Interchange Format</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation>Tag Image File Format</translation>
+    </message>
+    <message>
+        <source>The header or footer (Total of Left, Center and Right section) cannot be longer than 255 characters. Delete some text, or make the formatting less complex.</source>
+        <translation>Antetul sau subsolul (totalsecțiuni din stânga,centru și dreapta) nu pot fi mai lungi de 255 caractere. Ștergeți ceva text, sau faceți formatarea mai puțin complexă.</translation>
+    </message>
+    <message>
+        <source>Only one picture can be inserted in each section of the %1.
+
+To replace existing picture, press OK.
+To keep existing picture, press Cancel.</source>
+        <translation>Numai o poză poate fi introdusă în fiecare secțiune a %1.
+
+Pentru a înlocui poza existentă, apăsați OK.
+Pentru a păstra poza existentă, apăsați Anulează.</translation>
     </message>
 </context>
 <context>
@@ -8378,6 +8803,113 @@ You may still need to manually update any references to this name used in VBA co
     </message>
 </context>
 <context>
+    <name>KxValidationDlg</name>
+    <message>
+        <source>&amp;Minimum:</source>
+        <translation>&amp;Minim:</translation>
+    </message>
+    <message>
+        <source>Ma&amp;ximum:</source>
+        <translation>Ma&amp;xim:</translation>
+    </message>
+    <message>
+        <source>&amp;Source:</source>
+        <translation>&amp;Sursă:</translation>
+    </message>
+    <message>
+        <source>&amp;Start date:</source>
+        <translation>Dată &amp;pornire:</translation>
+    </message>
+    <message>
+        <source>E&amp;nd date:</source>
+        <translation>Dată termi&amp;nare:</translation>
+    </message>
+    <message>
+        <source>&amp;Start time:</source>
+        <translation>Timp &amp;pornire:</translation>
+    </message>
+    <message>
+        <source>E&amp;nd time:</source>
+        <translation>Timp termi&amp;nare:</translation>
+    </message>
+    <message>
+        <source>&amp;Formula:</source>
+        <translation>&amp;Formulă:</translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation>&amp;Valoare:</translation>
+    </message>
+    <message>
+        <source>&amp;Time:</source>
+        <translation>&amp;Timp:</translation>
+    </message>
+    <message>
+        <source>Da&amp;te:</source>
+        <translation>Da&amp;tă:</translation>
+    </message>
+    <message>
+        <source>You must enter both a Maximum and a Minimum.</source>
+        <translation>Trebuie să introduceți un Maxim și un Minim.</translation>
+    </message>
+    <message>
+        <source>You must enter a Value.</source>
+        <translation>Trebuie să introduceți o valoare.</translation>
+    </message>
+    <message>
+        <source>You must enter a Minimum.</source>
+        <translation>Trebuie să introduceți un Minim.</translation>
+    </message>
+    <message>
+        <source>You must enter a Maximum.</source>
+        <translation>Trebuie să introduceți un Maxim.</translation>
+    </message>
+    <message>
+        <source>You must enter a Source.</source>
+        <translation>Trebuie să introduceți o Sursă.</translation>
+    </message>
+    <message>
+        <source>The Formula cannot be longer than 255 characters.</source>
+        <translation>Formula nu poate fi mai lungă de 255 caractere.</translation>
+    </message>
+    <message>
+        <source>You must enter a Date.</source>
+        <translation>Trebuie să introduceți o Dată.</translation>
+    </message>
+    <message>
+        <source>You must enter both an End Date and a Start Date.</source>
+        <translation>Trebuie să introduceți o dată de oprire cât și o dată de pornire.</translation>
+    </message>
+    <message>
+        <source>You must enter an End Date.</source>
+        <translation>Trebuie să introduceți o dată de oprire.</translation>
+    </message>
+    <message>
+        <source>You must enter a Start Date.</source>
+        <translation>Trebuie să introduceți o dată de pornire.</translation>
+    </message>
+    <message>
+        <source>You must enter both an End Time and a Start Time.</source>
+        <translation>Trebuie să introduceți un timp de oprire cât și un timp de pornire.</translation>
+    </message>
+    <message>
+        <source>You must enter a Time.</source>
+        <translation>Trebuie să introduceți o Oră.</translation>
+    </message>
+    <message>
+        <source>You must enter a Start Time.</source>
+        <translation>Trebuie să introduceți un timp de pornire.</translation>
+    </message>
+    <message>
+        <source>You must enter an End Time.</source>
+        <translation>Trebuie să introduceți un timp de oprire.</translation>
+    </message>
+    <message>
+        <source>You must enter a Formula.</source>
+        <translation>Trebuie să introduceți o Formulă.</translation>
+    </message>
+</context>
+<context>
     <name>KxWidgetAlign</name>
     <message>
         <source>Orientation</source>
@@ -9384,99 +9916,99 @@ t</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation>Ma&amp;xim:</translation>
+        <translation type="obsolete">Ma&amp;xim:</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation>&amp;Sursă:</translation>
+        <translation type="obsolete">&amp;Sursă:</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation>Dată &amp;pornire:</translation>
+        <translation type="obsolete">Dată &amp;pornire:</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation>Dată termi&amp;nare:</translation>
+        <translation type="obsolete">Dată termi&amp;nare:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
-        <translation>Timp &amp;pornire:</translation>
+        <translation type="obsolete">Timp &amp;pornire:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
-        <translation>Timp termi&amp;nare:</translation>
+        <translation type="obsolete">Timp termi&amp;nare:</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
-        <translation>&amp;Formulă:</translation>
+        <translation type="obsolete">&amp;Formulă:</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation>&amp;Valoare:</translation>
+        <translation type="obsolete">&amp;Valoare:</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
-        <translation>&amp;Timp:</translation>
+        <translation type="obsolete">&amp;Timp:</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
-        <translation>Da&amp;tă:</translation>
+        <translation type="obsolete">Da&amp;tă:</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation>Trebuie să introduceți un Maxim și un Minim.</translation>
+        <translation type="obsolete">Trebuie să introduceți un Maxim și un Minim.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation>Trebuie să introduceți o valoare.</translation>
+        <translation type="obsolete">Trebuie să introduceți o valoare.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation>Trebuie să introduceți un Minim.</translation>
+        <translation type="obsolete">Trebuie să introduceți un Minim.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation>Trebuie să introduceți un Maxim.</translation>
+        <translation type="obsolete">Trebuie să introduceți un Maxim.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation>Trebuie să introduceți o Sursă.</translation>
+        <translation type="obsolete">Trebuie să introduceți o Sursă.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation>Trebuie să introduceți o Dată.</translation>
+        <translation type="obsolete">Trebuie să introduceți o Dată.</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
-        <translation>Trebuie să introduceți o dată de oprire cât și o dată de pornire.</translation>
+        <translation type="obsolete">Trebuie să introduceți o dată de oprire cât și o dată de pornire.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
-        <translation>Trebuie să introduceți o dată de oprire.</translation>
+        <translation type="obsolete">Trebuie să introduceți o dată de oprire.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
-        <translation>Trebuie să introduceți o dată de pornire.</translation>
+        <translation type="obsolete">Trebuie să introduceți o dată de pornire.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
-        <translation>Trebuie să introduceți un timp de oprire cât și un timp de pornire.</translation>
+        <translation type="obsolete">Trebuie să introduceți un timp de oprire cât și un timp de pornire.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation>Trebuie să introduceți o Oră.</translation>
+        <translation type="obsolete">Trebuie să introduceți o Oră.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
-        <translation>Trebuie să introduceți un timp de pornire.</translation>
+        <translation type="obsolete">Trebuie să introduceți un timp de pornire.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
-        <translation>Trebuie să introduceți un timp de oprire.</translation>
+        <translation type="obsolete">Trebuie să introduceți un timp de oprire.</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
-        <translation>Trebuie să introduceți o Formulă.</translation>
+        <translation type="obsolete">Trebuie să introduceți o Formulă.</translation>
     </message>
     <message>
         <source>%1 is read-only.  If you want to save a copy,  Click OK,  then give a new name for this workbook in the Save As dialog box.</source>
@@ -9708,7 +10240,7 @@ t</translation>
     </message>
     <message>
         <source>&amp;Minimum:</source>
-        <translation>&amp;Minim:</translation>
+        <translation type="obsolete">&amp;Minim:</translation>
     </message>
 </context>
 <context>
@@ -9876,7 +10408,7 @@ t</translation>
     </message>
     <message>
         <source>Population Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mărime populație:</translation>
     </message>
     <message>
         <source>Random Seed:</source>
