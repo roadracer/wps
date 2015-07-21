@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Port: </source>
-        <translation type="unfinished"></translation>
+        <translation>Port: </translation>
     </message>
     <message>
         <source>Start TCP Listening.</source>
@@ -92,7 +92,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>O</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -104,7 +104,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Port: </source>
-        <translation type="unfinished"></translation>
+        <translation>Port: </translation>
     </message>
     <message>
         <source>  OK  </source>
@@ -144,7 +144,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>TCP Client Connection Error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Błąd połączenia</translation>
     </message>
     <message>
         <source>Failed to read content.</source>
@@ -156,7 +156,8 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>aaa</translatorcomment>
+        <translation>Ostrzeżenie</translation>
     </message>
     <message>
         <source>Invalid IP Address.</source>

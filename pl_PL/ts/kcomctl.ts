@@ -6,7 +6,7 @@
     <name>DownloadBubbleWidget</name>
     <message>
         <source>Download failed due to possible network problems. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie nie powiodło się z powodu możliwych problemów z siecią. Proszę spróbuj ponownie później.</translation>
     </message>
 </context>
 <context>
@@ -131,10 +131,7 @@
     </message>
     <message>
         <source>Aqua</source>
-        <translation variants="yes">
-            <lengthvariant>Akwamaryna</lengthvariant>
-            <lengthvariant>Niebieskozielony</lengthvariant>
-        </translation>
+        <translation>Akwamaryna</translation>
     </message>
     <message>
         <source>Light Blue</source>
@@ -198,10 +195,7 @@
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation variants="yes">
-            <lengthvariant>Jasnoturkusowy</lengthvariant>
-            <lengthvariant>Pastelowobłękitny</lengthvariant>
-        </translation>
+        <translation>Jasnoturkusowy</translation>
     </message>
     <message>
         <source>Pale Blue</source>
@@ -209,10 +203,7 @@
     </message>
     <message>
         <source>Lavender</source>
-        <translation variants="yes">
-            <lengthvariant>Liliowy</lengthvariant>
-            <lengthvariant>Lawendowy</lengthvariant>
-        </translation>
+        <translation>Liliowy</translation>
     </message>
     <message>
         <source>White</source>
@@ -282,11 +273,11 @@
     <name>KFilePageFixedButton</name>
     <message>
         <source>unfixed from list</source>
-        <translation>odłączone z listy</translation>
+        <translation>odłączony z listy</translation>
     </message>
     <message>
         <source>fixed to list</source>
-        <translation>dołączone do listy</translation>
+        <translation>dołączony do listy</translation>
     </message>
 </context>
 <context>
@@ -377,7 +368,7 @@
     <message>
         <source>Registered user</source>
         <comment>Member User type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zarejestrowany użytkownik</translation>
     </message>
 </context>
 <context>
@@ -398,37 +389,37 @@
     <name>KProgressBar</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Multiple Tasks:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiele zadań:</translation>
     </message>
     <message>
         <source>Show In Progress Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż zadania w trakcie wykonywania</translation>
     </message>
     <message>
         <source>Press &apos;Multiple Task&apos; button to display tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Naciśnij przycisk &apos;Wiele zadań&apos;, aby wyświetlić zadania</translation>
     </message>
 </context>
 <context>
     <name>KProgressListGalleryModelItem</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
     <name>KProxyCommandButton</name>
     <message>
         <source>(Download required)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Wymagane pobieranie)</translation>
     </message>
     <message>
         <source>(Initializing...)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Inicjowanie...)</translation>
     </message>
 </context>
 <context>
@@ -517,7 +508,7 @@
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Wyczyść wszystkie</translation>
+        <translation>Wyczyść wszystko</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -557,19 +548,24 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     <message>
         <source>Unable to open &quot;%1&quot;.
 This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć &quot;%1&quot;.
+Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>
 
 Modified time: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Godzina modyfikacji: </translation>
     </message>
     <message>
         <source>
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
@@ -601,10 +597,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Words Only</source>
-        <translation variants="yes">
-            <lengthvariant>Tylko wyrazy</lengthvariant>
-            <lengthvariant>Tylko słowa</lengthvariant>
-        </translation>
+        <translation>Tylko wyrazy</translation>
     </message>
 </context>
 <context>
@@ -687,7 +680,32 @@ multiple=multiple
 [Point]
 point=pt
 </source>
-        <translation type="unfinished"></translation>
+        <translation>[Urządzenie]
+pkt=pkt;p
+cal=cal;c
+cm=cm;cm
+mm=mm;mm
+
+[Wartość procentowa]
+%=%
+
+[Znak]
+zn.=znak
+
+[Stopień]
+stopień=stopień
+
+[Wiersz]
+wiersz=wiersz
+
+[Automatycznie]
+auto=auto
+
+[Wielokrotne]
+wielokrotne=wielokrotne
+
+[Punkt]
+punkt= pkt</translation>
     </message>
 </context>
 <context>
@@ -705,7 +723,8 @@ proszę ponownie zainstalować WPS Office!</translation>
     <message>
         <source>Some components are not installed correctly.
 Please reinstall WPS Office!</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektóre składniki nie są zainstalowane poprawnie.
+Proszę ponownie zainstalować WPS Office!</translation>
     </message>
 </context>
 <context>
@@ -835,10 +854,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Overtype</source>
-        <translation variants="yes">
-            <lengthvariant>Zastępowanie</lengthvariant>
-            <lengthvariant>Zastąp</lengthvariant>
-        </translation>
+        <translation>Zastępowanie</translation>
     </message>
     <message>
         <source>Delete from List</source>

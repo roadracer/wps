@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Etykieta tekstu</translation>
+        <translation>Etykieta tekstowa</translation>
     </message>
     <message>
         <source>webHomeLink</source>
@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Introduction</source>
-        <translation>Wstęp</translation>
+        <translation>Wprowadzenie</translation>
     </message>
     <message>
         <source>Homepage link of WPS Office Cloud</source>
@@ -55,24 +55,15 @@
     <name>KCloudFileStateItem</name>
     <message>
         <source>Check failed because account was logged off. Please login again</source>
-        <translation variants="yes">
-            <lengthvariant>Sprawdzanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zalogować się ponownie</lengthvariant>
-            <lengthvariant>Sprawdzanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zaloguj się ponownie</lengthvariant>
-        </translation>
+        <translation>Sprawdzanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zaloguj się ponownie</translation>
     </message>
     <message>
         <source>Upload failed because the account was logged off. Please login again.</source>
-        <translation variants="yes">
-            <lengthvariant>Przekazywanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zalogować się ponownie.</lengthvariant>
-            <lengthvariant>Przekazywanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zaloguj się ponownie.</lengthvariant>
-        </translation>
+        <translation>Przekazywanie nie powiodło się, ponieważ konto zostało wylogowane. Proszę zaloguj się ponownie.</translation>
     </message>
     <message>
         <source>This file does not belong to the current user. Please change the account</source>
-        <translation variants="yes">
-            <lengthvariant>Ten plik nie należy do bieżącego użytkownika. Proszę zmienić konto</lengthvariant>
-            <lengthvariant>Plik nie należy do bieżącego użytkownika. Proszę zmień konto</lengthvariant>
-        </translation>
+        <translation>Ten plik nie należy do bieżącego użytkownika. Proszę zmień konto</translation>
     </message>
 </context>
 <context>
@@ -127,10 +118,7 @@
     </message>
     <message>
         <source>Failed to connect to server</source>
-        <translation variants="yes">
-            <lengthvariant>Nie można połączyć się z serwerem</lengthvariant>
-            <lengthvariant>Podłączenie do serwera nie powiodło się</lengthvariant>
-        </translation>
+        <translation>Nie można połączyć się z serwerem</translation>
     </message>
     <message>
         <source>Uploading to cloud</source>
@@ -138,10 +126,7 @@
     </message>
     <message>
         <source>This is a historical version</source>
-        <translation variants="yes">
-            <lengthvariant>To jest wersja historyczna</lengthvariant>
-            <lengthvariant>Jest to wersja historyczna</lengthvariant>
-        </translation>
+        <translation>To jest wersja historyczna</translation>
     </message>
     <message>
         <source>Checked %1 minutes ago</source>
@@ -169,10 +154,7 @@
     </message>
     <message>
         <source>Share Link</source>
-        <translation variants="yes">
-            <lengthvariant>Udostępnij łącze</lengthvariant>
-            <lengthvariant>Udostępnij link</lengthvariant>
-        </translation>
+        <translation>Udostępnij łącze</translation>
     </message>
     <message>
         <source>View</source>
@@ -198,11 +180,11 @@
     </message>
     <message>
         <source>New version is available. Please refresh.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępna jest nowa wersja. Proszę odśwież.</translation>
     </message>
     <message>
         <source>New version is available. Please check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępna jest nowa wersja. Proszę sprawdź.</translation>
     </message>
 </context>
 <context>
@@ -215,10 +197,7 @@
     <message>
         <source>This document is updated. Click Refresh and check.</source>
         <comment>allow with %1 for modifier</comment>
-        <translation variants="yes">
-            <lengthvariant>Ten dokument jest zaktualizowany. Kliknij Odśwież i sprawdź.</lengthvariant>
-            <lengthvariant>Ten dokument jest zaktualizowany. Kliknij przycisk Odśwież i sprawdź.</lengthvariant>
-        </translation>
+        <translation>Ten dokument jest zaktualizowany. Kliknij Odśwież i sprawdź.</translation>
     </message>
     <message>
         <source>View</source>
@@ -233,10 +212,7 @@
     <name>KCommand</name>
     <message>
         <source>link</source>
-        <translation variants="yes">
-            <lengthvariant>łącze</lengthvariant>
-            <lengthvariant>link</lengthvariant>
-        </translation>
+        <translation>łącze</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -285,35 +261,23 @@
     </message>
     <message>
         <source>Login klive before auto backup.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed automatycznym tworzeniem kopii zapasowej.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed automatycznym tworzeniem kopii zapasowej.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed automatycznym tworzeniem kopii zapasowej.</translation>
     </message>
     <message>
         <source>Login klive before activating auto backup.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed uaktywnieniem automatycznego tworzenia kopii zapasowych.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed uaktywnieniem automatycznego tworzenia kopii zapasowych.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed uaktywnieniem automatycznego tworzenia kopii zapasowych.</translation>
     </message>
     <message>
         <source>Your document has enabled auto backup now!&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation>Dokument ma teraz włączone automatyczne tworzenie kopii zapasowych!&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</translation>
+        <translation>Dokument ma teraz włączone automatyczne tworzenie kopii zapasowych!&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w Przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</translation>
     </message>
     <message>
         <source>Login File Safe before manual backup.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie pliku w trybie awaryjnym przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
-            <lengthvariant>Zaloguj plik w trybie awaryjnym przed ręcznym tworzeniem kopii zapasowej.</lengthvariant>
-        </translation>
+        <translation>Zaloguj Plik bezpieczeństwa przed ręcznym tworzeniem kopii zapasowej.</translation>
     </message>
     <message>
         <source>Login klive before explore versions.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed przeglądaniem wersji.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed przeglądaniem wersji.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed eksploracją wersji.</translation>
     </message>
     <message>
         <source>This document has&apos;t activated auto backup, so backup file is not available.</source>
@@ -328,10 +292,7 @@
     </message>
     <message>
         <source>Login klive before canceling auto backup.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed anulowaniem automatycznego tworzenia kopii zapasowych.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed anulowaniem automatycznego tworzenia kopii zapasowych.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed anulowaniem automatycznego tworzenia kopii zapasowych.</translation>
     </message>
     <message>
         <source>Login klive before explor backup dir.</source>
@@ -353,17 +314,11 @@
     </message>
     <message>
         <source>Login klive before opening files.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed otwarciem plików.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed otwarciem plików.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed otwarciem plików.</translation>
     </message>
     <message>
         <source>Login klive before deleting files.</source>
-        <translation variants="yes">
-            <lengthvariant>Logowanie klive przed usunięciem plików.</lengthvariant>
-            <lengthvariant>Zaloguj klive przed usunięciem plików.</lengthvariant>
-        </translation>
+        <translation>Zaloguj klive przed usunięciem plików.</translation>
     </message>
     <message>
         <source>netbackup recover file</source>
@@ -379,54 +334,57 @@
     </message>
     <message>
         <source>Modify Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas modyfikacji:</translation>
     </message>
     <message>
         <source>WPS Office Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczna kopia zapasowa WPS Office</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>Data Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki danych</translation>
     </message>
     <message>
         <source>Auto Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczna kopia zapasowa</translation>
     </message>
     <message>
         <source>Auto bakcup has been enabled for the document now.&lt;br /&gt;Backup file will be created in Office Space each time the document is closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne tworzenie kopii zapasowych zostało teraz włączone dla dokumentu.&lt;br /&gt;Plik kopii zapasowej zostanie utworzony w Przestrzeni biurowej za każdym razem, gdy dokument zostanie zamknięty.</translation>
     </message>
     <message>
         <source>Auto backup has not been activated for this document. So there is no backup file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne tworzenie kopii zapasowych nie zostało aktywowane dla tego dokumentu. Dlatego nie istnieje kopia zapasowa pliku.</translation>
     </message>
     <message>
         <source>There are no backup for this file under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created for this file on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie istnieje kopia zapasowa dla tego pliku w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie zostały utworzone pliki kopii zapasowych dla tego pliku na bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
     </message>
     <message>
         <source>Login klive before exploring backup directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaloguj klive przed eksploracją katalogu kopii zapasowych.</translation>
     </message>
     <message>
         <source>There are no backup files under the backup directory.&lt;br /&gt;This may because:&lt;br /&gt;1. No backup files has been created on the current computer.&lt;br /&gt;2. Backup files were manually cleared.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie istnieje kopia zapasowa plików w katalogu kopii zapasowych.&lt;br /&gt;Może to być spowodowane tym, że:&lt;br /&gt;1. Nie zostały utworzone pliki kopii zapasowych na bieżącym komputerze.&lt;br /&gt;2. Pliki kopii zapasowych zostały ręcznie wyczyszczone.</translation>
     </message>
     <message>
         <source>Recover file</source>
-        <translation type="unfinished"></translation>
+        <translation>Odzyskiwanie pliku</translation>
     </message>
     <message>
         <source>Failed to recover the file. The source file will be opened instead.
 This may because:
 1. The source file has been occupied by another program;
 2. Permission restricted in source file directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się odzyskać pliku. Zamiast niego zostanie otwarty plik źródłowy.
+Może to być spowodowane tym, że:
+1. Plik źródłowy został zajęty przez inny program;
+2. Ograniczono uprawnienie w katalogu pliku źródłowego.</translation>
     </message>
 </context>
 <context>
@@ -440,12 +398,7 @@ This may because:
     <name>KCreateCloudLinkDlg</name>
     <message>
         <source>Sure you want to cancel the generation of share link?</source>
-        <translation variants="yes">
-            <lengthvariant>Czy na pewno chcesz anulować generowanie udostępniania łącza?</lengthvariant>
-            <lengthvariant>Czy na pewno chcesz anulować operację generowania udostępniania łącza?</lengthvariant>
-            <lengthvariant>Czy na pewno chcesz anulować generowanie udostępniania linku?</lengthvariant>
-            <lengthvariant>Czy na pewno chcesz anulować operację generowania udostępniania linku?</lengthvariant>
-        </translation>
+        <translation>Czy na pewno chcesz anulować generowanie udostępniania łącza?</translation>
     </message>
 </context>
 <context>
@@ -482,10 +435,7 @@ This may because:
     <message>
         <source>Create new folder</source>
         <comment>create new folder</comment>
-        <translation variants="yes">
-            <lengthvariant>Utwórz nowy folder</lengthvariant>
-            <lengthvariant>Tworzenie nowego folderu</lengthvariant>
-        </translation>
+        <translation>Utwórz nowy folder</translation>
     </message>
 </context>
 <context>
@@ -496,10 +446,7 @@ This may because:
     </message>
     <message>
         <source>Are you sure you want to delete the file &apos;%1&apos;?</source>
-        <translation variants="yes">
-            <lengthvariant>Czy na pewno chcesz usunąć plik o nazwie &apos;%1&apos;?</lengthvariant>
-            <lengthvariant>Czy na pewno chcesz usunąć plik &apos;%1&apos;?</lengthvariant>
-        </translation>
+        <translation>Czy na pewno chcesz usunąć plik &apos;%1&apos;?</translation>
     </message>
     <message>
         <source>Delete multiple items</source>
@@ -510,10 +457,7 @@ This may because:
     <name>KFileModeDelegate</name>
     <message>
         <source>The file path cannot be longer than 255 characters.</source>
-        <translation variants="yes">
-            <lengthvariant>Ścieżka pliku nie może mieć więcej niż 255 znaków długości.</lengthvariant>
-            <lengthvariant>Ścieżka nie może być dłuższa niż 255 znaków.</lengthvariant>
-        </translation>
+        <translation>Ścieżka nie może być dłuższa niż 255 znaków.</translation>
     </message>
     <message>
         <source>File names cannot contain any of the following characters:
@@ -615,7 +559,7 @@ This may because:
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation>Wybierz w&amp;szystkie</translation>
+        <translation>Zaznacz w&amp;szystko</translation>
     </message>
     <message>
         <source>Select all the files!</source>
@@ -639,18 +583,11 @@ This may because:
     </message>
     <message>
         <source>&amp;Forward</source>
-        <translation variants="yes">
-            <lengthvariant>Do &amp;przodu</lengthvariant>
-            <lengthvariant>&amp;Dalej</lengthvariant>
-            <lengthvariant>&amp;Prześlij dalej</lengthvariant>
-        </translation>
+        <translation>&amp;Prześlij dalej</translation>
     </message>
     <message>
         <source>&amp;Up</source>
-        <translation variants="yes">
-            <lengthvariant>W &amp;górę</lengthvariant>
-            <lengthvariant>Do &amp;góry</lengthvariant>
-        </translation>
+        <translation>W &amp;górę</translation>
     </message>
     <message>
         <source>Alt+Up</source>
@@ -678,10 +615,7 @@ This may because:
     </message>
     <message>
         <source>File name error, please enter a correct format file name.</source>
-        <translation variants="yes">
-            <lengthvariant>Błąd nazwy pliku, wprowadź nazwę pliku w odpowiednim formacie.</lengthvariant>
-            <lengthvariant>Błąd nazwy pliku, wprowadź nazwę pliku w poprawnym formacie.</lengthvariant>
-        </translation>
+        <translation>Błąd nazwy pliku, wprowadź nazwę pliku w poprawnym formacie.</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -694,11 +628,7 @@ This may because:
     </message>
     <message>
         <source>Forward</source>
-        <translation variants="yes">
-            <lengthvariant>Do przodu</lengthvariant>
-            <lengthvariant>Dalej</lengthvariant>
-            <lengthvariant>Prześlij dalej</lengthvariant>
-        </translation>
+        <translation>Prześlij dalej</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -706,10 +636,7 @@ This may because:
     </message>
     <message>
         <source>Go up</source>
-        <translation variants="yes">
-            <lengthvariant>Przejdź w górę</lengthvariant>
-            <lengthvariant>Przejdź do góry</lengthvariant>
-        </translation>
+        <translation>Przejdź w górę</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -737,11 +664,7 @@ This may because:
     </message>
     <message>
         <source>&amp;Detail</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Szczegół</lengthvariant>
-            <lengthvariant>&amp;Szczegóły</lengthvariant>
-            <lengthvariant>&amp;Detal</lengthvariant>
-        </translation>
+        <translation>&amp;Szczegóły</translation>
     </message>
     <message>
         <source>rena&amp;me</source>
@@ -753,17 +676,11 @@ This may because:
     </message>
     <message>
         <source>Cut and paste currently selected content to clipboard</source>
-        <translation variants="yes">
-            <lengthvariant>Wytnij i wklej aktualnie zaznaczoną zawartość do schowka</lengthvariant>
-            <lengthvariant>Wytnij i wklej aktualnie wybraną zawartość do schowka</lengthvariant>
-        </translation>
+        <translation>Wytnij i wklej aktualnie zaznaczoną zawartość do schowka</translation>
     </message>
     <message>
         <source>Copy selected content to clipboard</source>
-        <translation variants="yes">
-            <lengthvariant>Kopiuj zaznaczoną zawartość do schowka</lengthvariant>
-            <lengthvariant>Kopiuj wybraną zawartość do schowka</lengthvariant>
-        </translation>
+        <translation>Kopiuj zaznaczoną zawartość do schowka</translation>
     </message>
     <message>
         <source>Paste the clipboard&apos;s contents into the current directory</source>
@@ -771,17 +688,11 @@ This may because:
     </message>
     <message>
         <source>Delete selected content</source>
-        <translation variants="yes">
-            <lengthvariant>Usuń wybraną zawartość</lengthvariant>
-            <lengthvariant>Usuń zaznaczoną zawartość</lengthvariant>
-        </translation>
+        <translation>Usuń zaznaczoną zawartość</translation>
     </message>
     <message>
         <source>D&amp;irecDelete</source>
-        <translation variants="yes">
-            <lengthvariant>K&amp;ierunek usuwania</lengthvariant>
-            <lengthvariant>K&amp;ierunekUsuwania</lengthvariant>
-        </translation>
+        <translation>K&amp;ierunek usuwania</translation>
     </message>
     <message>
         <source>Close dialog window</source>
@@ -789,7 +700,7 @@ This may because:
     </message>
     <message>
         <source>Create Shortcut(&amp;L)</source>
-        <translation>Utwórz skrót(&amp;L)</translation>
+        <translation>Utwórz skrót (&amp;L)</translation>
     </message>
     <message>
         <source>Create shortcut</source>
@@ -797,10 +708,7 @@ This may because:
     </message>
     <message>
         <source>Ba&amp;ckward</source>
-        <translation variants="yes">
-            <lengthvariant>Ws&amp;tecz</lengthvariant>
-            <lengthvariant>Do &amp;tyłu</lengthvariant>
-        </translation>
+        <translation>Ws&amp;tecz</translation>
     </message>
     <message>
         <source>Go back dir</source>
@@ -812,10 +720,7 @@ This may because:
     </message>
     <message>
         <source>Go up dir</source>
-        <translation variants="yes">
-            <lengthvariant>Przejdź w górę katalogu</lengthvariant>
-            <lengthvariant>Przejdź do góry katalogu</lengthvariant>
-        </translation>
+        <translation>Przejdź w górę katalogu</translation>
     </message>
     <message>
         <source>new &amp;folder</source>
@@ -847,10 +752,7 @@ This may because:
     </message>
     <message>
         <source>Error saving the new folder, you can only make replacements in the current view.</source>
-        <translation variants="yes">
-            <lengthvariant>Wystąpił błąd podczas zapisywania nowego folderu, możesz tylko dokonać zamian w bieżącym widoku.</lengthvariant>
-            <lengthvariant>Wystąpił błąd podczas zapisywania nowego folderu, możesz tylko dokonać zmian w bieżącym widoku.</lengthvariant>
-        </translation>
+        <translation>Wystąpił błąd podczas zapisywania nowego folderu, możesz tylko dokonać zamian w bieżącym widoku.</translation>
     </message>
     <message>
         <source>Files loading, please wait...</source>
@@ -870,10 +772,7 @@ This may because:
     </message>
     <message>
         <source>Time:</source>
-        <translation variants="yes">
-            <lengthvariant>Godzina:</lengthvariant>
-            <lengthvariant>Czas:</lengthvariant>
-        </translation>
+        <translation>Godzina:</translation>
     </message>
     <message>
         <source>Not file found</source>
@@ -893,19 +792,19 @@ This may because:
     </message>
     <message>
         <source>&amp;Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Szyfrowanie</translation>
     </message>
     <message>
         <source>Rena&amp;me</source>
-        <translation type="unfinished"></translation>
+        <translation>Z&amp;mień nazwę</translation>
     </message>
     <message>
         <source>R&amp;efresh</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;dśwież</translation>
     </message>
     <message>
         <source>New &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy &amp;folder</translation>
     </message>
 </context>
 <context>
@@ -956,59 +855,35 @@ This may because:
     <name>KLoginButtonTipWidget</name>
     <message>
         <source>UC_Feature1</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC1</lengthvariant>
-            <lengthvariant>UC_Funkcja1</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja1</translation>
     </message>
     <message>
         <source>UC_Feature2</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC2</lengthvariant>
-            <lengthvariant>UC_Funkcja2</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja2</translation>
     </message>
     <message>
         <source>UC_Feature3</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC3</lengthvariant>
-            <lengthvariant>UC_Funkcja3</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja3</translation>
     </message>
     <message>
         <source>UC_Feature4</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC4</lengthvariant>
-            <lengthvariant>UC_Funkcja4</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja4</translation>
     </message>
     <message>
         <source>UC_Feature5</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC5</lengthvariant>
-            <lengthvariant>UC_Funkcja5</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja5</translation>
     </message>
     <message>
         <source>UC_Feature6</source>
-        <translation variants="yes">
-            <lengthvariant>Funkcja_UC6</lengthvariant>
-            <lengthvariant>UC_Funkcja6</lengthvariant>
-        </translation>
+        <translation>UC_Funkcja6</translation>
     </message>
     <message>
         <source>Login gifts</source>
-        <translation variants="yes">
-            <lengthvariant>Zaloguj prezenty</lengthvariant>
-            <lengthvariant>Logowanie prezentów</lengthvariant>
-        </translation>
+        <translation>Logowanie prezentów</translation>
     </message>
     <message>
         <source>UC_Feature_More</source>
-        <translation variants="yes">
-            <lengthvariant>Więcej_funkcji_UC</lengthvariant>
-            <lengthvariant>UC_Więcej_funkcji</lengthvariant>
-        </translation>
+        <translation>Więcej_funkcji_UC</translation>
     </message>
 </context>
 <context>
@@ -1063,17 +938,11 @@ This may because:
     </message>
     <message>
         <source>Parent folder has been deleted</source>
-        <translation variants="yes">
-            <lengthvariant>Folder nadrzędny został usunięty</lengthvariant>
-            <lengthvariant>Folder główny został usunięty</lengthvariant>
-        </translation>
+        <translation>Folder nadrzędny został usunięty</translation>
     </message>
     <message>
         <source>Folder cannot be created in the current location</source>
-        <translation variants="yes">
-            <lengthvariant>Folder nie może zostać utworzony w bieżącej lokalizacji</lengthvariant>
-            <lengthvariant>Folder nie może być utworzony w bieżącej lokalizacji</lengthvariant>
-        </translation>
+        <translation>Folder nie może zostać utworzony w bieżącej lokalizacji</translation>
     </message>
     <message>
         <source>A file with this name already exists</source>
@@ -1140,7 +1009,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Wyczyść wszystkie</translation>
+        <translation>Wyczyść wszystko</translation>
     </message>
     <message>
         <source>Remove From List</source>
@@ -1160,15 +1029,15 @@ rozmiar:%2
     </message>
     <message>
         <source>Delete from the List</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń z listy</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder</translation>
     </message>
     <message>
         <source>Clear Invalid File</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść nieprawidłowy plik</translation>
     </message>
 </context>
 <context>
@@ -1186,7 +1055,7 @@ rozmiar:%2
     <name>KRoamingFloatingWidget</name>
     <message>
         <source>document be deleted</source>
-        <translation>dokument zostaje usunięty</translation>
+        <translation>dokument można usunąć</translation>
     </message>
     <message>
         <source>Cacel</source>
@@ -1194,17 +1063,14 @@ rozmiar:%2
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
     <name>KRoamingGuidFilePage</name>
     <message>
         <source>All</source>
-        <translation variants="yes">
-            <lengthvariant>Wszystkie</lengthvariant>
-            <lengthvariant>Wszystko</lengthvariant>
-        </translation>
+        <translation>Wszystko</translation>
     </message>
     <message>
         <source>Star</source>
@@ -1236,7 +1102,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Wyczyść wszystkie</translation>
+        <translation>Wyczyść wszystko</translation>
     </message>
     <message>
         <source>Remove From List</source>
@@ -1252,15 +1118,15 @@ rozmiar:%2
     </message>
     <message>
         <source>Delete from the List</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń z listy</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz folder</translation>
     </message>
     <message>
         <source>Clear Invalid File</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść nieprawidłowy plik</translation>
     </message>
 </context>
 <context>
@@ -1290,11 +1156,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Operating</source>
-        <translation variants="yes">
-            <lengthvariant>Operacyjne</lengthvariant>
-            <lengthvariant>Operacyjna</lengthvariant>
-            <lengthvariant>Bieżąca operacja</lengthvariant>
-        </translation>
+        <translation>Operacyjne</translation>
     </message>
 </context>
 <context>
@@ -1305,17 +1167,11 @@ rozmiar:%2
     </message>
     <message>
         <source>On</source>
-        <translation variants="yes">
-            <lengthvariant>Otwarte</lengthvariant>
-            <lengthvariant>Włączone</lengthvariant>
-        </translation>
+        <translation>Włączone</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation variants="yes">
-            <lengthvariant>Zamknięte</lengthvariant>
-            <lengthvariant>Wyłączone</lengthvariant>
-        </translation>
+        <translation>Wyłączone</translation>
     </message>
     <message>
         <source>More roaming documents</source>
@@ -1368,29 +1224,23 @@ rozmiar:%2
     </message>
     <message>
         <source>Do not prompt again</source>
-        <translation variants="yes">
-            <lengthvariant>Nie pytaj ponownie</lengthvariant>
-            <lengthvariant>Nie monituj ponownie</lengthvariant>
-        </translation>
+        <translation>Nie monituj ponownie</translation>
     </message>
     <message>
         <source>View my Share Link</source>
-        <translation>Wyświetl moje Udostępnione łącze</translation>
+        <translation>Wyświetl moje Udostępniane łącze</translation>
     </message>
 </context>
 <context>
     <name>KTooltipBase</name>
     <message>
         <source>UpdateNewVersionView</source>
-        <translation variants="yes">
-            <lengthvariant>Aktualizuj nową wersję widoku</lengthvariant>
-            <lengthvariant>Aktualizacja nowej wersji widoku</lengthvariant>
-        </translation>
+        <translation>Aktualizuj nową wersję widoku</translation>
     </message>
     <message>
         <source>textLabel</source>
         <translation variants="yes">
-            <lengthvariant>Etykieta tekstu</lengthvariant>
+            <lengthvariant>Etykieta tekstowa</lengthvariant>
             <lengthvariant>textLabel</lengthvariant>
         </translation>
     </message>
@@ -1404,14 +1254,14 @@ rozmiar:%2
     <message>
         <source>button1Label</source>
         <translation variants="yes">
-            <lengthvariant>Przycisk etykieta 1</lengthvariant>
+            <lengthvariant>Przycisk1 etykieta</lengthvariant>
             <lengthvariant>button1Label</lengthvariant>
         </translation>
     </message>
     <message>
         <source>button2Label</source>
         <translation variants="yes">
-            <lengthvariant>Przycisk etykieta 2</lengthvariant>
+            <lengthvariant>Przycisk2 etykieta</lengthvariant>
             <lengthvariant>button2Label</lengthvariant>
         </translation>
     </message>
@@ -1428,7 +1278,7 @@ rozmiar:%2
     </message>
     <message>
         <source>You have enabled File Roaming:</source>
-        <translation type="unfinished"></translation>
+        <translation>Masz włączony Roaming pliku:</translation>
     </message>
 </context>
 <context>
@@ -1436,10 +1286,7 @@ rozmiar:%2
     <message>
         <source>Upgrade Hint</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation variants="yes">
-            <lengthvariant>Uaktualnij wskazówkę</lengthvariant>
-            <lengthvariant>Uaktualnienie wskazówki</lengthvariant>
-        </translation>
+        <translation>Uaktualnienie wskazówki</translation>
     </message>
     <message>
         <source>&quot;%1&quot; contains macros.</source>
@@ -1473,7 +1320,7 @@ rozmiar:%2
     </message>
     <message>
         <source>If you want to use macros, please upgrade to professional or commercial version</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeżeli chcesz użyć makr, uaktualnij do wersji Professional lub Komercyjnej</translation>
     </message>
 </context>
 <context>
@@ -1521,7 +1368,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisywanie dokumentów do usługi Cloud nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</translation>
     </message>
 </context>
 <context>
@@ -1535,7 +1382,7 @@ rozmiar:%2
     <name>KxDlgCheckUpload</name>
     <message>
         <source>retry</source>
-        <translation>ponów</translation>
+        <translation>Ponów</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -1595,7 +1442,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Enter a new name(&amp;I):</source>
-        <translation>Wprowadź nową nazwę(&amp;I):</translation>
+        <translation>Wprowadź nową nazwę (&amp;I):</translation>
     </message>
     <message>
         <source>Creating a new folder. Please wait...</source>
@@ -1614,10 +1461,7 @@ rozmiar:%2
     </message>
     <message>
         <source>Syncing, please wait…</source>
-        <translation variants="yes">
-            <lengthvariant>Synchronizowanie, proszę czekać...</lengthvariant>
-            <lengthvariant>Synchronizacja, proszę czekać...</lengthvariant>
-        </translation>
+        <translation>Synchronizowanie, proszę czekać...</translation>
     </message>
 </context>
 <context>
@@ -1832,10 +1676,7 @@ rozmiar:%2
     <message>
         <source>Save backup file to File Safe.</source>
         <comment>saveToKLive checkbox tab in filedialog</comment>
-        <translation variants="yes">
-            <lengthvariant>Zapisz plik kopii zapasowej do pliku trybu awaryjnego.</lengthvariant>
-            <lengthvariant>Zapisz plik kopii zapasowej do File Safe.</lengthvariant>
-        </translation>
+        <translation>Zapisz plik kopii zapasowej do Pliku bezpieczeństwa.</translation>
     </message>
     <message>
         <source>Drive</source>
@@ -1848,7 +1689,7 @@ rozmiar:%2
     <message>
         <source>File Folder</source>
         <comment>Match Windows Explorer</comment>
-        <translation>Folder pliku</translation>
+        <translation>Folder plików</translation>
     </message>
     <message>
         <source>Shortcut</source>
@@ -1972,10 +1813,7 @@ rozmiar:%2
     <name>KxLiveStateUpdateCache</name>
     <message>
         <source>You can view or send collaborative information.</source>
-        <translation variants="yes">
-            <lengthvariant>Możesz wyświetlić lub wysłać informacje współpracy.</lengthvariant>
-            <lengthvariant>Możesz wyświetlić lub wysłać informacje o współpracy.</lengthvariant>
-        </translation>
+        <translation>Możesz wyświetlić lub wysłać informacje współpracy.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1995,28 +1833,15 @@ rozmiar:%2
     </message>
     <message>
         <source>You have been offline for a long time, in order to update your business authorization, please login to your account.</source>
-        <translation variants="yes">
-            <lengthvariant>Byłeś nieaktywny przez długi czas, w celu aktualizacji autoryzacji biznesowej, proszę zaloguj się do swojego konta.</lengthvariant>
-            <lengthvariant>Byłeś nieaktywny przez długi czas, w celu aktualizacji autoryzacji biznes, proszę zaloguj się do swojego konta.</lengthvariant>
-            <lengthvariant>Byłeś nieaktywny przez długi czas, w celu aktualizacji autoryzacji firmy, proszę zaloguj się do swojego konta.</lengthvariant>
-            <lengthvariant>Byłeś nieaktywny przez długi czas, w celu aktualizacji autoryzacji działalności, proszę zaloguj się do swojego konta.</lengthvariant>
-        </translation>
+        <translation>Byłeś nieaktywny przez długi czas, w celu aktualizacji autoryzacji biznesowej, proszę zaloguj się do swojego konta.</translation>
     </message>
     <message>
         <source>The number of equipments you are authorizing has reached its limit and the current equipment no longer gets a business authorization. You can offline other equipments in order to make the current equipment authorized.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba urządzeń, które mają autoryzację osiągnęła limit i bieżący sprzęt nie otrzyma już autoryzacji biznesowej. Możesz odłączyć kolejno inny sprzęt, aby umożliwić autoryzację bieżącemu sprzętowi.</lengthvariant>
-            <lengthvariant>Liczba urządzeń, które mają autoryzację osiągnęła limit i bieżący sprzęt nie otrzyma już autoryzacji biznes. Możesz odłączyć kolejno inny sprzęt, aby umożliwić autoryzację bieżącemu sprzętowi.</lengthvariant>
-            <lengthvariant>Liczba urządzeń, które mają autoryzację osiągnęła limit i bieżący sprzęt nie otrzyma już autoryzacji firmy. Możesz odłączyć kolejno inny sprzęt, aby umożliwić autoryzację bieżącemu sprzętowi.</lengthvariant>
-            <lengthvariant>Liczba urządzeń, które mają autoryzację osiągnęła limit i bieżący sprzęt nie otrzyma już autoryzacji działalności. Możesz odłączyć kolejno inny sprzęt, aby umożliwić autoryzację bieżącemu sprzętowi.</lengthvariant>
-        </translation>
+        <translation>Liczba urządzeń, które mają autoryzację osiągnęła limit i bieżący sprzęt nie otrzyma już autoryzacji biznesowej. Możesz odłączyć kolejno inny sprzęt, aby umożliwić autoryzację bieżącemu sprzętowi.</translation>
     </message>
     <message>
         <source>Equipment Management</source>
-        <translation variants="yes">
-            <lengthvariant>Zarządzanie sprzętem</lengthvariant>
-            <lengthvariant>Zarządzanie wyposażeniem</lengthvariant>
-        </translation>
+        <translation>Zarządzanie sprzętem</translation>
     </message>
     <message>
         <source>Click Icon</source>
@@ -2028,7 +1853,7 @@ rozmiar:%2
     </message>
     <message>
         <source>If you have purchased subscription, please sign in to use WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeżeli zakupiłeś subskrypcję, proszę zaloguj się, aby korzystać z WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -2067,10 +1892,7 @@ rozmiar:%2
     </message>
     <message>
         <source>The file path cannot be longer than 255 characters.</source>
-        <translation variants="yes">
-            <lengthvariant>Ścieżka pliku nie może mieć więcej niż 255 znaków długości.</lengthvariant>
-            <lengthvariant>Ścieżka nie może być dłuższa niż 255 znaków.</lengthvariant>
-        </translation>
+        <translation>Ścieżka nie może być dłuższa niż 255 znaków.</translation>
     </message>
     <message>
         <source>The same file or folder already exists!</source>
@@ -2395,10 +2217,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <name>KxTpCloudLinkWidget</name>
     <message>
         <source>Transmitting share link failed. Please check the network or operation authorization.</source>
-        <translation variants="yes">
-            <lengthvariant>Transmitowanie udostępniania łącza nie powiodło się. Proszę sprawdź sieć lub autoryzację operacji.</lengthvariant>
-            <lengthvariant>Transmitowanie udostępniania linku nie powiodło się. Proszę sprawdź sieć lub autoryzację operacji.</lengthvariant>
-        </translation>
+        <translation>Transmitowanie udostępniania łącza nie powiodło się. Proszę sprawdź sieć lub autoryzację operacji.</translation>
     </message>
 </context>
 <context>
@@ -2449,7 +2268,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Your subscription does not include VBA so that macros in the document cannot work properly. Please purchase separately to enable macro if you need.</source>
-        <translation>Twoja subskrypcja nie obejmuje VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić oddzielnie, aby włączyć makro, jeżeli potrzebujesz.</translation>
+        <translation>Twoja subskrypcja nie zawiera VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić osobno, aby włączyć makro w razie potrzeby.</translation>
     </message>
 </context>
 <context>
@@ -2564,7 +2383,8 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <message>
         <source>If you have purchased subscription, 
 please sign in to use WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeżeli zakupiłeś subskrypcję, 
+proszę zaloguj się, aby korzystać z WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -2601,11 +2421,11 @@ please sign in to use WPS Office.</source>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation type="unfinished">Wzorzec do odzyskiwania danych WPS</translation>
+        <translation>Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
         <source>Help you resume lost files due to disk corruption or accidental delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomaga przywrócić utracone pliki z powodu uszkodzenia dysku lub przypadkowego usunięcia</translation>
     </message>
 </context>
 </TS>

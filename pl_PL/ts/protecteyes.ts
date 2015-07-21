@@ -6,12 +6,13 @@
     <name>BubbleWidget</name>
     <message>
         <source>Never show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nigdy nie pokazuj ponownie</translation>
     </message>
     <message>
         <source>You can also click here to switch to 
 Eye Protection Mode or Night Mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Możesz również kliknąć tutaj, aby przełączyć się do 
+Trybu ochrony oczu lub Trybu nocnego.</translation>
     </message>
 </context>
 </TS>

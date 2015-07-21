@@ -6,10 +6,7 @@
     <name>KHomepage</name>
     <message>
         <source>Failed in downloading &quot;%1&quot;.</source>
-        <translation variants="yes">
-            <lengthvariant>Pobieranie &quot;%1&quot; nie powiodło się.</lengthvariant>
-            <lengthvariant>Nie udało się pobrać &quot;% 1&quot;.</lengthvariant>
-        </translation>
+        <translation>Pobieranie &quot;%1&quot; nie powiodło się.</translation>
     </message>
 </context>
 <context>
@@ -24,17 +21,11 @@
     </message>
     <message>
         <source>This is the latest version.</source>
-        <translation variants="yes">
-            <lengthvariant>To jest najnowsza wersja.</lengthvariant>
-            <lengthvariant>Jest to najnowsza wersja.</lengthvariant>
-        </translation>
+        <translation>To jest najnowsza wersja.</translation>
     </message>
     <message>
         <source>Version is too old.</source>
-        <translation variants="yes">
-            <lengthvariant>Wersja jest zbyt stara.</lengthvariant>
-            <lengthvariant>Wersja jest przestarzała.</lengthvariant>
-        </translation>
+        <translation>Wersja jest zbyt stara.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
@@ -42,10 +33,7 @@
     </message>
     <message>
         <source>Restart to use newer version.</source>
-        <translation variants="yes">
-            <lengthvariant>Uruchom ponownie, aby użyć nowszej wersji.</lengthvariant>
-            <lengthvariant>Uruchom ponownie, aby korzystać z nowszej wersji.</lengthvariant>
-        </translation>
+        <translation>Uruchom ponownie, aby użyć nowszej wersji.</translation>
     </message>
     <message>
         <source>Online Templates</source>

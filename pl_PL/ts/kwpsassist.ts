@@ -6,46 +6,46 @@
     <name>KMoreExtendGalleryTile</name>
     <message>
         <source>Browse others</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeglądaj inne</translation>
     </message>
     <message>
         <source>More templates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej szablonów...</translation>
     </message>
     <message>
         <source>Standard screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardowy ekran</translation>
     </message>
     <message>
         <source>Wide screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Szeroki ekran</translation>
     </message>
 </context>
 <context>
     <name>KSlideLibraryLogic</name>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"></translation>
+        <translation>Okładka</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykaz</translation>
     </message>
     <message>
         <source>Body</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst podstawowy</translation>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Przejście</translation>
     </message>
     <message>
         <source>Ending</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakończenie</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej</translation>
     </message>
 </context>
 <context>
@@ -56,7 +56,7 @@
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstecz</translation>
     </message>
 </context>
 <context>
@@ -71,11 +71,11 @@
     </message>
     <message>
         <source>Blank document</source>
-        <translation type="unfinished"></translation>
+        <translation>Pusty dokument</translation>
     </message>
     <message>
         <source>From template</source>
-        <translation type="unfinished"></translation>
+        <translation>Z szablonu</translation>
     </message>
 </context>
 <context>
@@ -105,56 +105,56 @@
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardowy</translation>
     </message>
     <message>
         <source>Wide screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Szeroki ekran</translation>
     </message>
     <message>
         <source>Classification</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasyfikacja</translation>
     </message>
 </context>
 <context>
     <name>KTemplateDownloadFinishTip</name>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj</translation>
     </message>
     <message>
         <source>Template download succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie szablonu powiodło się</translation>
     </message>
     <message>
         <source>Template download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie szablonu nie powiodło się</translation>
     </message>
 </context>
 <context>
     <name>KTemplateExtendGallery</name>
     <message>
         <source>Recently Used</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio używane</translation>
     </message>
     <message>
         <source>More templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej szablonów</translation>
     </message>
 </context>
 <context>
     <name>KWppTemplateItem</name>
     <message>
         <source>Load failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ładowanie nie powiodło się.</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zastosuj do wszystkich slajdów</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj do wy&amp;branych slajdów</translation>
     </message>
 </context>
 <context>
@@ -165,56 +165,57 @@
     </message>
     <message>
         <source>Quick Slide Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Szybki projekt slajdu</translation>
     </message>
 </context>
 <context>
     <name>KxInsertPicturesToMultiSlide</name>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw obraz do wielu slajdów</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niezidentyfikowany format obrazu.</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Obraz, który wstawiłeś jest zbyt duży. Proszę skompresuj go, aby zaoszczędzić miejsce na dysku.
+Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz kompresować go(je)?</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie obrazy (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
         <comment>DgUil_EnhancedMetaFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rozszerzony Metaplik Windows (*.emf)|*.emf</translation>
     </message>
     <message>
         <source>Windows Metafile(*.wmf)|*.wmf</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaplik Windows (*.wmf)|*.wmf</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
-        <translation type="unfinished"></translation>
+        <translation>Format wymiany plików JPEG (*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
     </message>
     <message>
         <source>Portable Network Graphics(*.png)|*.png</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenośna grafika sieciowa PNG (*.png)|*.png</translation>
     </message>
     <message>
         <source>Windows Bitmap(*.bmp)|*.bmp</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa bitowa Windows (*.bmp)|*.bmp</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
-        <translation type="unfinished"></translation>
+        <translation>Format wymiany grafiki GIF (*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
-        <translation type="unfinished"></translation>
+        <translation>Znacznikowy format pliku obrazu TIF (*.tif;*.tiff)|*.tif;*.tiff</translation>
     </message>
 </context>
 </TS>

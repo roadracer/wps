@@ -67,19 +67,12 @@
     <message>
         <source>Press Alt
 to Adsorb Line</source>
-        <translation variants="yes">
-            <lengthvariant>Naciśnij klawisz Alt,
-aby adsorbować linię</lengthvariant>
-            <lengthvariant>Naciśnij klawisz Alt,
-aby pobrać linię</lengthvariant>
-        </translation>
+        <translation>Naciśnij klawisz Alt,
+aby adsorbować linię</translation>
     </message>
     <message>
         <source>Capture%1</source>
-        <translation variants="yes">
-            <lengthvariant>Przechwytywanie %1</lengthvariant>
-            <lengthvariant>Zrzut ekranu z %1</lengthvariant>
-        </translation>
+        <translation>Przechwytywanie %1</translation>
     </message>
     <message>
         <source>Save As</source>
